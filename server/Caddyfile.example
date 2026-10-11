@@ -1,6 +1,8 @@
-# The catalogue API behind Caddy, which obtains its HTTPS certificate, compresses responses and tells
-# the API each client's address. Copy to /etc/caddy/Caddyfile on the API host and set the domain; the
-# site is then built with PUBLIC_API_URL=https://api.bibliotheca-marxista.org/api.
+# The whole site on one host behind Caddy: the static pages from dist/, and the catalogue API for the
+# paths it serves (the API itself, each title's page, and the titles' sitemaps), so that titles'
+# pages are on the site's own address for search engines. Caddy obtains the HTTPS certificate and
+# compresses responses. Copy to /etc/caddy/Caddyfile, set the domain, and upload dist/ to
+# /srv/bibliotheca/dist (see README, "Deploying").
 {
 	servers {
 		# Only if Cloudflare is in front of this host: trust its addresses, so that {client_ip} is the
@@ -11,11 +13,39 @@
 	}
 }
 
-api.bibliotheca-marxista.org {
+bibliotheca-marxista.org {
 	encode zstd gzip
-	reverse_proxy localhost:8787 {
-		# The API limits requests by this address (TRUST_PROXY=1). Caddy sets it, replacing any value a
-		# client sends, so it cannot be forged.
-		header_up X-Real-IP {client_ip}
+
+	@api path /api/* /book/* /sitemap-books-*
+	handle @api {
+		reverse_proxy localhost:8787 {
+			# The API limits requests by this address (TRUST_PROXY=1). Caddy sets it, replacing any
+			# value a client sends, so it cannot be forged.
+			header_up X-Real-IP {client_ip}
+		}
 	}
+
+	handle {
+		root * /srv/bibliotheca/dist
+		# The site's security headers, written by the build (scripts/write-headers.mjs).
+		import /srv/bibliotheca/dist/headers.caddy
+		file_server
+	}
+
+	# The API not answering (down or restarting): a page saying so, rather than "not found".
+	handle_errors 502 503 504 {
+		root * /srv/bibliotheca/dist
+		rewrite * /unavailable/index.html
+		file_server
+	}
+	# A page that does not exist: the site's own 404 page (which also forwards old addresses).
+	handle_errors {
+		root * /srv/bibliotheca/dist
+		rewrite * /404.html
+		file_server
+	}
+}
+
+www.bibliotheca-marxista.org {
+	redir https://bibliotheca-marxista.org{uri} permanent
 }

@@ -16,7 +16,7 @@ const [firstYear, lastYear] = years.reduce(([lo, hi], y) => [Math.min(lo, y), Ma
 
 <Base
   centered
-  description={`An open catalogue of ${titles.length.toLocaleString('en')} books from ${publishers.length} socialist, communist and Marxist publishing houses in ${countries.size} countries, from 1838 to the present.`}
+  description={`An open catalogue of ${titles.length.toLocaleString('en')} books from ${publishers.length} socialist, communist and Marxist publishing houses in ${countries.size} countries, from ${firstYear} to the present.`}
   jsonLd={{ '@type': 'WebSite', name: 'Bibliotheca Marxista', url: new URL('/', Astro.site).href, description: 'An open repository of the backlists of Leftist and Marxist publishing houses.', inLanguage: 'en' }}
 >
   <p class="eyebrow">An open bibliographic archive</p>

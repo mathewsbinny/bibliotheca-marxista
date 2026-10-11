@@ -12,7 +12,7 @@ before(async () => {
   fixture = makeFixture();
   const port = 18_000 + Math.floor(Math.random() * 2000);
   server = spawn(process.execPath, [join(ROOT, 'server', 'server.mjs')], {
-    env: { ...process.env, PORT: String(port), CATALOGUE_DB: fixture.dbFile, SITE_ORIGIN: ORIGIN, TRUST_PROXY: '1', EXPORT_HOURLY_LIMIT: '1' },
+    env: { ...process.env, PORT: String(port), CATALOGUE_DB: fixture.dbFile, SITE_ORIGIN: ORIGIN, SITE_URL: ORIGIN, TRUST_PROXY: '1', EXPORT_HOURLY_LIMIT: '1' },
     stdio: ['ignore', 'pipe', 'pipe'],
   });
   await new Promise((resolve, reject) => {
@@ -81,7 +81,7 @@ describe('GET /api/export', () => {
     assert.equal(body.titles.length, 2);
     const wage = body.titles.find((t) => t.id === 'wage-labour-1933');
     assert.deepEqual([wage.authors, wage.author_ids, wage.publisherId], [['Karl Marx'], ['marx'], 'international-publishers']);
-    assert.equal(wage.url, `${ORIGIN}/title/?p=international-publishers&t=wage-labour-1933`);
+    assert.equal(wage.url, `${ORIGIN}/book/international-publishers/wage-labour-1933`);
     assert.equal(wage.copyright, undefined, 'copyright notes are for the site only');
     assert.deepEqual(body.authors.map((a) => a.id), ['marx']);
     assert.match(body.license.data, /ODbL/, 'the file carries its licence');
@@ -104,6 +104,41 @@ describe('GET /api/export', () => {
     const res = await get('/api/export', { headers: { 'x-real-ip': '198.51.100.1' } });
     assert.equal(res.status, 429);
     assert.equal((await get('/api/export?pub=progress', { headers: { 'x-real-ip': '198.51.100.3' } })).status, 200, "one house's backlist is not capped");
+  });
+});
+
+describe("titles' pages for search engines", () => {
+  const headers = { 'x-real-ip': '198.51.100.20' };
+
+  test('a title is a full page, described and filed for search engines', async () => {
+    const res = await get('/book/progress/capital-1965', { headers });
+    assert.equal(res.status, 200);
+    assert.match(res.headers.get('content-type'), /text\/html/);
+    assert.match(res.headers.get('content-security-policy'), /default-src 'self'/, "the site's policy, not the API's");
+    const page = await res.text();
+    assert.match(page, /<title>Capital · Bibliotheca Marxista<\/title>/);
+    assert.match(page, /<h1>Capital<\/h1>/);
+    assert.match(page, /<link rel="canonical" href="https:\/\/site\.example\/book\/progress\/capital-1965">/);
+    assert.match(page, /<meta name="description" content="Capital by Karl Marx\. Moscow: Progress Publishers, 1965\. English\.">/);
+    assert.doesNotMatch(page, /noindex/);
+    const data = JSON.parse(/<script type="application\/ld\+json">(.*?)<\/script>/.exec(page)[1]);
+    assert.deepEqual([data['@type'], data.name, data.author[0].name, data.publisher.name, data.datePublished], ['Book', 'Capital', 'Karl Marx', 'Progress Publishers', '1965']);
+    assert.match(page, /<footer>footer<\/footer>/, "the site's frame is kept");
+  });
+
+  test('a title that is not there is a 404 page, kept out of search engines', async () => {
+    const res = await get('/book/progress/no-such-title', { headers });
+    assert.equal(res.status, 404);
+    const page = await res.text();
+    assert.match(page, /could not be found/);
+    assert.match(page, /noindex/);
+  });
+
+  test('the sitemaps list every title on the site\'s address', async () => {
+    const xml = await (await get('/sitemap-books-1.xml', { headers })).text();
+    assert.equal((xml.match(/<loc>/g) ?? []).length, 5);
+    assert.match(xml, /<loc>https:\/\/site\.example\/book\/international-publishers\/wage-labour-1933<\/loc>/);
+    assert.equal((await get('/sitemap-books-2.xml', { headers })).status, 404);
   });
 });
 

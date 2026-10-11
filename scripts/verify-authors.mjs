@@ -20,6 +20,9 @@ import {
 
 const AUTHORS = join(ROOT, 'data', 'authors');
 const WRITE = process.argv.includes('--write');
+// Only these authors (--only=eric-hobsbawm,mike-davis): checking every author takes the better
+// part of two days at Open Library's pace.
+const ONLY = process.argv.find((a) => a.startsWith('--only='))?.slice('--only='.length).split(',').filter(Boolean);
 
 /** Distinctive words of a publisher name, e.g. "D. Appleton and Company" → ["appleton"]. */
 const STOP = new Set(['and', 'the', 'company', 'press', 'publishers', 'publishing', 'books', 'house', 'ltd', 'inc', 'sons', 'limited', 'verlag', 'der', 'des', 'von', 'und']);
@@ -42,7 +45,8 @@ const report = [];
 let verified = 0;
 let total = 0;
 
-for (const file of readdirSync(AUTHORS).filter((f) => /\.ya?ml$/.test(f)).map((f) => join(AUTHORS, f))) {
+const chosen = (f) => !ONLY || ONLY.includes(f.replace(/\.ya?ml$/, ''));
+for (const file of readdirSync(AUTHORS).filter((f) => /\.ya?ml$/.test(f) && chosen(f)).map((f) => join(AUTHORS, f))) {
   const author = yaml.load(readFileSync(file, 'utf8'));
   const surnames = [...new Set([author.name, ...(author.alternate_names ?? [])].map(surname).filter((s) => /^[a-z]+$/.test(s)))];
   const patches = [];

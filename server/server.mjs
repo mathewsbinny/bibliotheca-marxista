@@ -20,6 +20,7 @@ import { createServer } from 'node:http';
 import { join } from 'node:path';
 import { createGzip } from 'node:zlib';
 import Database from 'better-sqlite3';
+import { escapeHtml, renderBook } from './book.mjs';
 import { BadRequest, parseTitleParams, titleQuery, toRow } from './query.mjs';
 
 const ROOT = join(new URL('..', import.meta.url).pathname.replace(/^\/(\w:)/, '$1'));
@@ -107,7 +108,7 @@ function titles(params, res) {
 function title(params, res) {
   const p = params.get('p') ?? '', t = params.get('t') ?? '';
   if (!/^[a-z0-9-]{1,120}$/.test(p) || !/^[\p{L}\p{N}-]{1,200}$/u.test(t)) throw new BadRequest('invalid title');
-  const href = `/title/?p=${encodeURIComponent(p)}&t=${encodeURIComponent(t)}`;
+  const href = `/book/${encodeURIComponent(p)}/${encodeURIComponent(t)}`;
   const row = prepare('SELECT record FROM titles WHERE href = ?').get(href);
   if (!row) return json(res, 404, { error: 'not found' });
   const publisher = prepare('SELECT id, name, place FROM publishers WHERE id = ?').get(p);
@@ -139,7 +140,7 @@ async function exportCatalogue(params, req, res, origin) {
   if (!pub) {
     const hourAgo = Date.now() - 3_600_000;
     while (fullExports.length && fullExports[0] < hourAgo) fullExports.shift();
-    if (fullExports.length >= EXPORT_HOURLY_LIMIT) return json(res, 429, { error: 'the whole catalogue has been downloaded often this hour; try again later' });
+    if (fullExports.length >= EXPORT_HOURLY_LIMIT) return json(res, 429, { error: 'the whole catalogue has been downloaded many times this hour; please try again later' });
     fullExports.push(Date.now());
   }
   exporting++;
@@ -184,6 +185,43 @@ async function exportCatalogue(params, req, res, origin) {
   }
 }
 
+/** The site's address, for canonical links and sitemaps: SITE_URL, else the first allowed origin, else the request's host. */
+const siteUrl = (req) => (process.env.SITE_URL || [...ORIGINS][0] || `${req.headers['x-forwarded-proto'] ?? 'http'}://${req.headers.host}`).replace(/\/$/, '');
+/** Pages are the site's own: the site's Content Security Policy, not the API's deny-all one. */
+const PAGE_CSP = "default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; media-src 'self'; font-src 'self'; "
+  + "connect-src 'self'; form-action 'self'; object-src 'none'; base-uri 'self'; frame-ancestors 'none'";
+const html = (res, status, body) => {
+  res.writeHead(status, { 'Content-Type': 'text/html; charset=utf-8', 'Content-Security-Policy': PAGE_CSP,
+    'Cache-Control': status === 200 ? 'public, max-age=86400' : 'no-store' });
+  res.end(body);
+};
+
+/** A title's page (/book/<publisher>/<title>): the site's title page with the record written in. */
+function bookPage(p, t, req, res) {
+  const template = cached('book-template', () => prepare("SELECT value FROM meta WHERE key = 'book-template'").pluck().get());
+  if (!template) return json(res, 503, { error: 'the catalogue has no title page template; rebuild it' });
+  const valid = /^[a-z0-9-]{1,120}$/.test(p) && /^[\p{L}\p{N}-]{1,200}$/u.test(t);
+  const path = `/book/${encodeURIComponent(p)}/${encodeURIComponent(t)}`;
+  const row = valid && prepare('SELECT record FROM titles WHERE href = ?').get(path);
+  // Not found: the template as it is (kept out of search engines), whose script says so.
+  if (!row) return html(res, 404, template.replace(/(<div class="title-record[^"]*"[^>]*>)[\s\S]*?<\/div>/,
+    (_, open) => `${open.replace(/>$/, " data-rendered>")}<p class="meta">This title could not be found. It may have been merged with another record; try <a href="/titles">searching all titles</a>.</p></div>`));
+  const publisher = prepare('SELECT id, name, place FROM publishers WHERE id = ?').get(p);
+  html(res, 200, cached(`book:${path}`, () => renderBook(template, JSON.parse(row.record), p, publisher, siteUrl(req), path)));
+}
+
+/** One of the sitemaps of titles' pages, 50,000 to a file as sitemaps allow (listed in /sitemap.xml). */
+const SITEMAP_SIZE = 50_000;
+function bookSitemap(n, req, res) {
+  const hrefs = n >= 1 ? prepare('SELECT href FROM titles ORDER BY rowid LIMIT ? OFFSET ?').pluck().all(SITEMAP_SIZE, (n - 1) * SITEMAP_SIZE) : [];
+  if (!hrefs.length) return json(res, 404, { error: 'not found' });
+  const site = siteUrl(req);
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`
+    + hrefs.map((h) => `<url><loc>${escapeHtml(site + h)}</loc></url>`).join('\n') + '\n</urlset>\n';
+  res.writeHead(200, { 'Content-Type': 'application/xml; charset=utf-8', 'Cache-Control': 'public, max-age=86400' });
+  res.end(xml);
+}
+
 const server = createServer(async (req, res) => {
   const url = new URL(req.url ?? '/', 'http://localhost');
   const origin = req.headers.origin;
@@ -213,8 +251,16 @@ const server = createServer(async (req, res) => {
       case '/api/export':
         if (!allow(ip, 30)) return json(res, 429, { error: 'too many requests' });
         return await exportCatalogue(url.searchParams, req, res, origin && ORIGINS.has(origin) ? origin : '');
-      default:
+      default: {
+        const book = /^\/book\/([^/]+)\/([^/]+)\/?$/.exec(url.pathname);
+        if (book) {
+          if (!allow(ip)) return json(res, 429, { error: 'too many requests' });
+          return bookPage(decodeURIComponent(book[1]), decodeURIComponent(book[2]), req, res);
+        }
+        const sitemap = /^\/sitemap-books-(\d{1,4})\.xml$/.exec(url.pathname);
+        if (sitemap) return bookSitemap(Number(sitemap[1]), req, res);
         return json(res, 404, { error: 'not found' });
+      }
     }
   } catch (e) {
     if (e instanceof BadRequest) return json(res, 400, { error: e.message });

@@ -80,7 +80,7 @@ describe('title queries', () => {
   test('build rows as the site draws them', () => {
     const q = titleQuery(parseTitleParams(new URLSearchParams('q=state')));
     const row = toRow(db.prepare(q.rows.sql).get(...q.rows.args));
-    assert.deepEqual(row, ['/title/?p=progress&t=state-and-revolution-1970', 'The State and Revolution', '', '', 'V. I. Lenin', '1970', 1970,
+    assert.deepEqual(row, ['/book/progress/state-and-revolution-1970', 'The State and Revolution', '', '', 'V. I. Lenin', '1970', 1970,
       'English', 1, 'progress', '', [['V. I. Lenin', 'lenin']]]);
   });
 });

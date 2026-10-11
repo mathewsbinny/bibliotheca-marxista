@@ -25,6 +25,10 @@ const separator = (i: number, n: number) => (i === 0 ? '' : i === n - 1 ? ' & ' 
     country (as on the globe) or publisher, and sort by title, author, publisher or year. The data can also be downloaded as <a href="/about#download">JSON</a>.
   </p>
 
+  <noscript>
+    <p class="meta">Searching and filtering need JavaScript. Every house's titles can still be browsed from its page under <a href="/publishers">Publishers</a>.</p>
+  </noscript>
+
   <div class="title-search" data-publishers={JSON.stringify(Object.fromEntries(publishers.map((p) => [p.id, p.name])))}>
     <CatalogueFilters languages={languagesOf(titles)} countries={countries} publishers={publishers} total={titles.length} />
     <div class="table-wrap">
@@ -165,7 +169,7 @@ const separator = (i: number, n: number) => (i === 0 ? '' : i === n - 1 ? ' & ' 
   }
 
   const searchFailed = () => {
-    status.textContent = 'The search could not be completed. Please try again.';
+    status.textContent = 'The search could not be completed: the catalogue did not answer. Check your connection, or try again in a moment.';
     more.disabled = false;
   };
   let timer: number | undefined;

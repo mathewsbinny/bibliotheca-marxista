@@ -23,8 +23,10 @@ export const PUBLISHERS = {
     record('undated', 'An Undated Pamphlet'),
   ] },
 };
-export const AUTHOR_TITLES = { marx: ['/title/?p=progress&t=capital-1965', '/title/?p=international-publishers&t=wage-labour-1933'] };
+export const AUTHOR_TITLES = { marx: ['/book/progress/capital-1965', '/book/international-publishers/wage-labour-1933'] };
 export const AUTHORS = [{ id: 'marx', name: 'Karl Marx' }, { id: 'lenin', name: 'V. I. Lenin' }];
+
+export const TEMPLATE = `<!doctype html><html lang="en"><head><meta name="description" content="A catalogued title."><meta name="robots" content="noindex, follow"><link rel="canonical" href="https://example.org/title/"><meta property="og:type" content="website"><meta property="og:title" content="Title"><meta property="og:description" content="A catalogued title."><meta property="og:url" content="https://example.org/title/"><meta name="twitter:title" content="Title"><meta name="twitter:description" content="A catalogued title."><title>Title · Bibliotheca Marxista</title></head><body><main><div class="title-record" data-astro-cid-x><p class="meta" data-status>Loading…</p></div></main><footer>footer</footer></body></html>`;
 
 /** A temporary folder with exports (dist/) and a database built from them; `export` rewrites the exports. */
 export function makeFixture() {
@@ -42,6 +44,9 @@ export function makeFixture() {
     }
     writeFileSync(join(dist, 'data', 'db', 'author-titles.json'), JSON.stringify(authorTitles));
     writeFileSync(join(dist, 'data', 'db', 'authors.json'), JSON.stringify(AUTHORS));
+    // The site's title page, which the API fills in for each title (as dist/title/index.html).
+    mkdirSync(join(dist, 'title'), { recursive: true });
+    writeFileSync(join(dist, 'title', 'index.html'), TEMPLATE);
   };
   const build = () =>
     execFileSync(process.execPath, [join(ROOT, 'scripts', 'build-db.mjs'), '--keep'], {

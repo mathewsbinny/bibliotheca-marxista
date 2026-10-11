@@ -54,4 +54,17 @@ writeFileSync(join(DIST, '_headers'), `/*
 /_astro/*
   Cache-Control: public, max-age=31536000, immutable
 `);
-console.log(`Security headers written to dist/_headers${api ? ` (API at ${api})` : ''}`);
+// The same headers for Caddy, when it serves the site itself (server/Caddyfile.example imports this).
+writeFileSync(join(DIST, 'headers.caddy'), `header {
+	Content-Security-Policy "${csp}"
+	X-Content-Type-Options nosniff
+	X-Frame-Options DENY
+	Referrer-Policy strict-origin-when-cross-origin
+	Permissions-Policy "camera=(), microphone=(), geolocation=(), payment=(), usb=()"
+	Cross-Origin-Opener-Policy same-origin
+	Strict-Transport-Security "max-age=31536000; includeSubDomains"
+}
+@hashed path /_astro/*
+header @hashed Cache-Control "public, max-age=31536000, immutable"
+`);
+console.log(`Security headers written to dist/_headers and dist/headers.caddy${api ? ` (API at ${api})` : ''}`);

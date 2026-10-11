@@ -27,9 +27,10 @@ const sortedPublishers = [...publishers].sort((a, b) => a.data.name.localeCompar
 
   <h2>What counts</h2>
   <p>
-    Any publishing house, press, imprint or book club whose list was substantially socialist,
-    communist, anarchist, anti-colonial or otherwise of the Left — defunct or still active, from
-    any country and in any language. The globe on the home page places each press by country and
+    Any publishing house, press, imprint or book club whose list was substantially Marxist,
+    communist, socialist or anti-colonial — party and state presses, independent radical houses and
+    book clubs, defunct or still active, from any country and in any language. Where a house later
+    turned to a general list, only its years as a press of the Left are catalogued. The globe on the home page places each press by country and
     by its side in the Cold War; the <a href="/international">International</a> pages group presses
     by the Internationals and movements they belonged to.
   </p>
@@ -46,9 +47,10 @@ const sortedPublishers = [...publishers].sort((a, b) => a.data.name.localeCompar
   <h2>Verified and unverified records</h2>
   <p>
     A title is marked <span class="badge verified">verified</span> when it has been matched to a
-    library catalogue record — a Library of Congress or WorldCat entry, or a MARC record from a
-    research library — whose imprint names this publisher, its city and a year within the house's
-    years of operation. Every verified record links to the catalogue entries it was checked against.
+    library catalogue record — from a national or research library such as those listed below, or
+    an Open Library record copied from one — whose imprint names this publisher, its place and a
+    year within the house's years of operation. Every verified record links to the catalogue entries
+    it was checked against.
   </p>
   <p>
     Titles marked <span class="badge">unverified</span> have not yet been matched: they may come
@@ -63,12 +65,13 @@ const sortedPublishers = [...publishers].sort((a, b) => a.data.name.localeCompar
     and research library catalogues:
   </p>
   <ul>
-    <li>the <a href="https://www.loc.gov/">Library of Congress</a> and <a href="https://search.worldcat.org/">WorldCat</a>;</li>
+    <li>the <a href="https://www.loc.gov/">Library of Congress</a>;</li>
     <li>the <a href="https://www.dnb.de/">German National Library</a> and the <a href="https://catalogue.bnf.fr/">Bibliothèque nationale de France</a>;</li>
     <li><a href="https://www.sudoc.abes.fr/">SUDOC</a>, the union catalogue of French university libraries, and <a href="https://swisscovery.slsp.ch/">swisscovery</a> in Switzerland;</li>
     <li>the German union catalogues <a href="https://kxp.k10plus.de/">K10plus</a> and <a href="https://www.gateway-bayern.de/">B3Kat</a>, with the Berlin and Bavarian State Libraries' East European and Chinese collections;</li>
-    <li>Italy's <a href="https://opac.sbn.it/">SBN</a>, the <a href="https://www.bn.org.pl/">National Library of Poland</a> and Spain's <a href="https://www.bne.es/">Biblioteca Nacional</a>;</li>
+    <li>the <a href="https://www.bn.org.pl/">National Library of Poland</a> and Spain's <a href="https://www.bne.es/">Biblioteca Nacional</a>;</li>
     <li>the <a href="https://ndlsearch.ndl.go.jp/">National Diet Library</a> and <a href="https://cir.nii.ac.jp/">CiNii</a> in Japan;</li>
+    <li><a href="https://www.hathitrust.org/">HathiTrust</a>, the shared digital library of research libraries, whose records and open scans are both used;</li>
     <li>the <a href="https://archive.org/">Internet Archive</a> and <a href="https://www.bannedthought.net/">BannedThought.net</a>, whose scans are linked where a title can be read online.</li>
   </ul>
   <p>
@@ -83,13 +86,11 @@ const sortedPublishers = [...publishers].sort((a, b) => a.data.name.localeCompar
   </p>
   <ul>
     <li>
-      the <strong>catalogue's data</strong> (publishers, titles, author records and the downloads) under the
-      <a href="https://opendatacommons.org/licenses/odbl/1-0/">Open Database License (ODbL) 1.0</a>: credit Bibliotheca
+      the <strong>catalogue's data</strong> (publishers, titles, author records and the downloads) under the <a href="https://opendatacommons.org/licenses/odbl/1-0/">Open Database License (ODbL) 1.0</a>: credit Bibliotheca
       Marxista, and share a database you make from it under the same licence;
     </li>
     <li>
-      its <strong>texts</strong> (the histories of the houses, the authors' biographies and these pages) under
-      <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</a>;
+      its <strong>texts</strong> (the histories of the houses, the authors' biographies and these pages) under <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</a>;
     </li>
     <li>
       its <strong>code</strong> under the <a href="https://www.gnu.org/licenses/agpl-3.0.html">GNU Affero General Public
@@ -103,10 +104,8 @@ const sortedPublishers = [...publishers].sort((a, b) => a.data.name.localeCompar
     reused on condition that they are credited:
   </p>
   <ul>
-    <li>records of the Bibliothèque nationale de France and of ABES (SUDOC), under the French government's
-      <a href="https://www.etalab.gouv.fr/licence-ouverte-open-licence/">Licence Ouverte</a>;</li>
-    <li>CiNii Books (National Institute of Informatics), whose NACSIS-CAT records are open data under
-      <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>;</li>
+    <li>records of the Bibliothèque nationale de France and of ABES (SUDOC), under the French government's <a href="https://www.etalab.gouv.fr/licence-ouverte-open-licence/">Licence Ouverte</a>;</li>
+    <li>CiNii Books (National Institute of Informatics), whose NACSIS-CAT records are open data under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>;</li>
     <li>the National Diet Library, under its <a href="https://ndl.go.jp/en/use/metadata/index.html">terms for bibliographic
       data</a>, compatible with CC BY 4.0;</li>
     <li>HathiTrust, whose records include data from OCLC's WorldCat.</li>

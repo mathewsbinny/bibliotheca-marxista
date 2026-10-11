@@ -58,8 +58,10 @@ browser ──► static pages (dist/)
 | `GET /api/title?p=<publisher>&t=<title id>` | One title's full record |
 | `GET /api/export[?pub=<publisher>]` | The whole catalogue, or one house's backlist, as a JSON download, generated as it streams |
 | `GET /api/health` | The number of titles and when the database was built |
+| `GET /book/<publisher>/<title>` | A title's page as HTML, for readers and search engines |
+| `GET /sitemap-books-<n>.xml` | Sitemaps of every title's page, 50,000 to each |
 
-**In the browser**, pages show their first titles straight from the HTML. The Titles page's search, the large tables (any table of more than 300 titles: a big house's backlist, a prolific author's editions) and the title pages fetch from the API, a page at a time. Smaller tables filter and sort in the page without it.
+**In the browser**, pages show their first titles straight from the HTML. The Titles page's search and the large tables (any table of more than 300 titles: a big house's backlist, a prolific author's editions) fetch from the API, a page at a time. Each title's page is rendered by the API as plain HTML, so that search engines can index it. Smaller tables filter and sort in the page without it.
 
 ## Project structure
 
@@ -165,38 +167,47 @@ npm run build                  # then rebuild the site and update the database
 
 ## Deploying
 
-The site has two parts:
+The whole site runs on one small server (any host with Docker, such as a €5/month VPS), behind a CDN such as Cloudflare:
 
-- the **static pages** in `dist/` (about 8,000 files, 300 MB), for a static host such as Cloudflare Pages;
-- the **catalogue API** (`server/`) with its database `db/catalogue.sqlite` (about 1.5 GB), on a small server: any host that runs Docker or Node 22, such as a €5/month VPS.
+- **Caddy** serves the static pages in `dist/` (about 8,000 files, 300 MB). It passes `/api/*`, each title's page (`/book/<publisher>/<title>`) and the titles' sitemaps (`/sitemap-books-<n>.xml`) to the API.
+- **The catalogue API** (`server/`) serves those from its database `db/catalogue.sqlite` (about 1.5 GB).
+
+The titles' pages are on the site's own address so that search engines credit them to it. The sitemap index, `/sitemap.xml`, lists the site's pages and every title.
 
 **First deployment**
 
-1. Set `site` in `astro.config.mjs` to the site's URL.
-2. On the API host, install Docker and Caddy, then run the API and configure Caddy from `server/Caddyfile.example`:
+1. Set `site` in `astro.config.mjs` to the site's address, and build: `npm run build`.
+2. On the server, install Docker and Caddy, and copy the site and the database to it:
+   ```sh
+   rsync -a --delete dist/ server:/srv/bibliotheca/dist/
+   rsync db/catalogue.sqlite server:/srv/bibliotheca/db/catalogue.sqlite
+   ```
+3. Run the API, with the site's address for its canonical links and sitemaps:
    ```sh
    docker build -f server/Dockerfile -t bibliotheca-api .
    docker run -d --name bibliotheca-api --restart unless-stopped \
      -p 127.0.0.1:8787:8787 -v /srv/bibliotheca/db:/app/db:ro \
      --read-only --cap-drop ALL --security-opt no-new-privileges --memory 1g --cpus 1 --pids-limit 100 \
-     -e SITE_ORIGIN=https://bibliotheca-marxista.org -e TRUST_PROXY=1 bibliotheca-api
+     -e SITE_URL=https://bibliotheca-marxista.org -e TRUST_PROXY=1 bibliotheca-api
    ```
-3. Build the site with the API's address and upload it (leave `PUBLIC_API_URL` unset if the API is served from the site's own domain under `/api`):
-   ```sh
-   PUBLIC_API_URL=https://api.bibliotheca-marxista.org/api npm run build
-   npx wrangler pages deploy dist --project-name bibliotheca-marxista
-   ```
+4. Configure Caddy from `server/Caddyfile.example`, with the site's domain. It imports the security headers the build writes (`dist/headers.caddy`), shows the site's 404 page for addresses that don't exist, and shows a "briefly unavailable" page while the API is down.
+5. Point the domain at Cloudflare (or another CDN), and the CDN at the server. Submit `https://<domain>/sitemap.xml` to Google Search Console and Bing Webmaster Tools.
 
 **Updating after an import**
 
 ```sh
 npm run import -- --write
-PUBLIC_API_URL=https://api.bibliotheca-marxista.org/api npm run build
-npx wrangler pages deploy dist --project-name bibliotheca-marxista     # uploads only changed files
-rsync db/catalogue.sqlite api-host:/srv/bibliotheca/db/catalogue.sqlite
+npm run build
+rsync -a --delete dist/ server:/srv/bibliotheca/dist/
+rsync db/catalogue.sqlite server:/srv/bibliotheca/db/catalogue.sqlite
 ```
 
-`rsync` sends only the parts of the database that changed and moves the new file into place in one step; the API opens it within a minute. The API limits each address's rate of requests, serves at most two downloads at once, and marks responses cacheable for an hour, so a CDN in front of it absorbs repeated searches.
+`rsync` sends only the files, and the parts of the database, that changed. It moves the new database into place in one step, and the API opens it within a minute.
+
+The API:
+- limits each address's rate of requests;
+- serves at most two downloads at once;
+- marks searches cacheable for an hour and titles' pages for a day, so the CDN absorbs repeated requests.
 
 ## Licence
 

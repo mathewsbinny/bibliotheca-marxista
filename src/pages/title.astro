@@ -1,103 +1,34 @@
 ---
+/**
+ * The title page's frame. Each title's page is /book/<publisher>/<title>, rendered by the catalogue
+ * API (server/book.mjs), which fills this page in: the build stores it in the catalogue database as
+ * the template (scripts/build-db.mjs). Opened itself, at its old address (/title/?p=…&t=…), it sends
+ * the reader on to the title's page.
+ */
 import Base from '../layouts/Base.astro';
 ---
 
 <Base title="Title" description="A catalogued title." noindex>
   <div class="title-record">
-    <p class="meta" data-status>Loading…</p>
+    <p class="meta" data-status>Opening this title's page…</p>
+    <noscript><p class="meta">This is an old address for a title, which needs JavaScript to forward you. Search for the title under <a href="/titles">All titles</a>.</p></noscript>
   </div>
 </Base>
 
 <script>
-  import { API } from '../lib/api';
-
-  interface Link { label: string; url: string }
-  interface Source { title: string; url?: string }
-  interface Credit { name: string; href?: string }
-  interface TitleRecord {
-    id: string; title: string; subtitle?: string; original_title?: string;
-    authors: Credit[]; editors: string[]; translators: string[];
-    date: string; edition?: string; series?: string; language: string; pages?: number; isbn?: string;
-    notes?: string; links: Link[]; sources: Source[]; verified: boolean; copyright: string[];
-  }
-  interface PublisherInfo { name: string; place: string }
+  import { titleHref } from '../lib/shard';
 
   const root = document.querySelector<HTMLElement>('.title-record')!;
-  const status = root.querySelector<HTMLElement>('[data-status]')!;
-
-  /** Builds an element with text content and attributes, never HTML. */
-  function el<K extends keyof HTMLElementTagNameMap>(tag: K, props: Partial<HTMLElementTagNameMap[K]> = {}, ...children: (Node | string)[]) {
-    const node = Object.assign(document.createElement(tag), props);
-    node.append(...children);
-    return node;
-  }
-  const link = (href: string, text: string) => el('a', { href, textContent: text });
-  const joined = (nodes: (Node | string)[], separator: string) =>
-    nodes.flatMap((n, i) => (i > 0 ? [separator, n] : [n]));
-  const names = (list: string[]) =>
-    list.length <= 2 ? list.join(' & ') : `${list.slice(0, -1).join(', ')} & ${list.at(-1)}`;
-  const searchLink = (text: string) => link(`/titles?q=${encodeURIComponent(text)}`, text);
-
-  function render(r: TitleRecord, publisherId: string, publisher: PublisherInfo) {
-    const imprint = `${publisher.place}: ${publisher.name}, ${r.date}`;
-    document.title = `${r.title} · Bibliotheca Marxista`;
-    document.querySelector('meta[name="description"]')?.setAttribute(
-      'content', `${r.title}${r.authors.length ? ` by ${names(r.authors.map((a) => a.name))}` : ''} — ${imprint}`,
-    );
-
-    const rows: [string, (Node | string)[]][] = [];
-    if (r.authors.length) {
-      rows.push([`Author${r.authors.length > 1 ? 's' : ''}`,
-        joined(r.authors.map((a) => link(a.href ?? `/titles?q=${encodeURIComponent(a.name)}`, a.name)), ', ')]);
-    }
-    if (r.editors.length) rows.push(['Edited by', [names(r.editors)]]);
-    if (r.translators.length) rows.push(['Translated by', [names(r.translators)]]);
-    if (r.original_title) rows.push(['Original title', [r.original_title]]);
-    rows.push(['Imprint', [imprint]]);
-    if (r.edition) rows.push(['Edition', [r.edition]]);
-    if (r.series) rows.push(['Series', [searchLink(r.series)]]);
-    rows.push(['Language', [r.language]]);
-    if (r.pages) rows.push(['Pages', [String(r.pages)]]);
-    if (r.isbn) rows.push(['ISBN', [r.isbn]]);
-    if (r.notes) rows.push(['Notes', [r.notes]]);
-    // Free copies first; Internet Archive lending copies need an account and are listed apart.
-    const free = r.links.filter((l) => !/^Borrow/.test(l.label));
-    const lending = r.links.filter((l) => /^Borrow/.test(l.label));
-    if (free.length) rows.push(['Read free', joined(free.map((l) => link(l.url, l.label)), ' · ')]);
-    if (lending.length) rows.push(['Borrow', joined(lending.map((l) => link(l.url, l.label.replace(/^Borrow /, ''))), ' · ')]);
-    if (r.copyright.length) rows.push(['Copyright', joined(r.copyright.map((c) => c + '.'), ' ')]);
-    if (r.sources.length) {
-      rows.push(['Sources', joined(r.sources.map((s) => (s.url ? link(s.url, s.title) : s.title)), '; ')]);
-    }
-
-    const record = el('dl', { className: 'record' });
-    for (const [term, value] of rows) record.append(el('dt', { textContent: term }), el('dd', {}, ...value));
-
-    root.replaceChildren(
-      el('p', { className: 'eyebrow' }, link(`/publishers/${publisherId}`, publisher.name), ` · ${r.date}`),
-      el('h1', { textContent: r.title }),
-      ...(r.subtitle ? [el('p', { className: 'lede', textContent: r.subtitle })] : []),
-      el('p', {}, r.verified
-        ? el('span', { className: 'badge verified', textContent: 'verified' })
-        : el('span', { className: 'badge', textContent: 'unverified' })),
-      record,
-    );
-  }
-
-  async function load() {
+  // A page the API rendered needs nothing more.
+  if (!root.hasAttribute('data-rendered')) {
     const params = new URLSearchParams(location.search);
-    const publisherId = params.get('p') ?? '';
-    const id = params.get('t') ?? '';
-    if (!publisherId || !id) throw new Error('not found');
-    const res = await fetch(`${API}/title?${new URLSearchParams({ p: publisherId, t: id })}`);
-    if (!res.ok) throw new Error('not found');
-    const { record, publisher }: { record: TitleRecord; publisher: PublisherInfo } = await res.json();
-    render(record, publisherId, publisher);
+    const publisher = params.get('p'), title = params.get('t');
+    if (publisher && title) location.replace(titleHref(publisher, title));
+    else {
+      document.title = 'Title not found · Bibliotheca Marxista';
+      const status = root.querySelector<HTMLElement>('[data-status]')!;
+      status.textContent = 'This title could not be found. Try searching ';
+      status.append(Object.assign(document.createElement('a'), { href: '/titles', textContent: 'all titles' }), '.');
+    }
   }
-
-  load().catch(() => {
-    document.title = 'Title not found · Bibliotheca Marxista';
-    status.textContent = 'This title could not be found. It may have been merged with another record; try searching ';
-    status.append(link('/titles', 'all titles'), '.');
-  });
 </script>

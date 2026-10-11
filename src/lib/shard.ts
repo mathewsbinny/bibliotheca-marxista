@@ -21,7 +21,7 @@ export function chunkOf(id: string, chunks: number): number {
   return (h >>> 0) % chunks;
 }
 
-/** URL of a title's page. */
+/** URL of a title's page, rendered by the catalogue API (server/book.mjs) so that search engines index it. */
 export function titleHref(publisherId: string, id: string): string {
-  return `/title/?p=${encodeURIComponent(publisherId)}&t=${encodeURIComponent(id)}`;
+  return `/book/${encodeURIComponent(publisherId)}/${encodeURIComponent(id)}`;
 }

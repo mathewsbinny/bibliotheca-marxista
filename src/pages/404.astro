@@ -3,20 +3,17 @@ import Base from '../layouts/Base.astro';
 ---
 
 <Base title="Page not found" noindex>
-  <h1>Page not found</h1>
-  <p class="lede" data-message>
-    There is no page at this address. Try the <a href="/publishers">publishers</a> or
-    <a href="/titles">all titles</a>.
-  </p>
+  <h1>Page not found.</h1>
+  <p class="lede" data-message>Please visit again at another time or go to our <a href="/">home</a> page.</p>
 </Base>
 
 <script>
-  // Titles used to have a page each at /publishers/<publisher>/<title>/; they now share one page.
+  // Titles used to have a page at /publishers/<publisher>/<title>/; it is now /book/<publisher>/<title>.
   const old = location.pathname.match(/^\/publishers\/([^/]+)\/([^/]+)\/?$/);
   // The globe moved from its own page to the home page.
   if (location.pathname === '/globe' || location.pathname === '/globe/') location.replace('/');
   if (old) {
     const [, publisher, title] = old.map(decodeURIComponent);
-    location.replace(`/title/?p=${encodeURIComponent(publisher)}&t=${encodeURIComponent(title)}`);
+    location.replace(`/book/${encodeURIComponent(publisher)}/${encodeURIComponent(title)}`);
   }
 </script>

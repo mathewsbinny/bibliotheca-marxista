@@ -69,6 +69,8 @@ main.centered .cards { grid-template-columns: repeat(auto-fit, minmax(min(100%, 
   letter-spacing: 0.01em;
 }
 .wordmark span { color: var(--accent); }
+/* The hammer and sickle (U+262D), from a font that has it wherever the text face does not. */
+.wordmark-mark { font-family: "Segoe UI Symbol", "Noto Sans Symbols", "Noto Sans Symbols 2", "DejaVu Sans", "Apple Symbols", sans-serif; font-weight: 400; color: var(--accent); }
 .site-header nav { display: flex; flex-wrap: wrap; gap: 1.25rem; font-family: var(--sans); font-size: 0.85rem; }
 .site-header nav a { color: var(--muted); text-decoration: none; }
 .site-header nav a:hover, .site-header nav a[aria-current] { color: var(--ink); }

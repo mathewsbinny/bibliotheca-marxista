@@ -189,7 +189,7 @@ const pubNames = publishers && progressive ? JSON.stringify(Object.fromEntries(p
           empty.hidden = total > 0;
           updateMore();
         } catch {
-          if (current === generation) failed('The titles could not be loaded.', apply);
+          if (current === generation) failed('The titles could not be loaded: the catalogue did not answer. Check your connection, or try again in a moment.', apply);
         }
       };
       drawMore = async () => {
@@ -205,7 +205,7 @@ const pubNames = publishers && progressive ? JSON.stringify(Object.fromEntries(p
           if (!page.rows.length) total = shown;
           updateMore();
         } catch {
-          failed('The rest of the titles could not be loaded.', drawMore);
+          failed('The rest of the titles could not be loaded: the catalogue did not answer. Check your connection, or try again in a moment.', drawMore);
         } finally {
           busy = false;
         }

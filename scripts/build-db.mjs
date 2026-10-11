@@ -25,6 +25,8 @@ const ROOT = join(new URL('..', import.meta.url).pathname.replace(/^\/(\w:)/, '$
 const DIST = process.env.CATALOGUE_DIST ?? join(ROOT, 'dist');
 const DB_FILE = process.env.CATALOGUE_DB ?? join(ROOT, 'db', 'catalogue.sqlite');
 const full = process.argv.includes('--full');
+/** The version of what is stored for each title: change it when that changes, to rewrite every title. */
+const FORMAT = 'book-addresses-1';
 const started = Date.now();
 
 if (!existsSync(join(DIST, 'data', 'catalogue.json'))) {
@@ -119,7 +121,7 @@ const writePublisher = db.transaction((p, files, hash) => {
     for (const r of JSON.parse(text)) {
       const authorNames = r.authors.map((a) => a.name);
       const links = r.authors.map((a) => [a.name, a.href?.split('/').pop() ?? '']);
-      const href = `/title/?p=${encodeURIComponent(p.id)}&t=${encodeURIComponent(r.id)}`;
+      const href = `/book/${encodeURIComponent(p.id)}/${encodeURIComponent(r.id)}`; // as titleHref in src/lib/shard.ts
       const { lastInsertRowid } = insertTitle.run({
         publisher_id: p.id, id: r.id, href,
         title: r.title, subtitle: r.subtitle ?? null, original_title: r.original_title ?? null, series: r.series ?? null,
@@ -148,7 +150,9 @@ for (const p of publishers) {
   const dir = join(DIST, 'data', 'titles', p.id);
   const files = Array.from({ length: p.chunks }, (_, n) => readFileSync(join(dir, `${n}.json`), 'utf8'));
   const { titles: _titles, chunks: _chunks, ...data } = p;
-  const hash = sha1(JSON.stringify(data), ...files);
+  // FORMAT is part of the fingerprint, so a change to what this script stores (as when titles moved
+  // to /book/ addresses) rewrites every publisher, though their exports are the same.
+  const hash = sha1(FORMAT, JSON.stringify(data), ...files);
   if (previous.get(p.id) === hash) { unchanged++; continue; }
   written += writePublisher(p, files, hash);
   changed++;
@@ -189,6 +193,12 @@ if (changed || removed.length) {
   db.exec('ANALYZE');
 }
 db.prepare("INSERT INTO meta (key, value) VALUES ('built', ?) ON CONFLICT (key) DO UPDATE SET value = excluded.value").run(new Date().toISOString());
+// The site's title page, which the API fills in for each title's page (server/book.mjs): it carries
+// the build's header, footer and stylesheet addresses.
+const templateFile = join(DIST, 'title', 'index.html');
+if (existsSync(templateFile)) {
+  db.prepare("INSERT INTO meta (key, value) VALUES ('book-template', ?) ON CONFLICT (key) DO UPDATE SET value = excluded.value").run(readFileSync(templateFile, 'utf8'));
+}
 // One self-contained file to deploy.
 db.pragma('wal_checkpoint(TRUNCATE)');
 db.pragma('journal_mode = DELETE');

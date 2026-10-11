@@ -8,7 +8,7 @@
 
 <div class="anthem">
   <audio src="/internationale.mp3" preload="none" loop></audio>
-  <button type="button" class="anthem-toggle" aria-pressed="false">♪ Play The Internationale</button>
+  <button type="button" class="anthem-toggle" aria-pressed="false">♪ Play the Internationale</button>
 </div>
 
 <script>
@@ -31,7 +31,7 @@
   const show = () => {
     const playing = !audio.paused;
     button.setAttribute('aria-pressed', String(playing));
-    button.textContent = playing ? '■ Stop The Internationale' : '♪ Play The Internationale';
+    button.textContent = playing ? '■ Stop the Internationale' : '♪ Play the Internationale';
   };
   audio.addEventListener('play', show);
   audio.addEventListener('pause', show);

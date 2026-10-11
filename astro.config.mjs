@@ -10,7 +10,8 @@ export default defineConfig({
     // No script is inlined into a page, so the Content Security Policy can allow scripts from the
     // site's own files only (see scripts/write-headers.mjs).
     build: { assetsInlineLimit: 0 },
-    server: { proxy: { '/api': 'http://localhost:8787' } },
-    preview: { proxy: { '/api': 'http://localhost:8787' } },
+    // The API's paths: the catalogue API itself, titles' pages and their sitemaps.
+    server: { proxy: Object.fromEntries(['/api', '/book', '/sitemap-books'].map((p) => [p, 'http://localhost:8787'])) },
+    preview: { proxy: Object.fromEntries(['/api', '/book', '/sitemap-books'].map((p) => [p, 'http://localhost:8787'])) },
   },
 });

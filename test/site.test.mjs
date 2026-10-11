@@ -48,8 +48,8 @@ describe('sorting a table', () => {
 
 describe('title links', () => {
   test('encode the publisher and title id', () => {
-    assert.equal(titleHref('progress', 'capital-1965'), '/title/?p=progress&t=capital-1965');
-    assert.equal(titleHref('nauka-moscow', 'собрание'), '/title/?p=nauka-moscow&t=%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5');
+    assert.equal(titleHref('progress', 'capital-1965'), '/book/progress/capital-1965');
+    assert.equal(titleHref('nauka-moscow', 'собрание'), '/book/nauka-moscow/%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5');
   });
 
   test("a title's data file is fixed by its id, and in range", () => {

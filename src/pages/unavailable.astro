@@ -1,0 +1,19 @@
+---
+/**
+ * Shown by the web server (server/Caddyfile.example) in place of a page the catalogue API could not
+ * give: a title's page, while the API is down or restarting. The rest of the site still works.
+ */
+import Base from '../layouts/Base.astro';
+---
+
+<Base title="Briefly unavailable" noindex>
+  <h1>Briefly unavailable</h1>
+  <p class="lede">
+    This page comes from the catalogue's database, which is not answering at the moment — it may be
+    restarting after an update. Please try again in a minute.
+  </p>
+  <p>
+    The rest of the site still works: the <a href="/publishers">publishers</a> and their backlists,
+    the <a href="/authors">authors</a>, and the <a href="/">globe</a>.
+  </p>
+</Base>
