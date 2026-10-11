@@ -213,8 +213,15 @@ In short:
 
 The downloads carry these terms in their `license` field.
 
-**Sources.** The catalogue is built from other catalogues' records:
-- **Released into the public domain or under CC0:** Open Library, Wikidata, the Library of Congress, the German National Library, K10plus, B3Kat, the Biblioteca Nacional de España and the National Library of Poland.
-- **Reused under the French government's [Licence Ouverte](https://www.etalab.gouv.fr/licence-ouverte-open-licence/):** records of the Bibliothèque nationale de France and ABES (SUDOC), which asks that they be credited, as the site and the downloads do.
-- **Not yet confirmed:** the terms for bulk reuse of CiNii, the National Diet Library, swisscovery and HathiTrust records (some of HathiTrust's come from OCLC's WorldCat). Check these before publishing.
-- **Scans and texts held elsewhere** (the Internet Archive, HathiTrust, marxists.org, BannedThought.net) are linked, not copied, and remain under their own terms.
+**Sources.** The catalogue is built from other catalogues' records, all reusable in an ODbL database; those that ask for credit are credited on the About page and in the downloads.
+
+| Source | Terms of its records | Credit |
+|---|---|---|
+| Open Library, Wikidata, the Library of Congress, the German National Library, K10plus, B3Kat, the Biblioteca Nacional de España, the National Library of Poland | Public domain or CC0 | Not required |
+| The Bibliothèque nationale de France, ABES (SUDOC) | France's [Licence Ouverte](https://www.etalab.gouv.fr/licence-ouverte-open-licence/) | Required |
+| CiNii Books (National Institute of Informatics) | NACSIS-CAT records are open data under [CC BY 4.0](https://support.nii.ac.jp/en/cinii/api/api_outline) | Required |
+| The National Diet Library | Its catalogue's data may be reused, commercially too, under [terms compatible with CC BY 4.0](https://ndl.go.jp/en/use/metadata/index.html); only the NDL's own catalogue is searched, not NDL Search's other providers | Required |
+| swisscovery (SLSP) | Unmarked bibliographic metadata is ["free for general use"](https://slsp.ch/en/?p=1277) | Not required |
+| HathiTrust | Its own work on the records is [CC0](https://www.hathitrust.org/the-collection/terms-conditions/metadata-sharing-and-use-policy/); records it holds may be harvested and used freely, and some derive from OCLC's WorldCat | WorldCat credited, as OCLC asks of reusers |
+
+Scans and texts held elsewhere (the Internet Archive, HathiTrust, marxists.org, BannedThought.net) are linked, not copied, and remain under their own terms.

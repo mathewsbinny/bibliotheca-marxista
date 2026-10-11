@@ -372,13 +372,15 @@ export async function bnfRecords(term, index = 'bib.publisher') {
 /**
  * National Diet Library Search records whose publisher matches a term (in Japanese script),
  * optionally limited to publication years. A query returns at most 500 records, so large houses
- * are searched year by year.
+ * are searched year by year. Only the NDL's own catalogue (dpid=iss-ndl-opac) is searched: its
+ * records may be reused with credit, compatibly with CC BY 4.0, while NDL Search's other providers
+ * set their own terms (some non-commercial).
  */
 export async function ndlRecords(term, from, until, param = 'publisher') {
   const years = (from ? `&from=${from}` : '') + (until ? `&until=${until}` : '');
   const items = [];
   for (let idx = 1; idx <= (param === 'publisher' ? 5000 : 400); idx += 200) {
-    const xml = await getText(`https://ndlsearch.ndl.go.jp/api/opensearch?${param}=${encodeURIComponent(term)}${years}&cnt=200&idx=${idx}`);
+    const xml = await getText(`https://ndlsearch.ndl.go.jp/api/opensearch?dpid=iss-ndl-opac&${param}=${encodeURIComponent(term)}${years}&cnt=200&idx=${idx}`);
     if (!xml) break;
     const found = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].map((m) => m[1]);
     for (const it of found) {

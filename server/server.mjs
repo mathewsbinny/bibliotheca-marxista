@@ -91,7 +91,9 @@ function title(params, res) {
 const LICENSE = {
   data: 'Open Database License (ODbL) 1.0, https://opendatacommons.org/licenses/odbl/1-0/',
   texts: 'Creative Commons Attribution-ShareAlike 4.0 (descriptions and biographies), https://creativecommons.org/licenses/by-sa/4.0/',
-  attribution: 'Bibliotheca Marxista. Includes records of the Bibliothèque nationale de France and ABES (SUDOC), reused under the Licence Ouverte (Etalab).',
+  attribution: 'Bibliotheca Marxista. Includes records of the Bibliothèque nationale de France and ABES (SUDOC), reused under the Licence Ouverte (Etalab); '
+    + 'of CiNii Books (National Institute of Informatics), under CC BY 4.0; of the National Diet Library, under its terms for bibliographic data; '
+    + "and of HathiTrust, including data from OCLC's WorldCat.",
 };
 
 let exporting = 0;
