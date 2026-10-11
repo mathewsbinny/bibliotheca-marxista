@@ -1,0 +1,176 @@
+---
+import Base from '../layouts/Base.astro';
+import CatalogueFilters from '../components/CatalogueFilters.astro';
+import { findAuthor, getAuthorIndex, getPublishers, getTitles, isFree, languagesOf, titleDate } from '../lib/catalogue';
+import { getTitlePlaces } from '../lib/globe-places';
+
+const titles = await getTitles();
+const publishers = (await getPublishers()).map((p) => ({ id: p.id, name: p.data.name }));
+// The globe's countries and regions that have titles, for the country filter.
+const countries = [...new Set([...(await getTitlePlaces()).values()].flat())].sort((a, b) => a.localeCompare(b));
+// The earliest titles, written into the page so it shows titles before any search; filters and
+// searches ask the catalogue API (src/lib/api.ts).
+const PAGE = 50;
+const publisherName = new Map(publishers.map((p) => [p.id, p.name]));
+const earliest = titles.filter((t) => t.year).sort((a, b) => a.year! - b.year!).slice(0, PAGE);
+const authorIndex = await getAuthorIndex();
+// Joins credits as names() does: "A & B", "A, B & C".
+const separator = (i: number, n: number) => (i === 0 ? '' : i === n - 1 ? ' & ' : ', ');
+---
+
+<Base centered title="Titles" description="Search every title in the catalogue: books and pamphlets of socialist, communist and Marxist publishers, by title, author, publisher, language and year.">
+  <h1>All titles</h1>
+  <p class="lede">
+    Every catalogued title across all publishers. Filter by author, series, date range, language,
+    country (as on the globe) or publisher, and sort by title, author, publisher or year. The data can also be downloaded as <a href="/about#download">JSON</a>.
+  </p>
+
+  <div class="title-search" data-publishers={JSON.stringify(Object.fromEntries(publishers.map((p) => [p.id, p.name])))}>
+    <CatalogueFilters languages={languagesOf(titles)} countries={countries} publishers={publishers} total={titles.length} />
+    <div class="table-wrap">
+      <table class="catalogue">
+        <thead>
+          <tr>
+            <th scope="col">Year</th>
+            <th scope="col">Title</th>
+            <th scope="col">Author(s)</th>
+            <th scope="col">Publisher</th>
+          </tr>
+        </thead>
+        <tbody>
+          {earliest.map((t) => (
+            <tr>
+              <td class="year">{titleDate(t)}</td>
+              <td>
+                <a href={t.href}>{t.title}</a>
+                {t.verified && <span class="tick" title="Verified against a library catalogue record">✓</span>}
+                {isFree(t) && <span class="free-mark" title="A free copy is linked">Free</span>}
+                {t.subtitle && <span class="meta"> — {t.subtitle}</span>}
+              </td>
+              <td>
+                {t.authors.length ? t.authors.map((name, i) => {
+                  const author = findAuthor(authorIndex, name);
+                  return <>{separator(i, t.authors.length)}{author ? <a href={`/authors/${author.id}`}>{name}</a> : name}</>;
+                }) : '—'}
+              </td>
+              <td><a href={`/publishers/${t.publisherId}`}>{publisherName.get(t.publisherId)}</a></td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+    <p class="meta" data-status>The {PAGE} earliest of {titles.length.toLocaleString('en')} titles. Search or choose a filter to explore the rest.</p>
+    <button type="button" class="more" hidden>Show more</button>
+  </div>
+</Base>
+
+<script>
+  import { fetchTitles, titleParams } from '../lib/api';
+  import { readCriteria, restoreFromUrl } from '../lib/filters';
+  import { FREE, VERIFIED, type Row } from '../lib/rows-shared';
+
+  const PAGE = 50;
+
+  const root = document.querySelector<HTMLElement>('.title-search')!;
+  const form = root.querySelector('form')!;
+  const tbody = root.querySelector('tbody')!;
+  const count = root.querySelector('[data-count]')!;
+  const status = root.querySelector<HTMLElement>('[data-status]')!;
+  const more = root.querySelector<HTMLButtonElement>('.more')!;
+  const publisherNames: Record<string, string> = JSON.parse(root.dataset.publishers ?? '{}');
+
+  let params = new URLSearchParams();
+  let total = 0;
+  let shown = 0;
+  let generation = 0;
+
+  const cell = (text: string, className?: string) => {
+    const td = document.createElement('td');
+    td.textContent = text;
+    if (className) td.className = className;
+    return td;
+  };
+
+  /** The authors, each linked to their page when they have one, joined as "A, B & C". */
+  const authorsCell = (row: Row) => {
+    const links = row[11];
+    if (!links.length) return cell(row[4] || '—');
+    const td = cell('');
+    links.forEach(([name, id], i) => {
+      if (i) td.append(i === links.length - 1 ? ' & ' : ', ');
+      td.append(id ? Object.assign(document.createElement('a'), { href: '/authors/' + id, textContent: name }) : name);
+    });
+    return td;
+  };
+
+  const draw = (row: Row) => {
+    const [href, title, subtitle, , , date, , , flags, pub] = row;
+    const tr = document.createElement('tr');
+    const t = cell('');
+    t.append(Object.assign(document.createElement('a'), { href, textContent: title }));
+    if (flags & VERIFIED) t.append(Object.assign(document.createElement('span'), { className: 'tick', textContent: '✓', title: 'Verified against a library catalogue record' }));
+    if (flags & FREE) t.append(Object.assign(document.createElement('span'), { className: 'free-mark', textContent: 'Free', title: 'A free copy is linked' }));
+    if (subtitle) t.append(Object.assign(document.createElement('span'), { className: 'meta', textContent: ' — ' + subtitle }));
+    const p = cell('');
+    p.append(Object.assign(document.createElement('a'), { href: '/publishers/' + pub, textContent: publisherNames[pub] ?? pub }));
+    tr.append(cell(date, 'year'), t, authorsCell(row), p);
+    return tr;
+  };
+
+  const showStatus = () => {
+    more.hidden = shown >= total;
+    more.disabled = false;
+    status.textContent = total
+      ? 'Showing ' + shown.toLocaleString('en') + ' of ' + total.toLocaleString('en') + ' matches.'
+      : 'No titles match these filters.';
+  };
+
+  async function renderMore() {
+    const current = generation;
+    more.disabled = true;
+    const page = await fetchTitles(params, shown, PAGE);
+    if (current !== generation) return; // a newer search has started
+    tbody.append(...page.rows.map(draw));
+    shown += page.rows.length;
+    if (!page.rows.length) total = shown;
+    showStatus();
+  }
+
+  // The page as built: the earliest titles, restored when every filter is cleared.
+  const initialRows = [...tbody.children];
+  const initialStatus = status.textContent;
+  const initialCount = count.textContent;
+
+  async function apply() {
+    const current = ++generation;
+    const c = readCriteria(form);
+    const unfiltered = !c.terms.length && !c.lang && !c.pub && !c.country && !c.verified && !c.access && !c.sort
+      && c.from === -Infinity && c.to === Infinity;
+    if (unfiltered) {
+      tbody.replaceChildren(...initialRows);
+      status.textContent = initialStatus;
+      count.textContent = initialCount;
+      more.hidden = true;
+      return;
+    }
+    params = titleParams(c);
+    status.textContent = 'Searching…';
+    const page = await fetchTitles(params, 0, PAGE);
+    if (current !== generation) return;
+    total = page.total ?? 0;
+    count.textContent = total.toLocaleString('en');
+    tbody.replaceChildren(...page.rows.map(draw));
+    shown = page.rows.length;
+    showStatus();
+  }
+
+  const searchFailed = () => {
+    status.textContent = 'The search could not be completed. Please try again.';
+    more.disabled = false;
+  };
+  let timer: number | undefined;
+  form.addEventListener('input', () => { clearTimeout(timer); timer = window.setTimeout(() => apply().catch(searchFailed), 250); });
+  more.addEventListener('click', () => renderMore().catch(searchFailed));
+  // A linked search runs at once; otherwise the earliest titles stay until the reader searches.
+  if (restoreFromUrl(form)) apply().catch(searchFailed);
+</script>

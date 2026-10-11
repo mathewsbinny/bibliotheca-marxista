@@ -1,0 +1,36 @@
+# Banyan House Publishing.
+# Hand-entered titles. Entries marked `verified: true` were matched to library catalogue
+# records by scripts/import-openlibrary.mjs; see their `sources`.
+publisher: banyan-house
+titles:
+  - title: The Worldview and Philosophical Methodology of Marxism-Leninism
+    subtitle: Curriculum of the Basic Principles of Marxism-Leninism, Part 1
+    translators: [Luna Nguyen]
+    year: 2023
+    language: English
+    notes: >
+      First English edition of the Vietnamese Ministry of Education and Training's
+      curriculum on the basic principles of Marxism-Leninism, translated and annotated
+      over nearly three years. Available as a free ebook.
+    links:
+      - label: Publisher's page
+        url: https://www.banyanhouse.org/2023/03/07/hello-world/
+
+  - title: Historical Materialism
+    subtitle: Curriculum of the Basic Principles of Marxism-Leninism, Part 2
+    translators: [Luna Nguyen]
+    year: 2025
+    language: English
+    pages: 335
+    isbn: "9798987931622"
+    notes: >
+      First English edition of the Vietnamese Ministry of Education and Training's
+      university text on historical materialism, annotated, with a glossary and
+      appendices, illustrations by Emerican Johnson, and an introduction by Gerald
+      Horne and Anthony Ballas.
+    links:
+      - label: Free ebook (Internet Archive)
+        url: https://archive.org/details/historical-materialism
+    sources:
+      - title: AbeBooks — ISBN 9798987931622
+        url: https://www.abebooks.com/9798987931622/Historical-Materialism-Curriculum-Basic-Principles/plp

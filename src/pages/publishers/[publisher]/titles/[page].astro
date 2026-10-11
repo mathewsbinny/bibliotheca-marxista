@@ -1,0 +1,51 @@
+---
+import Base from '../../../../layouts/Base.astro';
+import { getPublisherTitles, getPublishers, names, titleDate, type Publisher, type Title } from '../../../../lib/catalogue';
+import { PLAIN_PER_PAGE, PROGRESSIVE_ABOVE, plainPageCount } from '../../../../lib/rows-shared';
+
+/** A plain list of a large publisher's titles, PLAIN_PER_PAGE to a page, for readers without JavaScript. */
+export async function getStaticPaths() {
+  const paths = [];
+  for (const publisher of await getPublishers()) {
+    const titles = await getPublisherTitles(publisher.id);
+    if (titles.length <= PROGRESSIVE_ABOVE) continue;
+    const pages = plainPageCount(titles.length);
+    for (let page = 1; page <= pages; page++) {
+      paths.push({
+        params: { publisher: publisher.id, page: String(page) },
+        props: { publisher, page, pages, total: titles.length, titles: titles.slice((page - 1) * PLAIN_PER_PAGE, page * PLAIN_PER_PAGE) },
+      });
+    }
+  }
+  return paths;
+}
+
+interface Props {
+  publisher: Publisher;
+  page: number;
+  pages: number;
+  total: number;
+  titles: Title[];
+}
+
+const { publisher, page, pages, total, titles } = Astro.props;
+const first = (page - 1) * PLAIN_PER_PAGE + 1;
+const nav = Array.from({ length: pages }, (_, i) => i + 1);
+---
+
+<Base title={`${publisher.data.name}: titles ${first}–${first + titles.length - 1}`} noindex>
+  <p class="eyebrow"><a href="/publishers">Publishers</a> · <a href={`/publishers/${publisher.id}`}>{publisher.data.name}</a></p>
+  <h1>{publisher.data.name}: all titles</h1>
+  <p class="meta">
+    Titles {first.toLocaleString('en')}–{(first + titles.length - 1).toLocaleString('en')} of {total.toLocaleString('en')}, in catalogue order.
+    The <a href={`/publishers/${publisher.id}`}>publisher's page</a> can search and sort them.
+  </p>
+  <nav class="meta" aria-label="Pages">
+    {nav.map((n) => (n === page ? <strong>{n} </strong> : <><a href={`/publishers/${publisher.id}/titles/${n}`}>{n}</a> </>))}
+  </nav>
+  <ol start={first}>
+    {titles.map((t) => (
+      <li><a href={t.href}>{t.title}</a>{t.authors.length > 0 && ` — ${names(t.authors)}`}{titleDate(t) && ` (${titleDate(t)})`}</li>
+    ))}
+  </ol>
+</Base>

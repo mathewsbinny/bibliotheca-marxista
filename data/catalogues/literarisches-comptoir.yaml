@@ -1,0 +1,41 @@
+# Literarisches Comptoir, Zürich und Winterthur.
+# Hand-entered titles. Entries marked `verified: true` were matched to library catalogue
+# records by scripts/import-openlibrary.mjs; see their `sources`.
+publisher: literarisches-comptoir
+titles:
+  - title: Gedichte eines Lebendigen
+    authors: [Georg Herwegh]
+    year: 1841
+    language: German
+    notes: Seven editions and 19,000 copies in eighteen months.
+    verified: true
+    sources:
+      - title: "Open Library edition OL52556444M"
+        url: https://openlibrary.org/books/OL52556444M
+      - title: "WorldCat record (OCLC 5197652)"
+        url: https://search.worldcat.org/title/5197652
+
+  - title: Anekdota zur neuesten deutschen Philosophie und Publicistik
+    editors: [Arnold Ruge]
+    year: 1843
+    language: German
+    notes: Included Marx's first article on censorship and Feuerbach's Vorläufige Thesen zur Reform der Philosophie.
+    verified: true
+    sources:
+      - title: "Open Library edition OL52656760M"
+        url: https://openlibrary.org/books/OL52656760M
+      - title: "WorldCat record (OCLC 8060777)"
+        url: https://search.worldcat.org/title/8060777
+      - title: "Library of Congress record (LCCN 22025616)"
+        url: https://lccn.loc.gov/22025616
+
+  - title: Grundsätze der Philosophie der Zukunft
+    authors: [Ludwig Feuerbach]
+    year: 1843
+    language: German
+
+  - title: Das entdeckte Christenthum
+    authors: [Bruno Bauer]
+    year: 1843
+    language: German
+    notes: Confiscated and destroyed on publication.

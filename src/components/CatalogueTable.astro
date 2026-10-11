@@ -1,0 +1,265 @@
+---
+import CatalogueFilters from './CatalogueFilters.astro';
+import { authorLinks, getAuthorIndex, hiddenSearchText, isFree, languagesOf, titleDate, names, type Title } from '../lib/catalogue';
+import { INITIAL_ROWS, PROGRESSIVE_ABOVE } from '../lib/rows-shared';
+
+interface Props {
+  titles: Title[];
+  /** Publisher id → name; when given, a Publisher column and filter are shown. */
+  publisherNames?: Map<string, string>;
+  /**
+   * The table's titles as the catalogue API knows them: a publisher's ({ pub: 'dietz-verlag' }) or an
+   * author's ({ author: 'karl-marx' }). A table with more than PROGRESSIVE_ABOVE titles then puts only
+   * its first rows in the page, and filters, sorts and loads the rest page by page from the API.
+   */
+  scope?: { pub: string } | { author: string };
+  /** A plain list of every title, for readers without JavaScript. */
+  plainHref?: string;
+}
+
+const { titles, publisherNames, scope, plainHref } = Astro.props;
+const languages = languagesOf(titles);
+const authorIndex = await getAuthorIndex();
+// Joins credits as names() does: "A & B", "A, B & C".
+const separator = (i: number, n: number) => (i === 0 ? '' : i === n - 1 ? ' & ' : ', ');
+const publishers = publisherNames
+  ? [...new Set(titles.map((t) => t.publisherId))]
+      .map((id) => ({ id, name: publisherNames.get(id) ?? id }))
+      .sort((a, b) => a.name.localeCompare(b.name))
+  : undefined;
+const progressive = Boolean(scope) && titles.length > PROGRESSIVE_ABOVE;
+const shown = progressive ? titles.slice(0, INITIAL_ROWS) : titles;
+// Publisher names for rows drawn in the browser, which carry only the publisher's id.
+const pubNames = publishers && progressive ? JSON.stringify(Object.fromEntries(publishers.map((p) => [p.id, p.name]))) : undefined;
+---
+
+<div
+  class="catalogue-browser"
+  data-total={titles.length}
+  data-scope={progressive ? new URLSearchParams(scope).toString() : undefined}
+  data-pubs={pubNames}
+>
+  <CatalogueFilters languages={languages} publishers={publishers} total={titles.length} />
+
+  <div class="table-wrap">
+    <table class="catalogue">
+      <thead>
+        <tr>
+          <th scope="col">Year</th>
+          <th scope="col">Title</th>
+          <th scope="col">Author(s)</th>
+          {publisherNames && <th scope="col">Publisher</th>}
+          <th scope="col">Language</th>
+        </tr>
+      </thead>
+      <tbody>
+        {shown.map((t) => (
+          <tr data-x={hiddenSearchText(t) || undefined}>
+            <td class="year">{titleDate(t)}</td>
+            <td>
+              <a href={t.href}>{t.title}</a>
+              {t.verified && <span class="tick" title="Verified against a library catalogue record">✓</span>}
+              {isFree(t) && <span class="free-mark" title="A free copy is linked">Free</span>}
+              {t.subtitle && <span class="meta"> — {t.subtitle}</span>}
+              {t.series && <div class="meta">{t.series}</div>}
+            </td>
+            <td>
+              {t.authors.length
+                ? authorLinks(t.authors, authorIndex).length
+                  ? authorLinks(t.authors, authorIndex).map(([name, id], i) => <>{separator(i, t.authors.length)}{id ? <a href={`/authors/${id}`}>{name}</a> : name}</>)
+                  : names(t.authors)
+                : <span class="meta">—</span>}
+            </td>
+            {publisherNames && (
+              <td><a href={`/publishers/${t.publisherId}`}>{publisherNames.get(t.publisherId)}</a></td>
+            )}
+            <td class="meta">{t.language}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p class="meta" data-empty hidden>No titles match these filters.</p>
+  <p class="meta table-more" data-more hidden>
+    <span data-more-status></span>
+    <button type="button" class="more" data-more-button>Show more</button>
+  </p>
+  {progressive && (
+    <noscript>
+      <p class="meta">
+        The first {INITIAL_ROWS.toLocaleString('en')} of {titles.length.toLocaleString('en')} titles are shown.
+        {plainHref && <> <a href={plainHref}>Browse all titles as a plain list</a>.</>}
+      </p>
+    </noscript>
+  )}
+</div>
+
+<script>
+  import { compareRows, matches, readCriteria, restoreFromUrl, type FilterRecord, type SortKey, type SortRecord } from '../lib/filters';
+  import { fetchTitles, titleParams } from '../lib/api';
+  import { BATCH_ROWS, FREE, VERIFIED, escapeHtml, type AuthorLink, type Row } from '../lib/rows-shared';
+
+  /** A row of a table filtered in the page: its filter and sort values, and its element. */
+  interface Item {
+    record: FilterRecord;
+    sortKeys: SortRecord;
+    el: HTMLTableRowElement;
+  }
+
+  /** A cell's text without the verified and free marks. */
+  const cellText = (td: Element | undefined) =>
+    td ? [...td.childNodes].filter((n) => !(n instanceof HTMLElement && n.matches('.tick, .free-mark'))).map((n) => n.textContent).join(' ').replace(/\s+/g, ' ').trim() : '';
+
+  for (const root of document.querySelectorAll<HTMLElement>('.catalogue-browser')) {
+    const form = root.querySelector('form')!;
+    const count = root.querySelector('[data-count]')!;
+    const empty = root.querySelector<HTMLElement>('[data-empty]')!;
+    const more = root.querySelector<HTMLElement>('[data-more]')!;
+    const moreStatus = root.querySelector<HTMLElement>('[data-more-status]')!;
+    const moreButton = root.querySelector<HTMLButtonElement>('[data-more-button]')!;
+    const tbody = root.querySelector('tbody')!;
+    const withPublisher = root.querySelector('thead th:nth-child(4)')?.textContent === 'Publisher';
+    const pubNames: Record<string, string> = root.dataset.pubs ? JSON.parse(root.dataset.pubs) : {};
+
+    /** Authors joined as "A, B & C", each linked to their page when they have one. */
+    const linkedAuthors = (links: AuthorLink[]) =>
+      links.map(([name, id], i) => (i === 0 ? '' : i === links.length - 1 ? ' &amp; ' : ', ') +
+        (id ? `<a href="/authors/${escapeHtml(id)}">${escapeHtml(name)}</a>` : escapeHtml(name))).join('');
+
+    /** A row from the catalogue API, drawn as the page draws its own rows. */
+    const draw = (row: Row): HTMLTableRowElement => {
+      const [href, title, subtitle, series, authors, date, , lang, flags, pub, , links] = row;
+      const e = escapeHtml;
+      const tr = document.createElement('tr');
+      tr.innerHTML =
+        `<td class="year">${e(date)}</td>` +
+        `<td><a href="${e(href)}">${e(title)}</a>` +
+        (flags & VERIFIED ? '<span class="tick" title="Verified against a library catalogue record">✓</span>' : '') +
+        (flags & FREE ? '<span class="free-mark" title="A free copy is linked">Free</span>' : '') +
+        (subtitle ? `<span class="meta"> — ${e(subtitle)}</span>` : '') +
+        (series ? `<div class="meta">${e(series)}</div>` : '') +
+        `</td><td>${links?.length ? linkedAuthors(links) : authors ? e(authors) : '<span class="meta">—</span>'}</td>` +
+        (withPublisher ? `<td><a href="/publishers/${e(pub)}">${e(pubNames[pub] ?? pub)}</a></td>` : '') +
+        `<td class="meta">${e(lang)}</td>`;
+      return tr;
+    };
+
+    let shown = tbody.rows.length;
+    let total = Number(root.dataset.total);
+    const updateMore = () => {
+      more.hidden = shown >= total;
+      moreStatus.textContent = `Showing ${shown.toLocaleString('en')} of ${total.toLocaleString('en')}.`;
+      moreButton.hidden = false;
+      moreButton.disabled = false;
+      moreButton.textContent = 'Show more';
+    };
+    let retry: () => void = () => {};
+    const failed = (message: string, again: () => void) => {
+      more.hidden = false;
+      moreStatus.textContent = message;
+      moreButton.hidden = false;
+      moreButton.disabled = false;
+      moreButton.textContent = 'Try again';
+      retry = again;
+    };
+
+    let drawMore: () => void;
+    let apply: () => void;
+
+    if (root.dataset.scope) {
+      // A large table: the API filters, sorts and pages it; the page holds only its first rows.
+      const scope = Object.fromEntries(new URLSearchParams(root.dataset.scope));
+      let params = titleParams(readCriteria(form), scope);
+      let generation = 0;
+      let busy = false;
+
+      apply = async () => {
+        const current = ++generation;
+        params = titleParams(readCriteria(form), scope);
+        moreStatus.textContent = 'Searching…';
+        try {
+          const page = await fetchTitles(params, 0, BATCH_ROWS);
+          if (current !== generation) return; // a newer search has started
+          total = page.total ?? 0;
+          tbody.replaceChildren(...page.rows.map(draw));
+          shown = page.rows.length;
+          count.textContent = total.toLocaleString('en');
+          empty.hidden = total > 0;
+          updateMore();
+        } catch {
+          if (current === generation) failed('The titles could not be loaded.', apply);
+        }
+      };
+      drawMore = async () => {
+        if (busy) return;
+        busy = true;
+        const current = generation;
+        moreButton.disabled = true;
+        try {
+          const page = await fetchTitles(params, shown, BATCH_ROWS);
+          if (current !== generation) return;
+          tbody.append(...page.rows.map(draw));
+          shown += page.rows.length;
+          if (!page.rows.length) total = shown;
+          updateMore();
+        } catch {
+          failed('The rest of the titles could not be loaded.', drawMore);
+        } finally {
+          busy = false;
+        }
+      };
+    } else {
+      // A table whose every title is in the page: filtered and sorted here.
+      const items: Item[] = [...tbody.rows].map((el) => {
+        const cells = el.cells;
+        const title = cells[1].querySelector('a')?.textContent ?? '';
+        const authors = cells[2].textContent!.trim() === '—' ? '' : cells[2].textContent!.trim();
+        const pubLink = withPublisher ? cells[3].querySelector('a') : null;
+        const pubName = pubLink?.textContent ?? '';
+        const year = Number(/\d{4}/.exec(cells[0].textContent ?? '')?.[0]) || undefined;
+        return {
+          el,
+          sortKeys: { title, author: authors, publisher: pubName, year },
+          record: {
+            search: [cellText(cells[1]), authors, pubName, el.dataset.x ?? ''].join(' ').toLowerCase(),
+            year,
+            lang: cells[cells.length - 1].textContent!.trim(),
+            pub: pubLink?.getAttribute('href')?.split('/').pop() ?? '',
+            verified: Boolean(el.querySelector('.tick')),
+            free: Boolean(el.querySelector('.free-mark')),
+          },
+        };
+      });
+      let visible = items;
+      apply = () => {
+        const criteria = readCriteria(form);
+        const sort: SortKey = criteria.sort;
+        // A stable sort, so rows keep catalogue order within equal keys; the default restores it.
+        const ordered = sort ? items.slice().sort((a, b) => compareRows(a.sortKeys, b.sortKeys, sort)) : items;
+        visible = ordered.filter((item) => matches(item.record, criteria));
+        shown = Math.min(visible.length, BATCH_ROWS);
+        total = visible.length;
+        tbody.replaceChildren(...visible.slice(0, shown).map((i) => i.el));
+        count.textContent = total.toLocaleString('en');
+        empty.hidden = total > 0;
+        updateMore();
+      };
+      drawMore = () => {
+        tbody.append(...visible.slice(shown, shown + BATCH_ROWS).map((i) => i.el));
+        shown = Math.min(visible.length, shown + BATCH_ROWS);
+        updateMore();
+      };
+    }
+
+    // Typing waits for a pause before the table is searched again.
+    let timer: number | undefined;
+    form.addEventListener('input', () => { clearTimeout(timer); timer = window.setTimeout(apply, 250); });
+    moreButton.addEventListener('click', () => (moreButton.textContent === 'Try again' ? retry() : drawMore()));
+    // Draw more as the reader nears the end of the table.
+    new IntersectionObserver((entries) => {
+      if (entries.some((e) => e.isIntersecting) && !more.hidden && !moreButton.disabled && moreButton.textContent === 'Show more') drawMore();
+    }, { rootMargin: '600px 0px' }).observe(more);
+    if (restoreFromUrl(form)) apply();
+    else updateMore();
+  }
+</script>

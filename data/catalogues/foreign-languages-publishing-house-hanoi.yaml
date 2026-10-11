@@ -1,0 +1,35 @@
+# Foreign Languages Publishing House, Hanoi — English-language list.
+# Hand-entered titles. Entries marked `verified: true` were matched to library catalogue
+# records by scripts/import-openlibrary.mjs; see their `sources`.
+publisher: foreign-languages-publishing-house-hanoi
+titles:
+  - title: Selected Works
+    authors: [Ho Chi Minh]
+    year: 1960
+    date_note: 1960–1962, 4 volumes
+    language: English
+    verified: true
+    sources:
+      - title: "Open Library edition OL8588M"
+        url: https://openlibrary.org/books/OL8588M
+      - title: "WorldCat record (OCLC 3802180)"
+        url: https://search.worldcat.org/title/3802180
+      - title: "Library of Congress record (LCCN sa66005336)"
+        url: https://lccn.loc.gov/sa66005336
+      - title: "SUDOC record 178669628"
+        url: https://www.sudoc.fr/178669628
+
+  - title: People's War, People's Army
+    authors: [Vo Nguyen Giap]
+    year: 1961
+    language: English
+    verified: true
+    sources:
+      - title: "Open Library edition OL17032M"
+        url: https://openlibrary.org/books/OL17032M
+      - title: "Library of Congress record (LCCN sa68002027)"
+        url: https://lccn.loc.gov/sa68002027
+      - title: "SUDOC record 093974396"
+        url: https://www.sudoc.fr/093974396
+      - title: "HathiTrust record 001267099"
+        url: https://catalog.hathitrust.org/Record/001267099

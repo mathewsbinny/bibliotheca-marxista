@@ -1,0 +1,7 @@
+# The catalogue API behind Caddy, which obtains its HTTPS certificate and compresses responses.
+# Copy to /etc/caddy/Caddyfile on the API host and set the domain; the site (on Cloudflare Pages)
+# is then built with PUBLIC_API_URL=https://api.bibliotheca-marxista.org/api.
+api.bibliotheca-marxista.org {
+	encode zstd gzip
+	reverse_proxy localhost:8787
+}

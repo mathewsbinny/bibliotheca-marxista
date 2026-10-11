@@ -1,0 +1,32 @@
+# Pulang Tala Publications (Manila).
+# Hand-entered titles. Entries marked `verified: true` were matched to library catalogue
+# records by scripts/import-openlibrary.mjs; see their `sources`.
+publisher: pulang-tala-publications
+titles:
+  - title: Philippine Society and Revolution
+    authors: [Amado Guerrero]
+    year: 1971
+    language: English
+    notes: >
+      First printed edition of the Communist Party of the Philippines' founding text,
+      written by Jose Maria Sison under the pen name Amado Guerrero, and issued as a
+      "little red book". Previously serialised in University of the Philippines campus
+      papers (1970) and circulated in mimeograph.
+    verified: true
+    sources:
+      - title: "Open Library edition OL5329598M"
+        url: https://openlibrary.org/books/OL5329598M
+      - title: "Library of Congress record (LCCN 72182622)"
+        url: https://lccn.loc.gov/72182622
+
+  - title: Lipunan at Rebolusyong Pilipino
+    authors: [Amado Guerrero]
+    year: 1971
+    language: Filipino
+    notes: Filipino edition of Philippine Society and Revolution, published as Lathalaang Pulang Tala.
+    verified: true
+    sources:
+      - title: "HathiTrust record 007154470"
+        url: https://catalog.hathitrust.org/Record/007154470
+      - title: "WorldCat record (OCLC 254882192)"
+        url: https://search.worldcat.org/title/254882192

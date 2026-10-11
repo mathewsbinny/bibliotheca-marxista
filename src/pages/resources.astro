@@ -1,0 +1,272 @@
+---
+import Base from '../layouts/Base.astro';
+
+interface Resource {
+  name: string;
+  url: string;
+  place?: string;
+  description: string;
+  /** How this catalogue uses the resource, if at all. */
+  use?: string;
+}
+
+const groups: { heading: string; intro: string; resources: Resource[] }[] = [
+  {
+    heading: 'Full-text archives',
+    intro: 'The texts themselves, organised by author, movement or subject.',
+    resources: [
+      {
+        name: 'Marxists Internet Archive',
+        url: 'https://www.marxists.org/',
+        description:
+          'The largest online library of Marxist writing: thousands of writers in dozens of languages, with histories of parties and periodicals.',
+        use: 'Author pages here link to the matching archive sections.',
+      },
+      {
+        name: 'Encyclopedia of Anti-Revisionism On-Line',
+        url: 'https://www.marxists.org/history/erol/',
+        description:
+          "Documents of the Maoist and anti-revisionist movements of the 1960s–80s, including many small party presses.",
+      },
+      {
+        name: 'BannedThought.net',
+        url: 'https://www.bannedthought.net/',
+        description:
+          'Scanned revolutionary literature: Foreign Languages Press (Peking) and Pyongyang books, and party documents from some forty countries, among them the Philippines, India, Nepal, Bangladesh, Turkey, Peru and Thailand.',
+        use: 'Its PDFs are linked from matching titles, and editions missing here are added to the catalogue.',
+      },
+      {
+        name: 'Revolutionary Democracy',
+        url: 'https://www.revolutionarydemocracy.org/',
+        place: 'New Delhi',
+        description:
+          'A Marxist–Leninist journal published since 1995, whose online issues reprint documents of parties across the world, among them the statements of the International Conference of Marxist–Leninist Parties and Organizations.',
+        use: 'Documents it reprinted are listed on the International page and under the movements of Côte d’Ivoire and others.',
+      },
+      {
+        name: 'SolidNet',
+        url: 'https://www.solidnet.org/',
+        description:
+          "The information portal of the communist and workers' parties, run by the Communist Party of Greece, with the documents of the International Meetings of Communist and Workers' Parties since 1998 and the statements of its member parties.",
+        use: "Used to identify the parties of the International Meetings, listed on the International page.",
+      },
+    ],
+  },
+  {
+    heading: 'Scans and digital collections',
+    intro: 'Digitised copies of the books and periodicals themselves.',
+    resources: [
+      {
+        name: 'Internet Archive',
+        url: 'https://archive.org/',
+        description:
+          "Millions of scanned books, including the Mir titles collection of Soviet books from Progress, Mir and Raduga, many in Indian languages.",
+        use: 'Its scans are linked from matching titles, marked as free to download or as lending copies to borrow, and editions missing here are added to the catalogue.',
+      },
+      {
+        name: 'Mir Titles',
+        url: 'https://mirtitles.org/',
+        description:
+          'A volunteer-run collection of more than two thousand Soviet books in translation, from Mir, Progress, Raduga, the Foreign Languages Publishing House and others, with scans to read and download.',
+        use: 'Its posts are linked from the matching titles of Soviet publishers.',
+      },
+      {
+        name: 'HathiTrust Digital Library',
+        url: 'https://www.hathitrust.org/',
+        description: 'Scans from American and European research libraries, open in full where its rights review finds a book in the public domain.',
+        use: 'Its full-view scans are linked from matching titles, found by OCLC and LCCN numbers.',
+      },
+      {
+        name: 'Project Gutenberg',
+        url: 'https://www.gutenberg.org/',
+        description: 'Free ebooks of public-domain works, including Marx, Engels, John Reed and Jack London.',
+        use: 'Its ebooks are linked from titles with the same author and title.',
+      },
+      {
+        name: 'Open Library',
+        url: 'https://openlibrary.org/',
+        description: "The Internet Archive's open catalogue of editions, aggregating records from libraries worldwide.",
+        use: 'The main source of this catalogue’s records and of their verification.',
+      },
+      {
+        name: 'Wikidata',
+        url: 'https://www.wikidata.org/',
+        description: 'The structured-data companion of Wikipedia, recording the dates, names and other spellings of authors and organisations.',
+        use: 'Its records supply authors’ years of birth and death and the other spellings of their names, checked by hand where they disagree.',
+      },
+      {
+        name: 'Digital Innovation South Africa (DISA)',
+        url: 'https://disa.ukzn.ac.za/',
+        place: 'Durban',
+        description:
+          'Digitised periodicals and documents of the South African liberation struggle, including The African Communist.',
+      },
+      {
+        name: 'Friedrich-Ebert-Stiftung Library',
+        url: 'https://library.fes.de/',
+        place: 'Bonn',
+        description: 'The library of German social democracy, with the digitised Vorwärts and other labour periodicals.',
+      },
+    ],
+  },
+  {
+    heading: 'Research libraries and archives',
+    intro: 'The physical collections. Their catalogues are for searching one item at a time.',
+    resources: [
+      {
+        name: 'International Institute of Social History',
+        url: 'https://iisg.amsterdam/',
+        place: 'Amsterdam',
+        description:
+          "The world's largest labour and socialist archive, including the papers of Marx and Engels, Bernstein and Liebknecht.",
+      },
+      {
+        name: 'German National Library (Deutsche Nationalbibliothek)',
+        url: 'https://www.dnb.de/',
+        place: 'Leipzig and Frankfurt am Main',
+        description: 'The national bibliography of German-language publishing, including the German socialist, communist and exile presses.',
+        use: 'Its catalogue is searched for the German and Austrian houses, and matching records are added as verified titles.',
+      },
+      {
+        name: 'Bibliothèque nationale de France',
+        url: 'https://catalogue.bnf.fr/',
+        place: 'Paris',
+        description: "The French legal-deposit library, holding the output of the French Communist Party's houses and French editions from Moscow and Beijing.",
+        use: 'Its catalogue is searched for the French and Belgian houses, and matching records are added as verified titles, with a link to their Gallica scan where Gallica marks it public domain.',
+      },
+      {
+        name: 'National Diet Library',
+        url: 'https://ndlsearch.ndl.go.jp/',
+        place: 'Tokyo',
+        description: "Japan's national library, whose search covers the pre-war Marxist publishers suppressed in the 1930s.",
+        use: 'Its catalogue is searched for the Japanese houses, and matching records are added as verified titles, with a link to their scan in the NDL Digital Collections where it is open to all.',
+      },
+      {
+        name: 'National Library of Poland (Biblioteka Narodowa)',
+        url: 'https://www.bn.org.pl/',
+        place: 'Warsaw',
+        description: 'The Polish national bibliography, with its digital library Polona, covering the Polish socialist and communist presses from the 1880s to 1989.',
+        use: 'Its catalogue is searched for the Polish houses, and matching records are added as verified titles.',
+      },
+      {
+        name: 'KB, National Library of the Netherlands',
+        url: 'https://www.kb.nl/',
+        place: 'The Hague',
+        description: 'The Dutch national library, whose catalogue and Delpher collection hold the Dutch communist and anticolonial presses, including Surinamese writers published in the Netherlands.',
+        use: 'Its catalogue is searched for Dutch-language works of the movements listed here.',
+      },
+      {
+        name: 'Library of Congress',
+        url: 'https://www.loc.gov/',
+        place: 'Washington',
+        description: "The world's largest library, whose name authorities (id.loc.gov) record parties and organisations, and the periodicals its Serial Record Division holds, including those of clandestine parties.",
+        use: 'Its catalogue is searched for the houses of North America, the liberation movements and the émigré presses, and for International Publishers\' New World Paperbacks; its name authorities are cited for the publications of parties not otherwise catalogued, such as the Communist Party of Togo.',
+      },
+      {
+        name: 'CiNii Books',
+        url: 'https://ci.nii.ac.jp/books/',
+        place: 'Tokyo',
+        description: "The union catalogue of Japan's university libraries, run by the National Institute of Informatics, which hold much of the English, Russian, Chinese and German left press, often with the Library of Congress record and the publisher's series numbers.",
+        use: 'It is searched by publisher for titles the other catalogues lack, which are added with a link to the CiNii record; its record of the New World Paperbacks series (BA03947967) supplies the series numbers of International Publishers\' paperbacks.',
+      },
+      {
+        name: 'SUDOC',
+        url: 'https://www.sudoc.abes.fr/',
+        place: 'Montpellier',
+        description: 'The union catalogue of French university and research libraries, run by ABES, whose holdings of French communist, Trotskyist and anticolonial publishing complement the national library\'s.',
+        use: 'It is searched by publisher for the French and Belgian houses, alongside the Bibliothèque nationale de France, and matching records are added as verified titles.',
+      },
+      {
+        name: 'swisscovery',
+        url: 'https://swisscovery.slsp.ch/',
+        place: 'Zurich',
+        description: 'The shared catalogue of Swiss academic libraries, among them the Swiss Social Archives, which hold the Swiss labour movement\'s presses and much German exile publishing.',
+        use: 'It is searched by publisher for the German-language houses, alongside the German National Library, and matching records are added as verified titles.',
+      },
+      {
+        name: 'K10plus',
+        url: 'https://kxp.k10plus.de/',
+        place: 'Göttingen',
+        description: 'The union catalogue of the libraries of northern and south-western Germany, among them the Berlin State Library, whose Slavic, East European and East Asian collections are among the largest outside those regions.',
+        use: 'It is searched by publisher for every house, year by year for the large Soviet, East European and Chinese state houses, and matching records are added as verified titles.',
+      },
+      {
+        name: 'B3Kat',
+        url: 'https://www.gateway-bayern.de/',
+        place: 'Munich',
+        description: 'The union catalogue of the libraries of Bavaria, Berlin and Brandenburg, among them the Bavarian State Library, with its East European collections.',
+        use: 'It is searched for every house, year by year for the largest, and matching records are added as verified titles.',
+      },
+      {
+        name: 'Biblioteca Nacional de España',
+        url: 'https://www.bne.es/',
+        place: 'Madrid',
+        description: "Spain's national library, which holds the Spanish communist and anti-Franco presses and the Spanish-language editions of the Soviet, Chinese and Cuban state houses.",
+        use: 'It is searched by publisher for every house, and matching records are added as verified titles.',
+      },
+      {
+        name: 'Marx Memorial Library',
+        url: 'https://www.marx-memorial-library.org.uk/',
+        place: 'London',
+        description:
+          'A library of Marxism and the labour movement, housed at 37a Clerkenwell Green, the former home of the Twentieth Century Press.',
+      },
+      {
+        name: 'Working Class Movement Library',
+        url: 'https://www.wcml.org.uk/',
+        place: 'Salford',
+        description: 'Books, pamphlets and archives of British working-class and radical movements.',
+      },
+      {
+        name: 'Modern Records Centre, University of Warwick',
+        url: 'https://warwick.ac.uk/services/library/mrc/',
+        place: 'Coventry',
+        description: 'Archives of British trade unions and socialist parties, including Socialist Labour Party pamphlets.',
+      },
+      {
+        name: 'Tamiment Library & Robert F. Wagner Labor Archives',
+        url: 'https://guides.nyu.edu/tamimentlibrary',
+        place: 'New York',
+        description: 'The collections of American communist, socialist and labour movements.',
+      },
+      {
+        name: 'Fondazione Giangiacomo Feltrinelli',
+        url: 'https://fondazionefeltrinelli.it/',
+        place: 'Milan',
+        description: 'A library and archive of Italian and international socialism and the labour movement.',
+      },
+      {
+        name: 'CeDInCI',
+        url: 'https://www.cedinci.org/',
+        place: 'Buenos Aires',
+        description: 'The Documentation and Research Centre of Left Culture in Argentina, strong on Latin American left publishing.',
+      },
+    ],
+  },
+];
+---
+
+<Base centered title="Resources" description="Archives, libraries and digital collections of Leftist and Marxist literature.">
+  <h1>Resources</h1>
+  <p class="lede">
+    Other places to find, read and research Leftist and Marxist literature. Where a resource feeds
+    this catalogue, that is noted.
+  </p>
+
+  {groups.map((group) => (
+    <section>
+      <h2>{group.heading}</h2>
+      <p class="meta">{group.intro}</p>
+      <ul class="resources">
+        {group.resources.map((r) => (
+          <li>
+            <a href={r.url} class="resource-name">{r.name}</a>
+            {r.place && <span class="meta"> · {r.place}</span>}
+            <p>{r.description}</p>
+            {r.use && <p class="meta resource-use">Used here: {r.use}</p>}
+          </li>
+        ))}
+      </ul>
+    </section>
+  ))}
+</Base>

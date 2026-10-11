@@ -1,0 +1,97 @@
+# Otto Wigand, Leipzig — the Young Hegelians and early Engels.
+# Hand-entered titles. Entries marked `verified: true` were matched to library catalogue
+# records by scripts/import-openlibrary.mjs; see their `sources`.
+publisher: otto-wigand
+titles:
+  - title: Hallische Jahrbücher für deutsche Wissenschaft und Kunst
+    editors: [Arnold Ruge, Theodor Echtermeyer]
+    year: 1838
+    date_note: 1838–1841
+    language: German
+    notes: Continued as the Deutsche Jahrbücher until their suppression in 1843.
+
+  - title: Die Posaune des jüngsten Gerichts über Hegel den Atheisten und Antichristen
+    authors: [Bruno Bauer]
+    year: 1841
+    language: German
+    notes: Published anonymously.
+    verified: true
+    sources:
+      - title: "Open Library edition OL52940071M"
+        url: https://openlibrary.org/books/OL52940071M
+      - title: "WorldCat record (OCLC 10151029)"
+        url: https://search.worldcat.org/title/10151029
+
+  - title: Kritik der evangelischen Geschichte der Synoptiker
+    authors: [Bruno Bauer]
+    year: 1841
+    date_note: 1841–1842
+    language: German
+    verified: true
+    sources:
+      - title: "Open Library edition OL49887895M"
+        url: https://openlibrary.org/books/OL49887895M
+      - title: "WorldCat record (OCLC 5393910)"
+        url: https://search.worldcat.org/title/5393910
+      - title: "Open Library edition OL18557708M"
+        url: https://openlibrary.org/books/OL18557708M
+      - title: "WorldCat record (OCLC 181923824)"
+        url: https://search.worldcat.org/title/181923824
+
+  - title: Das Wesen des Christenthums
+    authors: [Ludwig Feuerbach]
+    year: 1841
+    language: German
+    verified: true
+    sources:
+      - title: "Open Library edition OL44699970M"
+        url: https://openlibrary.org/books/OL44699970M
+      - title: "WorldCat record (OCLC 1087290827)"
+        url: https://search.worldcat.org/title/1087290827
+      - title: "Open Library edition OL19501950M"
+        url: https://openlibrary.org/books/OL19501950M
+
+  - title: Die europäische Triarchie
+    authors: [Moses Hess]
+    year: 1841
+    language: German
+    verified: true
+    sources:
+      - title: "Open Library edition OL52941179M"
+        url: https://openlibrary.org/books/OL52941179M
+      - title: "WorldCat record (OCLC 31002820)"
+        url: https://search.worldcat.org/title/31002820
+
+  - title: Der Einzige und sein Eigenthum
+    authors: [Max Stirner]
+    year: 1845
+    language: German
+    notes: Dated 1845 but issued in October 1844.
+    verified: true
+    sources:
+      - title: "Open Library edition OL6584433M"
+        url: https://openlibrary.org/books/OL6584433M
+      - title: "WorldCat record (OCLC 9750792)"
+        url: https://search.worldcat.org/title/9750792
+      - title: "Library of Congress record (LCCN 16003696)"
+        url: https://lccn.loc.gov/16003696
+      - title: "Open Library edition OL20009068M"
+        url: https://openlibrary.org/books/OL20009068M
+
+  - title: Die Lage der arbeitenden Klasse in England
+    authors: [Friedrich Engels]
+    year: 1845
+    language: German
+    verified: true
+    sources:
+      - title: "Open Library edition OL6912668M"
+        url: https://openlibrary.org/books/OL6912668M
+      - title: "WorldCat record (OCLC 29526108)"
+        url: https://search.worldcat.org/title/29526108
+      - title: "Library of Congress record (LCCN 02002493)"
+        url: https://lccn.loc.gov/02002493
+
+  - title: Das Wesen der Religion
+    authors: [Ludwig Feuerbach]
+    year: 1846
+    language: German

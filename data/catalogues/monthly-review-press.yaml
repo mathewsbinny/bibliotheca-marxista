@@ -1,0 +1,85 @@
+# Monthly Review Press, New York.
+# Hand-entered titles. Entries marked `verified: true` were matched to library catalogue
+# records by scripts/import-openlibrary.mjs; see their `sources`.
+publisher: monthly-review-press
+titles:
+  - title: The Political Economy of Growth
+    authors: [Paul A. Baran]
+    year: 1957
+    language: English
+    verified: true
+    sources:
+      - title: "Open Library edition OL6222609M"
+        url: https://openlibrary.org/books/OL6222609M
+      - title: "WorldCat record (OCLC 168641)"
+        url: https://search.worldcat.org/title/168641
+      - title: "Library of Congress record (LCCN 57007953)"
+        url: https://lccn.loc.gov/57007953
+      - title: "Open Library edition OL43345203M"
+        url: https://openlibrary.org/books/OL43345203M
+
+  - title: "Monopoly Capital"
+    subtitle: An Essay on the American Economic and Social Order
+    authors: [Paul A. Baran, Paul M. Sweezy]
+    year: 1966
+    language: English
+    verified: true
+    sources:
+      - title: "Open Library edition OL21285868M"
+        url: https://openlibrary.org/books/OL21285868M
+      - title: "WorldCat record (OCLC 168632)"
+        url: https://search.worldcat.org/title/168632
+      - title: "Library of Congress record (LCCN 65015269)"
+        url: https://lccn.loc.gov/65015269
+      - title: "Open Library edition OL5944155M"
+        url: https://openlibrary.org/books/OL5944155M
+
+  - title: Open Veins of Latin America
+    subtitle: Five Centuries of the Pillage of a Continent
+    original_title: Las venas abiertas de América Latina
+    authors: [Eduardo Galeano]
+    translators: [Cedric Belfrage]
+    year: 1973
+    language: English
+    verified: true
+    sources:
+      - title: "Open Library edition OL5308471M"
+        url: https://openlibrary.org/books/OL5308471M
+      - title: "Library of Congress record (LCCN 72092036)"
+        url: https://lccn.loc.gov/72092036
+      - title: "Open Library edition OL22394037M"
+        url: https://openlibrary.org/books/OL22394037M
+      - title: "K10plus record 309980267"
+        url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=309980267
+
+  - title: Accumulation on a World Scale
+    subtitle: A Critique of the Theory of Underdevelopment
+    authors: [Samir Amin]
+    year: 1974
+    language: English
+    verified: true
+    sources:
+      - title: "Open Library edition OL5308463M"
+        url: https://openlibrary.org/books/OL5308463M
+      - title: "Library of Congress record (LCCN 72092028)"
+        url: https://lccn.loc.gov/72092028
+      - title: "Open Library edition OL38835396M"
+        url: https://openlibrary.org/books/OL38835396M
+      - title: "Open Library edition OL38831552M"
+        url: https://openlibrary.org/books/OL38831552M
+
+  - title: Labor and Monopoly Capital
+    subtitle: The Degradation of Work in the Twentieth Century
+    authors: [Harry Braverman]
+    year: 1974
+    language: English
+    verified: true
+    sources:
+      - title: "Open Library edition OL22188843M"
+        url: https://openlibrary.org/books/OL22188843M
+      - title: "Internet Archive item labormonopolycap00harr"
+        url: https://archive.org/details/labormonopolycap00harr
+      - title: "K10plus record 1649070578"
+        url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1649070578
+      - title: "K10plus record 1648130321"
+        url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1648130321

@@ -1,0 +1,97 @@
+---
+/** A table of a movement's or an international's works; catalogued titles link to their page. */
+import { names, type MovementWork } from '../lib/catalogue';
+
+interface Props {
+  works: MovementWork[];
+}
+
+const { works } = Astro.props;
+const languageOf = (w: MovementWork) => w.language || 'Not recorded';
+// Individual languages: "English, Russian" counts as both.
+const languages = [...new Set(works.flatMap((w) => languageOf(w).split(', ')))].sort((a, b) => a.localeCompare(b));
+---
+
+{works.length > 0 ? (
+  <div class="works-browser">
+  {languages.length > 1 && (
+    <form class="filters" onsubmit="return false">
+      <label>
+        Language
+        <select name="lang">
+          <option value="">All</option>
+          {languages.map((l) => <option value={l}>{l}</option>)}
+        </select>
+      </label>
+      <span class="count" aria-live="polite"><span data-count>{works.length.toLocaleString('en')}</span> of {works.length.toLocaleString('en')} titles</span>
+    </form>
+  )}
+  <div class="table-wrap">
+    <table class="catalogue">
+      <thead>
+        <tr>
+          <th scope="col">Year</th>
+          <th scope="col">Title</th>
+          <th scope="col">Author(s)</th>
+          <th scope="col">Publisher</th>
+          <th scope="col">Language</th>
+        </tr>
+      </thead>
+      <tbody>
+        {works.map((w) => (
+          <tr data-lang={languageOf(w)}>
+            <td class="year">{w.date}</td>
+            <td>
+              {w.href ? <a href={w.href}>{w.title}</a> : w.title}
+              {w.subtitle && <span class="meta"> — {w.subtitle}</span>}
+              {w.notes && <div class="meta">{w.notes}</div>}
+              {!w.href && (w.links.length > 0 || w.sources.length > 0) && (
+                <div class="meta">
+                  {[...w.links.map((l) => ({ title: l.label, url: l.url })), ...w.sources].map((s, i) => (
+                    <>{i > 0 && ' · '}{s.url ? <a href={s.url}>{s.title}</a> : s.title}</>
+                  ))}
+                </div>
+              )}
+            </td>
+            <td>{names(w.authors) || <span class="meta">—</span>}</td>
+            <td>
+              {w.publisherId ? <a href={`/publishers/${w.publisherId}`}>{w.publisher}</a> : w.publisher}
+              {w.place && <span class="meta">, {w.place}</span>}
+            </td>
+            <td class="meta">{languageOf(w)}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p class="meta" data-empty hidden>No titles in this language.</p>
+  </div>
+) : (
+  <p class="meta">No works recorded yet.</p>
+)}
+
+<script>
+  // The language filter: shows the works in the chosen language ("English, Russian" counts as both).
+  for (const root of document.querySelectorAll<HTMLElement>('.works-browser')) {
+    const select = root.querySelector<HTMLSelectElement>('select[name=lang]');
+    if (!select) continue;
+    const rows = [...root.querySelectorAll<HTMLTableRowElement>('tbody tr')];
+    const count = root.querySelector('[data-count]')!;
+    const empty = root.querySelector<HTMLElement>('[data-empty]')!;
+    const apply = () => {
+      let shown = 0;
+      for (const row of rows) {
+        row.hidden = Boolean(select.value) && !row.dataset.lang!.split(', ').includes(select.value);
+        if (!row.hidden) shown++;
+      }
+      count.textContent = shown.toLocaleString('en');
+      empty.hidden = shown > 0;
+      const url = new URL(location.href);
+      if (select.value) url.searchParams.set('lang', select.value); else url.searchParams.delete('lang');
+      history.replaceState(null, '', url);
+    };
+    select.addEventListener('change', apply);
+    const fromUrl = new URLSearchParams(location.search).get('lang');
+    if (fromUrl && [...select.options].some((o) => o.value === fromUrl)) { select.value = fromUrl; apply(); }
+  }
+</script>

@@ -1,0 +1,21 @@
+# LeftWord Books, New Delhi.
+# Hand-entered titles. Entries marked `verified: true` were matched to library catalogue
+# records by scripts/import-openlibrary.mjs; see their `sources`.
+publisher: leftword-books
+titles:
+  - title: Red Star Over the Third World
+    authors: [Vijay Prashad]
+    year: 2017
+    language: English
+    verified: true
+    sources:
+      - title: "K10plus record 1669941108"
+        url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1669941108
+      - title: "B3Kat record BV044748772"
+        url: https://www.gateway-bayern.de/BV044748772
+
+  - title: "Washington Bullets"
+    subtitle: A History of the CIA, Coups, and Assassinations
+    authors: [Vijay Prashad]
+    year: 2020
+    language: English

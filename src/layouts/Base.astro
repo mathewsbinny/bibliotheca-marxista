@@ -1,0 +1,97 @@
+---
+import { safeJson } from '../lib/safe-json';
+import '../styles/global.css';
+import Anthem from '../components/Anthem.astro';
+
+interface Props {
+  title?: string;
+  description?: string;
+  /** Centre the page heading, introduction and section headings (the main pages). */
+  centered?: boolean;
+  /** Keep the page out of search engines (e.g. the title page, filled in by script). */
+  noindex?: boolean;
+  /** Open Graph type: "profile" for a person, "website" otherwise. */
+  ogType?: 'website' | 'profile';
+  /** schema.org structured data describing the page's subject (a publisher, a person…). */
+  jsonLd?: Record<string, unknown>;
+}
+
+const SITE_NAME = 'Bibliotheca Marxista';
+const {
+  title, centered = false, noindex = false, ogType = 'website', jsonLd,
+  description = 'An open repository of the backlists of Leftist and Marxist publishing houses: publishers, titles and authors from 1838 to the present.',
+} = Astro.props;
+const fullTitle = title ? `${title} · ${SITE_NAME}` : `${SITE_NAME} — Backlists of Leftist and Marxist Publishers`;
+const path = Astro.url.pathname;
+const canonical = new URL(path, Astro.site).href;
+// The social preview: a 1200×630 crop of a painting (public/og-image.jpg).
+const image = new URL('/og-image.jpg', Astro.site).href;
+const imageAlt = 'A painting of workers of many nations raising a red banner with the hammer and sickle, a sheaf of wheat and an open book.';
+/** Search engines show about 155 characters of a description; cut longer ones at a word. */
+const metaDescription = description.length <= 158 ? description : description.slice(0, 155).replace(/\s+\S*$/, '') + '…';
+const nav = [
+  { href: '/publishers', label: 'Publishers' },
+  { href: '/titles', label: 'Titles' },
+  { href: '/authors', label: 'Authors' },
+  { href: '/international', label: 'International' },
+  { href: '/resources', label: 'Resources' },
+  { href: '/about', label: 'About' },
+];
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={metaDescription} />
+    {noindex && <meta name="robots" content="noindex, follow" />}
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
+    <meta name="theme-color" content="#a3201b" />
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:title" content={title ?? SITE_NAME} />
+    <meta property="og:description" content={metaDescription} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:locale" content="en_GB" />
+    <meta property="og:image" content={image} />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content={imageAlt} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content={image} />
+    <meta name="twitter:image:alt" content={imageAlt} />
+    <meta name="twitter:title" content={title ?? SITE_NAME} />
+    <meta name="twitter:description" content={metaDescription} />
+    {jsonLd && <script type="application/ld+json" set:html={safeJson({ '@context': 'https://schema.org', ...jsonLd })} />}
+    <title>{fullTitle}</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <a href="/" class="wordmark">Bibliotheca <span>Marxista</span></a>
+        <nav>
+          {nav.map((item) => (
+            <a href={item.href} aria-current={path.startsWith(item.href) ? 'page' : undefined}>
+              {item.label}
+            </a>
+          ))}
+        </nav>
+      </div>
+    </header>
+    <main class:list={["wrap", { centered }]}>
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        <p class="slogan">Workers of the World, Unite!</p>
+        <p>Catalogue data is openly licensed and community maintained.</p>
+        <p>© 2026 Bibliotheca Marxista. All rights reserved.</p>
+      </div>
+    </footer>
+    <Anthem />
+  </body>
+</html>

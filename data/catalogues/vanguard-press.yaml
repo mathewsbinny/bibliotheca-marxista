@@ -1,0 +1,21 @@
+# Vanguard Press, New York.
+# Hand-entered titles. Entries marked `verified: true` were matched to library catalogue
+# records by scripts/import-openlibrary.mjs; see their `sources`.
+publisher: vanguard-press
+titles:
+  - title: Young Lonigan
+    subtitle: A Boyhood in Chicago Streets
+    authors: [James T. Farrell]
+    year: 1932
+    language: English
+    series: Studs Lonigan trilogy
+    verified: true
+    sources:
+      - title: "Open Library edition OL6773510M"
+        url: https://openlibrary.org/books/OL6773510M
+      - title: "WorldCat record (OCLC 562220)"
+        url: https://search.worldcat.org/title/562220
+      - title: "Library of Congress record (LCCN 32011122)"
+        url: https://lccn.loc.gov/32011122
+      - title: "Open Library edition OL47005652M"
+        url: https://openlibrary.org/books/OL47005652M

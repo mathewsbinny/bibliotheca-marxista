@@ -1,0 +1,32 @@
+# International Network for Philippine Studies (Utrecht).
+# Hand-entered titles. Entries marked `verified: true` were matched to library catalogue
+# records by scripts/import-openlibrary.mjs; see their `sources`.
+publisher: international-network-for-philippine-studies
+titles:
+  - title: Foundation for Resuming the Philippine Revolution
+    authors: [Jose Maria Sison]
+    year: 2013
+    language: English
+    series: Continuing the Philippine Revolution
+    notes: >
+      First volume of Sison's selected works for 1968–1990, co-published with Aklat
+      ng Bayan, Manila.
+    verified: true
+    sources:
+      - title: "K10plus record 780327144"
+        url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=780327144
+
+  - title: "Jose Maria Sison: Reflections on Revolution and Prospects"
+    authors: [Jose Maria Sison]
+    editors: [Julieta de Lima]
+    year: 2019
+    language: English
+    notes: Interviews by Rainer Werning.
+
+  - title: On the Workers' Movement
+    authors: [Jose Maria Sison]
+    editors: [Julieta de Lima]
+    language: English
+    series: Sison Reader Series
+    date_note: by 2023
+    notes: Book 14 of the Sison Reader Series (from 2021), published in paperback and as an e-book.

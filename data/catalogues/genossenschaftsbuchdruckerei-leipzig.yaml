@@ -1,0 +1,18 @@
+# Genossenschaftsbuchdruckerei, Leipzig.
+# Hand-entered titles. Entries marked `verified: true` were matched to library catalogue
+# records by scripts/import-openlibrary.mjs; see their `sources`.
+publisher: genossenschaftsbuchdruckerei-leipzig
+titles:
+  - title: Herrn Eugen Dühring's Umwälzung der Wissenschaft
+    authors: [Friedrich Engels]
+    year: 1878
+    language: German
+    notes: Known as Anti-Dühring; serialised in Vorwärts from 1877.
+    verified: true
+    sources:
+      - title: "Open Library edition OL6638462M"
+        url: https://openlibrary.org/books/OL6638462M
+      - title: "WorldCat record (OCLC 7234376)"
+        url: https://search.worldcat.org/title/7234376
+      - title: "Library of Congress record (LCCN 21018924)"
+        url: https://lccn.loc.gov/21018924

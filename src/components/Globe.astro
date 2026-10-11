@@ -1,0 +1,435 @@
+---
+/**
+ * A rotatable globe of the countries with catalogued publishers, coloured by Cold War alignment.
+ * Choosing a pin or a coloured country opens a panel listing that country's publishers.
+ */
+import { getMovementWorks, getMovements, getPublishers, getTitlesByPublisher, yearsActive } from '../lib/catalogue';
+import { BLOC_LABELS, COUNTRIES, REGIONS, regionLabel } from '../lib/globe';
+import { isPlace as known, pinName, regionByLabel } from '../lib/globe-places';
+import { safeJson } from '../lib/safe-json';
+
+const byPublisher = await getTitlesByPublisher();
+const byCountry = new Map<string, { id: string; name: string; city?: string; years: string; status: string; titles: number }[]>();
+// The internationals' own presses are listed on the International page instead.
+for (const p of (await getPublishers()).filter((p) => !p.data.international)) {
+  if (!known(p.data.country)) {
+    throw new Error(`Globe: no alignment or pin for the country "${p.data.country}" (publisher ${p.id}); add it to src/lib/globe.ts`);
+  }
+  const key = pinName(p.data, `publisher ${p.id}`);
+  const list = byCountry.get(key) ?? [];
+  list.push({
+    id: p.id, name: p.data.name, city: p.data.city, years: yearsActive(p.data), status: p.data.status,
+    titles: byPublisher.get(p.id)?.length ?? 0,
+  });
+  byCountry.set(key, list);
+}
+// Published abroad: exile presses (listed under the country of the movement they served as well as
+// where they worked) and movements whose works were printed by foreign presses.
+const abroadByCountry = new Map<string, { href: string; name: string; where: string; years: string; count: number; unit: string }[]>();
+const addAbroad = (country: string, entry: { href: string; name: string; where: string; years: string; count: number; unit: string }, what: string) => {
+  if (!known(country)) throw new Error(`Globe: no alignment or pin for the country "${country}" (${what}); add it to src/lib/globe.ts`);
+  abroadByCountry.set(country, [...(abroadByCountry.get(country) ?? []), entry]);
+};
+for (const p of await getPublishers()) {
+  if (!p.data.home_country || p.data.home_country === p.data.country) continue;
+  addAbroad(p.data.home_country, {
+    href: `/publishers/${p.id}`, name: p.data.name, where: [p.data.city, p.data.country].filter(Boolean).join(', '),
+    years: yearsActive(p.data), count: byPublisher.get(p.id)?.length ?? 0, unit: 'titles',
+  }, `publisher ${p.id}`);
+}
+for (const m of await getMovements()) {
+  addAbroad(pinName(m.data, `movement ${m.id}`), {
+    href: `/movements/${m.id}`, name: m.data.name, where: 'movement',
+    years: yearsActive({ ...m.data, estimated: [] }), count: (await getMovementWorks(m)).length, unit: 'works',
+  }, `movement ${m.id}`);
+}
+const names = new Set([...byCountry.keys(), ...abroadByCountry.keys()]);
+// A region with entries takes its map areas from its country; one with nothing listed is shaded
+// and opened as part of the country (unless it has an alignment of its own).
+const listed = (r: string) => names.has(regionLabel(r, REGIONS[r]));
+const place = (name: string) => {
+  const region = regionByLabel.get(name);
+  if (region) return { bloc: region.bloc ?? COUNTRIES[region.country].bloc, areas: region.areas, pin: region.pin, note: region.note };
+  const own = Object.entries(REGIONS).filter(([, d]) => d.country === name);
+  const taken = new Set(own.filter(([r]) => listed(r)).flatMap(([, d]) => d.areas));
+  const unlisted = own.filter(([r, d]) => !listed(r) && !d.bloc).flatMap(([, d]) => d.areas);
+  return { ...COUNTRIES[name], areas: [...new Set([...COUNTRIES[name].areas, ...unlisted])].filter((a) => !taken.has(a)) };
+};
+const countries = [...names]
+  .map((name) => ({ name, ...place(name), publishers: byCountry.get(name) ?? [], abroad: abroadByCountry.get(name) ?? [] }))
+  .sort((a, b) => a.name.localeCompare(b.name));
+---
+
+<section class="globe-section" aria-label="Publishers around the world">
+  <div class="globe-stage">
+    <svg class="globe" role="img" aria-label="Globe of the countries with catalogued publishers">
+      <defs>
+        <pattern id="globe-split" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+          <rect width="3" height="6" class="fill-communist" />
+          <rect x="3" width="3" height="6" class="fill-western" />
+        </pattern>
+      </defs>
+      <path class="globe-sphere" />
+      <path class="globe-graticule" />
+      <g class="globe-countries"></g>
+      <g class="globe-pins"></g>
+    </svg>
+
+    <aside class="globe-panel" aria-live="polite" hidden>
+      <button type="button" class="globe-close" aria-label="Close">×</button>
+      <div class="globe-panel-body"></div>
+    </aside>
+  </div>
+
+  <div class="globe-under">
+    <button type="button" class="globe-spin" aria-pressed="false">Spin</button>
+    <p class="globe-hint meta">Drag or flick to turn · scroll to zoom · choose a pin</p>
+  </div>
+
+  <ul class="globe-legend">
+    {(['communist', 'formercommunist', 'nonaligned', 'usaligned', 'neutral', 'western'] as const)
+      .filter((bloc) => countries.some((c) => c.bloc === bloc))
+      .map((bloc) => <li><span class={`swatch fill-${bloc}`}></span> {BLOC_LABELS[bloc]}</li>)}
+    <li><span class="swatch fill-none"></span> No publishers catalogued</li>
+  </ul>
+
+  <div class="globe-controls">
+    <label class="globe-picker">
+      Choose a country
+      <select>
+        <option value="">—</option>
+        {countries.map((c) => <option value={c.name}>{c.name} ({c.publishers.length + c.abroad.length})</option>)}
+      </select>
+    </label>
+  </div>
+
+  <slot />
+
+  <p class="meta globe-note">
+    Countries are coloured by their alignment in the Cold War. Historical states are shown on
+    today's map: the Soviet Union across its fifteen successor states, Germany divided along the
+    inner German border of 1949–1990 with West Berlin, and Palestine as divided by the UN
+    Partition Plan of 1947, with Jerusalem as an international zone. Members of the Non-Aligned Movement
+    are shown as non-aligned, whatever their later alliances.
+  </p>
+
+  <script type="application/json" id="globe-data" set:html={safeJson({ countries, labels: BLOC_LABELS })} />
+</section>
+
+<script>
+  import { geoDistance, geoGraticule10, geoInterpolate, geoOrthographic, geoPath } from 'd3-geo';
+  import { feature } from 'topojson-client';
+  import type { GeometryCollection, Topology } from 'topojson-specification';
+  import world from 'world-atlas/countries-110m.json';
+  import dividedGermany from '../data/divided-germany.json';
+  import partition1947 from '../data/partition-1947.json';
+  import type { Bloc } from '../lib/globe';
+
+  interface PublisherSummary { id: string; name: string; city?: string; years: string; status: string; titles: number }
+  interface AbroadSummary { href: string; name: string; where: string; years: string; count: number; unit: string }
+  interface Country { name: string; bloc: Bloc; areas: string[]; pin: [number, number]; note?: string; publishers: PublisherSummary[]; abroad: AbroadSummary[] }
+
+  const { countries, labels } = JSON.parse(document.getElementById('globe-data')!.textContent!) as {
+    countries: Country[]; labels: Record<Bloc, string>;
+  };
+  const byName = new Map(countries.map((c) => [c.name, c]));
+
+  const SVG = 'http://www.w3.org/2000/svg';
+  const svg = document.querySelector<SVGSVGElement>('svg.globe')!;
+  const sphere = svg.querySelector<SVGPathElement>('.globe-sphere')!;
+  const graticule = svg.querySelector<SVGPathElement>('.globe-graticule')!;
+  const countryLayer = svg.querySelector<SVGGElement>('.globe-countries')!;
+  const pinLayer = svg.querySelector<SVGGElement>('.globe-pins')!;
+  const panel = document.querySelector<HTMLElement>('.globe-panel')!;
+  const panelBody = panel.querySelector<HTMLElement>('.globe-panel-body')!;
+  const picker = document.querySelector<HTMLSelectElement>('.globe-picker select')!;
+
+  const MIN_ZOOM = 0.8;
+  const MAX_ZOOM = 6;
+  let zoom = 1;
+  let radius = 1; // unzoomed globe radius in pixels, set from the stage size
+
+  // Earth's axial tilt, with the north pole leaning right as on a desk globe. The globe spins about
+  // this tilted axis, west to east like the Earth.
+  const AXIAL_TILT = -23.44;
+  // It opens with the equator facing the viewer and the side of the Earth now in daylight turned
+  // towards them: the Sun is overhead at longitude 15° × (12 − UTC hours).
+  const now = new Date();
+  const subsolarLongitude = (12 - (now.getUTCHours() + now.getUTCMinutes() / 60)) * 15;
+  const projection = geoOrthographic().clipAngle(90).rotate([-subsolarLongitude, 0, AXIAL_TILT]);
+  const path = geoPath(projection);
+  const graticuleLines = geoGraticule10();
+
+  // The drawing is sized in real pixels to the stage, so there is room around the globe to zoom
+  // into; beyond that, the stage's edges fade out rather than cutting the globe off sharply.
+  function resize() {
+    const { width, height } = svg.getBoundingClientRect();
+    svg.setAttribute('viewBox', `0 0 ${width} ${height}`);
+    radius = Math.min(width, height) * 0.44;
+    projection.translate([width / 2, height / 2]).scale(radius * zoom);
+    render();
+  }
+
+  // Map areas, each shaded by the catalogue countries that cover it.
+  const topology = world as unknown as Topology<{ countries: GeometryCollection<{ name: string }> }>;
+  // Historical borders replace today's: Germany divided along the inner German border, and
+  // Mandate Palestine as divided by the UN Partition Plan of 1947 (with the Golan in Syria).
+  const atlasAreas = feature(topology, topology.objects.countries).features;
+  const replaced = new Set(['Germany', ...partition1947.replaces]);
+  const areas = [
+    ...atlasAreas.filter((f) => !replaced.has(f.properties.name)),
+    ...(dividedGermany.features as unknown as typeof atlasAreas),
+    ...(partition1947.features as unknown as typeof atlasAreas),
+  ];
+  const owners = new Map<string, Country[]>();
+  for (const c of countries) for (const a of c.areas) owners.set(a, [...(owners.get(a) ?? []), c]);
+
+  const areaPaths = areas.map((f) => {
+    const el = document.createElementNS(SVG, 'path');
+    const own = owners.get(f.properties.name) ?? [];
+    const blocs = new Set(own.map((c) => c.bloc));
+    el.setAttribute('class', `globe-area ${own.length === 0 ? 'fill-none' : blocs.size > 1 ? 'fill-split' : `fill-${own[0].bloc}`}`);
+    if (own.length) {
+      // Clicking a shaded area opens its country; a shared area opens the country with most publishers.
+      const main = [...own].sort((a, b) => b.publishers.length - a.publishers.length)[0];
+      el.addEventListener('click', () => select(main));
+      el.classList.add('clickable');
+      const title = document.createElementNS(SVG, 'title');
+      title.textContent = own.map((c) => c.name).join(' / ');
+      el.append(title);
+    } else if (/international zone/.test(f.properties.name)) {
+      const title = document.createElementNS(SVG, 'title');
+      title.textContent = f.properties.name;
+      el.append(title);
+    }
+    countryLayer.append(el);
+    return { feature: f, el, own };
+  });
+
+  const pins = countries.map((c) => {
+    const g = document.createElementNS(SVG, 'g');
+    g.setAttribute('class', 'globe-pin');
+    g.setAttribute('tabindex', '0');
+    g.setAttribute('role', 'button');
+    g.setAttribute('aria-label', `${c.name}: ${c.publishers.length} ${c.publishers.length === 1 ? 'publisher' : 'publishers'}${c.abroad.length ? `, ${c.abroad.length} abroad` : ''}`);
+    const hit = document.createElementNS(SVG, 'circle');
+    hit.setAttribute('r', '11');
+    hit.setAttribute('class', 'hit');
+    const dot = document.createElementNS(SVG, 'circle');
+    dot.setAttribute('r', '5');
+    dot.setAttribute('class', 'dot');
+    const title = document.createElementNS(SVG, 'title');
+    title.textContent = `${c.name} (${c.publishers.length + c.abroad.length})`;
+    g.append(hit, dot, title);
+    g.addEventListener('click', () => select(c));
+    g.addEventListener('keydown', (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); select(c); } });
+    pinLayer.append(g);
+    return { country: c, g };
+  });
+
+  let selected: Country | undefined;
+
+  function render() {
+    sphere.setAttribute('d', path({ type: 'Sphere' }) ?? '');
+    graticule.setAttribute('d', path(graticuleLines) ?? '');
+    for (const a of areaPaths) {
+      a.el.setAttribute('d', path(a.feature) ?? '');
+      a.el.classList.toggle('selected', !!selected && a.own.includes(selected));
+    }
+    const [lambda, phi] = projection.rotate();
+    const centre: [number, number] = [-lambda, -phi];
+    for (const p of pins) {
+      const visible = geoDistance(p.country.pin, centre) < Math.PI / 2 - 0.02;
+      p.g.style.display = visible ? '' : 'none';
+      if (visible) {
+        const [x, y] = projection(p.country.pin)!;
+        p.g.setAttribute('transform', `translate(${x},${y})`);
+      }
+      p.g.classList.toggle('selected', p.country === selected);
+    }
+  }
+
+  let frame = 0;
+  const schedule = () => { if (!frame) frame = requestAnimationFrame(() => { frame = 0; render(); }); };
+
+  const reduceMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const clampLat = (phi: number) => Math.max(-90, Math.min(90, phi));
+
+  // One animation loop drives the idle spin and the momentum after a flick.
+  // The globe spins from the start. A click, drag or flick stops it where the reader leaves it
+  // (after a flick's momentum runs out); zooming does not. The Spin button starts it again.
+  let spinning = true;
+  let velocity: [number, number] = [0, 0]; // degrees per millisecond after a flick
+  let lastTick = 0;
+  let animating = false;
+  function tick(now: number) {
+    const dt = Math.min(64, now - (lastTick || now));
+    lastTick = now;
+    const [l, p] = projection.rotate();
+    if (velocity[0] || velocity[1]) {
+      projection.rotate([l + velocity[0] * dt, clampLat(p + velocity[1] * dt), AXIAL_TILT]);
+      const decay = FRICTION ** (dt / 16); // per 60 fps frame
+      velocity = [velocity[0] * decay, velocity[1] * decay];
+      if (Math.hypot(...velocity) < 0.0008) velocity = [0, 0];
+    } else if (spinning) {
+      projection.rotate([l + 0.0075 * dt, p, AXIAL_TILT]);
+    }
+    render();
+    if (spinning || velocity[0] || velocity[1]) requestAnimationFrame(tick);
+    else animating = false;
+  }
+  function animate() {
+    if (animating) return;
+    animating = true;
+    lastTick = 0;
+    requestAnimationFrame(tick);
+  }
+  const spinButton = document.querySelector<HTMLButtonElement>('.globe-spin')!;
+  const showSpin = () => {
+    spinButton.setAttribute('aria-pressed', String(spinning));
+    spinButton.textContent = spinning ? 'Pause' : 'Spin';
+  };
+  const halt = () => { spinning = false; velocity = [0, 0]; showSpin(); };
+  spinButton.addEventListener('click', () => {
+    if (spinning) halt();
+    else { spinning = true; showSpin(); animate(); }
+  });
+
+  // Momentum after a flick: how quickly it slows, how much of the flick's speed it keeps, its top
+  // speed (degrees per millisecond), and how recent the last movement must be to count as a flick.
+  const FRICTION = 0.985;
+  const FLICK_BOOST = 1.3;
+  const MAX_SPEED = 2.5;
+  const FLICK_WINDOW = 150;
+
+  // Drag to rotate. A press only becomes a drag once the pointer moves a few pixels, so that
+  // clicks still reach the pins and countries (capturing the pointer would retarget them).
+  let drag: { x: number; y: number; rotate: [number, number, number]; moved: boolean; samples: [number, number, number][] } | undefined;
+  let justDragged = false;
+  const degreesPerPixel = () => 57.3 / projection.scale(); // the globe follows the pointer
+  svg.addEventListener('pointerdown', (e) => {
+    halt();
+    drag = { x: e.clientX, y: e.clientY, rotate: projection.rotate(), moved: false, samples: [] };
+  });
+  svg.addEventListener('pointermove', (e) => {
+    if (!drag) return;
+    if (!drag.moved) {
+      if (Math.hypot(e.clientX - drag.x, e.clientY - drag.y) < 4) return;
+      drag.moved = true;
+      svg.setPointerCapture(e.pointerId);
+    }
+    const k = degreesPerPixel();
+    const [l, p, g] = drag.rotate;
+    const rotation: [number, number, number] = [l + (e.clientX - drag.x) * k, clampLat(p - (e.clientY - drag.y) * k), g];
+    projection.rotate(rotation);
+    // Keep the last moments of movement to measure the flick.
+    drag.samples.push([e.timeStamp, rotation[0], rotation[1]]);
+    while (drag.samples.length > 2 && e.timeStamp - drag.samples[0][0] > 80) drag.samples.shift();
+    schedule();
+  });
+  const endDrag = (e: PointerEvent) => {
+    justDragged = !!drag?.moved;
+    if (drag?.moved && drag.samples.length >= 2) {
+      const [t0, l0, p0] = drag.samples[0];
+      const [t1, l1, p1] = drag.samples.at(-1)!;
+      const dt = t1 - t0;
+      // A flick still moving at release keeps the globe turning; a drag that paused does not.
+      if (dt > 0 && e.timeStamp - t1 < FLICK_WINDOW) {
+        velocity = [((l1 - l0) / dt) * FLICK_BOOST, ((p1 - p0) / dt) * FLICK_BOOST];
+        const speed = Math.hypot(...velocity);
+        if (speed > MAX_SPEED) velocity = [(velocity[0] * MAX_SPEED) / speed, (velocity[1] * MAX_SPEED) / speed];
+        animate();
+      }
+    }
+    drag = undefined;
+  };
+  svg.addEventListener('pointerup', endDrag);
+  svg.addEventListener('pointercancel', endDrag);
+  // The click that ends a drag should not open a country.
+  svg.addEventListener('click', (e) => {
+    if (justDragged) { e.stopPropagation(); justDragged = false; }
+  }, { capture: true });
+
+  // Scroll to zoom, without stopping the spin.
+  svg.addEventListener('wheel', (e) => {
+    e.preventDefault();
+    zoom = Math.max(MIN_ZOOM, Math.min(MAX_ZOOM, zoom * Math.exp(-e.deltaY * 0.0015)));
+    projection.scale(radius * zoom);
+    schedule();
+  }, { passive: false });
+
+  /** Turns the globe to centre a point. */
+  function turnTo(point: [number, number]) {
+    const [l, p] = projection.rotate();
+    const between = geoInterpolate([-l, -p], point);
+    if (reduceMotion) { projection.rotate([-point[0], -point[1], AXIAL_TILT]); render(); return; }
+    const start = performance.now();
+    const step = (now: number) => {
+      const t = Math.min(1, (now - start) / 700);
+      const eased = t < 0.5 ? 2 * t * t : 1 - (-2 * t + 2) ** 2 / 2;
+      const [lon, lat] = between(eased);
+      projection.rotate([-lon, -lat, AXIAL_TILT]);
+      render();
+      if (t < 1) requestAnimationFrame(step);
+    };
+    requestAnimationFrame(step);
+  }
+
+  function el<K extends keyof HTMLElementTagNameMap>(tag: K, props: Partial<HTMLElementTagNameMap[K]> = {}, ...children: (Node | string)[]) {
+    const node = Object.assign(document.createElement(tag), props);
+    node.append(...children);
+    return node;
+  }
+
+  function select(c: Country) {
+    halt();
+    selected = c;
+    picker.value = c.name;
+    const total = c.publishers.reduce((n, p) => n + p.titles, 0);
+    panelBody.replaceChildren(
+      el('p', { className: 'eyebrow' }, el('span', { className: `swatch fill-${c.bloc}` }), ` ${labels[c.bloc]}`),
+      el('h2', { textContent: c.name }),
+      ...(c.note ? [el('p', { className: 'meta', textContent: c.note })] : []),
+      ...(c.publishers.length ? [
+        el('p', { className: 'meta', textContent: `${c.publishers.length} ${c.publishers.length === 1 ? 'publisher' : 'publishers'} · ${total.toLocaleString()} titles` }),
+        el('ul', { className: 'globe-publishers' }, ...c.publishers.map((p) =>
+          el('li', {},
+            el('span', { className: `status-dot ${p.status}`, title: p.status }),
+            el('div', {},
+              el('a', { href: `/publishers/${p.id}`, textContent: p.name }),
+              el('div', { className: 'meta', textContent: [p.city, p.years, `${p.titles.toLocaleString()} titles`].filter(Boolean).join(' · ') }),
+            ),
+          ))),
+      ] : []),
+      // Exile presses and movements whose works were printed abroad.
+      ...(c.abroad.length ? [
+        el('h3', { className: 'globe-abroad-head', textContent: 'Movements and exile presses' }),
+        el('ul', { className: 'globe-publishers' }, ...c.abroad.map((a) =>
+          el('li', {},
+            el('div', {},
+              el('a', { href: a.href, textContent: a.name }),
+              el('div', { className: 'meta', textContent: [a.where, a.years, `${a.count.toLocaleString()} ${a.unit}`].filter(Boolean).join(' · ') }),
+            ),
+          ))),
+      ] : []),
+    );
+    panel.hidden = false;
+    turnTo(c.pin);
+  }
+
+  panel.querySelector('.globe-close')!.addEventListener('click', () => {
+    panel.hidden = true;
+    selected = undefined;
+    picker.value = '';
+    render();
+  });
+  picker.addEventListener('change', () => {
+    const c = byName.get(picker.value);
+    if (c) select(c);
+  });
+
+  new ResizeObserver(resize).observe(svg);
+  resize();
+  showSpin();
+  if (spinning) animate();
+</script>

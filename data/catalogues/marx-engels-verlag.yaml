@@ -1,0 +1,18 @@
+# Marx-Engels-Verlag — the first Marx-Engels-Gesamtausgabe (MEGA).
+# Hand-entered titles. Entries marked `verified: true` were matched to library catalogue
+# records by scripts/import-openlibrary.mjs; see their `sources`.
+publisher: marx-engels-verlag
+titles:
+  - title: Die deutsche Ideologie
+    authors: [Karl Marx, Friedrich Engels]
+    year: 1932
+    language: German
+    series: Marx-Engels-Gesamtausgabe, Abt. I, Bd. 5
+    notes: First full edition of the manuscript of 1845–46.
+
+  - title: Ökonomisch-philosophische Manuskripte aus dem Jahre 1844
+    authors: [Karl Marx]
+    year: 1932
+    language: German
+    series: Marx-Engels-Gesamtausgabe, Abt. I, Bd. 3
+    notes: First publication of the Paris Manuscripts.

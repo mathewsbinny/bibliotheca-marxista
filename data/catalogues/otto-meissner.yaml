@@ -1,0 +1,50 @@
+# Otto Meissner, Hamburg — Marx's Capital.
+# Hand-entered titles. Entries marked `verified: true` were matched to library catalogue
+# records by scripts/import-openlibrary.mjs; see their `sources`.
+publisher: otto-meissner
+titles:
+  - title: Das Kapital
+    subtitle: Kritik der politischen Oekonomie. Erster Band
+    authors: [Karl Marx]
+    year: 1867
+    language: German
+    notes: Printed by Otto Wigand in Leipzig.
+    verified: true
+    sources:
+      - title: "Open Library edition OL6584196M"
+        url: https://openlibrary.org/books/OL6584196M
+      - title: "WorldCat record (OCLC 7423266)"
+        url: https://search.worldcat.org/title/7423266
+      - title: "Library of Congress record (LCCN 16002990)"
+        url: https://lccn.loc.gov/16002990
+
+  - title: Der achtzehnte Brumaire des Louis Bonaparte
+    authors: [Karl Marx]
+    year: 1869
+    edition: Second edition
+    language: German
+    notes: Revised edition; the first appeared in Joseph Weydemeyer's Die Revolution, New York, 1852.
+    verified: true
+    sources:
+      - title: "Open Library edition OL45199206M"
+        url: https://openlibrary.org/books/OL45199206M
+      - title: "WorldCat record (OCLC 18531778)"
+        url: https://search.worldcat.org/title/18531778
+
+  - title: Das Kapital
+    subtitle: Kritik der politischen Oekonomie. Zweiter Band
+    authors: [Karl Marx]
+    editors: [Friedrich Engels]
+    year: 1885
+    language: German
+    verified: true
+    sources:
+      - title: "Open Library edition OL21891563M"
+        url: https://openlibrary.org/books/OL21891563M
+
+  - title: Das Kapital
+    subtitle: Kritik der politischen Oekonomie. Dritter Band
+    authors: [Karl Marx]
+    editors: [Friedrich Engels]
+    year: 1894
+    language: German

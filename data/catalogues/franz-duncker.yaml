@@ -1,0 +1,16 @@
+# Franz Duncker, Berlin.
+# Hand-entered titles. Entries marked `verified: true` were matched to library catalogue
+# records by scripts/import-openlibrary.mjs; see their `sources`.
+publisher: franz-duncker
+titles:
+  - title: Zur Kritik der politischen Oekonomie
+    subtitle: Erstes Heft
+    authors: [Karl Marx]
+    year: 1859
+    language: German
+    verified: true
+    sources:
+      - title: "Open Library edition OL45200061M"
+        url: https://openlibrary.org/books/OL45200061M
+      - title: "WorldCat record (OCLC 56808252)"
+        url: https://search.worldcat.org/title/56808252

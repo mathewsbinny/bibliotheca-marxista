@@ -1,0 +1,87 @@
+# International Publishers, New York.
+# Hand-entered titles. Entries marked `verified: true` were matched to library catalogue
+# records by scripts/import-openlibrary.mjs; see their `sources`.
+publisher: international-publishers
+titles:
+  - title: "Imperialism: The Highest Stage of Capitalism"
+    authors: [V. I. Lenin]
+    year: 1939
+    language: English
+    series: Little Lenin Library
+    links:
+      - label: Full text (marxists.org)
+        url: https://www.marxists.org/archive/lenin/works/1916/imp-hsc/
+    verified: true
+    sources:
+      - title: "Open Library edition OL6398735M"
+        url: https://openlibrary.org/books/OL6398735M
+      - title: "WorldCat record (OCLC 192388)"
+        url: https://search.worldcat.org/title/192388
+      - title: "Library of Congress record (LCCN 40004768)"
+        url: https://lccn.loc.gov/40004768
+      - title: "Open Library edition OL13962127M"
+        url: https://openlibrary.org/books/OL13962127M
+
+  - title: Manifesto of the Communist Party
+    authors: [Karl Marx, Frederick Engels]
+    year: 1948
+    language: English
+    notes: Centenary edition.
+    links:
+      - label: Full text (marxists.org)
+        url: https://www.marxists.org/archive/marx/works/1848/communist-manifesto/
+    verified: true
+    sources:
+      - title: "Open Library edition OL18617477M"
+        url: https://openlibrary.org/books/OL18617477M
+      - title: "Open Library edition OL24213323M"
+        url: https://openlibrary.org/books/OL24213323M
+      - title: "WorldCat record (OCLC 166214)"
+        url: https://search.worldcat.org/title/166214
+      - title: "German National Library record 578102641"
+        url: https://d-nb.info/578102641
+
+  - title: History of the Labor Movement in the United States, Volume I
+    authors: [Philip S. Foner]
+    year: 1947
+    language: English
+    verified: true
+    sources:
+      - title: "Open Library edition OL6517659M"
+        url: https://openlibrary.org/books/OL6517659M
+      - title: "WorldCat record (OCLC 234001)"
+        url: https://search.worldcat.org/title/234001
+      - title: "Library of Congress record (LCCN 47019381)"
+        url: https://lccn.loc.gov/47019381
+      - title: "Open Library edition OL23248290M"
+        url: https://openlibrary.org/books/OL23248290M
+
+  - title: "Negro Liberation"
+    authors: [Harry Haywood]
+    year: 1948
+    language: English
+    verified: true
+    sources:
+      - title: "Open Library edition OL6031952M"
+        url: https://openlibrary.org/books/OL6031952M
+      - title: "WorldCat record (OCLC 242442)"
+        url: https://search.worldcat.org/title/242442
+      - title: "Library of Congress record (LCCN 48008881)"
+        url: https://lccn.loc.gov/48008881
+      - title: "Open Library edition OL17787951M"
+        url: https://openlibrary.org/books/OL17787951M
+
+  - title: History of the Communist Party of the United States
+    authors: [William Z. Foster]
+    year: 1952
+    language: English
+    verified: true
+    sources:
+      - title: "Open Library edition OL6114584M"
+        url: https://openlibrary.org/books/OL6114584M
+      - title: "WorldCat record (OCLC 1073211)"
+        url: https://search.worldcat.org/title/1073211
+      - title: "Library of Congress record (LCCN 52012425)"
+        url: https://lccn.loc.gov/52012425
+      - title: "Open Library edition OL23812953M"
+        url: https://openlibrary.org/books/OL23812953M

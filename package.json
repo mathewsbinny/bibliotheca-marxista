@@ -1,0 +1,31 @@
+{
+  "name": "bibliotheca-marxista",
+  "version": "0.1.0",
+  "private": true,
+  "description": "An open repository of the backlists of Leftist and Marxist publishing houses.",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build && node scripts/build-db.mjs",
+    "preview": "astro preview",
+    "check": "astro sync && npm run build",
+    "import": "node scripts/import-openlibrary.mjs",
+    "verify-authors": "node scripts/verify-authors.mjs",
+    "build:db": "node scripts/build-db.mjs",
+    "api": "node server/server.mjs",
+    "test": "node --test test/*.test.mjs"
+  },
+  "dependencies": {
+    "astro": "^7.3.5",
+    "better-sqlite3": "^13.0.3",
+    "d3-geo": "^3.1.1",
+    "topojson-client": "^3.1.0",
+    "world-atlas": "^2.0.2"
+  },
+  "devDependencies": {
+    "@types/d3-geo": "^3.1.1",
+    "@types/topojson-client": "^3.1.5",
+    "js-yaml": "^5.4.2",
+    "polygon-clipping": "^0.15.7"
+  }
+}

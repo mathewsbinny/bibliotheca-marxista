@@ -1,0 +1,41 @@
+---
+import Base from '../layouts/Base.astro';
+import Globe from '../components/Globe.astro';
+import { getAuthors, getPublishers, getTitles } from '../lib/catalogue';
+import { getGlobeCountries } from '../lib/globe-places';
+
+const publishers = await getPublishers();
+const titles = await getTitles();
+const authors = await getAuthors();
+// The countries on the globe, counting the Soviet republics and countries known only from movements.
+const countries = await getGlobeCountries();
+const years = titles.map((t) => t.year).filter((y): y is number => !!y);
+// Too many titles to spread into Math.min/Math.max: find the range in one pass.
+const [firstYear, lastYear] = years.reduce(([lo, hi], y) => [Math.min(lo, y), Math.max(hi, y)], [Infinity, -Infinity]);
+---
+
+<Base
+  centered
+  description={`An open catalogue of ${titles.length.toLocaleString('en')} books from ${publishers.length} socialist, communist and Marxist publishing houses in ${countries.size} countries, from 1838 to the present.`}
+  jsonLd={{ '@type': 'WebSite', name: 'Bibliotheca Marxista', url: new URL('/', Astro.site).href, description: 'An open repository of the backlists of Leftist and Marxist publishing houses.', inLanguage: 'en' }}
+>
+  <p class="eyebrow">An open bibliographic archive</p>
+  <h1>Workers of the World, Unite!</h1>
+  <p class="lede">
+    A catalogue of the books issued by socialist, communist and Marxist presses around the
+    world — from the Left Book Club and the Foreign Languages Publishing House in Moscow
+    to the radical presses still in print today.
+  </p>
+
+  <Globe>
+    <div class="stats">
+      <div><strong>{publishers.length.toLocaleString('en')}</strong><span>publishers</span></div>
+      <div><strong>{titles.length.toLocaleString('en')}</strong><span>titles</span></div>
+      <div><strong>{authors.length.toLocaleString('en')}</strong><span>authors</span></div>
+      <div><strong>{countries.size}</strong><span>countries</span></div>
+      {years.length > 0 && (
+        <div><strong>{firstYear}–{lastYear}</strong><span>span of imprints</span></div>
+      )}
+    </div>
+  </Globe>
+</Base>

@@ -1,0 +1,53 @@
+---
+import Base from '../../layouts/Base.astro';
+import PublisherCard from '../../components/PublisherCard.astro';
+import StatusLegend from '../../components/StatusLegend.astro';
+import { getMovementWorks, getMovements, getPublishers, getTitlesByPublisher, yearsActive, type Publisher } from '../../lib/catalogue';
+
+const publishers = (await getPublishers()).filter((p) => !p.data.international); // the internationals' presses are on /international
+const byPublisher = await getTitlesByPublisher();
+const countFor = (id: string) => byPublisher.get(id)?.length ?? 0;
+
+const byCountry = new Map<string, Publisher[]>();
+for (const p of publishers) {
+  byCountry.set(p.data.country, [...(byCountry.get(p.data.country) ?? []), p]);
+}
+const countries = [...byCountry.keys()].sort();
+const movements = await Promise.all((await getMovements()).map(async (m) => ({ m, works: (await getMovementWorks(m)).length })));
+---
+
+<Base centered title="Publishers" description="Socialist, communist and Marxist publishing houses around the world, grouped by country, with their years of operation and backlists.">
+  <h1>Publishers</h1>
+  <p class="lede">
+    {publishers.length} publishing houses, grouped by country, with their years of operation.
+  </p>
+  <StatusLegend />
+
+  {countries.map((country) => (
+    <section>
+      <h2>{country}</h2>
+      <ul class="cards">
+        {byCountry.get(country)!.map((p) => <PublisherCard publisher={p} titleCount={countFor(p.id)} />)}
+      </ul>
+    </section>
+  ))}
+
+  {movements.length > 0 && (
+    <section id="movements">
+      <h2>Movements published abroad</h2>
+      <p class="meta">
+        Movements whose own works were printed by foreign or exile presses. Each work keeps its real
+        publisher; the movement places it on its country.
+      </p>
+      <ul class="cards">
+        {movements.map(({ m, works }) => (
+          <li class="card">
+            <h3><a href={`/movements/${m.id}`}>{m.data.name}</a></h3>
+            <div class="meta">{m.data.country} · {yearsActive({ ...m.data, estimated: [] })}</div>
+            <p>{works.toLocaleString('en')} {works === 1 ? 'work' : 'works'}</p>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
+</Base>

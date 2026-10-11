@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <g fill="none" stroke="#000" stroke-width="6">
+    <!-- Sickle: the blade curves round from its tip at the top to the handle at the lower left -->
+    <path d="M37 12.3 A18 18 0 1 1 21.3 42.7 L10 54" stroke-linecap="round" />
+    <!-- Hammer: handle from the lower right, head across the upper left -->
+    <path d="M52 52 L24 24" stroke-linecap="round" />
+    <path d="M14 32 L32 14" stroke-width="10" />
+  </g>
+</svg>

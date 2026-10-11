@@ -1,0 +1,94 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getAuthors, getTitlesByAuthor } from '../../lib/catalogue';
+
+const all = await getAuthors();
+const featured = await Promise.all(
+  all
+    .filter((a) => a.data.featured)
+    .sort((a, b) => (a.data.born ?? 9999) - (b.data.born ?? 9999) || a.data.name.localeCompare(b.data.name))
+    .map(async (a) => {
+      const editions = await getTitlesByAuthor(a);
+      return { author: a, books: editions.length, verified: editions.filter((t) => t.verified).length };
+    }),
+);
+---
+
+<Base centered title="Authors" description="The major theorists and leaders of Marxism, from Marx and Engels to the present, with every edition of their work held in the catalogue.">
+  <h1>Authors</h1>
+  <p class="lede">
+    The major theorists and leaders of Marxism, in order of birth, with every edition of their work
+    held in the catalogue across all publishers.
+  </p>
+
+  <ul class="cards">
+    {featured.map(({ author, books, verified }) => {
+      const a = author.data;
+      return (
+        <li class="card">
+          <h3><a href={`/authors/${author.id}`}>{a.name}</a></h3>
+          <div class="meta">
+            {[a.nationality, a.born && `${a.born}–${a.died ?? ''}`].filter(Boolean).join(' · ')}
+          </div>
+          <p>
+            {books.toLocaleString('en')} {books === 1 ? 'book' : 'books'} ({verified.toLocaleString('en')} verified)
+          </p>
+        </li>
+      );
+    })}
+  </ul>
+
+  <section class="all-authors">
+    <button type="button" class="more">Show all {all.length} authors</button>
+    <h2 hidden>All authors</h2>
+    <p class="meta" data-status hidden></p>
+    <ul class="cards" hidden></ul>
+  </section>
+</Base>
+
+<script>
+  interface AuthorRow { id: string; name: string; nationality?: string; born?: number; died?: number; active?: string; books: number; verified: number }
+
+  const section = document.querySelector<HTMLElement>('.all-authors')!;
+  const button = section.querySelector<HTMLButtonElement>('.more')!;
+  const heading = section.querySelector<HTMLElement>('h2')!;
+  const status = section.querySelector<HTMLElement>('[data-status]')!;
+  const list = section.querySelector<HTMLUListElement>('ul')!;
+
+  const card = (a: AuthorRow) => {
+    const li = document.createElement('li');
+    li.className = 'card';
+    const h3 = document.createElement('h3');
+    const link = document.createElement('a');
+    link.href = `/authors/${a.id}`;
+    link.textContent = a.name;
+    h3.append(link);
+    const meta = document.createElement('div');
+    meta.className = 'meta';
+    meta.textContent = [a.nationality, a.born ? `${a.born}–${a.died ?? ''}` : a.active && `active ${a.active}`].filter(Boolean).join(' · ');
+    const p = document.createElement('p');
+    p.textContent = `${a.books.toLocaleString('en')} ${a.books === 1 ? 'book' : 'books'} (${a.verified.toLocaleString('en')} verified)`;
+    li.append(h3, meta, p);
+    return li;
+  };
+
+  button.addEventListener('click', async () => {
+    button.disabled = true;
+    button.textContent = 'Loading…';
+    try {
+      const response = await fetch('/data/authors.json');
+      if (!response.ok) throw new Error(String(response.status));
+      const authors: AuthorRow[] = await response.json();
+      list.replaceChildren(...authors.map(card));
+      heading.hidden = false;
+      list.hidden = false;
+      status.hidden = true;
+      button.remove();
+    } catch {
+      status.textContent = 'The list of authors could not be loaded. Please try again.';
+      status.hidden = false;
+      button.disabled = false;
+      button.textContent = 'Try again';
+    }
+  });
+</script>

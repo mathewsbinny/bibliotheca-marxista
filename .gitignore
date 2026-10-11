@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.astro/
+.env
+.DS_Store
+.cache/
+db/
+# Generated: import and build logs, review reports, local test servers' output
+reports/
+*.log
+# Personal Claude Code settings
+.claude/settings.local.json

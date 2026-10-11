@@ -1,0 +1,67 @@
+# Foreign Languages Press, Beijing — English-language list.
+# Hand-entered titles. Entries marked `verified: true` were matched to library catalogue
+# records by scripts/import-openlibrary.mjs; see their `sources`.
+publisher: foreign-languages-press-beijing
+titles:
+  - title: Selected Works of Mao Tse-tung, Volume IV
+    authors: [Mao Tse-tung]
+    year: 1961
+    language: English
+    series: Selected Works of Mao Tse-tung
+    verified: true
+    sources:
+      - title: "Open Library edition OL45351802M"
+        url: https://openlibrary.org/books/OL45351802M
+      - title: "WorldCat record (OCLC 50399342)"
+        url: https://search.worldcat.org/title/50399342
+      - title: "Open Library edition OL19978593M"
+        url: https://openlibrary.org/books/OL19978593M
+      - title: "Open Library edition OL20281937M"
+        url: https://openlibrary.org/books/OL20281937M
+
+  - title: Selected Works of Mao Tse-tung, Volumes I–III
+    authors: [Mao Tse-tung]
+    year: 1965
+    language: English
+    series: Selected Works of Mao Tse-tung
+    verified: true
+    sources:
+      - title: "Open Library edition OL13550410M"
+        url: https://openlibrary.org/books/OL13550410M
+      - title: "WorldCat record (OCLC 2719833)"
+        url: https://search.worldcat.org/title/2719833
+      - title: "Open Library edition OL15585343M"
+        url: https://openlibrary.org/books/OL15585343M
+      - title: "SUDOC record 049144421"
+        url: https://www.sudoc.fr/049144421
+
+  - title: Quotations from Chairman Mao Tse-tung
+    authors: [Mao Tse-tung]
+    year: 1966
+    language: English
+    notes: First English edition of the "Little Red Book".
+    verified: true
+    sources:
+      - title: "Open Library edition OL5529445M"
+        url: https://openlibrary.org/books/OL5529445M
+      - title: "WorldCat record (OCLC 2571508)"
+        url: https://search.worldcat.org/title/2571508
+      - title: "Library of Congress record (LCCN 67004174)"
+        url: https://lccn.loc.gov/67004174
+      - title: "BannedThought.net"
+        url: https://www.bannedthought.net/China/Individuals/index.htm
+
+  - title: Five Essays on Philosophy
+    authors: [Mao Tse-tung]
+    year: 1977
+    language: English
+    verified: true
+    sources:
+      - title: "Open Library edition OL13765042M"
+        url: https://openlibrary.org/books/OL13765042M
+      - title: "Open Library edition OL4757966M"
+        url: https://openlibrary.org/books/OL4757966M
+      - title: "WorldCat record (OCLC 4178015)"
+        url: https://search.worldcat.org/title/4178015
+      - title: "Library of Congress record (LCCN 78104387)"
+        url: https://lccn.loc.gov/78104387

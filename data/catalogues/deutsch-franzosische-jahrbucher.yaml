@@ -1,0 +1,14 @@
+# Deutsch-Französische Jahrbücher, Paris.
+# Hand-entered titles. Entries marked `verified: true` were matched to library catalogue
+# records by scripts/import-openlibrary.mjs; see their `sources`.
+publisher: deutsch-franzosische-jahrbucher
+titles:
+  - title: Deutsch-Französische Jahrbücher
+    subtitle: 1ste und 2te Lieferung
+    editors: [Arnold Ruge, Karl Marx]
+    year: 1844
+    language: German
+    notes: >
+      The only (double) issue, February 1844, with Marx's On the Jewish Question and
+      his introduction to the critique of Hegel's Philosophy of Right, and Engels's
+      Outlines of a Critique of Political Economy.

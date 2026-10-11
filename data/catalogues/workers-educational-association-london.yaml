@@ -1,0 +1,21 @@
+# Workers' Educational Association (Bildungs-Gesellschaft für Arbeiter), London.
+# Hand-entered titles. Entries marked `verified: true` were matched to library catalogue
+# records by scripts/import-openlibrary.mjs; see their `sources`.
+publisher: workers-educational-association-london
+titles:
+  - title: Manifest der Kommunistischen Partei
+    authors: [Karl Marx, Friedrich Engels]
+    year: 1848
+    language: German
+    notes: >
+      First edition, printed in February 1848 by J. E. Burghard at 46 Liverpool Street,
+      Bishopsgate, and published anonymously.
+    links:
+      - label: Full text in English (marxists.org)
+        url: https://www.marxists.org/archive/marx/works/1848/communist-manifesto/
+    verified: true
+    sources:
+      - title: "Open Library edition OL58115309M"
+        url: https://openlibrary.org/books/OL58115309M
+      - title: "WorldCat record (OCLC 222160145)"
+        url: https://search.worldcat.org/title/222160145

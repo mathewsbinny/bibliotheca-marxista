@@ -1,0 +1,81 @@
+---
+interface Props {
+  languages: string[];
+  /** When given, a publisher filter is shown. */
+  publishers?: { id: string; name: string }[];
+  /** When given, a country filter is shown: the globe's countries and regions. */
+  countries?: string[];
+  total: number;
+}
+
+const { languages, publishers = [], countries = [], total } = Astro.props;
+---
+
+<form class="filters" role="search" onsubmit="return false">
+  <label>
+    Search title, author, series…
+    <input type="search" name="q" autocomplete="off" />
+  </label>
+  <label>
+    From
+    <input type="number" name="from" inputmode="numeric" placeholder="year" />
+  </label>
+  <label>
+    To
+    <input type="number" name="to" inputmode="numeric" placeholder="year" />
+  </label>
+  {languages.length > 1 && (
+    <label>
+      Language
+      <select name="lang">
+        <option value="">All</option>
+        {languages.map((l) => <option value={l}>{l}</option>)}
+      </select>
+    </label>
+  )}
+  {countries.length > 1 && (
+    <label>
+      Country
+      <select name="country">
+        <option value="">All</option>
+        {countries.map((c) => <option value={c}>{c}</option>)}
+      </select>
+    </label>
+  )}
+  {publishers.length > 1 && (
+    <label>
+      Publisher
+      <select name="pub">
+        <option value="">All</option>
+        {publishers.map((p) => <option value={p.id}>{p.name}</option>)}
+      </select>
+    </label>
+  )}
+  <label>
+    Sort by
+    <select name="sort">
+      <option value="">Catalogue order</option>
+      <option value="title">Title (A–Z)</option>
+      <option value="author">Author (A–Z)</option>
+      {publishers.length > 1 && <option value="publisher">Publisher (A–Z)</option>}
+      <option value="year">Year (oldest first)</option>
+      <option value="year-desc">Year (newest first)</option>
+    </select>
+  </label>
+  <label>
+    Verification
+    <select name="verified">
+      <option value="">All titles</option>
+      <option value="1">Verified only</option>
+      <option value="0">Unverified only</option>
+    </select>
+  </label>
+  <label>
+    Access
+    <select name="access">
+      <option value="">All titles</option>
+      <option value="free">Free to read</option>
+    </select>
+  </label>
+  <span class="count" aria-live="polite"><span data-count>{total.toLocaleString('en')}</span> of {total.toLocaleString('en')} titles</span>
+</form>

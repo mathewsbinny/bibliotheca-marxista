@@ -1,0 +1,100 @@
+---
+import Base from '../layouts/Base.astro';
+import { API } from '../lib/api';
+import { getAuthors, getPublishers, getTitles } from '../lib/catalogue';
+
+const [publishers, authors, titles] = await Promise.all([getPublishers(), getAuthors(), getTitles()]);
+const verified = titles.filter((t) => t.verified).length;
+const n = (x: number) => x.toLocaleString('en-GB');
+// The download's choice of one publisher, by name.
+const sortedPublishers = [...publishers].sort((a, b) => a.data.name.localeCompare(b.data.name));
+---
+
+<Base centered title="About" description="About Bibliotheca Marxista, an open catalogue of Leftist and Marxist publishers' backlists: what it covers, where its records come from, and how to download the data.">
+  <h1>About Bibliotheca Marxista</h1>
+  <p class="lede">
+    The printed output of the twentieth-century Left — book clubs, party presses, state
+    publishers of translated classics — is scattered across library catalogues, dealer lists
+    and personal shelves. This project gathers those backlists in one open, citable place.
+  </p>
+
+  <div class="stats">
+    <div><strong>{n(publishers.length)}</strong><span>publishers</span></div>
+    <div><strong>{n(titles.length)}</strong><span>titles</span></div>
+    <div><strong>{n(verified)}</strong><span>verified against a library record</span></div>
+    <div><strong>{n(authors.length)}</strong><span>author pages</span></div>
+  </div>
+
+  <h2>What counts</h2>
+  <p>
+    Any publishing house, press, imprint or book club whose list was substantially socialist,
+    communist, anarchist, anti-colonial or otherwise of the Left — defunct or still active, from
+    any country and in any language. The globe on the home page places each press by country and
+    by its side in the Cold War; the <a href="/international">International</a> pages group presses
+    by the Internationals and movements they belonged to.
+  </p>
+
+  <h2>Authors</h2>
+  <p>
+    Author pages cover Marxist, socialist and anti-colonial writers, theorists and organisers —
+    party leaders and historians, novelists and poets of the Left, guerrilla memoirists, and
+    Marxist and socialist feminists who wrote on gender, patriarchy and social reproduction —
+    from every continent. Each page lists the author's editions in the catalogue, together with
+    the first editions of their main works, and cites a biographical source.
+  </p>
+
+  <h2>Verified and unverified records</h2>
+  <p>
+    A title is marked <span class="badge verified">verified</span> when it has been matched to a
+    library catalogue record — a Library of Congress or WorldCat entry, or a MARC record from a
+    research library — whose imprint names this publisher, its city and a year within the house's
+    years of operation. Every verified record links to the catalogue entries it was checked against.
+  </p>
+  <p>
+    Titles marked <span class="badge">unverified</span> have not yet been matched: they may come
+    from a crowd-sourced record without a library catalogue source, or from a published list that
+    no catalogue record has confirmed.
+  </p>
+
+  <h2>Sources</h2>
+  <p>
+    Much of the catalogue is imported from <a href="https://openlibrary.org">Open Library</a>,
+    which aggregates records from libraries worldwide. It is checked and extended against national
+    and research library catalogues:
+  </p>
+  <ul>
+    <li>the <a href="https://www.loc.gov/">Library of Congress</a> and <a href="https://search.worldcat.org/">WorldCat</a>;</li>
+    <li>the <a href="https://www.dnb.de/">German National Library</a> and the <a href="https://catalogue.bnf.fr/">Bibliothèque nationale de France</a>;</li>
+    <li><a href="https://www.sudoc.abes.fr/">SUDOC</a>, the union catalogue of French university libraries, and <a href="https://swisscovery.slsp.ch/">swisscovery</a> in Switzerland;</li>
+    <li>the German union catalogues <a href="https://kxp.k10plus.de/">K10plus</a> and <a href="https://www.gateway-bayern.de/">B3Kat</a>, with the Berlin and Bavarian State Libraries' East European and Chinese collections;</li>
+    <li>Italy's <a href="https://opac.sbn.it/">SBN</a>, the <a href="https://www.bn.org.pl/">National Library of Poland</a> and Spain's <a href="https://www.bne.es/">Biblioteca Nacional</a>;</li>
+    <li>the <a href="https://ndlsearch.ndl.go.jp/">National Diet Library</a> and <a href="https://cir.nii.ac.jp/">CiNii</a> in Japan;</li>
+    <li>the <a href="https://archive.org/">Internet Archive</a> and <a href="https://www.bannedthought.net/">BannedThought.net</a>, whose scans are linked where a title can be read online.</li>
+  </ul>
+  <p>
+    Author pages draw on Wikipedia and Wikidata for biographical details. Errors in any of these
+    records can carry over; titles, languages and spellings are normalised on import, but some
+    mistakes will remain.
+  </p>
+
+  <h2 id="download">Download the data</h2>
+  <p>
+    The catalogue — publishers, author pages and titles, with their sources — can be downloaded as
+    JSON for research, citation managers or other projects: the whole of it, or one publisher's
+    backlist. The file is put together from the catalogue as it downloads, so it is always current.
+  </p>
+  <form class="data-download" action={`${API}/export`} method="get">
+    <label>
+      <span>What to download</span>
+      <select name="pub">
+        <option value="">The whole catalogue</option>
+        {sortedPublishers.map((p) => <option value={p.id}>{p.data.name}</option>)}
+      </select>
+    </label>
+    <button type="submit" class="button">Download (JSON)</button>
+    <p class="meta" data-status>
+      {n(publishers.length)} publishers, {n(authors.length)} authors and {n(titles.length)} titles.
+      The whole catalogue comes to several hundred megabytes; a single publisher is quick.
+    </p>
+  </form>
+</Base>

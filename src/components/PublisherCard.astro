@@ -1,0 +1,25 @@
+---
+import { STATUS_LABELS, yearsActive, type Publisher } from '../lib/catalogue';
+
+interface Props {
+  publisher: Publisher;
+  titleCount: number;
+}
+
+const { publisher, titleCount } = Astro.props;
+const p = publisher.data;
+---
+
+<li class="card" data-country={p.country} data-status={p.status}>
+  <span
+    class={`status-dot ${p.status}`}
+    role="img"
+    aria-label={STATUS_LABELS[p.status]}
+    title={STATUS_LABELS[p.status]}
+  ></span>
+  <h3><a href={`/publishers/${publisher.id}`}>{p.name}</a></h3>
+  <div class="meta">
+    {[p.city, p.country !== 'Not recorded' && p.country].filter(Boolean).join(', ')} · {yearsActive(p)}
+  </div>
+  <p>{titleCount} {titleCount === 1 ? 'title' : 'titles'} catalogued</p>
+</li>

@@ -1,0 +1,20 @@
+# Literarische Anstalt (J. Rütten), Frankfurt am Main.
+# Hand-entered titles. Entries marked `verified: true` were matched to library catalogue
+# records by scripts/import-openlibrary.mjs; see their `sources`.
+publisher: literarische-anstalt
+titles:
+  - title: Die heilige Familie, oder Kritik der kritischen Kritik
+    subtitle: Gegen Bruno Bauer & Consorten
+    authors: [Karl Marx, Friedrich Engels]
+    year: 1845
+    language: German
+    verified: true
+    sources:
+      - title: "Open Library edition OL27296809M"
+        url: https://openlibrary.org/books/OL27296809M
+      - title: "WorldCat record (OCLC 7730147)"
+        url: https://search.worldcat.org/title/7730147
+      - title: "Library of Congress record (LCCN 16020822)"
+        url: https://lccn.loc.gov/16020822
+      - title: "Open Library edition OL60651907M"
+        url: https://openlibrary.org/books/OL60651907M

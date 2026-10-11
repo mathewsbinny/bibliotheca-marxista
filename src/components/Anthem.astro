@@ -1,0 +1,58 @@
+---
+/**
+ * The Internationale (instrumental), played on request from public/internationale.mp3.
+ * Browsers only allow sound after the visitor has clicked something, so it starts from a button;
+ * once playing, each page the visitor opens next carries on from where the last one left off.
+ */
+---
+
+<div class="anthem">
+  <audio src="/internationale.mp3" preload="none" loop></audio>
+  <button type="button" class="anthem-toggle" aria-pressed="false">♪ Play The Internationale</button>
+</div>
+
+<script>
+  const KEY = 'internationale';
+  const root = document.querySelector<HTMLElement>('.anthem')!;
+  const audio = root.querySelector('audio')!;
+  const button = root.querySelector<HTMLButtonElement>('.anthem-toggle')!;
+
+  /** Where playback had got to, so the next page can carry on: seconds into the track, and when. */
+  interface Saved { playing: boolean; time: number; at: number }
+  const load = (): Saved | null => {
+    try { return JSON.parse(sessionStorage.getItem(KEY) ?? 'null'); } catch { return null; }
+  };
+  const remember = () => {
+    try {
+      sessionStorage.setItem(KEY, JSON.stringify({ playing: !audio.paused, time: audio.currentTime, at: Date.now() }));
+    } catch { /* storage unavailable */ }
+  };
+
+  const show = () => {
+    const playing = !audio.paused;
+    button.setAttribute('aria-pressed', String(playing));
+    button.textContent = playing ? '■ Stop The Internationale' : '♪ Play The Internationale';
+  };
+  audio.addEventListener('play', show);
+  audio.addEventListener('pause', show);
+
+  /** Starts at `time` seconds, wrapping round if the visitor was away longer than the track lasts. */
+  const playFrom = (time: number) => {
+    const seek = () => { if (audio.duration) audio.currentTime = time % audio.duration; };
+    if (audio.readyState >= 1) seek(); else audio.addEventListener('loadedmetadata', seek, { once: true });
+    return audio.play();
+  };
+
+  button.addEventListener('click', () => {
+    if (audio.paused) playFrom(load()?.time ?? 0).then(remember, show);
+    else { audio.pause(); remember(); }
+  });
+  setInterval(() => { if (!audio.paused) remember(); }, 1000);
+  addEventListener('pagehide', remember);
+
+  // Carry on from the previous page, if it was playing. If the browser blocks the sound,
+  // the button simply stays at "Play".
+  const saved = load();
+  if (saved?.playing) playFrom(saved.time + (Date.now() - saved.at) / 1000).catch(show);
+  show();
+</script>

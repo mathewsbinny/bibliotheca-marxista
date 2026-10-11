@@ -1,0 +1,59 @@
+# Foreign Languages Publishing House, Moscow — English-language list.
+# Hand-entered titles. Entries marked `verified: true` were matched to library catalogue
+# records by scripts/import-openlibrary.mjs; see their `sources`.
+publisher: foreign-languages-publishing-house-moscow
+titles:
+  - title: History of the Communist Party of the Soviet Union (Bolsheviks)
+    subtitle: Short Course
+    language: English
+    year: 1939
+    notes: Compiled by a commission of the Central Committee of the C.P.S.U.(B.)
+    verified: true
+    sources:
+      - title: "Open Library edition OL26567569M"
+        url: https://openlibrary.org/books/OL26567569M
+      - title: "Library of Congress record (LCCN 43040485)"
+        url: https://lccn.loc.gov/43040485
+      - title: "Open Library edition OL52415389M"
+        url: https://openlibrary.org/books/OL52415389M
+      - title: "WorldCat record (OCLC 4865896)"
+        url: https://search.worldcat.org/title/4865896
+
+  - title: Selected Works in Two Volumes
+    authors: [Karl Marx, Frederick Engels]
+    year: 1951
+    language: English
+
+  - title: Economic Problems of Socialism in the U.S.S.R.
+    authors: [J. V. Stalin]
+    year: 1952
+    language: English
+    links:
+      - label: Full text (marxists.org)
+        url: https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/
+    verified: true
+    sources:
+      - title: "Open Library edition OL16994436M"
+        url: https://openlibrary.org/books/OL16994436M
+      - title: "Open Library edition OL50448859M"
+        url: https://openlibrary.org/books/OL50448859M
+      - title: "WorldCat record (OCLC 2051208)"
+        url: https://search.worldcat.org/title/2051208
+      - title: "Library of Congress record (LCCN 53030057)"
+        url: https://lccn.loc.gov/53030057
+
+  - title: How the Steel Was Tempered
+    original_title: Как закалялась сталь
+    authors: [Nikolai Ostrovsky]
+    year: 1952
+    language: English
+    verified: true
+    sources:
+      - title: "Open Library edition OL16797528M"
+        url: https://openlibrary.org/books/OL16797528M
+      - title: "Open Library edition OL22829595M"
+        url: https://openlibrary.org/books/OL22829595M
+      - title: "Open Library edition OL15241372M"
+        url: https://openlibrary.org/books/OL15241372M
+      - title: "Open Library edition OL16382739M"
+        url: https://openlibrary.org/books/OL16382739M

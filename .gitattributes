@@ -1,0 +1,6 @@
+# Text files are stored with LF line endings, whatever the platform.
+* text=auto eol=lf
+*.mp3 binary
+*.jpg binary
+*.png binary
+*.ico binary

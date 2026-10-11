@@ -1,0 +1,39 @@
+# Lawrence & Wishart, London.
+# Hand-entered titles. Entries marked `verified: true` were matched to library catalogue
+# records by scripts/import-openlibrary.mjs; see their `sources`.
+publisher: lawrence-and-wishart
+titles:
+  - title: Selections from the Prison Notebooks
+    authors: [Antonio Gramsci]
+    editors: [Quintin Hoare, Geoffrey Nowell Smith]
+    translators: [Quintin Hoare, Geoffrey Nowell Smith]
+    year: 1971
+    language: English
+    verified: true
+    sources:
+      - title: "Open Library edition OL5322630M"
+        url: https://openlibrary.org/books/OL5322630M
+      - title: "Library of Congress record (LCCN 72175271)"
+        url: https://lccn.loc.gov/72175271
+      - title: "Open Library edition OL23805736M"
+        url: https://openlibrary.org/books/OL23805736M
+      - title: "Open Library edition OL22332541M"
+        url: https://openlibrary.org/books/OL22332541M
+
+  - title: Collected Works
+    authors: [Karl Marx, Frederick Engels]
+    year: 1975
+    date_note: 1975–2004, 50 volumes
+    language: English
+    series: Marx/Engels Collected Works
+    notes: Published jointly with Progress Publishers (Moscow) and International Publishers (New York).
+    verified: true
+    sources:
+      - title: "Open Library edition OL17223104M"
+        url: https://openlibrary.org/books/OL17223104M
+      - title: "K10plus record 282304169"
+        url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=282304169
+      - title: "K10plus record 1954361602"
+        url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1954361602
+      - title: "SUDOC record 110752473"
+        url: https://www.sudoc.fr/110752473

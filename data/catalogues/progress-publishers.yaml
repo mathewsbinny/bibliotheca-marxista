@@ -1,0 +1,39 @@
+# Progress Publishers, Moscow — English-language list.
+# Hand-entered titles. Entries marked `verified: true` were matched to library catalogue
+# records by scripts/import-openlibrary.mjs; see their `sources`.
+publisher: progress-publishers
+titles:
+  - title: Collected Works
+    authors: [V. I. Lenin]
+    year: 1960
+    date_note: 1960–1970, 45 volumes
+    language: English
+    series: Lenin Collected Works
+    notes: >
+      Translated from the fourth Russian edition. Begun under the Foreign
+      Languages Publishing House and completed by Progress.
+
+  - title: Selected Works in Three Volumes
+    authors: [Karl Marx, Frederick Engels]
+    year: 1969
+    date_note: 1969–1970
+    language: English
+    verified: true
+    sources:
+      - title: "German National Library record 366758101"
+        url: https://d-nb.info/366758101
+
+  - title: The German Ideology
+    authors: [Karl Marx, Frederick Engels]
+    year: 1964
+    language: English
+    verified: true
+    sources:
+      - title: "Open Library edition OL14330841M"
+        url: https://openlibrary.org/books/OL14330841M
+      - title: "Open Library edition OL17768759M"
+        url: https://openlibrary.org/books/OL17768759M
+      - title: "Open Library edition OL21141688M"
+        url: https://openlibrary.org/books/OL21141688M
+      - title: "Open Library edition OL23805726M"
+        url: https://openlibrary.org/books/OL23805726M

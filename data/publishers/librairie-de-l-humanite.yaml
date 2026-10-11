@@ -1,0 +1,40 @@
+name: Librairie de l'Humanité
+country: France
+city: Paris
+founded: 1913
+dissolved: 1927
+status: defunct
+successor: editions-sociales
+affiliation: Bookshop and publishing house of L'Humanité — socialist until 1920, then of the French Communist Party
+languages: [French]
+description: >
+  The bookshop and publishing arm of L'Humanité. It began in 1913, when the daily
+  still belonged to the Socialist Party; after the Congress of Tours the new
+  Communist Party took over the paper and its bookshop in 1921. Meant to be the
+  party's sole publisher, with Boris Souvarine in charge for a few years, it
+  absorbed other communist imprints, including the Bibliothèque communiste and
+  Éditions Clarté, and between 1920 and 1925 issued 20 to 40 titles a year,
+  averaging about 5,600 copies each. It was not closed outright but replaced: in
+  1925 the party created the Bureau d'éditions, de diffusion et de publicité to
+  run the national leadership's publishing, and in 1927 added the Éditions
+  Sociales Internationales, more closely controlled by the Comintern. That line of
+  descent leads to the Éditions Sociales of 1944.
+name_history:
+  - name: Librairie de l'Humanité (socialist)
+    from: 1913
+    to: 1920
+    note: Bookshop and publisher of the Socialist Party's daily L'Humanité
+  - name: Librairie de l'Humanité (communist)
+    from: 1921
+    to: 1925
+    note: Absorbed the Bibliothèque communiste and Éditions Clarté
+  - name: Bureau d'éditions, de diffusion et de publicité
+    from: 1925
+    note: Took over the party leadership's publishing
+  - name: Éditions Sociales Internationales
+    from: 1927
+    note: Comintern-controlled successor; later Éditions Sociales
+sources:
+  - title: "Cairn — Les maisons d'édition du PCF, 1920–1956"
+  - title: French Wikipedia — Éditions sociales
+    url: https://fr.wikipedia.org/wiki/Éditions_sociales

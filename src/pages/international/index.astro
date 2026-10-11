@@ -1,0 +1,49 @@
+---
+import Base from '../../layouts/Base.astro';
+import { STATUS_LABELS, getInternationalPresses, getInternationalWorks, getInternationals, yearsActive } from '../../lib/catalogue';
+
+const internationals = await Promise.all(
+  (await getInternationals()).map(async (i) => ({
+    id: i.id,
+    data: i.data,
+    titles: (await getInternationalWorks(i)).length,
+    presses: (await getInternationalPresses(i.id)).length,
+  })),
+);
+---
+
+<Base centered title="International" description="The publications of the communist internationals, from the First International to the present.">
+  <h1>International</h1>
+  <p class="lede">
+    The communist internationals in the order they were founded, from the First International to
+    the present. Each one's page lists its own publishing houses and the manifestos, theses and
+    congress proceedings issued in its name.
+  </p>
+
+  <ol class="internationals">
+    {internationals.map(({ id, data, titles, presses }) => (
+      <li>
+        <article class="card international-card">
+          <span class={`status-dot ${data.status}`} title={STATUS_LABELS[data.status]}></span>
+          <h3><a href={`/international/${id}`}>{data.name}</a></h3>
+          <div class="meta">{[yearsActive({ ...data, estimated: [] }), data.affiliation].filter(Boolean).join(' · ')}</div>
+          <p>
+            {titles.toLocaleString('en')} {titles === 1 ? 'title' : 'titles'}
+            {presses > 0 && ` · ${presses} ${presses === 1 ? 'publishing house' : 'publishing houses'}`}
+          </p>
+        </article>
+        <p class="international-summary">{data.summary}</p>
+      </li>
+    ))}
+  </ol>
+</Base>
+
+<style>
+  .internationals { list-style: none; padding: 0; margin: 2rem auto 0; max-width: 44rem; display: flex; flex-direction: column; gap: 2rem; text-align: left; }
+  /* The whole box opens the international's page. */
+  .international-card h3 a::after { content: ''; position: absolute; inset: 0; }
+  .international-card:hover { border-color: var(--accent); }
+  .international-card:hover h3 a { color: var(--accent); }
+  .international-card:focus-within { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .international-summary { margin: 0.6rem 0.25rem 0; color: var(--ink); }
+</style>

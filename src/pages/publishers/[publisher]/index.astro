@@ -1,0 +1,148 @@
+---
+import { getEntry } from 'astro:content';
+import Base from '../../../layouts/Base.astro';
+import CatalogueTable from '../../../components/CatalogueTable.astro';
+import { STATUS_LABELS, getPublisherTitles, getPublishers, yearsActive, type Publisher } from '../../../lib/catalogue';
+
+export async function getStaticPaths() {
+  const publishers = await getPublishers();
+  return publishers.map((publisher) => ({ params: { publisher: publisher.id }, props: { publisher } }));
+}
+
+interface Props {
+  publisher: Publisher;
+}
+
+const { publisher } = Astro.props;
+const p = publisher.data;
+const titles = await getPublisherTitles(publisher.id);
+const parent = p.parent && (await getEntry(p.parent));
+const international = p.international && (await getEntry(p.international));
+const children = (await getPublishers()).filter((c) => c.data.parent?.id === publisher.id);
+const predecessor = p.predecessor && (await getEntry(p.predecessor));
+/** An open-ended latest name is current unless the house closed after adopting it. */
+const isCurrentName = (n: (typeof p.name_history)[number]) =>
+  n === p.name_history.at(-1) && (p.status === 'active' || (p.dissolved !== undefined && (n.from ?? 0) > p.dissolved));
+const successor = p.successor && (await getEntry(p.successor));
+---
+
+<Base
+  title={p.name}
+  description={p.description}
+  jsonLd={{
+    '@type': 'Organization', name: p.name, alternateName: p.alternate_names, description: p.description,
+    foundingDate: p.founded && String(p.founded), dissolutionDate: p.dissolved && String(p.dissolved),
+    location: [p.city, p.country].filter(Boolean).join(', '), url: p.website, sameAs: p.sources.map((s) => s.url).filter((u): u is string => !!u && /wikipedia\.org|wikidata\.org/.test(u)),
+  }}
+>
+  <header class="page-head">
+    <p class="eyebrow"><a href="/publishers">Publishers</a> · {p.country}</p>
+    <h1>{p.name}</h1>
+    <span class="status-label">
+      <span class={`status-dot ${p.status}`} aria-hidden="true"></span>
+      {STATUS_LABELS[p.status]}
+    </span>
+  </header>
+  <p class="lede">{p.description}</p>
+
+  <dl class="record">
+    <dt>Years</dt>
+    <dd>{yearsActive(p)}</dd>
+    <dt>Location</dt>
+    <dd>{[p.city, p.region, p.country].filter(Boolean).join(', ')}</dd>
+    {p.home_country && p.home_country !== p.country && (
+      <>
+        <dt>Published abroad for</dt>
+        <dd>The movement of {p.home_country}; this press is also listed under {p.home_country} on the globe</dd>
+      </>
+    )}
+    {international && (
+      <>
+        <dt>Published for</dt>
+        <dd><a href={`/international/${international.id}`}>{international.data.name}</a></dd>
+      </>
+    )}
+    {p.name_history.length > 0 && (
+      <>
+        <dt>Name history</dt>
+        <dd>
+          <ol class="name-history">
+            {p.name_history.map((n) => (
+              <li>
+                <span class="meta">{n.from ?? '?'}–{n.to ?? (isCurrentName(n) ? 'present' : '?')}</span>{' '}
+                {n.name}
+                {n.note && <span class="meta"> — {n.note}</span>}
+              </li>
+            ))}
+          </ol>
+        </dd>
+      </>
+    )}
+    {p.alternate_names.length > 0 && (
+      <>
+        <dt>Also known as</dt>
+        <dd>{p.alternate_names.join(' · ')}</dd>
+      </>
+    )}
+    {p.affiliation && (
+      <>
+        <dt>Affiliation</dt>
+        <dd>{p.affiliation}</dd>
+      </>
+    )}
+    {p.languages.length > 0 && (
+      <>
+        <dt>Languages</dt>
+        <dd>{p.languages.join(', ')}</dd>
+      </>
+    )}
+    {parent && (
+      <>
+        <dt>Part of</dt>
+        <dd><a href={`/publishers/${parent.id}`}>{parent.data.name}</a></dd>
+      </>
+    )}
+    {children.length > 0 && (
+      <>
+        <dt>Imprints & clubs</dt>
+        <dd>{children.map((c, i) => <>{i > 0 && ' · '}<a href={`/publishers/${c.id}`}>{c.data.name}</a></>)}</dd>
+      </>
+    )}
+    {predecessor && (
+      <>
+        <dt>Preceded by</dt>
+        <dd><a href={`/publishers/${predecessor.id}`}>{predecessor.data.name}</a></dd>
+      </>
+    )}
+    {successor && (
+      <>
+        <dt>Succeeded by</dt>
+        <dd><a href={`/publishers/${successor.id}`}>{successor.data.name}</a></dd>
+      </>
+    )}
+    {p.website && (
+      <>
+        <dt>Website</dt>
+        <dd><a href={p.website}>{p.website}</a></dd>
+      </>
+    )}
+    {p.sources.length > 0 && (
+      <>
+        <dt>Sources</dt>
+        <dd>
+          {p.sources.map((s, i) => (
+            <>
+              {i > 0 && '; '}
+              {s.url ? <a href={s.url}>{s.title}</a> : s.title}
+            </>
+          ))}
+        </dd>
+      </>
+    )}
+  </dl>
+
+  <h2>Backlist</h2>
+  {titles.length > 0
+    ? <CatalogueTable titles={titles} scope={{ pub: publisher.id }} plainHref={`/publishers/${publisher.id}/titles/1`} />
+    : <p class="meta">No titles catalogued yet.</p>}
+</Base>
