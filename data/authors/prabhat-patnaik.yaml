@@ -13,30 +13,50 @@ works:
     year: 1986
     publisher: Sangam Books
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL2100952M
+      - title: "Open Library edition OL2100952M"
         url: https://openlibrary.org/books/OL2100952M
+      - title: "WorldCat record (OCLC 20263731)"
+        url: https://search.worldcat.org/title/20263731
+      - title: "Library of Congress record (LCCN 88149356)"
+        url: https://lccn.loc.gov/88149356
   - title: Time, Inflation, and Growth
     year: 1988
     publisher: Centre for Studies in Social Sciences
     place: Calcutta
+    verified: true
     sources:
-      - title: Open Library edition OL2168371M
+      - title: "Open Library edition OL2168371M"
         url: https://openlibrary.org/books/OL2168371M
+      - title: "WorldCat record (OCLC 19777928)"
+        url: https://search.worldcat.org/title/19777928
+      - title: "Library of Congress record (LCCN 88905599)"
+        url: https://lccn.loc.gov/88905599
   - title: Economics and Egalitarianism
     year: 1991
     publisher: Oxford University Press
     place: Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL1299652M
+      - title: "Open Library edition OL1299652M"
         url: https://openlibrary.org/books/OL1299652M
+      - title: "WorldCat record (OCLC 25136183)"
+        url: https://search.worldcat.org/title/25136183
+      - title: "Library of Congress record (LCCN 92164468)"
+        url: https://lccn.loc.gov/92164468
   - title: Macroeconomics
     year: 1995
     publisher: Oxford University Press
     place: Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL918244M
+      - title: "Open Library edition OL918244M"
         url: https://openlibrary.org/books/OL918244M
+      - title: "WorldCat record (OCLC 34028408)"
+        url: https://search.worldcat.org/title/34028408
+      - title: "Library of Congress record (LCCN 95215313)"
+        url: https://lccn.loc.gov/95215313
   - title: Whatever Happened to Imperialism and Other Essays
     year: 1995
     publisher: Tulika
@@ -46,64 +66,109 @@ works:
   - title: Accumulation and Stability Under Capitalism
     year: 1997
     publisher: Oxford University Press
+    verified: true
     sources:
-      - title: Open Library edition OL40388160M
-        url: https://openlibrary.org/books/OL40388160M
+      - title: "Open Library edition OL980980M"
+        url: https://openlibrary.org/books/OL980980M
+      - title: "WorldCat record (OCLC 34624069)"
+        url: https://search.worldcat.org/title/34624069
+      - title: "Library of Congress record (LCCN 96018540)"
+        url: https://lccn.loc.gov/96018540
   - title: The Retreat to Unfreedom
     year: 2003
     publisher: Tulika
     place: New Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL3709152M
+      - title: "Open Library edition OL3709152M"
         url: https://openlibrary.org/books/OL3709152M
+      - title: "WorldCat record (OCLC 52040859)"
+        url: https://search.worldcat.org/title/52040859
+      - title: "Library of Congress record (LCCN 2003305688)"
+        url: https://lccn.loc.gov/2003305688
   - title: The Value of Money
     year: 2008
     publisher: Tulika Books
     place: New Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL22672825M
+      - title: "Open Library edition OL22672825M"
         url: https://openlibrary.org/books/OL22672825M
+      - title: "WorldCat record (OCLC 269283771)"
+        url: https://search.worldcat.org/title/269283771
+      - title: "Library of Congress record (LCCN 2008319306)"
+        url: https://lccn.loc.gov/2008319306
   - title: Speculation and Growth Under Contemporary Capitalism
     year: 2008
     publisher: Gokhale Institue of Politics and Economics
     place: '[Maharashtra, India]'
+    verified: true
     sources:
-      - title: Open Library edition OL44701511M
+      - title: "Open Library edition OL44701511M"
         url: https://openlibrary.org/books/OL44701511M
+      - title: "WorldCat record (OCLC 844112852)"
+        url: https://search.worldcat.org/title/844112852
+      - title: "Open Library edition OL31235082M"
+        url: https://openlibrary.org/books/OL31235082M
+      - title: "Library of Congress record (LCCN 2013332456)"
+        url: https://lccn.loc.gov/2013332456
   - title: Re-envisioning Socialism
     year: 2011
     publisher: Tulika Books
     place: New Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL24833846M
+      - title: "Open Library edition OL24833846M"
         url: https://openlibrary.org/books/OL24833846M
+      - title: "WorldCat record (OCLC 706651387)"
+        url: https://search.worldcat.org/title/706651387
+      - title: "Library of Congress record (LCCN 2011321168)"
+        url: https://lccn.loc.gov/2011321168
   - title: Excursus in History
     year: 2011
     publisher: Tulika Books
     place: New Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL24833847M
+      - title: "Open Library edition OL24854487M"
+        url: https://openlibrary.org/books/OL24854487M
+      - title: "WorldCat record (OCLC 703547567)"
+        url: https://search.worldcat.org/title/703547567
+      - title: "Library of Congress record (LCCN 2011321169)"
+        url: https://lccn.loc.gov/2011321169
+      - title: "Open Library edition OL24833847M"
         url: https://openlibrary.org/books/OL24833847M
   - title: Two Perspectives on Decentralization
     year: 2015
     publisher: Research Unit on Local Self Governments, Centre for Development Studies
     place: Thiruvananthapuram
+    verified: true
     sources:
-      - title: Open Library edition OL44542910M
+      - title: "Open Library edition OL44542910M"
         url: https://openlibrary.org/books/OL44542910M
   - title: Icssr Research Surveys and Explorations
     year: 2015
     publisher: Oxford University Press India
+    verified: true
     sources:
-      - title: Open Library edition OL28582410M
+      - title: "Open Library edition OL28582410M"
         url: https://openlibrary.org/books/OL28582410M
+      - title: "WorldCat record (OCLC 1193264783)"
+        url: https://search.worldcat.org/title/1193264783
+      - title: "Library of Congress record (LCCN 2015364952)"
+        url: https://lccn.loc.gov/2015364952
   - title: The October Revolution and the Present
     year: 2016
     publisher: SAHMAT
     place: New Delhi, [India]
+    verified: true
     sources:
-      - title: Open Library edition OL44297174M
+      - title: "Open Library edition OL44297174M"
         url: https://openlibrary.org/books/OL44297174M
+      - title: "WorldCat record (OCLC 965199770)"
+        url: https://search.worldcat.org/title/965199770
+      - title: "Library of Congress record (LCCN 2016362539)"
+        url: https://lccn.loc.gov/2016362539
   - title: Karl Marx on India
     year: 2016
     publisher: Columbia University Press
@@ -114,9 +179,12 @@ works:
     subtitle: A Critique of India's Currency Experiment
     year: 2017
     publisher: Taylor & Francis Group
+    verified: true
     sources:
-      - title: Open Library edition OL28637132M
+      - title: "Open Library edition OL28637132M"
         url: https://openlibrary.org/books/OL28637132M
+      - title: "WorldCat record (OCLC 976433969)"
+        url: https://search.worldcat.org/title/976433969
   - title: Karl Marx's 'Capital' and the Present
     year: 2018
     publisher: Tulika Print Communication Services Pvt., Limited

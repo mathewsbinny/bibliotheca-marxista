@@ -12,27 +12,45 @@ works:
     year: 2014
     publisher: University of KwaZulu-Natal Press
     place: Pietermaritzburg, South Africa
+    verified: true
     sources:
-      - title: Open Library edition OL31249352M
+      - title: "Open Library edition OL31249352M"
         url: https://openlibrary.org/books/OL31249352M
+      - title: "WorldCat record (OCLC 871319413)"
+        url: https://search.worldcat.org/title/871319413
+      - title: "Library of Congress record (LCCN 2014451187)"
+        url: https://lccn.loc.gov/2014451187
   - title: Democracy as Death
     year: 2015
     publisher: University of California Press
+    verified: true
     sources:
-      - title: Open Library edition OL29715078M
-        url: https://openlibrary.org/books/OL29715078M
+      - title: "Open Library edition OL27516657M"
+        url: https://openlibrary.org/books/OL27516657M
+      - title: "WorldCat record (OCLC 889728952)"
+        url: https://search.worldcat.org/title/889728952
+      - title: "Library of Congress record (LCCN 2014035011)"
+        url: https://lccn.loc.gov/2014035011
   - title: The Divide
     year: 2017
     publisher: Heinemann
+    verified: true
     sources:
-      - title: Open Library edition OL32229670M
+      - title: "Open Library edition OL32229670M"
         url: https://openlibrary.org/books/OL32229670M
+      - title: "WorldCat record (OCLC 984907212)"
+        url: https://search.worldcat.org/title/984907212
   - title: Hierarchy and Value
     year: 2018
     publisher: Berghahn Books, Incorporated
+    verified: true
     sources:
-      - title: Open Library edition OL53254954M
-        url: https://openlibrary.org/books/OL53254954M
+      - title: "Open Library edition OL35539062M"
+        url: https://openlibrary.org/books/OL35539062M
+      - title: "WorldCat record (OCLC 1030591502)"
+        url: https://search.worldcat.org/title/1030591502
+      - title: "Library of Congress record (LCCN 2018014223)"
+        url: https://lccn.loc.gov/2018014223
   - title: Less Is More
     year: 2020
     publisher: Penguin Random House

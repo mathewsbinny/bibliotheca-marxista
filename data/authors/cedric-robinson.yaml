@@ -13,15 +13,25 @@ works:
     language: English
     publisher: State University of New York
     place: Binghamton, NY
+    verified: true
     sources:
-      - title: SUDOC record 226008363
-        url: https://www.sudoc.fr/226008363
+      - title: "Open Library edition OL58221662M"
+        url: https://openlibrary.org/books/OL58221662M
+      - title: "WorldCat record (OCLC 10768822)"
+        url: https://search.worldcat.org/title/10768822
   - title: The Terms of Order
     year: 1980
     publisher: State Univ of New York Pr
+    verified: true
     sources:
-      - title: Open Library edition OL11118197M
+      - title: "Open Library edition OL11118197M"
         url: https://openlibrary.org/books/OL11118197M
+      - title: "WorldCat record (OCLC 185696285)"
+        url: https://search.worldcat.org/title/185696285
+      - title: "Library of Congress record (LCCN 79015023)"
+        url: https://lccn.loc.gov/79015023
+      - title: "Open Library edition OL4411455M"
+        url: https://openlibrary.org/books/OL4411455M
   - title: Notes Toward a "Native" Theory of History
     year: 1980
     language: English
@@ -34,9 +44,16 @@ works:
     year: 1983
     publisher: Zed Press
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL43648051M
+      - title: "Open Library edition OL43648051M"
         url: https://openlibrary.org/books/OL43648051M
+      - title: "WorldCat record (OCLC 11259946)"
+        url: https://search.worldcat.org/title/11259946
+      - title: "Open Library edition OL2905181M"
+        url: https://openlibrary.org/books/OL2905181M
+      - title: "Library of Congress record (LCCN 84134425)"
+        url: https://lccn.loc.gov/84134425
   - title: C.L.R. James and the Black Radical Tradition
     year: 1983
     language: English
@@ -50,56 +67,89 @@ works:
     language: English
     publisher: Zed Press
     place: London
+    verified: true
     sources:
-      - title: SUDOC record 062414283
-        url: https://www.sudoc.fr/062414283
+      - title: "Open Library edition OL43648051M"
+        url: https://openlibrary.org/books/OL43648051M
+      - title: "WorldCat record (OCLC 11259946)"
+        url: https://search.worldcat.org/title/11259946
+      - title: "Open Library edition OL2905181M"
+        url: https://openlibrary.org/books/OL2905181M
+      - title: "Library of Congress record (LCCN 84134425)"
+        url: https://lccn.loc.gov/84134425
   - title: Tax Policy-Making in the United Kingdom
     subtitle: A Study of Rationality, Ideology and Politics
     year: 1983
     publisher: Heinemann Educational Books
+    verified: true
     sources:
-      - title: CiNii Books record BA03783688
-        url: https://ci.nii.ac.jp/ncid/BA03783688
+      - title: "Open Library edition OL3216338M"
+        url: https://openlibrary.org/books/OL3216338M
+      - title: "WorldCat record (OCLC 10158070)"
+        url: https://search.worldcat.org/title/10158070
+      - title: "Library of Congress record (LCCN 83124790)"
+        url: https://lccn.loc.gov/83124790
   - title: White Man, Listen!
     year: 1995
     language: English
     publisher: HarperPerennial
     place: New York
+    verified: true
     sources:
-      - title: SUDOC record 081609353
-        url: https://www.sudoc.fr/081609353
-      - title: CiNii Books record BA34363450
-        url: https://ci.nii.ac.jp/ncid/BA34363450
+      - title: "Open Library edition OL1118574M"
+        url: https://openlibrary.org/books/OL1118574M
+      - title: "WorldCat record (OCLC 31816195)"
+        url: https://search.worldcat.org/title/31816195
+      - title: "Library of Congress record (LCCN 94044808)"
+        url: https://lccn.loc.gov/94044808
+      - title: "Open Library edition OL20945285M"
+        url: https://openlibrary.org/books/OL20945285M
   - title: Black Movements in America
     year: 1997
     publisher: Routledge
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL984235M
+      - title: "Open Library edition OL984235M"
         url: https://openlibrary.org/books/OL984235M
+      - title: "WorldCat record (OCLC 861692765)"
+        url: https://search.worldcat.org/title/861692765
+      - title: "Library of Congress record (LCCN 96021986)"
+        url: https://lccn.loc.gov/96021986
   - title: An Anthropology of Marxism
     year: 2001
     publisher: Burlington, VT
     place: Aldershot, Hampshire, England
+    verified: true
     sources:
-      - title: Open Library edition OL6800367M
+      - title: "Open Library edition OL6800367M"
         url: https://openlibrary.org/books/OL6800367M
+      - title: "WorldCat record (OCLC 45735833)"
+        url: https://search.worldcat.org/title/45735833
+      - title: "Library of Congress record (LCCN 00111546)"
+        url: https://lccn.loc.gov/00111546
   - title: Forgeries of Memory and Meaning
     year: 2007
     publisher: The University of North Carolina Press
+    verified: true
     sources:
-      - title: Open Library edition OL11294136M
+      - title: "Open Library edition OL11294136M"
         url: https://openlibrary.org/books/OL11294136M
+      - title: "WorldCat record (OCLC 137305860)"
+        url: https://search.worldcat.org/title/137305860
+      - title: "Library of Congress record (LCCN 2007022091)"
+        url: https://lccn.loc.gov/2007022091
+      - title: "Open Library edition OL17961832M"
+        url: https://openlibrary.org/books/OL17961832M
   - title: Cedric J. Robinson
     subtitle: On Racial Capitalism, Black Internationalism, and Cultures of Resistance
     year: 2019
     language: English
     publisher: Pluto Press
     place: London
+    verified: true
     sources:
-      - title: swisscovery record 991170317684305501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991170317684305501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: Library of Congress record 2022300529
-        url: https://lccn.loc.gov/2022300529
-      - title: CiNii Books record BC07562608
-        url: https://ci.nii.ac.jp/ncid/BC07562608
+      - title: "Open Library edition OL29435778M"
+        url: https://openlibrary.org/books/OL29435778M
+      - title: "WorldCat record (OCLC 1124075925)"
+        url: https://search.worldcat.org/title/1124075925

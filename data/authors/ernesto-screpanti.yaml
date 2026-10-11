@@ -10,16 +10,26 @@ works:
     year: 1978
     publisher: Feltrinelli
     place: Milano
+    verified: true
     sources:
-      - title: Open Library edition OL4505858M
+      - title: "Open Library edition OL4505858M"
         url: https://openlibrary.org/books/OL4505858M
+      - title: "WorldCat record (OCLC 5221072)"
+        url: https://search.worldcat.org/title/5221072
+      - title: "Library of Congress record (LCCN 79350953)"
+        url: https://lccn.loc.gov/79350953
   - title: Equilibrio e crisi nell'economia capitalistica
     year: 1984
     publisher: Nuova Italia scientifica
     place: Roma
+    verified: true
     sources:
-      - title: Open Library edition OL2950557M
+      - title: "Open Library edition OL2950557M"
         url: https://openlibrary.org/books/OL2950557M
+      - title: "WorldCat record (OCLC 12053248)"
+        url: https://search.worldcat.org/title/12053248
+      - title: "Library of Congress record (LCCN 84191673)"
+        url: https://lccn.loc.gov/84191673
   - title: Profilo di Storia del Pensiero Economico
     year: 1993
     publisher: Clarendon Press
@@ -31,27 +41,45 @@ works:
     year: 2003
     publisher: Pettirosso
     place: Napoli
+    verified: true
     sources:
-      - title: Open Library edition OL56753558M
+      - title: "Open Library edition OL56753558M"
         url: https://openlibrary.org/books/OL56753558M
+      - title: "WorldCat record (OCLC 54957023)"
+        url: https://search.worldcat.org/title/54957023
   - title: Comunismo libertario
     year: 2007
     publisher: Manifestolibri
     place: Roma
+    verified: true
     sources:
-      - title: Open Library edition OL31779500M
+      - title: "Open Library edition OL31779500M"
         url: https://openlibrary.org/books/OL31779500M
+      - title: "WorldCat record (OCLC 143593608)"
+        url: https://search.worldcat.org/title/143593608
+      - title: "Library of Congress record (LCCN 2007420199)"
+        url: https://lccn.loc.gov/2007420199
   - title: L'angelo della liberazione nel tumulto dei Ciompi
     year: 2008
     publisher: Protagon
     place: Siena
+    verified: true
     sources:
-      - title: Open Library edition OL22687366M
+      - title: "Open Library edition OL22687366M"
         url: https://openlibrary.org/books/OL22687366M
+      - title: "WorldCat record (OCLC 271079644)"
+        url: https://search.worldcat.org/title/271079644
+      - title: "Library of Congress record (LCCN 2008362035)"
+        url: https://lccn.loc.gov/2008362035
+      - title: "Open Library edition OL23005867M"
+        url: https://openlibrary.org/books/OL23005867M
   - title: Marx dalla totalità alla moltitudine (1841-1843)
     year: 2013
     publisher: Petite plaisance
     place: Pistoia
+    verified: true
     sources:
-      - title: Open Library edition OL60980927M
+      - title: "Open Library edition OL60980927M"
         url: https://openlibrary.org/books/OL60980927M
+      - title: "WorldCat record (OCLC 953449730)"
+        url: https://search.worldcat.org/title/953449730

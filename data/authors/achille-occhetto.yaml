@@ -22,12 +22,13 @@ works:
     language: Italian
     publisher: Rizzoli
     place: Milano
+    verified: true
     sources:
-      - title: SUDOC record 00366564X
-        url: https://www.sudoc.fr/00366564X
-      - title: swisscovery record 991075915759705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991075915759705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: Library of Congress record 95121727
+      - title: "Open Library edition OL843804M"
+        url: https://openlibrary.org/books/OL843804M
+      - title: "WorldCat record (OCLC 32251566)"
+        url: https://search.worldcat.org/title/32251566
+      - title: "Library of Congress record (LCCN 95121727)"
         url: https://lccn.loc.gov/95121727
   - title: Silenzio, parla Achille
     subtitle: Il meglio dell'Occhetto-pensiero
@@ -35,30 +36,39 @@ works:
     language: Italian
     publisher: Mondadori
     place: Milano
+    verified: true
     sources:
-      - title: SUDOC record 003594408
-        url: https://www.sudoc.fr/003594408
-      - title: Library of Congress record 95152432
+      - title: "Open Library edition OL867867M"
+        url: https://openlibrary.org/books/OL867867M
+      - title: "WorldCat record (OCLC 32464129)"
+        url: https://search.worldcat.org/title/32464129
+      - title: "Library of Congress record (LCCN 95152432)"
         url: https://lccn.loc.gov/95152432
   - title: Secondo me
     year: 2000
     language: Italian
     publisher: Piemme
     place: Casale Monferrato (AL)
+    verified: true
     sources:
-      - title: SUDOC record 061558885
-        url: https://www.sudoc.fr/061558885
-      - title: Library of Congress record 2001383296
+      - title: "Open Library edition OL4014993M"
+        url: https://openlibrary.org/books/OL4014993M
+      - title: "WorldCat record (OCLC 46702389)"
+        url: https://search.worldcat.org/title/46702389
+      - title: "Library of Congress record (LCCN 2001383296)"
         url: https://lccn.loc.gov/2001383296
   - title: Potere e antipotere
     year: 2006
     language: Italian
     publisher: Fazi
     place: Roma
+    verified: true
     sources:
-      - title: SUDOC record 114000352
-        url: https://www.sudoc.fr/114000352
-      - title: Library of Congress record 2006350991
+      - title: "Open Library edition OL31704320M"
+        url: https://openlibrary.org/books/OL31704320M
+      - title: "WorldCat record (OCLC 64672524)"
+        url: https://search.worldcat.org/title/64672524
+      - title: "Library of Congress record (LCCN 2006350991)"
         url: https://lccn.loc.gov/2006350991
   - title: La gioiosa macchina da guerra
     subtitle: Veleni, sogni e speranze della sinistra
@@ -66,21 +76,25 @@ works:
     language: Italian
     publisher: Editori riuniti
     place: Roma
+    verified: true
     sources:
-      - title: SUDOC record 175183759
-        url: https://www.sudoc.fr/175183759
-      - title: Library of Congress record 2013394096
+      - title: "Open Library edition OL30414589M"
+        url: https://openlibrary.org/books/OL30414589M
+      - title: "WorldCat record (OCLC 861184070)"
+        url: https://search.worldcat.org/title/861184070
+      - title: "Library of Congress record (LCCN 2013394096)"
         url: https://lccn.loc.gov/2013394096
   - title: C'era una volta la sinistra
     year: 2019
     language: Italian
     publisher: PaperFIRST
     place: Roma
+    verified: true
     sources:
-      - title: SUDOC record 251131696
-        url: https://www.sudoc.fr/251131696
-      - title: Library of Congress record 2019466709
-        url: https://lccn.loc.gov/2019466709
+      - title: "Open Library edition OL60763386M"
+        url: https://openlibrary.org/books/OL60763386M
+      - title: "WorldCat record (OCLC 1098223160)"
+        url: https://search.worldcat.org/title/1098223160
   - title: Parce qu'il ne suffit pas de se dire démocrates
     subtitle: Écosocialisme et justice sociale
     year: 2024

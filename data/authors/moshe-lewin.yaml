@@ -13,16 +13,28 @@ works:
     year: 1966
     publisher: Mouton
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL21302289M
+      - title: "Open Library edition OL62088771M"
+        url: https://openlibrary.org/books/OL62088771M
+      - title: "WorldCat record (OCLC 314793314)"
+        url: https://search.worldcat.org/title/314793314
+      - title: "Open Library edition OL21302289M"
         url: https://openlibrary.org/books/OL21302289M
   - title: Le Dernier combat de Lénine
     year: 1967
     publisher: Les Éditions de Minuit
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL52533909M
+      - title: "Open Library edition OL52533909M"
         url: https://openlibrary.org/books/OL52533909M
+      - title: "WorldCat record (OCLC 11564308)"
+        url: https://search.worldcat.org/title/11564308
+      - title: "Open Library edition OL17911514M"
+        url: https://openlibrary.org/books/OL17911514M
+      - title: "Open Library edition OL19643205M"
+        url: https://openlibrary.org/books/OL19643205M
   - title: Russian Peasants and Soviet Power
     subtitle: >-
       A Study of Collectivization. Translated by Irene Nove, with the Assistance of John
@@ -30,16 +42,30 @@ works:
     year: 1968
     publisher: Allen and Unwin
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL19545008M
+      - title: "Open Library edition OL19545008M"
         url: https://openlibrary.org/books/OL19545008M
+      - title: "Open Library edition OL17278548M"
+        url: https://openlibrary.org/books/OL17278548M
+      - title: "WorldCat record (OCLC 656084904)"
+        url: https://search.worldcat.org/title/656084904
+      - title: "Open Library edition OL21732214M"
+        url: https://openlibrary.org/books/OL21732214M
   - title: Lenin's Last Struggle
     year: 1968
     publisher: Pantheon Books
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL5612916M
+      - title: "Open Library edition OL19733936M"
+        url: https://openlibrary.org/books/OL19733936M
+      - title: "Open Library edition OL5612916M"
         url: https://openlibrary.org/books/OL5612916M
+      - title: "WorldCat record (OCLC 1140)"
+        url: https://search.worldcat.org/title/1140
+      - title: "Library of Congress record (LCCN 68020892)"
+        url: https://lccn.loc.gov/68020892
   - title: Political Undercurrents in Soviet Economic Debates
     year: 1974
     publisher: Pluto Press
@@ -58,24 +84,41 @@ works:
     year: 1985
     publisher: Methuen
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL2635716M
+      - title: "Open Library edition OL2635716M"
         url: https://openlibrary.org/books/OL2635716M
+      - title: "WorldCat record (OCLC 12506330)"
+        url: https://search.worldcat.org/title/12506330
+      - title: "Library of Congress record (LCCN 85209285)"
+        url: https://lccn.loc.gov/85209285
   - title: The Gorbachev Phenomenon
     subtitle: A Historical Interpretation
     year: 1988
     publisher: University of California Press
     place: Berkeley
+    verified: true
     sources:
-      - title: Open Library edition OL2392672M
+      - title: "Open Library edition OL2392672M"
         url: https://openlibrary.org/books/OL2392672M
+      - title: "WorldCat record (OCLC 16582394)"
+        url: https://search.worldcat.org/title/16582394
+      - title: "Library of Congress record (LCCN 87022162)"
+        url: https://lccn.loc.gov/87022162
   - title: Stalinism and the Seeds of Soviet Reform
     year: 1991
     publisher: Pluto Press
     place: London, England
+    verified: true
     sources:
-      - title: Open Library edition OL1531223M
+      - title: "Open Library edition OL22187808M"
+        url: https://openlibrary.org/books/OL22187808M
+      - title: "Open Library edition OL1531223M"
         url: https://openlibrary.org/books/OL1531223M
+      - title: "WorldCat record (OCLC 900715)"
+        url: https://search.worldcat.org/title/900715
+      - title: "Library of Congress record (LCCN 91008701)"
+        url: https://lccn.loc.gov/91008701
   - title: Russia--USSR--Russia
     year: 1994
     publisher: New Press
@@ -86,13 +129,25 @@ works:
     subtitle: Dictatorships in Comparison
     year: 1997
     publisher: Cambridge University Press
+    verified: true
     sources:
-      - title: Open Library edition OL7746479M
+      - title: "Open Library edition OL7746479M"
         url: https://openlibrary.org/books/OL7746479M
+      - title: "WorldCat record (OCLC 34617784)"
+        url: https://search.worldcat.org/title/34617784
+      - title: "Library of Congress record (LCCN 96016150)"
+        url: https://lccn.loc.gov/96016150
+      - title: "Open Library edition OL978893M"
+        url: https://openlibrary.org/books/OL978893M
   - title: The Soviet Century
     year: 2005
     publisher: Verso
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL3294469M
+      - title: "Open Library edition OL3294469M"
         url: https://openlibrary.org/books/OL3294469M
+      - title: "WorldCat record (OCLC 55846694)"
+        url: https://search.worldcat.org/title/55846694
+      - title: "Library of Congress record (LCCN 2004015478)"
+        url: https://lccn.loc.gov/2004015478

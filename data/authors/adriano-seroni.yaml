@@ -35,99 +35,125 @@ works:
     year: 1944
     publisher: Vallecchi
     place: Firenze
+    verified: true
     sources:
-      - title: Open Library edition OL17117093M
+      - title: "Open Library edition OL17117093M"
         url: https://openlibrary.org/books/OL17117093M
+      - title: "Open Library edition OL6504529M"
+        url: https://openlibrary.org/books/OL6504529M
+      - title: "WorldCat record (OCLC 2015117)"
+        url: https://search.worldcat.org/title/2015117
+      - title: "Library of Congress record (LCCN 46022419)"
+        url: https://lccn.loc.gov/46022419
   - title: Nuove ragioni critiche
     year: 1954
     publisher: Vallecchi
     place: Firenze
+    verified: true
     sources:
-      - title: Open Library edition OL38591183M
+      - title: "Open Library edition OL38591183M"
         url: https://openlibrary.org/books/OL38591183M
+      - title: "WorldCat record (OCLC 2055262)"
+        url: https://search.worldcat.org/title/2055262
+      - title: "Open Library edition OL16533656M"
+        url: https://openlibrary.org/books/OL16533656M
+      - title: "Open Library edition OL20734421M"
+        url: https://openlibrary.org/books/OL20734421M
   - title: Bibliografia essenziale delle opere del Firenzuola
     year: 1957
     publisher: Sansoni
     place: Firenze
+    verified: true
     sources:
-      - title: Open Library edition OL52728022M
+      - title: "Open Library edition OL52728022M"
         url: https://openlibrary.org/books/OL52728022M
+      - title: "WorldCat record (OCLC 3794675)"
+        url: https://search.worldcat.org/title/3794675
+      - title: "Open Library edition OL17229576M"
+        url: https://openlibrary.org/books/OL17229576M
   - title: Opere
     year: 1958
     language: Italian
     publisher: Sansoni
     place: Firenze
+    verified: true
     sources:
-      - title: SUDOC record 005423244
-        url: https://www.sudoc.fr/005423244
-      - title: swisscovery record 991110665709705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991110665709705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: CiNii Books record BA73837974
-        url: https://ci.nii.ac.jp/ncid/BA73837974
+      - title: "Open Library edition OL61353634M"
+        url: https://openlibrary.org/books/OL61353634M
+      - title: "WorldCat record (OCLC 3983502)"
+        url: https://search.worldcat.org/title/3983502
+      - title: "Open Library edition OL22017797M"
+        url: https://openlibrary.org/books/OL22017797M
+      - title: "Library of Congress record (LCCN 72319551)"
+        url: https://lccn.loc.gov/72319551
   - title: Verga
     year: 1960
     language: Italian
     publisher: Palumbo
     place: Palermo
+    verified: true
     sources:
-      - title: SUDOC record 024931055
-        url: https://www.sudoc.fr/024931055
-      - title: swisscovery record 991039474929705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991039474929705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: Library of Congress record 76533588
-        url: https://lccn.loc.gov/76533588
+      - title: "Open Library edition OL59781020M"
+        url: https://openlibrary.org/books/OL59781020M
+      - title: "WorldCat record (OCLC 23172089)"
+        url: https://search.worldcat.org/title/23172089
   - title: La città del sole
     year: 1962
     language: Italian
     publisher: Feltrinelli
     place: Milano
+    verified: true
     sources:
-      - title: SUDOC record 046906266
-        url: https://www.sudoc.fr/046906266
-      - title: swisscovery record 991071057229705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991071057229705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: Library of Congress record 81119112
-        url: https://lccn.loc.gov/81119112
+      - title: "Open Library edition OL61490823M"
+        url: https://openlibrary.org/books/OL61490823M
+      - title: "WorldCat record (OCLC 23508739)"
+        url: https://search.worldcat.org/title/23508739
   - title: Il decadentismo
     year: 1964
     language: Italian
     publisher: Palumbo
     place: Palermo
+    verified: true
     sources:
-      - title: SUDOC record 005815673
-        url: https://www.sudoc.fr/005815673
-      - title: swisscovery record 991104332159705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991104332159705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: Library of Congress record 76233078
+      - title: "Open Library edition OL4921591M"
+        url: https://openlibrary.org/books/OL4921591M
+      - title: "WorldCat record (OCLC 384457)"
+        url: https://search.worldcat.org/title/384457
+      - title: "Library of Congress record (LCCN 76233078)"
         url: https://lccn.loc.gov/76233078
   - title: Esperimenti critici sul Novecento letterario
     year: 1967
     language: Italian
     publisher: U. Mursia e C
     place: Milano
+    verified: true
     sources:
-      - title: BnF catalogue record cb374107365
-        url: https://catalogue.bnf.fr/ark:/12148/cb374107365
-      - title: SUDOC record 005815622
-        url: https://www.sudoc.fr/005815622
-      - title: swisscovery record 991084776009705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991084776009705501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL38592155M"
+        url: https://openlibrary.org/books/OL38592155M
+      - title: "WorldCat record (OCLC 356090)"
+        url: https://search.worldcat.org/title/356090
+      - title: "Library of Congress record (LCCN 77354022)"
+        url: https://lccn.loc.gov/77354022
+      - title: "Open Library edition OL14082036M"
+        url: https://openlibrary.org/books/OL14082036M
   - title: Gadda ...
     year: 1969
     publisher: La nuova Italia
     place: Firenze
+    verified: true
     sources:
-      - title: Open Library edition OL4368030M
+      - title: "Open Library edition OL4368030M"
         url: https://openlibrary.org/books/OL4368030M
+      - title: "WorldCat record (OCLC 7083757)"
+        url: https://search.worldcat.org/title/7083757
+      - title: "Library of Congress record (LCCN 78491655)"
+        url: https://lccn.loc.gov/78491655
   - title: Carlo E. Gadda
     year: 1971
     language: Italian
     publisher: La Nuova italia
     place: Firenze
+    verified: true
     sources:
-      - title: SUDOC record 011394579
-        url: https://www.sudoc.fr/011394579
-      - title: swisscovery record 991171253851605501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991171253851605501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: Library of Congress record 85214073
-        url: https://lccn.loc.gov/85214073
+      - title: "Open Library edition OL13663295M"
+        url: https://openlibrary.org/books/OL13663295M

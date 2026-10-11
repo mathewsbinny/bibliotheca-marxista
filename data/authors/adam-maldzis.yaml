@@ -46,10 +46,13 @@ works:
     language: Lithuanian
     publisher: Vaga
     place: Vilnius
+    verified: true
     sources:
-      - title: SUDOC record 021736065
-        url: https://www.sudoc.fr/021736065
-      - title: Library of Congress record 89204834
+      - title: "Open Library edition OL1800910M"
+        url: https://openlibrary.org/books/OL1800910M
+      - title: "WorldCat record (OCLC 22494353)"
+        url: https://search.worldcat.org/title/22494353
+      - title: "Library of Congress record (LCCN 89204834)"
         url: https://lccn.loc.gov/89204834
   - title: Belarusìka
     subtitle: Albaruthenica
@@ -57,10 +60,13 @@ works:
     language: Belarusian
     publisher: '"Navuka i tèchnika"'
     place: Mìnsk
+    verified: true
     sources:
-      - title: National Library of Poland record 991019357449705066
-        url: https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991019357449705066&vid=48OMNIS_NLOP:48OMNIS_NLOP
-      - title: Library of Congress record 94168655
+      - title: "Open Library edition OL1181090M"
+        url: https://openlibrary.org/books/OL1181090M
+      - title: "WorldCat record (OCLC 30261157)"
+        url: https://search.worldcat.org/title/30261157
+      - title: "Library of Congress record (LCCN 94168655)"
         url: https://lccn.loc.gov/94168655
   - title: Belarusy
     year: 2001
@@ -77,13 +83,14 @@ works:
     language: Belarusian
     publisher: Knihazbor
     place: Minsk
+    verified: true
     sources:
-      - title: swisscovery record 991134456739705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991134456739705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: National Library of Poland record 991026366999705066
-        url: https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991026366999705066&vid=48OMNIS_NLOP:48OMNIS_NLOP
-      - title: Library of Congress record 2013424949
-        url: https://lccn.loc.gov/2013424949
+      - title: "Open Library edition OL24022013M"
+        url: https://openlibrary.org/books/OL24022013M
+      - title: "WorldCat record (OCLC 233814576)"
+        url: https://search.worldcat.org/title/233814576
+      - title: "Library of Congress record (LCCN 2008467603)"
+        url: https://lccn.loc.gov/2008467603
   - title: Peršaâ belaruskaâ gaspadarča-kulìnarnaâ èncyklapedyâ
     subtitle: >-
       Lìtoŭskaâ gaspadynâ, cì Navuka ab utrymannì ŭ dobrym stane haty ì zabespâčénnì âe ŭsìmì

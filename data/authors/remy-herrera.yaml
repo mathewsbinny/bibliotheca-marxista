@@ -12,9 +12,16 @@ works:
     year: 1994
     publisher: Organisation for Economic Co-operation and Development
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL17789471M
+      - title: "Open Library edition OL17789471M"
         url: https://openlibrary.org/books/OL17789471M
+      - title: "Open Library edition OL1230954M"
+        url: https://openlibrary.org/books/OL1230954M
+      - title: "WorldCat record (OCLC 31218094)"
+        url: https://search.worldcat.org/title/31218094
+      - title: "Library of Congress record (LCCN 94232799)"
+        url: https://lccn.loc.gov/94232799
   - title: Beyond the Systemic Crisis and Capital-Led Chaos
     year: 2014
     publisher: Lang AG International Academic Publishers, Peter

@@ -14,28 +14,50 @@ works:
     year: 1976
     publisher: State of Illinois Dept. of Registration and Education, Natural History Survey Division
     place: Urbana
+    verified: true
     sources:
-      - title: Open Library edition OL23530166M
+      - title: "Open Library edition OL23530166M"
         url: https://openlibrary.org/books/OL23530166M
+      - title: "WorldCat record (OCLC 3266608)"
+        url: https://search.worldcat.org/title/3266608
   - title: Lenin, Hegel, and Western Marxism
     subtitle: A Critical Study
     year: 1995
     publisher: University of Illinois Press
+    verified: true
     sources:
-      - title: Open Library edition OL25607885M
+      - title: "Open Library edition OL1119136M"
+        url: https://openlibrary.org/books/OL1119136M
+      - title: "Library of Congress record (LCCN 94045414)"
+        url: https://lccn.loc.gov/94045414
+      - title: "Open Library edition OL25607885M"
         url: https://openlibrary.org/books/OL25607885M
+      - title: "WorldCat record (OCLC 31661216)"
+        url: https://search.worldcat.org/title/31661216
   - title: The Power of Negativity
     year: 2002
     publisher: Lexington Books
+    verified: true
     sources:
-      - title: Open Library edition OL7913119M
+      - title: "Open Library edition OL7913119M"
         url: https://openlibrary.org/books/OL7913119M
+      - title: "WorldCat record (OCLC 46617384)"
+        url: https://search.worldcat.org/title/46617384
+      - title: "Library of Congress record (LCCN 2001029456)"
+        url: https://lccn.loc.gov/2001029456
   - title: Marx at the Margins
     year: 2010
     publisher: University of Chicago Press
+    verified: true
     sources:
-      - title: Open Library edition OL38266465M
-        url: https://openlibrary.org/books/OL38266465M
+      - title: "Open Library edition OL24520353M"
+        url: https://openlibrary.org/books/OL24520353M
+      - title: "WorldCat record (OCLC 434125550)"
+        url: https://search.worldcat.org/title/434125550
+      - title: "Library of Congress record (LCCN 2009034187)"
+        url: https://lccn.loc.gov/2009034187
+      - title: "Open Library edition OL23677798M"
+        url: https://openlibrary.org/books/OL23677798M
   - title: Dunayevskaya-Marcuse-Fromm Correspondence, 1954 1978
     year: 2012
     publisher: Lexington Books/Fortress Academic
@@ -45,9 +67,14 @@ works:
   - title: Karl Marx
     year: 2012
     publisher: Taylor & Francis Group
+    verified: true
     sources:
-      - title: Open Library edition OL28746754M
+      - title: "Open Library edition OL28746754M"
         url: https://openlibrary.org/books/OL28746754M
+      - title: "WorldCat record (OCLC 988029034)"
+        url: https://search.worldcat.org/title/988029034
+      - title: "Library of Congress record (LCCN 2011934979)"
+        url: https://lccn.loc.gov/2011934979
   - title: Crisis and Commonwealth
     year: 2013
     publisher: Lexington Books/Fortress Academic
@@ -75,6 +102,9 @@ works:
   - title: Late Marxs Revolutionary Roads
     year: 2025
     publisher: Verso Books
+    verified: true
     sources:
-      - title: Open Library edition OL57523166M
+      - title: "Open Library edition OL57523166M"
         url: https://openlibrary.org/books/OL57523166M
+      - title: "Library of Congress record (LCCN 2024043605)"
+        url: https://lccn.loc.gov/2024043605

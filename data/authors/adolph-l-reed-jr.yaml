@@ -21,12 +21,13 @@ works:
     language: English
     publisher: Yale University Press
     place: New Haven
+    verified: true
     sources:
-      - title: BnF catalogue record cb34980915n
-        url: https://catalogue.bnf.fr/ark:/12148/cb34980915n
-      - title: SUDOC record 082905266
-        url: https://www.sudoc.fr/082905266
-      - title: Library of Congress record 85026499
+      - title: "Open Library edition OL2544707M"
+        url: https://openlibrary.org/books/OL2544707M
+      - title: "WorldCat record (OCLC 12838853)"
+        url: https://search.worldcat.org/title/12838853
+      - title: "Library of Congress record (LCCN 85026499)"
         url: https://lccn.loc.gov/85026499
   - title: W. E. B. du Bois and American Political Thought
     year: 1997
@@ -40,13 +41,14 @@ works:
     language: English
     publisher: University of Minnesota Press
     place: Minneapolis (Minn.)
+    verified: true
     sources:
-      - title: BnF catalogue record cb37685331b
-        url: https://catalogue.bnf.fr/ark:/12148/cb37685331b
-      - title: Library of Congress record 99027301
+      - title: "Open Library edition OL38773M"
+        url: https://openlibrary.org/books/OL38773M
+      - title: "WorldCat record (OCLC 41273032)"
+        url: https://search.worldcat.org/title/41273032
+      - title: "Library of Congress record (LCCN 99027301)"
         url: https://lccn.loc.gov/99027301
-      - title: CiNii Books record BA47220015
-        url: https://ci.nii.ac.jp/ncid/BA47220015
   - title: Without Justice for All
     subtitle: The New Liberalism and Our Retreat from Racial Equality
     year: 1999
@@ -66,26 +68,28 @@ works:
     language: English
     publisher: New Press
     place: New York
+    verified: true
     sources:
-      - title: SUDOC record 096369167
-        url: https://www.sudoc.fr/096369167
-      - title: Library of Congress record 2003389317
-        url: https://lccn.loc.gov/2003389317
-      - title: CiNii Books record BA49194448
-        url: https://ci.nii.ac.jp/ncid/BA49194448
+      - title: "Open Library edition OL8666616M"
+        url: https://openlibrary.org/books/OL8666616M
+      - title: "WorldCat record (OCLC 43974774)"
+        url: https://search.worldcat.org/title/43974774
   - title: Renewing Black Intellectual History
     subtitle: The Ideological and Material Foundations of African American Thought
     year: 2010
     language: English
     publisher: Paradigm Publ
     place: Boulder (Colo.)
+    verified: true
     sources:
-      - title: SUDOC record 196582970
-        url: https://www.sudoc.fr/196582970
-      - title: Library of Congress record 2009025509
+      - title: "Open Library edition OL24022458M"
+        url: https://openlibrary.org/books/OL24022458M
+      - title: "Library of Congress record (LCCN 2009025509)"
         url: https://lccn.loc.gov/2009025509
-      - title: CiNii Books record BC03227714
-        url: https://ci.nii.ac.jp/ncid/BC03227714
+      - title: "Open Library edition OL23606468M"
+        url: https://openlibrary.org/books/OL23606468M
+      - title: "WorldCat record (OCLC 421947562)"
+        url: https://search.worldcat.org/title/421947562
   - title: La gauche identitaire contre la classe
     subtitle: Aux sources d'une régression
     year: 2015
@@ -100,9 +104,14 @@ works:
   - title: Crashing the Party
     year: 2018
     publisher: Verso Books
+    verified: true
     sources:
-      - title: Open Library edition OL34545583M
+      - title: "Open Library edition OL34545583M"
         url: https://openlibrary.org/books/OL34545583M
+      - title: "WorldCat record (OCLC 1030447112)"
+        url: https://search.worldcat.org/title/1030447112
+      - title: "Library of Congress record (LCCN 2018001585)"
+        url: https://lccn.loc.gov/2018001585
   - title: The South
     subtitle: Jim Crow and Its Afterlives
     year: 2022

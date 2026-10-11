@@ -13,6 +13,11 @@ works:
     year: 1988
     publisher: Perspectives
     place: Hyderabad
+    verified: true
     sources:
-      - title: Open Library edition OL2166652M
+      - title: "Open Library edition OL2166652M"
         url: https://openlibrary.org/books/OL2166652M
+      - title: "WorldCat record (OCLC 19222187)"
+        url: https://search.worldcat.org/title/19222187
+      - title: "Library of Congress record (LCCN 88903846)"
+        url: https://lccn.loc.gov/88903846

@@ -20,16 +20,22 @@ works:
     year: 1922
     publisher: Gos. izd-vo
     place: M
+    verified: true
     sources:
-      - title: Open Library edition OL59570054M
+      - title: "Open Library edition OL59570054M"
         url: https://openlibrary.org/books/OL59570054M
+      - title: "WorldCat record (OCLC 78944464)"
+        url: https://search.worldcat.org/title/78944464
   - title: Klassiki politicheskoĭ ėkonomiki ot XVII do serediny XIX v.
     year: 1926
     publisher: Gos. izd-vo
     place: Moskva
+    verified: true
     sources:
-      - title: Open Library edition OL49876352M
+      - title: "Open Library edition OL49876352M"
         url: https://openlibrary.org/books/OL49876352M
+      - title: "WorldCat record (OCLC 48470361)"
+        url: https://search.worldcat.org/title/48470361
   - title: Istoriia ėkonomicheskoĭ mysli
     year: 1929
     publisher: Gos. izd-vo
@@ -48,6 +54,9 @@ works:
     year: 1930
     publisher: Gos. izd-vo
     place: Moskva
+    verified: true
     sources:
-      - title: Open Library edition OL59893698M
+      - title: "Open Library edition OL59893698M"
         url: https://openlibrary.org/books/OL59893698M
+      - title: "WorldCat record (OCLC 81415703)"
+        url: https://search.worldcat.org/title/81415703

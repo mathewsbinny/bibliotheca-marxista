@@ -19,6 +19,13 @@ works:
     year: 1963
     publisher: S. E. V. P. E. N.
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL20357232M
-        url: https://openlibrary.org/books/OL20357232M
+      - title: "Open Library edition OL5999206M"
+        url: https://openlibrary.org/books/OL5999206M
+      - title: "WorldCat record (OCLC 18600551)"
+        url: https://search.worldcat.org/title/18600551
+      - title: "Library of Congress record (LCCN 66033450)"
+        url: https://lccn.loc.gov/66033450
+      - title: "Open Library edition OL14210091M"
+        url: https://openlibrary.org/books/OL14210091M

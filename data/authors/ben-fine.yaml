@@ -10,37 +10,64 @@ works:
     year: 1975
     publisher: Macmillan
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL4926075M
+      - title: "Open Library edition OL4926075M"
         url: https://openlibrary.org/books/OL4926075M
+      - title: "WorldCat record (OCLC 2048406)"
+        url: https://search.worldcat.org/title/2048406
+      - title: "Library of Congress record (LCCN 76352476)"
+        url: https://lccn.loc.gov/76352476
   - title: Rereading Capital
     year: 1979
     publisher: Macmillan
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL18859929M
+      - title: "Open Library edition OL18859929M"
         url: https://openlibrary.org/books/OL18859929M
+      - title: "WorldCat record (OCLC 5266622)"
+        url: https://search.worldcat.org/title/5266622
+      - title: "Library of Congress record (LCCN 78020912)"
+        url: https://lccn.loc.gov/78020912
+      - title: "Open Library edition OL14472674M"
+        url: https://openlibrary.org/books/OL14472674M
   - title: Economic Theory and Ideology
     year: 1980
     publisher: E. Arnold
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL3893152M
+      - title: "Open Library edition OL3893152M"
         url: https://openlibrary.org/books/OL3893152M
+      - title: "WorldCat record (OCLC 6432083)"
+        url: https://search.worldcat.org/title/6432083
+      - title: "Library of Congress record (LCCN 81454797)"
+        url: https://lccn.loc.gov/81454797
   - title: Theories of the Capitalist Economy
     year: 1982
     publisher: Holmes & Meier
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL4273880M
+      - title: "Open Library edition OL4273880M"
         url: https://openlibrary.org/books/OL4273880M
+      - title: "Library of Congress record (LCCN 81020187)"
+        url: https://lccn.loc.gov/81020187
   - title: The Peculiarities of the British Economy
     year: 1985
     publisher: Lawrence and Wishart
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL19916190M
-        url: https://openlibrary.org/books/OL19916190M
+      - title: "Open Library edition OL2751032M"
+        url: https://openlibrary.org/books/OL2751032M
+      - title: "WorldCat record (OCLC 12732965)"
+        url: https://search.worldcat.org/title/12732965
+      - title: "Library of Congress record (LCCN 86101641)"
+        url: https://lccn.loc.gov/86101641
+      - title: "Open Library edition OL58980386M"
+        url: https://openlibrary.org/books/OL58980386M
   - title: Women's Employment and the Capitalist Family
     year: 1992
     publisher: Taylor & Francis Group
@@ -59,24 +86,39 @@ works:
     subtitle: The World of Food
     year: 1996
     publisher: Routledge
+    verified: true
     sources:
-      - title: Open Library edition OL46080843M
-        url: https://openlibrary.org/books/OL46080843M
+      - title: "Open Library edition OL1269239M"
+        url: https://openlibrary.org/books/OL1269239M
+      - title: "WorldCat record (OCLC 52524589)"
+        url: https://search.worldcat.org/title/52524589
+      - title: "Library of Congress record (LCCN 95000350)"
+        url: https://lccn.loc.gov/95000350
   - title: Labour Market Theory
     year: 1998
     publisher: Routledge
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL425296M
+      - title: "Open Library edition OL425296M"
         url: https://openlibrary.org/books/OL425296M
+      - title: "WorldCat record (OCLC 51673346)"
+        url: https://search.worldcat.org/title/51673346
+      - title: "Library of Congress record (LCCN 98131005)"
+        url: https://lccn.loc.gov/98131005
   - title: Development Policy in the Twenty-First Century
     subtitle: Beyond the Post-Washington Consensus
     year: 2001
     publisher: Routledge
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL17014046M
+      - title: "Open Library edition OL17014046M"
         url: https://openlibrary.org/books/OL17014046M
+      - title: "WorldCat record (OCLC 45024372)"
+        url: https://search.worldcat.org/title/45024372
+      - title: "Library of Congress record (LCCN 00045743)"
+        url: https://lccn.loc.gov/00045743
   - title: Social Capital Versus Social Theory
     year: 2002
     publisher: Taylor & Francis Group

@@ -13,9 +13,14 @@ works:
     year: 1947
     publisher: Presses Universitaires de France
     place: Paris, France
+    verified: true
     sources:
-      - title: Open Library edition OL6051748M
+      - title: "Open Library edition OL6051748M"
         url: https://openlibrary.org/books/OL6051748M
+      - title: "WorldCat record (OCLC 11028008)"
+        url: https://search.worldcat.org/title/11028008
+      - title: "Library of Congress record (LCCN 49013242)"
+        url: https://lccn.loc.gov/49013242
   - title: Historia de España
     year: 1959
     language: Spanish
@@ -33,52 +38,89 @@ works:
     year: 1962
     publisher: S.E.V.P.E.N.
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL18885888M
+      - title: "Open Library edition OL18885888M"
         url: https://openlibrary.org/books/OL18885888M
+      - title: "Open Library edition OL4522736M"
+        url: https://openlibrary.org/books/OL4522736M
+      - title: "WorldCat record (OCLC 2076136)"
+        url: https://search.worldcat.org/title/2076136
+      - title: "Library of Congress record (LCCN 79368734)"
+        url: https://lccn.loc.gov/79368734
   - title: Los problemas históricos del progreso
     year: 1963
     publisher: Universidad de la República, Facultad de Humanidades y Ciencias
     place: Montevideo, Uruguay
+    verified: true
     sources:
-      - title: Open Library edition OL1298016M
+      - title: "Open Library edition OL1298016M"
         url: https://openlibrary.org/books/OL1298016M
+      - title: "Library of Congress record (LCCN 92162145)"
+        url: https://lccn.loc.gov/92162145
   - title: Crecimiento y desarrollo
     subtitle: economía e historia, reflexiones sobre el caso español
     year: 1964
     publisher: Ediciones Ariel
     place: Barcelona
+    verified: true
     sources:
-      - title: Open Library edition OL52386674M
+      - title: "Open Library edition OL52386674M"
         url: https://openlibrary.org/books/OL52386674M
+      - title: "WorldCat record (OCLC 2454218)"
+        url: https://search.worldcat.org/title/2454218
+      - title: "Open Library edition OL20257063M"
+        url: https://openlibrary.org/books/OL20257063M
+      - title: "Open Library edition OL14167252M"
+        url: https://openlibrary.org/books/OL14167252M
   - title: Problemas de la formación del capitalismo
     year: 1970
     publisher: Universidad Nacional de Colombia, Facultad de Ciencias Humanas, Departamento de Historia
     place: Bogotá
+    verified: true
     sources:
-      - title: Open Library edition OL53623771M
+      - title: "Open Library edition OL53623771M"
         url: https://openlibrary.org/books/OL53623771M
+      - title: "WorldCat record (OCLC 3198393)"
+        url: https://search.worldcat.org/title/3198393
   - title: Economía y sociedad en los siglos XVIII y XIX
     year: 1973
     publisher: Anaya
     place: Salamanca
+    verified: true
     sources:
-      - title: Open Library edition OL5153194M
+      - title: "Open Library edition OL5153194M"
         url: https://openlibrary.org/books/OL5153194M
+      - title: "WorldCat record (OCLC 1578777)"
+        url: https://search.worldcat.org/title/1578777
+      - title: "Library of Congress record (LCCN 74356618)"
+        url: https://lccn.loc.gov/74356618
+      - title: "Open Library edition OL3089387M"
+        url: https://openlibrary.org/books/OL3089387M
   - title: Oro y moneda en la historia (1450-1920)
     year: 1974
     publisher: Ariel
     place: Barcelona
+    verified: true
     sources:
-      - title: Open Library edition OL24240612M
+      - title: "Open Library edition OL24240612M"
         url: https://openlibrary.org/books/OL24240612M
+      - title: "WorldCat record (OCLC 2094169)"
+        url: https://search.worldcat.org/title/2094169
+      - title: "Open Library edition OL21625748M"
+        url: https://openlibrary.org/books/OL21625748M
   - title: Historia marxista, historia en construcción
     year: 1974
     publisher: Ediciones "Pato Marino"
     place: Tunja
+    verified: true
     sources:
-      - title: Open Library edition OL53623767M
+      - title: "Open Library edition OL20716168M"
+        url: https://openlibrary.org/books/OL20716168M
+      - title: "Open Library edition OL53623767M"
         url: https://openlibrary.org/books/OL53623767M
+      - title: "WorldCat record (OCLC 2512910)"
+        url: https://search.worldcat.org/title/2512910
   - title: Or et monnaie dans l'histoire, 1450-1920
     year: 1974
     publisher: Ariel
@@ -90,90 +132,138 @@ works:
     year: 1976
     publisher: Editorial Anagrama
     place: Barcelona
+    verified: true
     sources:
-      - title: Open Library edition OL50288964M
+      - title: "Open Library edition OL50288964M"
         url: https://openlibrary.org/books/OL50288964M
+      - title: "WorldCat record (OCLC 2738864)"
+        url: https://search.worldcat.org/title/2738864
   - title: Iniciación al vocabulario del análisis histórico
     year: 1980
     publisher: Critica
     place: Barcelona
+    verified: true
     sources:
-      - title: Open Library edition OL20099762M
+      - title: "Open Library edition OL20099762M"
         url: https://openlibrary.org/books/OL20099762M
+      - title: "WorldCat record (OCLC 8077464)"
+        url: https://search.worldcat.org/title/8077464
   - title: Crecimento y desarrollo
     year: 1980
     publisher: Ariel
     place: Barcelona
+    verified: true
     sources:
-      - title: Open Library edition OL62662238M
+      - title: "Open Library edition OL62662238M"
         url: https://openlibrary.org/books/OL62662238M
   - title: Une histoire en construction
     subtitle: approche marxiste et problématiques conjoncturelles
     year: 1982
     publisher: Gallimard
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL21756350M
+      - title: "Open Library edition OL21756350M"
         url: https://openlibrary.org/books/OL21756350M
+      - title: "Open Library edition OL3041375M"
+        url: https://openlibrary.org/books/OL3041375M
+      - title: "WorldCat record (OCLC 8834815)"
+        url: https://search.worldcat.org/title/8834815
+      - title: "Library of Congress record (LCCN 82133551)"
+        url: https://lccn.loc.gov/82133551
   - title: Hidalgos, amotinados y guerrilleros
     subtitle: pueblo y poderes en la historia de España
     year: 1982
     publisher: Editorial Crítica
     place: Barcelona
+    verified: true
     sources:
-      - title: Open Library edition OL20099770M
+      - title: "Open Library edition OL20099770M"
         url: https://openlibrary.org/books/OL20099770M
+      - title: "WorldCat record (OCLC 10075955)"
+        url: https://search.worldcat.org/title/10075955
   - title: Economía, derecho, historia
     year: 1983
     publisher: Ariel
     place: Barcelona
+    verified: true
     sources:
-      - title: Open Library edition OL21625812M
+      - title: "Open Library edition OL21625812M"
         url: https://openlibrary.org/books/OL21625812M
   - title: La guerre d'Espagne
     subtitle: 1936-1939
     year: 1986
     publisher: Presses universitaires de France
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL21440089M
+      - title: "Open Library edition OL21440089M"
         url: https://openlibrary.org/books/OL21440089M
+      - title: "Open Library edition OL21060857M"
+        url: https://openlibrary.org/books/OL21060857M
   - title: La Guerra del sale (1680-1699)
     subtitle: rivolte e frontiere del Piemonte baroco
     year: 1986
     publisher: F. Angeli
     place: Milano, Italy
+    verified: true
     sources:
-      - title: Open Library edition OL50391157M
+      - title: "Open Library edition OL50391157M"
         url: https://openlibrary.org/books/OL50391157M
+      - title: "WorldCat record (OCLC 18349535)"
+        url: https://search.worldcat.org/title/18349535
+      - title: "Open Library edition OL2420193M"
+        url: https://openlibrary.org/books/OL2420193M
+      - title: "Library of Congress record (LCCN 87103872)"
+        url: https://lccn.loc.gov/87103872
   - title: Història de Catalunya
     year: 1987
     publisher: Edicions 62
     place: Barcelona
+    verified: true
     sources:
-      - title: Open Library edition OL18302576M
+      - title: "Open Library edition OL18302576M"
         url: https://openlibrary.org/books/OL18302576M
+      - title: "Open Library edition OL2141339M"
+        url: https://openlibrary.org/books/OL2141339M
+      - title: "WorldCat record (OCLC 17809138)"
+        url: https://search.worldcat.org/title/17809138
+      - title: "Library of Congress record (LCCN 88210717)"
+        url: https://lccn.loc.gov/88210717
   - title: Sobre 1936 y otros escritos
     year: 1987
     publisher: Ediciones V.O.S.A.
     place: Madrid
+    verified: true
     sources:
-      - title: Open Library edition OL2139725M
+      - title: "Open Library edition OL2139725M"
         url: https://openlibrary.org/books/OL2139725M
+      - title: "WorldCat record (OCLC 19047335)"
+        url: https://search.worldcat.org/title/19047335
+      - title: "Library of Congress record (LCCN 88208195)"
+        url: https://lccn.loc.gov/88208195
   - title: Peruanistas contemporáneos
     year: 1988
     publisher: CONCYTEC
     place: Lima
+    verified: true
     sources:
-      - title: Open Library edition OL2111032M
+      - title: "Open Library edition OL2111032M"
         url: https://openlibrary.org/books/OL2111032M
+      - title: "WorldCat record (OCLC 18781383)"
+        url: https://search.worldcat.org/title/18781383
+      - title: "Library of Congress record (LCCN 88164310)"
+        url: https://lccn.loc.gov/88164310
   - title: Pensar la historia
     year: 1992
     publisher: Instituto de Investigaciones Dr. José María Luis Mora
     place: México, D.F
+    verified: true
     sources:
-      - title: Open Library edition OL1141482M
+      - title: "Open Library edition OL1141482M"
         url: https://openlibrary.org/books/OL1141482M
+      - title: "Library of Congress record (LCCN 94111166)"
+        url: https://lccn.loc.gov/94111166
   - title: Pensar històricament
     year: 1992
     publisher: Instituto de Investigaciones Dr. José María Luis Mora
@@ -185,6 +275,9 @@ works:
     year: 1998
     publisher: Hiru
     place: Hondarribia (Guipúzcoa)
+    verified: true
     sources:
-      - title: Open Library edition OL21467068M
+      - title: "Open Library edition OL21467068M"
         url: https://openlibrary.org/books/OL21467068M
+      - title: "WorldCat record (OCLC 39171292)"
+        url: https://search.worldcat.org/title/39171292

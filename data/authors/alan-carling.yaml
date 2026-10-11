@@ -10,6 +10,11 @@ works:
     year: 1991
     publisher: Verso
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL1560577M
+      - title: "Open Library edition OL1560577M"
         url: https://openlibrary.org/books/OL1560577M
+      - title: "WorldCat record (OCLC 24792037)"
+        url: https://search.worldcat.org/title/24792037
+      - title: "Library of Congress record (LCCN 91041738)"
+        url: https://lccn.loc.gov/91041738

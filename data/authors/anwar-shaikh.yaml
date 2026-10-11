@@ -18,23 +18,32 @@ works:
     year: 1977
     publisher: Thames Polytechnic
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL21107709M
+      - title: "Open Library edition OL21107709M"
         url: https://openlibrary.org/books/OL21107709M
   - title: The Current Economic Crisis
     year: 1989
     publisher: ATC
     place: Detroit
+    verified: true
     sources:
-      - title: Open Library edition OL45342405M
+      - title: "Open Library edition OL45342405M"
         url: https://openlibrary.org/books/OL45342405M
+      - title: "WorldCat record (OCLC 27110987)"
+        url: https://search.worldcat.org/title/27110987
   - title: Measuring the Wealth of Nations
     year: 1994
     publisher: Cambridge University Press
     place: Cambridge
+    verified: true
     sources:
-      - title: Open Library edition OL1426329M
+      - title: "Open Library edition OL1426329M"
         url: https://openlibrary.org/books/OL1426329M
+      - title: "WorldCat record (OCLC 28928310)"
+        url: https://search.worldcat.org/title/28928310
+      - title: "Library of Congress record (LCCN 93037399)"
+        url: https://lccn.loc.gov/93037399
   - title: Islam
     year: 1994
     publisher: Hindu Writers' Forum
@@ -46,9 +55,12 @@ works:
   - title: This Is Jehad!
     year: 1999
     publisher: A. Ghosh
+    verified: true
     sources:
-      - title: Open Library edition OL12139948M
+      - title: "Open Library edition OL12139948M"
         url: https://openlibrary.org/books/OL12139948M
+      - title: "WorldCat record (OCLC 47841005)"
+        url: https://search.worldcat.org/title/47841005
   - title: Why Muslims destroy Hindu temples
     year: 2001
     publisher: Hindu Writers' Forum
@@ -59,16 +71,26 @@ works:
     year: 2004
     publisher: Principality Publishers
     place: Cardiff
+    verified: true
     sources:
-      - title: Open Library edition OL53230098M
+      - title: "Open Library edition OL53230098M"
         url: https://openlibrary.org/books/OL53230098M
+      - title: "WorldCat record (OCLC 57751922)"
+        url: https://search.worldcat.org/title/57751922
   - title: Globalization and the Myths of Free Trade
     year: 2007
     publisher: Routledge
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL17233591M
+      - title: "Open Library edition OL17233591M"
         url: https://openlibrary.org/books/OL17233591M
+      - title: "WorldCat record (OCLC 84903724)"
+        url: https://search.worldcat.org/title/84903724
+      - title: "Library of Congress record (LCCN 2006017433)"
+        url: https://lccn.loc.gov/2006017433
+      - title: "Open Library edition OL7495245M"
+        url: https://openlibrary.org/books/OL7495245M
   - title: Teorías del comercio internacional
     year: 2009
     language: Spanish
@@ -83,17 +105,25 @@ works:
     language: English
     publisher: Edward Elgar Pub
     place: Northampton, Mass
+    verified: true
     sources:
-      - title: swisscovery record 991170332294105501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991170332294105501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: CiNii Books record BB02304823
-        url: https://ci.nii.ac.jp/ncid/BB02304823
+      - title: "Open Library edition OL25022836M"
+        url: https://openlibrary.org/books/OL25022836M
+      - title: "WorldCat record (OCLC 489636126)"
+        url: https://search.worldcat.org/title/489636126
+      - title: "Library of Congress record (LCCN 2009940633)"
+        url: https://lccn.loc.gov/2009940633
   - title: Capitalism
     year: 2016
     publisher: Oxford University Press
+    verified: true
     sources:
-      - title: Open Library edition OL27227613M
+      - title: "Open Library edition OL27227613M"
         url: https://openlibrary.org/books/OL27227613M
+      - title: "WorldCat record (OCLC 918879028)"
+        url: https://search.worldcat.org/title/918879028
+      - title: "Library of Congress record (LCCN 2015034905)"
+        url: https://lccn.loc.gov/2015034905
   - title: Economic and Psychosocial Aspects of COVID-19
     year: 2021
     language: English

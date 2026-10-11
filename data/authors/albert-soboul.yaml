@@ -23,65 +23,100 @@ works:
     year: 1945
     publisher: Éditions France d'abord
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL23232924M
+      - title: "Open Library edition OL23232924M"
         url: https://openlibrary.org/books/OL23232924M
+      - title: "Library of Congress record (LCCN 47005020)"
+        url: https://lccn.loc.gov/47005020
+      - title: "Open Library edition OL30876285M"
+        url: https://openlibrary.org/books/OL30876285M
+      - title: "WorldCat record (OCLC 4171337)"
+        url: https://search.worldcat.org/title/4171337
   - title: La révolution française, 1789-1799
     year: 1948
     publisher: Éditions Sociales
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL16552469M
+      - title: "Open Library edition OL16552469M"
         url: https://openlibrary.org/books/OL16552469M
   - title: Les papiers des sections de Paris (1790-an IV)
     subtitle: répertoire sommaire.
     year: 1950
     publisher: M. Lavergne, imprimeur
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL203518M
+      - title: "Open Library edition OL203518M"
         url: https://openlibrary.org/books/OL203518M
+      - title: "WorldCat record (OCLC 2352330)"
+        url: https://search.worldcat.org/title/2352330
+      - title: "Library of Congress record (LCCN a52010498)"
+        url: https://lccn.loc.gov/a52010498
   - title: Les sans-culottes parisiens en l'an II
     year: 1956
     publisher: Clavreuil
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL13661224M
+      - title: "Open Library edition OL13661224M"
         url: https://openlibrary.org/books/OL13661224M
   - title: Les campagnes montpelliéraines à la fin de l'Ancien Régime
     subtitle: propriété et cultures d'après les compoix.
     year: 1958
     publisher: Presses universitaires de France
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL5955718M
+      - title: "Open Library edition OL5955718M"
         url: https://openlibrary.org/books/OL5955718M
+      - title: "WorldCat record (OCLC 1201861)"
+        url: https://search.worldcat.org/title/1201861
+      - title: "Library of Congress record (LCCN 65030297)"
+        url: https://lccn.loc.gov/65030297
   - title: Les soldats de l'an II
     year: 1959
     publisher: Club français du Livre
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL19656998M
+      - title: "Open Library edition OL57964950M"
+        url: https://openlibrary.org/books/OL57964950M
+      - title: "WorldCat record (OCLC 19852433)"
+        url: https://search.worldcat.org/title/19852433
+      - title: "Open Library edition OL33013396M"
+        url: https://openlibrary.org/books/OL33013396M
+      - title: "Open Library edition OL19656998M"
         url: https://openlibrary.org/books/OL19656998M
   - title: La France à la veille de la révolution
     year: 1960
     publisher: Centre de documentation universitaire
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL17844851M
+      - title: "Open Library edition OL17844851M"
         url: https://openlibrary.org/books/OL17844851M
+      - title: "Open Library edition OL14422876M"
+        url: https://openlibrary.org/books/OL14422876M
+      - title: "Open Library edition OL6020319M"
+        url: https://openlibrary.org/books/OL6020319M
+      - title: "WorldCat record (OCLC 4181671)"
+        url: https://search.worldcat.org/title/4181671
   - title: Precis Histoire de la Revolution Francaise
     year: 1962
     publisher: Editions Sociales
+    verified: true
     sources:
-      - title: Open Library edition OL20394989M
+      - title: "Open Library edition OL20394989M"
         url: https://openlibrary.org/books/OL20394989M
   - title: Histoire de la Révolution française
     year: 1962
     publisher: Gallimard
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL22214172M
+      - title: "Open Library edition OL22214172M"
         url: https://openlibrary.org/books/OL22214172M
   - title: Précis de L’histoire de la Révolution Française
     year: 1962
@@ -93,16 +128,30 @@ works:
     year: 1962
     publisher: Gallimard
     place: '[Paris]'
+    verified: true
     sources:
-      - title: Open Library edition OL5656960M
+      - title: "Open Library edition OL5656960M"
         url: https://openlibrary.org/books/OL5656960M
+      - title: "WorldCat record (OCLC 1278188)"
+        url: https://search.worldcat.org/title/1278188
+      - title: "Library of Congress record (LCCN 68100961)"
+        url: https://lccn.loc.gov/68100961
+      - title: "Open Library edition OL19963801M"
+        url: https://openlibrary.org/books/OL19963801M
   - title: The Parisian Sans-Culottes and the French Revolution, 1793-4
     year: 1964
     publisher: Clarendon Press
     place: Oxford
+    verified: true
     sources:
-      - title: Open Library edition OL18939521M
+      - title: "Open Library edition OL18939521M"
         url: https://openlibrary.org/books/OL18939521M
+      - title: "Open Library edition OL21522876M"
+        url: https://openlibrary.org/books/OL21522876M
+      - title: "Open Library edition OL17876600M"
+        url: https://openlibrary.org/books/OL17876600M
+      - title: "Open Library edition OL20029837M"
+        url: https://openlibrary.org/books/OL20029837M
   - title: Babeuf Et Les Problemes Du Babouvisme
     year: 1965
     publisher: French & European Pubns
@@ -113,16 +162,24 @@ works:
     year: 1965
     publisher: Presses universitaires de France
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL22123232M
+      - title: "Open Library edition OL22123232M"
         url: https://openlibrary.org/books/OL22123232M
   - title: Paysans, sans-culottes et Jacobins
     year: 1966
     publisher: Librarie Clavreuil
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL5568081M
+      - title: "Open Library edition OL5568081M"
         url: https://openlibrary.org/books/OL5568081M
+      - title: "WorldCat record (OCLC 3765231)"
+        url: https://search.worldcat.org/title/3765231
+      - title: "Library of Congress record (LCCN 67074520)"
+        url: https://lccn.loc.gov/67074520
+      - title: "Open Library edition OL17575718M"
+        url: https://openlibrary.org/books/OL17575718M
   - title: Le Procès de Louis XVI
     year: 1966
     publisher: COLLECTION ARCHIVES/GALLIMARD
@@ -139,136 +196,220 @@ works:
     year: 1967
     publisher: Presses universitaires de France
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL5656279M
+      - title: "Open Library edition OL5656279M"
         url: https://openlibrary.org/books/OL5656279M
+      - title: "WorldCat record (OCLC 303117)"
+        url: https://search.worldcat.org/title/303117
+      - title: "Library of Congress record (LCCN 68099697)"
+        url: https://lccn.loc.gov/68099697
+      - title: "Open Library edition OL13819257M"
+        url: https://openlibrary.org/books/OL13819257M
   - title: La Ire République (1792-1804)
     year: 1968
     publisher: Calmann-Lévy
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL20357114M
+      - title: "Open Library edition OL20357114M"
         url: https://openlibrary.org/books/OL20357114M
+      - title: "Open Library edition OL20005600M"
+        url: https://openlibrary.org/books/OL20005600M
+      - title: "Open Library edition OL5660575M"
+        url: https://openlibrary.org/books/OL5660575M
+      - title: "WorldCat record (OCLC 24130887)"
+        url: https://search.worldcat.org/title/24130887
   - title: La Ier République (1792-1804)
     year: 1968
     publisher: Calmann-Lévy
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL18098911M
+      - title: "Open Library edition OL18098911M"
         url: https://openlibrary.org/books/OL18098911M
   - title: La Ire [i.e. première] république, 1792-1804
     year: 1968
     publisher: Calmann-Levy
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL17876482M
+      - title: "Open Library edition OL17876482M"
         url: https://openlibrary.org/books/OL17876482M
   - title: La 1re République (1792-1804)
     year: 1968
     publisher: Calmann-Lévy
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL20422380M
-        url: https://openlibrary.org/books/OL20422380M
+      - title: "Open Library edition OL20316476M"
+        url: https://openlibrary.org/books/OL20316476M
   - title: La société française dans la seconde moitié du 18. siècle
     subtitle: structures sociales, cultures et modes de vie.
     year: 1969
     publisher: Centre de Documentation Universitaire
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL19456147M
+      - title: "Open Library edition OL19456147M"
         url: https://openlibrary.org/books/OL19456147M
   - title: La civilisation et la Revolution française
     year: 1970
     publisher: Arthaud
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL18783495M
+      - title: "Open Library edition OL5004432M"
+        url: https://openlibrary.org/books/OL5004432M
+      - title: "Library of Congress record (LCCN 76516542)"
+        url: https://lccn.loc.gov/76516542
+      - title: "Open Library edition OL18783495M"
         url: https://openlibrary.org/books/OL18783495M
   - title: La Révolution française dans l'histoire du monde contemporain
     subtitle: étude comparative
     year: 1970
     publisher: Published for the Dept. of History by Oulun Yliopiston Tukisäätiö
     place: Oulu
+    verified: true
     sources:
-      - title: Open Library edition OL4050997M
+      - title: "Open Library edition OL4050997M"
         url: https://openlibrary.org/books/OL4050997M
+      - title: "Library of Congress record (LCCN 79398610)"
+        url: https://lccn.loc.gov/79398610
+      - title: "Open Library edition OL18886758M"
+        url: https://openlibrary.org/books/OL18886758M
   - title: The Sans-Culottes
     subtitle: The Popular Movement and Revolutionary Government, 1793-1794
     year: 1972
     publisher: Anchor Books
     place: Garden City, N.Y
+    verified: true
     sources:
-      - title: Open Library edition OL19031460M
+      - title: "Open Library edition OL19031460M"
         url: https://openlibrary.org/books/OL19031460M
+      - title: "Open Library edition OL18681710M"
+        url: https://openlibrary.org/books/OL18681710M
+      - title: "Open Library edition OL5449008M"
+        url: https://openlibrary.org/books/OL5449008M
+      - title: "WorldCat record (OCLC 334193)"
+        url: https://search.worldcat.org/title/334193
   - title: Le premier Empire (1804-1815)
     year: 1973
     publisher: Presses Universitaires de France
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL20824230M
+      - title: "Open Library edition OL20824230M"
         url: https://openlibrary.org/books/OL20824230M
+      - title: "Open Library edition OL5084421M"
+        url: https://openlibrary.org/books/OL5084421M
+      - title: "WorldCat record (OCLC 829240)"
+        url: https://search.worldcat.org/title/829240
+      - title: "Library of Congress record (LCCN 74155556)"
+        url: https://lccn.loc.gov/74155556
   - title: Dix-sept cent quatre-vingt-neuf
     subtitle: L'an un de la Liberte.  Étude historique textes originaux.
     year: 1973
     publisher: Editions Sociales
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL21049100M
+      - title: "Open Library edition OL21049100M"
         url: https://openlibrary.org/books/OL21049100M
   - title: Mouvement populaire et gouvernement révolutionnaire en l'an II (1793-1794)
     year: 1973
     publisher: Flammarion
     place: '[Paris]'
+    verified: true
     sources:
-      - title: Open Library edition OL5476200M
+      - title: "Open Library edition OL5476200M"
         url: https://openlibrary.org/books/OL5476200M
+      - title: "WorldCat record (OCLC 803007)"
+        url: https://search.worldcat.org/title/803007
+      - title: "Library of Congress record (LCCN 73179563)"
+        url: https://lccn.loc.gov/73179563
   - title: 1789, l'an un de la liberté
     subtitle: étude historique, textes originaux
     year: 1973
     publisher: Éditions sociales
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL5085183M
+      - title: "Open Library edition OL5085183M"
         url: https://openlibrary.org/books/OL5085183M
+      - title: "Library of Congress record (LCCN 74156347)"
+        url: https://lccn.loc.gov/74156347
+      - title: "Open Library edition OL19814768M"
+        url: https://openlibrary.org/books/OL19814768M
+      - title: "Open Library edition OL18966235M"
+        url: https://openlibrary.org/books/OL18966235M
   - title: Problèmes paysans de la Révolution
     subtitle: '1789-1848 : études d''histoire révolutionnaire'
     year: 1976
     publisher: F. Maspero
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL4343925M
+      - title: "Open Library edition OL4343925M"
         url: https://openlibrary.org/books/OL4343925M
+      - title: "WorldCat record (OCLC 2809446)"
+        url: https://search.worldcat.org/title/2809446
+      - title: "Library of Congress record (LCCN 78385447)"
+        url: https://lccn.loc.gov/78385447
   - title: >-
       Textes choisis de l'Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des
       métiers
     year: 1976
     publisher: Editions sociales
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL4684497M
+      - title: "Open Library edition OL4684497M"
         url: https://openlibrary.org/books/OL4684497M
+      - title: "Library of Congress record (LCCN 77576087)"
+        url: https://lccn.loc.gov/77576087
   - title: Le siècle des Lumières
     year: 1977
     publisher: Presses universitaires de France
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL4326610M
+      - title: "Open Library edition OL20430808M"
+        url: https://openlibrary.org/books/OL20430808M
+      - title: "Open Library edition OL20396553M"
+        url: https://openlibrary.org/books/OL20396553M
+      - title: "Open Library edition OL4326610M"
         url: https://openlibrary.org/books/OL4326610M
+      - title: "Library of Congress record (LCCN 78367075)"
+        url: https://lccn.loc.gov/78367075
   - title: A Short History of the French Revolution, 1789-1799
     year: 1977
     publisher: University of California Press
     place: Berkeley
+    verified: true
     sources:
-      - title: Open Library edition OL17432577M
+      - title: "Open Library edition OL17432577M"
         url: https://openlibrary.org/books/OL17432577M
+      - title: "WorldCat record (OCLC 3232344)"
+        url: https://search.worldcat.org/title/3232344
+      - title: "Library of Congress record (LCCN 74016717)"
+        url: https://lccn.loc.gov/74016717
+      - title: "Open Library edition OL4580075M"
+        url: https://openlibrary.org/books/OL4580075M
   - title: Contributions à l'histoire paysanne de la Révolution française
     year: 1977
     publisher: Éditions sociales
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL4346529M
+      - title: "Open Library edition OL4346529M"
         url: https://openlibrary.org/books/OL4346529M
+      - title: "WorldCat record (OCLC 3884516)"
+        url: https://search.worldcat.org/title/3884516
+      - title: "Library of Congress record (LCCN 78388213)"
+        url: https://lccn.loc.gov/78388213
+      - title: "Open Library edition OL19736016M"
+        url: https://openlibrary.org/books/OL19736016M
   - title: Understanding the French Revolution
     year: 1981
     publisher: F. Maspero
@@ -280,27 +421,43 @@ works:
     year: 1984
     publisher: Editions sociales
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL21781418M
+      - title: "Open Library edition OL21781418M"
         url: https://openlibrary.org/books/OL21781418M
+      - title: "Open Library edition OL12452283M"
+        url: https://openlibrary.org/books/OL12452283M
+      - title: "WorldCat record (OCLC 11897036)"
+        url: https://search.worldcat.org/title/11897036
   - title: Répertoire du personnel sectionnaire parisien en l'an II
     year: 1985
     publisher: Publications de la Sorbonne
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL2651929M
+      - title: "Open Library edition OL2651929M"
         url: https://openlibrary.org/books/OL2651929M
+      - title: "WorldCat record (OCLC 13247339)"
+        url: https://search.worldcat.org/title/13247339
+      - title: "Library of Congress record (LCCN 85233833)"
+        url: https://lccn.loc.gov/85233833
   - title: Portraits de révolutionnaires
     year: 1986
     publisher: Messidor/Editions sociales
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL2309194M
+      - title: "Open Library edition OL2309194M"
         url: https://openlibrary.org/books/OL2309194M
+      - title: "WorldCat record (OCLC 15203515)"
+        url: https://search.worldcat.org/title/15203515
+      - title: "Library of Congress record (LCCN 86186594)"
+        url: https://lccn.loc.gov/86186594
   - title: La France napoleonienne
     year: 1990
     publisher: Arthaud
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL18518070M
+      - title: "Open Library edition OL18518070M"
         url: https://openlibrary.org/books/OL18518070M

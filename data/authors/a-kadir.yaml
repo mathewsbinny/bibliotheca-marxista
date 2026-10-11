@@ -11,16 +11,22 @@ works:
     year: 1968
     publisher: Fono Matbaası
     place: Turkey
+    verified: true
     sources:
-      - title: Open Library edition OL1164445M
+      - title: "Open Library edition OL1164445M"
         url: https://openlibrary.org/books/OL1164445M
+      - title: "Library of Congress record (LCCN 94144695)"
+        url: https://lccn.loc.gov/94144695
   - title: Sovyet Rusya'da on Beş Gün
     year: 1978
     publisher: Hilâl Matbaacılık
     place: İstanbul
+    verified: true
     sources:
-      - title: Open Library edition OL43779120M
+      - title: "Open Library edition OL43779120M"
         url: https://openlibrary.org/books/OL43779120M
+      - title: "WorldCat record (OCLC 12959235)"
+        url: https://search.worldcat.org/title/12959235
   - title: 'Dünya Halk ve Demokrasi Şiirleri #2'
     year: 2017
     publisher: Evrensel Basim Yayin

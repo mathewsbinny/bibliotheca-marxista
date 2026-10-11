@@ -12,32 +12,40 @@ works:
     year: 1986
     publisher: LD/MPT
     place: Dakar?
+    verified: true
     sources:
-      - title: Open Library edition OL52833158M
+      - title: "Open Library edition OL52833158M"
         url: https://openlibrary.org/books/OL52833158M
+      - title: "WorldCat record (OCLC 33931673)"
+        url: https://search.worldcat.org/title/33931673
   - title: >-
       Rapport de politique générale du Comité Central de la LD/MPT au 2ème Congrès
       ordinaire...Dakar, Sénégal 27 decembre, 1986
     year: 1987
     publisher: Le Comité Central de la LD/MPT
     place: Dakar
+    verified: true
     sources:
-      - title: Open Library
+      - title: "Open Library edition OL58229080M"
         url: https://openlibrary.org/books/OL58229080M
   - title: The Struggle for Democracy in Senegal
     year: 1989
     publisher: Institute for African Alternatives
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL13939743M
+      - title: "Open Library edition OL13939743M"
         url: https://openlibrary.org/books/OL13939743M
   - title: Passion de liberté
     year: 2022
     publisher: Présence africaine éditions
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL43565986M
+      - title: "Open Library edition OL43565986M"
         url: https://openlibrary.org/books/OL43565986M
+      - title: "WorldCat record (OCLC 1343208467)"
+        url: https://search.worldcat.org/title/1343208467
   - title: Peacekeeping with No Peace to Keep
     year: 2023
     publisher: Bloomsbury Academic & Professional

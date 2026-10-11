@@ -17,6 +17,11 @@ works:
     year: 1927
     publisher: Martin Lawrence
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL16535405M
-        url: https://openlibrary.org/books/OL16535405M
+      - title: "Open Library edition OL16417128M"
+        url: https://openlibrary.org/books/OL16417128M
+      - title: "WorldCat record (OCLC 504897996)"
+        url: https://search.worldcat.org/title/504897996
+      - title: "Open Library edition OL17194746M"
+        url: https://openlibrary.org/books/OL17194746M

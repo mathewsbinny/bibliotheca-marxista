@@ -12,20 +12,20 @@ works:
     language: English
     publisher: Yale Univ. Press
     place: New Haven
+    verified: true
     sources:
-      - title: swisscovery record 991002408739705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991002408739705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: Library of Congress record 68009616
-        url: https://lccn.loc.gov/68009616
-      - title: CiNii Books record BA46399885
-        url: https://ci.nii.ac.jp/ncid/BA46399885
+      - title: "Open Library edition OL18964731M"
+        url: https://openlibrary.org/books/OL18964731M
   - title: Wilson vs. Lenin
     year: 1964
     publisher: World Pub. Co.
     place: Cleveland and New York
+    verified: true
     sources:
-      - title: Open Library edition OL14550640M
+      - title: "Open Library edition OL14550640M"
         url: https://openlibrary.org/books/OL14550640M
+      - title: "WorldCat record (OCLC 988785)"
+        url: https://search.worldcat.org/title/988785
   - title: Politics and Diplomacy of Peacemaking
     subtitle: Containment and Counterrevolution at Versailles, 1918-1919
     year: 1967
@@ -45,12 +45,13 @@ works:
     language: English
     publisher: Harper & Row
     place: New York
+    verified: true
     sources:
-      - title: SUDOC record 014356260
-        url: https://www.sudoc.fr/014356260
-      - title: swisscovery record 991072630119705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991072630119705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: Library of Congress record 77145684
+      - title: "Open Library edition OL4577561M"
+        url: https://openlibrary.org/books/OL4577561M
+      - title: "WorldCat record (OCLC 137407)"
+        url: https://search.worldcat.org/title/137407
+      - title: "Library of Congress record (LCCN 77145684)"
         url: https://lccn.loc.gov/77145684
   - title: Adelsmacht und Bürgertum
     subtitle: 'Die Krise der europäischen Gesellschaft: 1848-1914'
@@ -69,8 +70,9 @@ works:
     year: 1981
     publisher: Croom Helm
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL15149843M
+      - title: "Open Library edition OL15149843M"
         url: https://openlibrary.org/books/OL15149843M
   - title: La Persistance de l'Ancien Régime
     subtitle: L'Europe de 1848 à la Grande guerre
@@ -78,46 +80,48 @@ works:
     language: French
     publisher: Flammarion
     place: Paris
+    verified: true
     sources:
-      - title: BnF catalogue record cb42177218p
-        url: https://catalogue.bnf.fr/ark:/12148/cb42177218p
-      - title: SUDOC record 143323431
-        url: https://www.sudoc.fr/143323431
-      - title: swisscovery record 991117527349705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991117527349705501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL20328589M"
+        url: https://openlibrary.org/books/OL20328589M
+      - title: "Open Library edition OL14870690M"
+        url: https://openlibrary.org/books/OL14870690M
   - title: Why Did the Heavens Not Darken?
     year: 1988
     publisher: Pantheon Books
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL2061197M
+      - title: "Open Library edition OL2061197M"
         url: https://openlibrary.org/books/OL2061197M
+      - title: "WorldCat record (OCLC 17803505)"
+        url: https://search.worldcat.org/title/17803505
+      - title: "Library of Congress record (LCCN 88042621)"
+        url: https://lccn.loc.gov/88042621
   - title: Der Krieg als Kreuzzug
     subtitle: Das Deutsche Reich, Hitlers Wehrmacht und die "Endlösung"
     year: 1989
     language: German
     publisher: Rowohlt
     place: Reinbek bei Hamburg
+    verified: true
     sources:
-      - title: German National Library record 891438572
-        url: https://d-nb.info/891438572
-      - title: SUDOC record 051061929
-        url: https://www.sudoc.fr/051061929
-      - title: swisscovery record 991170948710805501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991170948710805501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL24693265M"
+        url: https://openlibrary.org/books/OL24693265M
   - title: The Furies
     subtitle: Violence and Terror in the French and Russian Revolutions
     year: 2000
     language: English
     publisher: Princeton University Press
     place: Princeton (N.J.)
+    verified: true
     sources:
-      - title: BnF catalogue record cb37660634k
-        url: https://catalogue.bnf.fr/ark:/12148/cb37660634k
-      - title: SUDOC record 054339863
-        url: https://www.sudoc.fr/054339863
-      - title: swisscovery record 991170423754905501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991170423754905501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL52311M"
+        url: https://openlibrary.org/books/OL52311M
+      - title: "WorldCat record (OCLC 42934442)"
+        url: https://search.worldcat.org/title/42934442
+      - title: "Library of Congress record (LCCN 99059145)"
+        url: https://lccn.loc.gov/99059145
   - title: Les furies
     subtitle: >-
       Violence, vengeance, terreur aux temps de la Révolution française et de la Révolution
@@ -137,6 +141,13 @@ works:
     year: 2008
     publisher: Verso
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL22672518M
+      - title: "Open Library edition OL22672518M"
         url: https://openlibrary.org/books/OL22672518M
+      - title: "WorldCat record (OCLC 220002795)"
+        url: https://search.worldcat.org/title/220002795
+      - title: "Library of Congress record (LCCN 2008277190)"
+        url: https://lccn.loc.gov/2008277190
+      - title: "Open Library edition OL23097778M"
+        url: https://openlibrary.org/books/OL23097778M

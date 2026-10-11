@@ -12,41 +12,67 @@ works:
     year: 1990
     publisher: University of California
     place: Berkeley
+    verified: true
     sources:
-      - title: Open Library edition OL22071263M
+      - title: "Open Library edition OL22071263M"
         url: https://openlibrary.org/books/OL22071263M
   - title: Against the Market
     year: 1993
     publisher: New York
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL1424660M
+      - title: "Open Library edition OL1424660M"
         url: https://openlibrary.org/books/OL1424660M
+      - title: "WorldCat record (OCLC 28847094)"
+        url: https://search.worldcat.org/title/28847094
+      - title: "Library of Congress record (LCCN 93035595)"
+        url: https://lccn.loc.gov/93035595
   - title: Bodies of Meaning
     year: 2000
     publisher: State University of New York Press
+    verified: true
     sources:
-      - title: Open Library edition OL7802369M
+      - title: "Open Library edition OL7802369M"
         url: https://openlibrary.org/books/OL7802369M
+      - title: "WorldCat record (OCLC 43648546)"
+        url: https://search.worldcat.org/title/43648546
+      - title: "Library of Congress record (LCCN 00027106)"
+        url: https://lccn.loc.gov/00027106
+      - title: "Open Library edition OL7802368M"
+        url: https://openlibrary.org/books/OL7802368M
   - title: Another World Is Possible
     year: 2002
     publisher: Arbeiter Ring
+    verified: true
     sources:
-      - title: Open Library edition OL8722649M
+      - title: "Open Library edition OL8722649M"
         url: https://openlibrary.org/books/OL8722649M
+      - title: "WorldCat record (OCLC 49844729)"
+        url: https://search.worldcat.org/title/49844729
   - title: Global Slump
     year: 2010
     publisher: PM Press
+    verified: true
     sources:
-      - title: Open Library edition OL29087987M
-        url: https://openlibrary.org/books/OL29087987M
+      - title: "Open Library edition OL25567569M"
+        url: https://openlibrary.org/books/OL25567569M
+      - title: "WorldCat record (OCLC 610823791)"
+        url: https://search.worldcat.org/title/610823791
+      - title: "Library of Congress record (LCCN 2010927764)"
+        url: https://lccn.loc.gov/2010927764
   - title: Monsters of the Market
     year: 2011
     publisher: Brill
     place: Boston
+    verified: true
     sources:
-      - title: Open Library edition OL25045935M
+      - title: "Open Library edition OL25045935M"
         url: https://openlibrary.org/books/OL25045935M
+      - title: "WorldCat record (OCLC 708761909)"
+        url: https://search.worldcat.org/title/708761909
+      - title: "Library of Congress record (LCCN 2011010107)"
+        url: https://lccn.loc.gov/2011010107
   - title: Blood and Money
     year: 2020
     publisher: Blackstone Pub

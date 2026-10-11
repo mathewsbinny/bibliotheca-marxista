@@ -12,46 +12,60 @@ works:
     language: French
     publisher: Éditions de Minuit
     place: Paris
+    verified: true
     sources:
-      - title: BnF catalogue record cb36993526d
-        url: https://catalogue.bnf.fr/ark:/12148/cb36993526d
-      - title: SUDOC record 003552233
-        url: https://www.sudoc.fr/003552233
-      - title: swisscovery record 991097461549705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991097461549705501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL53001316M"
+        url: https://openlibrary.org/books/OL53001316M
+      - title: "WorldCat record (OCLC 1655630)"
+        url: https://search.worldcat.org/title/1655630
+      - title: "Open Library edition OL20405500M"
+        url: https://openlibrary.org/books/OL20405500M
+      - title: "Open Library edition OL20130412M"
+        url: https://openlibrary.org/books/OL20130412M
   - title: Le parti bolchevique
     subtitle: Histoire du P. C. de l'U. R. S. S
     year: 1963
     language: French
     publisher: Éditions de Minuit
     place: Paris
+    verified: true
     sources:
-      - title: BnF catalogue record cb373649236
-        url: https://catalogue.bnf.fr/ark:/12148/cb373649236
-      - title: SUDOC record 010158596
-        url: https://www.sudoc.fr/010158596
-      - title: swisscovery record 991007561659705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991007561659705501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL52699643M"
+        url: https://openlibrary.org/books/OL52699643M
+      - title: "WorldCat record (OCLC 42292459)"
+        url: https://search.worldcat.org/title/42292459
+      - title: "Open Library edition OL14717284M"
+        url: https://openlibrary.org/books/OL14717284M
+      - title: "Open Library edition OL5956716M"
+        url: https://openlibrary.org/books/OL5956716M
   - title: Les procès de Moscou
     year: 1964
     publisher: Julliard
     place: Paris]
+    verified: true
     sources:
-      - title: Open Library edition OL52614166M
+      - title: "Open Library edition OL52614166M"
         url: https://openlibrary.org/books/OL52614166M
+      - title: "WorldCat record (OCLC 4980653)"
+        url: https://search.worldcat.org/title/4980653
+      - title: "Library of Congress record (LCCN 68043168)"
+        url: https://lccn.loc.gov/68043168
+      - title: "Open Library edition OL18911090M"
+        url: https://openlibrary.org/books/OL18911090M
   - title: La question chinoise dans l'internationale communiste
     subtitle: 1926-1927
     year: 1965
     language: French
     publisher: Études et documentation internationales
     place: Paris
+    verified: true
     sources:
-      - title: SUDOC record 010386564
-        url: https://www.sudoc.fr/010386564
-      - title: swisscovery record 991150606259705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991150606259705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: Library of Congress record 77467413
-        url: https://lccn.loc.gov/77467413
+      - title: "Open Library edition OL5640716M"
+        url: https://openlibrary.org/books/OL5640716M
+      - title: "WorldCat record (OCLC 3573454)"
+        url: https://search.worldcat.org/title/3573454
+      - title: "Library of Congress record (LCCN 68071184)"
+        url: https://lccn.loc.gov/68071184
   - title: Revolution und Krieg in Spanien
     year: 1968
     language: German
@@ -81,27 +95,38 @@ works:
     year: 1970
     publisher: La Verité
     place: '[Paris'
+    verified: true
     sources:
-      - title: Open Library edition OL20338190M
+      - title: "Open Library edition OL20338190M"
         url: https://openlibrary.org/books/OL20338190M
   - title: Révolution en Allemagne 1917-1923
     year: 1971
     language: German
     publisher: Éditions de minuit
     place: Paris
+    verified: true
     sources:
-      - title: German National Library record 578543559
-        url: https://d-nb.info/578543559
-      - title: BnF catalogue record cb35370115b
-        url: https://catalogue.bnf.fr/ark:/12148/cb35370115b
-      - title: swisscovery record 991025055309705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991025055309705501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL5031144M"
+        url: https://openlibrary.org/books/OL5031144M
+      - title: "WorldCat record (OCLC 356105)"
+        url: https://search.worldcat.org/title/356105
+      - title: "Library of Congress record (LCCN 73887751)"
+        url: https://lccn.loc.gov/73887751
+      - title: "Open Library edition OL21454439M"
+        url: https://openlibrary.org/books/OL21454439M
   - title: Écrits à Prague sous la censure (aôut 1968-juin 1969)
     year: 1973
     publisher: EDI
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL19273756M
+      - title: "Open Library edition OL5465582M"
+        url: https://openlibrary.org/books/OL5465582M
+      - title: "WorldCat record (OCLC 708017)"
+        url: https://search.worldcat.org/title/708017
+      - title: "Library of Congress record (LCCN 73168409)"
+        url: https://lccn.loc.gov/73168409
+      - title: "Open Library edition OL19273756M"
         url: https://openlibrary.org/books/OL19273756M
   - title: The Revolution and the Civil War in Spain
     year: 1973
@@ -115,101 +140,156 @@ works:
     language: French
     publisher: Etudes et documentation internationales
     place: Paris
+    verified: true
     sources:
-      - title: SUDOC record 001718738
-        url: https://www.sudoc.fr/001718738
-      - title: swisscovery record 991075972379705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991075972379705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: Library of Congress record 74172421
+      - title: "Open Library edition OL5100429M"
+        url: https://openlibrary.org/books/OL5100429M
+      - title: "WorldCat record (OCLC 1206403)"
+        url: https://search.worldcat.org/title/1206403
+      - title: "Library of Congress record (LCCN 74172421)"
         url: https://lccn.loc.gov/74172421
   - title: Trotsky
     year: 1979
     language: French
     publisher: Études et documentation internationales
     place: Paris
+    verified: true
     sources:
-      - title: BnF catalogue record cb40185812q
-        url: https://catalogue.bnf.fr/ark:/12148/cb40185812q
-      - title: swisscovery record 991026985239705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991026985239705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: Library of Congress record 89145919
-        url: https://lccn.loc.gov/89145919
+      - title: "Open Library edition OL4135362M"
+        url: https://openlibrary.org/books/OL4135362M
+      - title: "WorldCat record (OCLC 7293009)"
+        url: https://search.worldcat.org/title/7293009
+      - title: "Library of Congress record (LCCN 80113174)"
+        url: https://lccn.loc.gov/80113174
   - title: Du premier au deuxième congrès de l'Internationale communiste, mars 1919-juillet 1920
     year: 1979
     publisher: Études et documentation internationales
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL4137249M
+      - title: "Open Library edition OL4137249M"
         url: https://openlibrary.org/books/OL4137249M
+      - title: "WorldCat record (OCLC 6709804)"
+        url: https://search.worldcat.org/title/6709804
+      - title: "Library of Congress record (LCCN 80115279)"
+        url: https://lccn.loc.gov/80115279
   - title: L' assassinat de Trotsky
     subtitle: '1940'
     year: 1980
     publisher: Complexe
     place: Bruxelles
+    verified: true
     sources:
-      - title: Open Library edition OL3867244M
+      - title: "Open Library edition OL3867244M"
         url: https://openlibrary.org/books/OL3867244M
+      - title: "WorldCat record (OCLC 8976624)"
+        url: https://search.worldcat.org/title/8976624
+      - title: "Library of Congress record (LCCN 81189220)"
+        url: https://lccn.loc.gov/81189220
   - title: Contributions à l'histoire du trotskysme en Allemagne
     year: 1983
     publisher: >-
       Centre d'études et de recherches sur les mouvements trotskyste et révolutionnaires
       internationaux
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL2894972M
+      - title: "Open Library edition OL2894972M"
         url: https://openlibrary.org/books/OL2894972M
+      - title: "Library of Congress record (LCCN 84121811)"
+        url: https://lccn.loc.gov/84121811
   - title: Staline et la révolution
     year: 1993
     publisher: Fayard
+    verified: true
     sources:
-      - title: Open Library edition OL12455719M
+      - title: "Open Library edition OL12455719M"
         url: https://openlibrary.org/books/OL12455719M
+      - title: "WorldCat record (OCLC 29786812)"
+        url: https://search.worldcat.org/title/29786812
   - title: Léon Sedov, fils de Trotsky, victime de Staline
     year: 1993
     publisher: Editions Ouvrières
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL1528959M
+      - title: "Open Library edition OL1528959M"
         url: https://openlibrary.org/books/OL1528959M
+      - title: "WorldCat record (OCLC 29666369)"
+        url: https://search.worldcat.org/title/29666369
+      - title: "Library of Congress record (LCCN 93220549)"
+        url: https://lccn.loc.gov/93220549
   - title: Quand le peuple révoque le président
     subtitle: le Brésil de l'affaire Collor
     year: 1993
     publisher: L'Harmattan
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL1510935M
+      - title: "Open Library edition OL1510935M"
         url: https://openlibrary.org/books/OL1510935M
+      - title: "WorldCat record (OCLC 29256469)"
+        url: https://search.worldcat.org/title/29256469
+      - title: "Library of Congress record (LCCN 93193369)"
+        url: https://lccn.loc.gov/93193369
   - title: Rakovsky, ou, La révolution dans tous les pays
     year: 1996
     publisher: Fayard
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL289622M
+      - title: "Open Library edition OL289622M"
         url: https://openlibrary.org/books/OL289622M
+      - title: "WorldCat record (OCLC 35143353)"
+        url: https://search.worldcat.org/title/35143353
+      - title: "Library of Congress record (LCCN 97193815)"
+        url: https://lccn.loc.gov/97193815
   - title: Histoire de l'Internationale communiste, 1919-1943
     year: 1997
     publisher: Fayard
+    verified: true
     sources:
-      - title: Open Library edition OL9566751M
+      - title: "Open Library edition OL9566751M"
         url: https://openlibrary.org/books/OL9566751M
+      - title: "WorldCat record (OCLC 185446465)"
+        url: https://search.worldcat.org/title/185446465
+      - title: "Open Library edition OL410457M"
+        url: https://openlibrary.org/books/OL410457M
+      - title: "WorldCat record (OCLC 38028766)"
+        url: https://search.worldcat.org/title/38028766
   - title: Meurtres au maquis
     year: 1997
     publisher: B. Grasset
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL770224M
+      - title: "Open Library edition OL770224M"
         url: https://openlibrary.org/books/OL770224M
+      - title: "WorldCat record (OCLC 38218635)"
+        url: https://search.worldcat.org/title/38218635
+      - title: "Library of Congress record (LCCN 97169407)"
+        url: https://lccn.loc.gov/97169407
   - title: The German Revolution, 1917-1923
     year: 1998
     publisher: Porcupine Pr
+    verified: true
     sources:
-      - title: Open Library edition OL9307820M
+      - title: "Open Library edition OL9307820M"
         url: https://openlibrary.org/books/OL9307820M
+      - title: "WorldCat record (OCLC 231583052)"
+        url: https://search.worldcat.org/title/231583052
+      - title: "Open Library edition OL9661200M"
+        url: https://openlibrary.org/books/OL9661200M
   - title: Communistes contre Staline
     subtitle: massacre d'une génération
     year: 2003
     publisher: Fayard
     place: '[Paris?]'
+    verified: true
     sources:
-      - title: Open Library edition OL3771636M
+      - title: "Open Library edition OL3771636M"
         url: https://openlibrary.org/books/OL3771636M
+      - title: "WorldCat record (OCLC 53019159)"
+        url: https://search.worldcat.org/title/53019159
+      - title: "Library of Congress record (LCCN 2003506771)"
+        url: https://lccn.loc.gov/2003506771

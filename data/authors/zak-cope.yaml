@@ -13,12 +13,11 @@ works:
     language: English
     publisher: Lang
     place: Oxford
+    verified: true
     sources:
-      - title: German National Library record 990413160
-        url: https://d-nb.info/990413160
-      - title: swisscovery record 991116047189705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991116047189705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: Library of Congress record 2008034719
+      - title: "Open Library edition OL22500839M"
+        url: https://openlibrary.org/books/OL22500839M
+      - title: "Library of Congress record (LCCN 2008034719)"
         url: https://lccn.loc.gov/2008034719
   - title: Divided World, Divided Class
     subtitle: Global Political Economy and the Stratification of Labour Under Capitalism
@@ -44,9 +43,12 @@ works:
   - title: On Colonies, Industrial Monopoly and Working Class Movement
     year: 2016
     publisher: Kersplebedeb
+    verified: true
     sources:
-      - title: Open Library edition OL27436126M
-        url: https://openlibrary.org/books/OL27436126M
+      - title: "Open Library edition OL27227891M"
+        url: https://openlibrary.org/books/OL27227891M
+      - title: "WorldCat record (OCLC 988543589)"
+        url: https://search.worldcat.org/title/988543589
   - title: The Global Perspective
     subtitle: Reflections on Imperialism and Resistance
     year: 2018
@@ -59,9 +61,12 @@ works:
   - title: The Wealth of Nations
     year: 2019
     publisher: Pluto Press
+    verified: true
     sources:
-      - title: Open Library edition OL27338674M
-        url: https://openlibrary.org/books/OL27338674M
+      - title: "Open Library edition OL27338657M"
+        url: https://openlibrary.org/books/OL27338657M
+      - title: "WorldCat record (OCLC 1057375511)"
+        url: https://search.worldcat.org/title/1057375511
   - title: The Oxford Handbook of Economic Imperialism
     year: 2022
     language: English

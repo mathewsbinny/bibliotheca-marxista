@@ -13,15 +13,21 @@ works:
     year: 2010
     publisher: '[S.n.]'
     place: Lexington, KY
+    verified: true
     sources:
-      - title: Open Library edition OL25570339M
+      - title: "Open Library edition OL25570339M"
         url: https://openlibrary.org/books/OL25570339M
+      - title: "WorldCat record (OCLC 744982006)"
+        url: https://search.worldcat.org/title/744982006
   - title: The Long Depression
     year: 2016
     publisher: Haymarket Books
+    verified: true
     sources:
-      - title: Open Library edition OL37438174M
-        url: https://openlibrary.org/books/OL37438174M
+      - title: "Open Library edition OL27426035M"
+        url: https://openlibrary.org/books/OL27426035M
+      - title: "WorldCat record (OCLC 890180095)"
+        url: https://search.worldcat.org/title/890180095
   - title: Marx 200 - A Review of Marx's Economics 200 Years After His Birth
     year: 2018
     publisher: Lulu Press, Inc.
@@ -31,6 +37,9 @@ works:
   - title: World in Crisis
     year: 2018
     publisher: Haymarket Books
+    verified: true
     sources:
-      - title: Open Library edition OL27352833M
+      - title: "Open Library edition OL27352833M"
         url: https://openlibrary.org/books/OL27352833M
+      - title: "WorldCat record (OCLC 1028209851)"
+        url: https://search.worldcat.org/title/1028209851

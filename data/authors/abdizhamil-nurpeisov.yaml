@@ -21,8 +21,11 @@ works:
     language: German
     publisher: Aufbau-Verlag
     place: Berlin
+    verified: true
     sources:
-      - title: Library of Congress record 75575395
+      - title: "Open Library edition OL4836798M"
+        url: https://openlibrary.org/books/OL4836798M
+      - title: "Library of Congress record (LCCN 75575395)"
         url: https://lccn.loc.gov/75575395
   - title: Dolg
     subtitle: Roman
@@ -30,8 +33,11 @@ works:
     language: Russian
     publisher: '"Zhazushy"'
     place: Alma-Ata
+    verified: true
     sources:
-      - title: Library of Congress record 88116470
+      - title: "Open Library edition OL2080203M"
+        url: https://openlibrary.org/books/OL2080203M
+      - title: "Library of Congress record (LCCN 88116470)"
         url: https://lccn.loc.gov/88116470
   - title: Aral, segodnia i zavtra
     year: 1990
@@ -56,9 +62,14 @@ works:
     language: Russian
     publisher: Parad
     place: Moskva
+    verified: true
     sources:
-      - title: Library of Congress record 2021423924
-        url: https://lccn.loc.gov/2021423924
+      - title: "Open Library edition OL31788183M"
+        url: https://openlibrary.org/books/OL31788183M
+      - title: "WorldCat record (OCLC 123187595)"
+        url: https://search.worldcat.org/title/123187595
+      - title: "Library of Congress record (LCCN 2007455467)"
+        url: https://lccn.loc.gov/2007455467
   - title: Blood & Sweat
     year: 2013
     language: English
@@ -72,6 +83,11 @@ works:
     language: English
     publisher: Liberty Publishing House
     place: New York
+    verified: true
     sources:
-      - title: Library of Congress record 2013937410
+      - title: "Open Library edition OL49762604M"
+        url: https://openlibrary.org/books/OL49762604M
+      - title: "WorldCat record (OCLC 851380466)"
+        url: https://search.worldcat.org/title/851380466
+      - title: "Library of Congress record (LCCN 2013937410)"
         url: https://lccn.loc.gov/2013937410

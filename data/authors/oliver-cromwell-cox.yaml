@@ -27,33 +27,54 @@ works:
     year: 1959
     publisher: Owen
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL18864991M
+      - title: "Open Library edition OL18864991M"
         url: https://openlibrary.org/books/OL18864991M
   - title: Capitalism and American Leadership
     year: 1962
     publisher: Philosophical Library
+    verified: true
     sources:
-      - title: Open Library edition OL43084427M
+      - title: "Open Library edition OL43084427M"
         url: https://openlibrary.org/books/OL43084427M
+      - title: "Open Library edition OL5823726M"
+        url: https://openlibrary.org/books/OL5823726M
+      - title: "WorldCat record (OCLC 819688)"
+        url: https://search.worldcat.org/title/819688
+      - title: "Library of Congress record (LCCN 61010606)"
+        url: https://lccn.loc.gov/61010606
   - title: Capitalism as a System
     year: 1964
     publisher: Monthly Review Press
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL21877842M
+      - title: "Open Library edition OL21877842M"
         url: https://openlibrary.org/books/OL21877842M
+      - title: "Open Library edition OL5919489M"
+        url: https://openlibrary.org/books/OL5919489M
+      - title: "WorldCat record (OCLC 185710)"
+        url: https://search.worldcat.org/title/185710
+      - title: "Library of Congress record (LCCN 64023145)"
+        url: https://lccn.loc.gov/64023145
   - title: Race Relations
     year: 1976
     publisher: Wayne State University Press
     place: Detroit
+    verified: true
     sources:
-      - title: Open Library edition OL5210625M
+      - title: "Open Library edition OL5210625M"
         url: https://openlibrary.org/books/OL5210625M
+      - title: "WorldCat record (OCLC 1945504)"
+        url: https://search.worldcat.org/title/1945504
+      - title: "Library of Congress record (LCCN 75038572)"
+        url: https://lccn.loc.gov/75038572
   - title: Upgrading and Renewing a Historic City
     year: 1984
     publisher: '[Shankland Cox Partnership]'
     place: '[London]'
+    verified: true
     sources:
-      - title: Open Library edition OL14804883M
+      - title: "Open Library edition OL14804883M"
         url: https://openlibrary.org/books/OL14804883M

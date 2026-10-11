@@ -12,13 +12,14 @@ works:
     language: French
     publisher: Balland
     place: Paris
+    verified: true
     sources:
-      - title: BnF catalogue record cb366079906
-        url: https://catalogue.bnf.fr/ark:/12148/cb366079906
-      - title: SUDOC record 000862959
-        url: https://www.sudoc.fr/000862959
-      - title: swisscovery record 991075003049705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991075003049705501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL2634295M"
+        url: https://openlibrary.org/books/OL2634295M
+      - title: "WorldCat record (OCLC 14172502)"
+        url: https://search.worldcat.org/title/14172502
+      - title: "Library of Congress record (LCCN 85206978)"
+        url: https://lccn.loc.gov/85206978
   - title: Zwischen Thora und Partei
     subtitle: Lebensstationen e. jüd. Kommunisten
     year: 1987
@@ -38,39 +39,44 @@ works:
     language: French
     publisher: Editions La Découverte
     place: Paris
+    verified: true
     sources:
-      - title: SUDOC record 001330764
-        url: https://www.sudoc.fr/001330764
-      - title: swisscovery record 991076873539705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991076873539705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: Library of Congress record 88102537
+      - title: "Open Library edition OL2072677M"
+        url: https://openlibrary.org/books/OL2072677M
+      - title: "WorldCat record (OCLC 18785458)"
+        url: https://search.worldcat.org/title/18785458
+      - title: "Library of Congress record (LCCN 88102537)"
         url: https://lccn.loc.gov/88102537
+      - title: "Open Library edition OL22325063M"
+        url: https://openlibrary.org/books/OL22325063M
   - title: Le Sang de l'étranger
     subtitle: Les immigrés de la MOI dans la Résistance
     year: 1989
     language: French
     publisher: Fayard
     place: Paris
+    verified: true
     sources:
-      - title: BnF catalogue record cb357212908
-        url: https://catalogue.bnf.fr/ark:/12148/cb357212908
-      - title: SUDOC record 001441817
-        url: https://www.sudoc.fr/001441817
-      - title: swisscovery record 991114469289705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991114469289705501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL19526888M"
+        url: https://openlibrary.org/books/OL19526888M
+      - title: "WorldCat record (OCLC 19816016)"
+        url: https://search.worldcat.org/title/19816016
+      - title: "Open Library edition OL21782726M"
+        url: https://openlibrary.org/books/OL21782726M
   - title: Le choix des juifs sous Vichy
     subtitle: Entre soumission et résistance
     year: 1992
     language: French
     publisher: Éd. La Découverte
     place: Paris
+    verified: true
     sources:
-      - title: German National Library record 930265319
-        url: https://d-nb.info/930265319
-      - title: BnF catalogue record cb36660315b
-        url: https://catalogue.bnf.fr/ark:/12148/cb36660315b
-      - title: SUDOC record 002723352
-        url: https://www.sudoc.fr/002723352
+      - title: "Open Library edition OL841648M"
+        url: https://openlibrary.org/books/OL841648M
+      - title: "WorldCat record (OCLC 34285872)"
+        url: https://search.worldcat.org/title/34285872
+      - title: "Library of Congress record (LCCN 95118786)"
+        url: https://lccn.loc.gov/95118786
   - title: L'Affiche rouge
     subtitle: Il y a 50 ans
     year: 1994
@@ -90,23 +96,27 @@ works:
     language: French
     publisher: Union des résistants et déportés juifs de France
     place: Paris
+    verified: true
     sources:
-      - title: BnF catalogue record cb35711453d
-        url: https://catalogue.bnf.fr/ark:/12148/cb35711453d
-      - title: SUDOC record 00334326X
-        url: https://www.sudoc.fr/00334326X
-      - title: swisscovery record 991057178349705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991057178349705501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL59508208M"
+        url: https://openlibrary.org/books/OL59508208M
+      - title: "WorldCat record (OCLC 37592269)"
+        url: https://search.worldcat.org/title/37592269
+      - title: "Open Library edition OL15545655M"
+        url: https://openlibrary.org/books/OL15545655M
   - title: Au stand de tir
     subtitle: Le massacre des résistants; Paris 1942 - 1944
     year: 2006
     language: French
     publisher: Mairie de Paris, Dir. Générale de l'Information et de la Communication
     place: Paris
+    verified: true
     sources:
-      - title: German National Library record 983287910
-        url: https://d-nb.info/983287910
-      - title: BnF catalogue record cb40950110n
-        url: https://catalogue.bnf.fr/ark:/12148/cb40950110n
-      - title: SUDOC record 111565901
-        url: https://www.sudoc.fr/111565901
+      - title: "Open Library edition OL53498184M"
+        url: https://openlibrary.org/books/OL53498184M
+      - title: "WorldCat record (OCLC 83597410)"
+        url: https://search.worldcat.org/title/83597410
+      - title: "Open Library edition OL23646641M"
+        url: https://openlibrary.org/books/OL23646641M
+      - title: "Library of Congress record (LCCN 2009405350)"
+        url: https://lccn.loc.gov/2009405350

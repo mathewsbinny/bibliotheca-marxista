@@ -25,10 +25,15 @@ works:
     language: French
     publisher: Éditions "Présence africaine"
     place: Paris
+    verified: true
     sources:
-      - title: BnF catalogue record cb32401433n
-        url: https://catalogue.bnf.fr/ark:/12148/cb32401433n
-      - title: Library of Congress record a57003002
+      - title: "Open Library edition OL21459708M"
+        url: https://openlibrary.org/books/OL21459708M
+      - title: "Open Library edition OL212315M"
+        url: https://openlibrary.org/books/OL212315M
+      - title: "WorldCat record (OCLC 4096383)"
+        url: https://search.worldcat.org/title/4096383
+      - title: "Library of Congress record (LCCN a57003002)"
         url: https://lccn.loc.gov/a57003002
   - title: Mercenaires noirs
     subtitle: Notes sur une forme de l'exploitation des Africains
@@ -36,32 +41,39 @@ works:
     language: French
     publisher: '"Présence africaine"'
     place: Paris
+    verified: true
     sources:
-      - title: BnF catalogue record cb324014340
-        url: https://catalogue.bnf.fr/ark:/12148/cb324014340
-      - title: SUDOC record 047803770
-        url: https://www.sudoc.fr/047803770
-      - title: swisscovery record 991154664359705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991154664359705501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL5778125M"
+        url: https://openlibrary.org/books/OL5778125M
+      - title: "WorldCat record (OCLC 4887205)"
+        url: https://search.worldcat.org/title/4887205
+      - title: "Library of Congress record (LCCN 59018903)"
+        url: https://lccn.loc.gov/59018903
   - title: L' État et la production paysanne
     year: 1958
     publisher: Présence africaine
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL17876741M
-        url: https://openlibrary.org/books/OL17876741M
+      - title: "Open Library edition OL5959019M"
+        url: https://openlibrary.org/books/OL5959019M
+      - title: "WorldCat record (OCLC 3813648)"
+        url: https://search.worldcat.org/title/3813648
+      - title: "Library of Congress record (LCCN 65041206)"
+        url: https://lccn.loc.gov/65041206
   - title: La Compagnie du Sénégal
     year: 1958
     language: French
     publisher: Présence africaine
     place: Paris
+    verified: true
     sources:
-      - title: SUDOC record 002910888
-        url: https://www.sudoc.fr/002910888
-      - title: swisscovery record 991158223779705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991158223779705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: Library of Congress record 96146559
-        url: https://lccn.loc.gov/96146559
+      - title: "Open Library edition OL5785785M"
+        url: https://openlibrary.org/books/OL5785785M
+      - title: "WorldCat record (OCLC 4887228)"
+        url: https://search.worldcat.org/title/4887228
+      - title: "Library of Congress record (LCCN 59048472)"
+        url: https://lccn.loc.gov/59048472
   - title: Un navire de commerce sur la côte sénégambienne en 1685
     year: 1964
     language: French
@@ -78,51 +90,75 @@ works:
     year: 1981
     publisher: Editions Xamle
     place: Dakar
+    verified: true
     sources:
-      - title: Open Library edition OL3249942M
+      - title: "Open Library edition OL3249942M"
         url: https://openlibrary.org/books/OL3249942M
+      - title: "Library of Congress record (LCCN 83166911)"
+        url: https://lccn.loc.gov/83166911
+      - title: "Open Library edition OL43496060M"
+        url: https://openlibrary.org/books/OL43496060M
+      - title: "WorldCat record (OCLC 8585232)"
+        url: https://search.worldcat.org/title/8585232
   - title: Qu'y a-t-il encore de vivant dans le marxisme vu du Sénégal?
     year: 1992
     publisher: Imprimé par G.I.A. pour le compte de Abdoulaye Ly
     place: Dakar, Sénégal
+    verified: true
     sources:
-      - title: Open Library edition OL1488455M
+      - title: "Open Library edition OL1488455M"
         url: https://openlibrary.org/books/OL1488455M
+      - title: "WorldCat record (OCLC 28808248)"
+        url: https://search.worldcat.org/title/28808248
+      - title: "Library of Congress record (LCCN 93159418)"
+        url: https://lccn.loc.gov/93159418
   - title: Islam, socialisme et science
     year: 1992
     publisher: Imprimé par G.I.A. pour le compte de Abdoulaye Ly
     place: Dakar, Sénégal
+    verified: true
     sources:
-      - title: Open Library edition OL1490335M
+      - title: "Open Library edition OL1490335M"
         url: https://openlibrary.org/books/OL1490335M
+      - title: "WorldCat record (OCLC 27163293)"
+        url: https://search.worldcat.org/title/27163293
+      - title: "Library of Congress record (LCCN 93162287)"
+        url: https://lccn.loc.gov/93162287
   - title: Pour une politique novatrice de gauche en Afrique
     year: 2008
     publisher: Nouvelles Éditions africaines du Sénégal
     place: Dakar, Senegal
+    verified: true
     sources:
-      - title: Open Library edition OL24118537M
+      - title: "Open Library edition OL24118537M"
         url: https://openlibrary.org/books/OL24118537M
+      - title: "Library of Congress record (LCCN 2009319564)"
+        url: https://lccn.loc.gov/2009319564
+      - title: "Open Library edition OL24034360M"
+        url: https://openlibrary.org/books/OL24034360M
+      - title: "WorldCat record (OCLC 420623204)"
+        url: https://search.worldcat.org/title/420623204
   - title: La théâtralité dans les romans d'André Malraux
     year: 2012
     language: French
     publisher: L'Harmattan
     place: Paris
+    verified: true
     sources:
-      - title: BnF catalogue record cb42592384n
-        url: https://catalogue.bnf.fr/ark:/12148/cb42592384n
-      - title: SUDOC record 15883612X
-        url: https://www.sudoc.fr/15883612X
-      - title: Library of Congress record 2012420171
+      - title: "Open Library edition OL30612560M"
+        url: https://openlibrary.org/books/OL30612560M
+      - title: "WorldCat record (OCLC 777476929)"
+        url: https://search.worldcat.org/title/777476929
+      - title: "Library of Congress record (LCCN 2012420171)"
         url: https://lccn.loc.gov/2012420171
   - title: Malraux et la poésie
     year: 2016
     language: French
     publisher: L'Harmattan
     place: Paris
+    verified: true
     sources:
-      - title: BnF catalogue record cb45137372b
-        url: https://catalogue.bnf.fr/ark:/12148/cb45137372b
-      - title: SUDOC record 196124050
-        url: https://www.sudoc.fr/196124050
-      - title: Library of Congress record 2016521127
-        url: https://lccn.loc.gov/2016521127
+      - title: "Open Library edition OL44512257M"
+        url: https://openlibrary.org/books/OL44512257M
+      - title: "WorldCat record (OCLC 961416080)"
+        url: https://search.worldcat.org/title/961416080

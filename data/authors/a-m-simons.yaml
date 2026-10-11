@@ -16,6 +16,13 @@ works:
     year: 1921
     publisher: The Ronald Press Company
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL7024491M
+      - title: "Open Library edition OL7024491M"
         url: https://openlibrary.org/books/OL7024491M
+      - title: "WorldCat record (OCLC 322477)"
+        url: https://search.worldcat.org/title/322477
+      - title: "Library of Congress record (LCCN 21008298)"
+        url: https://lccn.loc.gov/21008298
+      - title: "Open Library edition OL17767784M"
+        url: https://openlibrary.org/books/OL17767784M

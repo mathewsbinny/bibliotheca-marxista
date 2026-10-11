@@ -11,6 +11,11 @@ works:
     year: 1962
     publisher: Sociedad Mexicana de Geografía y Estadística, Sección de Historia
     place: México
+    verified: true
     sources:
-      - title: Open Library edition OL5929199M
+      - title: "Open Library edition OL5929199M"
         url: https://openlibrary.org/books/OL5929199M
+      - title: "WorldCat record (OCLC 1895794)"
+        url: https://search.worldcat.org/title/1895794
+      - title: "Library of Congress record (LCCN 64054010)"
+        url: https://lccn.loc.gov/64054010

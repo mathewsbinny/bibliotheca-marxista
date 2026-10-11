@@ -12,9 +12,12 @@ works:
     language: English
     publisher: Chappell
     place: New York
+    verified: true
     sources:
-      - title: Library of Congress record m56001238
-        url: https://lccn.loc.gov/m56001238
+      - title: "Open Library edition OL26905671M"
+        url: https://openlibrary.org/books/OL26905671M
+      - title: "WorldCat record (OCLC 4607262)"
+        url: https://search.worldcat.org/title/4607262
   - title: The Soldier
     subtitle: Opera in Three Scenes
     year: 1956

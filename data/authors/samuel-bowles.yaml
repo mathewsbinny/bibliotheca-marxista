@@ -19,44 +19,61 @@ works:
     language: English
     publisher: University Microfilms
     place: Ann Arbor [Mich
+    verified: true
     sources:
-      - title: SUDOC record 046061126
-        url: https://www.sudoc.fr/046061126
-      - title: swisscovery record 991062200119705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991062200119705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: CiNii Books record BA02425605
-        url: https://ci.nii.ac.jp/ncid/BA02425605
+      - title: "Open Library edition OL5994774M"
+        url: https://openlibrary.org/books/OL5994774M
+      - title: "WorldCat record (OCLC 961428)"
+        url: https://search.worldcat.org/title/961428
+      - title: "Library of Congress record (LCCN 66026364)"
+        url: https://lccn.loc.gov/66026364
+      - title: "Open Library edition OL19546150M"
+        url: https://openlibrary.org/books/OL19546150M
   - title: Equality of Educational Opportunity
     year: 1967
     publisher: '[s.n.]'
     place: '[s.l.]'
+    verified: true
     sources:
-      - title: Open Library edition OL50457260M
+      - title: "Open Library edition OL50457260M"
         url: https://openlibrary.org/books/OL50457260M
+      - title: "WorldCat record (OCLC 4040108)"
+        url: https://search.worldcat.org/title/4040108
   - title: Planning Educational Systems for Economic Growth
     year: 1969
     publisher: Harvard U.P.
+    verified: true
     sources:
-      - title: Open Library edition OL19693427M
+      - title: "Open Library edition OL19693427M"
         url: https://openlibrary.org/books/OL19693427M
+      - title: "Open Library edition OL21331288M"
+        url: https://openlibrary.org/books/OL21331288M
+      - title: "WorldCat record (OCLC 47430)"
+        url: https://search.worldcat.org/title/47430
+      - title: "Library of Congress record (LCCN 78082293)"
+        url: https://lccn.loc.gov/78082293
   - title: Notes and Problems in Microeconomic Theory
     year: 1970
     language: English
     publisher: Markham Pub. Co
     place: Chicago
+    verified: true
     sources:
-      - title: SUDOC record 005921740
-        url: https://www.sudoc.fr/005921740
-      - title: swisscovery record 991106164099705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991106164099705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: Library of Congress record 79022681
-        url: https://lccn.loc.gov/79022681
+      - title: "Open Library edition OL13759052M"
+        url: https://openlibrary.org/books/OL13759052M
+      - title: "Open Library edition OL13719399M"
+        url: https://openlibrary.org/books/OL13719399M
+      - title: "Open Library edition OL4764705M"
+        url: https://openlibrary.org/books/OL4764705M
+      - title: "WorldCat record (OCLC 92731)"
+        url: https://search.worldcat.org/title/92731
   - title: I.Q. in the U.S. Class Structure
     year: 1973
     publisher: Warner Modular Publications
     place: Andover, Mass
+    verified: true
     sources:
-      - title: Open Library edition OL16383887M
+      - title: "Open Library edition OL16383887M"
         url: https://openlibrary.org/books/OL16383887M
   - title: Schooling in capitalist America
     subtitle: Educational reform and the contradictions of economic life
@@ -74,9 +91,14 @@ works:
     year: 1982
     publisher: Doubleday
     place: Garden City, N.Y
+    verified: true
     sources:
-      - title: Open Library edition OL17903663M
+      - title: "Open Library edition OL17903663M"
         url: https://openlibrary.org/books/OL17903663M
+      - title: "WorldCat record (OCLC 9586385)"
+        url: https://search.worldcat.org/title/9586385
+      - title: "Library of Congress record (LCCN 82018342)"
+        url: https://lccn.loc.gov/82018342
   - title: Beyond the Wasteland
     year: 1984
     publisher: Verso Books
@@ -89,73 +111,103 @@ works:
     language: English
     publisher: Harper and Row
     place: New York
+    verified: true
     sources:
-      - title: SUDOC record 112676502
-        url: https://www.sudoc.fr/112676502
-      - title: swisscovery record 991046796659705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991046796659705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: Library of Congress record 2017018189
-        url: https://lccn.loc.gov/2017018189
+      - title: "Open Library edition OL2859031M"
+        url: https://openlibrary.org/books/OL2859031M
+      - title: "WorldCat record (OCLC 11290862)"
+        url: https://search.worldcat.org/title/11290862
+      - title: "Library of Congress record (LCCN 84021729)"
+        url: https://lccn.loc.gov/84021729
   - title: Democracy and Capitalism
     subtitle: Property, Community, and the Contradictions of Modern Social Thought
     year: 1986
     language: English
     publisher: Basic Books
     place: New York
+    verified: true
     sources:
-      - title: BnF catalogue record cb366316195
-        url: https://catalogue.bnf.fr/ark:/12148/cb366316195
-      - title: SUDOC record 029103835
-        url: https://www.sudoc.fr/029103835
-      - title: swisscovery record 991113919719705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991113919719705501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL2552639M"
+        url: https://openlibrary.org/books/OL2552639M
+      - title: "WorldCat record (OCLC 13186547)"
+        url: https://search.worldcat.org/title/13186547
+      - title: "Library of Congress record (LCCN 85047991)"
+        url: https://lccn.loc.gov/85047991
   - title: Democracy & Capitalism
     year: 1986
     publisher: Basic Books Inc.,U.S.
+    verified: true
     sources:
-      - title: Open Library edition OL7593252M
+      - title: "Open Library edition OL7593252M"
         url: https://openlibrary.org/books/OL7593252M
+      - title: "WorldCat record (OCLC 13186547)"
+        url: https://search.worldcat.org/title/13186547
   - title: Unconventional Wisdom
     year: 1989
     publisher: Houghton-Mifflin
     place: Boston
+    verified: true
     sources:
-      - title: Open Library edition OL2192440M
+      - title: "Open Library edition OL2192440M"
         url: https://openlibrary.org/books/OL2192440M
+      - title: "Library of Congress record (LCCN 89011244)"
+        url: https://lccn.loc.gov/89011244
+      - title: "Open Library edition OL21389051M"
+        url: https://openlibrary.org/books/OL21389051M
+      - title: "WorldCat record (OCLC 19846016)"
+        url: https://search.worldcat.org/title/19846016
   - title: After the Waste Land
     subtitle: A Democratic Economics for the Year 2000
     year: 1990
     language: English
     publisher: M. E. Sharpe
     place: Armonk (N.Y.)
+    verified: true
     sources:
-      - title: BnF catalogue record cb373581990
-        url: https://catalogue.bnf.fr/ark:/12148/cb373581990
-      - title: SUDOC record 02172735X
-        url: https://www.sudoc.fr/02172735X
-      - title: swisscovery record 991170662449505501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991170662449505501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL1857063M"
+        url: https://openlibrary.org/books/OL1857063M
+      - title: "WorldCat record (OCLC 910069732)"
+        url: https://search.worldcat.org/title/910069732
+      - title: "Library of Congress record (LCCN 90009078)"
+        url: https://lccn.loc.gov/90009078
   - title: Radical Political Economy
     year: 1990
     publisher: E. Elgar
     place: Aldershot, Hants, England
+    verified: true
     sources:
-      - title: Open Library edition OL22813617M
+      - title: "Open Library edition OL22813617M"
         url: https://openlibrary.org/books/OL22813617M
+      - title: "Library of Congress record (LCCN 89023551)"
+        url: https://lccn.loc.gov/89023551
+      - title: "Open Library edition OL2201854M"
+        url: https://openlibrary.org/books/OL2201854M
+      - title: "WorldCat record (OCLC 20356576)"
+        url: https://search.worldcat.org/title/20356576
   - title: The Parks and Mountains of Colorado
     subtitle: A Summer Vacation in the Switzerland of America, 1868
     year: 1991
     publisher: University of Oklahoma Press
     place: Norman
+    verified: true
     sources:
-      - title: Open Library edition OL1549038M
+      - title: "Open Library edition OL1549038M"
         url: https://openlibrary.org/books/OL1549038M
+      - title: "WorldCat record (OCLC 24376547)"
+        url: https://search.worldcat.org/title/24376547
+      - title: "Library of Congress record (LCCN 91028589)"
+        url: https://lccn.loc.gov/91028589
   - title: Markets and Democracy
     year: 1993
     publisher: Cambridge University Press
+    verified: true
     sources:
-      - title: Open Library edition OL7740642M
-        url: https://openlibrary.org/books/OL7740642M
+      - title: "Open Library edition OL1726183M"
+        url: https://openlibrary.org/books/OL1726183M
+      - title: "WorldCat record (OCLC 502488457)"
+        url: https://search.worldcat.org/title/502488457
+      - title: "Library of Congress record (LCCN 92030242)"
+        url: https://lccn.loc.gov/92030242
   - title: Teaching Political Economy
     subtitle: >-
       an instructor's manual to accompany Bowles/Edwards: Understanding capitalism: competition,
@@ -163,9 +215,12 @@ works:
     year: 1998
     publisher: Harper & Row
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL9954208M
+      - title: "Open Library edition OL9954208M"
         url: https://openlibrary.org/books/OL9954208M
+      - title: "WorldCat record (OCLC 184742826)"
+        url: https://search.worldcat.org/title/184742826
   - title: The Politics and Economics of Power
     year: 1998
     publisher: Taylor & Francis Group
@@ -176,14 +231,20 @@ works:
     year: 1998
     publisher: New York
     place: England
+    verified: true
     sources:
-      - title: Open Library edition OL373792M
+      - title: "Open Library edition OL373792M"
         url: https://openlibrary.org/books/OL373792M
+      - title: "WorldCat record (OCLC 39456004)"
+        url: https://search.worldcat.org/title/39456004
+      - title: "Library of Congress record (LCCN 98035498)"
+        url: https://lccn.loc.gov/98035498
   - title: Meritocracy and Economic Inequality
     year: 1999
     publisher: Princeton University Press
+    verified: true
     sources:
-      - title: Open Library edition OL7755965M
+      - title: "Open Library edition OL7755965M"
         url: https://openlibrary.org/books/OL7755965M
   - title: Microeconomics
     subtitle: Behavior, Institutions and Evolution
@@ -191,59 +252,97 @@ works:
     language: English
     publisher: Russell Sage Foundation
     place: New York
+    verified: true
     sources:
-      - title: BnF catalogue record cb39920117k
-        url: https://catalogue.bnf.fr/ark:/12148/cb39920117k
-      - title: SUDOC record 253234107
-        url: https://www.sudoc.fr/253234107
-      - title: swisscovery record 991171037529505501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991171037529505501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL15546533M"
+        url: https://openlibrary.org/books/OL15546533M
+      - title: "WorldCat record (OCLC 52086074)"
+        url: https://search.worldcat.org/title/52086074
+      - title: "Library of Congress record (LCCN 2003049841)"
+        url: https://lccn.loc.gov/2003049841
   - title: Foundations of Human Sociality
     year: 2004
     publisher: Oxford University Press
+    verified: true
     sources:
-      - title: Open Library edition OL40413221M
-        url: https://openlibrary.org/books/OL40413221M
+      - title: "Open Library edition OL3358022M"
+        url: https://openlibrary.org/books/OL3358022M
+      - title: "WorldCat record (OCLC 54991326)"
+        url: https://search.worldcat.org/title/54991326
+      - title: "Library of Congress record (LCCN 2004401813)"
+        url: https://lccn.loc.gov/2004401813
   - title: Unequal Chances
     year: 2005
     publisher: Princeton University Press
     place: Princeton, NJ
+    verified: true
     sources:
-      - title: Open Library edition OL3306179M
+      - title: "Open Library edition OL3306179M"
         url: https://openlibrary.org/books/OL3306179M
+      - title: "WorldCat record (OCLC 55286364)"
+        url: https://search.worldcat.org/title/55286364
+      - title: "Library of Congress record (LCCN 2004050521)"
+        url: https://lccn.loc.gov/2004050521
   - title: Globalization and Egalitarian Redistribution
     year: 2006
     publisher: Princeton University Press
     place: Princeton, NJ
+    verified: true
     sources:
-      - title: Open Library edition OL22725216M
+      - title: "Open Library edition OL22725216M"
         url: https://openlibrary.org/books/OL22725216M
+      - title: "Open Library edition OL3426213M"
+        url: https://openlibrary.org/books/OL3426213M
+      - title: "WorldCat record (OCLC 60664438)"
+        url: https://search.worldcat.org/title/60664438
+      - title: "Library of Congress record (LCCN 2005049940)"
+        url: https://lccn.loc.gov/2005049940
   - title: Moral Sentiments and Material Interests
     year: 2006
     publisher: MIT Press
+    verified: true
     sources:
-      - title: Open Library edition OL29755121M
-        url: https://openlibrary.org/books/OL29755121M
+      - title: "Open Library edition OL9325984M"
+        url: https://openlibrary.org/books/OL9325984M
+      - title: "WorldCat record (OCLC 70987892)"
+        url: https://search.worldcat.org/title/70987892
   - title: Poverty Traps
     year: 2006
     publisher: Russell Sage Foundation
     place: New York, NY
+    verified: true
     sources:
-      - title: Open Library edition OL22724110M
+      - title: "Open Library edition OL22724110M"
         url: https://openlibrary.org/books/OL22724110M
+      - title: "Open Library edition OL3427009M"
+        url: https://openlibrary.org/books/OL3427009M
+      - title: "WorldCat record (OCLC 60796302)"
+        url: https://search.worldcat.org/title/60796302
+      - title: "Library of Congress record (LCCN 2005051066)"
+        url: https://lccn.loc.gov/2005051066
   - title: Inequality, Cooperation, and Environmental Sustainability
     year: 2006
     publisher: Princeton University Press
+    verified: true
     sources:
-      - title: Open Library edition OL7759326M
+      - title: "Open Library edition OL7759326M"
         url: https://openlibrary.org/books/OL7759326M
+      - title: "WorldCat record (OCLC 67346328)"
+        url: https://search.worldcat.org/title/67346328
+      - title: "Library of Congress record (LCCN 2006044988)"
+        url: https://lccn.loc.gov/2006044988
   - title: A Cooperative Species
     year: 2011
     publisher: Princeton University Press
     place: Princeton
+    verified: true
     sources:
-      - title: Open Library edition OL25391617M
+      - title: "Open Library edition OL25391617M"
         url: https://openlibrary.org/books/OL25391617M
+      - title: "WorldCat record (OCLC 681536381)"
+        url: https://search.worldcat.org/title/681536381
+      - title: "Library of Congress record (LCCN 2010046861)"
+        url: https://lccn.loc.gov/2010046861
   - title: New Economics of Inequality and Redistribution
     year: 2012
     publisher: Cambridge University Press
@@ -256,13 +355,12 @@ works:
     language: English
     publisher: Yale University Press
     place: New Haven
+    verified: true
     sources:
-      - title: BnF catalogue record cb45106941v
-        url: https://catalogue.bnf.fr/ark:/12148/cb45106941v
-      - title: SUDOC record 195243692
-        url: https://www.sudoc.fr/195243692
-      - title: swisscovery record 991036751079705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991036751079705501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL26889466M"
+        url: https://openlibrary.org/books/OL26889466M
+      - title: "WorldCat record (OCLC 930798081)"
+        url: https://search.worldcat.org/title/930798081
   - title: >-
       Later Papers: Supplement to the Experiences of Samuel Bowles, Late Editor of the
       Springfield Republican

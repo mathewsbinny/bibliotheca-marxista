@@ -13,46 +13,74 @@ works:
     year: 1970
     publisher: Dār al-ʻAwdah
     place: Beirut
+    verified: true
     sources:
-      - title: Open Library edition OL61698136M
+      - title: "Open Library edition OL61698136M"
         url: https://openlibrary.org/books/OL61698136M
+      - title: "WorldCat record (OCLC 5804525)"
+        url: https://search.worldcat.org/title/5804525
   - title: Madīnat al-ghad
     year: 1974
     publisher: Dār al-ʻAwdah
     place: Bayrūt
+    verified: true
     sources:
-      - title: Open Library edition OL61608707M
+      - title: "Open Library edition OL61608707M"
         url: https://openlibrary.org/books/OL61608707M
+      - title: "WorldCat record (OCLC 23484942)"
+        url: https://search.worldcat.org/title/23484942
   - title: Al-Safar ilá al-ayyām al-khuḍr
     year: 1975
     publisher: Maṭbaʻat al-ʻAlam
     place: Dimashq
+    verified: true
     sources:
-      - title: Open Library edition OL52589525M
+      - title: "Open Library edition OL52589525M"
         url: https://openlibrary.org/books/OL52589525M
+      - title: "WorldCat record (OCLC 13894011)"
+        url: https://search.worldcat.org/title/13894011
+      - title: "Library of Congress record (LCCN 76960648)"
+        url: https://lccn.loc.gov/76960648
   - title: Riḥlah fī al-shiʻr al-Yamanī
     subtitle: Qadīmuhu wa-ḥadīthuh
     year: 1977
     language: Arabic
     publisher: Dār al-'ilm lil-Ṭibāʻah wa al-Nacher
     place: Dimashq
+    verified: true
     sources:
-      - title: SUDOC record 227264355
-        url: https://www.sudoc.fr/227264355
+      - title: "Open Library edition OL52801239M"
+        url: https://openlibrary.org/books/OL52801239M
+      - title: "WorldCat record (OCLC 60601373)"
+        url: https://search.worldcat.org/title/60601373
+      - title: "Open Library edition OL4252788M"
+        url: https://openlibrary.org/books/OL4252788M
+      - title: "Library of Congress record (LCCN 80960022)"
+        url: https://lccn.loc.gov/80960022
   - title: Dīwān ʻAbd Allāh al-Baraddūnī
     year: 1979
     publisher: Dār al-ʻAwdah
     place: Bayrūt
+    verified: true
     sources:
-      - title: Open Library edition OL43294709M
+      - title: "Open Library edition OL43294709M"
         url: https://openlibrary.org/books/OL43294709M
+      - title: "WorldCat record (OCLC 16089517)"
+        url: https://search.worldcat.org/title/16089517
+      - title: "Open Library edition OL18971259M"
+        url: https://openlibrary.org/books/OL18971259M
+      - title: "Open Library edition OL2310069M"
+        url: https://openlibrary.org/books/OL2310069M
   - title: Kāʾināt al-shawq al-ākhar
     year: 1986
     publisher: ʻA.A. al-Baraddūnī
     place: Damascus?
+    verified: true
     sources:
-      - title: Open Library edition OL57984543M
+      - title: "Open Library edition OL57984543M"
         url: https://openlibrary.org/books/OL57984543M
+      - title: "WorldCat record (OCLC 20789269)"
+        url: https://search.worldcat.org/title/20789269
   - title: Al- Thaqāfah wa-al-thawrah fī al-Yaman
     year: 1991
     publisher: '[no publisher recorded]'

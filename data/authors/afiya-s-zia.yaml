@@ -13,21 +13,32 @@ works:
     language: English
     publisher: ASR
     place: Lahore, Pakistan
+    verified: true
     sources:
-      - title: SUDOC record 045917353
-        url: https://www.sudoc.fr/045917353
+      - title: "Open Library edition OL6888154M"
+        url: https://openlibrary.org/books/OL6888154M
+      - title: "Library of Congress record (LCCN 00507323)"
+        url: https://lccn.loc.gov/00507323
   - title: A Policy Framework for Women's Equal Rights
     subtitle: Issues, Concerns and Recommendations for Gendered Policy
     year: 2011
     language: English
     publisher: National Commission on the Status of Women
     place: Islamabad
+    verified: true
     sources:
-      - title: Library of Congress record 2013344368
+      - title: "Open Library edition OL31253119M"
+        url: https://openlibrary.org/books/OL31253119M
+      - title: "Library of Congress record (LCCN 2013344368)"
         url: https://lccn.loc.gov/2013344368
   - title: Faith and Feminism in Pakistan
     year: 2017
     publisher: Sussex Academic Press
+    verified: true
     sources:
-      - title: Open Library edition OL34637704M
+      - title: "Open Library edition OL34637704M"
         url: https://openlibrary.org/books/OL34637704M
+      - title: "WorldCat record (OCLC 1004252295)"
+        url: https://search.worldcat.org/title/1004252295
+      - title: "Library of Congress record (LCCN 2017043011)"
+        url: https://lccn.loc.gov/2017043011

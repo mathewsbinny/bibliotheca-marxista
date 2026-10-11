@@ -16,6 +16,11 @@ works:
     year: 1969
     publisher: Macmillan
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL5725222M
-        url: https://openlibrary.org/books/OL5725222M
+      - title: "Open Library edition OL10493509M"
+        url: https://openlibrary.org/books/OL10493509M
+      - title: "WorldCat record (OCLC 60784)"
+        url: https://search.worldcat.org/title/60784
+      - title: "Library of Congress record (LCCN 70455130)"
+        url: https://lccn.loc.gov/70455130

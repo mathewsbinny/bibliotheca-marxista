@@ -12,21 +12,27 @@ works:
     language: Polish
     publisher: Wiedza Powszechna
     place: Warszawa
+    verified: true
     sources:
-      - title: SUDOC record 167379275
-        url: https://www.sudoc.fr/167379275
-      - title: National Library of Poland record 991047210879705066
-        url: https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991047210879705066&vid=48OMNIS_NLOP:48OMNIS_NLOP
-      - title: CiNii Books record BD13120099
-        url: https://ci.nii.ac.jp/ncid/BD13120099
+      - title: "Open Library edition OL40254889M"
+        url: https://openlibrary.org/books/OL40254889M
+      - title: "Open Library edition OL22772306M"
+        url: https://openlibrary.org/books/OL22772306M
   - title: Chłopi polscy w walce z najazdem szwedzkim
     subtitle: 1655-1656
     year: 1958
     publisher: Państwowe Wydawn. Naukowe
     place: Warszawa
+    verified: true
     sources:
-      - title: Open Library edition OL52963117M
+      - title: "Open Library edition OL52963117M"
         url: https://openlibrary.org/books/OL52963117M
+      - title: "WorldCat record (OCLC 18043056)"
+        url: https://search.worldcat.org/title/18043056
+      - title: "Open Library edition OL40254981M"
+        url: https://openlibrary.org/books/OL40254981M
+      - title: "Open Library edition OL18146488M"
+        url: https://openlibrary.org/books/OL18146488M
   - title: Sienkiewicz-"Potop"-Historia
     year: 1966
     language: Polish
@@ -44,25 +50,29 @@ works:
     language: Polish
     publisher: Wydawnitwo Ministerstwa obrony narodowej
     place: Warszawa
+    verified: true
     sources:
-      - title: SUDOC record 111137942
-        url: https://www.sudoc.fr/111137942
-      - title: swisscovery record 991125900849705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991125900849705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: National Library of Poland record 991037326419705066
-        url: https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991037326419705066&vid=48OMNIS_NLOP:48OMNIS_NLOP
+      - title: "Open Library edition OL17038663M"
+        url: https://openlibrary.org/books/OL17038663M
+      - title: "Open Library edition OL5558707M"
+        url: https://openlibrary.org/books/OL5558707M
+      - title: "WorldCat record (OCLC 8520667)"
+        url: https://search.worldcat.org/title/8520667
+      - title: "Library of Congress record (LCCN 67054094)"
+        url: https://lccn.loc.gov/67054094
   - title: Na tropach Napierskiego
     subtitle: W kręgu mitów i faktów
     year: 1970
     language: Polish
     publisher: Państwowy Instytut Wydawniczy
     place: Warszawa
+    verified: true
     sources:
-      - title: SUDOC record 155622854
-        url: https://www.sudoc.fr/155622854
-      - title: National Library of Poland record 991035134559705066
-        url: https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991035134559705066&vid=48OMNIS_NLOP:48OMNIS_NLOP
-      - title: Library of Congress record 72202626
+      - title: "Open Library edition OL5344776M"
+        url: https://openlibrary.org/books/OL5344776M
+      - title: "WorldCat record (OCLC 1025611)"
+        url: https://search.worldcat.org/title/1025611
+      - title: "Library of Congress record (LCCN 72202626)"
         url: https://lccn.loc.gov/72202626
   - title: Warszawa kazimierzowska 1648 - 1668
     subtitle: Miasto - Ludzie - Polityka
@@ -82,13 +92,16 @@ works:
     language: Polish
     publisher: Państwowe Zakłady Wydawnictw Szkolnych
     place: Warszawa
+    verified: true
     sources:
-      - title: SUDOC record 167341480
-        url: https://www.sudoc.fr/167341480
-      - title: National Library of Poland record 991038460309705066
-        url: https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991038460309705066&vid=48OMNIS_NLOP:48OMNIS_NLOP
-      - title: Library of Congress record 72210711
+      - title: "Open Library edition OL30543346M"
+        url: https://openlibrary.org/books/OL30543346M
+      - title: "WorldCat record (OCLC 10436716)"
+        url: https://search.worldcat.org/title/10436716
+      - title: "Library of Congress record (LCCN 72210711)"
         url: https://lccn.loc.gov/72210711
+      - title: "Open Library edition OL18108238M"
+        url: https://openlibrary.org/books/OL18108238M
   - title: Historia Szwecji
     year: 1973
     language: Polish
@@ -106,10 +119,7 @@ works:
     language: Polish
     publisher: Państwowe Wydawn. Naukowe
     place: Warszawa
+    verified: true
     sources:
-      - title: SUDOC record 163945802
-        url: https://www.sudoc.fr/163945802
-      - title: National Library of Poland record 991022726489705066
-        url: https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991022726489705066&vid=48OMNIS_NLOP:48OMNIS_NLOP
-      - title: CiNii Books record BD18081438
-        url: https://ci.nii.ac.jp/ncid/BD18081438
+      - title: "Open Library edition OL17213532M"
+        url: https://openlibrary.org/books/OL17213532M

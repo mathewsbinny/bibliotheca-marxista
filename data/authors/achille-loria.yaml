@@ -12,13 +12,14 @@ works:
     language: Italian
     publisher: Bocca
     place: Torino
+    verified: true
     sources:
-      - title: BnF catalogue record cb377475651
-        url: https://catalogue.bnf.fr/ark:/12148/cb377475651
-      - title: SUDOC record 049184393
-        url: https://www.sudoc.fr/049184393
-      - title: swisscovery record 991052700619705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991052700619705501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL249749M"
+        url: https://openlibrary.org/books/OL249749M
+      - title: "WorldCat record (OCLC 13457602)"
+        url: https://search.worldcat.org/title/13457602
+      - title: "Library of Congress record (LCCN g01000576)"
+        url: https://lccn.loc.gov/g01000576
   - title: Les bases économiques de la constitution sociale
     year: 1893
     language: French
@@ -48,20 +49,26 @@ works:
     language: French
     publisher: V. Giard & E. Brière
     place: Paris
+    verified: true
     sources:
-      - title: BnF catalogue record cb323544786
-        url: https://catalogue.bnf.fr/ark:/12148/cb323544786
-      - title: SUDOC record 049183648
-        url: https://www.sudoc.fr/049183648
-      - title: swisscovery record 991030723849705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991030723849705501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL23451248M"
+        url: https://openlibrary.org/books/OL23451248M
+      - title: "WorldCat record (OCLC 12648013)"
+        url: https://search.worldcat.org/title/12648013
   - title: The Economic Foundations of Society
     year: 1899
     publisher: S. Sonnenschein and Co., Lim
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL61951086M
-        url: https://openlibrary.org/books/OL61951086M
+      - title: "Open Library edition OL13540442M"
+        url: https://openlibrary.org/books/OL13540442M
+      - title: "WorldCat record (OCLC 616348)"
+        url: https://search.worldcat.org/title/616348
+      - title: "Library of Congress record (LCCN 08031542)"
+        url: https://lccn.loc.gov/08031542
+      - title: "Open Library edition OL13916836M"
+        url: https://openlibrary.org/books/OL13916836M
   - title: Verso la giustizia sociale
     subtitle: Idée, battaglie ed apostoli
     year: 1904
@@ -80,58 +87,72 @@ works:
     language: Italian
     publisher: Fratelli Bocca
     place: Torino
+    verified: true
     sources:
-      - title: BnF catalogue record cb308335501
-        url: https://catalogue.bnf.fr/ark:/12148/cb308335501
-      - title: SUDOC record 111095549
-        url: https://www.sudoc.fr/111095549
-      - title: swisscovery record 991117937499705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991117937499705501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL175606M"
+        url: https://openlibrary.org/books/OL175606M
+      - title: "WorldCat record (OCLC 20441904)"
+        url: https://search.worldcat.org/title/20441904
+      - title: "Library of Congress record (LCCN a10000957)"
+        url: https://lccn.loc.gov/a10000957
   - title: La synthèse économique
     subtitle: Étude sur les lois du revenu
     year: 1911
     language: French
     publisher: M. Giard et E. Brière
     place: Paris
+    verified: true
     sources:
-      - title: BnF catalogue record cb30833561p
-        url: https://catalogue.bnf.fr/ark:/12148/cb30833561p
-      - title: SUDOC record 020462263
-        url: https://www.sudoc.fr/020462263
-      - title: swisscovery record 991135564129705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991135564129705501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL6547307M"
+        url: https://openlibrary.org/books/OL6547307M
+      - title: "WorldCat record (OCLC 16838153)"
+        url: https://search.worldcat.org/title/16838153
+      - title: "Library of Congress record (LCCN 12023249)"
+        url: https://lccn.loc.gov/12023249
   - title: Contemporary Social Problems
     subtitle: A Course Delivered at the University of Padua
     year: 1911
     publisher: Swan
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL7174822M
+      - title: "Open Library edition OL39804587M"
+        url: https://openlibrary.org/books/OL39804587M
+      - title: "Open Library edition OL7174822M"
         url: https://openlibrary.org/books/OL7174822M
+      - title: "Open Library edition OL22280092M"
+        url: https://openlibrary.org/books/OL22280092M
   - title: The Economic Synthesis
     subtitle: A Study of the Laws of Income
     year: 1913
     publisher: Allen
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL7039392M
+      - title: "Open Library edition OL7039392M"
         url: https://openlibrary.org/books/OL7039392M
   - title: Corso di economia politica
     year: 1919
     language: Italian
     publisher: Bocca
     place: Torino [etc
+    verified: true
     sources:
-      - title: swisscovery record 991071677409705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991071677409705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: CiNii Books record BA76121232
-        url: https://ci.nii.ac.jp/ncid/BA76121232
-      - title: SUDOC record 125648154
-        url: https://www.sudoc.fr/125648154
+      - title: "Open Library edition OL62190857M"
+        url: https://openlibrary.org/books/OL62190857M
+      - title: "WorldCat record (OCLC 237214706)"
+        url: https://search.worldcat.org/title/237214706
   - title: Karl Marx
     year: 1920
     publisher: Thomas Seltzer
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL61871436M
-        url: https://openlibrary.org/books/OL61871436M
+      - title: "Open Library edition OL17729608M"
+        url: https://openlibrary.org/books/OL17729608M
+      - title: "WorldCat record (OCLC 785253)"
+        url: https://search.worldcat.org/title/785253
+      - title: "Library of Congress record (LCCN 21000881)"
+        url: https://lccn.loc.gov/21000881
+      - title: "Open Library edition OL7071222M"
+        url: https://openlibrary.org/books/OL7071222M

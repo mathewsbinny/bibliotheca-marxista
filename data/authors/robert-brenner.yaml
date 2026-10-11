@@ -24,22 +24,26 @@ works:
     language: German
     publisher: Boje-Verlag
     place: Stuttgart
+    verified: true
     sources:
-      - title: German National Library record 456186883
-        url: https://d-nb.info/456186883
-      - title: swisscovery record 991148043559705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991148043559705501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL57475969M"
+        url: https://openlibrary.org/books/OL57475969M
+      - title: "WorldCat record (OCLC 776814972)"
+        url: https://search.worldcat.org/title/776814972
   - title: So Leben wir morgen
     subtitle: Der Roman unserer Zukunft
     year: 1972
     language: German
     publisher: Bertelsmann
     place: München, Gütersloh, Wien
+    verified: true
     sources:
-      - title: German National Library record 730459667
-        url: https://d-nb.info/730459667
-      - title: swisscovery record 991155499199705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991155499199705501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL5358661M"
+        url: https://openlibrary.org/books/OL5358661M
+      - title: "WorldCat record (OCLC 4610087)"
+        url: https://search.worldcat.org/title/4610087
+      - title: "Library of Congress record (LCCN 72318735)"
+        url: https://lccn.loc.gov/72318735
   - title: Der schwarze Planet
     year: 1972
     language: German
@@ -75,40 +79,46 @@ works:
     language: German
     publisher: Free Press
     place: New York
+    verified: true
     sources:
-      - title: German National Library record 955758912
-        url: https://d-nb.info/955758912
-      - title: SUDOC record 294346066
-        url: https://www.sudoc.fr/294346066
-      - title: CiNii Books record BA28400177
-        url: https://ci.nii.ac.jp/ncid/BA28400177
+      - title: "Open Library edition OL4404377M"
+        url: https://openlibrary.org/books/OL4404377M
+      - title: "WorldCat record (OCLC 5941005)"
+        url: https://search.worldcat.org/title/5941005
+      - title: "Library of Congress record (LCCN 79006764)"
+        url: https://lccn.loc.gov/79006764
   - title: Petroleum Stratigraphy
     subtitle: A Guide for Nongeologists
     year: 1984
     language: English
     publisher: International human resources development
     place: Boston
+    verified: true
     sources:
-      - title: BnF catalogue record cb37378073f
-        url: https://catalogue.bnf.fr/ark:/12148/cb37378073f
-      - title: SUDOC record 025212478
-        url: https://www.sudoc.fr/025212478
-      - title: swisscovery record 991157312509705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991157312509705501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL3168640M"
+        url: https://openlibrary.org/books/OL3168640M
+      - title: "WorldCat record (OCLC 9575333)"
+        url: https://search.worldcat.org/title/9575333
+      - title: "Library of Congress record (LCCN 83010716)"
+        url: https://lccn.loc.gov/83010716
   - title: Sams IBM PC Troubleshooting and Repair Guide
     year: 1985
     publisher: BPB Pubns
     place: New Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL15310525M
+      - title: "Open Library edition OL15310525M"
         url: https://openlibrary.org/books/OL15310525M
   - title: VCR Troubleshooting & Repair Guide
     year: 1987
     publisher: H.W. Sams
     place: Indianapolis, IN, USA
+    verified: true
     sources:
-      - title: Open Library edition OL2744854M
+      - title: "Open Library edition OL2744854M"
         url: https://openlibrary.org/books/OL2744854M
+      - title: "Library of Congress record (LCCN 86063297)"
+        url: https://lccn.loc.gov/86063297
   - title: 1990 Index of Desktop Publishing
     year: 1990
     publisher: Brenner Information Group
@@ -118,26 +128,37 @@ works:
   - title: Modems Made Easy
     year: 1991
     publisher: Brenner Information Group
+    verified: true
     sources:
-      - title: Open Library edition OL11471693M
+      - title: "Open Library edition OL11471693M"
         url: https://openlibrary.org/books/OL11471693M
+      - title: "WorldCat record (OCLC 25679550)"
+        url: https://search.worldcat.org/title/25679550
   - title: Pricing Guide for Desktop Publishing Services
     year: 1991
     publisher: Brenner Information Group
     place: San Diego, CA
+    verified: true
     sources:
-      - title: Open Library edition OL1769621M
+      - title: "Open Library edition OL1769621M"
         url: https://openlibrary.org/books/OL1769621M
+      - title: "WorldCat record (OCLC 25832245)"
+        url: https://search.worldcat.org/title/25832245
+      - title: "Library of Congress record (LCCN 92121706)"
+        url: https://lccn.loc.gov/92121706
   - title: In Vitro Fertilization and Embryo Transfer in Primates
     year: 1993
     language: English
     publisher: Springer New York
     place: New York, NY
+    verified: true
     sources:
-      - title: swisscovery record 991160833819705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991160833819705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: CiNii Books record BA2358455X
-        url: https://ci.nii.ac.jp/ncid/BA2358455X
+      - title: "Open Library edition OL1418271M"
+        url: https://openlibrary.org/books/OL1418271M
+      - title: "WorldCat record (OCLC 28424170)"
+        url: https://search.worldcat.org/title/28424170
+      - title: "Library of Congress record (LCCN 93028106)"
+        url: https://lccn.loc.gov/93028106
   - title: Desktop Production Standards
     year: 1996
     publisher: Brenner Information Group
@@ -171,9 +192,12 @@ works:
   - title: How to Price Graphic Design and Desk Top Services
     year: 2000
     publisher: Brenner Information Group
+    verified: true
     sources:
-      - title: Open Library edition OL12301699M
+      - title: "Open Library edition OL12301699M"
         url: https://openlibrary.org/books/OL12301699M
+      - title: "WorldCat record (OCLC 46873371)"
+        url: https://search.worldcat.org/title/46873371
   - title: Special Report
     year: 2007
     publisher: Brenner Information Group
@@ -186,13 +210,12 @@ works:
     language: German
     publisher: VSA-Verlag
     place: Hamburg
+    verified: true
     sources:
-      - title: German National Library record 992301874
-        url: https://d-nb.info/992301874
-      - title: swisscovery record 991039953059705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991039953059705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: CiNii Books record BB12629868
-        url: https://ci.nii.ac.jp/ncid/BB12629868
+      - title: "Open Library edition OL45179966M"
+        url: https://openlibrary.org/books/OL45179966M
+      - title: "WorldCat record (OCLC 436028646)"
+        url: https://search.worldcat.org/title/436028646
   - title: Aux origines du capitalisme
     subtitle: Robert Brenner et le marxisme politique
     year: 2023

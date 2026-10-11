@@ -11,35 +11,60 @@ works:
     year: 1948
     publisher: Oxford University Press
     place: Bombay
+    verified: true
     sources:
-      - title: Open Library edition OL14901408M
+      - title: "Open Library edition OL6049392M"
+        url: https://openlibrary.org/books/OL6049392M
+      - title: "WorldCat record (OCLC 3806845)"
+        url: https://search.worldcat.org/title/3806845
+      - title: "Library of Congress record (LCCN 49009343)"
+        url: https://lccn.loc.gov/49009343
+      - title: "Open Library edition OL14901408M"
         url: https://openlibrary.org/books/OL14901408M
   - title: Introduction to Rural Sociology in India ....
     year: 1953
     publisher: Indian Society of Agricultural Economics
     place: Bombay
+    verified: true
     sources:
-      - title: Open Library edition OL16562817M
-        url: https://openlibrary.org/books/OL16562817M
+      - title: "Open Library edition OL6195732M"
+        url: https://openlibrary.org/books/OL6195732M
+      - title: "WorldCat record (OCLC 2476911)"
+        url: https://search.worldcat.org/title/2476911
+      - title: "Library of Congress record (LCCN 56003108)"
+        url: https://lccn.loc.gov/56003108
+      - title: "Open Library edition OL642727M"
+        url: https://openlibrary.org/books/OL642727M
   - title: A Profile of an Indian Slum
     year: 1972
     publisher: University of Bombay
     place: Bombay
+    verified: true
     sources:
-      - title: Open Library edition OL13915454M
-        url: https://openlibrary.org/books/OL13915454M
+      - title: "Open Library edition OL48602241M"
+        url: https://openlibrary.org/books/OL48602241M
+      - title: "Open Library edition OL5033687M"
+        url: https://openlibrary.org/books/OL5033687M
+      - title: "WorldCat record (OCLC 810925)"
+        url: https://search.worldcat.org/title/810925
+      - title: "Library of Congress record (LCCN 73904072)"
+        url: https://lccn.loc.gov/73904072
   - title: Rural Sociology in India
     year: 1978
     publisher: South Asia Books
+    verified: true
     sources:
-      - title: Open Library edition OL11663620M
+      - title: "Open Library edition OL11663620M"
         url: https://openlibrary.org/books/OL11663620M
+      - title: "WorldCat record (OCLC 6033744)"
+        url: https://search.worldcat.org/title/6033744
   - title: Peasant Struggles in India
     year: 1979
     publisher: OUP
     place: Oxford
+    verified: true
     sources:
-      - title: Open Library edition OL19364592M
+      - title: "Open Library edition OL19364592M"
         url: https://openlibrary.org/books/OL19364592M
   - title: Modern Godmen in India
     year: 1993

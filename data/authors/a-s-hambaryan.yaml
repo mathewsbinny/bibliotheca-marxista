@@ -32,8 +32,15 @@ works:
     language: Armenian
     publisher: Haykakan SSH GA Hratarakchʻutʻyun
     place: Erevan
+    verified: true
     sources:
-      - title: Library of Congress record 2003345530
+      - title: "Open Library edition OL58078437M"
+        url: https://openlibrary.org/books/OL58078437M
+      - title: "WorldCat record (OCLC 24443022)"
+        url: https://search.worldcat.org/title/24443022
+      - title: "Open Library edition OL3724181M"
+        url: https://openlibrary.org/books/OL3724181M
+      - title: "Library of Congress record (LCCN 2003345530)"
         url: https://lccn.loc.gov/2003345530
   - title: Aytsʿelutʿyun i hayastan 1878 tʿ
     year: 1985
@@ -46,8 +53,13 @@ works:
     language: Armenian
     publisher: '"Hayastan"'
     place: Erevan
+    verified: true
     sources:
-      - title: Library of Congress record 89163897
+      - title: "Open Library edition OL2274395M"
+        url: https://openlibrary.org/books/OL2274395M
+      - title: "WorldCat record (OCLC 21152678)"
+        url: https://search.worldcat.org/title/21152678
+      - title: "Library of Congress record (LCCN 89163897)"
         url: https://lccn.loc.gov/89163897
   - title: >-
       Hay hasarakakan kʻaghakʻakan mitkʻě arevmtahayutʻyan azatagrutʻyan ughineri masin, XIX
@@ -56,22 +68,35 @@ works:
     language: Armenian
     publisher: '"Hayastan"'
     place: Erevan
+    verified: true
     sources:
-      - title: Library of Congress record 99476356
-        url: https://lccn.loc.gov/99476356
+      - title: "Open Library edition OL53027992M"
+        url: https://openlibrary.org/books/OL53027992M
+      - title: "WorldCat record (OCLC 294763520)"
+        url: https://search.worldcat.org/title/294763520
   - title: Arevelyan Hayastaně 1916-1917 tʻtʻ. mardahamarnerum
     year: 1992
     language: Armenian
     publisher: Hayastani GA Hratarakchʻutʻyun
     place: Erevan
+    verified: true
     sources:
-      - title: Library of Congress record 94958744
+      - title: "Open Library edition OL1264431M"
+        url: https://openlibrary.org/books/OL1264431M
+      - title: "WorldCat record (OCLC 37843543)"
+        url: https://search.worldcat.org/title/37843543
+      - title: "Library of Congress record (LCCN 94958744)"
         url: https://lccn.loc.gov/94958744
   - title: Azatagrakan sharzhumnerě Arevmtyan Hayastanum, 1898-1908 tʻtʻ
     year: 1999
     language: Armenian
     publisher: HH GAA "Gitutʻyun" Hratarakchʻutʻyun
     place: Erevan
+    verified: true
     sources:
-      - title: Library of Congress record 00291633
+      - title: "Open Library edition OL6817233M"
+        url: https://openlibrary.org/books/OL6817233M
+      - title: "WorldCat record (OCLC 43661049)"
+        url: https://search.worldcat.org/title/43661049
+      - title: "Library of Congress record (LCCN 00291633)"
         url: https://lccn.loc.gov/00291633

@@ -16,24 +16,37 @@ works:
     year: 1961
     publisher: Centre d'étude de planification socialiste
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL59806860M
+      - title: "Open Library edition OL59806860M"
         url: https://openlibrary.org/books/OL59806860M
+      - title: "WorldCat record (OCLC 26266981)"
+        url: https://search.worldcat.org/title/26266981
   - title: Le De?veloppement du capitalisme en Co?te d'Ivoire
     year: 1967
     publisher: Les Éditions de Minuit
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL17403003M
-        url: https://openlibrary.org/books/OL17403003M
+      - title: "Open Library edition OL14600834M"
+        url: https://openlibrary.org/books/OL14600834M
+      - title: "Open Library edition OL14071479M"
+        url: https://openlibrary.org/books/OL14071479M
+      - title: "WorldCat record (OCLC 219873433)"
+        url: https://search.worldcat.org/title/219873433
+      - title: "Library of Congress record (LCCN 68072176)"
+        url: https://lccn.loc.gov/68072176
   - title: Histoire économique du Congo 1880-1968
     subtitle: du Congo Français à l'Union Douanière et Economique d'Afrique Centrale
     year: 1969
     publisher: Editions anthropos
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL19631908M
+      - title: "Open Library edition OL19631908M"
         url: https://openlibrary.org/books/OL19631908M
+      - title: "Open Library edition OL20700067M"
+        url: https://openlibrary.org/books/OL20700067M
   - title: L'accumulation à l'échelle mondiale
     year: 1970
     publisher: Anthropos
@@ -41,11 +54,11 @@ works:
     notes: Accumulation on a World Scale.
     verified: true
     sources:
-      - title: Open Library edition OL16398459M
+      - title: "Open Library edition OL16398459M"
         url: https://openlibrary.org/books/OL16398459M
-      - title: Open Library edition OL61626060M
+      - title: "Open Library edition OL61626060M"
         url: https://openlibrary.org/books/OL61626060M
-      - title: WorldCat record (OCLC 4046101)
+      - title: "WorldCat record (OCLC 4046101)"
         url: https://search.worldcat.org/title/4046101
   - title: L'Accumulation ýý l'ýýchelle mondiale:critique de la theorie du sous developpement
     year: 1970
@@ -58,16 +71,30 @@ works:
     year: 1971
     publisher: Éditions de Minuit
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL33009655M
+      - title: "Open Library edition OL33009655M"
         url: https://openlibrary.org/books/OL33009655M
+      - title: "Open Library edition OL26576814M"
+        url: https://openlibrary.org/books/OL26576814M
+      - title: "Open Library edition OL18231130M"
+        url: https://openlibrary.org/books/OL18231130M
+      - title: "Open Library edition OL52799238M"
+        url: https://openlibrary.org/books/OL52799238M
   - title: Neo-colonialism in West Africa
     year: 1973
     publisher: Monthly Review Press
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL21174130M
+      - title: "Open Library edition OL21174130M"
         url: https://openlibrary.org/books/OL21174130M
+      - title: "Open Library edition OL19704262M"
+        url: https://openlibrary.org/books/OL19704262M
+      - title: "Open Library edition OL18944680M"
+        url: https://openlibrary.org/books/OL18944680M
+      - title: "Open Library edition OL21129891M"
+        url: https://openlibrary.org/books/OL21129891M
   - title: Accumulation on a World Scale
     year: 1974
     publisher: Monthly Review Press
@@ -76,17 +103,22 @@ works:
     notes: First English edition.
     verified: true
     sources:
-      - title: Open Library edition OL5308463M
+      - title: "Open Library edition OL5308463M"
         url: https://openlibrary.org/books/OL5308463M
-      - title: Library of Congress record (LCCN 72092028)
+      - title: "Library of Congress record (LCCN 72092028)"
         url: https://lccn.loc.gov/72092028
   - title: Domination et sous-développement
     year: 1974
     publisher: Presses universitaires de Montréal
     place: Montréal
+    verified: true
     sources:
-      - title: Open Library edition OL4785078M
+      - title: "Open Library edition OL4785078M"
         url: https://openlibrary.org/books/OL4785078M
+      - title: "WorldCat record (OCLC 1505902)"
+        url: https://search.worldcat.org/title/1505902
+      - title: "Library of Congress record (LCCN 75505819)"
+        url: https://lccn.loc.gov/75505819
   - title: Sobre El Desarrollo Desigual De Las Formaciones Sociales
     year: 1974
     publisher: Anagrama
@@ -97,16 +129,26 @@ works:
     year: 1975
     publisher: Éditions de Minuit
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL4787767M
+      - title: "Open Library edition OL4787767M"
         url: https://openlibrary.org/books/OL4787767M
+      - title: "WorldCat record (OCLC 2017072)"
+        url: https://search.worldcat.org/title/2017072
+      - title: "Library of Congress record (LCCN 75508593)"
+        url: https://lccn.loc.gov/75508593
   - title: L'Agriculture africaine et le capitalisme
     year: 1975
     publisher: Éditions Anthropos-Idep
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL4795348M
+      - title: "Open Library edition OL4795348M"
         url: https://openlibrary.org/books/OL4795348M
+      - title: "WorldCat record (OCLC 2121149)"
+        url: https://search.worldcat.org/title/2121149
+      - title: "Library of Congress record (LCCN 75516386)"
+        url: https://lccn.loc.gov/75516386
   - title: Unequal Development
     year: 1976
     publisher: Monthly Review Press
@@ -115,11 +157,11 @@ works:
     notes: An Essay on the Social Formations of Peripheral Capitalism.
     verified: true
     sources:
-      - title: Open Library edition OL5193911M
+      - title: "Open Library edition OL5193911M"
         url: https://openlibrary.org/books/OL5193911M
-      - title: WorldCat record (OCLC 2371819)
+      - title: "WorldCat record (OCLC 2371819)"
         url: https://search.worldcat.org/title/2371819
-      - title: Library of Congress record (LCCN 75015364)
+      - title: "Library of Congress record (LCCN 75015364)"
         url: https://lccn.loc.gov/75015364
   - title: Impérialisme Et le Développement Inégal
     year: 1977
@@ -132,63 +174,98 @@ works:
     year: 1977
     publisher: Larousse
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL4684522M
+      - title: "Open Library edition OL4684522M"
         url: https://openlibrary.org/books/OL4684522M
+      - title: "WorldCat record (OCLC 3848855)"
+        url: https://search.worldcat.org/title/3848855
+      - title: "Library of Congress record (LCCN 77576113)"
+        url: https://lccn.loc.gov/77576113
   - title: The Law of Value and Historical Materialism
     year: 1978
     publisher: Monthly Review Press
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL4727338M
+      - title: "Open Library edition OL4727338M"
         url: https://openlibrary.org/books/OL4727338M
+      - title: "WorldCat record (OCLC 4135200)"
+        url: https://search.worldcat.org/title/4135200
+      - title: "Library of Congress record (LCCN 78015210)"
+        url: https://lccn.loc.gov/78015210
   - title: L'accumulation dépendante
     year: 1978
     publisher: Éditions Anthropos
+    verified: true
     sources:
-      - title: Open Library edition OL43707661M
+      - title: "Open Library edition OL43707661M"
         url: https://openlibrary.org/books/OL43707661M
+      - title: "WorldCat record (OCLC 7687496)"
+        url: https://search.worldcat.org/title/7687496
   - title: Les effets structurels de l'intégration internationale des économies précapitalistes
     year: 1978
     publisher: '[s.n.]'
     place: '[s.l.]'
+    verified: true
     sources:
-      - title: Open Library edition OL61785332M
+      - title: "Open Library edition OL61785332M"
         url: https://openlibrary.org/books/OL61785332M
+      - title: "WorldCat record (OCLC 3818564)"
+        url: https://search.worldcat.org/title/3818564
   - title: Capitalisme et lutte des classes en Afrique australe
     year: 1979
     publisher: Presses universitaires de France
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL4180810M
+      - title: "Open Library edition OL4180810M"
         url: https://openlibrary.org/books/OL4180810M
+      - title: "Library of Congress record (LCCN 80458678)"
+        url: https://lccn.loc.gov/80458678
   - title: Le Tiers monde et la gauche
     year: 1979
     publisher: Seuil
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL4029980M
+      - title: "Open Library edition OL4029980M"
         url: https://openlibrary.org/books/OL4029980M
+      - title: "WorldCat record (OCLC 5649425)"
+        url: https://search.worldcat.org/title/5649425
+      - title: "Library of Congress record (LCCN 79376422)"
+        url: https://lccn.loc.gov/79376422
   - title: La Crise, quelle crise?
     year: 1982
     publisher: François Maspero
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL22187653M
+      - title: "Open Library edition OL22187653M"
         url: https://openlibrary.org/books/OL22187653M
+      - title: "Open Library edition OL19991287M"
+        url: https://openlibrary.org/books/OL19991287M
   - title: Dynamics of Global Crisis
     year: 1982
     publisher: Macmillan
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL17503697M
+      - title: "Open Library edition OL17503697M"
         url: https://openlibrary.org/books/OL17503697M
+      - title: "WorldCat record (OCLC 9358522)"
+        url: https://search.worldcat.org/title/9358522
   - title: Sadcc
     year: 1987
     publisher: Zed Books
+    verified: true
     sources:
-      - title: Open Library edition OL8309577M
-        url: https://openlibrary.org/books/OL8309577M
+      - title: "Open Library edition OL2530069M"
+        url: https://openlibrary.org/books/OL2530069M
+      - title: "WorldCat record (OCLC 17649212)"
+        url: https://search.worldcat.org/title/17649212
+      - title: "Library of Congress record (LCCN 88005534)"
+        url: https://lccn.loc.gov/88005534
   - title: El eurocentrismo
     subtitle: crítica de una ideología
     year: 1988
@@ -204,11 +281,11 @@ works:
     publisher_id: monthly-review-press
     verified: true
     sources:
-      - title: Open Library edition OL2057433M
+      - title: "Open Library edition OL2057433M"
         url: https://openlibrary.org/books/OL2057433M
-      - title: WorldCat record (OCLC 19064647)
+      - title: "WorldCat record (OCLC 19064647)"
         url: https://search.worldcat.org/title/19064647
-      - title: Library of Congress record (LCCN 88036445)
+      - title: "Library of Congress record (LCCN 88036445)"
         url: https://lccn.loc.gov/88036445
   - title: Delinking
     year: 1990
@@ -218,11 +295,11 @@ works:
     notes: Towards a Polycentric World.
     verified: true
     sources:
-      - title: Open Library edition OL2206798M
+      - title: "Open Library edition OL2206798M"
         url: https://openlibrary.org/books/OL2206798M
-      - title: WorldCat record (OCLC 20595215)
+      - title: "WorldCat record (OCLC 20595215)"
         url: https://search.worldcat.org/title/20595215
-      - title: Library of Congress record (LCCN 89028953)
+      - title: "Library of Congress record (LCCN 89028953)"
         url: https://lccn.loc.gov/89028953
   - title: Empire of Chaos
     year: 1991
@@ -235,9 +312,14 @@ works:
     year: 1991
     publisher: EPO
     place: Bruxelles, Belgique
+    verified: true
     sources:
-      - title: Open Library edition OL1521537M
+      - title: "Open Library edition OL1521537M"
         url: https://openlibrary.org/books/OL1521537M
+      - title: "WorldCat record (OCLC 25844988)"
+        url: https://search.worldcat.org/title/25844988
+      - title: "Library of Congress record (LCCN 93209054)"
+        url: https://lccn.loc.gov/93209054
   - title: Emperyalizm ve Esitsiz Gelisme
     year: 1992
     publisher: Kaynak Yayinlari
@@ -248,109 +330,174 @@ works:
     year: 1993
     publisher: Le Monde éditions
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL52452346M
+      - title: "Open Library edition OL52452346M"
         url: https://openlibrary.org/books/OL52452346M
+      - title: "WorldCat record (OCLC 81008611)"
+        url: https://search.worldcat.org/title/81008611
   - title: Mondialisation et accumulation
     year: 1993
     publisher: L'Harmattan
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL1179691M
+      - title: "Open Library edition OL1179691M"
         url: https://openlibrary.org/books/OL1179691M
+      - title: "Library of Congress record (LCCN 94166597)"
+        url: https://lccn.loc.gov/94166597
   - title: Penser la fin du communisme, l'Europe, l'Etat, la politique, l'histoire
     year: 1994
     publisher: Le Monde
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL21809985M
-        url: https://openlibrary.org/books/OL21809985M
+      - title: "Open Library edition OL1225443M"
+        url: https://openlibrary.org/books/OL1225443M
+      - title: "Library of Congress record (LCCN 94225747)"
+        url: https://lccn.loc.gov/94225747
   - title: Mondialisation et particularismes
     year: 1995
     publisher: CIFEDHOP
     place: Genève
+    verified: true
     sources:
-      - title: Open Library edition OL60518155M
+      - title: "Open Library edition OL60518155M"
         url: https://openlibrary.org/books/OL60518155M
+      - title: "WorldCat record (OCLC 61499140)"
+        url: https://search.worldcat.org/title/61499140
   - title: Le Maghreb
     year: 1996
     publisher: L'Harmattan
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL721678M
+      - title: "Open Library edition OL721678M"
         url: https://openlibrary.org/books/OL721678M
+      - title: "Library of Congress record (LCCN 97108792)"
+        url: https://lccn.loc.gov/97108792
   - title: Capitalism in the Age of Globalization
     subtitle: The Management of Contemporary Society
     year: 1997
     publisher: Zed Books
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL995601M
+      - title: "Open Library edition OL995601M"
         url: https://openlibrary.org/books/OL995601M
+      - title: "Library of Congress record (LCCN 96034226)"
+        url: https://lccn.loc.gov/96034226
   - title: Le Manifeste communiste aujourd'hui
     year: 1998
     publisher: Editions de l'Atelier/Editions Ouvrières
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL71266M
+      - title: "Open Library edition OL71266M"
         url: https://openlibrary.org/books/OL71266M
+      - title: "WorldCat record (OCLC 40484255)"
+        url: https://search.worldcat.org/title/40484255
+      - title: "Library of Congress record (LCCN 99171514)"
+        url: https://lccn.loc.gov/99171514
   - title: Les maîtres du monde? ou, Les dessous de la guerre des Balkans
     year: 1999
     publisher: Temps des cerises
     place: Pantin
+    verified: true
     sources:
-      - title: Open Library edition OL6869232M
+      - title: "Open Library edition OL6869232M"
         url: https://openlibrary.org/books/OL6869232M
+      - title: "WorldCat record (OCLC 44260871)"
+        url: https://search.worldcat.org/title/44260871
+      - title: "Library of Congress record (LCCN 00395747)"
+        url: https://lccn.loc.gov/00395747
   - title: Le virus libéral
     subtitle: la guerre permanente et l'américanisation du monde
     year: 2003
     publisher: Temps des cerises
     place: Pantin [France
+    verified: true
     sources:
-      - title: Open Library edition OL19310915M
+      - title: "Open Library edition OL19310915M"
         url: https://openlibrary.org/books/OL19310915M
+      - title: "WorldCat record (OCLC 53440486)"
+        url: https://search.worldcat.org/title/53440486
+      - title: "Library of Congress record (LCCN 2003709581)"
+        url: https://lccn.loc.gov/2003709581
+      - title: "Open Library edition OL19318324M"
+        url: https://openlibrary.org/books/OL19318324M
   - title: Pensée sociale critique pour le XXIe siècle
     year: 2003
     publisher: Harmattan
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL31583229M
+      - title: "Open Library edition OL31583229M"
         url: https://openlibrary.org/books/OL31583229M
+      - title: "WorldCat record (OCLC 53170479)"
+        url: https://search.worldcat.org/title/53170479
+      - title: "Library of Congress record (LCCN 2003487208)"
+        url: https://lccn.loc.gov/2003487208
   - title: Quelle Europe pour quel monde
     year: 2004
     publisher: Editions Syllepse
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL21420332M
+      - title: "Open Library edition OL21420332M"
         url: https://openlibrary.org/books/OL21420332M
+      - title: "Open Library edition OL20004323M"
+        url: https://openlibrary.org/books/OL20004323M
+      - title: "Open Library edition OL19687741M"
+        url: https://openlibrary.org/books/OL19687741M
+      - title: "WorldCat record (OCLC 58432221)"
+        url: https://search.worldcat.org/title/58432221
   - title: Pour un monde multipolaire
     year: 2005
     publisher: Syllepse
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL31681205M
+      - title: "Open Library edition OL31681205M"
         url: https://openlibrary.org/books/OL31681205M
+      - title: "Library of Congress record (LCCN 2005476726)"
+        url: https://lccn.loc.gov/2005476726
   - title: Afrique
     year: 2005
     publisher: Maisonneuve & Larose
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL19318321M
-        url: https://openlibrary.org/books/OL19318321M
+      - title: "Open Library edition OL19310029M"
+        url: https://openlibrary.org/books/OL19310029M
+      - title: "WorldCat record (OCLC 60370802)"
+        url: https://search.worldcat.org/title/60370802
+      - title: "Library of Congress record (LCCN 2005450179)"
+        url: https://lccn.loc.gov/2005450179
   - title: Les luttes paysannes et ouvrières face aux défis du XXIe siècle
     year: 2005
     publisher: Indes savantes
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL20190390M
+      - title: "Open Library edition OL20190390M"
         url: https://openlibrary.org/books/OL20190390M
+      - title: "Open Library edition OL19318295M"
+        url: https://openlibrary.org/books/OL19318295M
+      - title: "WorldCat record (OCLC 61879965)"
+        url: https://search.worldcat.org/title/61879965
+      - title: "Library of Congress record (LCCN 2005542374)"
+        url: https://lccn.loc.gov/2005542374
   - title: Pour la cinquième internationale
     year: 2006
     publisher: Le Temps de Cerises
     place: Pantin
+    verified: true
     sources:
-      - title: Open Library edition OL45146615M
+      - title: "Open Library edition OL45146615M"
         url: https://openlibrary.org/books/OL45146615M
+      - title: "WorldCat record (OCLC 1193220544)"
+        url: https://search.worldcat.org/title/1193220544
   - title: Avrupa-Merkezcilik; Bir Ideolojinin Elestirisi
     year: 2007
     publisher: Chiviyazilari Yayinevi
@@ -361,37 +508,64 @@ works:
     year: 2010
     publisher: Tulika Books
     place: New Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL24540435M
+      - title: "Open Library edition OL24540435M"
         url: https://openlibrary.org/books/OL24540435M
+      - title: "WorldCat record (OCLC 611878230)"
+        url: https://search.worldcat.org/title/611878230
+      - title: "Library of Congress record (LCCN 2010318348)"
+        url: https://lccn.loc.gov/2010318348
+      - title: "Open Library edition OL24453869M"
+        url: https://openlibrary.org/books/OL24453869M
   - title: Global History
     year: 2011
     publisher: Pambazuka Press
     place: Cape Town, South Africa
+    verified: true
     sources:
-      - title: Open Library edition OL25093459M
+      - title: "Open Library edition OL25093459M"
         url: https://openlibrary.org/books/OL25093459M
+      - title: "WorldCat record (OCLC 706943772)"
+        url: https://search.worldcat.org/title/706943772
+      - title: "Library of Congress record (LCCN 2010553883)"
+        url: https://lccn.loc.gov/2010553883
   - title: Le monde arabe dans la longue durée
     year: 2011
     publisher: Temps des cerises
     place: Pantin
+    verified: true
     sources:
-      - title: Open Library edition OL30640696M
+      - title: "Open Library edition OL30640696M"
         url: https://openlibrary.org/books/OL30640696M
+      - title: "WorldCat record (OCLC 758440820)"
+        url: https://search.worldcat.org/title/758440820
+      - title: "Library of Congress record (LCCN 2011347864)"
+        url: https://lccn.loc.gov/2011347864
   - title: La loi de la valeur mondialisée
     year: 2011
     publisher: Le Temps des cerises
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL25037736M
+      - title: "Open Library edition OL25037736M"
         url: https://openlibrary.org/books/OL25037736M
+      - title: "Library of Congress record (LCCN 2011463050)"
+        url: https://lccn.loc.gov/2011463050
+      - title: "Open Library edition OL25037735M"
+        url: https://openlibrary.org/books/OL25037735M
+      - title: "WorldCat record (OCLC 711040404)"
+        url: https://search.worldcat.org/title/711040404
   - title: L'implosion du capitalisme contemporain
     year: 2012
     publisher: Éditions Delga
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL53972595M
+      - title: "Open Library edition OL53972595M"
         url: https://openlibrary.org/books/OL53972595M
+      - title: "WorldCat record (OCLC 826683966)"
+        url: https://search.worldcat.org/title/826683966
   - title: El capitalismo contemporáneo
     year: 2013
     publisher: El Viejo Topo
@@ -401,22 +575,37 @@ works:
   - title: Three Essays on Marx's Value Theory
     year: 2013
     publisher: Monthly Review Press
+    verified: true
     sources:
-      - title: Open Library edition OL38836924M
-        url: https://openlibrary.org/books/OL38836924M
+      - title: "Open Library edition OL29550247M"
+        url: https://openlibrary.org/books/OL29550247M
+      - title: "WorldCat record (OCLC 857863272)"
+        url: https://search.worldcat.org/title/857863272
+      - title: "Library of Congress record (LCCN 2013031467)"
+        url: https://lccn.loc.gov/2013031467
   - title: Implosion of Contemporary Capitalism
     year: 2013
     publisher: Monthly Review Press
+    verified: true
     sources:
-      - title: Open Library edition OL34025005M
-        url: https://openlibrary.org/books/OL34025005M
+      - title: "Open Library edition OL28511275M"
+        url: https://openlibrary.org/books/OL28511275M
+      - title: "WorldCat record (OCLC 844308926)"
+        url: https://search.worldcat.org/title/844308926
+      - title: "Library of Congress record (LCCN 2013030193)"
+        url: https://lccn.loc.gov/2013030193
   - title: L'histoire globale
     year: 2013
     publisher: Les Indes savantes
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL30974050M
+      - title: "Open Library edition OL30974050M"
         url: https://openlibrary.org/books/OL30974050M
+      - title: "WorldCat record (OCLC 850930501)"
+        url: https://search.worldcat.org/title/850930501
+      - title: "Library of Congress record (LCCN 2013453083)"
+        url: https://lccn.loc.gov/2013453083
   - title: The Implosion of Capitalism
     year: 2013
     publisher: Pluto Press
@@ -426,23 +615,32 @@ works:
   - title: Samir Amin
     year: 2013
     publisher: Springer
+    verified: true
     sources:
-      - title: Open Library edition OL28041320M
+      - title: "Open Library edition OL28041320M"
         url: https://openlibrary.org/books/OL28041320M
   - title: Sur les traces de Jaurès
     year: 2014
     publisher: Le Temps des cerises
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL31289258M
+      - title: "Open Library edition OL31289258M"
         url: https://openlibrary.org/books/OL31289258M
+      - title: "WorldCat record (OCLC 881234754)"
+        url: https://search.worldcat.org/title/881234754
+      - title: "Library of Congress record (LCCN 2014479002)"
+        url: https://lccn.loc.gov/2014479002
   - title: Égypte, nassérisme et communisme
     year: 2014
     publisher: Indes savantes
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL43509259M
+      - title: "Open Library edition OL43509259M"
         url: https://openlibrary.org/books/OL43509259M
+      - title: "WorldCat record (OCLC 892840839)"
+        url: https://search.worldcat.org/title/892840839
   - title: ¿Tienen futuro las Revoluciones árabes?
     year: 2015
     publisher: El Viejo Topo
@@ -458,23 +656,34 @@ works:
   - title: Reawakening of the Arab World
     year: 2016
     publisher: Monthly Review Press
+    verified: true
     sources:
-      - title: Open Library edition OL29551969M
+      - title: "Open Library edition OL29551969M"
         url: https://openlibrary.org/books/OL29551969M
+      - title: "WorldCat record (OCLC 935191907)"
+        url: https://search.worldcat.org/title/935191907
+      - title: "Library of Congress record (LCCN 2015044225)"
+        url: https://lccn.loc.gov/2015044225
   - title: La Russie dans la longue durée
     year: 2016
     publisher: Les Indes savantes
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL61011411M
+      - title: "Open Library edition OL61011411M"
         url: https://openlibrary.org/books/OL61011411M
+      - title: "WorldCat record (OCLC 950440729)"
+        url: https://search.worldcat.org/title/950440729
   - title: L'anticommunisme d'hier à aujourd'hui
     year: 2017
     publisher: L'Harmattan
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL61164772M
+      - title: "Open Library edition OL61164772M"
         url: https://openlibrary.org/books/OL61164772M
+      - title: "WorldCat record (OCLC 1008862293)"
+        url: https://search.worldcat.org/title/1008862293
   - title: Octubre 1917
     year: 2017
     publisher: El Viejo Topo
@@ -497,21 +706,30 @@ works:
     year: 2017
     publisher: Éditions Delga
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL59122259M
+      - title: "Open Library edition OL59122259M"
         url: https://openlibrary.org/books/OL59122259M
+      - title: "WorldCat record (OCLC 1017609849)"
+        url: https://search.worldcat.org/title/1017609849
   - title: Modern Migrations in Western Africa
     year: 2018
     publisher: Taylor & Francis Group
+    verified: true
     sources:
-      - title: Open Library edition OL35850190M
-        url: https://openlibrary.org/books/OL35850190M
+      - title: "Open Library edition OL28910650M"
+        url: https://openlibrary.org/books/OL28910650M
+      - title: "WorldCat record (OCLC 1049150007)"
+        url: https://search.worldcat.org/title/1049150007
   - title: CGT
     year: 2018
     publisher: Éditions Delga
+    verified: true
     sources:
-      - title: Open Library edition OL60406687M
+      - title: "Open Library edition OL60406687M"
         url: https://openlibrary.org/books/OL60406687M
+      - title: "WorldCat record (OCLC 1056744147)"
+        url: https://search.worldcat.org/title/1056744147
   - title: Only People Make Their Own History
     year: 2019
     publisher: Monthly Review Press
@@ -521,9 +739,14 @@ works:
   - title: BRICS and the New American Imperialism
     year: 2020
     publisher: Wits University Press
+    verified: true
     sources:
-      - title: Open Library edition OL38046953M
-        url: https://openlibrary.org/books/OL38046953M
+      - title: "Open Library edition OL31369701M"
+        url: https://openlibrary.org/books/OL31369701M
+      - title: "Open Library edition OL29841257M"
+        url: https://openlibrary.org/books/OL29841257M
+      - title: "WorldCat record (OCLC 1120148012)"
+        url: https://search.worldcat.org/title/1120148012
   - title: Clases y naciones en el materialismo histórico
     year: 2021
     publisher: El Viejo Topo

@@ -19,23 +19,38 @@ works:
     year: 1988
     publisher: Verso
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL2030565M
+      - title: "Open Library edition OL2030565M"
         url: https://openlibrary.org/books/OL2030565M
+      - title: "WorldCat record (OCLC 17678563)"
+        url: https://search.worldcat.org/title/17678563
+      - title: "Library of Congress record (LCCN 88006075)"
+        url: https://lccn.loc.gov/88006075
   - title: The Pristine Culture of Capitalism
     year: 1991
     publisher: Verso
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL1550613M
+      - title: "Open Library edition OL1550613M"
         url: https://openlibrary.org/books/OL1550613M
+      - title: "WorldCat record (OCLC 24373114)"
+        url: https://search.worldcat.org/title/24373114
+      - title: "Library of Congress record (LCCN 91030333)"
+        url: https://lccn.loc.gov/91030333
   - title: Citizens to Lords
     year: 2008
     publisher: Verso
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL22680175M
+      - title: "Open Library edition OL22680175M"
         url: https://openlibrary.org/books/OL22680175M
+      - title: "WorldCat record (OCLC 220002810)"
+        url: https://search.worldcat.org/title/220002810
+      - title: "Library of Congress record (LCCN 2008271246)"
+        url: https://lccn.loc.gov/2008271246
   - title: Democracy Against Capitalism
     year: 2009
     publisher: Cambridge University Press
@@ -57,9 +72,12 @@ works:
   - title: The Origin of Capitalism
     year: 2017
     publisher: Verso
+    verified: true
     sources:
-      - title: Open Library edition OL27236296M
+      - title: "Open Library edition OL27236296M"
         url: https://openlibrary.org/books/OL27236296M
+      - title: "WorldCat record (OCLC 949913339)"
+        url: https://search.worldcat.org/title/949913339
   - title: Social History of Western Political Thought
     year: 2022
     publisher: Verso Books

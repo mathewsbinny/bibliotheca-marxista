@@ -18,17 +18,27 @@ works:
     year: 1981
     publisher: Zimbabwe Publishing
     place: Zimbabwe
+    verified: true
     sources:
-      - title: Open Library edition OL21921052M
+      - title: "Open Library edition OL21921052M"
         url: https://openlibrary.org/books/OL21921052M
+      - title: "WorldCat record (OCLC 9797511)"
+        url: https://search.worldcat.org/title/9797511
   - title: How Europe Underdeveloped Africa
     year: 1981
     language: English
     publisher: Howard University Press
     place: Whashington (D.C.)
+    verified: true
     sources:
-      - title: SUDOC record 072959967
-        url: https://www.sudoc.fr/072959967
+      - title: "Open Library edition OL2445804M"
+        url: https://openlibrary.org/books/OL2445804M
+      - title: "WorldCat record (OCLC 16228409)"
+        url: https://search.worldcat.org/title/16228409
+      - title: "Library of Congress record (LCCN 87142601)"
+        url: https://lccn.loc.gov/87142601
+      - title: "Open Library edition OL4260599M"
+        url: https://openlibrary.org/books/OL4260599M
   - title: African Socialism of Socialist Africa?
     year: 1981
     language: English
@@ -52,22 +62,37 @@ works:
     language: English
     publisher: Pluto Press
     place: London
+    verified: true
     sources:
-      - title: SUDOC record 056534191
-        url: https://www.sudoc.fr/056534191
+      - title: "Open Library edition OL13930416M"
+        url: https://openlibrary.org/books/OL13930416M
+      - title: "Open Library edition OL2111233M"
+        url: https://openlibrary.org/books/OL2111233M
+      - title: "WorldCat record (OCLC 19496480)"
+        url: https://search.worldcat.org/title/19496480
+      - title: "Library of Congress record (LCCN 88164595)"
+        url: https://lccn.loc.gov/88164595
   - title: Husuda ya marekani dhidi ya mapinduzi ya Zanzibar
     subtitle: Siku 100 za kuundwa kwa Tanzania
     year: 1990
     language: Swahili
     publisher: Al Khayria Press
     place: Zanzibar
+    verified: true
     sources:
-      - title: SUDOC record 074153315
-        url: https://www.sudoc.fr/074153315
+      - title: "Open Library edition OL53004395M"
+        url: https://openlibrary.org/books/OL53004395M
+      - title: "WorldCat record (OCLC 38526235)"
+        url: https://search.worldcat.org/title/38526235
   - title: An Economic Strategy for the Second Liberation of Africa
     year: 1994
     publisher: Mkuki na Nyota Publishers
     place: Dar es Salaam, Tanzania
+    verified: true
     sources:
-      - title: Open Library edition OL1267794M
+      - title: "Open Library edition OL1267794M"
         url: https://openlibrary.org/books/OL1267794M
+      - title: "WorldCat record (OCLC 666573668)"
+        url: https://search.worldcat.org/title/666573668
+      - title: "Library of Congress record (LCCN 94981300)"
+        url: https://lccn.loc.gov/94981300

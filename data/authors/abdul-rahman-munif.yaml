@@ -11,9 +11,12 @@ works:
     year: 2000
     publisher: Al-Muassassa Al-Arabia
     place: Beirut
+    verified: true
     sources:
-      - title: Open Library edition OL15557352M
+      - title: "Open Library edition OL15557352M"
         url: https://openlibrary.org/books/OL15557352M
+      - title: "Open Library edition OL15562980M"
+        url: https://openlibrary.org/books/OL15562980M
   - title: Salzstädte
     year: 2006
     publisher: Wilhelm Heyne Verlag

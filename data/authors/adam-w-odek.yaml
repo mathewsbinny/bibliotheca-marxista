@@ -54,23 +54,27 @@ works:
     language: Polish
     publisher: Państwowy Instytut Wydawniczy
     place: Warszawa
+    verified: true
     sources:
-      - title: SUDOC record 167230220
-        url: https://www.sudoc.fr/167230220
-      - title: National Library of Poland record 991042789169705066
-        url: https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991042789169705066&vid=48OMNIS_NLOP:48OMNIS_NLOP
+      - title: "Open Library edition OL61975252M"
+        url: https://openlibrary.org/books/OL61975252M
+      - title: "WorldCat record (OCLC 18043590)"
+        url: https://search.worldcat.org/title/18043590
   - title: Nasz łup wojenny
     year: 1970
     language: Polish
     publisher: Wydawnictwo literackie
     place: Kraków
+    verified: true
     sources:
-      - title: BnF catalogue record cb351769567
-        url: https://catalogue.bnf.fr/ark:/12148/cb351769567
-      - title: SUDOC record 054094313
-        url: https://www.sudoc.fr/054094313
-      - title: National Library of Poland record 991035094489705066
-        url: https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991035094489705066&vid=48OMNIS_NLOP:48OMNIS_NLOP
+      - title: "Open Library edition OL5713400M"
+        url: https://openlibrary.org/books/OL5713400M
+      - title: "WorldCat record (OCLC 3430916)"
+        url: https://search.worldcat.org/title/3430916
+      - title: "Library of Congress record (LCCN 70258713)"
+        url: https://lccn.loc.gov/70258713
+      - title: "Open Library edition OL18841586M"
+        url: https://openlibrary.org/books/OL18841586M
   - title: Wiersze wybrane
     year: 1973
     language: Polish

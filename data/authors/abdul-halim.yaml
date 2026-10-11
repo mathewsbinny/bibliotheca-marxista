@@ -12,9 +12,12 @@ works:
     language: French
     publisher: Impr. de Berger-Levrault
     place: Nancy, Paris, Strasbourg
+    verified: true
     sources:
-      - title: BnF catalogue record cb31025853x
-        url: https://catalogue.bnf.fr/ark:/12148/cb31025853x
+      - title: "Open Library edition OL31033633M"
+        url: https://openlibrary.org/books/OL31033633M
+      - title: "Library of Congress record (LCCN 2012515263)"
+        url: https://lccn.loc.gov/2012515263
   - title: Ityopia
     subtitle: Les richesses de l'Ethiopie
     year: 1928
@@ -40,9 +43,16 @@ works:
   - title: History of the Lodi Sultans of Delhi and Agra
     year: 1961
     publisher: Dacca University Press
+    verified: true
     sources:
-      - title: CiNii Books record BB1733190X
-        url: https://ci.nii.ac.jp/ncid/BB1733190X
+      - title: "Open Library edition OL17479700M"
+        url: https://openlibrary.org/books/OL17479700M
+      - title: "Open Library edition OL274085M"
+        url: https://openlibrary.org/books/OL274085M
+      - title: "Library of Congress record (LCCN sa63003126)"
+        url: https://lccn.loc.gov/sa63003126
+      - title: "Open Library edition OL25387800M"
+        url: https://openlibrary.org/books/OL25387800M
   - title: The Eisenhower Administration and the Defense of the Arab Middle East
     year: 1966
     publisher: University Microfilms International

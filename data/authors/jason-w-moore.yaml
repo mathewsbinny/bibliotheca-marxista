@@ -10,9 +10,16 @@ works:
     subtitle: A Facsimile Reprint of the Nineteenth Edition of the Little Red Song Book
     year: 2014
     publisher: PM Press
+    verified: true
     sources:
-      - title: Open Library edition OL29202012M
+      - title: "Open Library edition OL29202012M"
         url: https://openlibrary.org/books/OL29202012M
+      - title: "WorldCat record (OCLC 869640945)"
+        url: https://search.worldcat.org/title/869640945
+      - title: "Open Library edition OL28533002M"
+        url: https://openlibrary.org/books/OL28533002M
+      - title: "WorldCat record (OCLC 869286122)"
+        url: https://search.worldcat.org/title/869286122
   - title: Capitalism in the Web of Life
     year: 2015
     publisher: '[no publisher recorded]'

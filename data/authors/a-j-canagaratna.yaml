@@ -10,13 +10,25 @@ works:
     year: 1970
     publisher: Aracu Veḷiyīṭu
     place: Kol̲umpu
+    verified: true
     sources:
-      - title: Open Library edition OL45115551M
+      - title: "Open Library edition OL45115551M"
         url: https://openlibrary.org/books/OL45115551M
+      - title: "WorldCat record (OCLC 57416120)"
+        url: https://search.worldcat.org/title/57416120
+      - title: "Library of Congress record (LCCN 76921416)"
+        url: https://lccn.loc.gov/76921416
   - title: Neelan Tiruchelvam
     year: 2004
     publisher: International Centre for Ethnic Studies
     place: Colombo
+    verified: true
     sources:
-      - title: Open Library edition OL3338666M
+      - title: "Open Library edition OL3338666M"
         url: https://openlibrary.org/books/OL3338666M
+      - title: "WorldCat record (OCLC 57431967)"
+        url: https://search.worldcat.org/title/57431967
+      - title: "Library of Congress record (LCCN 2004329699)"
+        url: https://lccn.loc.gov/2004329699
+      - title: "Open Library edition OL9148987M"
+        url: https://openlibrary.org/books/OL9148987M

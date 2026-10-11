@@ -12,30 +12,50 @@ works:
     year: 1990
     publisher: Verso
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL1877261M
+      - title: "Open Library edition OL1877261M"
         url: https://openlibrary.org/books/OL1877261M
+      - title: "WorldCat record (OCLC 21560116)"
+        url: https://search.worldcat.org/title/21560116
+      - title: "Library of Congress record (LCCN 90037486)"
+        url: https://lccn.loc.gov/90037486
   - title: Situating the Threat of Hindu Nationalism
     year: 1994
     publisher: Centre for Contemporary Studies, Nehru Memorial Museum and Library
     place: New Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL948774M
+      - title: "Open Library edition OL948774M"
         url: https://openlibrary.org/books/OL948774M
+      - title: "WorldCat record (OCLC 34322199)"
+        url: https://search.worldcat.org/title/34322199
+      - title: "Library of Congress record (LCCN 95906088)"
+        url: https://lccn.loc.gov/95906088
   - title: India in a Changing World
     year: 1995
     publisher: Orient Longman
     place: New Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL635811M
+      - title: "Open Library edition OL635811M"
         url: https://openlibrary.org/books/OL635811M
+      - title: "WorldCat record (OCLC 34850098)"
+        url: https://search.worldcat.org/title/34850098
+      - title: "Library of Congress record (LCCN 96900349)"
+        url: https://lccn.loc.gov/96900349
   - title: Religion, Religiosity, and Communalism
     year: 1996
     publisher: Manohar Publishers & Distributors
     place: New Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL637650M
+      - title: "Open Library edition OL637650M"
         url: https://openlibrary.org/books/OL637650M
+      - title: "WorldCat record (OCLC 35151711)"
+        url: https://search.worldcat.org/title/35151711
+      - title: "Library of Congress record (LCCN 96902361)"
+        url: https://lccn.loc.gov/96902361
   - title: Testing Times
     year: 1996
     publisher: '[no publisher recorded]'
@@ -46,42 +66,70 @@ works:
   - title: The Furies of Indian Communalism
     year: 1997
     publisher: Verso Books
+    verified: true
     sources:
-      - title: Open Library edition OL8624475M
-        url: https://openlibrary.org/books/OL8624475M
+      - title: "Open Library edition OL8624046M"
+        url: https://openlibrary.org/books/OL8624046M
+      - title: "WorldCat record (OCLC 36066021)"
+        url: https://search.worldcat.org/title/36066021
+      - title: "Library of Congress record (LCCN 96050055)"
+        url: https://lccn.loc.gov/96050055
   - title: Communalism Contested
     year: 1997
     publisher: Vistaar Pub.
     place: New Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL45095816M
+      - title: "Open Library edition OL45095816M"
         url: https://openlibrary.org/books/OL45095816M
+      - title: "WorldCat record (OCLC 38840078)"
+        url: https://search.worldcat.org/title/38840078
   - title: New Nukes
     year: 2000
     publisher: Signal Books
+    verified: true
     sources:
-      - title: Open Library edition OL9543671M
+      - title: "Open Library edition OL9543671M"
         url: https://openlibrary.org/books/OL9543671M
+      - title: "WorldCat record (OCLC 43719043)"
+        url: https://search.worldcat.org/title/43719043
   - title: Competing Nationalisms in South Asia
     year: 2002
     publisher: Orient Longman
     place: Hyderabad
+    verified: true
     sources:
-      - title: Open Library edition OL3587132M
+      - title: "Open Library edition OL3587132M"
         url: https://openlibrary.org/books/OL3587132M
+      - title: "WorldCat record (OCLC 49695918)"
+        url: https://search.worldcat.org/title/49695918
+      - title: "Library of Congress record (LCCN 2002286874)"
+        url: https://lccn.loc.gov/2002286874
   - title: Globalization and South Asia, Multidimensional Perspectives
     year: 2004
     publisher: Academy of Third World Studies, Jamia Millia Islamia
     place: New Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL3330125M
+      - title: "Open Library edition OL3330125M"
         url: https://openlibrary.org/books/OL3330125M
+      - title: "WorldCat record (OCLC 56951899)"
+        url: https://search.worldcat.org/title/56951899
+      - title: "Library of Congress record (LCCN 2004307559)"
+        url: https://lccn.loc.gov/2004307559
   - title: Selling US Wars
     year: 2007
     publisher: Olive Branch Press
+    verified: true
     sources:
-      - title: Open Library edition OL8669772M
-        url: https://openlibrary.org/books/OL8669772M
+      - title: "Open Library edition OL22752334M"
+        url: https://openlibrary.org/books/OL22752334M
+      - title: "Open Library edition OL24766840M"
+        url: https://openlibrary.org/books/OL24766840M
+      - title: "WorldCat record (OCLC 70877886)"
+        url: https://search.worldcat.org/title/70877886
+      - title: "Library of Congress record (LCCN 2006025509)"
+        url: https://lccn.loc.gov/2006025509
   - title: 'Political Science: Volume 2'
     year: 2012
     publisher: Oxford University Press
@@ -92,9 +140,14 @@ works:
     year: 2015
     publisher: Orient Blackswan
     place: New Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL30808648M
+      - title: "Open Library edition OL30808648M"
         url: https://openlibrary.org/books/OL30808648M
+      - title: "WorldCat record (OCLC 914296509)"
+        url: https://search.worldcat.org/title/914296509
+      - title: "Library of Congress record (LCCN 2015358903)"
+        url: https://lccn.loc.gov/2015358903
   - title: Debate on Postcolonial Theory and the Specter of Capital
     year: 2016
     publisher: Verso Books
@@ -104,6 +157,9 @@ works:
   - title: Rise of Hindu Authoritarianism
     year: 2017
     publisher: Verso Books
+    verified: true
     sources:
-      - title: Open Library edition OL34536238M
+      - title: "Open Library edition OL34536238M"
         url: https://openlibrary.org/books/OL34536238M
+      - title: "WorldCat record (OCLC 952154406)"
+        url: https://search.worldcat.org/title/952154406

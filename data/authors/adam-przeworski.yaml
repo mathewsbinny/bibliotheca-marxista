@@ -19,13 +19,23 @@ works:
     year: 1985
     publisher: Cambridge University Press
     place: Cambridge
+    verified: true
     sources:
-      - title: Open Library edition OL2612454M
+      - title: "Open Library edition OL2612454M"
         url: https://openlibrary.org/books/OL2612454M
+      - title: "WorldCat record (OCLC 12945983)"
+        url: https://search.worldcat.org/title/12945983
+      - title: "Library of Congress record (LCCN 85175899)"
+        url: https://lccn.loc.gov/85175899
   - title: Paper Stones
     year: 1986
     publisher: University of Chicago Press
     place: Chicago
+    verified: true
     sources:
-      - title: Open Library edition OL2714063M
+      - title: "Open Library edition OL2714063M"
         url: https://openlibrary.org/books/OL2714063M
+      - title: "WorldCat record (OCLC 13396139)"
+        url: https://search.worldcat.org/title/13396139
+      - title: "Library of Congress record (LCCN 86006984)"
+        url: https://lccn.loc.gov/86006984

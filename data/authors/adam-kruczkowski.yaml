@@ -26,19 +26,25 @@ works:
     language: German
     publisher: Státní Nakladatelství politické literatury
     place: Praha
+    verified: true
     sources:
-      - title: German National Library record 577087681
-        url: https://d-nb.info/577087681
+      - title: "Open Library edition OL5895297M"
+        url: https://openlibrary.org/books/OL5895297M
+      - title: "WorldCat record (OCLC 18550019)"
+        url: https://search.worldcat.org/title/18550019
+      - title: "Library of Congress record (LCCN 63039824)"
+        url: https://lccn.loc.gov/63039824
   - title: Problemy wojny, pokoju i rewolucji
     year: 1964
     language: Polish
     publisher: Książka i Wiedza
     place: Warszawa
+    verified: true
     sources:
-      - title: SUDOC record 093324154
-        url: https://www.sudoc.fr/093324154
-      - title: National Library of Poland record 991040842639705066
-        url: https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991040842639705066&vid=48OMNIS_NLOP:48OMNIS_NLOP
+      - title: "Open Library edition OL3520665M"
+        url: https://openlibrary.org/books/OL3520665M
+      - title: "Library of Congress record (LCCN 82104468)"
+        url: https://lccn.loc.gov/82104468
   - title: Świat i Polska
     year: 1965
     language: Polish
@@ -77,6 +83,11 @@ works:
     language: Polish
     publisher: Książka i Wiedza
     place: Warszawa
+    verified: true
     sources:
-      - title: National Library of Poland record 991038660099705066
-        url: https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991038660099705066&vid=48OMNIS_NLOP:48OMNIS_NLOP
+      - title: "Open Library edition OL5628275M"
+        url: https://openlibrary.org/books/OL5628275M
+      - title: "WorldCat record (OCLC 21575178)"
+        url: https://search.worldcat.org/title/21575178
+      - title: "Library of Congress record (LCCN 68052745)"
+        url: https://lccn.loc.gov/68052745

@@ -28,42 +28,54 @@ works:
     year: 1976
     publisher: Presses de la Fondation nationale des sciences politiques
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL4675983M
+      - title: "Open Library edition OL4675983M"
         url: https://openlibrary.org/books/OL4675983M
+      - title: "Library of Congress record (LCCN 77567070)"
+        url: https://lccn.loc.gov/77567070
+      - title: "Open Library edition OL20762755M"
+        url: https://openlibrary.org/books/OL20762755M
+      - title: "Open Library edition OL21801267M"
+        url: https://openlibrary.org/books/OL21801267M
   - title: The Crisis of Feudalism
     subtitle: Economy and Society in Eastern Normandy C. 1300-1550
     year: 1984
     language: English
     publisher: Cambridge University Press
     place: Cambridge
+    verified: true
     sources:
-      - title: BnF catalogue record cb366069125
-        url: https://catalogue.bnf.fr/ark:/12148/cb366069125
-      - title: SUDOC record 025274767
-        url: https://www.sudoc.fr/025274767
-      - title: CiNii Books record BB00826872
-        url: https://ci.nii.ac.jp/ncid/BB00826872
+      - title: "Open Library edition OL3165914M"
+        url: https://openlibrary.org/books/OL3165914M
+      - title: "WorldCat record (OCLC 9686926)"
+        url: https://search.worldcat.org/title/9686926
+      - title: "Library of Congress record (LCCN 83007882)"
+        url: https://lccn.loc.gov/83007882
   - title: La Mutation de l'an mil
     subtitle: Lournand, village mâconnais, de l'Antiquité au féodalisme
     year: 1989
     language: French
     publisher: Fayard
     place: Paris
+    verified: true
     sources:
-      - title: BnF catalogue record cb37489149g
-        url: https://catalogue.bnf.fr/ark:/12148/cb37489149g
-      - title: SUDOC record 001591827
-        url: https://www.sudoc.fr/001591827
-      - title: swisscovery record 991084149249705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991084149249705501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL20353600M"
+        url: https://openlibrary.org/books/OL20353600M
+      - title: "WorldCat record (OCLC 21059965)"
+        url: https://search.worldcat.org/title/21059965
   - title: The Transformation of the Year One Thousand
     year: 1992
     publisher: Manchester University Press
     place: Manchester, UK
+    verified: true
     sources:
-      - title: Open Library edition OL1701069M
+      - title: "Open Library edition OL1701069M"
         url: https://openlibrary.org/books/OL1701069M
+      - title: "WorldCat record (OCLC 25550642)"
+        url: https://search.worldcat.org/title/25550642
+      - title: "Library of Congress record (LCCN 92001488)"
+        url: https://lccn.loc.gov/92001488
   - title: Umbruch im Jahr 1000
     subtitle: Lournand bei Cluny - ein Dorf in Frankreich zwischen Spätantike und Feudalherrschaft
     year: 1993
@@ -91,20 +103,24 @@ works:
     language: French
     publisher: Presses universitaires de France
     place: Paris
+    verified: true
     sources:
-      - title: SUDOC record 242682189
-        url: https://www.sudoc.fr/242682189
-      - title: swisscovery record 991116882869705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991116882869705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: CiNii Books record BA48259956
-        url: https://ci.nii.ac.jp/ncid/BA48259956
+      - title: "Open Library edition OL6896093M"
+        url: https://openlibrary.org/books/OL6896093M
+      - title: "WorldCat record (OCLC 44261602)"
+        url: https://search.worldcat.org/title/44261602
+      - title: "Library of Congress record (LCCN 00697688)"
+        url: https://lccn.loc.gov/00697688
   - title: Une nouvelle servitude
     year: 2003
     publisher: François-Xavier de Guibert
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL31550540M
+      - title: "Open Library edition OL31550540M"
         url: https://openlibrary.org/books/OL31550540M
+      - title: "Library of Congress record (LCCN 2003382263)"
+        url: https://lccn.loc.gov/2003382263
   - title: L'art de la ciselure
     year: 2015
     language: French

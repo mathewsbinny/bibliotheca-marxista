@@ -15,8 +15,15 @@ works:
     year: 1956
     publisher: Popular Book Depot
     place: Bombay
+    verified: true
     sources:
-      - title: Open Library edition OL13864943M
+      - title: "Open Library edition OL6235535M"
+        url: https://openlibrary.org/books/OL6235535M
+      - title: "WorldCat record (OCLC 1684841)"
+        url: https://search.worldcat.org/title/1684841
+      - title: "Library of Congress record (LCCN 57041683)"
+        url: https://lccn.loc.gov/57041683
+      - title: "Open Library edition OL13864943M"
         url: https://openlibrary.org/books/OL13864943M
   - title: Exasperating Essays
     subtitle: Exercises in the Dialectical Method
@@ -30,20 +37,31 @@ works:
     year: 1965
     publisher: Routledge and K. Paul
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL6020738M
+      - title: "Open Library edition OL6020738M"
         url: https://openlibrary.org/books/OL6020738M
+      - title: "WorldCat record (OCLC 411714)"
+        url: https://search.worldcat.org/title/411714
+      - title: "Library of Congress record (LCCN 66083282)"
+        url: https://lccn.loc.gov/66083282
+      - title: "Open Library edition OL14979193M"
+        url: https://openlibrary.org/books/OL14979193M
   - title: The Culture and Civilization of Ancient India in Historical Outline
     year: 1965
     publisher: Routledge and Kegan Paul
+    verified: true
     sources:
-      - title: Open Library edition OL21843973M
+      - title: "Open Library edition OL21843973M"
         url: https://openlibrary.org/books/OL21843973M
+      - title: "Open Library edition OL21574167M"
+        url: https://openlibrary.org/books/OL21574167M
   - title: Ancient India
     subtitle: A History of Its Culture and Civilization
     year: 1965
     publisher: Pantheon Books
     place: NewYork
+    verified: true
     sources:
-      - title: Open Library edition OL20917367M
+      - title: "Open Library edition OL20917367M"
         url: https://openlibrary.org/books/OL20917367M

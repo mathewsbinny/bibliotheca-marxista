@@ -18,15 +18,25 @@ works:
     year: 1952
     publisher: Éditions du Seuil
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL18605885M
+      - title: "Open Library edition OL18605885M"
         url: https://openlibrary.org/books/OL18605885M
+      - title: "Open Library edition OL204351M"
+        url: https://openlibrary.org/books/OL204351M
+      - title: "WorldCat record (OCLC 28233644)"
+        url: https://search.worldcat.org/title/28233644
+      - title: "Library of Congress record (LCCN a53003621)"
+        url: https://lccn.loc.gov/a53003621
   - title: A dying colonialism
     year: 1959
     publisher: Fran'Yois Maspero
+    verified: true
     sources:
-      - title: Open Library edition OL40293259M
+      - title: "Open Library edition OL40293259M"
         url: https://openlibrary.org/books/OL40293259M
+      - title: "WorldCat record (OCLC 382392)"
+        url: https://search.worldcat.org/title/382392
   - title: An v de la révolution algérienne
     year: 1959
     publisher: Fran'Yois Maspero
@@ -38,6 +48,13 @@ works:
     year: 1961
     publisher: F. Maspero
     place: Paris
+    verified: true
     sources:
-      - title: Open Library edition OL17479766M
+      - title: "Open Library edition OL17479766M"
         url: https://openlibrary.org/books/OL17479766M
+      - title: "Open Library edition OL5892967M"
+        url: https://openlibrary.org/books/OL5892967M
+      - title: "WorldCat record (OCLC 4719026)"
+        url: https://search.worldcat.org/title/4719026
+      - title: "Library of Congress record (LCCN 63031975)"
+        url: https://lccn.loc.gov/63031975

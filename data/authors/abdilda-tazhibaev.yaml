@@ -15,8 +15,11 @@ works:
     language: Kazakh
     publisher: '"Zhazushy" baspasy'
     place: Almaty
+    verified: true
     sources:
-      - title: Library of Congress record 97220586
+      - title: "Open Library edition OL310649M"
+        url: https://openlibrary.org/books/OL310649M
+      - title: "Library of Congress record (LCCN 97220586)"
         url: https://lccn.loc.gov/97220586
   - title: Es ̄imdeg ̄iler
     subtitle: Estelīkter, ėsseler
@@ -33,6 +36,11 @@ works:
     language: Kazakh
     publisher: '"Zhazushy"'
     place: Almaty
+    verified: true
     sources:
-      - title: Library of Congress record 00655397
+      - title: "Open Library edition OL6892113M"
+        url: https://openlibrary.org/books/OL6892113M
+      - title: "WorldCat record (OCLC 31490811)"
+        url: https://search.worldcat.org/title/31490811
+      - title: "Library of Congress record (LCCN 00655397)"
         url: https://lccn.loc.gov/00655397

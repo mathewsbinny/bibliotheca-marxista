@@ -24,24 +24,30 @@ works:
     language: Polish
     publisher: Spółdzielnia Wydawniczo-oświatowa "Czytelnik
     place: (Warszawa,)
+    verified: true
     sources:
-      - title: SUDOC record 090650662
-        url: https://www.sudoc.fr/090650662
-      - title: swisscovery record 991037364589705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991037364589705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: National Library of Poland record 991046243009705066
-        url: https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991046243009705066&vid=48OMNIS_NLOP:48OMNIS_NLOP
+      - title: "Open Library edition OL52440778M"
+        url: https://openlibrary.org/books/OL52440778M
+      - title: "WorldCat record (OCLC 18043113)"
+        url: https://search.worldcat.org/title/18043113
+      - title: "Open Library edition OL16557496M"
+        url: https://openlibrary.org/books/OL16557496M
+      - title: "Open Library edition OL61936641M"
+        url: https://openlibrary.org/books/OL61936641M
   - title: Mickiewicz i wersyfikacja narodowa
     year: 1951
     language: Polish
     publisher: '"Czytelnik"'
     place: Warszawa
+    verified: true
     sources:
-      - title: swisscovery record 991107874749705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991107874749705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: National Library of Poland record 991028200509705066
-        url: https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991028200509705066&vid=48OMNIS_NLOP:48OMNIS_NLOP
-      - title: Library of Congress record 2010452402
+      - title: "Open Library edition OL52440391M"
+        url: https://openlibrary.org/books/OL52440391M
+      - title: "WorldCat record (OCLC 15348702)"
+        url: https://search.worldcat.org/title/15348702
+      - title: "Open Library edition OL30471279M"
+        url: https://openlibrary.org/books/OL30471279M
+      - title: "Library of Congress record (LCCN 2010452402)"
         url: https://lccn.loc.gov/2010452402
   - title: Eugeniusz Oniegin
     year: 1952
@@ -60,47 +66,49 @@ works:
     language: Polish
     publisher: Czytelnik
     place: Warszawa
+    verified: true
     sources:
-      - title: BnF catalogue record cb37484646m
-        url: https://catalogue.bnf.fr/ark:/12148/cb37484646m
-      - title: SUDOC record 154225665
-        url: https://www.sudoc.fr/154225665
-      - title: National Library of Poland record 991037422989705066
-        url: https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991037422989705066&vid=48OMNIS_NLOP:48OMNIS_NLOP
+      - title: "Open Library edition OL62418540M"
+        url: https://openlibrary.org/books/OL62418540M
+      - title: "WorldCat record (OCLC 39350067)"
+        url: https://search.worldcat.org/title/39350067
   - title: Dziwna historia awangardy
     year: 1976
     language: Polish
     publisher: Czytelnik
     place: Warszawa
+    verified: true
     sources:
-      - title: BnF catalogue record cb35232120d
-        url: https://catalogue.bnf.fr/ark:/12148/cb35232120d
-      - title: SUDOC record 167406701
-        url: https://www.sudoc.fr/167406701
-      - title: swisscovery record 991002726269705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991002726269705501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL52721996M"
+        url: https://openlibrary.org/books/OL52721996M
+      - title: "WorldCat record (OCLC 3740189)"
+        url: https://search.worldcat.org/title/3740189
+      - title: "Open Library edition OL21214903M"
+        url: https://openlibrary.org/books/OL21214903M
   - title: Eseje literackie
     year: 1982
     language: Polish
     publisher: Państwowy Instytut Wydawniczy
     place: Warszawa
+    verified: true
     sources:
-      - title: BnF catalogue record cb34828730h
-        url: https://catalogue.bnf.fr/ark:/12148/cb34828730h
-      - title: SUDOC record 052759695
-        url: https://www.sudoc.fr/052759695
-      - title: swisscovery record 991112094049705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991112094049705501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL3221247M"
+        url: https://openlibrary.org/books/OL3221247M
+      - title: "WorldCat record (OCLC 9683348)"
+        url: https://search.worldcat.org/title/9683348
+      - title: "Library of Congress record (LCCN 83131115)"
+        url: https://lccn.loc.gov/83131115
   - title: Amfion
     subtitle: Rozważania nad wierszem polskim
     year: 1983
     language: Polish
     publisher: Czytelnik
     place: Warszawa
+    verified: true
     sources:
-      - title: BnF catalogue record cb348097054
-        url: https://catalogue.bnf.fr/ark:/12148/cb348097054
-      - title: SUDOC record 007761104
-        url: https://www.sudoc.fr/007761104
-      - title: swisscovery record 991115687409705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991115687409705501&vid=41SLSP_NETWORK:VU1_UNION
+      - title: "Open Library edition OL2879385M"
+        url: https://openlibrary.org/books/OL2879385M
+      - title: "WorldCat record (OCLC 11487869)"
+        url: https://search.worldcat.org/title/11487869
+      - title: "Library of Congress record (LCCN 84101878)"
+        url: https://lccn.loc.gov/84101878

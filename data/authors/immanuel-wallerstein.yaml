@@ -23,14 +23,18 @@ works:
     year: 1959
     publisher: National Institute of Social and Behavioral Science, George Washington University
     place: Washington, D.C
+    verified: true
     sources:
-      - title: Open Library edition OL45124955M
+      - title: "Open Library edition OL45124955M"
         url: https://openlibrary.org/books/OL45124955M
+      - title: "WorldCat record (OCLC 12529633)"
+        url: https://search.worldcat.org/title/12529633
   - title: Africa
     year: 1961
     publisher: Vintage Books
+    verified: true
     sources:
-      - title: Open Library edition OL58544865M
+      - title: "Open Library edition OL58544865M"
         url: https://openlibrary.org/books/OL58544865M
   - title: Class, Tribe, and Party in West African Politics
     year: 1962
@@ -42,45 +46,81 @@ works:
   - title: The Road to Independence
     year: 1964
     publisher: Paris Mouton & Company
+    verified: true
     sources:
-      - title: Open Library edition OL59020595M
+      - title: "Open Library edition OL45705818M"
+        url: https://openlibrary.org/books/OL45705818M
+      - title: "Open Library edition OL59020595M"
         url: https://openlibrary.org/books/OL59020595M
+      - title: "Open Library edition OL5936805M"
+        url: https://openlibrary.org/books/OL5936805M
+      - title: "WorldCat record (OCLC 935940)"
+        url: https://search.worldcat.org/title/935940
   - title: Social Change
     subtitle: The Colonial Situation
     year: 1966
     publisher: Wiley
+    verified: true
     sources:
-      - title: Open Library edition OL21499895M
+      - title: "Open Library edition OL21499895M"
         url: https://openlibrary.org/books/OL21499895M
+      - title: "Open Library edition OL5984570M"
+        url: https://openlibrary.org/books/OL5984570M
+      - title: "WorldCat record (OCLC 259448)"
+        url: https://search.worldcat.org/title/259448
+      - title: "Library of Congress record (LCCN 66014144)"
+        url: https://lccn.loc.gov/66014144
   - title: Africa, the Politics of Unity
     subtitle: An Analysis of a Contemporary Social Movement
     year: 1967
     publisher: Random House
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL19324017M
+      - title: "Open Library edition OL19324017M"
         url: https://openlibrary.org/books/OL19324017M
+      - title: "Open Library edition OL5991253M"
+        url: https://openlibrary.org/books/OL5991253M
+      - title: "WorldCat record (OCLC 180964)"
+        url: https://search.worldcat.org/title/180964
+      - title: "Library of Congress record (LCCN 66022247)"
+        url: https://lccn.loc.gov/66022247
   - title: University in Turmoil
     year: 1969
     publisher: Atheneum
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL5683904M
+      - title: "Open Library edition OL5683904M"
         url: https://openlibrary.org/books/OL5683904M
+      - title: "WorldCat record (OCLC 5365)"
+        url: https://search.worldcat.org/title/5365
+      - title: "Library of Congress record (LCCN 69015520)"
+        url: https://lccn.loc.gov/69015520
   - title: Frantz Fanon
     year: 1970
     publisher: '[Institute of African Studies, School of International Affairs, Columbia University]'
     place: New York]
+    verified: true
     sources:
-      - title: Open Library edition OL43187392M
+      - title: "Open Library edition OL43187392M"
         url: https://openlibrary.org/books/OL43187392M
+      - title: "WorldCat record (OCLC 82400152)"
+        url: https://search.worldcat.org/title/82400152
   - title: The University Crisis Reader
     year: 1971
     publisher: Random House
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL13776305M
+      - title: "Open Library edition OL13776305M"
         url: https://openlibrary.org/books/OL13776305M
+      - title: "Open Library edition OL5758300M"
+        url: https://openlibrary.org/books/OL5758300M
+      - title: "WorldCat record (OCLC 135225)"
+        url: https://search.worldcat.org/title/135225
+      - title: "Library of Congress record (LCCN 71140736)"
+        url: https://lccn.loc.gov/71140736
   - title: The Modern World-System
     year: 1974
     publisher: Academic Press
@@ -88,13 +128,13 @@ works:
     notes: Volume 1 of four.
     verified: true
     sources:
-      - title: Open Library edition OL22362706M
+      - title: "Open Library edition OL22362706M"
         url: https://openlibrary.org/books/OL22362706M
-      - title: WorldCat record (OCLC 173669969)
+      - title: "WorldCat record (OCLC 173669969)"
         url: https://search.worldcat.org/title/173669969
-      - title: Open Library edition OL3877653M
+      - title: "Open Library edition OL3877653M"
         url: https://openlibrary.org/books/OL3877653M
-      - title: Library of Congress record (LCCN 81202546)
+      - title: "Library of Congress record (LCCN 81202546)"
         url: https://lccn.loc.gov/81202546
   - title: >-
       Capi Talist Agriculture and the Origins of the European World-Economy in the Sixteenth
@@ -108,124 +148,191 @@ works:
     year: 1975
     publisher: Bertrand Russell Peace Foundation for The Spokesman
     place: Nottingham
+    verified: true
     sources:
-      - title: Open Library edition OL18846367M
+      - title: "Open Library edition OL18846367M"
         url: https://openlibrary.org/books/OL18846367M
   - title: Old Problems and New Syntheses
     year: 1975
     publisher: University of Saskatchewan
     place: Saskatoon, Sask., Canada
+    verified: true
     sources:
-      - title: Open Library edition OL2944354M
+      - title: "Open Library edition OL2944354M"
         url: https://openlibrary.org/books/OL2944354M
+      - title: "Library of Congress record (LCCN 84183810)"
+        url: https://lccn.loc.gov/84183810
   - title: Social Conflict in Post-independence Black Africa
     year: 1975
     publisher: McGill University, Centre for developing-area studies
     place: Montreal
+    verified: true
     sources:
-      - title: Open Library edition OL17634022M
+      - title: "Open Library edition OL17634022M"
         url: https://openlibrary.org/books/OL17634022M
+      - title: "WorldCat record (OCLC 156949216)"
+        url: https://search.worldcat.org/title/156949216
   - title: >-
       Select Documents from the Immanuel Wallerstein Collection of Political Ephemera of the
       Liberation Movements of Lusophone Africa, 1954-1974
     year: 1976
     publisher: Yale University Library Photographic Services
     place: New Haven
+    verified: true
     sources:
-      - title: Open Library edition OL49879516M
+      - title: "Open Library edition OL49879516M"
         url: https://openlibrary.org/books/OL49879516M
+      - title: "WorldCat record (OCLC 24125691)"
+        url: https://search.worldcat.org/title/24125691
   - title: Class Conflict in the Capitalist World-Economy
     year: 1976
     publisher: State University of New York at Binghamton
     place: Binghamton. N.Y
+    verified: true
     sources:
-      - title: Open Library edition OL50343315M
+      - title: "Open Library edition OL50343315M"
         url: https://openlibrary.org/books/OL50343315M
+      - title: "WorldCat record (OCLC 5329402)"
+        url: https://search.worldcat.org/title/5329402
   - title: Liberation Movements in Lusophone Africa
     year: 1976
     publisher: Yale University Library Photoduplication Service
     place: '[New Haven, Conn.]'
+    verified: true
     sources:
-      - title: Open Library edition OL2581716M
+      - title: "Open Library edition OL2581716M"
         url: https://openlibrary.org/books/OL2581716M
+      - title: "WorldCat record (OCLC 22627377)"
+        url: https://search.worldcat.org/title/22627377
+      - title: "Library of Congress record (LCCN 85129697)"
+        url: https://lccn.loc.gov/85129697
   - title: In What Sense and to What Degree Was the Russian Revolution a Proletarian Revolution?
     year: 1977
     publisher: State University of New York at Binghamton
     place: Binghamton
+    verified: true
     sources:
-      - title: Open Library edition OL58230117M
+      - title: "Open Library edition OL58230117M"
         url: https://openlibrary.org/books/OL58230117M
+      - title: "WorldCat record (OCLC 5956363)"
+        url: https://search.worldcat.org/title/5956363
   - title: Libraries and Our Civilizations
     year: 1978
     publisher: Governor's Conference on Libraries
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL19748766M
+      - title: "Open Library edition OL58922704M"
+        url: https://openlibrary.org/books/OL58922704M
+      - title: "Open Library edition OL19748766M"
         url: https://openlibrary.org/books/OL19748766M
+      - title: "Open Library edition OL4378580M"
+        url: https://openlibrary.org/books/OL4378580M
+      - title: "WorldCat record (OCLC 4431797)"
+        url: https://search.worldcat.org/title/4431797
   - title: The Capitalist World-Economy
     year: 1979
     publisher: Cambridge University Press
     place: Cambridge [Eng.]
+    verified: true
     sources:
-      - title: Open Library edition OL4716543M
+      - title: "Open Library edition OL4716543M"
         url: https://openlibrary.org/books/OL4716543M
+      - title: "WorldCat record (OCLC 3730554)"
+        url: https://search.worldcat.org/title/3730554
+      - title: "Library of Congress record (LCCN 78002955)"
+        url: https://lccn.loc.gov/78002955
+      - title: "Open Library edition OL21331603M"
+        url: https://openlibrary.org/books/OL21331603M
   - title: The Modern World-System II
     subtitle: Mercantilism and the Consolidation of the European World-Economy, 1600-1750
     year: 1980
     publisher: Academic Press
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL20293334M
+      - title: "Open Library edition OL20293334M"
         url: https://openlibrary.org/books/OL20293334M
+      - title: "WorldCat record (OCLC 17918454)"
+        url: https://search.worldcat.org/title/17918454
+      - title: "Library of Congress record (LCCN 73005318)"
+        url: https://lccn.loc.gov/73005318
   - title: The European Workers' Movement
     year: 1980
     publisher: Synthesis Publications
     place: San Francisco, Calif
+    verified: true
     sources:
-      - title: Open Library edition OL3529953M
+      - title: "Open Library edition OL3529953M"
         url: https://openlibrary.org/books/OL3529953M
+      - title: "Library of Congress record (LCCN 82116601)"
+        url: https://lccn.loc.gov/82116601
   - title: Processes of the World-System
     year: 1980
     publisher: Sage Publications
     place: Beverly Hills, Calif
+    verified: true
     sources:
-      - title: Open Library edition OL4422890M
+      - title: "Open Library edition OL4422890M"
         url: https://openlibrary.org/books/OL4422890M
+      - title: "WorldCat record (OCLC 5893747)"
+        url: https://search.worldcat.org/title/5893747
+      - title: "Library of Congress record (LCCN 79027385)"
+        url: https://lccn.loc.gov/79027385
   - title: Incorporation into the World-Economy
     year: 1980
     publisher: >-
       Fernand Braudel Center for the Study of Economies, Historical Systems, and Civilizations,
       State University of New York at Binghamton
     place: Binghamton, N.Y
+    verified: true
     sources:
-      - title: Open Library edition OL3006461M
+      - title: "Open Library edition OL3006461M"
         url: https://openlibrary.org/books/OL3006461M
+      - title: "WorldCat record (OCLC 11536309)"
+        url: https://search.worldcat.org/title/11536309
+      - title: "Library of Congress record (LCCN 84673724)"
+        url: https://lccn.loc.gov/84673724
   - title: Mercantilism and the Consolidation of the European World-Economy, 1600-1750
     year: 1980
     publisher: Academic Press
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL20293334M
-        url: https://openlibrary.org/books/OL20293334M
+      - title: "Open Library edition OL2082720M"
+        url: https://openlibrary.org/books/OL2082720M
+      - title: "Library of Congress record (LCCN 88120931)"
+        url: https://lccn.loc.gov/88120931
   - title: Patterns and Perspectives of the Capitalist World-Economy
     year: 1981
     publisher: U N UNIV.
     place: TOKYO
+    verified: true
     sources:
-      - title: Open Library edition OL50295972M
+      - title: "Open Library edition OL50295972M"
         url: https://openlibrary.org/books/OL50295972M
   - title: Patterns and Prospectives of the Capitalist World-Economy
     year: 1981
     publisher: United Nations University
     place: Tokyo
+    verified: true
     sources:
-      - title: Open Library edition OL59308369M
+      - title: "Open Library edition OL59308369M"
         url: https://openlibrary.org/books/OL59308369M
+      - title: "WorldCat record (OCLC 8050355)"
+        url: https://search.worldcat.org/title/8050355
   - title: African Liberation Reader
     year: 1982
     publisher: St. Martin's Press
+    verified: true
     sources:
-      - title: Open Library edition OL11668947M
+      - title: "Open Library edition OL11668945M"
+        url: https://openlibrary.org/books/OL11668945M
+      - title: "Open Library edition OL11668949M"
+        url: https://openlibrary.org/books/OL11668949M
+      - title: "WorldCat record (OCLC 233938434)"
+        url: https://search.worldcat.org/title/233938434
+      - title: "Open Library edition OL11668947M"
         url: https://openlibrary.org/books/OL11668947M
   - title: Historical Capitalism
     year: 1983
@@ -234,33 +341,46 @@ works:
     publisher_id: verso-books
     verified: true
     sources:
-      - title: Open Library edition OL2590477M
+      - title: "Open Library edition OL2590477M"
         url: https://openlibrary.org/books/OL2590477M
-      - title: WorldCat record (OCLC 12666102)
+      - title: "WorldCat record (OCLC 12666102)"
         url: https://search.worldcat.org/title/12666102
-      - title: Library of Congress record (LCCN 85142276)
+      - title: "Library of Congress record (LCCN 85142276)"
         url: https://lccn.loc.gov/85142276
   - title: Long Waves as Capitalist Process
     year: 1983
     publisher: THE CENTER
     place: N Y
+    verified: true
     sources:
-      - title: Open Library edition OL50316262M
+      - title: "Open Library edition OL50316262M"
         url: https://openlibrary.org/books/OL50316262M
+      - title: "Open Library edition OL59620938M"
+        url: https://openlibrary.org/books/OL59620938M
+      - title: "WorldCat record (OCLC 39204497)"
+        url: https://search.worldcat.org/title/39204497
   - title: Southern Europe in the World-Economy in the Twentieth Century
     year: 1983
     publisher: State University of New York at Binghamton
     place: Binghamton
+    verified: true
     sources:
-      - title: Open Library edition OL57991334M
+      - title: "Open Library edition OL57991334M"
         url: https://openlibrary.org/books/OL57991334M
+      - title: "WorldCat record (OCLC 23443512)"
+        url: https://search.worldcat.org/title/23443512
   - title: Labor in the World Social Structure
     year: 1983
     publisher: Sage Publications
     place: Beverly Hills
+    verified: true
     sources:
-      - title: Open Library edition OL3496900M
+      - title: "Open Library edition OL3496900M"
         url: https://openlibrary.org/books/OL3496900M
+      - title: "WorldCat record (OCLC 8826447)"
+        url: https://search.worldcat.org/title/8826447
+      - title: "Library of Congress record (LCCN 82016964)"
+        url: https://lccn.loc.gov/82016964
   - title: El Capitalismo Historico
     year: 1983
     publisher: Verso
@@ -272,28 +392,46 @@ works:
     year: 1984
     publisher: Cambridge University Press
     place: Cambridge
+    verified: true
     sources:
-      - title: Open Library edition OL21495882M
-        url: https://openlibrary.org/books/OL21495882M
+      - title: "Open Library edition OL3178301M"
+        url: https://openlibrary.org/books/OL3178301M
+      - title: "Library of Congress record (LCCN 83020853)"
+        url: https://lccn.loc.gov/83020853
+      - title: "Open Library edition OL21366518M"
+        url: https://openlibrary.org/books/OL21366518M
+      - title: "WorldCat record (OCLC 9970501)"
+        url: https://search.worldcat.org/title/9970501
   - title: Households and the World Economy
     year: 1984
     publisher: Sage Publications
     place: Beverly Hills, Calif
+    verified: true
     sources:
-      - title: Open Library edition OL2842934M
+      - title: "Open Library edition OL2842934M"
         url: https://openlibrary.org/books/OL2842934M
+      - title: "WorldCat record (OCLC 10558672)"
+        url: https://search.worldcat.org/title/10558672
+      - title: "Library of Congress record (LCCN 84004875)"
+        url: https://lccn.loc.gov/84004875
   - title: Africa and the Modern World
     year: 1986
     publisher: Africa World Press
     place: Trenton, N.J
+    verified: true
     sources:
-      - title: Open Library edition OL2557750M
+      - title: "Open Library edition OL2557750M"
         url: https://openlibrary.org/books/OL2557750M
+      - title: "WorldCat record (OCLC 13801038)"
+        url: https://search.worldcat.org/title/13801038
+      - title: "Library of Congress record (LCCN 85071384)"
+        url: https://lccn.loc.gov/85071384
   - title: Esl for Action
     year: 1987
     publisher: Addison Wesley Publishing Company
+    verified: true
     sources:
-      - title: Open Library edition OL10146907M
+      - title: "Open Library edition OL10146907M"
         url: https://openlibrary.org/books/OL10146907M
   - title: The Second Era of Great Expansion of the Capitalist World-Economy, 1730-1840s
     year: 1988
@@ -304,25 +442,32 @@ works:
   - title: Transforming the Revolution
     year: 1990
     publisher: Monthly Review Press
+    verified: true
     sources:
-      - title: Open Library edition OL8284615M
+      - title: "Open Library edition OL8284615M"
         url: https://openlibrary.org/books/OL8284615M
   - title: The Future of Antisystemic Movements
     year: 1991
     publisher: State University of New York at Binghamton
     place: Binghamton, N.Y
+    verified: true
     sources:
-      - title: Open Library edition OL58218796M
+      - title: "Open Library edition OL58218796M"
         url: https://openlibrary.org/books/OL58218796M
+      - title: "WorldCat record (OCLC 25536921)"
+        url: https://search.worldcat.org/title/25536921
   - title: America and the World
     year: 1991
     publisher: >-
       Fernand Braudel Center for the Study of Economies, Historical Systems, and Civilizations,
       State University of New York at Binghamton
     place: Binghamton, N.Y
+    verified: true
     sources:
-      - title: Open Library edition OL58218810M
+      - title: "Open Library edition OL58218810M"
         url: https://openlibrary.org/books/OL58218810M
+      - title: "WorldCat record (OCLC 26445530)"
+        url: https://search.worldcat.org/title/26445530
   - title: >-
       Who Excludes Whom?; or, the Collapse of Liberalism and the Dilemmas of Antisystemic
       Strategy
@@ -340,59 +485,91 @@ works:
       Fernand Braudel Center for the Study of Economies, Historical Systems, and Civilizations,
       State University of New York at Binghamton
     place: Binghamton, N.Y
+    verified: true
     sources:
-      - title: Open Library edition OL58218820M
+      - title: "Open Library edition OL58218820M"
         url: https://openlibrary.org/books/OL58218820M
+      - title: "WorldCat record (OCLC 26445414)"
+        url: https://search.worldcat.org/title/26445414
   - title: Report on an Intellectual Project
     year: 1991
     publisher: >-
       Fernand Braudel Center for the Study of Economics, Historical Systems, and Civilizations,
       State University of New York at Binghamton
     place: Binghamton, NY
+    verified: true
     sources:
-      - title: Open Library edition OL58245653M
+      - title: "Open Library edition OL58245653M"
         url: https://openlibrary.org/books/OL58245653M
+      - title: "WorldCat record (OCLC 31434585)"
+        url: https://search.worldcat.org/title/31434585
   - title: Geopolitics and Geoculture
     year: 1991
     publisher: Cambridge University Press
     place: Cambridge [England]
+    verified: true
     sources:
-      - title: Open Library edition OL1862019M
+      - title: "Open Library edition OL1862019M"
         url: https://openlibrary.org/books/OL1862019M
+      - title: "WorldCat record (OCLC 22665269)"
+        url: https://search.worldcat.org/title/22665269
+      - title: "Library of Congress record (LCCN 90019644)"
+        url: https://lccn.loc.gov/90019644
   - title: Unthinking Social Science
     year: 1991
     publisher: Polity Press in association with B. Blackwell
     place: '[Cambridge, MA]'
+    verified: true
     sources:
-      - title: Open Library edition OL2029871M
+      - title: "Open Library edition OL2029871M"
         url: https://openlibrary.org/books/OL2029871M
+      - title: "WorldCat record (OCLC 23219504)"
+        url: https://search.worldcat.org/title/23219504
+      - title: "Library of Congress record (LCCN 91007177)"
+        url: https://lccn.loc.gov/91007177
   - title: Race, Nation, Class
     year: 1991
     publisher: Verso
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL1548064M
+      - title: "Open Library edition OL1548064M"
         url: https://openlibrary.org/books/OL1548064M
+      - title: "WorldCat record (OCLC 24174517)"
+        url: https://search.worldcat.org/title/24174517
+      - title: "Library of Congress record (LCCN 91027500)"
+        url: https://lccn.loc.gov/91027500
   - title: How Fast the Wind?
     year: 1992
     publisher: Africa World Press
+    verified: true
     sources:
-      - title: Open Library edition OL8316814M
-        url: https://openlibrary.org/books/OL8316814M
+      - title: "Open Library edition OL1577092M"
+        url: https://openlibrary.org/books/OL1577092M
+      - title: "WorldCat record (OCLC 25361820)"
+        url: https://search.worldcat.org/title/25361820
+      - title: "Library of Congress record (LCCN 91077521)"
+        url: https://lccn.loc.gov/91077521
   - title: New Findings in Long-Wave Research
     year: 1992
     publisher: Macmillan
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL15000009M
+      - title: "Open Library edition OL15000009M"
         url: https://openlibrary.org/books/OL15000009M
   - title: Creating and Transforming Households
     year: 1992
     publisher: Cambridge University Press
     place: Cambridge [England]
+    verified: true
     sources:
-      - title: Open Library edition OL1549719M
+      - title: "Open Library edition OL1549719M"
         url: https://openlibrary.org/books/OL1549719M
+      - title: "WorldCat record (OCLC 24247206)"
+        url: https://search.worldcat.org/title/24247206
+      - title: "Library of Congress record (LCCN 91029344)"
+        url: https://lccn.loc.gov/91029344
   - title: Despues del Liberalismo
     year: 1995
     publisher: New Press
@@ -403,9 +580,12 @@ works:
   - title: Historical Capitalism with Capitalist Civilization
     year: 1996
     publisher: Verso
+    verified: true
     sources:
-      - title: Open Library edition OL8624082M
+      - title: "Open Library edition OL8624082M"
         url: https://openlibrary.org/books/OL8624082M
+      - title: "WorldCat record (OCLC 34465695)"
+        url: https://search.worldcat.org/title/34465695
   - title: Abrir Las Ciencias Sociales
     year: 1996
     publisher: Stanford University Press
@@ -416,36 +596,53 @@ works:
     year: 1997
     publisher: New Press
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL987313M
+      - title: "Open Library edition OL987313M"
         url: https://openlibrary.org/books/OL987313M
+      - title: "Library of Congress record (LCCN 96025426)"
+        url: https://lccn.loc.gov/96025426
   - title: Fernand Braudel Center for the Study of Economies, Historical Systems, and Civilizations
     year: 1997
     publisher: The Center
     place: Binghamton, NY
+    verified: true
     sources:
-      - title: Open Library edition OL58453681M
+      - title: "Open Library edition OL58453681M"
         url: https://openlibrary.org/books/OL58453681M
   - title: Utopistics
     year: 1998
     publisher: New Press
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL346175M
+      - title: "Open Library edition OL346175M"
         url: https://openlibrary.org/books/OL346175M
+      - title: "WorldCat record (OCLC 38311832)"
+        url: https://search.worldcat.org/title/38311832
+      - title: "Library of Congress record (LCCN 98005224)"
+        url: https://lccn.loc.gov/98005224
   - title: People's Participation
     year: 1998
     publisher: Colciencias
     place: Santafé de Bogotá
+    verified: true
     sources:
-      - title: Open Library edition OL489907M
+      - title: "Open Library edition OL489907M"
         url: https://openlibrary.org/books/OL489907M
+      - title: "Library of Congress record (LCCN 98220625)"
+        url: https://lccn.loc.gov/98220625
   - title: Mentoring, Methods, and Movements
     year: 1998
     publisher: Fernand Braudel Center for the Study of Economies, Historical Systems, and Civilizations
+    verified: true
     sources:
-      - title: Open Library edition OL8709787M
-        url: https://openlibrary.org/books/OL8709787M
+      - title: "Open Library edition OL395437M"
+        url: https://openlibrary.org/books/OL395437M
+      - title: "WorldCat record (OCLC 48268928)"
+        url: https://search.worldcat.org/title/48268928
+      - title: "Library of Congress record (LCCN 98074401)"
+        url: https://lccn.loc.gov/98074401
   - title: End of the World as We Know It
     year: 1999
     publisher: University of Minnesota Press
@@ -456,16 +653,26 @@ works:
     year: 1999
     publisher: Cambridge University Press
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL376654M
+      - title: "Open Library edition OL376654M"
         url: https://openlibrary.org/books/OL376654M
+      - title: "WorldCat record (OCLC 39627637)"
+        url: https://search.worldcat.org/title/39627637
+      - title: "Library of Congress record (LCCN 98038596)"
+        url: https://lccn.loc.gov/98038596
   - title: Sociology for the Twenty-First Century
     year: 1999
     publisher: University of Chicago Press
     place: Chicago
+    verified: true
     sources:
-      - title: Open Library edition OL18096296M
+      - title: "Open Library edition OL18096296M"
         url: https://openlibrary.org/books/OL18096296M
+      - title: "WorldCat record (OCLC 40891115)"
+        url: https://search.worldcat.org/title/40891115
+      - title: "Library of Congress record (LCCN 99022434)"
+        url: https://lccn.loc.gov/99022434
   - title: Evropa
     year: 2000
     publisher: Ludion
@@ -475,22 +682,33 @@ works:
   - title: The Essential Wallerstein
     year: 2000
     publisher: New Press
+    verified: true
     sources:
-      - title: Open Library edition OL8666673M
+      - title: "Open Library edition OL8666673M"
         url: https://openlibrary.org/books/OL8666673M
+      - title: "WorldCat record (OCLC 41497199)"
+        url: https://search.worldcat.org/title/41497199
+      - title: "Library of Congress record (LCCN 99035781)"
+        url: https://lccn.loc.gov/99035781
   - title: Uri Ka Anŭn Segye Ŭi Chongŏn
     year: 2001
     publisher: Ch'angjak kwa Pip'yŏngsa
     place: Sŏul
+    verified: true
     sources:
-      - title: Open Library edition OL44599230M
+      - title: "Open Library edition OL44599230M"
         url: https://openlibrary.org/books/OL44599230M
+      - title: "WorldCat record (OCLC 862150528)"
+        url: https://search.worldcat.org/title/862150528
   - title: Un Mundo Incierto
     year: 2002
     publisher: Libros del Zorzal
+    verified: true
     sources:
-      - title: Open Library edition OL13195781M
+      - title: "Open Library edition OL13195781M"
         url: https://openlibrary.org/books/OL13195781M
+      - title: "WorldCat record (OCLC 54429530)"
+        url: https://search.worldcat.org/title/54429530
   - title: World of Possibilities
     year: 2002
     publisher: Cambridge University Press
@@ -501,50 +719,87 @@ works:
     year: 2003
     publisher: New Press
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL3686911M
+      - title: "Open Library edition OL3686911M"
         url: https://openlibrary.org/books/OL3686911M
+      - title: "WorldCat record (OCLC 52085930)"
+        url: https://search.worldcat.org/title/52085930
+      - title: "Library of Congress record (LCCN 2003050994)"
+        url: https://lccn.loc.gov/2003050994
   - title: The Uncertainties of Knowledge (Politics, History, and Social Change)
     year: 2003
     publisher: Temple University Press
     place: Philadelphia, PA
+    verified: true
     sources:
-      - title: Open Library edition OL22583071M
+      - title: "Open Library edition OL22583071M"
         url: https://openlibrary.org/books/OL22583071M
+      - title: "WorldCat record (OCLC 52860205)"
+        url: https://search.worldcat.org/title/52860205
+      - title: "Library of Congress record (LCCN 2003061649)"
+        url: https://lccn.loc.gov/2003061649
   - title: World-Systems Analysis
     year: 2004
     publisher: Duke University Press
+    verified: true
     sources:
-      - title: Open Library edition OL29696113M
+      - title: "Open Library edition OL29696113M"
         url: https://openlibrary.org/books/OL29696113M
+      - title: "Open Library edition OL9612288M"
+        url: https://openlibrary.org/books/OL9612288M
+      - title: "Open Library edition OL9313823M"
+        url: https://openlibrary.org/books/OL9313823M
+      - title: "WorldCat record (OCLC 54454871)"
+        url: https://search.worldcat.org/title/54454871
   - title: Overcoming the Two Cultures
     subtitle: Science Versus the Humanities in the Modern World-System
     year: 2004
     publisher: Paradigm Publishers
     place: Boulder, Colo
+    verified: true
     sources:
-      - title: Open Library edition OL21100645M
+      - title: "Open Library edition OL21100645M"
         url: https://openlibrary.org/books/OL21100645M
+      - title: "WorldCat record (OCLC 55960853)"
+        url: https://search.worldcat.org/title/55960853
+      - title: "Library of Congress record (LCCN 2004016382)"
+        url: https://lccn.loc.gov/2004016382
   - title: Alternatives
     year: 2004
     publisher: Paradigm Publishers
+    verified: true
     sources:
-      - title: Open Library edition OL8876403M
+      - title: "Open Library edition OL8876403M"
         url: https://openlibrary.org/books/OL8876403M
+      - title: "WorldCat record (OCLC 56792638)"
+        url: https://search.worldcat.org/title/56792638
+      - title: "Open Library edition OL8876402M"
+        url: https://openlibrary.org/books/OL8876402M
+      - title: "WorldCat record (OCLC 1100670623)"
+        url: https://search.worldcat.org/title/1100670623
   - title: European Universalism
     year: 2005
     publisher: New Press
     place: New York, NY
+    verified: true
     sources:
-      - title: Open Library edition OL22734831M
+      - title: "Open Library edition OL22734831M"
         url: https://openlibrary.org/books/OL22734831M
   - title: Making Waves
     year: 2007
     publisher: Paradigm Publishers
     place: Boulder
+    verified: true
     sources:
-      - title: Open Library edition OL17932666M
+      - title: "Open Library edition OL17932666M"
         url: https://openlibrary.org/books/OL17932666M
+      - title: "Library of Congress record (LCCN 2007020034)"
+        url: https://lccn.loc.gov/2007020034
+      - title: "Open Library edition OL12434427M"
+        url: https://openlibrary.org/books/OL12434427M
+      - title: "WorldCat record (OCLC 931534613)"
+        url: https://search.worldcat.org/title/931534613
   - title: Questioning Nineteenth-Century Assumptions About Knowledge, III
     year: 2010
     publisher: State University of New York Press
@@ -561,16 +816,26 @@ works:
     year: 2011
     publisher: University of California Press
     place: Berkeley
+    verified: true
     sources:
-      - title: Open Library edition OL25074518M
+      - title: "Open Library edition OL25074518M"
         url: https://openlibrary.org/books/OL25074518M
+      - title: "WorldCat record (OCLC 668191589)"
+        url: https://search.worldcat.org/title/668191589
+      - title: "Library of Congress record (LCCN 2010040366)"
+        url: https://lccn.loc.gov/2010040366
   - title: Uncertain Worlds
     year: 2012
     publisher: Paradigm Publishers
     place: Boulder, CO
+    verified: true
     sources:
-      - title: Open Library edition OL25223760M
+      - title: "Open Library edition OL25223760M"
         url: https://openlibrary.org/books/OL25223760M
+      - title: "WorldCat record (OCLC 682894230)"
+        url: https://search.worldcat.org/title/682894230
+      - title: "Library of Congress record (LCCN 2012005996)"
+        url: https://lccn.loc.gov/2012005996
   - title: Does Capitalism Have a Future?
     year: 2013
     publisher: Oxford University Press, Incorporated
@@ -580,15 +845,25 @@ works:
   - title: World Is Out of Joint
     year: 2014
     publisher: Taylor & Francis Group
+    verified: true
     sources:
-      - title: Open Library edition OL34614934M
+      - title: "Open Library edition OL34614934M"
         url: https://openlibrary.org/books/OL34614934M
+      - title: "WorldCat record (OCLC 928040259)"
+        url: https://search.worldcat.org/title/928040259
+      - title: "Library of Congress record (LCCN 2014017352)"
+        url: https://lccn.loc.gov/2014017352
   - title: Overcoming Global Inequalities
     year: 2014
     publisher: Taylor & Francis Group
+    verified: true
     sources:
-      - title: Open Library edition OL34607419M
+      - title: "Open Library edition OL34607419M"
         url: https://openlibrary.org/books/OL34607419M
+      - title: "WorldCat record (OCLC 896786533)"
+        url: https://search.worldcat.org/title/896786533
+      - title: "Library of Congress record (LCCN 2014017033)"
+        url: https://lccn.loc.gov/2014017033
   - title: Chaotic Uncertainty
     year: 2018
     publisher: Kopernik Inc
@@ -604,9 +879,12 @@ works:
   - title: Global Left
     year: 2021
     publisher: Taylor & Francis Group
+    verified: true
     sources:
-      - title: Open Library edition OL33851659M
-        url: https://openlibrary.org/books/OL33851659M
+      - title: "Open Library edition OL33851566M"
+        url: https://openlibrary.org/books/OL33851566M
+      - title: "WorldCat record (OCLC 1264401775)"
+        url: https://search.worldcat.org/title/1264401775
   - title: Gobal Left
     year: 2021
     publisher: Taylor & Francis Group

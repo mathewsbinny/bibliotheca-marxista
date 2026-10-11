@@ -13,13 +13,23 @@ works:
     year: 1957
     publisher: Communist Party of India
     place: New Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL52281223M
+      - title: "Open Library edition OL52281223M"
         url: https://openlibrary.org/books/OL52281223M
+      - title: "WorldCat record (OCLC 26431656)"
+        url: https://search.worldcat.org/title/26431656
   - title: In the Cause of the People
     year: 1973
     publisher: Orient Longman
     place: Madras
+    verified: true
     sources:
-      - title: Open Library edition OL19269053M
+      - title: "Open Library edition OL19269053M"
         url: https://openlibrary.org/books/OL19269053M
+      - title: "Open Library edition OL5032888M"
+        url: https://openlibrary.org/books/OL5032888M
+      - title: "WorldCat record (OCLC 814937)"
+        url: https://search.worldcat.org/title/814937
+      - title: "Library of Congress record (LCCN 73902687)"
+        url: https://lccn.loc.gov/73902687

@@ -11,44 +11,63 @@ works:
     year: 1986
     publisher: Westview Press
     place: Boulder, Colo
+    verified: true
     sources:
-      - title: Open Library edition OL2709046M
+      - title: "Open Library edition OL2709046M"
         url: https://openlibrary.org/books/OL2709046M
+      - title: "WorldCat record (OCLC 13157850)"
+        url: https://search.worldcat.org/title/13157850
+      - title: "Library of Congress record (LCCN 86001646)"
+        url: https://lccn.loc.gov/86001646
   - title: Co-operative Security Order in and for Europe
     year: 1993
     publisher: Oxf. U. P.
+    verified: true
     sources:
-      - title: Open Library edition OL22279235M
+      - title: "Open Library edition OL22279235M"
         url: https://openlibrary.org/books/OL22279235M
   - title: Arms Control and Disarmament
     subtitle: A New Conceptual Approach
     year: 2000
     publisher: United Nations, Dept. for Disarmament Affairs
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL22425217M
+      - title: "Open Library edition OL22425217M"
         url: https://openlibrary.org/books/OL22425217M
+      - title: "WorldCat record (OCLC 45130010)"
+        url: https://search.worldcat.org/title/45130010
+      - title: "Library of Congress record (LCCN 2003384058)"
+        url: https://lccn.loc.gov/2003384058
   - title: A Future Arms Control Agenda
     subtitle: Proceedings of Nobel Symposium 118, 1999
     year: 2001
     language: English
     publisher: Oxford University Press
     place: New York
+    verified: true
     sources:
-      - title: SUDOC record 096927739
-        url: https://www.sudoc.fr/096927739
-      - title: swisscovery record 991172955582505501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991172955582505501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: Library of Congress record 2001021926
+      - title: "Open Library edition OL3942464M"
+        url: https://openlibrary.org/books/OL3942464M
+      - title: "WorldCat record (OCLC 45873746)"
+        url: https://search.worldcat.org/title/45873746
+      - title: "Library of Congress record (LCCN 2001021926)"
         url: https://lccn.loc.gov/2001021926
   - title: New Political Act for the United Nations for the 21st Century
     subtitle: Proposal and Concepts
     year: 2004
     publisher: Diplomatic Academy of the Ministry of Foreign Affairs
     place: Warszawa
+    verified: true
     sources:
-      - title: Open Library edition OL21312312M
+      - title: "Open Library edition OL21312312M"
         url: https://openlibrary.org/books/OL21312312M
+      - title: "Open Library edition OL19979588M"
+        url: https://openlibrary.org/books/OL19979588M
+      - title: "WorldCat record (OCLC 56366677)"
+        url: https://search.worldcat.org/title/56366677
+      - title: "Library of Congress record (LCCN 2004442661)"
+        url: https://lccn.loc.gov/2004442661
   - title: Towards the UN Reform
     subtitle: >-
       New Threats, New Responses: The Warsaw Report of the Regional Conference in Support of the
@@ -57,9 +76,16 @@ works:
     year: 2004
     publisher: Diplomatic Academy of the Ministry of Foreign Affairs
     place: Warsaw
+    verified: true
     sources:
-      - title: Open Library edition OL21778893M
+      - title: "Open Library edition OL21778893M"
         url: https://openlibrary.org/books/OL21778893M
+      - title: "Open Library edition OL19687551M"
+        url: https://openlibrary.org/books/OL19687551M
+      - title: "WorldCat record (OCLC 59225732)"
+        url: https://search.worldcat.org/title/59225732
+      - title: "Library of Congress record (LCCN 2005427133)"
+        url: https://lccn.loc.gov/2005427133
   - title: Białe plamy - czarne plamy
     subtitle: Sprawy trudne w relacjach polsko-rosyjskich 1918-2008
     year: 2010
@@ -79,13 +105,14 @@ works:
     language: English
     publisher: University of Pittsburgh Press
     place: Pittsburgh, Pa
+    verified: true
     sources:
-      - title: SUDOC record 192441493
-        url: https://www.sudoc.fr/192441493
-      - title: swisscovery record 991092281729705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991092281729705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: National Library of Poland record 991048133279705066
-        url: https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991048133279705066&vid=48OMNIS_NLOP:48OMNIS_NLOP
+      - title: "Open Library edition OL27187831M"
+        url: https://openlibrary.org/books/OL27187831M
+      - title: "WorldCat record (OCLC 898165617)"
+        url: https://search.worldcat.org/title/898165617
+      - title: "Library of Congress record (LCCN 2015297189)"
+        url: https://lccn.loc.gov/2015297189
   - title: Rafał Lemkin (1900-1959)
     subtitle: Przykład moralnego zaangażowania
     year: 2022

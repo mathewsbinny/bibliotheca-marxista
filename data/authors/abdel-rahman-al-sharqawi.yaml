@@ -10,6 +10,11 @@ works:
   - title: Egyptian Earth
     year: 1990
     publisher: Saqi Books
+    verified: true
     sources:
-      - title: Open Library edition OL11046706M
+      - title: "Open Library edition OL11046706M"
         url: https://openlibrary.org/books/OL11046706M
+      - title: "WorldCat record (OCLC 20524758)"
+        url: https://search.worldcat.org/title/20524758
+      - title: "Library of Congress record (LCCN gb89049654)"
+        url: https://lccn.loc.gov/gb89049654

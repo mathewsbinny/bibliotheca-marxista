@@ -13,16 +13,26 @@ works:
     year: 1999
     publisher: Caballito
     place: México, D. F
+    verified: true
     sources:
-      - title: Open Library edition OL19507002M
+      - title: "Open Library edition OL19507002M"
         url: https://openlibrary.org/books/OL19507002M
+      - title: "WorldCat record (OCLC 43400361)"
+        url: https://search.worldcat.org/title/43400361
+      - title: "Library of Congress record (LCCN 00333842)"
+        url: https://lccn.loc.gov/00333842
   - title: Neoliberalismo y educación
     year: 2000
     publisher: Ediciones El Caballito
     place: Tlalpan, México, D.F
+    verified: true
     sources:
-      - title: Open Library edition OL18344893M
+      - title: "Open Library edition OL18344893M"
         url: https://openlibrary.org/books/OL18344893M
+      - title: "WorldCat record (OCLC 47092140)"
+        url: https://search.worldcat.org/title/47092140
+      - title: "Library of Congress record (LCCN 2001388558)"
+        url: https://lccn.loc.gov/2001388558
   - title: 'América Latina: de crisis y paradigmas'
     year: 2005
     publisher: Universidad Obrera de México
@@ -34,46 +44,68 @@ works:
     year: 2007
     publisher: Plaza y Valdés
     place: México, D.F
+    verified: true
     sources:
-      - title: Open Library edition OL23151816M
+      - title: "Open Library edition OL23151816M"
         url: https://openlibrary.org/books/OL23151816M
+      - title: "Library of Congress record (LCCN 2008465223)"
+        url: https://lccn.loc.gov/2008465223
   - title: Capital, trabajo y nueva organización obrera
     year: 2012
     publisher: UANL
     place: México
+    verified: true
     sources:
-      - title: Open Library edition OL44661169M
+      - title: "Open Library edition OL44661169M"
         url: https://openlibrary.org/books/OL44661169M
+      - title: "WorldCat record (OCLC 836848904)"
+        url: https://search.worldcat.org/title/836848904
   - title: México (re)cargado
     year: 2014
     publisher: Facultad de Ciencias Políticas y Sociales, Universidad Nacional Autónoma de México
     place: México, D. F
+    verified: true
     sources:
-      - title: Open Library edition OL31293034M
+      - title: "Open Library edition OL31293034M"
         url: https://openlibrary.org/books/OL31293034M
+      - title: "WorldCat record (OCLC 890735308)"
+        url: https://search.worldcat.org/title/890735308
+      - title: "Library of Congress record (LCCN 2014480969)"
+        url: https://lccn.loc.gov/2014480969
   - title: El precariado
     year: 2015
     publisher: >-
       Universidad Nacional Autónoma de México, Facultad de Ciencias Políticas y Sociales,
       Posgrado en Estudios Latinoamericanos
     place: México
+    verified: true
     sources:
-      - title: Open Library edition OL59981047M
+      - title: "Open Library edition OL59981047M"
         url: https://openlibrary.org/books/OL59981047M
+      - title: "WorldCat record (OCLC 960035280)"
+        url: https://search.worldcat.org/title/960035280
   - title: The Future of Work
     year: 2015
     publisher: Brill
     place: Leiden
+    verified: true
     sources:
-      - title: Open Library edition OL30399212M
+      - title: "Open Library edition OL30399212M"
         url: https://openlibrary.org/books/OL30399212M
+      - title: "WorldCat record (OCLC 918591070)"
+        url: https://search.worldcat.org/title/918591070
+      - title: "Library of Congress record (LCCN 2015032418)"
+        url: https://lccn.loc.gov/2015032418
   - title: México desahuciado
     year: 2017
     publisher: Consejo Latinoamericano de Ciencias Sociales
     place: Ciudad de Buenos Aires, Argentina
+    verified: true
     sources:
-      - title: Open Library edition OL44523565M
+      - title: "Open Library edition OL44523565M"
         url: https://openlibrary.org/books/OL44523565M
+      - title: "WorldCat record (OCLC 1011531956)"
+        url: https://search.worldcat.org/title/1011531956
   - title: Sub-Imperialism Revisited
     year: 2017
     publisher: BRILL

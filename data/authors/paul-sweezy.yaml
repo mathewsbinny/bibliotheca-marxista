@@ -31,9 +31,16 @@ works:
     year: 1938
     publisher: Harvard University Press
     place: Cambridge,Mass
+    verified: true
     sources:
-      - title: Open Library edition OL20932467M
+      - title: "Open Library edition OL20932467M"
         url: https://openlibrary.org/books/OL20932467M
+      - title: "Open Library edition OL17767350M"
+        url: https://openlibrary.org/books/OL17767350M
+      - title: "Open Library edition OL6381181M"
+        url: https://openlibrary.org/books/OL6381181M
+      - title: "WorldCat record (OCLC 3215739)"
+        url: https://search.worldcat.org/title/3215739
   - title: The Theory of Capitalist Development
     year: 1942
     publisher: Oxford University Press
@@ -41,47 +48,76 @@ works:
     notes: Principles of Marxian Political Economy.
     verified: true
     sources:
-      - title: Open Library edition OL13845431M
+      - title: "Open Library edition OL13845431M"
         url: https://openlibrary.org/books/OL13845431M
-      - title: Open Library edition OL6441598M
+      - title: "Open Library edition OL6441598M"
         url: https://openlibrary.org/books/OL6441598M
-      - title: WorldCat record (OCLC 530077)
+      - title: "WorldCat record (OCLC 530077)"
         url: https://search.worldcat.org/title/530077
-      - title: Library of Congress record (LCCN 42025876)
+      - title: "Library of Congress record (LCCN 42025876)"
         url: https://lccn.loc.gov/42025876
   - title: Socialism
     year: 1949
     publisher: McGraw
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL17767351M
+      - title: "Open Library edition OL17767351M"
         url: https://openlibrary.org/books/OL17767351M
+      - title: "Open Library edition OL6048503M"
+        url: https://openlibrary.org/books/OL6048503M
+      - title: "WorldCat record (OCLC 362388)"
+        url: https://search.worldcat.org/title/362388
+      - title: "Library of Congress record (LCCN 49008182)"
+        url: https://lccn.loc.gov/49008182
   - title: F.O. Matthiessen, 1902-1950
     year: 1950
     publisher: Schuman
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL6085055M
+      - title: "Open Library edition OL6085055M"
         url: https://openlibrary.org/books/OL6085055M
+      - title: "WorldCat record (OCLC 760682)"
+        url: https://search.worldcat.org/title/760682
+      - title: "Library of Congress record (LCCN 50058262)"
+        url: https://lccn.loc.gov/50058262
   - title: Principles of Communism
     year: 1952
     publisher: Monthly Review
+    verified: true
     sources:
-      - title: Open Library edition OL61295845M
+      - title: "Open Library edition OL61295845M"
         url: https://openlibrary.org/books/OL61295845M
+      - title: "WorldCat record (OCLC 274961)"
+        url: https://search.worldcat.org/title/274961
   - title: The Present as History
     year: 1953
     publisher: Monthly Review Pr.
+    verified: true
     sources:
-      - title: Open Library edition OL23788109M
-        url: https://openlibrary.org/books/OL23788109M
+      - title: "Open Library edition OL20657390M"
+        url: https://openlibrary.org/books/OL20657390M
+      - title: "Open Library edition OL6138180M"
+        url: https://openlibrary.org/books/OL6138180M
+      - title: "WorldCat record (OCLC 169234)"
+        url: https://search.worldcat.org/title/169234
+      - title: "Library of Congress record (LCCN 53012728)"
+        url: https://lccn.loc.gov/53012728
   - title: The Transition from Feudalism to Capitalism
     year: 1954
     publisher: Science & Society
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL21109009M
+      - title: "Open Library edition OL21109009M"
         url: https://openlibrary.org/books/OL21109009M
+      - title: "Open Library edition OL17884575M"
+        url: https://openlibrary.org/books/OL17884575M
+      - title: "Library of Congress record (LCCN 55006109)"
+        url: https://lccn.loc.gov/55006109
+      - title: "Open Library edition OL57157714M"
+        url: https://openlibrary.org/books/OL57157714M
   - title: What Every American Should Know About Indo-China
     year: 1954
     publisher: '[no publisher recorded]'
@@ -93,36 +129,57 @@ works:
     year: 1954
     publisher: Monthly Review
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL32138726M
+      - title: "Open Library edition OL32138726M"
         url: https://openlibrary.org/books/OL32138726M
+      - title: "WorldCat record (OCLC 8047767)"
+        url: https://search.worldcat.org/title/8047767
   - title: Marxian Socialism
     year: 1956
     publisher: Monthly Review Press
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL36643768M
+      - title: "Open Library edition OL36643768M"
         url: https://openlibrary.org/books/OL36643768M
+      - title: "WorldCat record (OCLC 373883)"
+        url: https://search.worldcat.org/title/373883
   - title: The Theory of U. S. Foreign Policy
     year: 1960
     publisher: Monthly Review Press
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL5813233M
+      - title: "Open Library edition OL5813233M"
         url: https://openlibrary.org/books/OL5813233M
+      - title: "WorldCat record (OCLC 4213269)"
+        url: https://search.worldcat.org/title/4213269
+      - title: "Library of Congress record (LCCN 60053539)"
+        url: https://lccn.loc.gov/60053539
   - title: Three Reports on the Chinese Communes
     year: 1960
     publisher: Outlook
     place: Sydney
+    verified: true
     sources:
-      - title: Open Library edition OL5347857M
+      - title: "Open Library edition OL5347857M"
         url: https://openlibrary.org/books/OL5347857M
+      - title: "Library of Congress record (LCCN 72218956)"
+        url: https://lccn.loc.gov/72218956
   - title: Paul A. Baran, 1910-1964
     year: 1965
     publisher: Monthly review Press
+    verified: true
     sources:
-      - title: Open Library edition OL42992859M
-        url: https://openlibrary.org/books/OL42992859M
+      - title: "Open Library edition OL14346508M"
+        url: https://openlibrary.org/books/OL14346508M
+      - title: "Open Library edition OL5947397M"
+        url: https://openlibrary.org/books/OL5947397M
+      - title: "WorldCat record (OCLC 186688)"
+        url: https://search.worldcat.org/title/186688
+      - title: "Library of Congress record (LCCN 65019365)"
+        url: https://lccn.loc.gov/65019365
   - title: Monopoly Capital
     year: 1966
     publisher: Monthly Review Press
@@ -131,78 +188,130 @@ works:
     notes: With Paul A. Baran.
     verified: true
     sources:
-      - title: Open Library edition OL19655810M
+      - title: "Open Library edition OL19655810M"
         url: https://openlibrary.org/books/OL19655810M
-      - title: Open Library edition OL13645492M
+      - title: "Open Library edition OL13645492M"
         url: https://openlibrary.org/books/OL13645492M
-      - title: Open Library edition OL5944155M
+      - title: "Open Library edition OL5944155M"
         url: https://openlibrary.org/books/OL5944155M
-      - title: WorldCat record (OCLC 168632)
+      - title: "WorldCat record (OCLC 168632)"
         url: https://search.worldcat.org/title/168632
   - title: Marx and Modern Economics
     year: 1968
     publisher: Monthly Review Press
+    verified: true
     sources:
-      - title: Open Library edition OL43049239M
-        url: https://openlibrary.org/books/OL43049239M
+      - title: "Open Library edition OL46998990M"
+        url: https://openlibrary.org/books/OL46998990M
   - title: Lenin Today
     year: 1970
     publisher: M[onthly] R[eview Press
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL4913362M
+      - title: "Open Library edition OL4913362M"
         url: https://openlibrary.org/books/OL4913362M
+      - title: "Library of Congress record (LCCN 76122735)"
+        url: https://lccn.loc.gov/76122735
   - title: 'Vietnam: The Endless War'
     year: 1970
     publisher: '[Monthly Review Press'
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL4576242M
+      - title: "Open Library edition OL4576242M"
         url: https://openlibrary.org/books/OL4576242M
+      - title: "WorldCat record (OCLC 109521)"
+        url: https://search.worldcat.org/title/109521
+      - title: "Library of Congress record (LCCN 77127927)"
+        url: https://lccn.loc.gov/77127927
+      - title: "Open Library edition OL23373566M"
+        url: https://openlibrary.org/books/OL23373566M
   - title: On the Transition to Socialism
     year: 1971
     publisher: '[Monthly Review Press'
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL5317947M
+      - title: "Open Library edition OL5317947M"
         url: https://openlibrary.org/books/OL5317947M
+      - title: "WorldCat record (OCLC 11375909)"
+        url: https://search.worldcat.org/title/11375909
+      - title: "Library of Congress record (LCCN 72158924)"
+        url: https://lccn.loc.gov/72158924
   - title: The Dynamics of U.S. Capitalism
     year: 1972
     publisher: Monthly Review
+    verified: true
     sources:
-      - title: Open Library edition OL20300267M
+      - title: "Open Library edition OL20300267M"
         url: https://openlibrary.org/books/OL20300267M
+      - title: "Open Library edition OL4469533M"
+        url: https://openlibrary.org/books/OL4469533M
+      - title: "WorldCat record (OCLC 509453)"
+        url: https://search.worldcat.org/title/509453
+      - title: "Library of Congress record (LCCN 79179962)"
+        url: https://lccn.loc.gov/79179962
   - title: Modern Capitalism and Other Essays
     year: 1972
     publisher: Monthly Review Press
+    verified: true
     sources:
-      - title: Open Library edition OL19732021M
+      - title: "Open Library edition OL19732021M"
         url: https://openlibrary.org/books/OL19732021M
+      - title: "Open Library edition OL5708747M"
+        url: https://openlibrary.org/books/OL5708747M
+      - title: "WorldCat record (OCLC 60557740)"
+        url: https://search.worldcat.org/title/60557740
+      - title: "Library of Congress record (LCCN 70178176)"
+        url: https://lccn.loc.gov/70178176
   - title: Revolution and Counter-revolution in Chile
     year: 1974
     publisher: Monthly Review Press
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL23792462M
-        url: https://openlibrary.org/books/OL23792462M
+      - title: "Open Library edition OL5440531M"
+        url: https://openlibrary.org/books/OL5440531M
+      - title: "WorldCat record (OCLC 805220)"
+        url: https://search.worldcat.org/title/805220
+      - title: "Library of Congress record (LCCN 73090073)"
+        url: https://lccn.loc.gov/73090073
+      - title: "Open Library edition OL20113597M"
+        url: https://openlibrary.org/books/OL20113597M
   - title: Post-revolutionary Society
     year: 1980
     publisher: Monthly Review
     place: New York
+    verified: true
     sources:
-      - title: Open Library edition OL19917826M
+      - title: "Open Library edition OL19917826M"
         url: https://openlibrary.org/books/OL19917826M
+      - title: "WorldCat record (OCLC 6666464)"
+        url: https://search.worldcat.org/title/6666464
+      - title: "Open Library edition OL16498180M"
+        url: https://openlibrary.org/books/OL16498180M
+      - title: "Open Library edition OL4095206M"
+        url: https://openlibrary.org/books/OL4095206M
   - title: Four Lectures on Marxism
     year: 1981
     publisher: Monthly Review
     place: NewYork
+    verified: true
     sources:
-      - title: Open Library edition OL19171914M
+      - title: "Open Library edition OL19171914M"
         url: https://openlibrary.org/books/OL19171914M
+      - title: "Open Library edition OL3793202M"
+        url: https://openlibrary.org/books/OL3793202M
+      - title: "WorldCat record (OCLC 7776303)"
+        url: https://search.worldcat.org/title/7776303
+      - title: "Library of Congress record (LCCN 81081694)"
+        url: https://lccn.loc.gov/81081694
   - title: Dunya Ekonomisinde Bunalim
     year: 1983
     publisher: Acar
     place: Istanbul
+    verified: true
     sources:
-      - title: Open Library edition OL20983267M
+      - title: "Open Library edition OL20983267M"
         url: https://openlibrary.org/books/OL20983267M

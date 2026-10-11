@@ -13,6 +13,9 @@ works:
     year: 1991
     publisher: '"Ėrkin"'
     place: Bishkek
+    verified: true
     sources:
-      - title: Open Library edition OL917262M
+      - title: "Open Library edition OL917262M"
         url: https://openlibrary.org/books/OL917262M
+      - title: "Library of Congress record (LCCN 95214082)"
+        url: https://lccn.loc.gov/95214082

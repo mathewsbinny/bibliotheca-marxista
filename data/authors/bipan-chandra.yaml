@@ -11,9 +11,14 @@ works:
     year: 1966
     publisher: People's Pub. House
     place: New Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL14742M
+      - title: "Open Library edition OL14742M"
         url: https://openlibrary.org/books/OL14742M
+      - title: "WorldCat record (OCLC 3957271)"
+        url: https://search.worldcat.org/title/3957271
+      - title: "Library of Congress record (LCCN sa67006677)"
+        url: https://lccn.loc.gov/sa67006677
   - title: Modern India
     year: 1971
     publisher: National Council of Educational Research and Training
@@ -32,44 +37,80 @@ works:
     year: 1972
     publisher: National Book Trust
     place: New Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL13708783M
+      - title: "Open Library edition OL5402106M"
+        url: https://openlibrary.org/books/OL5402106M
+      - title: "WorldCat record (OCLC 693666)"
+        url: https://search.worldcat.org/title/693666
+      - title: "Library of Congress record (LCCN 72906323)"
+        url: https://lccn.loc.gov/72906323
+      - title: "Open Library edition OL13708783M"
         url: https://openlibrary.org/books/OL13708783M
   - title: Nationalism and Colonialism in Modern India
     year: 1979
     publisher: Longman Orient
     place: New Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL21130261M
+      - title: "Open Library edition OL21130261M"
         url: https://openlibrary.org/books/OL21130261M
+      - title: "Open Library edition OL20513489M"
+        url: https://openlibrary.org/books/OL20513489M
+      - title: "WorldCat record (OCLC 34513923)"
+        url: https://search.worldcat.org/title/34513923
+      - title: "Open Library edition OL43657734M"
+        url: https://openlibrary.org/books/OL43657734M
   - title: The Indian Left
     year: 1983
     publisher: Vikas
     place: New Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL2829158M
+      - title: "Open Library edition OL2829158M"
         url: https://openlibrary.org/books/OL2829158M
+      - title: "WorldCat record (OCLC 10948885)"
+        url: https://search.worldcat.org/title/10948885
+      - title: "Library of Congress record (LCCN 83904909)"
+        url: https://lccn.loc.gov/83904909
   - title: Communalism in Modern India
     year: 1984
     publisher: Vikas
     place: New Dehli
+    verified: true
     sources:
-      - title: Open Library edition OL17343539M
+      - title: "Open Library edition OL17343539M"
         url: https://openlibrary.org/books/OL17343539M
+      - title: "WorldCat record (OCLC 12766627)"
+        url: https://search.worldcat.org/title/12766627
+      - title: "Open Library edition OL3007061M"
+        url: https://openlibrary.org/books/OL3007061M
+      - title: "WorldCat record (OCLC 11709322)"
+        url: https://search.worldcat.org/title/11709322
   - title: Indian National Movement
     year: 1988
     publisher: Vikas Pub. House
     place: New Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL2165510M
+      - title: "Open Library edition OL2165510M"
         url: https://openlibrary.org/books/OL2165510M
+      - title: "WorldCat record (OCLC 18947575)"
+        url: https://search.worldcat.org/title/18947575
+      - title: "Library of Congress record (LCCN 88902694)"
+        url: https://lccn.loc.gov/88902694
   - title: India's Struggle for Independence, 1857-1947
     year: 1988
     publisher: Viking
     place: '[New Delhi, India]'
+    verified: true
     sources:
-      - title: Open Library edition OL2167224M
+      - title: "Open Library edition OL2167224M"
         url: https://openlibrary.org/books/OL2167224M
+      - title: "WorldCat record (OCLC 19568967)"
+        url: https://search.worldcat.org/title/19568967
+      - title: "Library of Congress record (LCCN 88904428)"
+        url: https://lccn.loc.gov/88904428
   - title: Chandra Bipin
     year: 1989
     publisher: Penguin Books,India
@@ -86,64 +127,109 @@ works:
     year: 1992
     publisher: Orient Longman
     place: New Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL1686132M
+      - title: "Open Library edition OL1686132M"
         url: https://openlibrary.org/books/OL1686132M
+      - title: "WorldCat record (OCLC 26541996)"
+        url: https://search.worldcat.org/title/26541996
+      - title: "Library of Congress record (LCCN 91907937)"
+        url: https://lccn.loc.gov/91907937
   - title: Essays on Contemporary India
     year: 1993
     publisher: Har-Anand
     place: Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL15310314M
+      - title: "Open Library edition OL1058752M"
+        url: https://openlibrary.org/books/OL1058752M
+      - title: "WorldCat record (OCLC 30410702)"
+        url: https://search.worldcat.org/title/30410702
+      - title: "Library of Congress record (LCCN 93903294)"
+        url: https://lccn.loc.gov/93903294
+      - title: "Open Library edition OL15310314M"
         url: https://openlibrary.org/books/OL15310314M
   - title: Essays on Indian Nationalism
     year: 1993
     publisher: Har-Anand Publications
     place: New Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL1058751M
+      - title: "Open Library edition OL1058751M"
         url: https://openlibrary.org/books/OL1058751M
+      - title: "WorldCat record (OCLC 29637624)"
+        url: https://search.worldcat.org/title/29637624
+      - title: "Library of Congress record (LCCN 93903293)"
+        url: https://lccn.loc.gov/93903293
   - title: Ideology and Politics in Modern India
     year: 1994
     publisher: Har-Anand Publications
     place: New Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL1253680M
+      - title: "Open Library edition OL1253680M"
         url: https://openlibrary.org/books/OL1253680M
+      - title: "WorldCat record (OCLC 31013402)"
+        url: https://search.worldcat.org/title/31013402
+      - title: "Library of Congress record (LCCN 94903553)"
+        url: https://lccn.loc.gov/94903553
   - title: India After Independence
     year: 1999
     publisher: Penguin Books
     place: New Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL169302M
+      - title: "Open Library edition OL169302M"
         url: https://openlibrary.org/books/OL169302M
+      - title: "WorldCat record (OCLC 43968897)"
+        url: https://search.worldcat.org/title/43968897
+      - title: "Library of Congress record (LCCN 99947857)"
+        url: https://lccn.loc.gov/99947857
   - title: Essays on Colonialism
     year: 1999
     publisher: Sangam
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL18716996M
+      - title: "Open Library edition OL18716996M"
         url: https://openlibrary.org/books/OL18716996M
+      - title: "WorldCat record (OCLC 41959150)"
+        url: https://search.worldcat.org/title/41959150
   - title: In the Name of Democracy
     year: 2003
     publisher: Penguin Books
     place: New Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL3715008M
+      - title: "Open Library edition OL3715008M"
         url: https://openlibrary.org/books/OL3715008M
+      - title: "WorldCat record (OCLC 53083175)"
+        url: https://search.worldcat.org/title/53083175
+      - title: "Library of Congress record (LCCN 2003320955)"
+        url: https://lccn.loc.gov/2003320955
   - title: Composite Culture in a Multicultural Society
     year: 2007
     publisher: Pearson Education, Limited
+    verified: true
     sources:
-      - title: Open Library edition OL29048855M
+      - title: "Open Library edition OL29048855M"
         url: https://openlibrary.org/books/OL29048855M
+      - title: "WorldCat record (OCLC 82673376)"
+        url: https://search.worldcat.org/title/82673376
+      - title: "Library of Congress record (LCCN 2006448753)"
+        url: https://lccn.loc.gov/2006448753
   - title: India Since Independence
     year: 2008
     publisher: Penguin Books
     place: New Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL16859058M
+      - title: "Open Library edition OL16859058M"
         url: https://openlibrary.org/books/OL16859058M
+      - title: "WorldCat record (OCLC 227206181)"
+        url: https://search.worldcat.org/title/227206181
+      - title: "Library of Congress record (LCCN 2008348334)"
+        url: https://lccn.loc.gov/2008348334
   - title: Communalism
     year: 2008
     publisher: National Book Trust
@@ -155,9 +241,14 @@ works:
     year: 2012
     publisher: Orient BlackSwan
     place: New Delhi
+    verified: true
     sources:
-      - title: Open Library edition OL31204607M
+      - title: "Open Library edition OL31204607M"
         url: https://openlibrary.org/books/OL31204607M
+      - title: "WorldCat record (OCLC 782173896)"
+        url: https://search.worldcat.org/title/782173896
+      - title: "Library of Congress record (LCCN 2013315359)"
+        url: https://lccn.loc.gov/2013315359
   - title: Modern Indian History
     year: 2015
     publisher: SAGE Publications India Pvt, Ltd.
@@ -168,6 +259,11 @@ works:
     year: 2016
     publisher: Oxford University Press
     place: New Delhi, India
+    verified: true
     sources:
-      - title: Open Library edition OL26403981M
+      - title: "Open Library edition OL26403981M"
         url: https://openlibrary.org/books/OL26403981M
+      - title: "WorldCat record (OCLC 953811278)"
+        url: https://search.worldcat.org/title/953811278
+      - title: "Library of Congress record (LCCN 2016330151)"
+        url: https://lccn.loc.gov/2016330151

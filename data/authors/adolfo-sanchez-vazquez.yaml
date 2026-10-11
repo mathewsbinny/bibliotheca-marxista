@@ -13,6 +13,13 @@ works:
     year: 2008
     publisher: Renacimiento
     place: Sevilla
+    verified: true
     sources:
-      - title: Open Library edition OL24024932M
+      - title: "Open Library edition OL24024932M"
         url: https://openlibrary.org/books/OL24024932M
+      - title: "Library of Congress record (LCCN 2009378465)"
+        url: https://lccn.loc.gov/2009378465
+      - title: "Open Library edition OL23982992M"
+        url: https://openlibrary.org/books/OL23982992M
+      - title: "Open Library edition OL23974429M"
+        url: https://openlibrary.org/books/OL23974429M

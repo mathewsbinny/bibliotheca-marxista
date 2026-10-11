@@ -15,18 +15,28 @@ works:
     year: 1971
     publisher: Ediciones Prensa Latinoamericana
     place: Santiago] Chile
+    verified: true
     sources:
-      - title: Open Library edition OL4073530M
+      - title: "Open Library edition OL4073530M"
         url: https://openlibrary.org/books/OL4073530M
+      - title: "WorldCat record (OCLC 1036286)"
+        url: https://search.worldcat.org/title/1036286
+      - title: "Library of Congress record (LCCN 79859306)"
+        url: https://lccn.loc.gov/79859306
   - title: Capitalismo dependiente latinoamericano
     year: 1973
     publisher: >-
       Centro de Estudios Socio-económicos de la Universidad de Chile-Editorial Prensa
       Latinoamericana
     place: Santiago de Chile
+    verified: true
     sources:
-      - title: Open Library edition OL50284729M
+      - title: "Open Library edition OL50284729M"
         url: https://openlibrary.org/books/OL50284729M
+      - title: "WorldCat record (OCLC 3313628)"
+        url: https://search.worldcat.org/title/3313628
+      - title: "Open Library edition OL19079593M"
+        url: https://openlibrary.org/books/OL19079593M
   - title: El capitalismo dpendiente latinoamericano
     year: 1974
     publisher: Siglo Veintiuno Editores
@@ -40,34 +50,55 @@ works:
       Universidad Central de Venezuela, Facultad de Ciencias Económicas y Sociales, División
       de Publicaciones
     place: Caracas
+    verified: true
     sources:
-      - title: Open Library edition OL4840046M
+      - title: "Open Library edition OL4840046M"
         url: https://openlibrary.org/books/OL4840046M
+      - title: "WorldCat record (OCLC 1880239)"
+        url: https://search.worldcat.org/title/1880239
+      - title: "Library of Congress record (LCCN 75579425)"
+        url: https://lccn.loc.gov/75579425
   - title: La Revolución cubana
     year: 1974
     publisher: Nuestro Tiempo
     place: México, D.F
+    verified: true
     sources:
-      - title: Open Library edition OL57173665M
+      - title: "Open Library edition OL57173665M"
         url: https://openlibrary.org/books/OL57173665M
+      - title: "WorldCat record (OCLC 1390480)"
+        url: https://search.worldcat.org/title/1390480
+      - title: "Open Library edition OL14603545M"
+        url: https://openlibrary.org/books/OL14603545M
   - title: La revolucio n cubana
     year: 1974
     publisher: Nuestro Tiempo
     place: Mexico D.F
+    verified: true
     sources:
-      - title: Open Library edition OL13659867M
+      - title: "Open Library edition OL13659867M"
         url: https://openlibrary.org/books/OL13659867M
   - title: Teoría de la dependencia
     year: 1978
     publisher: Ediciones Era
     place: México
+    verified: true
     sources:
-      - title: Open Library edition OL4451540M
+      - title: "Open Library edition OL4451540M"
         url: https://openlibrary.org/books/OL4451540M
+      - title: "WorldCat record (OCLC 5081245)"
+        url: https://search.worldcat.org/title/5081245
+      - title: "Library of Congress record (LCCN 79113928)"
+        url: https://lccn.loc.gov/79113928
   - title: La estrategia y la táctica socialistas de Marx y Engels a Lenin
     year: 1980
     publisher: Ediciones Era
     place: México, D.F
+    verified: true
     sources:
-      - title: Open Library edition OL3836734M
+      - title: "Open Library edition OL3836734M"
         url: https://openlibrary.org/books/OL3836734M
+      - title: "WorldCat record (OCLC 7838236)"
+        url: https://search.worldcat.org/title/7838236
+      - title: "Library of Congress record (LCCN 81151081)"
+        url: https://lccn.loc.gov/81151081

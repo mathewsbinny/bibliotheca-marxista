@@ -57,16 +57,22 @@ works:
     year: 1971
     publisher: Jaca Book
     place: Milano
+    verified: true
     sources:
-      - title: Open Library edition OL50304194M
+      - title: "Open Library edition OL50304194M"
         url: https://openlibrary.org/books/OL50304194M
+      - title: "WorldCat record (OCLC 14371514)"
+        url: https://search.worldcat.org/title/14371514
   - title: El imperialismo hoy
     year: 1976
     publisher: Zero
     place: Bilbao
+    verified: true
     sources:
-      - title: Open Library edition OL4181000M
+      - title: "Open Library edition OL4181000M"
         url: https://openlibrary.org/books/OL4181000M
+      - title: "Library of Congress record (LCCN 80458868)"
+        url: https://lccn.loc.gov/80458868
   - title: Marx e il colonialismo
     year: 1977
     language: Italian
@@ -83,48 +89,62 @@ works:
     year: 1978
     publisher: A. Mondadori
     place: Milano
+    verified: true
     sources:
-      - title: Open Library edition OL4358441M
+      - title: "Open Library edition OL4358441M"
         url: https://openlibrary.org/books/OL4358441M
+      - title: "Library of Congress record (LCCN 78400805)"
+        url: https://lccn.loc.gov/78400805
   - title: The Pyramid of Nations
     year: 1980
     language: English
     publisher: Victor
     place: Luxembourg
+    verified: true
     sources:
-      - title: BnF catalogue record cb34789666j
-        url: https://catalogue.bnf.fr/ark:/12148/cb34789666j
-      - title: SUDOC record 006500668
-        url: https://www.sudoc.fr/006500668
-      - title: Library of Congress record 81115463
+      - title: "Open Library edition OL3809002M"
+        url: https://openlibrary.org/books/OL3809002M
+      - title: "Library of Congress record (LCCN 81115463)"
         url: https://lccn.loc.gov/81115463
   - title: Sudafrica Storia Politica Dal Razzismo
     year: 1980
     publisher: Jaca Book
+    verified: true
     sources:
-      - title: Open Library edition OL13428436M
+      - title: "Open Library edition OL13428436M"
         url: https://openlibrary.org/books/OL13428436M
+      - title: "WorldCat record (OCLC 52698038)"
+        url: https://search.worldcat.org/title/52698038
   - title: A History of Africa
     year: 1985
     publisher: Zed Books
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL2657894M
+      - title: "Open Library edition OL2657894M"
         url: https://openlibrary.org/books/OL2657894M
+      - title: "Library of Congress record (LCCN 85242872)"
+        url: https://lccn.loc.gov/85242872
   - title: Progresso e nazione
     subtitle: economia ed ecologia
     year: 1990
     publisher: Jaca Book
     place: Milano
+    verified: true
     sources:
-      - title: Open Library edition OL1614918M
+      - title: "Open Library edition OL1614918M"
         url: https://openlibrary.org/books/OL1614918M
+      - title: "Library of Congress record (LCCN 91156081)"
+        url: https://lccn.loc.gov/91156081
   - title: European Colonial Despotism
     year: 1994
     publisher: Frontline Books
+    verified: true
     sources:
-      - title: Open Library edition OL11374555M
+      - title: "Open Library edition OL11374555M"
         url: https://openlibrary.org/books/OL11374555M
+      - title: "WorldCat record (OCLC 32121062)"
+        url: https://search.worldcat.org/title/32121062
   - title: Du colonialisme aujourd'hui
     year: 2005
     language: French

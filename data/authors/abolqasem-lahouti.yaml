@@ -16,16 +16,22 @@ works:
     year: 1938
     publisher: Tadzhikgiz
     place: Stalinabad
+    verified: true
     sources:
-      - title: Open Library edition OL62424737M
+      - title: "Open Library edition OL62424737M"
         url: https://openlibrary.org/books/OL62424737M
+      - title: "WorldCat record (OCLC 82907040)"
+        url: https://search.worldcat.org/title/82907040
   - title: Sila SSSR
     year: 1938
     publisher: Tadjikskoe gosudarstvennoe izdatelʹstvo
     place: Stalinabad
+    verified: true
     sources:
-      - title: Open Library edition OL49900486M
+      - title: "Open Library edition OL49900486M"
         url: https://openlibrary.org/books/OL49900486M
+      - title: "WorldCat record (OCLC 49626999)"
+        url: https://search.worldcat.org/title/49626999
   - title: Semʹia narodov
     year: 1938
     publisher: Tadzhikskoe gosudarstvennoe izdatelʹstvo
@@ -44,13 +50,19 @@ works:
     year: 1944
     publisher: Idarah-i nashriyat bi zaban-ha-yi khariji
     place: Moscow
+    verified: true
     sources:
-      - title: Open Library edition OL49854801M
+      - title: "Open Library edition OL49854801M"
         url: https://openlibrary.org/books/OL49854801M
+      - title: "WorldCat record (OCLC 35450114)"
+        url: https://search.worldcat.org/title/35450114
   - title: Āsār-i muntakhab
     year: 1946
     publisher: Idāra-yi Nashrīyāt bi Zabānha-yi Khārijī
     place: Muskaw
+    verified: true
     sources:
-      - title: Open Library edition OL49854800M
+      - title: "Open Library edition OL49854800M"
         url: https://openlibrary.org/books/OL49854800M
+      - title: "WorldCat record (OCLC 47764910)"
+        url: https://search.worldcat.org/title/47764910

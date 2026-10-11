@@ -14,26 +14,36 @@ works:
     year: 1988
     publisher: Indiana University Press
     place: Bloomington
+    verified: true
     sources:
-      - title: Open Library edition OL21214360M
+      - title: "Open Library edition OL21214360M"
         url: https://openlibrary.org/books/OL21214360M
   - title: The Challenge
     year: 1988
     publisher: Hutchinson Education
     place: London
+    verified: true
     sources:
-      - title: Open Library edition OL22078333M
+      - title: "Open Library edition OL22078333M"
         url: https://openlibrary.org/books/OL22078333M
   - title: Inside Perestroika
     subtitle: The Future of the Soviet Economy
     year: 1990
     publisher: Harpercollins
+    verified: true
     sources:
-      - title: Open Library edition OL7284404M
+      - title: "Open Library edition OL7284404M"
         url: https://openlibrary.org/books/OL7284404M
+      - title: "WorldCat record (OCLC 22103920)"
+        url: https://search.worldcat.org/title/22103920
+      - title: "Open Library edition OL9239111M"
+        url: https://openlibrary.org/books/OL9239111M
   - title: New Stage of Perestroika
     year: 2019
     publisher: Taylor & Francis Group
+    verified: true
     sources:
-      - title: Open Library edition OL33682000M
+      - title: "Open Library edition OL33682000M"
         url: https://openlibrary.org/books/OL33682000M
+      - title: "WorldCat record (OCLC 1107880402)"
+        url: https://search.worldcat.org/title/1107880402

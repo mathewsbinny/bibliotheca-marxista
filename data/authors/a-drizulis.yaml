@@ -65,9 +65,16 @@ works:
     year: 1963
     publisher: Latvijas PSR Zinātn̦u akadēmijas izdevniecība
     place: Rīgā
+    verified: true
     sources:
-      - title: Open Library edition OL49863109M
+      - title: "Open Library edition OL49863109M"
         url: https://openlibrary.org/books/OL49863109M
+      - title: "WorldCat record (OCLC 46975342)"
+        url: https://search.worldcat.org/title/46975342
+      - title: "Open Library edition OL3520977M"
+        url: https://openlibrary.org/books/OL3520977M
+      - title: "WorldCat record (OCLC 11090209)"
+        url: https://search.worldcat.org/title/11090209
   - title: V dni vojny
     subtitle: Iz istorii Latvii perioda Velikoj Otečestvennoj vojny 1941-1945 gg
     year: 1964
@@ -83,17 +90,17 @@ works:
     language: Latvian
     publisher: '"Zinātne'
     place: Rīgā
+    verified: true
     sources:
-      - title: SUDOC record 111821924
-        url: https://www.sudoc.fr/111821924
-      - title: swisscovery record 991103331189705501
-        url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991103331189705501&vid=41SLSP_NETWORK:VU1_UNION
-      - title: National Library of Poland record 991047776969705066
-        url: https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991047776969705066&vid=48OMNIS_NLOP:48OMNIS_NLOP
+      - title: "Open Library edition OL52547821M"
+        url: https://openlibrary.org/books/OL52547821M
+      - title: "WorldCat record (OCLC 27661352)"
+        url: https://search.worldcat.org/title/27661352
   - title: V. I. Lenin i revoliutsionnaia Latviia
     year: 1970
     publisher: Zinatne
     place: Riga
+    verified: true
     sources:
-      - title: Open Library edition OL5773069M
-        url: https://openlibrary.org/books/OL5773069M
+      - title: "Open Library edition OL20348463M"
+        url: https://openlibrary.org/books/OL20348463M
