@@ -1,7 +1,7 @@
 /**
- * Title records are published as small JSON files, one set per publisher, so a title's page loads
- * only the file holding it. A title's file is chosen by hashing its id, which the build and the
- * browser compute the same way.
+ * The build exports each publisher's titles as small JSON files, which the catalogue database is
+ * built from (scripts/build-db.mjs); a title's file is chosen by hashing its id. Also the title
+ * page's URL, which the pages and the API share.
  */
 
 /** Titles per data file, on average. */

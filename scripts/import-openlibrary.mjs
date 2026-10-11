@@ -3174,6 +3174,8 @@ const dinToLoc = (s) => s.replace(/ch/g, 'kh').replace(/Ch/g, 'Kh').replace(/c/g
 // "Izdat. «Nauka»", "Izd. Mysl'", "'Molodaja Gvardija'", "Nauka, Leningradskoe otdelenie": the house's name
 // alone, without the word for publishing house, quotation marks, or a branch or section.
 const stripImprint = (s) => s.replace(/^[\s«"„“'ʺ[]*((izdat(\.|el['ʹ]?stvo|\b)|izd(\.|-vo)|farlag|(vyd\.?\s+)?nakl(\.|ad\.|adatelstv[ií]))\s*[«"„“'ʺ]*)?/i, '')
+  // The Komsomol's house by its full name, "Izd-vo TsK VLKSM «Molodaia gvardiia»".
+  .replace(/^(ts?k|ц\.?\s?к\.?)\s+(vlksm|влксм)\s*[«"„“'ʺ]*/i, '')
   .replace(/,?\s+(leningradsk\S*|sibirsk\S*|leningrad\.?)\s+otd\S*.*$|,\s*(glav(\.|naja|naia|naâ)|otd(\.|elenie)).*$/i, '')
   .replace(/[»"“”'ʺ\]]+$/, '').trim();
 // The forms are kept only for the records being matched now (each is judged against every rule in

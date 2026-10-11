@@ -21,7 +21,7 @@ Open <http://localhost:4321>. To work on the site's code, run `npm run dev` inst
 | `npm run build:db -- --full` | Rebuilds the database from scratch (~2 min) |
 | `npm run api` | Serves the catalogue API from `db/catalogue.sqlite` |
 | `npm run preview` / `npm run dev` | Serves the built site / the live development site |
-| `npm test` | Tests the database build and the API's queries |
+| `npm test` | Runs the tests: the database build, the API over HTTP, the importer's matching rules and screening, the site's filters, and the integrity of the data |
 | `npm run import -- --write` | Imports titles from Open Library and the library catalogues (hours on a first run; see below) |
 | `npm run verify-authors -- --write` | Checks the authors' bibliographies against Open Library |
 
@@ -100,7 +100,7 @@ server/
   query.mjs                     building and checking its search queries
   Dockerfile, Caddyfile.example deployment
 
-test/                           tests of the database and API (npm test)
+test/                           tests (npm test): database, API, importer rules, site logic, data integrity
 .cache/                         downloaded records (kept between runs; not in the repository)
 db/                             the catalogue database (built; not in the repository)
 reports/                        logs and review reports of imports and checks
