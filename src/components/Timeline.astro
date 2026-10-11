@@ -1,0 +1,84 @@
+---
+/**
+ * Titles per year as a bar chart: plain SVG drawn at build time, with no script and no inline
+ * style (the site's Content-Security-Policy allows neither). Each bar names its year and count
+ * when hovered, and the same figures are given by decade in a table for screen readers and for
+ * reading exact numbers.
+ */
+interface Props {
+  /** The years of the titles (undated titles are left out). */
+  years: (number | undefined)[];
+  /** What the chart shows, e.g. "Titles of Progress Publishers by year". */
+  label: string;
+  /** Years to mark on the chart, e.g. a house's founding and closing. */
+  marks?: { year: number; label: string }[];
+  /** A smaller chart, as in a list of several. */
+  compact?: boolean;
+}
+
+const { years, label, marks = [], compact = false } = Astro.props;
+const counts = new Map<number, number>();
+for (const y of years) if (y) counts.set(y, (counts.get(y) ?? 0) + 1);
+const dated = [...counts.keys()].sort((a, b) => a - b);
+// The years shown: every dated title's, widened to whole decades, plus the marks within reach.
+const first = dated.length ? Math.floor(Math.min(dated[0], ...marks.map((m) => m.year)) / 10) * 10 : 0;
+const last = dated.length ? Math.ceil((Math.max(dated.at(-1)!, ...marks.map((m) => m.year)) + 1) / 10) * 10 - 1 : 0;
+const span = last - first + 1;
+const peak = Math.max(1, ...counts.values());
+
+const W = 720, H = compact ? 90 : 160, LEFT = 40, BOTTOM = 18, TOP = 8;
+const plotW = W - LEFT - 4, plotH = H - BOTTOM - TOP;
+const x = (year: number) => LEFT + ((year - first) / span) * plotW;
+const barW = Math.max(plotW / span - (span < 120 ? 1 : 0), 0.5);
+const y = (n: number) => TOP + plotH - (n / peak) * plotH;
+// A label every 10, 20 or 50 years, by how many years there are.
+const step = span <= 80 ? 10 : span <= 200 ? 20 : 50;
+const ticks = Array.from({ length: Math.floor(span / step) + 1 }, (_, i) => first + i * step).filter((t) => t <= last);
+
+const decades = new Map<number, number>();
+for (const [year, n] of counts) decades.set(Math.floor(year / 10) * 10, (decades.get(Math.floor(year / 10) * 10) ?? 0) + n);
+const total = [...counts.values()].reduce((a, b) => a + b, 0);
+const undated = years.length - total;
+// An id from the label, the same in every build (so unchanged pages stay byte for byte the same).
+const id = `timeline-${[...label].reduce((h, c) => (Math.imul(h, 31) + c.charCodeAt(0)) >>> 0, 7).toString(36)}`;
+const fmt = (n: number) => n.toLocaleString('en');
+---
+
+{dated.length > 0 && (
+  <figure class:list={['timeline', { compact }]}>
+    <svg viewBox={`0 0 ${W} ${H}`} role="img" aria-labelledby={`${id}-caption`} focusable="false">
+      <line class="axis" x1={LEFT} x2={W - 4} y1={TOP + plotH} y2={TOP + plotH} />
+      <text class="tick-label" x={LEFT - 6} y={TOP + 8} text-anchor="end">{fmt(peak)}</text>
+      <text class="tick-label" x={LEFT - 6} y={TOP + plotH} text-anchor="end">0</text>
+      {ticks.map((t) => (
+        <>
+          <line class="tick" x1={x(t)} x2={x(t)} y1={TOP + plotH} y2={TOP + plotH + 4} />
+          <text class="tick-label" x={x(t)} y={H - 3} text-anchor="middle">{t}</text>
+        </>
+      ))}
+      {marks.map((m) => (
+        <line class="mark" x1={x(m.year) + barW / 2} x2={x(m.year) + barW / 2} y1={TOP} y2={TOP + plotH}>
+          <title>{m.label}</title>
+        </line>
+      ))}
+      {dated.map((year) => (
+        <rect class="bar" x={x(year)} y={y(counts.get(year)!)} width={barW} height={TOP + plotH - y(counts.get(year)!)}>
+          <title>{year}: {fmt(counts.get(year)!)} {counts.get(year) === 1 ? 'title' : 'titles'}</title>
+        </rect>
+      ))}
+    </svg>
+    <figcaption id={`${id}-caption`}>
+      {label}: {fmt(total)} dated {total === 1 ? 'title' : 'titles'}, {dated[0]}–{dated.at(-1)}, most in {[...counts].sort((a, b) => b[1] - a[1])[0][0]} ({fmt(peak)}){undated > 0 && `; ${fmt(undated)} undated`}.
+      {marks.length > 0 && <> Lines mark {marks.map((m) => m.label.toLowerCase()).join(' and ')}.</>}
+    </figcaption>
+    <details class="timeline-table">
+      <summary>The figures by decade</summary>
+      <table>
+        <thead><tr><th scope="col">Decade</th><th scope="col">Titles</th></tr></thead>
+        <tbody>
+          {[...decades].sort((a, b) => a[0] - b[0]).map(([d, n]) => <tr><td>{d}s</td><td>{fmt(n)}</td></tr>)}
+        </tbody>
+      </table>
+    </details>
+  </figure>
+)}

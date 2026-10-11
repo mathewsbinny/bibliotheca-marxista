@@ -21,12 +21,38 @@ export function titleParams(c: Criteria, scope: Record<string, string> = {}): UR
   if (c.lang) p.set('lang', c.lang);
   if (c.pub) p.set('pub', c.pub);
   if (c.country) p.set('country', c.country);
+  if (c.series) p.set('series', c.series);
   if (c.from !== -Infinity) p.set('from', String(c.from));
   if (c.to !== Infinity) p.set('to', String(c.to));
   if (c.verified) p.set('verified', c.verified);
   if (c.access === 'free') p.set('free', '1');
   if (c.sort) p.set('sort', c.sort);
   return p;
+}
+
+/** How a search's titles divide: [value, count] pairs by language, country, publisher id and decade. */
+export type Facets = Record<'lang' | 'country' | 'pub' | 'decade', [string | number, number][]>;
+
+export async function fetchFacets(params: URLSearchParams, signal?: AbortSignal): Promise<Facets> {
+  const p = new URLSearchParams(params);
+  p.delete('sort');
+  const res = await fetch(`${API}/facets?${p}`, { signal });
+  if (!res.ok) throw new Error(`The catalogue could not be counted (${res.status}).`);
+  return res.json();
+}
+
+export interface Suggestion {
+  kind: 'author' | 'publisher' | 'series';
+  label: string;
+  href: string;
+  titles: number;
+}
+
+/** Authors, publishers and series whose names have a word starting with what was typed. */
+export async function fetchSuggestions(q: string, signal?: AbortSignal): Promise<Suggestion[]> {
+  const res = await fetch(`${API}/suggest?${new URLSearchParams({ q })}`, { signal });
+  if (!res.ok) return [];
+  return res.json();
 }
 
 /** A page of titles. */

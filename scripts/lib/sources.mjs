@@ -14,7 +14,7 @@ import { join } from 'node:path';
 import { ROOT, isOffline } from './openlibrary.mjs';
 
 const CACHE = join(ROOT, '.cache', 'sources');
-const USER_AGENT = 'left-backlist/0.1 (open bibliographic catalogue of Left publishers)';
+const USER_AGENT = 'LeftBacklist/1.0 (bibliographic research)';
 mkdirSync(CACHE, { recursive: true });
 
 let lastRequest = 0;
@@ -216,11 +216,94 @@ function marcFields(xml) {
     if (!tag) continue;
     const sub = {};
     for (const s of m[2].matchAll(/<(?:\w+:)?subfield code="(\w)">([\s\S]*?)<\/(?:\w+:)?subfield>/g)) (sub[s[1]] ??= []).push(xmlText(s[2]));
-    (fields[tag] ??= []).push({ ind2: (m[1].match(/ind2="(.)"/) ?? [])[1], sub });
+    (fields[tag] ??= []).push({ ind1: (m[1].match(/ind1="(.)"/) ?? [])[1], ind2: (m[1].match(/ind2="(.)"/) ?? [])[1], sub });
   }
   return fields;
 }
 const sf = (fields, tag, code) => (fields[tag] ?? []).flatMap((f) => f.sub?.[code] ?? []);
+
+// A person's role in a record: MARC 21's relator code ($4) or term ($e), in the catalogues' languages.
+const TRANSLATOR = /\btrl\b|transl|übers|tradu|перев|perev|t[łl]um|přel|prekl|ford[ií]t|превод|prevod|vertal|övers|käänt/i;
+const EDITOR = /\b(edt|edc|com|pbd)\b|\bed(itor|\.|s\.)|hrsg|herausg|redakt|\bred\.|compil|sost|zusammengest|bearb|szerk|uspořád|opracow|wyb[oó]r/i;
+const AUTHOR = /\b(aut|cre)\b|^author|verfasser|auteur|autor|szerző/i;
+
+/**
+ * The people of a MARC 21 record by role: its main entry (100, 110) and added entries (700, 710),
+ * each read by its relator. An added entry with no relator counts as an author, as catalogues
+ * leave co-authors uncoded; one coded for another role (an illustrator, the writer of a preface)
+ * is left out.
+ */
+export function marc21People(f, sub = (x, code) => x.sub?.[code] ?? []) {
+  const creators = [], translators = [], editors = [];
+  // As recorded ("Lenin, V. I.,"): displayAuthor tidies names, keeping the full stops of initials.
+  const name = (x) => sub(x, 'a')[0]?.trim();
+  for (const tag of ['100', '110']) for (const x of f[tag] ?? []) if (name(x)) creators.push(name(x));
+  for (const tag of ['700', '710']) {
+    for (const x of f[tag] ?? []) {
+      if (!name(x) || sub(x, 't').length) continue; // an entry for another work ($t), not a person of this one
+      const role = [...sub(x, '4'), ...sub(x, 'e')].join(' ');
+      if (!role || AUTHOR.test(role)) creators.push(name(x));
+      else if (TRANSLATOR.test(role)) translators.push(name(x));
+      else if (EDITOR.test(role)) editors.push(name(x));
+    }
+  }
+  return { creators, translators, editors };
+}
+
+/**
+ * The title a MARC 21 record was translated from: the original-language entry (765), else the
+ * uniform title (240) when the record says it is a translation (240 $l, a 041 first indicator of 1,
+ * a 041 $h, or a translator), else a "Translation of:" note (500).
+ */
+export function marc21Original(f, translated, sub = (x, code) => x.sub?.[code] ?? []) {
+  // "Historie of the raigne of King Henry the Seventh <russ.>": the German National Library's language tag goes.
+  const tidy = (s) => trimPunct(s.replace(/\s*<[^<>]*>\s*$/, '').replace(/\.\s*$/, '')) || undefined;
+  const first = (tag, code) => (f[tag] ?? []).flatMap((x) => sub(x, code))[0];
+  const original = first('765', 't');
+  if (original) return tidy(original);
+  const isTranslation = translated || (f['240'] ?? []).some((x) => sub(x, 'l').length)
+    || (f['041'] ?? []).some((x) => x.ind1 === '1' || sub(x, 'h').length);
+  const uniform = first('240', 'a');
+  if (isTranslation && uniform && !/^(works|selections|correspondence|letters|speeches|essays|poems|novels|short stories|werke|œuvres|oeuvres|sočinenija|sochineniia|polnoe sobranie|izbrannoe|izbrannye)\b/i.test(uniform)) return tidy(uniform);
+  const note = (f['500'] ?? []).flatMap((x) => sub(x, 'a')).map((a) => /^(?:translation of|translated from|übers(?:\.|etzung) (?:von|aus)[^:]*|einheitssacht\.?|originaltitel|titre original|título original|tytuł oryginału)\s*:\s*(.+)$/i.exec(a)?.[1]).find(Boolean);
+  return note ? tidy(note) : undefined;
+}
+
+/** A record's people and original title, as the import's records carry them (empty ones left out). */
+function withPeople({ creators, translators, editors }, original) {
+  const originalTitle = original(translators.length > 0);
+  return {
+    creators,
+    ...(translators.length ? { translators } : {}),
+    ...(editors.length ? { editors } : {}),
+    ...(originalTitle ? { originalTitle } : {}),
+  };
+}
+
+/** UNIMARC (BnF, SUDOC): 700–702 by role code ($4: 070 author, 730 translator, 340 editor); 702 without one is not an author. */
+export function unimarcPeople(f, person) {
+  const creators = [], translators = [], editors = [];
+  for (const tag of ['700', '701', '702']) {
+    for (const x of f[tag] ?? []) {
+      const name = person(x);
+      if (!name) continue;
+      const roles = x.sub?.['4'] ?? [];
+      if (roles.includes('730')) translators.push(name);
+      else if (roles.some((r) => ['340', '651'].includes(r))) editors.push(name);
+      else if (roles.includes('070') || (!roles.length && tag !== '702')) creators.push(name);
+    }
+  }
+  return { creators, translators, editors };
+}
+
+/** UNIMARC's original title: the translated-from entry (454 $t), else the uniform title (500) of a translation (101 first indicator 1, or 101 $c). */
+export function unimarcOriginal(f, translated) {
+  const original = sf(f, '454', 't')[0];
+  if (original) return trimPunct(original);
+  const isTranslation = translated || (f['101'] ?? []).some((x) => x.ind1 === '1' || x.sub?.c?.length);
+  const uniform = sf(f, '500', 'a')[0];
+  return isTranslation && uniform ? trimPunct(uniform) : undefined;
+}
 const trimPunct = (s) => String(s ?? '').replace(/\s*[/:;,=.]\s*$/, '').replace(/^\[|\]$/g, '').trim();
 
 /** Library abbreviations in imprints, spelled out so publisher rules recognise them. */
@@ -261,7 +344,7 @@ export async function dnbRecords(term, index = 'vlg', year) {
       source: 'German National Library', catalogued: true, key: `dnb:${id}`,
       url: `https://d-nb.info/${id}`, recordLabel: `German National Library record ${id}`,
       title: trimPunct(sf(f, '245', 'a')[0]), subtitle: trimPunct(sf(f, '245', 'b')[0]) || undefined,
-      creators: [...sf(f, '100', 'a'), ...sf(f, '700', 'a'), ...sf(f, '110', 'a'), ...sf(f, '710', 'a')],
+      ...withPeople(marc21People(f), (translated) => marc21Original(f, translated)),
       publishers: sf(f, imprint, 'b').map(expandImprint),
       publish_places: sf(f, imprint, 'a').map(trimPunct),
       publish_date: sf(f, imprint, 'c')[0] ?? f008.slice(7, 11),
@@ -293,7 +376,7 @@ export async function locRecords(term, maxPages = 10, year) {
       // The series and number (490, or the controlled form in 830): "New World paperbacks ; NW-24".
       series: [...sf(f, '490', 'a').map((a, i) => [a, sf(f, '490', 'v')[i]]), ...sf(f, '830', 'a').map((a, i) => [a, sf(f, '830', 'v')[i]])]
         .map(([a, v]) => trimPunct([trimPunct(a), v].filter(Boolean).join(' ; ')))[0] || undefined,
-      creators: [...sf(f, '100', 'a'), ...sf(f, '110', 'a'), ...sf(f, '700', 'a'), ...sf(f, '710', 'a')],
+      ...withPeople(marc21People(f), (translated) => marc21Original(f, translated)),
       publishers: sf(f, imprint, 'b').map(expandImprint),
       publish_places: sf(f, imprint, 'a').map(trimPunct),
       publish_date: sf(f, imprint, 'c')[0] ?? f008.slice(7, 11),
@@ -318,6 +401,10 @@ export async function polishRecords(term, param = 'publisher') {
       if (b.deleted) continue;
       const field = (tag) => (b.marc?.fields ?? []).filter((f) => f[tag]).map((f) => f[tag]);
       const sub = (tag, code) => field(tag).flatMap((f) => (f.subfields ?? []).filter((s) => s[code] !== undefined).map((s) => String(s[code])));
+      // The record's fields in the shape the MARC 21 readers take: { tag: [field] }.
+      const fields = {};
+      for (const x of b.marc?.fields ?? []) for (const [tag, v] of Object.entries(x)) (fields[tag] ??= []).push(v);
+      const subOf = (x, code) => (x.subfields ?? []).filter((s) => s[code] !== undefined).map((s) => String(s[code]));
       const mms = field('009')[0] ?? b.id;
       const oclc = sub('035', 'a').map((a) => a.match(/^\(OCoLC\)(\d+)/)?.[1]).find(Boolean);
       const imprint = field('264').length ? '264' : '260';
@@ -328,7 +415,7 @@ export async function polishRecords(term, param = 'publisher') {
         recordLabel: `National Library of Poland record ${mms}`,
         ...(oclc ? { oclc } : {}),
         title: trimPunct(sub('245', 'a')[0]), subtitle: trimPunct(sub('245', 'b')[0]) || undefined,
-        creators: [...sub('100', 'a'), ...sub('700', 'a'), ...sub('110', 'a'), ...sub('710', 'a')].map((n) => trimPunct(n)),
+        ...withPeople(marc21People(fields, subOf), (translated) => marc21Original(fields, translated, subOf)),
         publishers: sub(imprint, 'b').map((p) => expandImprint(trimPunct(p))),
         publish_places: sub(imprint, 'a').map(trimPunct),
         publish_date: b.publicationYear || f008.slice(7, 11),
@@ -347,16 +434,14 @@ export async function bnfRecords(term, index = 'bib.publisher') {
     const f = marcFields(xml);
     const ark = (f['003']?.[0]?.value ?? '').replace(/^https?:\/\//, 'https://');
     const imprint = f['214'] ? '214' : '210';
-    const names = [
-      ...['700', '701'].flatMap((t) => (f[t] ?? []).map((x) => [x.sub.b?.[0], x.sub.a?.[0]].filter(Boolean).join(' '))),
-      ...['710', '711'].flatMap((t) => (f[t] ?? []).map((x) => x.sub.a?.[0]).filter(Boolean)),
-    ];
+    const people = unimarcPeople(f, (x) => [x.sub.b?.[0], x.sub.a?.[0]].filter(Boolean).join(' '));
+    people.creators.push(...['710', '711'].flatMap((t) => (f[t] ?? []).map((x) => x.sub.a?.[0]).filter(Boolean)));
     return {
       source: 'Bibliothèque nationale de France', catalogued: true, key: `bnf:${ark}`,
       url: ark, recordLabel: `BnF catalogue record ${ark.split('/').pop()}`,
       // Older records run on into the statement of responsibility: "…, par Diabate Boubacar,... [Préface par …".
       title: trimPunct(sf(f, '200', 'a')[0]?.replace(/,\s+par\s+[^[]*?,\.\.\..*$/i, '')), subtitle: trimPunct(sf(f, '200', 'e')[0]) || undefined,
-      creators: names,
+      ...withPeople(people, (translated) => unimarcOriginal(f, translated)),
       // "Impr. spéciale du bureau d'éditions ; Bureau d'éditions" names two bodies.
       publishers: sf(f, imprint, 'c').flatMap((p) => p.split(/\s;\s/)).map(expandImprint),
       publish_places: sf(f, imprint, 'a').map(trimPunct),
@@ -491,13 +576,14 @@ export async function sudocRecords(term, index = 'edi', year) {
     const pub = [...(f['214'] ?? []).filter((x) => x.ind2 === '0' || x.ind2 === '1'), ...(f['210'] ?? [])];
     const pf = (code) => pub.flatMap((x) => x.sub?.[code] ?? []);
     const coded = f['100']?.[0]?.sub?.a?.[0]?.slice(9, 13);
-    const person = (tag) => (f[tag] ?? []).map((x) => [x.sub?.a?.[0], x.sub?.b?.[0]].filter(Boolean).join(', ')).filter(Boolean);
+    const people = unimarcPeople(f, (x) => [x.sub?.a?.[0], x.sub?.b?.[0]].filter(Boolean).join(', '));
+    people.creators.push(...sf(f, '710', 'a'));
     return {
       source: 'SUDOC', catalogued: true, key: `sudoc:${id}`,
       url: `https://www.sudoc.fr/${id}`, recordLabel: `SUDOC record ${id}`,
       title: trimPunct(sf(f, '200', 'a')[0]), subtitle: trimPunct(sf(f, '200', 'e')[0]) || undefined,
       series: [sf(f, '225', 'a')[0], sf(f, '225', 'v')[0]].filter(Boolean).join(' ; ') || undefined,
-      creators: [...person('700'), ...person('701'), ...person('702'), ...sf(f, '710', 'a')],
+      ...withPeople(people, (translated) => unimarcOriginal(f, translated)),
       publishers: pf('c').map(trimPunct).filter(Boolean),
       publish_places: pf('a').map(trimPunct).filter((p) => !/inconnu/i.test(p)),
       publish_date: pf('d').find((d) => /\d{4}/.test(d)) ?? (/^\d{4}$/.test(coded ?? '') ? coded : ''),
@@ -519,7 +605,7 @@ export async function swissRecords(term, index = 'alma.publisher') {
       url: `https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma${id}&vid=41SLSP_NETWORK:VU1_UNION`, recordLabel: `swisscovery record ${id}`,
       title: trimPunct(sf(f, '245', 'a')[0]), subtitle: trimPunct(sf(f, '245', 'b')[0]) || undefined,
       series: [sf(f, '490', 'a')[0], sf(f, '490', 'v')[0]].filter(Boolean).map(trimPunct).join(' ; ') || undefined,
-      creators: [...sf(f, '100', 'a'), ...sf(f, '110', 'a'), ...sf(f, '700', 'a'), ...sf(f, '710', 'a')],
+      ...withPeople(marc21People(f), (translated) => marc21Original(f, translated)),
       publishers: sf(f, imprint, 'b').map(expandImprint),
       publish_places: sf(f, imprint, 'a').map(trimPunct),
       publish_date: sf(f, imprint, 'c')[0] ?? f008.slice(7, 11),
@@ -538,7 +624,7 @@ function marc21Record(xml, source, key, url) {
     source, catalogued: true, key: `${key}:${id}`, url: url(id), recordLabel: `${source} record ${id}`,
     title: trimPunct(sf(f, '245', 'a')[0]), subtitle: trimPunct(sf(f, '245', 'b')[0]) || undefined,
     series: [sf(f, '490', 'a')[0], sf(f, '490', 'v')[0]].filter(Boolean).map(trimPunct).join(' ; ') || undefined,
-    creators: [...sf(f, '100', 'a'), ...sf(f, '110', 'a'), ...sf(f, '700', 'a'), ...sf(f, '710', 'a')],
+    ...withPeople(marc21People(f), (translated) => marc21Original(f, translated)),
     publishers: sf(f, imprint, 'b').map(expandImprint),
     publish_places: sf(f, imprint, 'a').map(trimPunct),
     publish_date: sf(f, imprint, 'c')[0] ?? f008.slice(7, 11),

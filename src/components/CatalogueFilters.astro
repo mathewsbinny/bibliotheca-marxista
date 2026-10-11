@@ -6,16 +6,38 @@ interface Props {
   /** When given, a country filter is shown: the globe's countries and regions. */
   countries?: string[];
   total: number;
+  /**
+   * The all-titles search: suggestions of authors, publishers and series as the reader types (a
+   * combobox, filled by the page's script), and a series filter shown as a removable chip.
+   */
+  search?: boolean;
 }
 
-const { languages, publishers = [], countries = [], total } = Astro.props;
+const { languages, publishers = [], countries = [], total, search = false } = Astro.props;
 ---
 
-<form class="filters" role="search" onsubmit="return false">
-  <label>
-    Search title, author, series…
-    <input type="search" name="q" autocomplete="off" />
-  </label>
+<form class="filters" role="search">
+  {search ? (
+    <div class="suggest-wrap">
+      <label for="search-q">Search title, author, series…</label>
+      <input type="search" name="q" id="search-q" autocomplete="off" role="combobox" aria-autocomplete="list"
+        aria-expanded="false" aria-controls="search-suggestions" aria-describedby="search-hint" />
+      <ul id="search-suggestions" class="suggestions" role="listbox" aria-label="Suggestions" hidden></ul>
+      <span id="search-hint" class="visually-hidden">Suggestions of authors, publishers and series appear as you type; use the arrow keys to choose one.</span>
+    </div>
+  ) : (
+    <label>
+      Search title, author, series…
+      <input type="search" name="q" autocomplete="off" />
+    </label>
+  )}
+  {search && (
+    <p class="series-chip" data-series-chip hidden>
+      <input type="hidden" name="series" />
+      Series: <strong data-series-name></strong>
+      <button type="button" class="button-small" data-series-clear aria-label="Remove the series filter">×</button>
+    </p>
+  )}
   <label>
     From
     <input type="number" name="from" inputmode="numeric" placeholder="year" />
@@ -79,3 +101,9 @@ const { languages, publishers = [], countries = [], total } = Astro.props;
   </label>
   <span class="count" aria-live="polite"><span data-count>{total.toLocaleString('en')}</span> of {total.toLocaleString('en')} titles</span>
 </form>
+
+<script>
+  // The filters apply as they change; Enter must not send the form and reload the page. (A
+  // handler in the page, onsubmit="…", would be blocked by the Content-Security-Policy.)
+  for (const form of document.querySelectorAll<HTMLFormElement>('form.filters')) form.addEventListener('submit', (e) => e.preventDefault());
+</script>

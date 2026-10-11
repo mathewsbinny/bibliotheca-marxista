@@ -15,11 +15,13 @@ import { join } from 'node:path';
 const DIST = join(new URL('..', import.meta.url).pathname.replace(/^\/(\w:)/, '$1'), 'dist');
 const api = process.env.PUBLIC_API_URL ? new URL(process.env.PUBLIC_API_URL).origin : '';
 
-// Inline code the policy would block: <script> without src that the browser runs, and <style>.
+// Inline code the policy would block: <script> without src that the browser runs, <style>, style
+// attributes, and event-handler attributes (onsubmit="…").
 const inline = [];
 for (const f of readdirSync(DIST, { recursive: true, encoding: 'utf8' }).filter((f) => f.endsWith('.html'))) {
   const html = readFileSync(join(DIST, f), 'utf8');
-  if (/<script(?![^>]*\bsrc=)(?![^>]*type="application\/(ld\+)?json")[^>]*>/.test(html) || /<style[\s>]/.test(html) || /\sstyle="/.test(html)) inline.push(f);
+  if (/<script(?![^>]*\bsrc=)(?![^>]*type="application\/(ld\+)?json")[^>]*>/.test(html) || /<style[\s>]/.test(html) || /\sstyle="/.test(html)
+    || /<[a-z][^>]*\son[a-z]+=/i.test(html)) inline.push(f);
 }
 if (inline.length) {
   console.error(`Inline scripts or styles, which the Content Security Policy would block, in ${inline.length} pages, e.g. ${inline.slice(0, 3).join(', ')}`);

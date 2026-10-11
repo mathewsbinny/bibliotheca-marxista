@@ -8,6 +8,37 @@ export const source = z.object({
   url: webUrl().optional(),
 });
 
+/**
+ * A person's or a publisher's records in other catalogues, for linked data: Wikidata, VIAF, the
+ * Library of Congress name authority file, the German National Library's GND, ISNI and the BnF.
+ * Filled in from Wikidata by scripts/find-author-variants.mjs and scripts/link-publishers.mjs.
+ */
+export const identifiers = z.object({
+  wikidata: z.string().regex(/^Q\d+$/),
+  viaf: z.string().regex(/^\d+$/),
+  lcnaf: z.string().regex(/^[a-z]{1,3}\d+$/),
+  gnd: z.string().regex(/^[\dX-]+$/),
+  isni: z.string().regex(/^\d{15}[\dX]$/),
+  bnf: z.string().regex(/^\d{8}[0-9bcdfghjkmnpqrstvwxz]$/),
+}).partial().optional();
+
+/** The address of each identifier's record. */
+export const IDENTIFIER_URLS: Record<string, { label: string; url: (id: string) => string }> = {
+  wikidata: { label: 'Wikidata', url: (id) => `https://www.wikidata.org/wiki/${id}` },
+  viaf: { label: 'VIAF', url: (id) => `https://viaf.org/viaf/${id}` },
+  lcnaf: { label: 'Library of Congress', url: (id) => `https://id.loc.gov/authorities/names/${id}` },
+  gnd: { label: 'GND', url: (id) => `https://d-nb.info/gnd/${id}` },
+  isni: { label: 'ISNI', url: (id) => `https://isni.org/isni/${id}` },
+  bnf: { label: 'BnF', url: (id) => `https://catalogue.bnf.fr/ark:/12148/cb${id}` },
+};
+
+/** An entity's identifiers as links, in a fixed order: [{ label, url }]. */
+export function identifierLinks(ids: Partial<Record<string, string>> | undefined) {
+  return Object.entries(IDENTIFIER_URLS)
+    .filter(([key]) => ids?.[key])
+    .map(([key, { label, url }]) => ({ label, url: url(ids![key]!) }));
+}
+
 export const link = z.object({
   label: z.string(),
   url: webUrl(),

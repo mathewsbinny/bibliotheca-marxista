@@ -58,6 +58,29 @@ describe('GET /api/titles', () => {
   });
 });
 
+describe('GET /api/facets and /api/suggest', () => {
+  test('count the titles found by language, country, publisher and decade', async () => {
+    const body = await (await get('/api/facets?q=capital')).json();
+    assert.deepEqual(body.lang, [['English', 2]]);
+    assert.deepEqual(body.decade, [[1930, 1], [1960, 1]]);
+  });
+  test("the whole catalogue's come from the database as built", async () => {
+    const body = await (await get('/api/facets?q=&sort=title')).json();
+    assert.equal(body.pub.reduce((n, [, c]) => n + c, 0), 5);
+  });
+  test('suggest authors, publishers and series', async () => {
+    assert.deepEqual(await (await get('/api/suggest?q=marx')).json(), [
+      { kind: 'author', label: 'Karl Marx', href: '/authors/marx', titles: 2 },
+      { kind: 'series', label: 'Little Marx Library', href: '/titles?series=Little%20Marx%20Library', titles: 2 },
+    ]);
+    assert.deepEqual(await (await get('/api/suggest?q=m')).json(), []);
+    assert.equal((await get('/api/suggest?q=' + 'x'.repeat(101))).status, 400);
+  });
+  test('filter by series', async () => {
+    assert.equal((await (await get('/api/titles?series=Little%20Marx%20Library')).json()).total, 2);
+  });
+});
+
 describe('GET /api/title', () => {
   test('returns a title and its publisher', async () => {
     const body = await (await get('/api/title?p=progress&t=capital-1965')).json();

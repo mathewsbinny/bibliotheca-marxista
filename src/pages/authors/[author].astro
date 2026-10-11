@@ -1,6 +1,8 @@
 ---
 import Base from '../../layouts/Base.astro';
 import CatalogueTable from '../../components/CatalogueTable.astro';
+import Timeline from '../../components/Timeline.astro';
+import { identifierLinks } from '../../lib/schemas';
 import { getAuthors, getPublishers, getTitlesByAuthor, type Author } from '../../lib/catalogue';
 
 export async function getStaticPaths() {
@@ -16,6 +18,8 @@ const { author } = Astro.props;
 const a = author.data;
 const editions = await getTitlesByAuthor(author);
 const publisherNames = new Map((await getPublishers()).map((p) => [p.id, p.data.name]));
+// The author's records elsewhere (Wikidata, VIAF, the Library of Congress…), for readers and for linked data.
+const authorities = identifierLinks(a.identifiers);
 const works = [...a.works].sort((x, y) => x.year - y.year || x.title.localeCompare(y.title));
 ---
 
@@ -26,7 +30,7 @@ const works = [...a.works].sort((x, y) => x.year - y.year || x.title.localeCompa
   jsonLd={{
     '@type': 'Person', name: a.name, alternateName: a.alternate_names, description: a.description,
     birthDate: a.born && String(a.born), deathDate: a.died && String(a.died), nationality: a.nationality,
-    sameAs: a.sources.map((s) => s.url).filter((u): u is string => !!u && /wikipedia\.org|wikidata\.org/.test(u)),
+    sameAs: [...new Set([...authorities.map((l) => l.url), ...a.sources.map((s) => s.url).filter((u): u is string => !!u && /wikipedia\.org|wikidata\.org/.test(u))])],
   }}
 >
   <p class="eyebrow"><a href="/authors">Authors</a>{a.nationality && ` · ${a.nationality}`}</p>
@@ -50,6 +54,12 @@ const works = [...a.works].sort((x, y) => x.year - y.year || x.title.localeCompa
       <>
         <dt>Also known as</dt>
         <dd>{a.alternate_names.join(' · ')}</dd>
+      </>
+    )}
+    {authorities.length > 0 && (
+      <>
+        <dt>Authority records</dt>
+        <dd>{authorities.map((l, i) => <>{i > 0 && ' · '}<a href={l.url}>{l.label}</a></>)}</dd>
       </>
     )}
     {a.sources.length > 0 && (
@@ -104,6 +114,10 @@ const works = [...a.works].sort((x, y) => x.year - y.year || x.title.localeCompa
   </div></>}
 
   {(works.length > 0 || editions.length > 0) && <h2>Editions in the catalogue</h2>}
+  {editions.length > 4 && (
+    <Timeline years={editions.map((t) => t.year)} label={`Editions of ${a.name} by year`}
+      marks={a.died ? [{ year: a.died, label: `Died ${a.died}` }] : []} />
+  )}
   {editions.length > 0
     ? <CatalogueTable titles={editions} publisherNames={publisherNames} scope={{ author: author.id }} />
     : works.length > 0 && <p class="meta">No editions by {a.name} are catalogued under any of the publishers yet.</p>}

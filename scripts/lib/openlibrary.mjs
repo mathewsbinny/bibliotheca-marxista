@@ -18,7 +18,7 @@ export const isOffline = (url) =>
   (process.env.LEFT_BACKLIST_OFFLINE ?? '').split(',').filter(Boolean).some((h) => new URL(url).hostname.endsWith(h));
 
 const CACHE = join(ROOT, '.cache', 'openlibrary');
-const USER_AGENT = 'left-backlist/0.1 (open bibliographic catalogue of Left publishers)';
+const USER_AGENT = 'LeftBacklist/1.0 (bibliographic research)';
 
 // ---------------------------------------------------------------------------
 // HTTP with cache, pacing and retries

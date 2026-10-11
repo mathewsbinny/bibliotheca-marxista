@@ -15,7 +15,7 @@ const languages = [...new Set(works.flatMap((w) => languageOf(w).split(', ')))].
 {works.length > 0 ? (
   <div class="works-browser">
   {languages.length > 1 && (
-    <form class="filters" onsubmit="return false">
+    <form class="filters">
       <label>
         Language
         <select name="lang">

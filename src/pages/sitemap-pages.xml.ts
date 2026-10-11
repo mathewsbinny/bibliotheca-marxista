@@ -7,7 +7,7 @@ import { getAuthors, getInternationals, getMovements, getPublishers } from '../l
 
 export const GET: APIRoute = async ({ site }) => {
   const paths = [
-    '/', '/publishers', '/titles', '/authors', '/international', '/resources', '/about',
+    '/', '/publishers', '/titles', '/authors', '/international', '/statistics', '/resources', '/about',
     ...(await getPublishers()).map((p) => `/publishers/${p.id}`),
     ...(await getAuthors()).map((a) => `/authors/${a.id}`),
     ...(await getMovements()).map((m) => `/movements/${m.id}`),

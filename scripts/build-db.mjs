@@ -20,13 +20,15 @@ import { createHash } from 'node:crypto';
 import { existsSync, mkdirSync, readFileSync, readdirSync, rmSync } from 'node:fs';
 import { join } from 'node:path';
 import Database from 'better-sqlite3';
+import { facetQueries, seriesName } from '../server/query.mjs';
+import { workKey } from '../server/works.mjs';
 
 const ROOT = join(new URL('..', import.meta.url).pathname.replace(/^\/(\w:)/, '$1'));
 const DIST = process.env.CATALOGUE_DIST ?? join(ROOT, 'dist');
 const DB_FILE = process.env.CATALOGUE_DB ?? join(ROOT, 'db', 'catalogue.sqlite');
 const full = process.argv.includes('--full');
 /** The version of what is stored for each title: change it when that changes, to rewrite every title. */
-const FORMAT = 'book-addresses-1';
+const FORMAT = 'series-names-1';
 const started = Date.now();
 
 if (!existsSync(join(DIST, 'data', 'catalogue.json'))) {
@@ -48,7 +50,7 @@ db.exec(`
   CREATE TABLE IF NOT EXISTS titles (
     rowid INTEGER PRIMARY KEY,
     publisher_id TEXT NOT NULL, id TEXT NOT NULL, href TEXT NOT NULL UNIQUE,
-    title TEXT NOT NULL, subtitle TEXT, original_title TEXT, series TEXT, notes TEXT, isbn TEXT,
+    title TEXT NOT NULL, subtitle TEXT, original_title TEXT, series TEXT, series_name TEXT, notes TEXT, isbn TEXT,
     people TEXT, publisher_name TEXT,
     authors_text TEXT NOT NULL, author_links TEXT NOT NULL,
     date TEXT NOT NULL, year INTEGER, year_sort INTEGER NOT NULL, language TEXT NOT NULL,
@@ -62,6 +64,10 @@ db.exec(`
   CREATE INDEX IF NOT EXISTS titles_by_year ON titles (year_sort, sort_title);
   CREATE INDEX IF NOT EXISTS titles_by_title ON titles (sort_title);
   CREATE INDEX IF NOT EXISTS titles_by_author ON titles (sort_author);
+  -- Suggestions as a reader types: authors, publishers and series, found from any word of their
+  -- names ("lenin" finds "V. I. Lenin"); each name is stored once for each word it can be found by.
+  CREATE TABLE IF NOT EXISTS suggest (key TEXT NOT NULL, kind TEXT NOT NULL, label TEXT NOT NULL, href TEXT NOT NULL, weight INTEGER NOT NULL);
+  CREATE INDEX IF NOT EXISTS suggest_by_key ON suggest (key);
   CREATE TABLE IF NOT EXISTS title_lang (lang TEXT NOT NULL, title_rowid INTEGER NOT NULL);
   CREATE INDEX IF NOT EXISTS title_lang_by_lang ON title_lang (lang, title_rowid);
   CREATE INDEX IF NOT EXISTS title_lang_by_title ON title_lang (title_rowid);
@@ -87,9 +93,15 @@ db.exec(`
   END;
 `);
 
+// A database built before titles kept their series' name (FORMAT then rewrites every title).
+if (!db.prepare('SELECT 1 FROM pragma_table_info(?) WHERE name = ?').get('titles', 'series_name')) db.exec('ALTER TABLE titles ADD COLUMN series_name TEXT');
+db.exec('CREATE INDEX IF NOT EXISTS titles_by_series ON titles (series_name, year_sort, sort_title)');
+
 // Accents and leading quotes or punctuation are ignored; blank values sort last.
 const sortText = (s) =>
   s ? s.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/^[^\p{L}\p{N}]+/u, '').toLowerCase() || '￿' : '￿';
+/** A name as suggestions look it up: no accents or punctuation, lower case (as suggestKey in server/query.mjs). */
+const suggestKey = (s) => s.normalize('NFKD').replace(/\p{M}/gu, '').toLowerCase().replace(/[^\p{L}\p{N}]+/gu, ' ').trim();
 const names = (list) => (list.length <= 2 ? list.join(' & ') : `${list.slice(0, -1).join(', ')} & ${list.at(-1)}`);
 /** A copy anyone can read without an account (Internet Archive lending copies are not); as isFree in src/lib/catalogue.ts. */
 const isFree = (r) => (r.links ?? []).some((l) => !/^Borrow/.test(l.label));
@@ -102,9 +114,9 @@ const sha1 = (...parts) => {
 const { publishers } = JSON.parse(readFileSync(join(DIST, 'data', 'catalogue.json'), 'utf8'));
 const previous = new Map(db.prepare('SELECT id, hash FROM publishers').all().map((p) => [p.id, p.hash]));
 
-const insertTitle = db.prepare(`INSERT INTO titles (publisher_id, id, href, title, subtitle, original_title, series, notes, isbn, people,
+const insertTitle = db.prepare(`INSERT INTO titles (publisher_id, id, href, title, subtitle, original_title, series, series_name, notes, isbn, people,
   publisher_name, authors_text, author_links, date, year, year_sort, language, verified, free, sort_title, sort_author, sort_publisher, record)
-  VALUES (@publisher_id, @id, @href, @title, @subtitle, @original_title, @series, @notes, @isbn, @people, @publisher_name, @authors_text,
+  VALUES (@publisher_id, @id, @href, @title, @subtitle, @original_title, @series, @series_name, @notes, @isbn, @people, @publisher_name, @authors_text,
   @author_links, @date, @year, @year_sort, @language, @verified, @free, @sort_title, @sort_author, @sort_publisher, @record)`);
 const insertLang = db.prepare('INSERT INTO title_lang (lang, title_rowid) VALUES (?, ?)');
 const insertPlace = db.prepare('INSERT INTO title_place (place, title_rowid) VALUES (?, ?)');
@@ -124,7 +136,7 @@ const writePublisher = db.transaction((p, files, hash) => {
       const href = `/book/${encodeURIComponent(p.id)}/${encodeURIComponent(r.id)}`; // as titleHref in src/lib/shard.ts
       const { lastInsertRowid } = insertTitle.run({
         publisher_id: p.id, id: r.id, href,
-        title: r.title, subtitle: r.subtitle ?? null, original_title: r.original_title ?? null, series: r.series ?? null,
+        title: r.title, subtitle: r.subtitle ?? null, original_title: r.original_title ?? null, series: r.series ?? null, series_name: seriesName(r.series) ?? null,
         notes: r.notes ?? null, isbn: r.isbn ?? null,
         people: [...authorNames, ...(r.editors ?? []), ...(r.translators ?? [])].join(' '),
         publisher_name: p.name,
@@ -186,6 +198,66 @@ if (changed || removed.length || authorHash !== lastAuthorHash) {
     }
     db.prepare("INSERT INTO meta (key, value) VALUES ('authors', ?) ON CONFLICT (key) DO UPDATE SET value = excluded.value").run(authorHash);
   })();
+}
+
+// Editions grouped as works (server/works.mjs): rebuilt with the titles, whose row ids move when
+// their publisher is rewritten. Only works of two editions or more are kept.
+db.exec(`CREATE TABLE IF NOT EXISTS works (id INTEGER PRIMARY KEY, title TEXT NOT NULL, editions INTEGER NOT NULL);
+  CREATE TABLE IF NOT EXISTS title_work (title_rowid INTEGER PRIMARY KEY, work_id INTEGER NOT NULL);
+  CREATE INDEX IF NOT EXISTS title_work_by_work ON title_work (work_id);`);
+if (changed || removed.length || !db.prepare('SELECT 1 FROM works LIMIT 1').get()) {
+  const groups = new Map(); // key → [{ rowid, title, original }]
+  for (const r of db.prepare('SELECT rowid, title, original_title, author_links, authors_text FROM titles').iterate()) {
+    const key = workKey(r);
+    if (!key) continue;
+    const list = groups.get(key);
+    const edition = { rowid: r.rowid, title: r.title, original: r.original_title };
+    if (list) list.push(edition);
+    else groups.set(key, [edition]);
+  }
+  // A work is called by the title it was written under when an edition gives it, else by its editions' commonest title.
+  const commonest = (values) => [...values.reduce((m, v) => m.set(v, (m.get(v) ?? 0) + 1), new Map())].sort((a, b) => b[1] - a[1])[0]?.[0];
+  const insertWork = db.prepare('INSERT INTO works (id, title, editions) VALUES (?, ?, ?)');
+  const insertTitleWork = db.prepare('INSERT INTO title_work (title_rowid, work_id) VALUES (?, ?)');
+  db.transaction(() => {
+    db.exec('DELETE FROM works; DELETE FROM title_work');
+    let id = 0;
+    for (const editions of groups.values()) {
+      if (editions.length < 2) continue;
+      insertWork.run(++id, commonest(editions.map((e) => e.original).filter(Boolean)) ?? commonest(editions.map((e) => e.title)), editions.length);
+      for (const e of editions) insertTitleWork.run(e.rowid, id);
+    }
+  })();
+}
+
+// The suggestions, rebuilt with the titles or authors they count.
+if (changed || removed.length || authorHash !== lastAuthorHash || !db.prepare('SELECT 1 FROM suggest LIMIT 1').get()) {
+  const insertSuggest = db.prepare('INSERT INTO suggest (key, kind, label, href, weight) VALUES (?, ?, ?, ?, ?)');
+  const add = (kind, label, href, weight, other = []) => {
+    const keys = new Set();
+    for (const name of [label, ...other]) {
+      const words = suggestKey(name).split(' ').filter(Boolean);
+      words.forEach((_, i) => keys.add(words.slice(i).join(' ')));
+    }
+    for (const key of keys) insertSuggest.run(key, kind, label, href, weight);
+  };
+  const editions = new Map(db.prepare('SELECT author_id, count(*) AS n FROM title_author GROUP BY author_id').all().map((r) => [r.author_id, r.n]));
+  db.transaction(() => {
+    db.exec('DELETE FROM suggest');
+    for (const a of JSON.parse(authorRecords)) add('author', a.name, `/authors/${a.id}`, editions.get(a.id) ?? 0, a.alternate_names ?? []);
+    for (const p of db.prepare('SELECT id, name, titles FROM publishers').all()) add('publisher', p.name, `/publishers/${p.id}`, p.titles);
+    // Series of two titles or more, which a search of the series lists.
+    for (const s of db.prepare('SELECT series_name, count(*) AS n FROM titles WHERE series_name IS NOT NULL GROUP BY series_name HAVING n >= 2').all()) {
+      add('series', s.series_name, `/titles?series=${encodeURIComponent(s.series_name)}`, s.n);
+    }
+  })();
+}
+
+// The facets of the whole catalogue (the Titles page before any search), counted once here rather
+// than by the API (some seconds over every title).
+if (changed || removed.length || !db.prepare("SELECT 1 FROM meta WHERE key = 'facets'").get()) {
+  const facets = Object.fromEntries(Object.entries(facetQueries({})).map(([name, q]) => [name, db.prepare(q.sql).all(...q.args).map((r) => [r.value, r.n])]));
+  db.prepare("INSERT INTO meta (key, value) VALUES ('facets', ?) ON CONFLICT (key) DO UPDATE SET value = excluded.value").run(JSON.stringify(facets));
 }
 
 if (changed || removed.length) {

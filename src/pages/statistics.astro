@@ -1,0 +1,77 @@
+---
+import Base from '../layouts/Base.astro';
+import BarTable from '../components/BarTable.astro';
+import Timeline from '../components/Timeline.astro';
+import { getAuthors, getPublishers, getTitles, getTitlesByAuthor, isFree } from '../lib/catalogue';
+import { getTitlePlaces } from '../lib/globe-places';
+
+const titles = await getTitles();
+const publishers = await getPublishers();
+const places = await getTitlePlaces();
+
+const tally = <K,>(keys: K[]) => {
+  const m = new Map<K, number>();
+  for (const k of keys) m.set(k, (m.get(k) ?? 0) + 1);
+  return [...m].sort((a, b) => b[1] - a[1]);
+};
+const TOP = 25;
+const byLanguage = tally(titles.flatMap((t) => t.language.split(', ')));
+const byCountry = tally([...places.values()].flat());
+const byPublisher = tally(titles.map((t) => t.publisherId));
+const publisherName = new Map(publishers.map((p) => [p.id, p.data.name]));
+const authors = (await Promise.all((await getAuthors()).map(async (a) => ({ a, n: (await getTitlesByAuthor(a)).length }))))
+  .filter((x) => x.n).sort((x, y) => y.n - x.n);
+
+const verified = titles.filter((t) => t.verified).length;
+const free = titles.filter(isFree).length;
+const dated = titles.filter((t) => t.year).length;
+const pct = (n: number) => `${Math.round((n / titles.length) * 100)}%`;
+const fmt = (n: number) => n.toLocaleString('en');
+// The most common languages, each with its own timeline; "Not recorded" is not a language.
+const timelineLanguages = byLanguage.filter(([l]) => l !== 'Not recorded' && l !== 'Multiple languages').slice(0, 8).map(([l]) => l);
+---
+
+<Base title="Statistics" description="The catalogue in numbers: its titles by year, language, country and publisher, and its most-published authors.">
+  <h1>Statistics</h1>
+  <p class="lede">
+    The catalogue in numbers, counted when the site was built. The counts follow the records as
+    catalogued; where a library recorded no year or language, the title is counted as undated or
+    as "Not recorded".
+  </p>
+
+  <dl class="stats">
+    <div><dt>Titles</dt><dd>{fmt(titles.length)}</dd></div>
+    <div><dt>Publishers</dt><dd>{fmt(byPublisher.length)}</dd></div>
+    <div><dt>Countries and regions</dt><dd>{fmt(byCountry.length)}</dd></div>
+    <div><dt>Languages</dt><dd>{fmt(byLanguage.filter(([l]) => l !== 'Not recorded').length)}</dd></div>
+    <div><dt>Authors with a page</dt><dd>{fmt(authors.length)}</dd></div>
+    <div><dt>Verified against a library record</dt><dd>{fmt(verified)} <span class="meta">({pct(verified)})</span></dd></div>
+    <div><dt>With a free copy to read</dt><dd>{fmt(free)} <span class="meta">({pct(free)})</span></dd></div>
+    <div><dt>Dated</dt><dd>{fmt(dated)} <span class="meta">({pct(dated)})</span></dd></div>
+  </dl>
+
+  <h2>By year</h2>
+  <Timeline years={titles.map((t) => t.year)} label="All titles by year" />
+
+  <h2>By language</h2>
+  <div class="timeline-grid">
+    {timelineLanguages.map((l) => (
+      <Timeline compact years={titles.filter((t) => t.language.split(', ').includes(l)).map((t) => t.year)} label={l} />
+    ))}
+  </div>
+  <BarTable caption={`The ${TOP} languages with the most titles`} heading="Language"
+    rows={byLanguage.slice(0, TOP).map(([l, n]) => ({ label: l, n, href: `/titles?lang=${encodeURIComponent(l)}` }))} />
+
+  <h2>By country</h2>
+  <p class="meta">Each title is counted under its publisher's country or region, as on the globe, and also under the home country of a press in exile.</p>
+  <BarTable caption={`The ${TOP} countries and regions with the most titles`} heading="Country or region"
+    rows={byCountry.slice(0, TOP).map(([c, n]) => ({ label: c, n, href: `/titles?country=${encodeURIComponent(c)}` }))} />
+
+  <h2>By publisher</h2>
+  <BarTable caption={`The ${TOP} publishers with the most titles`} heading="Publisher"
+    rows={byPublisher.slice(0, TOP).map(([id, n]) => ({ label: publisherName.get(id) ?? id, n, href: `/publishers/${id}` }))} />
+
+  <h2>Authors</h2>
+  <BarTable caption={`The ${TOP} authors with the most editions in the catalogue (as author, editor or translator)`} heading="Author"
+    rows={authors.slice(0, TOP).map(({ a, n }) => ({ label: a.data.name, n, href: `/authors/${a.id}` }))} />
+</Base>

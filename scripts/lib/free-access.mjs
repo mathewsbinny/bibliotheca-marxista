@@ -17,7 +17,7 @@ import { ROOT, authorsOverlap, isOffline, slug, surname, titleKey } from './open
 
 const CACHE = join(ROOT, '.cache', 'free-access');
 mkdirSync(CACHE, { recursive: true });
-const UA = { 'User-Agent': 'LeftBacklist/1.0 (bibliographic research; free-access check)' };
+const UA = { 'User-Agent': 'LeftBacklist/1.0 (bibliographic research)' };
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 let requests = 0;
 export const freeAccessRequests = () => requests;

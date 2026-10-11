@@ -1,0 +1,33 @@
+---
+/**
+ * A ranked list as a table with a bar beside each count: SVG bars, sized by attribute (the site's
+ * Content-Security-Policy allows no inline style), hidden from screen readers, which read the count.
+ */
+interface Props {
+  caption: string;
+  /** The column heading of the names, e.g. "Language". */
+  heading: string;
+  rows: { label: string; href?: string; n: number; lang?: string }[];
+}
+
+const { caption, heading, rows } = Astro.props;
+const peak = Math.max(1, ...rows.map((r) => r.n));
+---
+
+<table class="bar-table">
+  <caption>{caption}</caption>
+  <thead>
+    <tr><th scope="col">{heading}</th><th scope="col">Titles</th><th scope="col"><span class="visually-hidden">Share</span></th></tr>
+  </thead>
+  <tbody>
+    {rows.map((r) => (
+      <tr>
+        <th scope="row" lang={r.lang}>{r.href ? <a href={r.href}>{r.label}</a> : r.label}</th>
+        <td class="n">{r.n.toLocaleString('en')}</td>
+        <td class="bar-cell" aria-hidden="true">
+          <svg viewBox="0 0 100 10" preserveAspectRatio="none" focusable="false"><rect class="bar" width={Math.max((r.n / peak) * 100, 0.5)} height="10" /></svg>
+        </td>
+      </tr>
+    ))}
+  </tbody>
+</table>

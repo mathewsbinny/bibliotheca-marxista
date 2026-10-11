@@ -3366,6 +3366,33 @@ function authorsOf(ed) {
   return authorsFromStatement(ed.by_statement).map((name) => ({ name, alternates: [] }));
 }
 
+const TRANSLATOR_ROLE = /transl|^tr\.?$|übers|tradu|перев/i;
+const EDITOR_ROLE = /^ed(\.|itor|s\.)?$|editor|compil|hrsg|herausg|redakt|sostav/i;
+
+/**
+ * The edition's translators or editors: its contributors of that role ("Clemens Dutt",
+ * "Translator"; or "Dutt, Clemens, tr."), else, for translators, the title page's statement
+ * ("Translated from the Russian by J. Guralsky. Edited by George Hanna").
+ */
+function contributorsOf(ed, role) {
+  const re = role === 'translator' ? TRANSLATOR_ROLE : EDITOR_ROLE;
+  const named = [
+    ...(ed.contributors ?? []).filter((c) => re.test(String(c.role ?? '').trim())).map((c) => c.name),
+    ...(ed.contributions ?? []).map((c) => /^(.*?)\s*[,(]\s*(tr\.|transl\w*|translator|ed\.|editor|compiler)\)?\.?$/i.exec(String(c)))
+      .filter((m) => m && re.test(m[2])).map((m) => m[1]),
+  ].filter(Boolean);
+  if (named.length || role !== 'translator') return named;
+  const m = /\btranslated(?: (?:from|out of) the [\p{L} -]+?)? by ([^;\]]+)/iu.exec(ed.by_statement ?? '');
+  if (!m) return [];
+  // "J. Guralsky. Edited by George Hanna": the translators end where the next sentence begins.
+  const names = m[1].split(/\.\s+(?=\p{Lu}\p{Ll}+\s)/u)[0].replace(/[.\s]+$/, '');
+  return names.split(/\s*(?:,|\band\b|&)\s*/).map((s) => s.trim()).filter((s) => s.split(/\s+/).length >= 2);
+}
+
+/** Names as the catalogue shows them, without repeats and without any of `except`. */
+const people = (names, options, except = []) =>
+  [...new Set(names.map((n) => displayAuthor(n, [], options)).filter(Boolean))].filter((n) => !except.includes(n));
+
 /** Regional-language houses, whose authors are shown with their native-script names as well. */
 const REGIONAL_LANGUAGE_HOUSES = new Set([
   'national-book-agency', 'manisha-granthalaya', 'chintha-publishers', 'prabhath-book-house',
@@ -3396,11 +3423,15 @@ function toTitle(ed, rule) {
   let subtitle = clean(ed.subtitle);
   if (subtitle && titleKey(title).endsWith(titleKey(subtitle))) subtitle = undefined; // already in the title
   const english = isEnglishTitle(title, language === 'Not recorded' ? undefined : language);
+  const translators = people(contributorsOf(ed, 'translator'), options);
 
   const t = {
     title: formatTitle(title, english, language),
     subtitle: formatTitle(subtitle, english, language),
-    authors,
+    original_title: clean(ed.translation_of),
+    authors: authors.filter((a) => !translators.includes(a)),
+    editors: people(contributorsOf(ed, 'editor'), options, authors),
+    translators,
     year,
     date_note: year && rawDate && rawDate !== String(year) && /[?\[\]c]|\d{4}\s*-/.test(rawDate) ? rawDate : undefined,
     edition: clean(ed.edition_name),
@@ -3422,8 +3453,11 @@ function mergeInto(target, t) {
   for (const s of t.sources) if (!urls.has(s.url)) target.sources.push(s);
   for (const l of t.links ?? []) if (!(target.links ?? []).some((x) => x.url === l.url)) (target.links ??= []).push(l);
   target.verified ||= t.verified;
-  for (const k of ['subtitle', 'pages', 'isbn', 'series', 'edition', 'date_note']) target[k] ??= t[k];
+  for (const k of ['subtitle', 'original_title', 'pages', 'isbn', 'series', 'edition', 'date_note']) target[k] ??= t[k];
   if (!target.authors.length) target.authors = t.authors;
+  // Translators and editors from whichever record names them.
+  for (const k of ['translators', 'editors']) if (!target[k]?.length && t[k]?.length) target[k] = t[k];
+  if (target.translators?.length) target.authors = target.authors.filter((a) => !target.translators.includes(a));
   if (target.language === 'Not recorded') target.language = t.language;
 }
 
@@ -3678,11 +3712,15 @@ function toExternalTitle(rec, rule, verdict) {
   const authors = [...new Set(creators.map((c) => displayAuthor(c, [], options)).filter(Boolean))]
     .filter((a) => !rule.match.test(a) && !/publishing house|foreign languages/i.test(a));
   const isScan = rec.source === 'Internet Archive';
+  const translators = people(rec.translators ?? [], options);
   const t = {
     title: formatTitle(title, english, language),
     subtitle: formatTitle(clean(rec.subtitle), english, language),
+    original_title: clean(rec.originalTitle),
     series: rec.series ? formatTitle(clean(rec.series), english, language) : undefined,
-    authors,
+    authors: authors.filter((a) => !translators.includes(a)),
+    editors: people(rec.editors ?? [], options, authors),
+    translators,
     year: yearOf(rec.publish_date),
     language,
     // Library catalogues may point to their own digitised copy; addFreeAccess keeps it only if open.
@@ -3701,7 +3739,8 @@ function toExternalTitle(rec, rule, verdict) {
     verified: Boolean(rec.catalogued && verdict === 'match' && yearOf(rec.publish_date)),
   };
   if (!t.year) delete t.year;
-  if (!t.subtitle) delete t.subtitle;
+  for (const k of ['subtitle', 'original_title']) if (!t[k]) delete t[k];
+  for (const k of ['translators', 'editors']) if (!t[k].length) delete t[k];
   if (!t.links.length) delete t.links;
   return t;
 }

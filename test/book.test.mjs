@@ -1,7 +1,7 @@
 // A title's page as the API renders it: whatever a record holds, it is text on the page, never markup.
 import assert from 'node:assert/strict';
 import { describe, test } from 'node:test';
-import { renderBook } from '../server/book.mjs';
+import { bookJsonLd, libraryIdentifiers, renderBook } from '../server/book.mjs';
 import { TEMPLATE, record } from './fixture.mjs';
 
 const publisher = { name: 'Progress <Publishers>', place: 'Moscow' };
@@ -38,4 +38,44 @@ describe("rendering a title's page", () => {
   });
 
   test("names the page's publisher as text too", () => assert.match(page, /Progress &lt;Publishers&gt;/));
+});
+
+describe("a title's linked data", () => {
+  const r = record('state-and-revolution-1970', 'The State and Revolution', {
+    year: 1970, authors: [{ name: 'V. I. Lenin', href: '/authors/lenin' }], translators: ['Clemens Dutt'], editors: ['George Hanna'],
+    original_title: 'Gosudarstvo i revoliutsiia',
+    sources: [
+      { title: 'WorldCat record (OCLC 55201)', url: 'https://search.worldcat.org/title/55201' },
+      { title: 'Library of Congress record (LCCN 70009171)', url: 'https://lccn.loc.gov/70009171' },
+      { title: 'Open Library', url: 'https://openlibrary.org/books/OL1M' },
+    ],
+  });
+  const data = bookJsonLd(r, { id: 'progress', name: 'Progress Publishers', place: 'Moscow' }, 'https://site.example/book/progress/state-and-revolution-1970');
+  test('names its people, with the author\'s page', () => {
+    assert.deepEqual(data.author, [{ '@type': 'Person', name: 'V. I. Lenin', url: 'https://site.example/authors/lenin' }]);
+    assert.deepEqual(data.translator, [{ '@type': 'Person', name: 'Clemens Dutt' }]);
+    assert.deepEqual(data.editor, [{ '@type': 'Person', name: 'George Hanna' }]);
+    assert.equal(data.publisher.url, 'https://site.example/publishers/progress');
+  });
+  test('names the work it translates, and its numbers in library catalogues', () => {
+    assert.deepEqual(data.translationOfWork, { '@type': 'CreativeWork', name: 'Gosudarstvo i revoliutsiia' });
+    assert.deepEqual(libraryIdentifiers(r), [
+      { '@type': 'PropertyValue', propertyID: 'OCLC', value: '55201' },
+      { '@type': 'PropertyValue', propertyID: 'LCCN', value: '70009171' },
+    ]);
+  });
+});
+
+describe("a title's other editions", () => {
+  const r = record('staat-1970', 'Staat und Revolution', { year: 1970, language: 'German' });
+  const editions = [{ href: '/book/progress/gosudarstvo-1969', title: 'Государство и революция', date: '1969', language: 'Russian', publisher: 'Politizdat <Moscow>' }];
+  const page = renderBook(TEMPLATE, r, 'dietz', { id: 'dietz', name: 'Dietz', place: 'Berlin' }, 'https://site.example', '/book/dietz/staat-1970',
+    { editions, work: { title: 'Gosudarstvo i revoliutsiia', editions: 30 } });
+  test('are listed, in their language, with how many more there are', () => {
+    assert.match(page, /<h2 id="editions-heading">Other editions of this work<\/h2>/);
+    assert.match(page, /<span lang="ru"><a href="\/book\/progress\/gosudarstvo-1969">Государство и революция<\/a><\/span>/);
+    assert.match(page, /Politizdat &lt;Moscow&gt;/, 'as text');
+    assert.match(page, /And 28 more\./);
+    assert.match(page, /"exampleOfWork":\{"@type":"CreativeWork","name":"Gosudarstvo i revoliutsiia"\}/);
+  });
 });

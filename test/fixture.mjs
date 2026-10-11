@@ -15,11 +15,11 @@ export const record = (id, title, extra = {}) => ({
 export const PUBLISHERS = {
   progress: { name: 'Progress Publishers', city: 'Moscow', country: 'Soviet Union', titles: [
     record('state-and-revolution-1970', 'The State and Revolution', { year: 1970, authors: [{ name: 'V. I. Lenin', href: '/authors/lenin' }], places: ['Soviet Union'], verified: true }),
-    record('capital-1965', 'Capital', { year: 1965, authors: [{ name: 'Karl Marx', href: '/authors/marx' }], links: [{ label: 'Scan (Internet Archive)', url: 'https://archive.org/details/x' }] }),
+    record('capital-1965', 'Capital', { year: 1965, series: 'Little Marx Library -- v. 3', authors: [{ name: 'Karl Marx', href: '/authors/marx' }], links: [{ label: 'Scan (Internet Archive)', url: 'https://archive.org/details/x' }] }),
     record('chudozestvennaja-1975', 'Chudožestvennaja literatura i žizn', { year: 1975, language: 'Russian', places: ['Soviet Union'] }),
   ] },
   'international-publishers': { name: 'International Publishers', city: 'New York', country: 'United States', titles: [
-    record('wage-labour-1933', 'Wage-Labour and Capital', { year: 1933, authors: [{ name: 'Karl Marx', href: '/authors/marx' }], places: ['United States'] }),
+    record('wage-labour-1933', 'Wage-Labour and Capital', { year: 1933, series: 'Little Marx Library; 5', authors: [{ name: 'Karl Marx', href: '/authors/marx' }], places: ['United States'] }),
     record('undated', 'An Undated Pamphlet'),
   ] },
 };

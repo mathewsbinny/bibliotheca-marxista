@@ -41,6 +41,8 @@ export interface Criteria {
   pub: string;
   /** A globe pin: titles listed under that country or region (the all-titles search only). */
   country: string;
+  /** A series, by its name without volume numbers (the all-titles search only). */
+  series: string;
   /** '1' verified only, '0' unverified only, '' all. */
   verified: '' | '1' | '0';
   /** 'free' for titles with a copy anyone can read. */
@@ -48,7 +50,7 @@ export interface Criteria {
   sort: SortKey;
 }
 
-const FIELDS = ['q', 'from', 'to', 'lang', 'country', 'pub', 'verified', 'access', 'sort'] as const;
+const FIELDS = ['q', 'series', 'from', 'to', 'lang', 'country', 'pub', 'verified', 'access', 'sort'] as const;
 
 /** Seeds the form from the page URL so searches can be linked to, e.g. /titles?q=lenin */
 export function restoreFromUrl(form: HTMLFormElement): boolean {
@@ -76,6 +78,7 @@ export function readCriteria(form: HTMLFormElement): Criteria {
     lang: get('lang'),
     pub: get('pub'),
     country: get('country'),
+    series: get('series'),
     verified: (['1', '0'].includes(get('verified')) ? get('verified') : '') as Criteria['verified'],
     access: (get('access') === 'free' ? 'free' : '') as Criteria['access'],
     sort: get('sort') as SortKey,

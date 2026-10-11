@@ -212,6 +212,34 @@ table.catalogue { width: 100%; border-collapse: collapse; font-size: 0.97rem; }
 .filters input[type='number'] { width: 6.5rem; }
 .filters .count { margin-left: auto; color: var(--muted); }
 
+/* The all-titles search: suggestions under the search box, the series chip, and the facets. */
+.suggest-wrap { position: relative; display: flex; flex-direction: column; gap: 0.25rem; color: var(--muted); }
+.suggestions {
+  position: absolute; top: 100%; left: 0; z-index: 10; min-width: 100%; max-width: min(34rem, 92vw);
+  margin: 2px 0 0; padding: 0.25rem 0; list-style: none; background: var(--card); color: var(--ink);
+  border: 1px solid var(--rule); border-radius: 3px; box-shadow: 0 4px 14px rgb(0 0 0 / 0.15);
+}
+.suggestions [role='option'] { padding: 0.4rem 0.7rem; cursor: pointer; }
+.suggestions [role='option'][aria-selected='true'], .suggestions [role='option']:hover { background: var(--paper); outline: 1px solid var(--accent); }
+.series-chip { display: flex; align-items: center; gap: 0.4rem; margin: 0; color: var(--ink); }
+.series-chip[hidden] { display: none; }
+.facets {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr)); gap: 0.5rem 1.5rem;
+  margin: 0 0 1.25rem; font-family: var(--sans); font-size: 0.85rem;
+}
+.facets[hidden], .facet[hidden] { display: none; }
+.facet h3 { margin: 0 0 0.3rem; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); }
+.facet ul { list-style: none; margin: 0; padding: 0; }
+.facet-value {
+  display: flex; justify-content: space-between; gap: 0.75rem; width: 100%; padding: 0.15rem 0.3rem;
+  font: inherit; color: var(--ink); text-align: left; background: none; border: 0; border-radius: 2px; cursor: pointer;
+}
+.facet-value:hover { background: var(--card); }
+.facet-value[aria-pressed='true'] { background: var(--accent); color: var(--accent-ink); }
+.facet-value .n { color: var(--muted); font-variant-numeric: tabular-nums; }
+.facet-value[aria-pressed='true'] .n { color: inherit; }
+.facet-more { margin-top: 0.3rem; }
+
 .tick { color: var(--accent); font-family: var(--sans); font-size: 0.85em; margin-left: 0.35em; }
 .free-mark { font: 600 0.65rem/1 var(--sans); text-transform: uppercase; letter-spacing: 0.06em; color: var(--accent); border: 1px solid currentColor; border-radius: 3px; padding: 0.1rem 0.3rem; margin-left: 0.45em; vertical-align: 0.1em; }
 
@@ -342,3 +370,37 @@ svg.globe:active { cursor: grabbing; }
 .all-authors { margin-top: 2.5rem; text-align: center; }
 .all-authors .cards { text-align: left; margin-top: 1rem; }
 .globe-abroad-head { font: 600 0.8rem/1.2 var(--sans); text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin: 1rem 0 0.25rem; }
+
+/* Timelines (src/components/Timeline.astro) and ranked tables (BarTable.astro). */
+.timeline { margin: 0.5rem 0 1.5rem; }
+.timeline svg { display: block; width: 100%; height: auto; }
+.timeline .bar, .bar-table .bar { fill: var(--accent); }
+.timeline .bar:hover { fill: var(--ink); }
+.timeline .axis, .timeline .tick { stroke: var(--muted); stroke-width: 1; }
+.timeline .mark { stroke: var(--ink); stroke-width: 1.5; stroke-dasharray: 3 3; }
+.timeline .tick-label { fill: var(--muted); font-family: var(--sans); font-size: 11px; }
+.timeline figcaption { font-family: var(--sans); font-size: 0.85rem; color: var(--muted); margin-top: 0.25rem; }
+.timeline-table summary { font-family: var(--sans); font-size: 0.85rem; cursor: pointer; margin-top: 0.25rem; }
+.timeline-table table { font-family: var(--sans); font-size: 0.85rem; border-collapse: collapse; margin-top: 0.4rem; }
+.timeline-table th, .timeline-table td { padding: 0.15rem 1rem 0.15rem 0; text-align: left; }
+.timeline-table td + td { text-align: right; font-variant-numeric: tabular-nums; }
+.timeline.compact .tick-label { font-size: 13px; }
+.timeline-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(20rem, 100%), 1fr)); gap: 0 1.5rem; }
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr)); gap: 0.75rem; margin: 1.5rem 0 2rem; }
+.stats div { background: var(--card); border: 1px solid var(--rule); border-radius: 4px; padding: 0.75rem 1rem; }
+.stats dt { font-family: var(--sans); font-size: 0.8rem; color: var(--muted); }
+.stats dd { margin: 0.2rem 0 0; font-size: 1.5rem; }
+.stats dd .meta { font-size: 0.9rem; }
+.bar-table { width: 100%; border-collapse: collapse; margin: 0.5rem 0 2rem; font-family: var(--sans); font-size: 0.9rem; }
+.bar-table caption { text-align: left; color: var(--muted); padding-bottom: 0.4rem; }
+.bar-table th, .bar-table td { padding: 0.2rem 0.75rem 0.2rem 0; text-align: left; font-weight: normal; border-bottom: 1px solid var(--rule); }
+.bar-table thead th { color: var(--muted); font-size: 0.8rem; }
+.bar-table .n { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.bar-table .bar-cell { width: 40%; }
+.bar-table .bar-cell svg { display: block; width: 100%; height: 0.7rem; }
+
+/* A title's other editions (server/book.mjs). */
+.editions { margin: 2rem 0; }
+.edition-list { list-style: none; padding: 0; margin: 0.5rem 0; font-size: 0.95rem; }
+.edition-list li { padding: 0.2rem 0; border-bottom: 1px solid var(--rule); }
+.edition-list .year { display: inline-block; min-width: 4.5rem; font-family: var(--sans); font-size: 0.85rem; color: var(--muted); }

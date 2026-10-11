@@ -15,76 +15,15 @@
  *   node scripts/check-publisher-years.mjs           report only (reports/publisher-years.md)
  *   node scripts/check-publisher-years.mjs --write   also write the years to data/publishers
  */
-import { createHash } from 'node:crypto';
 import { existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import * as yaml from 'js-yaml';
+import { claims, findEntity, yearOfTime } from './lib/wikidata.mjs';
 
 const ROOT = join(new URL('..', import.meta.url).pathname.replace(/^\/(\w:)/, '$1'));
 const PUBLISHERS = join(ROOT, 'data', 'publishers');
 const CATALOGUES = join(ROOT, 'data', 'catalogues');
-const CACHE = join(ROOT, '.cache', 'wikidata');
 const write = process.argv.includes('--write');
-mkdirSync(CACHE, { recursive: true });
-
-let last = 0;
-async function getJson(url) {
-  const file = join(CACHE, createHash('sha1').update(url).digest('hex') + '.json');
-  if (existsSync(file)) return JSON.parse(readFileSync(file, 'utf8'));
-  let res;
-  for (let attempt = 1; ; attempt++) {
-    const wait = last + 2000 - Date.now();
-    if (wait > 0) await new Promise((r) => setTimeout(r, wait));
-    last = Date.now();
-    res = await fetch(url, { headers: { 'User-Agent': 'LeftBacklist/1.0 (bibliographic research; publisher years)' }, signal: AbortSignal.timeout(60_000) });
-    if (res.ok) break;
-    // Wikidata asks a client that searches quickly to wait: as long as it says, or longer each time.
-    if ((res.status !== 429 && res.status < 500) || attempt >= 6) throw new Error(`HTTP ${res.status} ${url}`);
-    const after = Number(res.headers.get('retry-after')) || 15 * attempt;
-    await new Promise((r) => setTimeout(r, after * 1000));
-  }
-  const json = await res.json();
-  writeFileSync(file, JSON.stringify(json));
-  return json;
-}
-const entity = async (qid) => (await getJson(`https://www.wikidata.org/wiki/Special:EntityData/${qid}.json`)).entities[qid];
-const search = async (q, lang) =>
-  (await getJson(`https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&type=item&limit=7&language=${lang}&search=${encodeURIComponent(q)}`)).search ?? [];
-
-const plain = (s) => String(s).normalize('NFKD').replace(/\p{M}/gu, '').toLowerCase().replace(/[^\p{L}\p{N}]+/gu, ' ').trim();
-const yearOfTime = (claim) => {
-  const t = claim?.mainsnak?.datavalue?.value?.time;
-  const m = t && /^[+]?(\d{4})-/.exec(t);
-  return m ? Number(m[1]) : undefined;
-};
-const claims = (e, p) => (e.claims?.[p] ?? []).filter((c) => c.rank !== 'deprecated');
-const ids = (e, p) => claims(e, p).map((c) => c.mainsnak?.datavalue?.value?.id).filter(Boolean);
-
-// A house's country, and the states that were part of it or succeeded it, as Wikidata may file them.
-const SUCCESSORS = {
-  'Soviet Union': ['Russia', 'Ukraine', 'Belarus', 'Moldova', 'Estonia', 'Latvia', 'Lithuania', 'Georgia', 'Armenia', 'Azerbaijan', 'Kazakhstan', 'Uzbekistan', 'Turkmenistan', 'Kyrgyzstan', 'Tajikistan', 'Russian Empire'],
-  Yugoslavia: ['Serbia', 'Croatia', 'Slovenia', 'Bosnia and Herzegovina', 'Montenegro', 'North Macedonia', 'Kosovo', 'Kingdom of Yugoslavia', 'Socialist Federal Republic of Yugoslavia', 'Serbia and Montenegro'],
-  Czechoslovakia: ['Czech Republic', 'Czechia', 'Slovakia'],
-  'East Germany': ['Germany'], 'West Germany': ['Germany'], Germany: ['East Germany', 'West Germany', 'German Reich', 'Weimar Republic'],
-  'United Kingdom': ['England', 'Scotland', 'Wales'], 'United States': ['Puerto Rico'],
-  'South Yemen': ['Yemen'], 'North Korea': ['Korea'], 'South Korea': ['Korea'], Vietnam: ['North Vietnam', 'South Vietnam'],
-  Congo: ['Republic of the Congo'], 'Guinea-Bissau': ['Cape Verde'],
-};
-// Kinds of organisation a house's entity may be (Wikidata "instance of", P31).
-const ORGANISATIONS = new Set([
-  'Q2085381', 'Q1320047', 'Q479716', 'Q3972943', // publisher, book publisher, university press, publishing company
-  'Q11032', 'Q1110794', 'Q1002697', 'Q41298', 'Q1153191', // newspaper, daily, periodical, magazine, online newspaper
-  'Q7278', 'Q1393724', 'Q7210356', 'Q49773', 'Q2659904', 'Q327333', // party, communist party, political organisation, social movement, government organisation, agency
-  'Q43229', 'Q4830453', 'Q783794', 'Q6881511', 'Q270791', 'Q163740', 'Q15911314', 'Q1664720', 'Q4287745', // organisation, business, company, enterprise, state-owned enterprise, non-profit, association, institute, medical
-  'Q200764', 'Q1137809', 'Q4539', 'Q891723', 'Q5225895', // bookshop, cooperative, cooperative (alt.), public company, cooperative society
-]);
-// Entities that match a house's name but are another house: Messidor's predecessor, Éditeurs français réunis.
-const WRONG = new Set(['Q23946115']);
-const countryLabels = new Map();
-async function countryName(qid) {
-  if (!countryLabels.has(qid)) countryLabels.set(qid, (await entity(qid))?.labels?.en?.value ?? qid);
-  return countryLabels.get(qid);
-}
 
 /** The catalogue's span for a house: its earliest and latest dated titles. */
 function catalogueYears(id) {
@@ -99,33 +38,6 @@ function catalogueYears(id) {
   return { first: years[0], last: years.at(-1), count: years.length };
 }
 
-/** The house's Wikidata entity: the first search result whose names include the house's and whose country is the house's. */
-async function findEntity(p) {
-  const names = [p.name, ...(p.alternate_names ?? [])].filter((n) => n.length > 2);
-  const wanted = new Set(names.map(plain));
-  const countries = new Set([p.country, ...(SUCCESSORS[p.country] ?? []), p.region].filter(Boolean));
-  const seen = new Set();
-  for (const name of names.slice(0, 4)) {
-    for (const lang of ['en', 'mul']) {
-      for (const hit of await search(name, lang)) {
-        if (seen.has(hit.id)) continue;
-        seen.add(hit.id);
-        const e = await entity(hit.id);
-        if (!e) continue;
-        const labels = [...Object.values(e.labels ?? {}), ...Object.values(e.aliases ?? {}).flat()].map((l) => plain(l.value));
-        if (!labels.some((l) => wanted.has(l))) continue;
-        // Only an organisation: a publisher, newspaper, party, company or the like — not a person,
-        // a book or song of the same name ("La Città del Sole", "Le Temps des cerises") or a concept.
-        if (!ids(e, 'P31').some((c) => ORGANISATIONS.has(c))) continue;
-        const where = await Promise.all(ids(e, 'P17').map(countryName));
-        // Its country must be on record and be the house's: same-named journals abroad are not the house.
-        if (WRONG.has(e.id) || !where.some((c) => countries.has(c))) continue;
-        return e;
-      }
-    }
-  }
-  return undefined;
-}
 
 /** Writes years into a publisher file, keeping its layout: founded and dissolved before status, estimated after it. */
 function writeYears(file, { founded, dissolved, estimated, source }) {

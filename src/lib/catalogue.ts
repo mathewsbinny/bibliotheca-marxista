@@ -3,6 +3,7 @@ import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import { join, relative } from 'node:path';
 import * as yaml from 'js-yaml';
 import { applyCorrections, type TitleCorrection } from './corrections';
+import { computeNameKey } from './name-key.mjs';
 import { titleHref } from './shard';
 import type { AuthorLink } from './rows-shared';
 import { catalogueFile, correctionsFile, type RawTitle } from './schemas';
@@ -178,37 +179,6 @@ export function nameKey(name: string): string {
     nameKeyCache.set(name, key);
   }
   return key;
-}
-
-function computeNameKey(name: string): string {
-  let n = name.replace(/,?\s*\(?\d{4}\s*-\s*(\d{4})?\)?\.?/g, '').trim();
-  const parts = n.split(/\s*,\s*/);
-  if (parts.length === 2) n = `${parts[1]} ${parts[0]}`;
-  return n
-    .normalize('NFKD')
-    .replace(/[̀-ͯ]/g, '')
-    .toLowerCase()
-    // Apostrophes and the soft and hard signs ("Leont'ev", "Leontʹev") are dropped, not spaced.
-    .replace(/['’ʹʼʺ]/g, '')
-    .replace(/[^\p{L}\p{N}]+/gu, ' ')
-    .trim()
-    .split(' ')
-    .map(foldRomanisation)
-    .join(' ');
-}
-
-/**
- * Romanisations of one Russian name, compared as one: library "Pokrovskiĭ", "Mintz", "Leont'ev"
- * and English "Pokrovsky", "Mints", "Leontyev" (as in scripts/find-author-spellings.mjs).
- */
-function foldRomanisation(w: string): string {
-  return w
-    .replace(/(sk|ck|tsk)(ii|iy|ij|y)$/, '$1y')
-    .replace(/([^aeiou])(iev|yev|jev)$/, '$1ev')
-    .replace(/tz/g, 'ts')
-    .replace(/x/g, 'ks')
-    .replace(/yu/g, 'iu')
-    .replace(/ya/g, 'ia');
 }
 
 /**

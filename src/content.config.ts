@@ -1,7 +1,7 @@
 import { defineCollection, reference } from 'astro:content';
 import { glob } from 'astro/loaders';
 import { z } from 'astro/zod';
-import { link, source, webUrl } from './lib/schemas';
+import { identifiers, link, source, webUrl } from './lib/schemas';
 
 /** One file per publishing house: data/publishers/<id>.yaml */
 const publishers = defineCollection({
@@ -46,6 +46,7 @@ const publishers = defineCollection({
       )
       .default([]),
     sources: z.array(source).default([]),
+    identifiers,
   }),
 });
 
@@ -64,6 +65,7 @@ const authors = defineCollection({
     featured: z.boolean().default(false),
     description: z.string(),
     sources: z.array(source).default([]),
+    identifiers,
     /** First editions of the author's books. */
     works: z.array(
       z.object({

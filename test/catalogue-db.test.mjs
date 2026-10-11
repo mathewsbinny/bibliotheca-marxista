@@ -3,7 +3,7 @@
 import assert from 'node:assert/strict';
 import { after, before, describe, test } from 'node:test';
 import Database from 'better-sqlite3';
-import { BadRequest, ftsQuery, parseTitleParams, titleQuery, toRow } from '../server/query.mjs';
+import { BadRequest, facetQueries, ftsQuery, parseTitleParams, seriesName, suggestQuery, titleQuery, toRow } from '../server/query.mjs';
 import { AUTHOR_TITLES, PUBLISHERS, makeFixture, record } from './fixture.mjs';
 
 let fixture;
@@ -94,4 +94,52 @@ describe('checking parameters', () => {
     assert.equal(ftsQuery('Lenin "state" OR -revolution*'), '"Lenin"* "state"* "OR"* "revolution"*');
     assert.equal(ftsQuery('  ... '), undefined);
   });
+});
+
+describe('series', () => {
+  test("a series' name leaves out the volume and its editors", () => {
+    assert.equal(seriesName('Little Lenin Library -- v. 15'), 'Little Lenin Library');
+    assert.equal(seriesName('Kompassbücherei; 122'), 'Kompassbücherei');
+    assert.equal(seriesName('現代哲学全書, 17'), '現代哲学全書');
+    assert.equal(seriesName('Raskršća / Midhat Begić; Knj. 3'), 'Raskršća');
+    assert.equal(seriesName('Rozpravy Československé Akademie Věd; Ročník 73, Sešit 5'), 'Rozpravy Československé Akademie Věd');
+    assert.equal(seriesName('Naša rodina, geografičeskaja serija'), 'Naša rodina, geografičeskaja serija', 'a part without a number is kept');
+  });
+  test('finds every volume of a series', () => {
+    assert.deepEqual(search('series=Little Marx Library').titles, ['Wage-Labour and Capital', 'Capital']);
+  });
+});
+
+describe('facets', () => {
+  const facets = (qs) => Object.fromEntries(Object.entries(facetQueries(parseTitleParams(new URLSearchParams(qs))))
+    .map(([name, q]) => [name, db.prepare(q.sql).all(...q.args).map((r) => [r.value, r.n])]));
+  test('count the titles found by language, country, publisher and decade', () => {
+    const f = facets('q=capital');
+    assert.deepEqual(f.lang, [['English', 2]]);
+    assert.deepEqual(f.decade, [[1930, 1], [1960, 1]]);
+    assert.deepEqual(f.pub.map(([p]) => p).sort(), ['international-publishers', 'progress']);
+  });
+  test("each leaves out its own filter, so its other values stay in view", () => {
+    const f = facets('pub=progress&lang=Russian');
+    assert.deepEqual(f.pub, [['progress', 1]], 'the language still narrows the publishers');
+    assert.deepEqual(f.lang.sort(), [['English', 2], ['Russian', 1]], 'but not the languages');
+  });
+  test("the whole catalogue's are counted when the database is built", () => {
+    const stored = JSON.parse(db.prepare("SELECT value FROM meta WHERE key = 'facets'").pluck().get());
+    assert.deepEqual(stored, facets(''));
+  });
+});
+
+describe('suggestions', () => {
+  const suggest = (q) => {
+    const s = suggestQuery(q);
+    return s ? db.prepare(s.sql).all(...s.args).map((r) => `${r.kind}: ${r.label}`) : [];
+  };
+  test('authors, publishers and series, found from any word of their names', () => {
+    assert.deepEqual(suggest('marx'), ['author: Karl Marx', 'series: Little Marx Library']);
+    assert.deepEqual(suggest('lenin'), ['author: V. I. Lenin']);
+    assert.deepEqual(suggest('PROGR'), ['publisher: Progress Publishers']);
+    assert.deepEqual(suggest('little marx'), ['series: Little Marx Library'], 'words in order');
+  });
+  test('nothing for a single letter', () => assert.deepEqual(suggest('m'), []));
 });

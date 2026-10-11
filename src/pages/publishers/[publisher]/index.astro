@@ -2,6 +2,8 @@
 import { getEntry } from 'astro:content';
 import Base from '../../../layouts/Base.astro';
 import CatalogueTable from '../../../components/CatalogueTable.astro';
+import Timeline from '../../../components/Timeline.astro';
+import { identifierLinks } from '../../../lib/schemas';
 import { STATUS_LABELS, getPublisherTitles, getPublishers, yearsActive, type Publisher } from '../../../lib/catalogue';
 
 export async function getStaticPaths() {
@@ -24,6 +26,8 @@ const predecessor = p.predecessor && (await getEntry(p.predecessor));
 const isCurrentName = (n: (typeof p.name_history)[number]) =>
   n === p.name_history.at(-1) && (p.status === 'active' || (p.dissolved !== undefined && (n.from ?? 0) > p.dissolved));
 const successor = p.successor && (await getEntry(p.successor));
+// The house's records elsewhere (Wikidata, VIAF, the Library of Congress…), for readers and for linked data.
+const authorities = identifierLinks(p.identifiers);
 ---
 
 <Base
@@ -32,7 +36,8 @@ const successor = p.successor && (await getEntry(p.successor));
   jsonLd={{
     '@type': 'Organization', name: p.name, alternateName: p.alternate_names, description: p.description,
     foundingDate: p.founded && String(p.founded), dissolutionDate: p.dissolved && String(p.dissolved),
-    location: [p.city, p.country].filter(Boolean).join(', '), url: p.website, sameAs: p.sources.map((s) => s.url).filter((u): u is string => !!u && /wikipedia\.org|wikidata\.org/.test(u)),
+    location: [p.city, p.country].filter(Boolean).join(', '), url: p.website,
+    sameAs: [...new Set([...authorities.map((l) => l.url), ...p.sources.map((s) => s.url).filter((u): u is string => !!u && /wikipedia\.org|wikidata\.org/.test(u))])],
   }}
 >
   <header class="page-head">
@@ -126,6 +131,12 @@ const successor = p.successor && (await getEntry(p.successor));
         <dd><a href={p.website}>{p.website}</a></dd>
       </>
     )}
+    {authorities.length > 0 && (
+      <>
+        <dt>Authority records</dt>
+        <dd>{authorities.map((l, i) => <>{i > 0 && ' · '}<a href={l.url}>{l.label}</a></>)}</dd>
+      </>
+    )}
     {p.sources.length > 0 && (
       <>
         <dt>Sources</dt>
@@ -142,6 +153,10 @@ const successor = p.successor && (await getEntry(p.successor));
   </dl>
 
   <h2>Backlist</h2>
+  {titles.length > 4 && (
+    <Timeline years={titles.map((t) => t.year)} label={`Titles of ${p.name} by year`}
+      marks={[p.founded && { year: p.founded, label: `Founded ${p.founded}` }, p.dissolved && { year: p.dissolved, label: `Closed ${p.dissolved}` }].filter((m): m is { year: number; label: string } => !!m)} />
+  )}
   {titles.length > 0
     ? <CatalogueTable titles={titles} scope={{ pub: publisher.id }} plainHref={`/publishers/${publisher.id}/titles/1`} />
     : <p class="meta">No titles catalogued yet.</p>}

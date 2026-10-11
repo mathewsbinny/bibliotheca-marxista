@@ -21,8 +21,9 @@ const separator = (i: number, n: number) => (i === 0 ? '' : i === n - 1 ? ' & ' 
 <Base centered title="Titles" description="Search every title in the catalogue: books and pamphlets of socialist, communist and Marxist publishers, by title, author, publisher, language and year.">
   <h1>All titles</h1>
   <p class="lede">
-    Every catalogued title across all publishers. Filter by author, series, date range, language,
-    country (as on the globe) or publisher, and sort by title, author, publisher or year. The data can also be downloaded as <a href="/about#download">JSON</a>.
+    Every catalogued title across all publishers. Search by title, author or series (suggestions
+    appear as you type), narrow by language, decade, country (as on the globe) or publisher with the
+    counts below, and sort by title, author, publisher or year. The data can also be downloaded as <a href="/about#download">JSON</a>.
   </p>
 
   <noscript>
@@ -30,7 +31,17 @@ const separator = (i: number, n: number) => (i === 0 ? '' : i === n - 1 ? ' & ' 
   </noscript>
 
   <div class="title-search" data-publishers={JSON.stringify(Object.fromEntries(publishers.map((p) => [p.id, p.name])))}>
-    <CatalogueFilters languages={languagesOf(titles)} countries={countries} publishers={publishers} total={titles.length} />
+    <CatalogueFilters languages={languagesOf(titles)} countries={countries} publishers={publishers} total={titles.length} search />
+    <section class="facets" aria-labelledby="facets-heading" hidden>
+      <h2 id="facets-heading" class="visually-hidden">Narrow the titles</h2>
+      {[['lang', 'Language'], ['decade', 'Decade'], ['country', 'Country'], ['pub', 'Publisher']].map(([name, label]) => (
+        <div class="facet" data-facet={name}>
+          <h3>{label}</h3>
+          <ul></ul>
+          <button type="button" class="facet-more button-small" aria-expanded="false" hidden>More</button>
+        </div>
+      ))}
+    </section>
     <div class="table-wrap">
       <table class="catalogue">
         <thead>
@@ -69,7 +80,7 @@ const separator = (i: number, n: number) => (i === 0 ? '' : i === n - 1 ? ' & ' 
 </Base>
 
 <script>
-  import { fetchTitles, titleParams } from '../lib/api';
+  import { fetchFacets, fetchSuggestions, fetchTitles, titleParams, type Facets, type Suggestion } from '../lib/api';
   import { readCriteria, restoreFromUrl } from '../lib/filters';
   import { FREE, VERIFIED, type Row } from '../lib/rows-shared';
 
@@ -148,8 +159,10 @@ const separator = (i: number, n: number) => (i === 0 ? '' : i === n - 1 ? ' & ' 
   async function apply() {
     const current = ++generation;
     const c = readCriteria(form);
-    const unfiltered = !c.terms.length && !c.lang && !c.pub && !c.country && !c.verified && !c.access && !c.sort
+    const unfiltered = !c.terms.length && !c.lang && !c.pub && !c.country && !c.series && !c.verified && !c.access && !c.sort
       && c.from === -Infinity && c.to === Infinity;
+    showSeries();
+    refreshFacets(unfiltered ? new URLSearchParams() : titleParams(c));
     if (unfiltered) {
       tbody.replaceChildren(...initialRows);
       status.textContent = initialStatus;
@@ -172,9 +185,156 @@ const separator = (i: number, n: number) => (i === 0 ? '' : i === n - 1 ? ' & ' 
     status.textContent = 'The search could not be completed: the catalogue did not answer. Check your connection, or try again in a moment.';
     more.disabled = false;
   };
+  // The series filter: a hidden field, shown as a chip that removes it.
+  const seriesField = form.elements.namedItem('series') as HTMLInputElement;
+  const chip = form.querySelector<HTMLElement>('[data-series-chip]')!;
+  function showSeries() {
+    chip.hidden = !seriesField.value;
+    chip.querySelector('[data-series-name]')!.textContent = seriesField.value;
+  }
+  const setField = (name: string, value: string) => {
+    const field = form.elements.namedItem(name) as HTMLInputElement | HTMLSelectElement;
+    // A value the list does not offer (a rare country or language) is added to it.
+    if (field instanceof HTMLSelectElement && value && ![...field.options].some((o) => o.value === value)) field.add(new Option(value, value));
+    field.value = value;
+  };
+  const changed = () => form.dispatchEvent(new Event('input', { bubbles: true }));
+  chip.querySelector('[data-series-clear]')!.addEventListener('click', () => {
+    setField('series', '');
+    changed();
+    (form.elements.namedItem('q') as HTMLInputElement).focus();
+  });
+
+  // Facets: how the titles found divide by language, decade, country and publisher. A value
+  // narrows the search to it; pressed again, it widens it back.
+  const facets = root.querySelector<HTMLElement>('.facets')!;
+  const SHOWN = 8;
+  let facetRequest: AbortController | undefined;
+  const fieldValue = (name: string) => (form.elements.namedItem(name) as HTMLInputElement).value;
+  function facetLabel(name: string, value: string | number) {
+    if (name === 'decade') return value + 's';
+    if (name === 'pub') return publisherNames[value] ?? String(value);
+    return String(value);
+  }
+  function isActive(name: string, value: string | number) {
+    if (name === 'decade') return fieldValue('from') === String(value) && fieldValue('to') === String(Number(value) + 9);
+    return fieldValue(name) === String(value);
+  }
+  function drawFacets(data: Facets) {
+    for (const group of facets.querySelectorAll<HTMLElement>('[data-facet]')) {
+      const name = group.dataset.facet as keyof Facets;
+      const more = group.querySelector<HTMLButtonElement>('.facet-more')!;
+      const open = more.getAttribute('aria-expanded') === 'true';
+      const values = data[name] ?? [];
+      group.querySelector('ul')!.replaceChildren(...values.map(([value, n], i) => {
+        const li = document.createElement('li');
+        li.hidden = i >= SHOWN && !open;
+        const button = Object.assign(document.createElement('button'), { type: 'button', className: 'facet-value' });
+        button.setAttribute('aria-pressed', String(isActive(name, value)));
+        button.append(facetLabel(name, value), ' ', Object.assign(document.createElement('span'), { className: 'n', textContent: n.toLocaleString('en') }));
+        button.addEventListener('click', () => {
+          const off = isActive(name, value);
+          if (name === 'decade') {
+            setField('from', off ? '' : String(value));
+            setField('to', off ? '' : String(Number(value) + 9));
+          } else setField(name, off ? '' : String(value));
+          changed();
+        });
+        li.append(button);
+        return li;
+      }));
+      more.hidden = values.length <= SHOWN;
+      group.hidden = !values.length;
+    }
+    facets.hidden = false;
+  }
+  facets.querySelectorAll<HTMLButtonElement>('.facet-more').forEach((more) => more.addEventListener('click', () => {
+    const open = more.getAttribute('aria-expanded') !== 'true';
+    more.setAttribute('aria-expanded', String(open));
+    more.textContent = open ? 'Fewer' : 'More';
+    more.closest('.facet')!.querySelectorAll<HTMLElement>('li').forEach((li, i) => { li.hidden = i >= SHOWN && !open; });
+  }));
+  function refreshFacets(p: URLSearchParams) {
+    facetRequest?.abort();
+    facetRequest = new AbortController();
+    fetchFacets(p, facetRequest.signal).then(drawFacets).catch((e) => { if (e.name !== 'AbortError') facets.hidden = true; });
+  }
+
+  // Suggestions as the reader types: a combobox (WAI-ARIA), chosen with the arrow keys and Enter,
+  // or the mouse. An author or publisher opens their page; a series narrows the titles to it.
+  const q = form.elements.namedItem('q') as HTMLInputElement;
+  const listbox = form.querySelector<HTMLUListElement>('#search-suggestions')!;
+  const KINDS = { author: 'Author', publisher: 'Publisher', series: 'Series' };
+  let suggestions: Suggestion[] = [];
+  let active = -1;
+  let suggestRequest: AbortController | undefined;
+  let suggestTimer: number | undefined;
+  function closeSuggestions() {
+    listbox.hidden = true;
+    q.setAttribute('aria-expanded', 'false');
+    q.removeAttribute('aria-activedescendant');
+    active = -1;
+  }
+  function highlight(i: number) {
+    active = i;
+    listbox.querySelectorAll('[role=option]').forEach((o, j) => o.setAttribute('aria-selected', String(j === i)));
+    q.setAttribute('aria-activedescendant', 'suggestion-' + i);
+  }
+  function choose(s: Suggestion) {
+    closeSuggestions();
+    if (s.kind === 'series') {
+      setField('series', s.label);
+      q.value = '';
+      changed();
+    } else location.href = s.href;
+  }
+  function showSuggestions(list: Suggestion[]) {
+    suggestions = list;
+    listbox.replaceChildren(...list.map((s, i) => {
+      const li = Object.assign(document.createElement('li'), { id: 'suggestion-' + i });
+      li.setAttribute('role', 'option');
+      li.setAttribute('aria-selected', 'false');
+      li.append(Object.assign(document.createElement('span'), { className: 'suggestion-label', textContent: s.label }),
+        Object.assign(document.createElement('span'), { className: 'meta', textContent: ' ' + KINDS[s.kind] + ' · ' + s.titles.toLocaleString('en') + (s.titles === 1 ? ' title' : ' titles') }));
+      li.addEventListener('mousedown', (e) => e.preventDefault()); // keeps the focus in the box
+      li.addEventListener('click', () => choose(s));
+      return li;
+    }));
+    const open = list.length > 0 && document.activeElement === q;
+    listbox.hidden = !open;
+    q.setAttribute('aria-expanded', String(open));
+    q.removeAttribute('aria-activedescendant');
+    active = -1;
+  }
+  q.addEventListener('input', () => {
+    clearTimeout(suggestTimer);
+    suggestRequest?.abort();
+    if (q.value.trim().length < 2) return closeSuggestions();
+    suggestTimer = window.setTimeout(() => {
+      suggestRequest = new AbortController();
+      fetchSuggestions(q.value.trim(), suggestRequest.signal).then(showSuggestions).catch(() => {});
+    }, 150);
+  });
+  q.addEventListener('keydown', (e) => {
+    if (listbox.hidden || !suggestions.length) return;
+    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
+      e.preventDefault();
+      const n = suggestions.length;
+      highlight(e.key === 'ArrowDown' ? (active + 1) % n : (active - 1 + n) % n);
+    } else if (e.key === 'Enter' && active >= 0) {
+      e.preventDefault();
+      choose(suggestions[active]);
+    } else if (e.key === 'Escape') {
+      e.preventDefault();
+      closeSuggestions();
+    }
+  });
+  q.addEventListener('blur', closeSuggestions);
+
   let timer: number | undefined;
   form.addEventListener('input', () => { clearTimeout(timer); timer = window.setTimeout(() => apply().catch(searchFailed), 250); });
   more.addEventListener('click', () => renderMore().catch(searchFailed));
   // A linked search runs at once; otherwise the earliest titles stay until the reader searches.
   if (restoreFromUrl(form)) apply().catch(searchFailed);
+  else refreshFacets(new URLSearchParams());
 </script>

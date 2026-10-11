@@ -26,7 +26,7 @@ import Database from 'better-sqlite3';
 import { escapeHtml, renderBook } from './book.mjs';
 import { bibtex, ris } from './cite.mjs';
 import { KINDS, MAX_MESSAGE, addReport, defaultReportsFile, openReports } from './reports.mjs';
-import { BadRequest, parseTitleParams, titleQuery, toRow } from './query.mjs';
+import { BadRequest, facetQueries, parseTitleParams, suggestQuery, titleQuery, toRow } from './query.mjs';
 
 const ROOT = join(new URL('..', import.meta.url).pathname.replace(/^\/(\w:)/, '$1'));
 const DB_FILE = process.env.CATALOGUE_DB ?? join(ROOT, 'db', 'catalogue.sqlite');
@@ -108,6 +108,23 @@ function titles(params, res) {
     const rows = prepare(q.rows.sql).all(...q.rows.args).map(toRow);
     return JSON.stringify(p.offset === 0 ? { total: prepare(q.count.sql).pluck().get(...q.count.args), rows } : { rows });
   }));
+}
+
+/** How the matching titles divide by language, country, publisher and decade (the paging and sort are ignored). */
+function facets(params, res) {
+  const p = parseTitleParams(params);
+  const key = new URLSearchParams([...params].filter(([k, v]) => v !== '' && !['offset', 'limit', 'sort'].includes(k)).sort());
+  // The whole catalogue's, counted when the database was built.
+  if (![...key].length) return json(res, 200, prepare("SELECT value FROM meta WHERE key = 'facets'").pluck().get() ?? '{}');
+  json(res, 200, cached(`facets?${key}`, () => JSON.stringify(Object.fromEntries(
+    Object.entries(facetQueries(p)).map(([name, q]) => [name, prepare(q.sql).all(...q.args).map((r) => [r.value, r.n])]),
+  ))));
+}
+
+function suggest(params, res) {
+  const q = suggestQuery(params.get('q') ?? '');
+  if (!q) return json(res, 200, []);
+  json(res, 200, cached(`suggest?${q.args[0]}`, () => JSON.stringify(prepare(q.sql).all(...q.args).map(({ kind, label, href, weight }) => ({ kind, label, href, titles: weight })))));
 }
 
 function title(params, res) {
@@ -212,8 +229,18 @@ function bookPage(p, t, req, res) {
   if (!row) return html(res, 404, template.replace(/(<div class="title-record[^"]*"[^>]*>)[\s\S]*?<\/div>/,
     (_, open) => `${open.replace(/>$/, " data-rendered>")}<p class="meta">This title could not be found. It may have been merged with another record; try <a href="/titles">searching all titles</a>.</p></div>`));
   const publisher = prepare('SELECT id, name, place FROM publishers WHERE id = ?').get(p);
-  html(res, 200, cached(`book:${path}`, () => renderBook(template, JSON.parse(row.record), p, publisher, siteUrl(req), path)));
+  html(res, 200, cached(`book:${path}`, () => {
+    // The work's other editions (server/works.mjs), at other houses and in other languages.
+    const editions = prepare(`SELECT t.href, t.title, t.date, t.language, p.name AS publisher, me.work_id
+      FROM title_work me JOIN title_work w ON w.work_id = me.work_id JOIN titles t ON t.rowid = w.title_rowid
+      JOIN publishers p ON p.id = t.publisher_id
+      WHERE me.title_rowid = (SELECT rowid FROM titles WHERE href = ?) AND t.href <> ?
+      ORDER BY t.year_sort, t.sort_title LIMIT ${EDITIONS_SHOWN}`).all(path, path);
+    const work = editions.length ? prepare('SELECT title, editions FROM works WHERE id = ?').get(editions[0].work_id) : undefined;
+    return renderBook(template, JSON.parse(row.record), p, publisher, siteUrl(req), path, { editions, work });
+  }));
 }
+const EDITIONS_SHOWN = 100;
 
 // Readers' error reports, in their own database (server/reports.mjs), opened on the first report.
 let reportsDb;
@@ -327,6 +354,13 @@ const server = createServer(async (req, res) => {
       case '/api/titles':
         if (!allow(ip)) return json(res, 429, { error: 'too many requests' });
         return titles(url.searchParams, res);
+      case '/api/facets':
+        // Four grouped counts over the matching titles: dearer than a page of them.
+        if (!allow(ip, 4)) return json(res, 429, { error: 'too many requests' });
+        return facets(url.searchParams, res);
+      case '/api/suggest':
+        if (!allow(ip)) return json(res, 429, { error: 'too many requests' });
+        return suggest(url.searchParams, res);
       case '/api/title':
         if (!allow(ip)) return json(res, 429, { error: 'too many requests' });
         return title(url.searchParams, res);

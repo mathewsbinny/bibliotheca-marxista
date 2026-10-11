@@ -7,6 +7,7 @@
  */
 
 import { citationMeta, references } from './cite.mjs';
+import { seriesName } from './query.mjs';
 import { KINDS, MAX_MESSAGE } from './reports.mjs';
 
 export const escapeHtml = (s) =>
@@ -16,7 +17,6 @@ const safeJson = (value) => JSON.stringify(value).replace(/</g, '\\u003c').repla
 
 const names = (list) => (list.length <= 2 ? list.join(' & ') : `${list.slice(0, -1).join(', ')} & ${list.at(-1)}`);
 const link = (href, text) => `<a href="${escapeHtml(href)}">${escapeHtml(text)}</a>`;
-const searchLink = (text) => link(`/titles?q=${encodeURIComponent(text)}`, text);
 /** Only web addresses are linked; the schema admits nothing else, but the page does not rely on it. */
 const isWeb = (url) => /^https?:\/\//i.test(String(url ?? ''));
 
@@ -38,7 +38,7 @@ const langAttr = (language) => {
 };
 
 /** The record as the page's body: as src/pages/title.astro rendered it in the browser before. */
-export function bookBody(r, publisherId, publisher) {
+export function bookBody(r, publisherId, publisher, { editions = [], work } = {}) {
   const imprint = `${publisher.place}: ${publisher.name}, ${r.date}`;
   const rows = [];
   if (r.authors.length) {
@@ -50,7 +50,8 @@ export function bookBody(r, publisherId, publisher) {
   if (r.original_title) rows.push(['Original title', escapeHtml(r.original_title)]);
   rows.push(['Imprint', escapeHtml(imprint)]);
   if (r.edition) rows.push(['Edition', escapeHtml(r.edition)]);
-  if (r.series) rows.push(['Series', searchLink(r.series)]);
+  // The series' other volumes, found by its name without this one's number.
+  if (r.series) rows.push(['Series', seriesName(r.series) ? link(`/titles?series=${encodeURIComponent(seriesName(r.series))}`, r.series) : escapeHtml(r.series)]);
   rows.push(['Language', escapeHtml(r.language)]);
   if (r.pages) rows.push(['Pages', escapeHtml(String(r.pages))]);
   if (r.isbn) rows.push(['ISBN', escapeHtml(r.isbn)]);
@@ -69,8 +70,25 @@ export function bookBody(r, publisherId, publisher) {
     ${r.subtitle ? `<p class="lede"${langAttr(r.language)}>${escapeHtml(r.subtitle)}</p>` : ''}
     <p>${r.verified ? '<span class="badge verified">verified</span>' : '<span class="badge">unverified</span>'}</p>
     <dl class="record">${rows.map(([term, value]) => `<dt>${escapeHtml(term)}</dt><dd>${value}</dd>`).join('')}</dl>
+    ${editionsSection(editions, work)}
     ${citeSection(r, publisherId, publisher)}
     ${reportSection(r, publisherId)}`;
+}
+
+/**
+ * The work's other editions, at other houses and in other languages: as many as the API sends
+ * (the earliest first), and how many more there are.
+ */
+function editionsSection(editions, work) {
+  if (!editions.length) return '';
+  const total = work?.editions ?? editions.length + 1;
+  const more = total - 1 - editions.length;
+  return `<section class="editions" aria-labelledby="editions-heading">
+      <h2 id="editions-heading">Other editions of this work</h2>
+      <p class="meta">${escapeHtml(work?.title ?? '')}: ${total.toLocaleString('en')} editions in the catalogue, grouped by author and original title.</p>
+      <ul class="edition-list">${editions.map((e) => `<li><span class="year">${escapeHtml(e.date)}</span> <span${langAttr(e.language)}>${link(e.href, e.title)}</span><span class="meta"> — ${escapeHtml(e.publisher)}, ${escapeHtml(e.language)}</span></li>`).join('')}</ul>
+      ${more > 0 ? `<p class="meta">And ${more.toLocaleString('en')} more.</p>` : ''}
+    </section>`;
 }
 
 /**
@@ -122,20 +140,45 @@ export function bookDescription(r, publisher) {
   return `${r.title}${r.subtitle ? `: ${r.subtitle}` : ''}${by}. ${publisher.place}: ${publisher.name}, ${r.date}. ${r.language}.`;
 }
 
-/** schema.org data for the title: a Book with its authors, publisher, date and language. */
-export function bookJsonLd(r, publisher, url) {
+/**
+ * The title's numbers in library catalogues, read from its sources' addresses: OCLC (WorldCat) and
+ * LCCN (the Library of Congress), as schema.org PropertyValues.
+ */
+export function libraryIdentifiers(r) {
+  const found = [];
+  for (const s of r.sources ?? []) {
+    const oclc = /worldcat\.org\/(?:title|oclc)\/(\d+)/.exec(s.url ?? '')?.[1];
+    const lccn = /lccn\.loc\.gov\/([a-z]*\d+)/.exec(s.url ?? '')?.[1];
+    if (oclc) found.push({ '@type': 'PropertyValue', propertyID: 'OCLC', value: oclc });
+    if (lccn) found.push({ '@type': 'PropertyValue', propertyID: 'LCCN', value: lccn });
+  }
+  return found.filter((x, i) => found.findIndex((y) => y.propertyID === x.propertyID && y.value === x.value) === i);
+}
+
+/** schema.org data for the title: a Book with its people, publisher, date, language and library numbers. */
+export function bookJsonLd(r, publisher, url, work) {
+  const site = new URL(url).origin;
+  const person = (name, href) => ({ '@type': 'Person', name, ...(href ? { url: site + href } : {}) });
+  const identifiers = libraryIdentifiers(r);
   return {
     '@context': 'https://schema.org',
     '@type': 'Book',
     name: r.title,
     ...(r.subtitle ? { alternativeHeadline: r.subtitle } : {}),
     url,
-    ...(r.authors.length ? { author: r.authors.map((a) => ({ '@type': 'Person', name: a.name })) } : {}),
-    publisher: { '@type': 'Organization', name: publisher.name },
+    ...(r.authors.length ? { author: r.authors.map((a) => person(a.name, a.href)) } : {}),
+    ...(r.editors?.length ? { editor: r.editors.map((n) => person(n)) } : {}),
+    ...(r.translators?.length ? { translator: r.translators.map((n) => person(n)) } : {}),
+    // A translation names the work it translates.
+    ...(r.original_title ? { translationOfWork: { '@type': 'CreativeWork', name: r.original_title } } : {}),
+    // The work this is an edition of, as the catalogue groups its editions (server/works.mjs).
+    ...(work ? { exampleOfWork: { '@type': 'CreativeWork', name: work.title } } : {}),
+    publisher: { '@type': 'Organization', name: publisher.name, url: `${site}/publishers/${publisher.id}` },
     ...(r.year ? { datePublished: String(r.year) } : {}),
     inLanguage: r.language,
     ...(r.isbn ? { isbn: r.isbn } : {}),
     ...(r.pages ? { numberOfPages: r.pages } : {}),
+    ...(identifiers.length ? { identifier: identifiers } : {}),
     ...(r.sources?.some((s) => isWeb(s.url)) ? { sameAs: r.sources.filter((s) => isWeb(s.url)).map((s) => s.url) } : {}),
   };
 }
@@ -144,7 +187,7 @@ export function bookJsonLd(r, publisher, url) {
  * The title's page: the template with its head describing the title, the record in its body, and
  * the address search engines should file it under (siteUrl + the title's path).
  */
-export function renderBook(template, r, publisherId, publisher, siteUrl, path) {
+export function renderBook(template, r, publisherId, publisher, siteUrl, path, related = {}) {
   const url = `${siteUrl}${path}`;
   const title = escapeHtml(`${r.title} · Bibliotheca Marxista`);
   const description = escapeHtml(bookDescription(r, publisher));
@@ -163,8 +206,8 @@ export function renderBook(template, r, publisherId, publisher, siteUrl, path) {
     ['property', 'og:type', 'book'], ['name', 'twitter:title', escapeHtml(r.title)], ['name', 'twitter:description', description],
   ]) html = setMeta(html, attr, name, value);
   // Structured data for search engines, and citation tags for Google Scholar and Zotero.
-  html = html.replace('</head>', () => `<script type="application/ld+json">${safeJson(bookJsonLd(r, publisher, url))}</script>${citationMeta(r, publisher, escapeHtml)}</head>`);
+  html = html.replace('</head>', () => `<script type="application/ld+json">${safeJson(bookJsonLd(r, publisher, url, related.work))}</script>${citationMeta(r, publisher, escapeHtml)}</head>`);
   // The record, in place of the template's "Loading…".
   return html.replace(/<div class="title-record([^"]*)"([^>]*)>[\s\S]*?<\/div>/,
-    (_, cls, attrs) => `<div class="title-record${cls}"${attrs} data-rendered>${bookBody(r, publisherId, publisher)}</div>`);
+    (_, cls, attrs) => `<div class="title-record${cls}"${attrs} data-rendered>${bookBody(r, publisherId, publisher, related)}</div>`);
 }
