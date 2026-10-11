@@ -113,7 +113,7 @@ function reportSection(r, publisherId) {
           <div class="trap" aria-hidden="true"><label>Website <input type="text" name="website" tabindex="-1" autocomplete="off"></label></div>
           <button type="submit" class="button">Send report</button>
           <p class="meta" data-report-status role="status"></p>
-          <p class="meta">Reports are anonymous: nothing about you is kept.</p>
+          <p class="meta">Reports are anonymous: nothing about you is kept. What you write may be published with the correction, so please leave out personal details.</p>
         </form>
       </details>
     </section>`;

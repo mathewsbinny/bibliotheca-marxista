@@ -36,9 +36,13 @@ export type Facets = Record<'lang' | 'country' | 'pub' | 'decade', [string | num
 export async function fetchFacets(params: URLSearchParams, signal?: AbortSignal): Promise<Facets> {
   const p = new URLSearchParams(params);
   p.delete('sort');
-  const res = await fetch(`${API}/facets?${p}`, { signal });
-  if (!res.ok) throw new Error(`The catalogue could not be counted (${res.status}).`);
-  return res.json();
+  // The API counts a few searches at a time and asks the rest to wait (503): they try again.
+  for (let attempt = 0; ; attempt++) {
+    const res = await fetch(`${API}/facets?${p}`, { signal });
+    if (res.ok) return res.json();
+    if (res.status !== 503 || attempt >= 2) throw new Error(`The catalogue could not be counted (${res.status}).`);
+    await new Promise((resolve) => setTimeout(resolve, 1500 * (attempt + 1)));
+  }
 }
 
 export interface Suggestion {

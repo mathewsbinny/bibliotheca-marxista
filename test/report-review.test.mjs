@@ -123,14 +123,16 @@ describe('scripts/review-reports.mjs', () => {
   test('writes corrections, decisions and a summary', () => {
     writeFileSync(join(dir, 'open.json'), JSON.stringify([
       report('date', 'Published in 1971'), { ...report('scope', 'Not left @someone <b>'), id: 2 },
+      { ...report('other', 'Write to me at reader@example.org or +44 20 7946 0958'), id: 3 },
     ]));
     execFileSync(process.execPath, [join(ROOT, 'scripts', 'review-reports.mjs'), `--from=${join(dir, 'open.json')}`,
       `--decisions=${join(dir, 'decisions.json')}`, `--summary=${join(dir, 'summary.md')}`, `--corrections=${join(dir, 'corrections')}`]);
     const file = yaml.load(readFileSync(join(dir, 'corrections', 'progress.yaml'), 'utf8'));
     assert.deepEqual(file.corrections, [{ id: record.id, report: 1, note: 'Reader report #1: year 1970 → 1971', set: { year: 1971 } }]);
-    assert.deepEqual(JSON.parse(readFileSync(join(dir, 'decisions.json'), 'utf8')).map((d) => d.status), ['applied', 'manual']);
+    assert.deepEqual(JSON.parse(readFileSync(join(dir, 'decisions.json'), 'utf8')).map((d) => d.status), ['applied', 'manual', 'manual']);
     const summary = readFileSync(join(dir, 'summary.md'), 'utf8');
-    assert.match(summary, /1 corrected, 1 left for manual review/);
+    assert.match(summary, /1 corrected, 2 left for manual review/);
+    assert.ok(summary.includes('Write to me at [email address removed] or [telephone number removed]'), 'personal details taken out');
     assert.match(summary, /```text\n  Not left @someone <b>\n  ```/, "a reader's text kept as code");
   });
 });

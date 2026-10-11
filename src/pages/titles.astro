@@ -286,7 +286,10 @@ const separator = (i: number, n: number) => (i === 0 ? '' : i === n - 1 ? ' & ' 
       setField('series', s.label);
       q.value = '';
       changed();
-    } else location.href = s.href;
+    } else if (/^\/(authors|publishers)\/[\w-]+$/.test(s.href)) {
+      // Only an author's or a publisher's page: an address from the API is never followed elsewhere.
+      location.href = s.href;
+    }
   }
   function showSuggestions(list: Suggestion[]) {
     suggestions = list;

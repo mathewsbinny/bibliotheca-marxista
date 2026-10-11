@@ -21,12 +21,13 @@
 import { statSync, watchFile } from 'node:fs';
 import { createServer } from 'node:http';
 import { join } from 'node:path';
+import { Worker } from 'node:worker_threads';
 import { createGzip } from 'node:zlib';
 import Database from 'better-sqlite3';
 import { escapeHtml, renderBook } from './book.mjs';
 import { bibtex, ris } from './cite.mjs';
 import { KINDS, MAX_MESSAGE, addReport, defaultReportsFile, openReports } from './reports.mjs';
-import { BadRequest, facetQueries, parseTitleParams, suggestQuery, titleQuery, toRow } from './query.mjs';
+import { BadRequest, parseTitleParams, suggestQuery, titleQuery, toRow } from './query.mjs';
 
 const ROOT = join(new URL('..', import.meta.url).pathname.replace(/^\/(\w:)/, '$1'));
 const DB_FILE = process.env.CATALOGUE_DB ?? join(ROOT, 'db', 'catalogue.sqlite');
@@ -66,7 +67,13 @@ open();
 // A database replaced by an upload is reopened (a rename keeps readers of the old file working).
 let mtime = statSync(DB_FILE).mtimeMs;
 watchFile(DB_FILE, { interval: 60_000 }, (s) => {
-  if (s.mtimeMs !== mtime) { mtime = s.mtimeMs; try { open(); } catch (e) { console.error('Reopen failed:', e.message); } }
+  if (s.mtimeMs !== mtime) {
+    mtime = s.mtimeMs;
+    try {
+      open();
+      facetWorker.postMessage({ reopen: true });
+    } catch (e) { console.error('Reopen failed:', e.message); }
+  }
 });
 
 // Requests per address: a bucket of 120 that refills at 2 a second; an export costs 30.
@@ -111,14 +118,46 @@ function titles(params, res) {
 }
 
 /** How the matching titles divide by language, country, publisher and decade (the paging and sort are ignored). */
-function facets(params, res) {
+// Facets are counted on a worker thread (facets-worker.mjs), a few at a time: over a broad search
+// they take seconds, which on this thread would hold up every other request.
+const FACETS_QUEUED = 4;
+let facetWorker;
+const facetJobs = new Map();
+let facetJob = 0;
+function startFacetWorker() {
+  facetWorker = new Worker(new URL('./facets-worker.mjs', import.meta.url), { workerData: { file: DB_FILE } });
+  facetWorker.unref();
+  facetWorker.on('message', ({ id, body, error }) => {
+    const job = facetJobs.get(id);
+    facetJobs.delete(id);
+    if (error) job?.reject(new Error(error));
+    else job?.resolve(body);
+  });
+  // A worker that fails is replaced; the requests it held are answered with an error.
+  facetWorker.on('error', (e) => {
+    console.error('Facet worker:', e.message);
+    for (const job of facetJobs.values()) job.reject(e);
+    facetJobs.clear();
+    startFacetWorker();
+  });
+}
+startFacetWorker();
+const countFacets = (params) => new Promise((resolve, reject) => {
+  const id = ++facetJob;
+  facetJobs.set(id, { resolve, reject });
+  facetWorker.postMessage({ id, params });
+});
+
+async function facets(params, res) {
   const p = parseTitleParams(params);
   const key = new URLSearchParams([...params].filter(([k, v]) => v !== '' && !['offset', 'limit', 'sort'].includes(k)).sort());
   // The whole catalogue's, counted when the database was built.
   if (![...key].length) return json(res, 200, prepare("SELECT value FROM meta WHERE key = 'facets'").pluck().get() ?? '{}');
-  json(res, 200, cached(`facets?${key}`, () => JSON.stringify(Object.fromEntries(
-    Object.entries(facetQueries(p)).map(([name, q]) => [name, prepare(q.sql).all(...q.args).map((r) => [r.value, r.n])]),
-  ))));
+  const cacheKey = `facets?${key}`;
+  if (cache.has(cacheKey)) return json(res, 200, cached(cacheKey));
+  if (facetJobs.size >= FACETS_QUEUED) return json(res, 503, { error: 'busy; please try again in a moment' });
+  const body = await countFacets(p);
+  json(res, 200, cached(cacheKey, () => body));
 }
 
 function suggest(params, res) {
@@ -357,7 +396,7 @@ const server = createServer(async (req, res) => {
       case '/api/facets':
         // Four grouped counts over the matching titles: dearer than a page of them.
         if (!allow(ip, 4)) return json(res, 429, { error: 'too many requests' });
-        return facets(url.searchParams, res);
+        return await facets(url.searchParams, res);
       case '/api/suggest':
         if (!allow(ip)) return json(res, 429, { error: 'too many requests' });
         return suggest(url.searchParams, res);

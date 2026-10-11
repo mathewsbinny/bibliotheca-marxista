@@ -48,13 +48,20 @@ browser ──► static pages (dist/)
 
 **The site** is built by [Astro](https://astro.build) into static pages: the home page and globe, the publisher, author, movement and international pages, and the plain lists of each house's titles for readers without JavaScript. The build also exports every title as JSON for the database.
 
-**The catalogue database** (`scripts/build-db.mjs`) is a SQLite file built from those exports, with full-text search that ignores accents. The build is incremental: it keeps a fingerprint of each publisher's titles, so after an import only the houses that changed are rewritten. Seconds, where a full rebuild takes about two minutes.
+**The catalogue database** (`scripts/build-db.mjs`) is a SQLite file built from those exports, with full-text search that ignores accents. It also holds:
+- the search suggestions (authors, publishers and series);
+- the whole catalogue's facet counts;
+- the editions grouped as works (`server/works.mjs`): by author and original title, across houses, languages and romanisations.
+
+The build is incremental: it keeps a fingerprint of each publisher's titles, so after an import only the houses that changed are rewritten. That takes seconds, where a full rebuild takes several minutes.
 
 **The catalogue API** (`server/`) is a small Node server over the database, opened read-only:
 
 | Endpoint | Returns |
 |---|---|
-| `GET /api/titles?q=&pub=&author=&lang=&country=&from=&to=&verified=&free=&sort=&offset=&limit=` | A page of titles, and the total on the first page |
+| `GET /api/titles?q=&pub=&author=&series=&lang=&country=&from=&to=&verified=&free=&sort=&offset=&limit=` | A page of titles, and the total on the first page |
+| `GET /api/facets?<the same filters>` | How the titles found divide by language, country, publisher and decade. Counted on a worker thread, a few searches at a time; busy, it answers 503. |
+| `GET /api/suggest?q=` | Authors, publishers and series with a word of their name starting so |
 | `GET /api/title?p=<publisher>&t=<title id>` | One title's full record |
 | `GET /api/export[?pub=<publisher>]` | The whole catalogue, or one house's backlist, as a JSON download, generated as it streams |
 | `GET /api/health` | The number of titles and when the database was built |
@@ -96,6 +103,9 @@ scripts/
   lib/publisher-names.mjs       normalising publisher names
   build-db.mjs                  the catalogue database
   verify-authors.mjs            checks authors' bibliographies; find-author-*.mjs find name spellings
+                                (find-author-variants.mjs: in every script, from Wikidata, with the authors' identifiers)
+  link-publishers.mjs           the houses' identifiers (Wikidata, VIAF, the Library of Congress, GND, ISNI, BnF)
+  merge-people.mjs              carries an import's translators, editors and original titles into the committed files
   check-publisher-years.mjs     fills in houses' years of activity from Wikidata or the catalogue
   import-internationals.mjs     the internationals' works
   review-reports.mjs            turns readers' plain error reports into corrections (rules: lib/report-review.mjs)
@@ -103,7 +113,9 @@ scripts/
 server/
   server.mjs                    the catalogue API
   query.mjs                     building and checking its search queries
-  book.mjs, cite.mjs            titles' pages and their citations
+  book.mjs, cite.mjs            titles' pages, their linked data and citations
+  works.mjs                     editions grouped as works
+  facets-worker.mjs             facet counts, on their own thread
   reports.mjs, reports-cli.mjs  readers' error reports, and the maintainers' tool for them
   reports-ssh.sh                the one command the report-review workflow may run on the server
   Dockerfile, Caddyfile.example deployment
@@ -184,6 +196,7 @@ npm run build                  # then rebuild the site and update the database
 - **Verified titles.** A title is `verified: true` only if a library catalogue record of it names the house and a matching place.
 - **Screening.** Authors in `scripts/lib/not-left.mjs` are kept out. For authors who moved right, only their works from their left years are kept (`LEFT_UNTIL`).
 - **Review.** Rejected and unresolved records are listed in `reports/import-review.md`.
+- **People.** Library records give each person a role: authors, translators and editors are kept apart, and the original title of a translation is read (MARC 240, 765 and 500; UNIMARC 454 and 500). An import run from the cache alone may miss records whose responses were not cached; then `node scripts/merge-people.mjs --write` carries only those fields into the committed files.
 - **Run time and memory.** A full run reads about a million records. Run it with `node --max-old-space-size=10240 scripts/import-openlibrary.mjs --write`. Later runs read the catalogues from the cache and take about 1–2 hours.
 
 ## Deploying

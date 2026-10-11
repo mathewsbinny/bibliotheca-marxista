@@ -66,7 +66,13 @@ if (!dryRun) {
 
 // The summary, for the maintainer (and the pull request's description). Readers' text is shown as
 // code, so nothing in it is read as markup or mentions anyone.
-const quote = (text) => (text ? `\n\n  \`\`\`text\n  ${String(text).replace(/`/g, 'ʼ').replace(/\n/g, '\n  ')}\n  \`\`\`` : ' (no message)');
+// The summary is published with the pull request: email addresses and telephone numbers a reader
+// left in a report are taken out of it.
+const redact = (text) => String(text)
+  .replace(/[\p{L}\p{N}._%+-]+@[\p{L}\p{N}.-]+\.\p{L}{2,}/gu, '[email address removed]')
+  .replace(/(?:\+|\b00)\d[\d\s().-]{6,}\d/g, '[telephone number removed]');
+const quote = (text) => quoteText(text && redact(text));
+const quoteText = (text) => (text ? `\n\n  \`\`\`text\n  ${String(text).replace(/`/g, 'ʼ').replace(/\n/g, '\n  ')}\n  \`\`\`` : ' (no message)');
 const md = (text) => String(text).replace(/[\\`*_[\]<>#@|~]/g, '\\$&');
 const line = (d) => `- **#${d.report.id}** ${KINDS[d.report.kind] ?? d.report.kind}: [${md(d.report.title)}](${d.report.href})`
   + ` — ${md(d.action === 'apply' ? d.summary : d.reason)}${quote(d.report.message)}`;
