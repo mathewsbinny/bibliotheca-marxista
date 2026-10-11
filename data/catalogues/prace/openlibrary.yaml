@@ -91,6 +91,8 @@ titles:
     subtitle: '[Báseň]'
   - title: Klín
     authors: []
+    editors:
+      - Jaroslav Seifert
     year: 1945
     language: Czech
     sources:
@@ -123,6 +125,8 @@ titles:
   - title: Kytice
     subtitle: Měsíčník pro literaturu a umění
     authors: []
+    editors:
+      - Jaroslav Seifert
     year: 1945
     language: Czech
     sources:
@@ -353,6 +357,8 @@ titles:
   - title: Básně
     authors:
       - Karel Vokáč
+    editors:
+      - Karel Cvejn
     year: 1946
     series: Edice Klín
     language: Czech
@@ -520,8 +526,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=268894418
     verified: true
   - title: Marxistická filosofie a přírodní vědy
+    original_title: The Marxist philosophy and the sciences
     authors:
       - John Burdon Sanderson Haldane
+    translators:
+      - Bohumil Franěk
     year: 1946
     edition: První vydání
     series: Živé myšlenky -- 2
@@ -681,6 +690,8 @@ titles:
     subtitle: Svědectví a dokumenty, 1939-1945
     authors:
       - Zdeněk Fierlinger
+    editors:
+      - Miloslav Jirda
     year: 1946
     series: 'Tvář století: knihovna dokumentů -- sv. 5'
     language: Czech
@@ -1525,6 +1536,7 @@ titles:
   - title: Soumrak polského Londýna
     authors:
       - Stefan Litauer
+    translators:
       - Helena Teigová
     year: 1947
     language: Czech
@@ -1580,6 +1592,7 @@ titles:
     subtitle: Román
     authors:
       - Jan Dobraczyński
+    translators:
       - Vsevolod Pánek
     year: 1947
     language: Czech
@@ -1611,8 +1624,10 @@ titles:
     verified: true
   - title: Vzpoura svatých
     subtitle: Román
+    original_title: Revolte der Heiligen
     authors:
       - Ernst Sommer
+    translators:
       - Alois Humplík
     year: 1947
     language: Czech
@@ -1674,6 +1689,8 @@ titles:
     verified: true
   - title: Čas trhnul oponou, revoluční rok 1848 v české poesii a próze, uspořádal František Hampl
     authors: []
+    editors:
+      - František Hampl
     year: 1948
     language: Croatian
     sources:
@@ -1755,6 +1772,7 @@ titles:
   - title: Klíče
     authors:
       - Maria Kuncewiczowa
+    translators:
       - Helena Teigová
     year: 1948
     language: Czech
@@ -2176,6 +2194,7 @@ titles:
         url: https://d-nb.info/577696076
     verified: true
   - title: Vzrušující cesta
+    original_title: The exciting Journey
     authors:
       - Norman Dale
       - Josef Pšenčík
@@ -2216,6 +2235,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/001605074
     verified: true
   - title: Zlaté rouno
+    original_title: The golden fleece
     series: Živé knihy; 241
     authors:
       - Robert Graves
@@ -2299,6 +2319,7 @@ titles:
     subtitle: Román
     authors:
       - B. Traven
+    translators:
       - Rudolf Vápeník
       - Petr Bláha
     year: 1949
@@ -3080,6 +3101,7 @@ titles:
     authors:
       - Bolesław Prus
       - Karel Krejčí
+    translators:
       - Helena Teigová
     year: 1950
     language: Czech
@@ -3323,6 +3345,7 @@ titles:
       - Józef Bok
       - Rafał Gerber
       - Lucjan Rudnicki
+    translators:
       - Vlasta Dvořáčková
     year: 1950
     language: Czech
@@ -3623,8 +3646,9 @@ titles:
     subtitle: Politicke básně
     authors:
       - Paul Éluard
-      - Adolf Kroupa
       - Pablo Picasso
+    translators:
+      - Adolf Kroupa
     year: 1950
     language: Czech
     sources:
@@ -3761,6 +3785,7 @@ titles:
   - title: Více uhlí
     authors:
       - Leonid Isaakovič Boriskin
+    translators:
       - Mlada Stočesová
     year: 1950
     language: Czech
@@ -3814,6 +3839,8 @@ titles:
     subtitle: Výbor Stanislava K. Neumanna
     authors:
       - Jiří Wolker
+    editors:
+      - Stanislav Kostka Neumann
     year: 1950
     edition: '[3. vyd.]'
     series: Klín
@@ -4059,6 +4086,7 @@ titles:
   - title: Italská setkání
     authors:
       - Marian Brandys
+    translators:
       - Vlasta Dvořáčková
     year: 1951
     language: Czech
@@ -4099,6 +4127,7 @@ titles:
     authors:
       - Bogdan Hamera
       - Vašek Káňa
+    translators:
       - Helena Teigová
     year: 1951
     language: Czech
@@ -4305,6 +4334,7 @@ titles:
   - title: Naša ulice
     authors:
       - Jan Petersen
+    translators:
       - Jaroslav Přibík
     year: 1951
     language: Czech
@@ -4840,6 +4870,7 @@ titles:
   - title: Bohové války
     authors:
       - Franz Fabian
+    translators:
       - Berta Pražáková
     year: 1952
     language: Czech
@@ -4887,6 +4918,7 @@ titles:
     authors:
       - Aleksander Ścibor-Rylski
       - Jaroslav Miska
+    translators:
       - Milan Rusinský
     year: 1952
     language: Czech
@@ -5131,6 +5163,7 @@ titles:
   - title: Napodlehli
     authors:
       - Harald Hauser
+    translators:
       - Jaroslav Přibík
     year: 1952
     language: Czech
@@ -5219,6 +5252,7 @@ titles:
   - title: Poklad u Müggelského jezera
     authors:
       - Petr Kast
+    translators:
       - Helena Benešová
     year: 1952
     language: Czech
@@ -5303,6 +5337,8 @@ titles:
     authors:
       - Antonín Zápotocký
       - Erna Czabanové
+    editors:
+      - Erna Czabanová
     year: 1952
     language: Czech
     sources:
@@ -5768,6 +5804,7 @@ titles:
   - title: D°um v Brigittině ulici
     authors:
       - Susanne Wantoch
+    translators:
       - Věra Macháčková
     year: 1953
     language: Czech
@@ -6118,6 +6155,7 @@ titles:
     subtitle: Román
     authors:
       - Benno Voelkner
+    translators:
       - František Swidzinski
     year: 1954
     language: Czech
@@ -6128,6 +6166,7 @@ titles:
   - title: Požární ochrana ve stavebnictví
     authors:
       - Jerzy Sawaszyński
+    translators:
       - Jan Dobíhal
     year: 1954
     language: Czech
@@ -6201,11 +6240,13 @@ titles:
     verified: true
   - title: Drazí hosté
     subtitle: Povídky
+    original_title: Dorogie gosti
     series: Dikobraz; 34
     authors:
       - Leonid S. Lenč
-      - Otakar Mohyla
       - Otakar Mrkvička
+    translators:
+      - Otakar Mohyla
     year: 1955
     language: Czech
     sources:
@@ -6362,10 +6403,12 @@ titles:
     verified: true
   - title: V říši mahagonu
     subtitle: (Trozas)
+    original_title: Die Troza
     authors:
       - B. Traven
-      - Rudolf Vápeník
       - J. Paukert
+    translators:
+      - Rudolf Vápeník
     year: 1955
     language: Czech
     sources:
@@ -6420,6 +6463,9 @@ titles:
   - title: Antonín Zápotocký. O socialistickém soutěžení a mzdové politice. Předmluvu napsal František Zupka. Úspořádali Erna Meissnerová a Bohuslav Šimek. 2 vyd
     authors:
       - Antonín Zápotocky
+    editors:
+      - Erna Meissnerové
+      - Bohuslav Šimek
     year: 1956
     language: Czech
     sources:
@@ -6764,6 +6810,7 @@ titles:
   - title: Kostky jsou vrženy
     authors:
       - Wanda Melcer
+    translators:
       - Karel Málek
     year: 1957
     language: Czech
@@ -6894,6 +6941,7 @@ titles:
   - title: Bankovka
     authors:
       - Wolfgang Schreyer
+    translators:
       - Milada Šimsová
     year: 1958
     language: Czech
@@ -7070,6 +7118,7 @@ titles:
   - title: Cesta na Rýn
     authors:
       - Maximilian Scheer
+    translators:
       - Jiří Žák
     year: 1959
     language: Czech
@@ -8077,6 +8126,7 @@ titles:
   - title: Signály z měsíce
     authors:
       - Horst Müller
+    translators:
       - Zdeněk Bouček
     year: 1961
     language: Czech
@@ -8509,6 +8559,8 @@ titles:
   - title: Pražské papírny, 1837-1962
     subtitle: Jubilejní sborník. 125 let závodu Vladislava Vančury ve Vraném nad Vltavou, 75 let Cechu Pergamentka v Holešovicích, 50 let Cechu Vinohrady
     authors: []
+    editors:
+      - Radomir Herič
     year: 1962
     edition: 1. vyd.]
     language: Czech
@@ -9122,6 +9174,7 @@ titles:
   - title: Levandulová stopa
     authors:
       - Władysław Jarnicki
+    translators:
       - Karel Málek
     year: 1964
     language: Czech
@@ -9519,6 +9572,7 @@ titles:
     verified: true
     subtitle: Beránek, Emanuel, Karel Podlešák
   - title: Dáma s kaméliemi
+    original_title: La dame aux camélias
     authors:
       - Alexandre Dumas
       - V̌era Kopalová
@@ -9626,6 +9680,7 @@ titles:
     subtitle: (Povstání v jihozápadní Africe)
     authors:
       - Ferdinand May
+    translators:
       - Karel František Růžička
     year: 1965
     language: Czech
@@ -10149,6 +10204,7 @@ titles:
   - title: Tři bílé karafiáty
     authors:
       - Władysław Jarnicki
+    translators:
       - Karel Málek
     year: 1966
     language: Czech
@@ -10161,6 +10217,7 @@ titles:
   - title: Vyp°ujčená tvář
     authors:
       - Boris Djacenko
+    translators:
       - Věra Houbová
       - Karel Houba
     year: 1966
@@ -10220,6 +10277,7 @@ titles:
         url: https://search.worldcat.org/title/836676663
     verified: true
   - title: Zákoník práce a předpisy souvisící
+    original_title: Zákoník práce
     authors:
       - Czechoslovakia
       - ROH. ÚRO
@@ -10339,6 +10397,7 @@ titles:
   - title: Komisař Péri zasahuje
     authors:
       - Boris Djacenko
+    translators:
       - Věra Houbová
       - Karel Houba
     year: 1967
@@ -10405,6 +10464,8 @@ titles:
   - title: Nástin sociologie práce
     authors:
       - Alexander J. Matejko
+    translators:
+      - Bohuslav Černohlávek
     year: 1967
     edition: Vyd. 1
     series: Knižnice ekonomiky práce -- 19
@@ -11033,6 +11094,8 @@ titles:
     subtitle: 1. celostátní sjezd delegátu závodních rad a skupin ROH. [K vydání připravil Institut ROH, Kabinet dějin odboru. Uspořadal Lubomír Lehár]
     authors:
       - Revoluční odborové hnutí. 1. celostátní sjezd, Prague 1948
+    editors:
+      - Borek Sýkora
     year: 1968
     edition: '[1. vyd.]'
     language: Czech
@@ -11366,6 +11429,7 @@ titles:
   - title: Lidé kdoví odkud
     authors:
       - Maria Dąbrowska
+    translators:
       - Jarmila Minařikova
     year: 1969
     language: Czech
@@ -11607,8 +11671,9 @@ titles:
   - title: Příběh jednoho života
     authors:
       - Guy de Maupassant
-      - Luděk Karl
       - Ivan Dobroruka
+    translators:
+      - Luděk Karl
     year: 1969
     language: Czech
     sources:
@@ -11808,6 +11873,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991101076839705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: A hvězdy mlčí
+    original_title: The stars look down
     authors:
       - Archibald J. Cronin
       - Jarmila Urbánková
@@ -11820,6 +11886,7 @@ titles:
   - title: Anděl za deset šilinku
     authors:
       - Boris Djacenko
+    translators:
       - Věra Houbová
     year: 1970
     language: Czech
@@ -11937,11 +12004,13 @@ titles:
     verified: true
     edition: '[3. vyd.]'
   - title: Kniha o lidech a zvířatech
+    original_title: En gammal bok om människor ocn djur
     series: ERB
     authors:
       - Axel Munthe
-      - M. Krausová-Lesná
       - Jaroslav Lukavský
+    translators:
+      - M. Krausová-Lesná
     year: 1970
     language: Czech
     sources:
@@ -12088,6 +12157,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=44455775X
     verified: true
   - title: Pan K*a*p*l*a*n má třídu rád
+    original_title: The education of Hyman Kaplan
     series: ERB
     authors:
       - Leo Calvin Rosten
@@ -12357,10 +12427,12 @@ titles:
     verified: true
   - title: Čarodějný mlýn
     subtitle: Pohádka z Lužice
+    original_title: Čorny młyn
     series: Edice Petrklíč
     authors:
       - Jurij Brězan
       - Jarmila Halamkova
+    translators:
       - Květa Hálová
     year: 1971
     language: Czech
@@ -12420,6 +12492,8 @@ titles:
     series: (Kotva; 2)
     authors:
       - Jakub Pavel
+    editors:
+      - G. Stočesová
     year: 1971
     language: Czech
     sources:
@@ -12651,8 +12725,9 @@ titles:
   - title: Osamělý divočák
     authors:
       - Jerzy Putrament
-      - Karel Málek
       - Miroslav Váša
+    translators:
+      - Karel Málek
     year: 1971
     language: Czech
     sources:
@@ -12805,7 +12880,8 @@ titles:
         url: https://search.worldcat.org/title/40970619
     verified: true
   - title: Slovník mezinárodních organizací
-    authors:
+    authors: []
+    translators:
       - Lydie Pavlašková
     year: 1971
     language: Czech
@@ -12854,6 +12930,8 @@ titles:
   - title: Tobě, mladý kamaráde
     authors:
       - Stanislav Kostka Neumann
+    editors:
+      - Vilém Kún
     year: 1971
     language: Czech
     sources:
@@ -13031,8 +13109,9 @@ titles:
   - title: Bylo to tak, Louiso
     authors:
       - Tadeusz Kwiatkowski
-      - Eva Skaličková
       - Jan Javorský
+    translators:
+      - Eva Skaličková
     year: 1972
     language: Czech
     sources:
@@ -13199,12 +13278,14 @@ titles:
     verified: true
   - title: Nový letopis
     subtitle: Výbor
+    original_title: Struga a jiné básně
     series: Edice poezie Klín; 8
     authors:
       - Kito Lorenc
       - Josef Vlášek
-      - Josef Suchý
       - Jarmila Halámková
+    translators:
+      - Josef Suchý
     year: 1972
     language: Czech
     sources:
@@ -13233,6 +13314,8 @@ titles:
     subtitle: Ze statí a projevů
     authors:
       - Antonín Zápotocký
+    editors:
+      - Vilém Kún
     year: 1972
     language: Czech
     sources:
@@ -13738,6 +13821,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=427420253
     verified: true
   - title: Salambo
+    original_title: Salammbô
     authors:
       - Gustave Flaubert
       - Jiří Kon°upek
@@ -13752,11 +13836,13 @@ titles:
       - label: Free ebook (Project Gutenberg)
         url: https://www.gutenberg.org/ebooks/66285
   - title: Šílenství lásky
+    original_title: La folie d'aimer
     authors:
       - Henri Barbusse
-      - Vera Petříková
       - Dagmar Brom
       - Pavel Brom
+    translators:
+      - Vera Petříková
     year: 1973
     language: Czech
     sources:
@@ -13833,6 +13919,7 @@ titles:
         url: https://search.worldcat.org/title/42113199
     verified: true
   - title: V stalingradských zákopech
+    original_title: V okopach Stalingrada
     series: Knižnice Erb. Modrá řada
     authors:
       - Viktor Platonovič Nekrasov
@@ -13869,9 +13956,11 @@ titles:
         url: https://search.worldcat.org/title/234331924
     verified: true
   - title: Zemři, blázne
+    original_title: Stirb, du Narr
     series: Edice Erb
     authors:
       - Karl Zuchardt
+    translators:
       - Jana Pecharova
     year: 1973
     language: Czech
@@ -13923,6 +14012,7 @@ titles:
   - title: Břímě pustého moře
     authors:
       - Tadeusz Łopalewski
+    translators:
       - Helena Teigová
     year: 1974
     language: Czech
@@ -14008,6 +14098,7 @@ titles:
     authors:
       - Hanna Ożogowska
       - Ladislav Rektoris
+    translators:
       - Oldřich Syrovátka
     year: 1974
     language: Czech
@@ -14168,10 +14259,11 @@ titles:
     verified: true
   - title: Metodika racionalizace práce
     authors:
-      - Zora Adamcová
       - Anna Vigašová
-      - Helena Šulcová
       - Antonín Baloušek
+    translators:
+      - Zora Adamcová
+      - Helena Šulcová
     year: 1974
     language: Czech
     sources:
@@ -14229,6 +14321,7 @@ titles:
   - title: Náklad pro Veracruz
     authors:
       - Karl Reiche
+    translators:
       - Milada Lindforsová
     year: 1974
     language: Czech
@@ -14344,12 +14437,13 @@ titles:
       - Tadeusz Kijonka
       - Andrzej Bursa
       - Marian Grześczak
-      - Oldřich Rafaj
       - Jiří Mareš
       - Leopold Staff
       - Stanisław Grochowiak
       - Józef Ratajczak
       - Jarosław Iwaszkiewicz
+    translators:
+      - Oldřich Rafaj
     year: 1974
     language: Czech
     sources:
@@ -14530,6 +14624,9 @@ titles:
     subtitle: Medailóny, studie, vzpominky
     authors:
       - Ladislav Štoll
+    editors:
+      - Drahomíra Kořínková
+      - Jan Veselý
     year: 1974
     language: Czech
     sources:
@@ -14802,6 +14899,7 @@ titles:
   - title: Beethoven a džínsy
     authors:
       - Krystyna Siesicka
+    translators:
       - Miroslav Novák
     year: 1975
     language: Czech
@@ -14814,6 +14912,7 @@ titles:
   - title: Blázen v Kristu Emanuel Quint
     authors:
       - Gerhart Hauptmann
+    translators:
       - Jiří Stach
     year: 1975
     language: Czech
@@ -15379,6 +15478,7 @@ titles:
   - title: Šachy všech dob a zemí
     authors:
       - Jerzy Giżycki
+    translators:
       - Vladimír Karafiát
     year: 1975
     language: Czech
@@ -15929,8 +16029,9 @@ titles:
     verified: true
   - title: Využití ergonomických poznatků při racionalizaci práce
     authors:
-      - Zora Adamcová
       - Jozef Hanker
+    translators:
+      - Zora Adamcová
       - Helena Šulcová
     year: 1976
     language: Czech
@@ -16336,11 +16437,13 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=393494322
     verified: true
   - title: Pan Wołodyjowski
+    original_title: Pan Wołodyjowski
     authors:
       - Henryk Sienkiewicz
+      - Karel Franta
+    translators:
       - Vlasta Dvořáčková
       - Vendulka Zapl ová
-      - Karel Franta
     year: 1977
     language: Czech
     sources:
@@ -18141,10 +18244,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=393538206
     verified: true
   - title: Con amore
+    original_title: Con amore
     authors:
       - Krystyna Berwińska
-      - Helena Stachová
       - Karla Ryvolová
+    translators:
+      - Helena Stachová
     year: 1979
     language: Czech
     sources:
@@ -18770,6 +18875,7 @@ titles:
     authors:
       - Zenon Kosidowski
       - Blahoslav Hruška
+    translators:
       - Josef Vlášek
     year: 1979
     language: Czech
@@ -18782,6 +18888,8 @@ titles:
   - title: Příruční slovník vědy a techniky
     authors:
       - Bohumil Dobrovolný
+    editors:
+      - B. Dobrovolný
     year: 1979
     edition: 1. vyd
     series: Kamarád
@@ -18800,8 +18908,9 @@ titles:
   - title: Soudce
     authors:
       - Marta Tomaszewska
-      - Anetta Balajková
       - Radim Malát
+    translators:
+      - Anetta Balajková
     year: 1979
     language: Czech
     sources:
@@ -18847,6 +18956,8 @@ titles:
     subtitle: Výbor z poezie /František Branislav; [vybral, uspoř. a doslov naps. Vilém Kún; il. Helena Wernischová]
     authors:
       - František Branislav
+    editors:
+      - Vilém Kún
     year: 1979
     edition: 1. vyd
     series: Kamarád
@@ -18963,6 +19074,8 @@ titles:
   - title: Zákon o sociálním zabezpečení s prováděcími předpisy
     authors:
       - Czechoslovakia
+    editors:
+      - Karel Klos
     year: 1979
     edition: 1. vyd
     series: Příručky Práce
@@ -19055,6 +19168,7 @@ titles:
   - title: Březový háj
     authors:
       - Jarosław Iwaszkiewicz
+    translators:
       - Helena Stachová
     year: 1980
     language: Czech
@@ -20359,9 +20473,10 @@ titles:
   - title: Kord na vějíří
     authors:
       - Halina Popławska
-      - Anetta Balajková
       - Dagmar Bromová
       - Pavel Brom
+    translators:
+      - Anetta Balajková
     year: 1981
     language: Czech
     sources:
@@ -20676,7 +20791,6 @@ titles:
   - title: Touha po modrém nebi
     subtitle: Výbor z polské sci-fi
     authors:
-      - Ludvík Štěpán
       - Czesław Chruszczewski
       - Danuta Owadowska-Zatrybová
       - Witold Zegalski
@@ -20696,6 +20810,8 @@ titles:
       - Konrad Fiałkowski
       - Jacek Sawaszkiewicz
       - Andrzej Czechowski
+    translators:
+      - Ludvík Štěpán
     year: 1981
     language: Czech
     sources:
@@ -21053,6 +21169,8 @@ titles:
     subtitle: Výbor z poezie
     authors:
       - Josef Kainar
+    editors:
+      - Vilém Kún
     year: 1982
     edition: 1. vyd
     series: Kamarád
@@ -22051,8 +22169,9 @@ titles:
   - title: Láska už přeletěla dům
     authors:
       - Jerzy Harasymowicz
-      - Jan Pilař
       - Josef Velčovský
+    translators:
+      - Jan Pilař
     year: 1983
     language: Czech
     sources:
@@ -22428,6 +22547,8 @@ titles:
     subtitle: Výbor z poezie
     authors:
       - Konstantin Biebl
+    editors:
+      - Vilém Kún
     year: 1983
     edition: 1. vyd
     series: Kamarád
@@ -22524,10 +22645,11 @@ titles:
     series: Románové novinky
     authors:
       - Erik Simon
+      - Josef Velčovský
+    translators:
       - Jitka Soukupová
       - Jiří Pondělíček
       - Jana Pecharová
-      - Josef Velčovský
     year: 1983
     language: Czech
     sources:
@@ -23026,9 +23148,10 @@ titles:
     subtitle: Pravda o lidských morčatech v Osvětimi
     authors:
       - Betty Truck
-      - Božena Mračková
       - Zdeněk Čermák
       - Robert Paul Truck
+    translators:
+      - Božena Mračková
     year: 1984
     language: Czech
     sources:
@@ -23068,6 +23191,8 @@ titles:
     subtitle: Výbor z díla
     authors:
       - František Hrubín
+    editors:
+      - Vilém Kún
     year: 1984
     edition: 1. vyd
     language: Czech
@@ -23549,8 +23674,11 @@ titles:
         url: https://search.worldcat.org/title/19098239
     verified: true
   - title: Tisíc a jedna fraška, aneb, Učebnice rýmobraní a sešity nerozčesaných myšlenek
+    original_title: Utwory wybrane / Stanisław Jerzy Lec, T. 1-2, Krakov, 1977
     authors:
       - Stanisław Jerzy Lec
+    translators:
+      - Ludvík Štěpán
     year: 1984
     edition: 1. vyd
     series: Kamarád
@@ -23974,12 +24102,13 @@ titles:
     authors:
       - Jaroslav Veis
       - Zdeněk Volný
-      - Ludvík Štěpán
       - Stanislav Vajce
       - Czesław Chruszczewski
       - Andrzej Czechowski
       - Stanisław Lem
       - Konrad Fiałkowski
+    translators:
+      - Ludvík Štěpán
     year: 1985
     language: Czech
     sources:
@@ -24978,6 +25107,8 @@ titles:
     subtitle: 111 fejetonů ze zvědavosti
     authors:
       - Rudolf Křesťan
+    editors:
+      - Miroslava Sedloňová
     year: 1986
     edition: 1. vyd
     series: Kamarád
@@ -25148,6 +25279,9 @@ titles:
     subtitle: Věc veřejná i soukromá
     authors:
       - V. Mezřický
+    editors:
+      - Emil Hadač
+      - Zdenek Cermak
     year: 1986
     edition: 1. vyd
     series: Delfín
@@ -25166,6 +25300,7 @@ titles:
   - title: Doktor Twardowski
     authors:
       - Jerzy Broszkiewicz
+    translators:
       - Anetta Balajková
     year: 1987
     language: Czech
@@ -26025,8 +26160,9 @@ titles:
   - title: My z kosmu
     authors:
       - Arnold Mostowicz
-      - Ludvík Štěpán
       - Pavel Toufar
+    translators:
+      - Ludvík Štěpán
     year: 1988
     language: Czech
     sources:
@@ -26166,6 +26302,7 @@ titles:
     authors:
       - Zenon Kosidowski
       - Blahoslav Hruška
+    translators:
       - Josef Vlášek
     year: 1988
     language: Czech
@@ -26257,6 +26394,8 @@ titles:
     subtitle: Výbor z poezie
     authors:
       - Miroslav Florian
+    editors:
+      - Vilém Kún
     year: 1988
     edition: 1. vyd
     series: Kamarád
@@ -26447,6 +26586,8 @@ titles:
     subtitle: Básně pro dva hlasy
     authors:
       - Petr Skarlant
+    editors:
+      - Eva Horáčková
     year: 1989
     edition: 1. vyd
     series: Edice poezie Klín
@@ -26701,6 +26842,8 @@ titles:
   - title: Odvrácená tvář
     authors:
       - Roman Cílek
+    editors:
+      - Miroslava Sedloňová
     year: 1989
     edition: 1. vyd
     series: Kamarád
@@ -26782,6 +26925,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=276345673
     verified: true
   - title: Proměny
+    original_title: Forandringen
     series: Erb
     authors:
       - Liv Ullmann
@@ -27045,6 +27189,8 @@ titles:
   - title: Český orloj
     authors:
       - Karel Šiktanc
+    editors:
+      - Jaroslav Šerých
     year: 1990
     edition: 1. vyd
     series: Edice poezie Klín
@@ -27077,6 +27223,8 @@ titles:
   - title: Dáma k dobru
     authors:
       - Vlastimil Šubrt
+    editors:
+      - Alice Marxová
     year: 1990
     edition: 1. vyd
     series: Románové novinky Práce
@@ -27399,6 +27547,8 @@ titles:
     subtitle: Verše, texty, koláže, 1986-1987
     authors:
       - Jaroslav Holoubek
+    editors:
+      - Eva Horáčková
     year: 1990
     edition: 1. vyd
     series: Edice Poezie Klín
@@ -27427,6 +27577,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991125112099705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Obecné dejiny hanebnosti
+    original_title: Historia universal de la infamia
     authors:
       - Jorge Luis Borges
     year: 1990
@@ -27471,6 +27622,7 @@ titles:
     subtitle: Historie jedné staré rodiny v ohroženém městě
     authors:
       - Hans Habe
+    translators:
       - Jana Pecharová
     year: 1990
     language: Czech
@@ -27511,6 +27663,8 @@ titles:
     subtitle: Apokryfní časová fikce
     authors:
       - Pavel Verner
+    editors:
+      - Kateřina Vinšová
     year: 1990
     edition: Vyd. 1. --
     series: Edice Příliv

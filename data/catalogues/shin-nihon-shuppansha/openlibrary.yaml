@@ -1445,6 +1445,7 @@ titles:
     series: Sekai kakumei bungakusen; 10
     authors:
       - Ung geol Bag
+    translators:
       - An Ushiku
     year: 1963
     language: Japanese
@@ -2839,6 +2840,8 @@ titles:
   - title: Noro Eitarō zenshū
     authors:
       - Eitarō Noro
+    editors:
+      - Noro Eitarō zenshū kankō henshū iinkai
     year: 1965
     language: Japanese
     sources:
@@ -3562,9 +3565,11 @@ titles:
         url: https://search.worldcat.org/title/35583709
     verified: true
   - title: Rikasō no hensen
+    original_title: Li jia zhuang bian qian; Li You cai ban hua
     series: Sekai kakumei bungaku sen; 27
     authors:
       - Zhao Shuli
+    translators:
       - Hajime Miyoshi
       - Masao Shimada
     year: 1966
@@ -4560,6 +4565,7 @@ titles:
     series: Sekai Kakumei Bungakusen; 39
     authors:
       - Yun gi Seog
+    translators:
       - Sin Chang ho
     year: 1967
     language: Japanese
@@ -30243,6 +30249,9 @@ titles:
     authors:
       - Yamaguchi Keiji
       - Matsuo Shōichi
+    editors:
+      - Keiji Yamaguchi
+      - Shōichi Matsuo
     year: 1981
     language: Japanese
     pages: 358
@@ -45311,6 +45320,7 @@ titles:
         url: https://lccn.loc.gov/88144577
     verified: false
   - title: Waga tamashiiwa Nelson to tomoni
+    original_title: Stück meiner Seele ging mit ihm
     authors:
       - Winnie Mandela
     year: 1988
@@ -53202,6 +53212,8 @@ titles:
   - title: Imai Tadashi no eiga jinsei
     authors:
       - Shin Nihon Shuppansha. Henshūbu
+    editors:
+      - Shin Nihon Shuppansha
     year: 1992
     edition: Shohan
     language: Japanese
@@ -65812,6 +65824,8 @@ titles:
   - title: Akutagawa Ryūnosuke no rekishi ninshiki
     authors:
       - Yasuyoshi Sekiguchi
+    editors:
+      - 安義 関口
     year: 2004
     edition: Shohan
     language: Japanese
@@ -77406,6 +77420,7 @@ titles:
     authors:
       - Helena Dunicz-Niwińska
       - Maria Szewczyk
+    translators:
       - Kazuko Tamura
     year: 2016
     language: Japanese

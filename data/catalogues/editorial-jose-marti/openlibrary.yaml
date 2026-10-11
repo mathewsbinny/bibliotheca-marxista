@@ -27,8 +27,11 @@ titles:
     verified: true
     pages: 120
   - title: La CIA en Centroamérica y el Caribe
+    original_title: CIA in Mittelamerika
     authors:
       - Günter Neuberger
+    translators:
+      - Manuel Cháves
     year: 1985
     language: Spanish
     pages: 194
@@ -181,6 +184,8 @@ titles:
   - title: The Viewer's Dialectic
     authors:
       - Tomás Gutiérrez Alea
+    translators:
+      - Julia Lesage
     year: 1988
     language: English
     pages: 89
@@ -1060,6 +1065,8 @@ titles:
     subtitle: Slavery Law
     authors:
       - Ricardo Alarcón
+    translators:
+      - Fernando Nápoles Tapia
     year: 1997
     language: English
     pages: 94
@@ -1241,6 +1248,7 @@ titles:
     verified: true
   - title: Colonial Havana
     subtitle: A Fortress of the Americas
+    original_title: La Habana colonial
     series: Contact Cuba
     authors:
       - José Manuel Fernández Núñez
@@ -1282,6 +1290,7 @@ titles:
     verified: true
   - title: Development Within Underdevelopment?
     subtitle: New Trends in Cuban Medicine
+    original_title: Desarrollo en el subdesarrollo?
     authors:
       - Ernesto Mario Bravo
     year: 1998
@@ -1495,6 +1504,7 @@ titles:
     verified: true
   - title: Carlos J. Finlay
     subtitle: His Life and His Work
+    original_title: Finlay
     authors:
       - José López Sánchez
     year: 1999
@@ -1508,6 +1518,7 @@ titles:
         url: https://search.worldcat.org/title/46607386
     verified: true
   - title: Church and Politics in Revolutionary Cuba
+    original_title: Iglesia y política en Cuba revolucionaria
     authors:
       - Aurelio Alonso Tejada
     year: 1999
@@ -1617,6 +1628,7 @@ titles:
     subtitle: Typical Creole Cuisine Recipes
     authors:
       - Nitza Villapol
+    translators:
       - Fernando Nápoles Tapia
     year: 1999
     language: English
@@ -1780,6 +1792,8 @@ titles:
     subtitle: Antología poética de la Revolución
     authors:
       - Juan Nicolás Padrón Barquín
+    editors:
+      - Toni Piñera
     year: 1999
     language: Spanish
     pages: 166
@@ -1850,6 +1864,7 @@ titles:
     verified: true
   - title: Tropicana
     subtitle: A Paradise Under the Stars
+    original_title: Tropicana
     authors:
       - Rafael Lam
     year: 1999
@@ -2006,8 +2021,11 @@ titles:
     verified: true
   - title: Desde Mi Altura
     subtitle: From My Altitude
+    original_title: Desde mi altura
     authors:
       - Antonio Guerrero
+    translators:
+      - Margaret Louise Becker
     year: 2001
     language: English
     pages: 177
@@ -2103,6 +2121,7 @@ titles:
     verified: true
   - title: Tour Cuba First
     subtitle: A Practical Travel Guide
+    original_title: Conozca Cuba primero
     authors:
       - Frank Guevara
     year: 2001
@@ -2142,6 +2161,8 @@ titles:
   - title: Cuban Nature
     authors:
       - Roberto Gutiérrez Domech
+    translators:
+      - Josefina Ezpeleta Laplace
     year: 2002
     edition: Updated, corr., and expanded ed
     language: English
@@ -2173,8 +2194,11 @@ titles:
     verified: true
   - title: Ernesto Che Guevara
     subtitle: Ethics and Aesthetics of an Existence
+    original_title: Ernesto Che Guevara
     authors:
       - Pedro Luis Sotolongo
+    translators:
+      - Carmen González
     year: 2002
     series: Colección Paradigma
     language: English
@@ -2190,10 +2214,12 @@ titles:
     verified: true
   - title: Fidel Castro
     subtitle: Birán to Cinco Palmas
+    original_title: 'Fidel Castro: de Birán a Cinco Palmas'
     series: Colección Paradigma
     authors:
       - Eugenio Suárez Pérez
       - Acela Caner Román
+    translators:
       - Angie Todd
     year: 2002
     language: English
@@ -2215,6 +2241,8 @@ titles:
     subtitle: The 1962 Missile Crisis
     authors:
       - Tomás Diez Acosta
+    translators:
+      - Ornán José Batista Peña
     year: 2002
     language: English
     pages: 337
@@ -2257,6 +2285,8 @@ titles:
   - title: The Cuban Counterrevolution
     authors:
       - Jesús Arboleya
+    translators:
+      - Damián Donéstevez
     year: 2002
     language: English
     pages: 266
@@ -2268,8 +2298,11 @@ titles:
         url: https://search.worldcat.org/title/59008560
     verified: true
   - title: The World of the Orishas
+    original_title: El mundo de los orishas
     authors:
       - Arisel Arce Burguera
+    translators:
+      - Laura Patricia Burns
     year: 2002
     language: English
     pages: 267
@@ -2288,6 +2321,8 @@ titles:
     subtitle: Selected Poems
     authors:
       - Miguel Barnet
+    translators:
+      - Charles Hatfield
     year: 2002
     language: English
     sources:
@@ -2392,6 +2427,8 @@ titles:
     subtitle: Selección de correspondencia de Juan Marinello Vidaurreta, 1923-1940
     authors:
       - Juan Marinello
+    editors:
+      - Ana Suárez Díaz
     year: 2004
     language: Spanish
     pages: 903
@@ -2564,10 +2601,12 @@ titles:
         url: https://search.worldcat.org/title/61125690
     verified: true
   - title: Amelia Peláez
+    original_title: Amelia Peláez
     series: Cuban Painters
     authors:
       - José A. Gutiérrez Pérez
       - Ofelia Flores Valdés
+    translators:
       - Yvonne Indart
     year: 2006
     language: English
@@ -2596,10 +2635,12 @@ titles:
         url: https://catalog.hathitrust.org/Record/005598742
     verified: true
   - title: Carlos Enríquez
+    original_title: Carlos Enríquez
     series: Cuban Painters
     authors:
       - José A. Gutiérrez Pérez
       - Ofelia Flores Valdés
+    translators:
       - Yvonne Indart
     year: 2006
     language: English
@@ -2639,6 +2680,7 @@ titles:
     verified: true
   - title: Estados Unidos o el imperio del mal en peor
     subtitle: Esas lecciones de resistencia que nos llegan del Sur
+    original_title: États-Unis de mal empire
     authors:
       - Danielle Bleitrach
       - Viktor Dedaj
@@ -2650,10 +2692,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=605348626
     verified: true
   - title: Fidelio Ponce
+    original_title: Fidelio Ponce
     series: Cuban Painters
     authors:
       - José A. Gutiérrez Pérez
       - Ofelia Flores Valdés
+    translators:
       - Yvonne Indart
     year: 2006
     language: English
@@ -2672,10 +2716,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1971646644
     verified: true
   - title: Marcelo Pogolotti
+    original_title: Marcelo Pogolotti
     series: Cuban Painters
     authors:
       - José A. Gutiérrez Pérez
       - Ofelia Flores Valdés
+    translators:
       - Yvonne Indart
     year: 2006
     language: English
@@ -2684,10 +2730,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=872811441
     verified: true
   - title: René Portocarrero
+    original_title: René Portocarrero
     series: Cuban Painters
     authors:
       - José A. Gutiérrez Pérez
       - Ofelia Flores Valdés
+    translators:
       - Yvonne Indart
     year: 2006
     language: English
@@ -2696,10 +2744,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=872811395
     verified: true
   - title: Wifredo Lam
+    original_title: Wifredo Lam
     series: Cuban Painters
     authors:
       - José A. Gutiérrez Pérez
       - Ofelia Flores Valdés
+    translators:
       - Yvonne Indart
     year: 2006
     language: English
@@ -2759,6 +2809,7 @@ titles:
     authors:
       - Amauris Betancourt Gómez
       - Lourdes María González Herrero
+    translators:
       - Martina Herold
     year: 2007
     language: German
@@ -3295,6 +3346,7 @@ titles:
     verified: true
   - title: Esclavitud, ley y sociedad en las Islas británicas de Barlovento, 1763-1823
     subtitle: Un estudio comparativo
+    original_title: Slavery, law and society in the British Windward Islands 1743-1823
     series: Alba bicentenario
     authors:
       - Bernard Marshall
@@ -3317,6 +3369,7 @@ titles:
     verified: true
   - title: First Poet of the Americas
     subtitle: José María Heredia and "Niagara Falls"
+    original_title: Niágara
     authors:
       - José María Heredia
       - Keith Ellis
@@ -3422,8 +3475,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=835299791
     verified: true
   - title: Bésame Mucho & Other Stories
+    original_title: Bésame mucho y otros cuentos
     authors:
       - Adelaida Fernández de Juan
+    translators:
+      - Mary G. Berg
     year: 2011
     language: English
     pages: 150
@@ -3437,8 +3493,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1936000458
     verified: true
   - title: Charade
+    original_title: Charada
     authors:
       - Lisandro Otero
+    translators:
       - Ivonne Indart
     year: 2011
     language: English
@@ -3448,6 +3506,7 @@ titles:
     verified: true
   - title: Cuba
     subtitle: Lo que nunca le dirán los medios
+    original_title: Cuba
     authors:
       - Salim Lamrani
     year: 2011
@@ -3665,6 +3724,7 @@ titles:
   - title: El hombre que no se saca el palillo de la boca
     authors:
       - João Melo
+    translators:
       - Aurora Fibla
     year: 2012
     language: Spanish
@@ -3774,6 +3834,8 @@ titles:
     subtitle: Personajes populares cubanos
     authors:
       - Orlando Carrió
+    editors:
+      - Elisa Pardo Zayas
     year: 2012
     series: Catalejo
     language: Spanish
@@ -3876,6 +3938,7 @@ titles:
     verified: true
   - title: Estado de sitio
     subtitle: 'Las sanciones económicas de Estados Unidos contra Cuba: una perspectiva histórica y jurídica'
+    original_title: Etat de siège
     authors:
       - Salim Lamrani
     year: 2013
@@ -3923,6 +3986,8 @@ titles:
     subtitle: Con Silvio Rodríguez en barrios de La Habana
     authors:
       - Mónica Rivero Cabrera
+    editors:
+      - Esteban Llorach Ramos
     year: 2013
     language: Spanish
     pages: 192
@@ -4086,9 +4151,11 @@ titles:
     verified: true
   - title: El Caribe holandés
     subtitle: El colonialismo y sus legados transatlánticos
+    original_title: Paradise overseas
     series: Publicaciones en lenguas extranjeras
     authors:
       - Gert Oostindie
+    translators:
       - Maritza Cristina García Pallas
     year: 2014
     language: Spanish
@@ -4192,6 +4259,7 @@ titles:
     verified: true
   - title: History of Cuba
     subtitle: 'The Challenge of the Yoke and the Star: Biography of a People'
+    original_title: Historia de Cuba
     authors:
       - José Cantón Navarro
       - Mayra Fernández
@@ -4321,8 +4389,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=868577251
     verified: true
   - title: Al este de los hombres
+    original_title: A leste dos homens
     authors:
       - Políbio Alves
+    translators:
       - Rodolfo Alpízar Castillo
     year: 2015
     language: Spanish
@@ -4363,6 +4433,8 @@ titles:
     subtitle: Herencia y creatividad en la religiosidad popular cubana
     authors:
       - Valentina Porras
+    editors:
+      - David A. Caplin
     year: 2015
     series: Colección Fe
     language: Spanish
@@ -4764,6 +4836,8 @@ titles:
     subtitle: Herencia y porvenir del calibanismo
     authors:
       - Julio César Guanche
+    editors:
+      - Julio César Guanche Zaldívar
     year: 2016
     language: Spanish
     pages: 294
@@ -5260,6 +5334,8 @@ titles:
   - title: La cuestion racial en Cuba
     authors:
       - Gustavo E. Urrutia
+    editors:
+      - Tomás Fernández Robaina
     year: 2020
     language: Spanish
     pages: 364

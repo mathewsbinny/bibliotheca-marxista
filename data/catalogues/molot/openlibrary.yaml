@@ -7,6 +7,7 @@ titles:
     authors:
       - Paul Lafargue
       - Pol Lafarg (Поль Лафарг)
+    translators:
       - L. Borisov
       - L. Borisov (Л. Борисов)
     year: 1905
@@ -119,6 +120,7 @@ titles:
       - A. Bebel (А. Бебель)
       - Éduardʺ Valʹânʺ
       - Eduard Valian (Эдуардъ Вальянъ)
+    translators:
       - E. Kocʺ
       - A. Kots (Е. Коцъ)
     year: 1905
@@ -183,6 +185,7 @@ titles:
     authors:
       - Karl Kautskii (Карлъ Каутскій)
       - Karl Kautsky
+    translators:
       - M. Lemberk
       - M. Lemberk (М. Лемберк)
       - L. Borisov
@@ -218,6 +221,9 @@ titles:
     subtitle: Kommentarīĭ k polozhenīiam Erfurtskago si̋ezda
     authors:
       - Karl Kautsky
+    translators:
+      - M. Lemberk
+      - L. Borisov
     year: 1905
     language: Russian
     pages: 187
@@ -283,6 +289,7 @@ titles:
       - Karl Marks (Карл Маркс)
       - Friedrich Engels
       - Fridrikh Engels (Фридрих Энгельс)
+    translators:
       - G. Taubman
       - G. Taubman (Г. Таубман)
     year: 1905
@@ -422,6 +429,8 @@ titles:
   - title: K kritikě političeskoj ėkonomii
     authors:
       - Friedrich Engels
+    translators:
+      - M. Lemberk
     year: 1905
     language: Russian
     sources:
@@ -539,6 +548,7 @@ titles:
     authors:
       - Wilhelm Liebknecht
       - Vilgelm Libknekht (Вильгельм Либкнехтъ)
+    translators:
       - E. Šehter
       - A. Shekhter (Е. Шехтер)
     year: 1905
@@ -648,7 +658,8 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991146691699705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Očevidecʺ o 71omʺ godě vʺ Parižě
-    authors:
+    authors: []
+    translators:
       - E. Kocʺ
       - A. Kots (Е. Коцъ)
     year: 1905
@@ -704,6 +715,7 @@ titles:
     verified: true
   - title: Poklonenìe zolotu
     subtitle: Religìâ kapitala
+    original_title: <<La>> religion du capital
     authors:
       - Paul Lafargue
       - Pol Lafarg (Поль Лафарг)
@@ -846,6 +858,7 @@ titles:
     authors:
       - Ferdinand Lassalle
       - Ferdinand Lassal (Фердинанд Лассаль)
+    translators:
       - Lev Davidovič Trockij
       - Lev Davidovich Trotskii (Лев Давидович Троцкий)
     year: 1905
@@ -878,6 +891,7 @@ titles:
     authors:
       - Karl Kautsky
       - Karl Kautskii (Карлъ Каутскій)
+    translators:
       - M. Lemberk
       - M. Lemberk (М. Лемберк)
     year: 1905
@@ -1686,6 +1700,7 @@ titles:
     authors:
       - Jules Guesde
       - Z. Ged (Ж. Гедъ)
+    translators:
       - E. K. Leontʹev
       - A. K. Leontev (Е. К. Леонтьев)
       - I. N. Leontʹev
@@ -1754,6 +1769,7 @@ titles:
       - Karl Marks (Карл Маркс)
       - Lev Davidovič Trockij
       - Lev Davidovich Trotskii (Лев Давидович Троцкий)
+    translators:
       - L. Semenût
       - L. Semeniut (Л. Семенют)
     year: 1906
@@ -1866,6 +1882,7 @@ titles:
     authors:
       - L. Delinverʺ
       - L. Delinver (Л. Делинверъ)
+    translators:
       - I. Golʹdenberg
       - E. Goldenberg (И. Гольденберг)
     year: 1906
@@ -1953,7 +1970,8 @@ titles:
     verified: true
   - title: Vilʹgelʹmʺ Vejtlingʺ
     subtitle: Bíografičeskij očerkʺ
-    authors:
+    authors: []
+    translators:
       - L. Mandelʹštamʺ
       - L. Mandelshtam (Л. Мандельштамъ)
     year: 1906
@@ -2245,9 +2263,10 @@ titles:
       - Karl Marx
       - Vera Ivanovna Zasulič
       - Vera Ivanovna Zasulich (Вера Ивановна Засулич)
+      - Friedrich Engels
+    translators:
       - I. L. Davidson
       - E. L. Davidson (И. Л. Давидсон)
-      - Friedrich Engels
     year: 1907
     language: Russian
     sources:

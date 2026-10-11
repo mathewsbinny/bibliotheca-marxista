@@ -1264,6 +1264,8 @@ titles:
   - title: Os Lusíadas
     authors:
       - Luís de Camões
+    editors:
+      - António Borges Coelho
     year: 1980
     language: Portuguese
     pages: 175
@@ -1479,6 +1481,7 @@ titles:
         url: https://search.worldcat.org/title/11310505
     verified: true
   - title: Inteligência, hereditariedade e racismo
+    original_title: IQ, heritability and racism
     series: Colecção Universitária; 1
     authors:
       - James Lawler
@@ -1588,6 +1591,8 @@ titles:
   - title: A revolução de 1820
     authors:
       - Manuel Fernandes.* Tomás
+    editors:
+      - José Manuel Tengarrinha
     year: 1982
     series: Colecção universitária -- 2
     language: Portuguese
@@ -1627,6 +1632,8 @@ titles:
   - title: Bastardos do sol
     authors:
       - Urbano Tavares Rodrigues
+    editors:
+      - Luiz Francisco Rebello
     year: 1982
     edition: 5a ed. revista / com estudo de Luiz Francisco Rebello / seguido do prefa cio da edic ʹa o francesa por Claude Michel Cluny
     language: Portuguese
@@ -5929,8 +5936,11 @@ titles:
         url: https://lccn.loc.gov/90210466
     verified: true
   - title: A grande barafunda de Fraxily
+    original_title: The Fraxily Fracas
     authors:
       - Douglas Hill
+    translators:
+      - Paula Reis
     year: 1990
     series: Ficção científica -- 111
     language: Portuguese
@@ -6531,6 +6541,7 @@ titles:
     verified: true
   - title: Revoluções musicais
     subtitle: A música contemporãnea depois de 1945
+    original_title: Révolutions musicales
     series: Caminho da musica; 7
     authors:
       - Dominique Salini
@@ -6842,6 +6853,7 @@ titles:
     verified: true
     series: O campo da palavra
   - title: Histórias de Sete-Sonos
+    original_title: Siebenschläfergeschichten
     authors:
       - Hanna Johanson
       - Kathi Bhend
@@ -7315,6 +7327,7 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/vidas-secas-graciliano-ramos
   - title: Zé Jasmim na terra dos aldrabō
+    original_title: Gelsomino nel Paese dei Bugiardi
     series: De par em par
     authors:
       - Gianni Rodari
@@ -7417,8 +7430,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991007281599705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: false
   - title: Despareceu um carro dos bombeiros
+    original_title: Brandbilen som försvann
     authors:
       - Maj Sjöwall
+    translators:
+      - Manuel Ruas
     language: Portuguese
     pages: 213
     isbn: '9722107194'

@@ -728,7 +728,12 @@ titles:
         url: https://search.worldcat.org/title/19033427
     verified: true
   - title: Han Wei Liu chao wen xue zuo pin xuan jiang
-    authors:
+    authors: []
+    editors:
+      - Mei Han
+      - 梅 寒
+      - Zhenze Zhang
+    translators:
       - Mei Han
     year: 1957
     edition: Di 1 ban
@@ -3698,6 +3703,9 @@ titles:
   - title: Qing dai liu tiao bian
     authors:
       - Shusen Yang
+    editors:
+      - Yang shu sen
+      - 杨树森
     year: 1978
     language: Chinese
     pages: 113
@@ -4566,6 +4574,8 @@ titles:
   - title: Gu wen bai ze
     authors:
       - Tao Jiang
+    editors:
+      - 涛 姜
     year: 1980
     edition: Di 1 ban
     language: Chinese
@@ -7744,8 +7754,11 @@ titles:
         url: https://lccn.loc.gov/83172855
     verified: true
   - title: Shuo ba, Changbai shan
+    original_title: Changbaeksan a iyagi hara
     authors:
       - Sŏng-hwi Kim
+    translators:
+      - Changxi Han
     year: 1982
     edition: Di 1 ban
     language: Chinese
@@ -8031,6 +8044,8 @@ titles:
   - title: Zhong gong dang shi jiang yi
     authors:
       - Yun
+    editors:
+      - Yun Ma
     year: 1982
     edition: Di 1 ban
     language: Chinese
@@ -10613,6 +10628,8 @@ titles:
     subtitle: Xia bian
     authors:
       - Yi Dai
+    editors:
+      - Zengping Lin
     year: 1984
     edition: Di 1 ban
     language: Chinese
@@ -11459,6 +11476,8 @@ titles:
   - title: Zhongguo shi xue jia zhuan
     authors:
       - Shunhui Zhang
+    editors:
+      - 张舜徽
     year: 1984
     edition: Di 1 ban
     series: Zhongguo li shi wen xian yan jiu hui cong shu
@@ -12657,6 +12676,8 @@ titles:
   - title: Man zu she hui li shi diao cha
     authors:
       - '"Min zu wen ti wu zhong cong shu" Liaoning Sheng bian ji wei yuan hui'
+    editors:
+      - Min zu wen ti wu zhong cong shu Liaoning sheng bian ji wei yuan hui
     year: 1985
     edition: Di 1 ban
     series: Zhongguo shao shu min zu she hui li shi diao cha zi liao cong kan
@@ -13127,6 +13148,8 @@ titles:
   - title: Wen xue gai lun
     authors:
       - Jingyang Feng
+    editors:
+      - F景阳 冯
     year: 1985
     edition: Di 1 ban
     series: Da xue Zhong wen xi zi xue cong shu
@@ -14587,6 +14610,8 @@ titles:
   - title: Jin Ping Mei shu lu
     authors:
       - Wenbin Hu
+    editors:
+      - Hu Wenbin
     year: 1986
     edition: Di 1 ban
     language: Chinese
@@ -17423,7 +17448,8 @@ titles:
         url: https://search.worldcat.org/title/227456890
     verified: true
   - title: Yong Qian liang chao xiang hong qi dang
-    authors:
+    authors: []
+    translators:
       - Jialu Guan
     year: 1987
     edition: Di 1 ban
@@ -18319,8 +18345,9 @@ titles:
   - title: Ni shan sa man zhuan
     series: Min zu gu ji
     authors:
-      - Zhan Zhao
       - Lida Luo
+    translators:
+      - Zhan Zhao
     year: 1988
     language: Chinese, Manchu
     sources:
@@ -18475,7 +18502,8 @@ titles:
   - title: Tong zu shi shi
     subtitle: '"Qi yuan zhi ge"'
     series: Min zu gu ji cong shu
-    authors:
+    authors: []
+    translators:
       - Quan Yang
       - 权 杨
       - Guoqiao Zheng
@@ -19581,6 +19609,9 @@ titles:
     verified: true
   - title: Zhong guo lun li da ci dian
     authors: []
+    editors:
+      - Ying Chen
+      - Qi xian Xu
     year: 1989
     language: Chinese
     sources:
@@ -19599,9 +19630,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=599082062
     verified: true
   - title: Zhongguo wen hua yu Jidu jiao de chong zhuang
+    original_title: Chine et Christianisme
     series: Zhongguo xue Han yi ming zhu cong shu
     authors:
       - Jacques Gernet
+    translators:
       - 于硕
       - Yushuo
     year: 1989
@@ -20820,6 +20853,8 @@ titles:
   - title: Jiu. yi ba shi bian cong shu
     authors:
       - Chong Lü Wang
+    editors:
+      - Sheng Lin
     language: Chinese
     sources:
       - title: BnF catalogue record cb447280775

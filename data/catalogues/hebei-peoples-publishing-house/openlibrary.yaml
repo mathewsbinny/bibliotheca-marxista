@@ -329,6 +329,8 @@ titles:
     authors:
       - Yifu Zeng
       - 曾毅夫
+    editors:
+      - Jinxi Li
     year: 1957
     language: Chinese
     sources:
@@ -3787,6 +3789,8 @@ titles:
   - title: Mao Dun shi ci
     authors:
       - Mao Dun
+    editors:
+      - Hebei ren min chu ban she
     year: 1979
     edition: Di 1 ban
     series: Chun guang wen yi cong shu
@@ -4870,6 +4874,10 @@ titles:
     authors:
       - Shuying Guo
       - Pingying Guo
+    editors:
+      - Ping ying Guo
+      - Shu ying Guo
+      - Cheng huan Zhang
     year: 1980
     language: Chinese
     sources:
@@ -4881,6 +4889,8 @@ titles:
   - title: Guo xiao chuan shi xuan
     subtitle: Xu ji
     authors: []
+    editors:
+      - Yan tian Dai
     year: 1980
     language: Chinese
     sources:
@@ -9566,6 +9576,8 @@ titles:
     verified: true
   - title: Li shi xiao gu shi cong shu xuan ji
     authors: []
+    editors:
+      - Hebei ren min chu ban she
     year: 1984
     edition: Di 1 ban
     language: Chinese
@@ -10596,6 +10608,9 @@ titles:
   - title: Cai Yuanpei yu yan ji wen xue lun zhu
     authors:
       - Yuanpei Cai
+    editors:
+      - Pingshu Gao
+      - 高平叔
     year: 1985
     edition: Di 1 ban
     language: Chinese
@@ -11117,6 +11132,9 @@ titles:
     authors:
       - Jude Shang
       - Zhuoying Shi
+    editors:
+      - 聚德 商
+      - 倬英 石
     year: 1985
     edition: Di 1 ban
     language: Chinese
@@ -12504,6 +12522,8 @@ titles:
   - title: Feng Menglong xiao hua ji
     authors:
       - Menglong Feng
+    editors:
+      - Hongjun Gao
     year: 1987
     edition: Di 1 ban
     language: Chinese
@@ -12534,6 +12554,9 @@ titles:
     authors:
       - Zongxu Liu
       - Peng Guo
+    editors:
+      - 刘宗绪
+      - 郭澎
     year: 1987
     edition: Di 1 ban
     language: Chinese
@@ -14040,6 +14063,7 @@ titles:
         url: https://search.worldcat.org/title/45080551
     verified: true
   - title: Da yue jin 1958-1960
+    original_title: Origins of the cultural revolution
     series: Wen hua da ge ming de qi yuan / Luo ke [i.e. de] li ke mai ke fa kua er zhu; wen hua da ge ming de qi yuan fan yi zu yi; he zuo kang, wang ze huai jiao; 2
     authors:
       - Roderick MacFarquhar
@@ -14177,6 +14201,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1610369203
     verified: true
   - title: Ren min nei bu mao dun 1956-1957
+    original_title: Origins of the cultural revolution
     series: Wen hua da ge ming de qi yuan / Luo ke [i.e. de] li ke mai ke fa kua er zhu; wen hua da ge ming de qi yuan fan yi zu yi; he zuo kang, wang ze huai jiao; 1
     authors:
       - Roderick MacFarquhar
@@ -14220,6 +14245,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1625181639
     verified: true
   - title: Wen hua da ge ming de qi yuan
+    original_title: Origins of the cultural revolution
     authors:
       - Roderick MacFarquhar
     year: 1989

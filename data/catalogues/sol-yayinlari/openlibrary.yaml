@@ -67,6 +67,7 @@ titles:
     verified: true
   - title: 'Görünmeyen hükümet: CIA'
     subtitle: Amerikan istihbarat teskilâtı
+    original_title: The invisible government
     series: Sol Yayınları; 15
     authors:
       - David Wise
@@ -121,6 +122,7 @@ titles:
         url: https://search.worldcat.org/title/62461624
     verified: true
   - title: Fransa'da sınıf mücadeleleri 1848-1850
+    original_title: Les luttes de classes en France 1848-1850
     authors:
       - Karl Marx
     year: 1967
@@ -134,6 +136,8 @@ titles:
       - Zubritski
       - D. Mitropolski
       - V. L. Kerov
+    translators:
+      - Sevim Belli
     year: 1968
     language: Turkish
     isbn: '9789757399070'
@@ -158,6 +162,8 @@ titles:
       - IU. A. Zubritskiĭ
       - D. Mitropolski
       - V. L. Kerov
+    translators:
+      - Sevim Belli
     year: 1969
     language: Not recorded
     isbn: '9757399418'
@@ -358,6 +364,7 @@ titles:
   - title: Teori ve pratik
     authors:
       - Zedong Mao
+    translators:
       - N. Solukçu
     year: 1978
     language: Turkish
@@ -379,8 +386,11 @@ titles:
     verified: false
   - title: Kapital Birinci Cilt
     subtitle: Sermayenin Üretim Süreci
+    original_title: Das Kapital
     authors:
       - Karl Marx
+    translators:
+      - Alaattin Bilgi
     year: 1986
     language: Turkish
     isbn: '9789757399322'
@@ -465,6 +475,7 @@ titles:
     subtitle: '1.: 1844 - 1869 / çeviren Yurdakul Fincancı'
     authors:
       - Karl Marx
+    translators:
       - Yurdakul Fincancı
     year: 1995
     edition: 1. baskı
@@ -499,8 +510,10 @@ titles:
         url: https://d-nb.info/987530798
     verified: true
   - title: Doğanın Diyalektiği
+    original_title: Dialektik der Natur
     authors:
       - Friedrich Engels
+    translators:
       - Arif Gelen
     year: 1996
     language: Turkish
@@ -553,6 +566,8 @@ titles:
   - title: Artı-değer teorileri
     authors:
       - Karl Marx
+    translators:
+      - Yurdakul Fincancı
     year: 1998
     language: Turkish
     pages: 423
@@ -610,6 +625,8 @@ titles:
     subtitle: Principes elementaires de philosophie
     authors:
       - Georges Politzer
+    translators:
+      - Sevim Belli
     year: 1999
     language: Turkish
     pages: 239
@@ -629,6 +646,7 @@ titles:
     subtitle: Kitap 1. / Çeviren Arif Gelen
     authors:
       - Karl Marx
+    translators:
       - Arif Gelen
     year: 1999
     edition: 1. baskı
@@ -678,6 +696,7 @@ titles:
   - title: Ücretli emek ve sermaye
     authors:
       - Karl Marx
+    translators:
       - Sevim Belli
     year: 1999
     language: Turkish
@@ -736,6 +755,7 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Kenan Somer
     year: 2003
     edition: 3. baskı
@@ -825,9 +845,11 @@ titles:
         url: https://d-nb.info/987530518
     verified: true
   - title: Din Üzerine
+    original_title: Sur la religion
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Kaya Güvenç
     year: 2008
     language: Turkish
@@ -913,8 +935,10 @@ titles:
     verified: false
   - title: 1844 El Yazmaları
     subtitle: Ekonomi Politik ve Felsefe
+    original_title: Zur Kritik der Nationalökonomie mit einem Schlusskapitel über die hegelsche Philosophie
     authors:
       - Karl Marx
+    translators:
       - Kenan Somer
     year: 2011
     language: Turkish

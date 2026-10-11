@@ -975,6 +975,8 @@ titles:
     subtitle: Alʹbom
     authors:
       - Iv. Javaxišvilis saxelobis istoriis, arkʻeologiisa da etʻnograpʻiis instituti
+    editors:
+      - Nino P. Brailašvili
     year: 1964
     series: Institut istorii im. I.A. Dzhavakhishvili. Gosudarstvennyi muzei Gruzii im. S.N. Dzhanashia. Etnografiia Gruzii
     language: Georgian
@@ -2063,6 +2065,7 @@ titles:
         url: https://search.worldcat.org/title/82688510
     verified: true
   - title: Sonetesi
+    original_title: Sonnets
     authors:
       - William Shakespeare
       - Revaz Tabukašvili
@@ -2075,6 +2078,8 @@ titles:
   - title: The Knight in the Panther's Skin
     authors:
       - Shota Rustaveli
+    translators:
+      - Venera Urushadze
     year: 1968
     language: English
     pages: 222
@@ -2091,6 +2096,7 @@ titles:
         url: https://www.sudoc.fr/273413945
     verified: true
     subtitle: = Vep'xis Tqaosami
+    original_title: Vep'xistqaosani
   - title: Vosstanovitel'naia khirurgiia obliteriruiushchego aterosklerozal
     subtitle: Terminal'nogo otdela briushnoĭ aorty i ee distal'nykh vetveĭ
     authors:
@@ -2303,6 +2309,10 @@ titles:
     subtitle: Sbornik dokumentov i materialov
     authors:
       - Lado Kecʻxoveli
+    editors:
+      - Zinaida Tornikovna Gegeshidze
+      - N. V. Sturua
+      - S. I. Chivadze
     year: 1969
     language: Russian
     pages: 253
@@ -3480,6 +3490,8 @@ titles:
   - title: The Knight in the Panther's Skin
     authors:
       - Shota Rustaveli
+    translators:
+      - Venera Urushadze
     year: 1971
     language: English
     pages: 222
@@ -3498,6 +3510,7 @@ titles:
         url: https://www.sudoc.fr/015720195
     verified: true
     subtitle: = Vep'xis Tqaosami
+    original_title: Vep'xistqaosani
   - title: TSvetok v kaske
     authors:
       - Akakiǐ Ismailovich Getsadze
@@ -4907,6 +4920,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000384209
     verified: true
   - title: Витязь в тигровой шкуре
+    original_title: ვეფხისტყაოსანი
     authors:
       - Shota Rustaveli
     year: 1975
@@ -6486,6 +6500,8 @@ titles:
   - title: The Knight in the Panther's Skin
     authors:
       - Shota Rustaveli
+    translators:
+      - Venera Urushadze
     year: 1979
     language: English
     pages: 210
@@ -7053,6 +7069,9 @@ titles:
   - title: Očerki istorii Kommunističeskoj partii Gruzii
     authors:
       - Devi Sturua
+    editors:
+      - Devi G. Sturua
+      - Institut Istorii Partii
     year: 1982
     language: Russian
     sources:
@@ -7263,6 +7282,8 @@ titles:
   - title: Očerki istorii Kommunističeskoj partii Gruzii
     authors:
       - Devi Sturua
+    editors:
+      - Devi G. Sturua
     year: 1983
     language: Russian
     sources:
@@ -7367,6 +7388,7 @@ titles:
         url: https://openlibrary.org/books/OL57901111M
     verified: true
   - title: Vitjaz' v tigrovoj škure
+    original_title: Vep'xistqaosani
     authors:
       - Šot̕a
       - Nikolaj A. Zabolockij
@@ -7908,6 +7930,7 @@ titles:
   - title: The Knight in the Panther's Skin
     authors:
       - Shota Rustaveli
+    translators:
       - Venera Urushadze
     year: 1986
     language: English

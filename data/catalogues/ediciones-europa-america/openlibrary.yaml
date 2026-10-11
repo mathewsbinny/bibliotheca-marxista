@@ -5,6 +5,7 @@ publisher: ediciones-europa-america
 titles:
   - title: Trabajo asalariado y capital
     subtitle: Volumen establecido sobre la base de la conferencia pronunciada por Marx en 1847, en el "Círculo de Trabajadores alemanes de Bruselas"
+    original_title: Lohnarbeit und Kapital
     series: Manuales Elementales de Comunismo; v. 3
     authors:
       - Karl Marx
@@ -31,6 +32,7 @@ titles:
         url: https://lccn.loc.gov/85843065
     verified: true
   - title: Lenin
+    original_title: O Lenine
     authors:
       - Joseph Stalin
     year: 1932
@@ -53,6 +55,7 @@ titles:
     verified: true
   - title: Marx
     subtitle: Maestro y jefe del proletariado
+    original_title: Karl Marks
     authors:
       - Lev Perchik
     year: 1933
@@ -64,6 +67,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991052827729708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: ¡Quiero!
+    original_title: Ia liubliu
     authors:
       - Aleksandr Ostapovich Avdeenko
     year: 1934
@@ -184,6 +188,7 @@ titles:
     verified: true
   - title: Campos roturados
     subtitle: Novela
+    original_title: Podniataia tselina
     series: Literatura
     authors:
       - Mijail Aleksandrovich Sholojov
@@ -194,6 +199,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991037038359708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Derechos y deberes del ciudadano soviético
+    original_title: Prava i obi︠a︡zannosti sovetskogo grazhdanina
     authors:
       - Nikolaĭ Vasilʹevich Krylenko
     year: 1936
@@ -235,6 +241,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991058300929708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El proceso Zinoviev
+    original_title: Zinoviev trial
     authors:
       - Denis N. Pritt
     year: 1936
@@ -246,6 +253,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991055303969708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El socialismo y el derecho al trabajo
+    original_title: Sot︠s︡ializm i pravo na trud
     series: Así es la U.R.S.S
     authors:
       - Nikolaĭ Mikhaĭlovich Shvernik
@@ -335,6 +343,7 @@ titles:
     verified: true
   - title: Tchapaief
     subtitle: El guerrillero rojo
+    original_title: Chapaev
     authors:
       - Dmitrij Andrejevič Furmanov
     year: 1936
@@ -423,6 +432,8 @@ titles:
   - title: El dieciocho brumario de Luis Bonaparte
     authors:
       - Karl Marx
+    translators:
+      - Wenceslao Roces Suárez
     year: 1937
     series: Colección Marx-Engels-Lenin-Stalin
     language: Spanish
@@ -514,8 +525,10 @@ titles:
     verified: true
   - title: En el campo de asesinos de Dachau
     subtitle: Cuatro semanas en poder de los bandidos pardos
+    original_title: Im Mörderlager Dachau
     authors:
       - Hans Beimler
+    translators:
       - Lucienne Perucho
       - Arturo Perucho
     year: 1937
@@ -541,6 +554,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991048030309708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Guerra, sabotaje, asesinato, traición
+    original_title: Guerre, sabotage, assassinat, trahison
     authors:
       - Marcel Cachin
       - Paul Vaillant-Couturier
@@ -740,6 +754,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991037798039708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Qué es la Gestapo?
+    original_title: Gestapo
     authors:
       - N. Abuzof
     year: 1937
@@ -772,6 +787,7 @@ titles:
     verified: true
   - title: Tchapaief
     subtitle: El guerrillero rojo
+    original_title: Chapaev
     authors:
       - Dmitrij Andrejevič Furmanov
     year: 1937
@@ -931,6 +947,7 @@ titles:
     verified: true
   - title: Manifiesto del Partido Comunista
     subtitle: Con un apéndice sobre la historia de la liga de los comunistas
+    original_title: Manifest der Kommunistischen Partei
     series: Colección Marx-Engels-Lenin-Stalin
     authors:
       - Karl Marx
@@ -996,6 +1013,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991008617879708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Stalin y el ejército rojo
+    original_title: Stalin i Krasnai︠a︡ Armii︠a︡
     series: El bolchevismo en acción
     authors:
       - Kliment Efremovich Voroshilov
@@ -1050,6 +1068,7 @@ titles:
     verified: false
   - title: Dos tácticas
     subtitle: (La socialdemocracia en la revolución democrática)
+    original_title: Dve taktiki sot︠s︡ial-demokratii v demokraticheskoĭ revoli︠u︡t︠s︡ii
     series: Pequeña biblioteca leninista; 2
     authors:
       - Vladimir Ilʹich Lenin
@@ -1094,6 +1113,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991035259689708606&vid=34BNE_INST:CATALOGO
     verified: false
   - title: El socialismo y la guerra
+    original_title: Sot︠s︡ializm i voĭna
     series: Pequeña biblioteca leninista; 4
     authors:
       - Vladimir Ilʹich Lenin
@@ -1104,6 +1124,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=520074092
     verified: false
   - title: La comuna de Paris
+    original_title: Parizhskai︠a︡ kommuna
     series: Pequeña biblioteca leninista; 3
     authors:
       - Vladimir Ilʹich Lenin
@@ -1147,6 +1168,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991057308929708606&vid=34BNE_INST:CATALOGO
     verified: false
     subtitle: Manifiesto inagural de la Asociación Internacional de los Trabajadores
+    original_title: Manifest der Kommunistischen Partei
     links:
       - label: Read or download (Internet Archive)
         url: https://archive.org/details/karl-marx-manifiesto-comunista

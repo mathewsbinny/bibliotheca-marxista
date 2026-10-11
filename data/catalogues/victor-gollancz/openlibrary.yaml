@@ -445,6 +445,8 @@ titles:
     subtitle: Being the Correspondence of LordPalmerston with Mr. Gladstone, 1851-1865
     authors:
       - Henry John Temple Viscount Palmerston
+    editors:
+      - Philip Guedalla
     year: 1928
     series: The Palmerston Papers
     language: English
@@ -508,6 +510,8 @@ titles:
   - title: Great Short Stories of Detection, Mystery and Horror
     authors:
       - Dorothy L. Sayers
+    editors:
+      - Dorothy Leigh Sayers
     year: 1928
     language: English
     pages: 1229
@@ -781,6 +785,8 @@ titles:
   - title: Nero
     authors:
       - Dezso . Kosztola nyi
+    translators:
+      - Clifton P. Fadiman
     year: 1928
     language: English
     sources:
@@ -913,6 +919,8 @@ titles:
   - title: The Diary of a Communist Schoolboy
     authors:
       - N. Ogne v
+    translators:
+      - Alexander Werth
     year: 1928
     language: English
     sources:
@@ -946,6 +954,11 @@ titles:
   - title: The Diary of Dostoyevsky's Wife
     authors:
       - Anna Dostoyevskaya
+    editors:
+      - René Fülöp-Miller
+      - Friedrich Eckstein
+    translators:
+      - Madge Pemberton
     year: 1928
     language: English
     pages: 421
@@ -966,8 +979,11 @@ titles:
         url: https://openlibrary.org/books/OL43542451M
     verified: false
   - title: The Diary of Tolstoy's Wife, 1860-1891
+    original_title: Dnevniki Sofʹi Andreevny Tolstoj
     authors:
       - Sofʹia Andreevna Bers grafinia Tolstaia
+    translators:
+      - Alexander Werth
     year: 1928
     language: English
     pages: 272
@@ -1037,6 +1053,8 @@ titles:
   - title: The Golem
     authors:
       - Gustav Meyrink
+    translators:
+      - Madge Pemberton
     year: 1928
     language: English
     pages: 288
@@ -1125,6 +1143,8 @@ titles:
   - title: The Life of Moses
     authors:
       - Edmond Fleg
+    translators:
+      - Stephen Haden Guest
     year: 1928
     language: English
     pages: 232
@@ -1248,6 +1268,8 @@ titles:
   - title: The Reign of the House of Rothschild
     authors:
       - Egon Caesar Conte Corti
+    translators:
+      - Beatrix Lunn
     year: 1928
     language: English
     pages: 511
@@ -1304,8 +1326,11 @@ titles:
       - label: Read or download (HathiTrust)
         url: https://hdl.handle.net/2027/mdp.39015030766888
   - title: The Rise of the House of Rothschild
+    original_title: Der Aufstieg des Hauses Rothschild
     authors:
       - Egon Caesar Conte Corti
+    translators:
+      - Beatrix Lunn
     year: 1928
     language: English
     pages: 463
@@ -1473,6 +1498,8 @@ titles:
     subtitle: The Dream Doctor, Man and His Phantoms, the Coward
     authors:
       - H.-R Lenormand
+    translators:
+      - D. L. Orna
     year: 1928
     language: English
     pages: 360
@@ -1559,6 +1586,8 @@ titles:
     subtitle: The Great Creative Epochs
     authors:
       - Romain Rolland
+    translators:
+      - Ernest Newman
     year: 1929
     language: English
     pages: 432
@@ -1608,8 +1637,11 @@ titles:
       - label: Read or download (HathiTrust)
         url: https://hdl.handle.net/2027/mdp.39015063524659
   - title: Berlin, the Land of Cockaigne
+    original_title: Im Schlaraffenland
     authors:
       - Heinrich Mann
+    translators:
+      - Axton D. B. Clark
     year: 1929
     language: English
     pages: 372
@@ -1900,6 +1932,8 @@ titles:
   - title: Foch Talks
     authors:
       - Charles Bugnet
+    translators:
+      - Russell Green
     year: 1929
     language: English
     pages: 288
@@ -1922,6 +1956,7 @@ titles:
         url: https://search.worldcat.org/title/1962840
     verified: true
     subtitle: June 1921 - March 1929
+    original_title: En écoutant le Marcéchal Foch
     date_note: '1929-01-01'
     links:
       - label: Borrow (Internet Archive)
@@ -2461,6 +2496,8 @@ titles:
   - title: Rabelais
     authors:
       - Anatole France
+    translators:
+      - Ernest Augustus Boyd
     year: 1929
     language: English
     pages: 285
@@ -2583,8 +2620,11 @@ titles:
       - label: Read or download (HathiTrust)
         url: https://hdl.handle.net/2027/uc1.b4522018
   - title: The Countess Tolstoy's Later Diary, 1891-1897
+    original_title: Dnevniki Sofʹi Andreevny Tolstoj
     authors:
       - Sofʹia Andreevna Bers grafinia Tolstaia
+    translators:
+      - Alexander Werth
     year: 1929
     language: English
     pages: 267
@@ -2607,6 +2647,8 @@ titles:
     subtitle: An Historical, Critical and Medical Study
     authors:
       - Maurice Garçon
+    translators:
+      - Stephen Haden-Guest
     year: 1929
     language: English
     pages: 288
@@ -2623,6 +2665,8 @@ titles:
   - title: The Diary of a Communist Under-Graduate
     authors:
       - Nikolai Ognev
+    translators:
+      - Alexander Werth
     year: 1929
     language: English
     pages: 288
@@ -2633,6 +2677,8 @@ titles:
   - title: The Diary of a Communist Undergraduate
     authors:
       - Nikolai Ognev
+    translators:
+      - Alexander Werth
     year: 1929
     language: English
     pages: 288
@@ -2850,6 +2896,8 @@ titles:
   - title: The Life of Solomon
     authors:
       - Edmond Fleg
+    translators:
+      - V. G. Garvin
     year: 1929
     language: English
     sources:
@@ -2876,6 +2924,7 @@ titles:
         url: https://www.gutenberg.org/ebooks/6993
   - title: The Man Behind the Scenes
     subtitle: The Career of Sir Basil Zaharoff, the "Mystery Man of Europe"
+    original_title: Der Mann im Dunkel
     authors:
       - Richard Lewinsohn
     year: 1929
@@ -3075,6 +3124,8 @@ titles:
   - title: The Wall of Weeping
     authors:
       - Edmond Fleg
+    translators:
+      - Humbert Wolfe
     year: 1929
     language: English
     pages: 101
@@ -3228,6 +3279,8 @@ titles:
   - title: '"- and Company"'
     authors:
       - Jean-Richard Bloch
+    translators:
+      - C. K. Scott-Moncrieff
     year: 1930
     language: English
     pages: 415
@@ -3248,6 +3301,8 @@ titles:
     subtitle: The Gospel According to Thomas, an Historical Novel of the First Century
     authors:
       - Iv Nazhivin
+    translators:
+      - Emile Burns
     year: 1930
     language: English, Russian
     pages: 480
@@ -3284,6 +3339,8 @@ titles:
   - title: A Night in Kurdistan
     authors:
       - Jean-Richard Bloch
+    translators:
+      - Stephen Haden Guest
     year: 1930
     language: English
     pages: 287
@@ -3349,6 +3406,8 @@ titles:
   - title: African Drums
     authors:
       - Fred Puleston
+    translators:
+      - André Durenceau
     year: 1930
     language: English
     pages: 352
@@ -3571,6 +3630,8 @@ titles:
   - title: Claudine at School
     authors:
       - Colette
+    translators:
+      - Janet Flanner
     year: 1930
     language: English
     pages: 286
@@ -3617,6 +3678,8 @@ titles:
     subtitle: Or the Return of the Soldier Ulysses
     authors:
       - Eberhard Woilfgang Moeller
+    translators:
+      - Tristan Rawson
     year: 1930
     language: English
     pages: 96
@@ -3694,8 +3757,10 @@ titles:
     verified: true
   - title: Gaspard Hauser, the Orphan of Europe
     subtitle: A Novel
+    original_title: L'orphelin de l'Europe
     authors:
       - Octave Aubry
+    translators:
       - Elisabeth Nicholas
     year: 1930
     language: English
@@ -3864,6 +3929,7 @@ titles:
   - title: Land Settlement in Palestine
     authors:
       - Abraham Granott
+    translators:
       - Maurice Simon
     year: 1930
     language: English
@@ -4396,6 +4462,8 @@ titles:
   - title: Tashkent
     authors:
       - Aleksandr Sergeevich Skobelev
+    translators:
+      - Reginald Merton
     year: 1930
     language: English
     pages: 224
@@ -4476,6 +4544,8 @@ titles:
     subtitle: By Dorothy L. Sayers and Robert Eustace
     authors:
       - Dorothy Leigh Sayers
+    editors:
+      - Robert Eustace
     year: 1930
     series: The Collected Edition of Novels and Stories, by Dorothy L Sayers; Vol. 3
     language: English
@@ -4826,6 +4896,7 @@ titles:
         url: https://openlibrary.org/books/OL10643883M
     verified: false
   - title: The Lost Child
+    original_title: Das verlorene Kind
     authors:
       - Rahel Sanzara
       - Winifred Katzin
@@ -5130,6 +5201,9 @@ titles:
         url: https://hdl.handle.net/2027/uc1.c038923755
   - title: A Review of the Effects of Alcohol on Man
     authors: []
+    editors:
+      - Kitchin, Kathleen Lander, Mrs
+      - D. Harcourt Kitchin
     year: 1931
     language: English
     pages: 300
@@ -5450,6 +5524,8 @@ titles:
   - title: Days of Contempt
     authors:
       - André Malraux
+    translators:
+      - Haakon M. Chevalier
     year: 1931
     language: Not recorded
     pages: 176
@@ -5626,6 +5702,8 @@ titles:
     subtitle: Second Series
     authors:
       - Dorothy L. Sayers
+    editors:
+      - Dorothy Leigh Sayers
     year: 1931
     language: English
     pages: 1147
@@ -5825,6 +5903,8 @@ titles:
   - title: My First Fifty Years
     authors:
       - Paul Poiret
+    translators:
+      - Stephen Haden Guest
     year: 1931
     language: English
     pages: 327
@@ -6531,6 +6611,8 @@ titles:
   - title: The Memoirs of the Crown Princess Cecilie
     authors:
       - Cecilie crown princess of the German empire and of Prussia
+    translators:
+      - Emile Burns
     year: 1931
     language: English
     pages: 256
@@ -7762,6 +7844,8 @@ titles:
     subtitle: Forty Years in the Life of a Singer
     authors:
       - Fyodor Ivanovich Chaliapin
+    translators:
+      - Phyllis Megroz
     year: 1932
     language: English
     sources:
@@ -7806,10 +7890,12 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991034349499705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Memoirs of the Comte Alexandre de Tilly
+    original_title: Mémoires du comte Alexandre de Tilly pour servir à l'histoire des moeurs de la fin du 18e siècle
     authors:
       - Alexandre de Tilly
-      - Françoise Delisle
       - Havelock Ellis
+    translators:
+      - Françoise Delisle
     year: 1932
     language: English
     sources:
@@ -7819,6 +7905,8 @@ titles:
   - title: Miracle at Verdun
     authors:
       - Hans Chlumberg
+    translators:
+      - Edward Crankshaw
     year: 1932
     language: English
     sources:
@@ -7943,6 +8031,8 @@ titles:
     subtitle: A Cavalcade in Pictures, Quotation and Description of Late Victorian Women 1870-1900
     authors:
       - Irene Clephane
+    editors:
+      - Alan Bott
     year: 1932
     language: English
     sources:
@@ -8489,6 +8579,9 @@ titles:
     subtitle: Translated from the Russian by Max Eastman
     authors:
       - Leon Trotsky
+    translators:
+      - Max Eastman. Vol.1
+      - The overthrow of czarism
     year: 1932
     language: English
     sources:
@@ -9016,6 +9109,8 @@ titles:
     subtitle: A Survey of Modern Movements in the Moslem World
     authors:
       - H. A. R. Gibb
+    editors:
+      - Hamilton Alexander Rosskeen Gibb
     year: 1932
     language: English
     pages: 384
@@ -9048,6 +9143,8 @@ titles:
   - title: Why Birds Sing
     authors:
       - Jacques Delamain
+    translators:
+      - Anna Sarason
     year: 1932
     language: English
     pages: 291
@@ -9411,6 +9508,9 @@ titles:
   - title: Ellen Terry's Memoirs
     authors:
       - Ellen Dame Terry
+    editors:
+      - Edith Craig
+      - Christopher St. John
     year: 1933
     language: English
     pages: 359
@@ -9814,6 +9914,8 @@ titles:
   - title: Land of Feast and Famine
     authors:
       - Helge Ingstad
+    translators:
+      - Eugene Gay-Tift
     year: 1933
     language: English
     pages: 352
@@ -10007,8 +10109,11 @@ titles:
     subtitle: With a Preface, Notes and Additional Biographical Chapters by Edith Craig and Christopher St. John
     pages: 359
   - title: Memoirs of the Comte Alexandre de Tilly
+    original_title: Mémoires du comte Alexandre de Tilly pour servir à l'histoire des moeurs de la fin du 18e siècle
     authors:
       - Alexandre Comte de Tilly
+    translators:
+      - François Delisle
     year: 1933
     language: English
     sources:
@@ -10067,6 +10172,9 @@ titles:
   - title: Midnight Sun over Karnoe
     authors:
       - Peter Hall undifferentiated
+    translators:
+      - Phyllis Blewitt
+      - Trevor Eaton Blewitt
     year: 1933
     language: English
     sources:
@@ -10855,6 +10963,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/102930514
     verified: true
     subtitle: The Hitler Terror
+    original_title: Braunbuch über Reichstagsbrand und Hitler-Terror
     date_note: '1933-01-01'
   - title: The Brown Book of the Hitler Terror and the Burning of the Reichstag. Prepared by the World Committee for the Victims of German Fascism... with an Introduction by Lord Marley
     authors: []
@@ -10972,6 +11081,8 @@ titles:
   - title: The Days and Nights of Birds
     authors:
       - Jacques Delamain
+    translators:
+      - Mary Schlumberger
     year: 1933
     language: English
     sources:
@@ -11137,6 +11248,9 @@ titles:
   - title: The History of the Russian Revolution
     authors:
       - Leon Trotsky
+    translators:
+      - Max Eastman. Vol.2
+      - The attempted counter-revolution
     year: 1933
     language: English
     pages: 360
@@ -11226,6 +11340,8 @@ titles:
   - title: The Intelligent Man's Way to Prevent War
     authors:
       - Sir Norman Angell
+    editors:
+      - Leonard Woolf
     year: 1933
     language: English
     sources:
@@ -11317,6 +11433,8 @@ titles:
   - title: The Last of Chéri
     authors:
       - Colette
+    translators:
+      - Viola Gerard Garvin
     year: 1933
     language: English
     sources:
@@ -11471,6 +11589,8 @@ titles:
   - title: The Odyssey of a Lonely Woman
     authors:
       - Alma M. Karlin
+    translators:
+      - Emile Burns
     year: 1933
     language: English
     pages: 471
@@ -11684,6 +11804,8 @@ titles:
   - title: The Seventh Age; or; Saint Saturnin
     authors:
       - Jean Schlumberger
+    translators:
+      - Madame Bussy
     year: 1933
     language: English
     sources:
@@ -11800,6 +11922,8 @@ titles:
   - title: Three Cities
     authors:
       - Sholem Asch
+    translators:
+      - Edwin Muir
     year: 1933
     language: English
     sources:
@@ -11875,6 +11999,8 @@ titles:
   - title: Twelve Studies in Soviet Russia
     authors:
       - Margaret Cole
+    editors:
+      - Margaret I. Cole
     year: 1933
     language: English
     pages: 282
@@ -11904,6 +12030,8 @@ titles:
   - title: Twelve Studies in Soviet Russia. Edited... by Margaret I. Cole... Introduction by C. R. Attlee and G. D. H. Cole
     authors:
       - New Fabian Research Bureau
+    editors:
+      - Margaret Cole
     year: 1933
     language: English
     sources:
@@ -11913,6 +12041,8 @@ titles:
   - title: Vipers' Tangle
     authors:
       - François Mauriac
+    translators:
+      - Warre B. Wells
     year: 1933
     language: English, French
     pages: 288
@@ -11962,6 +12092,8 @@ titles:
     subtitle: A Planned Outline of Monetary Problems
     authors:
       - G. D. H. (George Douglas Howard) Cole
+    editors:
+      - George D. H. Cole
     year: 1933
     language: English
     pages: 544
@@ -12475,6 +12607,8 @@ titles:
   - title: Dead Woman's Shoes
     authors:
       - Charles Maurice Braibant
+    translators:
+      - Vyvyan Holland
     year: 1934
     language: English
     pages: 431
@@ -12537,6 +12671,8 @@ titles:
   - title: Eastward from Paris
     authors:
       - Edouard Herriot
+    translators:
+      - Phyllis Megroz
     year: 1934
     language: English
     sources:
@@ -13157,6 +13293,8 @@ titles:
     subtitle: Told by the Wandering Jew
     authors:
       - Edmond Fleg
+    translators:
+      - Phyllis Marks Mégroz
     year: 1934
     language: English
     pages: 336
@@ -13517,6 +13655,8 @@ titles:
     subtitle: The Life of Heinrich Heine
     authors:
       - Antonina Vallentin
+    translators:
+      - Harrison Brown
     year: 1934
     language: English
     sources:
@@ -13567,6 +13707,8 @@ titles:
     subtitle: A Man and a Hundred Years of History
     authors:
       - Paul Frischauer
+    translators:
+      - Amethe Smeaton
     year: 1934
     language: English
     pages: 349
@@ -13746,6 +13888,8 @@ titles:
   - title: Russia Reported
     authors:
       - Walter Duranty
+    editors:
+      - Gustavus Tuckerman
     year: 1934
     language: English
     pages: 384
@@ -14279,6 +14423,8 @@ titles:
   - title: The History of the Russian Revolution
     authors:
       - Leon Trotsky
+    translators:
+      - Max Eastman
     year: 1934
     language: English
     pages: 1295
@@ -14381,6 +14527,8 @@ titles:
   - title: The Lions Starve in Naples
     authors:
       - Johan Fabricius
+    translators:
+      - Phyllis Blewitt
     year: 1934
     language: English
     pages: 285
@@ -14530,6 +14678,8 @@ titles:
     subtitle: A Compendium for All Lovers of Music
     authors:
       - A. L. Bacharach
+    editors:
+      - Alfred Louis Bacharach
     year: 1934
     language: English
     pages: 751
@@ -14793,6 +14943,8 @@ titles:
     subtitle: Matter and Quanta
     authors:
       - Leopold Infeld
+    translators:
+      - Infeld, Louis, b. 1888
     year: 1934
     language: English
     pages: 287
@@ -14817,6 +14969,8 @@ titles:
   - title: Three Cities
     authors:
       - Sholem Asch
+    translators:
+      - Edwin Muir
     year: 1934
     language: English
     pages: 862
@@ -15329,6 +15483,8 @@ titles:
     subtitle: The Third Expedition of Haardt and Audion-Dubreuil
     authors:
       - Georges Le Fèvre
+    translators:
+      - E. D. (Ernest Dunlop) Swinton
     year: 1935
     language: English
     pages: 368
@@ -15714,6 +15870,8 @@ titles:
   - title: Darkness and Dawn
     authors:
       - Aleksey Konstantinovich Tolstoy
+    translators:
+      - Edith Bone
     year: 1935
     language: English
     pages: 584
@@ -15789,6 +15947,9 @@ titles:
   - title: Dimitroff's Letters from Prison
     authors:
       - Georgi Dimitrov
+    translators:
+      - Dona Torr
+      - Michael Davidson
     year: 1935
     edition: 2nd impr
     language: English
@@ -16223,6 +16384,8 @@ titles:
     subtitle: Leaves from a Prison Diary
     authors:
       - Stefan Lorant
+    translators:
+      - James Cleugh
     year: 1935
     language: English
     pages: 318
@@ -16441,6 +16604,8 @@ titles:
   - title: Mottke the Thief
     authors:
       - Sholem Asch
+    translators:
+      - Willa Muir
     year: 1935
     language: English
     pages: 319
@@ -16989,6 +17154,8 @@ titles:
   - title: Studies in Capital & Investment
     authors:
       - New Fabian Research Bureau (Great Britain)
+    editors:
+      - G. D. H. Cole
     year: 1935
     language: English
     pages: 320
@@ -17055,6 +17222,8 @@ titles:
   - title: The Black Consul
     authors:
       - Anatolii Kornelievich Vinogradov
+    translators:
+      - Emile Burns
     year: 1935
     language: English
     sources:
@@ -17199,8 +17368,11 @@ titles:
     subtitle: By Christen Hansen with H. W. Seaman
     pages: 256
   - title: The Eve of 1914
+    original_title: (Der Krieg des Pontius Pilatus. Engl.)
     authors:
       - Theodor Wolff
+    translators:
+      - E. W. Dickes
     year: 1935
     language: English
     pages: 1934
@@ -17265,6 +17437,8 @@ titles:
   - title: The Intelligentsia of Great Britain
     authors:
       - Dmitri Mirsky
+    translators:
+      - Alec Brown
     year: 1935
     language: English
     pages: 237
@@ -17333,6 +17507,8 @@ titles:
     date_note: '1935-01-01'
   - title: The Musical Companion, a Compendium for All Lovers of Music, by W. R. Anderson, Edward J. Dent, Dynely Hussey, Julius Harrison, Francis Toye, Edwin Evans [Etc]. Edited by a. L. Bacharach. Prefatory Letter by a. L. Bacharach
     authors: []
+    editors:
+      - A. L. Bacharach
     year: 1935
     language: English
     sources:
@@ -18234,6 +18410,8 @@ titles:
   - title: Antisemitism
     authors:
       - Hugo Mauritz Valentin
+    translators:
+      - A. G. Chater
     year: 1936
     language: English
     pages: 324
@@ -18244,6 +18422,8 @@ titles:
   - title: Antisemitism Historically and Critically Examined
     authors:
       - Hugo Valentin
+    translators:
+      - Arthur G. Chater
     year: 1936
     language: English
     pages: 324
@@ -18269,6 +18449,8 @@ titles:
   - title: Antisemitism Historically and Critically Examined, by Hugo Valentin,... Translated from the Swedish by a. G. Chater
     authors:
       - Hugo Mauritz Valentin
+    translators:
+      - A. G. Chater
     year: 1936
     language: English
     sources:
@@ -18513,6 +18695,7 @@ titles:
         url: https://search.worldcat.org/title/15162862
     verified: true
   - title: Chronicle of My Life
+    original_title: Chroniques de ma vie
     authors:
       - Igor Stravinsky
     year: 1936
@@ -18845,6 +19028,8 @@ titles:
   - title: France To-day and the People's Front
     authors:
       - Maurice Thorez
+    translators:
+      - Emile Burns
     year: 1936
     language: English
     sources:
@@ -18870,6 +19055,8 @@ titles:
   - title: France To-day and the People's Front, by Maurice Thorez. Translated from the French Manuscript by Emile Burns
     authors:
       - Maurice Thorez
+    translators:
+      - Emile Burns
     year: 1936
     language: English
     sources:
@@ -18879,6 +19066,8 @@ titles:
   - title: France Today and the People's Front
     authors:
       - Maurice Thorez
+    translators:
+      - Emile Burns
     year: 1936
     edition: Left Book Club edition
     language: English
@@ -19123,6 +19312,8 @@ titles:
     subtitle: Leaves from a Prison Diary
     authors:
       - Stefan Lorant
+    translators:
+      - James Cleugh
     year: 1936
     language: English
     pages: 318
@@ -19142,6 +19333,7 @@ titles:
   - title: Journey into Freedom
     authors:
       - Klaus Mann
+    translators:
       - Rita Matthias-Reil
     year: 1936
     language: English
@@ -19476,6 +19668,8 @@ titles:
   - title: Peter the Great
     authors:
       - A. N. Tolstoi
+    translators:
+      - Edith Bone
     year: 1936
     language: English
     pages: 463
@@ -19781,6 +19975,8 @@ titles:
   - title: The Calf of Paper
     authors:
       - Sholem Asch
+    translators:
+      - Willa Muir
     year: 1936
     language: English
     sources:
@@ -19854,6 +20050,7 @@ titles:
   - title: The Court of Fair Maidens
     authors:
       - Wilhelm Speyer
+    translators:
       - Phyllis Blewitt
     year: 1936
     language: English
@@ -20167,6 +20364,8 @@ titles:
     subtitle: Being the Strange Story of the Rise and Fall of Struensee, Dictator, Lover and Doctor of Medicine
     authors:
       - Robert Neumann
+    translators:
+      - Edwin Muir
     year: 1936
     language: English
     pages: 429
@@ -20212,6 +20411,8 @@ titles:
   - title: The Son of Marietta
     authors:
       - Johan Fabricius
+    translators:
+      - Irene Clephane
     year: 1936
     language: English
     pages: 1053
@@ -20470,6 +20671,8 @@ titles:
   - title: U.S.S.R. Handbook
     authors:
       - Union of Soviet Socialist Republics
+    editors:
+      - Louis Segal
     year: 1936
     language: English
     sources:
@@ -20572,6 +20775,8 @@ titles:
     subtitle: A Record of Ten Years' Penal Servitude
     authors:
       - Wilfred F. R. MacCartney
+    editors:
+      - Compton Mackenzie
     year: 1936
     language: English
     pages: 440
@@ -20858,6 +21063,10 @@ titles:
   - title: A Textbook of Marxist Philosophy
     authors:
       - Leningradskii gosudarstvennyĭ institut istorii, filosofii, literatury i lingvistiki
+    editors:
+      - John Lewis
+    translators:
+      - A. C.
     year: 1937
     edition: Left Book Club ed
     language: English
@@ -21568,6 +21777,8 @@ titles:
   - title: Hitler's Conspiracy Against Peace
     authors:
       - S. Erckner
+    translators:
+      - Emile Burns
     year: 1937
     edition: Left Book Club ed
     language: English
@@ -21777,6 +21988,8 @@ titles:
     subtitle: A Play in Two Parts
     authors:
       - H.-R Lenormand
+    translators:
+      - Ashley Dukes
     year: 1937
     language: English
     pages: 88
@@ -22003,6 +22216,9 @@ titles:
   - title: Men Without Mercy
     authors:
       - Alfred Döblin
+    translators:
+      - Phyllis Blewitt
+      - Trevor Blewitt
     year: 1937
     language: English
     sources:
@@ -22091,8 +22307,11 @@ titles:
     verified: true
   - title: Moscow, 1937
     subtitle: My Visit Described for My Friends
+    original_title: Moskau 1937
     authors:
       - Lion Feuchtwanger
+    translators:
+      - Irene Josephy
     year: 1937
     language: English
     sources:
@@ -22917,7 +23136,8 @@ titles:
   - title: The Nazi Conspiracy in Spain
     subtitle: By the Editor of the Brown Book of the Hitler Terror
     series: Left Book Club Topical Book
-    authors:
+    authors: []
+    translators:
       - Emile Burns
     year: 1937
     language: English
@@ -23388,8 +23608,9 @@ titles:
     authors:
       - Franz Kafka
       - Willa Muir
-      - Edwin Muir
       - E. A. Butler
+    translators:
+      - Edwin Muir
     year: 1937
     language: English
     pages: 285
@@ -23405,6 +23626,8 @@ titles:
   - title: The Triumph of Barabbas
     authors:
       - Giovanni Giglio
+    translators:
+      - Eric Mosbacher
     year: 1937
     language: English
     pages: 317
@@ -23474,6 +23697,8 @@ titles:
   - title: Towards the Christian Revolution
     authors:
       - John Line
+    editors:
+      - Robert Balgarnie Young Scott
     year: 1937
     edition: Left Book Club edition
     language: English
@@ -23795,6 +24020,8 @@ titles:
   - title: A Textbook of Marxist Philosophy
     authors:
       - M. Shirokov
+    translators:
+      - A. C. Moseley
     year: 1938
     language: English
     sources:
@@ -24057,6 +24284,8 @@ titles:
     subtitle: A Novel
     authors:
       - Aleksey Konstantinovich Tolstoy
+    translators:
+      - Stephen Garry
     year: 1938
     language: English
     pages: 447
@@ -24859,6 +25088,8 @@ titles:
   - title: My Life of Music
     authors:
       - Henry Sir Wood
+    editors:
+      - Hugh Allen
     year: 1938
     language: English
     pages: 495
@@ -25027,6 +25258,8 @@ titles:
     subtitle: The Soviet Expedition to the North Pole 1937
     authors:
       - Lazar Ḱonstantinovich Brontman
+    editors:
+      - Otto Julʹevič Šmidt
     year: 1938
     series: Left Book Club
     language: English
@@ -25076,8 +25309,11 @@ titles:
     verified: true
   - title: Our Street
     subtitle: A Chronicle Written in the Heart of Fascist Germany
+    original_title: Unsere Strasse
     authors:
       - J. Petersen
+    translators:
+      - Betty Rensen
     year: 1938
     language: English
     sources:
@@ -25198,6 +25434,8 @@ titles:
     subtitle: A Tchaikovsky Novel
     authors:
       - Klaus Mann
+    translators:
+      - Hermon Ould
     year: 1938
     language: English
     sources:
@@ -25396,6 +25634,9 @@ titles:
   - title: Racism
     authors:
       - Magnus Hirschfeld
+    translators:
+      - Eden Paul
+      - Cedar Paul
     year: 1938
     edition: Left Book Club ed
     language: English
@@ -26678,6 +26919,8 @@ titles:
   - title: Twenty-Five Modern One-Act Plays
     authors:
       - John Bourne (dramatist)
+    editors:
+      - John E. Bourne
     year: 1938
     language: English
     pages: 670
@@ -26800,6 +27043,8 @@ titles:
     subtitle: The Japanese Terror in China, a Documentary Record
     authors:
       - H. J. Timperley
+    editors:
+      - Harold J. Timperley
     year: 1938
     language: English
     pages: 288
@@ -27079,6 +27324,8 @@ titles:
     subtitle: The Death of Austria
     authors:
       - Martin Fuchs
+    translators:
+      - Charles Hope Lumley
     year: 1939
     language: English
     pages: 352
@@ -27172,6 +27419,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1955964742
     verified: true
   - title: Airmen over the Suburb
+    original_title: Flieger über der Vorstadt
     authors:
       - Edwin Ramseyer
       - Nora Bickley
@@ -27653,6 +27901,8 @@ titles:
     subtitle: A Novel About the German Secret State Police
     authors:
       - Jan Petersen
+    translators:
+      - Cyrus Brooks
     year: 1939
     language: English
     pages: 286
@@ -27778,6 +28028,7 @@ titles:
     series: Pengouin Special; 25
     authors:
       - Stefan Lorant
+    translators:
       - James Cleugh
     year: 1939
     language: English
@@ -27804,6 +28055,8 @@ titles:
   - title: In Praise of Life
     authors:
       - Walter Schoenstedt
+    translators:
+      - Maxim Newmark
     year: 1939
     language: English
     sources:
@@ -27885,6 +28138,9 @@ titles:
   - title: Journey Through Life
     authors:
       - M. Amedee Ozenfant
+    translators:
+      - Helen Beauclerk
+      - Violet Macdonald
     year: 1939
     language: English
     sources:
@@ -27910,6 +28166,8 @@ titles:
     subtitle: The Tragic Pursuit of Perfection
     authors:
       - Antonina Vallentin
+    translators:
+      - Dickes, E. W. b. 1876
     year: 1939
     language: English
     pages: 606
@@ -27997,6 +28255,8 @@ titles:
   - title: Mozart
     authors:
       - Annette Kolb
+    translators:
+      - Trevor Blewitt
     year: 1939
     language: English
     pages: 381
@@ -28018,6 +28278,9 @@ titles:
     subtitle: A Fully Documented Czechoslovak Account of the Crises of September 1938 and March 1939 with a Detailed Analysis of the Repercussions of the Munich Agreement...
     authors:
       - Hubert Ripka
+    translators:
+      - Ida Šindelková
+      - Edgar P. Young
     year: 1939
     language: English
     sources:
@@ -28172,6 +28435,8 @@ titles:
   - title: Parole D'honneur
     authors:
       - Martin Freud
+    translators:
+      - Trevor Blewitt
     year: 1939
     language: English
     pages: 288
@@ -28583,6 +28848,7 @@ titles:
   - title: The Military Strenght of the Powers
     authors:
       - Max Werner
+    translators:
       - Edward Fitzgerald
     year: 1939
     language: English
@@ -28595,6 +28861,8 @@ titles:
   - title: The Military Strength of the Powers
     authors:
       - Max Werner
+    translators:
+      - Edward Fitzgerald
     year: 1939
     edition: Left Book Club ed
     language: English
@@ -29830,6 +30098,8 @@ titles:
   - title: Fifty One-Act Plays
     authors:
       - Martin
+    editors:
+      - Constance M. Martin
     year: 1940
     language: English
     pages: 983
@@ -30173,6 +30443,8 @@ titles:
   - title: Marxism and Democracy
     authors:
       - Lucien Laurat
+    translators:
+      - Edward Fitzgerald
     year: 1940
     language: English
     pages: 254
@@ -30209,6 +30481,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/001745801
     verified: true
     subtitle: Transl. By Edward Fitzgerald
+    original_title: Le Marxisme en faillite
     series: Left Book Club
   - title: Marxism and Democracy [Left Book Club Edition]
     authors:
@@ -30327,6 +30600,8 @@ titles:
   - title: Production for the People
     authors:
       - Frank Verulam
+    editors:
+      - W. H. Williams
     year: 1940
     language: English
     pages: 288
@@ -30958,6 +31233,8 @@ titles:
     subtitle: Speeches of the Rt.Hon.C.R.Attlee
     authors:
       - Clement Richard Attlee
+    editors:
+      - John Dugdale
     year: 1940
     language: English
     sources:
@@ -31221,6 +31498,8 @@ titles:
     subtitle: The Strategy and Diplomacy of the Second World War
     authors:
       - Max Werner
+    translators:
+      - Ruth Norden
     year: 1941
     edition: Left Book Club ed
     language: English
@@ -31924,8 +32203,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/007121096
     verified: true
   - title: Pierre Laval
+    original_title: 'La France trahie : Pierre Laval'
     authors:
       - Henry Torre s
+    translators:
+      - Norbert Guterman
     year: 1941
     language: English
     sources:
@@ -32252,6 +32534,8 @@ titles:
       - John Strachey
       - George Orwell
       - Harold Joseph Laski
+    editors:
+      - Victor Gollancz
     year: 1941
     language: English
     sources:
@@ -32745,6 +33029,8 @@ titles:
   - title: A People's History of Germany
     authors:
       - A. Ramos Oliveira
+    translators:
+      - EileenE. Brooke
     year: 1942
     edition: Left Book Club ed
     language: English
@@ -33095,6 +33381,8 @@ titles:
   - title: Denmark - Hitler's Model Protectorate
     authors:
       - Sten Gudme
+    translators:
+      - Jan Noble
     year: 1942
     language: English
     sources:
@@ -33767,6 +34055,8 @@ titles:
     subtitle: Adventures and Escapes ...
     authors:
       - Leo Lania
+    translators:
+      - Ralph Manheim
     year: 1942
     language: English
     pages: 143
@@ -34071,6 +34361,8 @@ titles:
     subtitle: The Biography of a Generation
     authors:
       - Leo Lania
+    translators:
+      - Ralph Manheim
     year: 1942
     language: English
     pages: 282
@@ -34785,6 +35077,9 @@ titles:
   - title: France Is a Democracy
     authors:
       - L. Levy
+    translators:
+      - W. Pickles
+      - With an introduction by Harold J. Laski
     year: 1943
     series: Left Book Club
     language: English
@@ -34821,6 +35116,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000343206
     verified: true
     subtitle: By Louis Lévy. Transl. By W. Pickles
+    original_title: La France démocratic
     pages: 157
     edition: Left Book Club ed
     date_note: '1943-01-01'
@@ -35614,6 +35910,8 @@ titles:
     subtitle: A Worktown Study
     authors:
       - Mass-Observation
+    editors:
+      - Tom Harrisson
     year: 1943
     language: English
     pages: 350
@@ -35816,6 +36114,8 @@ titles:
   - title: They Came as Friends
     authors:
       - Tor Myklebost
+    translators:
+      - Trygve M. Ager
     year: 1943
     edition: Left Book Club ed
     language: English
@@ -36074,8 +36374,11 @@ titles:
         url: https://openlibrary.org/books/OL26543532M
     verified: true
   - title: Why I Am a Jew
+    original_title: Israël et moi
     authors:
       - Edmond Fleg
+    translators:
+      - Victor Gollancz
     year: 1943
     language: English
     pages: 62
@@ -36577,6 +36880,8 @@ titles:
     subtitle: A Play of the Paris Commune
     authors:
       - Nordahl Grieg
+    translators:
+      - Eleanor Arkwright
     year: 1944
     language: English
     sources:
@@ -36587,6 +36892,8 @@ titles:
     subtitle: Hitler's Rise to Power
     authors:
       - Konrad Heiden
+    translators:
+      - Ralph Manheim
     year: 1944
     language: English
     sources:
@@ -36647,6 +36954,7 @@ titles:
     subtitle: Hitler's Rise to Power
     authors:
       - Konrad Heiden
+    translators:
       - Ralph Manheim
       - Norbert Guterman
     year: 1944
@@ -36757,6 +37065,8 @@ titles:
   - title: Escape from Berlin
     authors:
       - Catherine Klein
+    translators:
+      - Livia Laurent
     year: 1944
     language: English
     pages: 149
@@ -37730,6 +38040,7 @@ titles:
   - title: The Locusts
     authors:
       - Otto Schrag
+    translators:
       - Richard Winston
     year: 1944
     language: English
@@ -38400,6 +38711,10 @@ titles:
     subtitle: An Anthology
     authors:
       - George Sir Catlin
+    editors:
+      - George Edward Gordon Catlin
+      - Vera Brittain
+      - Sheila Hodges
     year: 1945
     language: English
     pages: 88
@@ -39197,6 +39512,8 @@ titles:
     verified: true
   - title: Is It Nothing to You?
     authors: []
+    editors:
+      - Victor Gollancz
     year: 1945
     language: English
     pages: 15
@@ -39658,6 +39975,8 @@ titles:
     subtitle: An Authentic Account of the Student Revolt in Munich University
     authors:
       - William D. Bayles
+    editors:
+      - William Bayles
     year: 1945
     language: English
     pages: 80
@@ -39818,6 +40137,8 @@ titles:
   - title: The Camp of Slow Death
     authors:
       - Jean Jacques Bernard
+    translators:
+      - Edward Owen Marsh
     year: 1945
     language: English
     pages: 132
@@ -40106,6 +40427,8 @@ titles:
   - title: The Promise Hitler Kept
     authors:
       - Stefan Szende
+    translators:
+      - Edward FitzGerald
     year: 1945
     language: English
     pages: 280
@@ -41552,6 +41875,8 @@ titles:
   - title: Politics, Economics and Men of Modern Spain, 1808-1946
     authors:
       - Antonio Ramos Oliveira
+    translators:
+      - Teener Hall
     year: 1946
     language: English
     pages: 720
@@ -42040,6 +42365,8 @@ titles:
   - title: The History of Liberty in Germany
     authors:
       - Rudolf Olden
+    translators:
+      - Evelyn Bruce Graham Stamper
     year: 1946
     language: English
     pages: 177
@@ -43665,6 +43992,8 @@ titles:
     subtitle: The Story of a Doctor
     authors:
       - János Plesch
+    translators:
+      - Edward Fitzgerald
     year: 1947
     language: English
     pages: 579
@@ -44140,6 +44469,8 @@ titles:
   - title: Revolt in the Backlands
     authors:
       - Euclides da Cunha
+    translators:
+      - Samuel Putnam
     year: 1947
     language: English
     sources:
@@ -44475,6 +44806,8 @@ titles:
   - title: The Coming Crisis
     authors:
       - Fritz Sternberg
+    translators:
+      - Edward Fitzgerald
     year: 1947
     edition: Left Book Club ed
     language: English
@@ -44506,6 +44839,8 @@ titles:
   - title: The Coming Crisis, by Fritz Sternberg. Translated by Edward Fitzgerald
     authors:
       - Fritz Sternberg
+    translators:
+      - Edward Fitzgerald
     year: 1947
     language: English
     sources:
@@ -44592,6 +44927,8 @@ titles:
   - title: The Forest of the Dead
     authors:
       - Ernst Wiechert
+    translators:
+      - Ursula SStechow
     year: 1947
     language: English
     sources:
@@ -45239,8 +45576,11 @@ titles:
         url: https://archive.org/details/whensmutgoeshist0000unse
     verified: false
   - title: When the Candle Was Burning
+    original_title: Ka-or yahel
     authors:
       - Yehuda Yaari
+    translators:
+      - Menahem Hurwitz
     year: 1947
     language: English
     pages: 227
@@ -45640,6 +45980,8 @@ titles:
     subtitle: A Story
     authors:
       - Claude Silve
+    translators:
+      - Evelyn Hatch
     year: 1948
     language: English, French
     pages: 181
@@ -45669,8 +46011,11 @@ titles:
     verified: true
     pages: 235
   - title: England, the Mysterious Island
+    original_title: L'isola misteriosa; saggio psicologico sugli Inglesi
     authors:
       - Paolo Treves
+    translators:
+      - Duncan Forbes
     year: 1948
     language: English
     pages: 135
@@ -45693,6 +46038,8 @@ titles:
     subtitle: Chosen from His Works and Ed. with an Introd
     authors:
       - Henry Woodd Nevinson
+    editors:
+      - Henry Noel Brailsford
     year: 1948
     language: English
     pages: 286
@@ -45712,6 +46059,8 @@ titles:
     subtitle: Chosen from His Works
     authors:
       - Henry Woodd Nevinson
+    editors:
+      - Henry Noel Brailsford
     year: 1948
     language: English
     pages: 286
@@ -45753,6 +46102,8 @@ titles:
   - title: Four Jewish Plays
     authors:
       - Harold Frederick Rubinstein
+    translators:
+      - Berta Morena
     year: 1948
     language: English
     pages: 303
@@ -46471,8 +46822,11 @@ titles:
     verified: true
   - title: Socialism of the West
     subtitle: An Attempt to Lay the Foundations of a New Socialist Humanism
+    original_title: Socialisme d'Occident
     authors:
       - Léo Moulin
+    translators:
+      - Alfred Heron
     year: 1948
     language: English
     pages: 336
@@ -46569,6 +46923,8 @@ titles:
     subtitle: An Anthology
     authors:
       - William Shakespeare
+    editors:
+      - Arthur Stanley
     year: 1948
     language: English
     sources:
@@ -46673,6 +47029,8 @@ titles:
   - title: The Co-operative Movement in Labour Britain
     authors:
       - N. Barou
+    editors:
+      - Noah Barou
     year: 1948
     language: English
     pages: 143
@@ -46985,8 +47343,11 @@ titles:
     verified: true
   - title: The Private Life of the Master Race
     subtitle: A Documentary Play
+    original_title: Furcht und Elend des Dritten Reiches
     authors:
       - Bertolt Brecht
+    translators:
+      - Eric Bentley
     year: 1948
     language: English
     pages: 100
@@ -47337,6 +47698,8 @@ titles:
     subtitle: A Life of Christ in the Works of the Old Masters and the Words of the Gospels
     authors:
       - Eliot. (Compiled by) Hodgkin
+    editors:
+      - Eliot Hodgkin
     year: 1949
     language: English
     pages: 212
@@ -48319,6 +48682,7 @@ titles:
   - title: One page missing
     authors:
       - Hans Jaray
+    translators:
       - Elizabeth Reynolds Hapgood
     year: 1949
     language: German
@@ -48645,6 +49009,7 @@ titles:
   - title: Stalin's Russia
     authors:
       - Suzanne Labin
+    translators:
       - Edward Fitzgerald
     year: 1949
     language: English
@@ -48785,6 +49150,8 @@ titles:
     subtitle: Memoirs of a French Ambassador in Berlin 1931-1938
     authors:
       - André Francois-Poncet
+    translators:
+      - Jacques LeClercq
     year: 1949
     language: English
     sources:
@@ -49301,6 +49668,8 @@ titles:
   - title: The World Is Not Enough
     authors:
       - Zoé Oldenbourg
+    translators:
+      - W. A. Trask
     year: 1949
     language: English
     pages: 509
@@ -49368,8 +49737,11 @@ titles:
     verified: true
     date_note: '1949-01-01'
   - title: Under Two Dictators
+    original_title: Als Gefangene bei Stalin und Hitler
     authors:
       - Margarete Buber
+    translators:
+      - Edward Fitzgerald
     year: 1949
     language: English
     sources:
@@ -50370,6 +50742,8 @@ titles:
     subtitle: His Art, Times and Glory
     authors:
       - Heinrich Eduard Jacob
+    translators:
+      - Clara Winston
     year: 1950
     language: English
     pages: 368
@@ -50635,6 +51009,8 @@ titles:
   - title: News from Soviet Germany
     authors:
       - Fritz Löwenthal
+    translators:
+      - Edward Fitzgerald
     year: 1950
     language: English
     pages: 343
@@ -51589,6 +51965,7 @@ titles:
       - label: Borrow (Internet Archive)
         url: https://archive.org/details/spanishgardenerh0000arch
   - title: The Stars Bear Witness
+    original_title: Finf yor in Ṿarsheṿer geṭo
     authors:
       - Bernard Goldstein
     year: 1950
@@ -51733,6 +52110,8 @@ titles:
     verified: true
   - title: Theologia Germanica
     authors: []
+    translators:
+      - Willard R. Trask
     year: 1950
     language: English
     pages: 240
@@ -52260,8 +52639,11 @@ titles:
         url: https://openlibrary.org/books/OL18499152M
     verified: true
   - title: Capitalism and Socialism on Trial
+    original_title: Kapitalismus und Sozialismus vor dem Weltgericht
     authors:
       - Fritz Sternberg
+    translators:
+      - Edward Fitzgerald
     year: 1951
     language: English
     pages: 603
@@ -52711,6 +53093,8 @@ titles:
     subtitle: Introduction to a Metaphysic of Hope
     authors:
       - Gabriel Marcel
+    translators:
+      - Emma Craufurd
     year: 1951
     language: English, French
     pages: 270
@@ -52767,6 +53151,8 @@ titles:
   - title: Humanity and Happiness
     authors:
       - Georg Brochmann
+    translators:
+      - Frank G.
     year: 1951
     language: English
     pages: 244
@@ -52883,6 +53269,8 @@ titles:
   - title: Letters of Emily Dickinson
     authors:
       - Emily Dickinson
+    editors:
+      - Mabel Loomis Todd
     year: 1951
     language: English
     pages: 389
@@ -53074,8 +53462,11 @@ titles:
       - label: Borrow (Internet Archive)
         url: https://archive.org/details/manyarecalledfor0000newh
   - title: Memoirs
+    original_title: Erinnerungen
     authors:
       - Ernst Freiherr von Weizsäcker
+    translators:
+      - John Andrews [pseud
     year: 1951
     language: English
     pages: 322
@@ -53103,6 +53494,8 @@ titles:
   - title: Memoirs of Ernst von Weizsa Cker
     authors:
       - Ernst Heinrich Freiherr von Weizsa cker
+    translators:
+      - J. Andrews
     year: 1951
     language: English
     pages: 322
@@ -53115,6 +53508,8 @@ titles:
   - title: Memoirs of Ernst von Weizsäcker
     authors:
       - Ernst Freiherr von Weizsäcker
+    translators:
+      - John Andrews
     year: 1951
     language: English
     pages: 322
@@ -53267,6 +53662,8 @@ titles:
   - title: My Life, My Stage
     authors:
       - Ernst Stern
+    translators:
+      - Edward Fitzgerald
     year: 1951
     language: English
     pages: 302
@@ -53426,6 +53823,8 @@ titles:
     subtitle: A Biography
     authors:
       - Henri Troyat
+    translators:
+      - Randolph T. Weaver
     year: 1951
     language: English
     sources:
@@ -54051,8 +54450,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1959554549
     verified: true
   - title: The Little World of Don Camillo
+    original_title: Mondo piccolo "Don Camillo"
     authors:
       - Giovannino Guareschi
+    translators:
+      - Una Vincenzo Troubridge
     year: 1951
     language: English
     pages: 239
@@ -54224,6 +54626,8 @@ titles:
   - title: The Reform of the Law
     authors:
       - Glanville Williams
+    editors:
+      - Glanville Llewelyn Williams
     year: 1951
     language: English
     pages: 224
@@ -54613,6 +55017,10 @@ titles:
   - title: Vienna's Golden Years of Music, 1850-1900
     authors:
       - Eduard Hanslick
+    editors:
+      - Henry Pleasants
+    translators:
+      - Henry Pleasants
     year: 1951
     language: English
     pages: 341
@@ -54641,6 +55049,8 @@ titles:
     subtitle: An Introduction Tophilosophy
     authors:
       - Karl Jaspers
+    translators:
+      - Ralph Manheim
     year: 1951
     language: English
     pages: 208
@@ -54662,6 +55072,9 @@ titles:
     subtitle: The Story of Survivors in an Atomic Wasteland
     authors:
       - Takashi Nagai
+    translators:
+      - Ichiro Shirato
+      - Herbert B. L. Silverman
     year: 1951
     language: English
     pages: 207
@@ -54956,6 +55369,8 @@ titles:
     authors:
       - George Bernard Shaw
       - Mrs. Patrick Campbell
+    editors:
+      - Alan Dent
     year: 1952
     language: English
     sources:
@@ -55094,6 +55509,8 @@ titles:
   - title: Crime in America
     authors:
       - Estes Kefauver
+    editors:
+      - Sidney Shalett
     year: 1952
     language: English
     pages: 254
@@ -55160,6 +55577,8 @@ titles:
   - title: Don Camillo and the Prodigal Son
     authors:
       - Giovannino Guareschi
+    translators:
+      - Frances Frenaye. --
     year: 1952
     language: English
     pages: 221
@@ -56418,6 +56837,7 @@ titles:
         url: https://www.sudoc.fr/017290295
     verified: true
     subtitle: With a Foreword by Lord Boyd Orr
+    original_title: Geografia da fome
     links:
       - label: Read or download (Internet Archive)
         url: https://archive.org/details/geogrphyofhunger0000josu
@@ -56556,6 +56976,7 @@ titles:
   - title: The Plotters
     authors:
       - Fritz Brügel
+    translators:
       - Anthony Dent
     year: 1952
     language: English
@@ -56997,8 +57418,11 @@ titles:
     subtitle: A Novel
     date_note: '1952-01-01'
   - title: Visa to Moscow
+    original_title: Visa pour Moscou
     authors:
       - Michel Gordey
+    translators:
+      - Katherine Woods
     year: 1952
     language: English
     pages: 419
@@ -57017,6 +57441,8 @@ titles:
   - title: Vision and Action
     authors:
       - Lev Aleksandrovich Zander
+    translators:
+      - Natalie Duddington
     year: 1952
     language: English
     pages: 224
@@ -58622,6 +59048,7 @@ titles:
   - title: The End of a Revolution, Soviet Russia-from Revolution to Reaction
     authors:
       - Fritz Sternberg
+    translators:
       - Edward Fitzgerald
     year: 1953
     language: English
@@ -58725,6 +59152,8 @@ titles:
   - title: The Hive
     authors:
       - Camilo José Cela
+    translators:
+      - J. M.
     year: 1953
     language: English
     pages: 255
@@ -58749,6 +59178,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/102638782
     verified: true
     subtitle: Translated by J.M. Cohen in Consultation with Arturo Barea. With an Introd. By Arturo Barea
+    original_title: La colmena
   - title: The House of Moreys
     subtitle: A Romance
     authors:
@@ -58799,6 +59229,8 @@ titles:
     subtitle: Journey to the Far Amazon
     authors:
       - Alain Gheerbrant
+    translators:
+      - Edward Fitzgerald
     year: 1953
     language: English
     pages: 390
@@ -59264,6 +59696,8 @@ titles:
     subtitle: A Life of My Father
     authors:
       - Alexandra Tolstoy
+    translators:
+      - Elizabeth Reynolds Hapgood
     year: 1953
     language: English
     pages: 543
@@ -59293,6 +59727,10 @@ titles:
   - title: Tragedy Is Not Enough
     authors:
       - Karl Jaspers
+    translators:
+      - Harald A. T. Reiche
+      - Harry T. Moore
+      - Karl W. Deutsch
     year: 1953
     language: English
     pages: 123
@@ -59320,8 +59758,10 @@ titles:
         url: https://openlibrary.org/books/OL18558961M
     verified: true
   - title: Visa to Moscow
+    original_title: Visa pour Moscou
     authors:
       - Michel Gordey
+    translators:
       - Katherine Woods
     year: 1953
     language: English
@@ -59841,6 +60281,8 @@ titles:
   - title: Don Camillo's Dilemma
     authors:
       - Giovannino Guareschi
+    translators:
+      - Frances Frenaye
     year: 1954
     language: English
     pages: 255
@@ -60045,6 +60487,8 @@ titles:
   - title: How to Lie with Statistics
     authors:
       - Darrell Huff
+    translators:
+      - Irving Geis
     year: 1954
     language: English
     pages: 142
@@ -60821,6 +61265,8 @@ titles:
   - title: The Comestone
     authors:
       - Z. Oldenbourg
+    translators:
+      - E. Hyam
     year: 1954
     language: English
     sources:
@@ -60840,6 +61286,8 @@ titles:
   - title: The Corner-Stone
     authors:
       - Zoé Oldenbourg
+    translators:
+      - Edward Hyams
     year: 1954
     language: English
     pages: 528
@@ -60961,6 +61409,8 @@ titles:
     subtitle: A Novel
     authors:
       - Jean Malaquais
+    translators:
+      - Herma Briffault
     year: 1954
     language: English
     pages: 319
@@ -61014,6 +61464,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1155668170
     verified: true
   - title: The Little World of Don Camillo
+    original_title: Mondo piccolo "Don Camillo
     authors:
       - Giovanni Guareschi
     year: 1954
@@ -61288,6 +61739,8 @@ titles:
   - title: The Way of the Four Winds
     authors:
       - Yrjö Kokko
+    translators:
+      - Naomi Walford
     year: 1954
     language: English
     pages: 286
@@ -61350,6 +61803,8 @@ titles:
     subtitle: A Life of My Father
     authors:
       - Alexandra Tolstoy
+    translators:
+      - Elizabeth Reynolds Hapgood
     year: 1954
     language: English
     pages: 543
@@ -61375,6 +61830,8 @@ titles:
     subtitle: My Life and Adventures
     authors:
       - Peter Freuchen
+    translators:
+      - Johan Hambro
     year: 1954
     language: English
     pages: 432
@@ -61932,6 +62389,10 @@ titles:
     subtitle: The Journal of a Japanese Physician, August 6-September 30, 1945
     authors:
       - Michihiko Hachiya
+    editors:
+      - Warner Wells
+    translators:
+      - Warner Wells
     year: 1955
     language: English
     pages: 256
@@ -61983,6 +62444,8 @@ titles:
     subtitle: To Disarm or Perish?
     authors:
       - Jules Moch
+    translators:
+      - Edward Hyams
     year: 1955
     language: English
     pages: 222
@@ -62002,6 +62465,9 @@ titles:
   - title: 'Human Folly: To Disarm of Perish?'
     authors:
       - Jules Salvador Moch
+    translators:
+      - Edward Hyams
+      - With an introd. by Albert Einstein
     year: 1955
     language: English
     pages: 222
@@ -62042,6 +62508,8 @@ titles:
     subtitle: A True Adventure in Melville Bay
     authors:
       - Peter Freuchen
+    translators:
+      - Johan Hambro
     year: 1955
     language: English
     pages: 251
@@ -62142,6 +62610,8 @@ titles:
   - title: Juliana of Norwich
     authors:
       - Julian of Norwich
+    editors:
+      - P. Franklin Chambers
     year: 1955
     language: English
     sources:
@@ -62180,6 +62650,8 @@ titles:
   - title: Last Innocence
     authors:
       - Célia Bertin
+    translators:
+      - Marjorie Deans
     year: 1955
     language: English
     pages: 288
@@ -62933,6 +63405,8 @@ titles:
     subtitle: Out of Eskimo Land
     authors:
       - Gontran de Poncins
+    translators:
+      - Bernard Frechtman
     year: 1955
     language: English
     pages: 222
@@ -62997,7 +63471,8 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb33183385c
     verified: true
   - title: The House That Nino Built
-    authors:
+    authors: []
+    translators:
       - Frances Frenaye
     year: 1955
     date_note: '1955-01-01'
@@ -63065,6 +63540,8 @@ titles:
   - title: The Meaning of the Creative Act
     authors:
       - Nikolaĭ Berdiaev
+    translators:
+      - Donald A. Lowrie
     year: 1955
     language: English
     pages: 344
@@ -63264,6 +63741,10 @@ titles:
   - title: The Private Diaries of Stendhal
     authors:
       - Stendhal
+    editors:
+      - Robert Sage
+    translators:
+      - R. Sage
     year: 1955
     language: English
     sources:
@@ -63275,6 +63756,8 @@ titles:
   - title: The Private Diaries of Stendhal(Marie-Henri Beyle)
     authors:
       - Stendhal
+    translators:
+      - Robert Sage
     year: 1955
     language: English
     pages: 570
@@ -63289,6 +63772,8 @@ titles:
   - title: The Problem of South Africa
     authors:
       - Herbert Tingsten
+    translators:
+      - Daniel Viklund
     year: 1955
     language: English
     pages: 159
@@ -63419,6 +63904,10 @@ titles:
     subtitle: Three Years with the Condemned Japanesewar Criminals
     authors:
       - Shinsho Hanayama
+    translators:
+      - Hideo Suzuki
+      - Eiichi Noda
+      - James K. Sasaki
     year: 1955
     language: English
     pages: 297
@@ -63547,6 +64036,8 @@ titles:
     subtitle: The Man and His Music
     authors:
       - Carlo Gatti
+    translators:
+      - Elisabeth Abbott
     year: 1955
     language: English
     sources:
@@ -63643,6 +64134,8 @@ titles:
     subtitle: A Novel
     authors:
       - Stefan Andres
+    translators:
+      - Cyrus Brooks
     year: 1955
     language: English
     pages: 105
@@ -63984,6 +64477,8 @@ titles:
   - title: Born Guilty
     authors:
       - Manuel Rojas
+    translators:
+      - Frank Gaynor
     year: 1956
     language: English
     pages: 314
@@ -64102,6 +64597,8 @@ titles:
   - title: Commentaries on Living from the Notebooks of J. Krishnamurti. Edited by D. Rajagopal
     authors:
       - Jiddu Krishnamurti
+    editors:
+      - D. Rajagopal
     year: 1956
     language: English
     sources:
@@ -64355,6 +64852,8 @@ titles:
   - title: Father Sets the Pace
     authors:
       - Gontran de Poncins
+    translators:
+      - Bernard Frechtman
     year: 1956
     language: English
     pages: 220
@@ -64370,6 +64869,8 @@ titles:
   - title: From Darkness to Light
     subtitle: A Confession of Faith in the Form of an Anthology
     authors: []
+    editors:
+      - Victor Gollancz
     year: 1956
     language: English
     sources:
@@ -64903,8 +65404,11 @@ titles:
     verified: true
   - title: Paris à la Mode
     subtitle: A Voyage of Discovery
+    original_title: Haute couture, terre inconnue
     authors:
       - Célia Bertin
+    translators:
+      - Marjorie Deans
     year: 1956
     language: English
     pages: 255
@@ -65297,6 +65801,8 @@ titles:
   - title: The Cross and the Sword
     authors:
       - Manuel de Jesus Galvan
+    translators:
+      - Robert Graves
     year: 1956
     language: English
     pages: 366
@@ -65445,8 +65951,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991060492849705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: The Little World of Don Camillo
+    original_title: Mondo piccolo "Don Camillo"
     authors:
       - Giovanni Guareschi
+    translators:
       - Una Vincenzo Troubridge
     year: 1956
     language: English
@@ -65467,6 +65975,8 @@ titles:
   - title: The Lost Steps
     authors:
       - Alejo Carpentier
+    translators:
+      - Harriet de Onis
     year: 1956
     language: English
     pages: 278
@@ -65821,6 +66331,8 @@ titles:
   - title: The True Cross, 1177-1192
     authors:
       - Carlo Scarfoglio
+    translators:
+      - Frances Frenaye
     year: 1956
     language: English
     pages: 330
@@ -65857,6 +66369,8 @@ titles:
   - title: Three Plays
     authors:
       - Ugo Betti
+    translators:
+      - Henry Reed
     year: 1956
     language: English
     pages: 283
@@ -66002,6 +66516,8 @@ titles:
     subtitle: Twelve Eminent Scientists and Philosophers Explain Their Various Fields to the Layman
     authors:
       - James Roy Newman
+    editors:
+      - James R. Newman
     year: 1956
     language: English
     sources:
@@ -66159,6 +66675,8 @@ titles:
     subtitle: A Novel
     authors:
       - Theo Fleischman
+    translators:
+      - Elizabeth Abbott
     year: 1957
     language: English
     pages: 207
@@ -66478,6 +66996,8 @@ titles:
   - title: Flight to Afar
     authors:
       - Alfred Andersch
+    translators:
+      - Michael Bullock
     year: 1957
     language: English
     sources:
@@ -66488,6 +67008,8 @@ titles:
     subtitle: Artists I Have Known
     authors:
       - Michel Georges-Michel
+    translators:
+      - Randolph Weaver
     year: 1957
     language: English
     pages: 282
@@ -66752,6 +67274,8 @@ titles:
     subtitle: A Biography
     authors:
       - Victor Alexandrov
+    translators:
+      - Paul Selver
     year: 1957
     language: English
     pages: 176
@@ -67234,6 +67758,8 @@ titles:
   - title: The Awakened
     authors:
       - Zoé Oldenbourg
+    translators:
+      - Edward Hyams
     year: 1957
     language: English
     sources:
@@ -67272,6 +67798,8 @@ titles:
   - title: The Christian Philosophy of St. Thomas Aquinas
     authors:
       - Étienne Gilson
+    translators:
+      - L. K. Shook
     year: 1957
     language: English
     sources:
@@ -67336,6 +67864,8 @@ titles:
     subtitle: Studies in the Poetry and Art of William Blake, Born November 28th, 1757
     authors:
       - Kathleen Raine
+    editors:
+      - Vivian de Sola Pinto
     year: 1957
     language: English
     sources:
@@ -67900,6 +68430,8 @@ titles:
   - title: The Victory of Father Karl
     authors:
       - Otto Pies
+    translators:
+      - Salvator Attanasio
     year: 1957
     language: English
     pages: 210
@@ -68494,6 +69026,7 @@ titles:
   - title: Flight to Afar
     authors:
       - Alfred Andersch
+    translators:
       - Michael Bullock
     year: 1958
     language: English
@@ -68864,6 +69397,8 @@ titles:
   - title: My Secret Diary
     authors:
       - Giovannino Guareschi
+    translators:
+      - Francis Frenaye
     year: 1958
     language: English
     sources:
@@ -69216,6 +69751,8 @@ titles:
     subtitle: An Anthology
     authors:
       - Kenneth S. Lynn
+    editors:
+      - Kenneth Schuyler Lynn
     year: 1958
     language: English
     sources:
@@ -69336,6 +69873,8 @@ titles:
   - title: The Diary of "Helena Morley"
     authors:
       - Helena Morley
+    translators:
+      - Elizabeth Bishop
     year: 1958
     language: English
     pages: 281
@@ -69851,6 +70390,7 @@ titles:
   - title: The Voyage Home
     authors:
       - Ernst Schnabel
+    translators:
       - Denver Lindley
     year: 1958
     language: English
@@ -69861,6 +70401,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991158810449705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: A Novel
+    original_title: Der sechste Gesang
   - title: The World of Henry Orient
     subtitle: A Novel
     authors:
@@ -69988,6 +70529,8 @@ titles:
     subtitle: Genius of the Baroque
     authors:
       - Marc Pincherle
+    translators:
+      - Christopher Hatch
     year: 1958
     language: English
     sources:
@@ -70794,6 +71337,8 @@ titles:
     subtitle: The Fabulous Adventures of an Antique Dealer
     authors:
       - Yvonne de Bremond d'Ars
+    translators:
+      - Barbara Lucas
     year: 1959
     language: English
     pages: 224
@@ -71570,6 +72115,8 @@ titles:
   - title: The Atlantic Book of British and American Poetry
     authors:
       - Edith Dame Sitwell
+    editors:
+      - Edith Sitwell
     year: 1959
     language: English
     sources:
@@ -71683,6 +72230,8 @@ titles:
   - title: The Chains of Love
     authors:
       - Zoė Oldenbourg
+    translators:
+      - Michael Bullock
     year: 1959
     language: English
     pages: 327
@@ -72447,6 +72996,8 @@ titles:
     subtitle: Impressions of Sicily
     authors:
       - Carlo Levi
+    translators:
+      - Angus Davidson
     year: 1959
     language: English
     pages: 212
@@ -72897,8 +73448,11 @@ titles:
         url: https://archive.org/details/crusadingforkron0000stan
   - title: Dancing in Petersburg
     subtitle: The Memoirs of Kschessinska
+    original_title: Souvenirs de la Kschessinska
     authors:
       - Matilda Feliksovna Kshesinskaia
+    translators:
+      - Arnold Haskell
     year: 1960
     language: English
     sources:
@@ -73267,6 +73821,8 @@ titles:
   - title: La Vie Anglaise
     authors:
       - Tony Mayer
+    translators:
+      - Christopher Sykes
     year: 1960
     language: English
     pages: 190
@@ -74116,6 +74672,8 @@ titles:
   - title: The Fifteen Wonders of the World
     authors:
       - René Poirier
+    translators:
+      - Margaret Crosland
     year: 1960
     language: English
     pages: 400
@@ -75638,6 +76196,8 @@ titles:
     subtitle: A Historical Novel. Translated from the French by Peter Green
     authors:
       - Zoé Oldenbourg
+    translators:
+      - Peter Green
     year: 1961
     language: English
     pages: 335
@@ -76889,6 +77449,8 @@ titles:
   - title: The Christian Philosophy of Saint Augustine
     authors:
       - Étienne Gilson
+    translators:
+      - L. E. M. Lynch
     year: 1961
     language: English
     pages: 398
@@ -76914,6 +77476,8 @@ titles:
   - title: The Christian Philosophy of St. Thomas Aquinas
     authors:
       - Étienne Gilson
+    translators:
+      - L. K. Shook
     year: 1961
     language: English
     pages: 502
@@ -77882,6 +78446,9 @@ titles:
   - title: Adventures in Healing
     authors:
       - Heinz Graupner
+    translators:
+      - Alan Huet Owen
+      - Dr. K. F. Hirsch
     year: 1962
     language: English
     pages: 224
@@ -77991,6 +78558,10 @@ titles:
     authors:
       - Takaḻi Śivaśaṅkarapiḷḷa
       - Narayana Menon
+    editors:
+      - Vatakke Kurupath Narayana Menon
+    translators:
+      - Narayana Menon. Introd. by Santha Rama Rau
     year: 1962
     series: 'UNESCO Collection of Representative Works: Indian Series'
     language: English
@@ -78184,6 +78755,8 @@ titles:
   - title: Crowds and Power
     authors:
       - Elias Canetti
+    translators:
+      - Carol Stewart
     year: 1962
     language: English
     pages: 495
@@ -78210,6 +78783,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991134830099705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Translated from the German by Carol Stewart
+    original_title: (Masse und Macht ^[engl.])
   - title: Dark Universe
     authors:
       - Daniel Francis Galouye
@@ -78316,6 +78890,8 @@ titles:
   - title: Fortunes of a Fool
     authors:
       - Aharon Megged
+    translators:
+      - Aubrey Hodes
     year: 1962
     language: English
     pages: 304
@@ -78429,6 +79005,8 @@ titles:
     subtitle: An Account of the First Gorilla Born in Europe
     authors:
       - Ernst M. Lang
+    translators:
+      - Edmund Fisher
     year: 1962
     language: English
     sources:
@@ -79210,6 +79788,8 @@ titles:
     verified: true
   - title: Spectrum... a... Science Fiction Anthology, Edited by Kingsley Amis and Robert Conquest
     authors: []
+    editors:
+      - Kingsley Amis
     year: 1962
     language: English
     sources:
@@ -79318,6 +79898,8 @@ titles:
   - title: The Antique Dealer's Tale
     authors:
       - Yvonne de Bremond D'Ars
+    translators:
+      - Barbara Lucas
     year: 1962
     language: English
     pages: 176
@@ -79817,6 +80399,8 @@ titles:
   - title: The Men at the Gate
     authors:
       - Ottiero Ottieri
+    translators:
+      - I. M. Rawson
     year: 1962
     language: English
     pages: 173
@@ -79838,6 +80422,8 @@ titles:
   - title: The New Aristocrats
     authors:
       - Michel de Saint Pierre
+    translators:
+      - Llewela Burgess
     year: 1962
     language: English
     pages: 218
@@ -80475,6 +81061,8 @@ titles:
   - title: 338171 T.E. (Lawrence of Arabia)
     authors:
       - Victoria Ocampo
+    translators:
+      - David Garnett
     year: 1963
     language: English
     pages: 128
@@ -80949,6 +81537,8 @@ titles:
     subtitle: Or the Story of Roger de Montbrun
     authors:
       - Zoé Oldenbourg
+    translators:
+      - Anne Carter
     year: 1963
     language: English
     sources:
@@ -80981,6 +81571,8 @@ titles:
     subtitle: From the Alps to Annapurna
     authors:
       - Lionel Terray
+    translators:
+      - Geoffrey Sutton
     year: 1963
     language: English
     pages: 351
@@ -81185,6 +81777,8 @@ titles:
     subtitle: A Novel. Translated by John Sturrock
     authors:
       - Alejo Carpentier
+    translators:
+      - John Sturrock
     year: 1963
     language: English
     pages: 351
@@ -81398,6 +81992,8 @@ titles:
     subtitle: A Modern Selection
     authors:
       - Samuel Johnson
+    editors:
+      - Edward Lippincott MacAdam
     year: 1963
     language: English
     sources:
@@ -81454,6 +82050,8 @@ titles:
   - title: Law Reform Now
     authors:
       - Gerald Gardiner and Andrew Martin
+    editors:
+      - Gerald Gardiner
     year: 1963
     language: English
     pages: 302
@@ -81649,6 +82247,9 @@ titles:
   - title: Nervous People and Other Satires
     authors:
       - Mikhail Zoshchenko
+    translators:
+      - Maria Gordon
+      - Hugh McLean
     year: 1963
     language: English
     pages: 450
@@ -81793,8 +82394,11 @@ titles:
         url: https://search.worldcat.org/title/2154469
     verified: true
   - title: One Day in the Life of Ivan Denisovich
+    original_title: Один день из жизни Ивана Денисовича
     authors:
       - Aleksandr Isaevich Solzhenitsyn (Александр Солженицын)
+    translators:
+      - Ralph Parker
     year: 1963
     language: English
     pages: 192
@@ -82092,6 +82696,8 @@ titles:
     subtitle: On the Track of Maya Temples
     authors:
       - Wolfgang Cordon
+    translators:
+      - Basil Creighton
     year: 1963
     language: English
     sources:
@@ -82341,6 +82947,8 @@ titles:
   - title: The Chest with a Secret
     authors:
       - Yvonne de Bremond D'Ars
+    translators:
+      - Barbara Lucas
     year: 1963
     language: English
     pages: 223
@@ -82628,6 +83236,8 @@ titles:
   - title: The Golden Plain
     authors:
       - Roger Bordier
+    translators:
+      - Doreen Weightman
     year: 1963
     language: English
     pages: 259
@@ -82982,6 +83592,8 @@ titles:
   - title: The President
     authors:
       - Miguel Ángel Asturias
+    translators:
+      - Frances Partridge
     year: 1963
     language: English
     pages: 287
@@ -83544,6 +84156,8 @@ titles:
   - title: A Long Madness
     authors:
       - Antonio Barolini
+    translators:
+      - Helen Barolini
     year: 1964
     language: English
     pages: 308
@@ -83667,6 +84281,9 @@ titles:
     subtitle: Some Pages of Reminiscence
     authors:
       - S. Marshak
+    translators:
+      - Katherine Hunter Blair
+      - Illustrated by G. Philippovsky
     year: 1964
     language: English
     pages: 208
@@ -83739,6 +84356,8 @@ titles:
   - title: Bread and Wine
     authors:
       - Ignazio Silone
+    translators:
+      - Harvey Fergusson II
     year: 1964
     language: English
     pages: 331
@@ -83919,6 +84538,8 @@ titles:
   - title: Comrade Don Camillo
     authors:
       - Giovannino Guareschi
+    translators:
+      - Frances Frenaye
     year: 1964
     language: English
     sources:
@@ -83959,8 +84580,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991001082679705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: David of Jerusalem
+    original_title: König David
     authors:
       - Louis De Wohl
+    translators:
+      - Elisabeth Abbott
     year: 1964
     language: English
     pages: 256
@@ -84306,6 +84930,8 @@ titles:
   - title: Gluck and the Opera, a Study in Musical History, by Ernest Newman
     authors:
       - Ernest Newman
+    editors:
+      - Bertram Dobell
     year: 1964
     language: English
     sources:
@@ -85452,6 +86078,9 @@ titles:
     subtitle: Edited with a Prologue and Notes by Edgar and Eleanor Johnson
     authors:
       - Charles Dickens
+    editors:
+      - Edgar Johnson
+      - Eleanor Kraus Johnson
     year: 1964
     language: English
     pages: 370
@@ -85913,6 +86542,8 @@ titles:
   - title: The Mask of Medusa
     authors:
       - Roger Caillois
+    translators:
+      - George Ordish
     year: 1964
     language: English
     pages: 127
@@ -85934,6 +86565,8 @@ titles:
   - title: The Mysterious Cha^teau
     authors:
       - Yvonne de Bremond D'Ars
+    translators:
+      - Barbara Lucas
     year: 1964
     language: English
     pages: 192
@@ -86128,6 +86761,8 @@ titles:
   - title: The School for Dictators
     authors:
       - Ignazio Silone
+    translators:
+      - William Weaver
     year: 1964
     edition: New ed
     language: English
@@ -86207,6 +86842,8 @@ titles:
     verified: true
   - title: The Spirit of Tolerance. Edited and Arranged by Katharine Moore... Foreword by Victor Gollancz
     authors: []
+    editors:
+      - Katharine Moore
     year: 1964
     language: English
     sources:
@@ -86375,8 +87012,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991001971379705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: The World of the Virtuoso
+    original_title: Le monde des virtuoses
     authors:
       - Marc Pincherle
+    translators:
+      - Lucile H. Brockway
     year: 1964
     language: English
     pages: 192
@@ -87044,6 +87684,8 @@ titles:
   - title: Emmanuel
     authors:
       - Nicole Vidal
+    translators:
+      - Eric Earnshaw Smith
     year: 1965
     language: English
     pages: 400
@@ -87804,6 +88446,8 @@ titles:
     subtitle: Consisting of the British and American Officers' Book
     authors:
       - Ali Mirdrekvandi
+    editors:
+      - C. John Hemming
     year: 1965
     language: English
     pages: 128
@@ -87824,6 +88468,8 @@ titles:
   - title: No Heaven for Gunga Din, Consisting of the British and American Officers' Book, by Ali Mirdrekvandi Gunga Din. Edited... by John Hemming... Foreword by Professor R. C. Zaehner
     authors:
       - Ali Mirdrekvandi
+    editors:
+      - John Hemming
     year: 1965
     language: English
     sources:
@@ -88097,6 +88743,8 @@ titles:
   - title: Son of Man
     authors:
       - Augusto Antonio Roa Bastos
+    translators:
+      - Rachel Caffyn
     year: 1965
     language: English
     sources:
@@ -88122,6 +88770,8 @@ titles:
   - title: Sonof Man
     authors:
       - Augusto Antonio Roa Bastos
+    translators:
+      - Rachel Caffyn
     year: 1965
     language: English
     pages: 256
@@ -88534,8 +89184,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1070693456
     verified: true
   - title: The History of the Russian Revolution
+    original_title: Istorika russkoj revoljucii
     authors:
       - Leon Trotsky
+    translators:
+      - Max Eastman
     year: 1965
     edition: Translated from the Russian by Max Eastman
     language: English
@@ -89468,6 +90121,8 @@ titles:
   - title: A Selection from His Letters, Selected, Edited and Translated by Humphrey Searle
     authors:
       - Hector Berlioz
+    translators:
+      - Humphrey Searle
     year: 1966
     language: English
     sources:
@@ -90175,6 +90830,8 @@ titles:
     subtitle: A Selection from His Letters
     authors:
       - Hector Berlioz
+    translators:
+      - Humphrey Searle
     year: 1966
     language: English
     pages: 224
@@ -90206,6 +90863,8 @@ titles:
   - title: Hector Berlioz. A Selection from His Letters. Selected, Edited and Translated by Humphrey Searle
     authors:
       - Hector Berlioz
+    translators:
+      - Humphrey Searle
     year: 1966
     language: English
     sources:
@@ -90713,6 +91372,8 @@ titles:
   - title: Paris Journal, 1944-1965
     authors:
       - Janet Flanner
+    editors:
+      - William Shawn
     year: 1966
     language: English
     pages: 615
@@ -91114,7 +91775,8 @@ titles:
     pages: 320
   - title: Tales from the Long Lakes
     subtitle: Finnish Legends from the Kalevala
-    authors:
+    authors: []
+    translators:
       - Keith Bosley
     year: 1966
     language: English
@@ -91881,6 +92543,9 @@ titles:
   - title: The Lost Letters of Jenny Lind
     authors:
       - Jenny Lind
+    translators:
+      - W. Porter Ware
+      - Thaddeus C. Lockard
     year: 1966
     language: English
     pages: 159
@@ -92046,6 +92711,8 @@ titles:
     subtitle: A Collection of English Nature Writings
     authors:
       - E. D. H. Johnson
+    editors:
+      - Edward D. H. Johnson
     year: 1966
     language: English
     pages: 424
@@ -92075,6 +92742,8 @@ titles:
     verified: true
   - title: The Poetry of Earth, a Collection of English Nature Writings. Selected... by E. D. H. Johnson
     authors: []
+    editors:
+      - Edward Dudley Hume Johnson
     year: 1966
     language: English
     sources:
@@ -92602,6 +93271,8 @@ titles:
     subtitle: Betrothed, &, Edo and Enam
     authors:
       - Shmuel Yosef Agnon
+    translators:
+      - Walter Lever
     year: 1966
     language: English
     pages: 239
@@ -92711,6 +93382,8 @@ titles:
         url: https://archive.org/details/wecameaschildren0000kedg
   - title: We Came as Children, a Collective Autobiography. Edited by Karen Gershon
     authors: []
+    editors:
+      - Karen Gershon
     year: 1966
     language: English
     sources:
@@ -93055,6 +93728,8 @@ titles:
   - title: An Intelligent Person's Guide to the Religions of Mankind
     authors:
       - Hans Joachim Schoeps
+    translators:
+      - Clara Winston
     year: 1967
     language: English
     pages: 320
@@ -93102,6 +93777,8 @@ titles:
   - title: At Grips with Jannu
     authors:
       - Jean Franco
+    translators:
+      - Hugh Merrick
     year: 1967
     language: English
     pages: 192
@@ -93383,6 +94060,8 @@ titles:
     subtitle: Second Series, from the Notebooks of J. Krishnamurti
     authors:
       - Jiddu Krishnamurti
+    editors:
+      - D. Rajagopal
     year: 1967
     language: English
     pages: 242
@@ -93459,6 +94138,8 @@ titles:
   - title: Confronting Injustice
     authors:
       - Edmond Nathaniel Cahn
+    editors:
+      - Lenore L. Cahn
     year: 1967
     language: English
     pages: 428
@@ -93753,8 +94434,11 @@ titles:
     verified: true
   - title: Evolution and Christian Hope
     subtitle: Man's Concept of the Future from the Early Fathers to Teilhard de Chardin
+    original_title: Schöpfungsglaube und Endzeiterwartung
     authors:
       - Ernst Benz
+    translators:
+      - Heinz G. Frank
     year: 1967
     language: English
     pages: 270
@@ -93889,6 +94573,7 @@ titles:
     subtitle: The Story of Archaeology
     authors:
       - C. W. Ceram
+    translators:
       - Sophie Wilkins
       - Edward Ballard Garside
     year: 1967
@@ -93951,6 +94636,8 @@ titles:
   - title: In the Heart of the Seas
     authors:
       - Shmuel Yosef Agnon
+    translators:
+      - Drawings by T. Herzl Rome
     year: 1967
     language: English
     pages: 128
@@ -94751,6 +95438,8 @@ titles:
   - title: Spaniard and the Seven Deadly Sins
     authors:
       - Fernando Díaz-Plaja
+    translators:
+      - J. I. Palmer
     year: 1967
     language: English
     isbn: '0575000287'
@@ -95199,6 +95888,8 @@ titles:
   - title: The Enlarged Devil's Dictionary
     authors:
       - Ambrose Bierce
+    editors:
+      - Ernest Jerome Hopkins
     year: 1967
     language: English
     pages: 300
@@ -95529,6 +96220,8 @@ titles:
   - title: The Kingdom of This World
     authors:
       - Alejo Carpentier
+    translators:
+      - Harriet de Onís
     year: 1967
     language: English
     pages: 150
@@ -95566,6 +96259,8 @@ titles:
   - title: The Kingdom Ofthis World
     authors:
       - Alejo Carpentier
+    translators:
+      - Harriet de Onis
     year: 1967
     language: English
     pages: 150
@@ -95765,6 +96460,8 @@ titles:
   - title: The President
     authors:
       - Miguel Ángel Asturias
+    translators:
+      - Frances Partridge
     year: 1967
     language: English
     pages: 286
@@ -96861,6 +97558,8 @@ titles:
     subtitle: Or, How Girls Grow Wise
     authors:
       - Colette
+    translators:
+      - Jane Terry
     language: English
     sources:
       - title: Open Library edition OL22830873M

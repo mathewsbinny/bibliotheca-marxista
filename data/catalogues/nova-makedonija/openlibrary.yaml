@@ -402,6 +402,8 @@ titles:
     subtitle: Intervjui, statii, govori
     authors:
       - Krste Crvenkovski
+    editors:
+      - Tošo Popovski
     year: 1966
     series: Sovremena biblioteka
     language: Macedonian
@@ -429,6 +431,8 @@ titles:
   - title: Macedonia
     authors:
       - Jovan Popovski
+    translators:
+      - Vladimir Popovac
     year: 1967
     language: English
     pages: 68
@@ -519,6 +523,8 @@ titles:
   - title: Skopje
     authors:
       - Jovan Popovski
+    translators:
+      - Olga Đurdević-Đukić
     year: 1967
     language: English, Serbian
     pages: 72
@@ -589,6 +595,8 @@ titles:
     subtitle: Lili i našata sloboda
     authors:
       - Ali Podrimja
+    translators:
+      - Vidoe Podgorec
     year: 1968
     series: Biblioteka Gëzimi
     language: Albanian, Macedonian
@@ -1450,8 +1458,14 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1158383029
     verified: true
   - title: Poèmes
+    original_title: Poèmes
     authors:
       - Léopold Sédar Senghor
+    editors:
+      - Branko Zarevski
+    translators:
+      - Aco Šopov
+      - Ǵorǵi Stalev
     year: 1975
     language: French, Macedonian
     sources:

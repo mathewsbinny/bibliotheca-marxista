@@ -16,6 +16,8 @@ titles:
     verified: true
   - title: Bʺlgarski narodni pesni, lirika i epos, izbral i podredil Genčo Keremidčiev
     authors: []
+    editors:
+      - Genčo Keremidčiev
     year: 1948
     language: Bulgarian
     sources:
@@ -36,6 +38,8 @@ titles:
     authors:
       - Dimitʺr Georgiev Hadžiliev
       - Veselina Genovska-Gečeva
+    editors:
+      - Dimitʺr Gundov
     year: 1948
     language: Bulgarian
     sources:
@@ -92,6 +96,8 @@ titles:
     subtitle: Poemi
     authors:
       - Ivan Vazov
+    editors:
+      - Cvetan Minkov
     year: 1948
     language: Bulgarian
     sources:
@@ -130,6 +136,7 @@ titles:
     authors:
       - Lûdmil Stoânov
       - Liudmil Stoianov (Людмил Стоянов)
+    translators:
       - D. B. Mitov
       - D. B. Mitov (Д.Б. Митов)
     year: 1948
@@ -804,6 +811,9 @@ titles:
   - title: Asen Razcvetnikov Izbrani stihotvoreniâ, pod redakciâta na Kamen Zidarov i Angel Karalijčev. Predgovor ot Kamen Zidarov
     authors:
       - Asen Razcvetnikov
+    editors:
+      - Angel Ivanov Karaliitchev
+      - Kamen Zidarov
     year: 1952
     language: Bulgarian
     sources:
@@ -1302,6 +1312,10 @@ titles:
     verified: true
   - title: Deset godini beletristika, 1944-1954. Podbor i redakciâ Ivan Ruž, Kamen Kalčev, Svetoslav Minkov
     authors: []
+    editors:
+      - Kamen Kaltchev
+      - Ivan Ruž
+      - Svetoslav Konstantinov Minkov
     year: 1954
     language: Bulgarian
     sources:
@@ -1310,6 +1324,9 @@ titles:
     verified: true
   - title: Deset godini poeziâ, 1944-1954. Podbor i redakciâ Mladen Isaev, Valeri Petrov, Emil Petrov
     authors: []
+    editors:
+      - Emil Petrov
+      - Mladen Mladenov Isaev
     year: 1954
     language: Bulgarian
     sources:
@@ -1330,6 +1347,9 @@ titles:
   - title: 'Emanuil Popdimitrov Izbrani proizvedeniâ, stihove i poemi. Otbor i redakciâ: Georgi Veselinov i Vasil Aleksandrov'
     authors:
       - Emanuil Popdimitrov
+    editors:
+      - Georgi Veselinov
+      - Vasil Aleksandrov
     year: 1954
     language: Bulgarian
     sources:
@@ -1359,6 +1379,11 @@ titles:
     authors:
       - Petko Račov Slavejkov
       - Petko Rachov Slaveikov (Петко Рачов Славейков)
+    editors:
+      - Georgi Veselinov
+      - Georgi Veselinov (Георги Веселинов)
+      - Vasil Aleksandrov
+      - Vasil Aleksandrov (Васил Александров)
     year: 1954
     language: Bulgarian
     sources:
@@ -1424,6 +1449,8 @@ titles:
   - title: Lûben Karavelov. Izbrani proizvedeni â v 3 toma, pod redakciâta na Aleksandʺr Burmov, Stojko Božkov, Cvetan Minkov
     authors:
       - Lûben Karavelov
+    editors:
+      - Pantéleï Iordanov Zarev
     year: 1954
     language: Bulgarian
     sources:
@@ -1433,6 +1460,8 @@ titles:
   - title: Lûben Karavelov. Izbrani proizvedeniâ v 3 toma, pod redakciâta na Aleksandʺr Burmov, Stojko Božkov, Cvetan Minkov
     authors:
       - Lûben Karavelov
+    editors:
+      - Cvetan Minkov
     year: 1954
     language: Bulgarian
     sources:
@@ -1446,6 +1475,8 @@ titles:
   - title: Lûben Karavelov. Izbrani proizvedeniâ v Z toma, pod redakciâta na Aleksandʺr Burmov, Stojko Božkov, Cvetan Minkov
     authors:
       - Lûben Karavelov
+    editors:
+      - Stojko Božkov
     year: 1954
     language: Bulgarian
     sources:
@@ -1652,6 +1683,8 @@ titles:
   - title: 'Ivan Vazov. Sʺbrani sʺčineniâ v 20 toma, redakcionna kolegiâ: Petʺr Dinekov, Pantelej Zarev, Georgi Konstantinov, Emil Stefanov, Georgi Canev'
     authors:
       - Ivan Vazov
+    editors:
+      - Veličko Vʺlčev
     year: 1955
     language: Bulgarian
     sources:
@@ -1668,6 +1701,11 @@ titles:
     authors:
       - Lûben Karavelov
       - Liuben Karavelov (Любен Каравелов)
+    editors:
+      - Angel Todorov
+      - Angel Todorov (Ангел Тодоров)
+      - Veselin. T. Izmirliev
+      - Veselin. T. Izmirliev (Веселин. Т. Измирлиев)
     year: 1955
     language: Bulgarian
     sources:
@@ -1734,6 +1772,11 @@ titles:
     authors:
       - D. Čintulov
       - D. Chintulov (Д. Чинтулов)
+    editors:
+      - Dimitʺr Panteleev
+      - Dimitr Panteleev (Димитър Пантелеев)
+      - Petʺr Dinekov
+      - Petr Nikolov Dinekov (Петър Николов Динеков)
     year: 1955
     language: Bulgarian
     sources:
@@ -1850,6 +1893,9 @@ titles:
   - title: N. V. Rakitin. Izbrani stihotvoreniâ pod redakciâta na Dimitʺr Panteleev i Petʺr Dinekov
     authors:
       - Nikola Vasilev Rakitine
+    editors:
+      - Dimitʺr Panteleev
+      - Pètre Dinékov
     year: 1955
     language: Bulgarian
     sources:
@@ -1869,6 +1915,8 @@ titles:
   - title: Paisij hilendarski. Slavânobʺlgarska istoriâ. Pod redakciâta na Petʺr Dinekov
     authors:
       - Stoân Bahanov Paisij
+    editors:
+      - Pètre Dinékov
     year: 1955
     language: Bulgarian
     sources:
@@ -1940,6 +1988,8 @@ titles:
   - title: Slavânobʺlgarska istoriâ
     authors:
       - Paisi de Chilandar
+    editors:
+      - Pètre Dinékov
     year: 1955
     language: Bulgarian
     sources:
@@ -2215,6 +2265,9 @@ titles:
     authors:
       - Petko Račov Slavejkov
       - Petko Rachov Slaveikov (Петко Рачов Славейков)
+    editors:
+      - Ivan Sestrimski
+      - Ivan Sestrimski (Иван Сестримски)
     year: 1956
     language: Bulgarian
     sources:
@@ -2280,6 +2333,8 @@ titles:
   - title: Jordan Jovkov Sʺbrani sʺčineniâ v 7 toma. Redakcionna kolegiâ Angel Karalijčev, Andrej Gulâški, Elena Jovkova, Iliâ Volen, Simeon Sultanov
     authors:
       - Yordan Yovkov
+    editors:
+      - Angel Ivanov Karaliitchev
     year: 1956
     language: Bulgarian
     sources:
@@ -2770,6 +2825,10 @@ titles:
     verified: true
   - title: Bʺlgarska dramaturgiâ, sbornik... Pod redakciâta na Kamen Zidarov, Slavčo Vasev i Penčo Dančev
     authors: []
+    editors:
+      - Kamen Zidarov
+      - Pentcho Dantchev
+      - Slavtcho Vasev
     year: 1957
     language: Bulgarian
     sources:
@@ -2780,6 +2839,8 @@ titles:
     verified: true
   - title: Bʺlgarska dramaturgiâ, sbornik... Pod redakciâta na Kamen Zmdarov, Slavčo Vasev i Penčo Dančev
     authors: []
+    editors:
+      - Pentcho Dantchev
     year: 1957
     language: Bulgarian
     sources:
@@ -2981,6 +3042,8 @@ titles:
   - title: Jordan Jovkov Sʺbrani sʺčineniâ v 7 toma. Redakcionna kolegiâ Angel Karalijčev, Andrej Gulâški, Elka Jovkova, Iliâ Volen, Simeon Sultanov
     authors:
       - Yordan Yovkov
+    editors:
+      - Ilia Volène
     year: 1957
     language: Bulgarian
     sources:
@@ -2990,6 +3053,8 @@ titles:
   - title: Jordan Jovkov. Sʺbrani sʺčinennâ v 7 toma. Redakcionna kolegiâ Angel Karalijčev, Andrej Gulâški, Elena Jovkova, Iliâ Volen, Simeon Sultanov
     authors:
       - Yordan Yovkov
+    editors:
+      - Andrej Gulâški
     year: 1957
     language: Bulgarian
     sources:
@@ -3040,6 +3105,10 @@ titles:
   - title: P. Û. Todorov. Sʺbrani proizvedeniâ v 3 toma. Redakcionna kolegiâ Nikola Furnadžiev, Nikolaj Ânkov, Lûben Georgiev
     authors:
       - Petko Ûordanov Todorov
+    editors:
+      - Lûben Georiev
+      - Nikola Furnadžiev
+      - Nikolaj Ânkov
     year: 1957
     language: Bulgarian
     sources:
@@ -3114,6 +3183,8 @@ titles:
     authors:
       - Petʺr Neznakomov
       - Spas Jončev
+    editors:
+      - Pseud. Čelkaš Čavdarov dimitʺr
     year: 1957
     language: Bulgarian
     sources:
@@ -3358,6 +3429,9 @@ titles:
   - title: Elin Pelin. Sʺbrani sʺčineniâ v 10 toma. Pod redakciâta na T. Borov, Kr. Genov, P. Rusev
     authors:
       - Dimitʺr Ivanov Elin Pelin
+    editors:
+      - Todor Borov
+      - Penʹo Rusev
     year: 1958
     language: Bulgarian
     sources:
@@ -3373,6 +3447,8 @@ titles:
   - title: Elin Pelin. Sʺbrani sʺčineniâ v ÌO toma. Pod redakciâta na T. Borov, Kr. Genov, P. Rusev
     authors:
       - Dimitʺr Ivanov Elin Pelin
+    editors:
+      - Penʹo Rusev
     year: 1958
     language: Bulgarian
     sources:
@@ -3411,6 +3487,8 @@ titles:
   - title: Hristo Botev. Sʺbrani sʺčineniâ v 2 toma, pod redakciâta na... Mihail Dimitrov
     authors:
       - Christo Botev
+    editors:
+      - Mihail Dimitrov
     year: 1958
     language: Bulgarian
     sources:
@@ -3635,6 +3713,8 @@ titles:
   - title: P. Û. Todorov. Sʺbrani proizvedeniâ v 3 toma. Redakcionna kolegiâ Nikola Furnadžiev, Nikolaj Ânkov, Lûben Georgiev
     authors:
       - Petko Ûordanov Todorov
+    editors:
+      - Lûben Georiev
     year: 1958
     language: Bulgarian
     sources:
@@ -3653,6 +3733,8 @@ titles:
   - title: Penčo Slavejkov. Sʺbrani sʺčineniâ v 8 toma. Redakcionna kolegiâ Boris Delčev, Petʺr Dinekov, Dimitʺr Osinin, Angel Todorov
     authors:
       - Penčo Slavejkov
+    editors:
+      - Dimitʺr Osinin
     year: 1958
     language: Bulgarian
     sources:
@@ -3704,6 +3786,8 @@ titles:
     authors:
       - Hristo Botev
       - Khristo Botev (Христо Ботев)
+    editors:
+      - Hristo Vasilev Radevski
     year: 1958
     language: Bulgarian
     sources:
@@ -3895,6 +3979,8 @@ titles:
     verified: true
   - title: Vʺprosi na bʺlgarskata literatura, sbornik statii. Sʺstavil i redaktor Emil Petrov
     authors: []
+    editors:
+      - Emil Petrov
     year: 1958
     language: Bulgarian
     sources:
@@ -3966,6 +4052,8 @@ titles:
   - title: Asen Zlatarov. Literaturno-obŝestveni statii, redakciâ, predgovor i beležki Georgi Boršukov
     authors:
       - Asen Zlataroff
+    editors:
+      - Georgi Boršukov
     year: 1959
     language: Bulgarian
     sources:
@@ -4081,6 +4169,9 @@ titles:
   - title: Elin Pelin. Sʺbrani sʺčineniâ v 10 toma. Pod redakciâta na T. Borov, Kr. Genov, P. Rusev
     authors:
       - Dimitʺr Ivanov Elin Pelin
+    editors:
+      - Todor Borov
+      - Penʹo Rusev
     year: 1959
     language: Bulgarian
     sources:
@@ -4339,6 +4430,8 @@ titles:
   - title: Penčo Slavejkov. Sʺbrani sʺčineniâ v 8 toma. Redakcionna kolegiâ Boris Delčev, Petʺr Dinekov, Dimitʺr Osinin, Angel Todorov
     authors:
       - Penčo Slavejkov
+    editors:
+      - Boris Delčev
     year: 1959
     language: Bulgarian
     sources:
@@ -4371,6 +4464,10 @@ titles:
     verified: true
   - title: Petnadeset 15 godini bʺlgarska poeziâ. Redakcionna kolegiâ Elisaveta Bagrâna, Lamar, Emil Petrov, Nikola furnadžiev
     authors: []
+    editors:
+      - Lalû Marinov Lamar
+      - Emil Petrov
+      - Elisaveta Bagrâna
     year: 1959
     language: Bulgarian
     sources:
@@ -4730,6 +4827,10 @@ titles:
   - title: Dimitʺr Polânov. Sʺbrani sʺčineniâ v 6 toma
     authors:
       - Dimit″r Polânov
+    editors:
+      - Dimitʺr Osinin
+      - Nikola Lankov
+      - Nikola Lenkov
     year: 1960
     language: Bulgarian
     sources:
@@ -4833,6 +4934,8 @@ titles:
   - title: Izbrani stihotvoreniâ
     authors:
       - Dobri Petrov Čintulov
+    editors:
+      - Nikola Tabakov
     year: 1960
     language: Bulgarian
     sources:
@@ -4872,6 +4975,10 @@ titles:
   - title: Lenin
     subtitle: Stihove, razkazi i očerci ot bʺlgarski pisateli
     authors: []
+    editors:
+      - Stoân Karolev
+      - Mladen Mladenov Isaev
+      - Krum Grigorov
     year: 1960
     language: Bulgarian
     sources:
@@ -5093,6 +5200,9 @@ titles:
     subtitle: V 6 toma
     authors:
       - Dimit″r Polânov
+    editors:
+      - Pantéleï Iordanov Zarev
+      - Angel Todorov
     year: 1960
     language: Bulgarian
     sources:
@@ -5357,6 +5467,7 @@ titles:
     authors:
       - Dmitrij Fedorovič Markov
       - D. F. Markov (Д. Ф. Марков)
+    translators:
       - Milka Spasova
       - Milka Spasova (Милка Спасова)
     year: 1961
@@ -5421,6 +5532,11 @@ titles:
     verified: true
   - title: 'Bʺlgarsko narodno tvorčestvo v dvakadeset toma. Redakcionna kolegiâ: ... M. Arnaudov, Iv. Burin, Hr. Vakarelski,... P. Dinekov, D. Osinin'
     authors: []
+    editors:
+      - Ivan Burin
+      - Hristo Vakarelski
+      - Elena Ognânova
+      - Anastas Primovski
     year: 1961
     language: Bulgarian
     sources:
@@ -5449,6 +5565,8 @@ titles:
     verified: true
   - title: 'Bʺlgarsko narodno tvorčestvo v dvanadeset toma. Redakcionna kolegiâ: ... M. Arnaudov, Iv. Burin, Hr. Vakarelski,... P. Dinekov, D. Osinin'
     authors: []
+    editors:
+      - Pètre Dinékov
     year: 1961
     language: Bulgarian
     sources:
@@ -5601,6 +5719,8 @@ titles:
   - title: Dimitʺr Polânov. Sʺbrani sʺčineniâ v 6 toma
     authors:
       - Dimit″r Polânov
+    editors:
+      - Dimitʺr Osinin
     year: 1961
     language: Bulgarian
     sources:
@@ -5651,6 +5771,8 @@ titles:
   - title: G. P. Stamatov. Sʺčineniâ v 2 toma. Redakcionna kolegiâ Svetoslav Minkov, Nikolaj Ânkov,…
     authors:
       - Georgi Porfiriev Stamatov
+    editors:
+      - Svetoslav Konstantinov Minkov
     year: 1961
     language: Bulgarian
     sources:
@@ -5914,6 +6036,10 @@ titles:
   - title: Mihalaki Georgiev. Sʺčineniâ v 2 toma. Pod redakciâta na Simeon Sultanov, Ivan Sestrimski, B. M. Georgiev,…
     authors:
       - Mihalaki Georgiev
+    editors:
+      - Simeon Sultanov
+      - Ivan Sestrimski
+      - Boris Mihadlov Georgpev
     year: 1961
     language: Bulgarian
     sources:
@@ -6098,6 +6224,8 @@ titles:
     subtitle: V 6 toma
     authors:
       - Dimit″r Polânov
+    editors:
+      - Angel Todorov
     year: 1961
     language: Bulgarian
     sources:
@@ -6111,6 +6239,10 @@ titles:
   - title: Sʺčineniâ
     authors:
       - Mihalaki Georgiev
+    editors:
+      - Boris Mihajlov Georgiev
+      - Ivan Sestrimski
+      - Simeon Sultanov
     year: 1961
     language: Bulgarian
     sources:
@@ -6293,6 +6425,8 @@ titles:
   - title: Anton Strašimirov. Sʺčineniâ v 7 toma. Pod redakciâta na D. B. Mitov, Želʹo Avdžiev, Iliâ Volen, Minko Nikolov i Penčo Penev
     authors:
       - Anton Strachimirov
+    editors:
+      - Penčo Penev
     year: 1962
     language: Bulgarian
     sources:
@@ -6304,6 +6438,8 @@ titles:
   - title: Anton Strašimirov. Sʺčineniâ v 7 toma. Pod redakciâta na D. B. Mitov, Želʹo Avdžiev, Iliâ Volen, Minko Nikolov i Pepčo Penev
     authors:
       - Anton Strachimirov
+    editors:
+      - Dimitʺr Boris Mitov
     year: 1962
     language: Bulgarian
     sources:
@@ -6315,6 +6451,8 @@ titles:
   - title: Anton Strašimirov. Sʺčineniâ v 7 toma. Pod redakciâta na D. B. Mitov, Želû Avdžiev, Iliâ Volen. Minko Nikolov i Penčo Penev
     authors:
       - Anton Strachimirov
+    editors:
+      - Ilia Volène
     year: 1962
     language: Bulgarian
     sources:
@@ -6328,6 +6466,8 @@ titles:
   - title: Asen Razcvetnikov. Sgovorna družina, izbrani proizvedeniâ za deca Pod redakciâta na Georgi Veselinov
     authors:
       - Asen Razcvetnikov
+    editors:
+      - Georgi Veselinov
     year: 1962
     language: Bulgarian
     sources:
@@ -6373,6 +6513,8 @@ titles:
     verified: true
   - title: 'Bʺlgarsko narodno tvorčestvo v dvanadeset toma. Redakcionna kolegiâ: ... M. Arnaudov, Iv. Burin, Hr. Vakarelski,... P. Dinekov, D. Osinin'
     authors: []
+    editors:
+      - Anastas Primovski
     year: 1962
     language: Bulgarian
     sources:
@@ -6505,6 +6647,8 @@ titles:
   - title: Izbrani proizvedeniâ
     authors:
       - Svetoslav Konstantinov Minkov
+    editors:
+      - Simeon Sultanov
     year: 1962
     language: Bulgarian
     sources:
@@ -7080,6 +7224,8 @@ titles:
   - title: Svetoslav Minkov Izbrani proizvedeniâ v dva toma, pod redakciâta na Simeon Sultanov
     authors:
       - Svetoslav Konstantinov Minkov
+    editors:
+      - Simeon Sultanov
     year: 1962
     language: Bulgarian
     sources:
@@ -7242,6 +7388,8 @@ titles:
   - title: Anton Strašimirov. Sʺčineniâ v 7 toma. Pod redakciâta na D. B. Mitov, Želʹo Avdžiev, Iliâ Volen, Minko Nikolov i Penčo Penev
     authors:
       - Anton Strachimirov
+    editors:
+      - Penčo Penev
     year: 1963
     language: Bulgarian
     sources:
@@ -7253,6 +7401,8 @@ titles:
   - title: Anton Strašimirov. Sʺčineniâ v 7 toma. Pod redakciâta na D. B. Mitov, Želʹo Avdžiev, Iliâ Volen, Minko Nikolov i Pepčo Penev
     authors:
       - Anton Strachimirov
+    editors:
+      - Dimitʺr Boris Mitov
     year: 1963
     language: Bulgarian
     sources:
@@ -8316,6 +8466,9 @@ titles:
     authors:
       - Todor G. Vlajkov
       - Todor G. Vlaikov (Тодор Г. Влайков)
+    editors:
+      - Ivan Sestrimski
+      - Ivan Sestrimski (Иван Сестримски)
     year: 1963
     language: Bulgarian
     sources:
@@ -8395,6 +8548,9 @@ titles:
     authors:
       - Paisij Hilendarski
       - Paisii Khilendarski (Паисий Хилендарски)
+    editors:
+      - Petʺr Dinekov
+      - Petr Dinekov (Петър Динеков)
     year: 1963
     language: Bulgarian
     sources:
@@ -8482,6 +8638,10 @@ titles:
   - title: St. Mihajlovski, Al. Konstantinov, G. P. Stamatov v spomenite na sʺvremennicite si
     subtitle: Sbornik
     authors: []
+    editors:
+      - Ivan Bogdanov
+      - Angel Todorov
+      - Nikolaj Ânkov
     year: 1963
     language: Bulgarian
     sources:
@@ -8586,6 +8746,8 @@ titles:
   - title: T. G. Vlajkov. Sʺčineniâ v 8 toma
     authors:
       - Todor Genčov Vlajkov
+    editors:
+      - Ivan Sestrimski
     year: 1963
     language: Bulgarian
     sources:
@@ -9098,6 +9260,8 @@ titles:
   - title: Izbrani pʺtepisi, fejletoni, razkazi i očerci
     authors:
       - Aleko Konstantinov
+    editors:
+      - Georgi Veselinov
     year: 1964
     language: Bulgarian
     sources:
@@ -9123,6 +9287,11 @@ titles:
     authors:
       - Haralan Rusev
       - Kharalan Rusev (Харалан Русев)
+    editors:
+      - Patʹo Patev
+      - Pato Patev (Патьо Патев)
+      - Petʺr Dilovski
+      - Petr Dilovski (Петър Диловски)
     year: 1964
     language: Bulgarian
     sources:
@@ -9505,6 +9674,8 @@ titles:
   - title: Sʺčineniâ
     authors:
       - Nikolaj Liliev
+    editors:
+      - Georgi Konstantinov
     year: 1964
     language: Bulgarian
     sources:
@@ -9576,6 +9747,9 @@ titles:
   - title: Sergej Rumâncev. Izbrani proizvedeniâ. Redakciâ i beležki Patʹo Patev i Petʺr Dilovski. 'Majstor na lûtata političeska satira', predgovor ot Ivan Burin
     authors:
       - Dimitʺr Dilovski Rumâncev
+    editors:
+      - Patʹo Patev
+      - Petʺr Dilovski
     year: 1964
     language: Bulgarian
     sources:
@@ -9667,6 +9841,8 @@ titles:
   - title: T. G. Vlajkov. Sʺčineniâ v 8 toma,…
     authors:
       - Todor Genčov Vlajkov
+    editors:
+      - Tihomir Tihov
     year: 1964
     language: Bulgarian
     sources:
@@ -10733,6 +10909,8 @@ titles:
   - title: Bʺlgarski narodni prikazki
     subtitle: Poslovici, pogovorki, gatanki
     authors: []
+    editors:
+      - Elena Ognânova
     year: 1966
     language: Bulgarian
     sources:
@@ -10974,6 +11152,8 @@ titles:
   - title: Ivan Vazov v spomenite na suvremennitsite si
     authors:
       - Georgi Khristov Dimov
+    editors:
+      - Khristo Ĭordanov
     year: 1966
     series: Biblioteka "Literaturni memoari"
     language: Bulgarian
@@ -10998,6 +11178,8 @@ titles:
     authors:
       - Čudomir
       - Chudomir (Чудомир)
+    editors:
+      - Stefan pop Vasilev
     year: 1966
     language: Bulgarian
     sources:
@@ -11024,6 +11206,8 @@ titles:
   - title: Izbrani razkazi
     authors:
       - Ivan Vazov
+    editors:
+      - Pètre Dinékov
     year: 1966
     language: Bulgarian
     sources:
@@ -11044,6 +11228,9 @@ titles:
     authors:
       - Nikola J̌onkov Vapcarov
       - Nikola Јonkov Vaptsarov (Никола Јонков Вапцаров)
+    editors:
+      - Ivan Sestrimski
+      - Ivan Sestrimski (Иван Сестримски)
     year: 1966
     language: Bulgarian
     sources:
@@ -11078,6 +11265,8 @@ titles:
   - title: Kʺrvava pesen
     authors:
       - Penčo Slavejkov
+    editors:
+      - Angel Todorov
     year: 1966
     language: Bulgarian
     sources:
@@ -11755,6 +11944,10 @@ titles:
   - title: Sʺbrani sʺčineniâ
     authors:
       - Dimitʺr Todorov Dimov
+    editors:
+      - Emilian Stanév
+      - Bogomil Nonev
+      - Âko Molhov
     year: 1966
     language: Bulgarian
     sources:
@@ -11903,6 +12096,8 @@ titles:
     authors:
       - Petʺr Dinekov
       - Petr Dinekov (Петър Динеков)
+    editors:
+      - Pètre Dinékov
     year: 1966
     language: Bulgarian
     sources:
@@ -11948,6 +12143,9 @@ titles:
     authors:
       - Veselin Khantchev
       - Veselin Khanchev (Веселин Ханчев)
+    editors:
+      - Ivan Burin
+      - Ivan Burin (Иван Бурин)
     year: 1966
     language: Bulgarian
     sources:
@@ -12294,6 +12492,8 @@ titles:
     verified: true
   - title: Biblioteka Literaturni memoari
     authors: []
+    editors:
+      - Simeon Sultanov
     year: 1967
     language: Bulgarian
     sources:
@@ -12404,6 +12604,10 @@ titles:
   - title: Debelânov. Dimčo Debelânov, Nikolaj Liliev, Georgi Rajčev v spomenite na sʺvremennicite si
     subtitle: Sbornik
     authors: []
+    editors:
+      - Georgi Gogov Konstantinov
+      - Simeon Sultanov
+      - Nadežda Tihova
     year: 1967
     language: Bulgarian
     sources:
@@ -12499,6 +12703,8 @@ titles:
     authors:
       - Svetoslav Minkov
       - Svetoslav Minkov (Светослав Минков)
+    editors:
+      - Simeon Sultanov
     year: 1967
     language: Bulgarian
     sources:
@@ -12876,6 +13082,8 @@ titles:
     subtitle: 1902 g
     authors:
       - Hristo Silânov
+    editors:
+      - Ivan Burin
     year: 1967
     language: Bulgarian
     sources:
@@ -12917,6 +13125,8 @@ titles:
   - title: Poemi
     authors:
       - Valeri Petrov
+    editors:
+      - Pentcho Dantchev
     year: 1967
     language: Bulgarian
     sources:
@@ -13017,6 +13227,9 @@ titles:
   - title: Sʺčineniâ
     authors:
       - Kliment Tʺrnovski
+    editors:
+      - Dočo Lekov
+      - Ivan Sestrimski
     year: 1967
     language: Bulgarian
     sources:
@@ -13471,6 +13684,8 @@ titles:
     verified: true
   - title: Geroât v sʺvremennata bʺlgarska beletristika
     authors: []
+    editors:
+      - Todor Ânčev
     year: 1968
     language: Bulgarian
     sources:
@@ -13558,6 +13773,8 @@ titles:
     authors:
       - Strašimir Krinčev
       - Strashimir Krinchev (Страшимир Кринчев)
+    editors:
+      - Georgi Canev
     year: 1968
     language: Bulgarian
     sources:
@@ -13633,6 +13850,9 @@ titles:
     authors:
       - Lamar
       - Lamar (Ламар)
+    editors:
+      - Hristo Radevski
+      - Khristo Radevski (Христо Радевски)
     year: 1968
     language: Bulgarian
     sources:
@@ -13795,6 +14015,8 @@ titles:
     authors:
       - Mihail Arnaudov
       - Mikhail Arnaudov (Михаил Арнаудов)
+    editors:
+      - Elena Ognânova
     year: 1968
     language: Bulgarian
     sources:
@@ -13999,6 +14221,9 @@ titles:
     authors:
       - Jordan Jovkov
       - Iordan Iovkov (Йордан Йовков)
+    editors:
+      - Simeon Sultanov
+      - Simeon Sultanov (Симеон Султанов)
     year: 1968
     language: Bulgarian
     sources:
@@ -14016,6 +14241,8 @@ titles:
   - title: Sʺčineniâ
     authors:
       - Neofit Bozveli
+    editors:
+      - Stefana Stefanova Tarinska
     year: 1968
     language: Bulgarian
     sources:
@@ -14034,6 +14261,9 @@ titles:
     authors:
       - Dimčo Debelânov
       - Dimcho Debelianov (Димчо Дебелянов)
+    editors:
+      - Elka Georgieva Konstantinova
+      - Elka Georgieva Konstantinova (Елка Георгиева Константинова)
     year: 1968
     language: Bulgarian
     sources:
@@ -14164,6 +14394,9 @@ titles:
     authors:
       - Hristo Smirnenski
       - Khristo Smirnenski (Христо Смирненски)
+    editors:
+      - Milena Georgieva Caneva
+      - Milena Georgieva Tsaneva (Милена Георгиева Цанева)
     year: 1968
     language: Bulgarian
     sources:
@@ -14287,6 +14520,8 @@ titles:
     subtitle: Solunskoto sʺzaklâtie, 1903 g., podgotovka i izpʺlnenie
     authors:
       - Pavel Šatev
+    editors:
+      - Efrem Spirov Karanfilov
     year: 1968
     language: Bulgarian
     sources:
@@ -14335,6 +14570,8 @@ titles:
     authors:
       - Tsveta Oundjieva
       - Tsveta Undzhieva (Цвета Унджиева)
+    editors:
+      - Cveta Undžieva
     year: 1968
     language: Bulgarian
     sources:
@@ -14411,6 +14648,8 @@ titles:
     verified: true
   - title: Bʺlgarskata kritika za Nikola Vapcarov
     authors: []
+    editors:
+      - Nikolaj Ânkov
     year: 1969
     language: Bulgarian
     sources:
@@ -14608,6 +14847,8 @@ titles:
   - title: Horo
     authors:
       - Anton Strachimirov
+    editors:
+      - Georgi Markov
     year: 1969
     language: Bulgarian
     sources:
@@ -14687,6 +14928,8 @@ titles:
     subtitle: Drama v tri časti
     authors:
       - Kamen Zidarov
+    editors:
+      - Lûben Georgiev
     year: 1969
     language: Bulgarian
     sources:
@@ -15242,6 +15485,9 @@ titles:
     authors:
       - Raǰko Žinzifov
       - Raiko Zhinzifov (Райко Жинзифовъ)
+    editors:
+      - Lûben Georgiev
+      - Liuben Georgiev (Любен Георгиев)
     year: 1969
     language: Bulgarian
     sources:
@@ -15346,6 +15592,8 @@ titles:
     authors:
       - Hristo Botev
       - Khristo Botev (Христо Ботев)
+    editors:
+      - Pentcho Dantchev
     year: 1969
     language: Bulgarian
     sources:
@@ -15518,6 +15766,8 @@ titles:
     verified: true
   - title: Vʺzroždenski pʺtepisi
     authors: []
+    editors:
+      - Svetla Gûrova
     year: 1969
     language: Bulgarian
     sources:
@@ -15732,6 +15982,8 @@ titles:
   - title: Drami
     authors:
       - Kamen Zidarov
+    editors:
+      - Tihomir Tihov
     year: 1970
     language: Bulgarian
     sources:
@@ -15822,6 +16074,11 @@ titles:
     authors:
       - Mariâ Grubešlieva
       - Mariia Grubeshlieva (Мария Грубешлиева)
+    translators:
+      - Andrej Germanov
+      - Andrei Germanov (Андрей Германов)
+      - Aleksandʺr Milev
+      - Aleksandr Milev (Александър Милев)
     year: 1970
     language: Bulgarian
     sources:
@@ -16246,6 +16503,8 @@ titles:
     subtitle: Izbrani proizvedeniâ
     authors:
       - Mariâ Ivanova Grubešlieva
+    editors:
+      - Pètre Dinékov
     year: 1970
     language: Bulgarian
     sources:
@@ -16287,6 +16546,8 @@ titles:
   - title: Romani
     authors:
       - Anton Strachimirov
+    editors:
+      - Georgi Karaslavov
     year: 1970
     language: Bulgarian
     sources:
@@ -16316,6 +16577,8 @@ titles:
   - title: Sʺbrani sʺčineniâ
     authors:
       - Yordan Yovkov
+    editors:
+      - Simeon Sultanov
     year: 1970
     language: Bulgarian
     sources:
@@ -16358,6 +16621,9 @@ titles:
   - title: Sʺčineniâ
     authors:
       - Dimčo Debelânov
+    editors:
+      - Zdravko Petrov
+      - Elka. Konstantinova
     year: 1970
     language: Bulgarian
     sources:
@@ -16407,6 +16673,8 @@ titles:
     subtitle: Biblioteka za učenika
     authors:
       - Tichomir Tichov
+    editors:
+      - Tončo Žečev
     year: 1970
     language: Bulgarian
     sources:
@@ -17050,6 +17318,9 @@ titles:
   - title: Izbrani proizvedeniâ
     authors:
       - Geo Milev
+    editors:
+      - Leda Mileva
+      - Georgi Markov
     year: 1971
     language: Bulgarian
     sources:
@@ -17148,6 +17419,9 @@ titles:
     subtitle: Kriticheski otsenki, spomeni, razgovori
     authors:
       - Georgi Konstantinov
+    editors:
+      - Elka. Konstantinova
+      - Georgi Gogov Konstantinov
     year: 1971
     language: Bulgarian
     sources:
@@ -17281,6 +17555,10 @@ titles:
   - title: Popdimitrov. Emanuil Popdimitrov, Gʹončo Belev, Nikolaj Hrelkov v spomenite na sʺvremennicite si
     subtitle: Sbornik
     authors: []
+    editors:
+      - Slavi Boânov
+      - Hristo Dudevski
+      - Atanas Svilenov
     year: 1971
     language: Bulgarian
     sources:
@@ -17300,6 +17578,8 @@ titles:
   - title: Povesti i razkazi
     authors:
       - Ivan Vazov
+    editors:
+      - Milena Caneva
     year: 1971
     language: Bulgarian
     sources:
@@ -17430,6 +17710,9 @@ titles:
     authors:
       - Nikola J̌onkov Vapcarov
       - Nikola Јonkov Vaptsarov (Никола Јонков Вапцаров)
+    editors:
+      - Petʺr Stanev Pondev
+      - Serafim Severnâk
     year: 1971
     language: Bulgarian
     sources:
@@ -17487,6 +17770,9 @@ titles:
     subtitle: 1950-1970
     authors:
       - Orlin Orlinov
+    editors:
+      - Krʺstʹo Kuûmdžiev
+      - Svetla Rakitin
     year: 1971
     language: Bulgarian
     sources:
@@ -17651,6 +17937,8 @@ titles:
     subtitle: 1852-1879, otkʺsi
     authors:
       - Stefan Nikolov Stambolov
+    editors:
+      - Strašimir Atanasov Dimitrov
     year: 1972
     language: Bulgarian
     sources:
@@ -17744,6 +18032,10 @@ titles:
   - title: Bezsmʺrtie
     subtitle: Stihove i proza ot bʺlgarski pisateli za Georgi Dimitrov
     authors: []
+    editors:
+      - Božidar Božilov
+      - Dimitʺr Gulev
+      - Kamen Kaltchev
     year: 1972
     language: Bulgarian
     sources:
@@ -17832,6 +18124,8 @@ titles:
   - title: Idilii, razkazi, drami
     authors:
       - Petko Ûordanov Todorov
+    editors:
+      - Lûben Georgiev
     year: 1972
     language: Bulgarian
     sources:
@@ -17853,6 +18147,8 @@ titles:
   - title: Iz starata bʺlgarska literatura
     subtitle: Sbornik
     authors: []
+    editors:
+      - Pètre Dinékov
     year: 1972
     language: Bulgarian
     sources:
@@ -18125,6 +18421,10 @@ titles:
     subtitle: Sbornik s materiali ot 2ta Nacionalna konferenciâ na Sʺûza na bʺlgarskite pisateli, 16,19,23 i 24. XI. 1970
     authors:
       - Sʺûz Na Bʺlgarskite Pisateli
+    editors:
+      - Efrem Spirov Karanfilov
+      - Maksim Naimovič
+      - Dimitʺr Gundov
     year: 1972
     language: Bulgarian
     sources:
@@ -18190,6 +18490,10 @@ titles:
   - title: Sʺčineniâ
     authors:
       - Elin Pelin (Елин Пелин)
+    editors:
+      - Krʺstʹo Todorov Genov
+      - Todor Borov
+      - Penʹo Rusev
     year: 1972
     language: Bulgarian
     sources:
@@ -18271,6 +18575,8 @@ titles:
   - title: Slavânobʺlgarska istoriâ
     authors:
       - Paisi de Chilandar
+    editors:
+      - Pètre Dinékov
     year: 1972
     language: Bulgarian
     sources:
@@ -18305,6 +18611,8 @@ titles:
     authors:
       - Blaga Dimitrova
       - Blaga Dimitrova (Блага Димитрова)
+    editors:
+      - Georgi Canev
     year: 1972
     language: Bulgarian
     sources:
@@ -18349,6 +18657,8 @@ titles:
   - title: Todor Živkov za literaturata, izkustvoto, kulturata
     authors:
       - Todor Jivkov
+    editors:
+      - Milko Balev
     year: 1972
     language: Bulgarian
     sources:
@@ -18410,6 +18720,8 @@ titles:
     subtitle: Stihotvoreniâ, reči, pisma
     authors:
       - Dobri Petrov Čintulov
+    editors:
+      - Nikola Tabakov
     year: 1973
     language: Bulgarian
     sources:
@@ -18557,6 +18869,8 @@ titles:
     authors:
       - Boân Nikolov Penev
       - Boân Penev
+    editors:
+      - Ivan Sarandev
     year: 1973
     language: Bulgarian
     sources:
@@ -18848,6 +19162,9 @@ titles:
   - title: Problemi na sʺvremennata bʺlgarska proza
     subtitle: Sbornik statii i studii
     authors: []
+    editors:
+      - Čavdar Atanasov Dobrev
+      - Maksim Naimovič
     year: 1973
     language: Bulgarian
     sources:
@@ -18981,6 +19298,9 @@ titles:
     verified: true
   - title: Septemvri 1923 i bʺlgarskata literatura
     authors: []
+    editors:
+      - Tončo Žečev
+      - Ivan Sarandev
     year: 1973
     language: Bulgarian
     sources:
@@ -19000,6 +19320,8 @@ titles:
   - title: Statii
     authors:
       - Dimitʺr Blagoev
+    editors:
+      - Stoân Karolev
     year: 1973
     language: Bulgarian
     sources:
@@ -19094,6 +19416,8 @@ titles:
   - title: Studii, statii, recenzii, spomeni
     authors:
       - Aleksand″r Balabanov
+    editors:
+      - Todor Borov
     year: 1973
     language: Bulgarian
     sources:
@@ -19150,6 +19474,10 @@ titles:
   - title: Talev. Dimitʺr Talev, Svetoslav Minkov, Dimitʺr Dimov v spomenite na sʺvremennicite si
     subtitle: Sbornik
     authors: []
+    editors:
+      - Nikolaj Ânkov
+      - Hristo Jordanov
+      - Tončo Žečev
     year: 1973
     language: Bulgarian
     sources:
@@ -19251,6 +19579,8 @@ titles:
   - title: Bʺlgari ot staro vreme
     authors:
       - Lûben Karavelov
+    editors:
+      - Petko Totev
     year: 1974
     language: Bulgarian
     sources:
@@ -19260,6 +19590,8 @@ titles:
   - title: Bʺlgarska Vʺzroždenska literatura
     subtitle: Ot Paisij Hilendarski do Dobri Vojnikov
     authors: []
+    editors:
+      - Pètre Dinékov
     year: 1974
     language: Bulgarian
     sources:
@@ -19316,6 +19648,9 @@ titles:
   - title: Den posleden, den pʺrvi
     subtitle: Sbornik spomeni
     authors: []
+    editors:
+      - Vasil Aleksandrov
+      - St. Velikov
     year: 1974
     language: Bulgarian
     sources:
@@ -19474,6 +19809,8 @@ titles:
     authors:
       - Aleko Konstantinov
       - Aleko Konstantinov (Алеко Константинов)
+    editors:
+      - Stefan Elevterov
     year: 1974
     language: Bulgarian
     sources:
@@ -19631,6 +19968,8 @@ titles:
     subtitle: 1885-1919
     authors:
       - Dimitʺr Blagoev
+    editors:
+      - Georgi Markov
     year: 1974
     language: Bulgarian
     sources:
@@ -19756,6 +20095,8 @@ titles:
   - title: Pod igoto
     authors:
       - Ivan Vazov
+    editors:
+      - Pètre Dinékov
     year: 1974
     language: Bulgarian
     sources:
@@ -19785,6 +20126,10 @@ titles:
   - title: Poeziâ za deca i ûnoši
     subtitle: Antologiâ
     authors: []
+    editors:
+      - Leda Mileva
+      - Aleksandʺr Muratov
+      - Nikolaj Ânkov
     year: 1974
     language: Bulgarian
     sources:
@@ -19902,6 +20247,9 @@ titles:
   - title: Sʺčineniâ
     authors:
       - Petko Račov Slavejkov
+    editors:
+      - Efrem Spirov Karanfilov
+      - Nešo Davidov
     year: 1974
     language: Bulgarian
     sources:
@@ -20391,6 +20739,8 @@ titles:
   - title: Iz “Zapiski po bʺlgarskite vʺstaniâ“
     authors:
       - Zahari Stoânov
+    editors:
+      - Veselin Andreev
     year: 1975
     language: Bulgarian
     sources:
@@ -20412,6 +20762,8 @@ titles:
   - title: Izbrani proizvedeniâ
     authors:
       - Matvej Vʺlev
+    editors:
+      - Ivan Sestrimski
     year: 1975
     language: Bulgarian
     sources:
@@ -20448,6 +20800,8 @@ titles:
   - title: Izbrani razkazi
     authors:
       - Georgi Porfiriev Stamatov
+    editors:
+      - Georgi Canev
     year: 1975
     language: Bulgarian
     sources:
@@ -20541,6 +20895,9 @@ titles:
     subtitle: Izbrani stihotvoreniâ, razkazi i fejletoni
     authors:
       - Foma Fomič
+    editors:
+      - Veselin Tomov Izmirliev
+      - Angel Todorov
     year: 1975
     language: Bulgarian
     sources:
@@ -20939,6 +21296,10 @@ titles:
   - title: Recenzii
     subtitle: Sbornik
     authors: []
+    editors:
+      - Ivan Popivanov
+      - Simeon Pravčanov
+      - Ivan Spasov
     year: 1975
     language: Bulgarian
     sources:
@@ -20988,6 +21349,9 @@ titles:
   - title: Sʺčineniâ
     authors:
       - Geo Milev
+    editors:
+      - Georgi Markov
+      - Leda Mileva
     year: 1975
     language: Bulgarian
     sources:
@@ -21043,6 +21407,8 @@ titles:
   - title: Selo Borovo
     authors:
       - Krum Velkov
+    editors:
+      - Ivan Sestrimski
     year: 1975
     language: Bulgarian
     sources:
@@ -21435,6 +21801,8 @@ titles:
     authors:
       - Dobri Vojnikov
       - Kliment Tʺrnovski
+    editors:
+      - Dočo Lekov
     year: 1976
     language: Bulgarian
     sources:
@@ -21648,6 +22016,8 @@ titles:
   - title: Hudožestveno tvorčestvo. Kritika
     authors:
       - Kliment Tʺrnovski
+    editors:
+      - Dočo Lekov
     year: 1976
     language: Bulgarian
     sources:
@@ -21656,6 +22026,10 @@ titles:
     verified: true
   - title: Humor i satira
     authors: []
+    editors:
+      - Petʺr Neznakomov
+      - Hristo Pelitev
+      - Marko Gančev
     year: 1976
     language: Bulgarian
     sources:
@@ -21720,6 +22094,9 @@ titles:
     authors:
       - Boân Nikolov Penev
       - Boian Nikolov Penev (Боян Николов Пенев)
+    editors:
+      - Pantéleï Iordanov Zarev
+      - Ivan Sarandev
     year: 1976
     language: Bulgarian
     sources:
@@ -21770,6 +22147,8 @@ titles:
   - title: Izbrani piesi
     authors:
       - Georgi Krʺnzov
+    editors:
+      - Nadežda Dragova
     year: 1976
     language: Bulgarian
     sources:
@@ -21836,6 +22215,9 @@ titles:
     authors:
       - Petko Račov Slavejkov
       - Petko Rachov Slaveikov (Петко Рачов Славейков)
+    editors:
+      - Stefan Elevterov
+      - Stefan Elevterov (Стефан Елевтеров)
     year: 1976
     language: Bulgarian
     sources:
@@ -22273,6 +22655,10 @@ titles:
     subtitle: Sbornik
     authors:
       - Sʺûz Na Bʺlgarskite Pisateli
+    editors:
+      - Hristo Pelitev
+      - Bančo Banov
+      - Ivan Aržentinski
     year: 1976
     language: Bulgarian
     sources:
@@ -22312,6 +22698,8 @@ titles:
     series: Biblioteka za učenika
     authors:
       - Elin Pelin
+    editors:
+      - Petʺr Stanev Pondev
     year: 1976
     language: Bulgarian
     sources:
@@ -22789,6 +23177,10 @@ titles:
   - title: 30 [Trideset] godini izdatelstvo Bʺlgarski pisatel
     subtitle: 1947-1977, ûbileen almanah
     authors: []
+    editors:
+      - Tatâna Pekunova
+      - Mariâ Kondova
+      - Ivan Sestrimski
     year: 1977
     language: Bulgarian
     sources:
@@ -24528,6 +24920,10 @@ titles:
   - title: Osvoboždenieto 1878
     subtitle: Spomeni
     authors: []
+    editors:
+      - Elisaveta Hristova Miladinova
+      - Elena Pavlova
+      - Tihomir Tihov
     year: 1978
     language: Bulgarian
     sources:
@@ -24771,6 +25167,9 @@ titles:
   - title: Sʺkrovenoto
     subtitle: 34 vʺprosa kʺm izvestni dejci na literaturata, izkustvoto, naukata
     authors: []
+    editors:
+      - Nataša Manolova
+      - Vera Stefanova
     year: 1978
     language: Bulgarian
     sources:
@@ -24932,6 +25331,8 @@ titles:
     authors:
       - Hristo Botev
       - Khristo Botev (Христо Ботев)
+    editors:
+      - Pentcho Dantchev
     year: 1978
     language: Bulgarian
     sources:
@@ -25360,6 +25761,8 @@ titles:
     verified: true
   - title: Izbrani bʺlgarski scenarii
     authors: []
+    editors:
+      - Emil Petrov
     year: 1979
     language: Bulgarian
     sources:
@@ -25382,6 +25785,11 @@ titles:
     authors:
       - Georgi Karaslavov
       - Georgi Karaslavov (Георги Караславов)
+    editors:
+      - Ivan Aleksandrov Cvetkov
+      - Ivan Aleksandrov Tsvetkov (Иван Александров Цветков)
+      - Simeon Sultanov
+      - Simeon Sultanov (Симеон Султанов)
     year: 1979
     language: Bulgarian
     sources:
@@ -25908,6 +26316,7 @@ titles:
     authors:
       - Nikolaj Hrelkov
       - Nikolai Khrelkov (Николай Хрелков)
+    translators:
       - Ivan Burin
       - Ivan Burin (Иван Бурин)
     year: 1979
@@ -26103,6 +26512,10 @@ titles:
     subtitle: Novi izsledvaniâ i materiali
     authors:
       - Lidiâ Veleva
+    editors:
+      - Nikola Georgiev
+      - Katâ Bʺklova
+      - Milena Georgieva Caneva
     year: 1980
     language: Bulgarian
     sources:
@@ -26341,6 +26754,8 @@ titles:
     authors:
       - Grigor Stavrev Prličev
       - Grigor Stavrev Prlichev (Григор Ставрев Прличев)
+    editors:
+      - Ivan Sestrimski
     year: 1980
     language: Bulgarian
     sources:
@@ -26487,6 +26902,9 @@ titles:
     series: Biblioteka za uchenika
     authors:
       - Veselin Andreev
+    editors:
+      - Dočo Lekov
+      - Lekov Docho (Леков Дочо)
     year: 1980
     language: Bulgarian
     sources:
@@ -26862,6 +27280,8 @@ titles:
   - title: Razkazi, pʺtepisi
     authors:
       - Konstantin Iliev Konstantinov
+    editors:
+      - Elka Konstantinova
     year: 1980
     language: Bulgarian
     sources:
@@ -27681,6 +28101,8 @@ titles:
     authors:
       - Ivan Bogdanov
       - Ivan Bogdanov (Иван Богданов)
+    editors:
+      - Zdravko Petrov
     year: 1981
     language: Bulgarian
     sources:
@@ -28012,6 +28434,8 @@ titles:
     verified: true
   - title: Stara bʺlgarska Literatura
     authors: []
+    editors:
+      - Donka Petkanova-Toteva
     year: 1981
     language: Bulgarian
     sources:
@@ -28770,6 +29194,9 @@ titles:
   - title: Literaturni portreti i spomeni
     authors:
       - Vičo Ivanov
+    editors:
+      - Ivan Sestrimski
+      - Radka Vičo Ivanova
     year: 1982
     language: Bulgarian
     sources:
@@ -28928,6 +29355,8 @@ titles:
   - title: Pʺtiŝa pʺtešestvenici
     subtitle: XIV-XIX Vek
     authors: []
+    editors:
+      - Svetla Gûrova
     year: 1982
     language: Bulgarian
     sources:
@@ -29028,6 +29457,8 @@ titles:
   - title: Prez tori zeleni; razkazi, očerci, statii
     authors:
       - Petko Rosen
+    editors:
+      - Mihail Nedelčev
     year: 1982
     language: Bulgarian
     sources:
@@ -29434,6 +29865,8 @@ titles:
   - title: Bʺlgarskata kritika za Hristo Botev
     subtitle: 1874-1983
     authors: []
+    editors:
+      - Ivan Paunovski
     year: 1983
     language: Bulgarian
     sources:
@@ -29653,6 +30086,8 @@ titles:
     authors:
       - Elisaveta Bagrâna (Elisavеta Bagrâna)
       - Elisaveta Bagriana (Елисавета Багряна)
+    editors:
+      - Serafim Severnâk
     year: 1983
     language: Bulgarian
     sources:
@@ -29765,6 +30200,8 @@ titles:
     authors:
       - Dimitʺr Polânov
       - Dimitr Polianov (Димитър Полянов)
+    editors:
+      - Boris Delčev
     year: 1983
     language: Bulgarian
     sources:
@@ -30333,6 +30770,8 @@ titles:
   - title: Sǎbrani sǎčinenija
     authors:
       - Jordan Jovkov
+    editors:
+      - Simeon Sultanov
     year: 1983
     language: Not recorded
     sources:
@@ -30439,6 +30878,9 @@ titles:
     authors:
       - Ivan Radoslavov
       - Ivan Radoslavov (Иван Радославов)
+    editors:
+      - Liliâ Radoslavova-Popova
+      - Ivan Sestrimski
     year: 1983
     language: Bulgarian
     sources:
@@ -30603,6 +31045,8 @@ titles:
   - title: Sŭčinenija
     authors:
       - Zachari Stojanov
+    editors:
+      - Nikolaj Jankov
     year: 1983
     language: Not recorded
     sources:
@@ -30660,6 +31104,9 @@ titles:
     subtitle: Spomeni, zapiski, korespondenciâ
     authors:
       - Minčo Kʺnčev
+    editors:
+      - Tihomir Tihov
+      - Kirila Vazvazova-Karatéodorova
     year: 1983
     language: Bulgarian
     sources:
@@ -30748,6 +31195,9 @@ titles:
     subtitle: Neizdadeni zapiski i pisma
     authors:
       - Kuzman A. Šapkarev
+    editors:
+      - Iliâ Todorov
+      - Nikolaj Žečev
     year: 1984
     language: Bulgarian
     sources:
@@ -32119,6 +32569,8 @@ titles:
   - title: Deteto i knigata
     authors:
       - Nikolaj Kostov Ânkov
+    editors:
+      - Georgi Strumski
     year: 1985
     language: Bulgarian
     sources:
@@ -32238,6 +32690,8 @@ titles:
     verified: true
   - title: Humor i satira
     authors: []
+    editors:
+      - Marko Gančev
     year: 1985
     language: Bulgarian
     sources:
@@ -32626,6 +33080,10 @@ titles:
   - title: Lûbov-magičeska realnost
     subtitle: Sʺvremenna bʺlgarska lûbovna lirika
     authors: []
+    editors:
+      - Stanka Penčeva
+      - Mladen Mladenov Isaev
+      - Ivan Spasov
     year: 1985
     language: Bulgarian
     sources:
@@ -32950,6 +33408,8 @@ titles:
   - title: Poeti-simvolisti
     subtitle: Teodor Traânov, Nikolaj Liliev, Emanuil Popdimitrov
     authors: []
+    editors:
+      - Simeon Hadžikosev
     year: 1985
     language: Bulgarian
     sources:
@@ -33283,6 +33743,8 @@ titles:
   - title: Stihotvoreniâ i poemi
     authors:
       - Ivan Vazov
+    editors:
+      - Milena Georgieva Caneva
     year: 1985
     language: Bulgarian
     sources:
@@ -33508,6 +33970,9 @@ titles:
   - title: Aleksandʺr Balabanov, Simeon Radev
     subtitle: V spomenite na sʺvremennicite si
     authors: []
+    editors:
+      - Todor Borov
+      - Ivan Sestrimski
     year: 1986
     language: Bulgarian
     sources:
@@ -33938,6 +34403,9 @@ titles:
   - title: Izbrani proizvedeniâ
     authors:
       - Dimitʺr Vasilev
+    editors:
+      - Milka Spasova
+      - Serafim Severnâk
     year: 1986
     language: Bulgarian
     sources:
@@ -34057,6 +34525,8 @@ titles:
   - title: Kniga za Pavel Vežinov
     authors:
       - Pavel Vejinov
+    editors:
+      - Atanas Svilenov
     year: 1986
     language: Bulgarian
     sources:
@@ -34109,13 +34579,15 @@ titles:
     verified: true
   - title: Na Ostrova na Blažennite
     subtitle: Antologiâ
+    original_title: Selećtions
     authors:
-      - Penčo Petkov Slavejkov
-      - Pencho Petkov Slaveikov (Пенчо Петков Славейков)
       - Mihail Nedelčev
       - Mikhail Nedelchev (Михаил Неделчев)
       - Nikola Petrov
       - Nikola Petrov (Никола Петров)
+    translators:
+      - Penčo Petkov Slavejkov
+      - Pencho Petkov Slaveikov (Пенчо Петков Славейков)
     year: 1986
     language: Bulgarian
     sources:
@@ -34203,6 +34675,8 @@ titles:
   - title: Nov razkazi sʺs dumi prosti
     subtitle: Razgovori Sʺ̱S sʺvremennici. na Nikola Vapcarov
     authors: []
+    editors:
+      - Magdalena Šiškova
     year: 1986
     language: Bulgarian
     sources:
@@ -34773,6 +35247,10 @@ titles:
   - title: April 1876
     subtitle: Spomeni
     authors: []
+    editors:
+      - Elisaveta Hristova Miladinova
+      - Svetla Gûrova
+      - Tihomir Tihov
     year: 1987
     language: Bulgarian
     sources:
@@ -35091,6 +35569,8 @@ titles:
     subtitle: Izbrani proizvedeniâ
     authors:
       - Kamen Zidarov
+    editors:
+      - Lûben Georgiev
     year: 1987
     language: Bulgarian
     sources:
@@ -35174,6 +35654,8 @@ titles:
     verified: true
   - title: Hitʺr Petʺr
     authors: []
+    editors:
+      - Veličko Vʺlčev
     year: 1987
     language: Bulgarian
     sources:
@@ -35406,6 +35888,8 @@ titles:
       - Kirila Vzvzova-karateodorova (Кирила Възвъзова-Каратеодорова)
       - Rada Kʺnčeva Kazandžieva
       - Rada Kncheva Kazandzhieva (Рада Кънчева Казанджиева)
+    editors:
+      - Kirila Vazvazova-Karatéodorova
     year: 1987
     language: Bulgarian
     sources:
@@ -35704,6 +36188,9 @@ titles:
   - title: Sʺčineniâ
     authors:
       - Dimčo Debelânov
+    editors:
+      - Nadežda Aleksandrova
+      - Elka Konstantinova
     year: 1987
     language: Bulgarian
     sources:
@@ -35748,6 +36235,8 @@ titles:
   - title: Sačinenija
     authors:
       - Elin Pelin
+    editors:
+      - Radosvet Kolarov
     year: 1987
     language: Not recorded
     sources:
@@ -36267,6 +36756,8 @@ titles:
     verified: true
   - title: Bʺlgarskata kritika za Dimčo Debelâiov
     authors: []
+    editors:
+      - Ivan Sestrimski
     year: 1988
     language: Bulgarian
     sources:
@@ -36303,6 +36794,8 @@ titles:
   - title: Blagorodni sʺpca
     authors:
       - Kalina malina
+    editors:
+      - Bistra Gančeva
     year: 1988
     language: Bulgarian
     sources:
@@ -36929,6 +37422,8 @@ titles:
     subtitle: Stihove, impresii, razkazi, pisma... spomeni za neâ
     authors:
       - Petâ Dubarova
+    editors:
+      - Veselin Andreev
     year: 1988
     language: Bulgarian
     sources:
@@ -37559,6 +38054,8 @@ titles:
   - title: Večni vremeâa... izbrani proizvedeniâ
     authors:
       - Vasil Popov
+    editors:
+      - Magdalena Šiškova
     year: 1988
     language: Bulgarian
     sources:
@@ -37960,6 +38457,9 @@ titles:
   - title: Eseta, statii, studii, recenzii
     authors:
       - Ivan Mešekov
+    editors:
+      - Simeon Sultanov
+      - Lûben Mešekov
     year: 1989
     language: Bulgarian
     sources:
@@ -37969,6 +38469,8 @@ titles:
   - title: Fakt i vʺobraženie
     subtitle: Problemi na hudožestveno-dokumentalnata literatura i izkustvo
     authors: []
+    editors:
+      - Nataša Manolova
     year: 1989
     language: Bulgarian
     sources:
@@ -38238,6 +38740,8 @@ titles:
   - title: Kato prašen skitnik se zavrʺŝam
     authors:
       - Asen Kirilov Asenov
+    editors:
+      - Ivan Ivanov Dinkov
     year: 1989
     language: Bulgarian
     sources:
@@ -38624,6 +39128,10 @@ titles:
   - title: Osvoboždenieto 1878
     subtitle: Spomeni
     authors: []
+    editors:
+      - Elisaveta Hristova Miladinova
+      - Elena Harbova
+      - Tihomir Tihov
     year: 1989
     language: Bulgarian
     sources:
@@ -38830,6 +39338,9 @@ titles:
   - title: Sʺčineniâ
     authors:
       - Nikolaj Rajnov
+    editors:
+      - Edvin Sugarev
+      - Aleksandʺr Jordanov
     year: 1989
     language: Bulgarian
     sources:
@@ -38908,6 +39419,8 @@ titles:
     subtitle: Stihotvoreniâ i poemi
     authors:
       - Aleksandʺr Vutimski
+    editors:
+      - Aleksandʺr Petrunov
     year: 1989
     language: Bulgarian
     sources:
@@ -38972,6 +39485,8 @@ titles:
   - title: Stihotvoreniâ
     authors:
       - Nikola Jonkov Vaptsarov
+    editors:
+      - Magdalena Šiškova
     year: 1989
     language: Bulgarian
     sources:
@@ -39292,6 +39807,8 @@ titles:
     subtitle: Stihotvoreniâ, statii, pisma
     authors:
       - Rajko Žinzifov
+    editors:
+      - Dočo Lekov
     year: 1989
     language: Bulgarian
     sources:
@@ -39314,6 +39831,8 @@ titles:
     subtitle: Izbrani proizvedeniâ
     authors:
       - Lamar
+    editors:
+      - Edvin Sugarev
     year: 1989
     language: Bulgarian
     sources:
@@ -39626,6 +40145,9 @@ titles:
   - title: Kak â peem tazi pesen
     authors:
       - Miron Ivanov
+    editors:
+      - Petâ Mironova
+      - Petʺr Neznakomov
     year: 1990
     language: Bulgarian
     sources:
@@ -40181,6 +40703,8 @@ titles:
   - title: Stroitelite na sʺvremenna Bʺlgariâ
     authors:
       - Simeon Radev
+    editors:
+      - Elena Statelova
     year: 1990
     language: Bulgarian
     sources:
@@ -40440,6 +40964,8 @@ titles:
   - title: Sʺčineniâ
     authors:
       - Sofroni Vračanski
+    editors:
+      - Ivan Nikolov Radev
     language: Bulgarian
     sources:
       - title: BnF catalogue record cb41697431k

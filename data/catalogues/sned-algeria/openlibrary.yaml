@@ -617,6 +617,8 @@ titles:
     subtitle: Étude de sociologie urbaine
     authors:
       - Secrétariat social
+    editors:
+      - Larbi Touat
     year: 1969
     language: French
     sources:
@@ -659,6 +661,8 @@ titles:
     subtitle: L'Algérie en voie d'urbanisation
     authors:
       - Secrétariat social d'Alger
+    editors:
+      - Larbi Touat
     year: 1969
     series: 'Information rapide: Bulletin mensuel -- 7. série, no. 4/5/6/7'
     language: French
@@ -1037,6 +1041,10 @@ titles:
   - title: Le voleur d'autobus ... et autres nouvelles
     authors:
       - Iḥsān ʻAbd al-Qaddūs
+    editors:
+      - Abdallah Mazouni
+    translators:
+      - Abdallah Mazouni
     year: 1970
     language: French
     pages: 263
@@ -1403,9 +1411,11 @@ titles:
         url: https://lccn.loc.gov/74185271
     verified: true
   - title: La vie d'Abdel Kader
+    original_title: 'The life of Abdel Kader : ex-Sultan of the Arabs of Algeria : written from his own dictation, and compiled from other authentic sources'
     series: Maghreb témoignages
     authors:
       - Charles-Henry Churchill
+    translators:
       - Michel Habart
     year: 1971
     language: French
@@ -1546,6 +1556,8 @@ titles:
     verified: true
   - title: Anthologie du conte bulgare
     authors: []
+    editors:
+      - Mohamed Salah Dembri
     year: 1972
     language: French
     sources:
@@ -1878,6 +1890,9 @@ titles:
   - title: Actes = Proceedings
     authors:
       - Congrès D'Études Des Cultures Méditerranéennes D'Influence Arabo-Berbère. [1è. 1972. Malte.]
+    editors:
+      - David Ryley Marshall
+      - Micheline Galley
     year: 1973
     language: French
     sources:
@@ -1887,6 +1902,8 @@ titles:
   - title: Actes du premier congrès d'études des cultures méditerranéennes d'influence arabo-berbère
     authors:
       - 'Congrès d''études des cultures méditerranéennes d''influence arabo-berbère (1st : 1972 : Malta)'
+    editors:
+      - Micheline Galley
     year: 1973
     language: French
     pages: 561
@@ -2559,6 +2576,8 @@ titles:
     subtitle: '[Recueil de poèmes]'
     authors:
       - Muḥammad ʻAzīz Ḥabbābī
+    editors:
+      - Muḥammad ʿAzīz al- Ha Bābī
     year: 1974
     language: French
     pages: 606
@@ -2996,6 +3015,8 @@ titles:
   - title: Citations du président Boumédiene
     authors:
       - Houari Boumédiene
+    editors:
+      - Ḫalfa Muʿ Ammarī
     year: 1975
     language: French
     pages: 424
@@ -3346,8 +3367,11 @@ titles:
     verified: true
   - title: Le vent du sud
     subtitle: '[Roman]'
+    original_title: Ri̱ḥ al-ǧanūb
     authors:
       - Abdelhamid Benhadouga
+    translators:
+      - Marcel Bois
     year: 1975
     language: French
     pages: 202
@@ -3534,6 +3558,8 @@ titles:
     verified: true
   - title: Sibawayh
     authors: []
+    editors:
+      - Abd al-Rahman Hadj-Salah
     year: 1975
     language: Not recorded
     sources:
@@ -3546,6 +3572,8 @@ titles:
   - title: Un maître de la peinture algérienne, Nasreddine Dinet
     authors:
       - Etienne Dinet
+    editors:
+      - Sid Ahmed Baghli
     year: 1975
     language: French
     pages: 99
@@ -3731,10 +3759,12 @@ titles:
     verified: true
   - title: Ifriqiyyā al-šamālīyyaẗ tasīr
     subtitle: Al-qawmiyyāt al-islāmīyyaẗ wa-l-siyādaẗ al-firansīyyaẗ
+    original_title: L'Afrique du Nord en marche
     authors:
       - Charles-André Julien
-      - Munǧī Salīm
       - Fārīd al- Sūdānī
+    translators:
+      - Munǧī Salīm
     year: 1976
     language: Arabic
     sources:
@@ -3754,6 +3784,9 @@ titles:
     verified: true
   - title: Inscriptions latines de l'Algérie
     authors: []
+    editors:
+      - Stéphane Gsell
+      - Hans Georg Pflaum
     year: 1976
     language: French
     sources:
@@ -3847,6 +3880,7 @@ titles:
   - title: Le vent du sud
     authors:
       - ʿAbd-al-Ḥamīd Bin-Hadūga
+    translators:
       - Marcel Bois
     year: 1976
     language: French
@@ -4120,8 +4154,11 @@ titles:
     verified: true
   - title: La fin d'hier
     subtitle: Roman
+    original_title: Nihāyat al-ams
     authors:
       - Abdelhamid Benhadouga
+    translators:
+      - Marcel Bois
     year: 1977
     language: French
     pages: 228
@@ -4325,6 +4362,8 @@ titles:
     subtitle: Témoignages sur la guerre de libération nationale
     authors:
       - Mahfoud Kaddache
+    editors:
+      - Maḥfūẓ Qaddāš
     year: 1977
     language: French
     pages: 350
@@ -4384,6 +4423,8 @@ titles:
   - title: Actes du Deuxiem̀e Congres International D'étude Des Cultures de la Mediterranée Occidentale
     authors:
       - International Congress of Studies on Cultures of the Western Mediterranean (2nd 1976 Malta)
+    editors:
+      - Micheline Galley
     year: 1978
     language: French, English, Arabic
     sources:
@@ -4636,8 +4677,13 @@ titles:
     verified: true
   - title: Nord-sud, du défi au dialogue?
     subtitle: Propositions pour un nouvel ordre international
+    original_title: Reshaping the international order
     authors:
       - Club de Rome
+    editors:
+      - Jan Tinbergen
+    translators:
+      - Nadia Jazairy
     year: 1978
     series: Demain
     language: French
@@ -4822,6 +4868,8 @@ titles:
     subtitle: II
     authors:
       - Ibrāhīm ibn ʿAlī al-Fīrūzābādī Abū Isḥāq al- Šīrāzī
+    editors:
+      - Abdel Magid Turki
     year: 1979
     language: Arabic
     sources:
@@ -4959,7 +5007,10 @@ titles:
     verified: true
   - title: Les Mou'allaqāt
     subtitle: Ou un peu de l'âme des Arabes avant l'Islam
+    original_title: Muʿallaqāt
     authors: []
+    editors:
+      - Jean-Jacques Schmidt
     year: 1979
     language: French
     sources:
@@ -5011,9 +5062,11 @@ titles:
         url: https://www.sudoc.fr/251823520
     verified: true
   - title: Mahomet à Médine
+    original_title: Muhammad at Medina
     series: Le Monde islamique
     authors:
       - William Montgomery Watt
+    translators:
       - Solange Marie Guillemin
       - François Vaudou
     year: 1979
@@ -5045,6 +5098,9 @@ titles:
     verified: true
   - title: Normes et valeurs dans l'Islam contemporain
     authors: []
+    editors:
+      - Jean-Paul Charnay
+      - Jacques Berque
     year: 1979
     language: French
     sources:
@@ -5285,6 +5341,8 @@ titles:
   - title: La culture des chasseurs du Nil et du Sahara
     authors:
       - Jean Leclant
+    editors:
+      - Préhistoriques et Ethnographiques Centre de Recherches Anthropologiques
     year: 1980
     series: Mémoires du Centre de recherches anthropologiques, préhistoriques et ethnographiques -- 29
     language: French
@@ -5327,6 +5385,8 @@ titles:
     subtitle: Roman
     authors:
       - Abdelhamid Benhadouga
+    translators:
+      - Marcel Bois
     year: 1980
     edition: 2ème éd. --
     language: French
@@ -5806,6 +5866,8 @@ titles:
     subtitle: 'Le Séisme: roman'
     authors:
       - al-Ṭāhir Waṭṭār
+    translators:
+      - Marcel Bois
     year: 1981
     language: French
     pages: 175
@@ -6062,8 +6124,10 @@ titles:
     verified: true
   - title: Le séisme
     subtitle: Roman
+    original_title: Al-zilzāl
     authors:
       - Tahar Ouettar
+    translators:
       - Marcel Bois
       - Boualem Guichoud
     year: 1981
@@ -7021,6 +7085,9 @@ titles:
   - title: Mouloud Mammeri
     authors:
       - Mouloud Mammeri
+    editors:
+      - Zeghari Latifa el Hassar
+      - Denise Louanchi
     year: 1982
     language: French
     sources:
@@ -7345,6 +7412,7 @@ titles:
     subtitle: La guerre d'octobre 1973
     authors:
       - Saad Eddine Chazly
+    translators:
       - L. Brahimi
       - M. Brahimi
     year: 1983
@@ -7356,6 +7424,7 @@ titles:
   - title: La Traversée de Suez (La guerre d'octobre 1973). Trad. de l'angl
     authors:
       - Saad El-shazli
+    translators:
       - L. Brahimi
     year: 1983
     language: French
@@ -7425,6 +7494,7 @@ titles:
   - title: Opinion sur la politique de l'enseignement et de l'arabisation
     authors:
       - Abdellah Cheriet
+    translators:
       - Mohamed Laid Boureghda
     year: 1983
     language: French

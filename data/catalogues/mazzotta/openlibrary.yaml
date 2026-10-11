@@ -5,9 +5,11 @@ publisher: mazzotta
 titles:
   - title: Dada
     subtitle: Arte e antiarte
+    original_title: Dada - Kunst und Antikunst
     series: Testimonianze; 1
     authors:
       - Hans Richter
+    translators:
       - Ludovica Pampaloni
     year: 1966
     language: Italian
@@ -33,6 +35,7 @@ titles:
     series: Testimonianze; 4
     authors:
       - Edward F. Fry
+    translators:
       - Sergio Lentati
     year: 1967
     language: Italian
@@ -52,6 +55,8 @@ titles:
   - title: I Decadenti
     authors:
       - Giacomo Battiato
+    translators:
+      - Laura Bottelli
     year: 1967
     language: Italian
     sources:
@@ -61,11 +66,13 @@ titles:
         url: https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991036863359705066&vid=48OMNIS_NLOP:48OMNIS_NLOP
     verified: true
   - title: Pop art
+    original_title: Pop art
     series: Testimonianze; 3
     authors:
       - Lucy R. Lippard
       - Lawrence Alloway
       - Nancy Marmer
+    translators:
       - Roberto Sanesi
     year: 1967
     language: Italian
@@ -74,6 +81,7 @@ titles:
         url: https://www.sudoc.fr/185007481
     verified: true
   - title: Surrealismo
+    original_title: Chemins du Surréalisme
     series: Testimonianze; 2
     authors:
       - Patrick Waldberg
@@ -152,9 +160,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1127475592
     verified: true
   - title: Scultura moderna
+    original_title: A concise history of modern sculpture
     series: Testimonianze; 6
     authors:
       - Herbert Edward Read
+    translators:
       - Tommaso Trini
     year: 1968
     language: Italian
@@ -358,6 +368,8 @@ titles:
     series: Testimonianze; 7
     authors:
       - Umbro Apollonio
+    editors:
+      - Gabriele Mazzotta
     year: 1970
     language: Italian
     sources:
@@ -732,6 +744,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb39775619j
     verified: true
   - title: 'Trotskismo: teoria e storia'
+    original_title: Du trotskysme, problèmes de théorie et d'histoire
     series: Biblioteca di nuova cultura; 5
     authors:
       - Kostas Mavrakis
@@ -788,6 +801,7 @@ titles:
     pages: 351
   - title: Da Ledoux a Le Corbusier
     subtitle: Origine e sviluppo dell'architettura autonoma
+    original_title: Von Ledoux bis Le Corbusier
     series: Planning & design
     authors:
       - Emil Kaufmann
@@ -815,6 +829,7 @@ titles:
     series: Planning & design
     authors:
       - Albrecht Dürer
+    translators:
       - Giovanni Paolo Gallucci
     year: 1973
     language: Italian
@@ -827,6 +842,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991001581169708606&vid=34BNE_INST:CATALOGO
     verified: true
     subtitle: Libri Quattro
+    original_title: De symmetria partium in rectis formis humanorum corporum
   - title: Educazione e società a Cuba
     series: Cultura e classe; 5
     authors:
@@ -1359,6 +1375,7 @@ titles:
       - Massimo Carrà
       - Patrick Waldberg
       - Ewald Rathke
+    translators:
       - Gian Carlo Giani
       - Laura Bottelli
     year: 1974
@@ -1548,6 +1565,7 @@ titles:
     verified: true
   - title: Da Ledoux a Le Corbusier
     subtitle: Origine e sviluppo dell'architettura autonoma
+    original_title: Von Ledoux bis Le Corbusier
     authors:
       - Emil Kaufmann
     year: 1975
@@ -1641,9 +1659,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1182403573
     verified: true
   - title: L'arte del nazismo
+    original_title: Die Malerei im deutschen Faschismus
     series: Cultura e classe; 11
     authors:
       - Berthold Hinz
+    translators:
       - Ettore Zelioli
     year: 1975
     language: Italian
@@ -1668,6 +1688,8 @@ titles:
     series: Planning and design
     authors:
       - Donatella Calabi
+    translators:
+      - Claudio Bruni
     year: 1975
     language: Italian
     sources:
@@ -2006,6 +2028,8 @@ titles:
   - title: Il Quarto Stato
     authors:
       - Giuseppe Pellizza
+    editors:
+      - Aurora Scotti
     year: 1976
     series: Cultura e classe; 13
     language: Italian
@@ -2207,9 +2231,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=478818378
     verified: true
   - title: Storia del capitalismo americano dal 1776
+    original_title: Twisted dream
     series: Storia e classe; 12
     authors:
       - Douglas F. Dowd
+    translators:
       - Antonio Salomone
     year: 1976
     language: Italian
@@ -2528,6 +2554,7 @@ titles:
     verified: true
   - title: L'urbanistica dei paesi socialisti
     subtitle: Città, territorio e struttura sociale
+    original_title: Urbanistyka krajów socjalistycznych
     series: Planning & design
     authors:
       - Edmund Goldzamt
@@ -2597,6 +2624,7 @@ titles:
     verified: true
   - title: Linguistica e colonialismo
     subtitle: Piccolo trattato di glottofagia
+    original_title: Linguistique et colonialisme
     series: Biblioteca di nuova cultura; 48
     authors:
       - Louis-Jean Calvet
@@ -2787,6 +2815,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991009443579705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Energia e ambiente costruito
+    original_title: Energy,environment and buildings
     series: Biblioteca di nuova cultura; 66
     authors:
       - Philip Steadman
@@ -2862,6 +2891,7 @@ titles:
         url: https://www.sudoc.fr/096936789
     verified: true
   - title: Il mito tragico dell'Angelus di Millet
+    original_title: Le mythe tragique de l'Angelus de Millet
     authors:
       - Salvador Dalí
     year: 1978
@@ -2926,6 +2956,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1145697763
     verified: true
   - title: L'arte simbolista
+    original_title: Symbolist Art
     authors:
       - Edward Lucie-Smith
     year: 1978
@@ -2947,9 +2978,11 @@ titles:
     verified: true
   - title: La musica del diavolo
     subtitle: Storia del blues
+    original_title: <<The>> devil's music
     series: Antologie e saggi; 6
     authors:
       - Giles Oakley
+    translators:
       - Umberto Fiori
     year: 1978
     language: Italian
@@ -3118,8 +3151,9 @@ titles:
   - title: Salvador Dali
     subtitle: Il mito tragico dell'angelus di millet
     authors:
-      - Tommaso Trini
       - Armando Verdiglione
+    translators:
+      - Tommaso Trini
     year: 1978
     language: Italian
     sources:
@@ -3185,6 +3219,7 @@ titles:
         url: https://www.sudoc.fr/29602385X
     verified: true
   - title: “L'”occhio fotografico di Ben Shahn
+    original_title: The photographic eye of Ben Shahn
     series: Album; 42
     authors:
       - Ben Shahn
@@ -3309,6 +3344,7 @@ titles:
     verified: true
   - title: Émile Zola, fotografo
     subtitle: 480 documenti scelti e presentati da
+    original_title: Zola photographe
     series: Album; 44
     authors:
       - Émile Zola
@@ -3383,7 +3419,8 @@ titles:
     verified: true
   - title: L'arte e l'architettura
     series: Collezione dell'enciclopedia; album 34
-    authors:
+    authors: []
+    translators:
       - Cinzia Maria Sicca
       - Lucia Tongiorgi Tomasi
     year: 1979
@@ -3556,6 +3593,8 @@ titles:
   - title: Farabola
     authors:
       - Tullio.* Farabola
+    editors:
+      - Adolfo Porry-Pastorel
     year: 1980
     series: Album -- 57
     language: Italian
@@ -3573,9 +3612,12 @@ titles:
     verified: true
     subtitle: Un archivio italiano
   - title: Fotografia degli anni 30
+    original_title: Fotografie der 30er Jahre
     series: Album; 48
     authors:
       - Hans Jürgen Syberberg
+    editors:
+      - Gabriele Mazzotta
     year: 1980
     language: Italian
     sources:
@@ -3784,6 +3826,8 @@ titles:
       - Giuseppe Bonini
       - Giuseppe Galasso
       - Mimmo Jodice
+    editors:
+      - Alberto Piovanni
     year: 1980
     language: Italian
     sources:

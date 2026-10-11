@@ -18,6 +18,8 @@ titles:
   - title: Izabrana djela Augusta Cesarca
     authors:
       - August Cesarec
+    editors:
+      - Ladislav Žimbrek
     year: 1947
     language: Serbian, Croatian
     sources:
@@ -146,6 +148,8 @@ titles:
   - title: Djela
     authors:
       - Evgenij Kumičić
+    editors:
+      - Emil Štampar
     year: 1950
     series: Djela hrvatskih pisaca
     language: Croatian
@@ -274,6 +278,7 @@ titles:
   - title: Hamburška dramaturgija
     authors:
       - Gotthold Ephraim Lessing
+    translators:
       - Vlatko Šarić
     year: 1950
     language: Croatian
@@ -359,6 +364,7 @@ titles:
   - title: Knjiga poezije
     authors:
       - Johann Wolfgang von Goethe
+    translators:
       - Dobriša Cesarić
     year: 1950
     language: German
@@ -400,6 +406,7 @@ titles:
   - title: Mickiewicz
     authors:
       - Mieczysław Jastrun
+    translators:
       - Julije Benešić
     year: 1950
     language: Croatian
@@ -410,8 +417,10 @@ titles:
         url: https://search.worldcat.org/title/837246249
     verified: true
   - title: Mladost
+    original_title: Youth
     authors:
       - Joseph Conrad
+    translators:
       - Tin Ujević
     year: 1950
     language: Croatian
@@ -648,10 +657,12 @@ titles:
         url: https://search.worldcat.org/title/82208844
     verified: true
   - title: Razgovori s Goetheom
+    original_title: Gespräche mit Goethe in den letzten Jahren seines Lebens
     series: Mala biblioteka; 35
     authors:
       - Johann Peter Eckermann
       - Johann Wolfgang von Goethe
+    translators:
       - Zdenko Škreb
     year: 1950
     language: Croatian
@@ -822,6 +833,8 @@ titles:
   - title: Djela
     authors:
       - Vjenceslav Novak
+    editors:
+      - Antun Barac
     year: 1951
     series: Djela hrvatskih pisaca
     language: Croatian
@@ -883,9 +896,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1071453025
     verified: true
   - title: Dnevnik putovanja iz Carigrada u Poljsku
+    original_title: Giornale di un viaggio da Constantinopoli in Polonia
     series: Mala biblioteka; 107
     authors:
       - Ruđer Josip Bošković
+    translators:
       - Marija Katalinić
     year: 1951
     language: Croatian
@@ -927,6 +942,8 @@ titles:
   - title: Florentinske noći
     authors:
       - Heinrich Heine
+    translators:
+      - Nikola Polovina
     year: 1951
     language: German
     sources:
@@ -947,8 +964,10 @@ titles:
     verified: true
   - title: Gospodin Tadija ili Posljednji nasrt u Litvi
     subtitle: Plemička pripovijest iz godine 1811.-1812. u dvanaest knjiga u stihovima
+    original_title: Pan Tadeusz
     authors:
       - Adam Mickiewicz
+    translators:
       - Đorđe Šaula
     year: 1951
     language: Serbian
@@ -1049,9 +1068,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb31600599t
     verified: true
   - title: Iz života jednog dangube
+    original_title: Aus dem Leben eines Taugenichts
     series: Mala biblioteka; 87
     authors:
       - Joseph von Eichendorff
+    translators:
       - Ivo Vrbanić
     year: 1951
     language: Croatian
@@ -1230,6 +1251,8 @@ titles:
   - title: Provincija u pozadini i druge pripovijetke
     authors:
       - Hasan Kikić
+    editors:
+      - Vaso Bogdanov
     year: 1951
     language: Croatian
     sources:
@@ -1290,7 +1313,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/102768483
     verified: true
   - title: Roman o Tristanu i Izoldi
+    original_title: Le roman de Tristan et Iseut
     authors: []
+    translators:
+      - Valentin Putanec
     year: 1951
     language: Croatian
     sources:
@@ -1367,11 +1393,13 @@ titles:
     verified: true
   - title: Tišina mora
     subtitle: Pripovijetka
+    original_title: Le silence de la mer
     series: Mala biblioteka; 84
     authors:
       - Vercors
-      - Agica Ćurčić
       - Janez Gradišnik
+    translators:
+      - Agica Ćurčić
     year: 1951
     language: Croatian
     sources:
@@ -1550,9 +1578,10 @@ titles:
     series: Mala Biblioteka; 134
     authors:
       - Charles Baudelaire
+      - Fedor Vaić
+    translators:
       - Ante Jurevic
       - Dunja Robić
-      - Fedor Vaić
     year: 1952
     language: Croatian
     sources:
@@ -1630,6 +1659,8 @@ titles:
   - title: Djela, 1 -2
     authors:
       - Ksaver Šandor Ðalski
+    editors:
+      - Emil Štampar
     year: 1952
     language: Croatian
     sources:
@@ -1637,6 +1668,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb319900378
     verified: true
   - title: Doña Perfecta
+    original_title: Doña Perfecta
     series: Mala biblioteka; 136
     authors:
       - Benito Pérez Galdós
@@ -1837,6 +1869,8 @@ titles:
   - title: Djela
     authors:
       - Jure Turić
+    editors:
+      - Ivo Frangeš
     year: 1953
     series: Djela hrvatskih pisaca
     language: Croatian
@@ -1880,6 +1914,7 @@ titles:
     subtitle: Roman iz povijesti starog Egipta
     authors:
       - Bolesław Prus
+    translators:
       - Stjepan Musulin
     year: 1953
     language: Croatian
@@ -1893,6 +1928,7 @@ titles:
     series: Ljudski dokumenti
     authors:
       - Jean-Jacques Rousseau
+    translators:
       - Radovan Ivsic
     year: 1953
     language: Croatian
@@ -2142,6 +2178,7 @@ titles:
     verified: true
   - title: Zlatni drum
     subtitle: Pijesak Orijenta
+    original_title: Eastern approaches
     series: Memoari i dokumenti
     authors:
       - Fitzroy Maclean
@@ -2154,6 +2191,8 @@ titles:
   - title: Djela
     authors:
       - Stanko Vraz
+    editors:
+      - Antun Barac
     year: 1954
     language: Croatian
     pages: 486
@@ -2686,6 +2725,7 @@ titles:
   - title: Kralj života
     authors:
       - Jan Parandowski
+    translators:
       - Julije Benešić
     year: 1955
     language: Serbian
@@ -3118,6 +3158,7 @@ titles:
     verified: true
   - title: Smrt u Veneciji
     subtitle: Prevarena
+    original_title: Der Tod in Venedig
     series: Svjetski klasici
     authors:
       - Thomas Mann
@@ -3311,6 +3352,7 @@ titles:
         url: https://d-nb.info/367381915
     verified: true
   - title: Odsada do vječnosti
+    original_title: From here to Eternity
     series: Strani pisci
     authors:
       - James Jones
@@ -3498,6 +3540,7 @@ titles:
   - title: Celuloza
     authors:
       - Igor Newerly
+    translators:
       - Vanda Nowinska-Hamm
     year: 1958
     language: Croatian
@@ -3521,6 +3564,8 @@ titles:
   - title: Djela
     authors:
       - Ivan Mažuranić
+    editors:
+      - Slavko Ježić
     year: 1958
     series: Djela hrvatskih pisaca
     language: Croatian
@@ -3760,9 +3805,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1543183352
     verified: true
   - title: Gradić Peyton
+    original_title: Peyton place
     series: Stranipisci
     authors:
       - Grace M ious
+    translators:
       - Stjepan Krešić
     year: 1959
     language: Not recorded
@@ -3865,6 +3912,7 @@ titles:
         url: https://d-nb.info/368418774
     verified: true
   - title: Sabrana djela
+    original_title: Polnoe sobranie sočinenij i pisem A.P. Čechova
     authors:
       - Anton Pavlovič Čechov
       - Maja Mulić
@@ -4048,10 +4096,12 @@ titles:
     subtitle: = Deutsch-kroatisches Wörterbuch
   - title: Osmi dan u tjednu
     subtitle: Zbirka proze
+    original_title: Ósmy dzień tygodnia
     authors:
       - Marek Hłasko
-      - Maria Krukowska
       - Zora (Zagrzeb)
+    translators:
+      - Maria Krukowska
     year: 1960
     language: Serbian
     sources:
@@ -4147,9 +4197,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991098263829705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Godisnji ples
+    original_title: Schlußball
     series: Strani pisci
     authors:
       - Gerd Gaiser
+    translators:
       - Ljerka Linic
     year: 1961
     language: German
@@ -4309,6 +4361,7 @@ titles:
         url: https://d-nb.info/578190052
     verified: true
   - title: Odsada do vječnosti
+    original_title: From here to eternity
     series: Strani pisci
     authors:
       - James Jones
@@ -4449,6 +4502,8 @@ titles:
   - title: Ante Kovačić
     authors:
       - Ante Kovačić
+    editors:
+      - Ivo Frangeš
     year: 1962
     series: Pet stoljeća hrvatske književnosti
     language: Croatian
@@ -4470,6 +4525,8 @@ titles:
     series: Pet stoljec'a hrvatske književnosti; 42
     authors:
       - August Šenoa
+    editors:
+      - Šime Vučetić
     year: 1962
     language: Croatian
     sources:
@@ -4628,6 +4685,8 @@ titles:
   - title: Janko Borislavić
     authors:
       - Ksaver Šandor Ðalski
+    editors:
+      - Petar Šegedin
     year: 1962
     language: Croatian
     sources:
@@ -4660,6 +4719,8 @@ titles:
     series: Pet stoljeća hrvatske književnosti; 52
     authors:
       - Ksaver Šandor Gjalski
+    editors:
+      - Petar Šegedin
     year: 1962
     language: Serbian
     sources:
@@ -4717,6 +4778,8 @@ titles:
   - title: Pod starim krovovima
     authors:
       - Ksaver Šandor Ðalski
+    editors:
+      - Petar Šegedin
     year: 1962
     language: Croatian
     sources:
@@ -4763,6 +4826,8 @@ titles:
   - title: Pripovijesti i lirske minijature
     authors:
       - Ksaver Šandor Ðalski
+    editors:
+      - Petar Šegedin
     year: 1962
     language: Croatian
     sources:
@@ -4881,6 +4946,8 @@ titles:
     authors:
       - Ksaver Šandor Đalski
       - Ivan Dončević
+    editors:
+      - Petar Šegedin
     year: 1962
     language: Croatian
     sources:
@@ -4894,6 +4961,8 @@ titles:
     authors:
       - Ante Kovačić
       - Ivan Dončević
+    editors:
+      - Ivo Frangeš
     year: 1962
     language: Croatian
     sources:
@@ -5201,6 +5270,8 @@ titles:
     authors:
       - Cvito Fisković
       - Giorgio da Sebenico
+    editors:
+      - Georgius Mathei Dalmaticus
     year: 1963
     language: Croatian
     sources:
@@ -5393,6 +5464,8 @@ titles:
     verified: true
   - title: Narodne pripovjetke
     authors: []
+    editors:
+      - Maja Bošković-Stulli
     year: 1963
     language: Croatian
     sources:
@@ -5461,8 +5534,10 @@ titles:
     verified: true
   - title: Pojas sjene
     subtitle: Ispovijest
+    original_title: The shadow-line
     authors:
       - Joseph Conrad
+    translators:
       - Branko Brusar
     year: 1963
     language: Croatian
@@ -5499,8 +5574,10 @@ titles:
         url: https://www.sudoc.fr/047130555
     verified: true
   - title: Putovanje
+    original_title: Podróż
     authors:
       - Stanisław Dygat
+    translators:
       - Maria Krukowska
     year: 1963
     language: Croatian
@@ -5683,6 +5760,8 @@ titles:
   - title: '[Djela]'
     authors:
       - Milan Begović
+    editors:
+      - Šime Vučetić
     year: 1964
     series: Pet stoljeća hrvatske književnosti -- knj. 75-76
     language: Croatian
@@ -5934,6 +6013,7 @@ titles:
   - title: Misija
     authors:
       - Tadeusz Breza
+    translators:
       - Zdravko Malić
     year: 1964
     language: Croatian
@@ -6077,6 +6157,8 @@ titles:
     subtitle: Tirena. Skup. Dundo Maroje
     authors:
       - Marin Držić
+    editors:
+      - Milan Ratković
     year: 1964
     edition: 2. izd
     series: Pet stoljeća hrvatske književnosti
@@ -6117,6 +6199,8 @@ titles:
   - title: Osman
     authors:
       - Ivan Gundulić
+    editors:
+      - Milan Ratković
     year: 1964
     edition: 2. izd
     series: Pet stoljeća hrvatske književnosti
@@ -6248,6 +6332,8 @@ titles:
     series: Djela / August Šenoa; 4
     authors:
       - August Šenoa
+    editors:
+      - Šime Vučetić
     year: 1964
     language: Croatian
     sources:
@@ -6326,6 +6412,8 @@ titles:
     series: Djela / August Šenoa; 2
     authors:
       - August Šenoa
+    editors:
+      - Šime Vučetić
     year: 1964
     language: Croatian
     sources:
@@ -6411,6 +6499,8 @@ titles:
   - title: Suze sina razmetnoga
     authors:
       - Joannis Gundulae
+    editors:
+      - Jakša Ravlić
     year: 1964
     language: Croatian
     sources:
@@ -6469,6 +6559,7 @@ titles:
   - title: Tvorci straha
     authors:
       - Wilfrid Schilling
+    translators:
       - Dragutin Perković
     year: 1964
     language: German
@@ -6494,6 +6585,8 @@ titles:
     series: Pet stoljeća hrvatske književnosti; 58
     authors:
       - Vjenceslav Novak
+    editors:
+      - Višnja Barac-Kostrenčić
     year: 1964
     language: Serbian
     sources:
@@ -6863,6 +6956,8 @@ titles:
     authors:
       - Stanko Vraz
       - Petar Preradović
+    editors:
+      - Višnja Barac-Konstrenčić
     year: 1965
     language: Croatian
     sources:
@@ -7075,6 +7170,8 @@ titles:
   - title: Smrt Smail-Age čengica
     authors:
       - Ivan Mažuranić
+    editors:
+      - Ivo Frangeš
     year: 1965
     language: Czech
     sources:
@@ -7111,6 +7208,8 @@ titles:
   - title: Veli Jože
     authors:
       - Vladimir Nazor
+    editors:
+      - Šime Vučetić
     year: 1965
     language: Croatian
     sources:
@@ -7134,6 +7233,8 @@ titles:
   - title: Antologija hrvatske poezije, od XIV stoljeća do naših dana
     authors:
       - Nikola Milićević
+    editors:
+      - Antun Šoljan
     year: 1966
     language: Croatian
     pages: 655
@@ -7375,6 +7476,9 @@ titles:
     verified: true
   - title: Nikola Milićević. Antun Šoljan. Antologija hrvatske poezije, od XIV stoljeća do naših dana
     authors: []
+    editors:
+      - Nikola Milićević
+      - Antun Šoljan
     year: 1966
     language: Croatian
     sources:
@@ -7418,6 +7522,8 @@ titles:
   - title: Pjesme, novele, zapisi, eseji i putopisi
     authors:
       - August Cesarec
+    editors:
+      - Vladimir Popović
     year: 1966
     series: Pet stoljeća hrvatske književnosti
     language: Croatian
@@ -7860,6 +7966,8 @@ titles:
   - title: Razgovor ugodni naroda slovinskoga
     authors:
       - Andreae Kačić
+    editors:
+      - Jakša Ravlić
     year: 1967
     language: Croatian
     sources:
@@ -7937,6 +8045,9 @@ titles:
   - title: Vidici i putovi
     authors:
       - Antun Gustav Matoš
+    editors:
+      - Marijan Matković
+      - Dragutin Tadijanović
     year: 1967
     language: Croatian
     sources:
@@ -8081,6 +8192,9 @@ titles:
   - title: Diocletian Palace
     authors:
       - Jerko Marasovic
+    translators:
+      - Berislav Grgić
+      - Maja Dubravčić
     year: 1968
     language: English
     sources:
@@ -8304,6 +8418,8 @@ titles:
     series: Pet stoljeća hrvatske književnosti; 47
     authors:
       - Eugen Kumičić
+    editors:
+      - Višnja Barac-Kostrenčić
     year: 1968
     language: Croatian
     sources:
@@ -8448,6 +8564,8 @@ titles:
   - title: Judita
     authors:
       - Marko Marulić
+    editors:
+      - Judite Marcela
     year: 1968
     edition: '[9. izd.]'
     series: Biblioteka "Golub"
@@ -8638,6 +8756,8 @@ titles:
     authors:
       - Janko Polić Kamov
       - Vladimir Čerina
+    editors:
+      - Nikola Milićević
     year: 1968
     language: Croatian
     sources:
@@ -8709,6 +8829,7 @@ titles:
   - title: Rajska vrata
     authors:
       - Jerzy Andrzejewski
+    translators:
       - Zdravko Malić
     year: 1968
     language: Croatian
@@ -8841,6 +8962,8 @@ titles:
   - title: Urota zrinjsko-frankopanska
     authors:
       - Evgenij Kumičić
+    editors:
+      - Višnja Barac-Konstrenčić
     year: 1968
     language: Croatian
     sources:
@@ -8850,6 +8973,8 @@ titles:
   - title: Veliki rječnik stranih riječi, izraza i kratica
     authors:
       - Bratoljub Klaić
+    editors:
+      - Željko Klaić
     year: 1968
     language: Croatian
     pages: 1440
@@ -9215,6 +9340,8 @@ titles:
     subtitle: Julije Benešić [Pjesme, feljtoni i članci] Fran Galović [Pjesme i poeme. Proza] Milan Vrbanić [Pjesme] Zvonko Milković Pjesme. Uspomene
     authors:
       - Šime Vučetić
+    editors:
+      - Jakša Ravlić
     year: 1969
     series: Pet stoljeća hrvatske književnosti
     language: Croatian
@@ -9323,9 +9450,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/001184292
     verified: true
   - title: Mačka i miš
+    original_title: Katz und Maus
     series: Mala biblioteka; 267
     authors:
       - Günter Grass
+    translators:
       - Mira Buljan
     year: 1969
     language: Croatian
@@ -9465,6 +9594,8 @@ titles:
   - title: Sabrana djela Miroslava Krleže
     authors:
       - Miroslav Krleža
+    editors:
+      - Andelko Malinar
     year: 1969
     language: Croatian
     sources:
@@ -9683,6 +9814,8 @@ titles:
     subtitle: Urednik Vice Zaninović
     authors:
       - August Cesarec
+    editors:
+      - Vice Zaninović
     year: 1970
     language: Croatian
     sources:
@@ -9694,6 +9827,8 @@ titles:
   - title: Djela Augusta Cesarca
     authors:
       - August Cesarec
+    editors:
+      - Vice Zaninović
     year: 1970
     language: Serbian
     sources:
@@ -9729,6 +9864,15 @@ titles:
     subtitle: English Croato-Serbian dictionary
     authors:
       - Rudolf Filipović
+    editors:
+      - Berislav Grgić
+      - Karla Cizelj
+      - Vera Mosković
+      - Viktor Ratnik
+      - Leonardo Spalatin
+      - Roman Šovary
+      - Borka Tomljenović
+      - Marijan Urbany
     year: 1970
     edition: 5. izd. s proširenim appendixom
     language: Croatian
@@ -9755,6 +9899,8 @@ titles:
   - title: Eseji i kritike
     authors:
       - Augustin dit Tin Ujević
+    editors:
+      - Šime Vučetić
     year: 1970
     language: Croatian
     sources:
@@ -9787,6 +9933,8 @@ titles:
   - title: Izabrana djela
     authors:
       - Nedjeljko Mihanović
+    editors:
+      - Ljerka Car Matutinović
     year: 1970
     series: Pet stoljeća hrvatske književnosti
     language: Croatian
@@ -9826,6 +9974,8 @@ titles:
     subtitle: Suzana. Pjesme
     authors:
       - Marko Marulić
+    editors:
+      - Ivan Slamnig
     year: 1970
     series: Pet stoljeća hrvatske književnosti -- knj. 4
     language: Croatian
@@ -9845,6 +9995,9 @@ titles:
   - title: Kritike, eseji, studije i članci
     authors:
       - Antun Gustav Matoš
+    editors:
+      - Marijan Matković
+      - Dragutin Tadijanović
     year: 1970
     language: Croatian
     sources:
@@ -9855,6 +10008,8 @@ titles:
     subtitle: Zmaj od Bosne. Melita
     authors:
       - Josip Eugen Tomić
+    editors:
+      - Miroslav Šicel
     year: 1970
     series: Pet stoljeća hrvatske književnosti
     language: Croatian
@@ -9870,6 +10025,9 @@ titles:
   - title: Pjesme
     authors:
       - Vladimir Vidrić
+    editors:
+      - Antun Šoljan
+      - Branimir Donat
     year: 1970
     series: Pet stoljeća hrvatske književnosti
     language: Croatian
@@ -9887,6 +10045,8 @@ titles:
   - title: Pjesme i pjesničke proze
     authors:
       - Augustin dit Tin Ujević
+    editors:
+      - Šime Vučetić
     year: 1970
     language: Croatian
     sources:
@@ -9929,9 +10089,12 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb35304984w
     verified: true
   - title: Recimo da mi je ime Gantenbein
+    original_title: Mein Name sei Gantenbein
     series: Biblioteka Strani pisci
     authors:
       - Max Frisch
+    translators:
+      - Mignon Mihaljević
     year: 1970
     language: German
     sources:
@@ -10050,6 +10213,9 @@ titles:
   - title: Vidici i putovi
     authors:
       - Antun Gustav Matoš
+    editors:
+      - Marijan Matković
+      - Dragutin Tadijanović
     year: 1970
     language: Croatian
     sources:
@@ -10081,6 +10247,8 @@ titles:
     subtitle: Pripovijesti i novele
     authors:
       - August Cesarec
+    editors:
+      - Vice Zaninović
     year: 1970
     series: His Djela -- sv. 8
     language: Croatian
@@ -10129,6 +10297,8 @@ titles:
     subtitle: Roman o svijetu na stranputici
     authors:
       - August Cesarec
+    editors:
+      - Vladimir Popović
     year: 1970
     language: Serbian
     pages: 296
@@ -10276,6 +10446,8 @@ titles:
     subtitle: 'Albert Haler. Eseji i studije. Mihovil Kombol. Rasprave i eseji. Branko Gavella. Hrvatsko glumište. Razmatranja o književnosti i kazalištu. Priredio Nikola Batušić. Ljubomir Maraković. Eseji i kritike. Priredio Dubravko Jelčić. “Crteži: Vlado Jakelić”'
     authors:
       - Nikola Batušić
+    editors:
+      - Dubravko Jelčić
     year: 1971
     series: Pet stoljeća hrvatske književnosti
     language: Croatian
@@ -10296,6 +10468,8 @@ titles:
     subtitle: 'Josip Pavičić: Novele. Knjiga o davnini'
     authors:
       - Josip Pavičić
+    editors:
+      - Šime Vučetić
     year: 1971
     series: Pet stoljeća hrvatske književnosti
     language: Croatian
@@ -10315,6 +10489,7 @@ titles:
   - title: Ljubomora i medicina
     authors:
       - Michał Choromański
+    translators:
       - Maria Grzeszczak
     year: 1971
     language: Croatian
@@ -10393,6 +10568,8 @@ titles:
   - title: Odabrana djela
     authors:
       - Albert Camus
+    editors:
+      - Novak Simić
     year: 1971
     language: Croatian
     sources:
@@ -10416,6 +10593,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb351306475
     verified: true
     subtitle: Kaligula. Nesporazum. Opsadno stanje. Pravednici; s francuskog preveli Petar Selem i Daša Bradičić
+    original_title: Actuelles
   - title: Patnje mladoga Werthera
     series: Biblioteka "Golub"
     authors:
@@ -10822,6 +11000,8 @@ titles:
   - title: Sabrana djela Miroslava Krleže
     authors:
       - Miroslav Krleža
+    editors:
+      - Andelko Malinar
     year: 1972
     language: Croatian
     sources:
@@ -10856,6 +11036,8 @@ titles:
   - title: Zbornik proze XVI i XVII stoljeća
     authors:
       - Jakša Ravlić
+    editors:
+      - Vlatko Pavletić
     year: 1972
     series: Pet stoljeća hrvatske književnosti
     language: Croatian
@@ -11032,6 +11214,7 @@ titles:
     subtitle: Kozmos
     authors:
       - Witold Gombrowicz
+    translators:
       - Zdravko Malić
       - Slobodanka Poštić
     year: 1973
@@ -11046,6 +11229,7 @@ titles:
     subtitle: Kozmos
     authors:
       - Witold Gombrowicz
+    translators:
       - Zdravko Malić
       - Slobodanka Poštić
     year: 1973
@@ -11099,6 +11283,8 @@ titles:
   - title: Sabrana djela Miroslava Krleže
     authors:
       - Miroslav Krleža
+    editors:
+      - Ivo Frangeš
     year: 1973
     language: Croatian
     sources:
@@ -11124,6 +11310,8 @@ titles:
     series: Pet stoljeća hrvatske književnosti; 119
     authors:
       - Vjekoslav Kaleb
+    editors:
+      - Vlatko Pavletić
     year: 1973
     language: Serbian
     sources:
@@ -11261,6 +11449,7 @@ titles:
   - title: Dr. Erika Werner
     authors:
       - Heinz G. Konsalik
+    translators:
       - Zlatko Gorjan
     year: 1975
     language: Croatian
@@ -11295,6 +11484,8 @@ titles:
   - title: Izabrana djela
     authors:
       - Stanislav Šimić
+    editors:
+      - Miroslav Vaupotić
     year: 1975
     series: Pet stoljeća hrvatske književnosti
     language: Croatian
@@ -11321,6 +11512,8 @@ titles:
     subtitle: Novele; Mirotvorci
     authors:
       - Ivan Dončević
+    editors:
+      - Živko Jeličić
     year: 1975
     series: Pet stoljeća hrvatske književnosti
     language: Croatian
@@ -11386,6 +11579,8 @@ titles:
   - title: Pjesme, novele; Sam čovjek; Kritike
     authors:
       - Ivo Kozarčanin
+    editors:
+      - Krsto Špoljar
     year: 1975
     series: Pet stoljeća hrvatske književnosti
     language: Croatian
@@ -11449,6 +11644,7 @@ titles:
   - title: Pod skrbništvom
     authors:
       - Heinz G. Konsalik
+    translators:
       - Truda Stamać
     year: 1975
     language: Croatian
@@ -11459,6 +11655,7 @@ titles:
   - title: Zardala slava
     authors:
       - Heinz G. Konsalik
+    translators:
       - Anka Katušić
     year: 1975
     language: Croatian
@@ -11517,6 +11714,8 @@ titles:
   - title: Drame; Eseji; California-Zephyr / Marijan Matković; priredio Nikola Batušić
     authors:
       - Marijan Matković
+    editors:
+      - Nikola Batušić
     year: 1976
     language: Not recorded
     sources:
@@ -11526,6 +11725,8 @@ titles:
   - title: Izabrana djela
     authors:
       - Petar grof Zrinski
+    editors:
+      - Josip Vončina
     year: 1976
     series: Pet stoljeća hrvatske književnosti
     language: Croatian
@@ -11610,6 +11811,8 @@ titles:
   - title: Pjesme, eseji i rasprave
     authors:
       - Marin Franičević
+    editors:
+      - Šime Vučetić
     year: 1976
     series: Pet stoljeća hrvatske književnosti
     language: Croatian
@@ -11660,6 +11863,8 @@ titles:
   - title: Pjesništvo, ogledi
     authors:
       - Šime Vučetić
+    editors:
+      - Ante Stamać
     year: 1976
     series: Pet stoljeća hrvatske književnosti
     language: Croatian
@@ -11691,6 +11896,8 @@ titles:
     subtitle: Pripovijetke; Putopisi; Čovjek u riječi
     authors:
       - Petar Šegedin
+    editors:
+      - Dubravko Jelčić
     year: 1977
     series: Pet stoljeća hrvatske književnosti -- knj. 128/2
     language: Croatian
@@ -11727,6 +11934,8 @@ titles:
     subtitle: Pripovijetke
     authors:
       - Petar Šegedin
+    editors:
+      - Dubravko Jelčić
     year: 1977
     series: Pet stoljeća hrvatske književnosti -- knj. 128/1
     language: Croatian
@@ -11783,6 +11992,8 @@ titles:
   - title: Izabrana djela
     authors:
       - Pero Budak
+    editors:
+      - Vlatko Pavletić
     year: 1977
     series: Pet stoljeća hrvatske književnosti -- knj. 146
     language: Croatian
@@ -11837,6 +12048,8 @@ titles:
   - title: Novele i pripovijetke. Braća i kumiri / Novak Simić; priredio Krsto Špoljar
     authors:
       - Novak Simić
+    editors:
+      - Krsto Špoljar
     year: 1977
     language: Not recorded
     sources:
@@ -11856,6 +12069,7 @@ titles:
   - title: Odabrana djela
     authors:
       - Franz Kafka
+    translators:
       - Zlatko Gorjan
     year: 1977
     language: German
@@ -11899,6 +12113,8 @@ titles:
     subtitle: Raspukline
     authors:
       - Jure Franičević Pločar
+    editors:
+      - Slobodan Novak
     year: 1977
     series: Pet stoljeća hrvatske književnosti -- knj. 143
     language: Croatian
@@ -11920,6 +12136,8 @@ titles:
   - title: Pjesme. Glad na ledini. Novele. Kazališne kritike
     authors:
       - Augustin Stipčević
+    editors:
+      - Cvjetko Milanja
     year: 1977
     language: Not recorded
     sources:
@@ -12025,6 +12243,8 @@ titles:
   - title: Viktor Car Emin
     authors:
       - Viktor Car Emin
+    editors:
+      - Branimir Donat
     year: 1977
     series: Pet stoljeća hrvatske književnosti; knj. 63/1-63/2
     language: Croatian
@@ -12109,6 +12329,8 @@ titles:
     series: Pet stoljec'a hrvatske književnosti; 159
     authors:
       - Matko Peić
+    editors:
+      - Nedjeljko Mihanović
     year: 1982
     language: Croatian
     sources:

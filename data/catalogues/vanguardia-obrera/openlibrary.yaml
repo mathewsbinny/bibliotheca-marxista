@@ -395,7 +395,8 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991007274059708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Antologia poetica vasca
-    authors:
+    authors: []
+    translators:
       - Jon Arzallus
     year: 1987
     language: Basque, Spanish
@@ -425,6 +426,7 @@ titles:
     pages: 385
     isbn: '8496293386'
   - title: El General del ejército muerto
+    original_title: Gjenerali i ushtërisë së vdekur
     series: Narrativa
     authors:
       - Ismail Kadare

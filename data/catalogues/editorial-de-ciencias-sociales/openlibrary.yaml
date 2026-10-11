@@ -122,6 +122,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/006258363
     verified: true
   - title: Antropología estructural
+    original_title: Anthropologie structurale
     series: Sociología
     authors:
       - Claude Lévi-Strauss
@@ -151,6 +152,7 @@ titles:
         url: https://openlibrary.org/books/OL21033898M
     verified: true
   - title: Capitalismo y subdesarrollo en América Latina
+    original_title: Capitalism and underdevelopment in Latin America
     authors:
       - André Gunder Frank
     year: 1970
@@ -174,6 +176,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb35342318s
     verified: true
   - title: El Imperio norteamericano
+    original_title: L'Empire américain
     series: Ciencias políticas
     authors:
       - Claude Julien
@@ -289,6 +292,7 @@ titles:
     verified: true
   - title: Apología de la historia
     subtitle: O el oficio de historiador
+    original_title: Apologie pour l'histoire
     authors:
       - Marc Bloch
     year: 1971
@@ -446,6 +450,8 @@ titles:
   - title: Páginas escogidas
     authors:
       - José Martí
+    editors:
+      - Roberto Fernández Retamar
     year: 1971
     series: Ediciones politicas
     language: Spanish
@@ -475,6 +481,7 @@ titles:
         url: https://d-nb.info/560591594
     verified: true
   - title: Zapata y la revolución mexicana
+    original_title: Zapata and the Mexican Revolution
     series: Hombre y época
     authors:
       - John Womack
@@ -492,6 +499,8 @@ titles:
     authors:
       - José Martí
       - Pedro Álvarez Tabío
+    editors:
+      - Pedro Alvarez Tabío
     year: 1972
     language: Spanish
     sources:
@@ -506,6 +515,7 @@ titles:
     authors:
       - Celso Monteiro Furtado
       - Pelegrín Torras
+    translators:
       - Angélica Gimpel Smith
     year: 1972
     language: Portuguese
@@ -626,6 +636,7 @@ titles:
     series: Sociología
     authors:
       - Margaret Randall
+    translators:
       - Francisco García Suárez
     year: 1972
     language: Spanish
@@ -646,6 +657,7 @@ titles:
         url: https://openlibrary.org/books/OL13662722M
     verified: true
   - title: Las reglas del método sociológico
+    original_title: Les règles de la méthode sociologique
     authors:
       - Émile Durkheim
     year: 1972
@@ -670,6 +682,7 @@ titles:
     series: Centenario
   - title: Los Peligros del alma
     subtitle: Visión del mundo de un tzotzil
+    original_title: Perils of the soul, the world view of a Tzotzil Indian
     authors:
       - Calixta Guiteras Holmes
     year: 1972
@@ -788,6 +801,8 @@ titles:
     series: Nuestra historia
     authors:
       - Nicolás Joseph de Ribera Vázquez y Avilés
+    editors:
+      - Hortensia Pichardo
     year: 1973
     language: Spanish
     sources:
@@ -918,6 +933,7 @@ titles:
     verified: true
   - title: La diplomacia del dolar
     subtitle: Un estudio acerca del imperialismo norteamericano
+    original_title: 'Dollar diplomacy : a study in American imperialism'
     authors:
       - Scott Nearing
       - Joseph Freeman
@@ -1142,6 +1158,8 @@ titles:
     subtitle: Su pensamiento revolucionario
     authors:
       - Antonio Guiteras
+    editors:
+      - Olga Cabrera
     year: 1974
     language: Spanish
     sources:
@@ -1454,6 +1472,8 @@ titles:
   - title: Epistolario
     authors:
       - Francisco Vicente Aguilera
+    editors:
+      - Marta Cruz
     year: 1974
     language: Spanish
     sources:
@@ -1548,6 +1568,8 @@ titles:
   - title: Hostos y Cuba
     authors:
       - Comisión Cubana Pro Centenario de Hostos
+    editors:
+      - Emilio Roig de Leuchsenring
     year: 1974
     edition: 2. ed
     series: América Latina
@@ -1759,6 +1781,8 @@ titles:
   - title: Por Cuba libre
     authors:
       - Juan Gualberto Gómez
+    editors:
+      - Emilio Roig de Leuchsenring
     year: 1974
     edition: 2a ed. --
     language: Spanish
@@ -2038,6 +2062,8 @@ titles:
       - Karl Marx
       - Friedrich Engels
       - Jenny Marx
+    translators:
+      - Giannina Bertarelli
     year: 1975
     language: German
     sources:
@@ -2168,6 +2194,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991009874499705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: El control popular en la sociedad socialista
+    original_title: Narodny i kontol v sot︠s︡ialisticheskom obshchestve
     authors:
       - Viktor I. Turovcev
       - Isidoro R. Mendieta
@@ -2282,6 +2309,8 @@ titles:
   - title: El partido revolucionario cubano
     authors:
       - José Martí
+    editors:
+      - Salvador E. Morales Pérez
     year: 1975
     language: Spanish
     sources:
@@ -2411,6 +2440,7 @@ titles:
         url: https://www.sudoc.fr/071270477
     verified: true
   - title: L' histoire m'acquittera
+    original_title: La Historia me absolvera
     authors:
       - Fidel Castro
     year: 1975
@@ -2470,6 +2500,7 @@ titles:
     verified: true
   - title: La diplomacia del dolar
     subtitle: Un estudio acerca del imperialismo norteamericano
+    original_title: 'Dollar diplomacy : a study in American imperialism'
     series: Ciencias políticas
     authors:
       - Scott Nearing
@@ -2611,6 +2642,8 @@ titles:
   - title: Las Luchas estudiantiles universitarias, 1923-1934
     authors:
       - Olga Cabrera
+    editors:
+      - Carmen Almodóvar Muñoz
     year: 1975
     series: Nuestra historia
     language: Spanish
@@ -2704,6 +2737,7 @@ titles:
         url: https://www.sudoc.fr/018083765
     verified: true
   - title: Los nuevos caminos de la lingüistica
+    original_title: Nya vägar inom sprakforskningen
     series: Lingüística
     authors:
       - Bertil Malmberg
@@ -2960,6 +2994,9 @@ titles:
   - title: Características de la divorcialidad cubana
     authors:
       - Cuba. Departamento de Demografía
+    editors:
+      - Mario López Cepero
+      - Ernesto Chávez Álvarez
     year: 1976
     series: Demografía
     language: Spanish
@@ -3139,6 +3176,10 @@ titles:
   - title: Discursos
     authors:
       - Fidel Castro
+    editors:
+      - Dagmara Gonzales de Mendoza
+      - Natalia Labaovskaya
+      - Guadalupe Torre
     year: 1976
     language: Spanish
     sources:
@@ -3586,6 +3627,9 @@ titles:
   - title: Antología de lingüística cubana
     authors:
       - Angel Luis Fernández
+    editors:
+      - Gladys Alonso
+      - Ángel Luis Fernández
     year: 1977
     series: Lingüística
     language: Spanish
@@ -4025,6 +4069,8 @@ titles:
   - title: Escritos y discursos
     authors:
       - Che Guevara
+    editors:
+      - Juan José Soto Valdespino
     year: 1977
     series: Ediciones politicas
     language: Spanish
@@ -4136,6 +4182,7 @@ titles:
         url: https://openlibrary.org/books/OL19171203M
     verified: true
   - title: Ethiopia, the Unknown Revolution
+    original_title: Etiopia
     authors:
       - Raúl Valdés Vivó
     year: 1977
@@ -4587,6 +4634,8 @@ titles:
   - title: Rosa Luxemburgo y el movimiento obrero alemán
     authors:
       - Annelies Laschitza
+    translators:
+      - Malena Barro
     year: 1977
     series: Ciencias políticas
     language: Spanish
@@ -4878,6 +4927,7 @@ titles:
     series: Sociología
     authors:
       - Guennadi Vasilievich Osipov
+    translators:
       - Daniel Rey
     year: 1978
     language: Spanish
@@ -4950,6 +5000,8 @@ titles:
     subtitle: '"Un encuentro del pueblo con su propia historia"'
     authors:
       - Fidel Castro
+    editors:
+      - Juan José Soto Valdespino
     year: 1978
     language: Spanish
     pages: 464
@@ -5098,6 +5150,7 @@ titles:
     verified: true
   - title: El Nacimiento de un mundo
     subtitle: Bolívar dentro del marco de sus propios pueblos
+    original_title: Birth of a World Bolívar de terms of his peoples
     authors:
       - Waldo Frank
     year: 1978
@@ -5671,6 +5724,9 @@ titles:
   - title: Memorias inéditas del censo de 1931
     authors:
       - Ernesto Chávez Alvarez
+    editors:
+      - Gladys Alonso
+      - Ernesto Chávez Álvarez
     year: 1978
     series: Demografía
     language: Spanish
@@ -6124,9 +6180,11 @@ titles:
     verified: true
     pages: 115
   - title: Comentarios a los tres tomos de El Capital
+    original_title: Kommentarii k piervomu tomu "Kapitala" k. Marksa
     series: Teoría económica
     authors:
       - David Iojelevich Rosenberg
+    translators:
       - Julio Travieso Serrano
     year: 1979
     language: Spanish
@@ -6828,6 +6886,7 @@ titles:
         url: https://openlibrary.org/books/OL19375700M
     verified: true
   - title: Caída de la monarquía borbónica de Alfonso XIII, 1917-31
+    original_title: Krushenie monarkhii v Ispanii
     authors:
       - Khose Maria Galan
     year: 1980
@@ -6847,6 +6906,8 @@ titles:
   - title: Colección de artículos de lingüística
     authors:
       - Colectivo de Autores
+    editors:
+      - Angel Luis Fernández Guerra
     year: 1980
     series: Lingüística
     language: Spanish
@@ -7239,6 +7300,8 @@ titles:
   - title: La Juventud acusa al imperialismo
     authors:
       - World Festival of Youth and Students for Peace and Friendship (11th 1978 Havana, Cuba)
+    editors:
+      - Editorial de Ciencias Sociales
     year: 1980
     language: Spanish
     pages: 252
@@ -8834,6 +8897,7 @@ titles:
     verified: true
   - title: Grenada
     subtitle: The World Against the Crime
+    original_title: Granada
     authors: []
     year: 1983
     language: English
@@ -9550,6 +9614,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000812337
     verified: true
   - title: Diario de un mambí ruso
+    original_title: Dva měsjaca na ostrově Kubě
     authors:
       - P. S--ov
     year: 1984
@@ -9825,6 +9890,9 @@ titles:
   - title: Ensayos etnográficos
     authors:
       - Fernando Ortiz
+    editors:
+      - Miguel Barnet
+      - Ángel Luis Fernández
     year: 1984
     series: Pensamiento cubano
     language: Spanish
@@ -9846,6 +9914,8 @@ titles:
   - title: Epistolario de Benito Juárez
     authors:
       - Benito Juárez
+    editors:
+      - Jorge L. Tamayo
     year: 1984
     series: Ediciones políticas
     language: Spanish
@@ -9983,6 +10053,8 @@ titles:
   - title: José Martí, antimperialista
     authors:
       - Centro de Estudios Martianos
+    editors:
+      - Centro de estudios martianos
     year: 1984
     series: Colección de estudios martianos
     language: Spanish
@@ -10355,6 +10427,7 @@ titles:
         url: https://search.worldcat.org/title/16312390
     verified: true
   - title: Los monopolios extranjeros en Cuba, 1898-1958
+    original_title: Inostrannye monopolii na Kube
     series: Economía
     authors:
       - Félix de la Uz
@@ -10769,6 +10842,8 @@ titles:
   - title: Cinco análisis sobre La historia me absolverá
     authors:
       - Melba Hernández
+    editors:
+      - René Llinás Quintáns
     year: 1985
     series: Ediciones jurídicas
     language: Spanish
@@ -11197,6 +11272,8 @@ titles:
   - title: Esclavitud, abolición y racismo
     authors:
       - Julio Angel Carreras
+    editors:
+      - Alfredo A. Sicre Rivas
     year: 1985
     series: Ediciones jurídicas
     language: Spanish
@@ -11587,6 +11664,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991041442349708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Litigio arbitral de comercio exterior
+    original_title: Litigiul arbitral de comerț exterior
     authors:
       - Octavian Căpățînă
     year: 1985
@@ -12488,6 +12566,8 @@ titles:
   - title: Máximo Gómez
     authors:
       - Máximo Gómez
+    editors:
+      - Salvador E. Morales Pérez
     year: 1986
     series: Ediciones políticas
     language: Spanish
@@ -14527,6 +14607,8 @@ titles:
   - title: La múltiple voz de Manuel Sanguily
     authors:
       - Manuel Sanguily
+    editors:
+      - Rafael Cepeda
     year: 1988
     series: Palabra de Cuba
     language: Spanish
@@ -14704,6 +14786,7 @@ titles:
     verified: true
   - title: Migraciones internas
     subtitle: Metodología para su estudio
+    original_title: Metodi izuchenia migratsii nacilieniia
     series: Demografía
     authors:
       - Viktor I. Perevedentsev
@@ -14714,6 +14797,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991013118909708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Nuevo tratado sobre el entendimiento humano
+    original_title: Nouveaux essais sur l'entendement humain
     authors:
       - Gottfried Wilhelm Leibniz
       - Eduardo Ovejero y Maury
@@ -15214,6 +15298,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991018872859708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Cómo delegar con eficacia
+    original_title: Delegate
     authors:
       - Harold L. Taylor
     year: 1989
@@ -16115,6 +16200,7 @@ titles:
     verified: true
   - title: Tabaco en la periferia
     subtitle: El complejo agro-industrial cubano y su movimiento obrero, 1860-1959
+    original_title: Tobacco on the periphery
     authors:
       - Jean Stubbs
     year: 1989
@@ -16303,6 +16389,7 @@ titles:
         url: https://openlibrary.org/books/OL16538634M
     verified: true
   - title: Crítica del juicio
+    original_title: Kritik der Urteilskraft
     authors:
       - Immanuel Kant
       - Jorge Luis Villate Díaz
@@ -17215,6 +17302,8 @@ titles:
   - title: Estudios etnosociológicos
     authors:
       - Fernando Ortiz
+    editors:
+      - Isaac Barreal Fernández
     year: 1991
     series: Pensamiento cubano
     language: Spanish
@@ -17483,6 +17572,8 @@ titles:
     subtitle: El diario perdido
     authors:
       - Carlos Manuel de Céspedes
+    editors:
+      - Eusebio Leal Spengler
     year: 1992
     series: Historia de Cuba
     language: Spanish
@@ -18049,6 +18140,8 @@ titles:
   - title: Etnia y sociedad
     authors:
       - Fernando Ortiz
+    editors:
+      - Isaac Barreal
     year: 1993
     series: Pensamiento cubano
     language: Spanish
@@ -18668,6 +18761,8 @@ titles:
     series: Jurídica
     authors:
       - Cuba
+    editors:
+      - Alfredo A. Sicre Rivas
     year: 1994
     language: Spanish
     sources:
@@ -19203,6 +19298,9 @@ titles:
     subtitle: Pensamiento y acción militares
     authors:
       - Calixto García Iñiguez
+    editors:
+      - José Abreu Cardet
+      - Elia Sintes Gómez
     year: 1996
     series: Palabra de Cuba
     language: Spanish
@@ -23392,6 +23490,8 @@ titles:
   - title: Pensamiento cubano, siglo XIX
     authors:
       - Isabel Monal
+    editors:
+      - Olivia Miranda Francisco
     year: 2002
     series: Filosofía
     language: Spanish
@@ -24497,6 +24597,7 @@ titles:
     verified: true
   - title: América Latina y Estados Unidos
     subtitle: Historia y política país por país
+    original_title: 'Latin America : history, politics, and US policy'
     authors:
       - James D. Cockcroft
     year: 2004
@@ -24983,6 +25084,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/005060707
     verified: true
   - title: La otra historia de Estados Unidos
+    original_title: A people's history of the United States
     authors:
       - Howard Zinn
       - Toni Strubel
@@ -25285,6 +25387,8 @@ titles:
     subtitle: Ideología y revolución en nuestra época
     authors:
       - Lisandro Otero
+    editors:
+      - Roberto Alfonso Ferrer
     year: 2004
     series: Política
     language: Spanish
@@ -25611,6 +25715,7 @@ titles:
     verified: true
   - title: El Código Chávez
     subtitle: Descifrando la intervención de los Estados Unidos en Venezuela
+    original_title: Chávez code
     series: Política
     authors:
       - Eva Golinger
@@ -25900,6 +26005,8 @@ titles:
   - title: Julio Le Riverend y la historia del pensamiento antimperialista cubano
     authors:
       - Julio Le Riverend
+    editors:
+      - Josefina Suárez Serrano
     year: 2005
     series: Historia
     language: Spanish
@@ -25917,8 +26024,11 @@ titles:
     verified: true
   - title: La corrosión del carácter
     subtitle: Consecuencias personales del trabajo en el nuevo capitalismo
+    original_title: 'The Corrosion of Character: The Personal Consequences of Work in the New Capitalism'
     authors:
       - Richard Sennett
+    translators:
+      - Daniel Najmías
     year: 2005
     edition: 1a ed
     language: Spanish
@@ -27251,6 +27361,8 @@ titles:
   - title: Temas históricos del oriente cubano
     authors:
       - Hortensia Pichardo Viñals
+    editors:
+      - Fernando Carr Parúas
     year: 2006
     series: Colección Premio nacional de ciencias sociales
     language: Spanish
@@ -28121,6 +28233,9 @@ titles:
     subtitle: Las voces de los condenados de la tierra de África, Asia y América Latina
     authors:
       - Ulises Estrada
+    editors:
+      - Ulises Estrada Lescaille
+      - Luis Suárez Salazar
     year: 2007
     series: Biblioteca Sur -- 1
     language: Spanish
@@ -28216,6 +28331,8 @@ titles:
     subtitle: El negro en la obra de Nicolás Guillén
     authors:
       - Nicolás Guillén
+    editors:
+      - Denia García Ronda
     year: 2008
     series: Sociología
     language: Spanish
@@ -29478,8 +29595,10 @@ titles:
     verified: true
   - title: La agroenergía
     subtitle: Solución para el clima o salida de la crisis para el capital
+    original_title: L'agroénergie, solution pour le climat ou sortie de crise pour le capital
     authors:
       - François Houtart
+    translators:
       - Lourdes Arencibia
     year: 2009
     language: Spanish
@@ -29523,6 +29642,7 @@ titles:
     verified: true
   - title: La epopeya cubana
     subtitle: La visión del mundo de Fidel Castro, política exterior de la Revolución en un mundo hostil
+    original_title: The Cuban drumbeat. Castro's worldview. Cuban foreign policy in a hostile world
     series: Rebeliones
     authors:
       - Piero Gleijeses
@@ -29649,6 +29769,8 @@ titles:
   - title: Mujeres al margen de la historia
     authors:
       - María del Carmen Barcia
+    editors:
+      - Fernando Carr Parúas
     year: 2009
     language: Spanish
     pages: 251
@@ -30129,7 +30251,8 @@ titles:
   - title: Francisco de Miranda
     subtitle: Precursor de las independencias de América Latina
     series: Alba bicentenario. Biografía
-    authors:
+    authors: []
+    translators:
       - Carmen Bohórquez
     year: 2010
     language: Spanish
@@ -30141,6 +30264,8 @@ titles:
     subtitle: La batalla por el dominio del Caribe y el Golfo de México
     authors:
       - José Luciano Franco
+    editors:
+      - Norma Suárez Suárez
     year: 2010
     series: Alba bicentenario ensayo
     language: Spanish
@@ -30212,6 +30337,8 @@ titles:
     authors:
       - Aurea Matilde Fernández
       - Lillián J. Moreira de Lima
+    editors:
+      - Aurea Matilde Fernández Muñiz
     year: 2010
     series: Historia
     language: Spanish
@@ -30975,6 +31102,7 @@ titles:
     verified: true
   - title: Cuba insurgente
     subtitle: Raza, nación y revolución (1868-1898)
+    original_title: Insurgent Cuba
     authors:
       - Ada Ferrer
     year: 2011
@@ -31244,8 +31372,9 @@ titles:
     series: Economía
     authors:
       - William Arthur Lewis
-      - Silvia Odriozola Guitart
       - Graciela Chailloux
+    translators:
+      - Silvia Odriozola Guitart
     year: 2011
     language: Spanish
     sources:
@@ -31486,6 +31615,9 @@ titles:
   - title: Teoría para el desarrollo económico y social del Caribe
     authors:
       - W. Arthur Lewis
+    translators:
+      - Chailloux, Graciela, 1949- editor
+      - Silvia Odriozola Guitart
     year: 2011
     series: Teoría económica
     language: Spanish
@@ -31651,6 +31783,8 @@ titles:
   - title: Cuba en el movimiento independentista nuestroamericano
     authors:
       - Felipe Pérez Cruz
+    editors:
+      - Felipe de Jesús Pérez Cruz
     year: 2012
     series: Alba bicentenario
     language: Spanish
@@ -31777,6 +31911,8 @@ titles:
       - José Bell Lara
       - Delia Luisa López
       - Tania Caram
+    editors:
+      - Tania Caram León
     year: 2012
     language: Spanish
     pages: 483
@@ -32005,6 +32141,7 @@ titles:
     verified: true
   - title: La mosca azul
     subtitle: Reflexión sobre el poder en Brasil
+    original_title: A Mosca azul
     authors:
       - Betto
     year: 2012
@@ -32555,6 +32692,8 @@ titles:
     authors:
       - Lili Chi
       - José Alejandro Álvarez
+    editors:
+      - Luis M. de las Traviesas Moreno
     year: 2013
     language: Spanish
     pages: 35
@@ -32624,6 +32763,8 @@ titles:
   - title: Resistir en la esperanza
     authors:
       - Adolfo Pérez Esquivel
+    editors:
+      - Andrés Pérez Esquivel
     year: 2013
     language: Spanish
     pages: 212
@@ -32695,6 +32836,8 @@ titles:
   - title: Apuntes autobiográficos de la vida de Ricardo Batrell Oviedo
     authors:
       - Ricardo Batrell
+    editors:
+      - René González Barrios
     year: 2014
     edition: Edición crítica
     language: Spanish
@@ -32772,6 +32915,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=839315295
     verified: true
   - title: Cuba en el imaginario de los Estados Unidos
+    original_title: Cuba in the American imagination
     authors:
       - Louis A. Pérez
     year: 2014
@@ -33211,6 +33355,7 @@ titles:
     verified: true
   - title: Cuba Estados Unidos
     subtitle: Cronología de una historia
+    original_title: The Cuban Revolution and the United States
     authors:
       - Jane Franklin
     year: 2015
@@ -33431,6 +33576,8 @@ titles:
     subtitle: Cuba (1902-2000)
     authors:
       - Mildred de la Torre
+    editors:
+      - Mildred de la Torre Molina
     year: 2015
     language: Spanish
     pages: 182
@@ -33603,6 +33750,7 @@ titles:
     verified: true
   - title: Visiones de libertad
     subtitle: La Habana, Washington, Pretoria y la lucha por el sur de África (1976-1991)
+    original_title: Visions of freedom
     authors:
       - Piero Gleijeses
     year: 2015
@@ -34006,6 +34154,7 @@ titles:
     verified: true
   - title: Paraíso perdido
     subtitle: Viajes al mundo socialista
+    original_title: Paraíso perdido
     authors:
       - Betto
     year: 2016
@@ -34111,9 +34260,13 @@ titles:
     verified: true
   - title: Cuba Estados Unidos
     subtitle: La normalización y sus desafíos
+    original_title: 'Cuba-US relations: normalization and its challenges'
     authors:
       - Margaret E. Crahan
       - Soraya M. Castro Mariño
+    editors:
+      - Soraya Castro Mariño
+    translators:
       - C. Gerardo García Cabrera
     year: 2017
     language: Spanish
@@ -34215,6 +34368,7 @@ titles:
     verified: true
   - title: La estructura de la historia de Cuba
     subtitle: Significados y propósitos del pasado
+    original_title: The structure of Cuban history
     authors:
       - Louis A. Pérez
     year: 2017
@@ -34546,6 +34700,9 @@ titles:
     subtitle: Transformaciones agrarias, dinámicas sociales e innovación local
     authors:
       - Arisbel Leyva Remón
+    editors:
+      - Dayma Echevarría León
+      - Rubén Villegas Chádez
     year: 2018
     language: Spanish
     pages: 417
@@ -34707,6 +34864,8 @@ titles:
     authors:
       - Milagros Martínez
       - Sheryl Lutjens
+    editors:
+      - Sheryl L. Lutjens
     year: 2018
     language: Spanish
     pages: 394
@@ -34726,6 +34885,7 @@ titles:
   - title: Historia económica del Caribe desde las guerras napoleónicas
     authors:
       - Victor Bulmer-Thomas
+    translators:
       - Gerardo García Cabrera
     year: 2018
     language: Spanish
@@ -34761,6 +34921,8 @@ titles:
       - Rayza Portal Moreno
       - Raúl Garcés
       - Willy Pedroso Aguiar
+    editors:
+      - Raul Garcés Corra
     year: 2018
     language: Spanish
     pages: 290
@@ -34840,6 +35002,7 @@ titles:
       - Mitsuru Higuchi Yanaze
       - Felipe Chibás Ortiz
       - Kleber Markus
+    translators:
       - Berta Hernández López
     year: 2018
     language: Spanish
@@ -34986,8 +35149,10 @@ titles:
     verified: true
   - title: Concebir la libertad
     subtitle: Mujeres de color, género y abolición de la esclavitud en La Habana y Río de Janeiro
+    original_title: 'Título original en inglés: Conceiving Freedom. Women of Color, Gonder and the abolition of Slavery in Havana and Rio de Janeriro'
     authors:
       - Camilia Cowling
+    translators:
       - Natalia Labzouskaya
     year: 2019
     language: Spanish

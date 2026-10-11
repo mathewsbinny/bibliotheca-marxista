@@ -722,6 +722,8 @@ titles:
     subtitle: 'My Life, My Fate, My Epoch: The Memoirs of Nadezhda a. Joffe'
     authors:
       - Nadezhda Ioffe
+    translators:
+      - Frederick S. Choate
     year: 1995
     language: English
     pages: 245
@@ -753,6 +755,8 @@ titles:
     subtitle: Stalin's Year of Terror
     authors:
       - Vadim Zakharovich Rogovin
+    translators:
+      - Frederick S. Choate
     year: 1998
     language: English
     pages: 550
@@ -863,8 +867,11 @@ titles:
     verified: true
   - title: Stalin's Terror of 1937-1938
     subtitle: Political Genocide in the USSR
+    original_title: Partiâ rasstrelânnyh
     authors:
       - Vadim Zakharovich Rogovin
+    translators:
+      - Frederick S. Choate
     year: 2009
     language: English
     isbn: '9781893638044'
@@ -912,8 +919,11 @@ titles:
         url: https://lccn.loc.gov/2012017105
     verified: true
   - title: The Suppression of Philosophy in the USSR (the 1920s & 1930s)
+    original_title: Podavlenie filosofii v SSSR (20-30 gody)
     authors:
       - Ovšij Ovšievič Jachot
+    translators:
+      - Frederick S. Choate
     year: 2012
     language: English
     sources:
@@ -1014,6 +1024,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1974284522
     verified: true
   - title: Bolsheviks Against Stalinism (1928/1933)
+    original_title: Vlastʹ i oppozit︠s︡ii
     series: Was There an Alternative?
     authors:
       - Vadim Zakharovich Rogovin
@@ -1040,9 +1051,11 @@ titles:
     verified: true
   - title: Was There an Alternative? 1923-1927
     subtitle: 'Trotskyism: A Look Back Through the Years'
+    original_title: Byla li alʹternativa?
     series: Was There an Alternative?; Volume 1
     authors:
       - Vadim Zacharovič Rogovin
+    translators:
       - Frederick Choate
     year: 2021
     language: English

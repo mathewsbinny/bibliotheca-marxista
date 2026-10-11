@@ -48,11 +48,13 @@ titles:
         url: https://openlibrary.org/books/OL18515736M
     verified: true
   - title: Kraatrid tules
+    original_title: Cratères en feu
     authors:
       - Haroun Tazieff
+      - Evi Tihemets
+    translators:
       - S. Tuil
       - Helle Michelson
-      - Evi Tihemets
     year: 1964
     language: Estonian
     sources:
@@ -299,6 +301,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=220359180
     verified: true
   - title: A Little Picture-Book of Estonia
+    original_title: Väike pildiraamat Eestis
     authors:
       - Armult Reinsalu
     year: 1965
@@ -333,6 +336,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=444118608
     verified: true
   - title: Aja kolm värvi
+    original_title: Tri cveta vremeni
     series: Ajalooline romaan
     authors:
       - Anatolij K. Vinogradov
@@ -345,6 +349,8 @@ titles:
   - title: Arkadio Laigo ekslibristest
     authors:
       - Arkadio Laigo
+    editors:
+      - Paul Ambur
     year: 1965
     language: Russian
     pages: 45
@@ -853,6 +859,7 @@ titles:
     subtitle: Elu ja looming
     authors:
       - Anatolij Aleksandrovič Solovcov
+    translators:
       - G. Toompea
     year: 1965
     language: Estonian
@@ -865,6 +872,8 @@ titles:
   - title: Haapsalu
     authors:
       - Guido Raudver
+    editors:
+      - Gujdo-Roland Raudver
     year: 1965
     language: Estonian
     sources:
@@ -1082,6 +1091,7 @@ titles:
   - title: Kalad laulavad Ucayalis
     authors:
       - Arkady Fiedler
+    translators:
       - Aleksander Raid
     year: 1965
     language: Estonian
@@ -1567,6 +1577,7 @@ titles:
     authors:
       - Artur Vahter
       - Leo Normet
+    translators:
       - A. Mâting
     year: 1965
     language: Russian
@@ -1978,6 +1989,9 @@ titles:
     subtitle: Artiklite kogumik
     authors:
       - H. Moora
+    editors:
+      - Harri Moora
+      - Lembit Jaanits
     year: 1965
     language: Estonian
     pages: 265
@@ -2204,6 +2218,8 @@ titles:
   - title: Töid EKP ajaloo alalt
     authors:
       - Eestimaa Kommunistlik Partei. Partei Ajaloo Instituut
+    editors:
+      - Olaf Kuuli
     year: 1965
     language: Estonian
     pages: 12
@@ -4017,6 +4033,8 @@ titles:
   - title: Sonas ja pildis
     authors:
       - Friedebert Tuglas
+    editors:
+      - Paul Rummo
     year: 1966
     language: Estonian
     sources:
@@ -4044,6 +4062,7 @@ titles:
   - title: Suur, suurem, k~oige suurem
     authors:
       - Jerzy Broszkiewicz
+    translators:
       - Aleksander Kurtna
     year: 1966
     language: Estonian
@@ -4253,6 +4272,7 @@ titles:
   - title: Tuhk ja teemant
     authors:
       - Jerzy Andrzejewski
+    translators:
       - Ruth Karemäe
     year: 1966
     language: Estonian
@@ -4563,8 +4583,11 @@ titles:
     verified: true
   - title: 14. Juuli
     subtitle: Revolutsioonidraama
+    original_title: Le 14 Juillet
     authors:
       - Romain Rolland
+    translators:
+      - Jaan Kross
     year: 1967
     language: Estonian
     sources:
@@ -4691,6 +4714,9 @@ titles:
   - title: Eesti muinasjutud
     authors:
       - Vaina Mälk
+    editors:
+      - Ingrid Sarv
+      - Richard-Voldemar Viidalepp
     year: 1967
     language: Estonian
     pages: 526
@@ -4886,6 +4912,8 @@ titles:
     verified: true
   - title: 'Estonian SSR: Book of Reference'
     authors: []
+    translators:
+      - K. Tarand
     year: 1967
     language: English
     pages: 163
@@ -4925,11 +4953,13 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991134063989705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Faust
+    original_title: Faust
     authors:
       - Johann Wolfgang von Goethe
-      - August Sang
       - S. Liiberg
       - Josef Hegenbarth
+    translators:
+      - August Sang
     year: 1967
     language: Estonian
     sources:
@@ -4952,6 +4982,8 @@ titles:
   - title: Guide to Pärnu
     authors:
       - F. Grodinski
+    translators:
+      - V. Vekshin
     year: 1967
     language: English
     pages: 62
@@ -5072,9 +5104,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=428285708
     verified: true
   - title: Jevgeni Onegin
+    original_title: Evgenij Onegin
     series: Kooli kirjavara
     authors:
       - Aleksander S. Puškin
+    translators:
       - Betti Alver
     year: 1967
     language: Estonian
@@ -5241,6 +5275,7 @@ titles:
   - title: Külas on pulmad
     authors:
       - Maria Dąbrowska
+    translators:
       - Aleksander Kurtna
     year: 1967
     language: Estonian
@@ -5474,6 +5509,11 @@ titles:
     authors:
       - Erica Kuldkepp
       - Pärja Toovere
+    editors:
+      - Ivan Helm
+      - Linda Ploompuu
+      - Leelo Rebane
+      - Aino Tann
     year: 1967
     language: Estonian
     sources:
@@ -5641,8 +5681,10 @@ titles:
         url: https://openlibrary.org/books/OL18383771M
     verified: true
   - title: Poja pärast
+    original_title: Au nom du fils
     authors:
       - Hervé Bazin
+    translators:
       - P. Viires
     year: 1967
     language: Estonian
@@ -6365,6 +6407,7 @@ titles:
   - title: Werner Holti seiklused
     authors:
       - Dieter Noll
+    translators:
       - Viktor Tomberg
     year: 1967
     language: Russian
@@ -7073,6 +7116,7 @@ titles:
         url: https://search.worldcat.org/title/24819699
     verified: true
   - title: Klouni silmaga
+    original_title: Ansichten eines Clowns
     authors:
       - Heinrich Böll
       - E. Valdna
@@ -7284,8 +7328,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=857866915
     verified: true
   - title: Luuletusi
+    original_title: Lyrische und epische Dichtungen
     authors:
       - Johann Wolfgang von Goethe
+    translators:
       - August Sang
     year: 1968
     language: Estonian
@@ -7390,6 +7436,7 @@ titles:
         url: https://openlibrary.org/books/OL19113047M
     verified: true
   - title: Meister ja Margarita
+    original_title: Master i Margarita
     authors:
       - Michail Bulgakov
       - Thomas Reschke
@@ -7673,6 +7720,7 @@ titles:
     subtitle: Pan Kleksi reisid
     authors:
       - Jan Brzechwa
+    translators:
       - Aleksander Kurtna
     year: 1968
     language: Estonian
@@ -7721,6 +7769,8 @@ titles:
   - title: Punane Kunda. 1870
     authors:
       - O. Karma
+    editors:
+      - Institut Istorii
     year: 1968
     language: Estonian
     pages: 256
@@ -7902,6 +7952,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=195262824
     verified: true
   - title: Sowjet-estnische Musik
+    original_title: Nõukogude Eesti muusikast
     authors:
       - Artur Vahter
     year: 1968
@@ -7916,6 +7967,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=115014551
     verified: true
   - title: Stiller
+    original_title: Stiller
     series: XX sajandi Raamat
     authors:
       - Max Frisch
@@ -7951,6 +8003,7 @@ titles:
   - title: Surm Roomas
     authors:
       - Wolfgang Koeppen
+    translators:
       - V. Tomberg
     year: 1968
     language: Russian
@@ -7971,6 +8024,7 @@ titles:
   - title: Sylvestre Bonnard'i roim
     authors:
       - Anatole France
+    translators:
       - Aita Kurfeldt
     year: 1968
     language: Estonian
@@ -8019,6 +8073,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=85787215X
     verified: true
   - title: Tallinner Wetterfahnen
+    original_title: Tallinna tuulelipud
     authors:
       - Valli Konsap
     year: 1968
@@ -8415,6 +8470,8 @@ titles:
     subtitle: (1906-1966)
     authors:
       - Akademija Nauk Ėstonskoj SSR
+    editors:
+      - Eesti NSV Riiklik Akadeemiline
     year: 1969
     language: Estonian
     sources:
@@ -8709,6 +8766,8 @@ titles:
   - title: Eesti kirjanduste ajalugu
     authors:
       - Keele ja kirjanduse instituut
+    editors:
+      - Heino Puhvel
     year: 1969
     language: Estonian
     sources:
@@ -9360,6 +9419,7 @@ titles:
     verified: true
   - title: Kreeklane otsib kreeklannat
     subtitle: Proosakomöödia
+    original_title: Grieche sucht Griechin
     authors:
       - Friedrich Dürrenmatt
       - R. Tasa
@@ -9803,6 +9863,7 @@ titles:
     verified: true
   - title: Nastupil denʹ
     subtitle: Vospominanija učastnikov revoljucionnych sobytij 1940 goda v Ėstonii
+    original_title: Saabus päev
     authors:
       - Ch Sooman
       - Magnus Teder
@@ -10151,6 +10212,7 @@ titles:
   - title: Starinnyė ėstonskie narodnye skazki
     authors:
       - Friedrich Reinhold Kreutzwald
+    translators:
       - G. Rejndorf
     year: 1969
     language: Russian
@@ -10169,6 +10231,7 @@ titles:
   - title: Surmalaev
     authors:
       - B. Traven
+    translators:
       - Viktor Tomberg
     year: 1969
     language: Russian
@@ -10253,6 +10316,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=41453493X
     verified: true
   - title: Talveturist
+    original_title: Talvituristi
     authors:
       - Veikko Huovinen
       - Tiiu Kokla
@@ -10581,6 +10645,7 @@ titles:
   - title: Veel enne kostma peab
     authors:
       - Paul Éluard
+    translators:
       - Jaan Kross
     year: 1969
     language: Estonian
@@ -10801,8 +10866,10 @@ titles:
     verified: true
   - title: Ebaloomad
     subtitle: Romaan
+    original_title: Les animaux dénaturés
     authors:
       - Jean Bruller
+    translators:
       - Lennart Meri
     year: 1970
     language: Estonian
@@ -11015,6 +11082,7 @@ titles:
     verified: true
   - title: Estonian Literature
     subtitle: Historical Survey with Biobibliographical Appendix
+    original_title: Eesti kirjanduse ajalugu
     authors:
       - Endel Nirk
     year: 1970
@@ -11090,8 +11158,10 @@ titles:
     verified: true
   - title: Inimese tragöödia
     subtitle: Värssdraama
+    original_title: Az ember tragédiája
     authors:
       - Imre Madách
+    translators:
       - Jaan Kross
     year: 1970
     language: Estonian
@@ -11332,8 +11402,9 @@ titles:
     subtitle: Soome muinasjutte
     authors:
       - Raul Roine
-      - Linda Viiding
       - Helga Sjöstedt
+    translators:
+      - Linda Viiding
     year: 1970
     language: Estonian
     sources:
@@ -11399,6 +11470,7 @@ titles:
   - title: Kuningas Henri IV meheiga
     authors:
       - Heinrich Mann
+    translators:
       - H. Välk
       - Armand Tungal
     year: 1970
@@ -11586,8 +11658,9 @@ titles:
     authors:
       - Jacob Grimm
       - Wilhelm Grimm
-      - L. Ronk
       - Iivi Sampu-Raudsepp
+    translators:
+      - L. Ronk
     year: 1970
     language: Estonian
     sources:
@@ -11920,6 +11993,8 @@ titles:
     authors:
       - E. Raiküla
       - Rasmus Kangropool
+    editors:
+      - M. Ruljand
     year: 1970
     language: Russian
     sources:
@@ -11965,6 +12040,7 @@ titles:
     subtitle: Rasprostranenie Leninskich idej i boŕba za ebinstvo rabočego dviženija v Ėstonii v dooktjabŕskij period (1902-1917)
     authors:
       - Erich Kaup
+    translators:
       - M. Kulisovoj
     year: 1970
     language: Russian
@@ -12037,6 +12113,8 @@ titles:
       - H. Tampere
       - H. Kokamägi
       - Fr. R. Kreutzwaldi nimeline Kirjandusmuuseum
+    editors:
+      - Herbert Tampere
     year: 1970
     language: Estonian
     pages: 367
@@ -12811,7 +12889,9 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=322613779
     verified: true
   - title: Vanem Edda
-    authors:
+    original_title: Eddukvæđi
+    authors: []
+    translators:
       - Rein Sepp
     year: 1970
     language: Estonian
@@ -12862,9 +12942,11 @@ titles:
     verified: true
   - title: Vesna
     subtitle: Kartinki iz školʹnoĭ žizni
+    original_title: Kevade
     authors:
       - Oskar Luts
       - Richard Kaljo
+    translators:
       - B. Lijvak
       - B. Liivak (Б. Лийвак)
       - Valentin Solomonovič Ruškis
@@ -12985,6 +13067,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1073628264
     verified: true
   - title: Wirtschaft und Gesellschaftsordnung der Völker des Baltikums zu Anfang des 13. Jahrhunderts
+    original_title: Khoziaistvo i obshchestvennyi stroi narodov Pribaltiki v nachale XIII veka
     authors:
       - H. Moora
     year: 1970
@@ -13055,6 +13138,9 @@ titles:
     verified: true
   - title: 1917. aasta märtsist kuni 50-ndate aastate alguseni
     authors: []
+    editors:
+      - Viktor Maamägi
+      - Juhan Kahk
     year: 1971
     language: Estonian
     sources:
@@ -13184,6 +13270,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1559862173
     verified: true
   - title: Alice Imedemaal
+    original_title: Alices Adventures in wonderland
     authors:
       - Lewis Carroll
     year: 1971
@@ -13246,6 +13333,7 @@ titles:
     verified: true
   - title: Breemeni raekeldri fantaasiad
     subtitle: Sügiskingitus veiniso"pradele"
+    original_title: Phantasien im Bremer Ratskeller
     series: Klassikalised Lood
     authors:
       - Wilhelm Hauff
@@ -13279,8 +13367,11 @@ titles:
     verified: true
   - title: Colas Breugnon
     subtitle: Elame veel!
+    original_title: Colas Breugnon
     authors:
       - Romain Rolland
+    translators:
+      - Marta Sillaots
     year: 1971
     language: Estonian
     sources:
@@ -13666,6 +13757,7 @@ titles:
     verified: true
   - title: Jumalaema kirik Pariisis
     subtitle: Romaan
+    original_title: Notre-Dame de Paris
     authors:
       - Victor Hugo
     year: 1971
@@ -13984,6 +14076,8 @@ titles:
   - title: Laulud nüüd lähevad kaunimal kõlal vägevail vooludel üle me maa
     authors:
       - Paul Rummo
+    editors:
+      - Aarne Mesikäpp
     year: 1971
     language: Estonian
     sources:
@@ -14110,6 +14204,7 @@ titles:
   - title: Matk naeratuse eest
     authors:
       - Adam Bahdaj
+    translators:
       - Aleksander Kurtna
     year: 1971
     language: Estonian
@@ -14153,6 +14248,7 @@ titles:
   - title: Mont-Oriol
     authors:
       - Guy de Maupassant
+    translators:
       - Aino Pärsimägi
     year: 1971
     language: Estonian
@@ -14200,6 +14296,7 @@ titles:
   - title: Mozarti reis Prahasse
     authors:
       - Eduard Mörike
+    translators:
       - H. Silvet
     year: 1971
     language: Russian
@@ -14297,8 +14394,11 @@ titles:
         url: https://www.sudoc.fr/269223673
     verified: true
   - title: Nils Holgerssoni imeline teekond läbi Rootsi
+    original_title: Nils Holgerssons underbara resa genom Sverige
     authors:
       - Selma Lagerlöf
+    translators:
+      - Vladimir Beekman
     year: 1971
     language: Estonian
     pages: 526
@@ -14318,8 +14418,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=557232910
     verified: true
   - title: Nüüdisaegne lugu
+    original_title: Histoire contemporaine
     authors:
       - Anatole France
+    translators:
       - H. Kaarde
     year: 1971
     language: Estonian
@@ -14483,6 +14585,8 @@ titles:
   - title: Pirita
     authors:
       - Koostanud M. Margus
+    editors:
+      - Malev Margus
     year: 1971
     language: Estonian
     pages: 125
@@ -14861,6 +14965,7 @@ titles:
         url: https://openlibrary.org/books/OL17425692M
     verified: true
   - title: Sodurid nutavad öösel
+    original_title: Los soldados lloran de noche
     authors:
       - Ana María Matute
       - A. Kurfeldt
@@ -15049,6 +15154,8 @@ titles:
   - title: Tallinna sepis
     authors:
       - B. Murd
+    editors:
+      - Heinrich Valk
     year: 1971
     language: Estonian
     pages: 92
@@ -15614,6 +15721,7 @@ titles:
   - title: Aetius, viimne Roomlane
     authors:
       - Teodor Parnicki
+    translators:
       - Aleksander Raid
     year: 1972
     language: Estonian
@@ -15688,6 +15796,8 @@ titles:
     authors:
       - Friedrich Reinhold Kreutzwald
       - Iivi Sampu-Raudsepp
+    translators:
+      - Aleksander Baer
     year: 1972
     language: German
     sources:
@@ -15724,6 +15834,7 @@ titles:
     verified: true
   - title: Èduard Syrmus
     subtitle: Monografiâ
+    original_title: Eduard Sõrmus
     authors:
       - Harri Kõrvits
       - Kharri Kyrvits (Харри Кырвитс)
@@ -16044,8 +16155,10 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991036214879708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Faust
+    original_title: Faust
     authors:
       - Johann Wolfgang von Goethe
+    translators:
       - August Sang
     year: 1972
     language: Estonian
@@ -16070,6 +16183,7 @@ titles:
   - title: Gavroche
     authors:
       - Victor Hugo
+    translators:
       - Nataliâ Kasatkina
     year: 1972
     language: Estonian
@@ -16102,8 +16216,11 @@ titles:
         url: https://www.sudoc.fr/233282297
     verified: true
   - title: Hälin ja raev
+    original_title: The Sound and the Fury
     authors:
       - William Faulkner
+    translators:
+      - Enn Soosaar
     year: 1972
     series: Varamu
     language: Estonian
@@ -16199,7 +16316,8 @@ titles:
     pages: 95
   - title: Himplike ja Pimplike
     subtitle: Valimik saksa lastelaule
-    authors:
+    authors: []
+    translators:
       - Heljo Mänd
     year: 1972
     language: Russian
@@ -16210,9 +16328,10 @@ titles:
   - title: Istoriâ Tallina
     subtitle: S načala 60-h godov XIX stoletiâ do 1970 goda
     authors:
-      - È. Èpik
       - Raimo Pullat
       - Raimo Pullat (Раймо Пуллат)
+    translators:
+      - È. Èpik
       - T. Verhoustinskaâ
       - T. Verkhoustinskaia (Т. Верхоустинская)
     year: 1972
@@ -16396,6 +16515,7 @@ titles:
   - title: Kaunimad laulud
     authors:
       - Eino Leino
+    translators:
       - Debora Vaarandi
       - August Annist
       - Gustav Suits
@@ -16408,6 +16528,7 @@ titles:
   - title: Kevadest ja surmast
     authors:
       - Władysław Broniewski
+    translators:
       - Mats Traat
     year: 1972
     language: Estonian
@@ -16576,6 +16697,8 @@ titles:
     authors:
       - Miguel de Cervantes Saavedra
       - A. Kurfeldt
+    translators:
+      - Aita Kurfeldt
     year: 1972
     language: Estonian
     sources:
@@ -16966,6 +17089,7 @@ titles:
   - title: Muusika sõnastik
     authors:
       - Jerzy Habela
+    translators:
       - Guno Tõnismann
     year: 1972
     language: Estonian
@@ -17147,8 +17271,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=545359694
     verified: true
   - title: Nüüdisaegne lugu
+    original_title: L'anneau d'améthyste
     authors:
       - Anatole France
+    translators:
       - Aino Pärsimägi
     year: 1972
     language: Estonian
@@ -17428,8 +17554,10 @@ titles:
         url: https://d-nb.info/578113937
     verified: true
   - title: See on siis kevad
+    original_title: Se on sitten kevät
     authors:
       - Marja-Liisa Vartio
+    translators:
       - Luule Kastein
     year: 1972
     language: Estonian
@@ -17477,8 +17605,10 @@ titles:
     verified: true
   - title: Sõge-Kaulsi kaksikud
     subtitle: Romaan
+    original_title: Velnakaula dvīni
     authors:
       - Egons Līvs
+    translators:
       - Ita Saks
     year: 1972
     language: Estonian
@@ -17537,8 +17667,10 @@ titles:
         url: https://openlibrary.org/books/OL20557584M
     verified: true
   - title: Surm ja vihm
+    original_title: Der Tod und der Regen
     authors:
       - Harry Thürk
+    translators:
       - Rita Tasa
     year: 1972
     language: Estonian
@@ -17796,6 +17928,7 @@ titles:
     verified: true
   - title: Tundekasvatus
     subtitle: Ühe noormehe lugu
+    original_title: L'Education sentimentale
     authors:
       - Gustave Flaubert
       - Paul Viires
@@ -18346,6 +18479,7 @@ titles:
     verified: true
   - title: Ahvide planeet
     subtitle: Prantsuse keelest tōlkinud Lennart Meri
+    original_title: La planète des singes
     authors:
       - Pierre Boulle
     year: 1973
@@ -18850,6 +18984,7 @@ titles:
   - title: Iginoor mees
     authors:
       - Sándor Petőfi
+    translators:
       - Ellen Niit
     year: 1973
     language: Estonian
@@ -19196,6 +19331,7 @@ titles:
   - title: Lahtine aken
     authors:
       - Andrzej Piwowarczyk
+    translators:
       - Aleksander Kurtna
     year: 1973
     language: Estonian
@@ -20100,6 +20236,7 @@ titles:
   - title: Suits uudismaa
     authors:
       - Ivan Sergeevič Turgenev
+    translators:
       - Hans Luik
       - Helgi Limberg
       - Armand Tungal
@@ -20120,8 +20257,10 @@ titles:
         url: https://openlibrary.org/books/OL18337470M
     verified: true
   - title: Swanni armastus
+    original_title: Un amour de Swann
     authors:
       - Marcel Proust
+    translators:
       - Leili-Maria Kask
     year: 1973
     language: Estonian
@@ -20205,10 +20344,12 @@ titles:
     verified: true
   - title: Teemandiostsijad
     subtitle: Jutustus
+    original_title: Iskateli almazov
     authors:
       - Nikolai Jakutski
-      - Jüri Pärni
       - G. Akulov
+    translators:
+      - Jüri Pärni
     year: 1973
     language: Estonian
     sources:
@@ -20459,6 +20600,7 @@ titles:
   - title: Udivitel'nyj den'
     authors:
       - Paul Kuusberg
+    translators:
       - Mariâ Kulišova
     year: 1973
     language: Russian
@@ -20530,6 +20672,7 @@ titles:
         url: https://search.worldcat.org/title/78721787
     verified: true
   - title: Väike Mukk
+    original_title: Die Geschichte vom kleinen Muck
     authors:
       - Wilhelm Hauff
       - Agnes Kerge
@@ -20765,6 +20908,7 @@ titles:
         url: https://search.worldcat.org/title/82314617
     verified: true
   - title: Zamok Toompea
+    original_title: Tallinna linnus
     series: Dostoprimecatel'nosti Tallina
     authors:
       - Elmo Raadik
@@ -21152,6 +21296,8 @@ titles:
   - title: Eesti taimeriigis
     authors:
       - Enno Väljal
+    editors:
+      - Silvi Väljal
     year: 1974
     language: Estonian
     pages: 142
@@ -21243,6 +21389,7 @@ titles:
   - title: Fatima juhtum
     authors:
       - Fritz Erpenbeck
+    translators:
       - Lydia Riikoja
     year: 1974
     language: Russian
@@ -21521,8 +21668,10 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BD13253037
     verified: false
   - title: Kättemaks
+    original_title: Vozmezdie
     authors:
       - Vasilij Ivanovič Ardamatskij
+    translators:
       - Hans Luik
     year: 1974
     language: Estonian
@@ -21713,10 +21862,12 @@ titles:
     verified: true
     subtitle: = Razmyšlenija u kostra
   - title: Lugusid loomadest
+    original_title: Lobo, the king of Currumpaw and other stories
     authors:
       - Ernest Thompson Seton
-      - Ester Heinaste
       - Sandor Stern
+    translators:
+      - Ester Heinaste
     year: 1974
     language: Estonian
     sources:
@@ -21842,6 +21993,7 @@ titles:
         url: https://d-nb.info/1011177692
     verified: true
   - title: Marsi kroonikad
+    original_title: The Martian chronicles
     series: Mirabilia
     authors:
       - Ray Bradbury
@@ -22010,6 +22162,7 @@ titles:
   - title: Musta lipu all
     authors:
       - Jacek Machowski
+    translators:
       - Aleksander Raid
     year: 1974
     language: Estonian
@@ -22049,6 +22202,7 @@ titles:
     authors:
       - Molière
       - Ott Ojamaa
+    translators:
       - Aleksander Aspel
       - Tatjana Hallap
       - Reinhold Kask
@@ -22202,10 +22356,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=507714970
     verified: true
   - title: Pajdenskij rajon
+    original_title: Siin- ja sealpool maanteed
     series: Po obeim storonam dorogi
     authors:
       - Helmut Joonuks
       - Khelmut Ioonuks (Хельмут Йоонукс)
+    translators:
       - Helene Kurg
       - Khelene Kurg (Хелене Кург)
     year: 1974
@@ -22289,6 +22445,7 @@ titles:
     authors:
       - Venda Sõelsepp
       - Silvi Väljal
+    translators:
       - Helga Viira
     year: 1974
     language: German
@@ -22306,7 +22463,8 @@ titles:
         url: https://d-nb.info/101533251X
     verified: true
   - title: Po Èstonskoj zemle
-    authors:
+    authors: []
+    translators:
       - N. Rumâncev
       - N. Rumiantsev (Н. Румянцев)
     year: 1974
@@ -22506,6 +22664,8 @@ titles:
     authors:
       - Mesikäpp, Aarne, comp
       - H. Treimann
+    editors:
+      - Aarne Mesikäpp
     year: 1974
     language: English, Finnish, French, German, Russian, Estonian
     sources:
@@ -22603,6 +22763,7 @@ titles:
   - title: Sinustki vōib saada indiaanlane
     authors:
       - Wiktor Woroszylski
+    translators:
       - Aleksander Kurtna
     year: 1974
     language: Estonian
@@ -22807,10 +22968,12 @@ titles:
     verified: true
   - title: Tartuskij rajon
     subtitle: Po obeim storonam dorogi
+    original_title: Siin- ja sealpool maanteed
     series: Po obeim storonam dorogi
     authors:
       - Kaljola Kirt
       - Kalola Kirt (Кальола Кирт)
+    translators:
       - R. Ans
       - R. Ans (Р. Анс)
     year: 1974
@@ -23269,6 +23432,7 @@ titles:
         url: https://search.worldcat.org/title/22829851
     verified: true
   - title: '"Hukkunud alpinisti" hotell'
+    original_title: Otel' "u pogibšego al'pinista"
     series: Mirabilia
     authors:
       - Arkadij Strugackij
@@ -23510,6 +23674,8 @@ titles:
     authors:
       - Endel Nirk
       - Endel Sõgel
+    editors:
+      - Sõgel Endel
     year: 1975
     language: Estonian
     pages: 462
@@ -23606,6 +23772,8 @@ titles:
   - title: Eesti rahvapillid ja rahvatantsud
     authors:
       - H. Tampere
+    editors:
+      - Herbert Tampere
     year: 1975
     language: Estonian
     pages: 220
@@ -23749,6 +23917,7 @@ titles:
     authors:
       - Endel Mallene
       - Endel Mallene (Эндель Маллене)
+    translators:
       - M. Kulišova
       - M. Kulishova (М. Кулишова)
     year: 1975
@@ -23772,6 +23941,7 @@ titles:
   - title: Ėstonskoj knige 450 let
     authors:
       - Endel Priidel
+    translators:
       - A. Toots
     year: 1975
     language: Russian
@@ -24188,6 +24358,7 @@ titles:
   - title: Kolm mikroromaani
     authors:
       - Kornel Filipowicz
+    translators:
       - Nora Kaplinski
       - Ruth Karemäe
     year: 1975
@@ -25052,8 +25223,10 @@ titles:
     verified: true
   - title: Siber
     subtitle: Romaan
+    original_title: Sibir'
     authors:
       - Georgij Mokeevič Markov
+    translators:
       - Evi Puskar
     year: 1975
     language: Estonian
@@ -25425,6 +25598,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=562646035
     verified: true
   - title: Väike nõid
+    original_title: Die kleine Hexe
     authors:
       - Otfried Preußler
       - Vladimir Beekman
@@ -25769,6 +25943,7 @@ titles:
     verified: true
   - title: Čto vy znaete ob Oskare
     subtitle: Perevod s èstonskogo
+    original_title: Hida de teate Oskarist
     authors:
       - Holger Pukk
     year: 1976
@@ -26135,6 +26310,7 @@ titles:
   - title: Härra de Molière'i elu
     authors:
       - Mihail Afanasʹevič Bulgakov
+    translators:
       - Arthur Gross
       - Ott Ojamaa
     year: 1976
@@ -26183,6 +26359,7 @@ titles:
   - title: Inglite mäss
     authors:
       - Anatole France
+    translators:
       - Ott Ojamaa
       - Nora Kaplinski
     year: 1976
@@ -26226,6 +26403,7 @@ titles:
     verified: true
   - title: Izgnanie fašistov iz Ûžnoj Èstonii
     subtitle: Avgust-sentâbrʹ 1944 g
+    original_title: Nemad vabastasid Louna-Eesti. 1944. aasta augustis-septembris
     authors:
       - Arved Kalvo
       - Arved Kalvo (Арвед Калво)
@@ -26854,10 +27032,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=374932980
     verified: true
   - title: Milkman of the Manor
+    original_title: Mäeküla piimamees
     authors:
       - Eduard Vilde
-      - M. Rauk
       - A. Hoidre
+    translators:
+      - M. Rauk
     year: 1976
     language: English
     sources:
@@ -26877,11 +27057,13 @@ titles:
       - label: Read or download (Internet Archive)
         url: https://archive.org/details/eduard-vilde-milkman-of-the-manor-eesti-raamat-1976
   - title: Minu pere ja muud loomad
+    original_title: My family and other animals
     authors:
       - Gerald Durrell
+      - Edgar Valter
+    translators:
       - Piret Saluri
       - Rein Saluri
-      - Edgar Valter
     year: 1976
     language: Estonian
     sources:
@@ -27021,6 +27203,7 @@ titles:
     authors:
       - Alina Centkiewiczowa
       - Czesław Jacek Centkiewicz
+    translators:
       - Nora Kaplinski
     year: 1976
     language: Estonian
@@ -27357,6 +27540,7 @@ titles:
         url: https://search.worldcat.org/title/82323375
     verified: true
   - title: Pöial-Liisi
+    original_title: Tommelise
     authors:
       - Hans Christian Andersen
       - Siima Škop
@@ -27397,6 +27581,7 @@ titles:
   - title: Poola muinasjutte
     authors:
       - Heldur Laretei
+    translators:
       - Aleksander Kurtna
     year: 1976
     language: Estonian
@@ -27508,6 +27693,7 @@ titles:
   - title: Ristirüütlid
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Ruth Karemäe
     year: 1976
     language: Estonian
@@ -27569,6 +27755,7 @@ titles:
         url: https://lccn.loc.gov/79352072
     verified: true
   - title: Saint-Pholieni kiriku poodu
+    original_title: Le pendu de Saint-Pholien
     series: Mirabilia
     authors:
       - Georges Simeon
@@ -27705,6 +27892,8 @@ titles:
     authors:
       - M. Laido
       - H. Kermik
+    editors:
+      - Maie Laido
     year: 1976
     language: Estonian, Russian, English
     sources:
@@ -27731,6 +27920,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BD10844274
     verified: false
   - title: Tagasitulek tähtede juurest
+    original_title: Powrót z Gwiazd
     series: Mirabilia
     authors:
       - Stanisław Lem
@@ -27846,6 +28036,8 @@ titles:
     authors:
       - H. Palamets
       - Jaan Eilart
+    editors:
+      - Hillar Palamets
     year: 1976
     language: Estonian
     pages: 150
@@ -27929,8 +28121,11 @@ titles:
     verified: true
   - title: Toledo juuditar
     subtitle: Hispaania ballaad
+    original_title: Die Jüdin von Toledo
     authors:
       - Lion Feuchtwanger
+    translators:
+      - Henn Saari
     year: 1976
     language: Estonian
     pages: 403
@@ -28312,6 +28507,7 @@ titles:
     authors:
       - Holger Pukk
       - Jaan Tammsaar
+    translators:
       - T. Vajno
       - T. Vaino (Т. Вайно)
     year: 1976
@@ -28392,6 +28588,7 @@ titles:
     authors:
       - Leènu Sijmisker
       - Leenu Siimisker (Леэну Сиймискер)
+    translators:
       - M. Mardi
       - M. Mardi (М. Марди)
       - T. Pravdina
@@ -28467,6 +28664,7 @@ titles:
         url: https://search.worldcat.org/title/5241036
     verified: true
   - title: Der Storch und der Frosch
+    original_title: Toonekurg vahipostil
     authors:
       - Eno Raud
       - Ilmar Linnat
@@ -29098,8 +29296,9 @@ titles:
   - title: Kivid ja linnud
     authors:
       - Pablo Neruda
-      - Johannes Semper
       - Uno Roosvalt
+    translators:
+      - Johannes Semper
     year: 1977
     language: Russian
     sources:
@@ -29278,6 +29477,7 @@ titles:
         url: https://search.worldcat.org/title/5709913
     verified: true
   - title: Kummid
+    original_title: Les gommes
     series: Mirabilia
     authors:
       - Alain Robbe-Grille
@@ -29605,10 +29805,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=220695369
     verified: true
   - title: Miniatures
+    original_title: Miniatuurid
     authors:
       - A. H. Tammsaare
-      - Melania Rauk
       - Iivi Sampu-Raudsepp
+    translators:
+      - Melania Rauk
     year: 1977
     language: English
     sources:
@@ -29753,7 +29955,8 @@ titles:
         url: https://d-nb.info/368899160
     verified: true
   - title: Nibelungide laul
-    authors:
+    authors: []
+    translators:
       - Rein Sepp
     year: 1977
     language: Russian
@@ -30159,6 +30362,8 @@ titles:
   - title: Revolutsioon, kodusõda ja välisriikide interventsioon Eestis (1917-1920)
     authors:
       - Karl Siilivask
+    editors:
+      - H. Aas
     year: 1977
     language: Estonian
     sources:
@@ -30194,6 +30399,7 @@ titles:
     authors:
       - Karl Aru
       - Karl Aru (Карл Ару)
+    translators:
       - N. Mihajlova
       - N. Mikhailova (Н. Михайлова)
     year: 1977
@@ -30218,8 +30424,10 @@ titles:
         url: https://lccn.loc.gov/78357379
     verified: true
   - title: Siber
+    original_title: Sibir'. Roman v dvuh knigah
     authors:
       - Georgij Mokeevič Markov
+    translators:
       - Evi Puskar
     year: 1977
     language: Estonian
@@ -30253,6 +30461,8 @@ titles:
     authors:
       - A. H. Tammsaare
       - Heino Puhvel
+    editors:
+      - Koostanud Heino Puhvel
     year: 1977
     language: Estonian
     pages: 206
@@ -30283,6 +30493,8 @@ titles:
   - title: Soome-ugri rahvaste muusikapärandist
     authors:
       - I. Rüütel
+    editors:
+      - L. Rüütel
     year: 1977
     language: Estonian
     pages: 514
@@ -30961,6 +31173,7 @@ titles:
   - title: Anna Karenina
     authors:
       - Lev Nikolaevič Tolstoj
+    translators:
       - Selma Holberg
     year: 1978
     language: Estonian
@@ -31163,6 +31376,7 @@ titles:
     subtitle: Authors, Books and Trends of Development
     authors:
       - Endel Mallene
+    translators:
       - Gustav Liiv
     year: 1978
     language: English
@@ -31287,10 +31501,12 @@ titles:
     verified: true
   - title: Holstomer
     subtitle: Hobuse elulugu
+    original_title: Холстомер
     authors:
       - Lev Nikolaevič Tolstoj
-      - Friedrich aKõlli
       - Vladislav Staniševski
+    translators:
+      - Friedrich aKõlli
     year: 1978
     language: Estonian
     sources:
@@ -31596,6 +31812,7 @@ titles:
   - title: Kordian ja mats
     authors:
       - Leon Kruczkowski
+    translators:
       - Gunnar Kaarend
     year: 1978
     language: Estonian
@@ -31686,6 +31903,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=012150754
     verified: true
   - title: Lev Tolstoi kui Vene revolutsiooni peegel
+    original_title: Lev Tolstoj kak zerkalo russkoj revolûcii
     authors:
       - Vladimir Ilʹič Lenin
       - E. Kasesalu
@@ -31741,6 +31959,7 @@ titles:
     verified: true
   - title: Lumo de Orienta Eŭropo
     subtitle: Poemo
+    original_title: Ida-Euroopa valgus
     authors:
       - Vladimir Beekman
     year: 1978
@@ -31863,6 +32082,9 @@ titles:
   - title: Mälestusi A. H. Tammsaarest
     authors:
       - E. Teder
+    editors:
+      - Jèuri Kaarma
+      - Eerik Teder
     year: 1978
     language: Estonian
     pages: 453
@@ -32048,10 +32270,12 @@ titles:
     verified: true
   - title: Nägemise ülistus
     subtitle: Luulet
+    original_title: Sobranie sočinenij v semi tomah
     authors:
       - Valerij Âkovlevič Brûsov
-      - Kalju Kangur
       - Vladislav Staniševski
+    translators:
+      - Kalju Kangur
     year: 1978
     language: Estonian
     sources:
@@ -32501,6 +32725,7 @@ titles:
         url: https://search.worldcat.org/title/12697011
     verified: true
   - title: Reis ümber Maailma aastail 1823 - 1826
+    original_title: Reise um die Welt in den Jahren 1823, 24, 25 und 26
     authors:
       - Otto von Kotzebue
     year: 1978
@@ -32877,6 +33102,7 @@ titles:
   - title: Udu Tuulte oru kohal
     authors:
       - Krystyna Boglar
+    translators:
       - Helgi Loik
     year: 1978
     language: Estonian
@@ -32987,8 +33213,10 @@ titles:
         url: https://search.worldcat.org/title/214563836
     verified: true
   - title: Väike maa
+    original_title: Malaâ zemlâ
     authors:
       - Leonid Ilʹič Brežnev
+    translators:
       - Henno Meriste
       - Harald Haug
     year: 1978
@@ -33716,8 +33944,11 @@ titles:
     verified: true
   - title: Igaviku väraval
     subtitle: Valitud luuletused
+    original_title: Aino Kallaksen kauneimmat runot
     authors:
       - Aino Krohn Kallas
+    translators:
+      - Minni Katharina Nurme
     year: 1979
     language: Estonian
     pages: 60
@@ -34037,8 +34268,10 @@ titles:
     verified: true
   - title: Komisjon
     subtitle: Romaan
+    original_title: Komissiâ
     authors:
       - Sergej Pavlovič Zalygin
+    translators:
       - Hans Luik
     year: 1979
     language: Estonian
@@ -34079,6 +34312,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=01418401X
     verified: true
   - title: Kriminaalne talent
+    original_title: Sledovatel' prokuratury
     series: Mirabilia
     authors:
       - Stanislav Rodionov
@@ -34360,8 +34594,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=111169569
     verified: true
   - title: Malelise mõtlemise saladused
+    original_title: Tajny mys̆lenija s̆achmatista
     authors:
       - Aleksandr Aleksandrovič Kotov
+    translators:
       - P. Sangla
       - T. Truus
     year: 1979
@@ -34474,6 +34710,8 @@ titles:
   - title: Müütilised muistendid
     authors:
       - Friedrich Robert Faehlmann
+    translators:
+      - Mart Lepik
     year: 1979
     language: Estonian
     pages: 29
@@ -34855,10 +35093,12 @@ titles:
     verified: true
   - title: Rakvereskij rajon
     subtitle: Po obeim storonam dorogi
+    original_title: Rakvere rajoon Siin - ja seapool maanteed
     series: Po obeim storonam dorogi
     authors:
       - Helmut Joonuks
       - Khelmut Ioonuks (Хельмут Йоонукс)
+    translators:
       - Helene Kurg
       - Khelene Kurg (Хелене Кург)
     year: 1979
@@ -35269,6 +35509,7 @@ titles:
   - title: Ule oma jōe
     authors:
       - Julian Kawalec
+    translators:
       - Ruth Karemäe
     year: 1979
     language: Estonian
@@ -35506,6 +35747,7 @@ titles:
       - label: Free ebook (Project Gutenberg)
         url: https://www.gutenberg.org/ebooks/2782
   - title: Zamok Kuressaare
+    original_title: Kuressaare linnus-kindlus
     series: Svoimi glazami
     authors:
       - Kalvi Aluve
@@ -35877,8 +36119,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=858032791
     verified: true
   - title: Effi Briest
+    original_title: Effi Briest
     authors:
       - Theodor Fontane
+    translators:
       - Lydia Riikoja
     year: 1980
     language: Estonian, German
@@ -36749,6 +36993,8 @@ titles:
     subtitle: = Sovetskaia Ėstoniia = Soviet Estonia
     authors:
       - M. Laido
+    editors:
+      - Maie Laido
     year: 1980
     language: Estonian, English, German, Russian
     sources:
@@ -37139,6 +37385,8 @@ titles:
   - title: Rara Haruldusi Tartu Riikliku Ülikooli Teaduslikus Raamatukogus
     authors:
       - Naučnaâ biblioteka tartuskogo gosudarstvennogo universiteta
+    editors:
+      - M. Rand
     year: 1980
     language: Multiple languages
     sources:
@@ -37315,6 +37563,7 @@ titles:
     authors:
       - Fridrih Rejngolʹd Krejcvalʹd
       - Fridrikh Reingold Kreitsvald (Фридрих Рейнгольд Крейцвальд)
+    translators:
       - G. Rejndorf
       - G. Reindorf (Г. Рейндорф)
     year: 1980
@@ -37516,6 +37765,7 @@ titles:
     verified: true
     subtitle: = Sočinenija
   - title: Teoseid meeskoorile
+    original_title: Teoseid meeskoorile
     authors:
       - Veljo Tormis
     year: 1980
@@ -38078,6 +38328,8 @@ titles:
     authors:
       - A. A. Gužkov
       - A. A. Guzhkov (А. А. Гужков)
+    editors:
+      - A. A. Guzkov
     year: 1981
     language: Russian
     sources:
@@ -38299,8 +38551,9 @@ titles:
   - title: Ferdynand Vahva
     authors:
       - Ludwik Jerzy Kern
-      - Helgi Loik
       - Asta Vender
+    translators:
+      - Helgi Loik
     year: 1981
     language: Estonian
     sources:
@@ -38808,6 +39061,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/006674510
     verified: true
   - title: Linn ja tähed
+    original_title: The city and the stars
     series: Mirabilia
     authors:
       - Arthur C. Clarke
@@ -38947,13 +39201,15 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991045922399705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Muinasjutte
+    original_title: Kinder- und Hausmärchen
     authors:
       - Jacob Grimm
       - Wilhelm Grimm
-      - Silvi Kadari
-      - L. Ronk
       - Jaan Tammsaar
       - Silvi Kadani
+    translators:
+      - Silvi Kadari
+      - L. Ronk
     year: 1981
     language: Estonian
     sources:
@@ -38973,8 +39229,9 @@ titles:
   - title: Muinasjutud
     authors:
       - Wanda Chotomska
-      - Aarne Puu
       - Livi Raudsepp
+    translators:
+      - Aarne Puu
     year: 1981
     language: Estonian
     sources:
@@ -39198,6 +39455,7 @@ titles:
     verified: true
   - title: Plamennye gody
     subtitle: Vospominaniya
+    original_title: Leekides
     authors:
       - A. Lombak
     year: 1981
@@ -39224,6 +39482,7 @@ titles:
   - title: Polvkond
     authors:
       - Bohdan Czeszko
+    translators:
       - Helgi Loik
     year: 1981
     language: Latvian
@@ -39406,8 +39665,10 @@ titles:
         url: https://openlibrary.org/books/OL18309674M
     verified: true
   - title: Somermeze
+    original_title: Südasuvel
     authors:
       - Paul Kuusberg
+    translators:
       - Alma Lekko
     year: 1981
     language: Esperanto
@@ -39735,6 +39996,8 @@ titles:
     subtitle: Staryĭ Tallin = Old Tallinn
     authors:
       - Erik Raiküla
+    editors:
+      - Ludvig Kruusmaa
     year: 1981
     language: Estonian
     pages: 157
@@ -40302,6 +40565,10 @@ titles:
   - title: Henriku Liivimaa kroonika
     authors:
       - Henricus Lettus
+    editors:
+      - Enn Tarvel
+    translators:
+      - Richard Kleis
     year: 1982
     language: Estonian
     pages: 289
@@ -40388,6 +40655,7 @@ titles:
     verified: true
   - title: Hundimõrsja
     subtitle: Üks jutt Hiiumaalt
+    original_title: Sudenmorsian
     authors:
       - Aino Kallas
     year: 1982
@@ -40704,6 +40972,7 @@ titles:
         url: https://openlibrary.org/books/OL20911319M
     verified: true
   - title: Kolumats
+    original_title: Der Struwelpeter oder lustige Geschichten und drollige Bilder
     authors:
       - Heinrich Hoffmann
       - Andres Ehin
@@ -40778,6 +41047,7 @@ titles:
         url: https://www.sudoc.fr/003766675
     verified: true
   - title: Krabat
+    original_title: Krabat
     authors:
       - Otfried Preußler
       - Linda Ariva
@@ -41038,6 +41308,7 @@ titles:
     authors:
       - Henryk Sienkiewicz
       - Kelli Kagovere
+    translators:
       - Helgi Loik
     year: 1982
     language: Estonian
@@ -41214,6 +41485,7 @@ titles:
   - title: Opus nigrum
     authors:
       - Marguerite Yourcenar
+    translators:
       - Merike Ri̇i̇ves
     year: 1982
     language: Estonian
@@ -41257,6 +41529,7 @@ titles:
     verified: true
   - title: Panoptikum
     subtitle: Vanu kriminaallugusid Prhast
+    original_title: Panoptikum starých kriminálnich přiběhu̇
     series: Mirabilia
     authors:
       - Jiří Marek
@@ -41562,6 +41835,7 @@ titles:
   - title: Roheline roos
     authors:
       - Tadeusz Różewicz
+    translators:
       - Mats Traat
     year: 1982
     language: Estonian
@@ -41747,6 +42021,8 @@ titles:
       - V. Naaber
       - A. Traat
       - A. Kangur
+    editors:
+      - R. Auling
     year: 1982
     language: Estonian
     pages: 291
@@ -41768,6 +42044,8 @@ titles:
     subtitle: 1632-1982
     authors:
       - H. Piirimäe
+    editors:
+      - Karl Siilivask
     year: 1982
     language: Estonian
     sources:
@@ -41907,6 +42185,7 @@ titles:
   - title: Ustav jõgi
     authors:
       - Stefan Żeromski
+    translators:
       - Gunnar Kaarend
       - Helgi Loik
     year: 1982
@@ -41918,10 +42197,12 @@ titles:
         url: https://search.worldcat.org/title/833538104
     verified: true
   - title: Uus Melusine
+    original_title: Die neue Melusine
     authors:
       - Johann Wolfgang von Goethe
-      - Leida Kibuvits
       - Silvi Liiva
+    translators:
+      - Leida Kibuvits
     year: 1982
     language: Estonian
     sources:
@@ -42094,8 +42375,10 @@ titles:
         url: https://search.worldcat.org/title/31004359
     verified: true
   - title: Viimased maleloengud
+    original_title: Last chess lectures
     authors:
       - José Raoul Capablanca
+    translators:
       - Inger Tamm
     year: 1982
     language: Estonian
@@ -42410,8 +42693,10 @@ titles:
         url: https://openlibrary.org/books/OL24699172M
     verified: true
   - title: Faust
+    original_title: Faust
     authors:
       - Johann Wolfgang von Goethe
+    translators:
       - August Sang
     year: 1983
     language: Estonian
@@ -42442,8 +42727,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb37122794h
     verified: true
   - title: Götz von Berlichingen [...] näidend
+    original_title: Götz von Berlichingen mit der eisernen Faust
     authors:
       - Johann Wolfgang von Goethe
+    translators:
+      - Betti Alver
     year: 1983
     language: Estonian
     sources:
@@ -42531,9 +42819,11 @@ titles:
         url: https://d-nb.info/369005333
     verified: true
   - title: Istoriâ Tallina (do 60-h godov XIX veka)
+    original_title: Tallinna ajalugu
     authors:
-      - E. Epik
       - Raimo Pullat
+    translators:
+      - E. Epik
       - N. Mihajlova
     year: 1983
     language: Russian
@@ -42887,10 +43177,11 @@ titles:
     subtitle: Romano
     authors:
       - Eduard Vilde
-      - Valev Kruusalu
       - Henrik Seppik
       - Áadu Hint
       - Heldur Laretei
+    translators:
+      - Valev Kruusalu
     year: 1983
     language: Esperanto
     sources:
@@ -43076,6 +43367,7 @@ titles:
         url: https://openlibrary.org/books/OL19511412M
     verified: true
   - title: Mina, Uurija
+    original_title: Ja, sledovatel'.
     series: Mirabilia
     authors:
       - Arkadi Vainer
@@ -44128,6 +44420,8 @@ titles:
   - title: 400 aastat Valga linna
     authors:
       - Alleks Vallner
+    editors:
+      - A. Toomet
     year: 1984
     language: Estonian
     pages: 165
@@ -44178,6 +44472,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1188896857
     verified: true
   - title: Andeka kingsepa surm
+    original_title: Smrt talentovaného ševce
     series: Mirabilia
     authors:
       - Václav Erben
@@ -44323,6 +44618,8 @@ titles:
     subtitle: = Estonian Ballet = Estnisches Ballett
     authors:
       - Lea Tormis
+    editors:
+      - Kustav-Agu Püüman
     year: 1984
     language: Multiple languages
     sources:
@@ -44393,6 +44690,9 @@ titles:
     subtitle: Kommenteeritud tekstivalimik
     authors:
       - Velli Verev
+    editors:
+      - Karl Taev
+      - Velly Verev
     year: 1984
     language: Estonian
     pages: 370
@@ -44540,6 +44840,7 @@ titles:
       - A. Mallene (Э. Маллене)
       - Û. Tonts
       - I. Tonts (Ю. Тонтс)
+    translators:
       - Irina Belobrovcev
       - Irina Belobrovtsev (Ирина Белобровцев)
       - Vitalij Belobrovcev
@@ -44776,6 +45077,8 @@ titles:
     subtitle: Dokumente ja materiale; 2 köides
     authors:
       - P. Urtson
+    editors:
+      - Karl Siilivask
     year: 1984
     language: Estonian
     sources:
@@ -44868,10 +45171,12 @@ titles:
         url: https://d-nb.info/368889599
     verified: true
   - title: Kuningas Maciuś üksikul saarel
+    original_title: Król Maciuś na wyspie bezludnej
     authors:
       - Janusz Korczak
-      - Aleksander Kurtna
       - Jerzy Srokowski
+    translators:
+      - Aleksander Kurtna
     year: 1984
     language: Estonian
     sources:
@@ -45117,6 +45422,7 @@ titles:
     verified: true
   - title: Mees, kes jooksis üle tänava
     subtitle: Romaan
+    original_title: Cilvēks, kas skrēja pāri ielai
     series: Mirabilia
     authors:
       - Andris Kolbergs
@@ -45465,6 +45771,7 @@ titles:
         url: https://openlibrary.org/books/OL24714831M
     verified: true
   - title: Robinson Crusoe elu ja kummalised seiklused
+    original_title: The Life and Strange Surprising Adventures of Robinson Crusoe of York, Mariner
     authors:
       - Daniel Defoe
       - Valter Rummel
@@ -45528,6 +45835,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb37122808c
     verified: true
   - title: Sladuslik juhtum styless
+    original_title: The mysterious affair at styles
     series: Mirabilia
     authors:
       - Agatha Christie
@@ -45635,6 +45943,8 @@ titles:
   - title: Terasvaier
     authors:
       - Eduard Männik
+    editors:
+      - Valeeria Villandi
     year: 1984
     language: Estonian
     pages: 205
@@ -45850,10 +46160,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=433081147
     verified: true
   - title: Võõras mees tuli tallu
+    original_title: Vieras mies tuli taloon
     authors:
       - Mika Waltari
-      - Piret Saluri
       - Endel Mallene
+    translators:
+      - Piret Saluri
     year: 1984
     language: Not recorded
     sources:
@@ -46066,6 +46378,7 @@ titles:
     subtitle: Ungari keelest tōlkinud = Vstreča Balinta Fabiana s bogom Vengry
     authors:
       - József Balázs
+    translators:
       - Leidi Veskis
     year: 1985
     language: Not recorded
@@ -46727,6 +47040,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=857897632
     verified: true
   - title: Koeraküüne lõikaja
+    original_title: Koirankynnen leikkaaja
     authors:
       - Veikko Huovinen
       - Tiiu Kokla
@@ -46748,8 +47062,10 @@ titles:
     verified: true
   - title: Kolm meistrit
     subtitle: Balzac, Dickens, Dostojevski
+    original_title: Drei Meister
     authors:
       - Stefan Zweig
+    translators:
       - Jaan Kross
     year: 1985
     language: Estonian
@@ -47716,8 +48032,10 @@ titles:
         url: https://d-nb.info/369024168
     verified: true
   - title: Seitsemäs rauhan kevät
+    original_title: Seitsmes rahukevad
     authors:
       - Viivi Luik
+    translators:
       - Eva Lille
     year: 1985
     language: Finnish
@@ -47861,6 +48179,8 @@ titles:
     subtitle: Tallin
     authors:
       - Juhan Aare
+    editors:
+      - Evi Tuulik
     year: 1985
     language: Estonian, English, Russian
     pages: 102
@@ -47880,6 +48200,8 @@ titles:
     subtitle: 'Rahvusvaheline Paul Kerese mälestusturniir: turniirikogumik'
     authors:
       - Rahvusvaheline Paul Kerese mälestusturniir (4th 1983 Tallinn, Estonia)
+    editors:
+      - Jüri Randviir
     year: 1985
     language: Estonian
     pages: 133
@@ -48238,8 +48560,11 @@ titles:
         url: https://openlibrary.org/books/OL15104225M
     verified: true
   - title: Winterspelt
+    original_title: Winterspelt
     authors:
       - Alfred Andersch
+    translators:
+      - Lembit Luiga
     year: 1985
     language: Russian
     sources:
@@ -48325,6 +48650,7 @@ titles:
   - title: Aleksandr Sergejevitš Puškin
     authors:
       - Ûrij Mihajlovič Lotman
+    translators:
       - Piret Lotman
     year: 1986
     language: Estonian
@@ -48569,6 +48895,7 @@ titles:
       - A. Krikmann (А. Крикманн)
       - Ingrid Sarv
       - E. Sarv (И. Сарв)
+    translators:
       - R. Laane
       - R. Laane (Р. Лаане)
       - I. Veber
@@ -48741,6 +49068,7 @@ titles:
   - title: Ja väravad prantsatasid kinni
     authors:
       - Kazimierz Truchanowski
+    translators:
       - Ruth Karemäe
     year: 1986
     language: Estonian
@@ -49326,6 +49654,10 @@ titles:
     subtitle: 17.-19. sajand
     authors:
       - S. G. Isakov
+    editors:
+      - Sergei Issakov
+    translators:
+      - Jaan Eilart
     year: 1986
     language: Estonian
     pages: 513
@@ -49371,8 +49703,10 @@ titles:
     verified: true
   - title: Mefisto
     subtitle: Romaan ühest karjäärist
+    original_title: Mephisto
     authors:
       - Klaus Mann
+    translators:
       - Rita Tasa
     year: 1986
     language: Estonian
@@ -49461,9 +49795,11 @@ titles:
         url: https://openlibrary.org/books/OL57415453M
     verified: true
   - title: Michael Kohlhaas
+    original_title: Michael Kohlhaas
     series: Klassikalised lood
     authors:
       - Heinrich von Kleist
+    translators:
       - Mati Sirkel
     year: 1986
     language: Estonian
@@ -49552,6 +49888,8 @@ titles:
     verified: true
   - title: Muzyka v obrâdah i trudovoj deâtelʹnosti finno-ugrov
     authors: []
+    editors:
+      - Ingrid Rüütel
     year: 1986
     language: Russian
     sources:
@@ -50264,6 +50602,8 @@ titles:
   - title: Teosed
     authors:
       - Juhan Smuul
+    editors:
+      - Ülo Tonts
     year: 1986
     language: Estonian
     isbn: '5450002157'
@@ -50283,6 +50623,7 @@ titles:
     verified: true
     subtitle: = Sočinenija
   - title: Testament lõhutud vaas
+    original_title: 'Nero Wolfe : where there''s a will'
     series: Mirabilia
     authors:
       - Rex Stout
@@ -50868,6 +51209,7 @@ titles:
   - title: Ameerika
     authors:
       - Franz Kafka
+    translators:
       - August Sang
     year: 1987
     language: Russian
@@ -50939,8 +51281,10 @@ titles:
     verified: true
   - title: Doktor Faustus
     subtitle: Saksa helil. Adrian Leverkühni Elu ...
+    original_title: Doktor Faustus
     authors:
       - Thomas Mann
+    translators:
       - Helga Kross
     year: 1987
     language: Estonian
@@ -50994,6 +51338,7 @@ titles:
   - title: Eeskuju
     authors:
       - Siegfried Lenz
+    translators:
       - Rita Tasa
     year: 1987
     language: Russian
@@ -51221,6 +51566,8 @@ titles:
   - title: Estnische Sprichwörter
     authors:
       - A. Krikmann
+    editors:
+      - A. Hussar
     year: 1987
     series: Monumenta Estoniae antiquae
     language: German
@@ -51247,6 +51594,7 @@ titles:
         url: https://www.sudoc.fr/021040427
     verified: true
     subtitle: = Proverbia Estonica
+    original_title: Eesti vanasõnad
   - title: Estnische Sprichwörter
     authors:
       - A. Krikmann
@@ -51381,6 +51729,7 @@ titles:
     authors:
       - Jaan Kross
       - Iaan Ianovich Kross (Яан Янович Кросс)
+    translators:
       - Ol'ga Samma
       - Olga Samma (Ольга Самма)
     year: 1987
@@ -51613,6 +51962,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=274835614
     verified: true
   - title: Klaasist võti
+    original_title: The glass key
     series: Mirabilia
     authors:
       - Dashiell Hammett
@@ -51751,6 +52101,8 @@ titles:
   - title: Läänemere paeselt rannalt
     authors:
       - August Luur
+    editors:
+      - Aarne Mesikäpp
     year: 1987
     language: Estonian
     pages: 87
@@ -51849,6 +52201,7 @@ titles:
   - title: Lugusid
     authors:
       - Wilhelm Busch
+    translators:
       - Andres Ehin
     year: 1987
     language: Russian
@@ -51873,6 +52226,8 @@ titles:
   - title: Marie Under
     authors:
       - Marie Under
+    editors:
+      - Ellen Niit
     year: 1987
     series: Väike luuleraamat
     language: Estonian
@@ -52027,9 +52382,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=018873871
     verified: true
   - title: Noore Wertheri kannatused
+    original_title: Die Leiden des jungen Werther
     series: Klassikalised lood
     authors:
       - Johann Wolfgang von Goethe
+    translators:
       - Edla Valdna
     year: 1987
     language: Estonian
@@ -52042,6 +52399,7 @@ titles:
   - title: Novelle
     authors:
       - Thomas Mann
+    translators:
       - Heli Mattisen
     year: 1987
     language: Russian
@@ -52545,6 +52903,8 @@ titles:
   - title: Teosed
     authors:
       - Jaan Kross
+    editors:
+      - Erich Kaup
     year: 1987
     language: Estonian
     sources:
@@ -52837,6 +53197,8 @@ titles:
     subtitle: Dokumendikogumik V. Kingissepa nim. TRA Draamateatri lavastusest
     authors:
       - Anton Hansen Tammsaare
+    editors:
+      - Lea Tormis
     year: 1988
     language: Estonian
     pages: 478
@@ -53057,6 +53419,8 @@ titles:
   - title: Bankrot
     authors:
       - Oskar Luts
+    translators:
+      - Aleksandr Tomberg
     year: 1988
     language: Russian
     sources:
@@ -53371,6 +53735,7 @@ titles:
   - title: Inimese määratlus
     authors:
       - Johann Gottlieb Fichte
+    translators:
       - Mati Sirkel
     year: 1988
     language: Estonian
@@ -53437,6 +53802,7 @@ titles:
     subtitle: Romaan
     authors:
       - Hans Fallada
+    translators:
       - Jüri Arusoo
     year: 1988
     language: Estonian
@@ -53606,6 +53972,7 @@ titles:
   - title: Kivi peal on kivi
     authors:
       - Wiesław Myśliwski
+    translators:
       - Olev Jõgi
     year: 1988
     language: Estonian
@@ -53885,6 +54252,7 @@ titles:
     authors:
       - Alina Centkiewiczowa
       - Czesław Jacek Centkiewicz
+    translators:
       - Aarend-Mihkel Rouk
     year: 1988
     language: Estonian
@@ -54101,6 +54469,8 @@ titles:
     subtitle: Bibliograafia
     authors:
       - L. Püss
+    editors:
+      - Leida Püss
     year: 1988
     language: Estonian
     pages: 119
@@ -54242,6 +54612,7 @@ titles:
   - title: Piiblilood
     authors:
       - Zenon Kosidowski
+    translators:
       - Helgi Loik
     year: 1988
     language: Estonian
@@ -54304,6 +54675,7 @@ titles:
     subtitle: Roman
     authors:
       - Kal'û Saaber
+    translators:
       - Anna Tulik
     year: 1988
     language: Russian
@@ -54328,6 +54700,8 @@ titles:
     subtitle: 'Saksa fašistlik okupatsioon Eestis, 1941-1944: dokumente ja materjale'
     authors:
       - A. Sunila
+    editors:
+      - Anni Matsulevitš
     year: 1988
     edition: '[Uus, täiendatud trükk]'
     language: Estonian
@@ -54425,6 +54799,7 @@ titles:
   - title: Ränk saatus ehk Paul Flemingi armastus
     authors:
       - Uwe Berger
+    translators:
       - Helgi Loik
     year: 1988
     language: Estonian
@@ -54453,6 +54828,7 @@ titles:
   - title: Raudne Gustav
     authors:
       - Hans Fallada
+    translators:
       - Aino Toomaspoeg
     year: 1988
     language: Russian
@@ -54590,8 +54966,11 @@ titles:
         url: https://lccn.loc.gov/89131792
     verified: true
   - title: Sedʹmaâ mirnaâ vesna
+    original_title: Seitsmes rahukevad
     authors:
       - Viivi Luik
+    translators:
+      - Elena Kallonen
     year: 1988
     language: Russian
     sources:
@@ -54888,8 +55267,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=029144949
     verified: true
   - title: Thérèse Raquin
+    original_title: Thérèse Raquin
     authors:
       - Émile Zola
+    translators:
+      - Häidi Kolle
     year: 1988
     language: Estonian
     pages: 237
@@ -55227,6 +55609,7 @@ titles:
     verified: true
   - title: Viktor Kingissepa elu
     subtitle: Elulooline jutustus
+    original_title: 'Žiznʹ Viktora Kingiseppa : biografičeskaja povestʹ'
     authors:
       - Daniil Rudnev
     year: 1988
@@ -55289,6 +55672,7 @@ titles:
   - title: '"Vanaema" ja teisi jutte'
     authors:
       - Peter Härtling
+    translators:
       - Helgi Loik
     year: 1989
     language: Russian
@@ -55325,6 +55709,7 @@ titles:
     subtitle: Romaan
     authors:
       - Adolf Muschg
+    translators:
       - Helgi Loik
     year: 1989
     language: Russian
@@ -55659,8 +56044,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991110588199705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Hämara tantsud
+    original_title: Hämärän tanssit
     authors:
       - Pentti Saarikoski
+    translators:
       - Joel Sang
       - Paul-Eerik Rummo
       - Debora Vaarandi
@@ -55760,6 +56147,8 @@ titles:
     subtitle: Murdetekste Jakob Hurda kogust
     authors:
       - Juhan Peegel
+    editors:
+      - K. Peebo
     year: 1989
     language: Estonian
     pages: 334
@@ -56030,6 +56419,7 @@ titles:
   - title: Kleopatra
     authors:
       - Aleksander Krawczuk
+    translators:
       - Ruth Karemäe
     year: 1989
     language: Estonian
@@ -56305,9 +56695,11 @@ titles:
     verified: true
   - title: List Mёbiusa
     subtitle: Roman
+    original_title: Möbiuse leht
     series: Èstonskaâ sovetskaâ proza
     authors:
       - Enn Vetemaa
+    translators:
       - A. Tomberg
     year: 1989
     language: Russian
@@ -56503,6 +56895,8 @@ titles:
     subtitle: Artiklite kogumik
     authors:
       - Jakob Hurt
+    editors:
+      - Ülo Tedre
     year: 1989
     language: Estonian
     pages: 171
@@ -56647,6 +57041,7 @@ titles:
   - title: Noktaj aviadistoj
     authors:
       - Vladimir Beekman
+    translators:
       - Jaan Ojalo
     year: 1989
     language: Esperanto
@@ -56690,6 +57085,7 @@ titles:
   - title: Õhtused majad
     authors:
       - Eduard von Keyserling
+    translators:
       - Tiiu Relve
     year: 1989
     language: Russian
@@ -56903,6 +57299,7 @@ titles:
   - title: Proua Jenny Treibel
     authors:
       - Theodor Fontane
+    translators:
       - Lydia Riikoja
     year: 1989
     language: Russian
@@ -56911,8 +57308,10 @@ titles:
         url: https://d-nb.info/982768230
     verified: true
   - title: Proua Jenny Treibel. Stine
+    original_title: Frau Jenny Treibel
     authors:
       - Theodor Fontane
+    translators:
       - Lydia Riikoja
     year: 1989
     language: Estonian, German
@@ -56964,8 +57363,10 @@ titles:
     subtitle: See on tühijutt, mille Euroopa vaenlasile tulusaks ajaviiteks ja kurva südame rõõmuks on kirja pannud
     isbn: '5450006837'
   - title: Reede ehk Lootusesaar Vaikses ookeanis
+    original_title: Vendredi ou Les Limbes du Pacifique
     authors:
       - Michel Tournier
+    translators:
       - Merike Riives
     year: 1989
     language: Estonian
@@ -57074,6 +57475,8 @@ titles:
   - title: Sinuga ja sinuta
     authors:
       - Juhan Liiv
+    editors:
+      - Aarne Vinkel
     year: 1989
     language: Estonian
     pages: 396
@@ -57135,6 +57538,8 @@ titles:
     subtitle: Eesti luule antoloogia 4 köites
     authors:
       - Andres Langemets
+    editors:
+      - Karl Muru
     year: 1989
     language: Estonian
     isbn: '5450006535'
@@ -57405,6 +57810,8 @@ titles:
   - title: Teosed
     authors:
       - Betti Alver
+    editors:
+      - Ülo Tonts
     year: 1989
     language: Estonian
     isbn: '5450005962'
@@ -57512,10 +57919,12 @@ titles:
     verified: true
   - title: Trooja sõda
     subtitle: Müüt ja ajalugu
+    original_title: Wojna trojańska
     authors:
       - Aleksander Krawczuk
-      - Olev Jõgi
       - Eesti Raamat (Tallinn)
+    translators:
+      - Olev Jõgi
     year: 1989
     language: Estonian
     sources:
@@ -57836,6 +58245,7 @@ titles:
   - title: Võõrasa sõber
     authors:
       - Christoph Hein
+    translators:
       - Rita Tasa
     year: 1989
     language: Russian
@@ -58583,6 +58993,8 @@ titles:
     authors:
       - Hermann Hesse
       - Piret Pääsuke
+    editors:
+      - Tiiu Kokla
     year: 1990
     language: Estonian
     sources:
@@ -58611,6 +59023,8 @@ titles:
       - William Butler Yeats
       - Mart Väljataga
       - Ants Oras
+    editors:
+      - Ingel Tael
     year: 1990
     language: Estonian, English
     sources:
@@ -58805,8 +59219,9 @@ titles:
     subtitle: Saksa kriminaal- ja põnevusjutte
     series: (Põnevik)
     authors:
-      - Andrus Simsel
       - Illimar Paul
+    translators:
+      - Andrus Simsel
     year: 1990
     language: Estonian
     sources:
@@ -58872,6 +59287,8 @@ titles:
     subtitle: Valik luuletusi 1961-1989
     authors:
       - Teet Kallas
+    editors:
+      - Viivi Luik
     year: 1990
     language: Estonian
     pages: 159
@@ -58983,6 +59400,8 @@ titles:
   - title: Oma luulet ja võõrast
     authors:
       - Ilmar Laaban
+    editors:
+      - Aino Tamjärv
     year: 1990
     series: Teosed / Ilmar Laaban
     language: Estonian
@@ -59507,6 +59926,7 @@ titles:
       - Nikolaj Stepanovič Gumilëv
       - Anna Achmatova
       - Osip Mandelʹštam
+    translators:
       - Doris Kareva
     year: 1990
     language: Not recorded
@@ -59637,9 +60057,10 @@ titles:
   - title: Tõsine mäng oe valitud teosed
     authors:
       - Hjalmar Söderberg
-      - Anu Saluäär
       - Arnold Ravel
       - Ülev Aaloe
+    translators:
+      - Anu Saluäär
     year: 1990
     language: Estonian
     sources:
@@ -59848,6 +60269,7 @@ titles:
     subtitle: 29 Vanavanemate Koolilaulu
     authors:
       - Veljo Tormis
+    translators:
       - Krista Mits
     year: 1990
     language: Estonian, Russian, English
@@ -60038,8 +60460,10 @@ titles:
     verified: true
   - title: Adres otpravitelja
     subtitle: Stichi; perevod s ėstonskogo Svetlana Semenenko
+    original_title: Saatja aadress
     authors:
       - Paul-Eerik Rummo
+    translators:
       - Svetlana Semenenko
     year: 1991
     language: Not recorded
@@ -60373,8 +60797,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=271181958
     verified: true
   - title: Endise aja nooruk
+    original_title: Le désert de l'amour
     authors:
       - François Mauriac
+    translators:
       - Henno Rajandi
       - Tõnu Õnnepalu
     year: 1991
@@ -60754,8 +61180,10 @@ titles:
         url: https://search.worldcat.org/title/27938258
     verified: true
   - title: Kullatiik
+    original_title: Zolotoj prud
     authors:
       - Aleksandr Stepanovič Grin
+    translators:
       - Kalle Muuli
     year: 1991
     language: Not recorded
@@ -60819,8 +61247,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/102967947
     verified: true
   - title: Küpressil on kitsas vari
+    original_title: La sombra del ciprés es alargada
     authors:
       - Miguel Delibes
+    translators:
+      - Inna Kustavus
     year: 1991
     language: Estonian
     pages: 256
@@ -60844,6 +61275,8 @@ titles:
     subtitle: Autoriseeritud valikkogu 1947-89
     authors:
       - Arno Vihalemm
+    editors:
+      - Asta Põldmäe
     year: 1991
     language: Estonian
     pages: 156
@@ -60863,6 +61296,8 @@ titles:
   - title: Mälestuste radadel
     authors:
       - Johan Kõpp
+    editors:
+      - Kersti Tormis
     year: 1991
     edition: '[2. trükk]'
     series: Mälestused
@@ -60908,8 +61343,10 @@ titles:
     verified: true
   - title: Moskva tänav
     subtitle: Romaan
+    original_title: Moskovskaja ulica
     authors:
       - Boris Samojlovič Jampolʹskij
+    translators:
       - Laine Soe
     year: 1991
     language: Not recorded
@@ -61702,6 +62139,7 @@ titles:
   - title: Hingesild
     authors:
       - Aino Kallas
+    translators:
       - Helmi Eller
     language: Not recorded
     sources:
@@ -61710,7 +62148,8 @@ titles:
     verified: false
   - title: Kuldlootos
     subtitle: Ehk seiklusrikas lugu Hsi Menist ja tema kuuest naisest
-    authors:
+    authors: []
+    translators:
       - Leo Metsar
     language: Estonian
     sources:
@@ -61788,6 +62227,8 @@ titles:
   - title: Teosed
     authors:
       - Ilmar Laaban
+    editors:
+      - Aino Tamjärv
     language: Estonian
     pages: 10
     isbn: '5450011865'
@@ -61812,6 +62253,7 @@ titles:
   - title: Võlumägi
     authors:
       - Thomas Mann
+    translators:
       - Marta Sillaots
     language: Estonian
     sources:

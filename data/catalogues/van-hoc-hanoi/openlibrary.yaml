@@ -190,7 +190,8 @@ titles:
     verified: true
   - title: Cầu vào bản
     subtitle: Tập thơ miền núi
-    authors:
+    authors: []
+    translators:
       - Đinh Sơn
       - Cầm Giang
     year: 1960
@@ -556,9 +557,10 @@ titles:
   - title: Thơ Aragông
     authors:
       - Louis Aragon
+      - Xuân Quý Đào
+    translators:
       - Tế Hanh
       - Nguyễn Viết Lãm
-      - Xuân Quý Đào
     year: 1960
     language: Vietnamese
     sources:
@@ -1169,6 +1171,8 @@ titles:
     subtitle: Bản dịch của Giang Tấn
     authors:
       - Vera Mihajlovna Inber
+    translators:
+      - Giang Tấn
     year: 1963
     language: Vietnamese
     sources:
@@ -1192,6 +1196,7 @@ titles:
     subtitle: Tuyển tập
     authors:
       - Xun Lu
+    translators:
       - Trương Chính
     year: 1963
     language: Vietnamese
@@ -1235,7 +1240,8 @@ titles:
         url: https://search.worldcat.org/title/808840822
     verified: true
   - title: Trường ca Tây Nguyên
-    authors:
+    authors: []
+    translators:
       - Y. Điêng
     year: 1963
     language: Vietnamese
@@ -1284,6 +1290,8 @@ titles:
     subtitle: Phóng sự về miền Nam Việt Nam
     authors:
       - Winfret Bo'cset
+    editors:
+      - Lưu Quý Kỳ
     year: 1964
     language: Vietnamese
     sources:
@@ -1402,6 +1410,9 @@ titles:
   - title: Ngai Tong Thong
     authors:
       - Miguel Ángel Asturias
+    translators:
+      - Dang The Binh
+      - Vu Can
     year: 1964
     language: Vietnamese
     sources:
@@ -1630,6 +1641,7 @@ titles:
   - title: Ta sẽ về hái hoa trường thọ
     authors:
       - Jăng Lafit
+    translators:
       - Phạm Đình Giêm
     year: 1965
     language: Vietnamese
@@ -1647,10 +1659,12 @@ titles:
         url: https://www.gateway-bayern.de/BV025016533
     verified: true
   - title: Thơ chữ Hán Nguyẽ̂n Du
+    original_title: Élégies
     authors:
       - Nguyễn Du
-      - Lê Thước
       - Phạm Khắc Khoan
+    translators:
+      - Lê Thước
     year: 1965
     language: Vietnamese
     sources:
@@ -1957,9 +1971,11 @@ titles:
         url: https://www.sudoc.fr/112156940
     verified: true
   - title: Nữ tu sĩ
+    original_title: Religieuse
     series: Văn học cổ điển thế giới
     authors:
       - Denis Diderot
+    translators:
       - Nguyễn Ngọc Ban
       - Gia Ngân Tôn
     year: 1966
@@ -2201,6 +2217,7 @@ titles:
   - title: Lao động nhà văn
     authors:
       - A. Saytlin
+    translators:
       - Hoài Lam
       - Hoài Ly
     year: 1967
@@ -2432,8 +2449,11 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BD12096024
     verified: false
   - title: Người hà tiện
+    original_title: L'avare
     authors:
       - Molière
+    translators:
+      - Tuâń Ðô
     year: 1968
     language: Vietnamese
     sources:
@@ -2528,6 +2548,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=510751253
     verified: true
   - title: Viên mỡ bò
+    original_title: Boule de suif
     authors:
       - Guy de Maupassant
     year: 1968
@@ -2768,6 +2789,8 @@ titles:
     subtitle: Hồi ký
     authors:
       - Hồng Hà
+    editors:
+      - Hôǹg Hà
     year: 1970
     language: Vietnamese
     sources:
@@ -2818,9 +2841,10 @@ titles:
     subtitle: Tiểu luận
   - title: Hoàng Lê Nhất Thống Chí
     authors:
+      - Ngô gia văn phái
+    translators:
       - Nguyễn Đức Vân
       - Thu Hoạch Kiều
-      - Ngô gia văn phái
     year: 1970
     language: Vietnamese
     sources:
@@ -2987,7 +3011,14 @@ titles:
       - Bỉnh Khôi Nguyễn
       - Huy Vận Đặng
       - Tran Van Giau
+    editors:
+      - Đặng Huy Vận
+      - Nguyễn Bỉnh Khôi
+    translators:
       - Chu Thiên
+      - Văn Tấn Hà
+      - Hoàng Tạo
+      - Huũ Dụng Khuong
     year: 1970
     language: Vietnamese
     pages: 597
@@ -3408,9 +3439,10 @@ titles:
     subtitle: Tiểu thuyết
     authors:
       - Phan Bội Châu
-      - Nguyễn Văn Bách
       - Quang Phiệt Tôn
       - Đặng Thai Mai
+    translators:
+      - Nguyễn Văn Bách
     year: 1971
     language: Vietnamese
     sources:
@@ -3425,6 +3457,8 @@ titles:
     authors:
       - Nguyễn Dữ
       - Ngô-van-Trien
+    translators:
+      - Trúc Khê
     year: 1971
     edition: In lần 2
     language: Vietnamese
@@ -3804,6 +3838,8 @@ titles:
   - title: Việt-Nam nghĩa liệt sử
     authors:
       - Đặng, Đoàn Bằng, -1924
+    translators:
+      - Quang Phiệt Tôn
     year: 1972
     language: Vietnamese
     sources:
@@ -3898,6 +3934,7 @@ titles:
     subtitle: Kịch
     authors:
       - Arthur Miller
+    translators:
       - Đặng Thế Bính
     year: 1973
     language: Vietnamese
@@ -3948,7 +3985,8 @@ titles:
         url: https://www.sudoc.fr/112935214
     verified: true
   - title: Tiễn dặn người yêu
-    authors:
+    authors: []
+    translators:
       - Mạc Phi
     year: 1973
     language: Vietnamese
@@ -4106,6 +4144,7 @@ titles:
   - title: Sở Từ
     authors:
       - Khuất Nguyên
+    translators:
       - Duy Anh Đào
       - Nguyễn Sĩ Lâm
     year: 1974
@@ -4156,6 +4195,8 @@ titles:
   - title: Truyen và ky
     authors:
       - Nguyen Ai Quoc
+    translators:
+      - Phạm Huy Thông
     year: 1974
     language: Vietnamese
     sources:
@@ -4175,7 +4216,8 @@ titles:
     verified: true
   - title: Việt Nam hồn tôi
     subtitle: Thơ thế giới chống Mỹ với Việt Nam
-    authors:
+    authors: []
+    translators:
       - Xuân Diệu
     year: 1974
     language: Vietnamese
@@ -4536,6 +4578,7 @@ titles:
     subtitle: Tuyển dịch
     authors:
       - Bá Quát Cao
+    translators:
       - Vũ Khiêu
     year: 1976
     language: Vietnamese
@@ -4892,10 +4935,11 @@ titles:
   - title: Thơ văn Nguyễn Xuân Ôn
     authors:
       - Nguyễn Xuân Ôn
+      - Đinh Xuân Lâm
+    translators:
       - Nguyễn Đức Vân
       - Văn Đại Hà
       - Nguyễn Văn Bách
-      - Đinh Xuân Lâm
     year: 1977
     language: Vietnamese
     sources:
@@ -5047,8 +5091,10 @@ titles:
         url: https://search.worldcat.org/title/7277489
     verified: true
   - title: Khu trại trong thảo nguyên
+    original_title: Khutorok v stepi
     authors:
       - Valentin Petrovitch Kataev
+    translators:
       - Anh Trúc
     year: 1978
     language: Vietnamese
@@ -5709,6 +5755,7 @@ titles:
     subtitle: Tuyển
     authors:
       - Nguyễn Phi Khanh
+    translators:
       - Bùi Văn Nguyên
       - Phương Bình Đào
     year: 1981
@@ -6138,9 +6185,10 @@ titles:
     subtitle: Tập kịch
     authors:
       - F. Sinle
+      - Đình Quang
+    translators:
       - Tất Thắng
       - Nguyễn Đình Nghi
-      - Đình Quang
     year: 1983
     language: Vietnamese
     sources:
@@ -6482,8 +6530,9 @@ titles:
     verified: true
   - title: Dân ca Hmông
     authors:
-      - Thanh Doãn
       - Thao Hoàng
+    translators:
+      - Thanh Doãn
     year: 1984
     language: Vietnamese
     sources:
@@ -6558,8 +6607,10 @@ titles:
     verified: true
   - title: Hoàng Lê nhất thống chí
     subtitle: Tiểu thuyết lịch sử
+    original_title: Hoàng Lê nhất thống chí
     series: Tủ sách văn học mọi nhà
-    authors:
+    authors: []
+    translators:
       - Nguyễn Đức Vân
       - Thu Hoạch Kiều
     year: 1984
@@ -6945,6 +6996,7 @@ titles:
     subtitle: 'Tiểu thuyết: (hai tập)'
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Nguyễn Hữu Dũng
     year: 1985
     language: Vietnamese
@@ -7030,8 +7082,10 @@ titles:
         url: https://www.sudoc.fr/103785590
     verified: true
   - title: Truyện dân gian châu Á
+    original_title: Folk tales from Asia for children everywhere
     series: Văn học cỏ̂ điẻ̂n nước ngoài. Văn học châu Á
-    authors:
+    authors: []
+    translators:
       - Nguyễn Văn Sỹ
       - Lữ-huy-Nguyên
     year: 1985
@@ -7280,6 +7334,7 @@ titles:
     subtitle: 'Tiểu thuyết: (Hai tập)'
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Nguyễn Hữu Dũng
     year: 1986
     language: Vietnamese
@@ -7321,6 +7376,7 @@ titles:
     authors:
       - Vũ Khiêu
       - Nguyễn Sỹ Lâm
+    translators:
       - Đỗ Ngọc Toại
     year: 1986
     language: Vietnamese
@@ -7546,6 +7602,9 @@ titles:
   - title: Chinh phụ ngâm diễn ca
     authors:
       - Trần Côn Đặng
+    editors:
+      - Đặng Trần Côn
+    translators:
       - Thị Điểm Đoàn
     year: 1987
     series: Tủ sách văn học mọi nhà. Văn học Việt Nam
@@ -7767,6 +7826,8 @@ titles:
     authors:
       - Hữu Hào Nguyễn
       - Xuân Hãn Hoàng
+    editors:
+      - Hoàng Xuân Hãn
     year: 1987
     series: Văn học cổ cận đại Việt Nam
     language: Vietnamese
@@ -7804,6 +7865,7 @@ titles:
   - title: Tuyển tập Bùi Hiển
     authors:
       - Bùi Hiển
+    translators:
       - Phan Cự Đệ
     year: 1987
     language: Vietnamese
@@ -7978,9 +8040,11 @@ titles:
         url: https://search.worldcat.org/title/22641313
     verified: true
   - title: Sử ký
+    original_title: Shiji
     series: Văn học cò đìèn nươc ngoài. Văn học Trung Quốc
     authors:
       - Qian Sima
+    translators:
       - Thành Nhữ
     year: 1988
     language: Vietnamese
@@ -8004,12 +8068,14 @@ titles:
         url: https://www.sudoc.fr/103550135
     verified: true
   - title: Tây du ký
+    original_title: Xi you ji
     authors:
       - Cheng'en Wu
+      - Duy Thứ Lương
+    translators:
       - Như Sơn
       - Mai Xuân Hải
       - Phương Oanh
-      - Duy Thứ Lương
     year: 1988
     language: Vietnamese
     sources:
@@ -8123,6 +8189,7 @@ titles:
     verified: true
   - title: Chié̂c gương thà̂n kỳ
     subtitle: Truyện dân gian Mié̂n Điện
+    original_title: Ratanā kreʺ muṃ nanʻʺ tvaṅʻʺ jātʻ to krīʺ
     series: Văn học cỏ̂ điẻ̂n nước ngoài
     authors:
       - Rvhe toṅʻ Siha Sū
@@ -8134,9 +8201,12 @@ titles:
     verified: true
   - title: Chuyện làng nho
     subtitle: Nho lâm ngoại sử
+    original_title: Ru lin wai shi
     authors:
       - Jingzi Wu
       - Võ Phan
+    translators:
+      - Phan Võ
       - Nhữ Thành
     year: 1989
     edition: 2e éd
@@ -8216,8 +8286,9 @@ titles:
   - title: Liêu trai chí dị tuyển chọn và hiệu đính
     authors:
       - Tùng Linh Bồ
-      - Xuân Huy Cao
       - Nguyễn Huệ Chi
+    translators:
+      - Xuân Huy Cao
     year: 1989
     language: Vietnamese
     sources:
@@ -8254,6 +8325,7 @@ titles:
     subtitle: Truyện chọn lọc
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Lê Bá Thự
       - Nguyễn Hữu Dũng
     year: 1989
@@ -8288,6 +8360,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=559403666
     verified: true
   - title: Chiếc mũ kêpi
+    original_title: Le Képi
     series: Văn học hiện đại nước ngoài
     authors:
       - Colette
@@ -8822,6 +8895,7 @@ titles:
     verified: true
   - title: Thơ Đường Bốn Ngữ
     subtitle: Hán-Việt-Anh-Pháp
+    original_title: 唐詩四語
     authors:
       - Hữu Ngọc
     year: 1992
@@ -8920,6 +8994,7 @@ titles:
   - title: Bùi Hữu Nghĩa và Kim Thạch Kì Duyên
     authors:
       - Bùi Quang Nghĩa
+    translators:
       - Nguyễn Q. Thắng
     year: 1993
     language: Vietnamese, Chinese

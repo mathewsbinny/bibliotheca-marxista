@@ -2535,6 +2535,10 @@ titles:
   - title: Shi jing quan yi
     authors:
       - Yu'an Yuan
+    editors:
+      - Moyao Tang
+    translators:
+      - Yuanyuan
     year: 1981
     edition: Di 1 ban
     language: Chinese
@@ -3525,9 +3529,10 @@ titles:
   - title: Nian qing de guo wang
     authors:
       - Oscar Wilde
-      - Shu Su
       - Zhi Qi
       - Hua Ouyang
+    translators:
+      - Shu Su
     year: 1982
     language: Chinese
     sources:
@@ -3805,6 +3810,8 @@ titles:
   - title: Zhongguo xian dai wen lun xuan
     authors:
       - Yongsheng Wang
+    editors:
+      - 永生 王
     year: 1982
     edition: Di 1 ban
     language: Chinese
@@ -7782,6 +7789,8 @@ titles:
   - title: Shi tong jian zhu
     authors:
       - Zhenpei Zhang
+    editors:
+      - Zhiji Liu
     year: 1985
     edition: Di 1 ban
     language: Chinese
@@ -9925,10 +9934,12 @@ titles:
     verified: true
   - title: Zhongguo yi shi de wei ji
     subtitle: '"Wu si" shi qi ji lie de fan chuan tong zhu yi'
+    original_title: Crisis of Chinese consciousness
     series: Chuan tong yu bian ge cong shu
     authors:
       - Yusheng Lin
       - 毓生 林
+    translators:
       - Shanpei Mu
       - 善培 穆
     year: 1986
@@ -11774,7 +11785,8 @@ titles:
     verified: true
   - title: Si shu quan yi
     series: Zhong guo li dai ming zhu quan yi cong shu; 5
-    authors:
+    authors: []
+    translators:
       - Liu Juntian
       - Lin Song
       - Yu Kekun
@@ -12489,7 +12501,8 @@ titles:
     verified: true
   - title: Lao zi quan yi
     series: Zhong guo li dai ming zhu quan yi cong shu; 39
-    authors:
+    authors: []
+    translators:
       - Sha Shaohai
       - Xu Zihong
     year: 1989
@@ -13554,7 +13567,8 @@ titles:
         url: https://d-nb.info/1053881266
     verified: false
   - title: Dai ni qu
-    authors:
+    authors: []
+    translators:
       - Xiaoyang Li
     language: Not recorded
     sources:
@@ -13583,7 +13597,8 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb45186978v
     verified: false
   - title: Hai dao bao he
-    authors:
+    authors: []
+    translators:
       - Xiaoyang Li
     language: Not recorded
     sources:
@@ -13613,7 +13628,8 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb45335682b
     verified: false
   - title: Mo fa ma xi tuan
-    authors:
+    authors: []
+    translators:
       - Xiaoyang Li
     language: Not recorded
     sources:
@@ -13652,7 +13668,8 @@ titles:
         url: https://d-nb.info/1053025688
     verified: false
   - title: Shei de ya chi zui piao liang
-    authors:
+    authors: []
+    translators:
       - Danxia Liu
     language: Not recorded
     sources:
@@ -13677,7 +13694,8 @@ titles:
         url: https://d-nb.info/1063213401
     verified: false
   - title: Wo de di yi ci
-    authors:
+    authors: []
+    translators:
       - Chengzheng Zhao
     language: Not recorded
     sources:
@@ -13703,6 +13721,7 @@ titles:
   - title: Xiao tu Ka er gu shi ji
     authors:
       - Rotraut Susanne Berner
+    translators:
       - Jie Kong
     language: Not recorded
     sources:

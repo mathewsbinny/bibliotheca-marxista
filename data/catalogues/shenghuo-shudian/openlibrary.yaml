@@ -108,9 +108,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1060147246
     verified: true
   - title: Ai di sheng zhuan
+    original_title: Edison, the man and his work
     series: Min guo ji cui
     authors:
       - George S. Bryan
+    translators:
       - Kuangfu Wu
     year: 1933
     language: Chinese
@@ -133,9 +135,11 @@ titles:
         url: https://search.worldcat.org/title/40919937
     verified: true
   - title: Ge ming wen hao Gao'erji
+    original_title: Maxim Gorky and his Russia
     series: Min guo ji cui
     authors:
       - Alexander Samuel Kaun
+    translators:
       - Taofen Zou
     year: 1933
     language: Chinese
@@ -871,8 +875,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1522804013
     verified: true
   - title: Hong luo bo xu
+    original_title: Poil de Carotte
     authors:
       - Jules Renard
+    translators:
+      - Liewen Li
     year: 1934
     edition: Chu ban
     language: Chinese
@@ -1061,6 +1068,7 @@ titles:
     series: Min guo ji cui
     authors:
       - Hitoshi Yamakawa
+    translators:
       - Maoyong Xu
     year: 1934
     language: Chinese
@@ -2261,6 +2269,8 @@ titles:
   - title: Shi jie ke xue ming ren zhuan
     authors:
       - Grove Wilson
+    translators:
+      - Baoshi Zeng
     year: 1935
     language: Chinese
     pages: 498
@@ -3329,9 +3339,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1056551011
     verified: true
   - title: Xi de
+    original_title: Cid
     series: Min guo ji cui
     authors:
       - Pierre Corneille
+    translators:
       - Weike Wang
     year: 1936
     language: Chinese
@@ -4707,6 +4719,7 @@ titles:
     series: Min guo ji cui
     authors:
       - Aleksandr A. Anikst
+    translators:
       - Dun Mao
     year: 1937
     language: Chinese
@@ -4916,6 +4929,7 @@ titles:
     series: Min guo ji cui
     authors:
       - Shūji Akizawa
+    translators:
       - Deshan Xiong
     year: 1937
     language: Chinese
@@ -5064,6 +5078,7 @@ titles:
     series: Bai ke xiao yi cong
     authors:
       - Mi ding
+    translators:
       - Zhongshi Zhang
     year: 1937
     language: Chinese
@@ -6659,7 +6674,8 @@ titles:
     verified: true
   - title: Su lian Hong jun shi zen yang zhang cheng de
     series: Shi jie zhi shi zhan shi cong kan; 5
-    authors:
+    authors: []
+    translators:
       - Wenxiong Ye
     year: 1938
     language: Chinese
@@ -6689,7 +6705,8 @@ titles:
     verified: true
   - title: Wai ren yan zhong de Zhong Ri zhan zheng
     series: Shi jie zhi shi zhan shi cong kan; 2
-    authors:
+    authors: []
+    translators:
       - Fu Bin
     year: 1938
     language: Chinese
@@ -6736,9 +6753,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1493955608
     verified: true
   - title: Xiao shuo yu min zhong
+    original_title: Novel and the people
     series: Min guo ji cui
     authors:
       - E. M. Forster
+    translators:
       - Jiahuai He
     year: 1938
     language: Chinese
@@ -8240,6 +8259,7 @@ titles:
   - title: Di guo zhu yi
     authors:
       - Ning Lie
+    translators:
       - Weizhen Wang
     year: 1939
     language: Chinese
@@ -8364,6 +8384,9 @@ titles:
     subtitle: '[Experiences gained and lessons learned during the Resistance War]'
     authors:
       - Jiaju Qian
+    editors:
+      - Yuzhi Hu
+      - Tiesheng Zhang
     year: 1939
     language: Chinese
     pages: 272
@@ -10038,6 +10061,7 @@ titles:
         url: https://search.worldcat.org/title/502434851
     verified: true
   - title: Jian xi
+    original_title: Zhiznʹ nenuzhnogo cheloveka
     series: Min guo ji cui
     authors:
       - Maksim Gorʹkij
@@ -10198,6 +10222,8 @@ titles:
   - title: Wo de ba ba
     authors:
       - Dai Kelalunsi
+    translators:
+      - Chao Yang
     year: 1946
     edition: Zai ban
     language: Chinese
@@ -10738,6 +10764,7 @@ titles:
   - title: Fu chou yan yu, you ming, du bu luo fu si ji
     authors:
       - Pu shi geng
+    translators:
       - Bo Li
     year: 1947
     language: Chinese
@@ -10885,6 +10912,8 @@ titles:
     subtitle: Great men of science,their lives and discoueries
     authors:
       - Grove Wilson
+    translators:
+      - Baoshi Zeng
     year: 1947
     language: Chinese
     pages: 500
@@ -10895,6 +10924,8 @@ titles:
   - title: Ke xue yu ri chang sheng huo
     authors:
       - John Burdon Sanderson Haldane
+    translators:
+      - Yuan Chen
     year: 1947
     series: Sheng huo cong shu
     language: Chinese
@@ -11006,6 +11037,7 @@ titles:
     series: Shi jie xue shu ming zhu yi cong
     authors:
       - Friedrich Engels
+    translators:
       - Liping Wu
     year: 1947
     language: Chinese
@@ -11161,6 +11193,8 @@ titles:
   - title: Zhong de qi yuan
     authors:
       - Charles Darwin
+    translators:
+      - Jianren Zhou
     year: 1947
     series: Shi jie xue shu ming zhu yi cong
     language: Chinese
@@ -11861,6 +11895,7 @@ titles:
   - title: She hui zhu yi cong kong xiang dao ke xue de fa zhan
     authors:
       - Friedrich Engels
+    translators:
       - Liping Wu
     year: 1948
     language: Chinese

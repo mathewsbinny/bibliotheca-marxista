@@ -165,6 +165,8 @@ titles:
     verified: true
   - title: Spomenica 400 [četri stotine] godina od dolaska Jevreja u Bosnu i Hercegovinu, 1566-1966
     authors: []
+    editors:
+      - Samuel Kamhi
     year: 1966
     language: Not recorded
     sources:
@@ -330,6 +332,8 @@ titles:
   - title: Rad XV-og Kongresa Saveza udruženja folklorista Jugoslavije u Jajcu 12-16 septembra 1968
     authors:
       - Savez folklorista Jugoslavije
+    editors:
+      - Cvjetko Rihtman
     year: 1971
     language: Croatian
     sources:
@@ -866,6 +870,10 @@ titles:
     subtitle: Referati, diskusija, zaključci
     authors:
       - Mostarsko savjetovanje o književnom jeziku
+    editors:
+      - Milan Šipka
+      - Mevlida Karadža-Garić
+      - Josip Baotić
     year: 1974
     language: Croatian
     sources:
@@ -985,6 +993,8 @@ titles:
   - title: Panorama pogleda, pojava i pojmova
     authors:
       - Miroslav Krleža
+    editors:
+      - Anđelko Malinar
     year: 1975
     language: Croatian
     sources:
@@ -1234,6 +1244,8 @@ titles:
   - title: Dnevnik
     authors:
       - Miroslav Krleža
+    editors:
+      - Andelko Malinar
     year: 1977
     edition: Jubilarno izd
     language: Croatian
@@ -1571,6 +1583,9 @@ titles:
     subtitle: Referat--rezolucije--završna riječ
     authors:
       - Savez komunista Jugoslavije. Kongres
+    editors:
+      - Muhamed Abadžić
+      - Franjo Tolić
     year: 1978
     series: Politička biblioteka
     language: Croatian
@@ -1978,6 +1993,8 @@ titles:
   - title: Dnevnik
     authors:
       - Miroslav Krleža
+    editors:
+      - Anđelko Malinar
     year: 1981
     edition: Jubilarno izd
     series: Sabrana djela Miroslava Krleže
@@ -2224,6 +2241,8 @@ titles:
   - title: Krleža
     authors:
       - Enes Čengić
+    editors:
+      - Alojz Majetić
     year: 1982
     language: Croatian
     sources:
@@ -3784,9 +3803,12 @@ titles:
         url: https://www.sudoc.fr/030241979
     verified: true
   - title: Miroslav Krleža i njemački ekspresionizam
+    original_title: Miroslav Krleža und der deutsche Expressionismus
     series: Biblioteka Sinte
     authors:
       - Reinhard Lauer
+    translators:
+      - Nihad Agić
     year: 1990
     language: Croatian
     sources:
@@ -3848,6 +3870,8 @@ titles:
   - title: Roman bez romana
     authors:
       - Jovan Sterija Popović
+    editors:
+      - Josip Lešić
     year: 1990
     series: Biblioteka YU klasici
     language: Croatian

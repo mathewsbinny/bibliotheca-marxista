@@ -52,6 +52,8 @@ titles:
     subtitle: Selección y prólogo de Pablo Rojas Paz
     authors:
       - Juan Bautista Alberdi
+    editors:
+      - Pablo Rojas Paz
     year: 1943
     series: Biblioteca del pensamiento argentino -- 2
     language: Spanish
@@ -73,6 +75,8 @@ titles:
     subtitle: Selección y prólogo de Yolanda Martínez
     authors:
       - Esteban Echeverría
+    editors:
+      - Yolanda Martínez
     year: 1943
     series: Biblioteca del pensamiento argentino
     language: Spanish
@@ -90,6 +94,8 @@ titles:
   - title: El pensamiento de Mitre
     authors:
       - Bartolomé Mitre
+    editors:
+      - Adolfo Mitre
     year: 1943
     series: Biblioteca del pensamiento argentino
     language: Spanish
@@ -219,6 +225,8 @@ titles:
     subtitle: Selección y prólogo de Gregorio Weinberg
     authors:
       - Bernardo Monteagudo
+    editors:
+      - Gregorio Weinberg
     year: 1944
     series: '[Biblioteca del pensamiento argentino, 6]'
     language: Spanish
@@ -232,6 +240,7 @@ titles:
         url: https://lccn.loc.gov/47018322
     verified: true
   - title: El sentido del cine
+    original_title: The film sense
     series: Colección Comœdia
     authors:
       - Sergej M. Ėjzenštejn
@@ -380,6 +389,7 @@ titles:
     subtitle: En el materialismo y en el idealismo
     authors:
       - Adam Schaff
+    translators:
       - Raúl Scharreta
     year: 1964
     language: Spanish
@@ -394,11 +404,13 @@ titles:
         url: https://archive.org/details/la-teoria-de-la-verdad-en-el-materialismo-y-en-el-idealismo-adam-schaff
   - title: Pensamiento y lenguaje
     subtitle: Teoría del desarrollo cultural de las funciones psíquicas
+    original_title: Myšleni i rec
     series: Biblioteca Ciencias del hombre
     authors:
       - Lev Semenovič Vygotskij
       - José Itzigsohn
       - Jean Piaget
+    translators:
       - María Margarita Rotger
     year: 1964
     language: Spanish

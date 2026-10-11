@@ -68,6 +68,8 @@ titles:
   - title: La révolution russe
     authors:
       - Rosa Luxemburg
+    translators:
+      - Marcel Ollivier
     year: 1937
     series: Spartacus. Nouv. ser -- no. 4
     language: French
@@ -259,6 +261,7 @@ titles:
     series: Spartacus; 4
     authors:
       - Rosa Luxemburg
+    translators:
       - Alexandre-Marie Desrousseaux
     year: 1946
     language: French
@@ -311,6 +314,8 @@ titles:
     verified: true
   - title: Spartacus
     authors: []
+    editors:
+      - René Lefeuvre
     year: 1946
     language: French
     sources:
@@ -711,6 +716,8 @@ titles:
   - title: Partir de l'homme (The Root is man), examen critique des fondements de l'action socialiste. Traduit de l'anglais par J. Moreau. Préface de G. Goriély
     authors:
       - Dwight MacDonald
+    translators:
+      - J. Moreau
     year: 1948
     language: French
     sources:
@@ -889,6 +896,9 @@ titles:
     subtitle: Parti et syndicats
     authors:
       - Rosa Luxemburg
+    translators:
+      - Berthe Fouchère
+      - Bracke
     year: 1950
     language: French
     sources:
@@ -1125,6 +1135,7 @@ titles:
     subtitle: Trotsky contre Lénine
     authors:
       - Lev Davidovič Trockij
+    translators:
       - Denis Authier
     year: 1969
     language: French
@@ -1170,9 +1181,10 @@ titles:
     authors:
       - Anton Pannekoek
       - Karl Korsch
+      - Paul Mattick
+    translators:
       - Daniel Saint-James
       - Claude Simon
-      - Paul Mattick
     year: 1970
     language: French
     sources:
@@ -1268,8 +1280,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=22773632X
     verified: true
   - title: Anarchisme et marxisme dans la Révolution russe
+    original_title: Marxismus und Anarchismus in der russischen Revolution
     authors:
       - Arthur Müller-Lehning
+    translators:
       - Jean Barrué
     year: 1971
     language: German
@@ -1685,8 +1699,11 @@ titles:
     verified: true
   - title: Les soviets trahis par les bolchéviks
     subtitle: La faillite du communisme d'Etat
+    original_title: Der Bankerott des russischen Staatskommunismus
     authors:
       - Rudolf Rocker
+    translators:
+      - Pierre Gallissaires
     year: 1973
     series: Spartacus
     language: French
@@ -1946,6 +1963,7 @@ titles:
     series: Spartacus; 95
     authors:
       - Amadeo Bordiga
+    translators:
       - Jacques Camatte
       - Denis Authier
       - Jacques Colom
@@ -2016,6 +2034,7 @@ titles:
     series: 'Spartacus: cahiers mensuels série B; 69'
     authors:
       - Mikhail Aleksandrovitch Bakounine
+    translators:
       - Jean Barrué
     year: 1976
     language: French
@@ -2078,6 +2097,7 @@ titles:
     verified: true
   - title: Guerre de classes en Espagne
     subtitle: 1936-1937
+    original_title: Guerra di classe in Spagna (1936-1937)
     series: Spartacus; 85
     authors:
       - Camillo Berneri
@@ -2131,6 +2151,7 @@ titles:
         url: https://www.gutenberg.org/ebooks/77029
   - title: Le nouveau mouvement ouvrier américain
     subtitle: Traduction d'un collectif
+    original_title: The Rise of the Workers mouvements
     series: Spartacus; 88
     authors: []
     year: 1977
@@ -2444,10 +2465,12 @@ titles:
         url: https://openlibrary.org/books/OL18873351M
     verified: true
   - title: Trotsky, le Staline manqué
+    original_title: Trotzky, der gescheiterte Stalin
     series: '"Spartacus"; 113'
     authors:
       - Willy Huhn
       - Paul Mattick
+    translators:
       - Daniel Saint-James
     year: 1981
     language: French
@@ -2494,6 +2517,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb346883053
     verified: true
   - title: L'Ennemi, la guerre, la paix
+    original_title: Worker's councils
     authors:
       - Anton Pannekoek
     year: 1982
@@ -2516,6 +2540,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1376073013
     verified: true
   - title: La Tâch, la lutte, la pensée
+    original_title: Worker's councils
     authors:
       - Anton Pannekoek
     year: 1982
@@ -2535,6 +2560,7 @@ titles:
         url: https://www.sudoc.fr/102868735
     verified: true
   - title: Les Conseils ouvriers
+    original_title: Uber Arbeiterräte
     series: Cahiers Spartacus; 114 et 119
     authors:
       - Anton Pannekoek
@@ -2651,10 +2677,12 @@ titles:
     verified: true
   - title: Combats pour la liberté
     subtitle: Moscou, Madrid, Paris
+    original_title: Revolution für die Freiheit
     series: Cahiers Spartacus; no 29, sept.-oct. 1983
     authors:
       - Clara Thalmann
       - Pavel Thalmann
+    translators:
       - Caroline Darbon
     year: 1983
     language: French
@@ -2692,6 +2720,8 @@ titles:
     authors:
       - Paul Mattick
       - Michael Buckmiller
+    translators:
+      - Claude Orsoni
     year: 1983
     language: French
     sources:
@@ -2706,6 +2736,8 @@ titles:
     subtitle: Une lutte méconnue...
     authors:
       - Partīia sotsīalistov-revoliutsīonerov
+    editors:
+      - Guy Sabatier
     year: 1983
     series: Spartacus -- sér B, no 122
     language: French
@@ -2812,8 +2844,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991092702839705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Anarchisme et marxisme dans la Révolution russe
+    original_title: Marxismus und Anarchismus in der russischen Revolution
     authors:
       - Arthur Lehning
+    translators:
       - Jean Barrué
     year: 1984
     language: French
@@ -2850,6 +2884,9 @@ titles:
   - title: Notes pour servir à l'histoire de la Commune de Paris de 1871
     authors:
       - Jules Andrieu
+    editors:
+      - Maximilien Rubel
+      - Louis Janover
     year: 1984
     series: Spartacus -- sér. B, no 130
     language: French
@@ -2867,6 +2904,9 @@ titles:
     subtitle: La Commune sans mythe
     authors:
       - Jules Andrieu
+    editors:
+      - Louis Janover
+      - Maximilien Rubel
     year: 1984
     language: French
     sources:
@@ -2951,6 +2991,7 @@ titles:
     verified: true
   - title: Hongrie 1956
     subtitle: La commune de Budapest
+    original_title: Hungary 56
     series: Spartacus. Série B; 137
     authors:
       - Andy Anderson
@@ -3118,9 +3159,11 @@ titles:
     verified: true
   - title: Un Rebelle dans la Révolution
     subtitle: Allemagne 1918-1921
+    original_title: Vom weissen Kreuz zur roten Fahne
     series: Spartacus; 141
     authors:
       - Max Hölz
+    translators:
       - Serge Cosseron
     year: 1988
     language: French
@@ -3320,8 +3363,11 @@ titles:
     subtitle: Tribut anglais à la Commune française, dedie aux ouvriers des deux pays
   - title: Les soviets trahis par les bolcheviks
     subtitle: La faillite du communisme d'État, 1921
+    original_title: Der Bankrott des russischen Staatkommunismus
     authors:
       - Rudolf Rocker
+    translators:
+      - Pierre Galissaires
     year: 1998
     edition: 2e éd
     series: Spartacus -- sér. B, no. 154
@@ -3340,8 +3386,10 @@ titles:
     verified: true
   - title: La République des Conseils de Bavière
     subtitle: Munich du 7 novembre 1918 au 13 avril 1919
+    original_title: Von Eisner bis Leviné
     authors:
       - Erich Mühsam
+    translators:
       - Theodore Zweifel
       - Pierre Gallissaires
     year: 1999
@@ -3421,6 +3469,7 @@ titles:
   - title: Le socialisme des intellectuels
     authors:
       - Jan Wacław Machajski
+    translators:
       - Alexandre Skirda
     year: 2001
     language: French
@@ -3553,6 +3602,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb399903852
     verified: true
   - title: Eglises et socialisme
+    original_title: Kosciol a socializm
     series: Spartacus; 169
     authors:
       - Rosa Luxemburg
@@ -3602,10 +3652,12 @@ titles:
         url: https://search.worldcat.org/title/173162304
     verified: true
   - title: De la conscience en politique
+    original_title: Was ist Klassenbewusstsein ?
     series: Spartacus; n° 174
     authors:
       - Wilhelm Reich
       - Christopher Agamemnon Pallis
+    translators:
       - Constantin Sinelnikoff
     year: 2008
     language: French
@@ -3650,6 +3702,7 @@ titles:
     verified: true
   - title: Barricades à Barcelone
     subtitle: La CNT de la victoire de juillet 1936 à la défaite de mai 1937
+    original_title: Barricadas en Barcelona
     series: Spartacus; 176
     authors:
       - Agustín Guillamón
@@ -3708,6 +3761,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb42129293w
     verified: true
   - title: Les Conseils ouvriers
+    original_title: Worker's councils
     series: Spartacus; 178
     authors:
       - Anton Pannekoek
@@ -3723,12 +3777,14 @@ titles:
     verified: true
   - title: Venezuela, révolution ou spectacle ?
     subtitle: Une critique anarchiste du gouvernement bolivarien
+    original_title: Venezuela, la revolución como espectáculo. Una crítica anarquista al gobierno bolivariano
     series: Spartacus; 181
     authors:
       - Rafael Uzcátegui
+      - Octavio Alberola
+    translators:
       - Jean-Michel Kay
       - Charles Bufe
-      - Octavio Alberola
     year: 2011
     language: French
     sources:
@@ -3801,6 +3857,8 @@ titles:
     series: Spartacus. Série B; no 187
     authors:
       - Jan Wacław Machajski
+    editors:
+      - Alexandre Skirda
     year: 2014
     language: French
     sources:
@@ -3860,6 +3918,8 @@ titles:
     subtitle: Mes années de Russie
     authors:
       - Marcel Body
+    editors:
+      - Alexandre Skirda
     year: 2015
     language: French
     sources:
@@ -3885,6 +3945,8 @@ titles:
       - Rosa Luxemburg
       - Jean-Michel Kay
       - Berthe Fouchère
+    translators:
+      - Maja Żółtowska
     year: 2016
     language: French
     sources:
@@ -4030,6 +4092,7 @@ titles:
     series: Spartacus; 200
     authors:
       - Max Hölz
+    translators:
       - Serge Cosseron
     year: 2018
     language: French
@@ -4069,6 +4132,7 @@ titles:
     authors:
       - Willy Huhn
       - Paul Mattick
+    translators:
       - Daniel Saint-James
     year: 2019
     language: French

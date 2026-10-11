@@ -44,9 +44,12 @@ titles:
     verified: true
   - title: Đại Nam thực lục
     subtitle: Chính biên
+    original_title: Đại Nam thực lục
     authors:
       - Nguyêñ Thế Đạt
       - Hoàng Thúc Trâm
+    translators:
+      - Ngô Hữu Tạo
     year: 1965
     language: Vietnamese
     sources:
@@ -129,6 +132,8 @@ titles:
     authors:
       - Ngô-sĩ-Liên
       - Đào-Duy-Anh
+    translators:
+      - Huy Giu Cao
     year: 1967
     language: Vietnamese
     sources:
@@ -350,6 +355,11 @@ titles:
     authors:
       - Trọng Điềm Phạm
       - Viện sử học (Vietnam)
+    editors:
+      - Xuân Dục Cao
+      - Duy Anh Đào
+    translators:
+      - Phạm Trọng Điềm
     year: 1969
     language: Vietnamese
     sources:
@@ -537,9 +547,10 @@ titles:
   - title: Binh thư yếu lược
     subtitle: 'Phụ: Hổ trướng khu cơ'
     authors:
+      - Duy Anh Đào
+    translators:
       - Nguyễn Ngọc Tỉnh
       - Đỗ Mộng Khương
-      - Duy Anh Đào
     year: 1970
     language: Vietnamese
     sources:
@@ -804,8 +815,9 @@ titles:
   - title: Dai Viêt su ky toàn thu
     subtitle: Bốn tập
     authors:
-      - Cao Huy Giu
       - Đào Duy Anh
+    translators:
+      - Cao Huy Giu
     year: 1971
     language: Vietnamese
     sources:
@@ -815,6 +827,7 @@ titles:
   - title: Đại việt sử ký toàn thư
     authors:
       - Ngô Sĩ Liên
+    translators:
       - Huy Giu Cao
     year: 1971
     language: Vietnamese
@@ -1131,10 +1144,14 @@ titles:
     verified: true
   - title: Đại Nam thực lục
     subtitle: Chính biên
+    original_title: Đại Nam thực lục
     authors:
       - Phạm Huy Giu
       - Nguyêñ Thế Đạt
+    translators:
+      - Ngô Hữu Tạo
       - Huy Giu Cao
+      - Nguyễn Ngọc Tỉnh
     year: 1973
     language: Vietnamese
     sources:
@@ -1461,6 +1478,7 @@ titles:
     verified: false
   - title: Bàn về các xã hội tiền tư bản
     subtitle: Những đoạn tuyển chọn của Mác, Ăng-ghen, Lênin
+    original_title: Sur les sociétés précapitalistes
     authors:
       - Karl Marx
       - Friedrich Engels
@@ -1514,8 +1532,9 @@ titles:
     authors:
       - Ngô Cao Lãng
       - Xiển Trai
-      - Hoa Bằng
       - Văn Tân
+    translators:
+      - Hoa Bằng
     year: 1975
     language: Vietnamese
     sources:
@@ -1927,6 +1946,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BD0742256X
     verified: false
   - title: Khảo cổ học và hiện đại
+    original_title: Archeologija i covremennost'
     authors:
       - Aleksandr L. Mongajt
       - Nguyễn-Duy-Tỳ
@@ -2144,6 +2164,8 @@ titles:
   - title: Vai trò của phương pháp luận triết học Mác-Lênin đối với sự phát triển của khoa học tự nhiên
     authors:
       - Duy Thông Nguyễn
+    editors:
+      - Nguyêñ Duy Thông
     year: 1977
     language: Vietnamese
     pages: 247
@@ -2463,6 +2485,8 @@ titles:
   - title: Thiên hồ! Đế hồ!
     authors:
       - Phan Bội Châu
+    translators:
+      - Thâu Chương
     year: 1978
     language: Vietnamese
     sources:
@@ -3165,6 +3189,9 @@ titles:
     authors:
       - Gia Khánh Đinh
       - Hội Đồng Biên Tập Tổng Tập Văn Học Việt Nam
+    editors:
+      - Nguyễn Khánh Toàn
+      - Huy Nguyên Lữ
     year: 1980
     language: Vietnamese
     sources:
@@ -4330,6 +4357,8 @@ titles:
     authors:
       - Khánh Toàn Nguyễn
       - Ủy ban khoa học xã hội Việt Nam
+    editors:
+      - Nguyễn Khánh Toàn
     year: 1985
     edition: In lần thứ 2
     language: Vietnamese
@@ -4700,6 +4729,7 @@ titles:
     series: Tài liệu dịch thuật của Viện nghiên cứu Hán Nôm
     authors:
       - Bùi Dương Lịch
+    translators:
       - Phạm Văn Thắm
     year: 1987
     language: Vietnamese
@@ -4936,8 +4966,9 @@ titles:
   - title: Hoan Châu Ký
     authors:
       - Nguyễn Cảnh Thị
-      - Nguyễn Thị Thảo
       - Trần Nghĩa
+    translators:
+      - Nguyễn Thị Thảo
     year: 1988
     language: Vietnamese
     sources:
@@ -5794,6 +5825,8 @@ titles:
     authors:
       - Nguyễn Huệ Chi
       - Đặng Thai Mai
+    editors:
+      - Viện Văn Học
     year: 1990
     language: Vietnamese
     sources:
@@ -6042,6 +6075,9 @@ titles:
       - Đức Thịnh Ngô
       - Xuân Kính Nguyễn
       - Viện văn hóa dân gian (Vietnam)
+    editors:
+      - Ngô Đức Thịnh
+      - Nguyễn Xuân Kính
     year: 1990
     language: Vietnamese
     pages: 311
@@ -6191,9 +6227,11 @@ titles:
     verified: true
   - title: Đài Loan
     subtitle: Cái giá của thành công
+    original_title: Taïwan, le prix de la réussite
     authors:
       - René Dumont
       - Charlotte Paquet
+    translators:
       - Hoàng Việt
     year: 1991
     language: Vietnamese
@@ -6267,6 +6305,7 @@ titles:
   - title: Đông Dương thi văn tuyển
     authors:
       - Vũ Phạm Khải
+    translators:
       - Nguyễn Văn Huyền
     year: 1991
     language: Vietnamese, Chinese
@@ -6476,6 +6515,7 @@ titles:
     series: Triết học phương đông
     authors:
       - Vũ Khiêu
+    translators:
       - Quang Đạm
     year: 1991
     language: Vietnamese, Chinese
@@ -6632,7 +6672,8 @@ titles:
         url: https://www.sudoc.fr/152536817
     verified: true
   - title: Truyện truyền kỳ đời Đường
-    authors:
+    authors: []
+    translators:
       - Lâu Hoàng Văn
     year: 1991
     language: Vietnamese
@@ -7218,6 +7259,7 @@ titles:
     authors:
       - Lê Lợi
       - Nguyễn Trãi
+    translators:
       - Trần Nghĩa
     year: 1992
     language: Vietnamese, Chinese
@@ -7419,6 +7461,10 @@ titles:
     subtitle: Dịch theo bản khắc in năm chính hòa thứ 18 (1697)
     authors:
       - Ngô, Sĩ Liên, active 15th century
+    editors:
+      - Văn Tấn Hà
+    translators:
+      - Ngô Đức Thọ
     year: 1993
     language: Vietnamese
     sources:
@@ -7911,7 +7957,8 @@ titles:
         url: https://lccn.loc.gov/93946145
     verified: true
   - title: Từ điển thành ngữ điển cố Trung Quốc
-    authors:
+    authors: []
+    translators:
       - Lê Huy Tiêu
     year: 1993
     language: Vietnamese
@@ -8261,6 +8308,9 @@ titles:
       - Nguyễn Đình Chiểu
       - Nghĩa Trần
       - Thanh Hằng Vũ
+    editors:
+      - Trần Nghĩa
+      - Vũ Thanh Hằng
     year: 1994
     language: Vietnamese
     pages: 170
@@ -8782,8 +8832,9 @@ titles:
   - title: Đại Nam liệt truyện tiền biên
     subtitle: Ta Nan lieh chuan chʻien pien
     authors:
-      - Tự Thanh Cao
       - Quốc sử quán triều Nguyễn
+    translators:
+      - Tự Thanh Cao
     year: 1995
     language: Vietnamese
     pages: 304

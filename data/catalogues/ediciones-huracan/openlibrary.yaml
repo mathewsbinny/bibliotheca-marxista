@@ -404,6 +404,7 @@ titles:
     authors:
       - Efraín Barradas
       - Rafael Rodriguez
+    translators:
       - Carmen Lilianne Marín
     year: 1980
     language: Spanish
@@ -664,6 +665,9 @@ titles:
   - title: Obras completas de Tomás Blanco
     authors:
       - Tomás Blanco
+    editors:
+      - Margot Arce de Vázquez
+      - Arcadio Díaz Quiñones
     year: 1981
     language: Spanish
     sources:
@@ -678,6 +682,7 @@ titles:
     verified: true
   - title: Perdido en el Museo de Historia Natural
     subtitle: Lost in the Museum of Natural History
+    original_title: Lost in the Museum of Natural History
     authors:
       - Pedro Pietri
       - José A. Peláez
@@ -1260,6 +1265,7 @@ titles:
     verified: true
   - title: El grito de Lares
     subtitle: Sus causas y sus hombres
+    original_title: Puerto Rico's revolt for independence
     series: Colección Semilla
     authors:
       - Olga Jiménez de Wagenheim
@@ -1523,11 +1529,13 @@ titles:
     verified: true
   - title: Taso
     subtitle: Trabajador de la caña
+    original_title: Worker in the cane
     series: Colleción Clásicos Huracán; 4
     authors:
       - Sidney Wilfred Mintz
-      - Yvette Torres Rivera
       - Francisco Antonio Scarano
+    translators:
+      - Yvette Torres Rivera
     year: 1988
     language: Spanish
     sources:
@@ -2587,6 +2595,8 @@ titles:
   - title: Yo misma fui mi ruta
     authors:
       - Julia de Burgos
+    editors:
+      - María Magdalena Solá
     year: 2002
     language: Spanish
     sources:

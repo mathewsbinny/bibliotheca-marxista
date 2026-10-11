@@ -53,6 +53,7 @@ titles:
   - title: Dom pod kaštanami
     authors:
       - Helena Bechlerowa
+    translators:
       - Âdvìga Bâganskaâ
     year: 1972
     language: Belarusian
@@ -65,6 +66,9 @@ titles:
   - title: Dorogi bez sledov
     authors:
       - Anton Aleshka
+    translators:
+      - Georgij Popov
+      - Georgii Popov (Георгий Попов)
     year: 1972
     series: Belorusskiǐ roman
     language: Russian
@@ -227,6 +231,8 @@ titles:
     verified: true
   - title: Zorka Venera, lìryka kahannâ. Aŭtar pradmovy A. Vâlûgìn. Ukladanne Mìkoly Auramčyka
     authors: []
+    editors:
+      - Mìkola Aŭramčyk
     year: 1972
     language: Belarusian
     sources:
@@ -258,6 +264,9 @@ titles:
   - title: 'Âkub Kolas. Zbor tvoraŭ u 14-cì tamah. Rèdakcyjnaâ kalegìâ: V. Barysenka, P. Broŭka, K. Krapìva, D. Mìckevìč, Û. Pšyrkoŭ'
     authors:
       - Âkub Kolas
+    editors:
+      - Ì. Krènʹ
+      - K. Pfìlìpovìč
     year: 1973
     language: Belarusian
     sources:
@@ -932,6 +941,7 @@ titles:
     authors:
       - Mihasʹ Lynʹkov
       - Mikhas Lynkov (Михась Лыньков)
+    translators:
       - Evgenij Mozolʹkov
       - Evgenii Mozolkov (Евгений Мозольков)
     year: 1974
@@ -1274,6 +1284,8 @@ titles:
   - title: Šlâh paèta
     subtitle: Zbornìk uspamìnaŭ ì bìâgrafìčnyh matèryâlaŭ pra Maksìma Bagdanovìča
     authors: []
+    editors:
+      - Nìna Barysaŭna Vatacy
     year: 1975
     language: Belarusian
     sources:
@@ -2627,7 +2639,8 @@ titles:
     verified: true
   - title: Za dalâglâdam kraj Stalemaŭ
     subtitle: Veršy
-    authors:
+    authors: []
+    translators:
       - Ales' Traânoŭskì
     year: 1980
     language: Not recorded
@@ -3461,6 +3474,8 @@ titles:
     verified: true
   - title: Uspamìny pra Ìvana Meleža
     authors: []
+    editors:
+      - Lìdzìâ Âkaŭleŭna Pâtrova-Melež
     year: 1982
     language: Belarusian
     sources:
@@ -4456,8 +4471,10 @@ titles:
     verified: true
   - title: Cenʹ snu
     subtitle: Apovescʹ
+    original_title: Stín spánku
     authors:
       - Iva Hercíková
+    translators:
       - Ânka Špak
       - Ianka Shpak (Янка Шпак)
     year: 1985
@@ -4498,9 +4515,11 @@ titles:
     verified: true
   - title: Devânosto tretij god
     subtitle: Roman
+    original_title: Quatrevingt-treize
     series: Biblioteka otečestvennoj i zarubežnoj klassiki
     authors:
       - Victor Hugo
+    translators:
       - Nadežda Mihajlovna Žarkova
       - Nadezhda Mikhailovna Zharkova (Надежда Михайловна Жаркова)
     year: 1985

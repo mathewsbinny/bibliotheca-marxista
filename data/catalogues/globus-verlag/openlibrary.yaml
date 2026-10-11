@@ -179,6 +179,7 @@ titles:
         url: https://www.sudoc.fr/098680978
     verified: true
   - title: Reportage unter dem Strang geschrieben
+    original_title: Reportáž, psaná na oprátce
     authors:
       - Julius Fučik
       - Felix Rausch
@@ -212,8 +213,9 @@ titles:
     series: Tagblatt-Bibliothek; Nr. 1262
     authors:
       - Alexander Rosen
-      - Alois Rottensteiner
       - Kóra
+    translators:
+      - Alois Rottensteiner
     year: 1946
     language: German
     sources:
@@ -297,6 +299,7 @@ titles:
     subtitle: Roman
     authors:
       - Béla Illés
+    translators:
       - Emerich Roboz
     year: 1947
     language: German
@@ -393,6 +396,8 @@ titles:
   - title: Vom Paradies zum Weltuntergang. Dramen und Kleinkunst. Bearbeitet und herausgegeben von Otto Tausig
     authors:
       - Jura Soyfer
+    editors:
+      - Otto Tausig
     year: 1947
     language: German
     sources:
@@ -410,6 +415,8 @@ titles:
   - title: Was ist das Weltall?
     authors:
       - Grigoriĭ Abramovich Gurev
+    translators:
+      - Emil Maschek
     year: 1947
     series: Tagblattbibliothek
     language: German
@@ -430,6 +437,8 @@ titles:
     series: Tagblatt-Bibliothek; Nr. 1276
     authors:
       - Boris Aleksandrovič Keller
+    translators:
+      - Emil Maschek
     year: 1947
     language: German
     sources:
@@ -449,10 +458,12 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991121905609705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: “Eine” Geschichte der Werkzeuge
+    original_title: Story of tools
     series: Tagblatt-Bibliothek; Nr. 1288
     authors:
       - V. Gordon Childe
       - Vere Gordon Childe
+    translators:
       - Emil Machek
     year: 1948
     language: German
@@ -464,8 +475,11 @@ titles:
     verified: true
   - title: 40000 gegen die Arktis
     subtitle: Neuland im Polareis
+    original_title: 40 000 against the arctic
     authors:
       - Peter Smolka
+    translators:
+      - Richard Hoffmann
     year: 1948
     language: German
     sources:
@@ -654,14 +668,16 @@ titles:
         url: https://www.gutenberg.org/ebooks/11633
   - title: Rigoletto
     subtitle: Oper in vier Akten
+    original_title: Rigoletto
     series: Tagblatt-Bibliothek; 241
     authors:
       - Francesco Maria Piave
       - Giuseppe Verdi
-      - Johann Christoph Grünbaum
       - Heinrich Kralik
       - Kurt Röschl
       - Victor Hugo
+    translators:
+      - Johann Christoph Grünbaum
     year: 1948
     language: German
     sources:
@@ -882,6 +898,8 @@ titles:
     authors:
       - Vere Gordon Childe
       - Walter Hollitscher
+    translators:
+      - Georg Knepler
     year: 1949
     language: German
     sources:
@@ -994,8 +1012,9 @@ titles:
     subtitle: Roman
     authors:
       - Vera Fedorovna Panova
-      - Eva Priester
       - Wilhelm Jaruska
+    translators:
+      - Eva Priester
     year: 1950
     language: German
     sources:
@@ -1120,6 +1139,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991007921049705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Fern von Moskau
+    original_title: Daleko ot Moskvy
     authors:
       - Vasilij N. Ažaev
     year: 1951
@@ -1155,11 +1175,13 @@ titles:
     verified: true
   - title: Lied vom Stahl
     subtitle: Roman
+    original_title: Wyssokaja dolshnost
     authors:
       - Nikolaj S. Evdokimov
-      - Alois Rottensteiner
       - Wilhelm Jaruska
       - Axl Leskoschek
+    translators:
+      - Alois Rottensteiner
     year: 1951
     language: German
     sources:
@@ -1214,8 +1236,10 @@ titles:
     verified: true
   - title: Jimmy
     subtitle: Roman
+    original_title: Jimmy
     authors:
       - Pierre Courtade
+    translators:
       - Hermann Schreiber
     year: 1952
     language: German
@@ -1248,8 +1272,10 @@ titles:
     verified: true
   - title: Der Kanal
     subtitle: Roman
+    original_title: Drum fara pulbere
     authors:
       - Petru Dumitriu
+    translators:
       - Friedrich Kollmann
     year: 1953
     language: German
@@ -1271,9 +1297,10 @@ titles:
     subtitle: Roman aus der Urzeit des Menschen
     authors:
       - Eduard Štorch
-      - Felix Rausch
       - Zdeněk Burian
       - Hans Thomas
+    translators:
+      - Felix Rausch
     year: 1953
     language: German
     sources:
@@ -1351,6 +1378,7 @@ titles:
     verified: true
   - title: Das ist Chaplin!
     subtitle: Sein Leben, seine Filme, seine Zeit
+    original_title: Vie de Charlot
     authors:
       - Georges Sadoul
       - Peter Loos
@@ -1395,8 +1423,10 @@ titles:
     verified: false
   - title: Brot und Gold
     subtitle: Roman
+    original_title: L' or et le pain
     authors:
       - René Jouglet
+    translators:
       - Elisabeth A. Barta
     year: 1955
     language: German
@@ -1595,6 +1625,7 @@ titles:
     verified: true
   - title: Der Film
     subtitle: Werden und Wesen einer neuen Kunst
+    original_title: Filmcultura
     authors:
       - Béla Balázs
     year: 1961
@@ -2026,8 +2057,11 @@ titles:
     verified: true
   - title: Die vietnamesische Revolution
     subtitle: Grundprobleme u. Hauptaufgaben
+    original_title: La révolution vietnamienne
     authors:
       - Lê-Duẩn
+    editors:
+      - Günter Giesenfeld
     year: 1973
     language: German
     sources:
@@ -2392,6 +2426,8 @@ titles:
     subtitle: Lebenskampf eines österreichischen Arbeiters
     authors:
       - Sepp Plieseis
+    editors:
+      - Julius Mader
     year: 1977
     language: German
     sources:
@@ -2976,6 +3012,7 @@ titles:
     verified: true
   - title: Leningrader Schicksalssymphonie
     subtitle: Bericht über die von den Deutschen und Finnen in den Jahren 1941-1943 belagerte Stadt und ihre Einwohner
+    original_title: Leningradin kohtalosinfonia
     authors:
       - Paavo Rintala
       - Peter Krüger
@@ -3335,6 +3372,7 @@ titles:
     verified: false
   - title: “Ein” Maskenball
     subtitle: Oper in fünf Akten
+    original_title: <<Un>> ballo in maschera
     authors:
       - Giuseppe Verdi
       - Francesco Maria Piave

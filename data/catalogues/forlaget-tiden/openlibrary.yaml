@@ -60,6 +60,7 @@ titles:
   - title: Jeg saa det nye Polen
     authors:
       - Anna Louise Strong
+    translators:
       - Dorothea Nielsen
     year: 1946
     language: Danish
@@ -160,6 +161,7 @@ titles:
         url: https://openlibrary.org/books/OL21120547M
     verified: true
   - title: Østzonen i Tyskland
+    original_title: Russian zone
     authors:
       - Gordon Schaffer
     year: 1948
@@ -447,6 +449,8 @@ titles:
   - title: Taler og artikler
     authors:
       - Martin Andersen Nexø
+    editors:
+      - Børge Houmann
     year: 1954
     language: Danish
     sources:

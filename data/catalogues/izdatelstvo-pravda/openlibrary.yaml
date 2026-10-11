@@ -398,8 +398,9 @@ titles:
     series: Biblioteka Krokodila; no 10
     authors:
       - Karel Čapek
-      - T. Aksel'
       - Lev G. Brodaty
+    translators:
+      - T. Aksel'
     year: 1945
     language: Russian
     sources:
@@ -1528,6 +1529,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991056547329705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Obŝestvennoe i gosudarstvennoe ustrojstvo SSSR
+    original_title: Společenské a státní zřízení SSSR
     series: V pomoŝʹ rukovoditelû političeskih zanâtij
     authors:
       - Vâčeslav Alekseevič Karpinskij
@@ -1995,6 +1997,7 @@ titles:
     subtitle: Poėma
     authors:
       - Arkadz' Aljaksandravič Kuljašoŭ
+    translators:
       - Michail Vasilʹevič Isakovskij
     year: 1946
     language: Russian
@@ -2891,6 +2894,8 @@ titles:
   - title: Sorok devâtyj štat, pʹesy v 5-ti intermediâh
     authors:
       - Džejms Oldridž
+    translators:
+      - Evgeniâ Davydovna Kalašnikova
     year: 1947
     language: Russian
     sources:
@@ -2902,6 +2907,7 @@ titles:
     series: Biblioteka "Ogonëk"; 1947, no 49/50
     authors:
       - James Aldridge
+    translators:
       - Evgenija Davydovna Kalašnikova
     year: 1947
     language: Russian
@@ -3017,6 +3023,7 @@ titles:
     authors:
       - Pâtrusʹ Broǔka
       - Petrus Brovka (Петрусь Бровка)
+    translators:
       - Dmitrij D. Osin
       - Dmitrii D. Osin (Дмитрий Д. Осин)
     year: 1947
@@ -3061,6 +3068,8 @@ titles:
   - title: Stikhi i poėmy, 1917-1947
     authors:
       - L. O. Belov
+    editors:
+      - A. A. (Alekseĭ Aleksandrovich) Surkov
     year: 1947
     series: Biblioteka "Ogonëk"
     language: Russian
@@ -3662,6 +3671,7 @@ titles:
     authors:
       - Vasilʹ Semenovič Stefanik
       - V. Stefanik (В. Стефаник)
+    translators:
       - N. Lâško
       - N. Liashko (Н. Ляшко)
     year: 1948
@@ -4150,6 +4160,7 @@ titles:
     authors:
       - Anatolʹ Gidaš
       - Anatol Gidash (Анатоль Гидаш)
+    translators:
       - Anna Krasnova
       - Anna Krasnova (Анна Краснова)
     year: 1948
@@ -6379,6 +6390,8 @@ titles:
   - title: Kommunist
     authors:
       - TSK KPSS
+    editors:
+      - Kommunističeskaja Partija Sovetskogo Sojuza
     year: 1952
     language: Russian
     sources:
@@ -7058,6 +7071,7 @@ titles:
         url: https://search.worldcat.org/title/18514435
     verified: true
   - title: Sobor Parižskoj bogomateri
+    original_title: Notre-Dame de Paris
     authors:
       - Victor Hugo
     year: 1955
@@ -7166,6 +7180,7 @@ titles:
     series: Biblioteka "Ogonek"; 1956, n° 12
     authors:
       - Wanda Wasilewska
+    translators:
       - È. Vasilevskaâ
       - A. Vasilevskaia (Э. Василевская)
     year: 1956
@@ -7471,6 +7486,7 @@ titles:
         url: https://search.worldcat.org/title/7323068
     verified: true
   - title: Črevo Pariža
+    original_title: Le ventre de Paris
     series: Rugon-Makkary / Ėmil' Zolja; izdanie vychodit pod obščej redakciej A. Puzikova; Tom 2
     authors:
       - Émile Zola
@@ -7482,6 +7498,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1123229147
     verified: true
   - title: Damskoe sčastʹe. Radostʹ žizni
+    original_title: Au bonheur des dames
     series: Rugon-Makkary / Ėmil' Zolja; izdanie vychodit pod obščej redakciej A. Puzikova; Tom 9
     authors:
       - Émile Zola
@@ -7527,6 +7544,7 @@ titles:
         url: https://search.worldcat.org/title/18449982
     verified: true
   - title: Ego prevoschoditelʹstvo Ėžen Rugon
+    original_title: Son Excellence Eugène Rougon
     series: Rugon-Makkary / Ėmil' Zolja; izdanie vychodit pod obščej redakciej A. Puzikova; Tom 5
     authors:
       - Émile Zola
@@ -7594,6 +7612,7 @@ titles:
     verified: true
   - title: Kroška Dorrit
     subtitle: Roman v dvuch knigach
+    original_title: Little Dorrit
     authors:
       - Charles Dickens
     year: 1957
@@ -7603,6 +7622,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991059610559705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Lurd
+    original_title: Lourdes
     series: Rugon-Makkary / Ėmil' Zolja; izdanie vychodit pod obščej redakciej A. Puzikova; Tom 17
     authors:
       - Émile Zola
@@ -7626,6 +7646,7 @@ titles:
         url: https://search.worldcat.org/title/7323286
     verified: true
   - title: Nakipʹ
+    original_title: Pot-bouille
     series: Rugon-Makkary / Ėmil' Zolja; izdanie vychodit pod obščej redakciej A. Puzikova; Tom 8
     authors:
       - Émile Zola
@@ -7717,6 +7738,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991028971489705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Prostupok abbata Mure
+    original_title: La faute de l'abbé Mouret
     series: Rugon-Makkary / Ėmil' Zolja; izdanie vychodit pod obščej redakciej A. Puzikova; Tom 4
     authors:
       - Émile Zola
@@ -7746,6 +7768,9 @@ titles:
     series: Biblioteka "Ogonek"
     authors:
       - Émile Zola
+    editors:
+      - Aleksandr I. Puzikov
+    translators:
       - E. Aleksandrovoj
       - T. Irinovoj
     year: 1957
@@ -7757,6 +7782,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1123228825
     verified: true
     subtitle: 18 tomov
+    original_title: Les Rougon-Macquart
   - title: Satiričeskaja smesʹ
     series: Biblioteka krokodila; no 150
     authors:
@@ -7781,6 +7807,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=720402190
     verified: true
   - title: Stranica ljubvi. Nana
+    original_title: L' assommoir
     series: Rugon-Makkary / Ėmil' Zolja; izdanie vychodit pod obščej redakciej A. Puzikova; Tom 7
     authors:
       - Émile Zola
@@ -7802,6 +7829,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1831530503
     verified: true
   - title: Trud
+    original_title: Travail
     series: Rugon-Makkary / Ėmil' Zolja; izdanie vychodit pod obščej redakciej A. Puzikova; Tom 18
     authors:
       - Émile Zola
@@ -7817,6 +7845,7 @@ titles:
         url: https://search.worldcat.org/title/7323414
     verified: true
   - title: Tvorčestvo
+    original_title: L' oeuvre
     series: Rugon-Makkary / Ėmil' Zolja; izdanie vychodit pod obščej redakciej A. Puzikova; Tom 11
     authors:
       - Émile Zola
@@ -7881,6 +7910,7 @@ titles:
         url: https://search.worldcat.org/title/7323408
     verified: true
   - title: Zapadnja
+    original_title: L' assommoir
     series: Rugon-Makkary / Ėmil' Zolja; izdanie vychodit pod obščej redakciej A. Puzikova; Tom 6
     authors:
       - Émile Zola
@@ -7892,6 +7922,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1427969507
     verified: true
   - title: Zavoevanie Plassana
+    original_title: La conquête de Plassans
     series: Rugon-Makkary / Ėmil' Zolja; izdanie vychodit pod obščej redakciej A. Puzikova; Tom 3
     authors:
       - Émile Zola
@@ -7907,6 +7938,7 @@ titles:
         url: https://search.worldcat.org/title/7323405
     verified: true
   - title: Zemlja
+    original_title: La terre
     series: Rugon-Makkary / Ėmil' Zolja; izdanie vychodit pod obščej redakciej A. Puzikova; Tom 12
     authors:
       - Émile Zola
@@ -7918,6 +7950,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1427970939
     verified: true
   - title: Žerminalʹ
+    original_title: Germinal
     series: Rugon-Makkary / Ėmil' Zolja; izdanie vychodit pod obščej redakciej A. Puzikova; Tom 10
     authors:
       - Émile Zola
@@ -8029,8 +8062,9 @@ titles:
     series: Biblioteka krokodila; no 190
     authors:
       - Pierre Jean de Béranger
-      - Valentin G. Dmitriev
       - Julij A. Ganf
+    translators:
+      - Valentin G. Dmitriev
     year: 1958
     language: Russian
     sources:
@@ -8429,8 +8463,9 @@ titles:
     series: Biblioteka krokodila; no 14 (211)
     authors:
       - Kara Sejtliev
-      - Anisim Maksimovič Krongauz
       - I. Sycëv
+    translators:
+      - Anisim Maksimovič Krongauz
     year: 1959
     language: Russian
     sources:
@@ -8618,6 +8653,8 @@ titles:
     series: Biblioteka Ogonek
     authors:
       - Stendhal
+    editors:
+      - Boris Georgievič Reizov
     year: 1959
     language: Russian
     sources:
@@ -8630,6 +8667,8 @@ titles:
   - title: Sobranie sočinenij v devâti tomah
     authors:
       - Aleksej Feofilaktovič Pisemskij
+    editors:
+      - Aleksandr Petrovič Mogilânskij
     year: 1959
     language: Russian
     sources:
@@ -8678,9 +8717,10 @@ titles:
     series: Biblioteka krokodila; no 24 (221)
     authors:
       - Sholem Aleykhem
+      - Ivan Maksimovič Semenov
+    translators:
       - A. Belov
       - Pavel Semenovič Kobzarevskij
-      - Ivan Maksimovič Semenov
     year: 1959
     language: Russian
     sources:
@@ -9306,6 +9346,11 @@ titles:
     subtitle: Rasskaz letchika-kosmonavta SSSR
     authors:
       - Yuri Alekseyevich Gagarin
+    editors:
+      - N. Denisova
+      - N. Denisova (Н. Денисова)
+      - Sergej Aleksandrovič Borzenko
+      - S. Borzenko (С. Борзенко)
     year: 1961
     language: Russian
     pages: 173
@@ -9421,8 +9466,9 @@ titles:
   - title: Lečenie krapivoj
     series: Biblioteka krokodila; 32 301
     authors:
-      - D. Špoljanskaja
       - Boris Egorov
+    translators:
+      - D. Špoljanskaja
     year: 1961
     language: Russian
     sources:
@@ -10112,6 +10158,7 @@ titles:
     authors:
       - Leonas Kiauleikis
       - Stasys Krasauskas
+    translators:
       - E. Malʹcas
       - I. Kaplanas
       - F. Dektor
@@ -10142,8 +10189,9 @@ titles:
     authors:
       - Juozas Bulota
       - Boris Filippovič Savkov
-      - I. Kaplanas
       - E. Malʹcas
+    translators:
+      - I. Kaplanas
     year: 1962
     language: Russian
     sources:
@@ -10365,8 +10413,9 @@ titles:
     subtitle: Rasskazy, felʹetony, basni, jumoreski
     series: Biblioteka krokodila; 25 366
     authors:
-      - Ivan Zakonov
       - Aleksandr Efimovič Vichrev
+    translators:
+      - Ivan Zakonov
     year: 1963
     language: Russian
     sources:
@@ -10379,6 +10428,7 @@ titles:
     authors:
       - Pavel N. Kavalëŭ
       - Viktor Ivanovič Solovʹev
+    translators:
       - Efim M. Vesenin
     year: 1963
     language: Russian
@@ -10389,9 +10439,10 @@ titles:
   - title: Ėliksir molodosti
     series: Biblioteka krokodila; 17 358
     authors:
-      - Vera Petrova
       - Vlasta Smržova
       - Vlado Glavaček
+    translators:
+      - Vera Petrova
     year: 1963
     language: Russian
     sources:
@@ -10563,6 +10614,7 @@ titles:
     series: Biblioteka Krokodila; 1963, no 35 = 376
     authors:
       - Mykola Vasylʹovyč Bilkun
+    translators:
       - Efim M. Vesenin
     year: 1963
     language: Russian
@@ -10592,6 +10644,8 @@ titles:
   - title: Sobranie sochineniĭ v shesti tomakh
     authors:
       - Prosper Mérimée
+    editors:
+      - N. M. Liubimov
     year: 1963
     series: Biblioteka "Ogonek"
     language: Russian
@@ -10611,6 +10665,8 @@ titles:
     series: Biblioteka "Ogonek"
     authors:
       - Stefan Zweig
+    editors:
+      - Boris Leontʹevič Sučkov
     year: 1963
     language: Russian
     sources:
@@ -10798,6 +10854,7 @@ titles:
     authors:
       - György Mikes
       - Boris Filippovič Savkov
+    translators:
       - Elena B. Tumarkina
     year: 1964
     language: Russian
@@ -10856,6 +10913,7 @@ titles:
     authors:
       - Zdeněk Jirotka
       - Gennadij Ivanovič Andrianov
+    translators:
       - Irina Gavrilova
     year: 1964
     language: Russian
@@ -10909,6 +10967,7 @@ titles:
     authors:
       - Nikolaj Švelidze
       - G. Pircchalava
+    translators:
       - N. Mikava
       - Ju Smirnov
     year: 1964
@@ -11047,6 +11106,7 @@ titles:
     authors:
       - Uladzimir Korban
       - Mark Vajsbord
+    translators:
       - Valentin Korčagin
     year: 1964
     language: Russian
@@ -11387,6 +11447,7 @@ titles:
     authors:
       - György Földes
       - Michail Lazarevič Ušac
+    translators:
       - Elena B. Tumarkina
     year: 1965
     language: Russian
@@ -11410,6 +11471,7 @@ titles:
     series: Biblioteka krokodila; 5 418
     authors:
       - Aleksandr Efimovič Vichrev
+    translators:
       - V. Aleksandrov
       - Ivan Zakonov
       - E. Matveev
@@ -11797,8 +11859,9 @@ titles:
     series: Biblioteka krokodila; 21 434
     authors:
       - Stepan I. Olijnyk
-      - Valentin Korčagin
       - Aleksandr Vladimirovič Baženov
+    translators:
+      - Valentin Korčagin
     year: 1965
     language: Russian
     sources:
@@ -11875,6 +11938,7 @@ titles:
     authors:
       - Vasylʹ H. Bolʹšak
       - Michail Lazarevič Ušac
+    translators:
       - Efim M. Vesenin
     year: 1966
     language: Russian
@@ -11968,6 +12032,7 @@ titles:
     authors:
       - Feliks Derecki
       - Mark Vajsbord
+    translators:
       - I. Šimanskaja
     year: 1966
     language: Russian
@@ -12089,6 +12154,7 @@ titles:
     authors:
       - Viktor Aldanskij
       - Garrij Solomonovič Iorš
+    translators:
       - Nikolaj Ivanovič Glazkov
     year: 1966
     language: Russian
@@ -12383,6 +12449,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=404417264
     verified: true
   - title: Izbrannye proizvedeniâ v treh tomah
+    original_title: Selections
     authors:
       - Ostap Vychnia
       - Ostap Vishnia (Остап Вишня)
@@ -12573,8 +12640,9 @@ titles:
     series: Biblioteka krokodila; 25 510
     authors:
       - Leo Kerge
-      - Edgar Spiriit
       - Boris Filippovič Savkov
+    translators:
+      - Edgar Spiriit
     year: 1967
     language: Russian
     sources:
@@ -12619,6 +12687,8 @@ titles:
     authors:
       - Sergej Nikolaevič Sergeev-Censkij
       - Sergei Nikolaevich Sergeev-tsenskii (Сергей Николаевич Сергеев-Ценский)
+    editors:
+      - Nikolaj Mihajlovič Lûbimov
     year: 1967
     language: Russian
     sources:
@@ -12696,6 +12766,7 @@ titles:
     authors:
       - Ivan Sočyvecʹ
       - Aminadav Moiseevič Kanevskij
+    translators:
       - Efim M. Vesenin
     year: 1967
     language: Russian
@@ -13264,6 +13335,7 @@ titles:
     authors:
       - Vytautė Žilinskaitė
       - Mark Vajsbord
+    translators:
       - El Kantor
     year: 1968
     language: Russian
@@ -13576,6 +13648,8 @@ titles:
     series: Biblioteka ogonek
     authors:
       - Aleksandr Sergeevič Puškin
+    editors:
+      - Michail Pavlovič Eremin
     year: 1969
     language: Russian
     sources:
@@ -13651,6 +13725,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991113107869705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Svidetelʹstvo o Slovackom nacionalʹnom vosstanii
+    original_title: Svedectvo o Slovenskom národnom povstaní
     authors:
       - Gustáv Husák
     year: 1969
@@ -13681,6 +13756,7 @@ titles:
     authors:
       - Leonas Kiauleikis
       - Boris Filippovič Savkov
+    translators:
       - Elena Kantor
     year: 1969
     language: Russian
@@ -13792,6 +13868,7 @@ titles:
     authors:
       - Fedor Ju Makivčuk
       - Aminadav Moiseevič Kanevskij
+    translators:
       - Efim M. Vesenin
     year: 1970
     language: Russian
@@ -13815,6 +13892,7 @@ titles:
     authors:
       - Salam Gädirzadä
       - Vitalij Kazimirovič Stacinskij
+    translators:
       - Ėlʹchan Ibragimov
     year: 1970
     language: Russian
@@ -13896,6 +13974,7 @@ titles:
     authors:
       - Mirmuḩsin
       - Vladimir Petrovič Dobrovolʹskij
+    translators:
       - Boris A. Privalov
     year: 1970
     language: Russian
@@ -14068,6 +14147,7 @@ titles:
     authors:
       - Adam Ochockij
       - Julij A. Ganf
+    translators:
       - Naum D. Labkovskij
     year: 1970
     language: Russian
@@ -14097,6 +14177,7 @@ titles:
     authors:
       - Uladzimir Korban
       - Vladimir Aminadavovič Kanevskij
+    translators:
       - Valentin Korčagin
     year: 1970
     language: Russian
@@ -14231,6 +14312,7 @@ titles:
     authors:
       - Juozas Bulota
       - Aleksandr Vladimirovič Baženov
+    translators:
       - Elena Kantor
     year: 1971
     language: Russian
@@ -14310,6 +14392,8 @@ titles:
     series: Biblioteka otečestvennoj klassiki
     authors:
       - Anton Semënovič Makarenko
+    editors:
+      - A. Ternovskij
     year: 1971
     language: Russian
     sources:
@@ -14406,6 +14490,7 @@ titles:
     authors:
       - Iosif Alʹbirt
       - Lev Samojlovič Samojlov
+    translators:
       - Vadim Polujan
     year: 1972
     language: Russian
@@ -14430,6 +14515,7 @@ titles:
     authors:
       - Janusz Osęka
       - German I. Ogorodnikov
+    translators:
       - Naum D. Labkovskij
     year: 1972
     language: Russian
@@ -14603,6 +14689,7 @@ titles:
     authors:
       - Stojan Doskalov
       - Jurij A. Čerepanov
+    translators:
       - V. Sedych
     year: 1973
     language: Russian
@@ -14803,8 +14890,9 @@ titles:
     series: Biblioteka krokodila; 16 (717)
     authors:
       - Fedor Ju Makivčuk
-      - Efim M. Vesenin
       - Evgenij Aleksandrovič Šukaev
+    translators:
+      - Efim M. Vesenin
     year: 1974
     language: Russian
     sources:
@@ -15280,6 +15368,8 @@ titles:
     subtitle: Izbrannoe XX 1955-1975
     authors:
       - N. M. Zlotnikov
+    editors:
+      - Sergej N. Preobraženskij
     year: 1976
     language: Russian
     sources:
@@ -16330,6 +16420,7 @@ titles:
       - V. V. Evgenʹev
       - Jurij Ivanovič Danilin
       - Evgenij O. Burgunker
+    translators:
       - Ivan Feliksovič Tchorževskij
       - Aleksandra Aleksandrovna Tchorževskaja
       - Vasilij S. Kuročkin
@@ -16384,6 +16475,7 @@ titles:
     authors:
       - Ibragim Kėbirli
       - Konstantin Ilʹič Nevler
+    translators:
       - Jakov Serpin
     year: 1979
     language: Russian
@@ -16486,6 +16578,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=578693240
     verified: true
   - title: Nočnoj polet
+    original_title: Vol de nuit
     authors:
       - Antoine de Saint-Exupéry
     year: 1979
@@ -16647,9 +16740,10 @@ titles:
   - title: Robert Berns
     authors:
       - Robert Burns
-      - Samuil Maršak
       - Raisa Jakovlevna Rajt-Kovaleva
       - Vladimir A. Favorskij
+    translators:
+      - Samuil Maršak
     year: 1979
     language: Russian
     sources:
@@ -17158,6 +17252,9 @@ titles:
   - title: Povesti i rasskazy
     authors:
       - Dmitriǐ Vasil'evich Grigorovich
+    editors:
+      - N. N. Akopova
+      - N. N. Akopova (Н. Н. Акопова)
     year: 1980
     language: Russian
     pages: 414
@@ -17990,6 +18087,8 @@ titles:
     series: Biblioteka "Ogonek"
     authors:
       - Aleksandr Sergeevič Puškin
+    editors:
+      - Michail Pavlovič Eremin
     year: 1981
     language: Russian
     sources:
@@ -18040,6 +18139,7 @@ titles:
         url: https://lccn.loc.gov/82118778
     verified: true
   - title: Tereza Raken
+    original_title: Germinal
     authors:
       - Émile Zola
       - S. Brahman
@@ -18201,6 +18301,7 @@ titles:
     authors:
       - Mark Twain
       - Andrej Porfirʹevič Krylov
+    translators:
       - N. Kolpakova
     year: 1982
     language: Russian
@@ -18393,6 +18494,8 @@ titles:
     authors:
       - Aleksandr Aleksandrovitch Blok
       - Vera Grigorʹevna Fridlând
+    editors:
+      - V. G. Fridjland
     year: 1982
     language: Russian
     sources:
@@ -18558,9 +18661,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb37505359w
     verified: true
   - title: Sed'moj krest
+    original_title: Das siebte Kreuz
     series: Biblioteka, zarubežnoj, klassiki
     authors:
       - Anna Seghers
+    translators:
       - V. Stanevič
     year: 1982
     language: Russian
@@ -18713,6 +18818,7 @@ titles:
     subtitle: Roman
     authors:
       - Erich Maria Remarque
+    translators:
       - B. Kremnev
       - I. M. Šrajber
     year: 1982
@@ -18822,8 +18928,9 @@ titles:
   - title: Bratʹja Šellenberg
     authors:
       - Bernhard Kellermann
-      - I. B. Mandelʹštam
       - R. M. Solodovnik
+    translators:
+      - I. B. Mandelʹštam
     year: 1983
     language: Russian
     sources:
@@ -19072,6 +19179,7 @@ titles:
     authors:
       - Viktor Aldanskij
       - Vladimir Ilʹič Tilʹman
+    translators:
       - Nikolaj Ivanovič Glazkov
     year: 1983
     language: Russian
@@ -19252,6 +19360,7 @@ titles:
     authors:
       - Rasul Gamzatovič Gamzatov
       - Lev Samojlovič Samojlov
+    translators:
       - Jakov Abramovič Kozlovskij
     year: 1983
     language: Russian
@@ -19275,10 +19384,12 @@ titles:
         url: https://search.worldcat.org/title/15286594
     verified: true
   - title: Romeo I Džulʹetta
+    original_title: Romeo and Juliet
     authors:
       - William Shakespeare
       - Aleksandr A. Anikst
       - Savva G. Brodskij
+    translators:
       - Boris Leonidovič Pasternak
       - Michail L. Lozinskij
     year: 1983
@@ -19687,6 +19798,8 @@ titles:
     authors:
       - Vladimir V. Kunin
       - Aleksandr Sergeevič Puškin
+    editors:
+      - Viktor Vladimirovič Kunin
     year: 1984
     language: Russian
     sources:
@@ -19806,6 +19919,7 @@ titles:
     authors:
       - Juozas Bulota
       - Garrij Solomonovič Iorš
+    translators:
       - G. Astrauskas
       - E. Jonajtene
     year: 1984
@@ -20010,6 +20124,7 @@ titles:
         url: https://lccn.loc.gov/84233357
     verified: true
   - title: Skaži smerti "net!"
+    original_title: Say no to death
     authors:
       - Dymphna Cusack
       - V. Semenov
@@ -20435,6 +20550,7 @@ titles:
     verified: true
   - title: Most na drine
     subtitle: Povesti i rasskazy
+    original_title: Na Drini cuprija
     authors:
       - Ivo Andrić
       - Aleksandr Danilovič Romanenko
@@ -20556,6 +20672,8 @@ titles:
   - title: Rasskazy, felʹetony, statʹi
     authors:
       - Ilja Ilf (Илья Арнольдович Ильф)
+    editors:
+      - Leonid Fedorovič Eršov
     year: 1985
     language: Russian
     pages: 413
@@ -21064,8 +21182,9 @@ titles:
     subtitle: Izbrannye skazki, rasskazy i povesti iz "Tysjači i odnoj noči"
     authors:
       - Isaak M. Fil'štinskij
-      - Michail A. Salʹe
       - Nikolaj A. Ušin
+    translators:
+      - Michail A. Salʹe
     year: 1986
     language: Russian
     sources:
@@ -21429,10 +21548,12 @@ titles:
         url: https://openlibrary.org/books/OL15464685M
     verified: true
   - title: Unesennye vetrom
+    original_title: Gone with the wind
     authors:
       - Margaret Mitchell
-      - T. Ozerskaja
       - Petr Vasilʹevič Palievskij
+    translators:
+      - T. Ozerskaja
     year: 1986
     language: Russian
     sources:
@@ -21538,6 +21659,8 @@ titles:
     authors:
       - A. S. Nemzer
       - O. A. Proskurin
+    editors:
+      - A. S. Nemzera
     year: 1987
     language: Russian
     sources:
@@ -21561,6 +21684,8 @@ titles:
   - title: Dnevnik
     authors:
       - T. L. Sukhotina-Tolstaya
+    editors:
+      - T. N. Volkova
     year: 1987
     series: Literaturnye vospominaniia
     language: Russian
@@ -21670,6 +21795,8 @@ titles:
   - title: Izbrannoe
     authors:
       - Innokentiĭ Fedorovich Annenskiĭ
+    editors:
+      - Nikolaj Nikolaevič Bunin
     year: 1987
     language: Russian
     pages: 589
@@ -22006,12 +22133,13 @@ titles:
     authors:
       - Jacob Grimm
       - Wilhelm Grimm
-      - Grigorij Nikolaevič Petnikov
-      - Grigorii Nikolaevich Petnikov (Григорий Николаевич Петников)
       - Irina Mihajlovna Solodunina
       - Irina Mikhailovna Solodunina (Ирина Михайловна Солодунина)
       - G. Ševčenko
       - G. Shevchenko (Г. Шевченко)
+    translators:
+      - Grigorij Nikolaevič Petnikov
+      - Grigorii Nikolaevich Petnikov (Григорий Николаевич Петников)
     year: 1987
     language: Russian
     sources:
@@ -22033,6 +22161,8 @@ titles:
   - title: Sočinenija
     authors:
       - Vladimir Majakovskij
+    editors:
+      - Aleksandr A. Michajlov
     year: 1987
     language: Russian
     sources:
@@ -22094,6 +22224,8 @@ titles:
     series: Biblioteka fantastiki; 06
     authors:
       - Dmitrij Ziberov
+    editors:
+      - Dmitrij Alekseevič Ziberov
     year: 1987
     language: Russian
     sources:
@@ -22382,8 +22514,9 @@ titles:
     subtitle: Izbrannye skazki, rasskazy i povesti iz "Tysjači i odnoj noči"
     authors:
       - Isaak M. Fil'štinskij
-      - Michail A. Salʹe
       - Nikolaj A. Ušin
+    translators:
+      - Michail A. Salʹe
     year: 1988
     language: Russian
     sources:
@@ -22415,8 +22548,9 @@ titles:
     subtitle: Roman
     authors:
       - Bolesław Prus
-      - Evgenij Naumovič Tropovskij
       - Oleg Ivanovič Grosse
+    translators:
+      - Evgenij Naumovič Tropovskij
     year: 1988
     language: Russian
     sources:
@@ -22846,9 +22980,10 @@ titles:
   - title: Prometej, ili Žiznʹ Balʹzaka
     authors:
       - André Maurois
+      - F. Narkirʹer
+    translators:
       - Ja Lesjuk
       - N. Nemčinova
-      - F. Narkirʹer
     year: 1988
     language: Russian
     sources:
@@ -22902,6 +23037,8 @@ titles:
     series: Biblioteka Ogonek
     authors:
       - Michail Evgrafovič Saltykov-Ščedrin
+    editors:
+      - Nikolaj M. Ljubimov
     year: 1988
     language: Russian
     sources:
@@ -23017,9 +23154,11 @@ titles:
         url: https://openlibrary.org/books/OL16794033M
     verified: true
   - title: Soljaris
+    original_title: Solaris
     series: Mir priključenij
     authors:
       - Stanisław Lem
+    translators:
       - Dm Bruskin
     year: 1988
     language: Russian
@@ -23513,6 +23652,8 @@ titles:
   - title: Izbrannoe
     authors:
       - Ivan Sergeyevich Shmelyov (Иван Сергеевич Шмелёв)
+    editors:
+      - Oleg N. Michajlov
     year: 1989
     series: Biblioteka "Ogonek"
     language: Russian
@@ -23984,6 +24125,8 @@ titles:
     subtitle: Aktualʹnye problemy radikalʹnoĭ ėkonomicheskoĭ reformy
     authors:
       - V. I. Goncharov
+    editors:
+      - V. I. Gončarov
     year: 1989
     language: Russian
     pages: 397
@@ -24017,6 +24160,7 @@ titles:
         url: https://www.sudoc.fr/123418755
     verified: true
   - title: Rasskazy
+    original_title: Short Stories
     authors:
       - Gilbert Keith Chesterton
     year: 1989
@@ -24532,6 +24676,9 @@ titles:
   - title: Zapiski o Puškine
     authors:
       - Ivan Ivanovič Puŝin
+    editors:
+      - Mariâ Pavlovna Mironenko
+      - Sergej Vladimirovič Mironenko
     year: 1989
     language: Russian
     sources:
@@ -24826,8 +24973,12 @@ titles:
     verified: true
   - title: Graf Monte-Kristo
     subtitle: Roman v dvukh tomakh
+    original_title: Le comte de Monte-Cristo
     authors:
       - Alexandre Dumas
+    translators:
+      - Lidija Iosifovna Olavskaja
+      - Vladimir Michajlovič Stroev
     year: 1990
     language: Russian
     isbn: '9785253000748'
@@ -25290,6 +25441,7 @@ titles:
     authors:
       - Täčmämmet Ǧürdekov
       - Mark A. Abramov
+    translators:
       - Ė. Poljanskij
     year: 1990
     language: Russian
@@ -25412,6 +25564,7 @@ titles:
     verified: true
   - title: Rossini. Pisʹma Rossini. Vospominanija
     subtitle: Perevod s italʹjanskogo, nemeckogo i fracuzskogo
+    original_title: Rossini
     authors:
       - Arnaldo Fraccaroli
       - Irina Georgievna Konstantinova
@@ -25617,6 +25770,8 @@ titles:
     series: Biblioteka "Ogonek"
     authors:
       - Michail Jurʹevič Lermontov
+    editors:
+      - Michail Michajlovič Kralin
     year: 1990
     language: Russian
     sources:
@@ -25824,6 +25979,8 @@ titles:
     verified: true
   - title: Vokrug Čehova
     authors: []
+    editors:
+      - Evgeniâ Mihajlovna Saharova
     year: 1990
     language: Russian
     sources:
@@ -25851,6 +26008,10 @@ titles:
   - title: Vospominaniâ ob Aleksandre Bloke
     authors:
       - Mariâ Andreevna Beketova
+    editors:
+      - Vladimir Petrovič Enišerlov
+      - Stanislav Stefanovič Lesnevskij
+      - Nikolaj Alekseevič Bogomolov
     year: 1990
     language: Russian
     sources:
@@ -26445,9 +26606,10 @@ titles:
     subtitle: Roman
     authors:
       - Henryk Sienkiewicz
-      - Asar Eppel
       - B. Paškov
       - Boris Fedorovič Staheev
+    translators:
+      - Asar Eppel
       - Ksenia Starosielska
     year: 1991
     language: Russian
@@ -26650,6 +26812,8 @@ titles:
   - title: Sobranie sočinenij v šesti tomah
     authors:
       - Mark Aleksandrovič Aldanov
+    editors:
+      - Andrej Aleksandrovič Černyšev
     year: 1991
     language: Russian
     sources:
@@ -26782,10 +26946,12 @@ titles:
     verified: true
   - title: Ubijstvo Mocarta
     subtitle: Roman
+    original_title: The assassination of Mozart
     authors:
       - David Weiss
-      - N. Vetoškina
       - Igor Bełza
+    translators:
+      - N. Vetoškina
     year: 1991
     language: Russian
     sources:

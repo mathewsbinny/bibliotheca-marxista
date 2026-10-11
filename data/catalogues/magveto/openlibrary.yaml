@@ -87,6 +87,8 @@ titles:
   - title: Csokonai élete és kortársak emlékezései Csokonairól
     authors:
       - Márton Domby
+    editors:
+      - Balázs Vargha
     year: 1955
     series: Magyar könyvtár
     language: Hungarian
@@ -149,8 +151,11 @@ titles:
     verified: true
   - title: Főbelövendők klubja
     subtitle: Vígjáték 8 képben
+    original_title: Nekrassov
     authors:
       - Jean-Paul Sartre
+    translators:
+      - Miklós Hubay
     year: 1955
     language: Hungarian
     sources:
@@ -378,6 +383,7 @@ titles:
         url: https://search.worldcat.org/title/18979857
     verified: true
   - title: “A” pingvinek szigete
+    original_title: L'ile des pingouins
     authors:
       - Anatole France
       - György Bölöni
@@ -467,8 +473,12 @@ titles:
         url: https://www.sudoc.fr/118352245
     verified: true
   - title: Ádám és Éva
+    original_title: La vie naïve d'Adam et Eve
     authors:
       - Jean Effel
+    translators:
+      - Ilona Bartócz
+      - Iván Boldizsár
     year: 1956
     language: Hungarian
     sources:
@@ -523,8 +533,9 @@ titles:
     series: Magyar könyvtár - Magvető
     authors:
       - Móric Ágost Aladár Benyovszky
-      - Mór Jókai
       - László Fazekas
+    translators:
+      - Mór Jókai
     year: 1956
     language: Hungarian
     sources:
@@ -757,6 +768,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=405018932
     verified: true
   - title: Kanteletár
+    original_title: Kanteletar
     authors:
       - István Rácz
       - Mihály Gácsi
@@ -905,6 +917,8 @@ titles:
   - title: Pályám emlékezete
     authors:
       - Ferenc Kazinczy
+    editors:
+      - László Orosz
     year: 1956
     language: Hungarian
     sources:
@@ -1021,6 +1035,8 @@ titles:
   - title: Tinódi Lantos Sebestyén válogatott munkái
     authors:
       - Sebestyén Tinódi
+    editors:
+      - László Bóta
     year: 1956
     language: Hungarian
     sources:
@@ -1090,6 +1106,8 @@ titles:
   - title: Válogatott versek
     authors:
       - Béla Telekes
+    editors:
+      - Balázs Vargha
     year: 1956
     language: Hungarian
     pages: 162
@@ -1135,6 +1153,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=404873278
     verified: true
   - title: “A” kis herceg
+    original_title: <<Le>> petit prince
     authors:
       - Antoine <<de>> Saint-Exupéry
       - Miklós Zigány
@@ -1146,6 +1165,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991049352739705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: “A” pingvinek szigete
+    original_title: L'ile des pingouins
     authors:
       - Anatole France
       - György Bölöni
@@ -1156,6 +1176,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991129390419705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: “A” postás mindig kétszer csenget
+    original_title: The postman always rings twice
     authors:
       - James M. Cain
       - György Kovács
@@ -1166,6 +1187,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991112876269705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: “A” tékozló fiú visszatérése
+    original_title: Le retour de l'enfant prodigue
     authors:
       - André Gide
       - György Somlyó
@@ -1185,6 +1207,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991011361269705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: “Az” ember teremtése
+    original_title: Le creation de l'homme
     authors:
       - Jean Effel
       - Ilona Bartócz
@@ -1293,6 +1316,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991003975499705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: A kiválasztott
+    original_title: Der Erwählte
     authors:
       - Thomas Mann
     year: 1957
@@ -1328,6 +1352,9 @@ titles:
   - title: A lelek arca
     authors:
       - Karinthy Frigyes
+    editors:
+      - Béla Abody
+      - Károly Szalay
     year: 1957
     language: Hungarian
     sources:
@@ -1424,8 +1451,13 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb41372639r
     verified: true
   - title: A romlás virágai
+    original_title: <<Les>> fleurs du mal
     authors:
       - Charles Baudelaire
+    translators:
+      - Mihály Babits
+      - Lőrinc Szabó
+      - Árpád Tóth
     year: 1957
     edition: Negyedik magyar kiadás
     language: Hungarian
@@ -1439,8 +1471,13 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991149721289705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: 'A Romlás virágai [Les Fleurs du mal]. Fordította Babits Mihály, Szabó Lőrinc, Tóth Árpád. 4ik magyar kiadás. Théophile Gautier tanulmányával: Charles Baudelaire. Jegyzetekkel sajtó alá rendezte és a Baudelaire-életrajzot írta Szabó Lőrinc'
+    original_title: Les fleurs du mal
     authors:
       - Charles Baudelaire
+    translators:
+      - Mihály Babits
+      - Lőrinc Szabó
+      - Arpád Tóth
     year: 1957
     language: Hungarian
     sources:
@@ -1956,6 +1993,8 @@ titles:
     verified: true
   - title: Homér és Osszián, versfordítások Faluditól Arany utánig
     authors: []
+    editors:
+      - Balázs Vargha
     year: 1957
     language: Hungarian
     sources:
@@ -2043,6 +2082,8 @@ titles:
   - title: Írói arcképek
     authors:
       - Gyula Krúdy
+    editors:
+      - Sándor Kozocsa
     year: 1957
     language: Hungarian
     sources:
@@ -2211,6 +2252,7 @@ titles:
         url: https://search.worldcat.org/title/44876584
     verified: true
   - title: Leviathan
+    original_title: Léviathan
     series: Világkönyvtár
     authors:
       - Julien Green
@@ -2597,6 +2639,8 @@ titles:
     subtitle: Dráma három felvonásban, tíz képben
     authors:
       - Endre Illés
+    editors:
+      - István Vas
     year: 1957
     language: Hungarian
     pages: 164
@@ -2622,6 +2666,7 @@ titles:
     verified: true
   - title: Üldözött vad
     subtitle: Cirkusz
+    original_title: Jean-Luc persécuté
     series: Világkönyvtár
     authors:
       - Charles Ferdinand Ramuz
@@ -2687,6 +2732,8 @@ titles:
   - title: Válogatott írások, 1552-1575
     authors:
       - Gáspár Heltai
+    editors:
+      - István Nemeskürty
     year: 1957
     series: Magyar könyvtár
     language: Hungarian
@@ -2841,6 +2888,7 @@ titles:
         url: https://search.worldcat.org/title/212384054
     verified: true
   - title: A Világ teremtése, cimú kötetek alapján
+    original_title: La création du monde, le Ciel, la Terre, les Eaux
     authors:
       - Jean Effel
     year: 1958
@@ -2873,6 +2921,8 @@ titles:
   - title: Asszonyságok díja; Napraforgó
     authors:
       - Gyula Krúdy
+    editors:
+      - Antal Perepatits
     year: 1958
     language: Hungarian
     pages: 533
@@ -2903,6 +2953,8 @@ titles:
   - title: Bajor Gizi
     authors:
       - Károly Escher
+    editors:
+      - Miklós Vajda
     year: 1958
     language: Hungarian
     pages: 217
@@ -3262,6 +3314,8 @@ titles:
   - title: Karinthy Frigyes. Kötéltánc. Az előszót Szalay Károly írta
     authors:
       - Frigyes Karinthy
+    translators:
+      - Károly Szalay
     year: 1958
     language: Hungarian
     sources:
@@ -3271,6 +3325,8 @@ titles:
   - title: Károli Gáspár válogatott munkái
     authors:
       - Gáspár Károlyi
+    editors:
+      - Balázs Vargha
     year: 1958
     language: Hungarian
     sources:
@@ -3403,6 +3459,8 @@ titles:
   - title: Költemények prózában és más írások
     authors:
       - Péter Vajda
+    editors:
+      - Róbert Miklós
     year: 1958
     series: Magyar könvtár
     language: Hungarian
@@ -3493,6 +3551,8 @@ titles:
     verified: true
   - title: 'Mai francia költők. Szerkesztette: Dobossy László'
     authors: []
+    editors:
+      - László Dobossy
     year: 1958
     language: Hungarian
     sources:
@@ -3537,6 +3597,8 @@ titles:
   - title: Móra Ferenc Összegyűjtött művei
     authors:
       - Ferenc Móra
+    editors:
+      - László Madácsy
     year: 1958
     language: Hungarian
     sources:
@@ -3548,6 +3610,9 @@ titles:
   - title: Móra Ferenc. Elkallódott riportok. Napok, holdak, elmúlt csillagok. Szerkesztette Vajda László. Sajtó alá rendezte Madácsy László
     authors:
       - Ferenc Móra
+    editors:
+      - László Madácsy
+      - Laszló Vajda
     year: 1958
     language: Hungarian
     sources:
@@ -3557,6 +3622,9 @@ titles:
   - title: 'Móra Ferenc. Véreim. Parasztjaim. Sajtó alá rendezte: Madácsi László és Vajda László'
     authors:
       - Ferenc Móra
+    editors:
+      - László Madácsy
+      - Laszló Vajda
     year: 1958
     language: Hungarian
     sources:
@@ -3758,7 +3826,8 @@ titles:
     verified: true
   - title: Szélrózsa
     subtitle: Összegyüjtött versfordítások
-    authors:
+    authors: []
+    translators:
       - György Somlyó
     year: 1958
     language: Hungarian
@@ -3813,6 +3882,8 @@ titles:
   - title: Tersánszky J. Jenő. A Tiroli kocsmáros, elbeszélések 1910-1958... Sajtó alá renderte Czibor János
     authors:
       - Józsi Jenő Tersánszky
+    editors:
+      - János Czibor
     year: 1958
     language: Hungarian
     sources:
@@ -3858,6 +3929,8 @@ titles:
   - title: Válaszúton
     authors:
       - Béla Illés
+    editors:
+      - Ágnes Molnár
     year: 1958
     language: Hungarian
     pages: 163
@@ -3905,6 +3978,8 @@ titles:
     subtitle: Parasztjaim
     authors:
       - Ferenc Móra
+    editors:
+      - Ladislaus Vajda
     year: 1958
     series: His Összegyujtött művei
     language: Hungarian
@@ -3939,6 +4014,8 @@ titles:
   - title: A fehérlábú Gaálné
     authors:
       - Gyula Krúdy
+    editors:
+      - András Barta
     year: 1959
     series: His Válogatott elbeszélései, 1894-1904, 1905-1908
     language: Hungarian
@@ -3983,6 +4060,7 @@ titles:
         url: https://d-nb.info/1297881524
     verified: true
   - title: A kiválasztott
+    original_title: Der Erwählte
     authors:
       - Thomas Mann
       - Zoltán Jékely
@@ -4311,6 +4389,8 @@ titles:
     subtitle: Nádi hegedű
     authors:
       - Ferenc Móra
+    editors:
+      - István Vajtai
     year: 1959
     series: Móra Ferenc összegyűjtött művei
     language: Hungarian
@@ -4492,6 +4572,8 @@ titles:
   - title: Krúdy Gyula. A Fehérlabú Gaálné... Válogatott elbeszélések, 1894-1908. Szerkesztette Barta András
     authors:
       - Gyula Krúdy
+    editors:
+      - András Barta
     year: 1959
     language: Hungarian
     sources:
@@ -4520,8 +4602,12 @@ titles:
         url: https://search.worldcat.org/title/45458746
     verified: true
   - title: Le Grand Testament
+    original_title: Testament
     authors:
       - François Villon
+    editors:
+      - Louis Thuasne
+    translators:
       - István Vas
     year: 1959
     language: Hungarian
@@ -4533,6 +4619,8 @@ titles:
     verified: true
   - title: 'Magyar ärs poetica". Szerkesztette és az előszót írta: Pándi Pál"'
     authors: []
+    editors:
+      - Pál Pándi
     year: 1959
     language: Hungarian
     sources:
@@ -4832,6 +4920,10 @@ titles:
     pages: 343
   - title: 'Tűz-tánc, fiatal költök antológiája. 2. kiadás. Szerkesztőbizottság: Darázs Endre, Györe Imre, Imre Katalin'
     authors: []
+    editors:
+      - Endre Darázs
+      - Imre Györe
+      - Katalin Imre
     year: 1959
     language: Hungarian
     sources:
@@ -5285,6 +5377,8 @@ titles:
   - title: Brody Sándor. Húsevők... Az előszot irta Czine Mihály. Válogatta és a függeléket irta Bródy Andras
     authors:
       - Sándor Bródy
+    editors:
+      - András Bródy
     year: 1960
     language: Hungarian
     sources:
@@ -5605,6 +5699,8 @@ titles:
   - title: Krúdy Gyula Válogatott elbeszélései
     authors:
       - Gyula Krúdy
+    editors:
+      - András Barta
     year: 1960
     language: Hungarian
     sources:
@@ -5616,6 +5712,8 @@ titles:
   - title: Krúdy Gyula. Az Aranybanya. Régi szélkakasok között. Palotai álmok. Szerkesztette Barta András
     authors:
       - Gyula Krúdy
+    editors:
+      - András Barta
     year: 1960
     language: Hungarian
     sources:
@@ -5689,6 +5787,9 @@ titles:
   - title: Móra Ferenc. A Fele sem tudomány. Utazás a földalatti Magyarországon. Szerkesztette, jegyzettel és magyarázó szótárral ellátta Vajda László. Sajtó alá rendezte Madácsy László
     authors:
       - Ferenc Móra
+    editors:
+      - László Madácsy
+      - Laszló Vajda
     year: 1960
     language: Hungarian
     sources:
@@ -5698,6 +5799,8 @@ titles:
   - title: 'Móra Ferenc. A Vadember és családja. Göröngykeresés és más csöndes történetek. Szerkesztette, a jegyzetet és magyarázó szótárt írta: Vajda László'
     authors:
       - Ferenc Móra
+    editors:
+      - Laszló Vajda
     year: 1960
     language: Hungarian
     sources:
@@ -5923,6 +6026,8 @@ titles:
   - title: Szabó Lőrinc. Összegyűjtött versei. Szerkesztette Sőter István
     authors:
       - Lőrinc Szabó
+    editors:
+      - István Sőtér
     year: 1960
     language: Hungarian
     sources:
@@ -6030,6 +6135,8 @@ titles:
   - title: Vidám irások
     authors:
       - Mikszáth Kálmán
+    editors:
+      - András Bródy
     year: 1960
     series: Vidám könyvek
     language: Hungarian
@@ -6378,6 +6485,9 @@ titles:
   - title: Bálint György. A Toronyőr visszapillant, cikkek, tanulmányok, kritikák... Szerkesztette Koczkás Sándor és Magyar István. Az jegyzeteket írta Rét Rózsa
     authors:
       - György Bálint
+    editors:
+      - Sándor Koczkás
+      - István Magyar
     year: 1961
     language: Hungarian
     sources:
@@ -6505,6 +6615,8 @@ titles:
   - title: Ebredő Afrika
     subtitle: Néger költők antológiája
     authors: []
+    editors:
+      - György Belia
     year: 1961
     language: Hungarian
     sources:
@@ -6914,6 +7026,8 @@ titles:
   - title: Kodolányi János. Fellázadt gépek. Kodolányi János elbeszélései, írta Bodnár György
     authors:
       - János Kodolányi
+    editors:
+      - György Bodnár
     year: 1961
     language: Hungarian
     sources:
@@ -6943,6 +7057,9 @@ titles:
   - title: Krúdy Gyula Válogatott elbeszélései
     authors:
       - Gyula Krúdy
+    editors:
+      - József Szauder
+      - András Barta
     year: 1961
     language: Hungarian
     sources:
@@ -6952,6 +7069,8 @@ titles:
   - title: Krúdy Gyula. Mákvirágok kertje, öt kisregény. Szerkesztette és az utószót írta Barta András
     authors:
       - Gyula Krúdy
+    editors:
+      - András Barta
     year: 1961
     language: Hungarian
     sources:
@@ -7094,6 +7213,9 @@ titles:
   - title: 'Móra Ferenc. Szilánkok [napilapok, 1902-1922]. Szerkesztette, felkutatta, utószóval és jegyzettel ellátta: Vajda László. Sajtó alá rendezte és a magyarázó szótárt összeállította: Vajtai István'
     authors:
       - Ferenc Móra
+    editors:
+      - Laszló Vajda
+      - István Vajtai
     year: 1961
     language: Hungarian
     sources:
@@ -7362,6 +7484,8 @@ titles:
     verified: true
   - title: Új termés
     authors: []
+    editors:
+      - Csaba Sík
     year: 1961
     language: Hungarian
     sources:
@@ -7622,6 +7746,8 @@ titles:
     subtitle: Összegyűjtött versek, 1907-1944
     authors:
       - Zoltán Nagy
+    editors:
+      - György Végh
     year: 1962
     language: Hungarian
     sources:
@@ -7777,6 +7903,7 @@ titles:
   - title: Karrier
     authors:
       - Tadeusz Dołęga-Mostowicz
+    translators:
       - István Mészáros
     year: 1962
     language: Hungarian
@@ -7947,6 +8074,8 @@ titles:
   - title: Móra Ferenc. Daru utcától a Móra Ferenc utcáig. Szerkesztette, a jegyzetet és magyarázó szótárt írta Vajda László
     authors:
       - Ferenc Móra
+    editors:
+      - Laszló Vajda
     year: 1962
     language: Hungarian
     sources:
@@ -8627,6 +8756,8 @@ titles:
     verified: true
   - title: Beszélő tájak. Szerkesztette Hatvany Lajos. Fényképezte Gink Károly. A bevezetőt írta Bóka-László
     authors: []
+    editors:
+      - Lajos Hatvany
     year: 1963
     language: Hungarian
     sources:
@@ -8754,6 +8885,8 @@ titles:
     verified: true
   - title: 'Elő dramaturgia, tanulmányok a színházról. A kötetet szerkesztette: Gyárfás Miklós Würtz Ádám rajzaival'
     authors: []
+    editors:
+      - Miklós Gyárfás
     year: 1963
     language: Hungarian
     sources:
@@ -9020,6 +9153,9 @@ titles:
   - title: Krúdy Gyula. Pesti levelek, publicisztikai írasok. Válogatta, szerkesztette, az utószót írta és a bibliográfiát összeállította Tóth Lajos és Udvárhelyi Dénes
     authors:
       - Gyula Krúdy
+    editors:
+      - Lajos Tóth
+      - Dénes Udvarhelyi
     year: 1963
     language: Hungarian
     sources:
@@ -9029,6 +9165,8 @@ titles:
   - title: Krúdy Gyula. Vallomás. Valogatta, szerkesztette, az utószót és jegyzeteket írta Kozocsa Sándor
     authors:
       - Gyula Krúdy
+    editors:
+      - Sándor Kozocsa
     year: 1963
     language: Hungarian
     sources:
@@ -9448,6 +9586,8 @@ titles:
     subtitle: Hegedüs Géza
   - title: Szép versek
     authors: []
+    editors:
+      - Sándor Szalai
     year: 1963
     language: Hungarian
     sources:
@@ -9457,6 +9597,8 @@ titles:
   - title: Szini Gyula. Rózsaszínű hó. A kötetet válogatta és a bevezető tanulmányt írta Vargha Kálmán
     authors:
       - Gyula Szini
+    editors:
+      - Kálmán Vargha
     year: 1963
     language: Hungarian
     sources:
@@ -9733,6 +9875,9 @@ titles:
   - title: A madárijesztő szeretője
     authors:
       - Gyula Krúdy
+    editors:
+      - András Berta
+      - József Szauder
     year: 1964
     language: Hungarian
     pages: 604
@@ -10030,9 +10175,11 @@ titles:
     verified: true
   - title: Egy ifjúság regénye
     subtitle: Werner Holt kalandjai
+    original_title: Die Abenteuer des Werner Holt
     series: Világkönyvtár
     authors:
       - Dieter Noll
+    translators:
       - Miklós Hajdú
     year: 1964
     language: Hungarian
@@ -10390,6 +10537,8 @@ titles:
   - title: Karinthy Frigyes. Naplom, életem. Válogatta és az előszót írta Szalay Károly
     authors:
       - Frigyes Karinthy
+    editors:
+      - Károly Szalay
     year: 1964
     language: Hungarian
     sources:
@@ -10480,6 +10629,9 @@ titles:
   - title: Krúdy Gyula Válogatott elbeszélései
     authors:
       - Gyula Krúdy
+    editors:
+      - József Szauder
+      - András Barta
     year: 1964
     language: Hungarian
     sources:
@@ -10489,6 +10641,8 @@ titles:
   - title: Krúdy Gyula. Jockey club [A Bűvös erszény, Pesti nőrabló, Kleofásné kakasa, Őszi versenyek, Repülj, fecském! Jockey club, Etel király kincse], hét regény. Szerkesztette Barta András
     authors:
       - Gyula Krúdy
+    editors:
+      - András Barta
     year: 1964
     language: Hungarian
     sources:
@@ -10576,6 +10730,8 @@ titles:
   - title: Móra Ferenc. Szegedi tulipános láda. Sajtó alá készitette és függelékkel ellátta Paku Imre
     authors:
       - Ferenc Móra
+    editors:
+      - Imre Paku
     year: 1964
     language: Hungarian
     sources:
@@ -11016,6 +11172,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=431345678
     verified: true
   - title: “A” kor hatalma
+    original_title: La force de l'âge
     series: Világkönyvtár
     authors:
       - Simone <<de>> Beauvoir
@@ -11165,6 +11322,8 @@ titles:
     verified: true
   - title: A Magyar film húsz éve, 1945-1965
     authors: []
+    editors:
+      - József Homoródy
     year: 1965
     language: Hungarian
     pages: 235
@@ -11521,6 +11680,8 @@ titles:
     verified: true
   - title: Elvek és utak, tanulmánygyűjtemény. Szerkesztette Pándi Pál
     authors: []
+    editors:
+      - Pál Pándi
     year: 1965
     language: Hungarian
     sources:
@@ -11956,6 +12117,9 @@ titles:
   - title: Krudy Gyula. Utolsó szivar az Arabs szürkénél... Válogatott elbeszélések. Szerkesztette Barta András és Szauder József
     authors:
       - Gyula Krúdy
+    editors:
+      - András Barta
+      - József Szauder
     year: 1965
     language: Hungarian
     sources:
@@ -12452,6 +12616,9 @@ titles:
     subtitle: '[Válogatott elbeszélések, 1926-1930, i.e. 1926-1933]'
     authors:
       - Gyula Krúdy
+    editors:
+      - András Barta
+      - József Szauder
     year: 1965
     language: Hungarian
     sources:
@@ -12578,6 +12745,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/009450268
     verified: true
   - title: “A” körülmények hatalma
+    original_title: <<La>> force des choses
     series: Világkönyvtár
     authors:
       - Simone <<de>> Beauvoir
@@ -12626,6 +12794,9 @@ titles:
     pages: 796
   - title: A Cenzúra árnyekában. Válogatta, szerkesztette, előszóval és öszszekötő szöveggel ellátta Markovits Györgyi és Tóbiás Áron
     authors: []
+    editors:
+      - Györgyi Markovits
+      - Áron Tóbiás
     year: 1966
     language: Hungarian
     sources:
@@ -12676,6 +12847,8 @@ titles:
     verified: true
   - title: A Magyar valóság versei... Válogatta és szerkesztette Csanádi Imre
     authors: []
+    editors:
+      - Imre Csanádi
     year: 1966
     language: Hungarian
     sources:
@@ -12777,6 +12950,8 @@ titles:
   - title: Álmoskönyv
     authors:
       - Gyula Krúdy
+    editors:
+      - András Barta
     year: 1966
     edition: 5. és öregbített kiad
     language: Hungarian
@@ -13430,6 +13605,8 @@ titles:
   - title: 'Krúdy Gyula. Álmoskönyv. 5ik... kiadás. Álmok. Babonák. A szegények mosolya. A szerelmes levél. Futtatás. A gyomor örömei. Szerkesztette és az utószót írta: Barta András. Szántó Piroska rajzaival'
     authors:
       - Gyula Krúdy
+    editors:
+      - András Barta
     year: 1966
     language: Hungarian
     sources:
@@ -14406,6 +14583,8 @@ titles:
     subtitle: A kallódó fiú
     authors:
       - Franz Kafka
+    translators:
+      - István Kristó Nagy
     year: 1967
     series: Világkönyvtár
     language: Hungarian
@@ -14992,6 +15171,9 @@ titles:
     verified: true
   - title: Körkép
     authors: []
+    editors:
+      - Ferenc Rátkai
+      - Gyula Tóth
     year: 1967
     language: Hungarian
     sources:
@@ -15718,6 +15900,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991119850439705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: “A” kicsi nővér
+    original_title: The little sister
     series: Albatrosz könyvek ISSN 0324-3117
     authors:
       - Raymond Chandler
@@ -16490,6 +16673,7 @@ titles:
         url: https://search.worldcat.org/title/18979816
     verified: true
   - title: Maigret és a lusta betörő
+    original_title: Maigret et le voleur paresseux
     series: Albatrosz könyvek ISSN 0324-3117
     authors:
       - Georges Simenon
@@ -16718,8 +16902,9 @@ titles:
     subtitle: Ebeszélések
     authors:
       - Kazimierz Brandys
-      - Mihály Bába
       - János Elbert
+    translators:
+      - Mihály Bába
     year: 1968
     language: Hungarian
     sources:
@@ -17796,6 +17981,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=326728651
     verified: true
   - title: Hóország
+    original_title: Yukiguni
     series: Világkönyvtár
     authors:
       - Yasunari Kawabata
@@ -17819,9 +18005,10 @@ titles:
     authors:
       - Harald Korall
       - Werner Liersch
-      - Mária Ember
       - Heinz Welkert
       - László Bihari
+    translators:
+      - Mária Ember
     year: 1969
     language: Hungarian
     sources:
@@ -18421,6 +18608,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991035196099705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: “A” Majestic pincéi
+    original_title: Les caves du "Majestic"
     series: Albatrosz könyvek ISSN 0324-3117
     authors:
       - Georges Simenon
@@ -18669,6 +18857,7 @@ titles:
         url: https://lccn.loc.gov/73495827
     verified: true
   - title: Ékszerész a Kapucinus utcában
+    original_title: Juvelir z vulyci
     series: Albatrosz könyvek ISSN 0324-3117
     authors:
       - Rostyslav Feodosijovyč Sambuk
@@ -18880,6 +19069,8 @@ titles:
   - title: Kassák Lajos összes versei
     authors:
       - Lajos Kassák
+    editors:
+      - Lajosné Kassák
     year: 1970
     language: Hungarian
     sources:
@@ -18898,6 +19089,7 @@ titles:
     subtitle: Regény
     authors:
       - Max von der Grün
+    translators:
       - László Jólesz
     year: 1970
     language: Hungarian
@@ -19427,6 +19619,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=558111319
     verified: true
   - title: “A” gyilkos és a lány
+    original_title: De Maagd en de Mordenar
     series: Albatrosz könyvek ISSN 0324-3117
     authors:
       - Jan de Hartog
@@ -20083,6 +20276,8 @@ titles:
   - title: Szárszó
     authors:
       - Péter Veres
+    editors:
+      - Péter Nádasdi
     year: 1971
     language: Hungarian
     sources:
@@ -20168,6 +20363,8 @@ titles:
   - title: Történelem és osztálytudat
     authors:
       - Lukács György
+    editors:
+      - Mihály Vajda
     year: 1971
     series: His Összes művei
     language: Hungarian
@@ -20209,6 +20406,8 @@ titles:
   - title: Utam Marxhoz, válogatott filozófiai tanulmányok... Szerkestette Márkus György
     authors:
       - György Lukács
+    editors:
+      - György Márkus
     year: 1971
     language: Hungarian
     sources:
@@ -20260,6 +20459,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991091147639705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Vérbosszú
+    original_title: Le salut de l'ange
     series: Albatrosz könyvek ISSN 0324-3117
     authors:
       - Bernard-Paul Lallier
@@ -20291,6 +20491,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/009448714
     verified: true
   - title: “A” hét főbűn
+    original_title: De sju dödssynderna
     series: Albatrosz könyvek ISSN 0324-3117
     authors:
       - Olle Ekberg
@@ -20672,6 +20873,8 @@ titles:
   - title: Csák végnapjai
     authors:
       - Imre Madách
+    editors:
+      - Dezső Keresztury
     year: 1972
     language: Hungarian
     sources:
@@ -20815,6 +21018,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/007328511
     verified: true
   - title: Fizetni kell, Isabelle!
+    original_title: Il faut chanter, Isabelle!
     series: Albatrosz könyvek ISSN 0324-3117
     authors:
       - Charles Exbrayat
@@ -21145,6 +21349,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/006292655
     verified: true
   - title: Kísértés
+    original_title: Temptation
     authors:
       - János Székely
     year: 1972
@@ -21847,6 +22052,7 @@ titles:
   - title: Ahol nincs típarancsolat
     authors:
       - Joe Alex
+    translators:
       - Dezső Tandori
       - Mária Varsányi
     year: 1973
@@ -22026,6 +22232,7 @@ titles:
     subtitle: Regeny
     authors:
       - Günter de Bruyn
+    translators:
       - Erzsébet Gergely
     year: 1973
     language: Hungarian
@@ -22773,8 +22980,9 @@ titles:
     subtitle: Regény
     authors:
       - Wacław Kubacki
-      - Endre Kovács
       - István Varsányi
+    translators:
+      - Endre Kovács
     year: 1973
     language: Hungarian
     sources:
@@ -22908,6 +23116,8 @@ titles:
   - title: Völgy a vilag végén s mas történetek
     authors:
       - Sándor.* Lénard
+    editors:
+      - Klára Szerb Antalné
     year: 1973
     language: Hungarian
     pages: 639
@@ -22968,6 +23178,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991159627159705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: “Az” Ackroyd-gyilkosság
+    original_title: The murder of Roger Ackroyd
     series: Albatrosz könyvek ISSN 0324-3117
     authors:
       - Agatha Christie
@@ -23012,6 +23223,9 @@ titles:
     verified: true
   - title: 30 év
     authors: []
+    editors:
+      - György Kardos
+      - Endre Illés
     year: 1974
     language: Hungarian
     sources:
@@ -24002,8 +24216,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991072174069705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Mindenki részt vehet
+    original_title: Einladung an alle
     authors:
       - Dieter Wellershoff
+    translators:
       - Ambrus Bor
     year: 1974
     language: Hungarian
@@ -24751,6 +24967,8 @@ titles:
   - title: Apám, Szinbád
     authors:
       - Krúdy Zsuzsa
+    editors:
+      - Zsuzsa Krúdy
     year: 1975
     language: Hungarian
     pages: 360
@@ -24785,6 +25003,7 @@ titles:
       - Fedor Kovač
       - Mátyás Somogyi
       - Zoltán Fònod
+    translators:
       - Csilla Kopasz
     year: 1975
     language: Hungarian
@@ -24819,6 +25038,8 @@ titles:
     subtitle: Dokumentumgyűjtemény
     authors:
       - Mihály Babits
+    editors:
+      - István Gál
     year: 1975
     language: Hungarian
     pages: 280
@@ -25288,6 +25509,7 @@ titles:
         url: https://search.worldcat.org/title/224036039
     verified: true
   - title: Ködös kikötő
+    original_title: Le port des brumes
     series: Albatrosz könyvek ISSN 0324-3117
     authors:
       - Georges Simenon
@@ -25508,6 +25730,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991094044059705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: N vagy M
+    original_title: N or M
     series: Albatrosz könyvek ISSN 0324-3117
     authors:
       - Agatha Christie
@@ -25598,6 +25821,7 @@ titles:
         url: https://www.sudoc.fr/178352764
     verified: true
   - title: Önfia vágta sebét
+    original_title: Selections
     authors:
       - István Nemeskürty
     year: 1975
@@ -26096,6 +26320,7 @@ titles:
         url: https://www.sudoc.fr/178664545
     verified: true
   - title: “A” gyilkos óra
+    original_title: Death-watchs
     series: Albatrosz könyvek ISSN 0324-3117
     authors:
       - John Dickson Carr
@@ -26246,6 +26471,8 @@ titles:
     verified: true
   - title: A Magvető Könyvkiadó ... félévében megjelenő könyvei
     authors: []
+    editors:
+      - Magvető Könyvkiadó
     year: 1976
     language: Hungarian
     sources:
@@ -27551,6 +27778,7 @@ titles:
         url: https://lccn.loc.gov/77558395
     verified: true
   - title: Maigret védekezik
+    original_title: Maigret se défend
     series: Albatrosz könyvek ISSN 0324-3117
     authors:
       - Georges Simenon
@@ -27653,6 +27881,8 @@ titles:
   - title: Napló
     authors:
       - Milán Füst
+    editors:
+      - Lajos Pók
     year: 1976
     edition: 2. kiad
     series: Tények és tanúk
@@ -29546,6 +29776,8 @@ titles:
   - title: Kassák Lajos összes versei
     authors:
       - Lajos Kassák
+    editors:
+      - Lajosné Kassák
     year: 1977
     language: Hungarian
     sources:
@@ -30287,6 +30519,7 @@ titles:
   - title: Roszta
     authors:
       - Vladimir Vladimirovič Maâkovskij
+    translators:
       - Scala Károly
     year: 1977
     language: Hungarian
@@ -31594,6 +31827,8 @@ titles:
   - title: Egy elmebeteg nő naplója
     authors:
       - Géza Csáth
+    editors:
+      - Mihály Szajbély
     year: 1978
     series: Magyar tallózó
     language: Hungarian
@@ -31692,6 +31927,8 @@ titles:
     subtitle: '[Visszaemlékezések]'
     authors:
       - Mihály Táncsics
+    editors:
+      - János Czibor
     year: 1978
     series: Tények és tanúk
     language: Hungarian
@@ -32491,6 +32728,7 @@ titles:
   - title: LSD
     authors:
       - Jerzy Stanisław Sito
+    translators:
       - Romána Gimes
     year: 1978
     language: Hungarian
@@ -32622,6 +32860,8 @@ titles:
     verified: true
   - title: Magyar tallózó
     authors: []
+    editors:
+      - Ildikó Matolcsi
     year: 1978
     language: Hungarian
     sources:
@@ -32732,6 +32972,7 @@ titles:
         url: https://lccn.loc.gov/79354172
     verified: true
   - title: Mrs. McGinty halott
+    original_title: Mrs. McGinty's dead
     series: Albatrosz könyvek ISSN 0324-3117
     authors:
       - Agatha Christie
@@ -33249,6 +33490,8 @@ titles:
   - title: Téli éjszakák
     authors:
       - Ferencz Faludi
+    editors:
+      - László Szörényi
     year: 1978
     series: Magyar tallózó
     language: Hungarian
@@ -33552,6 +33795,7 @@ titles:
   - title: A dijátadás
     authors:
       - Günter de Bruyn
+    translators:
       - József Szaszovszky
     year: 1979
     language: Hungarian
@@ -35712,6 +35956,7 @@ titles:
   - title: Strand a Styx partján
     authors:
       - Wojciech Żukrowski
+    translators:
       - István Nemere
     year: 1979
     language: Hungarian
@@ -36166,6 +36411,7 @@ titles:
     verified: true
     subtitle: Csoóri Sándor és Sára Sándor filmje
   - title: A bádogdob
+    original_title: Die Blechtrommel
     series: Világkönyvtár
     authors:
       - Günter Grass
@@ -36577,6 +36823,8 @@ titles:
     subtitle: V́álogatás Herman Ottó természettudományos, nyelvészeti és archeológiai írásaiból
     authors:
       - Ottó Herman
+    editors:
+      - Gábor Erdődy
     year: 1980
     series: Magyar hírmondó
     language: Hungarian
@@ -37033,9 +37281,12 @@ titles:
         url: https://search.worldcat.org/title/18866249
     verified: true
   - title: Esopus fabulái Pesti Gábor szerint
+    original_title: Fabulae
     authors:
       - Aesop
       - Pál Ács
+    translators:
+      - Gábor Pesti
     year: 1980
     series: Maygar Hírmondó
     language: Hungarian
@@ -37315,6 +37566,9 @@ titles:
   - title: Húsz dráma, 1945-1975
     authors:
       - István Csurka
+    editors:
+      - György Kardos
+      - Endre Illés
     year: 1980
     series: 30 év
     language: Hungarian
@@ -37498,6 +37752,9 @@ titles:
   - title: Kísérlet a bánat ellen
     authors:
       - László Nagy
+    editors:
+      - Margit Szécsi
+      - Sándor Csoóri
     year: 1980
     language: Hungarian
     pages: 215
@@ -38229,6 +38486,8 @@ titles:
   - title: Szemelt szőlő
     authors:
       - Gyula Illyés
+    editors:
+      - Miklós Béládi
     year: 1980
     language: Hungarian
     sources:
@@ -38411,6 +38670,8 @@ titles:
     subtitle: Budapesti életképek 1840-1848
     authors:
       - Ignác Nagy
+    editors:
+      - Gábor Szigethy
     year: 1980
     series: Magyar hírmondó
     language: Hungarian
@@ -38690,6 +38951,7 @@ titles:
   - title: A császár
     authors:
       - Ryszard Kapuściński
+    translators:
       - István Nemere
     year: 1981
     language: Hungarian
@@ -38899,6 +39161,8 @@ titles:
   - title: A Magyar Akadémia körül
     authors:
       - István gróf Széchenyi
+    editors:
+      - Gábor Szigethy
     year: 1981
     series: Gondolkodó magyarok
     language: Hungarian
@@ -39833,6 +40097,8 @@ titles:
     verified: true
   - title: Gondolkodó magyarok
     authors: []
+    editors:
+      - Gábor Szigethy
     year: 1981
     language: Hungarian
     sources:
@@ -40741,6 +41007,8 @@ titles:
     subtitle: Beszélgetések Örkény Istvánnal
     authors:
       - István Örkény
+    editors:
+      - Zsuzsa Radnóti
     year: 1981
     language: Hungarian
     pages: 302
@@ -40931,6 +41199,8 @@ titles:
   - title: Szép versek
     subtitle: A kötet költői
     authors: []
+    editors:
+      - Imre Bata
     year: 1981
     language: Hungarian
     sources:
@@ -41475,6 +41745,7 @@ titles:
     verified: true
   - title: A magyarok története
     subtitle: Tarih-i Üngürüsz, Madzsar tarihi
+    original_title: Tarih-i Uengürüs ; Macar tarihi
     authors:
       - József Blaskovics
     year: 1982
@@ -41894,9 +42165,11 @@ titles:
         url: https://search.worldcat.org/title/11158801
     verified: true
   - title: Az ismeretlen katona
+    original_title: Tuntematon sotilas
     series: A finn irodalom könyvtára
     authors:
       - Väinö Linna
+    translators:
       - Gábor Bereczki
     year: 1982
     language: Hungarian
@@ -42715,6 +42988,7 @@ titles:
   - title: István király intelmei
     authors:
       - Stephen I. King of Hungary
+    translators:
       - Gábor Szigethy
     year: 1982
     series: Gondolkodó magyarok
@@ -43086,6 +43360,8 @@ titles:
     subtitle: Válogatás Ferenczi Sándor tanulmányaiból
     authors:
       - Sándor Ferenczi
+    editors:
+      - Adorján Linczényi
     year: 1982
     series: Magyar hírmondó
     language: Hungarian
@@ -43265,6 +43541,8 @@ titles:
   - title: Napló
     authors:
       - Béla Balázs
+    editors:
+      - Anna Fábri
     year: 1982
     series: Tények és tanúk
     language: Hungarian
@@ -43580,6 +43858,7 @@ titles:
   - title: Sárkányok nyomában
     authors:
       - Rudolf Daumann
+    translators:
       - István Elek
     year: 1982
     language: Hungarian
@@ -44036,6 +44315,8 @@ titles:
     authors:
       - Ernő Kulcsár Szabó
       - Tibor Zalán
+    editors:
+      - Szabó Ernő Kulcsár
     year: 1982
     series: JAK füzetek
     language: Hungarian
@@ -44659,6 +44940,8 @@ titles:
   - title: A pokol cséplője
     authors:
       - Ottó Herman
+    editors:
+      - Gábor Erdődy
     year: 1983
     language: Hungarian
     pages: 416
@@ -44787,6 +45070,8 @@ titles:
     subtitle: Válogatott versek és műfordítások
     authors:
       - Pál Gulyás
+    editors:
+      - János Parancs
     year: 1983
     language: Hungarian
     pages: 686
@@ -45013,6 +45298,8 @@ titles:
     subtitle: 1944 november-1945 január
     authors:
       - Borbála Szabó
+    editors:
+      - Judit Elek
     year: 1983
     series: Tények és tanúk
     language: Hungarian
@@ -45239,6 +45526,8 @@ titles:
   - title: Egy jeles vad-kert, avagy, Az oktalan állatoknak historiája Miskolczi Gáspár által
     authors:
       - Gáspár Miskolczi
+    editors:
+      - János Stirling
     year: 1983
     series: Magyar hírmondó
     language: Hungarian
@@ -45664,6 +45953,10 @@ titles:
     subtitle: Hitler Adolf tárgyalásai kelet-euroa pai államférfiakkal
     authors:
       - Andreas Hillgruber
+    editors:
+      - György Ránki
+    translators:
+      - Gáspár Soltész
     year: 1983
     series: Tények és tanúk
     language: Hungarian
@@ -46286,8 +46579,11 @@ titles:
         url: https://openlibrary.org/books/OL50312451M
     verified: true
   - title: Opus nigrum
+    original_title: L'Œuvre au noir
     authors:
       - Marguerite Yourcenar
+    translators:
+      - Szávai János
     year: 1983
     series: Világkönyvtár
     language: Hungarian
@@ -46356,6 +46652,7 @@ titles:
     verified: true
   - title: Öt évszázad mesterművei
     subtitle: Festmények, rajzok, akvarellek
+    original_title: 'The Armand Hammer collection : Five centuries masterpieces'
     authors:
       - Armand Hammer
       - Szépművészeti Múzeum
@@ -46427,6 +46724,8 @@ titles:
   - title: Pokoljárásom
     authors:
       - Imre Dombi Kiss
+    editors:
+      - Tibor Szenti
     year: 1983
     series: Tények és tanúk
     language: Hungarian
@@ -47367,6 +47666,8 @@ titles:
   - title: A muzsikának közönséges története és egyéb írások
     authors:
       - Gábor Mátray
+    editors:
+      - György Gábry
     year: 1984
     series: Magyar hírmondó
     language: Hungarian
@@ -47454,6 +47755,8 @@ titles:
     subtitle: Elbeszélések, 1910-1958
     authors:
       - Józsi Jenő Tersánszky
+    editors:
+      - János Czibor
     year: 1984
     edition: 2. kiad
     series: Tersánszky J. Jenő válogatott művei a Magvető Könyvkiadó gondozásában
@@ -47705,6 +48008,8 @@ titles:
   - title: Bajza József elfeledett írásai
     authors:
       - József Bajza
+    editors:
+      - István Fenyö
     year: 1984
     series: Nemzet és emlékezet
     language: Hungarian
@@ -47761,9 +48066,11 @@ titles:
         url: https://lccn.loc.gov/85177532
     verified: true
   - title: Boldog halál
+    original_title: La mort heureuse
     series: Rakéta regénytár
     authors:
       - Albert Camus
+    translators:
       - Lajos Örvös
     year: 1984
     language: Hungarian
@@ -47958,6 +48265,8 @@ titles:
   - title: Életrajzi törmelékek
     authors:
       - Endre Bálint
+    editors:
+      - József Román
     year: 1984
     series: Tények és tanúk
     language: Hungarian
@@ -48091,6 +48400,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=013398431
     verified: true
   - title: Fájdalom
+    original_title: Bolʹ
     series: Világkönyvtár
     authors:
       - Jurij Mychajlovyč Mušketyk
@@ -48223,6 +48533,11 @@ titles:
     subtitle: Ókortudományi tanulmányok, 1918-1943
     authors:
       - Karl Kerényi
+    editors:
+      - Géza Komoróczy
+      - János György Szilágyi
+    translators:
+      - Dénes Kövendi
     year: 1984
     language: Hungarian
     pages: 566
@@ -48659,6 +48974,8 @@ titles:
     subtitle: Prózai írások
     authors:
       - Lőrinc Szabó
+    editors:
+      - Ágota Steinert
     year: 1984
     series: Szabó Lőrinc prózai írásai
     language: Hungarian
@@ -48883,6 +49200,8 @@ titles:
   - title: Magyar alvitézek hőstettei az újabb üdőszakban
     authors:
       - Károly Kiss
+    editors:
+      - István Juhász
     year: 1984
     series: Magyar hírmondó
     language: Hungarian
@@ -49082,6 +49401,8 @@ titles:
   - title: Napló
     authors:
       - Ignác Goldziher
+    editors:
+      - Mihály Szegedy-Maszák
     year: 1984
     series: Tények és tanúk
     language: Hungarian
@@ -49110,9 +49431,12 @@ titles:
         url: https://catalog.hathitrust.org/Record/006037681
     verified: true
     subtitle: (1836-1842)
+    original_title: Tagebuch
   - title: Napló helyett
     authors:
       - Gábor Thurzó
+    editors:
+      - Rezső Keszthelyi
     year: 1984
     series: Thurzó Gábor művei
     language: Hungarian
@@ -49303,6 +49627,8 @@ titles:
     subtitle: Színművek, verses játékok
     authors:
       - Zoltán Jékely
+    editors:
+      - László Ablonczy
     year: 1984
     language: Hungarian
     pages: 493
@@ -49351,6 +49677,8 @@ titles:
   - title: Pax corporis
     authors:
       - Ferenc Pápai Páriz
+    editors:
+      - Férenc Szablyár
     year: 1984
     series: Magyar hírmondó
     language: Hungarian
@@ -49458,6 +49786,8 @@ titles:
   - title: Sopronkőhidai napló, 1944-1945
     authors:
       - Pál Almásy
+    editors:
+      - András Simonffy
     year: 1984
     series: Tények és tanúk
     language: Hungarian
@@ -49480,6 +49810,9 @@ titles:
   - title: Splény Béla emlékiratai
     authors:
       - Béla báró Splény
+    editors:
+      - Mária Kendi
+      - Anna Fábri
     year: 1984
     series: Nemzet és emlékezet
     language: Hungarian
@@ -49774,8 +50107,11 @@ titles:
         url: https://lccn.loc.gov/93846433
     verified: true
   - title: Teleki Sámuel gróf felfedező útja Kelet-Afrika egyenlítői vidékein, 1887-1888-ban
+    original_title: Zum Rudolph-See und Stephanie-See
     authors:
       - Ludwig Ritter von Höhnel
+    editors:
+      - Károly Véber
     year: 1984
     series: Magyar hírmondó
     language: Hungarian
@@ -49901,6 +50237,8 @@ titles:
     subtitle: Monográfia
     authors:
       - Aladár Komlós
+    editors:
+      - Béla Pomogáts
     year: 1984
     edition: 2. kiad. --
     series: Művei / Komlós Aladár
@@ -50085,6 +50423,8 @@ titles:
   - title: 1848, 1849
     authors:
       - Géza Supka
+    editors:
+      - Anna Fábri
     year: 1985
     series: Nemzet és emlékezet
     language: Hungarian
@@ -50640,6 +50980,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991057876289705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Aurél a Kékesre megy
+    original_title: Akasztófavirág
   - title: Akasztófavirág; Aurél a kékesre meby
     authors:
       - László Németh
@@ -50655,6 +50996,8 @@ titles:
     subtitle: Kötetekbʺol kimaradt versek és töredékek
     authors:
       - Mihály Babits
+    editors:
+      - Tibor Melczer
     year: 1985
     language: Hungarian
     pages: 133
@@ -51389,6 +51732,10 @@ titles:
   - title: Gróf Széchenyi István intelmei Béla fiához
     authors:
       - István gróf Széchenyi
+    editors:
+      - Ervin Fenyő
+    translators:
+      - Ilona Kovács
     year: 1985
     series: Magyar hírmondó
     language: Hungarian
@@ -51430,6 +51777,8 @@ titles:
     subtitle: Gyurmán Adolf kiadatlan röpirata
     authors:
       - Adolf Gyurmán
+    editors:
+      - János Varga
     year: 1985
     series: Nemzet és emlékezet
     language: Hungarian
@@ -51896,6 +52245,10 @@ titles:
   - title: Machinae novae és más művei
     authors:
       - Fausto Veranzio
+    editors:
+      - Katalin S. Varga
+    translators:
+      - Zoltán Zsámboki
     year: 1985
     series: Magyar hírmondó
     language: Hungarian
@@ -52450,6 +52803,8 @@ titles:
   - title: Sátántangó
     authors:
       - László Krasznahorkai
+    editors:
+      - Mária Zsámboki
     year: 1985
     language: Hungarian
     pages: 333
@@ -53579,6 +53934,7 @@ titles:
     series: Gondolkodó magyarok
     authors:
       - Mihaly Horvath
+    translators:
       - Gábor Szigethy
     year: 1986
     language: Hungarian
@@ -54392,6 +54748,9 @@ titles:
   - title: Hasznos tudnivalók
     authors:
       - István Juhász
+    editors:
+      - András Fáy
+      - Ferencz Vajda
     year: 1986
     series: Magyar hírmondó
     language: Hungarian
@@ -55086,6 +55445,7 @@ titles:
   - title: Pásztorkastély
     authors:
       - Wiesław Myśliwski
+    translators:
       - Irén Fejér
     year: 1986
     language: Hungarian
@@ -55154,6 +55514,8 @@ titles:
   - title: Régi magyar társasélet
     authors:
       - Sarolta Vay
+    editors:
+      - Ágota Steinert
     year: 1986
     series: Magyar hírmondó
     language: Hungarian
@@ -55433,6 +55795,8 @@ titles:
   - title: Válogatott tanulmányok
     authors:
       - István Bibó
+    editors:
+      - Tibor Huszár
     year: 1986
     language: Hungarian
     isbn: '9631406717'
@@ -55873,6 +56237,7 @@ titles:
     subtitle: Andrzej Wajda filmjének i irodalmi forgatòkönyve
     authors:
       - Aleksander Ścibor-Rylski
+    translators:
       - Mária Varsányi
     year: 1987
     language: Hungarian
@@ -56167,6 +56532,8 @@ titles:
   - title: Az én életem
     authors:
       - Ferenc Kazinczy
+    editors:
+      - Ferenc Szilágyi
     year: 1987
     series: Nemzet és emlékezet
     language: Hungarian
@@ -56774,6 +57141,7 @@ titles:
   - title: Fény
     authors:
       - Christoph Meckel
+    translators:
       - Márton Kalász
     year: 1987
     language: Hungarian
@@ -56873,6 +57241,10 @@ titles:
     subtitle: Válogatás a 19. század magyar vonatkozású francia irodalmából
     authors:
       - Endre Bajomi Lázár
+    translators:
+      - Adolf Ágai
+      - Lajos Dobsa
+      - Endre Gaspar
     year: 1987
     series: Magyar hírmondó
     language: Hungarian
@@ -57056,6 +57428,9 @@ titles:
     subtitle: Nézetek és koncepciók a 20. századi Magyarországon
     authors:
       - Közép- és Kelet-Európa kutatási központ
+    editors:
+      - Tibor Iván Berend
+      - Éva Ring
     year: 1987
     language: Hungarian
     sources:
@@ -57134,6 +57509,7 @@ titles:
   - title: Igazság-ügy
     authors:
       - Friedrich Dürrenmatt
+    translators:
       - József Asztalos
     year: 1987
     language: Hungarian
@@ -57174,6 +57550,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=013630040
     verified: true
   - title: II. Endre Aranybullája
+    original_title: Aranybulla
     authors:
       - Gábor Szigethy
     year: 1987
@@ -57419,6 +57796,8 @@ titles:
     verified: true
   - title: Körkép
     authors: []
+    editors:
+      - Mária Hegedős
     year: 1987
     language: Hungarian
     sources:
@@ -57526,6 +57905,9 @@ titles:
     subtitle: Válogatott versek
     authors:
       - István Sinka
+    editors:
+      - Endre Medvigy
+      - József Tornai
     year: 1987
     language: Hungarian
     pages: 453
@@ -57774,6 +58156,8 @@ titles:
   - title: Napló, 1942-1944
     authors:
       - Simon Kemény
+    editors:
+      - Béla Kovács
     year: 1987
     series: Tények és tanúk
     language: Hungarian
@@ -58310,6 +58694,7 @@ titles:
   - title: Új Üdvlak
     authors:
       - Günter de Bruyn
+    translators:
       - Erzsébet Gergely
     year: 1987
     language: Hungarian
@@ -58581,6 +58966,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=018745261
     verified: true
   - title: A demokratizálódás jelene és jövője
+    original_title: Demokratisierung heute und morgen
     series: Gyorsuló idő
     authors:
       - Georg Lukács
@@ -58629,6 +59015,8 @@ titles:
     subtitle: Válogatott írások
     authors:
       - István Örley
+    editors:
+      - Ferenc Pergel
     year: 1988
     language: Hungarian
     pages: 409
@@ -58974,6 +59362,7 @@ titles:
   - title: A patkánynő
     authors:
       - Günter Grass
+    translators:
       - Ambrus Bor
     year: 1988
     language: Hungarian
@@ -59358,6 +59747,8 @@ titles:
     subtitle: Válogatott versek
     authors:
       - Sophie Török
+    editors:
+      - Sarolta Koháry
     year: 1988
     language: Hungarian
     pages: 281
@@ -59638,6 +60029,8 @@ titles:
   - title: Füst Milán összes versei
     authors:
       - Milán Füst
+    editors:
+      - Sándor Zsoldos
     year: 1988
     edition: 4th. enl. ed
     language: Hungarian
@@ -59814,6 +60207,7 @@ titles:
   - title: Jég az Elbán
     authors:
       - Ingeborg Drewitz
+    translators:
       - Erzsébet Gergely
     year: 1988
     language: Hungarian
@@ -60043,6 +60437,8 @@ titles:
     verified: true
   - title: Körkép
     authors: []
+    editors:
+      - Mária Hegedős
     year: 1988
     language: Hungarian
     sources:
@@ -60110,6 +60506,7 @@ titles:
   - title: Meghóditásunk
     authors:
       - Gert Hofmann
+    translators:
       - Zsuzsa Fodor
     year: 1988
     language: Hungarian
@@ -60578,6 +60975,8 @@ titles:
   - title: Szepességi, avagy, Lőcsei krónika és évkönyv a kedves utókor számára
     authors:
       - Gáspár Hain
+    editors:
+      - Károly Véber
     year: 1988
     series: Magyar hírmondó
     language: Hungarian
@@ -60963,6 +61362,7 @@ titles:
         url: https://search.worldcat.org/title/22973072
     verified: true
   - title: “A” Keresztapa
+    original_title: The godfather
     authors:
       - Mario Puzo
       - Vera Vándor
@@ -61663,6 +62063,8 @@ titles:
     subtitle: Válogatott elbeszélések és elbeszélgetések
     authors:
       - Endre Vázsonyi
+    editors:
+      - István Juhász
     year: 1989
     language: Hungarian
     pages: 425
@@ -62029,6 +62431,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=393216594
     verified: true
   - title: Gyermek- és családi mesék
+    original_title: Kinder- und Hausmärchen I-II, Deutscher Taschenbuch Verlag, 1984
     authors:
       - Jacob Grimm
       - Wilhelm Grimm
@@ -62456,6 +62859,8 @@ titles:
     verified: true
   - title: Körkép
     authors: []
+    editors:
+      - Mária Hegedős
     year: 1989
     language: Hungarian
     sources:
@@ -62489,6 +62894,8 @@ titles:
   - title: Kortárs magyar írók kislexikona, 1959-1988
     authors:
       - Margit Ács
+    editors:
+      - István Fazakas
     year: 1989
     language: Hungarian
     pages: 471
@@ -62578,6 +62985,8 @@ titles:
     subtitle: 1955-1975
     authors:
       - József Lengyel
+    editors:
+      - Ottó Major
     year: 1989
     language: Hungarian
     pages: 682
@@ -62787,6 +63196,7 @@ titles:
   - title: Mutassák a terrorista lány hasát!
     authors:
       - Roman Warszewski
+    translators:
       - Szabolcs Szilágyi
     year: 1989
     language: Hungarian
@@ -62799,6 +63209,9 @@ titles:
   - title: Napló
     authors:
       - Miklós Radnóti
+    editors:
+      - Tibor Melczer
+      - Sz. Magdolna Székely
     year: 1989
     language: Hungarian
     pages: 383
@@ -63134,6 +63547,8 @@ titles:
   - title: Sorskérdések
     authors:
       - László Németh
+    editors:
+      - Ferenc Grezsa
     year: 1989
     language: Hungarian
     sources:
@@ -63314,8 +63729,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/006072201
     verified: true
   - title: Találkozások Sztálinnal
+    original_title: Susreti sa Staljinom
     authors:
       - Milovan Đilas
+    translators:
       - Viktorija Radič
     year: 1989
     language: Hungarian
@@ -63581,6 +63998,8 @@ titles:
     subtitle: Változatok a szép reménytelenségre
     authors:
       - Miklós Mészöly
+    editors:
+      - Margit Ács
     year: 1989
     language: Hungarian
     pages: 631
@@ -64061,8 +64480,11 @@ titles:
     verified: true
   - title: Budapesttől Párizsig
     subtitle: Emlékeim
+    original_title: Mémoires
     authors:
       - François Fejtö
+    translators:
+      - Péter Balabán
     year: 1990
     language: Hungarian
     pages: 503
@@ -64291,6 +64713,9 @@ titles:
   - title: Jászi Oszkár válogatott levelei
     authors:
       - Oszkár Jászi
+    editors:
+      - György Litván
+      - F. János Varga
     year: 1990
     language: Hungarian
     sources:
@@ -64348,6 +64773,8 @@ titles:
     verified: true
   - title: Körkép
     authors: []
+    editors:
+      - Mária Hegedős
     year: 1990
     language: Hungarian
     sources:
@@ -64421,6 +64848,8 @@ titles:
     subtitle: Válogatás a Magyar Experimentális Költészetből
     authors:
       - András Petőcz
+    editors:
+      - Zoltán Fráter
     year: 1990
     series: JAK Füzetek
     language: Hungarian, English
@@ -64591,6 +65020,8 @@ titles:
     subtitle: Válogatott prózai írások
     authors:
       - Mihály Váci
+    editors:
+      - Mária Váciné Juhász
     year: 1990
     language: Hungarian
     pages: 428
@@ -65007,6 +65438,7 @@ titles:
   - title: Wittgenstein unokaöccse
     authors:
       - Thomas Bernhard
+    translators:
       - Gabrielle Hajos
     year: 1990
     language: Hungarian
@@ -65118,6 +65550,8 @@ titles:
     verified: false
   - title: Mikrotörténelem
     authors: []
+    editors:
+      - Gábor Klaniczay
     language: Hungarian
     sources:
       - title: BnF catalogue record cb34270700n

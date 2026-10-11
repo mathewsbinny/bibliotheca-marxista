@@ -422,6 +422,8 @@ titles:
     subtitle: Eine Dokumentation
     authors:
       - Afro-Asiatisches Solidaritätskomitee in der DDR
+    editors:
+      - Deutschland
     year: 1965
     language: German
     sources:
@@ -1335,6 +1337,8 @@ titles:
     subtitle: Confessions of a Murderer, Program of a Regime
     authors:
       - Siegfried Friedrich Heinrich Müller
+    editors:
+      - Manfred Arndt
     year: 1966
     language: English
     pages: 15
@@ -1835,6 +1839,7 @@ titles:
     verified: true
   - title: L'alliance Bonn-Prétoria
     subtitle: La politique d'expansion de la République fédérale (ouest) allemande en Afrique du Sud et sa base en République sud-africaine
+    original_title: Das Bündnis Bonn-Pretoria
     authors:
       - Jean-Claude Nardin
     year: 1967
@@ -1868,6 +1873,7 @@ titles:
   - title: Mała podróż przez NRD
     authors:
       - Wolfgang Keller
+    translators:
       - Alfred Kneifel
     year: 1967
     language: Polish
@@ -2332,6 +2338,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991067128759705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: “Une” formation pour le présent et pour l'avenir
+    original_title: Bildung für heute und morgen
     authors:
       - Wolfgang Reischock
     year: 1968
@@ -2753,6 +2760,7 @@ titles:
         url: https://www.sudoc.fr/14296137X
     verified: true
   - title: Le Capital, cours élémentaire
+    original_title: Grundkurs zum "Kapital"
     authors:
       - Walter Schellenberg
     year: 1968
@@ -2909,6 +2917,7 @@ titles:
     verified: true
   - title: République Démocratique Allemande
     subtitle: Santé publique et affaires sociales
+    original_title: 'Deutsche Demokratische republik : Gesundheits- und Sozialwesen'
     authors: []
     year: 1968
     language: French
@@ -3311,6 +3320,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BB08991012
     verified: false
   - title: Art et littérature
+    original_title: Kunst und Literatur
     authors:
       - Erwin Kohn
       - Deutschland
@@ -4530,6 +4540,7 @@ titles:
     verified: true
   - title: Le Secret des guerres
     subtitle: Genèse et techniques de l'agression
+    original_title: So werden Kriege gemacht!
     authors:
       - Albert Norden
     year: 1970
@@ -4872,6 +4883,7 @@ titles:
     verified: true
   - title: Twenty-five years after Potsdam
     subtitle: The Potsdam Agreement and what has become of it
+    original_title: Ein Vierteljahrhundert danach
     authors:
       - Gerhard Kegel
     year: 1970
@@ -6228,6 +6240,7 @@ titles:
     verified: true
   - title: Friedrich Engels
     subtitle: Une biographie
+    original_title: 'Friedrich Engels : eine Biographie'
     authors:
       - Heinrich Gemkow
       - Horst Bartel
@@ -6286,6 +6299,8 @@ titles:
   - title: GDR Recognition Now and Unconditionally!
     subtitle: Voices from Northern Europe
     authors: []
+    editors:
+      - Nils Brädefors
     year: 1972
     language: English
     pages: 28
@@ -7385,6 +7400,8 @@ titles:
   - title: Gesetz über die örtlichen Volksvertretungen und ihre Organe in der Deutschen Demokratischen Republik
     authors:
       - Deutschland
+    editors:
+      - Deutscher Städte- und Gemeindetag
     year: 1973
     language: German
     sources:
@@ -7572,6 +7589,7 @@ titles:
         url: https://www.sudoc.fr/016975618
     verified: true
   - title: République démocratique allemande – santé publique et affaires sociales
+    original_title: Deutsche Demokratische republik – Gesundheits- und Sozialwesen
     authors: []
     year: 1973
     language: French
@@ -7821,6 +7839,7 @@ titles:
         url: https://d-nb.info/202004600
     verified: true
   - title: Guide de Rostock
+    original_title: Rostock
     authors:
       - Horst Witt
     year: 1974
@@ -7830,6 +7849,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=339934956
     verified: true
   - title: Guide to Rostock
+    original_title: Rostock
     authors:
       - Horst Witt
     year: 1974
@@ -7916,6 +7936,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991044881969705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: La RDA se présente
+    original_title: Die DDR stellt sich vor
     authors: []
     year: 1974
     language: French
@@ -7993,6 +8014,7 @@ titles:
         url: https://lccn.loc.gov/75315433
     verified: true
   - title: Théâtre en République démocratique allemande
+    original_title: Theater in der DDR
     authors:
       - Ursula Püschel
       - Barbara Meffert
@@ -8441,6 +8463,8 @@ titles:
     subtitle: Faits et chiffres
     authors:
       - DDR Zentralverwaltung für Statistik
+    editors:
+      - DDR
     year: 1975
     edition: 1. ed
     language: German
@@ -8475,6 +8499,8 @@ titles:
     subtitle: Cifras y hechos
     authors:
       - DDR Zentralverwaltung für Statistik
+    editors:
+      - DDR
     year: 1975
     edition: 1. ed
     language: German
@@ -8838,6 +8864,8 @@ titles:
     subtitle: Facts and Figures
     authors:
       - Germany (East). Staatliche Zentralverwaltung für Statistik
+    editors:
+      - DDR
     year: 1975
     edition: 1st ed
     language: English
@@ -8862,6 +8890,8 @@ titles:
     subtitle: Fakty i cifry
     authors:
       - DDR Zentralverwaltung für Statistik
+    editors:
+      - DDR
     year: 1975
     edition: 1. izd
     language: German
@@ -9137,6 +9167,7 @@ titles:
     verified: true
   - title: Le droit et la loi en régime socialiste
     subtitle: Information sur le droit et la justice en République démocratique allemande
+    original_title: Recht und Gesetz im Sozialismus
     authors:
       - Tord Riemann
       - Hans Heilborn
@@ -9355,6 +9386,7 @@ titles:
         url: https://search.worldcat.org/title/66268003
     verified: true
   - title: Statuts du Parti socialiste unifié d'Allemagne
+    original_title: Statut der Sozialistischen Einheitspartei Deutschlands
     authors:
       - Sozialistische Einheitspartei Deutschlands
     year: 1976
@@ -9705,6 +9737,7 @@ titles:
         url: https://d-nb.info/201550563
     verified: true
   - title: Dresde
+    original_title: Dresden
     authors:
       - Lothar Kempe
     year: 1977
@@ -9964,6 +9997,8 @@ titles:
     series: Aus erster Hand
     authors:
       - Martin Herzig
+    editors:
+      - Auslandspresseagentur Panorama DDR
     year: 1977
     language: German
     sources:
@@ -10760,6 +10795,7 @@ titles:
         url: https://www.sudoc.fr/054747562
     verified: true
   - title: La femme en République démocratique allemande – 100e anniversaire de la parution de "La femme et le socialisme" d'August Bebel
+    original_title: Die Frau in der DDR – zum 100. Jahrestag der Herausgabe von August Bebels Buch "Die Frau und der Sozialismus"
     authors: []
     year: 1978
     language: French
@@ -10869,6 +10905,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991152937599705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Un meilleur habitat - pour une vie heureuse – comment la République démocratique allemande résout le problème du logement
+    original_title: Besser wohnen - glücklich leben – wie die Deutsche Demokratische Republik das Wohnungsproblem löst
     authors: []
     year: 1978
     language: French
@@ -12792,6 +12829,7 @@ titles:
     verified: true
   - title: Rencontre de MM. Erich Honecker, secrétaire général du Comité central du S.E.D., président du Conseil d'État de la R.D.A, et Helmut Schmidt, chancelier fédéral de la R.F.A., en République démocratique allemande
     subtitle: 11-13 décembre 1981
+    original_title: Treffen des Generalsekretärs des ZK der SED und Vorsitzenden des Staatsrates der DDR, Erich Honecker, mit dem Bundeskanzler der BRD, Helmut Schmidt, in der Deutschen Demokratischen Republik, 11. - 13. Dezember 1981
     authors: []
     year: 1981
     language: French
@@ -12839,7 +12877,8 @@ titles:
         url: https://d-nb.info/369274490
     verified: true
   - title: Socialismen - vår tids humanism
-    authors:
+    authors: []
+    translators:
       - Intertext Fremdsprachendienst
     year: 1981
     language: Swedish
@@ -13179,6 +13218,7 @@ titles:
     verified: true
   - title: Engagement et action pour la paix
     subtitle: Les rencontres de la Pentecôte organisées par la jeunesse de RDA en 1982
+    original_title: Bekenntnis und Tat für den Frieden
     authors: []
     year: 1982
     language: French
@@ -13230,6 +13270,8 @@ titles:
     subtitle: Zum 150. Todestag Goethes
     authors:
       - Jörg Sobiella
+    editors:
+      - Nationale Forschungs- und Gedenkstätten der Klassischen Deutschen Literatur
     year: 1982
     language: German
     sources:
@@ -13717,6 +13759,7 @@ titles:
         url: https://d-nb.info/369269012
     verified: true
   - title: Déclaration politique des Etats membres du Traité de Varsovie, Prague, 5 janvier 1983
+    original_title: Politische Deklaration der Teilnehmerstaaten des Warschauer Vertages
     authors: []
     year: 1983
     language: French
@@ -13761,6 +13804,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1083373080
     verified: true
   - title: Discours prononcé par Erich Honecker, secrétaire général du Comité central du SED, président du Conseil d' Etat de la RDA, à la Conférence scientifique internationale du Comité central du SED, "Karl Marx et notre époque - la lutte pour la paix et le progrès social", Berlin, 11 au 16 avril 1983
+    original_title: Rede Erich Honeckers, Generalsekretär des Zentralkomitees der SED und Vorsitzender des Staatsrates der DDR auf der Internationalen Wissenschaftlichen Konferenz des Zentralkomitees der SED "Karl Marx und unsere Zeit - der Kampf um Frieden und sozialen Fortschritt", Berlin, 11. bis 16. April 1983
     authors:
       - Erich Honecker
     year: 1983
@@ -13788,6 +13832,8 @@ titles:
   - title: Fest des DDR-Sports
     authors:
       - Turn- und Sportfest der DDR (7th 1983 Leipzig, Germany)
+    editors:
+      - Deutscher Turn- und Sportbund der DDR
     year: 1983
     language: German
     pages: 59
@@ -14877,6 +14923,7 @@ titles:
         url: https://lccn.loc.gov/85160591
     verified: true
   - title: Empêcher la militarisation de l'espace
+    original_title: Militarisierung des Weltalls verhindern !
     authors: []
     year: 1985
     language: French
@@ -15513,6 +15560,7 @@ titles:
     verified: true
   - title: La Chance est donnée
     subtitle: L'URSS prolonge le moratoire unilatéral des explosions nucléaires jusqu'au 1er janvier 1987
+    original_title: 'Die Chance nutzen ! : UdSSR verlängert einseitiges Moratorium für Nuklearexplosionen bis zum 1. Januar 1987'
     series: Notre point de vue DDR
     authors: []
     year: 1986
@@ -15596,6 +15644,7 @@ titles:
     verified: true
   - title: Nous sommes pour la paix sur terre et dans l'espace
     subtitle: Interview accordée par Erich Honecker, secrétaire général du Comité central du Parti socialiste unifié d'Allemagne, président du Conseil d'Etat de la RDA, à l'hebdomadaire de RFA "Die Zeit" le 31 janvier 1986
+    original_title: 'Wir sind für den Frieden auf der Erde und im Kosmos : Interview des Generalsekretärs des Zentralkomitees der Sozialistischen Einheitspartei Deutschlands und Vorsitzenden des Staatsrates der DDR, Erich Honecker, für die BRD-Wochenzeitung "Die Zeit"'
     authors: []
     year: 1986
     language: French
@@ -15615,6 +15664,7 @@ titles:
     verified: true
   - title: Pour un corridor exempt d'armes atomiques en Europe centrale
     subtitle: Initiative politique commune du Parti socialiste unifié d'Allemagne et du Parti social-démocrate d'Allemagne
+    original_title: 'Für atomwaffenfreien Korridor in Mitteleuropa : gemeinsame politische Initiative der Sozialistischen Einheitspartei Deutschlands und der Sozialdemokratischen Partei Deutschlands'
     authors: []
     year: 1986
     language: French
@@ -15875,6 +15925,8 @@ titles:
   - title: Berlin
     subtitle: Capital of the German Democratic Republic
     authors: []
+    translators:
+      - Intertext Berlin
     year: 1987
     language: English
     pages: 84
@@ -16153,6 +16205,7 @@ titles:
         url: https://www.sudoc.fr/11720336X
     verified: true
   - title: La Réalisation du droit au travail en R.D.A
+    original_title: Recht auf Arbeit in der DDR
     authors: []
     year: 1987
     language: French
@@ -16494,6 +16547,7 @@ titles:
     verified: true
   - title: Impressionen von einem Weltforum des Friedens
     subtitle: Internationales Treffen für kernwaffenfreie Zonen, Berlin, 20. bis 22. Juni 1988
+    original_title: 'Impressionen von einem Weltforum des Friedens : Internationales Treffen für kernwaffenfreie Zonen : Berlin, 20. bis 22. Juni 1988'
     authors: []
     year: 1988
     language: German
@@ -16566,6 +16620,8 @@ titles:
   - title: Neue Vorschläge zu Abrüstung, Sicherheit und Vertrauensbildung
     authors:
       - Warsaw Treaty Organization. Political Consultative Committee. Meeting
+    editors:
+      - Organisation des Warschauer Vertrages
     year: 1988
     language: German
     pages: 31
@@ -16606,6 +16662,7 @@ titles:
     verified: true
   - title: Pour une "zone de confiance et de sécurité en Europe centrale"
     subtitle: Proposition commune du Parti socialiste unifié d'Allemagne et du Parti social-démocrate d'Allemagne
+    original_title: 'Für eine "Zone des Vertrauens und der Sicherheit in Zentraleuropa" : gemeinsamer Vorschlag der Sozialistischen Einheitspartei Deutschlands und der Sozialdemokratischen Partei Deutschlands'
     authors: []
     year: 1988
     language: French
@@ -16880,6 +16937,7 @@ titles:
         url: https://d-nb.info/961249196
     verified: false
   - title: Des idéaux réalisés
+    original_title: Erfülltes Vermächtnis
     authors: []
     language: French
     sources:
@@ -16969,6 +17027,8 @@ titles:
     verified: false
   - title: Ouvrons la porte à la raison, une documentation au sujet de l'accord de Berlin sur les laissez-passer. Publié par Alfred Brückner
     authors: []
+    editors:
+      - Alfred Brückner
     language: French
     sources:
       - title: BnF catalogue record cb33126468j

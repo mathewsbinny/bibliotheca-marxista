@@ -274,6 +274,7 @@ titles:
   - title: Proza
     authors:
       - Kocho Ratsin (Кочо Рацин)
+    translators:
       - J̌ovan Boškovski
       - Јovan Boshkovski (Јован Бошковски)
     year: 1952
@@ -395,8 +396,11 @@ titles:
     authors:
       - Grigor Stavrev Prličev
       - Grigor Stavrev Prlichev (Григор Ставрев Прличев)
-      - Dimitar Mitrev
       - Dimitar Mitrev (Димитар Митрев)
+    translators:
+      - Todor Dimitrovski
+      - Ǵorǵi Stalev
+      - Dimitar Mitrev
     year: 1953
     language: Macedonian
     sources:
@@ -746,6 +750,9 @@ titles:
       - Kiril Penushliski (Кирил Пенушлиски)
       - Haralampije Polenakoviḱ
       - Kharalampiјe Polenakoviќ (Харалампије Поленаковиќ)
+    editors:
+      - Haralampie Polenakoviḱ
+      - Branko Pendovski
     year: 1954
     language: Macedonian
     sources:
@@ -764,6 +771,8 @@ titles:
     subtitle: Za praktična primena = Broderies nationales macedoniennes
     authors:
       - Marica Antonova Popstefanieva
+    editors:
+      - Maritsa Antonova Popstefanieva (Марица Антонова Попстефаниева)
     year: 1954
     language: Macedonian
     sources:
@@ -783,6 +792,8 @@ titles:
     authors:
       - Marica Antonova Popstefanieva
       - Makedonska Pravoslavna Crkva
+    translators:
+      - Vesa Srebrenova Šojlekova
     year: 1954
     language: Multiple languages
     sources:
@@ -792,6 +803,8 @@ titles:
   - title: Marko Cepenkov. Skazni i storenija. Redaktiral Blaže Koneski
     authors:
       - Marko Kostov Tsepenkov
+    editors:
+      - Blaje Koneski
     year: 1954
     language: Macedonian
     sources:
@@ -1017,6 +1030,9 @@ titles:
   - title: Odbrani raskazi
     authors:
       - Isak Samokovlija
+    translators:
+      - Tome Lazarov
+      - Tome Lazarov (Томе Лазаров)
     year: 1955
     series: Biblioteka Jugoslovenski pisateli
     language: Macedonian
@@ -1080,8 +1096,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=253776694
     verified: true
   - title: Čuma
+    original_title: La peste
     authors:
       - Albert Camus
+    translators:
+      - Vera Hristova
     year: 1956
     language: Macedonian
     sources:
@@ -1206,6 +1225,7 @@ titles:
         url: https://openlibrary.org/books/OL18283936M
     verified: true
   - title: Odbrani bajki
+    original_title: Kinder- und Hausmärchen
     series: Biblioteka Galeb; 2
     authors:
       - Jacob Grimm
@@ -1679,6 +1699,10 @@ titles:
     authors:
       - Kiril Penušliski
       - Marko Cepenkov
+    editors:
+      - Georgi Stardelov
+      - Georgi Stardelov (Георги Старделов)
+      - Kiril Penushliski (Кирил Пенушлиски)
     year: 1958
     series: Biblioteka narodno tvoreštvo
     language: Macedonian
@@ -1928,6 +1952,9 @@ titles:
   - title: Tvorbi
     authors:
       - Konstantin Miladinov
+    editors:
+      - Haralampije Polenakoviḱ
+      - Kharalampiјe Polenakoviќ (Харалампије Поленаковиќ)
     year: 1958
     series: Makedonska literatura od XIX vek
     language: Macedonian
@@ -2043,6 +2070,9 @@ titles:
     subtitle: Antologija
     authors:
       - Georgi Stardelov
+    editors:
+      - Mak Dizdar
+      - Aco Szopow
     year: 1959
     language: Macedonian
     sources:
@@ -2160,6 +2190,9 @@ titles:
   - title: Odbrani stranici
     authors:
       - Grigor St Pŭrlichev
+    editors:
+      - Todor Dimitrovski
+      - Todor Dimitrovski (Тодор Димитровски)
     year: 1959
     series: Makedonska literatura od XIX vek
     language: Macedonian
@@ -2505,6 +2538,7 @@ titles:
     verified: true
   - title: Posleratni makedonski prozaisti
     subtitle: Antologija
+    original_title: Povoeni makedonski prozaisti
     authors:
       - Georgi Stardelov
     year: 1960
@@ -2575,6 +2609,8 @@ titles:
     subtitle: Antologija
     authors:
       - Georgi Stardelov
+    editors:
+      - Georgi Stardelov (Георги Старделов)
     year: 1960
     language: Macedonian
     pages: 311
@@ -2722,7 +2758,8 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb43933218d
     verified: true
   - title: Slovo za pohodot Igorev
-    authors:
+    authors: []
+    translators:
       - Todor Dimitrov
     year: 1960
     series: Biblioteka poetska plejada
@@ -2903,6 +2940,8 @@ titles:
   - title: Ivo Andriḱ. Novi raskazi. Nove pripovetke. Prevel Blaže Koneski
     authors:
       - Ivo Andrić
+    translators:
+      - Blaje Koneski
     year: 1961
     language: Macedonian
     sources:
@@ -2923,6 +2962,7 @@ titles:
   - title: Klara Cetkin
     authors:
       - Luise Dornemann
+    translators:
       - L'upčo Stojmenski
     year: 1961
     language: German
@@ -2950,6 +2990,9 @@ titles:
   - title: Makedonska drama
     authors:
       - Jovan Boškovski
+    editors:
+      - J̌ovan Boškovski
+      - Јovan Boshkovski (Јован Бошковски)
     year: 1961
     series: Školska biblioteka
     language: Macedonian
@@ -2968,6 +3011,8 @@ titles:
     verified: true
   - title: Makedonska drama. Priredil Jovan Boškovski
     authors: []
+    editors:
+      - Jovan Boškovski
     year: 1961
     language: Macedonian
     sources:
@@ -2977,6 +3022,9 @@ titles:
   - title: Makedonski narodni pesni
     authors:
       - Stefan I. Verković
+    editors:
+      - Kiril Penušliski
+      - Kiril Penushliski (Кирил Пенушлиски)
     year: 1961
     language: Serbian
     pages: 356
@@ -3006,6 +3054,8 @@ titles:
   - title: Makedonski narodni pesni, sobrani od Stefan I. Verkoviḱ. Redakcija i predgovor Kiril Penušliski
     authors:
       - Stefan I. Verkoviḱ
+    editors:
+      - Branko Pendovski
     year: 1961
     language: Macedonian
     sources:
@@ -3222,6 +3272,7 @@ titles:
   - title: Životot na Marija Kiri
     authors:
       - Ève Curie
+    translators:
       - Ljubinka Cvetkovik
     year: 1961
     language: Macedonian
@@ -3234,6 +3285,8 @@ titles:
   - title: '@'
     authors:
       - Klod Avlin
+    translators:
+      - Meto Jovanovski
     year: 1962
     language: Macedonian
     sources:
@@ -3411,6 +3464,10 @@ titles:
   - title: Kniga na Miladinovci
     subtitle: 1862-1962, zbornik od studii, statii i prilozi
     authors: []
+    editors:
+      - Kiril Penušliski
+      - Dimitar Mitrev
+      - Aleksandar Spasov
     year: 1962
     language: Macedonian
     sources:
@@ -3509,6 +3566,8 @@ titles:
       - Aleksandar Spasov
       - Dimitŭr Miladinov
       - Konstantin Miladinov
+    editors:
+      - Dimitar Mitrev (Димитар Митрев)
     year: 1962
     language: Macedonian
     pages: 511
@@ -3666,6 +3725,8 @@ titles:
   - title: Aco Karamanov. Crvena prolet. Uredil Radivoe Pešiḱ
     authors:
       - Aleksandar Karamanov
+    editors:
+      - Radivoe Pešiḱ
     year: 1963
     language: Macedonian
     sources:
@@ -3854,6 +3915,8 @@ titles:
   - title: Konstantin Miladinov. Stihovi. Priredil... Kiril Penušliski
     authors:
       - Konstantin Miladinov
+    editors:
+      - Branko Pendovski
     year: 1963
     language: Macedonian
     sources:
@@ -3864,6 +3927,8 @@ titles:
     authors:
       - Joakim Krčovski
       - Cyril Peïtchinovitch
+    editors:
+      - Blaje Koneski
     year: 1963
     language: Macedonian
     sources:
@@ -3886,6 +3951,7 @@ titles:
   - title: Majkata na Krulevici
     authors:
       - Kazimierz Brandys
+    translators:
       - Petre Nakovski
     year: 1963
     language: Macedonian
@@ -4042,6 +4108,8 @@ titles:
   - title: Teofil Gotǰe. Militona. Militona, prevel Blagoǰa Korubin
     authors:
       - Teofil Gotje
+    translators:
+      - Blagoja Korubin
     year: 1963
     language: Macedonian
     sources:
@@ -4368,6 +4436,7 @@ titles:
   - title: Žeško selo Ambinanitelo
     authors:
       - Arkady Fiedler
+    translators:
       - Petre Nakovski
     year: 1964
     language: Macedonian
@@ -4705,6 +4774,8 @@ titles:
   - title: Izbor
     authors:
       - Vasil Iljoski
+    editors:
+      - Milan G'určinov
     year: 1966
     language: Macedonian
     pages: 294
@@ -4785,6 +4856,8 @@ titles:
   - title: Kniga za Kliment Ohridski
     authors:
       - Blaže Koneski
+    editors:
+      - Blazhe Koneski (Блаже Конески)
     year: 1966
     language: Macedonian
     pages: 206
@@ -4819,12 +4892,13 @@ titles:
     series: Zlatna Klupa
     authors:
       - Victor Hugo
+      - Aleksandar Kaevski
+      - Aleksandar Kaevski (Александар Каевски)
+    translators:
       - Boris Blagoevski
       - Boris Blagoevski (Борис Благоевски)
       - Slavko Daskalov
       - Slavko Daskalov (Славко Даскалов)
-      - Aleksandar Kaevski
-      - Aleksandar Kaevski (Александар Каевски)
     year: 1966
     language: Macedonian
     sources:
@@ -4834,6 +4908,7 @@ titles:
   - title: Letačkiot klas
     authors:
       - Erich Kästner
+    translators:
       - Boris Blagoeski
     year: 1966
     language: German
@@ -4871,9 +4946,11 @@ titles:
         url: https://search.worldcat.org/title/21188827
     verified: true
   - title: Maliot princ
+    original_title: Le petit prince
     series: Biblioteka Zlatna klupa
     authors:
       - Antoine de Saint-Exupéry
+    translators:
       - Mirǰana Čepinčiḱ-J̌ovanovska
       - Mirјana Chepinchiќ-Јovanovska (Мирјана Чепинчиќ-Јовановска)
     year: 1966
@@ -5118,6 +5195,7 @@ titles:
     authors:
       - Boro Čuškar
       - Boro Chushkar (Боро Чушкар)
+    translators:
       - Vasil Kunoski
       - Vasil Kunoski (Васил Куноски)
     year: 1966
@@ -5127,6 +5205,7 @@ titles:
         url: https://www.sudoc.fr/12016826X
     verified: true
   - title: Skazni
+    original_title: Kinder- und Hausmärchen
     series: Biblioteka Zlatna klupa
     authors:
       - Jacob Grimm

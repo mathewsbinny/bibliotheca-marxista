@@ -7,6 +7,7 @@ titles:
     subtitle: Şiir
     authors:
       - Bertolt Brecht
+    translators:
       - A. Kadir
       - A. Bezirci
     year: 1995
@@ -74,6 +75,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991066739469705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Çarlık Dumasında Bolşevikler
+    original_title: Bolsheviks in the tsarist Duma
     series: Evrensel basım yayın; 65
     authors:
       - Aleksej E. Badaev
@@ -125,9 +127,11 @@ titles:
         url: https://search.worldcat.org/title/48641896
     verified: true
   - title: Sosyalist açıdan toplum, sanat, eleştiri
+    original_title: L'art et la vie sociale
     series: Evrensel basım yayın; 66
     authors:
       - Georges Plekhanov
+    translators:
       - Jean Fréville
       - Asım Bezirci
     year: 1999
@@ -443,8 +447,10 @@ titles:
     subtitle: Inceleme
   - title: Karakalpak kızı
     subtitle: Roman
+    original_title: Doč' Karakaplpakii
     authors:
       - Tulebergen Kaipbergenov
+    translators:
       - Kayhan Yükseler
     year: 2006
     language: Not recorded
@@ -562,6 +568,7 @@ titles:
     subtitle: Mozart'ın Anısına
     authors:
       - Ahmet Say
+    translators:
       - Şeref Aydın
       - Olcay Geridönmez
       - Taylan Bilgiç
@@ -960,6 +967,7 @@ titles:
     series: Evrensel Basım yayın; 395
     authors:
       - Rafik Schami
+    translators:
       - Mehmet Salim
     year: 2010
     language: Not recorded
@@ -1459,10 +1467,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=729150216
     verified: true
   - title: Alman ideolojisi
+    original_title: Die deutsche Ideologie
     series: Evrensel Basım Yayın; 524
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Tonguç Ok
       - Olcay Geridönmez
     year: 2013
@@ -1697,9 +1707,11 @@ titles:
         url: https://www.sudoc.fr/221652892
     verified: true
   - title: Bir avuç yıldız
+    original_title: Eine Hand voller Sterne
     series: Evrensel Basım yayın; 395
     authors:
       - Rafik Schami
+    translators:
       - Mehmet Salim
     year: 2014
     language: Turkish
@@ -1710,6 +1722,8 @@ titles:
   - title: Ebûzerê hemwelatî
     authors:
       - Yücel Sarpdere
+    translators:
+      - Emîn Gurban
     year: 2014
     edition: Çapa yekem
     series: Rêza pirtûkên Kurdî -- 23
@@ -1727,6 +1741,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=845170139
     verified: true
     subtitle: Roman
+    original_title: Vatandaş Abuzer
   - title: Medya ve iktidar
     subtitle: 'Hegemonya, statüko, direniş: inceleme'
     series: Evrensel basım yayın; 569
@@ -1851,6 +1866,7 @@ titles:
     series: Evrensel basım yayın; 653
     authors:
       - Edoward Č̕obowrean
+    translators:
       - Aris Nalcı
     year: 2015
     language: Turkish
@@ -1898,6 +1914,7 @@ titles:
     series: Evrensel basım yayın; 668
     authors:
       - Cuma Boynukara
+    translators:
       - Fehîm Işık
     year: 2016
     language: Kurdish, Turkish

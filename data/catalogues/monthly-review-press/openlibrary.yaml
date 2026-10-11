@@ -861,6 +861,11 @@ titles:
   - title: China Shakes the World Again
     authors:
       - Charles Bettelheim
+    editors:
+      - Leo Huberman
+      - Paul M. Sweezy
+      - René Dumont
+      - K. S. Gill
     year: 1959
     language: English
     pages: 64
@@ -1856,6 +1861,8 @@ titles:
   - title: Latin America and the Alliance for Progress
     authors:
       - Alonso Aguilar
+    translators:
+      - Ursula Wasserman
     year: 1963
     language: English
     pages: 36
@@ -1926,6 +1933,7 @@ titles:
     series: Monthly Review Pamphlet Series; 4
     authors:
       - Friedrich Engels
+    translators:
       - Paul Marlor Sweezy
     year: 1963
     language: English
@@ -2095,6 +2103,8 @@ titles:
     subtitle: Germany from Hitler to Adenauer
     authors:
       - Heinz Abosch
+    translators:
+      - Douglas Garman
     year: 1963
     language: English
     sources:
@@ -2265,6 +2275,9 @@ titles:
   - title: Wither Latin America?
     authors:
       - Carlos Fuentes
+    editors:
+      - Leo Huberman
+      - Paul M. Sweezy
     year: 1963
     language: English
     sources:
@@ -2306,6 +2319,8 @@ titles:
   - title: China Triumphs
     authors:
       - Julio Alvarez del Vayo
+    translators:
+      - William Rose
     year: 1964
     language: English
     pages: 202
@@ -2384,6 +2399,8 @@ titles:
   - title: Inside the Cuban Revolution
     authors:
       - Adolfo Gilly
+    translators:
+      - Felix Gutierrez
     year: 1964
     language: English
     pages: 102
@@ -2467,6 +2484,8 @@ titles:
     subtitle: Or, the Contradictions of Socialism
     authors:
       - Gilles Martinet
+    translators:
+      - Frances Kelly
     year: 1964
     language: English
     pages: 126
@@ -2688,6 +2707,8 @@ titles:
   - title: The Socialist Register
     authors:
       - Ralph Miliband
+    editors:
+      - John Saville
     year: 1964
     language: English
     sources:
@@ -2757,8 +2778,11 @@ titles:
         url: https://archive.org/details/in.ernet.dli.2015.461479
   - title: Waste
     subtitle: An Eye-Witness Report on Some Aspects of Waste in Western Sicily
+    original_title: Spreco
     authors:
       - Danilo Dolci
+    translators:
+      - R. Munroe
     year: 1964
     language: English
     pages: 352
@@ -2830,6 +2854,8 @@ titles:
   - title: A New World in the Making
     authors:
       - Danilo Dolci
+    translators:
+      - R. Munroe
     year: 1965
     language: English
     pages: 327
@@ -2895,6 +2921,8 @@ titles:
   - title: Lands Alive (Terres Vivantes)
     authors:
       - René Dumont
+    translators:
+      - Gilbert Sale
     year: 1965
     language: English
     pages: 247
@@ -2937,6 +2965,9 @@ titles:
     subtitle: A Collective Portrait
     authors:
       - Paul Marlor Sweezy
+    editors:
+      - Paul M. Sweezy
+      - Leo Huberman
     year: 1965
     language: English
     pages: 135
@@ -2966,6 +2997,8 @@ titles:
   - title: Studies in a Dying Colonialism
     authors:
       - Frantz Fanon
+    translators:
+      - Haakon Chevalier
     year: 1965
     language: English
     pages: 181
@@ -3091,8 +3124,11 @@ titles:
         url: https://openlibrary.org/books/OL19215945M
     verified: true
   - title: Essays on the Materialistic Conception of History
+    original_title: Saggi intorno alla concezione materialistica della storia
     authors:
       - Antonio Labriola
+    translators:
+      - Charles H. Kerr
     year: 1966
     series: Socialist Classics Series
     language: English
@@ -3212,6 +3248,8 @@ titles:
   - title: Lands Alive (Terres Vivantes)
     authors:
       - René Dumont
+    translators:
+      - Gilbert Sale
     year: 1966
     language: English
     pages: 247
@@ -3534,6 +3572,8 @@ titles:
   - title: History of the Commune of 1871
     authors:
       - Prosper Olivier Lissagaray
+    translators:
+      - Eleanor Marx Aveling
     year: 1967
     series: Classics of Radical Thought Series No. 7
     language: English
@@ -3672,10 +3712,12 @@ titles:
     verified: true
   - title: Revolution in the Revolution?
     subtitle: Armed Struggle and Political Struggle in Latin America
+    original_title: Revolution dans la revolution?
     authors:
       - Régis Debray
       - Paul M. Sweezy
       - Leo Huberman
+    translators:
       - Bobbye S. Ortiz
     year: 1967
     language: English
@@ -3888,6 +3930,8 @@ titles:
   - title: Toward the African Revolution
     authors:
       - Frantz Fanon
+    translators:
+      - Haakon Chevalier
     year: 1967
     language: English
     sources:
@@ -3936,6 +3980,8 @@ titles:
   - title: Aden, Arabie
     authors:
       - Paul Nizan
+    translators:
+      - Joan Pinkham
     year: 1968
     language: English
     pages: 159
@@ -4018,6 +4064,8 @@ titles:
   - title: India Independent
     authors:
       - Charles Bettelheim
+    translators:
+      - W. A. Caswell
     year: 1968
     language: English
     pages: 410
@@ -4177,6 +4225,8 @@ titles:
   - title: Marxist Economic Theory
     authors:
       - Ernest Mandel
+    translators:
+      - Brian Pearce
     year: 1968
     language: English
     pages: 797
@@ -4252,8 +4302,11 @@ titles:
     verified: false
   - title: Pan-Americanism from Monroe to the Present
     subtitle: A View from the Other Side
+    original_title: El Panamericanismo de la Doctrina Monroe a la Doctrina Johnson
     authors:
       - Alonso Aguilar
+    translators:
+      - Asa Zatz
     year: 1968
     edition: Rev. English ed
     language: English
@@ -4324,6 +4377,8 @@ titles:
   - title: The Accumulation of Capital
     authors:
       - Rosa Luxemburg
+    translators:
+      - Agnes Schwarzchild
     year: 1968
     series: Modern Reader Paperback -- MR-12
     language: English
@@ -4467,6 +4522,8 @@ titles:
   - title: The Pillage of the Third World
     authors:
       - Pierre Jalée
+    translators:
+      - Mary Klopper
     year: 1968
     language: English
     pages: 115
@@ -4623,6 +4680,7 @@ titles:
     verified: true
   - title: Armed Struggle in Africa
     subtitle: With the Guerrillas in Portuguese Guinea
+    original_title: Lutte armée en Afrique
     authors:
       - Gérard Chaliand
     year: 1969
@@ -4802,8 +4860,11 @@ titles:
         url: https://archive.org/details/cuba-anatomy-of-a-revolution
   - title: Guatemala
     subtitle: Occupied Country
+    original_title: Guatemala
     authors:
       - Eduardo Galeano
+    translators:
+      - Cedric Belfrage
     year: 1969
     language: English
     sources:
@@ -4828,8 +4889,11 @@ titles:
     isbn: '9780853451037'
   - title: Iran
     subtitle: The New Imperialism in Action
+    original_title: Persien, Modell eines Entwicklungslandes
     authors:
       - Bahman Nirumand
+    translators:
+      - Leonard Mins
     year: 1969
     language: English
     sources:
@@ -4984,6 +5048,8 @@ titles:
     subtitle: A View from the Other Side
     authors:
       - Alonso Aguilar
+    translators:
+      - Asa Zatz
     year: 1969
     edition: New Ed edition
     language: Not recorded
@@ -5247,8 +5313,11 @@ titles:
     verified: true
   - title: The Explosion
     subtitle: Marxism and the French Revolution
+    original_title: L'irruption de Nanterre au sommet
     authors:
       - Henri Lefebvre
+    translators:
+      - Alfred Ehrenfeld. --
     year: 1969
     language: English
     pages: 157
@@ -5426,8 +5495,11 @@ titles:
         url: https://www.sudoc.fr/19426355X
     verified: true
   - title: The Third World in World Economy
+    original_title: Le tiers monde dans l'économie mondiale
     authors:
       - Pierre Jalée
+    translators:
+      - Mary Klopper
     year: 1969
     edition: First Printing
     language: English
@@ -5471,6 +5543,8 @@ titles:
   - title: The Trial of Elizabeth Gurley Flynn by the American Civil Liberties Union
     authors:
       - American Civil Liberties Union
+    editors:
+      - Corliss Lamont
     year: 1969
     series: Modern Reader, MR-31
     language: English
@@ -5507,6 +5581,7 @@ titles:
     authors:
       - Arghiri Emmanuel
       - Charles Bettelheim
+    translators:
       - Brian Pearce
     year: 1969
     language: English
@@ -5529,8 +5604,11 @@ titles:
     verified: true
   - title: Anarchism
     subtitle: From Theory to Practice
+    original_title: 'L''anarchisme: De la doctrine à l''action'
     authors:
       - Daniel Guérin
+    translators:
+      - Mary Klopper
     year: 1970
     language: English
     pages: 166
@@ -5716,6 +5794,7 @@ titles:
     verified: true
   - title: Europe vs America
     subtitle: Contradictions of Imperialism
+    original_title: Die EWG und die Konkurrenz Europa-Amerika
     authors:
       - Ernest Mandel
     year: 1970
@@ -5950,8 +6029,11 @@ titles:
     verified: true
   - title: Peru 1965
     subtitle: Notes on a Guerrilla Experience
+    original_title: 'Peru 1965: Apuntes sobre una experiencia guerillera'
     authors:
       - Héctor Béjar
+    translators:
+      - William Rose
     year: 1970
     language: English
     pages: 142
@@ -5983,6 +6065,8 @@ titles:
     subtitle: Notes on a Guerrilla Experience
     authors:
       - Hector Bejar
+    translators:
+      - William Rose
     year: 1970
     date_note: March 1, 1970
     language: English
@@ -6103,6 +6187,8 @@ titles:
     series: Modern Reader
     authors:
       - Régis Debray
+    editors:
+      - Robin Blackburn
     year: 1970
     language: English
     sources:
@@ -6138,6 +6224,9 @@ titles:
     authors:
       - Ahmad El- Kodsy
       - Elī Lōbel
+    translators:
+      - Brian Pearce
+      - Alfred Ehrenfeld
     year: 1970
     language: English
     sources:
@@ -6282,6 +6371,8 @@ titles:
   - title: The Pillage of the Third World
     authors:
       - Pierre Jalée
+    translators:
+      - Mary Klopper
     year: 1970
     edition: 1st Modern Reader pbk ed
     language: English
@@ -6398,6 +6489,7 @@ titles:
     verified: true
   - title: Anarchism
     subtitle: From Theory to Practice
+    original_title: L'anarchisme
     authors:
       - Daniel Guérin
     year: 1971
@@ -6455,6 +6547,8 @@ titles:
   - title: Dictatorship and Armed Struggle in Brazil
     authors:
       - João Quartim
+    translators:
+      - David Fernbach
     year: 1971
     language: English
     pages: 250
@@ -6509,8 +6603,11 @@ titles:
         url: https://www.gateway-bayern.de/BV026415143
     verified: true
   - title: Lenin and Philosophy, and Other Essays
+    original_title: Lénine et la philosophie
     authors:
       - Louis Althusser
+    translators:
+      - Ben Brewster
     year: 1971
     series: Modern Reader -- PB-213
     language: English
@@ -6534,6 +6631,8 @@ titles:
   - title: Marxist Economic Theory
     authors:
       - Ernest Mandel
+    translators:
+      - Brian Pearce
     year: 1971
     edition: 1st modern reader pbk ed
     language: English, French
@@ -6577,6 +6676,8 @@ titles:
     subtitle: A Study in Neo-imperialism
     authors:
       - Aníbal Quijano
+    translators:
+      - Helen R. Lane. --
     year: 1971
     language: English
     sources:
@@ -6674,6 +6775,8 @@ titles:
   - title: Reminiscences of the Cuban Revolutionary War
     authors:
       - Che Guevara
+    translators:
+      - Victoria Ortiz
     year: 1971
     language: English
     sources:
@@ -6699,6 +6802,8 @@ titles:
   - title: Selected Political Writings of Rosa Luxemburg
     authors:
       - Rosa Luxemburg
+    editors:
+      - Dick Howard
     year: 1971
     language: English
     sources:
@@ -6842,8 +6947,9 @@ titles:
     series: Economics
     authors:
       - Ernest Mandel
-      - Brian Pearce
       - Karl Marx
+    translators:
+      - Brian Pearce
     year: 1971
     language: English
     sources:
@@ -6935,6 +7041,8 @@ titles:
   - title: The Military Art of People's War
     authors:
       - Võ Nguyên Giáp
+    editors:
+      - Russell Stetler
     year: 1971
     edition: Modern Reader ed
     language: English
@@ -6964,6 +7072,7 @@ titles:
     verified: true
   - title: The Watchdogs
     subtitle: Philosophers of the Established Order
+    original_title: Les chiens de garde
     authors:
       - Paul Nizan
     year: 1971
@@ -7013,9 +7122,12 @@ titles:
     edition: New Ed edition
   - title: We, the Puerto Rican People
     subtitle: A Story of Oppression and Resistance
+    original_title: Hacia una visión positiva del Puertorriqueño
     series: Modern Reader; 217
     authors:
       - Juan Angel Silén
+    translators:
+      - Cedric Belfrage
     year: 1971
     language: English
     sources:
@@ -7056,6 +7168,7 @@ titles:
     verified: false
   - title: White Niggers of America
     subtitle: The Precocious Autobiography of a Quebec "Terrorist"
+    original_title: Nègres blancs d'Amérique
     series: Modern Reader
     authors:
       - Pierre Vallières
@@ -7124,6 +7237,9 @@ titles:
   - title: A Short History of the European Working Class
     authors:
       - Wolfgang Abendroth
+    translators:
+      - Nicholas Jacobs
+      - Brian Trench
     year: 1972
     language: English
     pages: 204
@@ -7162,8 +7278,12 @@ titles:
         url: https://archive.org/details/cambodiainsouthe0000malc
     verified: false
   - title: Daily Life in Revolutionary China
+    original_title: Dalla Cina, dopo la rivoluzione culturale
     authors:
       - Maria Antonietta Macciocchi
+    translators:
+      - Frank Kehl
+      - Alfred Ehrenfeld
     year: 1972
     series: Modern Reader; PB-282
     language: English
@@ -7201,6 +7321,8 @@ titles:
   - title: Dictatorship and Armed Struggle in Brazil
     authors:
       - João Quartim
+    translators:
+      - David Fernbach
     year: 1972
     language: English
     pages: 250
@@ -7231,6 +7353,7 @@ titles:
         url: https://search.worldcat.org/title/354126
     verified: true
   - title: Discours on Colonialism (Discourse Sur le Colonialisme, Engl.)
+    original_title: Discours sur le colonialisme
     authors:
       - Aimé Césaire
     year: 1972
@@ -7240,9 +7363,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=309974461
     verified: true
   - title: Discourse on Colonialism
+    original_title: Discours sur le colonialisme
     series: Modern Reader Paperbacks; 226
     authors:
       - Aimé Césaire
+    translators:
       - Joan Pinkham
     year: 1972
     language: English
@@ -7307,6 +7432,9 @@ titles:
     subtitle: Studies in Ideology and Society. Translated by John Merrington and Judith White
     authors:
       - Lucio Colletti
+    translators:
+      - John Merrington
+      - Judith White
     year: 1972
     language: English
     pages: 240
@@ -7395,6 +7523,8 @@ titles:
   - title: Lenin and Philosophy, and Other Essays
     authors:
       - Louis Althusser
+    translators:
+      - Ben Brewster
     year: 1972
     language: English
     pages: 253
@@ -7442,6 +7572,7 @@ titles:
     verified: false
   - title: Lumpenbourgeoisie
     subtitle: Dependence, Class, and Politics in Latin America
+    original_title: 'Lumpenburguesía: lumpendesarrollo'
     authors:
       - André Gunder Frank
       - Marion Davis Berdecio
@@ -7461,6 +7592,7 @@ titles:
     subtitle: 'Dependence, Class, and Politics in Latin America. Lumpenburguesia: Lumpendesarrollo'
     authors:
       - André Gunder Frank
+    translators:
       - Marion Davis Berdecio
     year: 1972
     language: English
@@ -7470,8 +7602,11 @@ titles:
     verified: true
   - title: 'Lumpenbourgeoisie: Lumpendevelopment'
     subtitle: Dependence, Class, and Politics in Latin America
+    original_title: 'Lumpenburguesía: lumpendesarrollo'
     authors:
       - Andre Gunder Frank
+    translators:
+      - Marion Davis Berdecio
     year: 1972
     language: English
     pages: 151
@@ -7495,9 +7630,12 @@ titles:
     series: Modern Reader
   - title: Marxism and "Primitive" Societies
     subtitle: Two Studies
+    original_title: Le Marxisme devant les sociétés "primitives"
     series: Modern Reader; PB-214
     authors:
       - Emmanuel Terray
+    translators:
+      - Mary Klopper
     year: 1972
     language: English
     sources:
@@ -7578,6 +7716,8 @@ titles:
   - title: Moscow Under Lenin
     authors:
       - Alfred Rosmer
+    translators:
+      - Ian H. Birchall. Introd. by Tamara Deutscher
     year: 1972
     language: English
     pages: 253
@@ -7603,6 +7743,8 @@ titles:
     subtitle: A Study in Neo-Imperialism
     authors:
       - Anibal Quijano
+    translators:
+      - Helen R. Lane
     year: 1972
     edition: New Ed edition
     language: English
@@ -7652,6 +7794,8 @@ titles:
     subtitle: The Great Zoo, and Other Poems
     authors:
       - Nicolás Guillén
+    editors:
+      - Robert Márquez
     year: 1972
     language: English
     pages: 223
@@ -7741,6 +7885,8 @@ titles:
     authors:
       - Paul Frölich
       - Joanna Hoornweg
+    translators:
+      - Johanna Hoornweg
     year: 1972
     language: German
     sources:
@@ -7799,6 +7945,10 @@ titles:
     subtitle: Imperialism and the Accumulation of Capital, by Nikolai I. Bukharin. Edited with an Introd. By Kenneth J. Tarbuck. Translated by Rudolf Wichmann
     authors:
       - Rosa Luxemburg
+    editors:
+      - Kenneth J. Tarbuck
+    translators:
+      - Rudolf Wichmann
     year: 1972
     language: English
     pages: 289
@@ -7883,6 +8033,8 @@ titles:
   - title: 'The Dominican Republic: Rebellion and Repression'
     authors:
       - Carlos María Gutiérrez
+    translators:
+      - Richard E. Edwards
     year: 1972
     language: English
     pages: 172
@@ -8049,8 +8201,11 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/the-great-road
   - title: 'The Kapetanios: Partisans and Civil War in Greece, 1943-1949'
+    original_title: Les kapetanios
     authors:
       - Dominique Eudes
+    translators:
+      - John Howe
     year: 1972
     language: English
     pages: 381
@@ -8207,6 +8362,7 @@ titles:
     series: Modern Reader Paperback; 190
     authors:
       - Paul Nizan
+    translators:
       - Paul Fittingoff
     year: 1972
     language: English
@@ -8327,9 +8483,12 @@ titles:
     series: Modern Reader; 215
   - title: Unequal Exchange
     subtitle: A Study of the Imperialism of Trade
+    original_title: L' Échange inégal
     series: Modern Reader. CL 152
     authors:
       - Arghiri Emmanuel
+    translators:
+      - Brian Pearce
     year: 1972
     language: English
     sources:
@@ -8402,6 +8561,10 @@ titles:
     series: Modern Reader; 264
     authors:
       - Lucien Malson
+    translators:
+      - Edmund Fawcett
+      - Peter Ayrton
+      - Joan White
     year: 1972
     language: English
     sources:
@@ -8440,6 +8603,9 @@ titles:
   - title: A Short History of the European Working Class
     authors:
       - Wolfgang Abendroth
+    translators:
+      - Nicholas Jacobs
+      - Brian Trench
     year: 1973
     series: Modern Reader Paperback -- PB-289
     language: English
@@ -8457,10 +8623,13 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991057186089705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: '[Translated by Nicholas Jacobs and Brian Trench. Postscript Translated by Joris de Bres]'
+    original_title: Sozialgeschichte der europäischen Arbeiterbewegung
   - title: Antoine Bloyé
     subtitle: A Novel
     authors:
       - Paul Nizan
+    translators:
+      - Edmund Stevens
     year: 1973
     language: English
     pages: 250
@@ -8607,8 +8776,10 @@ titles:
       - label: Borrow (Internet Archive)
         url: https://archive.org/details/chinassocialistr0000john
   - title: Class Conflict in Egypt, 1945-1970
+    original_title: La lutte de classes en Égypte
     authors:
       - Mahmoud Hussein
+    translators:
       - Michel Chirman
       - Suzanne Chirman
       - Alfred Ehrenfeld
@@ -8638,6 +8809,7 @@ titles:
     pages: 379
     isbn: '0853452334'
   - title: Daily Life in Revolutionary China
+    original_title: Dalla Cina
     authors:
       - Maria Antonietta Macciocchi
     year: 1973
@@ -8718,6 +8890,9 @@ titles:
     subtitle: Studies in Ideology and Society
     authors:
       - Lucio Colletti
+    translators:
+      - John Merrington
+      - Judith White
     year: 1973
     language: English
     pages: 240
@@ -8747,6 +8922,8 @@ titles:
   - title: Imperialism and Revolution in South Asia
     authors:
       - Kathleen Gough Aberle
+    editors:
+      - Kathleen Gough
     year: 1973
     language: English
     pages: 470
@@ -8783,6 +8960,7 @@ titles:
       - label: Borrow (Internet Archive)
         url: https://archive.org/details/imperialismrevol0000goug
   - title: Imperialism and World Economy
+    original_title: Mirovoe chozjaistvo i imperializm'
     authors:
       - Nikolaĭ Ivanovich Bukharin
     year: 1973
@@ -8907,6 +9085,8 @@ titles:
     subtitle: An Introduction to Their Lives and Work
     authors:
       - D. B. Riazanov
+    translators:
+      - Joshua Kunitz
     year: 1973
     series: Modern Reader; PB-328
     language: English
@@ -8941,6 +9121,8 @@ titles:
     subtitle: Dependence, Class, and Politics in Latin America
     authors:
       - Andre Gunder Frank
+    translators:
+      - Marion Davis Berdecio
     year: 1973
     series: Modern Reader, PB-285
     language: English
@@ -9037,8 +9219,11 @@ titles:
         url: https://lccn.loc.gov/67019255
     verified: false
   - title: Neo-colonialism in West Africa
+    original_title: L' Afrique de l'ouest bloquée
     authors:
       - Samir Amin
+    translators:
+      - Francis McDonagh
     year: 1973
     language: English
     pages: 298
@@ -9117,6 +9302,8 @@ titles:
   - title: Rationality and Irrationality in Economics
     authors:
       - Maurice Godelier
+    translators:
+      - Brian Pearce
     year: 1973
     language: English
     pages: 326
@@ -9188,6 +9375,8 @@ titles:
     subtitle: Stories
     authors:
       - Pedro Juan Soto
+    translators:
+      - Victoria Ortiz
     year: 1973
     language: English
     pages: 92
@@ -9230,8 +9419,13 @@ titles:
       - label: Read or download (Internet Archive)
         url: https://archive.org/details/theaccumulationo41405gut
   - title: The Accumulation of Capital--an Anti-critique
+    original_title: Akkumulation des Kapitals ... Eine Antikritik
     authors:
       - Rosa Luxemburg
+    editors:
+      - Kenneth J. Tarbuck
+    translators:
+      - Rudolf Wichmann
     year: 1973
     language: English
     pages: 289
@@ -9251,8 +9445,11 @@ titles:
         url: https://www.marxists.org/archive/luxemburg/1915/anti-critique/index.htm
   - title: The Chicanos
     subtitle: Life and Struggle of the Mexican Minority in the United States
+    original_title: Los chicanos una minoria nacional explotada
     authors:
       - Gilberto López y Rivas
+    translators:
+      - Elizabeth Mártinez
     year: 1973
     language: English
     sources:
@@ -9291,6 +9488,8 @@ titles:
   - title: The Dominican Republic
     authors:
       - Carlos M. Gutierrez
+    translators:
+      - Richard E. Edwards
     year: 1973
     language: Not recorded
     pages: 144
@@ -9311,6 +9510,8 @@ titles:
     subtitle: Ten Critiques, 1906-1960
     authors:
       - W. E. B. Du Bois
+    editors:
+      - Herbert Aptheker
     year: 1973
     language: English
     pages: 183
@@ -9365,6 +9566,8 @@ titles:
   - title: The Great Zoo and Other Poems
     authors:
       - Nicolás Guillén
+    editors:
+      - Robert Márquez
     year: 1973
     language: English, Spanish
     pages: 224
@@ -9382,6 +9585,8 @@ titles:
     subtitle: Partisans and Civil War in Greece, 1943-1949
     authors:
       - Dominique Eudes
+    translators:
+      - John Howe
     year: 1973
     language: English
     sources:
@@ -9402,6 +9607,8 @@ titles:
   - title: The Kapetanios; Partisans and Civil War in Greece, 1943-1949
     authors:
       - Dominique Eudes
+    translators:
+      - John Howe
     year: 1973
     language: English, French
     pages: 381
@@ -9455,6 +9662,8 @@ titles:
     subtitle: Philosophy, Economics, and Revolutionary Warfare
     authors:
       - Michael Löwy
+    translators:
+      - Brian Pearce
     year: 1973
     language: English
     pages: 127
@@ -9564,6 +9773,8 @@ titles:
   - title: Antoine Bloye
     authors:
       - Paul Nizan
+    translators:
+      - Edmund Stevens
     year: 1974
     date_note: March 1, 1974
     edition: New Ed edition
@@ -9580,6 +9791,8 @@ titles:
     subtitle: Essays in Marxist Aesthetics
     authors:
       - Adolfo Sánchez Vázquez
+    translators:
+      - Maro Riofrancos
     year: 1974
     language: English
     pages: 287
@@ -9622,6 +9835,8 @@ titles:
     subtitle: Nineteen Forty-Five to Nineteen-Seventy
     authors:
       - Mahmoud Hussein
+    translators:
+      - Alfred Ehrenfeld
     year: 1974
     edition: New Ed edition
     language: Not recorded
@@ -9635,8 +9850,11 @@ titles:
     verified: false
   - title: Cultural Revolution and Industrial Organization in China
     subtitle: Changes in Management and the Division of Labor
+    original_title: Révolution culturelle et organisation industrielle en Chine
     authors:
       - Charles Bettelheim
+    translators:
+      - Alfred Ehrenfeld
     year: 1974
     language: English
     pages: 128
@@ -9734,8 +9952,11 @@ titles:
     series: Literature Online - Twentieth Century Drama
   - title: 'Frantz Fanon: Colonialism and Alienation'
     subtitle: Concerning Frantz Fanon's Political Theory
+    original_title: Kolonialismus und Entfremdung
     authors:
       - Renate Siebert
+    translators:
+      - Willfried F. Feuser
     year: 1974
     language: English
     pages: 124
@@ -9767,8 +9988,12 @@ titles:
     verified: true
   - title: From Rousseau to Lenin
     subtitle: Studies in Ideology and Society
+    original_title: Ideologia e societá
     authors:
       - Lucio Colletti
+    translators:
+      - John Merrington
+      - Judith White
     year: 1974
     language: English
     pages: 240
@@ -9784,6 +10009,8 @@ titles:
   - title: 'James Connolly: Selected Writings'
     authors:
       - James Connolly
+    editors:
+      - Peter Berresford Ellis
     year: 1974
     language: English
     pages: 317
@@ -9805,6 +10032,8 @@ titles:
     subtitle: An Introduction to Their Lives and Work
     authors:
       - David Borisovich Goldendach
+    translators:
+      - Joshua Kunitz
     year: 1974
     series: Marxist Library
     language: English
@@ -9862,6 +10091,7 @@ titles:
     verified: true
   - title: Lumpenbourgeoisie, Lumpendevelopment
     subtitle: Dependence, Class, and Politics in Latin America
+    original_title: 'Lumpenburguesía: lumpendesarrollo'
     series: Economics
     authors:
       - André Gunder Frank
@@ -9918,6 +10148,8 @@ titles:
   - title: Neo-colonialism in West Africa
     authors:
       - Samir Amin
+    translators:
+      - Francis McDonagh
     year: 1974
     language: English
     pages: 298
@@ -9970,6 +10202,8 @@ titles:
     subtitle: Five Centuries of the Pillage of a Continent
     authors:
       - Eduardo Galeano
+    translators:
+      - Cedric Belfrage
     year: 1974
     edition: 1st Modern Reader paperback ed
     language: English
@@ -10024,6 +10258,7 @@ titles:
         url: https://search.worldcat.org/title/698673
     verified: true
   - title: Puerto Rican Obituary
+    original_title: Obituario puertorriqueño
     authors:
       - Pedro Pietri
     year: 1974
@@ -10056,6 +10291,8 @@ titles:
     subtitle: Selected Speeches
     authors:
       - Amílcar Cabral
+    editors:
+      - Africa Information Service
     year: 1974
     language: English
     pages: 110
@@ -10137,6 +10374,8 @@ titles:
     subtitle: Stories
     authors:
       - Pedro Juan Soto
+    translators:
+      - Victoria Ortiz
     year: 1974
     language: English
     pages: 96
@@ -10157,6 +10396,8 @@ titles:
     series: Modern Reader; 329
     authors:
       - Gilberto López y Rivas
+    editors:
+      - Elizabeth Martinez
     year: 1974
     language: English
     sources:
@@ -10455,6 +10696,8 @@ titles:
     subtitle: Changes in Management and the Division of Labor
     authors:
       - Charles Bettelheim
+    translators:
+      - Alfred Ehrenfeld
     year: 1975
     language: English
     sources:
@@ -10473,8 +10716,11 @@ titles:
     pages: 128
     isbn: '9780853453512'
   - title: Economic Calculation and Forms of Property
+    original_title: Calcul économique et formes de propriété
     authors:
       - Charles Bettelheim
+    translators:
+      - John Taylor
     year: 1975
     language: English
     sources:
@@ -10506,6 +10752,8 @@ titles:
     subtitle: Colonialism and Alienation
     authors:
       - Renate Zahar
+    translators:
+      - Willfried E. Feuser
     year: 1975
     language: English, German
     pages: 128
@@ -10564,6 +10812,11 @@ titles:
     authors:
       - José Martí
       - Philip Sheldon Foner
+    translators:
+      - Elinor Randall
+      - With additional translations by Luis A. Baralt
+      - Juan de Onis
+      - Roslyn Held Foner
     year: 1975
     language: English
     sources:
@@ -10768,6 +11021,7 @@ titles:
     verified: false
   - title: The Communist Movement
     subtitle: From Comintern to Cominform
+    original_title: La crisis del movimiento comunista
     authors:
       - Fernando Claudín
     year: 1975
@@ -10807,6 +11061,7 @@ titles:
   - title: The Communist Movement from Cominterm to Cominform
     authors:
       - Fernando Claudín
+    translators:
       - Brian Pearce
     year: 1975
     language: English
@@ -10857,6 +11112,8 @@ titles:
     subtitle: Ten Critiques, 1906-1960
     authors:
       - William Edward Burghardt Du Bois
+    editors:
+      - Herbert Aptheker
     year: 1975
     series: Modern Reader Paperbacks
     language: English
@@ -11039,6 +11296,8 @@ titles:
   - title: Albania Defiant
     authors:
       - Jan Myrdal
+    translators:
+      - Paul Britten Austin
     year: 1976
     language: English
     pages: 185
@@ -11165,6 +11424,8 @@ titles:
   - title: Class Struggles in the USSR
     authors:
       - Charles Bettelheim
+    translators:
+      - Brian Pearce
     year: 1976
     language: English
     isbn: '0853453969'
@@ -11198,6 +11459,7 @@ titles:
         url: https://search.worldcat.org/title/838758724
     verified: true
     subtitle: First Period; 1917 - 1923
+    original_title: Luttes de classes en URSS
   - title: Columbus
     subtitle: His Enterprise
     authors:
@@ -11254,6 +11516,8 @@ titles:
     subtitle: Colonialism and Alienation
     authors:
       - Renate Zahar
+    translators:
+      - Willfried F. Feuser
     year: 1976
     date_note: March 1, 1976
     language: German
@@ -11473,6 +11737,9 @@ titles:
   - title: Studies En India and Vietnam
     authors:
       - Helen Boyden Lamb
+    editors:
+      - Paul Marlor Sweezy
+      - Corliss Lamont
     year: 1976
     language: Not recorded
     sources:
@@ -11566,8 +11833,11 @@ titles:
     verified: true
     series: Monthly Review; 28,3
   - title: The Arabs in Israel
+    original_title: ha-Aravim be-Yisrael
     authors:
       - Ṣabrī Ǧurais
+    translators:
+      - Inea Bushnaq
     year: 1976
     language: English
     sources:
@@ -11601,6 +11871,8 @@ titles:
     subtitle: From Comintern to Cominform
     authors:
       - Fernando Claudín
+    translators:
+      - Brian Pearce
     year: 1976
     language: Not recorded
     pages: 739
@@ -11666,8 +11938,11 @@ titles:
         url: https://www.marxists.org/archive/luxemburg/1909/national-question/index.htm
   - title: The Sugarmill
     subtitle: The Socioeconomic Complex of Sugar in Cuba, 1760-1860
+    original_title: 'El Ingenio : el complejo económico social cubano del azúcar'
     authors:
       - Manuel Moreno Fraginals
+    translators:
+      - Cedric Belfrage
     year: 1976
     language: English
     pages: 182
@@ -11701,9 +11976,11 @@ titles:
         url: https://archive.org/details/thesugarmill
   - title: Unequal Development
     subtitle: An Essay on the Social Formations of Peripheral Capitalism
+    original_title: <Le> développement inégal
     series: Marxist Theory and Contemporary Capitalism
     authors:
       - Samīr Amīn
+    translators:
       - Brian Pearce
     year: 1976
     language: English
@@ -11746,8 +12023,11 @@ titles:
     verified: false
   - title: Workers' Struggle in Puerto Rico
     subtitle: A Documentary History
+    original_title: Lucha obrera en Puerto Rico
     authors:
       - A. G. Quintero Rivera
+    translators:
+      - Cedric Belfrage
     year: 1976
     language: English
     pages: 236
@@ -11781,8 +12061,11 @@ titles:
     verified: true
     series: CL-392
   - title: A Critique of Soviet Economics
+    original_title: Sélections
     authors:
       - Zedong Mao
+    translators:
+      - Moss Roberts
     year: 1977
     language: English
     sources:
@@ -11919,6 +12202,8 @@ titles:
   - title: Class Conflict in Egypt, 1945-1970
     authors:
       - Mahmoud Hussein
+    translators:
+      - Michel Chirman... ( )
     year: 1977
     edition: 2nd ed
     language: English
@@ -11932,6 +12217,8 @@ titles:
     subtitle: 1917-1923
     authors:
       - Charles Bettelheim
+    translators:
+      - Brian Pearce
     year: 1977
     language: English
     isbn: '9780853453963'
@@ -11952,6 +12239,8 @@ titles:
   - title: Class Struggles in the USSR
     authors:
       - Charles Bettlheim
+    translators:
+      - Brian Pearce. --
     year: 1977
     language: English, French
     pages: 21
@@ -11968,9 +12257,12 @@ titles:
         url: https://lccn.loc.gov/76028986
     verified: true
   - title: How Capitalism Works
+    original_title: L'exploitation capitaliste
     series: Modern Reader
     authors:
       - Pierre Jalée
+    translators:
+      - Mary Klopper
     year: 1977
     language: English
     sources:
@@ -12057,6 +12349,7 @@ titles:
         url: https://search.worldcat.org/title/3071429
     verified: true
   - title: Imperialism and Unequal Development
+    original_title: L' impérialisme et le développement inégal
     authors:
       - Samir Amin
     year: 1977
@@ -12084,6 +12377,10 @@ titles:
     subtitle: Writings on the United States and American Imperialism
     authors:
       - José Martí
+    editors:
+      - Philip S. Foner
+    translators:
+      - Elinor Randall
     year: 1977
     language: English
     pages: 384
@@ -12248,7 +12545,10 @@ titles:
     authors:
       - José Marti
       - Philip S. Foner
+    translators:
       - Elinor Randall
+      - With additional translations by Juan de Onis
+      - Roslyn Held Foner
     year: 1977
     language: English
     sources:
@@ -12276,8 +12576,11 @@ titles:
     isbn: '0853454035'
   - title: Our Great Spring Victory
     subtitle: An Account of the Liberation of South Vietnam
+    original_title: Dai thǎ́ng mùa xuân
     authors:
       - Tiến Dũng Văn
+    translators:
+      - John Spragens
     year: 1977
     language: English
     pages: 275
@@ -12330,6 +12633,8 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    editors:
+      - Leo Huberman
     year: 1977
     edition: Eighth Printing edition
     language: English
@@ -12424,6 +12729,8 @@ titles:
   - title: Toward an Anthropology of Women
     authors:
       - Rayna R. Reiter
+    editors:
+      - Rayna Reiter
     year: 1977
     language: English
     pages: 416
@@ -12440,6 +12747,8 @@ titles:
     subtitle: An Essay on the Social Formations of Peripheral Capitalism
     authors:
       - Samir Amin
+    translators:
+      - Brian Pearce
     year: 1977
     date_note: December 1, 1977
     language: English
@@ -12470,6 +12779,8 @@ titles:
     subtitle: A Documentary History
     authors:
       - Angel Quintero Rivera
+    translators:
+      - Cedric Belfrage
     year: 1977
     language: Not recorded
     pages: 236
@@ -12545,6 +12856,8 @@ titles:
     subtitle: A Radical Reader
     authors:
       - Peter Waterman
+    editors:
+      - Pete C. W. Gutkind
     year: 1978
     date_note: December 1, 1978
     language: Not recorded
@@ -12667,6 +12980,8 @@ titles:
     subtitle: First Period, 1917-1923
     authors:
       - Charles Bettelheim
+    translators:
+      - Brian Pearce
     year: 1978
     language: English
     pages: 567
@@ -12679,6 +12994,8 @@ titles:
     subtitle: 1923-1930
     authors:
       - Charles Bettelheim
+    translators:
+      - Brian Pearce
     year: 1978
     language: Not recorded
     pages: 640
@@ -12884,6 +13201,8 @@ titles:
   - title: Lenin's Last Struggle
     authors:
       - Moshé Lewin
+    translators:
+      - A. M.
     year: 1978
     language: English
     pages: 193
@@ -12905,8 +13224,11 @@ titles:
     verified: true
   - title: Let Me Speak!
     subtitle: Testimony of Domitila, a Woman of the Bolivian Mines
+    original_title: Si me permiten hablar
     authors:
       - Domitila Barrios de Chungara
+    translators:
+      - Victoria Ortiz
     year: 1978
     language: English
     pages: 235
@@ -12933,6 +13255,10 @@ titles:
     subtitle: Writings on Latin America and the Struggle for Cuban Independence
     authors:
       - José Martí
+    editors:
+      - Philip S. Foner
+    translators:
+      - Elinor Randall
     year: 1978
     language: English
     pages: 448
@@ -12947,6 +13273,8 @@ titles:
     subtitle: An Account of the Liberation of South Vietnam
     authors:
       - Van Tien Dung
+    translators:
+      - Spragens John Jr.
     year: 1978
     edition: New Ed edition
     language: English
@@ -13124,6 +13452,8 @@ titles:
   - title: The Cultural Crisis of Modern Medicine
     authors:
       - John Ehrenreich
+    editors:
+      - John H. Ehrenreich
     year: 1978
     language: English
     sources:
@@ -13158,6 +13488,8 @@ titles:
   - title: The Law of Value and Historical Materialism
     authors:
       - Samīr Amīn
+    translators:
+      - Brian Pearce
     year: 1978
     language: English
     sources:
@@ -13249,6 +13581,8 @@ titles:
   - title: The Sugarmill
     authors:
       - Manuel Moreno Fraginals
+    translators:
+      - Cedric Belfrage
     year: 1978
     date_note: October 1, 1978
     edition: New Ed edition
@@ -13298,9 +13632,12 @@ titles:
       - label: Borrow (Internet Archive)
         url: https://archive.org/details/towardmarxistthe0000davi
   - title: Women in Class Society
+    original_title: A mulher na sociedade de classes
     authors:
       - Heleieth I. Saffioti
       - Heleieth Iara Bongiovani Saffioti
+    translators:
+      - Michael Vale
     year: 1978
     language: English
     sources:
@@ -13332,8 +13669,11 @@ titles:
     isbn: '0853454159'
   - title: Workers in Arms
     subtitle: The Austrian Schutzbund and the Civil War of 1934
+    original_title: Der demokratusche Bolschewik
     authors:
       - Ilona Duczynska
+    translators:
+      - Toni Stolper
     year: 1978
     language: English
     sources:
@@ -13449,6 +13789,8 @@ titles:
   - title: Case Studies on the Labor Process
     authors:
       - Andrew S. Zimbalist Andrew Zimbalist
+    editors:
+      - Andrew S. Zimbalist
     year: 1979
     language: English
     pages: 314
@@ -13661,6 +14003,8 @@ titles:
     subtitle: Articles on Educational Theory and Pedagogy, and Writings for Children from the Age of Gold
     authors:
       - José Martí
+    translators:
+      - Elinor Randall
     year: 1979
     language: English
     pages: 320
@@ -13718,6 +14062,8 @@ titles:
     subtitle: Testimony of Domitila, a Woman of the Bolivian Mines
     authors:
       - Domitila Barrios de Chungara
+    translators:
+      - Victoria Ortiz
     year: 1979
     language: English
     sources:
@@ -13764,6 +14110,10 @@ titles:
     subtitle: Articles on Educational Theory and Pedagogy, and Writings for Children from the Age of Gold
     authors:
       - José Martí
+    editors:
+      - Philip S. Foner
+    translators:
+      - Elinor Randall
     year: 1979
     language: English
     pages: 320
@@ -13801,6 +14151,8 @@ titles:
     subtitle: Five Centuries of the Pillage of a Continent
     authors:
       - Eduardo Galeano
+    translators:
+      - Cedric Belfrage
     year: 1979
     language: English
     pages: 339
@@ -13815,6 +14167,10 @@ titles:
     subtitle: Writings on Latin America and the Struggle for Cuban Independence
     authors:
       - José Martí
+    editors:
+      - Philip S. Foner
+    translators:
+      - Elinor Randall
     year: 1979
     language: English
     isbn: '9780853454953'
@@ -13829,6 +14185,9 @@ titles:
     authors:
       - Robin Cohen
       - Peter Claus Wolfgang Gutkind
+    editors:
+      - Peter C. Gutkind
+      - Phyllis Brazier
     year: 1979
     language: English
     pages: 505
@@ -13989,6 +14348,7 @@ titles:
         url: https://search.worldcat.org/title/48286472
     verified: true
   - title: The Revolution Disarmed, Chile, 1970-1973
+    original_title: La revolución desarmada, Chile, 1970-1973
     authors:
       - Gabriel Smirnow
     year: 1979
@@ -14084,6 +14444,8 @@ titles:
     subtitle: Speeches and Writings
     authors:
       - Amílcar Cabral
+    translators:
+      - Michael Wolfers
     year: 1979
     language: English
     pages: 298
@@ -14189,8 +14551,11 @@ titles:
     verified: true
   - title: Class and Nation
     subtitle: Historically and in the Current Crisis
+    original_title: Classe et nation dans l'histoire et la crise contemporaine
     authors:
       - Samīr Amīn
+    translators:
+      - Susan Kaplow
     year: 1980
     language: English
     sources:
@@ -14246,6 +14611,8 @@ titles:
   - title: Copper in the World Economy
     authors:
       - Dorothea Mezger
+    translators:
+      - Pete Burgess
     year: 1980
     language: English
     pages: 282
@@ -14326,6 +14693,8 @@ titles:
     authors:
       - Robin Cohen
       - Peter Claus Wolfgang Gutkind
+    editors:
+      - C. W. Gutkind
     year: 1980
     language: English
     pages: 505
@@ -14385,9 +14754,12 @@ titles:
     verified: true
   - title: The Intellectual Roots of Independence
     subtitle: An Anthology of Puerto Rican Political Essays
+    original_title: Libertad y crítica en el ensayo político puertorriqueño
     authors:
       - Iris M. Zavala Zapata
       - Rafael Rodríguez
+    editors:
+      - Raphael Rodriguez
     year: 1980
     language: English
     sources:
@@ -14788,6 +15160,8 @@ titles:
     authors:
       - E. P. Thompson
       - Dan Smith
+    editors:
+      - Edward P. Thompson
     year: 1981
     language: English
     pages: 216
@@ -14859,6 +15233,8 @@ titles:
   - title: Sandino
     authors:
       - Gregorio Selser
+    translators:
+      - Cedric Belfrage
     year: 1981
     language: English
     pages: 250
@@ -14883,6 +15259,7 @@ titles:
       - label: Borrow (Internet Archive)
         url: https://archive.org/details/sandino0000sels
     subtitle: General of the Free
+    original_title: Sandino, general de hombres libres
   - title: Sandino
     authors:
       - Gregorio Selser
@@ -15260,6 +15637,8 @@ titles:
   - title: Marxism and the Muslim World
     authors:
       - Maxime Rodinson
+    translators:
+      - Jean Matthews
     year: 1982
     language: English, French
     pages: 351
@@ -15324,6 +15703,10 @@ titles:
     subtitle: Critical Writings
     authors:
       - José Martí
+    editors:
+      - Philip S. Foner
+    translators:
+      - Elinor Randall
     year: 1982
     language: English
     sources:
@@ -15363,6 +15746,8 @@ titles:
   - title: Reading Lists in Radical Social Science
     authors:
       - Dan Gilroy
+    editors:
+      - Mark H. Maier
     year: 1982
     language: English
     pages: 179
@@ -15585,8 +15970,10 @@ titles:
   - title: A History of Capitalism, 1500 - 1980
     authors:
       - Michel Beaud
-      - Tom Dickman
       - Annie Lefebvre
+    translators:
+      - Tom Dickman
+      - Anny Lefebvre
     year: 1983
     language: English
     sources:
@@ -15659,6 +16046,8 @@ titles:
   - title: Days and Nights of Love and War
     authors:
       - Eduardo Galeano
+    translators:
+      - Judith Brister
     year: 1983
     language: English, Spanish
     pages: 194
@@ -15676,6 +16065,7 @@ titles:
     verified: true
   - title: Days of the Jungle
     subtitle: The Testimony of a Guatemalan Guerrillero, 1972-1976
+    original_title: Días de la selva
     series: Monthly Review; 35,3
     authors:
       - Mario Payeras
@@ -15776,6 +16166,9 @@ titles:
   - title: Histoire du Capitalism
     authors:
       - Michel Beaud
+    translators:
+      - Tom Dickman
+      - Anny Lefebvre
     year: 1983
     date_note: December 1, 1983
     language: Not recorded
@@ -15900,6 +16293,8 @@ titles:
     authors:
       - Christine Stansell
       - Sharon Thompson
+    editors:
+      - Ann Snitow
     year: 1983
     series: New Feminist Library
     language: English
@@ -16009,6 +16404,8 @@ titles:
   - title: The Future of Maoism
     authors:
       - Samir Amin
+    translators:
+      - Norman Finkelstein
     year: 1983
     language: English
     sources:
@@ -16084,6 +16481,8 @@ titles:
     subtitle: The Testimony of a Guatemalan Guerrillero
     authors:
       - Mario Payeras
+    translators:
+      - Lita Paniagua
     year: 1984
     date_note: March 1, 1984
     language: Not recorded
@@ -16214,8 +16613,13 @@ titles:
         url: https://archive.org/details/late-marx-and-the-russian-road
   - title: Memoirs of Bernardo Vega
     subtitle: A Contribution to the History of the Puerto Rican Community in New York
+    original_title: Memorias de Bernardo Vega
     authors:
       - Bernardo Vega
+    editors:
+      - Cesar A. Iglesias
+    translators:
+      - Juan Flores
     year: 1984
     language: English
     pages: 243
@@ -16318,6 +16722,8 @@ titles:
     authors:
       - Henryk Szlajfer
       - John Bellamy Foster
+    editors:
+      - John B. Foster
     year: 1984
     language: English
     pages: 357
@@ -16530,6 +16936,8 @@ titles:
     subtitle: Five American Suffragists Talk About Their Lives
     authors:
       - Sherna Berger Gluck
+    editors:
+      - Sherna B. Gluck
     year: 1985
     series: New Feminist Library
     language: English
@@ -16560,6 +16968,8 @@ titles:
     subtitle: Studies in Ideology and Society
     authors:
       - Lucio Colletti
+    translators:
+      - John Merringer
     year: 1985
     language: English
     pages: 240
@@ -16626,7 +17036,13 @@ titles:
     verified: true
   - title: Mirrors of War
     subtitle: Literature and Revolution in El Salvador
-    authors:
+    authors: []
+    editors:
+      - Gabriela Yanes
+      - Manuel Sorto
+      - Horacio C. Moya
+      - Lyn Sorto
+    translators:
       - Keith Ellis
     year: 1985
     language: English
@@ -16692,6 +17108,8 @@ titles:
     subtitle: The Writings of Mary Heaton Vorse
     authors:
       - Mary Heaton Vorse
+    editors:
+      - Dee Garrison
     year: 1985
     language: English
     pages: 345
@@ -16774,6 +17192,8 @@ titles:
     subtitle: An Exchange of Views on the Cold War, the Reagan Doctrine, and What Is to Come
     authors:
       - Leon Litwack
+    editors:
+      - Leon Wofsy
     year: 1986
     language: English
     pages: 146
@@ -16970,6 +17390,9 @@ titles:
     subtitle: The Sociology of Oliver C. Cox
     authors:
       - Sameer Y. Abraham
+    editors:
+      - Herbert H. Hunter
+      - Sameer Abraham
     year: 1986
     date_note: December 1, 1986
     language: English
@@ -17052,8 +17475,11 @@ titles:
     verified: true
   - title: The Sandinista Revolution
     subtitle: National Liberation and Social Transformation in Central America
+    original_title: Perfiles de la Revolución Sandinista
     authors:
       - Carlos María Vilas
+    translators:
+      - Judy Butler
     year: 1986
     language: English
     pages: 317
@@ -17116,6 +17542,10 @@ titles:
       - Richard R. Fagen
       - Carmen Diana Deere
       - José Luis Coraggio
+    editors:
+      - Richard Fagen
+      - Carmen D. Deere
+      - Jose L. Coraggio
     year: 1986
     series: MR/CENSA Series on the Americas
     language: English
@@ -17347,6 +17777,8 @@ titles:
     subtitle: Writings by Veterans of the Abraham Lincoln Brigade, Spain 1936 - 1939
     authors:
       - Alvah Bessie
+    editors:
+      - Alvah Cecil Bessie
     year: 1987
     language: English
     sources:
@@ -17365,6 +17797,8 @@ titles:
     subtitle: The Sociology of Oliver C. Cox
     authors:
       - Sameer Y. Abraham
+    editors:
+      - Herbert M. Hunter
     year: 1987
     language: English
     pages: 327
@@ -17390,6 +17824,11 @@ titles:
     verified: true
   - title: Social Democracy and After, Socialist Register, 1985-1986
     authors: []
+    editors:
+      - Ralph Miliband
+      - Marcel Liebman
+      - John Saville
+      - Leo Panitch
     year: 1987
     language: English
     pages: 500
@@ -17793,6 +18232,8 @@ titles:
   - title: Son of Man
     authors:
       - Augusto Antonio Roa Bastos
+    translators:
+      - Rachel Caffyn
     year: 1988
     language: English
     pages: 279
@@ -17912,6 +18353,13 @@ titles:
     subtitle: Through the Safety Net
     authors:
       - Joan M. Greenbaum
+    editors:
+      - Fred Moseley
+      - Robert Cherry
+      - Christine D'Onofrio
+      - Cigdem Kurdas
+      - Tom Michl
+      - Michele I. Naples
     year: 1988
     language: English
     pages: 272
@@ -17942,10 +18390,14 @@ titles:
     verified: true
   - title: The People's Remedy
     subtitle: Health Care in El Salvador's War of Liberation
+    original_title: Por los caminos de Chalatenango
     series: Monthly Review; 40,3
     authors:
       - Francisco Metzi
       - Jenny Pearce
+    translators:
+      - Jean Carroll in collaboration with the author
+      - Rhoda Mahler
     year: 1988
     language: English
     sources:
@@ -18147,9 +18599,11 @@ titles:
     verified: false
     pages: 147
   - title: Eurocentrism
+    original_title: L' eurocentrisme
     series: Zed Books
     authors:
       - Samīr Amīn
+    translators:
       - Russell D. Moore
     year: 1989
     language: English
@@ -18404,6 +18858,9 @@ titles:
     subtitle: Socialist Register 1989 (Socialist Register)
     authors:
       - Ralph Miliband
+    editors:
+      - Leo Panitch
+      - John Saville
     year: 1989
     language: English
     pages: 336
@@ -18526,6 +18983,8 @@ titles:
     authors:
       - Anjali Sundarum
       - George Gelber
+    editors:
+      - Anjali Sundaram
     year: 1990
     language: Not recorded
     pages: 224
@@ -18773,6 +19232,9 @@ titles:
     subtitle: Profits Versus People
     authors:
       - Henry Bernstein
+    editors:
+      - Ben Crow
+      - Maureen Mackintosh
     year: 1990
     language: English
     pages: 214
@@ -18924,6 +19386,8 @@ titles:
     subtitle: Socialist Register, 1990
     authors:
       - Ralph Miliband
+    editors:
+      - Leo Panitch
     year: 1990
     language: English
     pages: 370
@@ -19308,6 +19772,8 @@ titles:
     subtitle: 'A Reader: Crisis and Development in the Third World'
     authors:
       - Sally Ann Sontheimer
+    editors:
+      - Sally Sontheimer
     year: 1991
     language: English
     pages: 205
@@ -19563,6 +20029,8 @@ titles:
     subtitle: Socialist Register, 1992
     authors:
       - Ralph Miliband
+    editors:
+      - Leo Panitch
     year: 1992
     language: English
     pages: 360
@@ -19801,6 +20269,8 @@ titles:
     subtitle: Socialist Register, 1993 (Socialist Register)
     authors:
       - Ralph Miliband
+    editors:
+      - Leo Panitch
     year: 1993
     language: English
     pages: 288
@@ -19815,6 +20285,8 @@ titles:
     subtitle: The Case of São Paulo
     authors:
       - Lúcio Kowarick
+    editors:
+      - Lucio Kovarick
     year: 1993
     language: English
     sources:
@@ -19865,6 +20337,12 @@ titles:
     subtitle: Selected Essays of Honda Katsuichi
     authors:
       - Katsuichi Honda
+    editors:
+      - John Lie
+    translators:
+      - Eri Fujieda
+      - Masayuki Hamazaki
+      - John Lie
     year: 1993
     language: English
     pages: 223
@@ -19963,6 +20441,8 @@ titles:
     subtitle: Markets, State, and Revolution in Central America
     authors:
       - Carlos M. Vilas
+    translators:
+      - Ted Kuster
     year: 1994
     language: Not recorded
     pages: 300
@@ -19975,8 +20455,11 @@ titles:
     verified: false
   - title: Bloody October in Moscow
     subtitle: Political Repression in the Name of Reform
+    original_title: Krovavyj oktjabr' v Moskve
     authors:
       - A. V. Buzgalin
+    translators:
+      - Renfrey Clarke
     year: 1994
     language: English
     pages: 214
@@ -20090,6 +20573,8 @@ titles:
   - title: Mirage of Modernization
     authors:
       - Boris Kagarlitsky
+    translators:
+      - Renfrey Clarke
     year: 1994
     language: English
     isbn: '0853459118'
@@ -20185,8 +20670,11 @@ titles:
         url: https://archive.org/details/rabotyagiperestr0000mand_i2l8
   - title: Re-reading the Postwar Period
     subtitle: An Intellectual Itinerary
+    original_title: Itinéraire intellectuel. English
     authors:
       - Samir Amin
+    translators:
+      - Michael Wolfers
     year: 1994
     language: English
     pages: 256
@@ -20213,6 +20701,8 @@ titles:
     subtitle: The Case of São Paulo
     authors:
       - Lúcio Kowarick
+    translators:
+      - William H.
     year: 1994
     language: English
     sources:
@@ -20244,6 +20734,8 @@ titles:
     subtitle: How Russian Democracy Got Derailed
     authors:
       - Boris Kagarlitsky
+    translators:
+      - Leslie A.
     year: 1994
     language: English
     pages: 224
@@ -20336,6 +20828,8 @@ titles:
     subtitle: Market, State, and the Revolutions in Central America
     authors:
       - Carlos María Vilas
+    translators:
+      - Ted Kuster
     year: 1995
     language: English
     pages: 224
@@ -20449,6 +20943,8 @@ titles:
     subtitle: A NACLA Reader
     authors:
       - Fred Rosen
+    editors:
+      - Deidre McFadyen
     year: 1995
     language: English
     pages: 288
@@ -20567,6 +21063,11 @@ titles:
     subtitle: The Letters and Communiqués of Subcomandante Marcos and the Zapatista Army of National Liberation
     authors:
       - Subcomandante Marcos
+    translators:
+      - Frank Bardacke
+      - Leslie López
+      - The Watsonville
+      - Human Rights Committee
     year: 1995
     language: English
     pages: 272
@@ -20612,6 +21113,8 @@ titles:
   - title: The Mirage of Modernization
     authors:
       - Boris Kagarlitsky
+    translators:
+      - Renfrey Clarke
     year: 1995
     language: English
     pages: 334
@@ -20704,8 +21207,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb37316120d
     verified: true
   - title: Yugoslavia Dismembered
+    original_title: La déchirure yougoslave
     authors:
       - Catherine Samary
+    translators:
+      - Peter Drucker
     year: 1995
     language: English
     pages: 185
@@ -20786,8 +21292,11 @@ titles:
         url: https://search.worldcat.org/title/82413034
     verified: false
   - title: How to Read Karl Marx
+    original_title: Was Marx wirklich sagte
     authors:
       - Ernst Fischer
+    translators:
+      - Anna Bostock
     year: 1996
     edition: '[New ed.]'
     language: English
@@ -20971,6 +21480,8 @@ titles:
     subtitle: Civic Struggles for a New South Africa
     authors:
       - Mzwanele Mayekiso
+    editors:
+      - Patrick Bond
     year: 1996
     language: English
     pages: 288
@@ -21155,6 +21666,8 @@ titles:
     authors:
       - John Bellamy Foster
       - Ellen M. Wood
+    editors:
+      - Ellen Meiksins Wood
     year: 1997
     language: English
     pages: 204
@@ -21277,8 +21790,11 @@ titles:
     verified: true
   - title: Open Veins of Latin America
     subtitle: Five Centuries of the Pillage of a Continent
+    original_title: Las venas abiertas de America Latina
     authors:
       - Eduardo Galeano
+    translators:
+      - Cedric Belfrage
     year: 1997
     edition: 25th anniversary ed. / foreword by Isabel Allende
     language: English
@@ -21423,6 +21939,10 @@ titles:
     authors:
       - John Bellamy Foster
       - Robert Waterman McChesney
+    editors:
+      - Robert W. McChesney
+      - Ellen M. Wood
+      - John B. Foster
     year: 1998
     language: English
     pages: 254
@@ -21716,6 +22236,10 @@ titles:
     subtitle: Labor in the Age of Global Capitalism
     authors:
       - Michael Yates
+    editors:
+      - Ellen Meiksins Wood
+      - Peter Meiksins
+      - Michael D. Yates
     year: 1998
     language: English
     pages: 217
@@ -21765,8 +22289,10 @@ titles:
     verified: false
   - title: Spectres of Capitalism
     subtitle: A Critique of Current Intellectual Fashions
+    original_title: Au-delà du capitalisme
     authors:
       - Samīr Amīn
+    translators:
       - Shane Henry Mage
     year: 1998
     language: English
@@ -21828,6 +22354,8 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
+      - Paul Marlor Sweezy
     year: 1998
     language: English
     sources:
@@ -22209,6 +22737,7 @@ titles:
     verified: true
   - title: Workers' Struggle in Puerto Rico
     subtitle: A Documentary History
+    original_title: Lucha obrera en Puerto Rico
     authors:
       - Ángel G. Quintero Rivera
     year: 1999
@@ -22279,6 +22808,8 @@ titles:
   - title: Days and Nights of Love and War
     authors:
       - Eduardo Galeano
+    translators:
+      - Judith Brister
     year: 2000
     language: English
     pages: 178
@@ -22298,6 +22829,8 @@ titles:
   - title: Discourse on Colonialism
     authors:
       - Aimé Césaire
+    translators:
+      - Joan Pinkham
     year: 2000
     language: English
     sources:
@@ -22341,6 +22874,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA50631040
     verified: true
     subtitle: a Poetics of Anticolonialism
+    original_title: Discours sur le colonialisme
     pages: 102
     isbn: '9781583670248'
     edition: New Ed edition
@@ -22720,9 +23254,12 @@ titles:
     date_note: December 1, 2000
   - title: A History of Capitalism
     subtitle: 1500 - 2000
+    original_title: L'histoire du capitalisme de 1500 à 2000
     authors:
       - Michel Beaud
+    translators:
       - Tom Dickman
+      - Anny Lefebvre
     year: 2001
     language: English
     sources:
@@ -22819,6 +23356,8 @@ titles:
   - title: Discourse on Colonialism
     authors:
       - Aimé Césaire
+    translators:
+      - Joan Pinkham
     year: 2001
     date_note: '2001-01-01'
     edition: New Ed edition
@@ -22884,8 +23423,11 @@ titles:
     isbn: '9781583670583'
     date_note: October 1, 2001
   - title: Lenin and Philosophy, and Other Essays
+    original_title: Lénine et la philosophie
     authors:
       - Louis Althusser
+    translators:
+      - Ben Brewster
     year: 2001
     language: English
     pages: 173
@@ -23168,6 +23710,8 @@ titles:
     subtitle: Race, Religion and Ethno-Nationalism
     authors:
       - Leo Panitch
+    editors:
+      - Colin Leys
     year: 2002
     language: English
     pages: 374
@@ -23328,8 +23872,11 @@ titles:
     verified: true
   - title: The Clash of Barbarisms
     subtitle: September 11 and the Making of the New World Disorder
+    original_title: Choc des barbaries
     authors:
       - Gilbert Achcar
+    translators:
+      - Peter Drucker
     year: 2002
     language: English
     sources:
@@ -23908,8 +24455,10 @@ titles:
     verified: true
   - title: The Liberal Virus
     subtitle: Permanent War and the Americanization of the World
+    original_title: Virus libéral
     authors:
       - Samir Amin
+    translators:
       - James H. Membrez
     year: 2004
     language: English
@@ -24015,6 +24564,8 @@ titles:
   - title: The Rosa Luxemburg Reader
     authors:
       - Rosa Luxemburg
+    editors:
+      - Peter Hudis
     year: 2004
     language: English
     pages: 447
@@ -24049,6 +24600,8 @@ titles:
     subtitle: The Crisis of Israeli Society
     authors:
       - Michel Warschawski
+    translators:
+      - Peter Drucker
     year: 2004
     language: English
     pages: 124
@@ -24074,6 +24627,8 @@ titles:
     subtitle: The Crisis of Israeli Society
     authors:
       - Michel Warschawski
+    translators:
+      - Peter Drucker
     year: 2004
     language: English
     pages: 124
@@ -24128,6 +24683,8 @@ titles:
     subtitle: From the Neolithic Age to Current Crisis
     authors:
       - Marcel Mazoyer
+    translators:
+      - James H. Membrez
     year: 2005
     language: English
     pages: 528
@@ -24231,8 +24788,13 @@ titles:
         url: https://archive.org/details/sim_monthly-review-us_2005-2006_57_index
     verified: false
   - title: Philosophical Arabesques
+    original_title: Filosofskiye Arabeski
     authors:
       - Nikolaĭ Ivanovich Bukharin
+    editors:
+      - George Shriver
+    translators:
+      - Renfrey Clarke
     year: 2005
     language: English
     pages: 407
@@ -24422,6 +24984,8 @@ titles:
     subtitle: Hugo Chávez Talks to Marta Harnecker
     authors:
       - Hugo Chávez Frías
+    translators:
+      - Chesa Boudin
     year: 2005
     language: English
     pages: 203
@@ -24489,9 +25053,11 @@ titles:
     verified: false
   - title: A History of World Agriculture
     subtitle: From the Neolithic Age to the Current Crisis
+    original_title: Histoire des agricultures du monde
     authors:
       - Marcel Mazoyer
       - Laurence Roudart
+    translators:
       - James H. Membrez
     year: 2006
     language: English
@@ -24640,6 +25206,7 @@ titles:
     edition: 3 Rev Upd edition
   - title: Humanitarian Imperialism
     subtitle: Using Human Rights to Sell War
+    original_title: Impérialisme humanitaire
     authors:
       - Jean Bricmont
     year: 2006
@@ -24936,6 +25503,9 @@ titles:
   - title: Global Flashpoints
     subtitle: Reactions to Imperialism and Neoliberalism
     authors: []
+    editors:
+      - Leo Panitch
+      - Colin Leys
     year: 2007
     language: English
     sources:
@@ -24965,6 +25535,8 @@ titles:
     subtitle: Journey to a Shattered Land with Noam and Carol Chomsky
     authors:
       - Noam Chomsky
+    editors:
+      - A. J. Kfoury
     year: 2007
     language: English
     pages: 192
@@ -25023,6 +25595,8 @@ titles:
     subtitle: Aspects of Class in the United States
     authors:
       - Michael D. Yates
+    editors:
+      - Michael Yates
     year: 2007
     language: English
     isbn: '9781583671597'
@@ -25440,6 +26014,7 @@ titles:
     verified: true
   - title: The World We Wish to See
     subtitle: Revolutionary Objectives in the Twenty-First Century
+    original_title: Pour le5-ieme international
     authors:
       - Samir Amin
     year: 2008
@@ -25525,6 +26100,7 @@ titles:
     verified: true
   - title: Che Guevara
     subtitle: His Revolutionary Legacy
+    original_title: Che Guevara, une braise qui brûle encore
     authors:
       - Olivier Besancenot
     year: 2009
@@ -25593,8 +26169,12 @@ titles:
     verified: true
   - title: Eurocentrism
     subtitle: 'Modernity, Religion, and Democracy: A Critique of Eurocentrism and Culturalism'
+    original_title: Eurocentrisme
     authors:
       - Samir Amin
+    translators:
+      - Russell Moore
+      - James H. Membrez
     year: 2009
     language: English
     sources:
@@ -25873,8 +26453,10 @@ titles:
     isbn: '9781583671849'
   - title: The Kapetanios
     subtitle: Partisans and Civil War in Greece, 1943-1949
+    original_title: Les Kapetanios, la guerre civile grecque, 1943-1949
     authors:
       - Dominique Eudes
+    translators:
       - John Howe
     year: 2009
     language: English
@@ -26138,8 +26720,14 @@ titles:
       - label: Borrow (Internet Archive)
         url: https://archive.org/details/agriculturefoodiv62n9unse
   - title: Antonio Gramsci
+    original_title: Antonio Gramsci, 1891-1937
     authors:
       - Antonio A. Santucci
+    editors:
+      - Lelio La Porta
+    translators:
+      - Graziella Di Mauro
+      - With Salvatore Engel-Di Mauro
     year: 2010
     language: English
     pages: 207
@@ -26210,8 +26798,11 @@ titles:
       - label: Full text (marxists.org)
         url: https://www.marxists.org/archive/marx/works/1848/communist-manifesto/index.htm
   - title: Debt, the IMF, and the World Bank Sixty Questions, Sixty Answers
+    original_title: 60 questions, 60 râeponses sur la dette, le FMI et la Banque mondiale
     authors:
       - Eric Toussaint
+    translators:
+      - Judith Abdel Gadir
     year: 2010
     language: English
     pages: 364
@@ -26255,6 +26846,9 @@ titles:
     subtitle: 'Modernity, Religion, and Democracy: A Critique of Eurocentrism and Culturalism'
     authors:
       - Samir Amin
+    translators:
+      - Russell Moore
+      - James Membrez
     year: 2010
     edition: 2nd ed
     language: English
@@ -26430,6 +27024,8 @@ titles:
       - Greg Albo
       - Leo Panitch
       - Vivek Chibber
+    editors:
+      - Gregory Albo
     year: 2010
     language: English
     sources:
@@ -26485,6 +27081,9 @@ titles:
   - title: The Law of Worldwide Value
     authors:
       - Samir Amin
+    translators:
+      - Brian Pearce
+      - Shane Mage
     year: 2010
     language: English
     pages: 144
@@ -26851,6 +27450,7 @@ titles:
     subtitle: Modernity, Religion and Democracy; a Critique of Eurocentrism and Culturalism
     authors:
       - Samīr Amīn
+    translators:
       - Russell D. Moore
       - James Membrez
     year: 2011
@@ -26876,6 +27476,8 @@ titles:
     subtitle: The Restoration of Capitalism in Poland
     authors:
       - Tadeusz Kowalik
+    translators:
+      - Eliza Lewandowska
     year: 2011
     language: English
     sources:
@@ -26913,6 +27515,8 @@ titles:
     subtitle: An Anthology
     authors:
       - José Carlos Mariátegui
+    translators:
+      - Harry E.
     year: 2011
     language: English
     pages: 480
@@ -27406,8 +28010,11 @@ titles:
         url: https://openlibrary.org/books/OL33426136M
     verified: false
   - title: An Introduction to the Three Volumes of Karl Marx's Capital
+    original_title: Kritik der politischen Ökonomie
     authors:
       - Michael Heinrich
+    translators:
+      - Alexander Locascio
     year: 2012
     language: English
     pages: 220
@@ -27527,6 +28134,8 @@ titles:
     subtitle: The Restoration of Capitalism in Poland
     authors:
       - Tadeusz Kowalik
+    translators:
+      - Eliza Lewandowska
     year: 2012
     language: English
     pages: 366
@@ -27989,10 +28598,12 @@ titles:
     pages: 208
     isbn: '9781583673522'
   - title: Discourse on Colonialism
+    original_title: Discours sur le colonialisme
     authors:
       - Aimé Césaire
       - Robin D. G. Kelley
       - René Depestre
+    translators:
       - Joan Pinkham
     year: 2013
     language: English
@@ -28203,8 +28814,15 @@ titles:
     verified: true
   - title: Race in Cuba
     subtitle: Essays on the Revolution and Racial Inequality
+    original_title: Problemática racial en Cuba
     authors:
       - Esteban Morales Domínguez
+    editors:
+      - Gary Prevost
+      - August H. Nimtz
+    translators:
+      - Gary Prevost
+      - August H. Nimtz
     year: 2013
     language: English
     pages: 244
@@ -28238,6 +28856,10 @@ titles:
     verified: true
   - title: Registering Class
     authors: []
+    editors:
+      - Leo Panitch
+      - Gregory Albo
+      - Vivek Chibber
     year: 2013
     language: English
     sources:
@@ -28334,10 +28956,12 @@ titles:
     verified: false
   - title: The Economic War Against Cuba
     subtitle: A Historical and Legal Perspective on the U.S. Blockade
+    original_title: Estado de Sitio
     authors:
       - Salim Lamrani
       - Wayne S. Smith
       - Paul Estrade
+    translators:
       - Larry R. Oberg
     year: 2013
     language: English
@@ -28477,13 +29101,15 @@ titles:
     pages: 240
     isbn: '9781583674680'
   - title: Antonio Gramsci
+    original_title: Antonio Gramsci, 1897-1937
     authors:
       - Antonio A. Santucci
-      - Graziella Di Mauro
-      - Salvatore Engel-Di Mauro
       - Lelio La Porta
       - Eric John Hobsbawm
       - Joseph Anthony Buttigieg
+    translators:
+      - Graziella Di Mauro
+      - Salvatore Engel-Di Mauro
     year: 2014
     language: English
     sources:
@@ -28530,8 +29156,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991082559869705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Cuba, the Media, and the Challenge of Impartiality
+    original_title: Cuba, les médias face au défi de l'impartialité
     authors:
       - Salim Lamrani
+    translators:
+      - Larry R. Oberg
     year: 2014
     language: English
     sources:
@@ -28593,6 +29222,7 @@ titles:
     isbn: '9781583674444'
   - title: Global Imperialism and the Great Crisis
     subtitle: The Uncertain Future of Capitalism
+    original_title: Imperialismo globale e la grande crisi
     authors:
       - Ernesto Screpanti
     year: 2014
@@ -28688,8 +29318,11 @@ titles:
         url: https://archive.org/details/labor-in-the-global-digital-economy
   - title: Magnus Hirschfeld
     subtitle: The Origins of the Gay Liberation Movement
+    original_title: Magnus Hirschfeld
     authors:
       - Ralf Dose
+    translators:
+      - Edward H. Willis
     year: 2014
     language: English
     pages: 128
@@ -28715,8 +29348,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991170715570305501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Magnus Hirschfeld and the Origins of the Gay Liberation Movement
+    original_title: Magnus Hirschfeld
     authors:
       - Ralf Dose
+    translators:
+      - Edward H. Willis
     year: 2014
     language: English
     sources:
@@ -28926,8 +29562,11 @@ titles:
     verified: false
   - title: A World to Build
     subtitle: New Paths Toward Twenty-First Century Socialism
+    original_title: Mundo a construir
     authors:
       - Marta Harnecker
+    translators:
+      - Fred Fuentes
     year: 2015
     language: English
     sources:
@@ -29027,8 +29666,11 @@ titles:
     pages: 144
     isbn: '9781583675670'
   - title: Cuba, the Media, and the Challenge of Impartiality
+    original_title: Cuba, les médias face au défi de l'impartialité
     authors:
       - Salim Lamrani
+    translators:
+      - Larry R. Oberg
     year: 2015
     language: English
     sources:
@@ -29118,8 +29760,12 @@ titles:
     verified: true
   - title: Reconstructing Lenin
     subtitle: An Intellectual Biography
+    original_title: Lenin
     authors:
       - Tamás Krausz
+    translators:
+      - Bálint Bethlenfalvy
+      - Mario D. Fenyo
     year: 2015
     language: English
     pages: 552
@@ -29934,6 +30580,7 @@ titles:
     subtitle: The Selected Revolutionary Writings of Miroslav Krleza, Radical Luminary of Modern World Literature
     authors:
       - Miroslav Krleža
+    translators:
       - Željko Cipriš
     year: 2017
     language: English
@@ -29978,6 +30625,7 @@ titles:
     isbn: '9781583676516'
   - title: Karl Marx's Ecosocialism
     subtitle: Capitalism, Nature, and the Unfinished Critique of Political Economy
+    original_title: 'Natur gegen Kapital: Marx'' Ökologie in seiner unvollendeten Kritik des Kapitalismus'
     authors:
       - Kōhei Saitō
     year: 2017
@@ -30102,6 +30750,9 @@ titles:
     subtitle: Selected Correspondence of Paul a. Baran and Paul M. Sweezy, 1949-1964
     authors:
       - Paul Alexander Baran
+    editors:
+      - Nicholas Baran
+      - John Bellamy Foster
     year: 2017
     language: English
     pages: 528
@@ -30488,6 +31139,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991058792089705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Monopoly Capital and Marx's Law of Value
+    original_title: Loi de la valeur et le matâerialisme historique
     pages: 280
     isbn: '9781583676561'
     links:
@@ -30877,8 +31529,11 @@ titles:
     edition: Paperback edition
   - title: Karl Marx and the Birth of Modern Society
     subtitle: The Life of Marx and the Development of His Work
+    original_title: Karl Marx und die Geburt der modernen Gesellschaft
     authors:
       - Michael Heinrich
+    translators:
+      - Alexander Locascio
     year: 2019
     language: English
     sources:
@@ -30977,9 +31632,11 @@ titles:
     isbn: '9781583677704'
   - title: Planning from Below
     subtitle: 'A Decentralized Participatory Planning Proposal: Volumes I and II'
+    original_title: Memoria popular latinoamericana
     authors:
       - Marta Harnecker
       - José Bartolomé
+    translators:
       - Federico Fuentes
     year: 2019
     language: English
@@ -31078,6 +31735,7 @@ titles:
     isbn: '9781583677650'
   - title: The Long Revolution of the Global South
     subtitle: Toward a New Anti-imperialist International
+    original_title: Éveil du sud
     authors:
       - Samir Amin
     year: 2019
@@ -31236,6 +31894,8 @@ titles:
     subtitle: India, COVID-19, and Global Finance
     authors:
       - India) Research Unit for Political Economy (Mumbai
+    editors:
+      - People's Research Trust
     year: 2020
     language: English
     pages: 217
@@ -31831,8 +32491,11 @@ titles:
     isbn: '9781583679173'
   - title: How to Read Marx's Capital
     subtitle: Commentary and Explanations on the Beginning Chapters
+    original_title: Wie das Marxsche "Kapital" lesen?
     authors:
       - Michael Heinrich
+    translators:
+      - Alexander Locascio
     year: 2021
     language: English
     sources:
@@ -31924,6 +32587,7 @@ titles:
     subtitle: A Novel
     authors:
       - Stefan Heym
+    translators:
       - Alexander Locascio
     year: 2021
     language: English
@@ -32248,6 +32912,7 @@ titles:
     verified: false
   - title: Radek
     subtitle: A Novel
+    original_title: Radek
     authors:
       - Stefan Heym
     year: 2022
@@ -32283,10 +32948,14 @@ titles:
       - label: Read or download (Internet Archive)
         url: https://archive.org/details/return-source
   - title: The Dialectics of Dependency
+    original_title: Dialéctica de la dependencia
     authors:
       - Ruy Mauro Marini
-      - Amanda Latimer
       - Jaime Osorio
+    editors:
+      - Amanda Latimer
+    translators:
+      - Amanda Latimer
     year: 2022
     language: English
     sources:
@@ -32473,6 +33142,7 @@ titles:
     isbn: '9781685900090'
   - title: Let Me Speak!
     subtitle: Testimony of Domitila, a Woman of the Bolivian Mines
+    original_title: Si me permiten hablar
     authors:
       - Domitila Barrios de Chungara
       - Moema Viezzer
@@ -32681,6 +33351,7 @@ titles:
     isbn: '9781685900700'
   - title: Let Me Speak!
     subtitle: Testimony of Domitila, a Woman of the Bolivian Mines
+    original_title: Si me permiten hablar
     authors:
       - Domitila Barrios de Chungara
       - Moema Viezzer
@@ -32812,8 +33483,11 @@ titles:
     isbn: '9781685900472'
   - title: The Knowledge Economy and Socialism
     subtitle: Science and Society in Cuba
+    original_title: La economía del conocimiento y el socialismo
     authors:
       - Agustín Lage Dávila
+    translators:
+      - Mauricio Betancourt García
     year: 2024
     language: English
     sources:
@@ -32868,9 +33542,13 @@ titles:
     isbn: '9781685900663'
   - title: Western Marxism
     subtitle: How It Was Born, How It Died, How It Can Be Reborn
+    original_title: 'Il marxismo occidentale : come nacque, come morì, come può rinascere'
     authors:
       - Domenico Losurdo
       - Gabriel Rockhill
+    translators:
+      - Steven Colatrella
+      - George De Stefano
     year: 2024
     language: English
     sources:
@@ -33084,13 +33762,15 @@ titles:
     isbn: '9781685901073'
   - title: Unequal Exchange
     subtitle: A Study of the Imperialism of Trade
+    original_title: <<L'>>échange inégal
     authors:
       - Arghiri Emmanuel
       - Charles Bettelheim
-      - Brian Pearce
       - Torkil Lauesen
       - John Bellamy Foster
       - Brett Clark
+    translators:
+      - Brian Pearce
     year: 2025
     language: English
     sources:
@@ -33256,6 +33936,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1932615911
     verified: true
   - title: Anarchism, from Theory to Practice
+    original_title: 'L''anarchisme: De la doctrine à l''action'
     authors:
       - Daniel Guérin
       - Noam Chomsky
@@ -33337,6 +34018,8 @@ titles:
   - title: New Feminist Library
     subtitle: Dedicated to the Memory of Sarah Eisenstein, 1946-1978
     authors: []
+    editors:
+      - Rosalyn Fraad Baxandall
     language: English
     sources:
       - title: BnF catalogue record cb34244525s

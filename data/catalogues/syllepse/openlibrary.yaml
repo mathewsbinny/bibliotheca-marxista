@@ -123,6 +123,8 @@ titles:
   - title: Futur antérieur
     subtitle: Politique, sociologie, philosophie, psychanalyse, culture
     authors: []
+    editors:
+      - Jean-Marie Vincent
     year: 1990
     language: French
     sources:
@@ -132,6 +134,9 @@ titles:
   - title: L'Alphabet d'Esté
     authors:
       - Renato Curcio
+    translators:
+      - Janick Gazio
+      - Orazio Barbato
     year: 1990
     language: French
     sources:
@@ -150,8 +155,9 @@ titles:
   - title: La diagonale des autonomies
     series: Forum Iris; 1
     authors:
-      - Oreste Scalzone
       - Arcole
+    translators:
+      - Oreste Scalzone
     year: 1990
     language: French
     sources:
@@ -336,8 +342,12 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb344586367
     verified: true
   - title: Mexique, notre chute dans la modernité
+    original_title: Nuestra caída en la modernidad
     authors:
       - Adolfo Gilly
+    translators:
+      - Véronique Giraud
+      - Yves Sintomer
     year: 1992
     series: Collection Coyoacán
     language: French
@@ -435,6 +445,7 @@ titles:
     subtitle: Les comptes d'une rébellion
     authors:
       - Antonio García de León
+    translators:
       - Laurent Auclair
     year: 1995
     series: Collection Tlalticpac
@@ -505,6 +516,9 @@ titles:
   - title: Feuilleton mexicain
     authors:
       - Paco Ignacio Taibo
+    translators:
+      - Robert March
+      - Michel Picquart
     year: 1995
     language: French
     sources:
@@ -559,6 +573,7 @@ titles:
     verified: true
   - title: La Révolution mexicaine
     subtitle: 1910-1920 [mille neuf cent dix-mille neuf cent vingt]; une révolution interrompue, une guerre paysanne pour la terre et le pouvoir
+    original_title: Revolución interrumpida
     series: Collection Coyoacán
     authors:
       - Adolfo Gilly
@@ -655,6 +670,10 @@ titles:
   - title: Le coeur à l'emploi
     authors:
       - Assises de l'ANPE
+    editors:
+      - Noël Daucé
+      - Alain Ottavi
+      - Claire Villiers
     year: 1996
     language: French
     sources:
@@ -776,6 +795,9 @@ titles:
     subtitle: Impasses et chemins, 1895-1995
     authors:
       - Recherche, société, syndicalisme
+    editors:
+      - Pierre Cours-Salies
+      - René Mouriaux
     year: 1997
     language: French
     sources:
@@ -1101,6 +1123,7 @@ titles:
     verified: true
   - title: La nuit des rois ou Ce que vous voudrez
     subtitle: Comédie
+    original_title: Twelfth night or What you will
     authors:
       - William Shakespeare
     year: 1998
@@ -1163,6 +1186,8 @@ titles:
   - title: Le nommé Louis Aragon, ou, Le patriote professionnel
     authors:
       - Jean Malaquais
+    editors:
+      - Gérard Roche
     year: 1998
     series: Les Archipels du surréalisme
     language: French
@@ -1229,6 +1254,8 @@ titles:
     subtitle: La resistance sociale outre-Rhin, foyer d'une autre Europe
     authors:
       - Pierre Bourdieu
+    translators:
+      - Alex Neumann
     year: 1998
     language: French
     sources:
@@ -1242,6 +1269,8 @@ titles:
   - title: Libre espace et autres poèmes
     authors:
       - Jean-Louis Bédouin
+    editors:
+      - Richard Walter
     year: 1998
     series: Les archipels du surréalisme
     language: French
@@ -1338,6 +1367,7 @@ titles:
     verified: true
   - title: Prométhée enchaîné
     subtitle: Tragédie
+    original_title: Prometheus
     series: Côté cour
     authors:
       - Eschyle
@@ -1456,6 +1486,8 @@ titles:
   - title: Ecrits politiques, 1957-1965
     authors:
       - al-Mahdī Bin Barakah
+    editors:
+      - René Gallissot
     year: 1999
     language: French
     pages: 281
@@ -1529,8 +1561,13 @@ titles:
     series: Arguments-mouvements
   - title: La commune des Palmares
     subtitle: Que fut le quilombo des Palmares?
+    original_title: Que foi o quilombo de Palmares ?
     authors:
       - Benjamin Péret
+    editors:
+      - Robert Ponge
+    translators:
+      - Batista Carminda
     year: 1999
     series: Archipels du surréalisme
     language: French
@@ -1565,11 +1602,13 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991070066079705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: La filiation de l'homme et la sélection liée au sexe
+    original_title: The descent of man, and selection in relation to sex
     series: Oeuvres de Charles Darwin; 22
     authors:
       - Charles Darwin
-      - Michel Prum
       - Patrick Tort
+    translators:
+      - Michel Prum
     year: 1999
     language: French
     sources:
@@ -1602,6 +1641,8 @@ titles:
     subtitle: 'Beauvoir''s Paris: parcours'
     authors:
       - Barbara Klaw
+    translators:
+      - Christine Delphy
     year: 1999
     series: Nouvelles questions féministes
     language: French
@@ -1682,6 +1723,8 @@ titles:
   - title: Oeuvres de Charles Darwin
     authors:
       - Charles Darwin
+    editors:
+      - Patrick Tort
     year: 1999
     language: French
     sources:
@@ -1914,6 +1957,8 @@ titles:
   - title: L'année sociale
     subtitle: Les faits, les dates, les documents
     authors: []
+    editors:
+      - René Mouriaux
     year: 2000
     language: French
     sources:
@@ -1972,6 +2017,8 @@ titles:
     subtitle: Escales au sein du village planétaire
     authors:
       - Arnaud Zacharie
+    editors:
+      - Éric Toussaint
     year: 2000
     language: French
     sources:
@@ -2209,6 +2256,9 @@ titles:
   - title: Afrique
     subtitle: Abolir la dette pour libérer le développement
     authors: []
+    editors:
+      - Arnaud Zacharie
+      - Éric Toussaint
     year: 2001
     language: French
     sources:
@@ -2219,6 +2269,8 @@ titles:
     subtitle: 'Pacifier, tuer: lettres d''un soldat à sa famille'
     authors:
       - Jean Martin
+    editors:
+      - Claude Liauzu
     year: 2001
     series: Classiques du silence
     language: French
@@ -2508,6 +2560,8 @@ titles:
     subtitle: Actes du colloque organisé sous l'égide de la Libre pensée, le 29 septembre 2000
     authors:
       - Jean Dubessy
+    editors:
+      - Guillaume Lecointre
     year: 2001
     series: Collection "Matériologiques"
     language: French
@@ -2587,12 +2641,14 @@ titles:
     verified: true
   - title: La formation de la terre végétale par l'action des vers
     subtitle: Avec des observations sur leurs habitudes
+    original_title: The formation of vegetable mould through the action of worms, with observations on their habits
     series: Oeuvres de Charles Darwin; 28
     authors:
       - Charles Darwin
-      - Aurélien Berra
       - Michel Prum
       - Patrick Tort
+    translators:
+      - Aurélien Berra
     year: 2001
     language: French
     sources:
@@ -2644,8 +2700,10 @@ titles:
     verified: true
   - title: La peur des miroirs
     subtitle: Roman
+    original_title: Fear of mirrors
     authors:
       - Tariq Ali
+    translators:
       - Bernard Schalscha
       - Patrick Silberstein
     year: 2001
@@ -2658,10 +2716,13 @@ titles:
     verified: true
   - title: La rébellion indigène du Mexique
     subtitle: Violence, autonomie et humanisme
+    original_title: Chiapas, la rebelión indígena de México
     series: Coyoacán
     authors:
       - Carlos Montemayor
       - Ignacio Ramonet
+    translators:
+      - Remy Kachadourian
     year: 2001
     language: French
     sources:
@@ -2752,6 +2813,8 @@ titles:
     subtitle: Lettres d'un soldat à sa famille
     authors:
       - Jean Martin
+    editors:
+      - Claude Liauzu
     year: 2001
     language: French
     sources:
@@ -3124,6 +3187,8 @@ titles:
   - title: Cinquantenaire du Deuxième sexe
     authors:
       - Delphy Chaperon
+    editors:
+      - Christine Delphy
     year: 2002
     series: Collection Nouvelles questions féministes
     language: French
@@ -3147,8 +3212,10 @@ titles:
     verified: true
   - title: Corée
     subtitle: Vers la réunification?
+    original_title: Han-kook-kwa-haet-byut-jeong-chaek
     authors:
       - Yŏng-nok Ku
+    translators:
       - Hwan-sik Lee
     year: 2002
     language: French
@@ -3358,6 +3425,7 @@ titles:
     series: Exploration et découvertes en terres humaines
     authors:
       - Gregory B. Lee
+    translators:
       - Éliane Utudjian Saint-André
     year: 2002
     language: French
@@ -3480,9 +3548,11 @@ titles:
     verified: true
   - title: Le POUM
     subtitle: Révolution dans la guerre d'Espagne
+    original_title: El POUM en la historia, Andreu Nin y la revolución española
     series: Utopie critique
     authors:
       - Wilebaldo Solano
+    translators:
       - Olga Balaguer
       - Manuel Periañez
     year: 2002
@@ -3545,6 +3615,9 @@ titles:
   - title: Les retraites au péril du libéralisme
     authors:
       - Fondation Copernic
+    editors:
+      - Pierre Khalfa
+      - Pierre-Yves Chanu
     year: 2002
     language: French
     sources:
@@ -3586,6 +3659,9 @@ titles:
     verified: true
   - title: Les syndicalismes en Europe à l'épreuve de l'État
     authors: []
+    editors:
+      - Tania Régin
+      - Serge Wolikow
     year: 2002
     language: French
     sources:
@@ -3594,6 +3670,9 @@ titles:
     verified: true
   - title: Les syndicalismes en Europe à l'épreuve de l'histoire
     authors: []
+    editors:
+      - Tania Régin
+      - Serge Wolikow
     year: 2002
     language: French
     sources:
@@ -3602,6 +3681,9 @@ titles:
     verified: true
   - title: Les syndicalismes en Europe à l'épreuve de l'international
     authors: []
+    editors:
+      - Tania Régin
+      - Serge Wolikow
     year: 2002
     language: French
     sources:
@@ -3741,9 +3823,11 @@ titles:
     verified: true
   - title: Seuls les fous n'ont pas peur
     subtitle: Scènes de la guerre de trente ans, 1915-1945
+    original_title: 'Nur Narren fürchten nichts : Szenen aus dem dreissigjährigen Krieg 1915-1945'
     series: Utopie critique
     authors:
       - Georg Scheuer
+    translators:
       - Christa Scheuer-Weyl
       - Geneviève Hess
     year: 2002
@@ -3826,6 +3910,8 @@ titles:
   - title: A quand l'Europe sociale?
     authors:
       - Georges Debunne
+    translators:
+      - Corinne Gobin
     year: 2003
     series: Collection Le Présent avenir
     language: French
@@ -4381,9 +4467,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991096185969705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Le pouvoir
+    original_title: Power
     series: Collection Matériologiques
     authors:
       - Bertrand Russell
+    translators:
       - Michel Parmentier
     year: 2003
     language: French
@@ -4474,6 +4562,9 @@ titles:
     subtitle: Cycle de réflexion philosophique ouvert le 16 mars 2000 à l'initiative de l'Association espaces Marx et de l'Université Paris VIII-Saint-Denis
     authors:
       - Jean Marie Vincent
+    editors:
+      - Renaud Fabre
+      - Arnaud Spire
     year: 2003
     series: Espaces Marx
     language: French
@@ -4623,6 +4714,8 @@ titles:
     subtitle: Vivre le budget participatif
     authors:
       - Estelle Granet
+    editors:
+      - Sérgio Amaral
     year: 2003
     series: Collection "Coyoacán"
     language: French
@@ -4716,8 +4809,10 @@ titles:
     verified: true
   - title: Seul celui qui change reste fidèle à lui-même
     subtitle: Huit discours sur l'Allemagne
+    original_title: Wie man Verse macht und Lieder
     authors:
       - Wolf Biermann
+    translators:
       - Marie-Claude Deshayes-Rodriguez
     year: 2003
     language: French
@@ -5064,6 +5159,9 @@ titles:
   - title: La postérité de l'école de Francfort
     authors:
       - Jean Marie Vincent
+    editors:
+      - Alain Blanc
+      - Jean-Marie Vincent
     year: 2004
     language: French
     pages: 283
@@ -5084,6 +5182,10 @@ titles:
     subtitle: Pour une justice au service des peuples
     authors:
       - Charles Abrahams
+    editors:
+      - Virginie de Romanet
+      - Yannick Bovy
+      - Hugo Ruiz Diaz Balbuena
     year: 2004
     language: French
     pages: 174
@@ -5293,6 +5395,8 @@ titles:
       - Mohammed Harbi
       - René Gallissot
       - Abdelmalek Sayad
+    editors:
+      - Gérard Prévost
     year: 2004
     language: French
     pages: 170
@@ -5449,6 +5553,9 @@ titles:
   - title: Quelle Europe pour quel monde
     authors:
       - Samir Amin
+    editors:
+      - Élisabeth Gauthier
+      - Jacques Le Dauphin
     year: 2004
     series: Collection Espaces Marx
     language: French
@@ -5482,6 +5589,9 @@ titles:
   - title: Salvador Allende, un monde possible
     authors:
       - Rosa Gutierrez
+    editors:
+      - Patricio Arenas
+      - Oscar Vallespir
     year: 2004
     series: Collection "Coyoacán"
     language: French
@@ -5945,9 +6055,10 @@ titles:
     series: Mille marxismes
     authors:
       - Bertell Ollman
-      - Paule Ollman
       - Thierry Méot
       - Michael Löwy
+    translators:
+      - Paule Ollman
     year: 2005
     language: French
     sources:
@@ -6205,6 +6316,8 @@ titles:
     subtitle: Retours sur le référendum de 2005
     authors:
       - Henri Maler
+    editors:
+      - Antoine Schwartz
     year: 2005
     series: Arguments et mouvements
     language: French
@@ -6656,9 +6769,11 @@ titles:
     verified: true
   - title: Dissident dans la Révolution
     subtitle: Victor Serge, une biographie politique
+    original_title: The course is set on hope
     series: Collection histoire
     authors:
       - Susan Weissman
+    translators:
       - Patrick Le Tréhondat
       - Patrick Silberstein
     year: 2006
@@ -6772,10 +6887,15 @@ titles:
     verified: true
   - title: L'esprit dans un monde physique
     subtitle: Essai sur le problème corps-esprit et la causalité mentale
+    original_title: Mind in a physical world
     series: Matériologiques
     authors:
       - Jaegwon Kim
       - Max Kistler
+    editors:
+      - François Athané
+      - Édouard Guinet
+    translators:
       - François Athané
       - Édouard Guinet
     year: 2006
@@ -6857,11 +6977,13 @@ titles:
     verified: true
   - title: La société des cellules
     subtitle: Nouvelle approche du cancer
+    original_title: The society of cells, cancer and control of cell proliferation, back to the drawing board
     series: Matériologiques
     authors:
       - Carlos Sonnenschein
       - Ana M. Soto
       - Michel Morange
+    translators:
       - Thomas Heams
     year: 2006
     language: French
@@ -6935,6 +7057,8 @@ titles:
   - title: Le sexe et ses juges
     authors:
       - Eric Alt
+    editors:
+      - Éric Alt
     year: 2006
     language: French
     pages: 167
@@ -7130,6 +7254,8 @@ titles:
       - Aron Cohen Amselem
       - Rosa Congost
       - Pablo F. Luna
+    editors:
+      - Arón Cohen
     year: 2006
     language: French
     pages: 229
@@ -7177,6 +7303,8 @@ titles:
   - title: Propositions pour des politiques alternatives
     authors:
       - Fondation Copernic
+    editors:
+      - Yves Salesse
     year: 2006
     language: French
     pages: 206
@@ -7209,9 +7337,11 @@ titles:
     verified: true
   - title: Rébellions d'Argentine
     subtitle: Tiers-état, luttes sociales et autogestion
+    original_title: La protesta social en la Argentina, 1990-2004
     series: Collection Utopie Critique
     authors:
       - Guillermo Almeyra
+    translators:
       - Noëlle Groult
       - Mariana Sanchez
     year: 2006
@@ -7252,6 +7382,9 @@ titles:
     subtitle: Dissidences, résistances et engagements
     authors:
       - Laurent Albaret
+    editors:
+      - Hélène Latger
+      - Jean-François Wagniart
     year: 2006
     series: Comprendre et agir
     language: French
@@ -7363,9 +7496,11 @@ titles:
     verified: true
   - title: Un silence de mortes
     subtitle: La violence masculine occultée
+    original_title: Un Silenzio assordante
     series: Collection Nouvelles questions féministes
     authors:
       - Patrizia Romito
+    translators:
       - Jacqueline Julien
     year: 2006
     language: French
@@ -7439,6 +7574,8 @@ titles:
       - Marie-Louise Pelus
       - Jacqueline Carroy
       - Claude Debru
+    editors:
+      - Marie-Louise Pelus-Kaplan
     year: 2006
     series: 'Collection "Histoire: enjeux et débats"'
     language: French
@@ -7459,6 +7596,9 @@ titles:
   - title: Cent ans de mouvements étudiants
     authors:
       - Alain Monchablon
+    editors:
+      - Jean-Philippe Legois
+      - Robi Morder
     year: 2007
     series: Germe
     language: French
@@ -7486,9 +7626,11 @@ titles:
     verified: true
   - title: Changer le monde sans prendre le pouvoir
     subtitle: Le sens de la révolution aujourd'hui
+    original_title: Cambiar el mundo sin tomar el poder
     series: Utopie critique
     authors:
       - John Holloway
+    translators:
       - Sylvie Bosserelle
     year: 2007
     language: French
@@ -7570,6 +7712,10 @@ titles:
     verified: true
   - title: Emergence et réductions
     authors: []
+    editors:
+      - François Athané
+      - Édouard Guinet
+      - Marc Silberstein
     year: 2007
     language: French
     sources:
@@ -7694,6 +7840,8 @@ titles:
   - title: L' école en quête d'avenir
     authors:
       - Bernard Calabuig
+    editors:
+      - José Tovar
     year: 2007
     series: Collection Utopie critique
     language: French
@@ -7742,6 +7890,9 @@ titles:
     authors:
       - Patrick Cingolani
       - Laurent Albaret
+    editors:
+      - Hélène Latger
+      - Keith Dixon
     year: 2007
     series: Comprendre et agir
     language: French
@@ -7795,6 +7946,9 @@ titles:
   - title: Les ravages de la modernisation universitaire
     subtitle: Actes du colloque tenu à l'École normale supérieure le 11 février 2006
     authors: []
+    editors:
+      - Christophe Charle
+      - Charles Soulié
     year: 2007
     language: French
     sources:
@@ -7804,6 +7958,9 @@ titles:
   - title: Les ravages de la modernisation universitaire en Europe
     authors:
       - Association de réflexion sur les enseignements supérieurs et la recherche
+    editors:
+      - Christophe Charle
+      - Charles Soulié
     year: 2007
     series: La politique au scalpel
     language: French
@@ -7832,6 +7989,9 @@ titles:
     subtitle: La morgue et le mépris
     authors:
       - ACRIMED (Action critique médias)
+    editors:
+      - Henri Maler
+      - Mathias Reymond
     year: 2007
     series: Arguments et mouvements
     language: French
@@ -7851,6 +8011,8 @@ titles:
     subtitle: De la Tricontinentale à l'altermondialisme
     authors:
       - André D. Robert
+    editors:
+      - Bachir Ben Barka
     year: 2007
     series: Points cardinaux
     language: French
@@ -7888,6 +8050,10 @@ titles:
     verified: true
   - title: Pour en finir avec la précarité
     authors: []
+    editors:
+      - Laurent Garrouste
+      - Didier Gelot
+      - Karine Granier
     year: 2007
     language: French
     sources:
@@ -7897,6 +8063,9 @@ titles:
   - title: Provence-Alpes-Côte d'Azur, l'avenir à construire
     subtitle: Analyses et propositions
     authors: []
+    editors:
+      - Josiane Dragoni
+      - Gilbert Jean
     year: 2007
     series: Collection Comprendre et agir
     language: French
@@ -7944,6 +8113,8 @@ titles:
       - Marie Agnès Combesque
       - Patrick Silberstein
       - Michel Vakaloulis
+    editors:
+      - Marie-Agnès Combesque
     year: 2007
     series: Alter
     language: French
@@ -8136,11 +8307,13 @@ titles:
     subtitle: La longue transition
   - title: En campagne contre la dette
     subtitle: Trajectoire, impacts et perspectives d'avenir
+    original_title: En pie contra la deuda externa
     authors:
       - Esther Vivas
-      - Cécile Lamarque
       - Éric Toussaint
       - Gema Tarafa
+    translators:
+      - Cécile Lamarque
     year: 2008
     language: French
     sources:
@@ -8216,6 +8389,8 @@ titles:
     subtitle: Au-delà du tumulte des mémoires
     authors:
       - Eric Savarèse
+    editors:
+      - Éric Savarese
     year: 2008
     series: Collection "Histoire--enjeux et débats"
     language: French
@@ -8319,6 +8494,8 @@ titles:
     subtitle: Anthologie du surréalisme sous l'Occupation
     authors:
       - Richard Walter
+    editors:
+      - Anne Vernay
     year: 2008
     series: Les Archipels du surréalisme
     language: French
@@ -8376,6 +8553,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb412016585
     verified: true
   - title: Le matérialisme scientifique
+    original_title: Scientific materialism
     series: Matériologiques
     authors:
       - Mario Bunge
@@ -8451,6 +8629,10 @@ titles:
     subtitle: Un monde en mouvement
     authors:
       - Bibliothèque de documentation internationale contemporaine (France)
+    editors:
+      - Geneviève Dreyfus-Armand
+      - Jean-Philippe Legois
+      - Franck Veyron
     year: 2008
     language: French
     pages: 428
@@ -8508,8 +8690,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991061020459705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Les idées révolutionnaires de Karl Marx
+    original_title: The revolutionary ideas of Karl Marx
     authors:
       - Alex T. Callinicos
+    translators:
+      - Jean Marie-Guerlin
     year: 2008
     language: French
     sources:
@@ -8581,6 +8766,8 @@ titles:
   - title: Manifestes pour l'eau publique
     authors:
       - Fondation Copernic
+    editors:
+      - Anne Le Strat
     year: 2008
     series: Document de la fondation Copernic
     language: French
@@ -8736,6 +8923,8 @@ titles:
     subtitle: Représentativité syndicale et démocratie sociale
     authors:
       - Fondation Copernic
+    editors:
+      - Louis-Marie Barnier
     year: 2008
     series: Notes de la fondation Copernic
     language: French
@@ -9084,11 +9273,13 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb41456895h
     verified: true
   - title: Essais sur la théorie de la valeur de Marx
+    original_title: Essays on Marx's theory of value
     series: Mille marxismes
     authors:
       - Isaak Illitch Rubin
-      - Jean-Jacques Bonhomme
       - Antoine Artous
+    translators:
+      - Jean-Jacques Bonhomme
     year: 2009
     language: French
     sources:
@@ -9110,9 +9301,13 @@ titles:
     verified: true
   - title: Êtes-vous libre ?
     subtitle: Le problème du déterminisme
+    original_title: 'How free are you ? : the determinism problem'
     series: Matériologiques
     authors:
       - Ted Honderich
+    translators:
+      - Nadège Renaud
+      - Édouard Guinet
     year: 2009
     language: French
     sources:
@@ -9903,6 +10098,8 @@ titles:
   - title: Je ne mange pas de ce pain-là
     authors:
       - Benjamin Péret
+    editors:
+      - Heribert Becker
     year: 2010
     series: Les archipels du surréalisme
     language: French
@@ -10096,6 +10293,8 @@ titles:
   - title: Mémoires d'un anarchiste juif
     authors:
       - Shalom Shṿartsbard
+    editors:
+      - Michel Herman
     year: 2010
     series: Yiddishland
     language: French
@@ -10176,6 +10375,10 @@ titles:
   - title: Retraites, l'heure de vérité
     authors:
       - Attac
+    editors:
+      - Jean-Marie Harribey
+      - Pierre Khalfa
+      - Christiane Marty
     year: 2010
     series: Arguments et mouvements
     language: French
@@ -10482,6 +10685,8 @@ titles:
   - title: L'Education nationale en danger
     authors:
       - Josianne Boutet
+    editors:
+      - Josiane Boutet
     year: 2011
     series: Notes de la Fondation Copernic
     language: French
@@ -10641,6 +10846,8 @@ titles:
     authors:
       - Evelyne Bechtold-Rognon
       - Thomas Lamarche
+    editors:
+      - Évelyne Rognon
     year: 2011
     series: Comprendre et agir
     language: French
@@ -10671,9 +10878,12 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb42580689h
     verified: true
   - title: Mémoires d'un révolutionnaire juif
+    original_title: Zkhroïness fun a yiddishn revolutsioner
     series: Collection Yiddishland
     authors:
       - Hersh Mendel
+    translators:
+      - Bernard Suchecky
     year: 2011
     language: French
     sources:
@@ -10739,6 +10949,9 @@ titles:
   - title: Question juive, question noire
     authors:
       - Leon Trotsky
+    editors:
+      - Danièle Obono
+      - Patrick Silberstein
     year: 2011
     series: Mille marxismes
     language: French
@@ -10816,6 +11029,8 @@ titles:
       - James D. Cockcroft
       - Jean Batou
       - Stéfanie Prezioso
+    translators:
+      - Laïla Batou
     year: 2011
     language: French
     sources:
@@ -10854,6 +11069,8 @@ titles:
   - title: Un troussage de domestique
     authors:
       - Christine Delpy
+    editors:
+      - Christine Delphy
     year: 2011
     series: Nouvelles questions féministes
     language: French
@@ -10877,6 +11094,9 @@ titles:
     subtitle: Retours sur la mobilisation contre la loi pour l'égalité des chances et le CPE
     authors:
       - Renaud Bécot
+    editors:
+      - Aurélien Boudon
+      - Blaise Dufal
     year: 2011
     series: Arguments et mouvements
     language: French
@@ -10969,6 +11189,8 @@ titles:
     verified: true
   - title: Amériques latines, émancipation en construction
     authors: []
+    editors:
+      - Franck Gaudichaud
     year: 2012
     language: French
     sources:
@@ -10977,9 +11199,14 @@ titles:
     verified: true
   - title: Black and red
     subtitle: Les mouvements noirs et la gauche américaine, 1850-2010
+    original_title: Black liberation and socialism
     series: Radical America
     authors:
       - Ahmed Shawki
+    translators:
+      - Emmanuel Delgado Hoch
+      - Patrick Le Tréhondat
+      - Patrick Silberstein
     year: 2012
     language: French
     sources:
@@ -11030,8 +11257,13 @@ titles:
     verified: true
   - title: Combattants juifs dans la guerre d'Espagne
     subtitle: La compagnie Botwin
+    original_title: Zikhroynes̀ fun a Boṭṿinisṭ
     authors:
       - Ephraim Wuzek
+    editors:
+      - Larissa Wozek-Gruszow
+    translators:
+      - Jacques Kott
     year: 2012
     series: Yiddishland
     language: French
@@ -11121,6 +11353,8 @@ titles:
     subtitle: Le contre-rapport
     authors:
       - Thomas Coutrot
+    editors:
+      - Pierre Khalfa
     year: 2012
     series: Notes de la Fondation Copernic
     language: French
@@ -11337,6 +11571,7 @@ titles:
       - Antonio Fuentes Díaz
       - Francisco Gómez Carpinteiro
       - John Holloway
+    translators:
       - Sylvie Bosserelle
     year: 2012
     language: French
@@ -11409,6 +11644,8 @@ titles:
     authors:
       - Félix Boggio Ewanjé-Epée
       - Stella Magliani-Belkacem
+    editors:
+      - Félix Boggio Éwanjé-Épée
     year: 2012
     series: Collection Arguments et mouvements
     language: French
@@ -11505,11 +11742,12 @@ titles:
     series: Radical America
     authors:
       - Cyril Lionel Robert James
+      - Maboula Soumahoro
+      - Richard Poulin
+    translators:
       - Emmanuel Delgado Hoch
       - Patrick Le Tréhondat
       - Patrick Silberstein
-      - Maboula Soumahoro
-      - Richard Poulin
     year: 2012
     language: French
     sources:
@@ -11543,14 +11781,20 @@ titles:
     verified: true
   - title: Une révolution inachevée
     subtitle: Sécession, guerre civile, esclavage et émancipation aux Etats-Unis
+    original_title: An unfinished revolution
     series: Mille marxismes
     authors:
       - Karl Marx
       - Abraham Lincoln
+      - Robin Blackburn
+    editors:
       - Emmanuel Delgado Hoch
       - Patrick Le Tréhondat
       - Patrick Silberstein
-      - Robin Blackburn
+    translators:
+      - Emmanuel Delgado Hoch
+      - Patrick Le Tréhondat
+      - Patrick Silberstein
     year: 2012
     language: French
     sources:
@@ -11646,9 +11890,11 @@ titles:
     verified: true
   - title: Chine
     subtitle: Un capitalisme bureaucratique
+    original_title: China's rise
     series: Collection Arguments et mouvements
     authors:
       - Loong Yu Au
+    translators:
       - Patrick Le Tréhondat
     year: 2013
     language: French
@@ -11726,6 +11972,10 @@ titles:
     authors:
       - Fondation Copernic
       - Droit au logement
+    editors:
+      - Jean-Baptiste Eyraud
+      - Claire Le Strat
+      - Willy Pelletier
     year: 2013
     language: French
     sources:
@@ -11745,6 +11995,7 @@ titles:
     verified: true
   - title: Indianisme et paysannerie en Amérique Latine
     subtitle: Socialisme et libération nationale
+    original_title: Siete ensayos de interpretación de la realidad peruana
     series: Mille marxismes
     authors:
       - José Carlos Mariátegui
@@ -11798,9 +12049,11 @@ titles:
     verified: true
   - title: L'orient postcolonial
     subtitle: Sur la "provincialisation" de l'Europe et la théorie postcoloniale
+    original_title: From orientalism to postcolonialism
     series: Mille marxismes
     authors:
       - Vasant Kaiwar
+    translators:
       - Thierry Labica
     year: 2013
     language: French
@@ -11868,6 +12121,8 @@ titles:
   - title: Le féminisme pour changer la société
     authors:
       - Attac
+    editors:
+      - Christiane Marty
     year: 2013
     language: French
     pages: 106
@@ -11889,6 +12144,8 @@ titles:
     subtitle: La vie de Malcolm X
     authors:
       - James Baldwin
+    translators:
+      - Magali Berger
     year: 2013
     language: French
     sources:
@@ -11951,6 +12208,9 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    editors:
+      - Pierre Cours-Salies
+      - Pierre Zarka
     year: 2013
     language: German
     sources:
@@ -11961,13 +12221,15 @@ titles:
     verified: true
   - title: Refuser d'être un homme
     subtitle: Pour en finir avec la virilité
+    original_title: Refusing to be a man
     series: Nouvelles questions féministes (éd. Syllepse)
     authors:
       - John Stoltenberg
+      - Christine Delphy
+    translators:
       - L. - Y. Yeun
       - Mickaël Merlet
       - Martin Dufresne
-      - Christine Delphy
     year: 2013
     language: French
     sources:
@@ -11982,6 +12244,9 @@ titles:
     subtitle: L'alternative cachée
     authors:
       - Attac
+    editors:
+      - Jean-Marie Harribey
+      - Christiane Marty
     year: 2013
     language: French
     pages: 83
@@ -12113,9 +12378,11 @@ titles:
     verified: true
   - title: Aube dorée
     subtitle: Livre noir du parti nazi grec
+    original_title: Ī maúrī vívlos tīs Chrysī́s Augīs
     series: Mauvais temps
     authors:
       - Dimitris Psarras
+    translators:
       - Panos Angelopoulos
     year: 2014
     language: French
@@ -12158,13 +12425,15 @@ titles:
     verified: true
   - title: Elles ont fait reculer l'industrie du sexe
     subtitle: Le modèle nordique
+    original_title: The Nordic model
     series: Nouvelles questions féministes
     authors:
       - Trine Rogg Korsvik
       - Ane Stø
-      - Martin Dufresne
       - Claudine Legardinier
       - Julie Miville-Dechêne
+    translators:
+      - Martin Dufresne
     year: 2014
     language: French
     sources:
@@ -12264,6 +12533,9 @@ titles:
     series: Mille marxismes
     authors:
       - Georges Labica
+    translators:
+      - Gérard Bensussan
+      - Jean-Pierre Lefebvre
     year: 2014
     language: French
     sources:
@@ -12335,12 +12607,14 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb43774193m
     verified: true
   - title: Les frères de Soledad
+    original_title: Soledad brother
     series: Radical America
     authors:
       - George Jackson
-      - Catherine Roux
       - Jean Genet
       - Jonathan Jackson
+    translators:
+      - Catherine Roux
     year: 2014
     language: French
     sources:
@@ -12364,13 +12638,15 @@ titles:
     verified: true
   - title: Les ondes longues du développement capitaliste
     subtitle: Une interprétation marxiste
+    original_title: Long wawes of capitalist development
     series: Mille marxismes
     authors:
       - Ernest Mandel
-      - Daniel Tanuro
       - Daniel Bensaïd
       - Francisco Louçã
       - Michel Husson
+    translators:
+      - Daniel Tanuro
     year: 2014
     language: French
     sources:
@@ -12393,9 +12669,11 @@ titles:
     verified: true
   - title: Malcolm X
     subtitle: Une vie de réinventions, 1925-1965
+    original_title: Malcolm X
     series: Radical America
     authors:
       - Manning Marable
+    translators:
       - Emmanuel Delgado Hoch
       - Patrick Le Tréhondat
       - Patrick Silberstein
@@ -12412,6 +12690,9 @@ titles:
   - title: Manager ou servir ?
     subtitle: Les services publics aux prises avec le nouveau management public
     authors: []
+    editors:
+      - Évelyne Bechtold-Rognon
+      - Thomas Lamarche
     year: 2014
     language: French
     sources:
@@ -12438,6 +12719,8 @@ titles:
     series: Arguments et mouvements
     authors:
       - Syndicat national solidaires finances publiques
+    editors:
+      - Vincent Drezet
     year: 2014
     language: French
     sources:
@@ -12508,6 +12791,9 @@ titles:
   - title: Syndicalisme, cinq défis à relever
     subtitle: Unissons-nous !
     authors: []
+    editors:
+      - Jean-Claude Branchereau
+      - Patrick Brody
     year: 2014
     language: French
     sources:
@@ -12615,11 +12901,13 @@ titles:
     verified: true
   - title: '"Occuper, résister, produire"'
     subtitle: Autogestion ouvrière et entreprises récupérées en Argentine
+    original_title: Qué son las empresas recuperadas ?
     series: Collection Coyoacán
     authors:
       - Andrés Ruggeri
-      - Nils Solari
       - Richard Neuville
+    translators:
+      - Nils Solari
     year: 2015
     language: French
     sources:
@@ -12980,6 +13268,7 @@ titles:
     verified: true
   - title: Marx aux antipodes
     subtitle: Nations, ethnicité et sociétés non occidentales
+    original_title: 'Marx at the margins : on nationalism, ethnicity, and non-Western societies'
     authors:
       - Kevin B. Anderson
     year: 2015
@@ -13088,6 +13377,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991112182479705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Textes et déclarations des Black panthers
+    original_title: The Black panthers speak
   - title: Capitalisme, néolibéralisme et mouvements sociaux en Russie
     authors:
       - Alexandre V. Bouzgaline
@@ -13354,6 +13644,7 @@ titles:
     series: Collection Sens dessous dessus
     authors:
       - Pietro Basso
+    translators:
       - Barbara Planchot
       - Nadja Blondet
     year: 2016
@@ -13395,6 +13686,7 @@ titles:
       - Raya Dunayevskaya
       - Herbert Marcuse
       - Frédéric Monferrand
+    translators:
       - Mara Oliva
     year: 2016
     language: French
@@ -13429,9 +13721,11 @@ titles:
     verified: true
   - title: Révolution dans la guerre d'Espagne
     subtitle: 1930-1939
+    original_title: 'El POUM en la historia : Andreu Nin y la revolucion española'
     series: Utopie critique
     authors:
       - Wilebaldo Solano
+    translators:
       - Olga Balaguer
       - Manuel Periañez
     year: 2016
@@ -13564,9 +13858,11 @@ titles:
     verified: true
   - title: Che Guevara
     subtitle: Ombres et lumières d'un révolutionnaire
+    original_title: The politics of Che Guevara
     series: Utopie critique
     authors:
       - Samuel Farber
+    translators:
       - Patrick Silberstein
     year: 2017
     language: French
@@ -13671,8 +13967,13 @@ titles:
     verified: true
   - title: La commune du Rojava
     subtitle: L'alternative kurde à l'État-Nation
+    original_title: Staat voorbij
     series: Utopie critique
-    authors:
+    authors: []
+    editors:
+      - Hond Den Chris
+      - Stephen Bouquin
+    translators:
       - Stephen Bouquin
       - Mireille Court
       - Chris Den Hond
@@ -13693,6 +13994,7 @@ titles:
     series: Radical America
     authors:
       - Michelle Alexander
+    translators:
       - Anika Scherrer
     year: 2017
     language: French
@@ -13735,13 +14037,17 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991033811379705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: La question des nationalités
+    original_title: Die Nationalitätenfrage
     series: Mille Marxismes
     authors:
       - Otto Bauer
+      - Alain Le Guyader
+    editors:
+      - Claudie Weill
+    translators:
       - Claudie Weill
       - Nicole Brune-Perrin
       - Johannès Brune
-      - Alain Le Guyader
     year: 2017
     language: French
     sources:
@@ -13803,8 +14109,10 @@ titles:
     verified: true
   - title: Les soviets de Petrograd
     subtitle: Les travailleurs de Petrograd dans la Révolution russe (février 1917-juin 1918)
+    original_title: The Petrograd workers and the fall of old regime
     authors:
       - David Mandel
+    translators:
       - Jean-Marie Coen
       - Patrick Le Tréhondat
       - Christine Schmidt-Barbacci
@@ -13905,9 +14213,11 @@ titles:
         url: https://www.sudoc.fr/220428492
     verified: true
   - title: Révolution et contre-révolution en Chine maoïste
+    original_title: Maoism and the Chinese revolution
     series: Arguments et mouvements
     authors:
       - Elliott Liu
+    translators:
       - Patrick Le Tréhondat
     year: 2017
     language: French
@@ -13940,6 +14250,8 @@ titles:
     authors:
       - Andrea Dworkin
       - Christine Delphy
+    translators:
+      - Tradfem
     year: 2017
     language: French
     sources:
@@ -14099,9 +14411,11 @@ titles:
     verified: true
   - title: A beautiful ghetto
     subtitle: Le soulèvement de Baltimore
+    original_title: A Beautiful ghetto
     series: Radical America
     authors:
       - Devin Allen
+    translators:
       - Emmanuel Delgado Hoch
     year: 2018
     language: French
@@ -14152,6 +14466,8 @@ titles:
     authors:
       - Rémy Jean
       - Philippe (Syndicalist) Saunier
+    editors:
+      - Philippe Saunier
     year: 2018
     language: French
     pages: 166
@@ -14261,13 +14577,15 @@ titles:
     verified: true
   - title: Friedrich Engels et les peuples "sans histoire"
     subtitle: La question nationale dans la révolution de 1848
+    original_title: Friedrich Engels und das Problem der "Geschichtslosen" Völker
     series: Mille marxismes
     authors:
       - Roman Rosdolsky
-      - Gérard Billy
       - Benjamin Bürbaumer
       - Georges Haupt
       - Claudie Weill
+    translators:
+      - Gérard Billy
     year: 2018
     language: French
     sources:
@@ -14377,9 +14695,11 @@ titles:
     verified: true
   - title: Le nouveau populisme américain
     subtitle: Résistances et alternatives à Trump
+    original_title: Donald Trump
     series: Histoire
     authors:
       - Dan La Botz
+    translators:
       - Patrick Le Tréhondat
     year: 2018
     language: French
@@ -14420,12 +14740,14 @@ titles:
     series: Histoire, enjeux et débats
   - title: Le salaire du blanc
     subtitle: La formation de la classe ouvrière américaine et la question raciale
+    original_title: The wages of whiterness
     series: Radical America
     authors:
       - David R. Roediger
+      - Kathleen Cleaver
+    translators:
       - François Desiles
       - Jérémie Verger
-      - Kathleen Cleaver
     year: 2018
     language: French
     sources:
@@ -14436,10 +14758,12 @@ titles:
     verified: true
   - title: Le soldat et la guérillera
     subtitle: Une histoire orale de la guerre civile au Salvador
+    original_title: 'El Salvador : el soldado y la guerrillera'
     authors:
       - Oscar Martinez Peñate
-      - Raphaël Monnard
       - Maurice Lemoine
+    translators:
+      - Raphaël Monnard
     year: 2018
     language: French
     sources:
@@ -14478,6 +14802,8 @@ titles:
       - Jacques Kergoat
       - Gisèle Moulié
       - Guy Robert
+    editors:
+      - Union syndicale Solidaires
     year: 2018
     language: French
     sources:
@@ -14624,11 +14950,13 @@ titles:
     verified: true
   - title: Trotsky n'est pas coupable
     subtitle: Contre-interrogatoire (1937)
+    original_title: Not guilty
     authors:
+      - Commission of inquiry into the charges made against Leon Trotsky in the Moscow trials
+    translators:
       - Eric Chopard
       - Patrick Le Tréhondat
       - Christine Schmitt
-      - Commission of inquiry into the charges made against Leon Trotsky in the Moscow trials
     year: 2018
     language: French
     sources:
@@ -14661,11 +14989,15 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991093450899705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Vie de Karl Marx
+    original_title: Karl Marx
     series: Utopie critique
     authors:
       - Franz Mehring
-      - Gérard Bloch
       - Jean-Numa Ducange
+    editors:
+      - Gérard Bloch
+    translators:
+      - Gérard Bloch
     year: 2018
     language: French
     sources:
@@ -14753,9 +15085,11 @@ titles:
     verified: true
   - title: Apprendre à transgresser
     subtitle: L'éducation comme pratique de la liberté
+    original_title: Teaching to transgress
     series: Nouvelles questions féministes
     authors:
       - Bell Hooks
+    translators:
       - Margaux Portron
     year: 2019
     language: French
@@ -14912,9 +15246,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb45852711n
     verified: true
   - title: Coïts
+    original_title: Intercourse
     series: Nouvelles questions féministes
     authors:
       - Andrea Dworkin
+    translators:
       - Martin Dufresne
     year: 2019
     language: French
@@ -14929,6 +15265,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991134971909705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Crise mondiale et reproduction du capital
+    original_title: Global crisis and reproduction of capital
     series: Mille marxismes
     authors:
       - Stavros Tombazos
@@ -14966,6 +15303,8 @@ titles:
       - Verveine Angéli
       - Christian Mahieux
       - Patrick Le Tréhondat
+    editors:
+      - Julien Gonthier
     year: 2019
     language: French
     sources:
@@ -15048,10 +15387,12 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991074794759705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: L'exploitation domestique
+    original_title: Familiar exploitation
     series: Nouvelles questions féministes
     authors:
       - Christine Delphy
       - Diana Leonard
+    translators:
       - Annick Boisset
     year: 2019
     language: French
@@ -15107,9 +15448,11 @@ titles:
     verified: true
   - title: Le Hezbollah
     subtitle: Un fondamentalisme religieux à l'épreuve du néolibéralisme
+    original_title: Hezbollah
     series: Histoire,enjeux et débats
     authors:
       - Joseph Daher
+    translators:
       - Patrick Le Tréhondat
     year: 2019
     language: French
@@ -15276,8 +15619,9 @@ titles:
     series: 'Assiegées; # 3 (Mars 2019)'
     authors:
       - Fania Noël
-      - Nadine Mondestin
       - Zohra Khaldoun
+    translators:
+      - Nadine Mondestin
     year: 2019
     language: French
     sources:
@@ -15292,6 +15636,8 @@ titles:
     subtitle: Destin d'un révolutionnaire
     authors:
       - Natalia Smolianskaia
+    translators:
+      - Elena Roubtsova
     year: 2020
     language: French
     sources:
@@ -15373,6 +15719,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb46608587j
     verified: true
   - title: Crise mondiale et reproduction du capital
+    original_title: Global crisis and reproduction of capital
     series: Mille marxismes
     authors:
       - Stavros Tombazos
@@ -15453,11 +15800,13 @@ titles:
     verified: true
   - title: Fin de partie ?
     subtitle: Amérique latine
+    original_title: Los gobiernos progresistas latinoamericanos del siglo XXI
     series: Coyoacán
     authors:
       - Franck Gaudichaud
       - Massimo Modonesi
       - Jeffery R. Webber
+    translators:
       - Cathy Ferré
       - Dorian Fréani
       - Hans-Peter Renck
@@ -15528,6 +15877,8 @@ titles:
     authors:
       - Jacques Bastin
       - Centre tricontinental
+    editors:
+      - Cédric Leterme
     year: 2020
     language: French
     sources:
@@ -15549,9 +15900,11 @@ titles:
     verified: true
   - title: L'espoir vaincu par la peur
     subtitle: De Lula à Bolsonaro
+    original_title: Além do PT
     series: Coyoacán
     authors:
       - Fabio Luis Barbosa dos Santos
+    translators:
       - Olivier Warin
     year: 2020
     language: French
@@ -15593,9 +15946,11 @@ titles:
     verified: true
   - title: La Révolution mexicaine
     subtitle: 1910-1920
+    original_title: La revolución interrumpida
     series: Collection Coyoacán
     authors:
       - Adolfo Gilly
+    translators:
       - Pierre-Luc Abramson
       - Jean-Pierre Paute
     year: 2020
@@ -15672,10 +16027,12 @@ titles:
     verified: true
   - title: Le tunnel
     subtitle: L'histoire vraie d'une évasion de prison
+    original_title: 'Los topos : la fuga del MRTA de la prisión de Canto Grande'
     authors:
       - Guillermo Thorndike
-      - Emmanuel Delgado Hoch
       - Aurélien Gomez
+    translators:
+      - Emmanuel Delgado Hoch
     year: 2020
     language: French
     sources:
@@ -15708,11 +16065,13 @@ titles:
     verified: true
   - title: Les condamnés
     subtitle: Destin d'un révolutionnaire
+    original_title: Obrečennye
     authors:
       - Grigorij Borisovič Smolânskij
       - Natalia Smolianskaia
-      - Elena Rubcova
       - Alain Blum
+    translators:
+      - Elena Rubcova
     year: 2020
     language: French
     sources:
@@ -15922,9 +16281,11 @@ titles:
     verified: true
   - title: Au nom des femmes
     subtitle: '"Fémonationalisme"'
+    original_title: In the name of women's rights
     series: Nouvelles questions féministes
     authors:
       - Sara R. Farris
+    translators:
       - July Robert
     year: 2021
     language: French
@@ -15947,10 +16308,12 @@ titles:
     verified: true
   - title: Bandung
     subtitle: Chronique d'un monde en décolonisation
+    original_title: 'The color curtain : a report on the Bandung Conference'
     authors:
       - Richard Wright
-      - Emmanuel Delgado Hoch
       - Amzat Boukari-Yabara
+    translators:
+      - Emmanuel Delgado Hoch
     year: 2021
     language: French
     sources:
@@ -16183,8 +16546,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb46920398n
     verified: true
   - title: Hong Kong en révolte
+    original_title: Hong Kong in revolt
     authors:
       - Loong Yu Au
+    translators:
       - Joachim Blandy
       - Patrick Le Tréhondat
     year: 2021
@@ -16234,6 +16599,8 @@ titles:
       - Patrick Le Tréhonda
       - Christian Mahieux
       - France
+    editors:
+      - Patrick Le Tréhondat
     year: 2021
     language: French
     pages: 133
@@ -16250,9 +16617,11 @@ titles:
     verified: true
   - title: La nature contre le capital
     subtitle: L'écologie de Marx dans sa critique inachevée du capital
+    original_title: Natur gegen Kapital
     series: Mille marxismes
     authors:
       - Kōhei Saitō
+    translators:
       - Gérard Billy
     year: 2021
     language: French
@@ -16269,13 +16638,15 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991171053425105501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: La nouvelle économique
+    original_title: Novaja ėkonomika
     series: Mille marxismes
     authors:
       - Evgenij Alekseevič Preobraženskij
-      - Bernard Joly
       - Michel Husson
       - Pierre Naville
       - Ernest Mandel
+    translators:
+      - Bernard Joly
     year: 2021
     language: French
     sources:
@@ -16325,6 +16696,11 @@ titles:
     authors:
       - Nathalie Lapeyre
       - Centre national de la recherche scientifique (France). Groupement de recherche "Marché du travail et genre"
+    editors:
+      - Jacqueline Laufer
+      - Séverine Lemière
+      - Sophie Pochic
+      - Rachel Silvera
     year: 2021
     language: French
     pages: 341
@@ -16344,6 +16720,9 @@ titles:
     series: Le présent avenir
   - title: Le mirage de la compétence
     authors: []
+    editors:
+      - Patrick Rozenblatt
+      - Djaouidah Séhili
     year: 2021
     language: French
     sources:
@@ -16385,9 +16764,11 @@ titles:
     verified: true
   - title: Nicaragua (1979-2019)
     subtitle: Du triomphe sandiniste à l'insurrection démocratique
+    original_title: 'Nicaragua(1979-2019) : Vom Triumph der Sandinisten zum demokratischen Aufstand'
     series: Coyoacan
     authors:
       - Matthias Schindler
+    translators:
       - Hans-Peter Renck
     year: 2021
     language: French
@@ -16496,6 +16877,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991170818608305501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Staline
+    original_title: Stalin, an appraisal of the man and his influence
     series: Histoire, enjeux et débats
     authors:
       - Lev Davidovič Trockij
@@ -16514,6 +16896,8 @@ titles:
   - title: Syndicalisme en-commun
     subtitle: Arguments pour une refondation
     authors: []
+    editors:
+      - Francis Vergne
     year: 2021
     language: French
     sources:
@@ -16566,10 +16950,12 @@ titles:
     verified: true
   - title: Un juif berlinois organise la résistance dans la Wehrmacht
     subtitle: Arbeiter und soldat
+    original_title: '"Arbeiter und Soldat"'
     authors:
       - Wladek Flakin
-      - Gérard Billy
       - Michel Dreyfus
+    translators:
+      - Gérard Billy
     year: 2021
     language: French
     sources:
@@ -16762,9 +17148,12 @@ titles:
     verified: true
   - title: Comme un goût de révolution
     subtitle: Autobiographie d'une Black Panther
+    original_title: A taste of power
     series: Radical America
     authors:
       - Elaine Brown
+    translators:
+      - G.
     year: 2022
     language: French
     sources:
@@ -16777,8 +17166,10 @@ titles:
     verified: true
   - title: Communisme queer
     subtitle: Pour une subversion de l'hétérosexualité
+    original_title: Comunismo queer
     authors:
       - Federico Zappino
+    translators:
       - Stefania Caristia
       - Romain Descottes
     year: 2022
@@ -16907,11 +17298,13 @@ titles:
     verified: true
   - title: Ernest Mandel
     subtitle: Un révolutionnaire dans le siècle
+    original_title: Ernest Mandel
     series: Des paroles en actes
     authors:
       - Jan Willem Stutje
-      - Patrick Le Tréhondat
       - Tariq Ali
+    translators:
+      - Patrick Le Tréhondat
     year: 2022
     language: French
     sources:
@@ -16923,9 +17316,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991171113592305501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Essai sur la théorie marxienne de l'argent
+    original_title: Очерки по теории стоимости Маркса
     series: Mille marxismes
     authors:
       - Isaak Illitch Rubin
+    translators:
       - Guillaume Fondu
     year: 2022
     language: French
@@ -16966,9 +17361,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991171033533605501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Femmes et genre en Irak
+    original_title: Women and gender in Iraq
     series: Questions féministes
     authors:
       - Zahra Ali
+    translators:
       - Nada Ghosn
     year: 2022
     language: French
@@ -17219,9 +17616,11 @@ titles:
     verified: true
   - title: Les combattantes
     subtitle: L'histoire oubliée des miliciennes antifascistes dans la guerre d'Espagne
+    original_title: Les combattents
     authors:
       - Gonzalo Berger Mulattieri
       - Tània Balló
+    translators:
       - Armand Creus
       - Salvador Duran
       - Mariana Sanchez
@@ -17302,8 +17701,9 @@ titles:
     series: Des paroles en actes
     authors:
       - Joe Jacobs
-      - Annie Gouilleux
       - Henri Simon
+    translators:
+      - Annie Gouilleux
     year: 2022
     language: French
     sources:
@@ -17473,9 +17873,13 @@ titles:
     verified: true
   - title: Seuls les fous n'ont pas peur
     subtitle: Scènes de la guerre de trente ans, 1915-1945
+    original_title: 'Nur Narren fürchten nichts : Szenen aus dem dreissigjährigen Krieg, 1915-1945'
     series: Témoignages
     authors:
       - Georg Scheuer
+    translators:
+      - Christa Scheuer-Weyl
+      - Geneviève Hess
     year: 2022
     language: French
     sources:
@@ -17613,6 +18017,8 @@ titles:
     series: Alternatives Sud
     authors:
       - Frédéric Thomas
+    editors:
+      - Bernard Duterme
     year: 2023
     language: French
     sources:
@@ -17640,9 +18046,11 @@ titles:
     verified: true
   - title: Aube dorée
     subtitle: Livre noir du parti nazi grec
+    original_title: Ī maúrī vívlos tīs Chrysī́s Augīs
     series: Mauvais temps
     authors:
       - Dimitris Psarras
+    translators:
       - Panos Angelopoulos
     year: 2023
     language: French
@@ -17662,8 +18070,10 @@ titles:
         url: https://www.sudoc.fr/279098138
     verified: true
   - title: Barcelone, mai 1937
+    original_title: Barcelona, mayo de 1937
     authors:
       - Agustín Guillamón
+    translators:
       - Violette Marcos Alvarez
       - Mariana Sanchez
       - Omar Slifi
@@ -17687,8 +18097,10 @@ titles:
     verified: true
   - title: Che Guevara
     subtitle: Ombres et lumières d'un révolutionnaire
+    original_title: The politics of Che Guevara
     authors:
       - Samuel Farber
+    translators:
       - Patrick Silberstein
     year: 2023
     language: French
@@ -17821,6 +18233,8 @@ titles:
     verified: true
   - title: Guide du Périgueux colonial et des communes proches
     authors: []
+    editors:
+      - Jean Marc Champeaux
     year: 2023
     language: French
     sources:
@@ -17843,11 +18257,13 @@ titles:
     verified: true
   - title: Internationalisme ou russification ?
     subtitle: La négation grand-russe de l'Ukraine
+    original_title: Ìnternacionalizm c̆i rusifìkacìâ?
     series: Utopie critique
     authors:
       - Ivan Mihajlovič Dzûba
-      - Kaléna Uhryn
       - Vladyslav Starodubtsev
+    translators:
+      - Kaléna Uhryn
     year: 2023
     language: French
     sources:
@@ -17882,8 +18298,10 @@ titles:
     verified: true
   - title: L'origine du christianisme
     subtitle: Une étude historique
+    original_title: Der Ursprung des Christentums
     authors:
       - Karl Kautsky
+    translators:
       - Richard Poulin
     year: 2023
     language: French
@@ -18030,10 +18448,12 @@ titles:
     verified: true
   - title: Les combattantes
     subtitle: L'histoire oubliée des miliciennes antifascistes dans la guerre d'Espagne
+    original_title: Les combattents
     series: Bibliothèque d'histoire moderne et contemporaine
     authors:
       - Gonzalo Berger Mulattieri
       - Tània Balló
+    translators:
       - Armand Creus
       - Salvador Duran
       - Mariana Sanchez
@@ -18110,6 +18530,7 @@ titles:
     verified: true
   - title: Malcolm X
     subtitle: Une vie de réinventions, 1925-1965
+    original_title: Malcolm X
     authors:
       - Manning Marable
     year: 2023
@@ -18150,6 +18571,7 @@ titles:
     series: Coyoacán
     authors:
       - Matthias Schindler
+    translators:
       - Hans-Peter Renck
     year: 2023
     language: French
@@ -18215,9 +18637,11 @@ titles:
     verified: true
   - title: Révolution dans la guerre d'Espagne
     subtitle: 1930-1939
+    original_title: 'El POUM en la historia : Andreu Nin y la revolucion española'
     series: Utopie critique
     authors:
       - Wilebaldo Solano
+    translators:
       - Olga Balaguer
       - Manuel Periañez
     year: 2023
@@ -18252,6 +18676,8 @@ titles:
     series: Alternatives Sud
     authors:
       - François Houtart
+    editors:
+      - Bernard Duterme
     year: 2023
     language: French
     sources:
@@ -18300,8 +18726,10 @@ titles:
     verified: true
   - title: “L'”origine du christianisme
     subtitle: Une étude historique
+    original_title: <<Der>> Ursprung des Christentums
     authors:
       - Karl Kautsky
+    translators:
       - Richard Poulin
     year: 2024
     language: French
@@ -18335,12 +18763,14 @@ titles:
     verified: true
   - title: Apprendre ensemble
     subtitle: Une pédagogie de l'espoir
+    original_title: Teaching community
     series: Questions féministes
     authors:
       - Bell Hooks
-      - Margaux Portron
       - Patrick Rozenblatt
       - Djaouidah Sehili
+    translators:
+      - Margaux Portron
     year: 2024
     language: French
     sources:
@@ -18405,12 +18835,16 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb47582416x
     verified: true
   - title: Comprendre le racisme quotidien
+    original_title: 'Understanding everyday racism : an interdisciplinary theory'
     series: Intersection.S
     authors:
       - Philomena Essed
+      - Silyane Larcher
+    editors:
+      - Damien Trawalé
+    translators:
       - Damien Trawale
       - Patricia Bass
-      - Silyane Larcher
     year: 2024
     language: French
     sources:
@@ -18600,6 +19034,10 @@ titles:
     series: Histoire, enjeux et débats
     authors:
       - Mohammed Harbi
+    editors:
+      - Émir Harbi
+      - Robi Morder
+      - Irène Paillard
     year: 2024
     language: French
     sources:
@@ -18624,9 +19062,11 @@ titles:
     verified: true
   - title: Le plan Condor en procès
     subtitle: Répression sans frontières et crimes contre l'humanité en Amérique du Sud
+    original_title: Los juicios del cóndor
     series: Coyoacán
     authors:
       - Francesca Lessa
+    translators:
       - Inès Michelini
     year: 2024
     language: French
@@ -18640,8 +19080,13 @@ titles:
     verified: true
   - title: Le poids des étoiles
     subtitle: Vie de l'anarchiste Octavio Alberola
+    original_title: El peso de las estrellas
     authors:
       - Agustín Comotto
+    editors:
+      - Mariana Sanchez
+      - Emmanuel Delgado Hoch
+    translators:
       - Philippe Campos
       - Salvador Duran
       - Mariana Sanchez
@@ -18981,11 +19426,13 @@ titles:
     verified: true
   - title: La théorie matérialiste de l'État
     subtitle: Les transformations du système capitaliste des États
+    original_title: Materialistische Staatstheorie
     series: Mille marxismes
     authors:
       - Joachim Hirsch
-      - Gérard Billy
       - Benjamin Bürbaumer
+    translators:
+      - Gérard Billy
     year: 2025
     language: French
     sources:
@@ -19059,8 +19506,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991172737425205501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Michel Pablo, l'odyssée d'un trotskiste hérétique
+    original_title: The well-dressed revolutionary
     authors:
       - Hall Greenland
+    translators:
       - Hilippe Antzenberger
       - Eric Chopard
       - Patrick Le Tréhondat
@@ -19153,11 +19602,13 @@ titles:
     verified: true
   - title: Révolutions ukrainiennes
     subtitle: 1917-1919 & 2014
+    original_title: Ukraińskie rewolucje
     authors:
       - Zbigniew Marcin Kowalewski
+      - Jean Batou
+    translators:
       - Stefan Bekier
       - Jan Malewski
-      - Jean Batou
     year: 2025
     language: French
     sources:
@@ -19215,8 +19666,10 @@ titles:
     verified: true
   - title: Soulèvement dans les Andes
     subtitle: Pérou, 2022-2023
+    original_title: Estallido en los Andes
     authors:
       - Anahí Durand Guevara
+    translators:
       - Emmanuel Delgado Hoch
     year: 2025
     language: French
@@ -19245,9 +19698,11 @@ titles:
     verified: true
   - title: Une lecture féministe de la dette
     subtitle: Violence économique et désobéissance financière
+    original_title: Una lectura feminista de la deuda
     authors:
       - Lucí Cavallero
       - Verónica Gago
+    translators:
       - Philippe Campos
     year: 2025
     language: French
@@ -19261,9 +19716,11 @@ titles:
     verified: true
   - title: Vers l'abolition de la police
     subtitle: Violence, révoltes et libération aux États-Unis
+    original_title: Becoming abolitionists
     series: Radical America
     authors:
       - Derecka Purnell
+    translators:
       - Harold Courjeau
       - Anaïs Lecoq-Thual
     year: 2025
@@ -19278,6 +19735,7 @@ titles:
     verified: true
   - title: Violences envers les femmes en Europe
     subtitle: Genre, ethnicité et racisme
+    original_title: Violence against women and ethnicity, commonalities and differences across Europe
     series: Intersection.S; 2
     authors:
       - Stéphanie Condon
@@ -19319,8 +19777,10 @@ titles:
     verified: true
   - title: Apprendre à être critique
     subtitle: Une sagesse pratique
+    original_title: 'Teaching critical thinking : practical wisdom'
     authors:
       - Bell Hooks
+    translators:
       - Margaux Portron
     year: 2026
     language: French
@@ -19379,10 +19839,12 @@ titles:
     verified: true
   - title: Filles de l'exil
     subtitle: Mémoire et héritage chez les femmes de l'exil espagnol
+    original_title: 'Hijas del exilio : el legado republicano en las mujeres de la segunda generación'
     authors:
       - María Pilar Molina Javierre
-      - Michel Picquart
       - Pelai Pagès
+    translators:
+      - Michel Picquart
     year: 2026
     language: French
     sources:
@@ -19391,10 +19853,12 @@ titles:
     verified: true
   - title: Fin de partie ?
     subtitle: Amérique latine
+    original_title: Los gobiernos progresistas latinoamericanos del siglo XXI
     authors:
       - Franck Gaudichaud
       - Massimo Modonesi
       - Jeffery R. Webber
+    translators:
       - Cathy Ferré
       - Dorian Fréani
       - Hans-Peter Renck
@@ -19477,6 +19941,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991173147839205501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: L'autogestion en Espagne (1936-1939)
+    original_title: Experiencia autogestionaria durante la Guerra Civil española
   - title: Jeunesses engagées
     authors:
       - Valérie Becquet
@@ -19756,6 +20221,7 @@ titles:
     verified: true
   - title: Violences envers les femmes en Europe
     subtitle: Genre, ethnicité et racisme
+    original_title: Violence against women and ethnicity, commonalities and differences across Europe
     authors:
       - Stéphanie Condon
       - Ravi K. Thiara

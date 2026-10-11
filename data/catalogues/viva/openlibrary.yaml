@@ -815,6 +815,9 @@ titles:
   - title: Gesammelte Werke
     authors:
       - Rosa Luxemburg
+    editors:
+      - Clara Zetkin
+      - Adolf Warski
     year: 1923
     language: German
     links:
@@ -933,6 +936,8 @@ titles:
     authors:
       - Karl Marx
       - Hermann Duhcker
+    editors:
+      - Hermann Duncker
     year: 1923
     language: German
     sources:
@@ -1246,6 +1251,8 @@ titles:
     subtitle: Der Gesetzentwurf der Kommunistischen Reichstagsfraktion
     authors:
       - Kommunistische Partei Deutschlands
+    editors:
+      - Kommunistische Partei Deutschlands, Sektion der Kommunistischen Internationale
     year: 1924
     language: German
     sources:
@@ -1347,8 +1354,10 @@ titles:
         url: https://hdl.handle.net/2027/uc1.c102822864
   - title: Die schwere Stunde
     subtitle: Gedichte
+    original_title: Težká hodina
     authors:
       - Jiří Wolker
+    translators:
       - Lízi Schük
     year: 1924
     language: German
@@ -1818,6 +1827,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=408984856
     verified: true
   - title: Die Kinderkrankheit des Radikalismus im Kommunismus
+    original_title: Detskaja bolezn' "levizny" v kommunizme
     authors:
       - Vladimir Il’ich Lenin
     year: 1925
@@ -2030,6 +2040,7 @@ titles:
     verified: true
   - title: Stepans Teppich
     subtitle: Eine Erz. aus d. Leben d. Wolgadeutschen
+    original_title: Sztyepán szőnyege
     authors:
       - Béla Illés
       - Stefan Isidor Klein
@@ -2671,6 +2682,8 @@ titles:
   - title: Aus Clara Zetkins Leben und Werk
     authors:
       - G. G. L. Alexander
+    editors:
+      - Ernst Schneller
     year: 1927
     language: German
     sources:
@@ -3835,6 +3848,8 @@ titles:
     subtitle: Referat des Genossen Remmele, gehalten auf dem Weddinger (12.) Parteitag der KPD. am 13. Juni 1929
     authors:
       - Hermann Remmele
+    editors:
+      - Paul Merker
     year: 1929
     language: German
     sources:
@@ -4075,8 +4090,10 @@ titles:
     verified: true
   - title: Schwarz und Weiss
     subtitle: Die Wahrheit über Afrika
+    original_title: Terre d'Ebène
     authors:
       - Albert Londres
+    translators:
       - Yvan Goll
     year: 1929
     language: German
@@ -4570,6 +4587,7 @@ titles:
     series: Der internationale Roman; Band 5
     authors:
       - Naoshi Tokunaga
+    translators:
       - K. Itow
       - A. Raddatz
     year: 1930
@@ -4741,6 +4759,8 @@ titles:
   - title: Krieg!
     authors:
       - Hermann Remmele
+    editors:
+      - .. Remmele
     year: 1930
     language: German
     sources:
@@ -4805,6 +4825,8 @@ titles:
     authors:
       - Friedrich Engels
       - Vladimir Ilʹič Lenin
+    editors:
+      - Karl Schmidt
     year: 1930
     language: German
     sources:
@@ -4874,6 +4896,8 @@ titles:
     subtitle: Dokumentensammlung zum Kampfe der Kommunistischen Internationale und der Kommunistischen Partei Deutschlands gegen den Versailler Frieden, gegen den Dawesplan und gegen den Youngplan
     authors:
       - Hermann Remmele
+    editors:
+      - Kommunistische Partei Deutschlands
     year: 1930
     language: German
     sources:
@@ -4888,6 +4912,8 @@ titles:
     subtitle: Die Rettung Deutschlands aus der Youngsklaverei und Kapitalsknechtschaft
     authors:
       - Hermann Remmele
+    editors:
+      - Ernst Schneller
     year: 1930
     language: German
     sources:
@@ -5406,6 +5432,7 @@ titles:
     verified: true
   - title: Dritte Geschwindigkeit
     subtitle: Der Roman eines Staatsgutes
+    original_title: Tret´ja skorost´
     authors:
       - Konstantin Finn
     year: 1931
@@ -5582,6 +5609,8 @@ titles:
     subtitle: 'Im Anhang: 1. Marx-Engels "Gegen den sozialdemokratischen Opportunismus." 2. Die sozialdemokratischen parteiprogramme von 1863 bis 1925'
     authors:
       - Karl Marx
+    editors:
+      - Hermann Duncker
     year: 1931
     edition: 3. durchgesehene und ergänzte aufl
     series: Elementarbücher des Kommunismus
@@ -5960,6 +5989,8 @@ titles:
     authors:
       - Friedrich Engels
       - H. Duncker
+    editors:
+      - Hermann Duncker
     year: 1932
     edition: 4 ... Aufl
     series: Ekenebtarbücher des Kommunismus -- 8
@@ -6088,6 +6119,7 @@ titles:
     verified: true
   - title: Lohn, Preis und Profit
     subtitle: Vortrag gehalten 1865 im Generalrat der "Internationale"
+    original_title: Value, price and profit
     series: Elementarbücher des Kommunismus; Bd. 3
     authors:
       - Karl Marx
@@ -6120,6 +6152,8 @@ titles:
   - title: Oktoberrevolution und Rote Armee
     authors:
       - Vladimir Il’ich Lenin
+    editors:
+      - Karl Schmidt
     year: 1932
     series: Elementarbücher des Kommunismus -- Bd. 26
     language: German

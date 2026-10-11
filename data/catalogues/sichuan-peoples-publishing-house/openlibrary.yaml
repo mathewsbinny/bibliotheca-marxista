@@ -714,6 +714,8 @@ titles:
   - title: Zhong yi chang yong ming ci jian shi
     authors:
       - Chengdu Zhong yi xue yuan
+    editors:
+      - Cheng du zhong yi xue yuan
     year: 1959
     edition: Di 1 ban
     language: Chinese
@@ -1299,6 +1301,7 @@ titles:
         url: https://lccn.loc.gov/77836917
     verified: true
   - title: Mo wo er di guo
+    original_title: Muslim rule under the Sultans
     series: Ba ji si tan jian shi / I. H. Ku lei xi zhu bian; Si chuan da xue wai yu xi fan yi zu yi; di 2 juan
     authors:
       - Mafizullah Kabir
@@ -1372,6 +1375,7 @@ titles:
         url: https://openlibrary.org/books/OL45225528M
     verified: true
   - title: Mo wo er di guo
+    original_title: The Mughul empire
     series: Ba ji si tan jian shi / I. H. Ku lei xi zhu bian; Si chuan da xue wai yu xi fan yi zu yi; di 3 juan
     authors:
       - Abdur Rashid
@@ -1485,6 +1489,7 @@ titles:
         url: https://search.worldcat.org/title/23342131
     verified: true
   - title: Wai guo tong zhi he Mu si lin min zu zhu yi de xing qi
+    original_title: Alien rule and the rise of the Muslim nationalism
     series: Ba ji si tan jian shi / I. H. Ku lei xi zhu bian; Si chuan da xue wai yu xi fan yi zu yi; di 4 juan
     authors:
       - Muhammad Abdur Rahim
@@ -2570,6 +2575,8 @@ titles:
   - title: Chuan tong Chuan ju zhe zi xi xuan
     authors:
       - Sichuan sheng Chuan ju yi shu yan jiu suo
+    editors:
+      - Si chuan sheng chuan ju yi shu yan jiu suo
     year: 1979
     edition: Di 1 ban
     language: Chinese
@@ -3687,6 +3694,8 @@ titles:
   - title: Zhou zong li qing shao nian shi dai shi wen shu xin ji
     authors:
       - Enlai Zhou
+    editors:
+      - En xuan Huai
     year: 1979
     edition: Di 1 ban
     language: Chinese
@@ -4881,6 +4890,8 @@ titles:
   - title: Chang yong tong yin yi yi ci
     authors:
       - Shengke Zhu
+    editors:
+      - Sheng ke Zhu
     year: 1980
     edition: Di 1 ban
     language: Chinese
@@ -4960,6 +4971,8 @@ titles:
   - title: Chuan Hu Shan bai lian jiao qi yi zi liao ji lu
     authors:
       - Weiming Jiang
+    editors:
+      - Wei ming Jiang
     year: 1980
     edition: Di 1 ban
     language: Chinese
@@ -5196,6 +5209,9 @@ titles:
     authors:
       - Boli Zhao
       - Ronghua Chen
+    editors:
+      - Bo li Zhao
+      - Rong hua Chen
     year: 1980
     language: Chinese
     sources:
@@ -5413,6 +5429,8 @@ titles:
       - Defu Wang
       - Zhenxin Qiang
       - Zongxin Zhou
+    editors:
+      - Zhiyuan Shen
     year: 1980
     language: Chinese
     sources:
@@ -5425,6 +5443,8 @@ titles:
     authors:
       - Zhongshu Xu
       - Han yu gu wen zi zi xing biao bian xie zu
+    editors:
+      - Zhong shu Xu
     year: 1980
     language: Chinese
     sources:
@@ -6560,6 +6580,10 @@ titles:
     subtitle: Chuan tong xiang sheng ji
     authors:
       - Lizhong Ye
+    editors:
+      - 利中 叶
+      - Jilou Zhang
+      - 继楼 张
     year: 1980
     edition: Di 1 ban
     language: Chinese
@@ -9730,6 +9754,8 @@ titles:
   - title: Jian lun Li Bai he Du Fu
     authors:
       - Bai Yan
+    editors:
+      - 燕白
     year: 1981
     edition: Di 1 ban
     language: Chinese
@@ -9998,6 +10024,9 @@ titles:
   - title: Li Zhun xiao shuo xuan
     authors:
       - Zhun Li
+    editors:
+      - Xu Jing
+      - 徐靖
     year: 1981
     edition: Di 1 ban
     series: Dang dai zuo jia zi xuan cong shu
@@ -11407,6 +11436,8 @@ titles:
   - title: Yang Shen shi xuan
     authors:
       - Shen Yang
+    editors:
+      - Wencai Wang
     year: 1981
     edition: Di 1 ban
     language: Chinese
@@ -13446,6 +13477,8 @@ titles:
   - title: Ba Jin xuan ji
     authors:
       - Jin Ba
+    editors:
+      - Jing Xu
     year: 1982
     edition: Di 1 ban
     language: Chinese
@@ -13750,6 +13783,8 @@ titles:
   - title: Chuan ju chuan tong xi ju xuan
     authors:
       - 四川省川剧艺朮研究所
+    editors:
+      - Chuanju-Yishu-Yanjiusuo
     year: 1982
     edition: Di 1 ban
     language: Chinese
@@ -14188,6 +14223,8 @@ titles:
   - title: Gu Yuan shui cai hua xuan
     authors:
       - Yuan Gu
+    editors:
+      - Wei Wang
     year: 1982
     edition: Di 1 ban
     language: Chinese
@@ -14937,6 +14974,8 @@ titles:
   - title: Mao Dun xuan ji
     authors:
       - Mao Dun
+    editors:
+      - Dingzhou Li
     year: 1982
     edition: Di 1 ban
     language: Chinese
@@ -15461,8 +15500,11 @@ titles:
         url: https://lccn.loc.gov/83114244
     verified: true
   - title: Shi jing guo feng jin yi
-    authors:
+    original_title: Shi jing
+    authors: []
+    translators:
       - Jusun Lan
+      - 蓝菊荪
     year: 1982
     edition: Di 1 ban
     language: Chinese
@@ -15502,6 +15544,8 @@ titles:
   - title: Shi; Duan lian
     authors:
       - Mao Dun
+    editors:
+      - Dingzhou Li
     year: 1982
     edition: Di 1 ban
     series: Mao Dun xuan ji
@@ -15518,8 +15562,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1549444069
     verified: true
   - title: Shu qing shi si xing shi ji
+    original_title: Sonnets from the Portuguese
     authors:
       - Elizabeth Barrett Browning
+    translators:
       - Ping Fang
     year: 1982
     language: Chinese
@@ -18947,6 +18993,8 @@ titles:
   - title: Lu Xun xuan ji
     authors:
       - Lu Xun
+    editors:
+      - Yanxiu Zeng
     year: 1983
     edition: Di 1 ban
     language: Chinese
@@ -19517,6 +19565,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=720132657
     verified: true
   - title: Sha shi bi ya shi si hang shi
+    original_title: Sonnets
     authors:
       - William Shakespeare
       - Liang Zong Dai
@@ -19656,6 +19705,10 @@ titles:
     subtitle: Zhongguo li dai hua lun hua shi xuan zhu
     authors:
       - Kongyi Lin
+    editors:
+      - Yunruo He
+      - 何韫若
+      - 林孔翼
     year: 1983
     edition: Di 1 ban
     language: Chinese
@@ -22417,8 +22470,11 @@ titles:
     verified: true
   - title: GEB
     subtitle: Yi tiao yong heng di jin dai
+    original_title: Gödel, Escher, Bach
     authors:
       - Douglas Richard Hofstadter
+    translators:
+      - Xiucheng Le
     year: 1984
     edition: Di 2 ban
     series: Zou xiang wei lai cong shu
@@ -22597,6 +22653,8 @@ titles:
   - title: Huai hai ci jian zhu
     authors:
       - Guan Qin
+    translators:
+      - Shiming Yang
     year: 1984
     language: Chinese
     sources:
@@ -23022,6 +23080,8 @@ titles:
   - title: Mi Gu man hua xuan
     authors:
       - Gu Mi
+    editors:
+      - Si chuan ren min chu ban she
     year: 1984
     edition: Di 1 ban
     series: Zhongguo man hua jia cong shu
@@ -23539,6 +23599,8 @@ titles:
   - title: Taiwan min jian gu shi xuan
     authors:
       - Chu Ba
+    editors:
+      - 巴楚
     year: 1984
     edition: Di 1 ban
     series: Min jian gu shi cong shu
@@ -23602,7 +23664,8 @@ titles:
         url: https://lccn.loc.gov/86158699
     verified: true
   - title: Tian wen xin zhu
-    authors:
+    authors: []
+    translators:
       - Jiazhe Cheng
     year: 1984
     edition: Di 1 ban
@@ -23843,6 +23906,8 @@ titles:
   - title: Wu Yu ri ji
     authors:
       - Yu Wu
+    editors:
+      - Mengyuan Rong
     year: 1984
     edition: Di 1 ban
     series: Jin dai li shi zi liao zhuan kan
@@ -23929,9 +23994,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=62661757X
     verified: true
   - title: Xian dai wu li xue yu dong fang shen mi zhu yi
+    original_title: Tao of physics
     series: Zou xiang wei lai cong shu
     authors:
       - Fritjof Capra
+    translators:
       - Geng Guan
     year: 1984
     language: Chinese
@@ -24089,6 +24156,9 @@ titles:
   - title: Yin Zhou jin wen ji lu
     authors:
       - Zhongshu Xu
+    editors:
+      - Xǔ Zhōng Shū
+      - 許中舒
     year: 1984
     edition: Di 1 ban
     language: Chinese
@@ -24253,6 +24323,7 @@ titles:
     series: Zou xiang wei lai cong shu
     authors:
       - Donella H. Meadows
+    translators:
       - Baoheng Li
     year: 1984
     language: Chinese
@@ -25732,6 +25803,10 @@ titles:
   - title: Dazu shi ku yi shu
     authors:
       - Dewang Zhong
+    editors:
+      - Mingguang Chen
+      - 明光 陈
+      - 德望 钟
     year: 1985
     edition: Di 1 ban
     language: Chinese
@@ -26113,6 +26188,9 @@ titles:
     authors:
       - Mengyuan Rong
       - Bofeng Zhang
+    editors:
+      - 孟源 荣
+      - 伯锋 章
     year: 1985
     edition: Di 1 ban
     language: Chinese
@@ -26353,6 +26431,8 @@ titles:
     authors:
       - Delong Liu
       - Xi Zhu
+    editors:
+      - Deping Liu
     year: 1985
     edition: Di 1 ban
     language: Chinese
@@ -26466,6 +26546,7 @@ titles:
         url: https://lccn.loc.gov/87139918
     verified: true
   - title: Mei you ji xian de zeng zhang
+    original_title: Ultimate resource
     series: Zou xiang wei lai cong shu
     authors:
       - Julian Lincoln Simon
@@ -26657,7 +26738,8 @@ titles:
   - title: Ren de xian dai hua
     subtitle: Xin li, si xiang, tai du, xing wei$dYin Lu jun bian yi
     series: Zou xiang wei lai cong shu
-    authors:
+    authors: []
+    translators:
       - Yin Lujun
     year: 1985
     language: Chinese
@@ -27038,6 +27120,9 @@ titles:
   - title: Wang Jian mu shi ke yi shu
     authors:
       - Tingkuan Wen
+    editors:
+      - Tingkuang Wen
+      - Zhizheng Song
     year: 1985
     edition: Di 1 ban
     language: Chinese
@@ -27094,6 +27179,9 @@ titles:
   - title: Wu Yu ji
     authors:
       - Yu Wu
+    editors:
+      - Qing Zhao
+      - Cheng Zheng
     year: 1985
     edition: Di 1 ban
     language: Chinese
@@ -27235,9 +27323,11 @@ titles:
     verified: true
   - title: Xin de zong he
     subtitle: She hui sheng wu xue
+    original_title: On human nature
     series: Zou xiang wei lai cong shu
     authors:
       - Edward O. Wilson
+    translators:
       - Kunfeng Li
     year: 1985
     language: Chinese
@@ -28633,10 +28723,12 @@ titles:
         url: https://lccn.loc.gov/87176713
     verified: true
   - title: Ding liang she hui xue
+    original_title: Concepts and models of a quantitative sociology
     series: Zou xiang wei lai cong shu
     authors:
       - Wolfgang Weidlich
       - Günter Haag
+    translators:
       - Zhi'an Guo
     year: 1986
     language: Chinese
@@ -28741,6 +28833,7 @@ titles:
     authors:
       - Sigmund Freud
       - John Rickman
+    translators:
       - Mingming He
     year: 1986
     language: Chinese
@@ -28940,6 +29033,9 @@ titles:
   - title: Jing ji fa ji ben zhi shi
     authors:
       - Wanjue Su
+    editors:
+      - Su Wanjue
+      - Li Ziyu
     year: 1986
     edition: Di 1 ban
     series: Pu ji fa lü chang shi cong shu
@@ -29030,6 +29126,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=860045013
     verified: true
   - title: Liang Qi chao yu Zhong guo jin dai si xiang
+    original_title: Liang Ch'i-ch'ao and the mind of modern china
     series: Zou xiang wei lai cong shu
     authors:
       - Joseph Richmond Levenson
@@ -29189,9 +29286,11 @@ titles:
     verified: true
   - title: Ri ben wei shen me "cheng gong"
     subtitle: Xi fang de ji shu he Ri ben de min zu jing shen
+    original_title: Why has Japan 'succeeded'?
     series: Zou xiang wei lai cong shu
     authors:
       - Michio Morishima
+    translators:
       - Guocheng Hu
     year: 1986
     language: Chinese
@@ -29380,6 +29479,8 @@ titles:
   - title: Shi jing ci dian
     authors:
       - Xi Xiang
+    editors:
+      - Xiliang Guo
     year: 1986
     edition: Di 1 ban
     language: Chinese
@@ -29401,8 +29502,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1401629776
     verified: true
   - title: Shi qi shi ji Ying guo di ke xue, ji shu yu she hui
+    original_title: Science, technology & society in seventeenth century England
     authors:
       - Robert King Merton
+    translators:
       - Dainian Fan
       - Zhong Wu
       - Xiaodong Jiang
@@ -29651,9 +29754,11 @@ titles:
         url: https://lccn.loc.gov/87200808
     verified: true
   - title: Xi tong si xiang
+    original_title: Systems concepts
     series: Zou xiang wei lai cong shu
     authors:
       - Ralph F. Miles
+    translators:
       - Zhixin Yang
       - Minghao Ge
     year: 1986
@@ -29798,8 +29903,12 @@ titles:
     verified: true
   - title: Zeng zhang, duan que yu xiao lü
     subtitle: She hui zhu yi jing ji di yi ge hong guan dong tai mu xing
+    original_title: Growth, shortage and efficiency
     authors:
       - János Kornai
+    translators:
+      - Zhiyuan Cui
+      - Mingjin Qian
     year: 1986
     edition: Di 1 ban
     series: Zou xiang wei lai cong shu
@@ -30807,6 +30916,7 @@ titles:
     verified: true
   - title: Dui ke xue de ao man yu pian jian
     subtitle: Cha Pa Si nuo yan jiang ji
+    original_title: The two cultures and a second look, 1964 ; Science and government, 1960
     series: Zou xiang wei lai cong shu
     authors:
       - C. P. Snow
@@ -30861,6 +30971,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1037260384
     verified: true
   - title: Fa zhan she hui xue
+    original_title: The sociology of developing Societies
     series: Zou xiang wei lai cong shu
     authors:
       - Ankie M. M. Hoogvelt
@@ -30933,6 +31044,8 @@ titles:
   - title: Gu dai wen xue shi yu ci ci dian
     authors:
       - Hui Wang
+    editors:
+      - Wang Hui
     year: 1987
     edition: Di 1 ban
     language: Chinese
@@ -31045,6 +31158,7 @@ titles:
     series: Zou xiang wei lai cong shu
     authors:
       - Ivan Dmitrievič Kovalʹčenko
+    translators:
       - Yixiao Wen
     year: 1987
     language: Chinese
@@ -31308,6 +31422,7 @@ titles:
     series: Zou xiang wei lai cong shu
     authors:
       - Frank Pavkin
+    translators:
       - Dong Liu
     year: 1987
     language: Chinese
@@ -31486,9 +31601,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1037658825
     verified: true
   - title: She hui xuan ze yu ge ren jia zhi
+    original_title: Social choice and individual values
     series: Zou xiang wei lai cong shu
     authors:
       - Kenneth Joseph Arrow
+    translators:
       - Zhiwu Chen
     year: 1987
     language: Chinese
@@ -31500,6 +31617,7 @@ titles:
     series: Zou xiang wei lai cong shu
     authors:
       - Earl R. Babbie
+    translators:
       - Yinhe Li
     year: 1987
     language: Chinese
@@ -31789,6 +31907,7 @@ titles:
     series: Zou xiang wei lai cong shu
     authors:
       - M. J. Charlesworth
+    translators:
       - Xiaochun Tian
     year: 1987
     language: Chinese
@@ -31813,7 +31932,8 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1038568722
     verified: true
   - title: Zhen'guan zheng yao yi zhu
-    authors:
+    authors: []
+    translators:
       - Guangda Ye
     year: 1987
     edition: Di 1 ban
@@ -32851,9 +32971,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1612119808
     verified: true
   - title: Ke xue jia zai she hui zhong de jue se
+    original_title: Scientist's role in society
     series: Zou xiang wei lai cong shu
     authors:
       - Yosef Ben-Daṿid
+    translators:
       - Jialing Zhao
     year: 1988
     language: Chinese
@@ -32912,9 +33034,11 @@ titles:
     verified: true
   - title: Ping deng yu xiao lü
     subtitle: Zhong da de quan heng
+    original_title: Equality and efficiency, the big tradeoff
     series: Zou xiang wei lai cong shu
     authors:
       - Arthur M. Okun
+    translators:
       - Zhongmin Wang
       - Qing Huang
     year: 1988
@@ -33028,9 +33152,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=77569553X
     verified: true
   - title: Wei te gen si tan zhe xue dao lun
+    original_title: Ludwig Wittgenstein
     series: Zou xiang wei lai cong shu
     authors:
       - Cornelis Anthonie van Peursen
+    translators:
       - Dong Liu
       - Weihe Xie
     year: 1988
@@ -33055,11 +33181,13 @@ titles:
         url: https://search.worldcat.org/title/34572490
     verified: true
   - title: Xian dai hua de dong li
+    original_title: Dynamics of modernization
     series: Zou xiang wei lai cong shu
     authors:
       - Cyril Edwin Black
-      - Xiaoguang Duan
       - Dong Liu
+    translators:
+      - Xiaoguang Duan
     year: 1988
     language: Chinese
     sources:
@@ -34953,6 +35081,8 @@ titles:
     authors:
       - Yingtao Wei
       - Yimin He
+    editors:
+      - Kui Yingtao
     year: 1990
     language: Chinese
     sources:
@@ -35139,9 +35269,11 @@ titles:
     verified: true
   - title: Zong jiao xin li xue
     subtitle: Ge ren sheng huo zhong de zong jiao
+    original_title: Psychology of religion
     authors:
       - Mary Jo Meadow
       - Richard D. Kahoe
+    translators:
       - Linshu Chen
     year: 1990
     language: Chinese

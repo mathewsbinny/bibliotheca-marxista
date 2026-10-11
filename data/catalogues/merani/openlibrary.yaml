@@ -41,8 +41,10 @@ titles:
     verified: true
   - title: Dolgaja noč'
     subtitle: Gruzinskaja chronika 13 veka
+    original_title: Didi ġame
     authors:
       - Grigol Abašije
+    translators:
       - V. Soluchin
     year: 1968
     language: Russian
@@ -76,7 +78,8 @@ titles:
     verified: true
   - title: Gruzinskie šestidesâtniki v russkom osvoboditelʹnom dviženii
     subtitle: Avtorizovannyj perevod s gruzinskogo
-    authors:
+    authors: []
+    translators:
       - Prokofij Konstantinovič Ratiani
       - Prokofii Konstantinovich Ratiani (Прокофий Константинович Ратиани)
     year: 1968
@@ -288,6 +291,7 @@ titles:
     authors:
       - Akakij Konstantinovič Gacerelia
       - Akakii Konstantinovich Gatserelia (Акакий Константинович Гацерелиа)
+    translators:
       - N. Akkerman
       - N. Akkerman (Н. Аккерман)
     year: 1968
@@ -301,6 +305,8 @@ titles:
   - title: Nikoloz Baratašvili. Stihotvoreniâ, poèma, pisʹma. Sostaviteli M. Zaverin i L. Kalandadze. Predislovie G. Abašidze
     authors:
       - Knâzʹ Nikolos Melitonovič Baratašvili
+    editors:
+      - L. Kalandadze
     year: 1968
     language: Russian
     sources:
@@ -782,10 +788,11 @@ titles:
       - Sulkhan-saba Orbeliani (Сулхан-Саба Орбелиани)
       - Georgiâ Leonidze
       - Georgiia Leonidze (Георгия Леонидзе)
-      - Elena Gogoberidze
-      - Elena Gogoberidze (Елена Гогоберидзе)
       - Revaza Baramidze
       - Revaza Baramidze (Реваза Барамидзе)
+    translators:
+      - Elena Gogoberidze
+      - Elena Gogoberidze (Елена Гогоберидзе)
       - Fatʹma Tvaltvadze
       - Fatma Tvaltvadze (Фатьма Твалтвадзе)
     year: 1969
@@ -965,7 +972,8 @@ titles:
     verified: true
   - title: Stranicy boevyh podvigov
     subtitle: Gruziny - učastniki dviženiâ soprotivleniâ v Evrope
-    authors:
+    authors: []
+    translators:
       - Miron Isidorovič Kočiašvili
       - Miron Isidorovich Kochiashvili (Мирон Исидорович Кочиашвили)
     year: 1969
@@ -1101,6 +1109,9 @@ titles:
   - title: Zapiski soldata
     authors:
       - Giorgi Kʻavtʻaraże
+    translators:
+      - N. Tarhnišvili
+      - N. Tarkhnishvili (Н. Тархнишвили)
     year: 1969
     language: Russian
     pages: 196
@@ -1214,6 +1225,8 @@ titles:
   - title: English Proverbs and Sayings
     authors:
       - I. Gvarjalaże
+    editors:
+      - J. I. Mchedlishvili
     year: 1970
     language: English
     pages: 324
@@ -1622,6 +1635,7 @@ titles:
     authors:
       - Akakij Konstantinovič Iremadze
       - Akakii Konstantinovich Iremadze (Акакий Константинович Иремадзе)
+    translators:
       - N. Akkerman
       - N. Akkerman (Н. Аккерман)
     year: 1970
@@ -2321,6 +2335,14 @@ titles:
       - A. N. Bestavashvili
       - Alekʻsandre Gvaxaria
       - Šotʻa Rustʻavelis saxelobis kʻartʻuli literaturis istoriis instituti
+    editors:
+      - Georgi Leonidze
+      - Georgi Leonidze (Георги Леонидзе)
+      - A. A. Gvahariâ
+      - A. A. Gvakhariia (А. А. Гвахария)
+    translators:
+      - A. Bestavašvili
+      - A. Bestavashvili (А. Беставашвили)
     year: 1971
     series: Pamiatniki gruzinskoǐ literatury
     language: Russian
@@ -2519,6 +2541,7 @@ titles:
     authors:
       - Guram Levanovič Asatiani
       - Guram Levanovich Asatiani (Гурам Леванович Асатиани)
+    translators:
       - È. Ananiašvili
       - A. Ananiashvili (Э. Ананиашвили)
       - Elena Davidovna Gogoberidze
@@ -2689,6 +2712,7 @@ titles:
     authors:
       - Georgij Šlavovič Cicišvili
       - Georgii Shlavovich Tsitsishvili (Георгий Шлавович Цицишвили)
+    translators:
       - M. Zaverin
       - M. Zaverin (М. Заверин)
     year: 1972
@@ -2790,6 +2814,8 @@ titles:
       - Kseniia Sikharulidze (Ксения Сихарулидзе)
       - Mihail Čikovani
       - Mikhail Chikovani (Михаил Чиковани)
+    editors:
+      - Elene Virsalaje
     year: 1972
     language: Russian
     sources:
@@ -2804,6 +2830,8 @@ titles:
   - title: Gruzinskoe narodnoe poėticheskoe tvorchestvo
     authors:
       - Elene Virsalaże
+    editors:
+      - Elena B. Virsaladze
     year: 1972
     language: Russian
     pages: 550
@@ -3511,6 +3539,7 @@ titles:
     authors:
       - Aleksandr Pavlovič Kalandadze
       - Aleksandr Pavlovich Kalandadze (Александр Павлович Каландадзе)
+    translators:
       - I. Dadiani
       - E. Dadiani (И. Дадиани)
     year: 1973
@@ -3961,6 +3990,8 @@ titles:
   - title: Po sledam Rustaveli
     authors:
       - Ir Abašiże
+    translators:
+      - Aleksandr Mezirov
     year: 1974
     language: Russian
     pages: 109
@@ -3991,6 +4022,7 @@ titles:
     subtitle: Roman
     authors:
       - Šalva Dadiani
+    translators:
       - Nati Čcheidze
     year: 1974
     language: Russian, Georgian
@@ -4069,6 +4101,8 @@ titles:
   - title: Sobranie sočinenij
     authors:
       - Ėmmanuil A. Fejgin
+    editors:
+      - M. Kuchašvili
     year: 1974
     language: Russian
     sources:
@@ -4286,6 +4320,7 @@ titles:
     authors:
       - Sofrom Zaharʹevič Mgaloblišvili
       - Sofrom Zakharevich Mgaloblishvili (Софром Захарьевич Мгалоблишвили)
+    translators:
       - Z. Eligulašvili
       - Z. Eligulashvili (З. Елигулашвили)
     year: 1974
@@ -4950,6 +4985,7 @@ titles:
         url: https://lccn.loc.gov/80179160
     verified: true
   - title: Sobranie sočinenij
+    original_title: Selećtions
     authors:
       - Knonstantin Lordkipanidze
       - Knonstantin Lordkipanidze (Кнонстантин Лордкипанидзе)
@@ -5242,8 +5278,10 @@ titles:
     verified: true
   - title: Bassejn
     subtitle: Povesti
+    original_title: Auzi
     authors:
       - T'amaz Čilaje
+    translators:
       - Anaidy Bestavašvili
     year: 1976
     language: Russian
@@ -5352,6 +5390,8 @@ titles:
     subtitle: Stranitsy letopisi kulʹturnykh sviazeĭ
     authors:
       - Mikhėil Gorgidze
+    editors:
+      - Vano Šaduri
     year: 1976
     language: Russian
     pages: 406
@@ -5656,8 +5696,10 @@ titles:
     verified: true
   - title: Cotnė, ili padenie i vozvyšenie Gruzii
     subtitle: Gruzinskaja chronika 13 veka
+    original_title: Cotne, anu k'art'velt'a dacema da amaġleba
     authors:
       - Grigol Abašije
+    translators:
       - Vladimir A. Solouchin
     year: 1977
     language: Russian
@@ -5990,8 +6032,10 @@ titles:
     verified: true
   - title: Kabachi
     subtitle: Roman
+    original_title: Qabab̮i
     authors:
       - Lado Mrelašvili
+    translators:
       - Ėlisbar Ananiašvili
     year: 1977
     language: Russian
@@ -6029,6 +6073,7 @@ titles:
   - title: Literaturnaâ bogema starogo Tbilisi
     authors:
       - Ioseb Grišašvili
+    translators:
       - Nodar Tarhnišvili
       - Nodar Tarkhnishvili (Нодар Тархнишвили)
       - Vladimir Nikolaevič Leonovič
@@ -6056,8 +6101,10 @@ titles:
         url: https://openlibrary.org/books/OL43738178M
     verified: true
   - title: Literaturnaja bogema starogo Tbilisi
+    original_title: Jveli T'bilisis literaturuli bohema
     authors:
       - Ioseb Grišašvili
+    translators:
       - Nodar Tarchnišvili
     year: 1977
     language: Russian
@@ -6099,6 +6146,7 @@ titles:
     authors:
       - Vahtang Lukič Razikašvili
       - Vakhtang Lukich Razikashvili (Вахтанг Лукич Разикашвили)
+    translators:
       - I. Avališvili
       - E. Avalishvili (И. Авалишвили)
       - A. Perim
@@ -6390,6 +6438,9 @@ titles:
   - title: Sny o Gruzii
     authors:
       - Bella Akhmadulina
+    editors:
+      - Gueorgui Gueorguievitch Margvelachvili
+      - Georgii Georgievitch Margvelachvili (Георгий Георгиевитч Маргвелачвили)
     year: 1977
     language: Russian
     pages: 541
@@ -6671,6 +6722,7 @@ titles:
   - title: Vitjaź v tigrovoj škure
     authors:
       - Šot̕a
+    translators:
       - Šalva Nuc̕ubije
     year: 1977
     language: Russian
@@ -6884,6 +6936,9 @@ titles:
   - title: Izbrannoe
     authors:
       - Nikolaĭ Semenovich Tikhonov
+    editors:
+      - G. Abašiẑe
+      - G. Abashiѕe (Г. Абашиѕе)
     year: 1978
     language: Russian
     sources:
@@ -7004,6 +7059,7 @@ titles:
   - title: Lek'sebi
     authors:
       - Igor Sikirycki
+    translators:
       - Grigol Ĵuluxije
     year: 1978
     language: Georgian
@@ -7037,6 +7093,7 @@ titles:
     subtitle: Perevod s gruzinskogo Korneliâ Kekelidze
     authors:
       - Iakov Curtaveli
+    translators:
       - Korneli Kekelije
     year: 1978
     language: Russian
@@ -7273,6 +7330,8 @@ titles:
   - title: Sobranie sočinenij v dvuh tomah
     authors:
       - Ilia Čavčavadze
+    translators:
+      - Georgij Džibladze
     year: 1978
     language: Russian
     sources:
@@ -7575,6 +7634,7 @@ titles:
     subtitle: Romany
     authors:
       - Friedrich Dürrenmatt
+    translators:
       - N. Ruchadze
     year: 1979
     language: Russian
@@ -7586,6 +7646,7 @@ titles:
     authors:
       - Šota Varlamovič Dzidziguri
       - Shota Varlamovich Dzidziguri (Шота Варламович Дзидзигури)
+    translators:
       - S. Serebrâkov
       - S. Serebriakov (С. Серебряков)
     year: 1979
@@ -7829,6 +7890,9 @@ titles:
   - title: Izbrannoe
     authors:
       - Egnate Ninošvili
+    translators:
+      - Fatʹma Tvaltvadze
+      - Fatma Tvaltvadze (Фатьма Твалтвадзе)
     year: 1979
     language: Russian
     pages: 460
@@ -8261,8 +8325,10 @@ titles:
     verified: true
   - title: Zakon večnosti
     subtitle: Roman, rasskazy
+    original_title: Maradisobis kanoni
     authors:
       - Nodar Dumbaje
+    translators:
       - Zurab Achvlediani
     year: 1979
     language: Russian
@@ -8273,6 +8339,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=435620150
     verified: true
   - title: Баски и Грузины
+    original_title: ბასკები და ქართველები
     authors:
       - Shota Dzidziguri
     year: 1979
@@ -8446,6 +8513,8 @@ titles:
     subtitle: = Kʿartʿlis cʿxovrebis kʿronikebi
     authors:
       - Vaxtang Čelije
+    translators:
+      - A. Bestavašvili
     year: 1980
     language: Russian
     sources:
@@ -8696,6 +8765,7 @@ titles:
     authors:
       - Èlgudža Samuelovič Magradze
       - Elgudzha Samuelovich Magradze (Элгуджа Самуелович Маградзе)
+    translators:
       - A. Bestavašvili
       - A. Bestavashvili (А. Беставашвили)
     year: 1980
@@ -8976,6 +9046,7 @@ titles:
     authors:
       - Šalva Nikolaevič Gozališvili
       - Shalva Nikolaevich Gozalishvili (Шалва Николаевич Гозалишвили)
+    translators:
       - Gulʹnara Gozališvili
       - Gulnara Gozalishvili (Гульнара Гозалишвили)
     year: 1981
@@ -9675,6 +9746,7 @@ titles:
   - title: Stichotvorenija, poėma
     authors:
       - Nikoloz Barat'ašvili
+    translators:
       - Boris Leonidovič Pasternak
     year: 1982
     language: Russian
@@ -9717,6 +9789,7 @@ titles:
     authors:
       - Sergi Čilaâ
       - Sergi Chilaia (Серги Чилая)
+    translators:
       - È. Evstafʹevič Eligulašvili
       - A. Evstafevich Eligulashvili (Э. Евстафьевич Елигулашвили)
     year: 1982
@@ -9791,6 +9864,8 @@ titles:
     authors:
       - K. Simonov
       - K. Simonov (К. Симонов)
+    editors:
+      - Konstantin Mihajlovič Simonov
     year: 1983
     language: Russian
     sources:
@@ -9914,6 +9989,7 @@ titles:
     subtitle: Rasskazy
     authors:
       - Guram Doč̕anašvili
+    translators:
       - Ė. Džaliašvili
     year: 1983
     language: Russian
@@ -9925,6 +10001,9 @@ titles:
     subtitle: Roman
     authors:
       - T. A. Bibiluri
+    translators:
+      - U. Rižinašvili
+      - U. Rizhinashvili (У. Рижинашвили)
     year: 1983
     language: Russian
     pages: 310
@@ -9941,6 +10020,9 @@ titles:
   - title: Russkie pisateli v Gruzii
     authors:
       - R. Miminoshvili
+    editors:
+      - Roman Severʹjanovič Miminošvili
+      - Roman Severianovich Miminoshvili (Роман Северьйанович Миминошвили)
     year: 1983
     language: Russian
     pages: 215
@@ -10056,8 +10138,10 @@ titles:
         url: https://search.worldcat.org/title/56608010
     verified: true
   - title: Vitjaz' v tigrovoj škure
+    original_title: Vep'xistqaosani
     authors:
       - Šot̕a
+    translators:
       - Pantelejmon Petrenko
     year: 1983
     language: Not recorded
@@ -10648,8 +10732,11 @@ titles:
     verified: true
   - title: Mif i logika
     subtitle: Struktura prozy Konstantinė Gamsakhurdia
+    original_title: Mit'osi da logika
     authors:
       - Soso Sigua
+    translators:
+      - Nelli Solod
     year: 1984
     language: Russian
     pages: 335
@@ -10761,8 +10848,11 @@ titles:
     verified: true
   - title: Oreol
     subtitle: Roman
+    original_title: Šaravandedi
     authors:
       - A. P. Kalandadze
+    translators:
+      - Alla Perim
     year: 1984
     language: Russian
     pages: 421
@@ -11175,8 +11265,10 @@ titles:
         url: https://d-nb.info/1037821971
     verified: true
   - title: Tvorčeskij putʹ Gëte
+    original_title: Goetʹes šemokʹmedebitʹi gza
     authors:
       - Otʹar Jinoria
+    translators:
       - Ė. Eligulašcvili
     year: 1984
     language: Russian
@@ -12123,6 +12215,8 @@ titles:
   - title: Roman i ėpocha
     authors:
       - Giorgi Merkvilaje
+    translators:
+      - Eduard Eligulašvili
     year: 1985
     language: Russian
     sources:
@@ -12153,8 +12247,10 @@ titles:
     verified: true
   - title: Šel po doroge čelovek
     subtitle: Roman
+    original_title: Gzaze ert̕i kac̕i midioda
     authors:
       - Ot̕ar Čilaje
+    translators:
       - Elizbar Ananiašvili
     year: 1985
     language: Russian
@@ -13068,6 +13164,7 @@ titles:
     subtitle: Amce
     authors:
       - Bohdan Drozdowski
+    translators:
       - Ĵemal Čelije
       - Ambrosi Grišikašvili
     year: 1987
@@ -13177,8 +13274,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=362329001
     verified: true
   - title: Drevo želanija
+    original_title: Natvris xe
     authors:
       - Giorgi Leonije
+    translators:
       - Ėlisbar Ananiašvili
     year: 1987
     language: Russian
@@ -13374,8 +13473,10 @@ titles:
     verified: true
   - title: List'ja paporotnika
     subtitle: Roman
+    original_title: Gvimris p'ot'lebi
     authors:
       - Ramaz Kobije
+    translators:
       - Viktorija Zinina
     year: 1987
     language: Russian
@@ -13399,7 +13500,8 @@ titles:
     verified: true
   - title: Maršal inženernyh vojsk A. V. Gelovani
     subtitle: Dokumentalʹnaâ povestʹ
-    authors:
+    authors: []
+    translators:
       - I. Tatišvili
       - E. Tatishvili (И. Татишвили)
     year: 1987
@@ -13464,8 +13566,10 @@ titles:
     verified: true
   - title: More i četyre devuški
     subtitle: Roman
+    original_title: Żgva da ot'xi k'ališvili
     authors:
       - Alek'sandre V. Č'xaije
+    translators:
       - L. Kutateladze
     year: 1987
     language: Russian
@@ -13528,6 +13632,7 @@ titles:
     authors:
       - Akakij Konstantinovič Iremadze
       - Akakii Konstantinovich Iremadze (Акакий Константинович Иремадзе)
+    translators:
       - D. Sturua
       - D. Sturua (Д. Стуруа)
     year: 1987
@@ -13797,6 +13902,7 @@ titles:
     subtitle: Pod'emnyj kran
     authors:
       - Bohdan Drozdowski
+    translators:
       - Ĵemal Čelije
     year: 1987
     language: Georgian
@@ -13820,6 +13926,7 @@ titles:
     subtitle: (Mot'xroba, eseebi)
     authors:
       - Tadeusz Różewicz
+    translators:
       - Natela Gavasheli
       - Giorgi Mačutaje
     year: 1987
@@ -13845,6 +13952,7 @@ titles:
   - title: U istokov
     authors:
       - Tadeusz Różewicz
+    translators:
       - Natela Gavašeli
       - G. Macutadze
     year: 1987
@@ -13969,6 +14077,8 @@ titles:
   - title: Chetyre dnia v strane Aĭosa
     authors:
       - Revaz Japʻariże
+    translators:
+      - Zurab Axvlediani
     year: 1988
     language: Russian
     pages: 172
@@ -14042,8 +14152,11 @@ titles:
     verified: true
   - title: Doroga k materinskomu domu
     subtitle: Rasskazy
+    original_title: Gza dedulet'isken
     authors:
       - Revaz Inanišvili
+    translators:
+      - Alek'sandre Ebanoije
     year: 1988
     language: Russian
     pages: 230
@@ -14116,9 +14229,11 @@ titles:
     verified: true
   - title: I vsjakij, kto vstretitsja so mnoj
     subtitle: Roman
+    original_title: Qovelman č'emman mpovnelman
     series: Bibliotheka gruzinskoj prozy
     authors:
       - Ot̕ar Čilaje
+    translators:
       - Boris Grigor'evič Reznikov
     year: 1988
     language: Russian
@@ -14143,8 +14258,10 @@ titles:
     verified: true
   - title: Il'ja
     subtitle: Roman
+    original_title: Ilia
     authors:
       - Alek'sandre Kalandaje
+    translators:
       - Alla Perim
     year: 1988
     language: Russian
@@ -14176,6 +14293,8 @@ titles:
   - title: Istoričeskie chroniki Gruzii
     authors:
       - Vaxtang Čelije
+    translators:
+      - A. Bestavašvili
     year: 1988
     language: Russian
     sources:
@@ -14218,6 +14337,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/006783528
     verified: true
     subtitle: Le Caucase
+    original_title: Impressions de voyage
   - title: Kto ubil inspektora
     subtitle: Roman
     authors:
@@ -14341,8 +14461,10 @@ titles:
     verified: true
   - title: Odnaždy noč'ju
     subtitle: Povest', roman, rasskazy
+    original_title: Ert'xel ġamit'
     authors:
       - Davit' Kvic'arije
+    translators:
       - D. J̌anašvili
     year: 1988
     language: Russian
@@ -14418,8 +14540,11 @@ titles:
     verified: true
   - title: Soboleznovanie
     subtitle: Roman
+    original_title: Samjimari
     authors:
       - Grigol Abašiże
+    translators:
+      - Vladimir A. Solouchin
     year: 1988
     language: Russian
     pages: 158
@@ -14550,8 +14675,15 @@ titles:
     verified: true
   - title: Tainstvo krasoty
     subtitle: Kniga vospominaniĭ
+    original_title: Silamazis saidumloeba
     authors:
       - Lado Gudiašvili
+    editors:
+      - T. Kobaladze
+      - T. Kobaladze (Т. Кобаладзе)
+    translators:
+      - N. Akkerman
+      - N. Akkerman (Н. Аккерман)
     year: 1988
     language: Russian
     pages: 116
@@ -14600,6 +14732,8 @@ titles:
   - title: Ulybka manekena
     authors:
       - Lali Bregvaże
+    translators:
+      - Viktorija Zinina
     year: 1988
     language: Russian
     pages: 208
@@ -14612,6 +14746,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1097044440
     verified: true
     subtitle: Rasskazy, povest'
+    original_title: Manekenis ġimili
   - title: V tsarstve gor
     subtitle: Gruziia v zhizni i tvorchestve dekabristov-literatorov
     authors:
@@ -14628,10 +14763,11 @@ titles:
   - title: Vitâzʹ v tigrovoj škure
     authors:
       - Shota Rustaveli
-      - Šalva Nucubidze
-      - Shalva Nutsubidze (Шалва Нуцубидзе)
       - Aleksandr Baramidze
       - Aleksandr Baramidze (Александр Барамидзе)
+    translators:
+      - Šalva Nucubidze
+      - Shalva Nutsubidze (Шалва Нуцубидзе)
     year: 1988
     language: Russian
     sources:
@@ -15016,6 +15152,8 @@ titles:
     authors:
       - Isaak Èmmanuilovič Babelʹ
       - Isaak Emmanuilovich Babel (Исаак Эммануилович Бабель)
+    editors:
+      - U. M. Spektor
     year: 1989
     language: Russian
     sources:
@@ -15069,8 +15207,10 @@ titles:
         url: https://search.worldcat.org/title/326805819
     verified: true
   - title: Smert'ju smert' poprav
+    original_title: Sikvdilit'a sikvdilisa damt'rgunveli
     authors:
       - Eduard Sixarulije
+    translators:
       - Ėleonora Nejman
     year: 1989
     language: Russian
@@ -15117,9 +15257,11 @@ titles:
     verified: true
   - title: Strastnaja nedelja
     subtitle: Roman
+    original_title: Vnebis kvira
     series: Biblioteka gruzinskoj prozy
     authors:
       - Revaz J̌apʿarije
+    translators:
       - A. Zlatkin
     year: 1989
     language: Not recorded
@@ -15129,9 +15271,11 @@ titles:
     verified: true
   - title: Tol'ko odin čelovek
     subtitle: Povesti i rasskazy
+    original_title: Mxolod ert'i kac'i
     series: Biblioteka gruzinskoj prozy
     authors:
       - Guram Doč̕anašvili
+    translators:
       - M. Gržendzica
     year: 1989
     language: Russian
@@ -15159,6 +15303,7 @@ titles:
     subtitle: Vis i Ramin
     authors:
       - Alek'sandre Gvaxaria
+    translators:
       - Solomon Iordanišvili
     year: 1989
     language: Russian
@@ -15333,6 +15478,7 @@ titles:
     authors:
       - Kazimierz Waliszewski
       - Vaxtang Xarčilava
+    translators:
       - Akaki Bregaje
     year: 1990
     language: Georgian
@@ -15388,6 +15534,8 @@ titles:
   - title: Mtʻvariani dġis pʻreskebi
     authors:
       - Mixo Mosulišvili
+    editors:
+      - Milica Japaridze
     year: 1990
     language: Georgian
     pages: 181
@@ -15537,6 +15685,10 @@ titles:
   - title: Stihotvoreniâ, perevody, očerki, statʹi
     authors:
       - Ossip Mandelstam
+    editors:
+      - Georgij Georgievič Margvelašvili
+      - Pavel Markovič Nerler
+      - Irina Mihajlovna Semenko
     year: 1990
     language: Russian
     sources:

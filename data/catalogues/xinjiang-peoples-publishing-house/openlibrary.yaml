@@ -1492,6 +1492,11 @@ titles:
   - title: Yu yan xue dao lun
     authors:
       - Zhaotong Li
+    editors:
+      - Li Zhào Tóng
+      - 李兆同
+      - Xú Sī Yì
+      - 徐思益
     year: 1981
     edition: Di 1 ban
     language: Chinese
@@ -1528,7 +1533,8 @@ titles:
         url: https://openlibrary.org/books/OL13545882M
     verified: true
   - title: Zhong guo gu dai yu yan xuan yi
-    authors:
+    authors: []
+    translators:
       - Youming Zhu
       - Siyi Xu
       - Xiaomin Yang
@@ -2040,6 +2046,7 @@ titles:
   - title: Lu da ji shi ji
     authors:
       - Abū-ʿAbdallāh Ǧaʿfar Rūdakī
+    translators:
       - Hui Zhang
     year: 1982
     language: Chinese
@@ -2794,6 +2801,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA58829223
     verified: false
   - title: 18-19 shi ji xin jiang she hui shi yan jiu
+    original_title: Jūhachi-jūkyū-seiki Higashi Torukisutan shakai shi kenkyū
     authors:
       - Tōru Saguchi
       - Songchun Ling
@@ -3866,7 +3874,8 @@ titles:
         url: https://lccn.loc.gov/86128207
     verified: true
   - title: Wai guo er tong wen xue zuo pin xin shang (Xi bo wen)
-    authors:
+    authors: []
+    translators:
       - Jintai Yi
     year: 1984
     language: Mongolian
@@ -3937,6 +3946,7 @@ titles:
         url: https://lccn.loc.gov/85228240
     verified: true
   - title: Xi yu wen hua shi
+    original_title: Seiiki bunkashi
     authors:
       - Tōru Haneda
       - 亨 羽田
@@ -5037,7 +5047,8 @@ titles:
     verified: true
   - title: Xi bo zu qing ge
     subtitle: (Xi, Han dui zhao) = Sibe uksurai buyenin ucun
-    authors:
+    authors: []
+    translators:
       - Wenling Wu
     year: 1985
     language: Manchu, Chinese
@@ -6136,6 +6147,8 @@ titles:
   - title: Ka'ermeike zu zai Eguo jing nei shi qi de li shi gai kuang
     authors:
       - N. N. Palʹmov
+    translators:
+      - Shuming Xu
     year: 1986
     edition: Di 1 ban
     language: Chinese, Russian
@@ -7264,6 +7277,7 @@ titles:
     verified: true
   - title: Cabcal Sibe Dzijysiyan uherilehe arbun
     subtitle: '= Cha bu cha er Xi bo Zi zhi xian gai kuang: (Xi bo wen)'
+    original_title: Cha bu cha er Xi bo Zi zhi xian gai kuang
     authors: []
     year: 1987
     language: Manchu
@@ -8641,6 +8655,8 @@ titles:
     authors:
       - Xinjiang duiwai wenhua jiaoliu xiehui Xinjiang hua ce bian weihui
       - 新疆对外文化交流协会 新疆化册编委会
+    editors:
+      - Wang Zenguyan
     year: 1989
     language: Chinese, English
     sources:
@@ -8934,7 +8950,8 @@ titles:
     verified: true
   - title: Leifeng-i jube
     subtitle: '= Lei Feng de gu shi: (Xi bo wen)'
-    authors:
+    authors: []
+    translators:
       - Zhalu'a
     year: 1990
     language: Manchu
@@ -9015,6 +9032,8 @@ titles:
       - 博雅
       - Cheshan Qi
       - 奇车山
+    editors:
+      - Boya
     year: 1990
     language: Chinese
     sources:

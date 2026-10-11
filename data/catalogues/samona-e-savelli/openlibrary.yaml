@@ -209,14 +209,16 @@ titles:
         url: https://www.sudoc.fr/110863631
     verified: true
   - title: L'economia mondiale e l'imperialismo
+    original_title: Мировое хозяйство и империализм (экономический очерк)
     series: Cultura politica; 7
     authors:
       - Nikolaj Ivanovič Buharin
       - Nikolai Ivanovich Bukharin (Николай Иванович Бухарин)
-      - Ezio Ferrero
       - Paolo Santi
       - Vladimir Ilʹič Lenin
       - Vladimir Ilich Lenin (Владимир Ильич Ленин)
+    translators:
+      - Ezio Ferrero
     year: 1966
     language: Italian
     sources:
@@ -272,8 +274,9 @@ titles:
   - title: Il marxismo polacco all'opposizione
     authors:
       - Jacek Kuroń
-      - Livio Maitan
       - Karol Modzelewski
+    translators:
+      - Livio Maitan
     year: 1967
     language: Italian
     sources:
@@ -644,8 +647,9 @@ titles:
   - title: Il marxismo polacco all'opposizione
     authors:
       - Jacek Kuroń
-      - Livio Maitan
       - Karol Modzelewski
+    translators:
+      - Livio Maitan
     year: 1969
     language: Italian
     sources:
@@ -913,9 +917,11 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA13763803
     verified: false
   - title: Il fallimento della Seconda Internazionale
+    original_title: Le congrès manqué. La nuova sinistra
     series: Saggistica; 30
     authors:
       - Georges Haupt
+    translators:
       - Vottorio Di Qual
     year: 1970
     language: Italian
@@ -945,6 +951,7 @@ titles:
         url: https://d-nb.info/578701847
     verified: true
   - title: L'opposizione di sinistra nella guerra civile spagnola
+    original_title: Revolution and counter-revolution in Spain, including "The civil war in Spain"
     series: Problemi di storia; 2
     authors:
       - Felix Morrow
@@ -955,9 +962,11 @@ titles:
         url: https://www.sudoc.fr/021154643
     verified: true
   - title: L'origine del cristianesimo
+    original_title: Der Ursprung des Christentums
     series: Problemi di storia; 4
     authors:
       - Karl Kautsky
+    translators:
       - Andrea Barbaranelli
     year: 1970
     language: Italian
@@ -1059,6 +1068,8 @@ titles:
   - title: Scritti scelti
     authors:
       - Errico Malatesta
+    editors:
+      - Gino Cerrito
     year: 1970
     series: Biblioteca della sinistra, 10
     language: Italian
@@ -1074,9 +1085,10 @@ titles:
   - title: Tesi manifesti e risoluzioni
     series: Cultura politica; 59
     authors:
+      - Internationale
+    translators:
       - Edgardo Pellegrini
       - Laura Pellegrini
-      - Internationale
     year: 1970
     language: Italian
     sources:
@@ -1191,6 +1203,8 @@ titles:
     verified: true
   - title: I Movimenti femministi in Italia
     authors: []
+    editors:
+      - Rosalba Spagnoletti
     year: 1971
     language: Italian
     sources:
@@ -1344,9 +1358,10 @@ titles:
   - title: Tesi manifesti e risoluzioni
     series: Cultura politica; 60
     authors:
+      - Internationale
+    translators:
       - Edgardo Pellegrini
       - Laura Pellegrini
-      - Internationale
     year: 1971
     language: Italian
     sources:
@@ -1401,6 +1416,8 @@ titles:
   - title: Grotowski o della negazione
     authors:
       - Vanda Monaco
+    editors:
+      - Serge Ouaknine
     year: 1972
     series: Italian drama
     language: Italian
@@ -1440,6 +1457,7 @@ titles:
     series: La nuova sinistra. Cultura politica; 26
     authors:
       - Lev Davidovič Trockij
+    translators:
       - Livio Maitan
     year: 1972
     language: Italian

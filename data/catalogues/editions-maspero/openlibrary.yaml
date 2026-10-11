@@ -39,9 +39,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991088945289705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: La guerre d'Espagne
+    original_title: Spagna
     series: Cahiers libres; Nr. 1/2
     authors:
       - Pietro Nenni
+    translators:
       - Jean Baumier
     year: 1959
     language: French
@@ -96,12 +98,14 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=452578825
     verified: true
   - title: Au pied du mont Kenya
+    original_title: Facing mount Kenya
     series: Les textes à l'appui
     authors:
       - Jomo Kenyatta
+      - Georges Balandier
+    translators:
       - Gabriel Marcu
       - Pierre Balta
-      - Georges Balandier
     year: 1960
     language: French
     sources:
@@ -169,9 +173,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991085945789705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: La guerre d'Espagne
+    original_title: Spagna
     series: Cahiers libres; 1/2
     authors:
       - Pietro Nenni
+    translators:
       - Jean Baumier
     year: 1960
     language: French
@@ -192,9 +198,11 @@ titles:
     verified: true
   - title: Le grand tournant
     subtitle: De Staline à Khrouchtchev
+    original_title: La grande svolta
     series: Cahiers libres; 9-10
     authors:
       - Giuseppe Boffa
+    translators:
       - Jean Noaro
     year: 1960
     language: French
@@ -284,8 +292,11 @@ titles:
     verified: true
     pages: 166
   - title: Les origines du socialisme allemand
+    original_title: De primis socialismi Germanici lineamentis
     authors:
       - Jean Jaurès
+    translators:
+      - Adrien Veber
     year: 1960
     series: Cahiers libres
     language: French
@@ -348,6 +359,7 @@ titles:
     series: Cahiers libres; 12-13
     authors:
       - Pietro Nenni
+    translators:
       - Jeanne Modigliani
     year: 1960
     language: French
@@ -467,8 +479,11 @@ titles:
     series: Cahiers libres; no. 24-25
     authors:
       - Fidel Castro
-      - Jacques Grignon-Dumoulin
       - Claude Julien
+    editors:
+      - Jacques Grignon-Dumaulin
+    translators:
+      - Jacques Grignon-Dumoulin
     year: 1961
     language: French
     sources:
@@ -548,6 +563,8 @@ titles:
     subtitle: '"Le dossier des 121"'
     series: Cahiers libres; 14
     authors: []
+    editors:
+      - François Maspero
     year: 1961
     language: French
     sources:
@@ -607,6 +624,8 @@ titles:
   - title: Le procès du réseau Jeanson
     authors:
       - Francis Jeanson
+    editors:
+      - Marcel Péju
     year: 1961
     series: Cahiers libres -- no. 17-18
     language: French
@@ -663,7 +682,8 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=129093408
     verified: true
   - title: Poésie populaire des Turcs et des Kurdes
-    authors:
+    authors: []
+    translators:
       - Gérard Chaliand
     year: 1961
     series: '"Voix" -- no.3'
@@ -700,6 +720,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=583876501
     verified: true
   - title: En cette année 1941
+    original_title: In quest'anno 1941
     series: Collection "Voix"; 5
     authors:
       - Nâzım Hikmet
@@ -908,9 +929,11 @@ titles:
         url: https://www.sudoc.fr/064586464
     verified: true
   - title: Les étapes de la révolution russe
+    original_title: Le tappe de la rivoluzione russa
     series: Cahiers libres; 35
     authors:
       - Giuseppe Boffa
+    translators:
       - J. Bourbousson
       - G. Bourbousson
     year: 1962
@@ -967,6 +990,8 @@ titles:
   - title: A B C du communisme
     authors:
       - Nicolas Boukharine
+    editors:
+      - Pierre Broué
     year: 1963
     edition: Édition nouvelle
     series: Bibliothèque socialiste -- 1
@@ -1066,8 +1091,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1609724402
     verified: true
   - title: Histoire du mouvement ouvrier anglais
+    original_title: The British labor movement, 1770-1920
     authors:
       - Arthur Leslie Morton
+    translators:
+      - Fanchita Gonzalez-Batlle
     year: 1963
     series: Cahiers libres -- nos. 39-40
     language: French
@@ -1100,6 +1128,7 @@ titles:
     series: Voix; 9
     authors:
       - Blas de Otero
+    translators:
       - Claude Couffon
     year: 1963
     language: Spanish, French
@@ -1160,8 +1189,11 @@ titles:
     verified: true
   - title: Les batailles de la liberte
     subtitle: Memoires d'un optimiste
+    original_title: La Guerra empezo en España
     authors:
       - Julio Alvarez del Vayo
+    translators:
+      - Fanchita Gonzalez-Batlle
     year: 1963
     series: Cahiers libres -- Nos.50-51
     language: French
@@ -1243,11 +1275,13 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991103136089705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Des Voix dans la neige
+    original_title: Voices in the snow
     series: Voix; 11
     authors:
       - Olga Andreyev Carlisle
-      - Raymond Albeck
       - Claude Bourdet
+    translators:
+      - Raymond Albeck
     year: 1964
     language: French
     sources:
@@ -1331,6 +1365,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991049884869708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: L'utopie anglaise
+    original_title: The English utopia
     series: Les textes á l'appui
     authors:
       - Arthur L. Morton
@@ -1376,8 +1411,9 @@ titles:
     series: Bibliothèque socialiste; 3
     authors:
       - Rosa Luxemburg
-      - Alexandre-Marie Desrousseaux
       - Robert Paris
+    translators:
+      - Alexandre-Marie Desrousseaux
     year: 1964
     language: French
     sources:
@@ -1395,8 +1431,11 @@ titles:
         url: https://archive.org/details/sc_0101813813_00000001653654
   - title: Les Bolchéviks et la révolution d'octobre
     subtitle: Procès-verbaux du comité central du parti ouvrier social-démocrate russe (bolchévique) août 1917-février 1918
+    original_title: I bolscevichi e la rivoluzione d'Ottobre
     authors:
       - Giuseppe Boffa
+    translators:
+      - Catherine Paris
     year: 1964
     language: French
     pages: 361
@@ -1510,9 +1549,10 @@ titles:
     series: Cahiers libres; 55
     authors:
       - Leo Huberman
-      - Patrick Prado
       - Paul M. Sweezy
       - Jean-Pierre Berthe
+    translators:
+      - Patrick Prado
     year: 1964
     language: French
     sources:
@@ -1693,6 +1733,8 @@ titles:
   - title: L'Amérique Latine en marche (première conférence tricontinentale, La Havane, 1964)
     authors:
       - Rodolfo Stavenhagen
+    editors:
+      - François Maspero
     year: 1965
     language: French
     sources:
@@ -1940,6 +1982,8 @@ titles:
     authors:
       - Violeta Parra
       - Fanchita Gonzalez Batlle
+    translators:
+      - Fanchita Gonzalez-Batlle
     year: 1965
     language: Spanish
     sources:
@@ -1962,6 +2006,8 @@ titles:
     subtitle: Sa vie et son oeuvre
     authors:
       - Paul Froelich
+    translators:
+      - Jacqueline Bois
     year: 1965
     series: Bibliothèque socialiste -- 8
     language: French
@@ -2059,9 +2105,11 @@ titles:
     verified: true
   - title: Vie de Francisco Franco
     subtitle: Régent du royaume d'Espagne par la grâce de Dieu
+    original_title: Francisco Franco, hijo de dios
     series: Cahiers libres; 78-79
     authors:
       - Luis Ramírez
+    translators:
       - Abel Espaing
     year: 1965
     language: French
@@ -2072,6 +2120,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=46839107X
     verified: true
   - title: Vie de Francisco Franco, régent du royaume d'Espagne par la grace Dieu
+    original_title: Francisco Franco, hijo de dios
     series: Cahiers libres; 78/79
     authors:
       - Luis Ramirez
@@ -2192,6 +2241,7 @@ titles:
     series: Cahiers libres; no. 31
     authors:
       - Ernesto Che Guevara
+    translators:
       - Gérard Chaliand
       - Juliette Minces
     year: 1966
@@ -2402,8 +2452,11 @@ titles:
     verified: true
   - title: Les cols blancs
     subtitle: Les classes moyennes aus Etats-Unis
+    original_title: White collar
     authors:
       - Charles Wright Mills
+    translators:
+      - André Chassigneux
     year: 1966
     series: Textes à l'appui -- 16
     language: French
@@ -2547,6 +2600,8 @@ titles:
   - title: Œuvres complètes rassemblées
     authors:
       - Eugène Pottier
+    editors:
+      - Pierre Brochon
     year: 1966
     series: Voix
     language: French
@@ -2811,6 +2866,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=46646391X
     verified: true
   - title: Au pied du Mont Kenya
+    original_title: Facing Mount Kenya
     series: Petite collection Maspero; 1
     authors:
       - Jomo Kenyatta
@@ -2822,8 +2878,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=334699347
     verified: true
   - title: Balzac et le réalisme français
+    original_title: Balzac und der französische Realismus
     authors:
       - Lukács György
+    translators:
+      - Paul Laveau
     year: 1967
     series: Petite collection Maspero -- 17
     language: French
@@ -2840,8 +2899,11 @@ titles:
     verified: true
   - title: Basta !
     subtitle: Chants de témoignage et de révolte de l'Amérique latine
+    original_title: ¡Basta!
     authors:
       - Méri Franco-Lao
+    translators:
+      - Gonzalo Estrada
     year: 1967
     series: Voix -- no. 16
     language: French
@@ -2897,6 +2959,8 @@ titles:
   - title: Démocratie et conseils ouvriers
     authors:
       - Max Adler
+    editors:
+      - Yvon Bourdet
     year: 1967
     series: Bibliothèque socialiste
     language: French
@@ -2922,9 +2986,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb34238171m
     verified: true
   - title: Économie politique de la croissance
+    original_title: The political economy of growth
     series: Économie et socialisme; 7
     authors:
       - Paul Alexander Baran
+    translators:
       - Liane Mozère
     year: 1967
     language: French
@@ -3011,6 +3077,7 @@ titles:
       - label: Borrow (Internet Archive)
         url: https://archive.org/details/essaissurlameriq0000regi
   - title: Guerre du peuple, armée du peuple
+    original_title: People's war, People's Army
     series: Petite collection Maspero; 14
     authors:
       - Võ Nguyên Giáp
@@ -3071,8 +3138,12 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/histoiredelacomm00liss
   - title: Histoire du Mouvement Ouvrier En Europe
+    original_title: Sozialgeschichte der europäischen Arbeiterbewegung
     authors:
       - Wolfgang Abendroth
+    translators:
+      - Jean Denand
+      - Paul Laveau
     year: 1967
     series: Petite Collection Maspero
     language: English
@@ -3136,9 +3207,11 @@ titles:
     verified: true
     pages: 225
   - title: L'accumulation du capital
+    original_title: Die Akkumulation des Kapitals
     series: Bibliothèque socialiste; 11
     authors:
       - Rosa Luxemburg
+    translators:
       - Irène Petit
     year: 1967
     language: French
@@ -3269,6 +3342,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=411360140
     verified: true
   - title: Le romancero de la résistance espagnole
+    original_title: Romancero della resistenza spagnola
     series: Petite collection Maspéro; 12, 13
     authors:
       - Dario Puccini
@@ -3695,6 +3769,8 @@ titles:
   - title: Anthropologie de la Grèce antique
     authors:
       - Louis Gernet
+    editors:
+      - Jean-Pierre Vernant
     year: 1968
     series: Textes à l'appui
     language: French
@@ -3736,6 +3812,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991138250109705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Capitalisme et sous-développement en Amérique latine
+    original_title: Capitalism and underdevelopment in Latin America
     authors:
       - Andre Gunder Frank
     year: 1968
@@ -3805,11 +3882,13 @@ titles:
     verified: true
   - title: Économie politique de l'esclavage
     subtitle: Essais sur l'économie et la société du Sud esclavagiste
+    original_title: The political economy of slavery
     series: Textes à l'appui
     authors:
       - Eugene Dominick Genovese
-      - Nicole Barbier
       - Jean-Pierre Berthe
+    translators:
+      - Nicole Barbier
     year: 1968
     language: French
     sources:
@@ -3846,8 +3925,11 @@ titles:
         url: https://www.sudoc.fr/072382813
     verified: true
   - title: Guatemala, pays occupé
+    original_title: Guatemala, país ocupado
     authors:
       - Eduardo Galeano
+    translators:
+      - Dominique Éluard
     year: 1968
     series: Cahiers libres -- 132
     language: French
@@ -3914,6 +3996,7 @@ titles:
     authors:
       - Che Guevara
       - Fidel Castro
+    translators:
       - France Binard
       - Fanchita Gonzalez Batlle
     year: 1968
@@ -3950,10 +4033,12 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991056799209708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: L'essence du christianisme
+    original_title: Das Wesen des Christentums
     series: Théorie
     authors:
       - Ludwig Feuerbach
       - Jean-Pierre Osier
+    translators:
       - Jean-Pierre Grossein
     year: 1968
     language: French
@@ -3966,9 +4051,11 @@ titles:
         url: https://d-nb.info/577697536
     verified: true
   - title: L'imagination sociologique
+    original_title: The sociological imagination
     series: Les Textes à l'appui
     authors:
       - Charles Wright Mills
+    translators:
       - Pierre Clinquart
     year: 1968
     language: French
@@ -3977,8 +4064,11 @@ titles:
         url: https://www.sudoc.fr/046459588
     verified: true
   - title: La Bolivie à l'heure du Ché
+    original_title: Bolivia a la hora del Che
     authors:
       - Ruben Vasquez Diaz
+    translators:
+      - Anny Meyer
     year: 1968
     series: Cahiers libres -- 120
     language: French
@@ -4054,8 +4144,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=223905003
     verified: true
   - title: La révolution méxicaine
+    original_title: Breve historia de la revolution mexicana
     authors:
       - Jesús Silva Herzog
+    translators:
+      - Raquel Thiercelin-Mejías
     year: 1968
     series: Cahiers libres -- 109-110
     language: French
@@ -4199,6 +4292,7 @@ titles:
     verified: true
   - title: Le Vietnam
     subtitle: Études de politique et d'histoire
+    original_title: Perché il Vietnam resiste
     series: Petite collection Maspero; 24
     authors:
       - Jean Chesneaux
@@ -4382,8 +4476,11 @@ titles:
         url: https://www.sudoc.fr/004444744
     verified: true
   - title: Notre Amérique
+    original_title: Nuestra América
     authors:
       - José Martí
+    translators:
+      - André Joucla-Ruau
     year: 1968
     series: Textes à l'appui
     language: French
@@ -4420,6 +4517,7 @@ titles:
     series: Petite collection Maspero; 35
     authors:
       - Ernesto Che Guevara
+    translators:
       - Robert Marie
       - Magalie Marie
     year: 1968
@@ -4432,9 +4530,11 @@ titles:
     verified: true
     subtitle: Aus d. Span
   - title: Œuvres
+    original_title: La guerra de guerrillas
     series: Petite collection Maspero; 35
     authors:
       - Ernesto Che Guevara
+    translators:
       - Robert Merle
       - Magali Merle
     year: 1968
@@ -4525,9 +4625,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=585915504
     verified: true
   - title: Problèmes généraux du fonctionnement de l'économie socialiste
+    original_title: Ogolne problemy funkcjonowania gospodarki socjalistycznej
     series: Économie et socialisme; 10
     authors:
       - Włodzimierz Brus
+    translators:
       - B. P. Leblanc
       - S. Nowocien
       - Anna Posner
@@ -4573,11 +4675,13 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=461770970
     verified: true
   - title: Sept essais d'interprétation de la réalité péruvienne
+    original_title: 7 ensayos de interpretacion de la realidad peruana
     series: Les Textes à l'appui
     authors:
       - José Carlos Mariátegui
-      - Roland Mignot
       - Robert Paris
+    translators:
+      - Roland Mignot
     year: 1968
     language: French
     sources:
@@ -4971,6 +5075,7 @@ titles:
     series: Oeuvres / Rosa Luxemburg; 2
     authors:
       - Rosa Luxemburg
+    translators:
       - Claudie Weill
     year: 1969
     language: French
@@ -4993,6 +5098,8 @@ titles:
   - title: Entretiens avec Georg Lukacs
     authors:
       - Lukács György
+    translators:
+      - Marcel Ollivier
     year: 1969
     series: Cahiers libres, 160
     language: French
@@ -5014,8 +5121,9 @@ titles:
     series: Petite collection maspero; 39
     authors:
       - Walter Benjamin
-      - Paul Laveau
       - Gaston Bordet
+    translators:
+      - Paul Laveau
     year: 1969
     language: French
     sources:
@@ -5033,8 +5141,11 @@ titles:
         url: https://d-nb.info/577073524
     verified: true
   - title: Essais sur Bertolt Brecht
+    original_title: Versuche über Bertolt Brecht
     authors:
       - Walter Benjamin
+    translators:
+      - Paul Laveau
     year: 1969
     series: Petite collection Maspero -- 39
     language: French
@@ -5046,9 +5157,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1400105838
     verified: true
   - title: Études sur le développement du capitalisme
+    original_title: Studies in the development of capitalism
     series: Les Textes à l'appui
     authors:
       - Maurice Dobb
+    translators:
       - Liane Mozère
     year: 1969
     language: French
@@ -5069,6 +5182,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=354649744
     verified: true
   - title: Histoire du̕ mouvement ouvrier en Europe
+    original_title: Sozialgeschichte der europäischen Arbeiterbewegung
     series: Petite collection Maspero; 15
     authors:
       - Wolfgang Abendroth
@@ -5136,6 +5250,7 @@ titles:
     series: Oeuvres / Rosa Luxemburg; 3
     authors:
       - Rosa Luxemburg
+    translators:
       - Marcel Olivier
       - Irène Petit
     year: 1969
@@ -5149,6 +5264,7 @@ titles:
     series: Oeuvres / Rosa Luxemburg; 4
     authors:
       - Rosa Luxemburg
+    translators:
       - Irène Petit
     year: 1969
     language: French
@@ -5223,6 +5339,8 @@ titles:
     series: Petite collection Maspero; 47, 48
     authors:
       - Rosa Luxemburg
+    editors:
+      - Irène Petit
     year: 1969
     language: French
     sources:
@@ -5276,9 +5394,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991054825649705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: L'élite du pouvoir
+    original_title: The power elite
     series: Les textes à l'appui
     authors:
       - Charles Wright Mills
+    translators:
       - André Chassigneux
     year: 1969
     language: French
@@ -5403,6 +5523,7 @@ titles:
     verified: true
   - title: La Peau de taureau
     subtitle: Trad. du catalan par fanchita gonzalez batlle. Préf. de Raimon
+    original_title: La pell de brau
     series: Voix; 17
     authors:
       - Salvador Espriu
@@ -5490,8 +5611,9 @@ titles:
     series: Cahiers libres; 155
     authors:
       - Miguel Arraes
-      - Roch Faturi
       - Yves Goussault
+    translators:
+      - Roch Faturi
     year: 1969
     language: French
     sources:
@@ -5559,8 +5681,11 @@ titles:
     verified: true
     date_note: '1969-01-01'
   - title: Le monde d'Ulysse
+    original_title: The world of Odysseus
     authors:
       - Moses I. Finley
+    translators:
+      - Claude Vernant-Blanc
     year: 1969
     series: Petite collection Maspero -- 44
     language: French
@@ -5591,6 +5716,7 @@ titles:
     verified: true
   - title: Le pouvoir noir
     subtitle: Textes politiques
+    original_title: Malcolm X speaks
     series: Petite collection Maspero; 21
     authors:
       - Malcolm X
@@ -5709,6 +5835,10 @@ titles:
   - title: Les Bolchéviks par eux-mêmes
     authors:
       - Georges Haupt
+    translators:
+      - Claude-Catherine Kiejman
+      - Nadine Marie-Schwartzenberg
+      - Catherine Reguin
     year: 1969
     series: Bibliothèque Socialiste -- 13
     language: French
@@ -5740,8 +5870,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=531230538
     verified: true
   - title: Les guérillas péruviennes de 1965
+    original_title: Las guerrillas de 1965
     authors:
       - Héctor Béjar Rivera
+    translators:
+      - Anny Mayer
     year: 1969
     series: Cahiers libres -- 145
     language: French
@@ -5792,8 +5925,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=422209759
     verified: true
   - title: Les origines sociales de la dictature et de la démocratie
+    original_title: Social origins of dictatorship and demovracy. Lord and peasant in the making of the modern world
     authors:
       - Barrington Moore
+    translators:
+      - Pierre Clinquart
     year: 1969
     language: French
     pages: 431
@@ -5966,6 +6102,9 @@ titles:
     series: Petite collection Maspero; [41]
     authors:
       - Rosa Luxemburg
+    editors:
+      - Claudie Weill
+    translators:
       - Claudie Weill
     year: 1969
     language: French
@@ -6186,6 +6325,7 @@ titles:
     series: Oeuvres / Rosa Luxemburg; 1
     authors:
       - Rosa Luxemburg
+    translators:
       - Irène Petit
     year: 1969
     language: French
@@ -6360,6 +6500,7 @@ titles:
     series: Points; 2
     authors:
       - Bronislaw Malinowski
+    translators:
       - Pierre Clinquart
     year: 1970
     language: French
@@ -6380,6 +6521,8 @@ titles:
     verified: true
   - title: A propos de la liberté d'expression
     authors: []
+    editors:
+      - François Maspero
     year: 1970
     language: French
     sources:
@@ -6449,6 +6592,7 @@ titles:
     series: Bibliothèque socialiste; 14
     authors:
       - Samuel Bernstein
+    translators:
       - Jean Vaché
     year: 1970
     language: French
@@ -6513,8 +6657,12 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991039309779705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Contre le courant
+    original_title: Protiv tečenija
     authors:
       - Vladimir Il’ich Lenin
+    translators:
+      - V. Serge Parijanine
+      - Maurice Parijanine
     year: 1970
     language: French
     sources:
@@ -6584,12 +6732,14 @@ titles:
         url: https://d-nb.info/011751967
     verified: true
   - title: Culture et civilisation de l'Inde ancienne
+    original_title: The culture and civilisation of ancient India in historical outline
     series: Textes à l'appui; [38]
     authors:
       - Damodar Dharmanand Kosambi
-      - Charles Malamoud
       - Éric Paul Meyer
       - Jean-Luc Racine
+    translators:
+      - Charles Malamoud
     year: 1970
     language: French
     sources:
@@ -6650,9 +6800,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=196815673
     verified: true
   - title: Économie politique de la croissance
+    original_title: The political economy of growth
     series: Economie et socialisme; 7
     authors:
       - Paul Alexander Baran
+    translators:
       - Liane Mozère
     year: 1970
     language: French
@@ -6861,6 +7013,7 @@ titles:
     verified: true
   - title: L' âge de l'impérialisme
     subtitle: L'économie de la politique étrangère des Etats-Unis
+    original_title: The age of imperialism
     series: Cahiers libres; 181-182
     authors:
       - Harry Magdoff
@@ -7002,8 +7155,11 @@ titles:
     verified: true
   - title: L'Oeuvre de Frantz Fanon
     subtitle: Colonialisme et alienation dans l'oeuvre de Frantz Fanon
+    original_title: Kolonialismus und Entfremdung
     authors:
       - Renate Zahar
+    translators:
+      - Roger Dangeville
     year: 1970
     series: Petite Collection Maspero
     language: French
@@ -7094,9 +7250,11 @@ titles:
         url: https://d-nb.info/57786078X
     verified: true
   - title: La Grèce, de l'indépendance aux colonels
+    original_title: The Greek tragedy
     series: Petite collection Maspero; 61
     authors:
       - Kōnstantínos Tsoukalás
+    translators:
       - Jean-Paul Rospars
     year: 1970
     language: French
@@ -7121,8 +7279,10 @@ titles:
     verified: true
   - title: La question agraire
     subtitle: Étude sur les tendances de l'agriculture moderne
+    original_title: Die Agrarfrage, eine Übersicht über die Tendenzen der modernen Landwirtschaft und die Agrarpolitik der Sozialdemokratie
     authors:
       - Karl Kautsky
+    translators:
       - Camille Polack
       - Edgard Milhaud
     year: 1970
@@ -7142,6 +7302,7 @@ titles:
     series: Cahiers libres; 153
     authors:
       - Ernest Mandel
+    translators:
       - Marie-Louise Roux
     year: 1970
     language: French
@@ -7219,10 +7380,12 @@ titles:
     verified: true
   - title: Le capitalisme monopoliste
     subtitle: Un essai sur la société industrielle américaine
+    original_title: The monopoly capital
     series: Economie et socialisme; 11
     authors:
       - Paul Alexander Baran
       - Paul M. Sweezy
+    translators:
       - Christos Passadéos
     year: 1970
     language: French
@@ -7270,9 +7433,11 @@ titles:
     series: Domaine maghrébin
   - title: Le développement du sous-développement
     subtitle: L'Amérique latine
+    original_title: Capitalism and underdevelopment in Latin America
     series: Textes à l'appui; 39
     authors:
       - André Gunder Frank
+    translators:
       - Christos Passadéos
     year: 1970
     language: French
@@ -7372,6 +7537,7 @@ titles:
     subtitle: Membres de la Commune, discours d'ouverture, comptes rendus officiels, annexes aux procès-verbaux, projets de lois et de décrets, rapports des commissions, etc, etc
   - title: Les cols blancs
     subtitle: Essai sur les classes moyennes américaines
+    original_title: White collar
     series: Points; 7
     authors:
       - Charles Wright Mills
@@ -7495,8 +7661,11 @@ titles:
     verified: true
   - title: Les socialistes avant Marx
     subtitle: '[Anthologie avec introductions, notes et bibliographies des socialistes du XIXe siècle]'
+    original_title: Il socialismo prima di Marx
     authors:
       - Gian Mario Bravo
+    translators:
+      - Alice Théron
     year: 1970
     series: Petite collection Maspero; 52
     language: French
@@ -7588,6 +7757,7 @@ titles:
     verified: true
   - title: Lettres de l'intérieur du parti
     subtitle: Le parti communiste, les masses et les forces révolutionnaires pendant la campagne électorale à naples en mai 1968
+    original_title: Lettere dall'interno del PCI
     series: Cahiers libres; 175/176
     authors:
       - Maria A. Macciocchi
@@ -7603,6 +7773,7 @@ titles:
     series: Cahiers libres; 164
     authors:
       - Ricardo Ramirez
+    translators:
       - France Binard
     year: 1970
     language: French
@@ -7614,6 +7785,7 @@ titles:
     series: Cahiers Libres; 164
     authors:
       - Ricardo Ramírez
+    translators:
       - France Binard
       - Anny Mayer
       - Fanchita Gonzalez-Batlle
@@ -7748,6 +7920,10 @@ titles:
   - title: Militarisme, guerre, révolution
     authors:
       - Karl Liebknecht
+    editors:
+      - Claudie Weill
+    translators:
+      - Marcelo Ollivier
     year: 1970
     language: French
     sources:
@@ -8166,6 +8342,7 @@ titles:
   - title: Une théorie scientifique de la culture et autres essais
     authors:
       - Bronisław Malinowski
+    translators:
       - Pierre Clinquart
     year: 1970
     language: French
@@ -8361,8 +8538,11 @@ titles:
     verified: true
   - title: Byzance noire
     subtitle: Le royaume des Nupe du Nigéria
+    original_title: A black Byzantium, the kingdom of Nupe in Nigeria
     authors:
       - Siegfried Frederick Nadel
+    translators:
+      - Marie-Edith Baudez
     year: 1971
     series: Bibliothèque d'anthropologie
     language: French
@@ -8516,12 +8696,14 @@ titles:
     subtitle: Vasquez, Aïda, Fernand Oury; Préf. de Jean Oury
   - title: De la souillure
     subtitle: Essais sur les notions de pollution et de tabou
+    original_title: Purity and danger
     series: Bibliothèque d'anthropologie; 1
     authors:
       - Mary Douglas
-      - Anne Guérin
       - Luc De Heusch
       - Georges Balandier
+    translators:
+      - Anne Guérin
     year: 1971
     language: French
     sources:
@@ -8636,9 +8818,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1073256979
     verified: true
   - title: Études sur le développement du capitalisme
+    original_title: Studies in the development of capitalism
     series: Les Textes à l'appui
     authors:
       - Maurice Dobb
+    translators:
       - Liane Mozère
     year: 1971
     language: French
@@ -8722,9 +8906,11 @@ titles:
     verified: true
   - title: Histoire du mouvement noir aux États-Unis
     subtitle: Le réveil noir dans l'Amérique capitaliste
+    original_title: Black awakening in capitalist America
     series: Petite collection Maspéro; 75, 76
     authors:
       - Robert L. Allen
+    translators:
       - Yves Benot
     year: 1971
     language: French
@@ -9243,6 +9429,7 @@ titles:
     series: Voix
     authors:
       - Javier Heraud
+    translators:
       - Fanchita Gonzalez Batlle
     year: 1971
     language: French
@@ -9305,6 +9492,7 @@ titles:
     verified: true
   - title: Le premier Congrès des peuples de l'Orient
     subtitle: Bakou, 1-8 sept. 1920
+    original_title: Pervyĭ ʺsezd
     series: Rééditions en fac-similé
     authors:
       - Congrès des peuples de l'Orient
@@ -9372,10 +9560,12 @@ titles:
     verified: true
   - title: Les anciens grecs
     subtitle: Une introduction à leur vie et à leur pensée
+    original_title: The ancient Greeks
     series: Textes à l'appui
     authors:
       - Moses I. Finley
       - Pierre Vidal-Naquet
+    translators:
       - Monique Alexandre
     year: 1971
     language: French
@@ -9526,6 +9716,7 @@ titles:
     series: Cahiers libres; 205-206
     authors:
       - André Gunder Frank
+    translators:
       - Louis Rigodias
     year: 1971
     language: French
@@ -9726,9 +9917,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=430358180
     verified: true
   - title: Œuvres
+    original_title: El diario del Che en Bolivia
     series: Petite collection Maspero; 37
     authors:
       - Ernesto Che Guevara
+    translators:
       - France Binard
       - Fanchita Gonzalez-Batlle
     year: 1971
@@ -9980,6 +10173,8 @@ titles:
   - title: Recits de la resistance vietnamienne, 1925-1945
     authors:
       - Vo Nguyen Giap
+    editors:
+      - L. Puiseux
     year: 1971
     series: Petitecollection Maspero -- 80
     language: French
@@ -10049,9 +10244,11 @@ titles:
     verified: true
   - title: Sexualité et lutte de classes
     subtitle: Défense contre la désublimation répressive
+    original_title: Sexualität und Klassenkampf
     series: Cahiers libres; 203-204
     authors:
       - Reimut Reiche
+    translators:
       - Catherine Parrenin
       - Franz Josef Rutten
     year: 1971
@@ -10166,6 +10363,8 @@ titles:
   - title: Théorie de l'insurrection
     authors:
       - Emilio Lussu
+    translators:
+      - Alice Théron
     year: 1971
     series: Cahiers libres -- 211-212
     language: French
@@ -10373,11 +10572,13 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb353154630
     verified: true
   - title: Description de l'Attique
+    original_title: Graeciae descriptio
     series: Collection "Voix"
     authors:
       - Pausanias
-      - Marguerite Yon-Calvet
       - Jean Pouilloux
+    translators:
+      - Marguerite Yon-Calvet
     year: 1972
     language: French
     sources:
@@ -10608,9 +10809,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1343023734
     verified: true
   - title: L'Angola au cœur des tempêtes
+    original_title: In the eye of the storm
     series: Cahiers libres; 246-247
     authors:
       - Basil Davidson
+    translators:
       - Louis Rigaudias
     year: 1972
     language: French
@@ -10650,8 +10853,9 @@ titles:
     series: Textes à l'appui
     authors:
       - Daniel Lindenberg
-      - E. Leypold
       - Nicos Poulantzas
+    translators:
+      - E. Leypold
     year: 1972
     language: French
     sources:
@@ -10779,12 +10983,14 @@ titles:
         url: https://www.sudoc.fr/054960223
     verified: true
   - title: La lutte sexuelle des jeunes
+    original_title: Der Sexuelle Kampf der Jugend
     series: Petite collection Maspéro; 100
     authors:
       - Wilhelm Reich
-      - Jean-Marie Brohm
       - Joh Knief
       - Émile Copfermann
+    translators:
+      - Jean-Marie Brohm
     year: 1972
     language: French
     sources:
@@ -10870,9 +11076,11 @@ titles:
     series: Textes a l'appui
   - title: La raza
     subtitle: La révolte des Indiens du Sud des États-Unis
+    original_title: La Raza, the mexican americans
     series: Cahiers libres; 228-229
     authors:
       - Stan Steiner
+    translators:
       - Martine Wiznitzer
     year: 1972
     language: French
@@ -10959,9 +11167,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1578491169
     verified: true
   - title: La vie et l'œuvre de Rosa Luxemburg
+    original_title: Rosa Luxemburg
     series: Bibliothèque socialiste; 21-22
     authors:
       - John Peter Nettl
+    translators:
       - Marianne Rachline
       - Irène Petit
     year: 1972
@@ -11121,6 +11331,8 @@ titles:
   - title: Le syndicalisme
     authors:
       - Karl Marx
+    translators:
+      - Roger Dangeville
     year: 1972
     series: Petite collection Maspero; 96
     language: French
@@ -11174,13 +11386,15 @@ titles:
     verified: true
   - title: Les "boutiques d'enfants" de Berlin
     subtitle: Éducation anti-autoritaire et lutte pour le socialisme
+    original_title: Berliner Kinderläden, antiautoritäre Erziehung und Sozialistischer Kampf
     series: Textes à l'appui; 59
     authors:
       - Katia Sadoun
       - Valérie Schmidt-Kerhoas
       - Eberhard Schultz
-      - Patrick Sadoun
       - Daniel Hameline
+    translators:
+      - Patrick Sadoun
     year: 1972
     language: French
     sources:
@@ -11206,8 +11420,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=449724549
     verified: true
   - title: Les Bandits
+    original_title: Bandits
     authors:
       - Eric Hobsbawm
+    translators:
+      - Jean-Paul Rospars
     year: 1972
     series: Petite collection Maspero -- 103
     language: French
@@ -11274,11 +11491,13 @@ titles:
         url: https://www.sudoc.fr/010357173
     verified: true
   - title: Les mémoires de Géronimo
+    original_title: Geronimo, his own story
     series: Voix; 7
     authors:
       - Geronimo
       - Stephen Melvil Barrett
       - Frederick W. Turner
+    translators:
       - Martine Wiznitzer
     year: 1972
     language: French
@@ -11308,12 +11527,14 @@ titles:
     series: Textes à l'appui. histoire contemporaine
   - title: Les systèmes politiques des hautes terres de Birmanie
     subtitle: Analyse des structures sociales kachin
+    original_title: 'Political systems of higland Burma: a study of kachin social structure'
     series: Bibliothèque d'anthropologie
     authors:
       - Edmund Ronald Leach
-      - Anne Guérin
       - Jean Pouillon
       - Raymond Firth
+    translators:
+      - Anne Guérin
     year: 1972
     language: French
     sources:
@@ -11336,6 +11557,9 @@ titles:
   - title: Lettres sur quelques problèmes actuels du socialisme
     authors:
       - Paul Marlor Sweezy
+    translators:
+      - Christos Passadéos
+      - A. Zeggane
     year: 1972
     edition: Nouv. éd augm
     series: Petite collection Maspero -- 98
@@ -11374,8 +11598,9 @@ titles:
     series: Textes à l'appui
     authors:
       - Alexander Sutherland Neill
-      - Micheline Laguilhomie
       - Maud Mannoni
+    translators:
+      - Micheline Laguilhomie
     year: 1972
     language: French
     sources:
@@ -11448,8 +11673,9 @@ titles:
   - title: Nous, les Tupamaros
     series: Cahiers libres; 226-227
     authors:
-      - Elisabeth Chopard Lallier
       - Régis Debray
+    translators:
+      - Elisabeth Chopard Lallier
     year: 1972
     language: French
     sources:
@@ -11864,6 +12090,9 @@ titles:
   - title: Au pied du Mont Kenya
     authors:
       - Jomo Kenyatta
+    translators:
+      - Gabriel Marcou
+      - Pierre Balta
     year: 1973
     language: French
     sources:
@@ -11898,9 +12127,12 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991075466729705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Caliban cannibale
+    original_title: Casa de las Américas
     series: Voix
     authors:
       - Roberto Fernández Retamar
+    translators:
+      - Jacques-François Bonaldi
     year: 1973
     language: Spanish
     sources:
@@ -11992,8 +12224,9 @@ titles:
     authors:
       - Nâzım Hikmet
       - Kemal Tahir
-      - Münevver Andaç
       - Abidin Dino
+    translators:
+      - Münevver Andaç
     year: 1973
     language: French
     sources:
@@ -12266,12 +12499,14 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=133314170
     verified: true
   - title: L'Afrique ancienne
+    original_title: Old Africa rediscovered
     series: Petite collection Maspero; 113
     authors:
       - Basil Davidson
-      - Pierre Vidaud
       - Dominique Letellier
       - Serge Niémetz
+    translators:
+      - Pierre Vidaud
     year: 1973
     language: French
     sources:
@@ -12302,9 +12537,11 @@ titles:
     verified: true
   - title: L'État dans la société capitaliste
     subtitle: Analyse du système de pouvoir occidental
+    original_title: State in capitalist society
     series: Textes à l'appui
     authors:
       - Ralph Miliband
+    translators:
       - Christos Passadéos
     year: 1973
     language: French
@@ -12324,9 +12561,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1471259102
     verified: true
   - title: La C.I.A. contre le Cambodge
+    original_title: My war with the C.I.A
     series: Cahiers libres; 255/256
     authors:
       - Norodom Sihanouk
+    translators:
+      - Nelcya Delanoë
     year: 1973
     language: French
     sources:
@@ -12538,6 +12778,8 @@ titles:
   - title: Le parti de classe
     authors:
       - Karl Marx
+    translators:
+      - Roger Dangeville
     year: 1973
     series: Petite collection Maspero -- 120-123
     language: French
@@ -12630,12 +12872,14 @@ titles:
     subtitle: '"Sur l''articulation des modes de production", suivi de "matérialisme historique et luttes de classes"'
   - title: Les anciens grecs
     subtitle: Une introduction à leur vie et à leur pensée
+    original_title: The ancient Greeks an introduction to their life and thought
     series: Textes à l'appui
     authors:
       - Moses I. Finley
-      - Monique Alexandre
       - Pierre Vidal-Naquet
       - Jacques Lévine
+    translators:
+      - Monique Alexandre
     year: 1973
     language: French
     sources:
@@ -12646,8 +12890,9 @@ titles:
     series: Poche rouge; 2-3
     authors:
       - Lev Davidovič Trockij
-      - Victor Serge
       - Jean-Yves Potel
+    translators:
+      - Victor Serge
     year: 1973
     language: French
     sources:
@@ -12708,6 +12953,7 @@ titles:
         url: https://d-nb.info/578563940
     verified: true
     subtitle: Suivi de "Bonapartisme et fascisme"
+    original_title: Die Formen des Kapitalistischen Staates
   - title: Les maîtres de vérité dans la grèce archaique
     series: Textes a l'appui
     authors:
@@ -12731,9 +12977,11 @@ titles:
     verified: true
   - title: Les premiers temps de la Grèce
     subtitle: L'âge du bronze et l'époque archaïque
+    original_title: Early Greece. The Bronze and Archaic Ages
     series: Textes à l'appui
     authors:
       - Moses I. Finley
+    translators:
       - François Hartog
     year: 1973
     language: French
@@ -12774,6 +13022,8 @@ titles:
   - title: Libres enfants de Summerhill
     authors:
       - Alexander Sutherland Neill
+    translators:
+      - Micheline Laguilhomie
     year: 1973
     series: 'Textes à l''appui: Série pédagogique'
     language: French
@@ -12965,8 +13215,9 @@ titles:
     series: Collection Voix
     authors:
       - Nâzım Hikmet
-      - Münevver Andaç
       - Abidin Dino
+    translators:
+      - Münevver Andaç
     year: 1973
     language: French
     sources:
@@ -12978,7 +13229,9 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=798123427
     verified: true
     subtitle: Présentation Par Abidine Dino; Poèmes
+    original_title: Memleketimden insan manzaralari
   - title: 'Pièces pour un dossier: "L''essence du travail intellectuel"'
+    original_title: Das Wesen der menschlichen Kopfarbeit
     series: Theorie
     authors:
       - Josef Dietzgen
@@ -13353,6 +13606,9 @@ titles:
   - title: Dossiers africains
     authors:
       - Centre d'études africaines
+    editors:
+      - Marc Augé
+      - Jean Copans
     year: 1974
     language: French
     sources:
@@ -13480,6 +13736,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1137828463
     verified: true
   - title: Génocide au Chili
+    original_title: Chile, la traición de los generales
     series: Cahiers libres; 265
     authors:
       - Carlos Cerda
@@ -13598,8 +13855,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1145619088
     verified: true
   - title: L' économie politique du socialisme...
+    original_title: Ekonomia polityczna socjalizmu
     authors:
       - Bronisław Minc
+    translators:
+      - Anna Posner
     year: 1974
     series: Economie et socialisme -- No. 20
     language: French
@@ -13715,12 +13975,14 @@ titles:
     verified: true
   - title: L'héritage colonial de l'Amérique latine
     subtitle: Analyse d'une dépendance économique
+    original_title: The Colonial Heritage of Latin America
     series: Textes à l'appui
     authors:
       - Stanley J. Stein
       - Barbara H. Stein
-      - Jean-Pierre Rospars
       - Gerald Taylor
+    translators:
+      - Jean-Pierre Rospars
     year: 1974
     language: French
     sources:
@@ -13765,13 +14027,15 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=431423237
     verified: true
   - title: La communauté thérapeutique
+    original_title: Community as doctor
     series: Textes à l'appui; [94]
     authors:
       - Robert Norman Rapoport
-      - Hélène Couturier
-      - Gérard Bléandonu
       - Maxwell Jones
       - François de Singly
+    translators:
+      - Hélène Couturier
+      - Gérard Bléandonu
     year: 1974
     language: French
     sources:
@@ -14032,6 +14296,8 @@ titles:
   - title: Le mouvement ouvrier français
     authors:
       - Karl Marx
+    editors:
+      - Roger Dangeville
     year: 1974
     series: Petite collection Maspero -- 131-132
     language: French
@@ -14183,9 +14449,11 @@ titles:
         url: https://archive.org/details/bwb_P9-DXV-094
   - title: Les débuts de la science grecque
     subtitle: De Thalès à Aristote
+    original_title: Early Greek science
     series: Textes à l'appui; 93
     authors:
       - Geoffrey Ernest Richard Lloyd
+    translators:
       - Jacques Brunschwig
     year: 1974
     language: French
@@ -14204,11 +14472,13 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=384672418
     verified: true
   - title: Les guerres paysannes du vingtième siècle
+    original_title: Peasant wars of the twentieth century
     series: Bibliothèque d'anthropologie
     authors:
       - Eric Robert Wolf
-      - Marie-Claude Giraud
       - Jean-Pierre Berthe
+    translators:
+      - Marie-Claude Giraud
     year: 1974
     language: French
     sources:
@@ -14285,6 +14555,9 @@ titles:
     subtitle: E tudes et textes
     authors:
       - Georges Haupt
+    editors:
+      - Michael Löwy
+      - Claudie Weill
     year: 1974
     series: Bibliothe que socialiste -- 27
     language: French
@@ -14320,11 +14593,13 @@ titles:
         url: https://openlibrary.org/books/OL19964515M
     verified: true
   - title: Libres enfants de Summerhill
+    original_title: A radical approach to child rearing
     series: Textes à l'appui
     authors:
       - Alexander Sutherland Neill
-      - Micheline Laguilhomie
       - Maud Mannoni
+    translators:
+      - Micheline Laguilhomie
     year: 1974
     language: French
     sources:
@@ -14440,6 +14715,7 @@ titles:
         url: https://openlibrary.org/books/OL14159467M
     verified: true
   - title: Pédagogie des opprimés
+    original_title: Pedagogia deo oprimido
     series: Petite collection Maspero; 130
     authors:
       - Paulo Freire
@@ -14750,6 +15026,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991039105229705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Anthropologie et impérialisme
+    original_title: Anthropology and imperialisme
     series: Bibliothèque d'anthropologie; [13]
     authors:
       - Jean Copans
@@ -15230,6 +15507,7 @@ titles:
       - Jean Dessau
       - Pierre Judet
       - John D. Esseks
+    translators:
       - Nina Dessau
     year: 1975
     language: French
@@ -15330,6 +15608,7 @@ titles:
     authors:
       - Jean-Marie Vincent
       - Joachim Hirsch
+    translators:
       - Eric Dufeil
       - Andreas Streiff
       - Roland Lew
@@ -15532,13 +15811,15 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991037965149705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: La société civile bourgeoise
+    original_title: Grundlinien der Philosophie des Rechts
     series: Théorie
     authors:
       - Georg Wilhelm Friedrich Hegel
-      - Jean-Pierre Lefebvre
       - Michèle Crampe-Casnabet
       - Béatrice Avakyan-Ryng
       - Marie-Thérèse Aoudaï
+    translators:
+      - Jean-Pierre Lefebvre
     year: 1975
     language: French
     sources:
@@ -15748,8 +16029,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=509888143
     verified: true
   - title: Le théâtre tragique des Grecs
+    original_title: The Greek tragic theatre
     authors:
       - Harold Caparne Baldry
+    translators:
+      - Jean-Pierre Darmon
     year: 1975
     series: 'Textes à l''appui: Histoire classique'
     language: French
@@ -15852,6 +16136,8 @@ titles:
       - H. Brauns
       - A. Comte
       - W. Ziwié
+    editors:
+      - Georges Braun
     year: 1975
     language: French
     sources:
@@ -15942,11 +16228,13 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=113952449
     verified: true
   - title: Libres enfants de Summerhill
+    original_title: Summerhill, a radical approach to child rearing
     series: Textes à l'appui
     authors:
       - Alexander Sutherland Neill
-      - Micheline Laguilhomie
       - Maud Mannoni
+    translators:
+      - Micheline Laguilhomie
     year: 1975
     language: French
     sources:
@@ -16180,6 +16468,8 @@ titles:
   - title: Sécheresses et famines du Sahel
     authors:
       - Yves Albouy
+    editors:
+      - Jean Copans
     year: 1975
     series: Dossiers africains
     language: French
@@ -16270,8 +16560,12 @@ titles:
     verified: true
   - title: Un débat sur l'échange inégal
     subtitle: Salaires, sous-développement, impérialisme
+    original_title: Salari, sottosviluppo, imperialismo
     authors:
       - Eugenio Somaini
+    translators:
+      - Marie-Christine Paoletti
+      - A. Benaneti
     year: 1975
     series: Économie et socialisme -- 26
     language: French
@@ -16336,6 +16630,11 @@ titles:
     subtitle: Correspondence, 1891-1914
     authors:
       - Rosa Luxemburg
+    editors:
+      - Georges Haupt
+      - Claudie Weill
+      - Irène Petit
+      - Gilbert Badia
     year: 1975
     series: Bibliotheque socialiste -- no. 31
     language: French
@@ -16474,6 +16773,7 @@ titles:
     series: Collection Voix
     authors:
       - Níkos Engonópoulos
+    translators:
       - Fanchita Gonzalez-Batlle
     year: 1976
     language: French
@@ -16538,6 +16838,8 @@ titles:
   - title: Critique de l'éducation et de l'enseignement
     authors:
       - Karl Marx
+    translators:
+      - Roger Dangeville
     year: 1976
     series: Petite collection Maspero -- 171
     language: French
@@ -16632,9 +16934,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1605241784
     verified: true
   - title: Emiliano Zapata et la révolution mexicaine
+    original_title: Zapata and the Mexican revolution
     series: Cahiers libres; 314-316
     authors:
       - John Womack
+    translators:
       - Frédéric-Eugène Illouz
     year: 1976
     language: French
@@ -16714,12 +17018,14 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1610686179
     verified: true
   - title: Introduction à l'archéologie
+    original_title: Introduktion till arkeologi
     series: Textes à l'appui; 118
     authors:
-      - Carl-Axel Moberg
       - Serge Cleuziou
       - Annie Schnapp-Gourbeillon
       - Alain Schnapp
+    translators:
+      - Carl-Axel Moberg
     year: 1976
     language: French
     sources:
@@ -16839,9 +17145,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=197914411
     verified: true
   - title: L'accumulation du capital
+    original_title: Die Akkumulation des Kapitals
     series: Bibliothèque socialiste; 11
     authors:
       - Rosa Luxemburg
+    translators:
       - Irène Petit
       - Marcel Ollivier
     year: 1976
@@ -16942,6 +17250,8 @@ titles:
   - title: La Classe Ouvrière
     authors:
       - Jean Jaurès
+    editors:
+      - Madeleine Rebérioux
     year: 1976
     series: Petite Collection Maspero
     language: English
@@ -16994,8 +17304,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=435362291
     verified: true
   - title: La genèse du "Capital" chez Karl Marx
+    original_title: Zur Entstehungsgeschichte des Marxschen "Kapital"
     authors:
       - Roman Rosdolsky
+    translators:
+      - Jean-Marie Brohm
+      - Catherine Colliot-Thélène
     year: 1976
     series: Critiques de l'économie politique
     language: French
@@ -17016,6 +17330,8 @@ titles:
     series: La petite collection Maspero
     authors:
       - Yves Lacoste
+    editors:
+      - Mechthild Curtius
     year: 1976
     language: French
     sources:
@@ -17307,8 +17623,9 @@ titles:
     subtitle: Textes et documents
     series: Yenan; 2
     authors:
-      - Judith Balso
       - Partido comunista dos trabalhadores portugueses
+    translators:
+      - Judith Balso
     year: 1976
     language: French
     sources:
@@ -17336,9 +17653,12 @@ titles:
     verified: true
   - title: Le romancero de la résistance espagnole
     subtitle: Anthologie poétique bilingüe
+    original_title: Romancero della resistenza spagnola
     series: Collection Voix
     authors:
       - Dario Puccini
+    translators:
+      - Robert Paris
       - Claude Couffon
     year: 1976
     language: French
@@ -17352,13 +17672,15 @@ titles:
     verified: true
   - title: Le septième homme
     subtitle: Un livre d'images et de textes sur les travailleurs immigrés en Europe
+    original_title: A Seventh Man
     series: Collection Voix
     authors:
       - John Berger
       - Jean Mohr
       - Sven Blomberg
-      - André Simon
       - Faruk Bilici
+    translators:
+      - André Simon
     year: 1976
     language: French
     sources:
@@ -17555,6 +17877,8 @@ titles:
   - title: Les utopistes
     authors:
       - Karl Marx
+    translators:
+      - Roger Dangeville
     year: 1976
     series: Petite collection Maspero -- 161
     language: French
@@ -18004,8 +18328,12 @@ titles:
     verified: true
   - title: Travail et capitalisme monopoliste
     subtitle: La dégradation du travail au XXe siècle
+    original_title: Labor and monopoly capital
     authors:
       - Harry Braverman
+    translators:
+      - Dominique Letellier
+      - Serge Niémetz
     year: 1976
     series: Économie et socialisme -- 32
     language: French
@@ -18069,6 +18397,8 @@ titles:
   - title: Utopisme et communauté de l'avenir
     authors:
       - Karl Marx
+    translators:
+      - Roger Dangeville
     year: 1976
     series: Petite collection Maspero -- 160
     language: French
@@ -18123,7 +18453,8 @@ titles:
     verified: true
   - title: Villancicos
     series: Collection Voix
-    authors:
+    authors: []
+    translators:
       - Jean-Marie Petit
     year: 1976
     language: Spanish
@@ -18136,8 +18467,9 @@ titles:
     series: Bibliotheque socialiste; 31
     authors:
       - Rosa Luxemburg
-      - Georges Haupt
       - Claudie Weill
+    translators:
+      - Georges Haupt
     year: 1976
     language: French
     sources:
@@ -18232,8 +18564,13 @@ titles:
     verified: true
   - title: Allons-y, on commence
     subtitle: Farces
+    original_title: L'Operaio conosce 300 parole, il padrone 1000 , perquesto lui è el padrone
     authors:
       - Dario Fo
+    editors:
+      - José Guinot
+    translators:
+      - Valeria Tasca
     year: 1977
     series: Malgré tout
     language: French
@@ -18441,8 +18778,12 @@ titles:
     verified: true
   - title: Du féodalisme au capitalisme
     subtitle: Problèmes de la transition
+    original_title: The transition from feudalism to capitalism
     authors:
       - Maurice Herbert Dobb
+    translators:
+      - Florence Gauthier
+      - Françoise Murray
     year: 1977
     series: Petite collection Maspero -- 196-197
     language: French
@@ -18793,6 +19134,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991112150189705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: L'équilibre mental,la folie et la famille
+    original_title: Sanity Madness and the Family
     series: Petite collection Maspéro
     authors:
       - Ronald David Laing
@@ -18900,6 +19242,8 @@ titles:
     series: Collection de Centre d'Histoire du Syndicalisme
     authors:
       - Marie-Christine Bardouillet
+    editors:
+      - Marcel Hasfeld
     year: 1977
     language: French
     sources:
@@ -19030,8 +19374,12 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991170920974005501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: La politique et les partis à Rome au temps de César
+    original_title: Party politics in the age of Caesar
     authors:
       - Lily Ross Taylor
+    translators:
+      - Élisabeth Morin
+      - Jean-Claude Morin
     year: 1977
     series: Textes a l'appui
     language: French
@@ -19360,11 +19708,13 @@ titles:
     verified: true
   - title: Les anciens grecs
     subtitle: Une introduction à leur vie et à leur pensée
+    original_title: The ancient Greeks
     series: Les textes à l'appui
     authors:
       - Moses I. Finley
-      - Monique Alexandre
       - Pierre Vidal-Naquet
+    translators:
+      - Monique Alexandre
     year: 1977
     language: French
     sources:
@@ -19517,6 +19867,7 @@ titles:
     verified: true
   - title: Les putains de l'imperialisme
     subtitle: Les mercenaires en Afrique
+    original_title: Whores of war
     series: Cahiers libres; 332
     authors:
       - Wilfred G. Burchett
@@ -19730,6 +20081,7 @@ titles:
     series: Petite collection Maspero; 36
     authors:
       - Ernesto Che Guevara
+    translators:
       - Fanchita Gonzalez-Batlle
     year: 1977
     language: French
@@ -19885,8 +20237,13 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991099745749705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Réflexions sur le langage
+    original_title: Reflections on language
     authors:
       - Noam Chomsky
+    translators:
+      - Judith Milner
+      - Béatrice Vautherin
+      - Pierre Fiala
     year: 1977
     series: Textes à l'appui
     language: French
@@ -19950,9 +20307,11 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991042329819708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Sur le marxisme occidental
+    original_title: Considerations on Western marxism
     series: Petite collection Maspero; 194
     authors:
       - Perry Anderson
+    translators:
       - Dominique Letellier
       - Serge Niémetz
     year: 1977
@@ -20085,6 +20444,7 @@ titles:
     verified: true
   - title: 'Vietnam: un + un sont un'
     subtitle: La défaite américaine au vietnam
+    original_title: Grasshoppers and elephants
     authors:
       - Wilfred Graham Burchett
     year: 1977
@@ -20197,6 +20557,7 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Roger Dangeville
     year: 1978
     language: French
@@ -20402,8 +20763,11 @@ titles:
     verified: true
   - title: Jeux pour acteurs et non-acteurs
     subtitle: Pratique du théâtre de l'opprimé
+    original_title: 200 exercícios e jogos para o actor e para o não actor com ganas de dizer algo através do teatro
     authors:
       - Augusto Boal
+    translators:
+      - Régine Mellac
     year: 1978
     series: Malgré tout
     language: French
@@ -20436,8 +20800,11 @@ titles:
     verified: true
   - title: L' État absolutiste
     subtitle: Ses origines et ses voies
+    original_title: Lineages of the absolutist State
     authors:
       - Perry Anderson
+    translators:
+      - Dominique Niemetz
     year: 1978
     series: Textes à l'appui
     language: French
@@ -20478,6 +20845,7 @@ titles:
     series: Petite collection Maspéro; 113-114
     authors:
       - Basil Davidson
+    translators:
       - Pierre Vidaud
     year: 1978
     language: French
@@ -20586,9 +20954,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=424989816
     verified: true
   - title: L'Innocent
+    original_title: El inocente
     series: Collection Voix
     authors:
       - José Ángel Valente
+    translators:
       - Jacques Ancet
     year: 1978
     language: French
@@ -20768,13 +21138,15 @@ titles:
       - label: Borrow (Internet Archive)
         url: https://archive.org/details/lejournalisteind0000wall
   - title: Le monde d'Ulysse
+    original_title: The world of Odysseus
     series: Petite collection Maspero; 44
     authors:
       - Moses I. Finley
-      - Claude Vernant-Blanc
-      - Monique Alexandre
       - Pierre Vidal-Naquet
       - Jean-Pierre Berthe
+    translators:
+      - Claude Vernant-Blanc
+      - Monique Alexandre
     year: 1978
     language: French
     sources:
@@ -20972,8 +21344,9 @@ titles:
     authors:
       - Gérard Chaliand
       - Maxime Rodinson
-      - Annick Pélissier
       - Irène Mélikoff
+    translators:
+      - Annick Pélissier
     year: 1978
     language: French
     sources:
@@ -21004,11 +21377,13 @@ titles:
     verified: true
   - title: Lettres à la Guinée-Bissau sur l'alphabétisation
     subtitle: Une expérience en cours de réalisation
+    original_title: Cartas à Guiné Bissau
     series: Cahiers libres; 343
     authors:
       - Paulo Freire
-      - Alfred Hervé-Guyer
       - Henryane de Chaponay
+    translators:
+      - Alfred Hervé-Guyer
     year: 1978
     language: French
     sources:
@@ -21316,8 +21691,11 @@ titles:
     verified: true
   - title: Qu'est-ce que l'écologie
     subtitle: Capital, travail et environnement
+    original_title: Che cos'é l'ecologia
     authors:
       - Laura Conti
+    translators:
+      - Anne-Laure Gatti
     year: 1978
     series: Petite collection Maspero -- 200
     language: French
@@ -21342,6 +21720,7 @@ titles:
     series: Économie et socialisme; 35
     authors:
       - Charles Bettelheim
+    translators:
       - Dominique Lémann
     year: 1978
     language: French
@@ -21369,6 +21748,8 @@ titles:
   - title: Réflexions sur la nouvelle crise économique mondiale
     authors:
       - Andre Gunder Frank
+    translators:
+      - Dominique Léman
     year: 1978
     series: Les Cahiers libres -- 345
     language: French
@@ -21447,8 +21828,12 @@ titles:
         url: https://lccn.loc.gov/79342544
     verified: true
   - title: Sur Gramsci
+    original_title: The antinomies of Antonio Gramsci
     authors:
       - Perry Anderson
+    translators:
+      - Dominique Letellier
+      - Serge Niémetz
     year: 1978
     series: Petite collection Maspero -- 212
     language: French
@@ -21517,9 +21902,11 @@ titles:
     verified: true
   - title: Un peintre de notre temps
     subtitle: Roman
+    original_title: A painter of our time
     series: Voix
     authors:
       - John Berger
+    translators:
       - Fanchita Gonzalez-Batlle
     year: 1978
     language: French
@@ -21646,6 +22033,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991170248439505501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Balzac et le réalisme français
+    original_title: Balzac, Stendhal, Zola
     series: Petite collection Maspero; 17
     authors:
       - Georg Lukács
@@ -21685,6 +22073,8 @@ titles:
     verified: true
   - title: Collection Luttes sociales
     authors: []
+    editors:
+      - Gérard Althabe
     year: 1979
     language: French
     sources:
@@ -21692,12 +22082,14 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb342272943
     verified: true
   - title: Conflits sociaux en République romaine
+    original_title: Social conflicts in the Roman Republic
     series: Textes à l'appui
     authors:
       - Peter Astbury Brunt
-      - Micheline Legras-Wechsler
       - Marcel Bénabou
       - Jean-Michel David
+    translators:
+      - Micheline Legras-Wechsler
     year: 1979
     language: French
     sources:
@@ -21827,8 +22219,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991021162689705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Être communiste en Allemagne de l'Est
+    original_title: Ein deutscher Kommunist
     authors:
       - Robert Havemann
+    translators:
+      - Émile Noiraut
     year: 1979
     series: Cahiers libres -- 356
     language: French
@@ -22009,8 +22404,12 @@ titles:
     verified: true
   - title: L' Impérialisme
     subtitle: De l'époque coloniale à nos jours
+    original_title: Imperialism
     authors:
       - Harry Magdoff
+    translators:
+      - Dominique Letellier
+      - Serge Niémetz
     year: 1979
     series: Cahiers libres -- 359
     language: French
@@ -22042,6 +22441,7 @@ titles:
     series: Collection voix
     authors:
       - John Berger
+    translators:
       - Fanchita Gonzalez-Batlle
     year: 1979
     language: French
@@ -22124,9 +22524,11 @@ titles:
     verified: true
   - title: L'Etat dans la société capitaliste
     subtitle: Analyse du système de pouvoir occidental
+    original_title: The state in capitalist society
     series: Textes à l'appui
     authors:
       - Ralph Miliband
+    translators:
       - Christos Passadéos
     year: 1979
     language: French
@@ -22180,6 +22582,9 @@ titles:
     series: La Découverte; 2
     authors:
       - Christophe Colomb
+    translators:
+      - Soledad Estorach
+      - Michel Lequenne
     year: 1979
     language: French
     sources:
@@ -22365,10 +22770,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=426481909
     verified: true
   - title: Le nuage amoureux
+    original_title: Sevdali bulut
     series: Voix
     authors:
       - Nâzım Hikmet
       - Sabiha Khémir
+    translators:
       - Münevver Andaç
       - Nacer Khémir
     year: 1979
@@ -22405,9 +22812,11 @@ titles:
     verified: true
   - title: Le rétablissement de l'ordre
     subtitle: Contribution à la typologie du socialisme réel
+    original_title: Obnovení pořádku
     series: Cahiers libres; 355
     authors:
       - Milan Šimečka
+    translators:
       - Catherine Fournier
     year: 1979
     language: French
@@ -22463,9 +22872,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1609693744
     verified: true
   - title: Les anarchistes russes
+    original_title: The Russian anarchists
     series: Textes à l'appui
     authors:
       - Paul Avrich
+    translators:
       - Bernard Mocquot
     year: 1979
     language: French
@@ -22600,11 +23011,13 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=023843381
     verified: true
   - title: Libres enfants de Summerhill
+    original_title: A Radical approach to child rearing
     series: Textes à l'appui. Série Pédagogie
     authors:
       - Alexander Sutherland Neill
-      - Micheline Laguilhomie
       - Maud Mannoni
+    translators:
+      - Micheline Laguilhomie
     year: 1979
     language: French
     sources:
@@ -22659,6 +23072,8 @@ titles:
   - title: Marxisme et révolution sexuelle
     authors:
       - Alexandra Kollontai
+    editors:
+      - Judith Stora-Sandor
     year: 1979
     language: French
     pages: 284
@@ -22772,6 +23187,8 @@ titles:
     subtitle: 'Intellectuel communiste, 1926-1940: articles et correspondance inédite'
     authors:
       - Paul Nizan
+    editors:
+      - Jean-Jacques Brochier
     year: 1979
     language: French
     isbn: 270710325X
@@ -22964,10 +23381,12 @@ titles:
     verified: true
   - title: Si on me donne la parole
     subtitle: 'La vie d''une femme de la mine bolivienne: témoignage'
+    original_title: Si me permiten hablar
     series: Actes et mémoires du peuple
     authors:
       - Domitila Barrios de Chungara
       - Moema Viezzer
+    translators:
       - Louis Constant
     year: 1979
     language: French
@@ -23009,9 +23428,10 @@ titles:
   - title: Syndicalisme et libertés en Union soviétique
     series: Petite collection Maspero; 217
     authors:
+      - Olʹga Semenova
+    translators:
       - Olga Semyonova
       - Viktor Haynes
-      - Olʹga Semenova
     year: 1979
     language: French
     sources:
@@ -23022,9 +23442,11 @@ titles:
     verified: true
   - title: Taso
     subtitle: La vie d'un travailleur de la canne
+    original_title: Worker in the cane
     series: Bibliothèque d'anthropologie; 16
     authors:
       - Sidney Wilfred Mintz
+    translators:
       - Jacqueline Rouah
     year: 1979
     language: French
@@ -23065,11 +23487,13 @@ titles:
     verified: true
   - title: Très brève relation de la destruction des Indes
     subtitle: '1552'
+    original_title: Brevísima relación de la destrucción de las Indias
     series: La Découverte; 6
     authors:
       - Bartolomé de Las Casas
-      - Fanchita Gonzalez-Batlle
       - Roberto Fernández Retamar
+    translators:
+      - Fanchita Gonzalez-Batlle
     year: 1979
     language: French
     sources:
@@ -23144,10 +23568,12 @@ titles:
     verified: true
   - title: Vivre à Gurs
     subtitle: Un camp de concentration français 1940-1941
+    original_title: Menschen in Gurs
     series: Actes et Mémoires du peuple
     authors:
       - Hanna Schramm
       - Barbara Vormeier
+    translators:
       - Irène Petit
     year: 1979
     language: French
@@ -23200,9 +23626,11 @@ titles:
     verified: true
   - title: Voyages d'un naturaliste
     subtitle: De la Terre de Feu aux Galapagos
+    original_title: Journal of researches into the geology and natural history of the various countries
     series: La Découverte; 5
     authors:
       - Charles Darwin
+    translators:
       - Edmond Barbier
     year: 1979
     language: French
@@ -23288,8 +23716,9 @@ titles:
     authors:
       - Bernal Díaz del Castillo
       - Bernard Grunberg
-      - Denis Jourdanet
       - Pierre Simonet
+    translators:
+      - Denis Jourdanet
     year: 1980
     language: French
     sources:
@@ -23305,9 +23734,15 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1113656743
     verified: true
     subtitle: Vol. I
+    original_title: Historia verdadera de la conquista de la Nueva España
   - title: Histoires
+    original_title: Histoires
     authors:
       - Ἡρόδοτος
+    editors:
+      - François Hartog
+    translators:
+      - Pierre-Henri Larcher
     year: 1980
     series: La Découverte
     language: French
@@ -23344,11 +23779,13 @@ titles:
     verified: true
   - title: Kolyma
     subtitle: Récits
+    original_title: Kolymskie Rasskazy
     series: Actes et mémoires du peuple
     authors:
       - Varlam Tihonovič Šalamov
-      - Catherine Fournier
       - Andreï Donatovitch Siniavski
+    translators:
+      - Catherine Fournier
     year: 1980
     language: French
     sources:
@@ -23418,11 +23855,13 @@ titles:
     verified: true
   - title: L'origine des espèces
     subtitle: Au moyen de la sélection naturelle ou la lutte pour l'existence dans la nature
+    original_title: Origin of species
     series: Petite collection maspero; 234
     authors:
       - Charles Darwin
-      - Edmond Barbier
       - Colette Guillaumin
+    translators:
+      - Edmond Barbier
     year: 1980
     language: French
     sources:
@@ -23441,6 +23880,7 @@ titles:
     verified: true
   - title: La fascination de l'Islam
     subtitle: Les étapes du regard occidental sur le monde musulman
+    original_title: The Western Image and Western Studies of Islam
     series: Petite collection Maspero; 243
     authors:
       - Maxime Rodinson
@@ -23457,8 +23897,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=638677017
     verified: true
   - title: La politique artistique du national-socialisme
+    original_title: Die Kunstpolitik des Nationalsozialismus
     authors:
       - Hildegard Brenner
+    translators:
+      - Lucien Steinberg
     year: 1980
     series: Textes à l'appui
     language: French
@@ -23501,6 +23944,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=463671430
     verified: true
   - title: La vie est devenue meilleure
+    original_title: Olimpijskij kalač
     authors:
       - Viatcheslav Viatcheslavovitch Sysoev
       - Nicole Zand
@@ -23528,9 +23972,12 @@ titles:
       - Marco Polo
       - Arthur-Christopher Moule
       - Paul Pelliot
-      - Louis Hambis
       - Stéphane Yerasimos
       - Pierre Simonet
+    editors:
+      - Louis Hambis
+    translators:
+      - Louis Hambis
     year: 1980
     language: French
     sources:
@@ -23607,6 +24054,8 @@ titles:
     subtitle: État actuel de la classe ouvrière sous l'aspect moral, intellectuel et matériel
     authors:
       - Flora Tristan
+    editors:
+      - Jules-Louis Puech
     year: 1980
     series: La découverte; 19, 20
     language: French
@@ -23697,11 +24146,13 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=01388137X
     verified: true
   - title: Libres enfants de Summerhill
+    original_title: A radical approach to child rearing
     series: Fondations; 14
     authors:
       - Alexander Sutherland Neill
-      - Micheline Laguilhomie
       - Maud Mannoni
+    translators:
+      - Micheline Laguilhomie
     year: 1980
     language: French
     sources:
@@ -23740,6 +24191,7 @@ titles:
     verified: true
   - title: Malgré tout
     subtitle: Contes à voix basse des prisons argentines
+    original_title: A pesar de todo
     series: Cahiers libres; 360
     authors:
       - Miguel Benasayag
@@ -23764,6 +24216,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=020499302
     verified: true
   - title: Marx, Engels et la révolution de 1848
+    original_title: Marx, Engels y la revolución de 1848
     authors:
       - Fernando Claudín
     year: 1980
@@ -23797,12 +24250,14 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991033539729705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Mémoires d'un esclave américain
+    original_title: Narrative of the life of Frederick Douglass, an american slave, written by himself
     series: Actes et mémoires du peuple; 20
     authors:
       - Frederick Douglass
-      - Fanchita Gonzalez-Batlle
       - Anna Libera
       - Jean-Pierre Berthe
+    translators:
+      - Fanchita Gonzalez-Batlle
     year: 1980
     language: French
     sources:
@@ -23916,6 +24371,8 @@ titles:
     subtitle: Textes berbères et français
     authors:
       - Mammeri
+    translators:
+      - Mouloud Mammeri
     year: 1980
     series: (Re)découverte. Littérature et voyages
     language: French
@@ -24071,6 +24528,7 @@ titles:
     authors:
       - James Cook
       - Christopher Lloyd
+    translators:
       - Gabrielle Rives
     year: 1980
     language: French
@@ -24119,9 +24577,11 @@ titles:
         url: https://www.sudoc.fr/023930381
     verified: true
   - title: Théâtre de l'opprimé
+    original_title: Teatro del oprimido y otras poéticas políticas
     series: Petite collection Maspero; 236
     authors:
       - Augusto Boal
+    translators:
       - Dominique Lémann
     year: 1980
     language: French
@@ -24130,6 +24590,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=467492271
     verified: true
   - title: Très brève relation de la destruction des Indes, 1552
+    original_title: Brevísima relación de la destrucción de las Indias
     series: La découverte; 6
     authors:
       - Bartolomé <<de las>> Casas
@@ -24237,9 +24698,10 @@ titles:
     authors:
       - Rosa Meyer-Leviné
       - Lionel Richard
-      - Jean-Jacques Pollet
       - Claude Sebisch
       - Eugen Leviné
+    translators:
+      - Jean-Jacques Pollet
     year: 1980
     language: French
     sources:
@@ -24299,8 +24761,11 @@ titles:
         url: https://lccn.loc.gov/81132275
     verified: true
   - title: Voyage dans l'intérieur de l'Afrique
+    original_title: Travels in the interior of Africa in the years 1795, 1796, 1797
     authors:
       - Mungo Park
+    translators:
+      - Jean-Henri Castéra
     year: 1980
     series: La Découverte -- 11
     language: French
@@ -24390,6 +24855,8 @@ titles:
     authors:
       - Jorge Beinstein
       - Carlos Ominami
+    editors:
+      - François Maspero
     year: 1981
     language: French
     sources:
@@ -24417,8 +24884,11 @@ titles:
         url: https://openlibrary.org/books/OL21997752M
     verified: true
   - title: Aux origines de la civilisation écrite en Occident
+    original_title: Origins of Western literacy
     authors:
       - Eric Alfred Havelock
+    translators:
+      - Enrique Escobar
     year: 1981
     series: Petite collection Maspero -- 245
     language: French
@@ -24456,10 +24926,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1127617184
     verified: true
   - title: Cette terre est à nous
+    original_title: Essa terra é nossa
     series: Actes et mémoires du peuple
     authors:
       - Manuel da Conceição
       - Ana María Galano
+    translators:
       - Florence Benoist
     year: 1981
     language: French
@@ -24487,6 +24959,8 @@ titles:
     series: Bibliothèque socialiste; 40
     authors:
       - Georg Lukács
+    editors:
+      - Eva Fekete
     year: 1981
     language: French
     sources:
@@ -24531,6 +25005,7 @@ titles:
     verified: true
   - title: De la souillure
     subtitle: Essai sur les notions de pollution et de tabou
+    original_title: Purity and danger
     authors:
       - Mary Douglas
       - Anne Guérin
@@ -24620,8 +25095,11 @@ titles:
         url: https://lccn.loc.gov/81118621
     verified: true
   - title: Études sur le développement du capitalisme
+    original_title: Studies in the development of capitalism
     authors:
       - Maurice Herbert Dobb
+    translators:
+      - Liane Mozère
     year: 1981
     language: French
     pages: 417
@@ -24656,13 +25134,15 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=604714246
     verified: true
   - title: Histoire générale des choses de la Nouvelle-Espagne
+    original_title: Historia de las cosas de Nueva España
     series: La Découverte; 36
     authors:
       - Bernardino de Sahagún
       - Jean Rose
+      - Jean-Pierre Berthe
+    translators:
       - Denis Jourdanet
       - Rémi Siméon
-      - Jean-Pierre Berthe
     year: 1981
     language: French
     sources:
@@ -24674,6 +25154,8 @@ titles:
   - title: Histoire philosophique et politique des deux Indes
     authors:
       - Raynal abbé
+    editors:
+      - Yves Benot
     year: 1981
     series: La De couverte -- 39
     language: French
@@ -24719,6 +25201,7 @@ titles:
     series: La Découverte
     authors:
       - Ricardo Pozas
+    translators:
       - Jacques Rémy Zéphir
     year: 1981
     language: French
@@ -24752,6 +25235,7 @@ titles:
     series: Actes et mémoires du peuple
     authors:
       - Varlam Tihonovič Šalamov
+    translators:
       - Catherine Fournier
     year: 1981
     language: French
@@ -24766,6 +25250,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991170884309505501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: La nuit
+    original_title: Kolymskie rasskazy
   - title: Komouraska, de mémoire
     subtitle: Souvenirs de la vie d'un village québécois
     series: Actes et mémoires du peuple
@@ -24860,6 +25345,7 @@ titles:
     series: La Découverte; 41
     authors:
       - Mary Wortley Montagu
+    translators:
       - Anne-Marie Moulin
       - Pierre Chuvin
     year: 1981
@@ -24872,6 +25358,7 @@ titles:
     verified: true
   - title: La fascination de l'Islam
     subtitle: Les étapes du regard occidental sur le monde musulman; les études arabes et islamiques en Europe
+    original_title: The Western Image and Western Studies of Islam
     series: Petite collection Maspero; 243
     authors:
       - Maxime Rodinson
@@ -24895,6 +25382,8 @@ titles:
   - title: La France contre lÁfrique
     series: Tricontinental; N.S., 1981,1
     authors: []
+    editors:
+      - François Maspero
     year: 1981
     language: French
     sources:
@@ -25033,6 +25522,11 @@ titles:
   - title: Le paradis des infidèles
     authors:
       - Yirmisekiz Mehmet Çelebi
+    editors:
+      - Gilles Veinstein
+      - Julien-Claude Galland
+    translators:
+      - Julien-Claude Galland
     year: 1981
     series: La Découverte
     language: French
@@ -25096,9 +25590,11 @@ titles:
     verified: true
   - title: Les anciens Grecs
     subtitle: Une introduction à leur vie et à leur pensée
+    original_title: The ancient Greeks
     series: Fondations
     authors:
       - Moses I. Finley
+    translators:
       - Monique Alexandre
     year: 1981
     language: French
@@ -25110,6 +25606,8 @@ titles:
     subtitle: 1939-1945
     authors:
       - Gustave Folcher
+    editors:
+      - Rémy Cazals
     year: 1981
     series: La Découverte-poche. Littérature et voyages -- 90
     language: French
@@ -25545,6 +26043,7 @@ titles:
         url: https://www.sudoc.fr/017399327
     verified: true
   - title: Très brève relation de la destruction des Indes, 1552
+    original_title: Brevísima relación de la destrucción de las Indias
     series: La Découverte; 6
     authors:
       - Bartolomé de Las Casas
@@ -25576,8 +26075,9 @@ titles:
     series: La Découverte; 37
     authors:
       - Juan Pérez Jolote
-      - Jacques Rémy-Zéphir
       - Ricardo Pozas A.
+    translators:
+      - Jacques Rémy-Zéphir
     year: 1981
     language: French
     sources:
@@ -25652,6 +26152,8 @@ titles:
   - title: Voyage sur l'Amazone
     authors:
       - Charles-Marie de La Condamine
+    editors:
+      - Hélène Minguet
     year: 1981
     series: La Découverte
     language: French
@@ -25674,6 +26176,10 @@ titles:
     subtitle: Avec les relations des voyages en Amérique de Gonneville, Verrazano et Roberval
     authors:
       - Jacques Cartier
+    editors:
+      - Charles-André Julien
+      - René Herval
+      - Théodore Beauchesne
     year: 1981
     series: La Découverte -- 35
     language: French
@@ -25839,8 +26345,9 @@ titles:
     series: La Découverte; 58, 59, 60
     authors:
       - Garcilaso de la Vega
-      - René L. F. Durand
       - Marcel Bataillon
+    translators:
+      - René L. F. Durand
     year: 1982
     language: French
     sources:
@@ -25862,6 +26369,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991095116949705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Vol. I
+    original_title: Commentarios reales de los incas
   - title: D'autres géopolitiques
     series: Hérodote; No. 25
     authors: []
@@ -25972,6 +26480,9 @@ titles:
     subtitle: 'La faim dans le monde et les idées reçues: dossier'
     authors:
       - François Gèze
+    editors:
+      - Ana-Maria Galano
+      - Fanchita Gonzalez-Batlle
     year: 1982
     series: Petite collection Maspero
     language: French
@@ -26044,6 +26555,9 @@ titles:
     subtitle: Présentation et textes choisis
     authors:
       - Larry Portis
+    translators:
+      - Martine Echard
+      - Christiane Passevant
     year: 1982
     series: Petite collection Maspero -- 272
     language: French
@@ -26168,9 +26682,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=422975028
     verified: true
   - title: Japon, l'envers du miracle
+    original_title: Rōdō genba
     series: Cahiers libres; 365
     authors:
       - Satoshi Kamata
+    translators:
       - Danielle Nguyen Duc Long
       - Francis Ginsbourger
     year: 1982
@@ -26188,6 +26704,7 @@ titles:
       - Augusto Boal
       - Nicole Derlon
       - Robert Lonchampt
+    translators:
       - Régine Mellac
     year: 1982
     language: French
@@ -26196,9 +26713,11 @@ titles:
         url: https://www.sudoc.fr/011700629
     verified: true
   - title: Kolyma
+    original_title: Kolymskie rasskazy
     series: Actes et mémoires du peuple
     authors:
       - Varlam Tihonovič Šalamov
+    translators:
       - Catherine Fournier
     year: 1982
     language: French
@@ -26312,6 +26831,8 @@ titles:
   - title: L' homme et la terre
     authors:
       - Élisée Reclus
+    editors:
+      - Béatrice Giblin
     year: 1982
     language: French
     isbn: '2707112976'
@@ -26397,9 +26918,14 @@ titles:
     verified: false
   - title: L'État grec
     subtitle: La cité, l'État fédéral, la monarchie hellénistique
+    original_title: Der Staat der Griechen
     series: Fondations
     authors:
       - Victor Ehrenberg
+    editors:
+      - Édouard Will
+    translators:
+      - Claire Picavet-Roos
     year: 1982
     language: French
     sources:
@@ -26469,6 +26995,7 @@ titles:
     series: La découverte; 9
     authors:
       - Hernán Cortés
+    translators:
       - Désiré Charnay
     year: 1982
     language: Spanish
@@ -26482,6 +27009,9 @@ titles:
     subtitle: Dynamique de la crise mondiale
     authors:
       - Samir Amin
+    translators:
+      - Philippe de La Saussay
+      - François Gèze
     year: 1982
     series: 'Textes à l''appui: Économie'
     language: French
@@ -26499,6 +27029,7 @@ titles:
     verified: true
   - title: La fascination de l'Islam
     subtitle: Les étapes du regard occidental sur le monde musulman, les études arabes et islamiques en Europe
+    original_title: The Western Image and Western Studies of Islam
     series: Petite collection Maspéro; 243
     authors:
       - Maxime Rodinson
@@ -26632,10 +27163,12 @@ titles:
     verified: true
   - title: Le Capital de Marx
     subtitle: Pour débutants
+    original_title: Marx's Das Kapital for beginners
     series: Pour débutants
     authors:
       - David N. Smith
       - Phil Evans
+    translators:
       - Fanchita Gonzalez-Batlle
     year: 1982
     language: French
@@ -26774,6 +27307,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1428923993
     verified: true
   - title: Le voyage au delà des trois mers
+    original_title: Khojdenie za tri moria
     series: La découverte; 57
     authors:
       - Afanasij Nikitič Nikitin
@@ -26786,9 +27320,11 @@ titles:
     verified: true
   - title: Le Voyage des innocents
     subtitle: Un pique-nique dans l'Ancien monde
+    original_title: Innocents abroad
     series: La Découverte; 42
     authors:
       - Mark Twain
+    translators:
       - Fanchita Gonzalez-Batlle
     year: 1982
     language: French
@@ -26909,9 +27445,11 @@ titles:
     verified: true
   - title: Les isefra
     subtitle: Poèmes
+    original_title: Isefra
     series: Fondations; 23
     authors:
       - Sī Muḥand Aw Mḥand
+    translators:
       - Mouloud Mammeri
     year: 1982
     language: French
@@ -27133,9 +27671,11 @@ titles:
     verified: true
   - title: Poème sans héros
     subtitle: Et autres oeuvres
+    original_title: Rekviem
     series: Voix
     authors:
       - Anna Andreevna Ahmatova
+    translators:
       - Fernand Rude
       - Jeanne Rude
     year: 1982
@@ -27297,12 +27837,14 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1099399734
     verified: true
   - title: Voyages
+    original_title: Tuḥfat an-nuẓẓār fī ġarā'ib al-amṣār wa-'aǧā'ib al-asfār
     series: La Découverte; 51
     authors:
       - Muḥammad ibn ʿAbd Allâh Ibn Baṭṭūṭaẗ
+      - Stéphane Yerasimos
+    translators:
       - Charles Defremery
       - Beniamino Raffaelo Sanguinetti
-      - Stéphane Yerasimos
     year: 1982
     language: French
     sources:
@@ -27318,9 +27860,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1148327436
     verified: true
   - title: Voyages d'un naturaliste autour du monde
+    original_title: Journal of researches into the geology and natural history of the various countries visited by H.M.S. "Beagle"
     series: La Découverte; 44
     authors:
       - Charles Darwin
+    translators:
       - Edmond Barbier
     year: 1982
     language: French
@@ -27700,6 +28244,9 @@ titles:
     verified: false
   - title: L'état du monde en 1492
     authors: []
+    editors:
+      - Guy Martinière
+      - Consuelo Varela
     language: French
     sources:
       - title: BnF catalogue record cb36654857d

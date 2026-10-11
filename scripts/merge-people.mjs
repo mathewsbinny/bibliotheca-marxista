@@ -36,26 +36,42 @@ for (const house of readdirSync(CATALOGUES).sort()) {
   const fresh = new Map();
   for (const t of yaml.load(current).titles ?? []) if (!fresh.has(key(t))) fresh.set(key(t), t);
   let changed = false;
-  for (const t of base.titles) {
+  base.titles = base.titles.map((t) => {
     const n = fresh.get(key(t));
-    if (!n) { totals.missingNew++; continue; }
+    if (!n) { totals.missingNew++; return t; }
     fresh.delete(key(t));
-    if (!t.original_title && n.original_title) { t.original_title = n.original_title; totals.original++; changed = true; }
-    if (!t.translators?.length && n.translators?.length) {
-      t.translators = n.translators;
-      t.authors = (t.authors ?? []).filter((a) => !n.translators.includes(a));
-      totals.translators++;
-      changed = true;
+    const add = {};
+    if (!t.original_title && n.original_title) { add.original_title = n.original_title; totals.original++; }
+    const translators = !t.translators?.length && n.translators?.length ? n.translators : undefined;
+    const authors = translators ? (t.authors ?? []).filter((a) => !translators.includes(a)) : t.authors;
+    if (translators) { add.translators = translators; totals.translators++; }
+    const editors = !t.editors?.length && n.editors?.length ? n.editors.filter((e) => !(authors ?? []).includes(e)) : [];
+    if (editors.length) { add.editors = editors; totals.editors++; }
+    if (!Object.keys(add).length) return t;
+    changed = true;
+    // The new fields go where the importer writes them (the original title after the subtitle,
+    // the editors and translators after the authors); the others keep their order.
+    const out = {};
+    for (const [k, v] of Object.entries(t)) {
+      if (['original_title', 'editors', 'translators'].includes(k) && k in add) continue;
+      out[k] = k === 'authors' ? authors : v;
+      if (k === (t.subtitle !== undefined ? 'subtitle' : 'title') && add.original_title) out.original_title = add.original_title;
+      if (k === 'authors') {
+        if (add.editors) out.editors = add.editors;
+        if (add.translators) out.translators = add.translators;
+      }
     }
-    if (!t.editors?.length && n.editors?.length) { t.editors = n.editors.filter((e) => !(t.authors ?? []).includes(e)); if (t.editors.length) { totals.editors++; changed = true; } else delete t.editors; }
-  }
+    for (const [k, v] of Object.entries(add)) if (!(k in out)) out[k] = v;
+    return out;
+  });
   totals.unmatchedNew += fresh.size;
   totals.files++;
-  if (!changed) continue;
+  // Nothing new: the committed file goes back as it was, in place of the import's.
+  if (!changed) {
+    if (WRITE) writeFileSync(join(ROOT, rel), committed);
+    continue;
+  }
   totals.titles += base.titles.length;
-  // The fields in the order the importer writes them.
-  const ORDER = ['id', 'title', 'subtitle', 'original_title', 'authors', 'editors', 'translators'];
-  base.titles = base.titles.map((t) => Object.fromEntries([...ORDER.filter((k) => k in t).map((k) => [k, t[k]]), ...Object.entries(t).filter(([k]) => !ORDER.includes(k))]));
   if (WRITE) writeFileSync(join(ROOT, rel), header + yaml.dump(base, { lineWidth: -1, noRefs: true }));
 }
 console.log(totals);

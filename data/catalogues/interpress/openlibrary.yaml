@@ -345,6 +345,7 @@ titles:
     authors:
       - Józef Nyka
       - Barbara Bałukowa
+    translators:
       - Gustawa Kamińska
     year: 1968
     language: French
@@ -421,6 +422,8 @@ titles:
   - title: Elbląg 1945 and Today
     authors:
       - Kazimierz Czarnocki
+    translators:
+      - Krystyna Cękalska
     year: 1968
     language: English
     pages: 142
@@ -508,8 +511,9 @@ titles:
     authors:
       - Tadeusz Sumiński
       - Roman Izbicki
-      - Zygmunt Kwiatkowski
       - Waldemar Żaczek
+    translators:
+      - Zygmunt Kwiatkowski
     year: 1968
     language: German
     sources:
@@ -586,6 +590,8 @@ titles:
   - title: In the Low Beskid Mountains
     authors:
       - Adam Czarnowski
+    editors:
+      - Marian Sobański
     year: 1968
     language: English
     pages: 143
@@ -613,6 +619,8 @@ titles:
   - title: In the Pieniny Mountains
     authors:
       - Józef Nyka
+    translators:
+      - Christina Cenkalska
     year: 1968
     language: English
     sources:
@@ -628,8 +636,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=110927672
     verified: true
   - title: Israel and the German Federal Republic
+    original_title: Izrael a NRF
     authors:
       - Tadeusz Walichnowski
+    translators:
+      - Aleksander Trop-Krynski
     year: 1968
     language: English
     pages: 199
@@ -648,6 +659,7 @@ titles:
         url: https://www.sudoc.fr/154141011
     verified: true
   - title: Israel und die Bundesrepublik
+    original_title: Izrael a NRF
     authors:
       - Tadeusz Walichnowski
       - Marian Wojciechowski
@@ -712,8 +724,9 @@ titles:
     authors:
       - Bohdan Lisowski
       - Sławomir Lewczuk
-      - Roman Glanowski
       - Leon Urbański
+    translators:
+      - Roman Glanowski
     year: 1968
     language: French
     sources:
@@ -736,6 +749,7 @@ titles:
   - title: L'axe Tel Aviv - Bonn et la Pologne
     authors:
       - Tadeusz Walichnowski
+    translators:
       - Lucjan Grobelak
     year: 1968
     language: French
@@ -763,6 +777,7 @@ titles:
     series: Confrontations
     authors:
       - Wacław Poterański
+    translators:
       - Edmund Maciaszek
     year: 1968
     language: French
@@ -777,8 +792,9 @@ titles:
   - title: Le théâtre polonais contemporain
     authors:
       - Edward Csató
-      - Geneviève Daude-Leider
       - Leon Urbański
+    translators:
+      - Geneviève Daude-Leider
     year: 1968
     language: French
     sources:
@@ -792,9 +808,10 @@ titles:
   - title: Lengyelország
     subtitle: Számok és tények
     authors:
-      - Paweł Boharczyk
       - Stanisław Brodzki
       - Jerzy Chociłowski
+    translators:
+      - Paweł Boharczyk
       - Eszter Ławnik-Esztényi
     year: 1968
     language: Hungarian
@@ -817,6 +834,7 @@ titles:
   - title: Les conséquences juridiques de la seconde guerre mondiale et le problème allemend
     authors:
       - Alfons Klafkowski
+    translators:
       - Gabriel Mérétik
     year: 1968
     language: French
@@ -829,6 +847,7 @@ titles:
   - title: Les étudiants étrangers en Pologne
     authors:
       - Halina Zalewska-Trafisz
+    translators:
       - Stanisław Leśniak
     year: 1968
     language: French
@@ -839,7 +858,8 @@ titles:
         url: https://search.worldcat.org/title/839137324
     verified: true
   - title: Les formes d'études pour étrangers en Pologne
-    authors:
+    authors: []
+    translators:
       - Stanisław Leśniak
     year: 1968
     language: French
@@ -1084,8 +1104,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=482379685
     verified: true
   - title: Szczecin 1945 and Today
+    original_title: Szczecin 1945 i dziś
     authors:
       - Mieczysław Janowski
+    translators:
+      - Ewa Karwowska
     year: 1968
     language: English
     pages: 121
@@ -1122,10 +1145,11 @@ titles:
   - title: Szczecin 1945 und heute
     authors:
       - Mieczysław Janowski
-      - Zygmunt Kwiatkowski
       - Bohdan Skłodowski
       - Franciszek Barącz
       - Janusz Lisek
+    translators:
+      - Zygmunt Kwiatkowski
     year: 1968
     language: German
     sources:
@@ -1137,6 +1161,8 @@ titles:
   - title: The contemporary Polish theatre
     authors:
       - Edward Csató
+    translators:
+      - Christina Cenkalska
     year: 1968
     language: Polish
     pages: 34
@@ -1337,10 +1363,12 @@ titles:
         url: https://search.worldcat.org/title/839178896
     verified: true
   - title: Warsaw Death Ring 1939-1944
+    original_title: Warszawski pierścień śmierci 1939-1944
     authors:
       - Władysław Bartoszewski
-      - Edward Rothert
       - Polska Agencja Interpress
+    translators:
+      - Edward Rothert
     year: 1968
     language: English
     sources:
@@ -1461,6 +1489,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1072850281
     verified: true
     subtitle: 'Projekt okladki i opracowanie graf.: Stanislaw Kazmierczyk'
+    original_title: Adam Mickiewicz
   - title: Agriculture in Poland
     authors:
       - Witold Lipski
@@ -1508,6 +1537,7 @@ titles:
     subtitle: The Political Doctrine of Franz Joseph Strauss
     authors:
       - Tadeusz Walichnowski
+    translators:
       - Robert Strybel
     year: 1969
     language: English
@@ -1541,6 +1571,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=195303202
     verified: true
   - title: Der Todesring um Warschau, 1939-1944
+    original_title: Warszawski pierścień śmierci 1939-1944
     authors:
       - Władysław Bartoszewski
     year: 1969
@@ -1561,6 +1592,7 @@ titles:
   - title: Die Frau in der Volksrepublik Polen
     authors:
       - Krystyna Wrochno-Stanke
+    translators:
       - Henryka Sierankiewicz
     year: 1969
     language: German
@@ -1628,6 +1660,7 @@ titles:
       - Bogusław Biegański
       - Jan Buyko
       - Zdzisław Małek
+    translators:
       - Zygmunt Kwiatkowski
     year: 1969
     language: Polish
@@ -1638,6 +1671,7 @@ titles:
         url: https://search.worldcat.org/title/839038710
     verified: true
   - title: F. F. Chopin
+    original_title: F. F. Chopin
     authors:
       - Zofia Jeżewska
     year: 1969
@@ -1677,8 +1711,9 @@ titles:
   - title: Im Gorce-Gebirge
     authors:
       - Józef Nyka
-      - Zygmunt Kwiatkowski
       - Barbara Bałukowa
+    translators:
+      - Zygmunt Kwiatkowski
     year: 1969
     language: German
     sources:
@@ -1690,8 +1725,9 @@ titles:
   - title: Im Karkonosze - Gebirge
     authors:
       - Stefan Arczyński
-      - Zygmunt Kwiatkowski
       - Tadeusz Steć
+    translators:
+      - Zygmunt Kwiatkowski
     year: 1969
     language: German
     sources:
@@ -1705,8 +1741,9 @@ titles:
   - title: In the Karkonosze Mountains
     authors:
       - Stefan Arczyński
-      - Hilda Andrews-Rusiecka
       - Tadeusz Steć
+    translators:
+      - Hilda Andrews-Rusiecka
     year: 1969
     language: English
     sources:
@@ -1777,6 +1814,7 @@ titles:
   - title: La femme en Pologne Populaire
     authors:
       - Krystyna Wrochno-Stanke
+    translators:
       - Geneviève Daude-Leider
       - Henryk Nieruchalski
     year: 1969
@@ -1798,7 +1836,8 @@ titles:
         url: https://www.sudoc.fr/047814179
     verified: true
   - title: La Pologne. Chiffres et faits Trad. par Henryk Nieruchalski...
-    authors:
+    authors: []
+    translators:
       - Henryk Nieruchalski
     year: 1969
     language: French
@@ -1818,7 +1857,8 @@ titles:
         url: https://search.worldcat.org/title/823740087
     verified: true
   - title: Les 50 ans de la Croix-Rouge polonaise
-    authors:
+    authors: []
+    translators:
       - Roman Glanowski
     year: 1969
     language: French
@@ -1842,9 +1882,10 @@ titles:
   - title: Les coulisses de la guerre de six jours
     authors:
       - Jan Dziedzic
-      - Henryk Kurta
       - Tadeusz Walichnowski
       - Polska Agencja Interpress
+    translators:
+      - Henryk Kurta
     year: 1969
     language: French
     sources:
@@ -1949,7 +1990,9 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991021605719705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Rada ochrony pomników walki i me̜czeństwa
+    original_title: Polacy na frontach II wojny światowej
   - title: Polacy na morzach 1939-1945
+    original_title: Polacy na morzach 1939-1945
     series: Polacy na frontach II Wojny Światowej
     authors:
       - Edmund Kosiarz
@@ -2044,6 +2087,7 @@ titles:
     series: Poles on the Fronts of World War II
     authors:
       - Witold Biegański
+    translators:
       - Jan Aleksandrowicz
     year: 1969
     language: English
@@ -2067,6 +2111,7 @@ titles:
     verified: true
     pages: 106
   - title: Poles on the Fronts of the Second World War
+    original_title: Polacy na frontach II wojny światowej
     authors:
       - Zbigniew Załuski
     year: 1969
@@ -2105,6 +2150,8 @@ titles:
   - title: Poles on the Seas, 1939-1945. [Polacy Na Morzach. Introduction by Janusz Wieczorek.] Translated from the Polish by Jan Aleksandrowicz
     authors:
       - Edmund Kosiarz
+    translators:
+      - Jan Aleksandrowicz
     year: 1969
     language: English
     sources:
@@ -2114,6 +2161,8 @@ titles:
   - title: Poles on the Seas; 1939-1945
     authors:
       - Edmund Kosiarz
+    translators:
+      - Jan Aleksandrowicz
     year: 1969
     series: Poles on the Fronts of the Second World War
     language: English
@@ -2183,11 +2232,12 @@ titles:
   - title: Prinzessin Zauberfee
     subtitle: Polnische Volksmärche
     authors:
-      - Katja Weintraub
       - Ewa Karwowska
       - Jadwiga Liwicka
-      - Hella Rymarowicz
       - Olga Siemaszko
+    translators:
+      - Katja Weintraub
+      - Hella Rymarowicz
     year: 1969
     language: German
     sources:
@@ -2251,6 +2301,7 @@ titles:
     subtitle: La doctrine politique de Franz Joseph Strauss
     authors:
       - Tadeusz Walichnowski
+    translators:
       - Roman Glanowski
     year: 1969
     language: French
@@ -2453,9 +2504,10 @@ titles:
   - title: Au-delà de l'endurance humaine
     subtitle: Souvenirs des victimes de Ravensbrück
     authors:
-      - Geneviève Daude-Leider
       - Helena Klimek
       - Wanda Kiedrzyńska
+    translators:
+      - Geneviève Daude-Leider
       - Ludwik Kaduczek
     year: 1970
     language: French
@@ -2470,6 +2522,7 @@ titles:
     authors:
       - Helena Klimek
       - Wanda Kiedrzyńska
+    translators:
       - Doris Ronowicz
     year: 1970
     language: English
@@ -2520,6 +2573,7 @@ titles:
   - title: Die industrielle Entwicklung in Polen
     authors:
       - Wiesław Iskra
+    translators:
       - Bruno Heinrich
     year: 1970
     language: German
@@ -2530,6 +2584,7 @@ titles:
         url: https://search.worldcat.org/title/831214836
     verified: true
   - title: Die Polen an den Fronten des Zweiten Weltkrieges
+    original_title: Polacy na frontach II wojny światowej
     authors:
       - Zbigniew Załuski
       - Polska Agencja Interpress
@@ -2590,6 +2645,7 @@ titles:
         url: https://openlibrary.org/books/OL13756628M
     verified: true
   - title: Dynamika rozwoju przemysłowego PRL
+    original_title: Dynamika rozwoju przemysłowego PRL
     authors:
       - Wiesław Iskra
       - Polska Agencja Interpress
@@ -2679,6 +2735,7 @@ titles:
       - Edward Falkowski
       - Stanisław Kaźmierczyk
       - Waldemar Żaczek
+    translators:
       - Krystyna Cękalska
     year: 1970
     language: English
@@ -2699,8 +2756,9 @@ titles:
     authors:
       - Stefan Arczyński
       - Waldemar Żaczek
-      - Zygmunt Kwiatkowski
       - Wojciech Walczak
+    translators:
+      - Zygmunt Kwiatkowski
     year: 1970
     language: German
     sources:
@@ -2722,6 +2780,8 @@ titles:
   - title: In the Kłodzko Sudeten Mountains
     authors:
       - Wojciech Walczak
+    translators:
+      - Bogusław Lawendowski
     year: 1970
     language: English
     pages: 141
@@ -2761,8 +2821,9 @@ titles:
     subtitle: Le pays et les hommes
     authors:
       - Maciej Bielecki
-      - Roman Glanowski
       - Małgorzata Górska
+    translators:
+      - Roman Glanowski
     year: 1970
     language: French
     sources:
@@ -2795,8 +2856,9 @@ titles:
     verified: true
   - title: La Pologne vous invite
     authors:
-      - Geneviève Daude-Leider
       - Kazimierz Podlasiecki
+    translators:
+      - Geneviève Daude-Leider
     year: 1970
     language: French
     sources:
@@ -2862,6 +2924,7 @@ titles:
   - title: Le développement industriel de la Pologne
     authors:
       - Wiesław Iskra
+    translators:
       - Roman Glanowski
       - Henryk Nieruchalski
     year: 1970
@@ -2878,6 +2941,7 @@ titles:
     subtitle: Sur l'histoire de l'aide aux Juifs en Pologne pendant l'occupation
     authors:
       - Władysław Bartoszewski
+    translators:
       - Geneviève Daude-Leider
       - Ludwik Kaduczek
     year: 1970
@@ -2904,13 +2968,15 @@ titles:
         url: https://search.worldcat.org/title/839103593
     verified: true
   - title: Les Varsoviens
+    original_title: Warszawiacy
     authors:
       - Olgierd Budrewicz
-      - Geneviève Daude-Leider
       - Waldemar Żaczek
       - Stanisław Kaźmierczyk
       - Edward Falkowski
       - Polska Agencja Interpress
+    translators:
+      - Geneviève Daude-Leider
     year: 1970
     language: French
     sources:
@@ -2929,6 +2995,7 @@ titles:
         url: https://www.sudoc.fr/167834630
     verified: true
   - title: Opole 1945 i dziś
+    original_title: Opole 1945 i dziś
     authors:
       - Jerzy Bałłaban
       - Franciszek Barącz
@@ -2952,8 +3019,9 @@ titles:
       - Jerzy Bałłaban
       - Franciszek Barącz
       - Zdzisław Jaeschke
-      - Edmund Paszkowiak
       - Stanisław Racławicki
+    translators:
+      - Edmund Paszkowiak
     year: 1970
     language: German
     sources:
@@ -2989,9 +3057,11 @@ titles:
     verified: true
   - title: Ostforschung
     subtitle: The Role of West German Political Science
+    original_title: Nauka w służbie ekspansji i rewizjonizmu, Ostforschung
     authors:
       - Józef Szłapczyński
       - Tadeusz Walichnowski
+    translators:
       - Lech Zembrzuski
     year: 1970
     language: English
@@ -3034,6 +3104,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991025490299705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Polacy na frontach II wojny światowej
+    original_title: Polacy na frontach II wojny światowej
     authors:
       - Zbigniew Załuski
       - Rada Ochrony Pamięci Walk i Męczeństwa
@@ -3077,6 +3148,7 @@ titles:
     verified: true
     series: Rada Ochrony Pomników Walki i Me̜czeństwa
   - title: Polacy w bitwie pod Lenino
+    original_title: Polacy w bitwie pod Lenino
     authors:
       - Czesław Podgórski
     year: 1970
@@ -3129,6 +3201,7 @@ titles:
     verified: true
     subtitle: Rada ochrony pomników walki i me̜czeństwa
   - title: Polacy w walkach o Zachodnią Europę
+    original_title: Polacy w walkach o Zachodnią Europę
     authors:
       - Witold Biegański
     year: 1970
@@ -3226,8 +3299,9 @@ titles:
   - title: Polen
     subtitle: Zahlen und Fakten
     authors:
-      - Zygmunt Kwiatkowski
       - Maciej Bielecki
+    translators:
+      - Zygmunt Kwiatkowski
     year: 1970
     language: German
     sources:
@@ -3302,6 +3376,7 @@ titles:
     verified: true
     series: Biblioteczka dla młodzieży
   - title: Polskie dni Lenina, 1912-1914
+    original_title: Polskie dni Lenina 1912-1914
     authors:
       - Jan Adamczewski
     year: 1970
@@ -3330,6 +3405,7 @@ titles:
     verified: true
   - title: Polskie skrzydła na Zachodzie
     subtitle: Po wrześniowej katastrofie bitwa o Wielka Brytanie, ofensywa powietrzna i zwycięstwo
+    original_title: Polskie skrzydła na Zachodzie
     authors:
       - Bohdan Arct
     year: 1970
@@ -3368,6 +3444,8 @@ titles:
   - title: Religious Life in Poland
     authors:
       - Jerzy Walicki
+    translators:
+      - Lech Zembrzuski
     year: 1970
     language: English
     pages: 82
@@ -3392,6 +3470,7 @@ titles:
         url: https://www.sudoc.fr/015084450
     verified: true
     subtitle: '[Translated by Lech Zembrzuski]'
+    original_title: Wyznania w Polsce
   - title: Religious Life in Poland Jerzy Walicki
     authors:
       - Jerzy Walicki
@@ -3464,8 +3543,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/000596284
     verified: true
   - title: The Industrial Development of Poland
+    original_title: Dynamika rozwoju przemysłowego PRL
     authors:
       - Wiesław Iskra
+    translators:
+      - Eugene Lepa
     year: 1970
     language: English
     pages: 90
@@ -3505,13 +3587,15 @@ titles:
     verified: true
   - title: Varsovie
     subtitle: Sa destruction et sa reconstruction
+    original_title: 'Warszawa : o zniszczeniu i odbudowie miasta'
     authors:
       - Adolf Ciborowski
       - Zenon Sawicki
       - Arianna Dembowska
       - Władysław Grześkiewicz
-      - Henryk Nieruchalski
       - Julian Pałka
+    translators:
+      - Henryk Nieruchalski
     year: 1970
     language: French
     sources:
@@ -3539,6 +3623,7 @@ titles:
         url: https://search.worldcat.org/title/802850764
     verified: true
   - title: Warszawiacy
+    original_title: Warszawiacy
     authors:
       - Olgierd Budrewicz
     year: 1970
@@ -3558,6 +3643,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=110921437
     verified: true
   - title: Warszawski pierścień śmierci, 1939-1944
+    original_title: Warszawski pierścień śmierci 1939-1944
     authors:
       - Władysław Bartoszewski
     year: 1970
@@ -3589,6 +3675,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991119381429705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Wyznania w Polsce
+    original_title: Wyznania w Polsce
     authors:
       - Jerzy Walicki
       - Polska Agencja Interpress
@@ -3679,6 +3766,7 @@ titles:
     authors:
       - Aleksander Bocheński
       - Piotr Bożyk
+    translators:
       - Siegfried Schmidt
     year: 1971
     language: German
@@ -3703,8 +3791,9 @@ titles:
     authors:
       - Aleksander Bocheński
       - Paweł Bożyk
-      - Maria Bugaj
       - Polska Agencja Interpress
+    translators:
+      - Maria Bugaj
     year: 1971
     language: French
     sources:
@@ -3728,6 +3817,8 @@ titles:
     subtitle: Past and Present
     authors:
       - Bohdan Szermer
+    translators:
+      - Joanna Infeld-Sosnowska
     year: 1971
     language: English
     sources:
@@ -3777,8 +3868,9 @@ titles:
   - title: Gdańsk - Vergangenheit und Gegenwart
     authors:
       - Bohdan Szermer
-      - Zygmunt Kwiatkowski
       - Waldemar Żaczek
+    translators:
+      - Zygmunt Kwiatkowski
     year: 1971
     language: German
     sources:
@@ -3801,8 +3893,9 @@ titles:
       - Józef Nyka
       - Stefan Arczyński
       - Jerzy Kępkiewicz
-      - Edmund Paszkowiak
       - Polska Agencja Interpress
+    translators:
+      - Edmund Paszkowiak
     year: 1971
     language: German
     sources:
@@ -3812,8 +3905,12 @@ titles:
         url: https://search.worldcat.org/title/839128752
     verified: true
   - title: In the Polish Tatra Mountains
+    original_title: Tatry polskie
     authors:
       - Józef Nyka
+    translators:
+      - Andrzej Więcko. Photos. by Stefan Arczyński
+      - Marian Bała
     year: 1971
     language: English
     pages: 142
@@ -3883,8 +3980,9 @@ titles:
     authors:
       - Marek Kwiatkowski
       - Janusz Czarnecki
-      - Stanisław Tarnowski
       - Leopold Wdowiński
+    translators:
+      - Stanisław Tarnowski
     year: 1971
     language: English
     sources:
@@ -3925,9 +4023,10 @@ titles:
   - title: Le socialisme et le développement national
     authors:
       - Stanisław Trepczyński
+      - Michał Sadowski
+    translators:
       - Geneviève Daude-Leider
       - Kazimiera Ordyńska-Bielawska
-      - Michał Sadowski
       - Bolesław Ciemniakowski
     year: 1971
     language: French
@@ -3961,8 +4060,9 @@ titles:
     authors:
       - Marek Kwiatkowski
       - Janusz Czarnecki
-      - Andrée Dudzińska
       - Leopold Wdowiński
+    translators:
+      - Andrée Dudzińska
     year: 1971
     language: French
     sources:
@@ -4035,6 +4135,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb35327142w
     verified: true
   - title: Polacy w bitwie o Narwik
+    original_title: Polacy w bitwie o Narwik
     series: Polacy na frontach II wojny światowej
     authors:
       - Witold Biegański
@@ -4052,6 +4153,7 @@ titles:
         url: https://www.sudoc.fr/295262494
     verified: true
   - title: Polacy w kampanii włoskiej, 1943-1945
+    original_title: Polacy w kampanii włoskiej 1943-1945
     authors:
       - Olgierd Terlecki
     year: 1971
@@ -4102,6 +4204,8 @@ titles:
   - title: Poland; Facts and Figures
     authors:
       - Natalia Świdzińska
+    translators:
+      - Stanisław Tarnowski
     year: 1971
     language: English
     pages: 63
@@ -4117,9 +4221,10 @@ titles:
     subtitle: Reiseführer
     authors:
       - Adam Bajcar
-      - Edmund Paszkowiak
       - Wojciech Szczawiński
       - Polska Agencja Interpress
+    translators:
+      - Edmund Paszkowiak
     year: 1971
     language: Polish
     sources:
@@ -4179,6 +4284,8 @@ titles:
   - title: Poles in the Battle of Western Europe
     authors:
       - Witold Biegański
+    translators:
+      - Beryl Arct
     year: 1971
     language: English
     pages: 158
@@ -4215,6 +4322,7 @@ titles:
     subtitle: 'After the September Disaster: The Battle of Britain: Air Offensives and Final Victory'
     authors:
       - Bohdan Arct
+    translators:
       - Beryl Arct
     year: 1971
     language: English
@@ -4229,6 +4337,8 @@ titles:
   - title: Polish Wings in the West... Translated from the Polish by Beryl Arct
     authors:
       - Bohdan Arct
+    translators:
+      - Beryl Arct
     year: 1971
     language: English
     sources:
@@ -4239,6 +4349,7 @@ titles:
     subtitle: Guide touristique
     authors:
       - Adam Bajcar
+    translators:
       - Geneviève Daude-Leider
       - Roman Glanowski
     year: 1971
@@ -4295,6 +4406,7 @@ titles:
         url: https://search.worldcat.org/title/839018496
     verified: true
   - title: Przewodnik po muzeach i zbiorach w Polsce
+    original_title: Przewodnik po muzeach i zbiorach w Polsce
     authors:
       - Stanisław Lorentz
     year: 1971
@@ -4338,6 +4450,7 @@ titles:
     authors:
       - Paweł Barteczko
       - Jerzy Kępkiewicz
+    translators:
       - Bruno Heinrich
     year: 1971
     language: German
@@ -4378,6 +4491,8 @@ titles:
   - title: Socialism and National Development
     authors:
       - Stanislaw Trepczynski
+    translators:
+      - S. Tarnowski
     year: 1971
     language: English
     sources:
@@ -4398,6 +4513,7 @@ titles:
     verified: true
     pages: 129
   - title: Socjalizm a rozwój narodowy
+    original_title: Socjalizm a rozwój narodowy
     authors:
       - Stanisław Trepczyński
       - Michał Sadowski
@@ -4425,6 +4541,8 @@ titles:
     subtitle: Europe
     authors:
       - Ryszard Frelek
+    translators:
+      - Jan Aleksandrowicz
     year: 1971
     language: English
     pages: 211
@@ -4502,6 +4620,7 @@ titles:
   - title: 'Tema: Europe'
     authors:
       - Ryszard Frelek
+    translators:
       - Mira Bielewicz
       - Klaudia Kozakiewicz
     year: 1971
@@ -4516,6 +4635,7 @@ titles:
     authors:
       - Julian Bartosz
       - Ryszard Hajduk
+    translators:
       - Tadeusz Tarnowski
     year: 1971
     language: English
@@ -4551,6 +4671,7 @@ titles:
   - title: 'Thema: Europa'
     authors:
       - Ryszard Frelek
+    translators:
       - Karin Tomala
     year: 1971
     language: German
@@ -4563,8 +4684,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991161259649705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Tracing the Development of Polish Industry
+    original_title: Tropem polskiej techniki
     authors:
       - Aleksander Bochenski
+    translators:
+      - Edmund Wiszniewicz
     year: 1971
     language: English
     sources:
@@ -4620,9 +4744,10 @@ titles:
   - title: Varsovie en 1945 et aujourd'hui
     authors:
       - Stanisław Jankowski
-      - Geneviève Daude-Leider
       - Franciszek Barącz
       - Adolf Ciborowski
+    translators:
+      - Geneviève Daude-Leider
     year: 1971
     language: French
     sources:
@@ -4675,6 +4800,8 @@ titles:
   - title: W Tatrach polskich
     authors:
       - Józef Nyka
+    editors:
+      - Jerzy Kępkiewicz
     year: 1971
     language: Polish
     pages: 143
@@ -4697,6 +4824,8 @@ titles:
   - title: Warsaw 1945 and Today
     authors:
       - Stanisław Jankowski
+    translators:
+      - Jan Aleksandrowicz
     year: 1971
     language: English
     pages: 119
@@ -4717,6 +4846,8 @@ titles:
   - title: Warsaw from a Bird's-eye View
     authors:
       - Dobrosław Kobielski
+    translators:
+      - Jan Aleksandrowicz
     year: 1971
     language: English
     sources:
@@ -4732,6 +4863,8 @@ titles:
   - title: 'Warsaw from a Bird''s-eye View. Translation Form the Polish: Jan Aleksandrowicz'
     authors:
       - Dobrosław. Kobielski
+    translators:
+      - Jan Aleksandrowicz
     year: 1971
     language: English
     sources:
@@ -4743,6 +4876,7 @@ titles:
       - Stanisław Jankowski
       - Franciszek Barącz
       - Adolf Ciborowski
+    translators:
       - Siegfried Schmidt
     year: 1971
     language: German
@@ -4765,6 +4899,7 @@ titles:
         url: https://search.worldcat.org/title/838916688
     verified: true
   - title: Warszawa 1945 i dziś
+    original_title: Warszawa 1945 i dziś
     authors:
       - Stanisław Jankowski
       - Franciszek Barącz
@@ -4811,8 +4946,11 @@ titles:
         url: https://search.worldcat.org/title/839021272
     verified: true
   - title: A travers la Pologne
+    original_title: Przez polskie ziemie
     authors:
       - Przemysław Trzeciak
+    translators:
+      - Krystyna Bielawska
     year: 1972
     language: French
     sources:
@@ -4837,8 +4975,10 @@ titles:
         url: https://search.worldcat.org/title/831261229
     verified: true
   - title: Across Poland
+    original_title: Przez polskie ziemie
     authors:
       - Przemysław Trzeciak
+    translators:
       - Jan Aleksandrowicz
     year: 1972
     language: English
@@ -4885,6 +5025,7 @@ titles:
     verified: true
   - title: Copernicus
     subtitle: Scholar and Citizen
+    original_title: Mikołaj Kopernik, uczony i obywatel
     authors:
       - Marian Biskup
     year: 1972
@@ -4907,6 +5048,7 @@ titles:
   - title: Das Theater in Polen
     authors:
       - Roman Szydłowski
+    translators:
       - Dorota Matejak
     year: 1972
     language: German
@@ -4941,6 +5083,7 @@ titles:
         url: https://lccn.loc.gov/74973694
     verified: true
   - title: Film w Polsce
+    original_title: Film w Polsce
     authors:
       - Jacek Fuksiewicz
     year: 1972
@@ -4978,6 +5121,8 @@ titles:
   - title: Incredible Warsaw
     authors:
       - Olgierd Budrewicz
+    translators:
+      - Krystyna Cękalska
     year: 1972
     language: English
     pages: 376
@@ -5001,6 +5146,7 @@ titles:
     authors:
       - Zygmunt Bielecki
       - Ryszard Dębowski
+    translators:
       - Stanisław Tarnowski
     year: 1972
     language: English
@@ -5022,8 +5168,10 @@ titles:
         url: https://search.worldcat.org/title/168596236
     verified: true
   - title: La Pologne partenaire commercial
+    original_title: Polska jako partner handlowy
     authors:
       - Paweł Bożyk
+    translators:
       - Geneviève Daude-Leider
       - Roman Melchior
     year: 1972
@@ -5037,10 +5185,12 @@ titles:
         url: https://www.sudoc.fr/021584761
     verified: true
   - title: Le sport en Pologne
+    original_title: Sport w Polsce
     authors:
       - Stefan Sieniarski
-      - Maria Cieszewska
       - Polska Agencja Interpress
+    translators:
+      - Maria Cieszewska
     year: 1972
     language: French
     sources:
@@ -5052,6 +5202,7 @@ titles:
   - title: Le théâtre en Pologne
     authors:
       - Roman Szydłowski
+    translators:
       - Geneviève Daude-Leider
     year: 1972
     language: French
@@ -5072,8 +5223,13 @@ titles:
         url: https://search.worldcat.org/title/25838934
     verified: true
   - title: Les Polonais dans la Résistance européenne 1939-1945
+    original_title: Polacy w europejskim ruchu oporu
     authors:
       - Mieczysław Juchniewicz
+    translators:
+      - Bolesław Ciemniakowski
+      - Geneviève Daude-Leider
+      - Lucjan Grobelak
     year: 1972
     language: French
     pages: 195
@@ -5093,6 +5249,7 @@ titles:
   - title: Les Polonais dans les combats en Europe occidentale
     authors:
       - Witold Biegański
+    translators:
       - Henryk Nieruchalski
     year: 1972
     language: French
@@ -5158,6 +5315,7 @@ titles:
         url: https://www.sudoc.fr/054624207
     verified: true
   - title: Ludność Polski zachodniej i północnej
+    original_title: Ludność Polski zachodniej i północnej
     authors:
       - Jerzy Pietrucha
     year: 1972
@@ -5239,6 +5397,7 @@ titles:
     authors:
       - Jan Adamczewski
       - Stefan Bernaciński
+    translators:
       - Christel Grube
       - Jacek Opala
       - Krystyna Ościłowska
@@ -5253,6 +5412,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=857902555
     verified: true
   - title: Mikołaj Kopernik, uczony i obywatel
+    original_title: Mikołaj Kopernik, uczony i obywatel
     authors:
       - Marian Biskup
     year: 1972
@@ -5293,6 +5453,8 @@ titles:
   - title: Nicolas Copernic et son époque
     authors:
       - Jan Adamszewski
+    translators:
+      - Maria Cieszewska
     year: 1972
     language: French
     pages: 148
@@ -5332,6 +5494,7 @@ titles:
         url: https://search.worldcat.org/title/839049739
     verified: true
   - title: Polacy w europejskim ruchu oporu, 1939-1945
+    original_title: Polacy w europejskim ruchu oporu 1939-1945
     authors:
       - Mieczysław Juchniewicz
     year: 1972
@@ -5390,6 +5553,7 @@ titles:
     authors:
       - Adam Bajcar
       - Wojciech Szczawiński
+    translators:
       - Stanisław Tarnowski
     year: 1972
     language: English
@@ -5407,8 +5571,11 @@ titles:
     verified: true
     pages: 226
   - title: Poland as a Trading Partner
+    original_title: Polska jako partner handlowy
     authors:
       - Paweł Bożyk
+    translators:
+      - Witold Michael Kmiecik
     year: 1972
     language: English
     sources:
@@ -5434,9 +5601,10 @@ titles:
     subtitle: Vägledning för turister
     authors:
       - Adam Bajcar
+      - Wojciech Szczawiński
+    translators:
       - Sven Ahlgren
       - Kjell Rehnström
-      - Wojciech Szczawiński
     year: 1972
     language: Swedish
     sources:
@@ -5481,6 +5649,8 @@ titles:
   - title: Poles Against the "v" Weapons
     authors:
       - Bohdan Arct
+    translators:
+      - Beryl Arst
     year: 1972
     language: English
     pages: 126
@@ -5501,6 +5671,7 @@ titles:
   - title: Poles in the European Resistance Movement 1939-1945
     authors:
       - Mieczysław Juchniewicz
+    translators:
       - Beryl Arct
     year: 1972
     language: English
@@ -5521,8 +5692,9 @@ titles:
     series: Polacy Na Frontach II Wojny Światowej
     authors:
       - Olgierd Terlecki
-      - Beryl Arct
       - Polska Agencja Interpress
+    translators:
+      - Beryl Arct
     year: 1972
     language: English
     sources:
@@ -5536,6 +5708,8 @@ titles:
   - title: Poles in the Italian Campaign, 1973-1945
     authors:
       - Olgierd Terlecki
+    translators:
+      - Beryl Arct
     year: 1972
     series: Poles on the Fronts of the Second World War
     language: English
@@ -5552,6 +5726,7 @@ titles:
     authors:
       - Jan Adamczewski
       - Stefan Bernaciński
+    translators:
       - Egbert W. Skowron
     year: 1972
     language: German
@@ -5707,6 +5882,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/001517045
     verified: true
   - title: Polskie miasta Kopernika
+    original_title: Polskie miasta Kopernika
     authors:
       - Jan Adamczewski
     year: 1972
@@ -5780,8 +5956,9 @@ titles:
     subtitle: Septembre 1939
     authors:
       - Zygmunt Bielecki
-      - Bolesław Ciemniakowski
       - Ryszard Dębowski
+    translators:
+      - Bolesław Ciemniakowski
       - Ludwik Kaduczek
       - Arnold Leider
     year: 1972
@@ -5832,8 +6009,9 @@ titles:
   - title: Sozialismus und nationale Entwicklung
     authors:
       - Stanisław Trepczyński
-      - Małgorzata Bester
       - Michał Sadowski
+    translators:
+      - Małgorzata Bester
     year: 1972
     language: German
     sources:
@@ -5874,11 +6052,13 @@ titles:
         url: https://search.worldcat.org/title/1434491
     verified: true
   - title: Sport in Polen
+    original_title: Sport w Polsce
     authors:
       - Stefan Sieniarski
+      - Polska Agencja Interpress
+    translators:
       - Krystyna Ościłowska
       - Siegfried Schmidt
-      - Polska Agencja Interpress
     year: 1972
     language: German
     sources:
@@ -5888,6 +6068,7 @@ titles:
         url: https://search.worldcat.org/title/839066240
     verified: true
   - title: Sport w Polsce
+    original_title: Sport w Polsce
     authors:
       - Stefan Sieniarski
       - Polska Agencja Interpress
@@ -5936,6 +6117,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/101894708
     verified: true
   - title: Teatr w Polsce
+    original_title: Teatr w Polsce
     authors:
       - Roman Szydłowski
     year: 1972
@@ -5958,8 +6140,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/001363407
     verified: true
   - title: The Population of Western and Northern Poland
+    original_title: Ludność Polski zachodniej i północnej
     authors:
       - Jerzy Pietrucha
+    translators:
+      - Stanisław Tarnowski
     year: 1972
     language: English
     pages: 139
@@ -5980,10 +6165,12 @@ titles:
         url: https://search.worldcat.org/title/548805
     verified: true
   - title: The Theatre in Poland
+    original_title: Teatr w Polsce
     authors:
       - Roman Szydłowski
-      - Krystyna Cękalska
       - Polska Agencja Interpress
+    translators:
+      - Krystyna Cękalska
     year: 1972
     language: English
     sources:
@@ -6317,6 +6504,7 @@ titles:
   - title: Das Bildungswesen in Polen
     authors:
       - Franciszek Januszkiewicz
+    translators:
       - Siegfried Schmidt
     year: 1973
     language: German
@@ -6352,6 +6540,9 @@ titles:
     subtitle: Grundlagen für eine völkerrechtliche Interpretation
     authors:
       - Alfons Klafkowski
+    translators:
+      - Ruth Brümmer
+      - Siegfried Schmidt
     year: 1973
     language: German
     pages: 127
@@ -6368,6 +6559,7 @@ titles:
   - title: Die Bevölkerung West- und Nordpolens
     authors:
       - Jerzy Pietrucha
+    translators:
       - Brunon Zwarra
     year: 1973
     language: German
@@ -6381,9 +6573,10 @@ titles:
     subtitle: Ein Fluss erzählt
     authors:
       - Jan Styczyński
-      - Brunon Zwarra
       - Wiesław Górnicki
       - Hubert Hilscher
+    translators:
+      - Brunon Zwarra
       - Siegfried Schmidt
       - Angelika Wegener
     year: 1973
@@ -6433,6 +6626,8 @@ titles:
   - title: Education in Poland
     authors:
       - Franciszek Januszkiewicz
+    translators:
+      - Jan Aleksandrowicz
     year: 1973
     language: English
     pages: 119
@@ -6477,6 +6672,7 @@ titles:
         url: https://search.worldcat.org/title/839043519
     verified: true
   - title: Fryderyk Chopin
+    original_title: F. F. Chopin
     authors:
       - Zofia Jeżewska
     year: 1973
@@ -6512,8 +6708,9 @@ titles:
   - title: Handelspartner Polen
     authors:
       - Paweł Bożyk
-      - Brunon Zwarra
       - Polska Agencja Interpress
+    translators:
+      - Brunon Zwarra
     year: 1973
     language: Polish
     sources:
@@ -6675,6 +6872,7 @@ titles:
   - title: L'éducation en Pologne
     authors:
       - Franciszek Januszkiewicz
+    translators:
       - Lucjan Grobelak
     year: 1973
     language: French
@@ -6699,10 +6897,11 @@ titles:
   - title: Le cinéma en Pologne
     authors:
       - Jacek Fuksiewicz
-      - Geneviève Daude-Leider
-      - Marian Przeździk
       - Oskar Sobański
       - Jerzy Trafisz
+    translators:
+      - Geneviève Daude-Leider
+      - Marian Przeździk
     year: 1973
     language: French
     sources:
@@ -6715,6 +6914,7 @@ titles:
     verified: true
   - title: Le ghetto de Varsovie
     subtitle: Édité à ľoccasion du XXXe anniversaire de la lutte armée au ghetto en 1943
+    original_title: Warszawskie getto
     authors:
       - Wacław Poterański
     year: 1973
@@ -6730,6 +6930,7 @@ titles:
   - title: Le traité du 7. décembre 1970 entre la République Populaire de Pologne et à la lumière du droit intrnational
     authors:
       - Alfons Klafkowski
+    translators:
       - Maria Cieszewska
     year: 1973
     language: French
@@ -6796,6 +6997,7 @@ titles:
     authors:
       - Stanisław Lorentz
       - Aleksandra Czarnecka
+    translators:
       - Bruno Heinrich
     year: 1973
     language: German
@@ -6937,6 +7139,8 @@ titles:
     subtitle: Facts and Figures
     authors:
       - Natalia Świdzińska
+    translators:
+      - Stanisław Tarnowski
     year: 1973
     language: English, Polish
     pages: 67
@@ -6952,8 +7156,9 @@ titles:
     subtitle: Reiseführer
     authors:
       - Adam Bajcar
-      - Edmund Paszkowiak
       - Wojciech Szczawiński
+    translators:
+      - Edmund Paszkowiak
     year: 1973
     language: German
     sources:
@@ -6987,8 +7192,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=432041508
     verified: true
   - title: Polish Cinema
+    original_title: Telwizja w Polsce
     authors:
       - Jacek Fuksiewicz
+    translators:
+      - Ewa Gromek-Gruzińska
     year: 1973
     language: English
     pages: 165
@@ -7013,6 +7221,7 @@ titles:
     authors:
       - Natalia Swidzińska
       - Jerzy Maternicki
+    translators:
       - Geneviève Daude-Leider
     year: 1973
     language: French
@@ -7056,6 +7265,7 @@ titles:
         url: https://search.worldcat.org/title/226967457
     verified: true
   - title: Przewodnik po muzeach i zbiorach w Polsce
+    original_title: Przewodnik po muzeach i zbiorach w Polsce
     authors:
       - Stanisław Lorentz
     year: 1973
@@ -7170,6 +7380,8 @@ titles:
   - title: The Collegium Maius at the Jagiellonian University in Cracow, History, Customs, Collections
     authors:
       - Karol Estreicher
+    translators:
+      - Jan Aleksandrowicz
     year: 1973
     language: English
     pages: 166
@@ -7183,6 +7395,7 @@ titles:
     verified: true
   - title: The Collegium Maius of the Jagiellonian University in Cracow
     subtitle: History, Custums, Collections
+    original_title: Collegium Maius Uniwersytetu Jagiellońskiego w Krakowie
     authors:
       - Karol Estreicher
     year: 1973
@@ -7196,6 +7409,8 @@ titles:
   - title: The Collegium Maius of the Jagiellonian University in Cracow, History, Customs, Collections
     authors:
       - Karol Estreicher
+    translators:
+      - Jan Aleksandrowicz
     year: 1973
     language: English
     pages: 166
@@ -7258,6 +7473,7 @@ titles:
     subtitle: Bases of an Interpretation in the Light of International Law
     authors:
       - Alfons Klafkowski
+    translators:
       - Jan Aleksandrowicz
     year: 1973
     language: English
@@ -7288,9 +7504,10 @@ titles:
     subtitle: The Story of a River
     authors:
       - Jan Styczyński
-      - Krystyna Bidwell
       - Wiesław Górnicki
       - Hubert Hilscher
+    translators:
+      - Krystyna Bidwell
     year: 1973
     language: English
     sources:
@@ -7379,6 +7596,7 @@ titles:
     verified: true
   - title: Warszawskie getto
     subtitle: W 30-lecie powstania zbrojnego w getcie w 1943 r
+    original_title: Warszawskie getto
     authors:
       - Wacław Poterański
       - Polska Agencja Interpress
@@ -7395,6 +7613,7 @@ titles:
   - title: West- und Nordpolen
     authors:
       - Henryk Rechowicz
+    translators:
       - Egbert W. Skowron
     year: 1973
     language: German
@@ -7432,8 +7651,9 @@ titles:
     authors:
       - Ignacy Rutkiewicz
       - Olgierd Czerner
-      - Krystyna Ościłowska
       - Maciej Hibner
+    translators:
+      - Krystyna Ościłowska
     year: 1973
     language: German
     sources:
@@ -7484,8 +7704,9 @@ titles:
     authors:
       - Jan Adamczewski
       - Tadeusz Jackowski
-      - Zygmunt Kwiatkowski
       - Zygmunt Strychalski
+    translators:
+      - Zygmunt Kwiatkowski
     year: 1973
     language: Polish
     sources:
@@ -7499,6 +7720,8 @@ titles:
     authors:
       - Jerzy Waldorff
       - Państwowy Zespół Ludowy Pieśni i Tańca "Mazowsze" im. Tadeusza Sygietyńskiego
+    editors:
+      - Józef Wilkoń
     year: 1974
     language: Polish
     sources:
@@ -7551,10 +7774,12 @@ titles:
     verified: true
   - title: Collegium Maius
     subtitle: 'Stammsitz der Jagellonischen Universität Krakau: Geschichte, Bräuche, Sammlungen'
+    original_title: Collegium Maius Uniwersytetu Jagiellońkiego w Krakowie
     authors:
       - Karol Estreicher
-      - Siegfried Schmidt
       - Leon Urbański
+    translators:
+      - Siegfried Schmidt
     year: 1974
     language: German
     sources:
@@ -7661,6 +7886,7 @@ titles:
         url: https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991052537010005066&vid=48OMNIS_NLOP:48OMNIS_NLOP
     verified: true
   - title: Gospodarka Polski współczesnej
+    original_title: Gospodarka Polski współczesnej
     authors:
       - Paweł Bożyk
     year: 1974
@@ -7684,8 +7910,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/001325818
     verified: true
   - title: Guide to Museums and Collections in Poland
+    original_title: Przewodnik po muzeach i zbiorach w Polsce
     authors:
       - Stanisław Lorentz
+    translators:
+      - Jan Aleksandrowicz
     year: 1974
     language: English
     pages: 360
@@ -7826,8 +8055,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/001856140
     verified: true
   - title: L'Economie de la Pologne contemporaine
+    original_title: Gospodarka Polski wspóŁczesnej
     authors:
       - Paweł Bożyk
+    translators:
+      - Marian Przeździk
     year: 1974
     language: French
     sources:
@@ -7839,6 +8071,8 @@ titles:
   - title: La culture en Pologne
     authors:
       - Pologne
+    translators:
+      - Maria Cieszewska
     year: 1974
     language: French
     sources:
@@ -7852,6 +8086,7 @@ titles:
   - title: La musique en Pologne
     authors:
       - Ludwik Erhardt
+    translators:
       - Maria Cieszewska
     year: 1974
     language: French
@@ -7862,10 +8097,12 @@ titles:
         url: https://search.worldcat.org/title/169391339
     verified: true
   - title: La Pologne pour débutants
+    original_title: Polska dla pocza̮tkujacych
     authors:
       - Olgierd Budrewicz
-      - Maria Cieszewska
       - Polska Agencja Interpress
+    translators:
+      - Maria Cieszewska
     year: 1974
     language: Polish
     sources:
@@ -7881,6 +8118,7 @@ titles:
     authors:
       - Hanna Kotkowska-Bareja
       - Krzysztof Lenk
+    translators:
       - Marian Przeździk
     year: 1974
     language: French
@@ -7991,6 +8229,7 @@ titles:
     authors:
       - Stanisław Lorentz
       - Aleksandra Czarnecka
+    translators:
       - Bruno Heinrich
     year: 1974
     language: Polish
@@ -8001,11 +8240,13 @@ titles:
         url: https://search.worldcat.org/title/838985467
     verified: true
   - title: Musées et collections en Pologne
+    original_title: Przewodnik po muzeach i zbiorach w Polsce
     authors:
       - Stanisław Lorentz
       - Ewa Biesaga
-      - Geneviève Daude-Leider
       - Wojciech Szczawiński
+    translators:
+      - Geneviève Daude-Leider
     year: 1974
     language: Polish
     sources:
@@ -8180,8 +8421,9 @@ titles:
   - title: Poland for beginners
     authors:
       - Olgierd Budrewicz
-      - Edward Rothert
       - Polska Agencja Interpress
+    translators:
+      - Edward Rothert
     year: 1974
     language: Polish
     sources:
@@ -8233,6 +8475,7 @@ titles:
   - title: Polen för nybörjare
     authors:
       - Olgierd Budrewicz
+    translators:
       - Bengt Samuelson
     year: 1974
     language: Not recorded
@@ -8245,6 +8488,8 @@ titles:
   - title: Polish Contemporary Sculpture
     authors:
       - Hannna Kotkowska-Bareja
+    translators:
+      - Krystyna Kęplicz
     year: 1974
     language: English
     pages: 154
@@ -8315,6 +8560,8 @@ titles:
     subtitle: Przewodnik turystyczny
     authors:
       - Adam Bajcar
+    editors:
+      - Ewa Trzeciak
     year: 1974
     edition: 2. wyd. popr. i uzup
     language: Polish
@@ -8443,6 +8690,7 @@ titles:
     verified: true
   - title: Szkice o Kościele w Polsce
     subtitle: Fakty, liczby, informacje
+    original_title: Szkice o Kościele w Polsce
     authors:
       - Adam Piekarski
     year: 1974
@@ -8509,9 +8757,10 @@ titles:
       - Jan Michlewski
       - Janusz Rosikoń
       - Ewa Smulikowska-Rowińska
-      - Stanisław Tarnowski
       - Władysław Tomkiewicz
       - Polska Agencja Interpress
+    translators:
+      - Stanisław Tarnowski
     year: 1974
     language: English
     sources:
@@ -8560,6 +8809,7 @@ titles:
     verified: true
     pages: 53
   - title: Tomaszewski - pantomima
+    original_title: Tomaszewski - pantomima
     authors:
       - Andrzej Hausbrandt
       - Józef Wilkoń
@@ -8630,6 +8880,7 @@ titles:
     authors:
       - Hanna Kotkowska-Bareja
       - Krzysztof Lenk
+    translators:
       - Dorota Matejak
     year: 1974
     language: German
@@ -8781,6 +9032,10 @@ titles:
     authors:
       - Józef Kański
       - Andrzej Zborski
+    editors:
+      - Hanna Wróblewska-Straus
+    translators:
+      - M. Cieszewska
     year: 1975
     edition: Wyd. 1
     language: Polish
@@ -8868,8 +9123,9 @@ titles:
   - title: Das Pantomimentheater Tomaszewskis
     authors:
       - Andrzej Hausbrandt
-      - Barbara Ostrowska
       - Józef Wilkoń
+    translators:
+      - Barbara Ostrowska
     year: 1975
     language: German
     sources:
@@ -8895,6 +9151,7 @@ titles:
   - title: Die Volkswirtschaft der VR Polen
     authors:
       - Paweł Bożyk
+    translators:
       - Jörg Werny
     year: 1975
     language: Polish
@@ -8984,6 +9241,7 @@ titles:
   - title: Frédéric Chopin
     authors:
       - Zofia Jeżewska
+    translators:
       - Maria Cieszewska
     year: 1975
     language: French
@@ -9058,6 +9316,7 @@ titles:
     authors:
       - Wojciech Giełżyński
       - Krystyna Kubalska-Sulkiewicz
+    translators:
       - Kordula Zentgraf-Zubrzycka
     year: 1975
     language: German
@@ -9072,6 +9331,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991002981529705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Kultura w Polsce
+    original_title: Kultura w Polsce
     authors:
       - Wojciech Giełżyński
       - Krystyna Kubalska-Sulkiewicz
@@ -9091,6 +9351,7 @@ titles:
   - title: L'économie de la Pologne contemporaine
     authors:
       - Paweł Bożyk
+    translators:
       - Marian Przeździk
     year: 1975
     language: French
@@ -9102,10 +9363,11 @@ titles:
     verified: true
   - title: La Chine et les pays en voie de développement
     authors:
-      - Bolesław Ciemniakowski
-      - Roman Glanowski
       - Andrzej Janicki
       - Irena Szadziewska
+    translators:
+      - Bolesław Ciemniakowski
+      - Roman Glanowski
     year: 1975
     language: French
     sources:
@@ -9118,6 +9380,7 @@ titles:
     authors:
       - Wojciech Giełżyński
       - Krystyna Kubalska-Sulkiewicz
+    translators:
       - Anna Rossa
     year: 1975
     language: Spanish
@@ -9130,8 +9393,9 @@ titles:
   - title: La culture en Pologne
     authors:
       - Wojciech Giełżyński
-      - Maria Cieszewska
       - Krystyna Kubalska-Sulkiewicz
+    translators:
+      - Maria Cieszewska
     year: 1975
     language: French
     sources:
@@ -9147,6 +9411,7 @@ titles:
   - title: La politique étrangère polonaise (esquisse de trente ans d'histoire)
     authors:
       - Mieczysław Franciszek Rakowski
+    translators:
       - Geneviève Daude-Leider
     year: 1975
     language: French
@@ -9157,13 +9422,15 @@ titles:
         url: https://search.worldcat.org/title/830531783
     verified: true
   - title: La Pologne millénaire
+    original_title: Polska tysiącletnia
     authors:
       - Aleksander Gieysztor
-      - Kazimiera Ordyńska-Bielawska
-      - Geneviève Daude-Leider
       - Stanisław Herbst
       - Bogusław Leśnodorski
       - Polska Agencja Interpress
+    translators:
+      - Kazimiera Ordyńska-Bielawska
+      - Geneviève Daude-Leider
     year: 1975
     language: French
     sources:
@@ -9175,8 +9442,9 @@ titles:
   - title: La Relance polonaise de 1971 à 1975
     subtitle: Des journalistes de "Polityka" font le point
     authors:
-      - Roman Glanowski
       - Jacek Maziarski
+    translators:
+      - Roman Glanowski
       - Marian Przeździk
     year: 1975
     language: French
@@ -9267,10 +9535,11 @@ titles:
     subtitle: La plus aimée des reines
     authors:
       - Tadeusz Żeleński
-      - Paul Cazin
       - Jean Fabre
       - Teresa Garnysz-Kozłowska
       - Jerzy Jurandot
+    translators:
+      - Paul Cazin
     year: 1975
     language: French
     sources:
@@ -9282,6 +9551,8 @@ titles:
   - title: Music in Poland
     authors:
       - Ludwik Erhardt
+    translators:
+      - Jan Aleksandrowicz
     year: 1975
     language: Polish
     pages: 164
@@ -9383,6 +9654,8 @@ titles:
   - title: Poland's Baltic Coast
     authors:
       - Jerzy Surdykowski
+    translators:
+      - Robert Strybel
     year: 1975
     language: English
     pages: 253
@@ -9401,6 +9674,7 @@ titles:
   - title: Polens bidrag til kampene ved Narvik
     authors:
       - Witold Biegański
+    translators:
       - Gunnar Arneson
     year: 1975
     language: Polish
@@ -9411,8 +9685,11 @@ titles:
         url: https://search.worldcat.org/title/830526659
     verified: true
   - title: Polish Roads to Victory
+    original_title: Polacy na drogach do zwycięstwa
     authors:
       - Janusz Przymanowski
+    translators:
+      - Iain W. M. Taylor
     year: 1975
     language: English
     sources:
@@ -9459,6 +9736,7 @@ titles:
     verified: true
   - title: Polska w Organizacji Narodów Zjednoczonych
     subtitle: 1945-1975
+    original_title: Polska w Organizacji Narodów Zjednoczonych
     authors:
       - Andrzej Abraszewski
     year: 1975
@@ -9531,6 +9809,8 @@ titles:
     verified: true
   - title: Program IX [dziewiątego] międzynarodowego konkursu pianistycznego imienia Fryderyka Chopina, Warszawa, 7-28.X.1975
     authors: []
+    translators:
+      - Irena Jarosz
     year: 1975
     language: Multiple languages
     sources:
@@ -9551,6 +9831,8 @@ titles:
   - title: Program IX mie̡dzynarodowego konkursu pianistycznego imienia Fryderyka Chopina, Warszawa, 7-28. X. 1975 = Programme du IXe concours international de piano Frédéric Chopin, Varsovie, 7-28. X. 1975 / Towarsytwo imienia Fryderyka Chopina, Société Frédéric Chopin; autorka tekstów, Alicja Matracka-Kościelna; tłumaczenie na jezyk francuski, Irena Jarosz; wste̡p, Wiktor Weinbaum
     authors:
       - Miedzynarodowy konkurs pianistyczny im. F. Chopina
+    translators:
+      - Irena Jarosz
     year: 1975
     language: Polish
     sources:
@@ -9574,6 +9856,7 @@ titles:
         url: https://search.worldcat.org/title/830574179
     verified: true
   - title: System polityczny Polski Ludowej
+    original_title: System polityczny Polski Ludowej
     authors:
       - Michał Sadowski
     year: 1975
@@ -9682,6 +9965,7 @@ titles:
     authors:
       - Andrzej Hausbrandt
       - Józef Wilkoń
+    translators:
       - Geneviève Daude-Leider
     year: 1975
     language: French
@@ -9750,6 +10034,7 @@ titles:
     authors:
       - Paweł Barteczko
       - Małgorzata Roszkowska
+    translators:
       - Doris Rutsch
       - Kordula Zubrzycka
     year: 1975
@@ -9790,11 +10075,13 @@ titles:
     pages: 56
     edition: Wyd. 1
   - title: Wege der Polen zum Sieg
+    original_title: Polacy na drogach do zwycięstwa
     authors:
       - Janusz Przymanowski
       - Wiesław Hubert Rudziński
-      - S. Shmidt
       - Polska Agencja Interpress
+    translators:
+      - S. Shmidt
     year: 1975
     language: German
     sources:
@@ -9852,6 +10139,7 @@ titles:
     verified: true
   - title: Ziemia jednak zielona
     subtitle: Problemy ochrony środowiska w województwie katowickim
+    original_title: Ziemia jednak zielona
     authors:
       - Paweł Barteczko
       - Małgorzata Roszkowska
@@ -9900,6 +10188,8 @@ titles:
     subtitle: Articles
     authors:
       - Andrzej Janicki
+    editors:
+      - Irena Szawdziewska
     year: 1976
     language: English
     pages: 280
@@ -9916,6 +10206,7 @@ titles:
   - title: Das politische System Volkspolens
     authors:
       - Michał Sadowski
+    translators:
       - Kordula Zubrzycka
     year: 1976
     language: German
@@ -9930,6 +10221,7 @@ titles:
   - title: Die Polen in der europäischen Widerstandsbewegung 1939-1945
     authors:
       - Mieczysław Juchniewicz
+    translators:
       - Jerzy Dasler
     year: 1976
     language: German
@@ -9998,6 +10290,7 @@ titles:
   - title: Film und Fernsehen in Polen
     authors:
       - Jacek Fuksiewicz
+    translators:
       - Barbara Ostrowska
       - Ruth Brümmer
       - Siegfried Schmidt
@@ -10078,8 +10371,10 @@ titles:
         url: https://openlibrary.org/books/OL22002616M
     verified: true
   - title: Kościuszko and Pulaski
+    original_title: Kościuszko, Pułaski
     authors:
       - Jan Stanisław Kopczewski
+    translators:
       - Robert Strybel
     year: 1976
     language: English
@@ -10103,6 +10398,7 @@ titles:
     verified: true
     pages: 328
   - title: Kościuszko Pułaski
+    original_title: Kościuszko, Pułaski
     authors:
       - Jan Stanisław Kopczewski
     year: 1976
@@ -10148,8 +10444,9 @@ titles:
   - title: La Pologne pour débutants
     authors:
       - Olgierd Budrewicz
-      - Maria Cieszewska
       - Polska Agencja Interpress
+    translators:
+      - Maria Cieszewska
     year: 1976
     language: French
     sources:
@@ -10169,8 +10466,10 @@ titles:
         url: https://www.sudoc.fr/110057023
     verified: true
   - title: Le cinéma et la television en Pologne
+    original_title: Film i telewizja w Polsco
     authors:
       - Jacek Fuksiewicz
+    translators:
       - Marian Przeździk
       - Geneviève Daude-Leider
     year: 1976
@@ -10197,8 +10496,9 @@ titles:
     subtitle: 'Les hommes, les faits: aperçu historique du mouvement polonais des partisans de la paxi'
     authors:
       - Marian Turski
-      - Marian Przeździk
       - Henryk Zdanowski
+    translators:
+      - Marian Przeździk
     year: 1976
     language: French
     sources:
@@ -10218,6 +10518,7 @@ titles:
   - title: Le sport en Pologne
     authors:
       - Stefan Sieniarski
+    translators:
       - Ludwik Kaduczek
       - Maria Cieszewska
       - Marian Przeździk
@@ -10234,6 +10535,7 @@ titles:
   - title: Le système politique de la Pologne Populaire
     authors:
       - Michał Sadowski
+    translators:
       - Gustawa Kamińska
     year: 1976
     language: Polish
@@ -10368,6 +10670,8 @@ titles:
   - title: Poland for Beginners
     authors:
       - Olgierd Budrewicz
+    translators:
+      - Edward Rothert
     year: 1976
     language: English
     pages: 184
@@ -10415,6 +10719,7 @@ titles:
   - title: Polen für Entdecker
     authors:
       - Olgierd Budrewicz
+    translators:
       - Kordula Zubrzycka
     year: 1976
     language: German
@@ -10552,6 +10857,7 @@ titles:
         url: https://www.sudoc.fr/054934656
     verified: true
   - title: Sport in Poland
+    original_title: Sport w Polsce
     authors:
       - Stefan Sieniarski
     year: 1976
@@ -10574,6 +10880,7 @@ titles:
   - title: Sport in Polen
     authors:
       - Stefan Sieniarski
+    translators:
       - Siegfried Schmidt
       - Krystyna Ościłowska
     year: 1976
@@ -10587,6 +10894,7 @@ titles:
         url: https://d-nb.info/1001305094
     verified: true
   - title: Sport w Polsce
+    original_title: Sport w Polsce
     authors:
       - Stefan Sieniarski
       - Polska Agencja Interpress
@@ -10617,9 +10925,10 @@ titles:
   - title: Tausend Jahre Polen
     authors:
       - Aleksander Gieysztor
-      - Margarethe Franke
       - Stanisław Herbst
       - Bogusław Leśnodorski
+    translators:
+      - Margarethe Franke
       - Kordula Zubrzycka
     year: 1976
     language: German
@@ -10635,8 +10944,9 @@ titles:
     subtitle: 'People and Facts: Pages from the History of the Peace Movement in Poland'
     authors:
       - Marian Turski
-      - Magdalena Mierowska-Paszkiewicz
       - Henryk Zdanowski
+    translators:
+      - Magdalena Mierowska-Paszkiewicz
     year: 1976
     language: English
     sources:
@@ -10654,6 +10964,8 @@ titles:
   - title: The Political System of People's Poland
     authors:
       - Michał Sadowski
+    translators:
+      - Karol Jakubowicz
     year: 1976
     language: English
     sources:
@@ -10703,6 +11015,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1076092136
     verified: true
   - title: Współczesny teatr polski
+    original_title: Współczesny teatr polski
     authors:
       - Witold Filler
     year: 1976
@@ -10799,8 +11112,10 @@ titles:
     verified: true
   - title: Contemporary Polish Painting
     subtitle: Trends, Goals, Works
+    original_title: Polskie malarstwo współczesne
     authors:
       - Aleksander Wojciechowski
+    translators:
       - Edward Joseph Czerwinski
     year: 1977
     language: English
@@ -10820,8 +11135,11 @@ titles:
     verified: true
     pages: 187
   - title: Contemporary Polish Theatre
+    original_title: Wspolezesny teatr polski
     authors:
       - Witold Filler
+    translators:
+      - Krystyna Ke ·plicz
     year: 1977
     language: English
     pages: 127
@@ -10848,6 +11166,7 @@ titles:
   - title: Der Künstler und sein Werk
     authors:
       - Jan Styczyński
+    translators:
       - Siegfried Schmidt
     year: 1977
     language: German
@@ -10858,11 +11177,13 @@ titles:
         url: https://search.worldcat.org/title/831044153
     verified: true
   - title: Die Oder
+    original_title: Odra
     authors:
       - Jan Popłoński
-      - Siegfried Schmidt
       - Ignacy Rutkiewicz
       - Polska Agencja Interpress
+    translators:
+      - Siegfried Schmidt
     year: 1977
     language: Polish
     sources:
@@ -10874,6 +11195,8 @@ titles:
   - title: Dzieje muzyki polskiej w zarysie
     authors:
       - Grzegorz Michalski
+    editors:
+      - Tadeusz Ochlewski
     year: 1977
     edition: Wyd. 1
     language: Polish
@@ -10901,6 +11224,7 @@ titles:
       - Jerzy Surdykowski
       - Zygmunt Grabowiecki
       - Bogdan Łopieński
+    translators:
       - Jörg Werny
     year: 1977
     language: German
@@ -10911,8 +11235,10 @@ titles:
         url: https://search.worldcat.org/title/830575150
     verified: true
   - title: Geschichte der polnischen Toleranz
+    original_title: Dzieje polskiej tolerancji
     authors:
       - Janusz Tazbir
+    translators:
       - Ruth Brümmer
     year: 1977
     language: German
@@ -10946,8 +11272,11 @@ titles:
         url: https://search.worldcat.org/title/750647270
     verified: true
   - title: Janusz Korczak
+    original_title: Janusz Korczak
     authors:
       - Marek Jaworski
+    translators:
+      - Bolesław Ciemniakowski
     year: 1977
     edition: Wyd. 2., rozsz
     language: Polish
@@ -11015,8 +11344,10 @@ titles:
         url: https://www.sudoc.fr/110050509
     verified: true
   - title: Le théâtre polonais á notre époque
+    original_title: Wopotczesny teatr polski
     authors:
       - Witold Filler
+    translators:
       - Geneviève Daude-Leider
     year: 1977
     language: Polish
@@ -11049,6 +11380,7 @@ titles:
         url: https://www.sudoc.fr/110057325
     verified: true
   - title: Ludwik Hirszfeld
+    original_title: Ludwik Hirszfeld
     authors:
       - Marek Jaworski
     year: 1977
@@ -11171,8 +11503,12 @@ titles:
         url: https://search.worldcat.org/title/831043499
     verified: true
   - title: Poland in the United Nations
+    original_title: Polska w Organizacji Naródow Zjednoczonych
     authors:
       - Andrzej Abraszewski
+    translators:
+      - Jacek Detko
+      - Leon Szwajcer
     year: 1977
     language: English
     pages: 169
@@ -11193,6 +11529,9 @@ titles:
   - title: Poland in the United States
     authors:
       - Andrezej Abraszewski
+    translators:
+      - Jacek Detko
+      - Leon Szwajcer
     year: 1977
     series: Interpress Publication -- 1564
     language: English
@@ -11212,6 +11551,7 @@ titles:
         url: https://search.worldcat.org/title/830329056
     verified: true
   - title: Polen
+    original_title: Polska
     authors:
       - Polska Agencja Interpress
     year: 1977
@@ -11250,6 +11590,7 @@ titles:
   - title: Polen für Entdecker
     authors:
       - Olgierd Budrewicz
+    translators:
       - Kordula Zubrzycka
     year: 1977
     language: German
@@ -11263,6 +11604,7 @@ titles:
     subtitle: 1776-1865
     authors:
       - Bogdan Grzeloński
+    translators:
       - Robert Strybel
     year: 1977
     language: English
@@ -11276,6 +11618,8 @@ titles:
     subtitle: Richtungen, Programme, Werke
     authors:
       - Aleksander Wojciechowski
+    translators:
+      - Barbara Ostrowska
     year: 1977
     language: German
     pages: 185
@@ -11343,6 +11687,7 @@ titles:
     pages: 631
     edition: Wyd. 2
   - title: Polska architektura współczesna
+    original_title: Polska architektura współczesna
     authors:
       - Przemysław Szafer
     year: 1977
@@ -11388,6 +11733,7 @@ titles:
     verified: true
   - title: Polskie malarstwo współczesne
     subtitle: Kierunki--programy--dzieła
+    original_title: Polskie malarstwo współczesne
     authors:
       - Aleksander Wojciechowski
     year: 1977
@@ -11441,9 +11787,10 @@ titles:
   - title: SÈV segodnja i zavtra
     authors:
       - Boris Iosifovič Poklad
-      - Dymitr Hessen
       - Èduard Stepanovič Ševčenko
       - Lesław Skibiński
+    translators:
+      - Dymitr Hessen
     year: 1977
     language: Polish
     sources:
@@ -11478,6 +11825,8 @@ titles:
     subtitle: Twenty Well-Known Americans of Polish Background
     authors:
       - Olgierd Budrewicz
+    translators:
+      - Edward J.
     year: 1977
     language: English
     pages: 246
@@ -11502,8 +11851,9 @@ titles:
   - title: The Odra
     authors:
       - Jan Popłoński
-      - David Evans
       - Ignacy Rutkiewicz
+    translators:
+      - David Evans
     year: 1977
     language: Polish
     sources:
@@ -11585,6 +11935,8 @@ titles:
   - title: Zeitgenössisches polnisches Theater
     authors:
       - Witold Filler
+    translators:
+      - Ruth Brümmer
     year: 1977
     language: German
     pages: 147
@@ -11619,6 +11971,7 @@ titles:
     subtitle: Skizzen über die zeitgenössische Volks- und Dekorationskunst in Polen
     authors:
       - Teresa Kuczyńska
+    translators:
       - Kordula Zubrzycka
     year: 1978
     language: German
@@ -11630,10 +11983,13 @@ titles:
     verified: true
   - title: Auschwitz
     subtitle: Faschistisches Vernichtungslager
+    original_title: Oświęcim
     authors:
       - Wanda Michalak
       - Józef Buszko
       - Polska Agencja Interpress
+    translators:
+      - Iain W. M. Taylor
     year: 1978
     language: Polish
     sources:
@@ -11679,7 +12035,8 @@ titles:
     verified: true
   - title: Auschwitz (Oświęcim)
     subtitle: Camp hitlérien d'extermination
-    authors:
+    authors: []
+    translators:
       - Geneviève Daude-Leider
       - Roman Glanowski
     year: 1978
@@ -11716,6 +12073,8 @@ titles:
   - title: Contemporary Polish Film
     authors:
       - Stanisław Kuszewski
+    translators:
+      - Bogna Piotrowska
     year: 1978
     language: English
     pages: 126
@@ -11737,8 +12096,9 @@ titles:
     subtitle: Die Stimme Polens auf der Weltversammlung der Erbauer des Friedens
     authors:
       - Jerzy Barszczewski
-      - Maria Jansen-Kacprzyńska
       - Michał Szułczewski
+    translators:
+      - Maria Jansen-Kacprzyńska
       - Marek Zeller
     year: 1978
     language: German
@@ -11764,6 +12124,7 @@ titles:
   - title: Introducing Poland
     authors:
       - Jerzy Kępkiewicz
+    translators:
       - Bogna Piotrowska
     year: 1978
     language: English
@@ -11777,6 +12138,8 @@ titles:
   - title: Janusz Korczak
     authors:
       - Marek Jaworski
+    translators:
+      - Karol Jakubowicz
     year: 1978
     language: English
     pages: 221
@@ -11812,6 +12175,7 @@ titles:
   - title: Kultur in Polen
     authors:
       - Wojciech Giełżyński
+    translators:
       - Kordula Zubrzycka
     year: 1978
     language: German
@@ -11851,6 +12215,7 @@ titles:
     subtitle: Courants, programmes, oeuvres
     authors:
       - Aleksander Wojciechowski
+    translators:
       - Maria Cieszewska
     year: 1978
     language: Polish
@@ -11914,8 +12279,11 @@ titles:
         url: https://openlibrary.org/books/OL13761791M
     verified: true
   - title: Le cinéma polonais contemporain
+    original_title: Współczesny film polski
     authors:
       - Stanisław Kuszewski
+    translators:
+      - Zdzisław Łazęcki
     year: 1978
     language: French
     pages: 132
@@ -11997,6 +12365,7 @@ titles:
   - title: Musik in Polen
     authors:
       - Ludwik Erhardt
+    translators:
       - Siegfried Schmidt
     year: 1978
     language: Polish
@@ -12033,6 +12402,7 @@ titles:
     verified: true
   - title: Pamiątka z Polski
     subtitle: Szkice o współczesnej polskiej sztuce użytkowej i ludowej
+    original_title: Pamiątka z Polski
     authors:
       - Teresa Kuczyńska
     year: 1978
@@ -12058,6 +12428,8 @@ titles:
   - title: Poland in Brief
     authors:
       - Zygmunt Szeliga
+    translators:
+      - David Evans
     year: 1978
     language: English
     pages: 46
@@ -12087,7 +12459,8 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991095324999705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Polen grösst
-    authors:
+    authors: []
+    translators:
       - Siegfried Schmidt
     year: 1978
     language: German
@@ -12214,6 +12587,8 @@ titles:
   - title: Souvenir of Poland
     authors:
       - Teresa Kuczyńska
+    translators:
+      - Louise We̜drychowska
     year: 1978
     language: English
     pages: 154
@@ -12246,6 +12621,7 @@ titles:
     verified: true
   - title: Szczecin
     subtitle: Gestern, heute und morgen
+    original_title: Szczecin
     authors:
       - Henryk Mąka
       - Henryk Maka
@@ -12258,6 +12634,8 @@ titles:
   - title: Szczecin wczoraj, dziś, jutro
     authors:
       - Henryk Mąka
+    translators:
+      - Ruth Brümmer
     year: 1978
     edition: Wyd. 1
     language: Polish
@@ -12282,8 +12660,10 @@ titles:
     verified: true
   - title: The church in Poland
     subtitle: Facts, figures, information
+    original_title: Szkice o Kościele w Polsce
     authors:
       - Adam Piekarski
+    translators:
       - Jerzy Bachrach
     year: 1978
     language: Polish
@@ -12336,8 +12716,9 @@ titles:
     subtitle: Informations générales
     authors:
       - Zygmunt Szeliga
-      - Roman Glanowski
       - Małgorzata Górska
+    translators:
+      - Roman Glanowski
     year: 1978
     language: Polish
     sources:
@@ -12387,6 +12768,7 @@ titles:
   - title: Zeitgenössische polnische Architektur
     authors:
       - Tadeusz Przemysław Szafer
+    translators:
       - Kordula Zubrzycka
     year: 1978
     language: Polish
@@ -12397,8 +12779,10 @@ titles:
         url: https://search.worldcat.org/title/831045915
     verified: true
   - title: Zeitgenössischer polnischer Film
+    original_title: Współczesny film polski
     authors:
       - Stanisław Kuszewski
+    translators:
       - Barbara Ostrowska
     year: 1978
     language: German
@@ -12431,7 +12815,8 @@ titles:
         url: https://d-nb.info/997344008
     verified: true
   - title: 60 ans d'indépendance de la Pologne
-    authors:
+    authors: []
+    translators:
       - Henryk Nieruchalski
     year: 1979
     language: French
@@ -12442,6 +12827,7 @@ titles:
         url: https://search.worldcat.org/title/830964103
     verified: true
   - title: 60 Jahre unabhängiges Polen
+    original_title: 60 lat niepodległości Polski
     authors:
       - Ryszard Wojna
       - Andrzej Jezierski
@@ -12481,6 +12867,7 @@ titles:
         url: https://search.worldcat.org/title/830276310
     verified: true
   - title: Adam Mickiewicz
+    original_title: Adam Mickiewicz
     authors:
       - Maria Dernałowicz
     year: 1979
@@ -12506,9 +12893,10 @@ titles:
   - title: Alltag in Polen
     authors:
       - Andrzej Krzysztof Wróblewski
+      - Jan Morek
+    translators:
       - Anna Bickmann
       - Meinolf Bickmann
-      - Jan Morek
       - Gundel Ruschill
     year: 1979
     language: German
@@ -12521,8 +12909,9 @@ titles:
   - title: Altpolnische Küche und polnische Tischsitten
     authors:
       - Tadeusz Żakiej
-      - Dorota Matejak
       - Polska Agencja Interpress
+    translators:
+      - Dorota Matejak
     year: 1979
     language: German
     sources:
@@ -12532,8 +12921,11 @@ titles:
         url: https://search.worldcat.org/title/812715304
     verified: true
   - title: An Illustrated History of Poland
+    original_title: Ilustrowane dzieje Polski
     authors:
       - Mateusz Siuchniński
+    translators:
+      - Stanisław Tarnowski
     year: 1979
     language: English
     pages: 225
@@ -12560,8 +12952,13 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991149205259705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: An Outline History of Polish Music
+    original_title: Dzieje muzyki polskiej w zarysie
     authors:
       - Grzegorz Michalski
+    editors:
+      - Tadeusz Ochlewski
+    translators:
+      - Magdalena Mierowska-Paszkiewicz
     year: 1979
     language: English
     pages: 193
@@ -12597,6 +12994,12 @@ titles:
   - title: Chopin I Jego Ziemia
     authors:
       - Andrzej Zborski
+    editors:
+      - Hanna Wróblewska-Straus
+    translators:
+      - Iain Taylor
+      - Maria Cieszewska
+      - Siegfried Schmidt
     year: 1979
     edition: Wyd. 2
     language: English
@@ -12629,6 +13032,10 @@ titles:
   - title: 'Chopin i jego ziemia = and the land of his birth = et son pays natal = und seine Heimat / tekst, Józef Kański; Engl. transl. by Iain Taylor, trad. Maria Cieszewska, deutsch: Siegfried Schmidt'
     authors:
       - Józef Kański
+    translators:
+      - Iain Taylor
+      - Maria Cieszewska
+      - Siegfried Schmidt
     year: 1979
     language: Not recorded
     sources:
@@ -12659,6 +13066,7 @@ titles:
     verified: true
   - title: Czas niewoli, czas śmierci
     subtitle: Martyrologia dzieci polskich w okresie okupacji hitlerowskiej
+    original_title: Czas niewoli, czas śmierci
     authors:
       - Roman Hrabar
     year: 1979
@@ -12689,6 +13097,7 @@ titles:
     authors:
       - Tadeusz Burzyński
       - Zbigniew Osiński
+    translators:
       - Barbara Ostrowska
     year: 1979
     language: German
@@ -12699,7 +13108,8 @@ titles:
         url: https://search.worldcat.org/title/830964630
     verified: true
   - title: Erziehung der Völker im Geiste des Friedens
-    authors:
+    authors: []
+    translators:
       - Siegfried Schmidt
     year: 1979
     language: German
@@ -12753,6 +13163,7 @@ titles:
         url: https://search.worldcat.org/title/168946320
     verified: true
   - title: Fryderyk Chopin
+    original_title: F. F. Chopin
     authors:
       - Zofia Jeżewska
       - Polska Agencja Interpress
@@ -12765,8 +13176,11 @@ titles:
         url: https://search.worldcat.org/title/297664101
     verified: true
   - title: Grotowski's Laboratory
+    original_title: Laboratorium Grotowskiego
     authors:
       - Tadeusz Burzynski
+    translators:
+      - Boleslaw Taborski
     year: 1979
     language: English
     pages: 148
@@ -12865,7 +13279,8 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991034325699705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Introducing Poland
-    authors:
+    authors: []
+    translators:
       - Bogna Piotrowska
     year: 1979
     language: English
@@ -12926,6 +13341,8 @@ titles:
   - title: John Paul II, the Pope from Poland
     authors:
       - Tadeusz Karolak
+    translators:
+      - David Evans
     year: 1979
     language: English
     pages: 157
@@ -13021,6 +13438,7 @@ titles:
     series: Bibliothèque des connaissances
     authors:
       - Augustyn Woś
+    translators:
       - Roman Glanowski
       - Andrzej Janik
     year: 1979
@@ -13047,8 +13465,9 @@ titles:
   - title: La Pologne de tous les jours
     authors:
       - Andrzej Krzysztof Wróblewski
-      - Andrzej Janik
       - Jan Morek
+    translators:
+      - Andrzej Janik
       - Henryk Nieruchalski
     year: 1979
     language: French
@@ -13066,8 +13485,9 @@ titles:
     authors:
       - Tadeusz Burzyński
       - Zbigniew Osiński
-      - Henryk Nieruchalski
       - Polska Agencja Interpress
+    translators:
+      - Henryk Nieruchalski
     year: 1979
     language: French
     sources:
@@ -13089,6 +13509,7 @@ titles:
   - title: Les metteurs en scène du théâtre polonais
     authors:
       - August Grodzicki
+    translators:
       - Maria Cieszewska
     year: 1979
     language: French
@@ -13103,10 +13524,12 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb354216571
     verified: true
   - title: Old Polish Tradition in the Kitchen and at the Table
+    original_title: W staropolskiej kuchni i przy polskim stole
     authors:
       - Tadeusz Żakiej
-      - Eliza Lewandowska
       - Polska Agencja Interpress
+    translators:
+      - Eliza Lewandowska
     year: 1979
     language: English
     sources:
@@ -13118,6 +13541,8 @@ titles:
   - title: Old Polish Traditions in the Kitchen and at the Table
     authors:
       - Maria Lemnis
+    translators:
+      - Eliza Lewandowska
     year: 1979
     language: English
     pages: 303
@@ -13217,8 +13642,9 @@ titles:
     authors:
       - Zygmunt Szeliga
       - Małgorzata Górska
-      - David Evans
       - Polska Agencja Interpress
+    translators:
+      - David Evans
     year: 1979
     language: Polish
     sources:
@@ -13230,6 +13656,8 @@ titles:
   - title: Poland Today
     authors:
       - Andrzej Krzysztof Wróblewski
+    translators:
+      - Krystyna Keplicz
     year: 1979
     language: English
     pages: 120
@@ -13259,6 +13687,7 @@ titles:
   - title: Polish Theatre Directors
     authors:
       - August Grodzicki
+    translators:
       - Lucyna Tomaszewska
     year: 1979
     language: English
@@ -13283,9 +13712,10 @@ titles:
     authors:
       - Mateusz Siuchniński
       - Małgorzata Górska
+      - Józef Wilkoń
+    translators:
       - Dorota Matejak
       - Siegfried Schmidt
-      - Józef Wilkoń
       - Kordula Zubrzycka
     year: 1979
     language: German
@@ -13408,6 +13838,8 @@ titles:
   - title: Recent Developments in Polish Agriculture
     authors:
       - Augustyn Woś
+    translators:
+      - Witold Kmiecik
     year: 1979
     series: Little Library About Poland
     language: English
@@ -13429,8 +13861,11 @@ titles:
         url: https://search.worldcat.org/title/8072818
     verified: true
   - title: Regisseure des Polnischen Theaters
+    original_title: Reżyserzy polskiego teatru
     authors:
       - August Grodzicki
+    translators:
+      - Barbara Ostrowska
     year: 1979
     language: German
     sources:
@@ -13467,8 +13902,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991137922759705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Słowo wstȩpne
+    original_title: Reżyserzy polskiego teatru
   - title: Sixty Years of Polish Independence
-    authors:
+    authors: []
+    translators:
       - David Evans
     year: 1979
     language: English
@@ -13488,6 +13925,7 @@ titles:
     verified: true
     pages: 92
   - title: Skarby kultury na Jasnej Górze
+    original_title: Skarby kultury na Jasnej Górze
     authors:
       - Zofia Rozanow
     year: 1979
@@ -13527,6 +13965,7 @@ titles:
     subtitle: Yesterday, Today and Tomorrow
     authors:
       - Henryk Mąka
+    translators:
       - Susan Brice-Wojciechowska
     year: 1979
     language: English
@@ -13556,8 +13995,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=194479509X
     verified: true
   - title: The Cultural Heritage of Jasna Góra
+    original_title: Skarby kultury na Jasnej Górze
     authors:
       - Zofia Rozanow
+    translators:
+      - Stanislaw Tarnowski
     year: 1979
     edition: 2d ed. rev. and enl
     language: English
@@ -13588,6 +14030,7 @@ titles:
     subtitle: Esquisses sur les arts appliqués et populaires
     authors:
       - Teresa Kuczyńska
+    translators:
       - Geneviève Daude-Leider
     year: 1979
     language: French
@@ -13637,6 +14080,8 @@ titles:
   - title: Warszawa, 1945, dziś, jutro
     authors:
       - Stanisław Jankowski
+    editors:
+      - Hubert Rudziński
     year: 1979
     edition: Wyd. 2
     language: Polish
@@ -13671,6 +14116,7 @@ titles:
     authors:
       - Ignacy Rutkiewicz
       - Olgierd Czerner
+    translators:
       - Krystyna Jedlińska
       - Siegfried Schmidt
     year: 1979
@@ -13684,6 +14130,8 @@ titles:
   - title: Wrocław wczoraj i dziś
     authors:
       - Ignacy Rutkiewicz
+    editors:
+      - Olgierd Czerner
     year: 1979
     edition: Wyd. 2
     language: Polish
@@ -13722,6 +14170,8 @@ titles:
   - title: A Companion Guide to the Royal Castle in Warsaw
     authors:
       - Jerzy Lileyko
+    translators:
+      - David Evans
     year: 1980
     language: English
     pages: 249
@@ -13784,6 +14234,8 @@ titles:
   - title: Casimir Pulaski
     authors:
       - Jan Stanisław Kopczewski
+    translators:
+      - Christopher Bobiński
     year: 1980
     language: English
     pages: 171
@@ -13810,6 +14262,8 @@ titles:
   - title: Chopin
     authors:
       - Zofia Jeżewska
+    translators:
+      - Krystyna Kozłowska
     year: 1980
     language: English
     pages: 97
@@ -13870,6 +14324,7 @@ titles:
   - title: Es gibt keine Verjährung
     authors:
       - Czesław Pilichowski
+    translators:
       - Ruth Brümmer
       - Krystyna Jedlińska
     year: 1980
@@ -13904,6 +14359,7 @@ titles:
   - title: Fryderyk Chopin
     authors:
       - Zofia Jeżewska
+    translators:
       - Barbara Ostrowska
     year: 1980
     language: German
@@ -13964,8 +14420,9 @@ titles:
     series: Das zeitgenössische Polen
     authors:
       - Marian Rybicki
-      - Egon Bernhardt
       - Polska Agencja Interpress
+    translators:
+      - Egon Bernhardt
     year: 1980
     language: German
     sources:
@@ -13982,6 +14439,7 @@ titles:
     authors:
       - Augustyn Woś
       - Zdzisław Grochowski
+    translators:
       - Anna Rossa
       - Jorge Ruiz Lardizábal
     year: 1980
@@ -13995,8 +14453,9 @@ titles:
   - title: La Pologne sportive
     authors:
       - Zbigniew Chmielewski
-      - Marian Przeździk
       - Polska Agencja Interpress
+    translators:
+      - Marian Przeździk
     year: 1980
     language: French
     sources:
@@ -14008,6 +14467,7 @@ titles:
   - title: Leckers aus der polnischen Küche
     authors:
       - Barbara Zielińska
+    translators:
       - Teresa Chruszczewska
     year: 1980
     language: German
@@ -14031,8 +14491,11 @@ titles:
         url: https://search.worldcat.org/title/169295936
     verified: true
   - title: No Time-Limit for These Crimes!
+    original_title: Nie ma przedawnienia
     authors:
       - Czesław Pilichowski
+    translators:
+      - Jan Sęk
     year: 1980
     language: English
     pages: 186
@@ -14064,6 +14527,8 @@ titles:
   - title: Poland for Beginners
     authors:
       - Olgierd Budrewicz
+    translators:
+      - Edward Rothert
     year: 1980
     edition: 3rd ed. rev. and updated
     language: English
@@ -14088,8 +14553,9 @@ titles:
   - title: Poland in Brief
     authors:
       - Zygmunt Szeliga
-      - David Evans
       - Małgorzata Górska
+    translators:
+      - David Evans
     year: 1980
     language: English
     sources:
@@ -14101,6 +14567,8 @@ titles:
   - title: Poland, a Guide for Young Tourists
     authors:
       - Krzysztof Wichrowski
+    translators:
+      - David Evans
     year: 1980
     language: English
     pages: 254
@@ -14134,6 +14602,8 @@ titles:
   - title: Polish Sport
     authors:
       - Zbigniew Chmielewski
+    translators:
+      - Piotr Goc
     year: 1980
     language: English
     pages: 130
@@ -14293,6 +14763,7 @@ titles:
         url: https://search.worldcat.org/title/830964724
     verified: true
   - title: Rodacy spod klonowego liścia
+    original_title: Rodacy spod klonowego liścia
     authors:
       - Olgierd Budrewicz
     year: 1980
@@ -14365,10 +14836,12 @@ titles:
         url: https://archive.org/details/sportwsrodpoloni0000korb
     verified: true
   - title: Sportbegeistertes Polen
+    original_title: Polska sportowa
     authors:
       - Zbigniew Chmielewski
-      - Kordula Zubrzycka
       - Polska Agencja Interpress
+    translators:
+      - Kordula Zubrzycka
     year: 1980
     language: German
     sources:
@@ -14382,6 +14855,7 @@ titles:
     authors:
       - Zygmunt Szeliga
       - Małgorzata Górska
+    translators:
       - Siegfried Schmidt
     year: 1980
     language: German
@@ -14429,8 +14903,9 @@ titles:
     subtitle: Informations générales
     authors:
       - Zygmunt Szeliga
-      - Roman Glanowski
       - Małgorzata Górska
+    translators:
+      - Roman Glanowski
     year: 1980
     language: French
     sources:
@@ -14523,8 +14998,10 @@ titles:
     isbn: '8322319126'
     edition: Wyd. 1
   - title: Adam Mickiewicz
+    original_title: Adam Mickiewicz
     authors:
       - Maria Dernałowicz
+    translators:
       - Halina Filipowicz
     year: 1981
     language: English
@@ -14572,6 +15049,9 @@ titles:
     subtitle: 'Urbanisme, architecture = Awangarda Polska: urbanistyka, architektura = The Polish avant-garde: architecture, town-planning: 1918-1939'
     authors:
       - Olgierd Czerner
+    editors:
+      - Hieronim Listowski
+      - François Wehrlin
     year: 1981
     language: French
     isbn: '2862821810'
@@ -14659,8 +15139,9 @@ titles:
     authors:
       - Józef Kańzki
       - Frédéric Chopin
-      - Siegfried Schmidt
       - Andrzej Zborski
+    translators:
+      - Siegfried Schmidt
     year: 1981
     language: Polish
     sources:
@@ -14668,11 +15149,13 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=01568394X
     verified: true
   - title: Das Königsschlos in Warschau
+    original_title: Zamek Królewski
     authors:
       - Jerzy Lileyko
+      - Polska Agencja Interpress
+    translators:
       - Dorota Matejak
       - Barbara Ostrowska
-      - Polska Agencja Interpress
     year: 1981
     language: German
     sources:
@@ -14684,6 +15167,8 @@ titles:
   - title: Der Waweldom in Kraków
     authors:
       - Michał Rożek
+    translators:
+      - Kordula Zubrzycka
     year: 1981
     language: German
     pages: 175
@@ -14750,6 +15235,8 @@ titles:
     subtitle: Le martyre des enfants polonais pendant l'occupation hitlérienne
     authors:
       - Roman Hrabar
+    translators:
+      - Roman Glanowski
     year: 1981
     language: French
     pages: 218
@@ -14830,6 +15317,8 @@ titles:
     subtitle: Zarys biografii politycznej
     authors:
       - Marian Marek Drozdowski
+    translators:
+      - Stanisław Tarnowski
     year: 1981
     edition: Wyd. 2., popr
     language: Polish
@@ -14929,6 +15418,7 @@ titles:
       - Jacek E. Wilczur
       - Zofia Tokarz
       - Janusz Wieczorek
+    translators:
       - Henryk Fula
       - Siegfried Schmidt
     year: 1981
@@ -14967,8 +15457,9 @@ titles:
   - title: La Cathédrale Royale du Wawel
     authors:
       - Michał Rożek
-      - Andrzej Janik
       - Stanisław Markowski
+    translators:
+      - Andrzej Janik
     year: 1981
     language: French
     sources:
@@ -14980,8 +15471,9 @@ titles:
   - title: La Pologne pour débutants
     authors:
       - Olgierd Budrewicz
-      - Maria Cieszewska
       - Polska Agencja Interpress
+    translators:
+      - Maria Cieszewska
     year: 1981
     language: French
     sources:
@@ -14993,8 +15485,9 @@ titles:
   - title: Le Château de Varsovie
     authors:
       - Jerzy Lileyko
-      - Maria Ciszewska
       - Polska Agencja Interpress
+    translators:
+      - Maria Ciszewska
     year: 1981
     language: French
     sources:
@@ -15006,8 +15499,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1918348316
     verified: true
   - title: Majdanek, obóz koncentracyjny w Lublinie
+    original_title: Majdanek
     authors:
       - Józef Marszałek
+    editors:
+      - Polen
     year: 1981
     edition: Wyd. 1
     language: Polish
@@ -15030,10 +15526,12 @@ titles:
         url: https://d-nb.info/36916007X
     verified: true
   - title: Old Polish Traditions in the Kitchen and at the Table
+    original_title: W staropolskiej kuchni i przy polskim stole
     authors:
       - Tadeusz Żakiej
-      - Eliza Lewandowska
       - Polska Agencja Interpress
+    translators:
+      - Eliza Lewandowska
     year: 1981
     language: English
     sources:
@@ -15107,6 +15605,8 @@ titles:
   - title: Polish-Canadian Profiles
     authors:
       - Olgierd Budrewicz
+    translators:
+      - Eliza Lewandowski
     year: 1981
     language: English
     pages: 247
@@ -15172,15 +15672,17 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=561907811
     verified: true
   - title: The Fate of Polish Children During the Last War
+    original_title: Czas niewoli, czas śmierci
     authors:
       - Roman Zbigniew Hrabar
       - Lesław M. Bartelski
       - Jacek E. Wilczur
-      - Bogdan Buczkowski
-      - Lech Petrowicz
       - Zofia Tokarz
       - Janusz Wieczorek
       - Polska Agencja Interpress
+    translators:
+      - Bogdan Buczkowski
+      - Lech Petrowicz
     year: 1981
     language: English
     sources:
@@ -15214,8 +15716,9 @@ titles:
   - title: The Royal Cathedral at Wawel
     authors:
       - Michał Rożek
-      - Bogna Piotrowska
       - Stanisław Markowski
+    translators:
+      - Bogna Piotrowska
     year: 1981
     language: English
     sources:
@@ -15342,10 +15845,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=126081255
     verified: true
   - title: Altpolnische Küche und polnische Tischsitten
+    original_title: W staropolskiej kuchni i przy polskim stole
     authors:
       - Tadeusz Żakiej
-      - Dorota Matejak
       - Polska Agencja Interpress
+    translators:
+      - Dorota Matejak
     year: 1982
     language: German
     sources:
@@ -15414,6 +15919,7 @@ titles:
     verified: true
   - title: Bolesław Śmiały-Szczodry i biskup Stanisław
     subtitle: Dzieje konfliktu
+    original_title: Bolesław Śmiały-Szczodry i biskup Stanisław
     authors:
       - Tadeusz Grudziński
     year: 1982
@@ -15608,9 +16114,10 @@ titles:
   - title: L'ambre polonais
     authors:
       - Janina Grabowska
-      - Maria Cieszewska
       - Janina Gardzielewska
       - Janusz Korpal
+    translators:
+      - Maria Cieszewska
     year: 1982
     language: French
     sources:
@@ -15745,6 +16252,7 @@ titles:
     subtitle: History and Culture
     authors:
       - Marian Fuks
+    translators:
       - Lech Petrowicz
       - Bogna Piotrowska
     year: 1982
@@ -15795,6 +16303,8 @@ titles:
   - title: Polnischer Bernstein
     authors:
       - Janina Grabowska
+    translators:
+      - Siegfried Schmidt
     year: 1982
     language: German
     pages: 56
@@ -15810,6 +16320,7 @@ titles:
         url: https://search.worldcat.org/title/835923352
     verified: true
   - title: Polski bursztyn
+    original_title: Polski bursztyn
     authors:
       - Janina Grabowska
       - Janina Gardzielewska
@@ -15824,6 +16335,7 @@ titles:
         url: https://search.worldcat.org/title/69279734
     verified: true
   - title: Przewodnik po muzeach i zbiorach w Polsce
+    original_title: Przewodnik po muzeach i zbiorach w Polsce
     authors:
       - Stanisław Lorentz
     year: 1982
@@ -15968,8 +16480,9 @@ titles:
   - title: Zeit der Steine
     authors:
       - Monika Krajewska
-      - Karin Wolff
       - Anna Kamieńska
+    translators:
+      - Karin Wolff
     year: 1982
     language: German
     sources:
@@ -16033,6 +16546,8 @@ titles:
   - title: Der Entsatz von Wien 1683
     authors:
       - Jan Wimmer
+    translators:
+      - Maria Weronika Janssen
     year: 1983
     series: Panorama dziejów Polski
     language: German
@@ -16101,6 +16616,8 @@ titles:
   - title: Dzieje muzyki polskiej w zarysie
     authors:
       - Grzegorz Michalski
+    editors:
+      - Tadeusz Ochlewski
     year: 1983
     edition: Wyd. 2, popr. i uzup
     language: Polish
@@ -16129,6 +16646,7 @@ titles:
   - title: Einige jüdische Gerichte
     authors:
       - Eugeniusz Wirkowski
+    translators:
       - Siegfried Schmidt
     year: 1983
     language: German
@@ -16229,6 +16747,7 @@ titles:
     authors:
       - Monika Krajewska
       - Anna Kamieńska
+    translators:
       - Maria Ciszewska
     year: 1983
     language: French
@@ -16375,6 +16894,9 @@ titles:
   - title: Panorama dziejów Polski
     authors:
       - Instytut Historii (Polska Akademia Nauk)
+    editors:
+      - Ewa Trzeciak
+      - Hanna Cierlińska
     year: 1983
     edition: Wyd. 1
     language: Polish
@@ -16495,9 +17017,10 @@ titles:
   - title: Polen für Entdecker
     authors:
       - Olgierd Budrewicz
-      - Kordula Zubrzycka
       - Jerzy Flisak
       - Polska Agencja Interpress
+    translators:
+      - Kordula Zubrzycka
     year: 1983
     language: German
     sources:
@@ -16517,8 +17040,11 @@ titles:
         url: https://search.worldcat.org/title/903350505
     verified: true
   - title: Polish Amber
+    original_title: Polski bursztyn
     authors:
       - Janina Grabowska
+    translators:
+      - Emma Harris
     year: 1983
     language: English
     pages: 110
@@ -16665,8 +17191,11 @@ titles:
         url: https://search.worldcat.org/title/830239230
     verified: true
   - title: Time of Stones
+    original_title: Czas kamieni
     authors:
       - Monika Krajewska
+    translators:
+      - Krystyna Kęplicz
     year: 1983
     language: English
     pages: 200
@@ -16791,6 +17320,8 @@ titles:
   - title: A Polish American's Guide to Poland
     authors:
       - Tadeusz Wojnowski
+    translators:
+      - Robert Strybel
     year: 1984
     language: English
     pages: 189
@@ -16859,6 +17390,7 @@ titles:
   - title: An Outline history of Polish culture
     authors:
       - Bolesław Klimaszewski
+    translators:
       - Krystyna Mroczek
     year: 1984
     language: Old English
@@ -16953,6 +17485,9 @@ titles:
   - title: Chopin i jego ziemia
     authors:
       - Andrzej Zborski
+    editors:
+      - Józef Kański
+      - Hanna Wróblewska-Straus
     year: 1984
     edition: Wyd. 4
     language: Polish
@@ -17004,6 +17539,8 @@ titles:
   - title: Cooking the Jewish Way
     authors:
       - Eugeniusz Wirkowski
+    translators:
+      - Bogna Piotrowska
     year: 1984
     language: English
     pages: 35
@@ -17189,6 +17726,7 @@ titles:
   - title: Einige jüdische Gerichte
     authors:
       - Eugeniusz Wirkowski
+    translators:
       - Siegfried Schmidt
     year: 1984
     language: German
@@ -17212,6 +17750,7 @@ titles:
   - title: Entente nationale
     authors:
       - Elżbieta Wiśniewska
+    translators:
       - Roman Glanowski
     year: 1984
     language: French
@@ -17224,6 +17763,9 @@ titles:
   - title: Five Centuries of Lutheranism in Poland
     authors:
       - Andrzej Tokarczyk
+    translators:
+      - Witold Kmiecik
+      - Andrzej Niedzielski
     year: 1984
     language: English
     pages: 54
@@ -17251,6 +17793,7 @@ titles:
   - title: Fünf Jahrhunderte Luthertum in Polen
     authors:
       - Andrzej Tokarczyk
+    translators:
       - Maria Weronika Janssen
     year: 1984
     language: German
@@ -17330,6 +17873,8 @@ titles:
     subtitle: Her Majesty the Vistula
     authors:
       - Szymon Kobyliński
+    translators:
+      - Doris Ronowicz
     year: 1984
     edition: Wyd. 1
     language: Polish
@@ -17420,7 +17965,8 @@ titles:
         url: https://search.worldcat.org/title/830240912
     verified: true
   - title: La Panorama de l'histoire de la Pologne
-    authors:
+    authors: []
+    translators:
       - Henryk Nieruchalski
     year: 1984
     language: French
@@ -17431,6 +17977,7 @@ titles:
   - title: La Politique étrangére de la Pologne populaire
     authors:
       - Wojciech Multan
+    translators:
       - Roman Glanowski
     year: 1984
     language: French
@@ -17549,8 +18096,10 @@ titles:
     verified: true
   - title: Majdanek
     subtitle: Konzentrationslager Lublin
+    original_title: Majdanek
     authors:
       - Józef Marszałek
+    translators:
       - Rita Malcher
     year: 1984
     language: German
@@ -17596,11 +18145,13 @@ titles:
         url: https://openlibrary.org/books/OL21912560M
     verified: true
   - title: November 1918
+    original_title: Listopad 1918
     series: Panorama of Polish History. Facts and Myths
     authors:
       - Janusz Żarnowski
-      - Jan Sęk
       - Polska Agencja Interpress
+    translators:
+      - Jan Sęk
     year: 1984
     language: English
     sources:
@@ -17635,7 +18186,8 @@ titles:
         url: https://search.worldcat.org/title/835909628
     verified: true
   - title: Panorama de l'histoire de la Pologne
-    authors:
+    authors: []
+    translators:
       - Henryk Nieruchalski
     year: 1984
     language: French
@@ -17699,6 +18251,7 @@ titles:
   - title: Poland 1944-1984
     authors:
       - Rafał Łąkowski
+    translators:
       - Wojciech Worsztynowicz
     year: 1984
     language: English
@@ -17722,6 +18275,7 @@ titles:
   - title: Polen ist und bleibt sozialistisch
     authors:
       - Jerzy Andrzej Salecki
+    translators:
       - Tina Oko
     year: 1984
     language: German
@@ -17997,6 +18551,7 @@ titles:
     subtitle: Nazi Extermination Camp
     authors:
       - Józef Buszko
+    translators:
       - Lech Petrowicz
       - Iain W. M. Taylor
     year: 1985
@@ -18044,11 +18599,13 @@ titles:
     verified: true
   - title: Boleslaus the Bold, Called Also the Bountiful, and Bishop Stanislaus
     subtitle: The Story of a Conflict
+    original_title: Bolesław Śmiały-Szczodry i biskup Stanisław
     series: A Panorama of Polish History
     authors:
       - Tadeusz Grudziński
-      - Lech Petrowicz
       - Polska Agencja Interpress
+    translators:
+      - Lech Petrowicz
     year: 1985
     language: English
     sources:
@@ -18070,6 +18627,8 @@ titles:
   - title: Chopin
     authors:
       - Zofia Jeżewska
+    translators:
+      - Krystyna Kozlowska
     year: 1985
     edition: 2nd ed
     language: English
@@ -18115,6 +18674,7 @@ titles:
     verified: true
   - title: Das Götzenbuch
     subtitle: (Xięga bałwochwalcza)
+    original_title: Xięga bałwochwalcza
     authors:
       - Bruno Schulz
       - Jerzy Ficowski
@@ -18127,6 +18687,7 @@ titles:
   - title: Die Friedenspolitik Volkspolens
     authors:
       - Ireneusz Czyżewski
+    translators:
       - Tadeusz Kachlak
     year: 1985
     language: German
@@ -18166,6 +18727,7 @@ titles:
   - title: Die Jugend in Polen
     authors:
       - Andrzej Ziemski
+    translators:
       - Tadeusz Kachlak
     year: 1985
     language: German
@@ -18350,13 +18912,15 @@ titles:
         url: https://search.worldcat.org/title/17237828
     verified: true
   - title: Krakauer Marienalter Veit Stoss
+    original_title: Ołtarz Mariacki Wita Stwosza
     authors:
       - Tadeusz Chrzanowski
       - Jerzy Kępkiewicz
       - Stanisław Markowski
-      - Siegfried Schmidt
       - Dymitr Sprudin
       - Polska Agencja Interpress
+    translators:
+      - Siegfried Schmidt
     year: 1985
     language: German
     sources:
@@ -18416,6 +18980,7 @@ titles:
   - title: La juventud en Polonia
     authors:
       - Andrzej Ziemski
+    translators:
       - Carlos González Tejera
     year: 1985
     language: Spanish
@@ -18428,6 +18993,7 @@ titles:
   - title: La politica de paz la Polonia Popular
     authors:
       - Ireneusz Czyżewski
+    translators:
       - Carlos González Tejera
     year: 1985
     language: Spanish
@@ -18440,6 +19006,7 @@ titles:
   - title: La politique pacifique de la République Populaire de Pologne
     authors:
       - Ireneusz Czyżewski
+    translators:
       - Bolesław Ciemniakowski
     year: 1985
     language: French
@@ -18484,8 +19051,9 @@ titles:
   - title: Le Mouvement patriotique pour la renaissance nationale
     subtitle: Genese - structure - buts
     authors:
-      - Henryk Nieruchalski
       - Patriotyczny Ruch Odrodzenia Narodowego
+    translators:
+      - Henryk Nieruchalski
     year: 1985
     language: French
     sources:
@@ -18497,10 +19065,11 @@ titles:
   - title: Le Retable Marial de Wit Stwosz
     authors:
       - Tadeusz Chrzanowski
-      - Maria Cieszewska
       - Stanisław Markowski
       - Dymitr Sprudin
       - Jerzy Kępkiewicz
+    translators:
+      - Maria Cieszewska
     year: 1985
     language: French
     sources:
@@ -18581,8 +19150,9 @@ titles:
   - title: Palais de Varsovie
     authors:
       - Tadeusz Stefan Jaroszewski
-      - Maria Cieszewska
       - Edmund Kupiecki
+    translators:
+      - Maria Cieszewska
     year: 1985
     language: French
     sources:
@@ -18594,6 +19164,8 @@ titles:
   - title: Palais de Varsovie / Tadeusz S. Jaroszewski; photos Edmund Kupiecki; trad. du polonais par Maria Cieszewska
     authors:
       - Tadeusz S. Jaroszewski
+    translators:
+      - Maria Cieszewska
     year: 1985
     language: French
     sources:
@@ -18604,6 +19176,7 @@ titles:
     authors:
       - Tadeusz Stefan Jaroszewski
       - Edmund Kupiecki
+    translators:
       - Dorota Matejak
     year: 1985
     language: German
@@ -18707,8 +19280,11 @@ titles:
         url: https://d-nb.info/996361650
     verified: true
   - title: Polish Americans, 1854-1939
+    original_title: Polonia amerikańska
     authors:
       - Andrzej Brożek
+    translators:
+      - Wojciech Worsztynowicz
     year: 1985
     language: English
     pages: 274
@@ -18745,6 +19321,8 @@ titles:
   - title: Polish Wings
     authors:
       - Andrzej Glass
+    translators:
+      - Emma Harris
     year: 1985
     language: English
     pages: 96
@@ -18760,8 +19338,10 @@ titles:
         url: https://search.worldcat.org/title/835893099
     verified: true
   - title: Polnische Flugzeuge
+    original_title: polskie skrzydla; uebersetzt von Eckehard Kesicki
     authors:
       - Andrzej Glass
+    translators:
       - Eckehard Kęsicki
     year: 1985
     language: German
@@ -18789,6 +19369,7 @@ titles:
   - title: Pologne-France
     authors:
       - Ryszard Liczmański
+    translators:
       - Kazimiera Ordyńska-Bielawska
     year: 1985
     language: French
@@ -18841,6 +19422,7 @@ titles:
         url: https://search.worldcat.org/title/835903428
     verified: true
   - title: Świat dawnych Słowian
+    original_title: Svět dávných Slovanů
     authors:
       - Zdeněk Váňa
       - Pavel Vácha
@@ -18853,6 +19435,8 @@ titles:
   - title: The Book of Warsaw Palaces
     authors:
       - Tadeusz Stefan Jaroszewski
+    translators:
+      - Stanisław Tarnowski
     year: 1985
     language: English
     pages: 168
@@ -18877,6 +19461,8 @@ titles:
   - title: The Marian Altar of Wit Stwosz
     authors:
       - Tadeusz Chrzanowski
+    translators:
+      - Emma Harris
     year: 1985
     language: English
     pages: 168
@@ -18915,6 +19501,8 @@ titles:
     subtitle: Yesterday and Today
     authors:
       - Stanisław Janicki
+    translators:
+      - Emma Harris
     year: 1985
     language: English
     pages: 75
@@ -18958,6 +19546,11 @@ titles:
   - title: The Shrine of the Black Madonna at Częstochowa
     authors:
       - Janusz St Pasierb
+    editors:
+      - Jan Samek
+      - Janusz Stanisław Pasierb
+    translators:
+      - Bogna Piotrowska
     year: 1985
     edition: 2nd ed., enl. and updated
     language: English
@@ -19007,6 +19600,7 @@ titles:
     verified: true
   - title: Veit Stoss
     subtitle: Krakauer Marienaltar
+    original_title: Ołtarz Mariacki Wita Stowosza
     authors:
       - Tadeusz Chrzanowski
       - Veit Stoß
@@ -19028,6 +19622,7 @@ titles:
   - title: VR Polen - Bundesrepublik Deutschland
     authors:
       - Mieczysław Tomala
+    translators:
       - Tadeusz Kachlak
       - Weronika Wojna-Daszkiewicz
       - Karin Tomala
@@ -19089,8 +19684,9 @@ titles:
   - title: Wilanów dans le passé et aujourd'hui
     authors:
       - Wojciech Fijałkowski
-      - Maria Cieszewska
       - Tadeusz Kobyłka
+    translators:
+      - Maria Cieszewska
     year: 1985
     language: French
     sources:
@@ -19125,6 +19721,7 @@ titles:
     authors:
       - Wojciech Fijałkowski
       - Tadeusz Kobyłka
+    translators:
       - Stanisław Tarnowski
     year: 1985
     language: English
@@ -19155,9 +19752,12 @@ titles:
     verified: true
   - title: Witkacy
     subtitle: 'Stanislaw Ignacy Witkiewicz: la vie et l''oeuvre'
+    original_title: Witkacy
     authors:
       - Anna Micinska
       - Stanisław Ignacy Witkiewicz
+    translators:
+      - Maria Cieszewska
     year: 1985
     language: French
     sources:
@@ -19170,6 +19770,8 @@ titles:
     subtitle: Życie i twórczość
     authors:
       - Anna Micińska
+    editors:
+      - Janusz Degler
     year: 1985
     language: Polish
     pages: 367
@@ -19214,10 +19816,12 @@ titles:
         url: https://search.worldcat.org/title/830182399
     verified: true
   - title: A History of Polish Culture
+    original_title: Dzieje kultury polskiej
     authors:
       - Bogdan Suchodolski
-      - Edward Joseph Czerwinski
       - Maria Suchodolska
+    translators:
+      - Edward Joseph Czerwinski
     year: 1986
     language: English
     sources:
@@ -19258,10 +19862,12 @@ titles:
         url: https://search.worldcat.org/title/835894710
     verified: true
   - title: An Outline History of Poland
+    original_title: Zarys dziejów Polski
     authors:
       - Jerzy Topolski
-      - Olgierd Adrian Wojtasiewicz
       - Polska Agencja Interpress
+    translators:
+      - Olgierd Adrian Wojtasiewicz
     year: 1986
     language: English
     sources:
@@ -19286,8 +19892,10 @@ titles:
       - label: Read or download (Internet Archive)
         url: https://archive.org/details/TopolskiPoland1986
   - title: An Outline History of Polish Applied Art
+    original_title: Dzieje polskiego rzemiosła artystycznego
     authors:
       - Zdzisław Żygulski
+    translators:
       - Stanisław Tarnowski
     year: 1986
     language: English
@@ -19322,9 +19930,10 @@ titles:
   - title: Auschwitz - camp hitlérien d'extermination
     authors:
       - Józef Buszko
+      - Polska Agencja Interpress
+    translators:
       - Geneviève Daude-Leider
       - Roman Glanowski
-      - Polska Agencja Interpress
     year: 1986
     language: French
     sources:
@@ -19339,6 +19948,7 @@ titles:
     verified: true
   - title: Bolesław Śmiały-Szczodry i biskup Stanisław
     subtitle: Dzieje konfliktu
+    original_title: Bolesław Śmiały-Szczodry i biskup Stanisław
     authors:
       - Tadeusz Grudziński
     year: 1986
@@ -19392,9 +20002,10 @@ titles:
   - title: Die Geschichte Polens
     authors:
       - Jerzy Topolski
+      - Polska Agencja Interpress
+    translators:
       - Ingrid Buhl
       - Sigrid Moser
-      - Polska Agencja Interpress
     year: 1986
     language: German
     sources:
@@ -19404,9 +20015,11 @@ titles:
         url: https://search.worldcat.org/title/835895793
     verified: true
   - title: Die preussische Huldigung
+    original_title: Hołd pruski
     series: Panorama der polnischen Geschichte. Fakten und Mythen
     authors:
       - Maria Bogucka
+    translators:
       - Maria Weronika Janssen
     year: 1986
     language: German
@@ -19482,9 +20095,11 @@ titles:
         url: https://search.worldcat.org/title/839149340
     verified: true
   - title: Geschichte der polnischen Kultur
+    original_title: Dzieje kultury polskiej
     authors:
       - Bogdan Suchodolski
       - Maria Suchodolska
+    translators:
       - Kordula Zubrzycka
     year: 1986
     language: German
@@ -19499,6 +20114,8 @@ titles:
   - title: Henryk Wieniawski
     authors:
       - Edmund Grabkowski
+    translators:
+      - Emma Harris
     year: 1986
     language: English
     pages: 169
@@ -19574,8 +20191,9 @@ titles:
     authors:
       - Zbigniew Bania
       - Jan Golonka
-      - Krystyna Jedlińska
       - Stanisław Kobielus
+    translators:
+      - Krystyna Jedlińska
     year: 1986
     language: German
     sources:
@@ -19638,9 +20256,11 @@ titles:
     verified: true
   - title: Karol Szymanowski
     subtitle: An Anthology
+    original_title: O Karolu Szymanowskim
     authors:
-      - Emma Harris
       - Zdzisław Sierpiński
+    translators:
+      - Emma Harris
     year: 1986
     language: English
     sources:
@@ -19717,6 +20337,7 @@ titles:
   - title: La Pologne - temps present
     authors:
       - Andrzej Ziemski
+    translators:
       - Henryk Nieruchalski
     year: 1986
     language: French
@@ -19773,6 +20394,8 @@ titles:
   - title: Majdanek, the Concentration Camp in Lublin
     authors:
       - Józef Marszałek
+    translators:
+      - Lech Petrowicz
     year: 1986
     language: English
     pages: 192
@@ -19931,6 +20554,7 @@ titles:
   - title: Poland Today
     authors:
       - Andrzej Ziemski
+    translators:
       - Lech Petrowicz
     year: 1986
     language: English
@@ -20098,10 +20722,11 @@ titles:
     authors:
       - Georgij Mihajlovič Drozdov
       - Petr Akaemov
-      - Barbara Górna
       - Nikolaj Nikolaevič Rahmanov
       - Grafički Umetnički Zavod "Planeta"
       - Polska Agencja Interpress
+    translators:
+      - Barbara Górna
     year: 1986
     language: Polish
     sources:
@@ -20127,6 +20752,8 @@ titles:
     subtitle: Polish American Biographies
     authors:
       - Bogdan Grzeloński
+    translators:
+      - Emma Harris
     year: 1986
     language: English
     pages: 201
@@ -20147,10 +20774,12 @@ titles:
     verified: true
   - title: Über Karol Szymanowski
     subtitle: Anthologie
+    original_title: O Karolu Szymynowskim
     authors:
       - Zdzisław Sierpiński
-      - Krystyna Jedlińska
       - Polska Agencja Interpress
+    translators:
+      - Krystyna Jedlińska
     year: 1986
     language: German
     sources:
@@ -20164,8 +20793,9 @@ titles:
   - title: Varsovie
     authors:
       - Piotr Rafalski
-      - Maria Cieszewska
       - Jan Morek
+    translators:
+      - Maria Cieszewska
     year: 1986
     language: Polish
     sources:
@@ -20208,6 +20838,7 @@ titles:
     authors:
       - Piotr Rafalski
       - Jan Morek
+    translators:
       - Karol Jakubowicz
     year: 1986
     language: English
@@ -20272,6 +20903,8 @@ titles:
   - title: Zabytki urbanistyki i architektury w Polsce
     subtitle: Odbudowa i konserwacja
     authors: []
+    editors:
+      - Wiktor Zin
     year: 1986
     language: Polish
     sources:
@@ -20331,8 +20964,11 @@ titles:
         url: https://www.sudoc.fr/139375287
     verified: true
   - title: An Outline History of Polish Applied Art
+    original_title: Dzieje polskiego rzemiosła artystycznego
     authors:
       - Zdzisław Żygulski
+    translators:
+      - Stanislaw Tarnowski
     year: 1987
     language: English
     pages: 264
@@ -20371,6 +21007,7 @@ titles:
       - Elena Chmelová
       - Marián Čapka
       - Jan Filipský
+    translators:
       - Andrzej Czcibor-Piotrowski
     year: 1987
     language: Polish
@@ -20446,6 +21083,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991153941139705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Dzieje polskiego rzemiosła artystycznego
+    original_title: Dzieje polskiego rzemiosła artystycznego
     authors:
       - Zdzisław Żygulski
     year: 1987
@@ -20473,6 +21111,7 @@ titles:
       - Czesław Banach
       - Franciszek Filipowicz
       - Władysław Kryla
+    translators:
       - Lech Petrowicz
     year: 1987
     language: English
@@ -20559,6 +21198,7 @@ titles:
       - Czesław Banach
       - Franciszek Filipowicz
       - Władysław Kryla
+    translators:
       - Henryk Nieruchalski
     year: 1987
     language: French
@@ -20572,6 +21212,8 @@ titles:
     subtitle: Obóz koncentracyjny w Lublinie
     authors:
       - Józef Marszałek
+    editors:
+      - Polen
     year: 1987
     edition: Wyd. 2., popr. i uzup
     language: Polish
@@ -20610,6 +21252,7 @@ titles:
     subtitle: Doktryny i realia wieku nuklearnego
     authors:
       - Aleksandr Nikolaevič Âkovlev
+    translators:
       - Marek Opiłowski
     year: 1987
     language: Polish
@@ -20663,6 +21306,8 @@ titles:
     subtitle: Hitlerowski obóz masowej zagłady
     authors:
       - Józef Buszko
+    editors:
+      - Rada Ochrony Pomników Walki i Męczeństwa (Poland)
     year: 1987
     language: Polish
     sources:
@@ -20734,6 +21379,7 @@ titles:
     subtitle: Stare i nowe gry
     authors:
       - Vojtěch Omasta
+    translators:
       - Elvíra‪ Kounovská
     year: 1987
     language: Polish
@@ -20781,6 +21427,7 @@ titles:
     subtitle: (Political, Economic, and Cultural Problems)
     authors:
       - Władysław Góralski
+    translators:
       - Lech Petrowicz
     year: 1987
     language: English
@@ -20794,6 +21441,7 @@ titles:
     subtitle: 'Land und Leute: (kurze Darstellung)'
     authors:
       - Karol Czejarek
+    translators:
       - Irena Wierzbicka
       - Piotr Wierzbicki
     year: 1987
@@ -20808,6 +21456,7 @@ titles:
     subtitle: Poland on the Odra, Lusatian Nysa and Baltic
     authors:
       - Edmund Męclewski
+    translators:
       - Lech Petrowicz
     year: 1987
     language: English
@@ -20821,6 +21470,7 @@ titles:
     subtitle: Polen an Oder, Lausitzer Neisse und Ostsee
     authors:
       - Edmund Męclewski
+    translators:
       - Tadeusz Kachlak
     year: 1987
     language: German
@@ -20861,6 +21511,7 @@ titles:
       - Czesław Banach
       - Franciszek Filipowicz
       - Władysław Kryla
+    translators:
       - Jerzy Kempkiewicz
     year: 1987
     language: Russian
@@ -20936,6 +21587,7 @@ titles:
     authors:
       - Piotr Rafalski
       - Jan Morek
+    translators:
       - Jürgen Hensel
     year: 1987
     language: German
@@ -21012,6 +21664,8 @@ titles:
   - title: A History of Poland in Painting
     authors:
       - Janusz Wałek
+    translators:
+      - Katarzyna Zawadzka
     year: 1988
     language: English
     pages: 174
@@ -21032,6 +21686,8 @@ titles:
     subtitle: An Anthology
     authors:
       - Bogdan Grzeloński
+    translators:
+      - Edward J. Czerwiński
     year: 1988
     language: English
     pages: 302
@@ -21100,6 +21756,7 @@ titles:
     authors:
       - Elena Chmelová
       - Karol Ondreička
+    translators:
       - Andrzej Czcibor-Piotrowski
     year: 1988
     language: Polish
@@ -21183,8 +21840,11 @@ titles:
         url: https://search.worldcat.org/title/835019110
     verified: true
   - title: Cooking the Polish-Jewish Way
+    original_title: Kuchnia Zydów polskich
     authors:
       - Eugeniusz Wirkowski
+    translators:
+      - Hilda Rusiecka
     year: 1988
     language: English
     pages: 108
@@ -21211,6 +21871,8 @@ titles:
     subtitle: Trésor de la culture et de l'art polonais
     authors:
       - Michał Rożek
+    translators:
+      - Jerzy Wolf
     year: 1988
     language: Polish
     sources:
@@ -21220,6 +21882,7 @@ titles:
   - title: Cracovie - trésor de la culture et de l'art polonais
     authors:
       - Michał Rożek
+    translators:
       - Jerzy Wolf
     year: 1988
     language: French
@@ -21231,8 +21894,11 @@ titles:
     verified: true
   - title: Cracow
     subtitle: A Treasury of Polish Culture and Art
+    original_title: Kraków, skarbiec kultury i sztuki
     authors:
       - Michał Rożek
+    translators:
+      - Doris Ronowicz
     year: 1988
     language: English
     pages: 163
@@ -21260,8 +21926,9 @@ titles:
     subtitle: Xięga bałwochwalcza
     authors:
       - Bruno Schulz
-      - Wolfgang Reder
       - Jerzy Ficowski
+    translators:
+      - Wolfgang Reder
     year: 1988
     language: German
     sources:
@@ -21357,6 +22024,7 @@ titles:
   - title: Einige jüdische Gerichte
     authors:
       - Eugeniusz Wirkowski
+    translators:
       - Siegfried Schmidt
     year: 1988
     language: German
@@ -21380,6 +22048,7 @@ titles:
     subtitle: Struggle and Extermination of Polish Jews
     authors:
       - Stanisław Kania
+    translators:
       - Maciej Brudnicki
     year: 1988
     language: English
@@ -21420,6 +22089,7 @@ titles:
     subtitle: Der Kampf und die Vernichtung der Polnischen Juden
     authors:
       - Stanisław Kania
+    translators:
       - Wolfgang Jöhling
     year: 1988
     language: Polish
@@ -21432,6 +22102,8 @@ titles:
   - title: Geschichte der polnischen Musik
     authors:
       - Grzegorz Michalski
+    translators:
+      - Caesar Rymarowicz
     year: 1988
     language: German
     pages: 219
@@ -21449,6 +22121,7 @@ titles:
   - title: Histoire de la Pologne dans la peinture
     authors:
       - Janusz Wałek
+    translators:
       - Maria Ciszewska
     year: 1988
     language: French
@@ -21589,8 +22262,9 @@ titles:
     verified: true
   - title: La Vache volante et autres vers polonais pour enfants
     authors:
-      - Maria Ciszewska
       - Janusz Stanny
+    translators:
+      - Maria Ciszewska
     year: 1988
     language: French
     sources:
@@ -21600,9 +22274,11 @@ titles:
         url: https://search.worldcat.org/title/802103113
     verified: true
   - title: Le Livre idolâtre
+    original_title: Xięga bałwochwalcza
     authors:
       - Bruno Schulz
       - Jerzy Ficowski
+    translators:
       - Jerzy Wolf
     year: 1988
     language: French
@@ -21648,6 +22324,7 @@ titles:
     subtitle: La lutte et l'extermination des Juifs polonais
     authors:
       - Stanisław Kania
+    translators:
       - Wanda Nowakowska
     year: 1988
     language: French
@@ -21700,6 +22377,7 @@ titles:
     subtitle: Gitlerovskij lage'r massovogo uničtoženija
     authors:
       - Klaudia Kozakiewicz
+    translators:
       - Halina Natorf
     year: 1988
     language: Russian
@@ -21885,6 +22563,8 @@ titles:
   - title: The Book of Idolatry
     authors:
       - Bruno Schulz
+    translators:
+      - Bogda Piotrowska
     year: 1988
     language: English
     pages: 117
@@ -21898,8 +22578,13 @@ titles:
         url: https://lccn.loc.gov/91107914
     verified: true
   - title: The Booke of Idolatry
+    original_title: Xie̢ga bałwochwalcza
     authors:
       - Bruno Schulz
+    editors:
+      - Jerzy Ficowski
+    translators:
+      - Bogna Piotrowska
     year: 1988
     language: English
     pages: 117
@@ -22044,6 +22729,9 @@ titles:
     subtitle: Seven Centuries of Polish Salt
     authors:
       - Marian Hanik
+    translators:
+      - Rafał Kiepuszewski
+      - Wojciech Worsztynowicz
     year: 1988
     language: English
     pages: 142
@@ -22100,6 +22788,8 @@ titles:
   - title: Xięga bałwochwalcza
     authors:
       - Bruno Schulz
+    editors:
+      - Jerzy Ficowski
     year: 1988
     edition: Wyd. 1
     language: Polish
@@ -22159,8 +22849,9 @@ titles:
   - title: An Illustrated Guidebook to Cracow
     authors:
       - Jan Adamczewski
-      - Bogna Piotrowska
       - Polska Agencja Interpress
+    translators:
+      - Bogna Piotrowska
     year: 1989
     language: English
     sources:
@@ -22172,6 +22863,8 @@ titles:
   - title: An Outline History of Polish 20th Century Art and Architecture
     authors:
       - Andrzej K. Olszewski
+    translators:
+      - Stanisław Tarnowski
     year: 1989
     language: English
     pages: 183
@@ -22215,6 +22908,7 @@ titles:
     subtitle: Guide illustré
     authors:
       - Jan Adamczewski
+    translators:
       - Elżbieta Sadowska
     year: 1989
     language: French
@@ -22252,11 +22946,12 @@ titles:
   - title: Das Kloster Jasna Góra und seine Kunstsammlungen
     authors:
       - Józef Jurkowski
-      - Siegfried Schmidt
       - Chris Niedenthal
       - Janusz Stanisław Pasierb
       - Janusz Rosikoń
       - Jan Samek
+    translators:
+      - Siegfried Schmidt
     year: 1989
     language: German
     sources:
@@ -22279,6 +22974,7 @@ titles:
     authors:
       - Wanda Bigoszewska
       - Adam Jońca
+    translators:
       - Kazimiera Ordyńska-Bielawska
     year: 1989
     language: French
@@ -22338,6 +23034,7 @@ titles:
   - title: Iliustrirovannyj putevoditel' po Krakovu
     authors:
       - Jan Adamczewski
+    translators:
       - Regina Kuśnierz
     year: 1989
     language: Russian
@@ -22383,6 +23080,7 @@ titles:
       - Zbigniew Bania
       - Jan Golonka
       - Stanisław Kobielus
+    translators:
       - Krystyna Jedlińska
     year: 1989
     language: German
@@ -22409,10 +23107,12 @@ titles:
     verified: true
   - title: Krakau - Kraków
     subtitle: Illustrierter Stadtführer
+    original_title: Ilustrowany przewodnik po Krakowie
     authors:
       - Jan Adamczewski
-      - Krystyna Mazur
       - Polska Agencja Interpress
+    translators:
+      - Krystyna Mazur
     year: 1989
     language: German
     sources:
@@ -22463,6 +23163,10 @@ titles:
   - title: Le Livre idolâtre
     authors:
       - Bruno Schulz
+    editors:
+      - Jerzy Ficowski
+    translators:
+      - Jerzy Wolf
     year: 1989
     language: French
     sources:
@@ -22473,8 +23177,9 @@ titles:
     subtitle: La gravure artistique, l'affiche, la gravure de livre, la gravure de presse
     authors:
       - Danuta Wróblewska
-      - Maria Cieszewska
       - Polska Agencja Interpress
+    translators:
+      - Maria Cieszewska
     year: 1989
     language: French
     sources:
@@ -22591,6 +23296,7 @@ titles:
     subtitle: Myths and Historical Reality
     authors:
       - Janusz Tazbir
+    translators:
       - Chester Adam Kisiel
     year: 1989
     language: English
@@ -22640,6 +23346,7 @@ titles:
     subtitle: Werkstattgraphik, Plakat, Buchgraphik, Pressgraphik
     authors:
       - Danuta Wróblewska
+    translators:
       - Hansi Peters
     year: 1989
     language: German
@@ -22756,6 +23463,7 @@ titles:
         url: https://search.worldcat.org/title/834098090
     verified: true
   - title: Skarby Jasnej Góry
+    original_title: Skarby Jasnej Góry
     authors:
       - Józef Jurkowski
       - Chris Niedenthal
@@ -22797,8 +23505,11 @@ titles:
     verified: true
   - title: The Gypsies in Poland
     subtitle: History and Customs
+    original_title: Cyganie w Polsce dzieje i obyczaje
     authors:
       - Jerzy Ficowski
+    translators:
+      - Eileen Healey
     year: 1989
     language: English
     pages: 303
@@ -22841,6 +23552,8 @@ titles:
   - title: The Shrine of the Black Madonna at Częstochowa
     authors:
       - Janusz St Pasierb
+    translators:
+      - Bogna Piotrowska
     year: 1989
     edition: 3rd ed
     language: English
@@ -22899,8 +23612,9 @@ titles:
   - title: Wieliczka - sept siècles du sel polonais
     authors:
       - Marian Hanik
-      - Kazimiera Ordyńska-Bielawska
       - Stanisław Klimowski
+    translators:
+      - Kazimiera Ordyńska-Bielawska
     year: 1989
     language: French
     sources:
@@ -22938,6 +23652,8 @@ titles:
   - title: A Contemporary Polish Cookbook
     authors:
       - Henryk Dębski
+    translators:
+      - Eliza Lewandowska
     year: 1990
     language: English
     isbn: '8322323336'
@@ -23032,11 +23748,13 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991034718539705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Marienkirche in Krakau
+    original_title: Kościół w Krakowie
     authors:
       - Jan Samek
-      - Dorota Matejak
       - Chris Niedenthal
       - Janusz Rosikoń
+    translators:
+      - Dorota Matejak
     year: 1990
     language: German
     sources:
@@ -23103,6 +23821,8 @@ titles:
   - title: St. Mary's Church in Cracow
     authors:
       - Jan Samek
+    translators:
+      - Chester Kisiel
     year: 1990
     language: English
     pages: 251
@@ -23160,8 +23880,9 @@ titles:
   - title: The Booke of Idolatry
     authors:
       - Bruno Schulz
-      - Bogna Piotrowska
       - Jerzy Ficowski
+    translators:
+      - Bogna Piotrowska
     year: 1990
     language: English
     sources:
@@ -23174,9 +23895,10 @@ titles:
     subtitle: The Powązki Cemetery in Warsaw
     authors:
       - Jerzy Waldorff
-      - Chester Adam Kisiel
       - Danuta Jendryczko
       - Polska Agencja Interpress
+    translators:
+      - Chester Adam Kisiel
     year: 1990
     language: English
     sources:
@@ -23200,6 +23922,7 @@ titles:
   - title: V staropol'skoj kuchne i za pol'skim stolom
     authors:
       - Tadeusz Żakiej
+    translators:
       - Klaudia Kozakiewicz
     year: 1990
     language: Russian
@@ -23295,6 +24018,8 @@ titles:
     subtitle: Life and Work
     authors:
       - Anna Micińska
+    translators:
+      - Bogna Piotrowska
     year: 1990
     language: English
     pages: 368
@@ -23350,6 +24075,8 @@ titles:
     subtitle: Dwieście lat dziejów Powązek
     authors:
       - Jerzy Waldorff
+    editors:
+      - Danuta Jendryczko
     year: 1990
     edition: Wyd. 1
     language: Polish
@@ -23403,6 +24130,7 @@ titles:
   - title: A History of Poland in Painting
     authors:
       - Janusz Wałek
+    translators:
       - Katarzyna Zawadzka
     year: 1991
     language: English
@@ -23429,6 +24157,7 @@ titles:
       - Jadwiga Bezwińska
       - Danuta Czech
       - Jerzy Rawicz
+    translators:
       - Jerzy Brablec
     year: 1991
     language: French
@@ -23441,10 +24170,11 @@ titles:
   - title: Bajki na dobranoc
     authors:
       - Marián Čapka
-      - Andrzej Sławomir Jagodziński
       - Viera Janusová
-      - Małgorzata Ziółkowska-Mazur
       - Polska Agencja Interpress
+    translators:
+      - Andrzej Sławomir Jagodziński
+      - Małgorzata Ziółkowska-Mazur
     year: 1991
     language: Polish
     sources:
@@ -23455,9 +24185,10 @@ titles:
     verified: true
   - title: Bajki z całego świata
     authors:
-      - Andrzej Sławomir Jagodziński
       - Viera Janusová
       - Alexej Vojtášek
+    translators:
+      - Andrzej Sławomir Jagodziński
       - Małgorzata Ziółkowska-Mazur
     year: 1991
     language: Polish
@@ -23471,6 +24202,7 @@ titles:
     authors:
       - Elena Chmelová
       - Karol Ondreička
+    translators:
       - Andrzej Czcibor-Piotrowski
     year: 1991
     language: Polish
@@ -23485,6 +24217,7 @@ titles:
       - Elena Chmelová
       - Marián Čapka
       - Jan Filipský
+    translators:
       - Andrzej Czcibor-Piotrowski
     year: 1991
     language: Polish
@@ -23495,13 +24228,15 @@ titles:
         url: https://search.worldcat.org/title/750898219
     verified: true
   - title: Das Kloster Jasna Góra und seine Kunstsammlungen
+    original_title: Skarby Jasnej Góry
     authors:
       - Chris Niedenthal
-      - Siegfried Schmidt
       - Jan Samek
       - Janusz Stanisław Pasierb
       - Józef Jurkowski
       - Janusz Rosikoń
+    translators:
+      - Siegfried Schmidt
     year: 1991
     language: German
     sources:
@@ -23609,6 +24344,8 @@ titles:
     subtitle: Stare i nowe gry
     authors:
       - Vojtěch Omasta
+    translators:
+      - Elvíra‪ Kounovská
     year: 1991
     language: Polish
     isbn: '8322323026'
@@ -23649,6 +24386,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=079002080
     verified: true
   - title: Skarby Jasnej Góry
+    original_title: Skarby Jasnej Góry
     authors:
       - Józef Jurkowski
       - Chris Niedenthal
@@ -23684,9 +24422,10 @@ titles:
     authors:
       - Konrad Kazimierz Czapliński
       - Stanisław Potępa
-      - Bogna Piotrowska
       - Urząd Miasta (Tarnów)
       - Polska Agencja Interpress
+    translators:
+      - Bogna Piotrowska
     year: 1991
     language: Polish
     sources:
@@ -23701,8 +24440,9 @@ titles:
       - Chris Niedenthal
       - Janusz Stanisław Pasierb
       - Józef Jurkowski
-      - Bogna Piotrowska
       - Janusz Rosikoń
+    translators:
+      - Bogna Piotrowska
     year: 1991
     language: English
     sources:
@@ -23727,12 +24467,14 @@ titles:
     verified: true
   - title: Witkacy - Stanisław Ignacy Witkiewicz
     subtitle: La vie et l'oeuvre
+    original_title: Witkacy - Stanisław Ignacy Witkiewicz
     authors:
       - Anna Micińska
       - Jerzy Myszkowski
       - Stefan Okołowicz
-      - Maria Cieszewska
       - Polska Agencja Interpress
+    translators:
+      - Maria Cieszewska
     year: 1991
     language: French
     sources:

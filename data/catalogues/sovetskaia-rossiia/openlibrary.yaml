@@ -592,6 +592,8 @@ titles:
     subtitle: Annotirovannyĭ ukazatel literatury
     authors:
       - Gosudarstvennaia publichnaia istoricheskaia biblioteka RSFSR
+    editors:
+      - Z. L. (Zinaida Lʹvovna) Fradkina
     year: 1957
     language: Russian
     pages: 29
@@ -2322,6 +2324,8 @@ titles:
     subtitle: Obzor rukopiseĭ russkikh, slavianskikh, grecheskikh, a takzhe knig staroĭ pechati Gosudarstvennogo istoricheskogo muzeia
     authors:
       - Russia) Gosudarstvennyĭ istoricheskiĭ muzeĭ (Moscow
+    editors:
+      - Mikhail Nikolaevich Tikhomirov
     year: 1958
     series: Trudy Gosudarstvennogo istoricheskogo muzeia -- vyp. 30
     language: Russian
@@ -2731,6 +2735,8 @@ titles:
     subtitle: Repertuarnyĭ sbornik
     authors:
       - V. Zhdanov
+    editors:
+      - V. (Vladimir) Zhdanov
     year: 1959
     language: Russian
     pages: 378
@@ -3807,6 +3813,8 @@ titles:
       - N. G. Platonova
       - A. B. Saltykov
       - Russia) Gosudarstvennyĭ istoricheskiĭ muzeĭ (Moscow
+    editors:
+      - Aleksandr Borisovič Saltykov
     year: 1959
     series: 'Trudy Gosudarstvennogo istoricheskogo muzeia. Pamiatniki kulʹtury: -- vyp. 28'
     language: Russian
@@ -4218,6 +4226,8 @@ titles:
     subtitle: Opisanie materialov
     authors:
       - TSentralʹnyĭ gosudarstvennyĭ arkhiv literatury i iskusstva SSSR
+    editors:
+      - V. P. Nechaev
     year: 1960
     language: Russian
     pages: 272
@@ -5156,6 +5166,8 @@ titles:
     subtitle: Uchebnik dlia uchashchikhsia bibliotechnykh tekhnikumov
     authors:
       - Russian S. F. S. R. Glavnoe upravlenie uchebnykh zavedeniĭ i kadrov
+    editors:
+      - V. N. Denisʹev
     year: 1960
     language: Russian
     pages: 355
@@ -5559,7 +5571,8 @@ titles:
     verified: true
   - title: Skazaniâ o nartskih bogatyrâh
     subtitle: Osetinskij èpos
-    authors:
+    authors: []
+    translators:
       - Ûrij Nikolaevič Libedinskij
       - Iurii Libedinskii (Юрий Либединский)
     year: 1960
@@ -7409,6 +7422,8 @@ titles:
     subtitle: V 4 tomach
     authors:
       - Ivan S. Nikitin
+    editors:
+      - Vjačeslav A. Tonkov
     year: 1961
     language: Russian
     sources:
@@ -8137,6 +8152,8 @@ titles:
     subtitle: Dokumenty, pisʹma, vospominaniia. 1812-1962
     authors:
       - TSentralʹnyĭ gosudarstvennyĭ voenno-istoricheskiĭ arkhiv SSSR
+    editors:
+      - Liubomir Grigorʹevich Beskrovnyĭ
     year: 1962
     language: Russian
     pages: 411
@@ -8339,6 +8356,7 @@ titles:
         url: https://search.worldcat.org/title/33225196
     verified: true
   - title: Gde ranʹše byla tajga
+    original_title: Všude byla tajga
     authors:
       - Zdeněk Noháč
       - Stanislav Oborsky
@@ -8470,6 +8488,8 @@ titles:
     subtitle: Povestʹ
     authors:
       - Nikolaĭ IAkutskaĭ
+    translators:
+      - A. Parfenov
     year: 1962
     language: Russian
     pages: 167
@@ -8931,6 +8951,8 @@ titles:
     verified: true
   - title: Nashi kosmicheskie puti
     authors: []
+    editors:
+      - S. V. Kurliandskaia
     year: 1962
     language: Russian
     pages: 306
@@ -10824,6 +10846,9 @@ titles:
   - title: Molodostʹ s nami
     authors:
       - Vsevolod Anisimovich Kochetov
+    editors:
+      - Aleksej Nikolaevič Kočetov
+      - Aleksei Nikolaevich Kochetov (Алексей Николаевич Кочетов)
     year: 1963
     language: Russian
     pages: 467
@@ -14145,6 +14170,8 @@ titles:
     verified: true
   - title: Esli ty kommunist
     authors: []
+    editors:
+      - Faina Leonidovna TSypkina
     year: 1965
     language: Russian
     pages: 275
@@ -15126,6 +15153,8 @@ titles:
   - title: S. Esenin
     authors:
       - Sergeĭ Aleksandrovich Esenin
+    editors:
+      - Ekaterina Aleksandrovna Esenina
     year: 1965
     language: Russian
     pages: 798
@@ -18281,6 +18310,8 @@ titles:
   - title: Chelovek iz Rossii
     authors:
       - Pavel Barashev
+    editors:
+      - Aleksandr Konstantinovich Taradankin
     year: 1967
     language: Russian
     pages: 230
@@ -20560,6 +20591,8 @@ titles:
   - title: Krepni i slavʹsia v bitvakh vekov, Krasnaia Armiia bolʹshevikov!
     authors:
       - Ivan Karpovich Prikhodʹko
+    editors:
+      - Ivan Paderin
     year: 1968
     language: Russian
     pages: 316
@@ -23048,6 +23081,8 @@ titles:
   - title: O tvorcheskom povedenii
     authors:
       - Mikhail Mikhaĭlovich Prishvin
+    editors:
+      - Fedor Ivanovich Setin
     year: 1969
     series: Pisateli o tvorchestve
     language: Russian
@@ -24699,6 +24734,7 @@ titles:
     subtitle: Perevod s burjatskogo
     authors:
       - Čimit Cydendambaev
+    translators:
       - M. Stepanov
     year: 1970
     language: Not recorded
@@ -27694,6 +27730,7 @@ titles:
     authors:
       - Mišši Ûhma
       - Mikhail Iukhma (Михаил Юхма)
+    translators:
       - Aleksandr Burtynskij
       - Aleksandr Burtynskii (Александр Буртынский)
     year: 1971
@@ -29372,6 +29409,7 @@ titles:
     authors:
       - Nikolaj Âkutskij
       - Nikolai Iakutskii (Николай Якутский)
+    translators:
       - Mihail Musienko
       - Mikhail Musienko (Михаил Мусиенко)
     year: 1971
@@ -30209,6 +30247,8 @@ titles:
   - title: Den' poezii Rossii
     authors:
       - Liudmila Vasilʹeva
+    editors:
+      - Larisa Nikolaevna Vasilʹeva
     year: 1972
     language: Russian
     pages: 542
@@ -32576,6 +32616,8 @@ titles:
   - title: Ėkii iz Tuvy
     authors:
       - Aldyn-ool Dulushevich Darzhaa
+    translators:
+      - V. Čukreev
     year: 1973
     series: V semʹe rossiĭskoĭ, bratskoĭ
     language: Russian
@@ -32728,6 +32770,8 @@ titles:
   - title: Izbrannoe
     authors:
       - Khḣamzat TSḣadasa
+    editors:
+      - G. G. (Gadzhi Gamzatovich) Gamzatov
     year: 1973
     series: Poėticheskaia Rossiia
     language: Russian, Caucasian
@@ -33724,6 +33768,9 @@ titles:
   - title: Sila russkogo glagola
     authors:
       - Valeriĭ Bryusov
+    editors:
+      - Η. Α. Γοροχov
+      - Η. Α. Γοροχov (Η. Α. Γοροχов)
     year: 1973
     language: Russian
     sources:
@@ -35956,6 +36003,8 @@ titles:
       - Sergei Andreevich Krutilin (Сергей Андреевич Крутилин)
       - Evgenij Ivanovič Osetrov
       - Evgenii Ivanovich Osetrov (Евгений Иванович Осетров)
+    editors:
+      - E. F. Kapustin
     year: 1974
     language: Russian
     sources:
@@ -39855,6 +39904,11 @@ titles:
   - title: Povesti i rasskazy
     authors:
       - Aleksandr Marlinskiĭ
+    editors:
+      - Aleksandr Lvovitch Ospovat
+      - Aleksandr Lvovich Ospovat (Александр Львович Осповат)
+      - Vladimir Ivanovič Gusev
+      - Vladimir Ivanovich Gusev (Владимир Иванович Гусев)
     year: 1976
     language: Russian
     pages: 443
@@ -39961,6 +40015,9 @@ titles:
   - title: Rasskazy
     authors:
       - Vsevolod Mikhailovich Garshin
+    editors:
+      - Ûrij Markovič Nagibin
+      - Iurii Markovich Nagibin (Юрий Маркович Нагибин)
     year: 1976
     language: Russian
     sources:
@@ -40336,6 +40393,9 @@ titles:
     subtitle: Roman
     authors:
       - Nikolaĭ Gavrilovich Zolotarev
+    translators:
+      - Mihail Musnenko
+      - Mikhail Musnenko (Михаил Мусненко)
     year: 1976
     language: Russian
     pages: 571
@@ -40788,6 +40848,8 @@ titles:
     authors:
       - A. S. Pʹânov
       - A. S. Pianov (А. С. Пьянов)
+    editors:
+      - Aleksej Stepanovič Pʹjanov
     year: 1977
     language: Russian
     sources:
@@ -41287,6 +41349,9 @@ titles:
   - title: Izbrannoe
     authors:
       - A. S. Neverov
+    editors:
+      - Èduard Lʹvovič Afanasʹev
+      - Eduard Lvovich Afanasev (Эдуард Львович Афанасьев)
     year: 1977
     language: Russian
     pages: 328
@@ -41939,6 +42004,7 @@ titles:
     authors:
       - Aleksej Eliseevič Kulakovskij
       - Sofron P. Danilov
+    translators:
       - Vladimir A. Solouchin
     year: 1977
     language: Russian
@@ -42016,6 +42082,7 @@ titles:
   - title: Povest' o svetlom mal'čike
     authors:
       - Stepan Agdanovič Saryg-ool
+    translators:
       - Majja Anatolʹevna Ganina
     year: 1977
     language: Russian
@@ -42387,6 +42454,9 @@ titles:
       - Fedor Ivanovich Tiutchev (Федор Иванович Тютчев)
       - Galina Soslanbekovna Dmitrieva
       - Galina Soslanbekovna Dmitrieva (Галина Сосланбековна Дмитриева)
+    editors:
+      - Nikolaj Vasilevič Bannikov
+      - Nikolai Vasilevich Bannikov (Николай Василевич Банников)
     year: 1977
     language: Russian
     sources:
@@ -42455,6 +42525,8 @@ titles:
     subtitle: Povestʹ
     authors:
       - Bagandin Arslanbekov
+    translators:
+      - Aleksandr S. Burtynskij
     year: 1977
     language: Russian
     pages: 222
@@ -42690,6 +42762,7 @@ titles:
     authors:
       - Farit Ahmadullovič Isangulov
       - Farit Akhmadullovich Isangulov (Фарит Ахмадуллович Исангулов)
+    translators:
       - N. Gordeeva
       - N. Gordeeva (Н. Гордеева)
       - V. Dubincev
@@ -44605,6 +44678,7 @@ titles:
     subtitle: Osetinskij ėpos
     authors:
       - Vasilij Ivanovič Abaev
+    translators:
       - Jurij N. Libedinskij
     year: 1978
     language: Russian
@@ -44882,6 +44956,9 @@ titles:
   - title: Tri povesti
     authors:
       - Vladimir Aleksandrovich Sollogub
+    editors:
+      - A. Ospovata
+      - A. Ospovata (А. Осповата)
     year: 1978
     language: Russian
     sources:
@@ -45727,8 +45804,9 @@ titles:
     subtitle: Roman, povest'
     authors:
       - Magomed-Rasul
-      - Evgenij Bosnâckij
       - V. P. Borisov
+    translators:
+      - Evgenij Bosnâckij
     year: 1979
     language: Russian
     sources:
@@ -47337,6 +47415,9 @@ titles:
       - Ivan Savvich Nikitin (Иван Саввич Никитин)
       - Galina Soslanbekovna Dmitrieva
       - Galina Soslanbekovna Dmitrieva (Галина Сосланбековна Дмитриева)
+    editors:
+      - Vladimir Leonidovič Korovin
+      - Vladimir Leonidovich Korovin (Владимир Леонидович Коровин)
     year: 1979
     language: Russian
     sources:
@@ -47786,6 +47867,9 @@ titles:
   - title: Zametki o literature
     authors:
       - Dmitry Furmanov
+    editors:
+      - Valentina Mihajlova Kurganova
+      - Valentina Mikhailovna Kurganova (Валентина Михайловна Курганова)
     year: 1979
     language: Russian
     pages: 160
@@ -47822,6 +47906,8 @@ titles:
     authors:
       - Ivan Ivanovič Puŝin
       - Ivan Ivanovich Pushchin (Иван Иванович Пущин)
+    editors:
+      - S. D. Selivanova
     year: 1979
     language: Russian
     sources:
@@ -48312,7 +48398,8 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=142710493X
     verified: true
   - title: Bereg i more
-    authors:
+    authors: []
+    translators:
       - Aleksandr Semenovič Burtynskij
       - Aleksandr Semenovich Burtynskii (Александр Семенович Буртынский)
     year: 1980
@@ -48684,6 +48771,7 @@ titles:
     authors:
       - Afanasij Nikitin
       - Afanasii Nikitin (Афанасий Никитин)
+    translators:
       - Nikolaj Ivanovič Prokofʹev
       - Nikolai Ivanovich Prokofev (Николай Иванович Прокофьев)
     year: 1980
@@ -48756,6 +48844,9 @@ titles:
       - Petr Alekseevich Nikolaev (Пётр Алексеевич Николаев)
       - Sergej Ivanovič Kormilov
       - S. E. Kormilov (С. И. Кормилов)
+    editors:
+      - Nikolaj Ivanovič Âkušin
+      - Nikolai Ivanovich Iakushin (Николай Иванович Якушин)
     year: 1980
     language: Russian
     sources:
@@ -48947,10 +49038,11 @@ titles:
   - title: Malʹčik i zveri
     authors:
       - Joe C. De Graft
-      - E. F. Voronov
-      - A. F. Voronov (Е. Ф. Воронов)
       - A. Borisov
       - A. Borisov (А. Борисов)
+    translators:
+      - E. F. Voronov
+      - A. F. Voronov (Е. Ф. Воронов)
     year: 1980
     language: Russian
     sources:
@@ -49149,6 +49241,7 @@ titles:
     series: Pisatel' i vremja
     authors:
       - Garif A. Ahunov
+    translators:
       - V. Zaleščuk
     year: 1980
     language: Russian
@@ -49873,10 +49966,12 @@ titles:
     verified: true
   - title: Skazanie O Mamaevom Poboišče
     subtitle: Licevaja Rukopis' XVII Veka Iz Sobranija Gosudarstvennogo Istoričeskogo Muzeja = the Tale of the Rout of Mamai
+    original_title: Skazanie o Mamaevom poboišče
     authors:
       - Gosudarstvennyj Istoričeskij Muzej
       - Tatʹjana Vladimirovna Dianova
       - G. G. Fedorov
+    translators:
       - V. S. Fridman
     year: 1980
     language: Russian, English
@@ -51281,6 +51376,9 @@ titles:
     subtitle: Stikhotvoreniia i poėmy
     authors:
       - Nikolaĭ Alekseevich Kliuev
+    editors:
+      - S. I. Plehanov
+      - S. E. Plekhanov (С. И. Плеханов)
     year: 1981
     language: Russian
     pages: 268
@@ -51842,6 +51940,8 @@ titles:
     authors:
       - Feliks Feodosievitch Kouznetsov
       - Kuznetsov Feliks Feodosevich (Кузнецов Феликс Феодосьевич)
+    editors:
+      - Nelli C. Stepanjan
     year: 1981
     language: Russian
     sources:
@@ -51929,6 +52029,9 @@ titles:
     authors:
       - Maxime Gorki
       - Maksim Gorkii (Максим Горький)
+    editors:
+      - E. N. Ânikovskaâ
+      - A. N. Ianikovskaia (Е. Н. Яниковская)
     year: 1981
     language: Russian
     sources:
@@ -52270,6 +52373,9 @@ titles:
       - Apollon Nikolaevich Maikov (Аполлон Николаевич Майков)
       - Viktor Vasil’evič Kupriânov
       - Viktor Vasilevich Kupriianov (Виктор Васильевич Куприянов)
+    editors:
+      - E. V. Ermilova
+      - A. V. Ermilova (Е. В. Ермилова)
     year: 1981
     language: Russian
     sources:
@@ -53135,6 +53241,7 @@ titles:
     authors:
       - Rasul Gamzatovič Gamzatov
       - Rasul Gamzatov (Расул Гамзатов)
+    translators:
       - Ûliâ Nejman
       - Iuliia Neiman (Юлия Нейман)
     year: 1982
@@ -53324,8 +53431,10 @@ titles:
     verified: true
   - title: Glubokie korni
     subtitle: Roman
+    original_title: Tärän tamyrz̨ar
     authors:
       - Ġälimjän Ibraḥimov
+    translators:
       - R. Faizova
     year: 1982
     language: Russian
@@ -53486,6 +53595,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=014057700
     verified: true
   - title: Izbrannye stichotvorenija
+    original_title: Gedichte
     authors:
       - Johann Wolfgang von Goethe
       - O. Lozoveckij
@@ -53683,6 +53793,9 @@ titles:
     subtitle: Obzory, ocherki, teori|i|a
     authors:
       - Anatoly Vasilievich Lunacharsky
+    editors:
+      - Nikolaj Petrovič Mašovec
+      - Nikolai Petrovich Mashovets (Николай Петрович Машовец)
     year: 1982
     series: Biblioteka russkoĭ kritiki
     language: Russian
@@ -54560,6 +54673,8 @@ titles:
     authors:
       - Nadežda N. Trofimova
       - Vladimiro-Suzdal'skij istoriko-chudožestvennyj i architekturnyj muzej-zapovednik
+    translators:
+      - A. Ilʹf
     year: 1982
     language: Russian, English
     sources:
@@ -54706,6 +54821,8 @@ titles:
     series: Zemlja rodnaja
     authors:
       - Viktor F. Bokov
+    editors:
+      - V. P. Jakunin
     year: 1982
     language: Russian
     sources:
@@ -54739,6 +54856,9 @@ titles:
       - Boris Burmistrov (Борис Бурмистров)
       - Margarita Burmistrova
       - Margarita Burmistrova (Маргарита Бурмистрова)
+    editors:
+      - Vsevolod Ivanovič Saharov
+      - Vsevolod Ivanovich Sakharov (Всеволод Иванович Сахаров)
     year: 1982
     language: Russian
     sources:
@@ -55575,6 +55695,8 @@ titles:
     subtitle: = Arkhangelskoye
     authors:
       - V. I. Babajlova
+    editors:
+      - Ljudmila I. Bulavina
     year: 1983
     language: Russian
     sources:
@@ -56068,6 +56190,9 @@ titles:
       - Mikhail Afanasevich Bulgakov (Михаил Афанасьевич Булгаков)
       - Vsevolod Ivanovič Saharov
       - Vsevolod Ivanovich Sakharov (Всеволод Иванович Сахаров)
+    editors:
+      - Ânina Leonovna Levkovič
+      - Ianina Leonovna Levkovich (Янина Леоновна Левкович)
     year: 1983
     language: Russian
     sources:
@@ -56567,10 +56692,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=43827699X
     verified: true
   - title: Odisseja
+    original_title: Odyssea
     authors:
       - Homerus
-      - V. A. Zukovskij
       - M. P. Miturič
+    translators:
+      - V. A. Zukovskij
     year: 1983
     language: Not recorded
     sources:
@@ -56638,6 +56765,8 @@ titles:
     authors:
       - Nikolaj Mihajlovič Karamzin
       - Nikolai Mikhailovich Karamzin (Николай Михайлович Карамзин)
+    editors:
+      - Viktor A. Grichin
     year: 1983
     language: Russian
     sources:
@@ -56756,6 +56885,8 @@ titles:
   - title: Povesti i rasskazy
     authors:
       - Valeriĭ Bryusov
+    editors:
+      - Jurij M. Akutin
     year: 1983
     language: Russian
     pages: 366
@@ -57159,6 +57290,7 @@ titles:
     authors:
       - Èliso Džaliašvili
       - Eliso Dzhaliashvili (Элисо Джалиашвили)
+    translators:
       - Iraklij Abašidze
       - Iraklii Abashidze (Ираклий Абашидзе)
     year: 1983
@@ -57552,6 +57684,7 @@ titles:
     subtitle: Povest', roman
     authors:
       - Vasilij Stepanovič Ûksern
+    translators:
       - Vladimir Bronislavovič Muravʹev
     year: 1983
     language: Russian
@@ -58783,7 +58916,8 @@ titles:
     verified: true
   - title: Kniga hoženij
     subtitle: Zapiski russkih putešestvennikov XI-XV vv
-    authors:
+    authors: []
+    translators:
       - Nikolaj Ivanovič Prokofʹev
       - Nikolai Ivanovich Prokofev (Николай Иванович Прокофьев)
     year: 1984
@@ -59123,6 +59257,9 @@ titles:
   - title: O dolge
     authors:
       - Konstantin Fedin
+    editors:
+      - Iouri Mikhaïlovitch Oklianski
+      - Iurii Mikhailovich Oklianskii (Юрий Михайлович Оклянский)
     year: 1984
     series: Biblioteka russkoĭ khudozhestvennoĭ publitsistiki
     language: Russian
@@ -59434,6 +59571,8 @@ titles:
     series: Biblioteka junošestva
     authors:
       - Petr Dmitrievič Boborykin
+    editors:
+      - Aleksandr Pavlovič Čudakov
     year: 1984
     language: Russian
     sources:
@@ -59465,6 +59604,9 @@ titles:
   - title: Povesti, rasskazy
     authors:
       - A. Aleksin
+    editors:
+      - Nelli Colakovna Stepanân
+      - Nelli Tsolakovna Stepanian (Нелли Цолаковна Степанян)
     year: 1984
     series: Biblioteka iunoshestva
     language: Russian
@@ -59718,6 +59860,9 @@ titles:
   - title: Rodniki
     authors:
       - Efim Vikhrev
+    editors:
+      - A. Vihrev
+      - A. Vikhrev (А. Вихрев)
     year: 1984
     language: Russian
     pages: 398
@@ -60206,6 +60351,7 @@ titles:
     subtitle: Roman
     authors:
       - Fedor Ermilovič Uâr
+    translators:
       - Zoâ Romanova
     year: 1984
     language: Russian
@@ -61128,6 +61274,7 @@ titles:
     subtitle: 'Roman: Perevod s altajskogo'
     authors:
       - Lazarʹ Vasilʹevič Kokyšev
+    translators:
       - A. Kitajnik
     year: 1985
     language: Not recorded
@@ -61140,6 +61287,7 @@ titles:
     authors:
       - Vsevolod Petrovič Vygolov
       - Vygolov Vsevolod Petrovich (Выголов Всеволод Петрович)
+    translators:
       - Aleksandra Ilʹinična Ilʹf
       - A. E. Ilf (А.И. Ильф)
       - V. S. Fridman
@@ -61420,6 +61568,8 @@ titles:
   - title: Dekabristy v Moskve
     authors:
       - R. A. Kireeva
+    editors:
+      - Raisa Aleksandrovna Kireeva
     year: 1985
     language: Russian
     pages: 62
@@ -61481,6 +61631,7 @@ titles:
     subtitle: 'Povesti i rasskazy: Perevod s baškirskogo'
     authors:
       - Vazich Muchametšinovič Ischakov
+    translators:
       - N. Tumanova
     year: 1985
     language: Not recorded
@@ -61617,6 +61768,9 @@ titles:
     authors:
       - Nelli Aleksandrovna Âkimčuk
       - Nelli Aleksandrovna Iakimchuk (Нелли Александровна Якимчук)
+    translators:
+      - E. Ja Bessmertnaja
+      - Aleksandra I. Ilʹf
     year: 1985
     language: Russian
     sources:
@@ -61632,6 +61786,7 @@ titles:
     series: Poėtičeskaja Rossija
     authors:
       - Chadi Chajrulovič Taktaš
+    translators:
       - Martyšnov. L.
     year: 1985
     language: Not recorded
@@ -61664,6 +61819,8 @@ titles:
   - title: Izbrannoe
     authors:
       - Antoniĭ Pogorelʹskiĭ
+    editors:
+      - Marietta A. Tur'jan
     year: 1985
     language: Russian
     pages: 427
@@ -61696,6 +61853,8 @@ titles:
     series: Bibliotečnaja serija
     authors:
       - Semen Šurtakov
+    editors:
+      - V. Guminskij
     year: 1985
     language: Russian
     sources:
@@ -61962,6 +62121,11 @@ titles:
       - N. K. Kviatkovskaia (Н. К. Квятковская)
       - È. .I. Stejnert
       - A. E. Steinerta (Э. И. Стейнерта)
+    editors:
+      - Nelli K. Kvjatkovskaja
+    translators:
+      - V. S. Fridman
+      - Aleksandra I. Ilʹf
     year: 1985
     language: Russian
     sources:
@@ -62023,6 +62187,8 @@ titles:
     authors:
       - K. P. Voroncov
       - K. P. Vorontsov (К. П. Воронцов)
+    editors:
+      - Konstantin P. Voroncov
     year: 1985
     language: Russian
     sources:
@@ -62131,6 +62297,8 @@ titles:
     subtitle: Stikhi
     authors:
       - Lopson Tapkhaev
+    translators:
+      - V. Bojarinov
     year: 1985
     language: Russian
     pages: 94
@@ -62409,6 +62577,8 @@ titles:
     subtitle: Vremja, sobytija, ljudi. Ivanovo-Voznesensk
     authors:
       - V. P. Terentʹev
+    editors:
+      - V. P. Terent'ev
     year: 1985
     language: Russian
     sources:
@@ -62616,6 +62786,8 @@ titles:
     subtitle: Povestʹ
     authors:
       - Shamil Răkyĭpov
+    translators:
+      - Ėmil Amit
     year: 1985
     language: Russian
     sources:
@@ -62865,6 +63037,8 @@ titles:
     authors:
       - Larisa Sergeevna Žuravleva
       - Larisa Sergeevna Zhuravleva (Лариса Сергеевна Журавлева)
+    translators:
+      - A. Il'f
     year: 1985
     language: Russian, English
     sources:
@@ -63102,6 +63276,8 @@ titles:
   - title: Stichotvorenija
     authors:
       - Lev A. Mej
+    editors:
+      - Evgenij N. Lebedev
     year: 1985
     language: Russian
     sources:
@@ -63161,6 +63337,7 @@ titles:
     authors:
       - Ishak Šumafovič Mašbaš
       - Iskhak Shumafovich Mashbash (Исхак Шумафович Машбаш)
+    translators:
       - E. Karpov
       - A. Karpov (Е. Карпов)
     year: 1985
@@ -63239,6 +63416,7 @@ titles:
     subtitle: Roman
     authors:
       - Alim Magometovič Teppeev
+    translators:
       - I. Karimov
     year: 1985
     language: Russian
@@ -63328,8 +63506,9 @@ titles:
     subtitle: 'Chudožestvenno-dokumentalʹnaja povestʹ: Perevod s jakutskogo'
     authors:
       - Ivan Egorovič Fedoseev
-      - I. Popova
       - V. A. Charlamov
+    translators:
+      - I. Popova
     year: 1985
     language: Not recorded
     sources:
@@ -63455,6 +63634,8 @@ titles:
     authors:
       - V. I. Atopov
       - V. E. Atopov (В. И. Атопов)
+    editors:
+      - Vladimir I. Atopov
     year: 1985
     language: Russian
     sources:
@@ -64473,6 +64654,8 @@ titles:
     subtitle: Izbrannye povesti i rasskazy
     authors:
       - Nikolaĭ Uspenskiĭ
+    editors:
+      - Sergej Ivanovič Čuprinin
     year: 1986
     series: Selʹskaia biblioteka Nechernozemʹia
     language: Russian
@@ -65077,6 +65260,8 @@ titles:
       - V. A. Gunimanov (В. А. Гуниманов)
       - A. P. Ospovat
       - A. P. Ospovat (А. П. Осповат)
+    translators:
+      - M. Kireev
     year: 1986
     language: Russian
     sources:
@@ -65171,6 +65356,8 @@ titles:
   - title: Proza
     authors:
       - Vasiliĭ Alekseevich Sleptsov
+    editors:
+      - Nikolaj Ivanovič Jakušin
     year: 1986
     language: Russian
     pages: 333
@@ -65187,6 +65374,8 @@ titles:
   - title: Proza i publicistika
     authors:
       - Innokentij Vasil'evič Fedorov-Omulevskij
+    editors:
+      - Nina V. Minaeva
     year: 1986
     language: Russian
     sources:
@@ -65413,6 +65602,8 @@ titles:
     series: Biblioteka russkoj hudožestvennoj publicistiki
     authors:
       - Vadim Evguenevitch Kovski
+    editors:
+      - Vadim Evgenʹevič Kovskij
     year: 1986
     language: Russian
     sources:
@@ -65455,6 +65646,8 @@ titles:
     authors:
       - Galina Akimovna Makarovskaâ
       - Galina Akimovna Makarovskaia (Галина Акимовна Макаровская)
+    editors:
+      - Galina A. Makarovskaja
     year: 1986
     language: Russian
     sources:
@@ -65526,6 +65719,8 @@ titles:
     authors:
       - Aleksandr Fomič Velʹtman
       - Aleksandr Fomich Veltman (Александр Фомич Вельтман)
+    editors:
+      - Vjačeslav Anatolʹevič Košelev
     year: 1986
     language: Russian
     sources:
@@ -65586,6 +65781,8 @@ titles:
     subtitle: Izbrannye stikhi i poėmy
     authors:
       - Musa Jălil
+    translators:
+      - V. Kazancev
     year: 1986
     language: Russian
     pages: 367
@@ -65806,10 +66003,11 @@ titles:
     authors:
       - Gabdulla Tukaj
       - Gabdulla Tukai (Габдулла Тукай)
-      - Ravilʹ Raisovič Buharaev
-      - Ravil Raisovich Bukharaev (Равиль Раисович Бухараев)
       - Nadir Usmanovič Al’meev
       - Nadir Usmanovich Almeev (Надир Усманович Альмеев)
+    translators:
+      - Ravilʹ Raisovič Buharaev
+      - Ravil Raisovich Bukharaev (Равиль Раисович Бухараев)
     year: 1986
     language: Russian
     sources:
@@ -67260,6 +67458,8 @@ titles:
     authors:
       - Konstantin Nikolaevič Batjuškov
       - Pëtr G. Palamarčuk
+    editors:
+      - Petr G. Palamarčuk
     year: 1987
     language: Russian
     sources:
@@ -67470,6 +67670,7 @@ titles:
     subtitle: 'Poėma, stichi raznych let: Perevod s kalmyckogo'
     authors:
       - Lidži Očirovič Indžiev
+    translators:
       - V. Strelkov
     year: 1987
     language: Not recorded
@@ -67641,6 +67842,7 @@ titles:
     subtitle: 'Liro-ėpičeskij roman: Perevod s tuvinskogo'
     authors:
       - Monguš Borachovič Kenin-Lopsan
+    translators:
       - Svetlana Kozlova
     year: 1987
     language: Not recorded
@@ -67711,6 +67913,7 @@ titles:
     subtitle: = Nikolai Ostrovsky
     authors:
       - Valentina S. Panaeva
+    translators:
       - R. A. Kovalevoj
     year: 1987
     language: Russian
@@ -67783,6 +67986,7 @@ titles:
     subtitle: 'Satiričeskij roman v novellach: Avtorizovannyj perevod s burjatskogo'
     authors:
       - Čimit Cydendambaev
+    translators:
       - L. Parfenov
     year: 1987
     language: Not recorded
@@ -67884,6 +68088,7 @@ titles:
     subtitle: 'Stichotvorenija i poėma: Perevod c jakutskogo'
     authors:
       - Moisej Dimitrievič Efimov
+    translators:
       - I. Isaev
     year: 1987
     language: Not recorded
@@ -67895,6 +68100,7 @@ titles:
     subtitle: Perevod s burjatskogo
     authors:
       - Aleksej Danilovič Badaev
+    translators:
       - Ju Raščencev
     year: 1987
     language: Not recorded
@@ -68337,6 +68543,9 @@ titles:
       - Ė. S. Smirnova
       - V. K. Bylinin
       - V. A. Grikhin
+    editors:
+      - Viatcheslav Adrianovitch Grikhine
+      - V. K. Bylinin (В.К Былинин)
     year: 1987
     series: Sokrovishcha drevnerusskoĭ literatury
     language: Russian
@@ -68400,6 +68609,7 @@ titles:
     subtitle: 'Stichi i skazki: Perevod s chakasskogo'
     authors:
       - Michail Eremeevič Kilʹčičakov
+    translators:
       - Ja Kozlovskij
     year: 1987
     language: Not recorded
@@ -68445,6 +68655,8 @@ titles:
     series: 5-268-00090-x
     authors:
       - Maksim Gorʹkij
+    editors:
+      - S. A. Nebolʹsin
     year: 1987
     language: Russian
     sources:
@@ -68609,6 +68821,9 @@ titles:
       - Leonid Nikolaevich Martynov (Леонид Николаевич Мартынов)
       - V. V. Dementʹev
       - V. V. Dementev (В. В. Дементьев)
+    editors:
+      - Elena Vladimirovna Ermilova
+      - Elena Vladimirovna Ermilova (Елена Владимировна Ермилова)
     year: 1987
     language: Russian
     sources:
@@ -70120,6 +70335,7 @@ titles:
       - Gumer Bashirovich Bashirov (Гумер Баширович Баширов)
       - M. S. Karim
       - M. S. Karim (М. С. Карим)
+    translators:
       - R. Faizova
       - R. Faizova (Р. Фаизова)
       - I. K. Karimov
@@ -70536,12 +70752,13 @@ titles:
     authors:
       - Ûrij Petrovič Piŝulin
       - Iurii Petrovich Pishchulin (Юрий Петрович Пищулин)
-      - Tatiana P. Lukina
-      - T. P. Lukina (Т. П. Лукина)
       - N. A. Samsonenko
       - N. A. Samsonenko (Н. А. Самсоненко)
       - Nataliâ Ivanovna Azarova
       - Nataliia Ivanovna Azarova (Наталия Ивановна Азарова)
+    translators:
+      - Tatiana P. Lukina
+      - T. P. Lukina (Т. П. Лукина)
     year: 1988
     language: Russian
     sources:
@@ -71164,6 +71381,8 @@ titles:
     authors:
       - Valentina Âkovlevna Goland
       - Valentina Iakovlevna Goland (Валентина Яковлевна Голанд)
+    editors:
+      - Valentina J. Goland
     year: 1988
     language: Russian
     sources:
@@ -71187,6 +71406,8 @@ titles:
     authors:
       - V. N. Sungorkin
       - V. N. Sungorkin (В.Н. Сунгоркин)
+    editors:
+      - V. I. Sungorkin
     year: 1988
     language: Russian
     sources:
@@ -71404,6 +71625,9 @@ titles:
   - title: Povesti i rasskazy
     authors:
       - Anatoli Nikolaevitch Kourtchatkine
+    editors:
+      - Nikolaj Ivanovič Âkušin
+      - Nikolai Ivanovich Iakushin (Николай Иванович Якушин)
     year: 1988
     language: Russian
     sources:
@@ -71951,6 +72175,7 @@ titles:
     subtitle: 'Roman: Perevod s burjatskogo'
     authors:
       - Cyden-Žap Žimbiev
+    translators:
       - E. Imbovič
     year: 1988
     language: Not recorded
@@ -71971,6 +72196,8 @@ titles:
     series: Poėtičeskaja Rossija
     authors:
       - Andrej D. Dementʹev
+    editors:
+      - Sergej Evgenʹevič Birjukov
     year: 1988
     language: Russian
     sources:
@@ -72237,6 +72464,7 @@ titles:
     subtitle: 'Stichi i poėmy: Perevod s burjatskogo'
     authors:
       - Vladimir Konstantinovič Petonov
+    translators:
       - M. Lʹvov
     year: 1988
     language: Not recorded
@@ -72518,6 +72746,7 @@ titles:
     subtitle: Stichotvorenii i poėmy
     authors:
       - Aleksandr Eredeev
+    translators:
       - Il'ja O. Fonjakov
     year: 1988
     language: Russian
@@ -73289,6 +73518,7 @@ titles:
     subtitle: 'Stichotvorenija, poėmy: Perevod s burjatskogo'
     authors:
       - Galina Žigmytovna Radnaeva
+    translators:
       - T. u.a Rebrova
     year: 1989
     language: Not recorded
@@ -73703,6 +73933,8 @@ titles:
     subtitle: Povestʹ
     authors:
       - Nikolaĭ IAkutskaĭ
+    translators:
+      - L. Parfenov
     year: 1989
     language: Russian
     sources:
@@ -73762,6 +73994,9 @@ titles:
       - Vladimir Stepanovich Semenov (Владимир Степанович Семенов)
       - Vladimir Bronislavovič Muravʹev
       - Vladimir Bronislavovich Muravev (Владимир Брониславович Муравьев)
+    editors:
+      - Aleksandr Ivanovič Kazincev
+      - Aleksandr Ivanovich Kazintsev (Александр Иванович Казинцев)
     year: 1989
     language: Russian
     sources:
@@ -74105,6 +74340,7 @@ titles:
     subtitle: Dilogija
     authors:
       - Vasilij N. Ledkov
+    translators:
       - V. Leont'eva
     year: 1989
     language: Not recorded
@@ -74507,6 +74743,8 @@ titles:
   - title: Po russkoj zemle
     authors:
       - Sergej Vasil'evič Maksimov
+    editors:
+      - Sergej N. Plechanov
     year: 1989
     language: Russian
     sources:
@@ -75139,6 +75377,7 @@ titles:
     authors:
       - Ogduo Aksenova
       - Ogdo Aksenova
+    translators:
       - A. Zorina
     year: 1989
     language: Not recorded
@@ -75225,6 +75464,7 @@ titles:
     subtitle: 'Povesti i rasskazy: Perevod s altajskogo'
     authors:
       - Semen Berukovič Kainčin
+    translators:
       - E. Guščin
     year: 1989
     language: Not recorded
@@ -76291,6 +76531,7 @@ titles:
     subtitle: 'Roman: Perevod s jakutskogo'
     authors:
       - Ivan Michajlovič Gogolev
+    translators:
       - D. Čupryni
     year: 1990
     language: Not recorded
@@ -76316,6 +76557,8 @@ titles:
     authors:
       - Daniil Loukič Mordovcev
       - D. L. Mordovtsev (Д. Л. Мордовцев)
+    editors:
+      - Jurij Nikolaevič Senčurov
     year: 1990
     language: Russian
     sources:
@@ -76355,7 +76598,10 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991010547959708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Domostroj
-    authors:
+    authors: []
+    editors:
+      - Vladimir Viktorovič Kolesov
+    translators:
       - Vladimir Viktorovič Kolesov
       - Vladimir Viktorovich Kolesov (Владимир Викторович Колесов)
     year: 1990
@@ -76510,6 +76756,8 @@ titles:
   - title: Izbrannoe
     authors:
       - Vladimir Sergeyevich Solovyov
+    editors:
+      - Arseniĭ Gulyga
     year: 1990
     series: Khudozhestvennaia i publitsisticheskaia biblioteka ateista
     language: Russian
@@ -76718,6 +76966,16 @@ titles:
     authors:
       - Ėleonora Sergeevna Lebedeva
       - Aleksandr Sergeevič Puškin
+    editors:
+      - Èleonora Sergeevna Lebedeva
+      - Eleonora Sergeevna Lebedeva (Элеонора Сергеевна Лебедева)
+      - Elena Vladimirovna Prolet
+      - Elena Vladimirovna Prolet (Елена Владимировна Пролет)
+      - Galina Semenovna Tûrina
+      - Galina Semenovna Tiurina (Галина Семеновна Тюрина)
+    translators:
+      - A. aIlʹf
+      - A. Ailf (А. аИльф)
     year: 1990
     language: Russian
     sources:
@@ -77339,6 +77597,11 @@ titles:
     authors:
       - Maksimilian Volochine
       - Maksimilian Aleksandrovich Voloshin (Максимилиан Александрович Волошин)
+    editors:
+      - L. N. Asanov
+      - L. N. Asanov (Л.Н. Асанов)
+      - Evg Ivanova
+      - Evg Ivanova (Евг Иванова)
     year: 1990
     language: Russian
     sources:
@@ -78129,6 +78392,8 @@ titles:
     subtitle: Stikhotvoreniya, perevody, drama
     authors:
       - K. R. Grand Duke of Russia
+    editors:
+      - Nikolaj V. Osʹmakov
     year: 1991
     language: Russian
     pages: 336

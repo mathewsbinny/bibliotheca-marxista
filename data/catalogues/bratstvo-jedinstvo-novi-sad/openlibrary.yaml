@@ -72,8 +72,11 @@ titles:
     verified: true
   - title: Dvostruka smrt Frederika Beloa
     subtitle: Sa dvostrukom beleškom o detektivskom romanu
+    original_title: 'La double mort de Frédéric Belot : Double note sur le roman policier'
     authors:
       - Claude Aveline
+    translators:
+      - Živojin Živojnović
     year: 1953
     language: Serbian
     sources:
@@ -83,6 +86,7 @@ titles:
         url: https://www.sudoc.fr/099037955
     verified: true
   - title: Gospođica de Mopen
+    original_title: Mademoiselle de Maupin
     authors:
       - Théophile Gautier
       - Miloš Stepanović
@@ -177,6 +181,7 @@ titles:
   - title: Mrtvo vreme
     authors:
       - Klod Avlin
+    translators:
       - Živojin Živojnović
     year: 1953
     language: Serbian
@@ -185,6 +190,7 @@ titles:
         url: https://www.sudoc.fr/099038854
     verified: true
   - title: Obećana zemlja
+    original_title: Terre promise
     authors:
       - André Maurois
       - Ivan Pavlović
@@ -269,6 +275,7 @@ titles:
         url: https://search.worldcat.org/title/7311409
     verified: true
   - title: Tuđinac
+    original_title: Yaban
     authors:
       - Yakup Kadri Karaosmanoğlu
       - Teofanija Trivunac
@@ -467,6 +474,7 @@ titles:
   - title: Meir Ezofović
     authors:
       - Eliza Orzeszkowa
+    translators:
       - Stojan Subotin
     year: 1955
     language: Serbian
@@ -602,6 +610,7 @@ titles:
         url: https://search.worldcat.org/title/25484278
     verified: true
   - title: Lojalni građanin Jozef Švejk u drugom svetskom ratu
+    original_title: Loyální občan Josef Švejk v protektorátě Čechy a Morava
     series: Mali romani; 4
     authors:
       - Medius
@@ -869,6 +878,7 @@ titles:
   - title: Ivana majka Anđeoska
     authors:
       - Jarosław Iwaszkiewicz
+    translators:
       - Stojan Subotin
     year: 1965
     language: Serbian
@@ -915,6 +925,7 @@ titles:
     subtitle: Roman
     authors:
       - Vicki Baum
+    translators:
       - Sonja Perović
     year: 1969
     language: German
@@ -1296,7 +1307,10 @@ titles:
     verified: true
   - title: 'Antologija nemačke pripovetke: 1945-1985'
     series: Biblioteka Spektar
-    authors:
+    authors: []
+    editors:
+      - Zlatko Krasni
+    translators:
       - Zlatko Krasni
     year: 1986
     language: German
@@ -1351,8 +1365,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=276532961
     verified: true
   - title: Simbolizam i tumačenje
+    original_title: Symbolisme et interprétation
     authors:
       - Cvetan Todorov
+    translators:
+      - Jovica Aćin
     year: 1986
     series: Biblioteka Svetovi
     language: Croatian
@@ -1371,6 +1388,7 @@ titles:
   - title: Trilogije o Dukajevima
     authors:
       - Lajos Zilahi
+    translators:
       - Sonja Perović
     year: 1986
     language: Not recorded
@@ -1379,9 +1397,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1453976272
     verified: true
   - title: Zarobljenici
+    original_title: A két fogoly
     series: Biblioteka "Izabrana dela"; 1
     authors:
       - Lajos Zilahi
+    translators:
       - Boško Tokin
     year: 1986
     language: Serbian
@@ -1436,6 +1456,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=505773074
     verified: true
   - title: Koliko je sve to nemačko
+    original_title: How german is it
     authors:
       - Walter Abish
       - Nina Živančević
@@ -1465,6 +1486,8 @@ titles:
     subtitle: Pripovetke
     authors:
       - Milorad P. Šapčanin
+    editors:
+      - Dušan Ivanić
     year: 1987
     edition: 1. izd
     series: Biblioteka Drugi pogled
@@ -1676,9 +1699,12 @@ titles:
         url: https://lccn.loc.gov/89868352
     verified: true
   - title: Zanzibar ili poslednji razlog
+    original_title: Sansibar oder der letzte Grund
     series: Biblioteka Spektar
     authors:
       - Alfred Anderš
+    translators:
+      - Marina Ličen
     year: 1988
     language: German
     sources:
@@ -1698,7 +1724,10 @@ titles:
   - title: Antologija savremene nemacke proze
     subtitle: (1945-1989)
     series: Biblioteka Spektar
-    authors:
+    authors: []
+    editors:
+      - Zlatko Krasni
+    translators:
       - Zlatko Krasni
     year: 1989
     language: German
@@ -1888,6 +1917,7 @@ titles:
     verified: true
   - title: O čemu govorimo kad govorimo o ljubavi
     subtitle: Priče
+    original_title: What we talk about when we talk about love
     series: Biblioteka BIS; 5
     authors:
       - Raymond Carver
@@ -1903,6 +1933,8 @@ titles:
     series: Posebna izdanja /Bratstvo-jedinstvo
     authors:
       - Maksim Santini
+    translators:
+      - Veselka Santini
     year: 1990
     language: Croatian
     sources:
@@ -1965,9 +1997,12 @@ titles:
     verified: true
   - title: Nalog ili o nadziravanju nadzirača nadzirača
     subtitle: Novela u dvadeset četiri rečenie
+    original_title: Der Auftrag oder Vom Beobachten des Beobachters der Beobachter
     series: Biblioteka Spektar
     authors:
       - Friedrich Dürrenmatt
+    translators:
+      - Milorad Sofronijevic
     year: 1991
     language: Croatian
     sources:

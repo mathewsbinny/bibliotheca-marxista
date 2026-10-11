@@ -2651,6 +2651,8 @@ titles:
   - title: Jian ming lin ye ci dian
     authors:
       - Qingfa Chen
+    editors:
+      - Linglan Fang
     year: 1981
     edition: Di 1 ban
     language: Chinese
@@ -3225,6 +3227,8 @@ titles:
       - Tian xing Gao
       - Cheng jia Ji
       - Yan ling Shang
+    editors:
+      - Zuo yao Zhang
     year: 1981
     language: Chinese
     sources:
@@ -3310,6 +3314,9 @@ titles:
   - title: Zhongguo yan yu xuan
     authors:
       - Chengjia Ji
+    editors:
+      - Jì Chéng Jiā Biān
+      - 季成家 編
     year: 1981
     edition: Di 1 ban
     language: Chinese
@@ -4040,6 +4047,8 @@ titles:
   - title: Qian jia shi zhu xi
     authors:
       - Lin Tang
+    editors:
+      - Feng Yao
     year: 1982
     edition: Di 1 ban
     language: Chinese
@@ -5413,12 +5422,17 @@ titles:
         url: https://lccn.loc.gov/83226432
     verified: true
   - title: Si chou lu shang de wai guo mo gui
+    original_title: Foreign devils on the silk road
     series: Dunhuang yan jiu yi cong
     authors:
       - Bide Huopukeke
       - 彼得 霍普科克
-      - Hanzhang Yang
       - 杨汉章
+    editors:
+      - Han zhang Yang
+      - Zi ming Song
+    translators:
+      - Hanzhang Yang
     year: 1983
     language: Chinese
     sources:
@@ -5513,6 +5527,10 @@ titles:
   - title: Wang Zhaojun chuan shuo
     authors:
       - Yihong Wu
+    editors:
+      - 一虹 吴
+      - Biyun Wu
+      - 碧云 吴
     year: 1983
     edition: Di 1 ban
     language: Chinese
@@ -6294,14 +6312,15 @@ titles:
     verified: true
   - title: Dunhuang bi hua zhong de fo jing gu shi
     authors:
+      - Dunhuang wen wu yan jiu suo
+      - 敦煌文物硏究所
+    translators:
       - Jingchi Ma
       - 竞驰 马
       - Xiuwen Lu
       - 秀文 卢
       - Meng Fang
       - 萌 方
-      - Dunhuang wen wu yan jiu suo
-      - 敦煌文物硏究所
     year: 1984
     language: Chinese
     sources:
@@ -7006,8 +7025,9 @@ titles:
     series: Dun huang Tu lu fan xue yi cong
     authors:
       - Paul Demiéville
-      - Sheng Geng
       - Zhong guo Dun huang Tu lu fan xue hui
+    translators:
+      - Sheng Geng
     year: 1984
     language: Chinese
     sources:
@@ -7030,6 +7050,8 @@ titles:
   - title: Wen yan wen du ben
     authors:
       - Anting Xin
+    editors:
+      - 安亭 辛
     year: 1984
     edition: Di 1 ban
     series: Gu shi wen xuan du
@@ -7325,6 +7347,9 @@ titles:
     authors:
       - Guohua Zhang
       - Xinxian Rao
+    editors:
+      - 国华 张
+      - 鑫贤 饶
     year: 1984
     edition: Di 1 ban
     language: Chinese
@@ -8025,6 +8050,8 @@ titles:
     series: Dun huang Tu lu fan xue yi cong
     authors:
       - Shudo Yoshiyuki
+    translators:
+      - Zhenqing Jiang
     year: 1985
     language: Chinese
     sources:
@@ -8987,6 +9014,8 @@ titles:
     series: Long you wen xian cong shu
     authors:
       - Zhang Shu
+    editors:
+      - Dingwen Li
     year: 1985
     language: Chinese
     sources:
@@ -10814,6 +10843,8 @@ titles:
   - title: Quan zhu gong diao
     authors:
       - Pingchu Zhu
+    editors:
+      - 平楚 朱
     year: 1987
     edition: Di 1 ban
     language: Chinese
@@ -11009,6 +11040,7 @@ titles:
         url: https://lccn.loc.gov/88161117
     verified: true
   - title: Zhongguo wu shi shi ji de si yuan jing ji
+    original_title: 'Les aspects économiques du bouddhisme dans la société chinoise du ve au xe siècle / Jacques Gernet. Saigon : Ecole française dʾExtreme-Orient, 1956 (Publications de lʾecole française dʾextreme-orient, v. xxxix)'
     authors:
       - Jacques Gernet
     year: 1987
@@ -11568,6 +11600,7 @@ titles:
         url: https://search.worldcat.org/title/502670142
     verified: true
   - title: Ni hao wo ye hao
+    original_title: I'm ok - you're ok
     series: Ren yu she hui cong shu
     authors:
       - Thomas A. Harris
@@ -12894,6 +12927,9 @@ titles:
     verified: true
   - title: Zhong guo she hui zhu yi jian she yu gai ge
     authors: []
+    editors:
+      - Min Zhu
+      - Liang Chen
     year: 1990
     language: Chinese
     sources:
@@ -13279,6 +13315,8 @@ titles:
     verified: false
   - title: Zhong guo min su da xi
     authors: []
+    editors:
+      - Li Fan Tao
     language: Chinese
     sources:
       - title: BnF catalogue record cb39954771m

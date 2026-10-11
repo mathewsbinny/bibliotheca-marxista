@@ -993,6 +993,8 @@ titles:
     authors:
       - Tian'en Wang
       - 王天恩
+    editors:
+      - Tianen Wang
     year: 1981
     language: Chinese
     sources:
@@ -1078,6 +1080,8 @@ titles:
   - title: San shi liu ji xin bian
     authors:
       - Bingyan Li
+    editors:
+      - 李炳彥
     year: 1981
     edition: Di 1 ban
     language: Chinese
@@ -3604,6 +3608,9 @@ titles:
     verified: true
   - title: Zhong guo gong chan dang liu shi nian
     authors: []
+    editors:
+      - Hao ran Yin
+      - Meng bi Hao
     year: 1984
     language: Chinese
     sources:
@@ -4364,6 +4371,10 @@ titles:
     subtitle: Zhuan zhan Hua bei qi jian
     authors:
       - Zhikuan Li
+    editors:
+      - 志宽 李
+      - Zhaoqian Wang
+      - 照骞 王
     year: 1985
     edition: Di 1 ban
     language: Chinese
@@ -4917,6 +4928,9 @@ titles:
     authors:
       - Huaizhou Ran
       - Yiran Liu
+    editors:
+      - Huai zhou Ran
+      - Yi ran Liu
     year: 1985
     language: Chinese
     sources:
@@ -6476,8 +6490,11 @@ titles:
     verified: true
   - title: Chang zheng
     subtitle: Qian suo wei wen de gu shi
+    original_title: The long march
     authors:
       - Harrison E. Salisbury
+    translators:
+      - Jiading Guo
     year: 1986
     edition: Di 1 ban
     language: Chinese
@@ -6532,6 +6549,7 @@ titles:
         url: https://lccn.loc.gov/88115624
     verified: true
   - title: Di er ci shi jie da zhan shi
+    original_title: Geschichte des Zweiten Weltkriegs
     authors:
       - Kurt von Tippelskirch
       - Mingchuan Lai
@@ -6580,6 +6598,9 @@ titles:
   - title: Ge ming lie shi zhuan ji zi liao mu lu
     authors:
       - Beijing tu shu guan. She hui ke xue can kao zu
+    editors:
+      - Beijing tu shu guan
+      - '"Keming-Lieshizhuan"-Bianweihui-Ziliaozu'
     year: 1986
     edition: Di 1 ban
     language: Chinese
@@ -6746,6 +6767,8 @@ titles:
   - title: Jie fang jun ying xiong zhuan
     authors:
       - China) Jie fang jun chu ban she (Beijing
+    editors:
+      - Jun Li
     year: 1986
     language: Chinese
     sources:
@@ -7115,6 +7138,8 @@ titles:
       - Zhou Fang
       - Feng Wang
       - Zhanlu Wei
+    editors:
+      - Fang Zhou
     year: 1986
     edition: Di 1 ban
     language: Chinese
@@ -7618,9 +7643,11 @@ titles:
     verified: true
   - title: Zhan zheng yi shu gai lun
     subtitle: Dui zhan lue, da zhan shu ji jun shi zheng ce de zhu yao wen ti de zui xin fen xi ping lun
+    original_title: Précis de l'art de la guerre
     series: Wai guo zhu ming jun shi zhu zuo
     authors:
       - Antoine Henri <<de>> Jomini
+    translators:
       - Cong Liu
       - Jian Yuan
     year: 1986
@@ -7682,6 +7709,8 @@ titles:
     verified: true
   - title: Zhong guo ren min jie fang jun jiang shuai ming lu
     authors: []
+    editors:
+      - Huo liao Xing
     year: 1986
     language: Chinese
     sources:
@@ -9350,6 +9379,11 @@ titles:
   - title: E Yu Wan ge ming gen ju di dou zheng shi jian bian
     authors:
       - 谭克绳
+    editors:
+      - Kesheng Tan
+      - 克绳 谭
+      - Zhiliang Ouyang
+      - 植梁 欧阳
     year: 1987
     edition: Di 1 ban
     language: Chinese
@@ -9817,6 +9851,7 @@ titles:
         url: https://lccn.loc.gov/88142882
     verified: true
   - title: Ri ben qin hua nei mu
+    original_title: Shōwa no dōran
     authors:
       - 葵 重光
       - Fulin Qi
@@ -11815,6 +11850,7 @@ titles:
   - title: Deng Xiaoping
     authors:
       - Dénes Baracs
+    translators:
       - Han Sijing
       - Ji ye yi
     year: 1988
@@ -14398,6 +14434,7 @@ titles:
     subtitle: Han yu zhu shi
     authors:
       - Wilhelm Bonacker
+    translators:
       - Shigang Li
     year: 1989
     language: Chinese
@@ -14657,6 +14694,11 @@ titles:
     subtitle: 1840-1987 nian guo qing shou ce
     authors:
       - Yuping
+    editors:
+      - Yuping Ma
+      - 宇平 马
+      - Yuchong Huang
+      - 裕冲 黄
     year: 1989
     edition: Di 1 ban
     language: Chinese

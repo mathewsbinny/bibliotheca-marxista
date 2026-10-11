@@ -27,10 +27,12 @@ titles:
     verified: true
   - title: Juriš na vrhove svijeta
     subtitle: Od Mont Blanca do Mount Everesta
+    original_title: Bis zum Gipfel der Welt
     series: Biblioteka Putopisa
     authors:
       - Hans Albert Förster
       - Franz Grassler
+    translators:
       - Zvonimir Golob
     year: 1962
     language: Serbian
@@ -238,6 +240,8 @@ titles:
     subtitle: 26.i 27.novembra 1942 u Bihaću, 29.i 30.novembra 1943 u Jajcu
     authors:
       - Antifašističko veće narodnog oslobođenja Jugoslavije
+    editors:
+      - Moša Pijade
     year: 1963
     edition: Opštu red.1.izd.isvršio Moša Pijade (1890-1957). Prikupio, sastavio i sredio za stampu Slobodan Nesović.
     series: Političko-memoarska biblioteka
@@ -324,6 +328,8 @@ titles:
   - title: Svjetlost u mraku
     authors:
       - August Cesarec
+    editors:
+      - Jure Kaštelan
     year: 1963
     series: Novinarska i publicistička biblioteka
     language: Croatian
@@ -355,6 +361,8 @@ titles:
     authors:
       - Tihomir Stanojevic
       - Dragan Markovič
+    translators:
+      - Ivo Vidan
     year: 1963
     language: Croatian
     sources:
@@ -505,8 +513,9 @@ titles:
   - title: Poljska satira
     authors:
       - Stanisław Jerzy Lec
-      - Đorđe Šaula
       - Zygmunt Stoberski
+    translators:
+      - Đorđe Šaula
       - Petar Vujičić
     year: 1964
     language: Croatian
@@ -517,6 +526,7 @@ titles:
         url: https://search.worldcat.org/title/891259175
     verified: true
   - title: Rat na Balkanu
+    original_title: Balkan war
     series: Biblioteka Vremeplov
     authors:
       - Fitzroy Maclean
@@ -587,8 +597,9 @@ titles:
     subtitle: Życie i praca
     authors:
       - Tihomir Stanojević
-      - Zofia Jaworska-Đurišić
       - Dragan Marković
+    translators:
+      - Zofia Jaworska-Đurišić
     year: 1964
     language: Polish
     sources:
@@ -756,6 +767,8 @@ titles:
     pages: 867
   - title: Panorama hrvatske književnosti XX stoljeća, priredio Vlatko Pavletić
     authors: []
+    editors:
+      - Vlatko Pavletić
     year: 1965
     language: Croatian
     sources:
@@ -1257,6 +1270,7 @@ titles:
   - title: U kordiljerima
     authors:
       - Karl May
+    translators:
       - Hilda Hečej
     year: 1966
     language: German
@@ -1529,7 +1543,9 @@ titles:
     verified: true
   - title: Biblija
     subtitle: Stari i Novi Zavjet
-    authors:
+    original_title: Bible
+    authors: []
+    translators:
       - Jure Kaštelan
     year: 1968
     language: Croatian
@@ -1698,8 +1714,14 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1189482428
     verified: true
   - title: Biblija, Stari i Novi zavjet
+    original_title: Bible
     authors:
       - Jure Kaštelan
+    editors:
+      - Duda Bonaventura
+    translators:
+      - Silvije Grubišić
+      - Ljudevit Rupčić
     year: 1969
     edition: 2. izdanje
     language: Croatian
@@ -1773,6 +1795,8 @@ titles:
     verified: true
   - title: Muslimanske junačke pjesme, odabrao, priredio i predgovor napisao Nasko Frndić
     authors: []
+    editors:
+      - Nasko Frndić
     year: 1969
     language: Croatian
     sources:
@@ -1822,6 +1846,7 @@ titles:
     authors:
       - Henryk Sienkiewicz
       - Zdravko Malić
+    translators:
       - Ante Šimčik
     year: 1969
     language: Croatian
@@ -1998,6 +2023,7 @@ titles:
   - title: Sjećanja na budućnost
     authors:
       - Erich von Däniken
+    translators:
       - Tomislav Odlešić
     year: 1970
     language: German
@@ -2053,6 +2079,8 @@ titles:
   - title: Ilustrirana povijest Hrvata
     authors:
       - Josip Adamček
+    editors:
+      - Marijan Sinković
     year: 1971
     language: Croatian
     pages: 319
@@ -2192,8 +2220,11 @@ titles:
         url: https://d-nb.info/577867830
     verified: true
   - title: Kur'an Časni
+    original_title: Coran
     authors:
       - Džemaludin ef Čaušević
+    translators:
+      - Mehmed Džemaludin Čaušević
       - Hafiz Muhammed Pandža
     year: 1972
     language: Arabic
@@ -2397,6 +2428,7 @@ titles:
     subtitle: Tragovi i planovi vanzemaljskih inteligentnih bića
     authors:
       - Erich von Däniken
+    translators:
       - Tomislav Odlešić
     year: 1973
     language: German
@@ -2547,8 +2579,10 @@ titles:
         url: https://d-nb.info/368909751
     verified: true
   - title: Suvremene politicke teorije
+    original_title: Die politischen Theorien der Gegenwart
     authors:
       - Klaus von Beyme
+    translators:
       - Ivan Babić
     year: 1974
     language: Serbian
@@ -2604,8 +2638,9 @@ titles:
     verified: true
   - title: Najlepše bajke svijeta
     authors:
-      - Miodrag B. Šijaković
       - Aleksandar Marks
+    translators:
+      - Miodrag B. Šijaković
     year: 1975
     language: Croatian
     sources:
@@ -2922,6 +2957,9 @@ titles:
     subtitle: 1944-1945
     authors:
       - Slobodan Nešović
+    editors:
+      - Petar Majstorović
+      - Marija Sinković
     year: 1977
     language: Croatian
     pages: 229
@@ -2948,6 +2986,7 @@ titles:
   - title: Divlje voće za desert
     authors:
       - Heinz G. Konsalik
+    translators:
       - Emina Đerasimović
     year: 1977
     language: German
@@ -3318,10 +3357,11 @@ titles:
     verified: true
   - title: Naǰlepše baǰke sveta
     authors:
-      - Miodrag B. Šijaković
       - Zdenko Balabanić
       - Mara Đurčić
       - Ljiljana Čubrić
+    translators:
+      - Miodrag B. Šijaković
     year: 1979
     language: Serbian
     sources:
@@ -3801,8 +3841,9 @@ titles:
     verified: true
   - title: Kur'an časni
     authors:
-      - Hafiz M. Pandža
       - Alija Nametak
+    translators:
+      - Hafiz M. Pandža
     year: 1985
     language: Not recorded
     sources:
@@ -3821,6 +3862,8 @@ titles:
   - title: Ljubavna pisma hrvatskih književnika
     subtitle: Antologija
     authors: []
+    editors:
+      - Mirko Rogošić
     year: 1985
     language: Croatian
     sources:
@@ -4320,6 +4363,8 @@ titles:
     authors:
       - Nada Klaić
       - Josip Adamček
+    editors:
+      - Marijan Sinković
     year: 1990
     language: Croatian
     sources:

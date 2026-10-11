@@ -16,6 +16,7 @@ titles:
   - title: Brèsckaâ krèpasc'
     authors:
       - Sergej Sergeevič Smirnov
+    translators:
       - Ales'' Bažko
       - Ales' Bačyla
     year: 1958
@@ -133,8 +134,9 @@ titles:
     verified: true
   - title: Afrykanskiâ kazki
     authors:
-      - P. Runc
       - Vydavectva "Belarus'"
+    translators:
+      - P. Runc
     year: 1963
     language: Belarusian
     sources:
@@ -431,6 +433,7 @@ titles:
     subtitle: Povest'
     authors:
       - Ėduard L. Samujlenok
+    translators:
       - N. Gorulev
     year: 1964
     language: Russian
@@ -674,6 +677,7 @@ titles:
     subtitle: Tragedyâ
     authors:
       - William Shakespeare
+    translators:
       - Ûrka Gaŭruk
     year: 1964
     language: Belarusian
@@ -796,6 +800,7 @@ titles:
     subtitle: Povesti i rasskazy
     authors:
       - Vladimir Mechov
+    translators:
       - A. Tverskoj
     year: 1964
     language: Russian
@@ -1439,7 +1444,8 @@ titles:
     verified: false
   - title: Ad strom balkanskich
     subtitle: Veršy sučasnych balgarskich paetau
-    authors:
+    authors: []
+    translators:
       - Nil Symonavič Hilevič
     year: 1965
     language: Belarusian
@@ -1556,6 +1562,8 @@ titles:
   - title: Bug v ogne
     authors:
       - A. A. Krupennikov
+    editors:
+      - Arkadij Anisimovič Krupennikov
     year: 1965
     language: Russian
     pages: 526
@@ -1919,8 +1927,9 @@ titles:
     subtitle: Dokumental'naâ povest' (o partizanke Rimme Kun'ko)
     authors:
       - Galina Onufrevna Vasilevskaâ
-      - Nikolaj Timofeevič Maruŝkevič
       - Vydavectva "Belarus'"
+    translators:
+      - Nikolaj Timofeevič Maruŝkevič
     year: 1965
     language: Russian
     sources:
@@ -2112,6 +2121,8 @@ titles:
     authors:
       - Ìnstytut gìstoryì
       - Instytut Gistoryi (Інстытут гісторыі)
+    editors:
+      - Zoâ Iosifovna Beluga
     year: 1965
     language: Russian
     sources:
@@ -2271,6 +2282,9 @@ titles:
     subtitle: Roman
     authors:
       - P. Halavach
+    translators:
+      - Pavel Kobzarevskij
+      - Pavel Kobzarevskii (Павел Кобзаревский)
     year: 1965
     language: Russian
     pages: 413
@@ -2302,8 +2316,9 @@ titles:
     subtitle: Povest'
     authors:
       - Jakub Kołas
-      - Mihail Lejbovič Zlatogorov
       - Vydavectva "Belarus'"
+    translators:
+      - Mihail Lejbovič Zlatogorov
     year: 1965
     language: Russian
     sources:
@@ -2972,8 +2987,10 @@ titles:
     verified: true
   - title: Krysta
     subtitle: Gistoryja adnoj maladoj dzjaučyny
+    original_title: Christa (1957)
     authors:
       - Juryj Brezan
+    translators:
       - Aljaksej Zarycki
     year: 1966
     language: Belarusian
@@ -3081,6 +3098,7 @@ titles:
     subtitle: Roman
     authors:
       - Arkadij Černyševič
+    translators:
       - Pavel Kobzarevskij
     year: 1966
     language: Russian
@@ -3122,6 +3140,11 @@ titles:
       - V. S. Posse
       - L. V. Arzhaeva
       - IAkub Misko
+    editors:
+      - V. Posse
+      - V. Posse (В. Поссе)
+      - L. Aržaeva
+      - L. Arzhaeva (Л. Аржаева)
     year: 1966
     language: Russian
     pages: 346
@@ -3609,8 +3632,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=301788472
     verified: true
   - title: Vicjaz' u tygravaj škury
+    original_title: Vep'xis tqaosani
     authors:
       - Šot̕a
+    translators:
       - Ales' Zvonak
     year: 1966
     language: Belarusian
@@ -5175,6 +5200,7 @@ titles:
     subtitle: Roman
     authors:
       - Filipp Semenovič Pestrak
+    translators:
       - Pavel Semenovič Kobzarevskij
     year: 1967
     language: Russian
@@ -5191,6 +5217,8 @@ titles:
   - title: Vstretimsja na barrikadach
     authors:
       - Pilip S. Pestrak
+    translators:
+      - Pavel Kobzarevskij
     year: 1967
     language: Russian
     sources:
@@ -6965,6 +6993,7 @@ titles:
   - title: Pra čalaveka, âki ne klanâŭsâ kulâm
     authors:
       - Janina Broniewska
+    translators:
       - Ânka Bryl'
     year: 1968
     language: Belarusian
@@ -7179,6 +7208,7 @@ titles:
     series: Belorusskij roman
     authors:
       - Mikola Tkačev
+    translators:
       - P. Kobzarevskij
     year: 1968
     language: Russian
@@ -7457,8 +7487,9 @@ titles:
     subtitle: Roman-chronika
     authors:
       - Il'ja D. Gurskij
-      - Aleksandr Mironov
       - Ilʹja Danilovič Gurskij
+    translators:
+      - Aleksandr Mironov
     year: 1968
     language: Russian
     sources:
@@ -9099,8 +9130,9 @@ titles:
   - title: U. I. Lenin
     authors:
       - Maksim Gorki
-      - Makar Trofimovič Posledovič
       - Vydavectva "Belarus'"
+    translators:
+      - Makar Trofimovič Posledovič
     year: 1969
     language: Belarusian
     sources:
@@ -9878,6 +9910,8 @@ titles:
   - title: Bug v ogne
     authors:
       - A. A. Krupennikov
+    editors:
+      - Arkadij A. Krupennikov
     year: 1970
     edition: 'Izd. 2., dop. i perer. [Sostaviteli: A.A. Krupennikov i dr.]'
     language: Russian
@@ -10261,8 +10295,9 @@ titles:
   - title: Karol' Macûs' Peršy
     authors:
       - Janusz Korczak
-      - Âdvìga Bâganskaâ
       - Vydavectva "Belarus'"
+    translators:
+      - Âdvìga Bâganskaâ
     year: 1970
     language: Russian
     sources:
@@ -10714,6 +10749,7 @@ titles:
     subtitle: (Paèma)
     authors:
       - Pìmen Pančanka
+    translators:
       - Naum Zinov'evič Kislik
     year: 1970
     language: Belarusian
@@ -11419,6 +11455,7 @@ titles:
     subtitle: Paèma
     authors:
       - Władimir Majakowski
+    translators:
       - Pâtrus' Brouka
     year: 1970
     language: Belarusian
@@ -11643,6 +11680,9 @@ titles:
     subtitle: Bibliogr. ukazatelʹ
     authors:
       - N. F. Korotkina
+    editors:
+      - S. G. Claf
+      - Nadežda Fedorovna Korotkina
     year: 1970
     language: Belarusian
     pages: 83
@@ -12310,8 +12350,9 @@ titles:
     subtitle: Apovesc'
     authors:
       - Čingiz Ajtmatov
-      - Ì. Sakaloskì
       - Vydavectva "Belarus'"
+    translators:
+      - Ì. Sakaloskì
     year: 1971
     language: Belarusian
     sources:
@@ -13568,6 +13609,7 @@ titles:
     subtitle: Dokumental'naja povest'
     authors:
       - Ivan G. Novikov
+    translators:
       - Evgenij Mozol'kov
     year: 1971
     language: Russian
@@ -13844,6 +13886,7 @@ titles:
     series: Belorusskij roman
     authors:
       - Michas' Zareckij
+    translators:
       - Lev Solovej
     year: 1971
     language: Russian
@@ -15124,6 +15167,7 @@ titles:
     series: Belorusskij roman
     authors:
       - Ivan P. Šamjakin
+    translators:
       - A. Ostrovskij
     year: 1972
     language: Russian
@@ -15388,6 +15432,7 @@ titles:
     series: Belorusskij roman
     authors:
       - Arkadij Černyševič
+    translators:
       - Pavel Kobzarevskij
     year: 1972
     language: Russian
@@ -19879,6 +19924,7 @@ titles:
     authors:
       - Û. I. Mâževič
       - I. E. Miazhevich (Ю. И. Мяжевич)
+    translators:
       - I. A. Kalûta
       - E. A. Kaliuta (И. А. Калюта)
     year: 1975
@@ -21476,6 +21522,9 @@ titles:
     subtitle: Beloruskiĭ suvenir = Byelorussian souvenir
     authors:
       - U. S. Basalyha
+    editors:
+      - Vladimir Samojlovič Basalyga
+      - Vladimir Samoilovich Basalyga (Владимир Самойлович Басалыга)
     year: 1976
     language: Belarusian
     pages: 96
@@ -21940,6 +21989,7 @@ titles:
     verified: true
   - title: Kodeks zakonov o trude Belorusskoĭ SSR
     subtitle: Ofits. tekst s izm. za 1 apr. 1975 g
+    original_title: Kodėks zakonaū ab pratsy Belaruskaĭ SSR. Russian
     authors:
       - Byelorussian S. S. R.
     year: 1976
@@ -23784,6 +23834,8 @@ titles:
   - title: Bug v ogne
     authors:
       - A. A. Krupennikov
+    editors:
+      - Arkadij Anisimovič Krupennikov
     year: 1977
     edition: Izd. 3-e, dop. i perer
     language: Russian
@@ -23916,8 +23968,10 @@ titles:
         url: https://www.sudoc.fr/181828634
     verified: true
   - title: Devânosto tretij god
+    original_title: Quatre-vingt-treize
     authors:
       - Victor Hugo
+    translators:
       - Nadežda Mihajlovna Žarkova
       - Nadezhda Mikhailovna Zharkova (Надежда Михайловна Жаркова)
     year: 1977
@@ -23927,6 +23981,7 @@ titles:
         url: https://www.sudoc.fr/113628374
     verified: true
   - title: Devjanosto tretij god
+    original_title: Quatre-vingt-treize
     authors:
       - Victor Hugo
     year: 1977
@@ -27247,6 +27302,9 @@ titles:
       - Liudmila Vasilevna Arzhaeva (Людмила Васильевна Аржаева)
       - Aleksej Borisovič Rogov
       - Aleksei Borisovich Rogov (Алексей Борисович Рогов)
+    editors:
+      - Aleksej Borìsovìč Rogov
+      - Lûdmìla Vasìl'evna Aržaeva
     year: 1978
     language: Russian
     sources:
@@ -27409,6 +27467,7 @@ titles:
     verified: true
   - title: Priključenija Olivera Tvista
     subtitle: Roman
+    original_title: Oliver Twist
     authors:
       - Charles Dickens
       - A. Krivcova
@@ -27505,6 +27564,8 @@ titles:
       - R. R. Shevela (Р. Р. Шевела)
       - Institut istorii partii
       - Institut Istorii Partii (Институт истории партии)
+    editors:
+      - Roman Romanovič Krûčok
     year: 1978
     language: Russian
     sources:
@@ -34129,6 +34190,7 @@ titles:
         url: https://openlibrary.org/books/OL18999740M
     verified: true
   - title: Stupajte, messa okončena!
+    original_title: Ite, missa est!
     authors:
       - Jonas Ragauskas
     year: 1981
@@ -34289,6 +34351,8 @@ titles:
       - Evgenij Èduardovič Pavlûc'
       - Boleslav Iosifovič Suškevič
       - Vladimir Vasil'evič Šarpilo
+    editors:
+      - Evgenij Ė. Pavljuc'
     year: 1981
     language: Russian
     sources:
@@ -34598,6 +34662,10 @@ titles:
       - V. V. Lashkevich (В. В. Лашкевич)
       - M. E. Strelʹcov
       - M. A. Streltsov (М. Е. Стрельцов)
+    editors:
+      - Lidiâ Fedorovna Geraŝenko
+      - Ella Leonidovna Kozlovskaâ
+      - Klavdiâ Fedorovna Plahotnikova
     year: 1981
     language: Russian
     sources:
@@ -36261,9 +36329,10 @@ titles:
   - title: Pol'skie soldaty Oktâbrâ
     authors:
       - Tadeusz Butkiewicz
-      - Pavel Grigor'evič Kozlovskij
       - Andrzej Ślisz
       - Vydavectva "Belarus'"
+    translators:
+      - Pavel Grigor'evič Kozlovskij
     year: 1982
     language: Russian
     sources:
@@ -36962,6 +37031,8 @@ titles:
       - Zoia Iosifovna Beluga (Зоя Йосифовна Белуга)
       - Institut istorii partii
       - Institut Istorii Partii (Институт истории партии)
+    editors:
+      - Roman Romanovič Krûčok
     year: 1982
     language: Russian
     sources:
@@ -37253,6 +37324,8 @@ titles:
   - title: Alkogolizm
     authors:
       - V. T. Kondrashenko
+    editors:
+      - P. P. Volkov
     year: 1983
     language: Russian
     sources:
@@ -37392,6 +37465,8 @@ titles:
     subtitle: Mnogostoronnie mezdunarodnye dogovory, konvencii i soglasenija BSSR (1960-1980)
     authors:
       - Ministerstvo Inostrannych Del
+    editors:
+      - Ministerstvo Inostrannych Del Belorusskoj SSR
     year: 1983
     language: Russian
     sources:
@@ -38293,6 +38368,8 @@ titles:
     subtitle: Sbornik vyskazyvanij klassikov marksizma-leninizma, dokumentov KPSS i sovetskogo gosudarstva
     authors:
       - Andrej M. Zalesskij
+    editors:
+      - Terentij Grigor'evič Kupčenja
     year: 1983
     language: Russian
     sources:
@@ -40383,6 +40460,8 @@ titles:
       - V. E. Lobanok
       - Instytut historyi partyi (Byelorussian S. S. R.)
       - Akademiia navuk Belaruskaĭ SSR
+    editors:
+      - Vladimir Eliseevič Lobanok
     year: 1984
     language: Russian
     sources:
@@ -44077,6 +44156,8 @@ titles:
       - Gosudarstvennyj Muzej Belorusskoj SSR
       - V. A. Baranoŭski
       - I. P. Zagrišev
+    editors:
+      - Ivan P. Zahryšaŭ
     year: 1986
     language: Belarusian
     sources:
@@ -45660,6 +45741,7 @@ titles:
     authors:
       - V. P. Alímbočkau
       - V. P. Alimbochkau (В. П. Алімбочкау)
+    translators:
       - A. M. Mímryk
       - A. M. Mimryk (А. М. Мімрык)
     year: 1987
@@ -46036,6 +46118,8 @@ titles:
     authors:
       - Igorʹ Nikolaevič Osinskij
       - Igor Nikolaevich Osinskii (Игорь Николаевич Осинский)
+    editors:
+      - Igor' N. Osinskij
     year: 1987
     language: Russian
     sources:
@@ -46244,6 +46328,8 @@ titles:
     authors:
       - Viktor Ivanovič Semenkov
       - Vasilij Fedorovič Čigir
+    editors:
+      - Viktor I. Semenkov
     year: 1987
     language: Belarusian
     sources:
@@ -48455,6 +48541,8 @@ titles:
     authors:
       - Evgenij Zajcev
       - Jurij A. Karačun
+    editors:
+      - Ju. A. Karačun
     year: 1988
     language: Russian
     sources:
@@ -51057,6 +51145,8 @@ titles:
     authors:
       - Vasil' I. Kaljada
       - V. A. Hubaraŭ
+    editors:
+      - V. I. Kaljada
     year: 1989
     language: Belarusian
     sources:
@@ -51246,6 +51336,8 @@ titles:
     subtitle: Pod. obšč. red. N. G. Jurkeviča
     authors:
       - Weißrussische Sozialistische Sowjetrepublik
+    editors:
+      - Nikolaj G. Jurkevič
     year: 1989
     language: Russian
     sources:
@@ -51257,6 +51349,8 @@ titles:
   - title: Naučnyj ateizm i ateističeskoe vospitanie
     authors:
       - Aleksandr A. Zapickij
+    editors:
+      - Aleksandr A. Zarickij
     year: 1989
     language: Russian
     sources:
@@ -52415,6 +52509,11 @@ titles:
       - IU. M. Paselʹnikaŭ
       - V. M. Fisenka
       - United Nations
+    editors:
+      - Û. M. Paselʹnìkaŭ
+      - I. M. Paselnikau (Ю. М. Пасельнiкаў)
+      - V. M. Fìsenka
+      - V. M. Fisenka (В. М. Фiсенка)
     year: 1990
     language: Belarusian
     pages: 348
@@ -52603,6 +52702,10 @@ titles:
     authors:
       - Gosudarstvennyj Chudožestvennyj Muzej Belorusskoj SSR
       - Nina M. Baranovskaja
+    editors:
+      - Nina Michajlovna Baranovskaja
+      - Nadežda Fëdorovna Vysockaja
+      - Olʹga Savelʹevna Kovalenko
     year: 1990
     language: Belarusian, Russian, English, French
     sources:
@@ -53820,8 +53923,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991123854889705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Cynkavyja chlopčyki
+    original_title: Cinkovye malʹčiki
     authors:
       - Svjatlana Aljaksandraŭna Aleksievič
+    translators:
+      - Mikola Hilʹ
     year: 1991
     language: Belarusian
     sources:
@@ -54675,6 +54781,8 @@ titles:
     subtitle: Yuridicheskii spravochnik
     authors:
       - V. I. Semenkov
+    editors:
+      - Viktor I. Semenkov
     year: 1991
     language: Russian
     isbn: '5338004143'

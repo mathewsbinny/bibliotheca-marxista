@@ -612,6 +612,8 @@ titles:
     subtitle: Agitationsbroschüre der Kommunistischen Partei Deutschlands (KPD) zum 30. Jahrestag der Ermordung Ernst Thälmanns am 18.8.1944
     authors:
       - Kommunistische Partei Deutschlands
+    editors:
+      - Kommunistische Partei
     year: 1974
     edition: 1.-3. Tsd
     language: German
@@ -1033,7 +1035,8 @@ titles:
   - title: Kurze Geschichte der internationalen kommunistischen Bewegung
     subtitle: 1848-1917
     series: Dokumente und Analysen zur internationalen kommunistischen Bewegung; Band 8
-    authors:
+    authors: []
+    translators:
       - Erhard Neckermann
     year: 1977
     language: German
@@ -1151,6 +1154,7 @@ titles:
     verified: true
   - title: Über die zehn grossen Beziehungen
     subtitle: (25. April 1956)
+    original_title: Lun shi da guan xi
     series: Kleine Bücherei des Marxismus-Leninismus; 5
     authors:
       - Zedong Mao
@@ -1181,6 +1185,7 @@ titles:
     verified: true
   - title: Auf dem Wege zum Marxismus
     subtitle: Erinnerungen eines Arbeiterrevolutionärs
+    original_title: Po doroge k marksizmu
     series: Volksbücherei; 1
     authors:
       - Aleksandr S. Šapovalov

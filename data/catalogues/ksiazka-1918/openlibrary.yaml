@@ -73,6 +73,7 @@ titles:
   - title: Afganistan
     authors:
       - Larisa Mihajlovna Rejsner
+    translators:
       - Zofia Orm
     year: 1929
     language: Polish
@@ -449,6 +450,7 @@ titles:
     authors:
       - Vladimir Kapitonovič Nikolʹskij
       - N. Jakowlew
+    translators:
       - Stefania Brun
     year: 1946
     language: Polish
@@ -630,6 +632,7 @@ titles:
         url: https://openlibrary.org/books/OL19782980M
     verified: true
   - title: Manifest komunistyczny
+    original_title: Manifest der Kommunistischen Partei
     series: Biblioteka Klasyków Marksizmu
     authors:
       - Karl Marx
@@ -1002,6 +1005,8 @@ titles:
   - title: Wybór poezji
     authors:
       - Jan Kochanowski
+    editors:
+      - Stanisław Adamczewski
     year: 1946
     language: Polish
     pages: 172
@@ -1129,6 +1134,7 @@ titles:
   - title: Cyrk doktora Dolittle
     authors:
       - Hugh Lofting
+    translators:
       - Janina Mortkowiczowa
     year: 1947
     language: Polish
@@ -1201,6 +1207,8 @@ titles:
   - title: Kollokacja
     authors:
       - Józef Korzeniowski
+    editors:
+      - Adam Bar
     year: 1947
     language: Polish
     sources:
@@ -1270,6 +1278,8 @@ titles:
     subtitle: Komedia w pięciu aktach
     authors:
       - Molière
+    translators:
+      - Tadeusz Żeleński
     year: 1947
     series: Biblioteka pisarzy polskich i obcych -- 4
     language: Polish
@@ -1361,8 +1371,10 @@ titles:
         url: https://search.worldcat.org/title/80285457
     verified: true
   - title: Reportaż spod szubienicy
+    original_title: Reportáž psaná na oprátce
     authors:
       - Julius Fučík
+    translators:
       - H. Gruszczyńska-Dubowa
     year: 1947
     language: Polish
@@ -1491,6 +1503,8 @@ titles:
   - title: Wybór poezji
     authors:
       - Mieczysław Romanowski
+    editors:
+      - Helena E. Kurkowska
     year: 1947
     series: Biblioteka pisarzy polskich i obcych -- 16
     language: Polish
@@ -1540,9 +1554,11 @@ titles:
     verified: true
   - title: Anty-Dühring
     subtitle: Pan Eugeniusz Dühring dokonuje przewrotu w nauce
+    original_title: Herrn Eugen Dührings Umwälzung der Wissenschaft
     series: Biblioteka Klasyków Marksizmu
     authors:
       - Friedrich Engels
+    translators:
       - Paweł Hoffman
     year: 1948
     language: Polish
@@ -1606,6 +1622,8 @@ titles:
     subtitle: Komedia we 3 aktach
     authors:
       - Franciszek Zabłocki
+    editors:
+      - Kazimierz Czachowski
     year: 1948
     language: Polish
     sources:
@@ -2039,6 +2057,7 @@ titles:
   - title: Ujarzmienie piorunów
     authors:
       - Egon Larsen
+    translators:
       - Stanislaw Domanski
     year: 1948
     language: Polish
@@ -2062,6 +2081,8 @@ titles:
   - title: Wybór kronik i pism publicystycznych
     authors:
       - Bolesław Prus
+    editors:
+      - Zygmunt Szweykowski
     year: 1948
     language: Polish
     sources:

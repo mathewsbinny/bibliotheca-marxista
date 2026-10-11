@@ -97,6 +97,7 @@ titles:
     subtitle: Nesalomljivi borac za stvar partije Lenjina-Staljina
     authors:
       - Feliks Kon
+    translators:
       - Lepe Nešič
       - Radomir Aleksić
     year: 1946
@@ -146,6 +147,7 @@ titles:
   - title: Openchajmovi
     authors:
       - Lion Feuchtwanger
+    translators:
       - Irma Lisičar
     year: 1946
     language: Russian
@@ -382,6 +384,7 @@ titles:
   - title: Hajnrih Hajne
     authors:
       - Franz Mehring
+    translators:
       - Irma Lisičar
     year: 1947
     language: Croatian
@@ -528,6 +531,7 @@ titles:
         url: https://d-nb.info/999238787
     verified: true
   - title: Pripovetke
+    original_title: Rasskazy i povesti
     series: Biblioteka svetskih klasika
     authors:
       - Anton Pavlovič Čechov
@@ -956,9 +960,11 @@ titles:
         url: https://www.sudoc.fr/154080349
     verified: true
   - title: Socijalistička organizacija društvenog rada
+    original_title: Socialističeskie principy organizacii obŝestvennogo truda v SSSR
     authors:
       - A. Ljapin
       - A. Љapin (А. Љапин)
+    translators:
       - Božidar Kićović
       - Bozhidar Kiћoviћ (Божидар Кићовић)
     year: 1948
@@ -1095,6 +1101,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991124206039705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Gospoda Golovljevi
+    original_title: Gospoda Golovlevy
     series: Biblioteka svetskih klasika
     authors:
       - Michail Evgrafovič Saltykov-Ščedrin
@@ -1396,7 +1403,8 @@ titles:
     verified: true
   - title: Karl Marks
     subtitle: Članci i sjećanja
-    authors:
+    authors: []
+    translators:
       - Nataša Tkalec
     year: 1950
     language: German
@@ -1532,6 +1540,7 @@ titles:
         url: https://www.sudoc.fr/095475095
     verified: true
   - title: Putovanje od Petrograda do Moskve
+    original_title: Putešestvie iz Peterburga v Moskvu
     series: Biblioteka svetskih klasika
     authors:
       - Aleksandr Nikolaevič Radiščev
@@ -1617,6 +1626,8 @@ titles:
     verified: true
   - title: Antologija narodnih pripovedaka i ostalih narodnih umotvorina
     authors: []
+    editors:
+      - Jaša M. Prodanović
     year: 1951
     language: Serbian
     sources:
@@ -2193,6 +2204,7 @@ titles:
         url: https://www.sudoc.fr/126790698
     verified: true
   - title: Operacije u južnoj Italiji
+    original_title: Fifth Army at the winter line
     series: Mala vojna biblioteka; 15
     authors:
       - Linara Toma
@@ -2214,6 +2226,7 @@ titles:
         url: https://lccn.loc.gov/55018699
     verified: true
   - title: Republikanska Spanija i SSSR
+    original_title: Yo fui un ministro de Stalin
     authors:
       - Jesus Hernandez
     year: 1953
@@ -2254,6 +2267,8 @@ titles:
     subtitle: Tourist Guide
     authors:
       - Ljubica D. . Trajkovic
+    translators:
+      - Borivoje Ljotic
     year: 1953
     language: English
     sources:
@@ -2512,8 +2527,10 @@ titles:
         url: https://d-nb.info/578090570
     verified: true
   - title: Laokoon ili o granicama slikarstva i poezije S uzgrednim objašnjenjima raznih tačaka stare istorija umetnosti
+    original_title: Laokoon
     authors:
       - Gotthold Ephraim Lessing
+    translators:
       - Svetislav Predic
     year: 1954
     language: Serbian
@@ -4161,6 +4178,7 @@ titles:
   - title: Razvoj slovenačkog nacionalnog pitanja
     authors:
       - Edvard Kardelj
+    translators:
       - Zvonko Tkalec
     year: 1957
     language: Not recorded
@@ -4246,8 +4264,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=490353630
     verified: true
   - title: Zakonik prirode
+    original_title: Code de la nature, ou le Véritable esprit de ses lois de tout temps négligé ou méconnu
     authors:
       - Étienne Gabriel Morelly
+    translators:
+      - Dušan Nedeljković
     year: 1957
     language: Serbian
     sources:
@@ -6541,6 +6562,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=451210042
     verified: true
   - title: Spisi o književnosti i umetnosti
+    original_title: Aus Literatur und Kunst
     series: Esej i književna kritika
     authors:
       - Johann Wolfgang von Goethe
@@ -6596,6 +6618,7 @@ titles:
     authors:
       - Friedrich Engels
       - Karl Marx
+    translators:
       - Svetomir Ristić
     year: 1959
     language: German
@@ -6819,6 +6842,8 @@ titles:
     subtitle: Peti kongres SSRN Makedonije
     authors:
       - Socijalistički savez radnog naroda Crne Gore. Kongres. 4th Titograd 1960
+    editors:
+      - Ljubica Stanimirović
     year: 1960
     series: Politička dokumentacija
     language: Croatian
@@ -6900,6 +6925,7 @@ titles:
     series: (Materijal za ideološko političko obrazovanje)
   - title: Država i revolucija
     subtitle: O državi
+    original_title: Gosudarstvo i revolucija [i.e. revoljucija
     authors:
       - Vladimir Ilʹič Lenin
     year: 1960
@@ -7791,8 +7817,10 @@ titles:
     verified: true
   - title: Sperans
     subtitle: Razvoj slovenačkog nacionalnog pitanja
+    original_title: Razvoj slovenskega narodnega vprašanja
     authors:
       - Edvard Kardelj
+    translators:
       - Zvonko Tkalec
     year: 1960
     language: Serbian
@@ -8193,6 +8221,8 @@ titles:
     subtitle: Tematski zbornik odabranih tekstova
     authors:
       - Rade Aleksić
+    editors:
+      - Aćim Mićović
     year: 1961
     series: Materijal za ideološko političko obrazovanje
     language: Croatian
@@ -9280,9 +9310,11 @@ titles:
     verified: true
   - title: Toma varalica
     subtitle: Roman
+    original_title: Thomas l'imposteur /La voix humaine
     series: Biblioteka Kultura; 20
     authors:
       - Jean Cocteau
+    translators:
       - Dragica Petrovic-Cekic
     year: 1962
     language: Serbian
@@ -9573,6 +9605,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991098317819705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Ljudska sudbina
+    original_title: Rasskazy
   - title: Prisutnosti
     subtitle: Kniževni kritiki i ogledi
     authors:
@@ -9741,6 +9774,7 @@ titles:
     verified: true
   - title: Tihi don
     subtitle: Roman
+    original_title: Tichij don
     series: Sabrana dela / Mihail Šolohov; 3-10
     authors:
       - Michail Šolochov
@@ -9774,6 +9808,7 @@ titles:
     verified: true
   - title: Uzorana ledina
     subtitle: Roman
+    original_title: Podnjataja celina
     series: Sabrana dela / Mihail Šolohov; 11-12
     authors:
       - Michail Šolochov
@@ -9853,8 +9888,9 @@ titles:
   - title: Alhemija reči
     authors:
       - Jan Parandowski
-      - Svetozar Nikolić
       - Stojan Subotin
+    translators:
+      - Svetozar Nikolić
     year: 1964
     language: Serbian
     sources:
@@ -10264,6 +10300,7 @@ titles:
     authors:
       - Friedrich Engels
       - Karl Marx
+    translators:
       - Svetomir Ristić
     year: 1964
     language: German
@@ -10309,6 +10346,8 @@ titles:
     authors:
       - Vuk Stefanović Karadžić
       - Vojislav Đurić
+    editors:
+      - Vojislav J. Ðurić
     year: 1964
     language: Serbian
     sources:
@@ -10394,10 +10433,14 @@ titles:
         url: https://search.worldcat.org/title/5071751
     verified: true
   - title: Misli
+    original_title: Orig.T.:] Pensees
     authors:
       - Blaise Pascal
+    editors:
       - Miodrag Ibrovac
+    translators:
       - Jelisaveta Ibrovac
+      - Miodrag Ibrovac
     year: 1965
     language: Not recorded
     sources:
@@ -10525,6 +10568,9 @@ titles:
     series: Biblioteka društveno-političkih studija
     authors:
       - Svetozar Marković
+    editors:
+      - Jovan Milićević
+      - Dimitrije Prodanović
     year: 1965
     language: Serbian
     sources:
@@ -10811,6 +10857,9 @@ titles:
   - title: Kragujevački oktobar
     authors:
       - Stevan Jakovljević
+    editors:
+      - Milan Ðoković
+      - Vera Popović
     year: 1966
     language: Serbian
     sources:
@@ -11341,9 +11390,13 @@ titles:
         url: https://search.worldcat.org/title/669982012
     verified: true
   - title: Filosofija kao stroga nauka
+    original_title: Philosophie als strenge Wissenschaft
     series: Mala
     authors:
       - Edmund Husserl
+    editors:
+      - Milan Damnjanović
+    translators:
       - Milan Damnjanovič
       - Dafina Damnjanović
     year: 1967
@@ -11360,6 +11413,7 @@ titles:
     subtitle: Govor održan na svečanoj sednici Sejma 21.7.1966
     authors:
       - Władysław Gomułka
+    translators:
       - Dobrila Markovič
     year: 1967
     language: Serbian
@@ -11423,9 +11477,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=316471224
     verified: true
   - title: O lepom
+    original_title: Über das Schöne
     authors:
       - Friedrich Schiller
       - Strahinja K. Kostić
+    translators:
       - Miljan Mojašević
     year: 1967
     language: German
@@ -11753,6 +11809,8 @@ titles:
   - title: Valjevo grad ustanika
     authors:
       - 'Autori: Jerotije Vujić'
+    editors:
+      - Jerotije Vujić
     year: 1967
     language: Serbian
     pages: 613
@@ -12600,9 +12658,12 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb35225144x
     verified: true
   - title: Estetika
+    original_title: Vorlesungen über die Ästhetik
     series: Filozofska biblioteka
     authors:
       - Georg Wilhelm Friedrich Hegel
+    translators:
+      - Nikola Popović
     year: 1970
     language: German
     sources:
@@ -12664,6 +12725,7 @@ titles:
     subtitle: Izbrane pesme
     authors:
       - Tadeusz Różewicz
+    translators:
       - Petar Vujičić
     year: 1970
     language: Serbian
@@ -13156,6 +13218,7 @@ titles:
         url: https://search.worldcat.org/title/23579660
     verified: true
   - title: The League of Communists of Yugoslavia in the System of Self-Management
+    original_title: SKJ i socijalističko samoupravljanje
     authors:
       - Stane Dolanc
     year: 1975
@@ -14914,6 +14977,8 @@ titles:
     subtitle: Poslovice - 8080
     authors:
       - Dragoljub Milićević
+    editors:
+      - Dragoljub N. Milićević
     year: 1989
     language: Serbian
     sources:
@@ -14995,7 +15060,8 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb34282415j
     verified: true
   - title: Constitution de la République de Serbie
-    authors:
+    authors: []
+    translators:
       - Novak Đ. Strugar
     year: 1990
     language: French
@@ -15077,6 +15143,9 @@ titles:
     subtitle: Od rođenja do smrti (1844-1921)
     authors:
       - Milenko M. Vukićević
+    editors:
+      - Milorad Radević
+      - Milan Stevčić
     year: 1990
     series: Biblioteka fototipskih izdanja
     language: Serbian
@@ -15515,6 +15584,8 @@ titles:
   - title: Političke uspomene
     authors:
       - Dragoljub Yovanovitch
+    editors:
+      - Slobodan Gavrilović
     language: Serbian
     sources:
       - title: BnF catalogue record cb420905705

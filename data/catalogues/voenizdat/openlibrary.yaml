@@ -171,12 +171,14 @@ titles:
         url: https://www.sudoc.fr/189693932
     verified: true
   - title: Pravda O Vojne 1914-1918 Gg
+    original_title: The Real war, 1914-1918
     authors:
       - Basil Henry Liddell Hart
-      - O. Trièlʹ
-      - O. Triel (О. Триэль)
       - M. M. Land
       - M. M. Land (М. М. Ланд)
+    translators:
+      - O. Trièlʹ
+      - O. Triel (О. Триэль)
     year: 1930
     language: Russian, English
     sources:
@@ -240,6 +242,7 @@ titles:
         url: https://www.sudoc.fr/291542182
     verified: true
   - title: O vojne
+    original_title: Vom Kriege
     authors:
       - Carl von Clausewitz
       - Karl Fon Klauzevits (Карл фон Клаузевиц)
@@ -433,6 +436,7 @@ titles:
         url: https://www.sudoc.fr/192593374
     verified: true
   - title: O vojne
+    original_title: Vom Kriege
     authors:
       - Carl von Clausewitz
       - Karl Fon Klauzevits (Карл фон Клаузевиц)
@@ -538,6 +542,7 @@ titles:
     verified: true
   - title: Zaveŝanie Šliffena
     subtitle: Operativnye issledovaniâ po istorii mirovoj vojny
+    original_title: Das Testament des grafen Schlieffen
     authors:
       - Wilhelm Groener
       - Vilgelm Grener (Вильгельм Гренер)
@@ -940,6 +945,7 @@ titles:
         url: https://search.worldcat.org/title/16726217
     verified: true
   - title: Pravda ob iutlandskom boe 31 maia 1916 g
+    original_title: Truth about Jutland
     authors:
       - John E. T. Harper
     year: 1938
@@ -1100,6 +1106,7 @@ titles:
         url: https://search.worldcat.org/title/57671566
     verified: true
   - title: Uroki graždanskoj vojny v Ispanii
+    original_title: Les leçons militaires de la guerre civile en Espagne
     authors:
       - Helmut Klotz
       - Gelmut Klotts (Гельмут Клотц)
@@ -2699,6 +2706,8 @@ titles:
     subtitle: Literaturnaia obrabotka Evgeniia Gerasimova
     authors:
       - G. I. Penezhko
+    editors:
+      - E. (Evgeniĭ) Gerasimov
     year: 1947
     language: Russian
     sources:
@@ -3136,6 +3145,7 @@ titles:
   - title: Zlata Praga
     authors:
       - Oles' Gončar
+    translators:
       - Lev Šapiro
     year: 1949
     language: Russian
@@ -3596,6 +3606,7 @@ titles:
   - title: Soldat iz Kazachstana
     authors:
       - Ġabit M. Müsrepov
+    translators:
       - Stepan Pavlovič Zlobin
     year: 1951
     language: Russian
@@ -4041,6 +4052,7 @@ titles:
     authors:
       - Gumer Baširovič Baširov
       - Gumer Bashirovich Bashirov (Гумер Баширович Баширов)
+    translators:
       - R. Faizova
       - R. Faizova (Р. Фаизова)
     year: 1953
@@ -4304,6 +4316,7 @@ titles:
     subtitle: Roman
     authors:
       - Wanda Wasilewska
+    translators:
       - Elena F. Usievič
     year: 1953
     language: Russian
@@ -4347,6 +4360,7 @@ titles:
   - title: Truby igrajut zarju
     authors:
       - Vitalij Petl'ovannyj
+    translators:
       - E. Dyrin
     year: 1953
     language: Russian
@@ -4471,9 +4485,11 @@ titles:
         url: https://www.sudoc.fr/197825125
     verified: true
   - title: Burnyj 1905 god
+    original_title: Bouřlivý rok
     authors:
       - Antonín Zápotocký
       - S. A. Šmeral'
+    translators:
       - N. A. Mironova
     year: 1954
     language: Russian
@@ -5091,6 +5107,7 @@ titles:
     subtitle: Povest'
     authors:
       - Janusz Przymanowski
+    translators:
       - Ja. O. Nemčinskij
     year: 1955
     language: Russian
@@ -5229,6 +5246,7 @@ titles:
     series: Sovetskij voennyj roman
     authors:
       - Olesʹ Hončar
+    translators:
       - Lev Semenovič Šapiro
     year: 1955
     language: Russian
@@ -5424,6 +5442,8 @@ titles:
     series: Sovetskij voennyj roman
     authors:
       - Natan S. Rybak
+    translators:
+      - Boris Turganov
     year: 1956
     language: Russian
     sources:
@@ -5787,6 +5807,7 @@ titles:
     subtitle: Putevodnyj dnevnik
     authors:
       - Wojciech Żukrowski
+    translators:
       - Ja. O. Nemčinskij
     year: 1957
     language: Russian
@@ -6007,9 +6028,11 @@ titles:
   - title: Narodno-osvoboditelʹnaâ armiâ Kitaâ v period vojny protiv âponskih zahvatčikov
     subtitle: Boevye dejstviâ 8-j i novoj 4-j armii
     authors:
+      - D. M. Pospelov
+    translators:
       - S. S. Lozin
       - S. S. Lozin (С.С. Лозин)
-      - D. M. Pospelov
+      - D. M Pospelov
       - D. M. Pospelov (Д.М Поспелов)
     year: 1957
     language: Russian
@@ -6294,6 +6317,7 @@ titles:
     authors:
       - Wojciech Żukrowski
       - Janusz Przymanowski
+    translators:
       - Ja. O. Nemčinskij
     year: 1957
     language: Russian
@@ -6572,8 +6596,10 @@ titles:
     verified: true
   - title: Bojcy idut nočami
     subtitle: Povest'
+    original_title: Muži jdou v tmě
     authors:
       - Jiří Marek
+    translators:
       - Jurij Moločkovskij
     year: 1958
     language: Russian
@@ -7125,9 +7151,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1118187245
     verified: true
   - title: Problemy razvitija voennogo iskusstva
+    original_title: Problemy rozwoju sztuki wojennej
     authors:
       - Jan Drzewiecki
       - Tadeusz Pióro
+    translators:
       - Ja. O. Nemčinskij
     year: 1958
     language: Russian
@@ -7505,7 +7533,8 @@ titles:
         url: https://www.sudoc.fr/224767437
     verified: true
   - title: Besčelovečnostʹ kak sistema
-    authors:
+    authors: []
+    translators:
       - V. G. Černâvskij
       - V. G. Cherniavskii (В. Г. Чернявский)
       - A. M. Lidvanskij
@@ -8048,8 +8077,10 @@ titles:
     verified: true
   - title: Ošibka stoit žizni
     subtitle: Povest'
+    original_title: Našijat vzvod
     authors:
       - Dragomir Asenov
+    translators:
       - V. Legentov
     year: 1959
     language: Russian
@@ -8255,11 +8286,13 @@ titles:
     verified: true
   - title: Sekretnye missii
     subtitle: Zapiski oficera razvedki+
+    original_title: 'Secret missions : the story of an intelligence officer'
     authors:
       - Ellis M. Zacharias
+      - Ministerstvo oborony SSSR
+    translators:
       - Z. V. Litvin
       - L. S. Fadeeva
-      - Ministerstvo oborony SSSR
     year: 1959
     language: Russian
     sources:
@@ -8314,8 +8347,9 @@ titles:
   - title: Soldaty bez formy
     authors:
       - Džovanni Peše
-      - I. Kulikov
       - G. D. Bogemskij
+    translators:
+      - I. Kulikov
     year: 1959
     language: Russian
     sources:
@@ -8477,6 +8511,8 @@ titles:
   - title: Voprosy komsomolʹsloĭ raboty v Sovetskoĭ armii i flote
     authors:
       - Vsesoiuznyĭ leninskiĭ kommunisticheskiĭ soiuz molodezhi. TSentralʹnyĭ komitet
+    editors:
+      - V. F. Bogatyrev
     year: 1959
     series: Bibliotechka komsomolskogo aktivista
     language: Russian
@@ -9063,6 +9099,7 @@ titles:
     series: Kriegserinnerungen
     authors:
       - Arsenij Grigorʹevič Golovko
+    translators:
       - W. Wuppermann
     year: 1960
     language: German
@@ -9071,8 +9108,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1908403675
     verified: true
   - title: Mjatežnaja sovest'
+    original_title: Gewissen in Aufruhr
     authors:
       - Rudolf Petershagen
+    translators:
       - L. F. Rudnaja
     year: 1960
     language: Russian
@@ -9468,6 +9507,7 @@ titles:
     authors:
       - J. Macijauskas
       - Ju Butenas
+    translators:
       - V. L'vov
     year: 1960
     language: Russian
@@ -9635,6 +9675,7 @@ titles:
     subtitle: Povest'
     authors:
       - Ivan Hrebenjuk
+    translators:
       - Tat'jana Stach
     year: 1960
     language: Russian
@@ -10051,8 +10092,10 @@ titles:
         url: https://search.worldcat.org/title/891257129
     verified: true
   - title: Antiamerikancy
+    original_title: The Un-Americans
     authors:
       - Alvah Cecil Bessie
+    translators:
       - A. V. Gorskij
     year: 1961
     language: Russian
@@ -10072,8 +10115,9 @@ titles:
     verified: true
   - title: Boevye dejstva narodnogo vojska pol'skogo 1943-1945 gg
     authors:
-      - V. I. Sokolovskij
       - Stanisław Popławski
+    translators:
+      - V. I. Sokolovskij
     year: 1961
     language: Russian
     sources:
@@ -10215,8 +10259,10 @@ titles:
         url: https://search.worldcat.org/title/34898559
     verified: true
   - title: General Vladimir Zaimov
+    original_title: General Vladimir Zaimov
     authors:
       - Genčo Popcvjatkov
+    translators:
       - G. A. Nečaev
     year: 1961
     language: Russian
@@ -10692,8 +10738,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/103090698
     verified: true
   - title: Noč' bez milosti
+    original_title: Nacht ohne Gnade
     authors:
       - Kurt Sandner
+    translators:
       - V. G. Černjavskij
     year: 1961
     language: Russian
@@ -10746,6 +10794,7 @@ titles:
         url: https://www.sudoc.fr/250012618
     verified: true
   - title: Oni byli ne odni
+    original_title: Zapiski na politikomisarja
     authors:
       - Ivan Zurlov
     year: 1961
@@ -10945,8 +10994,10 @@ titles:
     verified: true
   - title: Posle buri
     subtitle: Perevod s vengerskogo
+    original_title: Vihár után
     authors:
       - Andraš Berkeši
+    translators:
       - O. V. Gromov
     year: 1961
     language: Russian
@@ -11891,6 +11942,7 @@ titles:
   - title: '"Varšava" - kurs na Berlin'
     authors:
       - Janusz Meissner
+    translators:
       - I. Ètkalo
     year: 1962
     language: Russian
@@ -11977,10 +12029,12 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA32557831
     verified: false
   - title: Andaluzskij romans
+    original_title: Andaluská romance
     authors:
       - Milan Smolik
-      - J. Dedov
       - A. N. Ratnikov
+    translators:
+      - J. Dedov
     year: 1962
     language: Russian
     sources:
@@ -12302,6 +12356,7 @@ titles:
     authors:
       - Kasym Kajsenov
       - Kasym Kaisenov (Касым Кайсенов)
+    translators:
       - P. Âkušev
       - P. Iakushev (П. Якушев)
     year: 1962
@@ -13211,6 +13266,7 @@ titles:
     series: Biblioteka soldata i matrosa
     authors:
       - Vitalij A. Logvinenko
+    translators:
       - A. Belanovskij
     year: 1962
     language: Russian
@@ -13275,6 +13331,7 @@ titles:
     subtitle: Povest'
     authors:
       - Aurel Lambrino
+    translators:
       - Ė. M. Subbotina
     year: 1962
     language: Russian
@@ -14145,6 +14202,7 @@ titles:
     authors:
       - Petr Dragolûbov
       - Petr Dragoliubov (Петр Драголюбов)
+    translators:
       - N. A. Satarov (Н. А. Сатаров)
     year: 1963
     language: Russian
@@ -14448,8 +14506,9 @@ titles:
   - title: Lûdi, fakty, razmyšleniâ
     authors:
       - Walery Namiotkiewicz
-      - I. S. Borisov
       - Bolesław Rostropowicz
+    translators:
+      - I. S. Borisov
     year: 1963
     language: Russian
     sources:
@@ -14719,10 +14778,12 @@ titles:
         url: https://search.worldcat.org/title/9822320
     verified: true
   - title: Nočnoj boj
+    original_title: Boj v noci
     authors:
       - Břetislav Křivský
-      - P. V. Degtjarev
       - Vasilij Ja Petrenko
+    translators:
+      - P. V. Degtjarev
     year: 1963
     language: Russian
     sources:
@@ -14732,6 +14793,7 @@ titles:
   - title: O čeloveke, kotoryj ne klanâlsâ pulâm
     authors:
       - Janina Broniewska
+    translators:
       - Lev Grigor'evič Kaškurevič
       - V. I. Kiselev
     year: 1963
@@ -14868,8 +14930,10 @@ titles:
         url: https://search.worldcat.org/title/947756393
     verified: true
   - title: Ot Buzuluka do Pragi
+    original_title: Z Buzuluku do Prahy
     authors:
       - Ludvík Svoboda
+    translators:
       - S. I. Gračev
     year: 1963
     language: Russian
@@ -14929,8 +14993,10 @@ titles:
         url: https://openlibrary.org/books/OL21713301M
     verified: true
   - title: Po tu storonu Venskogo lesa
+    original_title: Pînǎ dincolo de pǎdurea Vienezǎ
     authors:
       - Traian Uba
+    translators:
       - B. A. Andrianov
     year: 1963
     language: Russian
@@ -15016,6 +15082,7 @@ titles:
     authors:
       - Nine Opačič
       - Nine Opachich (Нине Опачич)
+    translators:
       - N. Vaganova
       - N. Vaganova (Н. Ваганова)
     year: 1963
@@ -15143,9 +15210,11 @@ titles:
         url: https://search.worldcat.org/title/875582615
     verified: true
   - title: Râdom s Frunze
+    original_title: Frunze testörei
     authors:
       - Jenő Györkei
       - Ene Derkei (Ене Дьеркеи)
+    translators:
       - Û. Šimonin
       - I. Shimonin (Ю. Шимонин)
     year: 1963
@@ -16112,8 +16181,10 @@ titles:
     verified: true
   - title: Frontovoj dnevnik
     subtitle: Povest'
+    original_title: Jurnal de front
     authors:
       - Haralamb Zincă
+    translators:
       - I. Ogorodnikova
     year: 1964
     language: Russian
@@ -16745,6 +16816,9 @@ titles:
     subtitle: Izbrannye rasskazy i povestʹ (1943-1963)
     authors:
       - Boris Zubavin
+    translators:
+      - Boris Mihajlovič Zubavin
+      - Boris Mikhailovich Zubavin (Борис Михайлович Зубавин)
     year: 1964
     language: Russian
     pages: 357
@@ -16759,6 +16833,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1117570924
     verified: true
   - title: Osnovy infrakrasnoj techniki
+    original_title: Elements of infrared technology
     authors:
       - Paul W. Kruse
       - Laurence D. MacGlauchlin
@@ -17306,6 +17381,7 @@ titles:
     authors:
       - Vladimir Leonidovič Kašin
       - Vladimir Leonidovich Kashin (Владимир Леонидович Кашин)
+    translators:
       - Ivan Fotievič Stadnûk
       - Ivan Fotievich Stadniuk (Иван Фотиевич Стаднюк)
     year: 1964
@@ -17794,7 +17870,8 @@ titles:
     verified: true
   - title: Utrennjaja zvezda
     subtitle: Sbornik rasskazov
-    authors:
+    authors: []
+    translators:
       - B. A. Andrianov
     year: 1964
     language: Russian
@@ -18028,8 +18105,10 @@ titles:
     verified: true
   - title: Vulkan Subi
     subtitle: Roman
+    original_title: 'Subi: the volcano'
     authors:
       - Burt Cole
+    translators:
       - P. N. Viduėckij
     year: 1964
     language: Russian
@@ -18039,8 +18118,10 @@ titles:
     verified: true
   - title: Vybor
     subtitle: Povest'
+    original_title: Auf der richtigen Seite
     authors:
       - Gustav Jabs
+    translators:
       - Aleksandr P. Artemov
     year: 1964
     language: Russian
@@ -18073,6 +18154,7 @@ titles:
     series: Biblioteka soldata i matrosa
     authors:
       - Ivan Bagmut
+    translators:
       - Izida Novosel'ceva
     year: 1964
     language: Russian
@@ -18119,8 +18201,10 @@ titles:
     verified: true
   - title: Zvezdopad
     subtitle: Roman
+    original_title: Csillaghullás
     authors:
       - Lajos Szilvási
+    translators:
       - J. Ždanov
     year: 1964
     language: Russian
@@ -18219,7 +18303,8 @@ titles:
     verified: true
   - title: Aprel'skij veter
     subtitle: Sbornik rasskazov i vospominanij; perevod s vengerskogo
-    authors:
+    authors: []
+    translators:
       - K. Ivanov
     year: 1965
     language: Russian
@@ -18229,7 +18314,8 @@ titles:
     verified: true
   - title: Aprelʹskij veter
     subtitle: Sbornik rasskazov i vospominanij
-    authors:
+    authors: []
+    translators:
       - K. Ivanov
       - K. Ivanov (К. Иванов)
     year: 1965
@@ -18243,6 +18329,7 @@ titles:
     authors:
       - Aurel Mihale
       - Aurel Mikhale (Аурел Михале)
+    translators:
       - B. Andriânov
       - B. Andriianov (Б. Андриянов)
       - E. D. Karpeŝenko
@@ -18762,6 +18849,7 @@ titles:
     verified: true
   - title: Konec
     subtitle: Povestʹ
+    original_title: Kres
     authors:
       - Jerzy Przeździecki
       - V. Golovskij
@@ -19178,6 +19266,7 @@ titles:
     verified: true
   - title: Nevidimoe pravitelʹstvo
     subtitle: Sokrashchennyĭ perevod s angliĭskogo
+    original_title: The invisible government
     authors:
       - David Wise
     year: 1965
@@ -19443,9 +19532,11 @@ titles:
     verified: true
   - title: Podvodniki
     subtitle: Vospominaniâ
+    original_title: Подводничарите
     authors:
       - Kiril Vidinskij
       - Kiril Vidinskii (Кирил Видинский)
+    translators:
       - N. S. Satarov
       - N. S. Satarov (Н. С. Сатаров)
     year: 1965
@@ -19690,8 +19781,10 @@ titles:
     verified: true
   - title: Rodopskie partizany
     subtitle: Vospominanija; perevod s bolgarskogo
+    original_title: Za da ima život
     authors:
       - Atanas Semerdžiev
+    translators:
       - M. G. Artjuchov
     year: 1965
     language: Russian
@@ -19827,6 +19920,7 @@ titles:
     subtitle: Roman
     authors:
       - Muso Tošmuḥammad-ŭgli Ojbek
+    translators:
       - Boris S. Parmuzin
     year: 1965
     language: Russian
@@ -19863,6 +19957,8 @@ titles:
     subtitle: Sbornik
     authors:
       - Semen Borzunov
+    editors:
+      - Semen Mihajlovič Borzunov
     year: 1965
     language: Russian
     pages: 530
@@ -20036,6 +20132,7 @@ titles:
     series: Sovetskij voennyj roman
     authors:
       - Jakub Kolas
+    translators:
       - Valerij Ja Tarsis
     year: 1965
     language: Russian
@@ -20350,8 +20447,10 @@ titles:
     verified: true
   - title: Vtoraja sem'ja
     subtitle: Povest'
+    original_title: Des Soldaten Gleichschritt
     authors:
       - Gustav Jabs
+    translators:
       - J. Sazonov
     year: 1965
     language: Russian
@@ -20505,6 +20604,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=184863961
     verified: true
   - title: Aspekty strategii
+    original_title: The spectrum of strategy
     authors:
       - Edgard James Kingston-MacCloughry
       - Ė. Dž Kingston-Makklori
@@ -20609,6 +20709,7 @@ titles:
     authors:
       - Ûrij Zbanackij
       - Iurii Zbanatskii (Юрий Збанацкий)
+    translators:
       - Boris Zubavin
       - Boris Zubavin (Борис Зубавин)
     year: 1966
@@ -20783,9 +20884,11 @@ titles:
     verified: true
   - title: Jechu
     subtitle: (Sokraščennyj perevod s anglijskogo)
+    original_title: The Yahoos
     authors:
       - Mike Newberry
       - A. M. Ševčenko
+    translators:
       - Tom K. Belaščenko
     year: 1966
     language: Russian
@@ -20898,8 +21001,10 @@ titles:
     verified: true
   - title: Ljubov soldata Freda
     subtitle: Povest'; perevod s nemeckogo
+    original_title: Die Liebe des Soldaten Fred
     authors:
       - Heinz Senkbeil
+    translators:
       - L. Nudler
     year: 1966
     language: Russian
@@ -21155,8 +21260,10 @@ titles:
     verified: true
   - title: Otel' "Park"
     subtitle: Povest'
+    original_title: Chotel-park
     authors:
       - Aleksandar Vojinović
+    translators:
       - A. Romanenko
     year: 1966
     language: Russian
@@ -21169,6 +21276,7 @@ titles:
     authors:
       - Aleksandr Voinovič
       - Aleksandr Voinovich (Александр Воинович)
+    translators:
       - A. Romanenko
       - A. Romanenko (А. Романенко)
     year: 1966
@@ -21184,6 +21292,7 @@ titles:
       - Pavlina Fedoseevna Gončarenko
       - Pavlina Fedoseevna Goncharenko (Павлина Федосеевна Гончаренко)
       - Iakov Froimovich Shnaider (Яков Фроимович Шнайдер)
+    translators:
       - I. Stiškovskaâ
       - E. Stishkovskaia (И. Стишковская)
     year: 1966
@@ -21364,11 +21473,13 @@ titles:
         url: https://www.sudoc.fr/295586311
     verified: true
   - title: Proigrannye sraženija
+    original_title: Verratene Schlachten
     authors:
       - Hans Frießner
+      - M. M. Minasjan
+    translators:
       - I. M. Glagolev
       - V. Krivuli
-      - M. M. Minasjan
     year: 1966
     language: Russian
     sources:
@@ -22145,6 +22256,7 @@ titles:
     authors:
       - Gela Volanska
       - Gela Volanska (Гела Воланска)
+    translators:
       - L. Lerer
       - L. Lerer (Л. Лерер)
       - L. Vasilʹeva
@@ -22222,6 +22334,7 @@ titles:
     subtitle: Povest'
     authors:
       - Pavlo Oroveckyj
+    translators:
       - Ivan Karabutenko
     year: 1966
     language: Russian
@@ -22246,7 +22359,8 @@ titles:
     verified: true
   - title: Zolotoj most
     subtitle: Sbornik povestej i rasskazov
-    authors:
+    authors: []
+    translators:
       - B. A. Andrianov
     year: 1966
     language: Russian
@@ -22520,10 +22634,12 @@ titles:
         url: https://www.sudoc.fr/23562330X
     verified: true
   - title: Četyre dnja i četyre noči
+    original_title: Štyri dni a štyri noci
     authors:
       - Ján Korenko
-      - N. Aroseva
       - Jan Korenko
+    translators:
+      - N. Aroseva
     year: 1967
     language: Russian
     sources:
@@ -23027,6 +23143,8 @@ titles:
     subtitle: '1941'
     authors:
       - D. V. Pavlov
+    editors:
+      - V. V. Vasil'eva
     year: 1967
     edition: '[Izd. 3-e, dop.]'
     language: Russian
@@ -23297,8 +23415,10 @@ titles:
     verified: true
   - title: Okružennyj gorod
     subtitle: Roman
+    original_title: Oraşul încercuit
     authors:
       - Petru Vintilă
+    translators:
       - B. A. Andrianov
     year: 1967
     language: Russian
@@ -23590,8 +23710,10 @@ titles:
     verified: true
   - title: Poezda prochodjat mimo
     subtitle: Roman
+    original_title: Der Zug hält nicht im Wartesaal
     authors:
       - Klaus Poche
+    translators:
       - A. Averbach
     year: 1967
     language: Russian
@@ -23959,8 +24081,10 @@ titles:
         url: https://search.worldcat.org/title/77317850
     verified: true
   - title: U partizan Južnogo V'etnama
+    original_title: Dans les maquis "Vietcong"
     authors:
       - Madeleine Riffaud
+    translators:
       - N. S. Mironič
     year: 1967
     language: Russian
@@ -24056,6 +24180,7 @@ titles:
     authors:
       - Vitalij Andreevič Logvinenko
       - Vitalii Andreevich Logvinenko (Виталий Андреевич Логвиненко)
+    translators:
       - I. Stiškovskoj
       - E. Stishkovskoi (И. Стишковской)
     year: 1967
@@ -24278,6 +24403,9 @@ titles:
     subtitle: '[Sbornik]'
     authors:
       - V. I. Malinin
+    editors:
+      - V. Grinevskiĭ
+      - A. Khorev
     year: 1968
     language: Russian
     pages: 125
@@ -24574,7 +24702,8 @@ titles:
         url: https://lccn.loc.gov/78351764
     verified: true
   - title: Burnyj putʹ
-    authors:
+    authors: []
+    translators:
       - Ferenc Münnich
       - Ferents Miunnikh (Ференц Мюнних)
     year: 1968
@@ -25031,6 +25160,7 @@ titles:
     subtitle: Povest'
     authors:
       - Petro V. Hurynenko
+    translators:
       - Izida Novosel'ceva
     year: 1968
     language: Russian
@@ -25503,6 +25633,7 @@ titles:
     subtitle: Roman
     authors:
       - Mychajlo Stelʹmach
+    translators:
       - Vl Rosselʹs
     year: 1968
     language: Russian
@@ -25669,6 +25800,9 @@ titles:
   - title: Marksizm-leninizm o voĭne i armii
     authors:
       - S. A. Tiushkevich
+    editors:
+      - N. IA Sushko
+      - Dziuba
     year: 1968
     edition: 5-e pererabot. i dop. izd
     language: Russian
@@ -26027,6 +26161,7 @@ titles:
     authors:
       - Ivan Holovčenko
       - Aleksej G. Musienko
+    translators:
       - Izida Novosel'ceva
     year: 1968
     language: Russian
@@ -26036,6 +26171,7 @@ titles:
     verified: true
   - title: Nochnoĭ ėshelon
     subtitle: Voen. povesti
+    original_title: Cronică de război
     authors:
       - Aurel Mihale
     year: 1968
@@ -26052,6 +26188,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=489658458
     verified: true
   - title: Nochnye mstiteli
+    original_title: Noční akce
     authors:
       - František Cvanda
       - T. Beloščenko
@@ -26063,8 +26200,10 @@ titles:
     verified: true
   - title: Nočnoj ėšelon
     subtitle: Voennye povesti
+    original_title: Cronică de război
     authors:
       - Aurel Mihale
+    translators:
       - B. A. Andrianov
     year: 1968
     language: Russian
@@ -26156,8 +26295,10 @@ titles:
     verified: true
   - title: Odičavšie gody
     subtitle: Roman
+    original_title: Holtak fogságában
     authors:
       - Géza Molnár
+    translators:
       - V. Gardov
     year: 1968
     language: Russian
@@ -27505,6 +27646,8 @@ titles:
     subtitle: Poėma [o Geroe Sovetskogo Soiuza A. Abdulmazhidove] i stikhi
     authors:
       - Fazu Alieva
+    translators:
+      - Vladimir Turkin
     year: 1968
     language: Russian
     pages: 87
@@ -28579,8 +28722,10 @@ titles:
     verified: true
   - title: Iscelenie v Elabuge
     subtitle: Memuary
+    original_title: Genesung in Jelabuga
     authors:
       - Otto Rühle
+    translators:
       - V. Artemenko
     year: 1969
     language: Russian
@@ -28687,6 +28832,8 @@ titles:
   - title: K beregam IAntarnogo moria
     subtitle: Vospominaniia
     authors: []
+    editors:
+      - V. S. Lokshin
     year: 1969
     language: Russian
     pages: 468
@@ -28792,6 +28939,8 @@ titles:
     verified: true
   - title: Karl Marks i voennaia istoriia
     authors: []
+    editors:
+      - M. Kh Khalashnik
     year: 1969
     language: Russian
     pages: 240
@@ -28949,6 +29098,8 @@ titles:
     subtitle: Dokumenty 1917-1968
     authors:
       - K. U. Chernenko
+    editors:
+      - N. I. Savinkin
     year: 1969
     language: Russian
     pages: 471
@@ -29196,6 +29347,7 @@ titles:
     authors:
       - Vasilij Pavlovič Kozačenko
       - Vasilii Pavlovich Kozachenko (Василий Павлович Козаченко)
+    translators:
       - È. Hajtina
       - A. Khaitina (Э. Хайтина)
     year: 1969
@@ -29209,6 +29361,7 @@ titles:
     series: Biblioteka junogo patriota
     authors:
       - Vasylʹ Kozačenko
+    translators:
       - Emilija Chajtina
     year: 1969
     language: Russian
@@ -29535,8 +29688,11 @@ titles:
     verified: true
   - title: Opalennye grozami
     subtitle: Roman
+    original_title: Obpaleni gromamy
     authors:
       - Liubomyr Dmyterko
+    translators:
+      - Ivan Karabutenko
     year: 1969
     language: Russian
     pages: 158
@@ -29563,6 +29719,7 @@ titles:
         url: https://www.sudoc.fr/273826344
     verified: true
   - title: Oružie tret'ej mirovoj vojny
+    original_title: The weapons of World War III
     authors:
       - John S. Tompkins
     year: 1969
@@ -29664,8 +29821,10 @@ titles:
     pages: 434
     edition: Izd. 2-e, ispr. i dop
   - title: Otel' "Ambasator"
+    original_title: Hotel "Ambasator"
     authors:
       - Maria Arsene
+    translators:
       - E. D. Karpeščenko
     year: 1969
     language: Russian
@@ -29753,8 +29912,10 @@ titles:
     verified: true
   - title: Pochod na zapad
     subtitle: Vospominanija
+    original_title: Pochodt̋ na zapad
     authors:
       - Ščerju Atanasov
+    translators:
       - M. G. Artjuchov
     year: 1969
     language: Russian
@@ -29933,6 +30094,7 @@ titles:
   - title: Povest' o krylatych druz'jach
     authors:
       - Vladimir L. Sadaj
+    translators:
       - Gennadij A. Semenichin
     year: 1969
     language: Russian
@@ -30241,10 +30403,12 @@ titles:
     verified: true
   - title: Sentjabr'skie noči
     subtitle: Rasskazy
+    original_title: Konjat na komandira
     authors:
       - Stojan C. Daskalov
-      - V. N. Satarov
       - A. N. Ratnikov
+    translators:
+      - V. N. Satarov
     year: 1969
     language: Russian
     sources:
@@ -30256,6 +30420,7 @@ titles:
     authors:
       - Pavlo Arhipovič Zagrebelʹnij
       - Pavlo Arkhipovich Zagrebelnii (Павло Архипович Загребельний)
+    translators:
       - Izida Novoselʹskaâ
       - Izida Novoselskaia (Изида Новосельская)
     year: 1969
@@ -30855,6 +31020,7 @@ titles:
     series: O Rodine, podvigach, česti
     authors:
       - Ivan Antonavič Brylʹ
+    translators:
       - A. Ostrovskij
     year: 1969
     language: Russian
@@ -31383,8 +31549,10 @@ titles:
     verified: true
   - title: Boj načalsja
     subtitle: Slučaj iz moej žizni
+    original_title: Bojat nastana
     authors:
       - Stojo Čočoolu
+    translators:
       - E. I. Gromuškin
     year: 1970
     language: Russian
@@ -32189,9 +32357,12 @@ titles:
     verified: true
   - title: Krasnye gusary
     subtitle: Memuary
+    original_title: Vörössapkás lovasok
     authors:
       - Rudolʹf Garašin
       - Rudolf Garashin (Рудольф Гарашин)
+    translators:
+      - P. Gardov
     year: 1970
     language: Russian
     sources:
@@ -32364,6 +32535,7 @@ titles:
     subtitle: Roman
     authors:
       - Šaraf R. Rašidov
+    translators:
       - Jurij Karasev
     year: 1970
     language: Russian
@@ -32703,6 +32875,7 @@ titles:
     authors:
       - Ûrij Zbanackij
       - Iurii Zbanatskii (Юрий Збанацкий)
+    translators:
       - Boris Zubavin
       - Boris Zubavin (Борис Зубавин)
       - A. Tonkelʹ
@@ -32768,8 +32941,10 @@ titles:
         url: https://www.sudoc.fr/233286551
     verified: true
   - title: Odin iz pervych
+    original_title: Signum laudis
     authors:
       - Dániel Görgényi
+    translators:
       - A. Logaj
     year: 1970
     language: Russian
@@ -32778,9 +32953,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1123625719
     verified: true
   - title: Odin iz pervyh
+    original_title: Signum laudis. Egy katona emlékiratai
     authors:
       - Daniél Görgény
       - Daniel Gergeni (Даниэль Гёргени)
+    translators:
       - A. Logaj
       - A. Logai (А. Логай)
     year: 1970
@@ -33022,9 +33199,11 @@ titles:
     verified: true
   - title: Pobedit' i žit'
     subtitle: Perevod s francuzskogo
+    original_title: Les bataillons de la jeunesse
     authors:
       - Albert Ouzoulias
       - A. M. Ševčenko
+    translators:
       - G. Vandyšev
     year: 1970
     language: Russian
@@ -33257,10 +33436,11 @@ titles:
     authors:
       - Vali Gafurov
       - Vali Gafurov (Вали Гафуров)
-      - Oleg Sidelʹnikov
-      - Oleg Sidelnikov (Олег Сидельников)
       - G. A. Sotskov
       - G. A. Sotskov (Г. А. Сотсков)
+    translators:
+      - Oleg Sidelʹnikov
+      - Oleg Sidelnikov (Олег Сидельников)
     year: 1970
     language: Russian
     sources:
@@ -33393,6 +33573,8 @@ titles:
   - title: Šahmatnye batalii
     subtitle: Sbornik
     authors: []
+    editors:
+      - Ilʹâ Abramovič Kan
     year: 1970
     language: Russian
     sources:
@@ -33510,6 +33692,7 @@ titles:
     authors:
       - Mihajlo Renovčevič
       - Mikhailo Renovchevich (Михайло Реновчевич)
+    translators:
       - Veniamin Ivanovič Zavʹâlov
       - Veniamin Ivanovich Zavialov (Вениамин Иванович Завьялов)
     year: 1970
@@ -33742,6 +33925,7 @@ titles:
     series: Sovetskij voennyj roman
     authors:
       - Mikola Tkačev
+    translators:
       - P. Kobzarevskij
     year: 1970
     language: Russian
@@ -33779,6 +33963,8 @@ titles:
     subtitle: Kratkaia khronika
     authors:
       - S. M. Kliatskin
+    editors:
+      - A. M. Sinitsyn
     year: 1970
     edition: Izd. 2-e, ispr. i dop.]
     language: Russian
@@ -33895,6 +34081,8 @@ titles:
     verified: true
   - title: Tanki i tankovye voǐska (romanized form)
     authors: []
+    editors:
+      - Amazasp Khachaturovich Babadzhanian
     year: 1970
     language: Russian
     pages: 336
@@ -34206,8 +34394,10 @@ titles:
     verified: true
   - title: V volč'em logove
     subtitle: Vospominanija
+    original_title: V legoviščeto na vl̋cite
     authors:
       - Petr̋ Iliev
+    translators:
       - Irina Evgen'evna Saburova
     year: 1970
     language: Russian
@@ -35244,6 +35434,8 @@ titles:
   - title: Bolʹshaia lozhʹ o voĭne
     subtitle: Kritika noveĭsheĭ burzhuaznoĭ istoriografii vtoroĭ mirovoĭ voĭny
     authors: []
+    editors:
+      - Vasiliĭ Anatolʹevich Sekistov
     year: 1971
     language: Russian
     pages: 368
@@ -35444,6 +35636,7 @@ titles:
     subtitle: Roman v dvuch knigach
     authors:
       - Hrač'ja K'oč'ar
+    translators:
       - V. Grossman
     year: 1971
     language: Russian
@@ -36667,10 +36860,11 @@ titles:
     authors:
       - Jon Kimche
       - Dzhon Kimkhe (Джон Кимхе)
-      - E. M. Fedotov
-      - A. M. Fedotov (Е. М. Федотов)
       - Oleg Aleksandrovič Ržeševskij
       - Oleg Aleksandrovich Rzheshevskii (Олег Александрович Ржешевский)
+    translators:
+      - E. M. Fedotov
+      - A. M. Fedotov (Е. М. Федотов)
     year: 1971
     language: Russian
     sources:
@@ -36679,8 +36873,10 @@ titles:
     verified: true
   - title: Noči stanovjatsja koroče
     subtitle: Roman, povest'
+    original_title: Elfolgynak az éjszakák
     authors:
       - Molnár Géza
+    translators:
       - A. Logaj
     year: 1971
     language: Russian
@@ -37171,8 +37367,10 @@ titles:
     verified: true
   - title: Prigovor
     subtitle: Izbrannye proizvedenija
+    original_title: Itélet
     authors:
       - Zoltán Fábián
+    translators:
       - J. Sazonov
     year: 1971
     language: Russian
@@ -37251,6 +37449,7 @@ titles:
     authors:
       - Petro Polìkarpovič Gandzûra
       - Petro Polikarpovich Gandziura (Петро Полікарпович Гандзюра)
+    translators:
       - Evgenij Mariinskij
       - Evgenii Mariinskii (Евгений Мариинский)
     year: 1971
@@ -37338,6 +37537,7 @@ titles:
   - title: Rubikon
     authors:
       - Vitalij A. Logvinenko
+    translators:
       - Irina Stiškovskaja
     year: 1971
     language: Russian
@@ -37710,6 +37910,8 @@ titles:
   - title: Soldaty bratskikh armiĭ
     subtitle: '[Sbornik]'
     authors: []
+    editors:
+      - V. I. Sergievich
     year: 1971
     language: Russian
     pages: 135
@@ -37988,6 +38190,7 @@ titles:
     subtitle: Povestʹ
     authors:
       - R. Kalčik
+    translators:
       - A. Gusʹkov
       - A. Guskov (А. Гуськов)
       - V. Patoličev
@@ -37999,8 +38202,10 @@ titles:
         url: https://www.sudoc.fr/231105347
     verified: true
   - title: Trevožnaja Šumava
+    original_title: Král Šumavy
     authors:
       - Rudolf Kalčík
+    translators:
       - A. N. Gus'kov
     year: 1971
     language: Russian
@@ -38022,6 +38227,8 @@ titles:
     subtitle: Boevoĭ putʹ Trinadtsatoĭ gvardeĭskoĭ Poltavskoĭ ordena Lenina dvazhdy Krasnoznamennoĭ ordenov Suvorova i Kutuzova strelkovoĭ divizii, 1941-1945
     authors:
       - Ivan Anikeevich Samchuk
+    editors:
+      - V. S. Lupach
     year: 1971
     language: Russian
     pages: 280
@@ -38484,8 +38691,10 @@ titles:
         url: https://www.sudoc.fr/197775675
     verified: true
   - title: Za kulisami japonskoj kapituljacii
+    original_title: Behind Japan's surrender
     authors:
       - L. Brooks
+    translators:
       - Ju Azizov
     year: 1971
     language: Russian
@@ -38590,6 +38799,8 @@ titles:
     subtitle: Dokumentalʹnaia povestʹ, rasskazy, ocherki
     authors:
       - Mykola Ishchenko
+    translators:
+      - Ivan Karabutenko
     year: 1971
     series: Biblioteka iunogo patriota. O rodine, podvigakh, chesti
     language: Russian
@@ -39248,6 +39459,7 @@ titles:
     subtitle: Roman
     authors:
       - Mychajlo Stelʹmach
+    translators:
       - I. Čechovskaja
     year: 1972
     language: Russian
@@ -39305,6 +39517,8 @@ titles:
   - title: Filosofskoe nasledie V.I. Lenina i problemy sovremennoĭ voĭny
     authors:
       - A. S. Milovidov
+    editors:
+      - Vladimir Georgievich Kozlov
     year: 1972
     language: Russian
     pages: 392
@@ -39522,9 +39736,11 @@ titles:
         url: https://lccn.loc.gov/73323777
     verified: true
   - title: Groze navstreču
+    original_title: Te se sražavacha v redovete na S'vetskata Armija
     authors:
       - M. Kostadinova
       - P. Najdenova
+    translators:
       - V. N. Satarov
     year: 1972
     language: Russian
@@ -39704,8 +39920,10 @@ titles:
     verified: true
   - title: Kavalery Virtuti
     subtitle: Povest'
+    original_title: Kawalerowie Virtuti
     authors:
       - Kazimierz Radowicz
+    translators:
       - O. E. Akimčenko
     year: 1972
     language: Russian
@@ -39796,8 +40014,10 @@ titles:
     verified: true
   - title: Korolevskij kon' i novye vsadniki
     subtitle: Roman
+    original_title: Kali i mbretit dhe kalorës të rinj
     authors:
       - Qamil Buxheli
+    translators:
       - R. Koč
     year: 1972
     language: Russian
@@ -39807,13 +40027,15 @@ titles:
     verified: true
   - title: Korolevskij konʹ i novye vsadniki
     subtitle: Roman
+    original_title: Kali i mbretit dhe kalorës të rinj
     authors:
       - Kâmilʹ Budželi
       - Kiamil Budzheli (Кямиль Буджели)
-      - R. Koci
-      - R. Kochi (Р. Кочи)
       - Û. V. Bernov
       - I. V. Bernov (Ю. В. Бернов)
+    translators:
+      - R. Koci
+      - R. Kochi (Р. Кочи)
     year: 1972
     language: Russian
     sources:
@@ -40095,6 +40317,7 @@ titles:
     subtitle: Roman
     authors:
       - Šaraf R. Rašidov
+    translators:
       - Jurij Karasev
     year: 1972
     language: Russian
@@ -40252,8 +40475,10 @@ titles:
     verified: true
   - title: Nagie i mertvye
     subtitle: Roman
+    original_title: The naked and the dead
     authors:
       - Norman Mailer
+    translators:
       - I. A. Razumnoj
     year: 1972
     language: Russian
@@ -40364,6 +40589,8 @@ titles:
     authors:
       - Aleksandr Vladimirovič Kovalʹčuk
       - Aleksandr Vladimirovich Kovalchuk (Александр Владимирович Ковальчук)
+    translators:
+      - V. Belova
     year: 1972
     language: Russian
     sources:
@@ -40643,10 +40870,12 @@ titles:
     verified: true
   - title: Peredaet "Boevoj"
     subtitle: Dokumental'naja povest'
+    original_title: Predava "Boevoj"
     authors:
       - Todor Kondov
-      - Irina Evgen'evna Saburova
       - Ju. V. Bernov
+    translators:
+      - Irina Evgen'evna Saburova
     year: 1972
     language: Russian
     sources:
@@ -40782,6 +41011,8 @@ titles:
     verified: true
   - title: Posobie serzhantu voĭsk PVO
     authors: []
+    editors:
+      - A. M. Dzyza
     year: 1972
     language: Russian
     pages: 200
@@ -40967,8 +41198,10 @@ titles:
     verified: true
   - title: Rannjaja vesna
     subtitle: Roman
+    original_title: Primăvară timpurie
     authors:
       - Aurel Mihale
+    translators:
       - E. D. Karpeščenko
     year: 1972
     language: Russian
@@ -41860,8 +42093,16 @@ titles:
     verified: true
   - title: Tri Duba
     subtitle: Roman
+    original_title: Tri Duby
     authors:
       - Jozef Modrovich
+    translators:
+      - A. N. Gusʹkov
+      - A. N. Guskov (А. Н. Гуськов)
+      - V. M. Patoličev
+      - V. M. Patolichev (В. М. Патоличев)
+      - F. P. Petrov
+      - F. P. Petrov (Ф. П. Петров)
     year: 1972
     language: Russian
     pages: 293
@@ -41929,8 +42170,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=111627180X
     verified: true
   - title: Ustami amerikancev
+    original_title: Conversations with americans
     authors:
       - Mark Lane
+    translators:
       - V. Jarošenko
     year: 1972
     language: Russian
@@ -42269,8 +42512,10 @@ titles:
     verified: true
   - title: Vremena goda
     subtitle: Roman, povestʹ
+    original_title: Évszakok
     authors:
       - Árpád Thiery
+    translators:
       - A. Logaj
       - A. Logai (А. Логай)
     year: 1972
@@ -43066,9 +43311,11 @@ titles:
     subtitle: Romany
   - title: Devâtoe sentâbrâ
     subtitle: Vospominaniâ učastnikov sentâbrʹskogo vosstaniâ v Bolgarii v 1944 g
+    original_title: Septemvrijski dni
     authors:
       - A. M. Ševčenko
       - A. M. Shevchenko (А. М. Шевченко)
+    translators:
       - G. A. Černejko
       - G. A. Cherneiko (Г. А. Чернейко)
       - V. A. Dementʹev
@@ -43217,6 +43464,7 @@ titles:
     subtitle: Povest'
     authors:
       - Sa"dulla Karomatov
+    translators:
       - Gennadij Semenichin
     year: 1973
     language: Russian
@@ -43636,6 +43884,7 @@ titles:
     series: Biblioteka sovetskoj fantastiki
     authors:
       - Ales' Šaškov
+    translators:
       - Michail Gorbačev
     year: 1973
     language: Russian
@@ -43686,6 +43935,8 @@ titles:
     subtitle: Ocherki o chastiakh i korabliakh, nosiashchikh imia VLKSM
     authors:
       - N. V. Zakharenko
+    editors:
+      - G. P. Iakovleva
     year: 1973
     language: Russian
     pages: 174
@@ -43929,8 +44180,11 @@ titles:
         url: https://www.sudoc.fr/273723715
     verified: true
   - title: Kostry zovut
+    original_title: Sinove na oborišče
     authors:
       - Dincho Velev
+    translators:
+      - Irina Evgen'evna Saburova
     year: 1973
     language: Russian
     pages: 246
@@ -44344,13 +44598,15 @@ titles:
     verified: true
   - title: Molodoj les
     subtitle: Roman
+    original_title: Mlada šuma
     authors:
       - Velʹko Kovačevič
       - Velko Kovachevich (Велько Ковачевич)
-      - V. N. Satarov
-      - V. N. Satarov (В. Н. Сатаров)
       - Û. V. Bernov
       - I. V. Bernov (Ю. В. Бернов)
+    translators:
+      - V. N. Satarov
+      - V. N. Satarov (В. Н. Сатаров)
     year: 1973
     language: Russian
     sources:
@@ -44630,6 +44886,8 @@ titles:
     authors:
       - N. F. Chistiakov
       - M. E. Karyshev
+    editors:
+      - Nikolaj F. Čistjakov
     year: 1973
     language: Russian
     pages: 352
@@ -44769,10 +45027,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1116017369
     verified: true
   - title: Ognennye zori
+    original_title: Zemja na apostoli
     authors:
       - Stojan C. Daskalov
-      - V. N. Satarov
       - A. N. Ratnikov
+    translators:
+      - V. N. Satarov
     year: 1973
     language: Russian
     sources:
@@ -44911,6 +45171,9 @@ titles:
     authors:
       - Alekseĭ Ilʹich (Harvard local name) Lepeshkin
       - A. I. Lepeshkin
+    editors:
+      - Aleksej Ilʹič Lepeškin
+      - Aleksei Ilich Lepeshkin (Алексей Ильич Лепешкин)
     year: 1973
     language: Russian
     pages: 272
@@ -44996,8 +45259,10 @@ titles:
     verified: true
   - title: Parni iz Ostroveckich lesov
     subtitle: Povest'
+    original_title: Chłopcy z Ostrowieckich lasow
     authors:
       - Stanisław Biskupski
+    translators:
       - O. E. Akimčenko
     year: 1973
     language: Russian
@@ -45233,6 +45498,8 @@ titles:
   - title: Posobie dlia ofitserov zapasa motostrelkovykh i tankovykh voĭsk
     subtitle: '[Pod obshch. red. P. F. Rodionova]. Izd. 2-e, ispr'
     authors: []
+    editors:
+      - P. F. Rodionov
     year: 1973
     language: Russian
     pages: 352
@@ -45246,6 +45513,8 @@ titles:
     verified: true
   - title: Posobie po obucheniiu molodykh soldat
     authors: []
+    editors:
+      - B. I. Baranov
     year: 1973
     language: Russian
     pages: 328
@@ -45301,8 +45570,10 @@ titles:
     edition: Izd. 3-e, ispr. i dop
   - title: Priključenija Pet'eša
     subtitle: Roman povest'
+    original_title: Pettyes kalandjai
     authors:
       - György Sós
+    translators:
       - J. Šišmonin
     year: 1973
     language: Russian
@@ -45529,6 +45800,7 @@ titles:
   - title: Serebrânye zvezdy
     authors:
       - Stanisław Reperowicz
+    translators:
       - Petr Kuz'mič Kostikov
       - Aleksej Oreškin
     year: 1973
@@ -45542,6 +45814,7 @@ titles:
   - title: Serebrjannye zvezdy
     authors:
       - Stanisław Reperowicz
+    translators:
       - P. K. Kostikov
     year: 1973
     language: Russian
@@ -45639,6 +45912,9 @@ titles:
     subtitle: 'Anglijskaâ prostorečnaâ voennaâ leksika: anglo russkij slovar'' voennogo slenga'
     authors:
       - Georgij Aleksandrovič Sudzilovskij
+    editors:
+      - Aleksandr Davydovič Švejcer
+      - Aleksandr Davydovich Shveitser (Александр Давыдович Швейцер)
     year: 1973
     language: Russian
     sources:
@@ -45831,6 +46107,8 @@ titles:
     verified: true
   - title: Spravochnik vodolaza
     authors: []
+    editors:
+      - Evgeniĭ Petrovich Shikanov
     year: 1973
     language: Russian
     pages: 470
@@ -46320,8 +46598,10 @@ titles:
         url: https://www.sudoc.fr/187878366
     verified: true
   - title: V stroju
+    original_title: V stroja
     authors:
       - Ivan F. Michajlov
+    translators:
       - Viktor S. Vinogradov
     year: 1973
     language: Russian
@@ -46620,8 +46900,10 @@ titles:
         url: https://lccn.loc.gov/73348223
     verified: true
   - title: Vstreča v polnoč'
+    original_title: Stretnutie o polnoci
     authors:
       - Ján Korenko
+    translators:
       - P. Turpit'ko
     year: 1973
     language: Russian
@@ -46885,6 +47167,10 @@ titles:
     authors:
       - G. A. Arzumanov
       - A. M. general-leĭtenant Shevchenko
+    editors:
+      - G. A. Arzumanov (Г. А. Арзуманов)
+      - A. M. Ševčenko
+      - A. M. Shevchenko (А. М. Шевченко)
     year: 1974
     language: Russian
     pages: 285
@@ -46910,6 +47196,8 @@ titles:
     subtitle: Povesti
     authors:
       - Vasylʹ Kozachenko
+    translators:
+      - Emilija Chajtina
     year: 1974
     language: Russian
     pages: 574
@@ -47262,7 +47550,8 @@ titles:
     verified: true
   - title: Dikie kaštany
     subtitle: Sbornik rasskazov
-    authors:
+    authors: []
+    translators:
       - G. Lejbutin
       - G. Leibutin (Г. Лейбутин)
       - Û. Šišmonin
@@ -47754,6 +48043,8 @@ titles:
   - title: Iz odnogo kotelka
     authors:
       - Stanisław Myśliński
+    translators:
+      - V. A. Glazov
     year: 1974
     language: Russian
     pages: 210
@@ -47900,8 +48191,10 @@ titles:
     verified: true
   - title: Komandir polka
     subtitle: Roman i povest'
+    original_title: Der Regimentskommandeur
     authors:
       - Walter Flegel
+    translators:
       - M. Lysunkin
     year: 1974
     language: Russian
@@ -48133,8 +48426,10 @@ titles:
     verified: true
   - title: Ljudi bez slavy
     subtitle: Roman
+    original_title: Eroica oameni fără glorie
     authors:
       - Laurenţiu Fulga
+    translators:
       - P. L. Pavlov
     year: 1974
     language: Russian
@@ -48173,6 +48468,7 @@ titles:
     subtitle: Roman
     authors:
       - Trofim J. Prošak
+    translators:
       - I. Svistunov
     year: 1974
     language: Russian
@@ -48293,9 +48589,11 @@ titles:
     verified: true
   - title: Murgaš
     subtitle: Vospominanija
+    original_title: Murgaš
     authors:
       - Dobri Džurov
       - Elena Džurova
+    translators:
       - N. Satarov
     year: 1974
     language: Russian
@@ -48321,8 +48619,10 @@ titles:
         url: https://lccn.loc.gov/75578954
     verified: true
   - title: Na granice
+    original_title: Výstřely z hranice
     authors:
       - Ž. Šaroch
+    translators:
       - A. N. Gus'kov
     year: 1974
     language: Russian
@@ -48573,8 +48873,10 @@ titles:
     verified: true
   - title: Ničejnaâ zemlâ
     subtitle: Povetʹ
+    original_title: Území nikoho
     authors:
       - Jiří Hájek
+    translators:
       - L. S. Kaganov
       - L. S. Kaganov (Л. С. Каганов)
     year: 1974
@@ -48872,6 +49174,7 @@ titles:
     authors:
       - Todor Kondov
       - Todor Kondov (Тодор Кондов)
+    translators:
       - Û. Bernov
       - I. Bernov (Ю. Бернов)
     year: 1974
@@ -48896,9 +49199,11 @@ titles:
     verified: true
   - title: Peški
     subtitle: Očerk
+    original_title: Pawns
     authors:
       - Peter Barnes
       - Tom K. Belaščenko
+    translators:
       - P. N. Viduėckij
     year: 1974
     language: Russian
@@ -49105,6 +49410,7 @@ titles:
     series: Biblioteka junogo patriota
     authors:
       - Vasyl' H. Bol'šak
+    translators:
       - Zoja Bol'šak
     year: 1974
     language: Russian
@@ -49140,6 +49446,8 @@ titles:
     verified: true
   - title: Radiotekhnicheskie sistemy v raketnoĭ tekhnike
     authors: []
+    editors:
+      - Vladimir Ivanovich Galkin
     year: 1974
     language: Russian
     pages: 339
@@ -49429,9 +49737,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1122543484
     verified: true
   - title: Skaži im, mama, pustʹ pomnât
+    original_title: Kaži im, majko, da pomnât..
     authors:
       - Geno Genov
       - Geno Genov (Гено Генов)
+    translators:
       - I. M. Saburova
       - E. M. Saburova (И. М. Сабурова)
     year: 1974
@@ -49484,8 +49794,10 @@ titles:
     verified: true
   - title: Slomannaja podkova
     subtitle: Roman
+    original_title: Synġan taġa
     authors:
       - Alim Kešokov
+    translators:
       - Vladimir Alekseevič Solouchin
     year: 1974
     language: Russian
@@ -49518,6 +49830,7 @@ titles:
     authors:
       - Ivan Vračev
       - Ivan Vrachev (Иван Врачев)
+    translators:
       - I. M. Saburova
       - E. M. Saburova (И. М. Сабурова)
       - R. N. Nevskaâ
@@ -49674,6 +49987,7 @@ titles:
       - V. Kozłowicz
       - T. Urnjasz
       - Michal Woewudzski
+    translators:
       - O. E. Akimčenko
     year: 1974
     language: Russian
@@ -49689,6 +50003,7 @@ titles:
       - Teofil Urniazh (Теофил Урняж)
       - Mihal Voevudzkij
       - Mikhal Voevudzkii (Михал Воевудзкий)
+    translators:
       - O. E. Akimčenko
       - O. A. Akimchenko (О. Е. Акимченко)
     year: 1974
@@ -49825,6 +50140,7 @@ titles:
     authors:
       - Velta Èmilʹevna Spare
       - Velta Emilevna Spare (Велта Эмильевна Спаре)
+    translators:
       - Ûrij Kappe
       - Iurii Kappe (Юрий Каппе)
     year: 1974
@@ -50351,8 +50667,10 @@ titles:
     verified: true
   - title: Vermacht i okkupacija
     subtitle: '(1941 - 1944): o roli Vermachta i ego rukovodjaščich organov v osuščestvlenii okkupacionnogo režima na sovetskoj territorii'
+    original_title: Wehrmacht und Okkupation 1941-1944
     authors:
       - Norbert Müller
+    translators:
       - Aleksandr P. Artemov
     year: 1974
     language: Russian
@@ -50661,8 +50979,10 @@ titles:
     verified: true
   - title: Vosstanie
     subtitle: Roman
+    original_title: Aufstand der Totgesagten
     authors:
       - Johannes Arnold
+    translators:
       - J. Sazonov
     year: 1974
     language: Russian
@@ -50687,6 +51007,8 @@ titles:
     authors:
       - V. D. Lavriŝenkov
       - V. D. Lavrishchenkov (В.Д. Лаврищенков)
+    editors:
+      - Anatolij Mefod'evič Horunžij
     year: 1974
     language: Russian
     sources:
@@ -51377,8 +51699,10 @@ titles:
     verified: true
   - title: Burnaja vesna
     subtitle: Roman
+    original_title: Vaharos tavasz
     authors:
       - Mihály Földes
+    translators:
       - L. Kostina
     year: 1975
     language: Russian
@@ -51566,12 +51890,13 @@ titles:
       - Tadeusz Hołuj
       - Stanisław Werner
       - Władysław Broniewski
+      - Valentin Semenovič Kotkin
+    translators:
       - V. Čestnyj
       - Aleksandr Mihajlovič Revič
       - Siemion Kirsanow
       - Mark Semenovič Živov
       - Viktor Pavlovič Korčagin
-      - Valentin Semenovič Kotkin
     year: 1975
     language: Russian
     sources:
@@ -51636,6 +51961,7 @@ titles:
     verified: true
   - title: Dvoe iz mnogih
     subtitle: Roman
+    original_title: Ketten a sok közül. Regény
     authors:
       - Antal Pogoni
       - Antal Pogoni (Антал Погони)
@@ -51674,9 +52000,11 @@ titles:
     verified: true
   - title: Ètapy dolgogo puti
     subtitle: Rasskazy
+    original_title: Stacione te rruges se gjate
     authors:
       - Alqi Kristo
       - Alti Kristo (Альти Кристо)
+    translators:
       - V. E. Efimov
       - V. A. Efimov (В. Е. Ефимов)
     year: 1975
@@ -51862,9 +52190,11 @@ titles:
     verified: true
     series: Voennye memuary
   - title: Gory dyšat ognem
+    original_title: Umiracha bezsmărtni
     series: Biblioteka pobedy
     authors:
       - Veselin Andreev
+    translators:
       - L. S. Kaganov
     year: 1975
     language: Russian
@@ -51934,7 +52264,8 @@ titles:
     verified: true
   - title: I snova utro
     subtitle: Sbornik povestej i rasskazov
-    authors:
+    authors: []
+    translators:
       - P. L. Pavlov
     year: 1975
     language: Russian
@@ -52169,6 +52500,8 @@ titles:
     authors:
       - Miloš Krno
       - Milosh Krno (Милош Крно)
+    translators:
+      - L. S. Kaganov
     year: 1975
     language: Russian
     sources:
@@ -52178,6 +52511,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1122656548
     verified: true
     subtitle: Roman
+    original_title: Lavina
   - title: Letiat skvozʹ gody
     subtitle: '[Dokum. povestʹ o letchitsakh T.P. Makarovoĭ i V.I. Belik]'
     authors:
@@ -52394,8 +52728,10 @@ titles:
     verified: true
   - title: Na dal'nich vozdušnych dorogach
     subtitle: Vospominanija
+    original_title: Kaugetel lennu-teedel
     authors:
       - Endel Puusepp
+    translators:
       - T. U. Kaganova
     year: 1975
     language: Russian
@@ -52408,6 +52744,7 @@ titles:
     authors:
       - Endel Puusepp
       - Endel Karlovich Pusep (Эндель Карлович Пусэп)
+    translators:
       - T. U. Kaganova
       - T. U. Kaganova (Т.У. Каганова)
     year: 1975
@@ -52504,6 +52841,8 @@ titles:
     subtitle: Povest'
     authors:
       - Václav Podzimek
+    translators:
+      - S. I. Gračev
     year: 1975
     language: Russian
     sources:
@@ -53078,8 +53417,10 @@ titles:
         url: https://lccn.loc.gov/76523568
     verified: true
   - title: Osobennyj god
+    original_title: Különös esztendö
     authors:
       - Imre Lásló Ujvári
+    translators:
       - J. Sazoroš
     year: 1975
     language: Russian
@@ -53190,6 +53531,7 @@ titles:
     series: Voennye memuary
     authors:
       - Terentij Fedorovič Novak
+    translators:
       - Nikolaj Bakaev
     year: 1975
     language: Russian
@@ -53440,6 +53782,8 @@ titles:
     subtitle: Roman
     authors:
       - Liubomyr Dmyterko
+    translators:
+      - Ivan Karabutenko
     year: 1975
     language: Russian
     pages: 242
@@ -53750,8 +54094,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=107693367X
     verified: true
   - title: Sem' trudnych let
+    original_title: Siedem trudnych lat
     authors:
       - Andrzej Czechowicz
+    translators:
       - P. K. Kostikov
     year: 1975
     language: Russian
@@ -53762,6 +54108,7 @@ titles:
   - title: Sem' trudnyh let
     authors:
       - Andrzej Czechowicz
+    translators:
       - L. S. Kaganov
       - K. N. Kirillov-Maskov
       - Petr Kuz'mič Kostikov
@@ -53786,6 +54133,7 @@ titles:
     subtitle: = Siedem trudnych lat
     authors:
       - Andrzej Czechowicz
+    translators:
       - P. K. Kostikova
     year: 1975
     language: Russian
@@ -54080,8 +54428,10 @@ titles:
     verified: true
   - title: Strana Pentagon
     subtitle: Roman
+    original_title: Pentagon country
     authors:
       - Clay Blair
+    translators:
       - V. Michajlov
     year: 1975
     language: Russian
@@ -54277,8 +54627,10 @@ titles:
     verified: true
   - title: Tumany sami ne rasseivajutsja
     subtitle: Roman, rasskazy
+    original_title: Nebel fallen nicht von selbst
     authors:
       - Karl Wurzberger
+    translators:
       - G. A. Ševčenko
     year: 1975
     language: Russian
@@ -54380,6 +54732,7 @@ titles:
     authors:
       - Ivan Gavrilov Mihajlov
       - Ivan Gavrilov Mikhailov (Иван Гаврилов Михайлов)
+    translators:
       - V. Vinogradov
       - V. Vinogradov (В. Виноградов)
       - V. Dementʹeva
@@ -54391,9 +54744,11 @@ titles:
         url: https://www.sudoc.fr/264708792
     verified: true
   - title: V tylu vraga
+    original_title: Wyrok
     authors:
       - Aleksandr Omilʹânovič
       - Aleksandr Omilianovich (Александр Омильянович)
+    translators:
       - V. A. Glazov
       - V. A. Glazov (В.А. Глазов)
     year: 1975
@@ -54578,8 +54933,10 @@ titles:
     verified: true
   - title: Vo imja žizni
     subtitle: Vospominanija partizana
+    original_title: Za da ima život
     authors:
       - Atanas Semerdžiev
+    translators:
       - Irina Evgen'evna Saburova
     year: 1975
     language: Russian
@@ -55016,6 +55373,7 @@ titles:
     authors:
       - Petr Nečaj
       - Petr Nechai (Петр Нечай)
+    translators:
       - Vâčeslav Kazakov
       - Viacheslav Kazakov (Вячеслав Казаков)
     year: 1975
@@ -55181,7 +55539,8 @@ titles:
     verified: true
   - title: Avgustovskij rassvet
     subtitle: Sbornik povestej i rasskazov
-    authors:
+    authors: []
+    translators:
       - P. L. Pavlov
     year: 1976
     language: Russian
@@ -55236,8 +55595,10 @@ titles:
     verified: true
   - title: Bombardirovščik
     subtitle: Roman
+    original_title: Bomber
     authors:
       - Len Deighton
+    translators:
       - Pavel I. Kačur
     year: 1976
     language: Russian
@@ -55396,6 +55757,7 @@ titles:
     subtitle: Povest'
     authors:
       - Waldemar Kotowicz
+    translators:
       - Petr Kuz'mič Kostikov
       - Viktor Vital'evič Anisimov
       - V. A. Glazov
@@ -55695,7 +56057,8 @@ titles:
     verified: true
   - title: Iûnʹskim voskresnym dnem
     subtitle: Povesti
-    authors:
+    authors: []
+    translators:
       - Boris Mihajlovič Zubavin
       - Boris Mikhailovich Zubavin (Борис Михайлович Зубавин)
     year: 1976
@@ -56274,6 +56637,8 @@ titles:
     subtitle: K deiatelʹnosti natsionalʹnogo komiteta "Svobodnaia Germaniia" na sovetsko-germanskom fronte s 1943 po 1945 god
     authors:
       - Willy Wolff
+    translators:
+      - Yu. D. Chuprov
     year: 1976
     language: Russian
     pages: 262
@@ -56289,6 +56654,7 @@ titles:
     authors:
       - Vaclav Podzimek
       - Vatslav Podzimek (Вацлав Подзимек)
+    translators:
       - S. I. Gračev
       - S. E. Grachev (С.И. Грачев)
     year: 1976
@@ -56842,8 +57208,10 @@ titles:
     verified: true
   - title: Paren' iz Goregrona
     subtitle: Povest'
+    original_title: Nie sme z rodu bohatierov
     authors:
       - Peter Hajduk
+    translators:
       - F. P. Petrov
     year: 1976
     language: Not recorded
@@ -56948,8 +57316,10 @@ titles:
     verified: true
   - title: Pod psevdonimom Dora
     subtitle: Vospominanija sovetskogo razvedčika
+    original_title: Dora jelenti .
     authors:
       - Sándor Radó
+    translators:
       - Vladimir Aleksandrov
     year: 1976
     language: Russian
@@ -57258,6 +57628,7 @@ titles:
     subtitle: Dokumental'naja povest'
     authors:
       - Sjarhej Ivanavič Hrachoŭski
+    translators:
       - V. Sevruk
     year: 1976
     language: Russian
@@ -57270,6 +57641,7 @@ titles:
     authors:
       - Sergej Grahovskij
       - Sergei Grakhovskii (Сергей Граховский)
+    translators:
       - V. Sevruk
       - V. Sevruk (В. Севрук)
     year: 1976
@@ -57361,9 +57733,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=184867525
     verified: true
   - title: S avtomatom v rukach
+    original_title: V ruce samopal
     authors:
       - Vaclav Janeček
       - Rudolf Kalčík
+    translators:
       - L. S. Kaganov
     year: 1976
     language: Russian
@@ -57469,6 +57843,7 @@ titles:
     subtitle: Roman
     authors:
       - Pavlo A. Zahrebel'nyj
+    translators:
       - I. Z. Novosel'ceva
     year: 1976
     language: Russian
@@ -57558,7 +57933,8 @@ titles:
     verified: true
   - title: Služba i družba
     subtitle: Rasskazy
-    authors:
+    authors: []
+    translators:
       - P. K. Kostikov
     year: 1976
     language: Russian
@@ -57942,13 +58318,15 @@ titles:
     verified: true
   - title: Suhoputnaâ armiâ Germanii
     subtitle: 1933-1945 gg
+    original_title: Das Heer, 1933-1945
     authors:
       - Burkhart Müller-Hillebrand
       - Burkkhart Miuller-gillebrand (Буркхарт Мюллер-Гиллебранд)
-      - I. M. Glagolev
-      - E. M. Glagolev (И. М. Глаголев)
       - Petr Mihaĭlovič Derevânko
       - Petr Mikhailovich Derevianko (Петр Михайлович Деревянко)
+    translators:
+      - I. M. Glagolev
+      - E. M. Glagolev (И. М. Глаголев)
     year: 1976
     language: Russian
     sources:
@@ -58200,9 +58578,11 @@ titles:
     verified: true
   - title: Unter-oficer i drugie
     subtitle: Izbrannoe
+    original_title: A tizedes meg a többiek
     series: Biblioteka pobedy
     authors:
       - Imre Dobozy
+    translators:
       - I. Savol'skij
     year: 1976
     language: Russian
@@ -58585,8 +58965,10 @@ titles:
         url: https://search.worldcat.org/title/3280660
     verified: true
   - title: Vospominanija podpol'ščika
+    original_title: Erinnerungen eines Illegalen
     authors:
       - Erich Hanke
+    translators:
       - V. G. Černjavskij
     year: 1976
     language: Russian
@@ -58789,8 +59171,10 @@ titles:
     verified: true
   - title: Zakalennye kryl'ja
     subtitle: Vospominanija
+    original_title: Zakaleni krile
     authors:
       - Siméon Simeonov
+    translators:
       - Irina Evgen'evna Saburova
     year: 1976
     language: Russian
@@ -58841,8 +59225,10 @@ titles:
     verified: true
   - title: Zapiski načal'nika štaba zony
     subtitle: Vospominanija
+    original_title: Kogato umirachme
     authors:
       - Zdravko Georgiev
+    translators:
       - Irina Evgen'evna Saburova
     year: 1976
     language: Russian
@@ -58852,9 +59238,11 @@ titles:
     verified: true
   - title: Zapiski načalʹnika štaba zony
     subtitle: Vospominaniâ
+    original_title: Kogato umirahme
     authors:
       - Zdravko Georgiev
       - Zdravko Georgiev (Здравко Георгиев)
+    translators:
       - I. M. Saburova
       - E. M. Saburova (И. М. Сабурова)
     year: 1976
@@ -59360,8 +59748,10 @@ titles:
     verified: true
   - title: Budapeštskaja vesna
     subtitle: Roman i rasskazy
+    original_title: Budapesti tavasz
     authors:
       - Ferenc Karinthy
+    translators:
       - K. Ivanov
     year: 1977
     language: Russian
@@ -59664,9 +60054,11 @@ titles:
     verified: true
   - title: Gorod na trjasine
     subtitle: Vospominanija i roman
+    original_title: Város az ingoványon
     series: Biblioteka Pobedy
     authors:
       - József Darvas
+    translators:
       - K. Ivanov
     year: 1977
     language: Russian
@@ -60377,6 +60769,8 @@ titles:
     authors:
       - Mihail Mihajlovič Lobanov
       - Mikhail Mikhailovich Lobanov (Михаил Михайлович Лобанов)
+    editors:
+      - Û. P. Galkin
     year: 1977
     language: Russian
     sources:
@@ -60498,6 +60892,7 @@ titles:
     subtitle: Roman
     authors:
       - Vadym Sobko
+    translators:
       - N. Dangulova
     year: 1977
     language: Russian
@@ -60694,8 +61089,10 @@ titles:
     verified: true
   - title: Opalennaja zemlja
     subtitle: Rasskazy i roman
+    original_title: Predi da obrasnat s treba
     authors:
       - Ivan Martinov
+    translators:
       - L. S. Kaganov
     year: 1977
     language: Russian
@@ -60843,6 +61240,7 @@ titles:
     authors:
       - Vladimir Pazourek (Владимир Пазоурек)
       - Vladimír Pazourek
+    translators:
       - P. P. Tupitʹko
       - P. P. Tupitko (П.П. Тупитько)
     year: 1977
@@ -60854,6 +61252,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1122894929
     verified: true
     subtitle: Roman
+    original_title: Ústup z hranice
   - title: Partiĭnaia organizatsiia v voinskom kollektive
     authors:
       - Mikhail Georgievich Sobolev
@@ -60899,8 +61298,10 @@ titles:
     verified: true
   - title: Partizanskimi tropami
     subtitle: Dokumental'naja povest'
+    original_title: Rame uz rame
     authors:
       - Stevan Vrgovič
+    translators:
       - M. D. Kovalev
     year: 1977
     language: Russian
@@ -60931,6 +61332,7 @@ titles:
     subtitle: Roman
     authors:
       - Vasyl' S. Kučer
+    translators:
       - Boris Zubavin
     year: 1977
     language: Russian
@@ -61539,9 +61941,11 @@ titles:
     verified: true
   - title: Šašečki i zvezdy
     subtitle: Povest'
+    original_title: Szachownice i gwiazdy
     authors:
       - Andrzej Monastyrski
       - Zenon Łobacz
+    translators:
       - V. A. Glazov
     year: 1977
     language: Russian
@@ -61733,8 +62137,11 @@ titles:
     verified: true
   - title: Sled soldata
     subtitle: Roman
+    original_title: Dau chân nguoi lính
     authors:
       - Nguyễn Minh Châu
+    translators:
+      - I. P. Zimonina
     year: 1977
     language: Russian
     pages: 252
@@ -62152,6 +62559,7 @@ titles:
     subtitle: Roman
     authors:
       - Jerzy Grzymkowski
+    translators:
       - Vitalij Anatol'evič Svetlov
       - K. N. Kirillov-Maskov
     year: 1977
@@ -62164,8 +62572,10 @@ titles:
     verified: true
   - title: Temnaja reka
     subtitle: Roman
+    original_title: Ciemna rzeka
     authors:
       - Jerzy Grzymkowski
+    translators:
       - K. N. Kirillov-Maskov
     year: 1977
     language: Russian
@@ -62174,8 +62584,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1122573944
     verified: true
   - title: Teplyj led
+    original_title: Vărti se, vărti se
     authors:
       - Stanislav Sevriev
+    translators:
       - V. N. Grebennikov
     year: 1977
     language: Russian
@@ -62639,8 +63051,10 @@ titles:
     verified: true
   - title: Vojna razbivaet illjuzii
     subtitle: Povesti
+    original_title: Er sprach von Liebe
     authors:
       - Ursula Wiebach
+    translators:
       - J. D. Čuprov
     year: 1977
     language: Russian
@@ -62674,8 +63088,10 @@ titles:
     verified: true
   - title: Vospitanie žizn'ju
     subtitle: Povesti, rasskazy
+    original_title: Olaf oder die Wandlung der vier
     authors:
       - Heinz Senkbeil
+    translators:
       - B. Kalinin
     year: 1977
     language: Russian
@@ -64204,6 +64620,7 @@ titles:
     subtitle: Povesti
     authors:
       - Pavlo F. Avtomonov
+    translators:
       - I. Dinkevič
     year: 1978
     language: Russian
@@ -64430,8 +64847,10 @@ titles:
     verified: true
   - title: Neulovimyj Val'ter
     subtitle: Povest'
+    original_title: Ilegalac Valter
     authors:
       - Milorad Gončin
+    translators:
       - V. A. Štulifker
     year: 1978
     language: Russian
@@ -64708,11 +65127,14 @@ titles:
     verified: true
   - title: Pervaâ i vtoraâ
     subtitle: Sbornik vospominanij
+    original_title: W pierwszej i drugiej
     authors:
-      - V. A. Glazov
       - V. A. Glazov (В. А. Глазов)
       - V. A. Svetlov
       - V. A. Svetlov (В. А. Светлов)
+    translators:
+      - V. A. Glazov
+      - Vitalij Anatol'evič Svetlov
     year: 1978
     language: Russian
     sources:
@@ -64740,6 +65162,7 @@ titles:
     subtitle: Sbornik vospominanij
     authors:
       - Tadeusz Pereng
+    translators:
       - V. A. Glazov
     year: 1978
     language: Russian
@@ -64762,8 +65185,10 @@ titles:
     verified: true
   - title: Po dorogam vojny
     subtitle: Vospominanija
+    original_title: Mé cesty válkou
     authors:
       - Alfréd Ressel
+    translators:
       - F. P. Petrov
     year: 1978
     language: Russian
@@ -65024,11 +65449,14 @@ titles:
     verified: true
   - title: Puti-dorogi
     subtitle: Vospominaniâ
+    original_title: Utak és ösvények
     authors:
       - Ištvan Dekan
       - Ishtvan Dekan (Иштван Декан)
       - Eva Kardoš
       - Eva Kardosh (Ева Кардош)
+    translators:
+      - F. Oskolkov
     year: 1978
     language: Russian
     sources:
@@ -65039,8 +65467,10 @@ titles:
     verified: true
   - title: Rassvet nad gorodskoj okrainoj
     subtitle: Povest'; roman-chronika
+    original_title: Virradat a város peremén
     authors:
       - Mihály Földes
+    translators:
       - I. Savol'skij
     year: 1978
     language: Russian
@@ -65052,6 +65482,8 @@ titles:
     subtitle: Stikhi i poėmy
     authors:
       - Petr Aksentʹevich Krucheniuk
+    translators:
+      - Vladimir I. Firsov
     year: 1978
     language: Russian
     pages: 230
@@ -65377,8 +65809,10 @@ titles:
     verified: true
   - title: Štorm
     subtitle: Povest' i rasskazy
+    original_title: Sztorm
     authors:
       - Zbigniew Domino
+    translators:
       - M. I. Belikova
     year: 1978
     language: Russian
@@ -65484,8 +65918,10 @@ titles:
     verified: true
   - title: Synov'ja noči
     subtitle: Memuary
+    original_title: Les fils de la nuit
     authors:
       - Albert Ouzoulias
+    translators:
       - L. S. Chovanskij
     year: 1978
     language: Russian
@@ -65655,8 +66091,10 @@ titles:
     verified: true
   - title: Ul'timatum
     subtitle: Roman i povest'
+    original_title: Das Ultimatum
     authors:
       - Günther Stein
+    translators:
       - B. Kalinin
     year: 1978
     language: Russian
@@ -65696,6 +66134,7 @@ titles:
     subtitle: Povest', rasskazy
     authors:
       - Aleksander Omiljanowicz
+    translators:
       - Vitalij Anatol'evič Svetlov
       - Petr Kuz'mič Kostikov
       - Viktor Vital'evič Anisimov
@@ -66141,6 +66580,7 @@ titles:
     subtitle: Sbornik rasskazov
     authors:
       - Boris Michalkov
+    translators:
       - L. Šikina
     year: 1978
     language: Russian
@@ -66150,8 +66590,10 @@ titles:
     verified: true
   - title: Zvezdy dobroj nadeždy
     subtitle: Roman
+    original_title: Steaua bunei speranţe
     authors:
       - Laurenţiu Fulga
+    translators:
       - J. P. Zajunčkovskij
     year: 1978
     language: Russian
@@ -66383,8 +66825,10 @@ titles:
         url: https://search.worldcat.org/title/24277569
     verified: true
   - title: Bessonnye noči
+    original_title: Bezsynni nošči
     authors:
       - Kostadin Kjuljumov
+    translators:
       - I. I. Kormil'cev
     year: 1979
     language: Russian
@@ -66568,6 +67012,7 @@ titles:
     subtitle: Roman
     authors:
       - Anton F. Chižnjak
+    translators:
       - I. F. Karabutenko
     year: 1979
     language: Russian
@@ -66925,8 +67370,10 @@ titles:
     verified: true
   - title: Iks-30 rvet pautinu
     subtitle: Roman
+    original_title: X.30 phá lu'ȯi
     authors:
       - Đăng Thanh
+    translators:
       - Sergej N. Afonin
     year: 1979
     language: Russian
@@ -67007,8 +67454,10 @@ titles:
     pages: 302
   - title: Junost', opalennaja vojnoj
     subtitle: Povest'
+    original_title: Wojenne edukacje
     authors:
       - Eugeniusz Czerwiński
+    translators:
       - V. A. Svetlov
     year: 1979
     language: Russian
@@ -67589,6 +68038,7 @@ titles:
     subtitle: Povest'
     authors:
       - Stanisław Myśliński
+    translators:
       - Petr Kuz'mič Kostikov
     year: 1979
     language: Russian
@@ -67601,6 +68051,7 @@ titles:
   - title: Nad Pripjat'ju
     authors:
       - S. Myslinski
+    translators:
       - P. K. Kostikov
     year: 1979
     language: Russian
@@ -67611,6 +68062,7 @@ titles:
         url: https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991038292859705066&vid=48OMNIS_NLOP:48OMNIS_NLOP
     verified: true
     subtitle: Povest'
+    original_title: Nad Prypecia
   - title: Nad volnami Baltiki
     authors:
       - Aleksandr Vasilʹevich Presniakov
@@ -67651,8 +68103,11 @@ titles:
       - Simeon Mitev
       - Simeon Mitev (Симеон Митев)
       - I. A. Černigovcev
-      - E. A. Chernigovtsev (И.А Черниговцев)
       - Û. V. Listratov
+    translators:
+      - I. A Černigovcev
+      - E. A. Chernigovtsev (И.А Черниговцев)
+      - Û. V Listratov
       - I. V. Listratov (Ю.В Листратов)
     year: 1979
     language: Russian
@@ -67662,8 +68117,10 @@ titles:
     verified: true
   - title: Nepobeždennye nadeždy
     subtitle: Vospominanija
+    original_title: Nepobedeni nadeždi
     authors:
       - Simeon Mitev
+    translators:
       - Ju. V. Listratov
     year: 1979
     language: Russian
@@ -67815,8 +68272,10 @@ titles:
     verified: true
   - title: Palec na spuske
     subtitle: Roman
+    original_title: Palec na spoušti
     authors:
       - Zbyněk Kovanda
+    translators:
       - S. M. Sokolov
     year: 1979
     language: Russian
@@ -67924,6 +68383,7 @@ titles:
   - title: Partizany
     authors:
       - Jan Łysakowski
+    translators:
       - K. N. Kirillov-Maskov
     year: 1979
     language: Russian
@@ -67938,6 +68398,7 @@ titles:
         url: https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991038293619705066&vid=48OMNIS_NLOP:48OMNIS_NLOP
     verified: true
     subtitle: Povest'
+    original_title: Partyzanci
   - title: Pervyĭ sovetskiĭ glavkoverkh
     authors:
       - Kh. I. Muratov
@@ -68247,8 +68708,10 @@ titles:
     verified: true
   - title: Radiosignaly s Varty
     subtitle: Roman
+    original_title: Funksignale vom Wartabogen
     authors:
       - Barbara Neuhaus
+    translators:
       - B. Kalinin
     year: 1979
     language: Russian
@@ -68559,6 +69022,7 @@ titles:
     subtitle: Sbornik rassklazov
     authors:
       - V. A. Sterligov
+    translators:
       - F. P. Petrov
     year: 1979
     language: Russian
@@ -68739,8 +69203,10 @@ titles:
         url: https://search.worldcat.org/title/947758746
     verified: true
   - title: Svežij veter
+    original_title: Siratófal
     authors:
       - Andraš Berkeši
+    translators:
       - K. Ivanov
     year: 1979
     language: Russian
@@ -68789,9 +69255,11 @@ titles:
     series: Biblioteka iunogo patriota
   - title: Tjaželoe ispytanie
     subtitle: Amerikanskie vooružennye sily na Evropejskom teatre vo vremja vtoroj mirovoj vojny
+    original_title: The Mighty endeavor
     authors:
       - Charles Brown MacDonald
       - Oleg Aleksandrovič Ržeševskij
+    translators:
       - E. M. Fedotov
     year: 1979
     language: Russian
@@ -68849,8 +69317,10 @@ titles:
     subtitle: Povesti
   - title: Utrennjaja zarja
     subtitle: Povesti i rasskazy
+    original_title: Pirkadás
     authors:
       - Ernö Urbán
+    translators:
       - I. Savol'skij
     year: 1979
     language: Russian
@@ -68862,6 +69332,7 @@ titles:
     subtitle: Povest', rasskazy
     authors:
       - Aleksander Omiljanowicz
+    translators:
       - Viktor Vital'evič Anisimov
       - Petr Kuz'mič Kostikov
       - Vitalij Anatol'evič Svetlov
@@ -68875,6 +69346,7 @@ titles:
     subtitle: Povest', rasskazy
     authors:
       - Aleksander Omiljanowicz
+    translators:
       - Viktor Vital'evič Anisimov
       - Petr Kuz'mič Kostikov
       - Vitalij Anatol'evič Svetlov
@@ -69155,8 +69627,10 @@ titles:
     verified: true
   - title: Vernost'
     subtitle: Povest' o letčike
+    original_title: Vjarnost
     authors:
       - Zachari Zachariev
+    translators:
       - M. G. Artjuchov
     year: 1979
     language: Russian
@@ -69997,8 +70471,10 @@ titles:
     verified: true
   - title: Džonni Bachman vozvraščaetsja domoj
     subtitle: Roman
+    original_title: Jonni Bachmann kehrt Heim
     authors:
       - Heinz Senkbeil
+    translators:
       - Ju. I. Legkich
     year: 1980
     language: Russian
@@ -70193,8 +70669,10 @@ titles:
     verified: true
   - title: Gromy probuždajutsja
     subtitle: Roman
+    original_title: Bude se gromovi
     authors:
       - Filip Radulović
+    translators:
       - N. I. Andreev
     year: 1980
     language: Russian
@@ -70662,6 +71140,7 @@ titles:
     subtitle: Voennye memuary
     authors:
       - Leon Lubecki
+    translators:
       - Vitalij Anatol'evič Svetlov
     year: 1980
     language: Russian
@@ -70724,8 +71203,10 @@ titles:
     verified: true
   - title: Ognennye dorogi
     subtitle: Vospominanija
+    original_title: Ogneni pt̋išča
     authors:
       - Petr̋ Pančevski
+    translators:
       - E. V. Rudakov
     year: 1980
     language: Russian
@@ -70956,6 +71437,7 @@ titles:
     authors:
       - Olesʹ Gončar
       - Oles Gonchar (Олесь Гончар)
+    translators:
       - I. Karabutenko
       - E. Karabutenko (И. Карабутенко)
       - A. Ostrovskij
@@ -71085,8 +71567,10 @@ titles:
     verified: true
   - title: Pokornejše dokladyvaju
     subtitle: Roman
+    original_title: Alázatosan jelentem
     authors:
       - László Bóka
+    translators:
       - K. Ivanov
     year: 1980
     language: Russian
@@ -71158,8 +71642,10 @@ titles:
     verified: true
   - title: Prikaz
     subtitle: Roman
+    original_title: A parancs
     authors:
       - Mihály Földes
+    translators:
       - Sergej V. Fadeev
     year: 1980
     language: Russian
@@ -71370,8 +71856,10 @@ titles:
     verified: true
   - title: S Krasnymi ėskadronami
     subtitle: Povest'
+    original_title: S Červenite Eskadroni
     authors:
       - Aleksandr̋ Karastojanov
+    translators:
       - E. V. Rudakov
     year: 1980
     language: Russian
@@ -72071,8 +72559,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1117591115
     verified: true
   - title: Vlast'
+    original_title: Puterea
     authors:
       - Corneliu Leu
+    translators:
       - J. P. Zajunčkovskij
     year: 1980
     language: Russian
@@ -72368,6 +72858,7 @@ titles:
     authors:
       - Florian Nowicki
       - Wieaław Rozbicki
+    translators:
       - V. E. Vlasov
     year: 1980
     language: Russian
@@ -72501,8 +72992,12 @@ titles:
         url: https://openlibrary.org/books/OL51691533M
     verified: false
   - title: Моя тайная война
+    original_title: My Silent War
     authors:
       - Kim Philby
+    translators:
+      - P. N. Viduetskii (П.Н. Видуэцкий)
+      - S. K. Roshchin (С.К. Рощин)
     year: 1980
     language: Russian
     pages: 191
@@ -73000,8 +73495,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1115649027
     verified: true
   - title: General'naja proverka
+    original_title: Generalna proverka
     authors:
       - Kamen Kalčev
+    translators:
       - V. N. Grebennikov
     year: 1981
     language: Russian
@@ -73086,6 +73583,7 @@ titles:
     subtitle: Roman-trilogija
     authors:
       - Nikolaj Pavlov
+    translators:
       - Irina Evgen'evna Saburova
     year: 1981
     language: Russian
@@ -73215,8 +73713,10 @@ titles:
     verified: true
   - title: Kavaler ordena Početa
     subtitle: Roman
+    original_title: The man who won the medal of honor
     authors:
       - Len Giovannitti
+    translators:
       - P. N. Viduėckij
     year: 1981
     language: Russian
@@ -73479,8 +73979,10 @@ titles:
     verified: true
   - title: Mjunchen
     subtitle: Roman
+    original_title: Mnichov
     authors:
       - František Kubka
+    translators:
       - O. E. Lušnikov
     year: 1981
     language: Russian
@@ -73550,7 +74052,8 @@ titles:
     verified: true
   - title: Nad Tissoj tuman
     subtitle: Povesti i rasskazy
-    authors:
+    authors: []
+    translators:
       - J. P. Zajunčkovskij
     year: 1981
     language: Russian
@@ -73575,8 +74078,10 @@ titles:
     verified: true
   - title: Nastuplenie
     subtitle: Roman
+    original_title: Nastuplenie
     authors:
       - Veličko Peškov
+    translators:
       - J. S. Ignatov
     year: 1981
     language: Russian
@@ -73889,8 +74394,10 @@ titles:
     verified: true
   - title: Pod nami planeta Zemlja
     subtitle: Vospominanija
+    original_title: Pod námi planeta země
     authors:
       - Vladimír Remek
+    translators:
       - L. M. Madjakina
     year: 1981
     language: Russian
@@ -73934,8 +74441,10 @@ titles:
     verified: true
   - title: Poslednij porog
     subtitle: Roman
+    original_title: Küszöbök
     authors:
       - Andraš Berkeši
+    translators:
       - E. Bočarnikova
     year: 1981
     language: Russian
@@ -74051,8 +74560,10 @@ titles:
     verified: true
   - title: Proverka na tverdost'
     subtitle: Povest'
+    original_title: Härtetest
     authors:
       - Wolfgang Held
+    translators:
       - J. D. Čuprov
     year: 1981
     language: Russian
@@ -74224,8 +74735,10 @@ titles:
     verified: true
   - title: Severnye vorota
     subtitle: Roman
+    original_title: At északi kapu
     authors:
       - Mihály Földes
+    translators:
       - Sergej V. Fadeev
     year: 1981
     language: Russian
@@ -74248,8 +74761,10 @@ titles:
     verified: true
   - title: Soldat ne sdaetsja
     subtitle: Roman
+    original_title: Voják se nevzdává
     authors:
       - Karel Richter
+    translators:
       - L. M. Madjakina
     year: 1981
     language: Russian
@@ -74461,6 +74976,7 @@ titles:
     subtitle: Povesti
     authors:
       - Andrzej Zbych
+    translators:
       - V. A. Golovčanskij
     year: 1981
     language: Russian
@@ -74585,7 +75101,8 @@ titles:
     verified: true
   - title: Uragan
     subtitle: Povesti
-    authors:
+    authors: []
+    translators:
       - Oleg T. Darusenkov
     year: 1981
     language: Russian
@@ -74727,6 +75244,7 @@ titles:
     subtitle: Sbornik rasskazov
     authors:
       - Stanisław Barszczewski
+    translators:
       - Vitalij Anatol'evič Svetlov
     year: 1981
     language: Russian
@@ -74740,6 +75258,7 @@ titles:
     subtitle: Sbornik rasskazov
     authors:
       - V. A. Nikol'skij
+    translators:
       - V. A. Svetlov
     year: 1981
     language: Russian
@@ -74892,8 +75411,10 @@ titles:
     verified: true
   - title: Vozvraščenie v S
     subtitle: Roman
+    original_title: Rückkehr nach S
     authors:
       - Stefan Schoblocher
+    translators:
       - V. G. Černjavskij
     year: 1981
     language: Russian
@@ -75263,8 +75784,10 @@ titles:
     verified: true
   - title: Bez vlasti
     subtitle: Roman
+    original_title: Hatalom nélkül
     authors:
       - Imre Dobozy
+    translators:
       - J. Šišmonin
     year: 1982
     language: Russian
@@ -75274,8 +75797,10 @@ titles:
     verified: true
   - title: Buduščee za nami
     subtitle: Rasskazy
+    original_title: Utre živott̋ šče bd̋e naš
     authors:
       - Vladimir Tanov
+    translators:
       - Ju. V. Listratov
     year: 1982
     language: Russian
@@ -75296,8 +75821,10 @@ titles:
     verified: true
   - title: Devuška Ann i soldat
     subtitle: Povesti
+    original_title: Das Maedchen Ann und der Soldat
     authors:
       - Heinz Kruschel
+    translators:
       - Ju. I. Legkich
     year: 1982
     language: Russian
@@ -75309,6 +75836,7 @@ titles:
     subtitle: Roman
     authors:
       - Pavlo A. Zahrebel'nyj
+    translators:
       - I. F. Karabutenko
     year: 1982
     language: Russian
@@ -75898,9 +76426,11 @@ titles:
     verified: true
   - title: Normandiâ-Neman
     subtitle: Vospominaniâ letčika
+    original_title: Normandie-Niemen
     authors:
       - Žoffr
       - Zhoffr (Жоффр)
+    translators:
       - G. P. Zagrevskij
       - G. P. Zagrevskii (Г. П. Загревский)
     year: 1982
@@ -76389,8 +76919,10 @@ titles:
     verified: true
   - title: Skitanija
     subtitle: Roman
+    original_title: Irrfahrt
     authors:
       - Gerhard Grümmer
+    translators:
       - T. S. Golunova
     year: 1982
     language: Russian
@@ -76836,6 +77368,7 @@ titles:
   - title: V râdah dvuh armij
     authors:
       - Marian Nowiński
+    translators:
       - Petr Kuz'mič Kostikov
     year: 1982
     language: Russian
@@ -77086,6 +77619,7 @@ titles:
     authors:
       - Marek Hagmajer
       - Aleksandr Efremovič Efremov
+    translators:
       - Dmitrij Georgievič Tomaševskij
     year: 1982
     language: Russian
@@ -77269,8 +77803,10 @@ titles:
     verified: true
   - title: Bol'šoj žrebij
     subtitle: Roman
+    original_title: Golemijat žrebij
     authors:
       - Rangel Ignatov
+    translators:
       - I. I. Kormil'cev
     year: 1983
     language: Russian
@@ -77620,8 +78156,10 @@ titles:
     verified: true
   - title: Jana i Jan
     subtitle: Roman
+    original_title: Jan a Jana
     authors:
       - Jiřina Trojanová
+    translators:
       - F. P. Petrov
     year: 1983
     language: Russian
@@ -78030,8 +78568,10 @@ titles:
         url: https://search.worldcat.org/title/838762262
     verified: true
   - title: Ničejnoj zemli ne byvaet
+    original_title: Es gibt kein Niemandsland
     authors:
       - Walter Flegel
+    translators:
       - Ju. I. Legkich
     year: 1983
     language: Russian
@@ -78104,8 +78644,10 @@ titles:
     verified: true
   - title: Odin sredi čužich
     subtitle: Povesti
+    original_title: Sam wśród obcych
     authors:
       - Marian Reniak
+    translators:
       - V. A. Svetlov
     year: 1983
     language: Russian
@@ -78347,8 +78889,10 @@ titles:
     verified: true
   - title: Poslednij šag
     subtitle: Roman
+    original_title: Un glonte pentru resident
     authors:
       - Haralamb Zincă
+    translators:
       - J. P. Zajunčkovskij
     year: 1983
     language: Russian
@@ -78567,6 +79111,7 @@ titles:
     subtitle: Roman
     authors:
       - Lidija L. Arabej
+    translators:
       - Tat'jana Gorbačeva
     year: 1983
     language: Russian
@@ -78587,8 +79132,10 @@ titles:
     verified: true
   - title: Stavka bol'še, čem žizn
     subtitle: Povesti
+    original_title: Stawka większa niž žycie
     authors:
       - Andrzej Zbych
+    translators:
       - V. A. Golovčanskij
     year: 1983
     language: Russian
@@ -78647,8 +79194,10 @@ titles:
         url: https://search.worldcat.org/title/1183722497
     verified: true
   - title: Tainstvennaja neznakomka
+    original_title: Die grosse Unbekannte
     authors:
       - Kurt Zimmermann
+    translators:
       - A. M. Ševčenko
     year: 1983
     language: Russian
@@ -78895,7 +79444,8 @@ titles:
     verified: true
   - title: Vyzov brošen
     subtitle: Povesti
-    authors:
+    authors: []
+    translators:
       - V. B. Ramzes
     year: 1983
     language: Russian
@@ -79220,8 +79770,10 @@ titles:
     verified: true
   - title: Bluždajuščie ogni
     subtitle: Povest'
+    original_title: Bledne ognie
     authors:
       - Zbigniew Domino
+    translators:
       - V. A. Svetlov
     year: 1984
     language: Russian
@@ -79704,6 +80256,8 @@ titles:
     series: Biblioteka Oficera
     authors:
       - Dmitrij Antonovic Volkogonov
+    editors:
+      - Dimitri Antonovitch Volkogonov
     year: 1984
     language: Russian
     sources:
@@ -79861,6 +80415,9 @@ titles:
     authors:
       - M. E. Karyshev
       - Sergeĭ Sergeevich Maksimov
+    editors:
+      - M. E. Karyšev
+      - M. E. Karyshev (М.Е Карышев)
     year: 1984
     language: Russian
     pages: 286
@@ -80110,8 +80667,10 @@ titles:
     verified: true
   - title: Pokušenie
     subtitle: Roman
+    original_title: Aufstand der Soldaten
     authors:
       - Hans Hellmut Kirst
+    translators:
       - V. V. Semin
     year: 1984
     language: Russian
@@ -80254,8 +80813,10 @@ titles:
     verified: true
   - title: Rešajuščie dni
     subtitle: Vospominanija
+    original_title: Gornoorjachovskijat partizanski otrjad
     authors:
       - Kiril Kosev
+    translators:
       - V. N. Grebennikov
     year: 1984
     language: Russian
@@ -80712,6 +81273,7 @@ titles:
     subtitle: Povest'
     authors:
       - Šaraf R. Rašidov
+    translators:
       - Sergej A. Baruzdin
     year: 1984
     language: Russian
@@ -80979,8 +81541,10 @@ titles:
     verified: true
   - title: Vysota
     subtitle: Povest'
+    original_title: Vyška
     authors:
       - Josef Kebza
+    translators:
       - S. M. Sokolov
     year: 1984
     language: Russian
@@ -81006,6 +81570,7 @@ titles:
     authors:
       - Mihail Petrovič Lâlʹko
       - Mikhail Petrovich Lialko (Михаил Петрович Лялько)
+    translators:
       - N. Rogova
       - N. Rogova (Н. Рогова)
     year: 1984
@@ -81075,8 +81640,10 @@ titles:
     verified: true
   - title: Znoj prošlogo
     subtitle: Povest'
+    original_title: Žarava ot minaloto
     authors:
       - Georgij Nikolov
+    translators:
       - Ju. V. Listratov
     year: 1984
     language: Russian
@@ -81242,6 +81809,7 @@ titles:
     subtitle: Povest'
     authors:
       - Janusz Przymanowski
+    translators:
       - O. E. Akimčenko
       - Lev Grigor'evič Kaškurevič
       - Vladimir Ivanovič Kiselev
@@ -81528,8 +82096,10 @@ titles:
     verified: true
   - title: Janvar', fevral', mart
     subtitle: Roman v povestjach
+    original_title: Január, február, március
     authors:
       - Gyula Fekete
+    translators:
       - F. Oskolkov
     year: 1985
     language: Russian
@@ -81799,6 +82369,8 @@ titles:
     authors:
       - G. S. Gorškov
       - G. S. Gorshkov (Г.С. Горшков)
+    editors:
+      - Georgij S. Gorškov
     year: 1985
     language: Russian
     sources:
@@ -81859,6 +82431,7 @@ titles:
     verified: true
   - title: My, kto zhivy...
     subtitle: Roman
+    original_title: Nosotros, los sobrevivientes
     authors:
       - Luis Rogelio Nogueras
     year: 1985
@@ -81872,9 +82445,10 @@ titles:
     verified: true
   - title: Na krutom perevale
     authors:
-      - B. S. Ivanov
       - Maria Ioniţă
       - Aurel Mihale
+    translators:
+      - B. S. Ivanov
     year: 1985
     language: Russian
     sources:
@@ -81977,8 +82551,10 @@ titles:
     verified: true
   - title: Obrečennye na smert'
     subtitle: Roman
+    original_title: Bitte sterben zu dürfen
     authors:
       - Hans von Oettingen
+    translators:
       - G. G. Afanas'ev
     year: 1985
     language: Russian
@@ -82045,8 +82621,10 @@ titles:
         url: https://openlibrary.org/books/OL15468352M
     verified: true
   - title: Opasnaja granica
+    original_title: Nebezpečna hranice
     authors:
       - František Frýda
+    translators:
       - O. E. Lušnikov
     year: 1985
     language: Russian
@@ -82189,8 +82767,10 @@ titles:
     verified: true
   - title: Partizany v Bichače
     subtitle: Roman
+    original_title: Delije na Bihaću
     authors:
       - Branko Ćopić
+    translators:
       - I. Juferov
     year: 1985
     language: Russian
@@ -82321,8 +82901,10 @@ titles:
     verified: true
   - title: Pozyvnoj "Venera"
     subtitle: Roman
+    original_title: Sao mai
     authors:
       - Dũng Ha
+    translators:
       - I. P. Zimonina
     year: 1985
     language: Russian
@@ -82614,6 +83196,7 @@ titles:
     subtitle: Povest', rasskazy
     authors:
       - Jerzy Grzymkowski
+    translators:
       - Vladimir Ivanovič Voronkov
     year: 1985
     language: Russian
@@ -82653,8 +83236,10 @@ titles:
     verified: true
   - title: Utrennjaja zvezda
     subtitle: Roman
+    original_title: Naǧmat aṣ-ṣubḥ
     authors:
       - Muḥammad Ibrāhīm al- ʿAlī
+    translators:
       - N. V. Mel'nik
     year: 1985
     language: Russian
@@ -82806,8 +83391,10 @@ titles:
     verified: true
   - title: Volčata
     subtitle: Roman
+    original_title: Volčiči
     authors:
       - Tone Svetina
+    translators:
       - G. Polegaev
     year: 1985
     language: Russian
@@ -83249,8 +83836,10 @@ titles:
     verified: true
   - title: Barchatnaja roza
     subtitle: Roman
+    original_title: Bông hông nhung
     authors:
       - Viet Tran
+    translators:
       - E. A. Bazdyrev
     year: 1986
     language: Russian
@@ -83403,8 +83992,10 @@ titles:
     verified: true
   - title: Drugoj bereg
     subtitle: Roman
+    original_title: Drugi brzeg
     authors:
       - Jerzy Jesionowski
+    translators:
       - A. D. Verbickij
     year: 1986
     language: Russian
@@ -83575,8 +84166,10 @@ titles:
     verified: true
   - title: Jordanka Nikolova
     subtitle: Dokumental'naja povest'
+    original_title: Jordanka Nikolova
     authors:
       - Angel Dafinkičev
+    translators:
       - Irina Evgen'evna Saburova
     year: 1986
     language: Russian
@@ -83871,8 +84464,10 @@ titles:
     verified: true
   - title: Novye synov'ja
     subtitle: Roman i povesti
+    original_title: A tüztorony új fiai
     authors:
       - Mihály Földes
+    translators:
       - Sergej V. Fadeev
     year: 1986
     language: Russian
@@ -84004,6 +84599,8 @@ titles:
     subtitle: Roman
     authors:
       - Olesʹ Honchar
+    translators:
+      - P. Karabutenko
     year: 1986
     series: Sovetskiĭ voennyĭ roman
     language: Russian
@@ -84087,6 +84684,8 @@ titles:
     authors:
       - Ûrij Ivanovič Černov
       - Iurii Ivanovich Chernov (Юрий Иванович Чернов)
+    editors:
+      - J. I. Černov
     year: 1986
     language: Russian
     sources:
@@ -84600,6 +85199,7 @@ titles:
     subtitle: Povest'
     authors:
       - Joža Heroldova
+    translators:
       - V. A. Otkidač
     year: 1986
     language: Russian
@@ -84688,9 +85288,12 @@ titles:
     verified: true
   - title: Voennyj letčik
     subtitle: Vospominaniâ
+    original_title: Cronicas de un aviador
     authors:
       - Álvaro Prendes
       - Alvaro Prendes (Альваро Прендес)
+    translators:
+      - Ju. V. Pogosov
     year: 1986
     language: Russian
     sources:
@@ -85134,8 +85737,10 @@ titles:
         url: https://www.sudoc.fr/238423271
     verified: true
   - title: Bežency i pobediteli
+    original_title: Běženci a vítězové
     authors:
       - Vojta Erban
+    translators:
       - Viktor I. Andrijanov
     year: 1987
     language: Russian
@@ -85350,8 +85955,10 @@ titles:
     verified: true
   - title: Fal'šivye druz'ja
     subtitle: Roman
+    original_title: Falsche Kameraden
     authors:
       - Hans-Günter Heiden
+    translators:
       - V. V. Černyšev
     year: 1987
     language: Russian
@@ -85422,7 +86029,8 @@ titles:
     verified: true
   - title: Gory vysokie
     subtitle: Povesti
-    authors:
+    authors: []
+    translators:
       - V. Maksimov
     year: 1987
     language: Russian
@@ -85897,8 +86505,11 @@ titles:
     verified: true
   - title: Očnaja stavka
     subtitle: Povesti
-    authors:
+    authors: []
+    translators:
       - A. D. Verbickij
+      - V. A. Golovčanskij
+      - Pavlo V. Grabovs'kij
     year: 1987
     language: Russian
     sources:
@@ -85922,8 +86533,10 @@ titles:
     verified: true
   - title: Operacija "Al'fa"
     subtitle: Povest'
+    original_title: Kê hoach an pha
     authors:
       - Lê Chân
+    translators:
       - I. P. Zimonina
     year: 1987
     language: Russian
@@ -86073,7 +86686,8 @@ titles:
     verified: true
   - title: Pod obščim znamenem
     subtitle: Sbornik vospominanij
-    authors:
+    authors: []
+    translators:
       - V. I. Dvornikov
     year: 1987
     language: Russian
@@ -86449,6 +87063,7 @@ titles:
     subtitle: Povesti
     authors:
       - Andrzej Zbych
+    translators:
       - V. A. Golovčanskij
     year: 1987
     language: Russian
@@ -86502,6 +87117,8 @@ titles:
   - title: Taktika
     authors:
       - V. G. Reznichenko
+    editors:
+      - V. G. Reznicenko
     year: 1987
     edition: Izd. 2-e, pererab. i dop
     series: Biblioteka ofitsera
@@ -86671,7 +87288,8 @@ titles:
     verified: true
   - title: V konce vojny
     subtitle: Sbornik povestej
-    authors:
+    authors: []
+    translators:
       - V. Pochodun
     year: 1987
     language: Russian
@@ -87190,6 +87808,7 @@ titles:
     subtitle: Povest' i rasskazy
     authors:
       - S. M. Sokolov
+    translators:
       - E. J. Pavlov
     year: 1988
     language: Russian
@@ -87295,6 +87914,7 @@ titles:
     subtitle: Vospominanija oficera vojska pol'skogo
     authors:
       - Grzegorz Rybakow
+    translators:
       - A. D. Verbickij
       - A. P. Ponomarev
     year: 1988
@@ -87537,6 +88157,7 @@ titles:
     subtitle: Roman
     authors:
       - Vilis Lācis
+    translators:
       - Ja Šuman
     year: 1988
     language: Russian
@@ -87716,6 +88337,7 @@ titles:
   - title: Memuary maršala
     authors:
       - Dehuai Peng
+    translators:
       - Aleksandr Vadimovič Pancov
       - Aleksandr Vadimovich Pantsov (Александр Вадимович Панцов)
     year: 1988
@@ -88042,8 +88664,10 @@ titles:
     verified: true
   - title: Potom nastupit tišina
     subtitle: Povest'
+    original_title: Potem nastapi cisza
     authors:
       - Zbigniew Safjan
+    translators:
       - Vladimir Ivanovič Voronkov
     year: 1988
     language: Russian
@@ -88306,7 +88930,8 @@ titles:
     verified: true
   - title: Starye fotografii
     subtitle: Povesti i rasskazy
-    authors:
+    authors: []
+    translators:
       - Ju. I. Legkich
     year: 1988
     language: Russian
@@ -88819,8 +89444,10 @@ titles:
         url: https://search.worldcat.org/title/20294695
     verified: true
   - title: Žan i utta
+    original_title: Jan und Jutta
     authors:
       - Liselotte Welskopf-Henrich
+    translators:
       - Ju. I. Legkich
     year: 1988
     language: Russian
@@ -89063,6 +89690,7 @@ titles:
     subtitle: Povest'
     authors:
       - Zbigniew Safjan
+    translators:
       - Pavlo V. Grabovs'kij
       - V. I. Dvornikov
     year: 1989
@@ -89308,8 +89936,11 @@ titles:
     verified: true
   - title: I pogibali neslomlennye
     subtitle: Povestʹ
+    original_title: ... I vsički se bjacha obrekli
     authors:
       - Atanas Semerdzhiev
+    translators:
+      - Ju. V. Listratov
     year: 1989
     language: Russian
     pages: 407
@@ -89324,10 +89955,12 @@ titles:
     verified: true
   - title: I snova rassvet
     subtitle: Roman
+    original_title: Tékozlók
     authors:
       - Janos Földeak
-      - V. Pochodun
       - G. G. Afanas'ev
+    translators:
+      - V. Pochodun
     year: 1989
     language: Russian
     sources:
@@ -89353,6 +89986,7 @@ titles:
     series: Biblioteka junogo patriota
     authors:
       - Stepan I. Olijnyk
+    translators:
       - E. Gulak
     year: 1989
     language: Russian
@@ -89602,6 +90236,7 @@ titles:
     authors:
       - Oneste Pinto
       - L. C. Moyzisch
+    translators:
       - A. I. Čižov
     year: 1989
     language: Russian
@@ -89740,8 +90375,10 @@ titles:
     verified: true
   - title: Pochiščenie svobody
     subtitle: Povesti
+    original_title: Die Entfuehrung
     authors:
       - Wolfgang Schreyer
+    translators:
       - J. D. Čuprov
     year: 1989
     language: Russian
@@ -90044,8 +90681,9 @@ titles:
     subtitle: Sbornik
     authors:
       - L. P. Žerebcov
-      - B. S. Ivanov
       - Ion Aramă
+    translators:
+      - B. S. Ivanov
     year: 1989
     language: Russian
     sources:
@@ -90090,6 +90728,9 @@ titles:
     authors:
       - I. M. Golushko
       - V. I. Tsvetkov
+    editors:
+      - Viktor Ivanovič Cvetkov
+      - Viktor Ivanovich Tsvetkov (Виктор Иванович Цветков)
     year: 1989
     language: Russian
     pages: 20000
@@ -90290,8 +90931,11 @@ titles:
     verified: true
   - title: Trevoga na rassvete
     subtitle: Rasskazy
+    original_title: Alarm am Morgen
     authors:
       - Karl Wurzberger
+    translators:
+      - I. M. Kuz'menkov
     year: 1989
     language: Russian
     pages: 255
@@ -90503,6 +91147,7 @@ titles:
     subtitle: Povesti; perevod s vengerskogo
     authors:
       - G. G. Afanas'ev
+    translators:
       - S. I. Fadeev
     year: 1989
     language: Russian
@@ -90631,10 +91276,12 @@ titles:
     verified: true
   - title: Zvonar' iz Fridlanda
     subtitle: Povesti
+    original_title: Dzwonnik z Friedlandu
     authors:
       - Krystyn Ziemski
-      - V. I. Dvornikov
       - Vasilij I. Kiselev
+    translators:
+      - V. I. Dvornikov
     year: 1989
     language: Russian
     sources:
@@ -91056,8 +91703,10 @@ titles:
     isbn: '5203009139'
   - title: Jana i Jan
     subtitle: Roman
+    original_title: Jan a Jana
     authors:
       - Jiřina Trojanová
+    translators:
       - F. P. Petrov
     year: 1990
     language: Russian
@@ -91428,6 +92077,7 @@ titles:
     subtitle: Povesti
     authors:
       - Marian Reniak
+    translators:
       - A. P. Ponomarev
       - Vitalij Anatol'evič Svetlov
     year: 1990
@@ -91979,6 +92629,7 @@ titles:
     verified: true
   - title: V Sibiri dalekoj
     subtitle: Roman
+    original_title: Ketten a sok közül
     authors:
       - Antal Pogoni
       - Antal Pogoni (Антал Погони)
@@ -92335,12 +92986,14 @@ titles:
     verified: true
   - title: Mitra
     subtitle: Povest'
+    original_title: Mitra
     authors:
       - Kaweh Pur Rahnama
-      - P. V. Grabovskij
       - Marian Reniak
-      - Nikolaj Leonidovič Plisko
       - Voennoe Izdatel'stvo (Ministerstvo Vooružennyh Sil SSSR)
+    translators:
+      - P. V. Grabovskij
+      - Nikolaj Leonidovič Plisko
     year: 1991
     language: Russian
     sources:
@@ -92781,6 +93434,8 @@ titles:
     subtitle: V dvuch tomach
     authors:
       - Ivan G. Paderin
+    editors:
+      - M. I. Il'in
     language: Russian
     sources:
       - title: K10plus record 1122198124

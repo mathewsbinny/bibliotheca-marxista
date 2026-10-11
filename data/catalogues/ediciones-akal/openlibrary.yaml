@@ -4,9 +4,11 @@
 publisher: ediciones-akal
 titles:
   - title: El gran siglo de España, 1501-1621
+    original_title: The golden century of Spain, 1501-1621
     series: Akal Mensual; v. 2
     authors:
       - R. Trevor Davies
+    translators:
       - Manuel de la Escalera
     year: 1972
     language: Spanish
@@ -17,6 +19,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb35227093b
     verified: true
   - title: Fábrica de sueños
+    original_title: Fabrika snov
     series: Akal Mensudi; v. 1
     authors:
       - Il'ia Grigor'evich Èrenburg
@@ -103,6 +106,8 @@ titles:
     verified: true
   - title: Colección Arealonga
     authors: []
+    editors:
+      - Xesús Alonso Montero
     year: 1973
     language: Spanish
     sources:
@@ -137,6 +142,7 @@ titles:
     series: Akal mensual; 2
     authors:
       - Reginald Trevor Davies
+    translators:
       - Manuel de la Escalera
     year: 1973
     language: Spanish
@@ -340,6 +346,8 @@ titles:
     subtitle: Basado en la edición original, Valencia, 1519, con las composiciones suprimidas del Cancionero general de Hernando del Castillo, y las adiciones y Advertencias de Luis de Usoz y Rió, Londrés, 1841-43
     authors:
       - Pablo Jauralde Pou
+    editors:
+      - Juan Alfredo Bellón Cazabán
     year: 1974
     series: Colección Manifiesto; 3
     language: Spanish
@@ -435,6 +443,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/001053886
     verified: true
   - title: Diez días que estremecieron el mundo
+    original_title: Ten days that shook the world
     authors:
       - John Reed
       - Ángel Pozo Sandoval
@@ -608,6 +617,7 @@ titles:
     verified: true
   - title: Los infortunios de la virtud
     subtitle: El presidente burlado
+    original_title: Les infortunes de la vertu
     series: Akal Mensual; v. 7
     authors:
       - Sade
@@ -1023,6 +1033,8 @@ titles:
     verified: true
   - title: Colección Expresiones. Serie Teatro / dirigida por Moisés Pérez Coterillo
     authors: []
+    editors:
+      - Moisés Pérez Coterillo
     year: 1975
     language: Not recorded
     sources:
@@ -1050,6 +1062,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991034167239708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Diez días que estremecieron el mundo
+    original_title: Ten days that shook the world
     series: Akal 74; 6
     authors:
       - John Reed
@@ -1176,6 +1189,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991101979309705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: En España
+    original_title: Delo bylo v Ispanii
     series: Colección Akal 74; 11
     authors:
       - Leon Trotsky
@@ -1210,6 +1224,8 @@ titles:
   - title: Ideologías y técnicas literarias
     authors:
       - Ignazio Ambrogio
+    translators:
+      - Antonio Sánchez Trigueros
     year: 1975
     series: 'Colección Manifiesto; 7: Serie Teoría y crítica'
     language: Spanish
@@ -1285,9 +1301,12 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991045689779708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La guerra hispano-cubano-americana y el nacimiento del imperialismo norteamericano 1895 - 1902
+    original_title: The Spanish-Cuban-American war and the birthplace of American imperialism, 1895-1902
     series: Manifiesto; 10
     authors:
       - Philip Sheldon Foner
+    translators:
+      - Lucíla Benítez
     year: 1975
     language: Spanish
     sources:
@@ -1595,6 +1614,8 @@ titles:
   - title: Obras completas
     authors:
       - Celso Emilio Ferreiro
+    editors:
+      - Xesús Alonso Montero
     year: 1975
     series: Colección Arealonga
     language: Spanish
@@ -1657,6 +1678,8 @@ titles:
   - title: Obras completas... / Celso Emilio Ferreiro; estudo e bibliografía de Xesús Alonso Montero
     authors:
       - Celso Emilio Ferreiro
+    editors:
+      - Xesús Alonso Montero
     year: 1975
     language: Spanish
     sources:
@@ -1813,6 +1836,7 @@ titles:
         url: https://search.worldcat.org/title/2452007
     verified: true
   - title: Sátiras
+    original_title: Satirae
     series: 'Colección: Manifiesto. Serie: Clásicos; v. 6'
     authors:
       - Aulo Persio Flaco
@@ -2065,6 +2089,8 @@ titles:
     authors:
       - Jacek Kuro'n
       - Karol Modzelewsky
+    translators:
+      - Mariano Fernández
     year: 1976
     language: Spanish
     sources:
@@ -2080,6 +2106,7 @@ titles:
     series: Akal 74; 76
     authors:
       - Rosa Luxemburg
+    translators:
       - F. Suárez
     year: 1976
     language: Spanish
@@ -2277,8 +2304,11 @@ titles:
     verified: true
   - title: El capital
     subtitle: Crítica de la economía política
+    original_title: Das Kapital
     authors:
       - Karl Marx
+    translators:
+      - Vicente Romano García
     year: 1976
     language: Spanish
     sources:
@@ -2293,6 +2323,7 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/el-capital-i
   - title: El fascismo
+    original_title: Du fascisme
     authors:
       - Ernest Mandel
     year: 1976
@@ -2371,6 +2402,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/009862216
     verified: true
   - title: El suicidio
+    original_title: Le suicide
     series: 'Colección Manifiesto: Serie Sociología; 31'
     authors:
       - Émile Durkheim
@@ -2382,6 +2414,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991034877869708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: En España
+    original_title: Delo bylo v Ispanii
     series: Akal 74; 11
     authors:
       - Leon Trotsky
@@ -2628,6 +2661,8 @@ titles:
   - title: Historia social de la literatura vasca
     authors:
       - Ibon Sarasola
+    translators:
+      - Jesús Antonio Cid
     year: 1976
     series: Akal 74; 59
     language: Spanish
@@ -2975,6 +3010,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991047401699708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La séptima cruz
+    original_title: Das siebte Kreuz
     series: Colección Manifiesto; 38
     authors:
       - Anna Seghers
@@ -2985,6 +3021,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991057480609708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La situacion de la clase obrera en Inglaterra
+    original_title: Die Lage der arbeitenden Klasse in England
     series: 'Colección Manifiesto; v. 29: serie Sociología'
     authors:
       - Friedrich Engels
@@ -3020,6 +3057,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991048048789708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La tesis de abril
+    original_title: Aprel'skie tezisy
     series: Akal 74; 61
     authors:
       - Vladimir Il'ich Lenin
@@ -3365,6 +3403,8 @@ titles:
   - title: Pablo Iglesias, una vida heróica
     authors:
       - Julián Zugazagoitia
+    editors:
+      - Juan Pablo Fusi
     year: 1976
     edition: Ed. / de Juan Pablo Fusi
     series: Historia
@@ -4156,6 +4196,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000175292
     verified: true
   - title: Diez días que estremecieron el mundo
+    original_title: Ten days that shook the world
     series: Akal 74; 6
     authors:
       - John Reed
@@ -4167,6 +4208,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991057105579708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Economía de la edad de piedra
+    original_title: Stone age economics
     series: Coleccion Manifiesto; 56
     authors:
       - Marshall Sahlins
@@ -4206,6 +4248,8 @@ titles:
   - title: El discurso interrumpido
     authors:
       - Gustavo Fabra Barreiro
+    editors:
+      - Mauro Armiño
     year: 1977
     series: Akal mensual; 12
     language: Spanish
@@ -4561,6 +4605,8 @@ titles:
     subtitle: 'Colección absolutamente íntegra de los graciosísimos cuentos libertinos: manuscrito rarísimo y precioso, jamás impreso hasta ahora, que ha sido hallado por la buena fortuna de Joaquín López Barbadillo'
     authors:
       - Félix María de Samaniego
+    editors:
+      - Joaquin Lopez Barbadillo
     year: 1977
     language: Spanish
     pages: 157
@@ -4692,6 +4738,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991047795659708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La mujer y el socialismo
+    original_title: Die Frau und der Sozialismus
     series: Akal 74; 83
     authors:
       - August Bebel
@@ -4718,6 +4765,7 @@ titles:
         url: https://www.sudoc.fr/076021696
     verified: true
   - title: La sagrada familia o Crítica de la crítica contra Bruno Bauer y consortes
+    original_title: Die heilige Familie
     series: Akal 74; 105
     authors:
       - Karl Marx
@@ -4733,6 +4781,8 @@ titles:
     subtitle: (Tragicomedia de Lisandro y Roselia) ...
     authors:
       - Sancho de Muñón
+    editors:
+      - Joaquin Lopez Barbadillo
     year: 1977
     series: Biblioteca de López Barbadillo y sus amigos
     language: Spanish
@@ -4898,6 +4948,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb35230071j
     verified: true
   - title: Mañana, España
+    original_title: Demain l'Espagne
     series: Akal 74; 71
     authors:
       - Santiago Carrillo
@@ -4928,6 +4979,7 @@ titles:
         url: https://search.worldcat.org/title/11582041
     verified: true
     subtitle: Ilustrado y explicado al alcance de todos, cultos y incultos, vivos y tontos
+    original_title: Manifest der Kommunistischen Partei
     links:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/karl-marx-manifiesto-comunista
@@ -5134,6 +5186,7 @@ titles:
     verified: true
   - title: Sempre en Galiza
     subtitle: Versión en castellano
+    original_title: Sempre en Galiza
     series: Obra completa / Castelao; 2
     authors:
       - Alfonso Rodríguez Castelao
@@ -5179,6 +5232,8 @@ titles:
     subtitle: La tercera Celestina
     authors:
       - Sancho de Muñón
+    editors:
+      - Joaquín López Barbadillo
     year: 1977
     language: Spanish
     sources:
@@ -5200,6 +5255,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991034665189708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: ¿Qué hacer?
+    original_title: ¿Qué hacer?
     series: Akal 74; 16
     authors:
       - Vladimir Il'ich Lenin
@@ -5216,6 +5272,7 @@ titles:
         url: https://archive.org/details/que-hacer-lenin
   - title: 'Anandria: confesión de la señorita Safo'
     subtitle: 'Historia ingenua, rara y deliciosa de una libertina precoz y de una sociedad secreta de amor sáfico: obra francesa anónima del siglo XVIII por primera vez puesta en castellano por Joaquín López Barbadillo'
+    original_title: Confession de mademoiselle Sapho
     authors:
       - Mathieu-François Pidansat de Mairobert
       - Joaquín López Barbadillo
@@ -5431,9 +5488,12 @@ titles:
         url: https://search.worldcat.org/title/5882451
     verified: true
   - title: Diario de la guerra española
+    original_title: Ispanskii dnevnik
     series: Colección manifiesto; 70
     authors:
       - Michail Kolʹcov
+    translators:
+      - José Fernández Sánchez
     year: 1978
     language: Spanish
     sources:
@@ -5585,6 +5645,7 @@ titles:
     verified: true
   - title: Gamiani o Dos noches de pasión
     subtitle: 'Maravilloso cuadro en que se pintan las orgías sáficas y sádicas de una frenética gozadora de amor: novela (hasta hoy casi desconocida) del excelso poeta Alfredo de Musset'
+    original_title: Gamiani
     authors:
       - Alfred de Musset
       - Joaquín López Barbadillo
@@ -5595,6 +5656,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991036517309708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Grámatica
+    original_title: Compendio de gramática gallega-castellana
     series: Arealonguiña; 22
     authors:
       - Francisco Mirás
@@ -5613,7 +5675,8 @@ titles:
         url: https://search.worldcat.org/title/5919820
     verified: true
   - title: Gran libro de San Cipriano o los tesoros del hechicero
-    authors:
+    authors: []
+    translators:
       - Isaac Alonso Estraviz
     year: 1978
     language: Spanish
@@ -5929,6 +5992,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000255184
     verified: true
   - title: Las reglas del método sociológico
+    original_title: Les régles de la méthode sociologique
     series: 'Colección Manifiesto; 71: Serie Sociología'
     authors:
       - Émile Durkheim
@@ -6023,6 +6087,7 @@ titles:
     verified: true
   - title: Los diálogos del divino Pietro Aretino
     subtitle: Ahora por vez primera puestos de la lengua toscana en castellano
+    original_title: Ragionamenti
     authors:
       - Pietro Aretino
       - Joaquín López Barbadillo
@@ -6066,6 +6131,7 @@ titles:
     verified: true
   - title: Los infortunios de la virtud
     subtitle: El presidente burlado
+    original_title: Les infortunes de la vertu
     series: Akal mensual; 7
     authors:
       - Sade
@@ -6115,6 +6181,7 @@ titles:
     verified: true
   - title: Margot la Remendona
     subtitle: 'Historia de una prostituta: novela filosófica- erótica'
+    original_title: Margot la Ravaudeuse
     authors:
       - Jean-Louis Fougeret de Montbron
     year: 1978
@@ -6914,6 +6981,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991011007859708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El origen de la vida
+    original_title: Vozniknovenie žizni
     series: Akal bolsillo; 1
     authors:
       - Alexander Oparin
@@ -6946,6 +7014,7 @@ titles:
     verified: true
   - title: El servicio de Sanidad Soviético
     subtitle: Estudio histórico y comparativo
+    original_title: The Soviet health service
     series: 'Colección manifiesto: Serie Sociología; 83'
     authors:
       - Gordon M. Hyde
@@ -7007,6 +7076,8 @@ titles:
   - title: Galicia
     subtitle: Mapa físico
     authors: []
+    editors:
+      - Ediciones Akal
     year: 1979
     language: Spanish
     sources:
@@ -7016,6 +7087,8 @@ titles:
   - title: Historia de Galicia
     authors:
       - Ramon Otero Pedrayo
+    editors:
+      - Ramón Otero Pedrayo
     year: 1979
     series: Arealonga
     language: Galician
@@ -7068,6 +7141,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991003300479708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Historia de las cruzadas
+    original_title: Histoire des croisades
     series: Akal Bolsillo; 3
     authors:
       - Mijail Zaborov
@@ -7088,6 +7162,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991010743259708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Historia de Roma
+    original_title: Istoria Rima
     series: Serie textos
     authors:
       - Sergueï Ivanovich Kovaliov
@@ -7310,6 +7385,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991053140129708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: O libro dos homenaxes
+    original_title: O libro dos homenaxes
     authors:
       - Celso Emilio Ferreiro
     year: 1979
@@ -7370,6 +7446,8 @@ titles:
   - title: Obras completas
     authors:
       - Ramón Cabanillas
+    editors:
+      - Xesús Alonso Montero
     year: 1979
     series: Colección Arealonga
     language: Galician
@@ -7582,6 +7660,7 @@ titles:
     pages: 111
     isbn: '8473394569'
   - title: ¿Qué es la teoría de la relatividad?
+    original_title: Chto takoe teoriia otnositel nosti
     series: Akal bolsillo; 27
     authors:
       - L. Landau
@@ -7698,6 +7777,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991031974239708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Curso de lingüística general
+    original_title: Cours de linguistique générale
     series: Akal Universitaria; 1
     authors:
       - Ferdinand de Saussure
@@ -7843,6 +7923,7 @@ titles:
         url: https://search.worldcat.org/title/9501532
     verified: true
   - title: El origen de la vida
+    original_title: Vozniknovenie žizni
     series: Akal bolsillo; 1
     authors:
       - Aleksandr Ivanovich Oparín
@@ -7854,6 +7935,7 @@ titles:
     verified: true
   - title: El profeta
     subtitle: El loco; El vagabundo
+    original_title: The prophet
     series: Akal bolsillo; 25
     authors:
       - Kahlil Gibran
@@ -8047,6 +8129,7 @@ titles:
     verified: true
   - title: La America española y la America portuguesa
     subtitle: Siglos XVI-XVIII
+    original_title: L'Amèrique espagnole et l'Amèrique portugaise
     authors:
       - Bartolomé Bennassar
     year: 1980
@@ -8098,6 +8181,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/006662448
     verified: true
   - title: La filosofía en el tocador
+    original_title: La philosophie dans le boudoir
     series: Akal bolsillo; 10
     authors:
       - Sade
@@ -8170,6 +8254,7 @@ titles:
     pages: 335
     isbn: '8473395034'
   - title: La metamorfosis
+    original_title: Die Verwandlung
     series: Akal bolsillo; 14
     authors:
       - Franz Kafka
@@ -8315,6 +8400,8 @@ titles:
   - title: Obras
     authors:
       - Federico García Lorca
+    editors:
+      - Miguel García-Posada
     year: 1980
     series: Akal bolsillo
     language: Spanish
@@ -8340,6 +8427,8 @@ titles:
   - title: Obras completas
     authors:
       - Rosalía de Castro
+    editors:
+      - Mauro Armiño
     year: 1980
     series: Colección Arealonga
     language: Spanish
@@ -8375,6 +8464,7 @@ titles:
         url: https://www.sudoc.fr/006108733
     verified: true
   - title: Poema pedagógico
+    original_title: Pedagoguicheskaia poéma
     series: Akal bolsillo; 28
     authors:
       - Anton Makárenko
@@ -8436,6 +8526,8 @@ titles:
   - title: Teatro, I
     authors:
       - Federico García Lorca
+    editors:
+      - Miguel García-Posada
     year: 1980
     language: Spanish
     sources:
@@ -8445,6 +8537,8 @@ titles:
   - title: Teatro, prosa e varios
     authors:
       - Ramón Cabanillas Enriquez
+    editors:
+      - Xesús Alonso Montero
     year: 1980
     language: Spanish
     sources:
@@ -8512,9 +8606,12 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991015298819708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Cantares gallegos
+    original_title: Cantares gallegos
     series: Akal bolsillo; 45
     authors:
       - Rosalía de Castro
+    editors:
+      - Mauro Armiño
     year: 1981
     language: Spanish
     sources:
@@ -8539,6 +8636,7 @@ titles:
       - label: Free ebook (Project Gutenberg)
         url: https://www.gutenberg.org/ebooks/59037
   - title: Carta al padre
+    original_title: Brief an den Vater
     series: Akal Bolsillo; 48
     authors:
       - Franz Kafka
@@ -8618,6 +8716,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991033133489708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Del Helenismo a la Edad Media
+    original_title: Dall'elenismo al medioevo
     series: 'Akal universitaria: serie Historia Antigua; 11'
     authors:
       - Ranuccio Bianchi Bandinelli
@@ -8741,6 +8840,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991026871889708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Escuela de Robinsones
+    original_title: L'école des Robinsons
     series: 'Akal bolsillo: Serie clásicos; 40'
     authors:
       - Jules Verne
@@ -8753,11 +8853,16 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991011375689708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Estudios sobre historia antigua
+    original_title: Studies in ancient society
     series: 'Akal Universitaria: Serie Historia Antigua'
     authors:
       - E. L. Bowie
       - M. I. Finley
       - Ramón López
+    editors:
+      - Moses I. Finley
+    translators:
+      - Rámon López
     year: 1981
     language: Spanish
     sources:
@@ -8824,6 +8929,7 @@ titles:
     verified: true
   - title: Historia de una democracia
     subtitle: 'Atenas: (Desde sus orígenes hasta la conquista macedonia)'
+    original_title: Histoire d'une democratie
     series: 'Akal Universitaria: Serie Historia Antigua; 25'
     authors:
       - Claude Mossé
@@ -8929,6 +9035,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000148833
     verified: true
   - title: La condena y otros relatos
+    original_title: Erzäblungen und kleine Prosa
     series: 'Akal bolsillo; 47: Serie clasicos'
     authors:
       - Franz Kafka
@@ -8969,6 +9076,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991042259149708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La llamada de la naturaleza
+    original_title: The call of the wild
     series: Akal bolsillo; 39
     authors:
       - Jack London
@@ -9028,6 +9136,7 @@ titles:
         url: https://d-nb.info/984544712
     verified: true
   - title: La sagrada familia o Crítica de la crítica, crítica contra Bruno Bauer y consortes
+    original_title: Die heilige Familie
     series: Akal 74; 105
     authors:
       - Karl Marx
@@ -9221,6 +9330,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000804291
     verified: true
   - title: Místicos, espirituales y alquimistas del siglo XVI alemán
+    original_title: Místicos, espirituales y alquimistas del siglo XVI alemán
     series: Akal bolsillo; 37
     authors:
       - Alexandre Koyré
@@ -9583,6 +9693,7 @@ titles:
     series: Akal bolsillo; 77
     authors:
       - Odysséas Elýtīs
+    translators:
       - Alfonso Silván
     year: 1982
     language: Spanish
@@ -9595,6 +9706,8 @@ titles:
   - title: Aproximación al Cercano Oriente
     authors:
       - Roberto Mesa
+    translators:
+      - Mauro Armiño
     year: 1982
     series: Akal bolsillo
     language: Spanish
@@ -9631,6 +9744,7 @@ titles:
   - title: Carta al padre
     authors:
       - Franz Kafka
+    translators:
       - Sergio Guillén
     year: 1982
     language: German
@@ -9680,6 +9794,7 @@ titles:
         url: https://www.sudoc.fr/229876080
     verified: true
   - title: Díez días que estremecieron al mundo
+    original_title: Ten days that shook the world
     series: Akal bolsillo; 74
     authors:
       - John Reed
@@ -9724,6 +9839,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991014021449708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El discurso del método
+    original_title: Discours de la méthode
     authors:
       - René Descartes
     year: 1982
@@ -9885,6 +10001,7 @@ titles:
     verified: true
   - title: Historia de las relaciones internacionales
     subtitle: Siglos XIX y XX
+    original_title: Histoire des relations internationales
     series: Akal/Textos
     authors:
       - Pierre Renouvin
@@ -9895,6 +10012,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991055803619708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Historia social de la literatura vasca
+    original_title: Historia social de la literatura vasca
     authors:
       - Ibon Sarasola
     year: 1982
@@ -9965,6 +10083,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991014003459708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Introducción a la arqueología clásica como historia del arte antiguo
+    original_title: Introduzione all'archeologia classica come storia dell'arte antica
     series: Akal Universitaria; 45
     authors:
       - Ranuccio Bianchi Bandinelli
@@ -10013,9 +10132,11 @@ titles:
         url: https://www.sudoc.fr/086655264
     verified: true
   - title: La condena y otros relatos
+    original_title: Erzäblungen und kleine Prosa
     series: Akal bolsillo. Sección clásicos; 47
     authors:
       - Franz Kafka
+    translators:
       - Sergio Guillén
     year: 1982
     language: Spanish
@@ -10044,6 +10165,7 @@ titles:
         url: https://www.sudoc.fr/074442872
     verified: true
   - title: La dama de las camelias
+    original_title: La dame aux camélias
     series: Akal bolsillo; 70
     authors:
       - Alexandre Dumas
@@ -10055,6 +10177,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991014077569708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La división del trabajo social
+    original_title: De la division du travail social
     series: 'Akal Universitaria; 39: Serie Sociología'
     authors:
       - Émile Durkheim
@@ -10067,6 +10190,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991015244849708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La esfinge de los hielos
+    original_title: Le sphinx des glaces
     series: Akal bolsillo; 79
     authors:
       - Jules Verne
@@ -10077,6 +10201,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991011694359708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La Guerra de los 100 años
+    original_title: La guerre de cents ans
     series: Akal / Universitaria; 31
     authors:
       - Edouard Perroy
@@ -10187,6 +10312,8 @@ titles:
   - title: Liberación y utopía
     authors:
       - María Angeles Durán
+    editors:
+      - María Ángeles Durán
     year: 1982
     series: Akal universitaria
     language: Spanish
@@ -10399,6 +10526,8 @@ titles:
   - title: Obras
     authors:
       - Federico García Lorca
+    editors:
+      - Miguel García-Posada
     year: 1982
     edition: 2. ed. revisada y ampliada
     series: Akal bolsillo
@@ -10466,6 +10595,8 @@ titles:
   - title: Poesía, I
     authors:
       - Federico García Lorca
+    editors:
+      - Miguel García-Posada
     year: 1982
     language: Spanish
     sources:
@@ -10517,8 +10648,13 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991008487709708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Teoria de la literatura
+    original_title: Izbrannye trudy
     authors:
       - Boris Tomachevski
+    editors:
+      - Fernando Lázaro Carreter
+    translators:
+      - Marcial Suárez
     year: 1982
     series: Akal universitaria, serie Letras
     language: Spanish
@@ -10613,9 +10749,11 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991030320889708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: América
+    original_title: Amerika
     series: Akal bolsillo; 114
     authors:
       - Franz Kafka
+    translators:
       - Ruth Saunner
     year: 1983
     language: Spanish
@@ -10628,6 +10766,8 @@ titles:
   - title: Antologia poetica
     authors:
       - Manoel-Antonio
+    editors:
+      - Cesar Antonio Molina
     year: 1983
     edition: Ed. bilingue / de Cesar Antonio Molina. --
     language: Spanish
@@ -10678,6 +10818,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991006707169708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Bartleby, el escribiente
+    original_title: Bartleby, the scrivener
     series: Akal bolsillo; 108
     authors:
       - Herman Melville
@@ -10742,6 +10883,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991017363589708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Cinco semanas en globo
+    original_title: Cinc semaines en ballon
     series: Akal bolsillo; 107
     authors:
       - Jules Verne
@@ -10819,8 +10961,12 @@ titles:
         url: https://search.worldcat.org/title/10059950
     verified: true
   - title: Economía de la Edad de Piedra
+    original_title: Stone Age Economics
     authors:
       - Marshall Sahlins
+    translators:
+      - Emilio Muñiz
+      - Ema Rosa Fondevilla
     year: 1983
     edition: 2nd ed
     series: Akal universitaria. Antropología, 61
@@ -10880,6 +11026,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1650861281
     verified: true
   - title: El maravilloso viaje de Nils Holgersson
+    original_title: Nils Holgerssons underbara resa genom Sverige
     series: Akal bolsillo; 121
     authors:
       - Selma Lagerlöf
@@ -10971,6 +11118,7 @@ titles:
     verified: true
   - title: Gora
     subtitle: Una juventud en la India
+    original_title: Góra
     series: Akal bolsillo; 104
     authors:
       - Rabindranath Tagore
@@ -10983,6 +11131,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991014449389708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Historia del estado bizantino
+    original_title: Geschichte des byzantinischen Staates
     series: Akal Universitaria; 55
     authors:
       - Georgije Ostrogorski
@@ -11191,9 +11340,11 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991014070249708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Los duelistas
+    original_title: The Duellists
     series: Akal bolsillo No. 103
     authors:
       - Joseph Conrad
+    translators:
       - Lillian Lorca
     year: 1983
     language: Spanish
@@ -11223,8 +11374,10 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991013988889708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Los paraísos artificiales
+    original_title: Les paradis artificiels
     authors:
       - Charles Baudelaire
+    translators:
       - Mauro Armiño
     year: 1983
     language: Spanish
@@ -11247,6 +11400,7 @@ titles:
     verified: true
   - title: Movimientos populares en Italia
     subtitle: Siglos XIV-XV
+    original_title: Narodnye dvizenija v gorodach
     series: Akal universitaria; 51
     authors:
       - Viktor Rutenburg
@@ -11267,6 +11421,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991012388539708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Poema pedagógico
+    original_title: Pedagoguicheskaia poéma
     series: Akal bolsillo; 28-30
     authors:
       - Anton Makárenko
@@ -11411,6 +11566,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991008476899708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Viaje de un naturalista alrededor del mundo
+    original_title: Diary of the voyage of H.M.S. Beagle
     authors:
       - Charles Darwin
     year: 1983
@@ -11420,6 +11576,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991055829409708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Viajes
+    original_title: Voyages de Marco Polo
     series: Akal bolsillo; 102
     authors:
       - Marco Polo
@@ -11451,6 +11608,7 @@ titles:
         url: https://www.sudoc.fr/048450197
     verified: true
   - title: ¿Qué es la teoría de la relatividad?
+    original_title: Chto takoe teoriia otnositel nosti
     series: Akal bolsillo; 27
     authors:
       - L. Landau
@@ -11619,6 +11777,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991053655749708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El origen de la vida
+    original_title: Vozniknovenie žizni
     authors:
       - Aleksandr Ivanovich Oparín
     year: 1984
@@ -11663,8 +11822,12 @@ titles:
     verified: true
   - title: Gora
     subtitle: Una juventud en la India
+    original_title: গোরা
     authors:
       - Rabindranath Tagore
+    translators:
+      - Anatole Sanderman
+      - Nina Sanderman
     year: 1984
     series: Akal Bolsillo No. 104
     language: Spanish
@@ -11746,6 +11909,7 @@ titles:
   - title: La Retórica del romanticismo
     authors:
       - Paul De Man
+    translators:
       - Julián Jiménez Heffernan
     year: 1984
     language: Spanish
@@ -11776,6 +11940,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991001674579708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La vuelta al mundo en ochenta días
+    original_title: Le tour du monde en quatre-vingt jours
     series: Akal bolsillo; 116
     authors:
       - Jules Verne
@@ -11905,6 +12070,7 @@ titles:
         url: https://openlibrary.org/books/OL13280645M
     verified: false
   - title: Máximas y reflexiones diversas
+    original_title: Maximes
     series: Akal bolsillo; 123
     authors:
       - François La Rochefoucauld
@@ -11918,6 +12084,8 @@ titles:
     verified: true
   - title: Novela Akal
     authors: []
+    editors:
+      - Joaquín Arnáiz
     year: 1984
     language: Spanish
     sources:
@@ -11938,9 +12106,12 @@ titles:
     verified: true
   - title: Razón y locura en la antigüa Grecia
     subtitle: Las raíces clásicas de la psiquiatría moderna
+    original_title: Mind and madness in ancient Greece
     series: Akal universitaria; 64
     authors:
       - Bennett Simon
+    translators:
+      - Felipe Criado-Boado
     year: 1984
     language: Spanish
     sources:
@@ -11988,6 +12159,7 @@ titles:
     verified: true
   - title: ¿Qué significa hablar?
     subtitle: Economía de los intercambios lingüísticos
+    original_title: Ce que parler veut dire
     authors:
       - Pierre Bourdieu
     year: 1985
@@ -12049,6 +12221,7 @@ titles:
     verified: true
     series: Historia del mundo conteporáneo; 10
   - title: Alrededor de la luna
+    original_title: Autour de la lune
     authors:
       - Jules Verne
       - Mauro Armiño
@@ -12125,6 +12298,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991058346219705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Cantares gallegos
+    original_title: Cantares gallegos
     series: Akal bolsillo; 135
     authors:
       - Rosalía de Castro
@@ -12145,6 +12319,7 @@ titles:
       - label: Free ebook (Project Gutenberg)
         url: https://www.gutenberg.org/ebooks/59037
   - title: Carta al padre
+    original_title: Brief an den Vater
     authors:
       - Franz Kafka
       - Sergio Guillén
@@ -12245,6 +12420,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991105360959705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: El Retrato de Dorian Gray
+    original_title: The picture of Dorian Gray
     series: Akal Bolsillo; 140
     authors:
       - Oscar Wilde
@@ -12272,11 +12448,14 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991021671679708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Emblemas
+    original_title: Emblematum liber
     series: Arte y estética; 2
     authors:
       - Andrea Alciati
       - Santiago Sebastián López
       - Aurora Egido
+    translators:
+      - Pilar Pedraza
     year: 1985
     language: Spanish
     sources:
@@ -12311,6 +12490,7 @@ titles:
     verified: true
   - title: Follas novas
     subtitle: Hojas nuevas
+    original_title: Follas novas
     authors:
       - Rosalía de Castro
     year: 1985
@@ -12482,6 +12662,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991013562289708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La Ilíada
+    original_title: La Ilíada
     series: Akal bolsillo; 155
     authors:
       - Homero
@@ -12501,6 +12682,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991051453889708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La llamada de la naturaleza
+    original_title: The call of the wild
     authors:
       - Jack London
       - Fernando Velasco
@@ -12511,6 +12693,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991055835699708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La metamorfosis
+    original_title: Die Verwandlung
     series: Akal bolsillo; 14
     authors:
       - Franz Kafka
@@ -12633,6 +12816,10 @@ titles:
       - H. M. Walser
       - H. M. Koelbing
       - Luis García Ballester
+    editors:
+      - Hans H. Walser
+      - Huldrych M. Koelbing
+      - Luis García-Ballester
     year: 1985
     language: Spanish
     sources:
@@ -12648,6 +12835,7 @@ titles:
     pages: 224
     isbn: '9788473397261'
   - title: Morfología del cuento
+    original_title: Morfologiâ skazki
     authors:
       - Vladimir Iakovlevich Propp
     year: 1985
@@ -12660,6 +12848,8 @@ titles:
     series: Akal Bolsillo; 21
     authors:
       - Federico García Lorca
+    editors:
+      - Miguel García-Posada
     year: 1985
     language: Spanish
     sources:
@@ -12702,6 +12892,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991001111019708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Poema pedagógico
+    original_title: Pedagoguicheskaia poéma
     series: Akal bolsillo; 165
     authors:
       - Anton Makárenko
@@ -12745,6 +12936,8 @@ titles:
   - title: Teatro
     authors:
       - Federico García Lorca
+    editors:
+      - Miguel García-Posada
     year: 1985
     series: Obras
     language: Spanish
@@ -12777,6 +12970,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991017179499708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Utopía
+    original_title: Utopia
     authors:
       - Tomás Moro
       - Ramón Esquerra
@@ -13015,6 +13209,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/007440233
     verified: true
   - title: Diez días que estremecieron el mundo
+    original_title: Ten days that shook the world
     authors:
       - John Reed
       - Ángel Pozo Sandoval
@@ -13029,6 +13224,8 @@ titles:
     authors:
       - Laurence Bardin
       - César Suárez
+    translators:
+      - Cesar Suarez
     year: 1986
     language: Spanish
     sources:
@@ -13136,8 +13333,11 @@ titles:
     verified: true
   - title: Franco, Falange y "Tercer Reich"
     subtitle: España en la Segunda Guerra Mundial
+    original_title: 'Spanien im Zweiten Weltkrieg : Franco, die Falange und das "Dritte Reich"'
     authors:
       - Klaus-Jörg Ruhl
+    translators:
+      - Nieves Serrano Altimiras
     year: 1986
     series: España sin espejo
     language: Spanish
@@ -13170,6 +13370,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991013720339708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Gargantúa
+    original_title: Gargantua
     series: Akal bolsillo; 153
     authors:
       - François Rabelais
@@ -13217,10 +13418,13 @@ titles:
     verified: true
   - title: Heracles loco
     subtitle: Los Heráclidas
+    original_title: Heracles
     series: Akal bolsillo; 146
     authors:
       - Eurípides
       - María Antonia Ozaeta Gálvez
+    translators:
+      - Maria Rosario Ozaeta Gálvez
       - Blanca Lampreave Tarácido
     year: 1986
     language: Spanish
@@ -13242,6 +13446,7 @@ titles:
     verified: true
   - title: Historia de al-Andalus
     subtitle: = (Kitāb al-Iktifāʾ)
+    original_title: Kitāb al-Iktifāʾ fī aḫbār al-ḫulafāʾ
     series: Akal bolsillo; 169
     authors:
       - ʿAbd-al-Malik Ibn-al-Kardabūs
@@ -13289,8 +13494,9 @@ titles:
     series: Akal universitaria
     authors:
       - Vsevolod Igorevič Avdiev
-      - Eugenio Olid González
       - María Mar Llinares García
+    translators:
+      - Eugenio Olid González
     year: 1986
     language: Spanish
     sources:
@@ -13301,6 +13507,7 @@ titles:
     verified: true
   - title: Historias
     subtitle: (Pasajes seleccionados)
+    original_title: Historias
     series: Akal/clásica; 5
     authors:
       - Polibio
@@ -13417,6 +13624,7 @@ titles:
     verified: true
   - title: La elección de sexo
     subtitle: A propósito de las teorías de R.J. Stoller
+    original_title: Le choix du sexe
     authors:
       - Agnès Fauré-Oppenheimer
       - Clara Janés
@@ -13478,6 +13686,8 @@ titles:
     subtitle: 1868-1974
     authors:
       - Geraldine M. Scanlon
+    translators:
+      - Rafael Mazarrasa
     year: 1986
     language: Spanish
     pages: 391
@@ -13502,6 +13712,7 @@ titles:
     edition: '[2a ed.]'
   - title: La producción de grandes hombres
     subtitle: Poder y dominación masculina entre los Baruya de Nueva Guinea
+    original_title: La producción de grandes hombres
     series: Akal universitaria. Serie Antropología; 90
     authors:
       - Maurice Godelier
@@ -13659,6 +13870,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991125692129705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Martin Eden
+    original_title: Martin Eden
     series: Akal bolsillo; 143
     authors:
       - Jack London
@@ -13717,6 +13929,8 @@ titles:
     series: Akal/bolsillo; 85
     authors:
       - José Bermejo
+    editors:
+      - José Carlos Bermejo Barrera
     year: 1986
     language: Spanish
     sources:
@@ -13738,9 +13952,11 @@ titles:
         url: https://openlibrary.org/books/OL47136047M
     verified: false
   - title: Monstruos, demonios y maravillas a fines de la Edad Media
+    original_title: Monstros, démons et merveilles à la fin du moyen âge
     series: Akal universitaria; 103
     authors:
       - Claude Kappler
+    translators:
       - Julio Rodríguez Puértolas
     year: 1986
     language: Spanish
@@ -13766,6 +13982,8 @@ titles:
     subtitle: Problemas existenciales y problemas vivenciales
     authors:
       - Eustaquio Sánchez Salor
+    editors:
+      - Eustaquio Sanchez Salor
     year: 1986
     series: Akal/clásica
     language: Spanish
@@ -13808,6 +14026,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991007282469708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Relación del viaje de España
+    original_title: Relation du voyage d'Espagne
     series: Akal bolsillo; 148
     authors:
       - Marie-Catherine Le Jumel de Barneville Aulnoy
@@ -13822,6 +14041,7 @@ titles:
     verified: true
   - title: Relación del viaje por España
     subtitle: Según edición de G. Mercadal
+    original_title: Relation du voyage d'Espagne
     series: Akal Bolsillo; 148
     authors:
       - Marie Catherine Le Jumel de Barneville d' Aulnoy
@@ -13850,6 +14070,7 @@ titles:
     verified: true
     series: Historia del mundo contemporáneo; 12
   - title: Tratado de pintura
+    original_title: Trattato della pittura
     authors:
       - Leonardo da Vinci
       - Ángel González García
@@ -13860,6 +14081,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991006940899708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: ¿Qué es la teoría de la relatividad?
+    original_title: Chto takoe teoriia otnositel nosti
     authors:
       - L. Landau
       - Y. Rumer
@@ -13994,6 +14216,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991064441579705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Biblioteca mitólogica
+    original_title: Biblioteca
     series: Akal/clásica; 13
     authors:
       - Apolodoro
@@ -14007,6 +14230,8 @@ titles:
   - title: Breve historia de la pintura española
     authors:
       - Enrique Lafuente Ferrari
+    editors:
+      - Joan Sureda
     year: 1987
     edition: 5a ed
     series: Arte y estética
@@ -14274,6 +14499,8 @@ titles:
     subtitle: Selección de textos
     authors:
       - Miguel de Unamuno
+    editors:
+      - Carlos Lerena
     year: 1987
     series: Akal universitaria
     language: Spanish
@@ -14342,6 +14569,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991007410659708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El fascismo
+    original_title: Du fascisme
     authors:
       - Ernest Mandel
     year: 1987
@@ -14410,6 +14638,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=037248278
     verified: true
   - title: El libro de la jungla
+    original_title: The jungle book
     authors:
       - Rudyard Kipling
       - Rafael Lassaletta
@@ -14421,9 +14650,12 @@ titles:
     verified: true
   - title: El Matriarcado
     subtitle: Una investigación sobre la ginecocracia en el mundo antiguo según su naturaleza religiosa y jurídica
+    original_title: Das Mutterrecht
     series: Akal universitaria; 107. Serie Interdisciplinar
     authors:
       - Johann Jakob Bachofen
+    translators:
+      - María Mar Llinares García
     year: 1987
     language: Spanish
     sources:
@@ -14630,6 +14862,7 @@ titles:
     series: Akal/arte y estética; 15
     authors:
       - Wladyslaw Tatarkiewicz
+    translators:
       - M. Mariño Sanchez-Elvira
     year: 1987
     language: Spanish
@@ -14655,6 +14888,7 @@ titles:
     verified: true
   - title: Historia de una democracia
     subtitle: 'Atenas: (desde sus orígenes hasta la conquista macedonia)'
+    original_title: Histoire d'une democratie
     series: Akal universitaria; 25. Serie Historia antigua
     authors:
       - Claude Mossé
@@ -14676,6 +14910,7 @@ titles:
     verified: false
   - title: Historia política del mundo contemporáneo
     subtitle: De 1945 a nuestros días
+    original_title: World politics since 1945
     series: Akal universitaria; 112. Serie historia contemporánea
     authors:
       - Peter Calvocoressi
@@ -14687,9 +14922,12 @@ titles:
     verified: true
   - title: Historia social de Grecia
     subtitle: (Desde el período micénico hasta el final de la época clásica)
+    original_title: Griechische Sozialgeschichte
     series: Akal universitaria; 100. Serie Historia antigua
     authors:
       - Fritz Gschnitzer
+    translators:
+      - Francisco Javier Fernández Nieto
     year: 1987
     language: Spanish
     sources:
@@ -14713,8 +14951,9 @@ titles:
     series: Arte y estética
     authors:
       - Cesare Ripa
-      - Juan Barja
       - María Adelaida Allo Manero
+    translators:
+      - Juan Barja
     year: 1987
     language: Spanish
     sources:
@@ -14792,9 +15031,12 @@ titles:
         url: https://search.worldcat.org/title/18336872
     verified: true
   - title: La América española y la América portuguesa, siglos XVI-XVIII
+    original_title: L'Amèrique espagnole et l'Amèrique portugaise
     series: Akal bolsillo; 26
     authors:
       - Bartolomé Bennassar
+    translators:
+      - Carmen Artal
     year: 1987
     language: Spanish
     sources:
@@ -14813,6 +15055,7 @@ titles:
     verified: true
   - title: La bruja
     subtitle: Una biografía de mil años fundamentada en las actas judiciales de la Inquisición
+    original_title: La sorcière
     authors:
       - Jules Michelet
     year: 1987
@@ -14822,9 +15065,11 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991007178499708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La condena y otros relatos
+    original_title: Das Urteil
     series: Akal bolsillo; 47
     authors:
       - Franz Kafka
+    translators:
       - Sergio Guillén
     year: 1987
     language: Spanish
@@ -14851,6 +15096,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991051331939708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La división del trabajo social
+    original_title: De la division du travail social
     series: Akal universitaria; 39. Serie Sociología
     authors:
       - Émile Durkheim
@@ -14989,6 +15235,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991010584249708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La Odisea
+    original_title: La Odisea
     authors:
       - Homero
       - Luis Alberto de Cuenca
@@ -15014,9 +15261,12 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991007578009708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La sociedad feudal
+    original_title: La société féodale
     series: Akal universitaria; 115. Serie Historia medieval
     authors:
       - Marc Bloch
+    translators:
+      - Eduardo Ripoll Perelló
     year: 1987
     language: Spanish
     sources:
@@ -15077,6 +15327,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991008401119708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Las extraordinarias aventuras de Julio Jurenito y sus discipulos
+    original_title: Neobychaïnye pojozhdeniia Julio Jurenito i ego uchenikov
     authors:
       - Ilya Ehremburg
     year: 1987
@@ -15090,6 +15341,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991008103439708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Las reglas del método sociológico
+    original_title: Les régles de la méthode sociologique
     series: Akal universitaria; 86. Serie Sociología
     authors:
       - Émile Durkheim
@@ -15270,6 +15522,7 @@ titles:
     verified: true
   - title: Obras morales y de costumbres
     subtitle: Moralia
+    original_title: Moralia
     series: Akal/clásica; 8
     authors:
       - Plutarco
@@ -15456,6 +15709,7 @@ titles:
     authors:
       - Michel Christol
       - Daniel Nony
+    translators:
       - Guillermo Fatás Cabeza
     year: 1988
     language: Spanish
@@ -15508,6 +15762,8 @@ titles:
   - title: Discursos practicables del nobilísimo arte de la pintura
     authors:
       - Jusepe Martínez
+    editors:
+      - Julián Gállego
     year: 1988
     series: Fuentes de arte
     language: Spanish
@@ -15567,6 +15823,8 @@ titles:
   - title: El arte italiano
     authors:
       - André Chastel
+    translators:
+      - Juan Calatrava
     year: 1988
     language: Spanish
     sources:
@@ -15576,6 +15834,7 @@ titles:
         url: https://www.sudoc.fr/055203361
     verified: true
   - title: El asno de oro
+    original_title: Metamorphoses
     series: Akal/clásica; 11
     authors:
       - Lucio Apuleyo
@@ -15629,8 +15888,11 @@ titles:
     verified: true
   - title: El Estado, la guerra y la paz
     subtitle: El persamiento politico español en el renacimiento, 1516-1559
+    original_title: The state, war and peace spanish political thought in the Renaissance, 1516-1559
     authors:
       - J. A. Fernández-Santamaría
+    translators:
+      - Juan José Faci Lacasta
     year: 1988
     series: Akal universitaria -- 119 -- Historia moderna
     language: Spanish
@@ -15688,9 +15950,11 @@ titles:
         url: https://www.sudoc.fr/142906271
     verified: true
   - title: El proceso
+    original_title: Der Prozess
     series: Akal bolsillo; 184
     authors:
       - Franz Kafka
+    translators:
       - G. B.
     year: 1988
     language: Spanish
@@ -15808,6 +16072,7 @@ titles:
     authors:
       - Jean Heffer
       - William Serman
+    translators:
       - María Mar Llinares García
     year: 1988
     language: Spanish
@@ -15826,6 +16091,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991018088029708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Historia de la guerra del Peloponeso
+    original_title: Historia de la guerra del Peloponeso
     series: Akal/clásica; 12
     authors:
       - Tucídides
@@ -15837,6 +16103,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991010069859708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Historia de las cruzadas
+    original_title: Histoire des croisades
     authors:
       - Mijail Zaborov
     year: 1988
@@ -15899,9 +16166,11 @@ titles:
     verified: true
   - title: Las cámaras artísticas y maravillosas del Renacimiento tardío
     subtitle: Una contribución a la historia del coleccionismo
+    original_title: Die Kunst-und Wunderkammern der Spätrenaissance
     series: Akal universitaria; 114
     authors:
       - Julius von Schlosser
+    translators:
       - José Luis Pascual Arranz
     year: 1988
     language: Spanish
@@ -15922,6 +16191,8 @@ titles:
     subtitle: '(Grupos multimedia y transnacionales): prensa, radio, TV, libro, cine, disco, publicidad'
     authors:
       - Ramón Zallo
+    editors:
+      - Enrique Bustamante
     year: 1988
     series: Akal/comunicación
     language: Spanish
@@ -15949,6 +16220,7 @@ titles:
         url: https://www.sudoc.fr/009806555
     verified: true
   - title: Las Leyes
+    original_title: Leyes
     series: Akal/clásica; 15
     authors:
       - Platón
@@ -16013,6 +16285,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991009901429708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Los cuatro libros de arquitectura
+    original_title: Quattro libri dell'architettura
     authors:
       - Andrea Palladio
       - Luisa de Aliprandini
@@ -16045,6 +16318,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991009729889708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Los nueve libros de hechos y dichos memorables
+    original_title: Factorum et dictorum memorabilium libri IX
     series: Akal/clásica; 14
     authors:
       - Valerio Máximo
@@ -16319,6 +16593,7 @@ titles:
     verified: true
   - title: Benvenuto Cellini
     subtitle: Tratados de orfebrería, escultura, dibujo y arquitectura
+    original_title: I trattati dell'oreficeria e della scultura
     authors:
       - Benvenuto Cellini
     year: 1989
@@ -16444,6 +16719,7 @@ titles:
     verified: true
   - title: De los bárbaros al renacimiento
     subtitle: Edad media occidental
+    original_title: Des barbares à la Renaissance
     authors:
       - Michel Balard
       - Jean-Philippe Genêt
@@ -16483,6 +16759,8 @@ titles:
       - Elio Arístides
       - Luciano de Samósata
       - María C. Giner Soria
+    editors:
+      - Lucien de Samosate
     year: 1989
     language: Spanish
     sources:
@@ -16492,7 +16770,9 @@ titles:
         url: https://www.sudoc.fr/074430580
     verified: true
     subtitle: Sobre la muerte de peregrino y Alejandro o el falso profeta
+    original_title: Sacred teachings
   - title: El barón en el mar
+    original_title: The Baron All at Sea
     authors:
       - Adrian Mitchell
       - Patrick Benson
@@ -16513,6 +16793,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991018004189708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El discurso del método
+    original_title: Discours de la méthode
     authors:
       - René Descartes
       - Fernando Alonso
@@ -16567,6 +16848,7 @@ titles:
     subtitle: Tres grandes proyectos
     authors:
       - Richard G. Mann
+    translators:
       - Isabel Belsinde
     year: 1989
     language: Not recorded
@@ -16631,6 +16913,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991019655799708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Farsalia
+    original_title: Pharsalia
     series: Akal / clásica; 23
     authors:
       - Marcus Annaeus Lucanus
@@ -16703,6 +16986,7 @@ titles:
     series: Akal/arte y estética; 16
     authors:
       - Wladyslaw Tatarkiewicz
+    translators:
       - Maria Elena Azofra
       - Felipe Hernandez
     year: 1989
@@ -16729,6 +17013,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991018311349708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Historia de las ideologías
+    original_title: Les idéologies
     series: Akal universitaria; 130
     authors:
       - François Châtelet
@@ -16744,6 +17029,7 @@ titles:
     pages: 752
     isbn: '9788476003756'
   - title: Historia de los animales
+    original_title: De natura animalium
     series: Akal/clásica; 18
     authors:
       - Claudio Eliano
@@ -16857,6 +17143,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991016878619708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La llamada de la naturaleza
+    original_title: The call of the wild
     authors:
       - Jack London
       - Fernando Velasco
@@ -16867,9 +17154,11 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991055802079708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La metamorfosis
+    original_title: Die Verwandlung
     series: Akal bolsillo; 14
     authors:
       - Franz Kafka
+    translators:
       - Pilar Fernández Galiano
     year: 1989
     language: Spanish
@@ -16922,6 +17211,7 @@ titles:
     verified: true
   - title: La república
     subtitle: Las leyes
+    original_title: De republica
     series: Akal/clásica; 28
     authors:
       - Marco Tulio Cicerón
@@ -17031,9 +17321,11 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991000469739708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Lecciones sobre la estética
+    original_title: Vorlesungen über die Ästhetik
     series: Arte y estética; 13
     authors:
       - Georg Wilhelm Friedrich Hegel
+    translators:
       - Alfredo Brotons Muñoz
     year: 1989
     language: Spanish
@@ -17182,6 +17474,8 @@ titles:
     verified: true
   - title: Mapa político
     authors: []
+    editors:
+      - Ediciones Akal
     year: 1989
     language: Spanish
     sources:
@@ -17472,6 +17766,9 @@ titles:
     verified: false
   - title: Antologia tematica de la poesia lirica Griega/ Thematic Anthology of the Greek Lyric Poetry (Akal Clasica/ Classic Akal)
     authors: []
+    editors:
+      - Jose Luis Navarro
+      - Jose Maria Rodriguez
     year: 1990
     language: Spanish
     pages: 181
@@ -17524,6 +17821,10 @@ titles:
   - title: As cruces de pedra na Galiza
     authors:
       - Castelao
+    editors:
+      - Eduardo Blanco-Amor
+    translators:
+      - G. Hennessy
     year: 1990
     language: Galician
     sources:
@@ -17539,6 +17840,7 @@ titles:
     pages: 280
     isbn: '9788476005576'
   - title: Bárbaros, cristianos y musulmanes
+    original_title: Barbarians, Christians and Muslims
     authors:
       - Trevor Cairns
     year: 1990
@@ -17764,6 +18066,7 @@ titles:
         url: https://openlibrary.org/books/OL28941232M
     verified: false
   - title: El arte Barroco
+    original_title: L'art baroque
     authors:
       - Yves Bottineau
       - Yago Baroja de Quiroga
@@ -17776,6 +18079,8 @@ titles:
   - title: El arte precolombino
     authors:
       - José Alcina Franch
+    editors:
+      - Jean Mazenod
     year: 1990
     series: El Arte y las grandes civilizaciones
     language: Spanish
@@ -17848,9 +18153,11 @@ titles:
     verified: true
   - title: El Siglo XVI
     subtitle: De los grandes descubrimientos a la Contrarreforma (1492-1620)
+    original_title: Le XVIe siècle
     series: Iniciación a la historia; 1
     authors:
       - Michel Péronnet
+    translators:
       - Yago Barja de Quiroga
     year: 1990
     language: Spanish
@@ -18085,6 +18392,7 @@ titles:
   - title: Historia de la estética
     authors:
       - Władysław Tatarkiewicz
+    translators:
       - Danuta Kurzyca
       - María Elena Azofra
       - Felipe Hernández
@@ -18104,6 +18412,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991018074319708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Historia de los animales
+    original_title: Historia animalium
     authors:
       - Aristóteles
       - José Vara Donado
@@ -18203,6 +18512,7 @@ titles:
         url: https://openlibrary.org/books/OL47152965M
     verified: false
   - title: La construcción del cerebro
+    original_title: La construction du cerveau
     series: Ciencia hoy; 2
     authors:
       - Alain Prochiantz
@@ -18259,6 +18569,7 @@ titles:
         url: https://lccn.loc.gov/91195934
     verified: true
   - title: La edad de la Tierra
+    original_title: The age of the Earth
     series: Ciencias de la naturaleza; 7
     authors:
       - John Thackray
@@ -18338,6 +18649,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991018074349708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La naturaleza
+    original_title: De rerum natura
     authors:
       - Tito Lucrecio Caro
       - Ismael Roca Meliá
@@ -18406,6 +18718,7 @@ titles:
         url: https://openlibrary.org/books/OL47152966M
     verified: false
   - title: La vida en un pueblo medieval
+    original_title: Life in a medieval village
     series: Akal historia del mundo para jóvenes. Monografías; 21
     authors:
       - Gwyn Morgan
@@ -18606,6 +18919,7 @@ titles:
         url: https://openlibrary.org/books/OL28367027M
     verified: false
   - title: Los romanos y su imperio
+    original_title: The Romans and their empire
     authors:
       - Trevor Cairns
     year: 1990
@@ -18658,8 +18972,10 @@ titles:
         url: https://www.sudoc.fr/088135233
     verified: true
   - title: Mahoma
+    original_title: Mahomet
     authors:
       - Maurice Gaudefroy-Demombynes
+    translators:
       - Pedro López de Quiroga
     year: 1990
     language: Spanish
@@ -19165,6 +19481,8 @@ titles:
     verified: false
   - title: Astronomía
     authors: []
+    editors:
+      - David Galadí-Enríquez
     language: Spanish
     sources:
       - title: BnF catalogue record cb42781846c
@@ -19246,6 +19564,8 @@ titles:
     verified: false
   - title: Colección Arealonguiña
     authors: []
+    editors:
+      - Xesús Alonso Montero
     language: Not recorded
     sources:
       - title: BnF catalogue record cb34259346m
@@ -19274,6 +19594,8 @@ titles:
     verified: false
   - title: Colección Manifiesto. Serie Narrativa
     authors: []
+    editors:
+      - José María Vaz de Soto
     language: Not recorded
     sources:
       - title: BnF catalogue record cb34266453n
@@ -19318,6 +19640,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb390508136
     verified: false
   - title: El cartero del rey
+    original_title: Dakaghara
     series: Akal bolsillo; 151
     authors:
       - Rabindranath Tagore
@@ -19394,6 +19717,8 @@ titles:
     verified: false
   - title: Historia de la ciencia y de la técnica
     authors: []
+    editors:
+      - Francisco Javier Puerto Sarmiento
     language: Spanish
     sources:
       - title: BnF catalogue record cb365940497

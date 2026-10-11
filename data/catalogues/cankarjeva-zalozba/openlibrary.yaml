@@ -220,8 +220,10 @@ titles:
         url: https://search.worldcat.org/title/68176836
     verified: true
   - title: Komu zvoni
+    original_title: Orig.T.:] For whom the bell tolls
     authors:
       - Ernest Hemingway
+    translators:
       - Janez Gradišnik
     year: 1950
     language: Not recorded
@@ -287,6 +289,7 @@ titles:
     verified: true
   - title: Štiri drame
     subtitle: Malomeščani - Letoviščarji - Vasa Železnova - Jegor Buličov in drugi
+    original_title: Meščane
     authors:
       - Maksim Gorʹkij
       - Mile Klopčič
@@ -321,6 +324,8 @@ titles:
   - title: Izbrana dela
     authors:
       - Ivan Cankar
+    translators:
+      - Pavle Jarc
     year: 1951
     language: Serbian
     sources:
@@ -348,8 +353,10 @@ titles:
         url: https://search.worldcat.org/title/839058701
     verified: true
   - title: Pariški pokol
+    original_title: Orig.T.:] Les massacres de Paris
     authors:
       - Jean Cassou
+    translators:
       - Jože Udovič
     year: 1951
     language: Not recorded
@@ -439,8 +446,10 @@ titles:
         url: https://d-nb.info/577853635
     verified: true
   - title: Svetloba v avgustu
+    original_title: Origt.:] Light in August
     authors:
       - William Faulkner
+    translators:
       - Mira Mihelič
     year: 1952
     language: Not recorded
@@ -498,6 +507,7 @@ titles:
     subtitle: Roman
     authors:
       - Halldór Laxness
+    translators:
       - Jože Udovič
     year: 1954
     language: German
@@ -600,8 +610,10 @@ titles:
     verified: true
   - title: Ariel ali Shelleyevo življenje
     subtitle: Roman
+    original_title: Ariel ou la Vie de Shelley
     authors:
       - André Maurois
+    translators:
       - Peter Kalander
     year: 1956
     language: Slovenian
@@ -650,6 +662,7 @@ titles:
     subtitle: Roman
     authors:
       - Klod Avlin
+    translators:
       - Cene Vipotnik
     year: 1956
     language: Slovenian
@@ -847,6 +860,8 @@ titles:
   - title: Beton in kresnice
     authors:
       - Oskar Davičo
+    translators:
+      - Marijan Javornik
     year: 1958
     series: Sodobni roman
     language: Slovenian
@@ -936,8 +951,9 @@ titles:
   - title: Kmetje
     authors:
       - Władysław Stanisław Reymont
-      - Joža Glonar
       - Božidar Borko
+    translators:
+      - Joža Glonar
     year: 1958
     language: Slovenian
     sources:
@@ -990,8 +1006,10 @@ titles:
         url: https://search.worldcat.org/title/19318533
     verified: true
   - title: Nostromo
+    original_title: Nostromo
     authors:
       - Joseph Conrad
+    translators:
       - Božo Vodušek
     year: 1958
     language: Slovenian
@@ -1246,6 +1264,8 @@ titles:
   - title: Gospod predsednik
     authors:
       - Miguel Ángel Asturias
+    translators:
+      - Janko Moder
     year: 1960
     language: Slovenian
     sources:
@@ -1460,6 +1480,8 @@ titles:
   - title: Essais sur le théâtre
     authors:
       - Filip Kalan
+    translators:
+      - Radojka Vrančič
     year: 1961
     language: French
     sources:
@@ -1908,6 +1930,7 @@ titles:
   - title: Medaljoni
     authors:
       - Zofia Nałkowska
+    translators:
       - Rozka Štefan
     year: 1963
     language: Slovenian
@@ -2015,6 +2038,7 @@ titles:
     subtitle: Roman
     authors:
       - André Maurois
+    translators:
       - Janez Menart
     year: 1963
     language: Slovenian
@@ -2263,6 +2287,7 @@ titles:
   - title: Prah in pepel
     authors:
       - Stefan Żeromski
+    translators:
       - France Vodnik
     year: 1965
     language: Slovenian
@@ -2648,6 +2673,7 @@ titles:
   - title: Prah in pepel
     authors:
       - Stefan Żeromski
+    translators:
       - France Vodnik
     year: 1966
     language: Slovenian
@@ -2677,6 +2703,9 @@ titles:
     authors:
       - Špelca Čopič
       - Melita Stele-Možina
+    editors:
+      - Špelca opi
+      - Marij Pregelj
     year: 1966
     language: Slovak
     sources:
@@ -2830,7 +2859,6 @@ titles:
     verified: true
   - title: Filozofi in sociologi dvajsetega stoletja
     authors:
-      - Frane Jerman
       - Bronisław Baczko
       - Zbigniew Kuderowicz
       - Jan Szmyd
@@ -2845,6 +2873,8 @@ titles:
       - Alina Molska
       - Leszek Kołakowski
       - Adam Sikora
+    translators:
+      - Frane Jerman
     year: 1967
     language: Slovenian
     sources:
@@ -2882,6 +2912,7 @@ titles:
   - title: Islandski zvon
     authors:
       - Halldór Laxness
+    translators:
       - Jože Udovič
     year: 1967
     language: German
@@ -3017,9 +3048,11 @@ titles:
     verified: true
     pages: 483
   - title: Berlin Alexanderplatz
+    original_title: Berlin Alexanderplatz
     series: Sto Romanov; 34
     authors:
       - Alfred Döblin
+    translators:
       - Rapa Šuklje
     year: 1968
     language: Not recorded
@@ -3460,6 +3493,8 @@ titles:
     subtitle: Dokumenti ustanovnega kongresa komunistične stranke v Sloveniji 11. aprila 1920
     authors:
       - Delavska socialistična stranka za Slovenijo. Kongres
+    editors:
+      - France Klopčič
     year: 1969
     series: Dokumenti štirih generacij
     language: Slovenian
@@ -3702,6 +3737,8 @@ titles:
     subtitle: Bogenšperk na Kranjskem 1679
     authors:
       - Johann Weichard Valvasor
+    editors:
+      - Branko Reisp
     year: 1970
     language: German, Slovenian
     pages: 62
@@ -3730,6 +3767,7 @@ titles:
   - title: Tretja knjiga o Achimu
     authors:
       - Uwe Johnson
+    translators:
       - Darko Dolinar
     year: 1970
     language: German
@@ -3967,6 +4005,8 @@ titles:
     subtitle: Gradec 1681
     authors:
       - Georg Matthaeus Vischer
+    editors:
+      - Ivan Stopar
     year: 1971
     language: Slovenian
     pages: 70
@@ -4235,6 +4275,9 @@ titles:
     subtitle: '(Uredil [in] "Spremna beseda" [napisal]) Lojze Filipič. (Jože Munda: Bibliografija Vladimira Pavšiča-Mateja Bora)'
     authors:
       - Vladimir Pavšič
+    editors:
+      - Lojze Filipič
+      - Mitja Mejak
     year: 1973
     language: Slovenian
     sources:
@@ -4253,6 +4296,7 @@ titles:
     subtitle: Roman
     authors:
       - Władysław Stanisław Reymont
+    translators:
       - Janko Moder
     year: 1973
     language: Slovenian
@@ -4368,6 +4412,7 @@ titles:
   - title: Prvi američani
     authors:
       - C. W. Ceram
+    translators:
       - France Pipan
     year: 1973
     language: German
@@ -4378,6 +4423,7 @@ titles:
   - title: Speči zakladi
     authors:
       - Janusz Piekałkiewicz
+    translators:
       - Marta Koren
     year: 1973
     language: Slovenian
@@ -4458,6 +4504,7 @@ titles:
     subtitle: Zgodba o mladosti Emila Sinclairja
     authors:
       - Hermann Hesse
+    translators:
       - Vital Klabus
     year: 1974
     language: German
@@ -4532,6 +4579,7 @@ titles:
   - title: Peterburg
     authors:
       - Andrej Belyj
+    translators:
       - Drago Bajt
     year: 1974
     language: Serbian
@@ -4697,6 +4745,7 @@ titles:
   - title: Doktor Živago
     authors:
       - Boris Leonidovič Pasternak
+    translators:
       - Janko Moder
     year: 1975
     language: Slovenian
@@ -4719,6 +4768,7 @@ titles:
     subtitle: Roman
     authors:
       - Władysław Stanisław Reymont
+    translators:
       - Janko Moder
     year: 1975
     language: Slovenian
@@ -4773,6 +4823,8 @@ titles:
     verified: true
   - title: Slovenci v Italiji po drugi svetovni vojni
     authors: []
+    editors:
+      - Janko Jeri
     year: 1975
     language: Not recorded
     sources:
@@ -5103,8 +5155,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=334828007
     verified: true
   - title: Stepni Volk
+    original_title: Der Steppenwolf
     authors:
       - Hermann Hesse
+    translators:
       - Janez Gradišnik
     year: 1977
     language: German
@@ -5195,6 +5249,7 @@ titles:
     subtitle: Roman
     authors:
       - Władysław Stanisław Reymont
+    translators:
       - Janko Moder
     year: 1978
     language: Slovenian
@@ -5432,9 +5487,11 @@ titles:
         url: https://lccn.loc.gov/84126859
     verified: true
   - title: Pod kolesom; Klein in Wagner
+    original_title: Unterm Rad
     series: Izbrana dela
     authors:
       - Hermann Hesse
+    translators:
       - Stanka Rendla
     year: 1979
     language: Not recorded
@@ -5444,8 +5501,10 @@ titles:
     verified: true
   - title: Siddharta
     subtitle: Pravljice
+    original_title: Siddhartha
     authors:
       - Hermann Hesse
+    translators:
       - Jaroslav Novák
     year: 1979
     language: Not recorded
@@ -5465,8 +5524,10 @@ titles:
         url: https://search.worldcat.org/title/35164549
     verified: true
   - title: Stepni volk
+    original_title: Der Steppenwolf
     authors:
       - Hermann Hesse
+    translators:
       - Janez Gradišnik
     year: 1979
     language: Not recorded
@@ -5487,6 +5548,7 @@ titles:
   - title: Umetnost razmiljanja
     authors:
       - Hermann Hesse
+    translators:
       - Franc Šrimpf
     year: 1979
     language: German
@@ -5497,6 +5559,9 @@ titles:
   - title: Zakladi Slovenije
     authors:
       - Matjaž Kmecl
+    editors:
+      - Cveto Jerasa
+      - Marjan Krušič
     year: 1979
     edition: 2., dop. izd
     language: Slovenian
@@ -5520,6 +5585,7 @@ titles:
   - title: Zgodnje novele
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Janko Moder
     year: 1979
     language: Slovenian
@@ -5837,8 +5903,10 @@ titles:
         url: https://d-nb.info/203995244
     verified: true
   - title: Dolina Isse
+    original_title: Dolina Issy
     authors:
       - Czesław Miłosz
+    translators:
       - Janko Moder
       - Katarina Šalamun-Biedrzycka
     year: 1981
@@ -6056,6 +6124,9 @@ titles:
   - title: Treasures of Slovenia
     authors:
       - Matjaž Kmecl
+    translators:
+      - Margaret Davis
+      - Stanko Klinar
     year: 1981
     language: English
     sources:
@@ -6278,6 +6349,7 @@ titles:
     subtitle: Roman
     authors:
       - Elias Canetti
+    translators:
       - Janko Moder
     year: 1982
     language: German
@@ -6371,6 +6443,8 @@ titles:
     subtitle: Kritično poročilo
     authors:
       - Marko Švabić
+    editors:
+      - Tone Pavček
     year: 1983
     language: Slovenian
     pages: 242
@@ -6585,11 +6659,13 @@ titles:
         url: https://catalog.hathitrust.org/Record/000576274
     verified: true
   - title: Ustvarjalna evolucija
+    original_title: L'évolution créatrice
     series: Nobelovci; 83
     authors:
       - Henri Bergson
-      - Zoja Skušek
       - Janez Janžekovič
+    translators:
+      - Zoja Skušek
     year: 1983
     language: Serbian
     sources:
@@ -6674,6 +6750,8 @@ titles:
   - title: Albanci
     authors:
       - Janez Stanić
+    editors:
+      - Janez Stanič
     year: 1984
     language: Slovenian
     sources:
@@ -6733,6 +6811,7 @@ titles:
     authors:
       - Nikola Pantelić
       - Miodrag Đorđević
+    translators:
       - Olga Šiftar-Rapoša
     year: 1984
     language: Slovenian
@@ -6965,6 +7044,7 @@ titles:
   - title: Pesmi in pesnitve
     authors:
       - Heinrich Heine
+    translators:
       - Mile Klopčič
     year: 1984
     language: Slovenian
@@ -7090,6 +7170,8 @@ titles:
     verified: true
   - title: Bibliografija Cankarjeve založbe 1980-1984
     authors: []
+    editors:
+      - Jože Munda
     year: 1985
     language: Slovenian
     sources:
@@ -7138,6 +7220,8 @@ titles:
   - title: Jožef in njegovi bratje
     authors:
       - Thomas Mann
+    translators:
+      - Janko Moder
     year: 1985
     language: German
     sources:
@@ -7369,6 +7453,7 @@ titles:
   - title: Berlin Alexanderplatz
     authors:
       - Alfred Döblin
+    translators:
       - Rapa Šuklje
     year: 1986
     language: German
@@ -7605,8 +7690,9 @@ titles:
     authors:
       - Kazimir Rapoša
       - Jaro Dolar
-      - Martin Cregeen
       - International Miniature Book Society
+    translators:
+      - Martin Cregeen
     year: 1986
     language: Latin, Slovenian, English
     sources:
@@ -7619,8 +7705,9 @@ titles:
     authors:
       - Kazimir Rapoša
       - Jaro Dolar
-      - Martin Cregeen
       - International Miniature Book Society
+    translators:
+      - Martin Cregeen
     year: 1986
     language: Latin, Slovenian, English
     sources:
@@ -7757,8 +7844,10 @@ titles:
         url: https://search.worldcat.org/title/20155764
     verified: true
   - title: Stepni Volk
+    original_title: Der Steppenwolf
     authors:
       - Hermann Hesse
+    translators:
       - Janez Gradišnik
     year: 1986
     language: German
@@ -7835,6 +7924,7 @@ titles:
   - title: Vergilova smrt
     authors:
       - Hermann Broch
+    translators:
       - Jože Udovič
     year: 1986
     language: German
@@ -7857,6 +7947,8 @@ titles:
   - title: Vodnikova mala praktika za leta
     authors:
       - Valentin Vodnik
+    editors:
+      - Kazimir Rapoša
     year: 1986
     language: Slovak
     sources:
@@ -7896,6 +7988,7 @@ titles:
   - title: Biljard ob pol desetih
     authors:
       - Heinrich Böll
+    translators:
       - Dora Vodnik
     year: 1987
     language: German
@@ -8120,6 +8213,9 @@ titles:
   - title: Treasure Chest of Slovenia
     authors:
       - Matjaž Kmecl
+    translators:
+      - Margaret Davis
+      - Stanko Klinar
     year: 1987
     language: English
     pages: 335
@@ -8133,6 +8229,7 @@ titles:
     subtitle: Spisi in zapiskio gledališču, liriki in romanu, filmu, fašizmu, kritiki, realizmu in formalizmu, diktaturi in miru, in tako naprej
     authors:
       - Bertolt Brecht
+    translators:
       - Dušan Voglar
     year: 1987
     language: Slovenian
@@ -8180,6 +8277,7 @@ titles:
         url: https://www.sudoc.fr/021224110
     verified: true
   - title: Ferdydurke
+    original_title: Ferdydurke
     authors:
       - Witold Gombrowicz
     year: 1988
@@ -8354,6 +8452,7 @@ titles:
   - title: Pepel in diamant
     authors:
       - Jerzy Andrzejewski
+    translators:
       - France Vodnik
     year: 1988
     language: Slovenian
@@ -8363,6 +8462,7 @@ titles:
     verified: true
   - title: Perutnina
     subtitle: 'Okusne začetne in glavne jedi, hladne poslastice iz golobov, prepelic, piščancev, gosi in puranov: velika kuharska knjiga'
+    original_title: Geflügel. -- Includes index
     authors:
       - Annette Wolter
     year: 1988
@@ -8467,6 +8567,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=256076839
     verified: true
   - title: Treasure Chest of Slovenia
+    original_title: Zakladi Slovenije
     authors:
       - Matjaž Kmecl
     year: 1988
@@ -8513,6 +8614,7 @@ titles:
   - title: Zablode gojenca Törlessa
     authors:
       - Robert Musil
+    translators:
       - Darko Dolinar
     year: 1988
     language: Slovenian
@@ -8576,6 +8678,7 @@ titles:
     authors:
       - Christian Teubner
       - Annette Wolter
+    translators:
       - Višnja Ogrizović
     year: 1989
     language: Croatian
@@ -8610,6 +8713,9 @@ titles:
       - Matjaž Kmecl
       - Tone Cevc
       - Jože Andlovic
+    translators:
+      - Martin Gregeen
+      - Branka Javornik
     year: 1989
     language: English
     pages: 326
@@ -9013,6 +9119,8 @@ titles:
   - title: Burgen und Schlösser in Slowenien
     authors:
       - Ivan Stopar
+    editors:
+      - Meta Sluga
     year: 1991
     language: German
     sources:
@@ -9107,8 +9215,11 @@ titles:
         url: https://search.worldcat.org/title/28159957
     verified: true
   - title: Krieg um Slowenien
+    original_title: Vojna za Slovenijo
     authors:
       - Joco Žnidaršič
+    translators:
+      - Klaus Detlef Olof
     year: 1991
     language: German
     sources:
@@ -9169,6 +9280,8 @@ titles:
   - title: Rane pesmi
     authors:
       - Edvard Kocbek
+    editors:
+      - Tone Pavček
     year: 1991
     language: Slovenian
     pages: 123
@@ -9212,6 +9325,7 @@ titles:
     verified: true
   - title: Sveto pismo
     subtitle: Stara zaveza
+    original_title: Bible
     authors:
       - Goran Horvat
     year: 1991
@@ -9306,6 +9420,7 @@ titles:
     authors:
       - Christian Teubner
       - Annette Wolter
+    translators:
       - Saša Novak
     year: 1991
     language: Croatian
@@ -9442,9 +9557,11 @@ titles:
         url: https://d-nb.info/976836793
     verified: false
   - title: Vergilova smrt
+    original_title: Der Tod des Vergil
     series: 'Zbirka "Sto romanov"; '
     authors:
       - Hermann Broch
+    translators:
       - Jože Udovič
     language: Slovenian
     sources:

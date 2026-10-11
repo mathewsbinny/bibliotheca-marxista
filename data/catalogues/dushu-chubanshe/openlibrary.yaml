@@ -960,6 +960,7 @@ titles:
     series: Min guo ji cui
     authors:
       - Helen Gay Pratt
+    translators:
       - Tianzuo Jiang
     year: 1939
     language: Chinese
@@ -1083,6 +1084,7 @@ titles:
     series: Min guo ji cui
     authors:
       - Kesami Sano
+    translators:
       - Tizhi Liu
     year: 1940
     language: Chinese
@@ -1359,6 +1361,9 @@ titles:
     verified: true
   - title: Tai ping yang xian shi shou ce
     authors: []
+    editors:
+      - Zhi yuan Shen
+      - Xiao chong Shi
     year: 1944
     language: Chinese
     sources:
@@ -1799,9 +1804,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1058415468
     verified: true
   - title: Jing shen fen xi xue yu bian zheng wei wu lun
+    original_title: Freud and Marx, a dialectical study
     series: Min guo ji cui
     authors:
       - Reuben Osborn
+    translators:
       - Qiusi Dong
     year: 1947
     language: Chinese
@@ -1891,6 +1898,8 @@ titles:
   - title: Zi ben lun tong xin ji
     authors:
       - Karl Marx
+    translators:
+      - Dali Guo
     year: 1947
     edition: Zai ban
     series: Zi ben lun yan jiu cong shu

@@ -706,9 +706,10 @@ titles:
     subtitle: Povestea unui Prichindel de lemn
     authors:
       - Carlo Collodi
-      - Romulus Alexandrescu
       - Eugen Taru
       - Le avventure di Pinocchio
+    translators:
+      - Romulus Alexandrescu
     year: 1958
     language: Romanian
     sources:
@@ -1149,8 +1150,9 @@ titles:
     verified: true
   - title: Paşii unei generat̨ii
     authors:
-      - Al Siperco
       - Gh Tofan
+    translators:
+      - Al Siperco
     year: 1959
     language: Romanian
     sources:
@@ -2772,6 +2774,8 @@ titles:
   - title: Sonete
     authors:
       - William Shakespeare
+    translators:
+      - Ion Frunzetti
     year: 1964
     series: Cele mai frumoase poezii -- 63
     language: Romanian
@@ -4286,6 +4290,8 @@ titles:
   - title: Cugetări
     authors:
       - Nicolae Iorga
+    editors:
+      - Barbu Theodorescu
     year: 1968
     language: Romanian
     pages: 302
@@ -5356,6 +5362,8 @@ titles:
   - title: Poezii
     authors:
       - Ion Barbu
+    editors:
+      - Romulus Vulpescu
     year: 1970
     language: Romanian
     pages: 549
@@ -6091,6 +6099,8 @@ titles:
     series: Colectia Cogito
     authors:
       - Nicolae Iorga
+    editors:
+      - Barbu Theodorescu
     year: 1972
     language: Romanian
     sources:
@@ -6669,6 +6679,7 @@ titles:
     authors:
       - Lucian Blaga
       - Horia Stanca
+    translators:
       - Wolf Aichelburg
     year: 1974
     language: German
@@ -7079,6 +7090,7 @@ titles:
     subtitle: = Gedichte
     authors:
       - Wolf von Aichelburg
+    translators:
       - Ștefan Augustin Doinaș
     year: 1975
     language: Romanian
@@ -7456,6 +7468,8 @@ titles:
     subtitle: Balada
     authors:
       - Zoe Dumitrescu-Busulenga
+    editors:
+      - Bucureşti Arta Grafică
     year: 1976
     language: Romanian
     sources:
@@ -7597,6 +7611,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1134031084
     verified: true
   - title: Shakespeare, utolso, kitalált szonettjei Vasile Voiculescu képzelt tolmásolásában. Ford és az elöszót irta Deák Tamás
+    original_title: Ultimele sonete închipuite ale lui Shakespeare în traducere imaginară de V. Voiculescu
     authors:
       - Vasile Voiculescu
       - Deák Tamás
@@ -8506,6 +8521,7 @@ titles:
         url: https://search.worldcat.org/title/5462432
     verified: true
   - title: Cei patru cavaleri ai Apocalipsului
+    original_title: Los cuatro jinetes del Apocalipsis
     authors:
       - Vicente Blasco Ibáñez
       - Esdra Alhasid
@@ -8671,6 +8687,8 @@ titles:
   - title: Introducere în teoria probabilităților
     authors:
       - Rodica Trandafir
+    editors:
+      - Cornel Cristescu
     year: 1979
     series: Colecția LYCEUM
     language: Romanian
@@ -8966,6 +8984,8 @@ titles:
   - title: Triunghiul - ringul cu trei colțuri
     authors:
       - Viorel Gheorghe Vodă
+    editors:
+      - Mariana Pușcașu
     year: 1979
     series: Colecția LYCEUM
     language: Romanian
@@ -10414,6 +10434,8 @@ titles:
     verified: true
   - title: Simbolismul european
     authors: []
+    editors:
+      - Zina Molcut
     year: 1983
     language: Romanian
     sources:

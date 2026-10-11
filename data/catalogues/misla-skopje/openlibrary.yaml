@@ -432,6 +432,7 @@ titles:
   - title: Prekinat ispit
     authors:
       - Tadeusz Różewicz
+    translators:
       - Taško D. Belčev
     year: 1967
     language: Macedonian
@@ -763,6 +764,7 @@ titles:
   - title: Molitva za Dobrina
     authors:
       - Jan Górec-Rosiński
+    translators:
       - Aleksandar Aleksiev
     year: 1968
     language: Macedonian
@@ -893,6 +895,8 @@ titles:
     subtitle: Avtobiografija
     authors:
       - Grigor St Pŭrlichev
+    editors:
+      - Risto G. Jačev
     year: 1968
     language: Macedonian
     pages: 135
@@ -2688,6 +2692,9 @@ titles:
   - title: Za makedonskata literatura
     authors:
       - Aleksandar Spasov
+    editors:
+      - Božin Pavlovski
+      - Bozhin Pavlovski (Божин Павловски)
     year: 1969
     series: Makedonska kniževnost. Bibliofilsko izdanie
     language: Macedonian
@@ -3323,6 +3330,8 @@ titles:
   - title: Postela od trnje od Petar T. Boškovski
     authors:
       - Petar T. Boškovski
+    translators:
+      - Slobodan Mickoviḱ
     year: 1970
     series: Makedonski pisateli
     language: Macedonian, Serbian
@@ -3619,6 +3628,13 @@ titles:
   - title: Makedoncite zad Ekvatorot
     authors:
       - Božin Pavlovski
+    editors:
+      - Petar T. Boškovski
+      - Petar T. Boshkovski (Петар Т. Бошковски)
+      - Vlada Uroševiḱ
+      - Vlada Urosheviќ (Влада Урошевиќ)
+      - Slobodan Mickoviḱ
+      - Slobodan Mitskoviќ (Слободан Мицковиќ)
     year: 1971
     language: Macedonian
     pages: 141
@@ -3679,6 +3695,8 @@ titles:
   - title: Makedonskoto osvoboditelno delo
     authors:
       - Ǵorče Petrov
+    editors:
+      - Gane Todorovski
     year: 1971
     language: Macedonian
     sources:
@@ -3836,6 +3854,8 @@ titles:
   - title: Odabrani tvorbi
     authors:
       - Nikola Jonkov Vaptsarov
+    editors:
+      - Gane Todorovski
     year: 1971
     language: Macedonian
     sources:
@@ -4099,6 +4119,9 @@ titles:
     authors:
       - Grigor S. Prličev
       - Matica Makedonska
+    translators:
+      - Mitre Damjanovski
+      - Ǵorǵi Stalev
     year: 1971
     language: Macedonian
     sources:
@@ -4306,6 +4329,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=452559723
     verified: true
     subtitle: Antonie Nikolovski [Antonije Nikolovski], Dimitar Čornakov [ Dimitar Ḱornakov], Kosta Balabanov
+    original_title: Spomenici na kulturata vo SR Makedoniǰa
     pages: 224
   - title: The Cultural Monuments of the Socialist Republic of Macedonia. Antonie Nikolovski, Dimitar CÌornakov, Kosta Balabanov
     authors:
@@ -4452,6 +4476,7 @@ titles:
   - title: Devedeset i tretata
     authors:
       - Victor Hugo
+    translators:
       - Blagoǰa Korubin
       - Blagoјa Korubin (Благоја Корубин)
     year: 1972
@@ -4499,6 +4524,7 @@ titles:
   - title: Goce Delčev i jego vremja
     authors:
       - Christo Andonov Poljanski
+    translators:
       - Tamara Gnuni
       - Spiro Nakev
     year: 1972
@@ -5119,8 +5145,11 @@ titles:
         url: https://lccn.loc.gov/74970995
     verified: true
   - title: Goce Delčev--his Life and Times
+    original_title: Goce Delc̆ev i negovoto vreme
     authors:
       - Hristo Andonov-Poljanski
+    translators:
+      - Aleksandra Guzelova
     year: 1973
     language: English
     pages: 98
@@ -5208,6 +5237,11 @@ titles:
   - title: Makedonskata kniževnost vo kniževnata kritika
     authors:
       - Aldo Kliman
+    editors:
+      - Slobodan Mickoviḱ
+      - Slobodan Mitskoviќ (Слободан Мицковиќ)
+      - Božin Pavlovski
+      - Bozhin Pavlovski (Божин Павловски)
     year: 1973
     language: Macedonian
     sources:
@@ -5355,6 +5389,9 @@ titles:
   - title: Odbrani trudovi
     authors:
       - Haralampie Polenakoviḱ
+    editors:
+      - Božin Pavlovski
+      - Bozhin Pavlovski (Божин Павловски)
     year: 1973
     language: Macedonian
     sources:
@@ -5428,6 +5465,10 @@ titles:
   - title: Pisma do Boris Pasternak
     authors:
       - Marina Ivanovna Cvetaeva
+    editors:
+      - Milan Ǵurčinov
+    translators:
+      - Tana Uroševik'
     year: 1973
     language: Macedonian
     sources:
@@ -5441,6 +5482,7 @@ titles:
         url: https://search.worldcat.org/title/831346990
     verified: true
     subtitle: Pisma k Borisu Pasternaku
+    original_title: Pisʹma k Borisu Pasternaku
   - title: Poetot se predstavuva
     authors:
       - Janez Menart
@@ -5548,8 +5590,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/001276219
     verified: true
   - title: Tartif
+    original_title: Le Tartuffe
     authors:
       - Molière
+    translators:
       - Lazo Karovski
       - Lazo Karovski (Лазо Каровски)
     year: 1973
@@ -5735,6 +5779,7 @@ titles:
     verified: true
     subtitle: (Život i tvoreštvo)
   - title: Budenbrokovi
+    original_title: Buddenbrooks
     authors:
       - Thomas Mann
     year: 1974
@@ -5840,6 +5885,8 @@ titles:
   - title: Makedonskoto prašanje
     authors:
       - Dimo Ivanchev Hadzhidimov
+    editors:
+      - Gane Todorovski
     year: 1974
     language: Macedonian
     pages: 232
@@ -6671,6 +6718,8 @@ titles:
   - title: Odbrani dela
     authors:
       - Aco Šopov
+    editors:
+      - Božin Pavlovski
     year: 1976
     language: Macedonian
     sources:
@@ -6759,6 +6808,8 @@ titles:
     authors:
       - Aco Šopov
       - Atso Shopov (Ацо Шопов)
+    editors:
+      - Blagoja Ivanov
     year: 1976
     language: Macedonian
     sources:
@@ -6927,6 +6978,9 @@ titles:
   - title: Sobrani dela
     authors:
       - Vojdan Černodrinski
+    editors:
+      - Aleksandar Aleksiev
+      - Aleksandar Aleksiev (Александар Алексиев)
     year: 1976
     language: Macedonian
     sources:
@@ -6990,6 +7044,7 @@ titles:
   - title: Vo pustinata i vo prašumata
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Tanas Nikolovski
     year: 1976
     language: Macedonian
@@ -7002,6 +7057,11 @@ titles:
   - title: Edno treto vreme
     authors:
       - Adem Gajtani
+    translators:
+      - Gane Todorovski
+      - Gane Todorovski (Гане Тодоровски)
+      - Adem Gaǰtani
+      - Adem Gaјtani (Адем Гајтани)
     year: 1977
     language: Macedonian
     pages: 63
@@ -7012,6 +7072,7 @@ titles:
         url: https://www.sudoc.fr/140774521
     verified: true
     subtitle: Në ëndërr kënga amfora e fundosur
+    original_title: 'As dru, as zog, dashuri unaza: në ëndërr kënga amfora e fundosur'
   - title: Josip Broz Tito
     subtitle: Prilozi za biografija
     authors:
@@ -7515,6 +7576,7 @@ titles:
     subtitle: Poezija
     authors:
       - Rafael Alberti
+    translators:
       - Mateja Matevski
     year: 1978
     language: Macedonian
@@ -7740,6 +7802,9 @@ titles:
     subtitle: Izbrani statii od vesnicite "Pravo," "Izgrev," "Delo" i "Svoboda ili smrt"
     authors:
       - Boro Mokrov
+    editors:
+      - Boro Morkov
+      - Boro Morkov (Боро Морков)
     year: 1979
     language: Macedonian
     pages: 269
@@ -7863,6 +7928,8 @@ titles:
   - title: Okovano jabolko
     authors:
       - Slavko Janevski
+    editors:
+      - Vele Smilevski
     year: 1979
     language: Macedonian
     pages: 61
@@ -7937,6 +8004,9 @@ titles:
   - title: Poezija
     authors:
       - Miroslav Krleža
+    translators:
+      - Gane Todorovski
+      - Aco Šopov
     year: 1979
     language: Macedonian
     sources:
@@ -7971,6 +8041,9 @@ titles:
   - title: Portreti na makedonski pisateli
     authors:
       - Radomir V. Ivanović
+    translators:
+      - Todor Čalovski
+      - Todor Chalovski (Тодор Чаловски)
     year: 1979
     language: Macedonian
     pages: 204
@@ -7995,6 +8068,7 @@ titles:
   - title: Portreti za makedonski pisateli
     authors:
       - Radomir V. Ivanović
+    translators:
       - Todor Čalovski
     year: 1979
     language: Macedonian
@@ -8104,6 +8178,7 @@ titles:
     verified: true
   - title: Borbata za priznavanje i nezavisnost na nova Jugoslavija 1944-1957
     subtitle: Seḱavanja
+    original_title: 'Borba za priznanje i nezavisnost nove Jugoslavije 1944-1957 : sećanja'
     authors:
       - Edvard Kardelj
       - Edvard Kardeљ (Едвард Кардељ)
@@ -8259,6 +8334,8 @@ titles:
   - title: Izbor
     authors:
       - Konstantin Miladinov
+    editors:
+      - Gane Todorovski
     year: 1980
     series: Matica makedonska
     language: Macedonian
@@ -8717,6 +8794,9 @@ titles:
   - title: Trilogija
     authors:
       - Kole Čašule
+    editors:
+      - Atanas Vangelov
+      - Atanas Vangelov (Атанас Вангелов)
     year: 1980
     series: Matica makedonska -- kn. 4
     language: Macedonian
@@ -8832,6 +8912,9 @@ titles:
   - title: Čin i delo
     authors:
       - Dimitar Mitrev
+    editors:
+      - Miodrag Drugovac
+      - Miodrag Drugovats (Миодраг Друговац)
     year: 1981
     series: Matica makedonska -- kn. 3
     language: Macedonian
@@ -9134,6 +9217,11 @@ titles:
   - title: Makedonskiot folklor
     authors:
       - Kiril Penušliski
+    editors:
+      - Božin Pavlovski
+      - Bozhin Pavlovski (Божин Павловски)
+      - Lilǰana Ugrinovska
+      - Lilјana Ugrinovska (Лилјана Угриновска)
     year: 1981
     series: Matica makedonska -- kn. 6
     language: Macedonian
@@ -9188,6 +9276,9 @@ titles:
   - title: Matica Makedonska
     authors:
       - Matica Makedonska
+    editors:
+      - Božin Pavlovski
+      - Bozhin Pavlovski (Божин Павловски)
     year: 1981
     language: Not recorded
     sources:
@@ -9711,9 +9802,10 @@ titles:
     authors:
       - Slobodan Nešović
       - Slobodan Neshoviћ (Слободан Нешовић)
+      - Bernard Lory
+    translators:
       - Mirko Mironski
       - Mirko Mironski (Мирко Миронски)
-      - Bernard Lory
     year: 1982
     language: Macedonian
     sources:
@@ -9723,6 +9815,8 @@ titles:
   - title: Obidite na Bugarija da se povleče od vojnata (1943-1944)
     authors:
       - Slobodan Nešović
+    translators:
+      - Mirko Miroiski
     year: 1982
     language: Macedonian
     pages: 386
@@ -9804,6 +9898,13 @@ titles:
   - title: Sobrani tvorbi
     authors:
       - Todor Chopov
+    editors:
+      - Blaže Ristovski
+    translators:
+      - Blaže Ristovski
+      - Blazhe Ristovski (Блаже Ристовски)
+      - Boris Blagoeski
+      - Boris Blagoeski (Борис Благоески)
     year: 1982
     series: Matica makedonska -- kn. 8
     language: Macedonian
@@ -9825,6 +9926,9 @@ titles:
   - title: Svetot na prikaznite
     authors:
       - Marko Cepenkov
+    editors:
+      - Kiril Penušliski
+      - Kiril Penushliski (Кирил Пенушлиски)
     year: 1982
     series: Matica Makedonska -- kn.7
     language: Macedonian
@@ -10073,6 +10177,8 @@ titles:
   - title: Marko Krale, legenda i stvarnost
     authors:
       - Kiril Penušliski
+    editors:
+      - Kiril Penushliski (Кирил Пенушлиски)
     year: 1983
     series: Matica makedonska
     language: Macedonian
@@ -10753,6 +10859,9 @@ titles:
   - title: Izbor
     authors:
       - Kuzman Shapkarev
+    editors:
+      - Tomislav Todorovski
+      - Tomislav Todorovski (Томислав Тодоровски)
     year: 1984
     series: Matica makedonska -- kn. 11
     language: Macedonian
@@ -11409,6 +11518,8 @@ titles:
   - title: Izbrani tvorbi
     authors:
       - Grigor St Pŭrlichev
+    editors:
+      - Tome Sazdov
     year: 1985
     language: Macedonian
     sources:
@@ -12027,6 +12138,8 @@ titles:
   - title: Srednovekovna Makedonija
     authors:
       - Stjepan Antoljak
+    editors:
+      - Božin Pavlovski
     year: 1985
     language: Macedonian
     sources:
@@ -12231,6 +12344,9 @@ titles:
     subtitle: Izbor
     authors:
       - Krste P. Misirkov
+    editors:
+      - Blaže Ristovski
+      - Blazhe Ristovski (Блаже Ристовски)
     year: 1985
     series: Spektar
     language: Macedonian
@@ -12501,6 +12617,11 @@ titles:
     subtitle: Macedonian house, or, Its transition from old Oriental to modern European house
     authors:
       - Dušan Grabrijan
+    translators:
+      - Milan Sever
+      - Milan Sever (Милан Север)
+      - Eva Martin Briški
+      - Eva Martin Brishki (Ева Мартин Бришки)
     year: 1986
     language: Macedonian
     pages: 231
@@ -12584,6 +12705,8 @@ titles:
   - title: Odbrani raskazi
     authors:
       - Vančo Nikoleski
+    editors:
+      - Liljana Ugrinovska
     year: 1986
     language: Macedonian
     pages: 183
@@ -12631,6 +12754,9 @@ titles:
     subtitle: Sobrani stihovi
     authors:
       - Nikola Ĭonkov Vaptsarov
+    translators:
+      - Blaže Ristovski
+      - Blazhe Ristovski (Блаже Ристовски)
     year: 1986
     language: Macedonian
     pages: 424
@@ -12831,6 +12957,8 @@ titles:
     subtitle: Ogledi, kritiki i prikazi
     authors:
       - Mateja Matevski
+    editors:
+      - Božin Pavlovski
     year: 1987
     edition: Jubilejno izd
     language: Macedonian
@@ -12981,6 +13109,8 @@ titles:
   - title: Macedonian Wood-Carving
     authors:
       - Dimitar Ḱornakov
+    translators:
+      - William Yuill
     year: 1987
     language: English
     pages: 68
@@ -13100,6 +13230,10 @@ titles:
   - title: Odbrani raskazi
     authors:
       - Anđelko M. Krstić
+    editors:
+      - Božin Pavlovski
+    translators:
+      - Gane Todorovski
     year: 1987
     language: Macedonian
     pages: 283
@@ -13163,6 +13297,8 @@ titles:
     subtitle: Cultural-Historical and Natural Region in the Catalogue of World's Heritage
     authors:
       - Kosta Balabanov
+    translators:
+      - Tom Petsinis
     year: 1987
     language: English
     pages: 87
@@ -13224,6 +13360,8 @@ titles:
   - title: Poezija
     authors:
       - Mateja Matevski
+    editors:
+      - Božin Pavlovski
     year: 1987
     edition: Jubilejno izd
     language: Macedonian
@@ -13300,6 +13438,9 @@ titles:
   - title: Tikveški zbornik
     authors:
       - Vera Stojčevska-Antiḱ
+    translators:
+      - Blaže Koneski
+      - Blazhe Koneski (Блаже Конески)
     year: 1987
     language: Macedonian
     pages: 204
@@ -13480,8 +13621,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=275032450
     verified: true
   - title: Decata na gernika
+    original_title: Die kinder von gernika
     authors:
       - Hermann Kesten
+    translators:
       - Mateja Matevski
     year: 1988
     language: Macedonian
@@ -13655,6 +13798,8 @@ titles:
   - title: Magla
     authors:
       - Ivan Čapovski
+    editors:
+      - Božin Pavlovski
     year: 1988
     language: Macedonian
     pages: 301
@@ -13674,6 +13819,8 @@ titles:
   - title: Makedonska rezba
     authors:
       - Dimitar Ḱornakov
+    editors:
+      - Božin Pavlovski
     year: 1988
     language: Macedonian
     pages: 68
@@ -13884,6 +14031,8 @@ titles:
   - title: Skopski raskazi
     authors:
       - Vlada Uroševiḱ
+    editors:
+      - Božin Pavlovski
     year: 1988
     language: Macedonian
     pages: 169
@@ -14103,6 +14252,8 @@ titles:
   - title: Bunilo
     authors:
       - Živko Čingo
+    editors:
+      - Petar T. Boškovski
     year: 1989
     language: Macedonian
     pages: 193
@@ -14590,6 +14741,8 @@ titles:
   - title: Rulet so sedum brojki
     authors:
       - Slavko Janevski
+    editors:
+      - Božin Pavlovski
     year: 1989
     language: Macedonian
     pages: 331
@@ -15065,9 +15218,11 @@ titles:
         url: https://search.worldcat.org/title/137301571
     verified: true
   - title: Vremeto na herojot
+    original_title: Vremeto na geroâ
     authors:
       - Vasil Stefanov Popov
       - Vasil Stefanov Popov (Васил Стефанов Попов)
+    translators:
       - Boris Blagoeski
       - Boris Blagoeski (Борис Благоески)
     year: 1990
@@ -15221,6 +15376,8 @@ titles:
   - title: Izbor
     authors:
       - Grigor St Pŭrlichev
+    editors:
+      - Tome Sazdov
     year: 1991
     series: Matica makedonska
     language: Macedonian
@@ -15253,6 +15410,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=242981224
     verified: true
   - title: Krvta na moreto
+    original_title: Denizin Kani
     authors:
       - Tarik K. Dursun
       - Naljan Husein Avdoviḱ
@@ -15303,6 +15461,9 @@ titles:
   - title: Odbrani stranici
     authors:
       - Krste P. Misirkov
+    editors:
+      - Blaže Ristovski
+      - Blazhe Ristovski (Блаже Ристовски)
     year: 1991
     series: Matica makedonska
     language: Macedonian
@@ -15323,6 +15484,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/009798187
     verified: true
   - title: Ojdip Tiranin
+    original_title: Oidipoys tirannos
     authors:
       - Sophocles
     year: 1991

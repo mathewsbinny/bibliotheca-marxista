@@ -113,6 +113,8 @@ titles:
     subtitle: Výbor z díla
     authors:
       - Svatopluk Čech
+    editors:
+      - Miloslav Novotný
     year: 1950
     language: Czech
     sources:
@@ -256,6 +258,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991141592379705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Cesta kolem světa za osmdesát dní
+    original_title: Le Tour du monde en 80 jours
     authors:
       - Jules Verne
     year: 1951
@@ -321,6 +324,7 @@ titles:
   - title: Krystek Zarychta
     authors:
       - Janina Broniewska
+    translators:
       - Olga Olšarova
     year: 1951
     language: Czech
@@ -357,8 +361,9 @@ titles:
       - Leonid Panteleev
       - Jan Ryska
       - Eva Dolejšová
-      - Jaroslav Kojzar
       - Vladimir Brehovzský
+    translators:
+      - Jaroslav Kojzar
     year: 1951
     language: Czech
     sources:
@@ -526,6 +531,8 @@ titles:
     series: Knižnice pro střední školy
     authors:
       - Ivan Olbracht
+    editors:
+      - Vladimír Kovářík
     year: 1952
     language: Czech
     sources:
@@ -765,8 +772,9 @@ titles:
   - title: Dlouhý pochod
     authors:
       - Bruno Heilig
-      - Marie Loulová
       - Zdeněk Mlčoch
+    translators:
+      - Marie Loulová
     year: 1953
     language: Czech
     sources:
@@ -784,10 +792,12 @@ titles:
         url: https://d-nb.info/993882447
     verified: true
   - title: Gulliverovy cesty
+    original_title: Gulliver's travels
     authors:
       - Jonathan Swift
-      - Aloys Skoumal
       - Cyril Bouda
+    translators:
+      - Aloys Skoumal
     year: 1953
     language: Czech
     sources:
@@ -1123,10 +1133,12 @@ titles:
         url: https://www.sudoc.fr/130676527
     verified: true
   - title: Bajky
+    original_title: Basni
     authors:
       - Ivan Andreevič Krylov
-      - Ivan Hálek
       - Mirko Hanák
+    translators:
+      - Ivan Hálek
     year: 1954
     language: Czech
     sources:
@@ -1155,8 +1167,11 @@ titles:
         url: https://openlibrary.org/books/OL21581486M
     verified: true
   - title: Dělníci moře
+    original_title: Les travailleurs de la mer
     authors:
       - Victor Hugo
+    translators:
+      - Vladimír Neff
     year: 1954
     language: Czech
     sources:
@@ -1328,9 +1343,10 @@ titles:
   - title: Poklad na ostrové
     authors:
       - Robert Louis Stevenson
-      - H. Snajdrová-Bilková
       - Georges Roux
       - Olga Pavalová
+    translators:
+      - H. Snajdrová-Bilková
     year: 1954
     language: Czech
     sources:
@@ -1400,6 +1416,7 @@ titles:
         url: https://www.sudoc.fr/096367369
     verified: true
   - title: Tajemství svíčky
+    original_title: Chemical history of a candle
     series: Živé prameny; svazek 8
     authors:
       - Michael Faraday
@@ -1557,6 +1574,7 @@ titles:
         url: https://www.sudoc.fr/022692134
     verified: true
   - title: Doktor Ox
+    original_title: Le docteur Ox
     series: Zivé prameny; Svazek č. 12
     authors:
       - Jules Verne
@@ -1777,6 +1795,8 @@ titles:
     subtitle: Přeložil Jan Pilař
     authors:
       - Julian Tuwim
+    translators:
+      - Jan Pilař
     year: 1955
     language: English
     sources:
@@ -1816,6 +1836,7 @@ titles:
     subtitle: Fantastickovědecký román
     authors:
       - Stanisław Lem
+    translators:
       - Jaroslav Simonides
     year: 1956
     language: Czech
@@ -1880,9 +1901,11 @@ titles:
         url: https://www.sudoc.fr/117978957
     verified: true
   - title: Hvězda jihu
+    original_title: L' étoile du sud - le pays des diamants
     series: Knihy odvahy a dobrodružství; 11
     authors:
       - Jules Verne
+    translators:
       - Stanislav Lyer
     year: 1956
     language: Czech
@@ -2064,8 +2087,9 @@ titles:
     subtitle: A jiné povídky
     authors:
       - Henryk Sienkiewicz
-      - Eliška Krásnohorská
       - Gustav Krum
+    translators:
+      - Eliška Krásnohorská
       - Karel Málek
       - Helena Teigová
     year: 1956
@@ -2258,8 +2282,9 @@ titles:
   - title: Gaspar Ruiz a jiné povídky
     authors:
       - Joseph Conrad
-      - Aloys Skoumal
       - František Hudeček
+    translators:
+      - Aloys Skoumal
     year: 1957
     language: Czech
     sources:
@@ -2276,8 +2301,10 @@ titles:
         url: https://www.sudoc.fr/130653128
     verified: true
   - title: Karavana
+    original_title: Die Karawane
     authors:
       - Wilhelm Hauff
+    translators:
       - František Hrubín
     year: 1957
     language: Czech
@@ -2299,6 +2326,8 @@ titles:
     authors:
       - Václav Beneš-Třebízský
       - Václav Boukal
+    editors:
+      - Pravoslav Hykeš
     year: 1957
     language: Czech
     sources:
@@ -2314,6 +2343,10 @@ titles:
       - Mikoláš Aleš
       - Jaroslava Václavková
       - Emanuel Svoboda
+    editors:
+      - Josef Petráň
+      - Františka Hávlová
+      - Rudolf Skřeček
     year: 1957
     language: Czech
     sources:
@@ -2372,6 +2405,7 @@ titles:
   - title: Ostrov kormoránů
     authors:
       - Włodzimierz Puchalski
+    translators:
       - Jaromír Doležal
     year: 1957
     language: Czech
@@ -2452,6 +2486,7 @@ titles:
   - title: Pouští a pralesem
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Karel Málek
     year: 1957
     language: Czech
@@ -2806,6 +2841,7 @@ titles:
   - title: V kraji labutí
     authors:
       - Włodzimierz Puchalski
+    translators:
       - Jaromír Doležal
     year: 1958
     language: Czech
@@ -2838,6 +2874,7 @@ titles:
     subtitle: Fantastickovědecký román
     authors:
       - Stanisław Lem
+    translators:
       - Jaroslav Simonides
     year: 1959
     language: Czech
@@ -3054,6 +3091,7 @@ titles:
       - Bolesław Prus
       - Bořivoj Křemenák
       - Zdeněk Kudělka
+    translators:
       - Helena Stachová
     year: 1959
     language: Czech
@@ -3235,6 +3273,7 @@ titles:
     authors:
       - Bedřich Bösser
       - Joseph Conrad
+    translators:
       - Vladimír Svoboda
     year: 1960
     language: Czech
@@ -3692,6 +3731,8 @@ titles:
   - title: Na statku a v chaloupce
     authors:
       - Vítězslav Hálek
+    editors:
+      - Olga Svejkovská
     year: 1961
     series: Edice Studánka -- sv. 14
     language: Czech
@@ -3817,6 +3858,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb43439933t
     verified: true
   - title: Čuk a Gek
+    original_title: Čuk i Gek
     authors:
       - Olga Ptáčková-Macháčková
       - Olga Pavalová
@@ -3900,8 +3942,9 @@ titles:
   - title: Lokomotiva
     authors:
       - Julian Tuwim
-      - Jan Pilař
       - Vladimír Fuka
+    translators:
+      - Jan Pilař
     year: 1962
     language: Czech
     sources:
@@ -3983,6 +4026,7 @@ titles:
   - title: Pouští a pralesem
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Karel Málek
     year: 1962
     language: Czech
@@ -4012,6 +4056,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA70845604
     verified: false
   - title: Ryzáček
+    original_title: The red pony
     authors:
       - John Steinbeck
       - Aloys Skoumal
@@ -4229,6 +4274,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991132825779705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Mít'a sám na světě
+    original_title: Palle alene i verden
     series: Zlatá brána
     authors:
       - Jens Sigsgaard
@@ -4244,8 +4290,9 @@ titles:
     subtitle: 12 dobrodružných příběhů
     authors:
       - Joseph Conrad
-      - Vladimír Svoboda
       - Bedřich Bösser
+    translators:
+      - Vladimír Svoboda
     year: 1963
     language: Czech
     sources:
@@ -4512,6 +4559,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991100996529705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Perutinka
+    original_title: Grain d'Aile
     authors:
       - Paul Eluard
       - Dagmar Berková
@@ -4794,6 +4842,7 @@ titles:
   - title: Sněžnou stopou
     authors:
       - Włodzimierz Puchalski
+    translators:
       - Jaromír Doležal
     year: 1965
     language: Czech
@@ -4948,9 +4997,11 @@ titles:
         url: https://openlibrary.org/books/OL20042366M
     verified: true
   - title: Dem goldenen Zeitalter auf der Spur
+    original_title: Hledání zlatého věku
     authors:
       - Zdeněk Mahler
       - Jan Černý
+    translators:
       - Karl Frankl
     year: 1966
     language: German
@@ -4984,6 +5035,7 @@ titles:
         url: https://www.sudoc.fr/051780305
     verified: true
   - title: Die grossen Abenteuer des kleinen Ferdinand
+    original_title: Knížka Ferdy mravence
     authors:
       - Ondřej Sekora
       - Anna Wirthová
@@ -5033,8 +5085,10 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991052209999708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Drama Svatomartinské propasti
+    original_title: Le gouffre de la Pierre Saint-Martin
     authors:
       - Haroun Tazieff
+    translators:
       - Božena Kaupová
     year: 1966
     language: Czech
@@ -5045,6 +5099,7 @@ titles:
   - title: Ein fixer Kerl, der Ferdy
     authors:
       - Ondřej Sekora
+    translators:
       - Anna Wirthová
     year: 1966
     language: German
@@ -5080,6 +5135,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=133414592X
     verified: true
   - title: Když jsem byl malý kluk
+    original_title: Als ich ein kleiner Junge war
     series: Albatros
     authors:
       - Erich Kästner
@@ -5091,6 +5147,7 @@ titles:
     verified: true
   - title: Kouzelné dobrodružství
     subtitle: (Velký Meaulnes)
+    original_title: Le grand Meaulnes
     series: Albatros
     authors:
       - Alain-Fournier
@@ -5104,6 +5161,9 @@ titles:
     subtitle: Román
     authors:
       - Karel Čapek
+    editors:
+      - Miroslav Halík
+      - Lad Janko
     year: 1966
     edition: 1. vyd. v SNDK.
     series: Klub mladých čtenářů
@@ -5203,6 +5263,9 @@ titles:
   - title: Search for the Golden Age
     authors:
       - Zdeněk Mahler
+    translators:
+      - Karel Stradal
+      - Leonora Stradal
     year: 1966
     language: English
     sources:
@@ -5383,12 +5446,13 @@ titles:
     authors:
       - Alena Benešová
       - Daniela Hahnová
-      - Oldřich Syrovátka
       - Josef Paleček
       - Vladimír Kovařík
       - Josef Žemlička
       - Hanna Ożogowska
       - Maria Kownacka
+    translators:
+      - Oldřich Syrovátka
     year: 1967
     language: Czech
     sources:
@@ -5519,9 +5583,11 @@ titles:
     verified: true
   - title: Marko
     subtitle: Eine Geschichte aus den Wäldern der Karpaten
+    original_title: Marko
     authors:
       - Jaromír Tomeček
       - Mirko Hanák
+    translators:
       - Erika Honolka
     year: 1967
     language: German
@@ -5640,9 +5706,10 @@ titles:
   - title: Pohadky
     authors:
       - Hans Christian Andersen
-      - Gustav Pallas
       - Jiři Trnka
       - Gabriela Dubská
+    translators:
+      - Gustav Pallas
     year: 1967
     language: Czech
     sources:
@@ -5663,6 +5730,7 @@ titles:
   - title: Pouští a pralesem
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Karel Málek
     year: 1967
     language: Czech
@@ -5703,9 +5771,11 @@ titles:
     verified: true
   - title: Stříbrák a já
     subtitle: Andaluska elegie
+    original_title: Platero y yo
     authors:
       - Juan Ramón Jiménez
       - Ota Janeček
+    translators:
       - František Nechvátal
       - Zdeněk Hampl
     year: 1967
@@ -5759,6 +5829,8 @@ titles:
     subtitle: Povídka o markomanském králi Marobudovi
     authors:
       - Eduard Štorch
+    editors:
+      - Milena Chlumská
     year: 1967
     language: Czech
     pages: 166
@@ -5841,6 +5913,7 @@ titles:
         url: https://d-nb.info/578700441
     verified: true
   - title: Děti z Bullerbynu
+    original_title: Alla vi barn i Bullerbyn
     series: Edice Jiskřičky
     authors:
       - Astrid Lindgren
@@ -6081,6 +6154,7 @@ titles:
   - title: Příběhy Dona Quijota
     authors:
       - Miguel de Cervántes Saavedra
+    translators:
       - Jaromír John
     year: 1968
     language: Czech
@@ -6358,8 +6432,9 @@ titles:
   - title: Divoký Anda
     authors:
       - Nora Szczepańska
-      - Josef Vlášek
       - Jaromír Vraštil
+    translators:
+      - Josef Vlášek
     year: 1969
     language: Czech
     sources:
@@ -6469,6 +6544,7 @@ titles:
   - title: Klobouk za půl miliónu
     authors:
       - Adam Bahdaj
+    translators:
       - Jaroslav Simonides
     year: 1969
     language: Czech
@@ -6881,10 +6957,11 @@ titles:
   - title: Tajemná jeskyně
     authors:
       - Jerzy Marlicz
-      - J. M. Běluňský
       - Josef Eismann
-      - Anna Fleischerová
       - Oldřich Jelínek
+    translators:
+      - J. M. Běluňský
+      - Anna Fleischerová
     year: 1969
     language: Czech
     sources:
@@ -7026,6 +7103,8 @@ titles:
   - title: Červenomodrý Metuzalém
     authors:
       - Karl May
+    translators:
+      - Milan Korejs
     year: 1970
     language: Czech
     sources:
@@ -7341,10 +7420,12 @@ titles:
     verified: true
   - title: Marko, der Wilderer
     subtitle: Eine Geschichte aus den Wäldern der Karpaten
+    original_title: Marko
     series: Kosmos-Bücher
     authors:
       - Jaromír Tomeček
       - Mirko Hanák
+    translators:
       - Erika Honolka
     year: 1970
     language: German
@@ -7425,6 +7506,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=42275384X
     verified: true
   - title: Neuvěřitelné příběhy
+    original_title: Arthur mit dem langen Arm und das verhexte Telefon
     authors:
       - Erich Kästner
       - Alena Ladová
@@ -7600,6 +7682,7 @@ titles:
     series: Střelka; Sv. 77
     authors:
       - Edmondo De Amicis
+    translators:
       - Ivana Jedlička
     year: 1970
     language: Czech
@@ -7645,6 +7728,8 @@ titles:
     authors:
       - Karel Plicka
       - František Volf
+    editors:
+      - Jan Vrána
     year: 1970
     language: Czech
     sources:
@@ -7665,8 +7750,9 @@ titles:
     subtitle: Starojaponská pětiverší
     series: (Zlatoroh)
     authors:
-      - Vlasta Hilská
       - Bohumil Mathesius
+    translators:
+      - Vlasta Hilská
     year: 1970
     language: Czech
     sources:
@@ -7742,6 +7828,8 @@ titles:
     authors:
       - Jan Čarek
       - Adolf Zábranský
+    editors:
+      - Praha Svoboda
     year: 1971
     language: Czech
     sources:
@@ -7814,6 +7902,7 @@ titles:
         url: https://www.sudoc.fr/151499284
     verified: true
   - title: Die grossen Abenteuer des kleinen Ferdinand
+    original_title: Knížka Ferdy mravence
     authors:
       - Ondřej Sekora
     year: 1971
@@ -8039,6 +8128,9 @@ titles:
   - title: Kapesní povídky
     authors:
       - Karel Čapek
+    editors:
+      - Jana Štefánková
+      - Miroslav Halík
     year: 1971
     edition: 2. vyd
     series: Edice Střelka -- sv. 85
@@ -8789,8 +8881,9 @@ titles:
   - title: Hodina nachové růže
     authors:
       - Maria Krüger
-      - Helena Stachová
       - Jana Sigmundová
+    translators:
+      - Helena Stachová
     year: 1972
     language: Czech
     sources:
@@ -9030,6 +9123,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA01314904
     verified: false
   - title: Malý princ
+    original_title: Le petit prince
     series: Edice Jiskr̆ic̆ky
     authors:
       - Antoine de Saint-Exupéry
@@ -9272,9 +9366,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=410476544
     verified: true
   - title: Pohádky matky husy
+    original_title: Contes de ma mère l'Oye
     authors:
       - Charles Perrault
       - Jiří Trnka
+    translators:
       - František Hrubín
     year: 1972
     language: Czech
@@ -9317,6 +9413,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=448270269
     verified: true
   - title: Pozor - laviny!
+    original_title: Achtung - Lawine!
     series: Knihy odvahy dobrodružství; 124
     authors:
       - Barbara Bartos-Höppner
@@ -9466,6 +9563,8 @@ titles:
   - title: Slunce v třezalkách
     subtitle: Josef Strnadel a řeč rodného kraje
     authors: []
+    editors:
+      - Jindřich Hilč
     year: 1972
     language: Czech
     sources:
@@ -9628,9 +9727,10 @@ titles:
   - title: Za sedmi divy světa
     authors:
       - Vojtěch Zamarovský
-      - Marie Zamarovská
       - Zdeněk Burian
       - Vladimír Kopecký
+    translators:
+      - Marie Zamarovská
     year: 1972
     language: Czech
     sources:
@@ -9740,6 +9840,7 @@ titles:
   - title: Akademie pana Kaňky
     authors:
       - Jan Brzechwa
+    translators:
       - Jiří Fiedler
     year: 1973
     language: Czech
@@ -10032,6 +10133,7 @@ titles:
   - title: Karavana
     authors:
       - Wilhelm Hauff
+    translators:
       - František Hrubín
     year: 1973
     language: Czech
@@ -10056,6 +10158,8 @@ titles:
   - title: Kluk z Františku
     authors:
       - Rudolf Deyl
+    editors:
+      - Brno Tisk
     year: 1973
     edition: 1. vydáni
     language: Czech
@@ -10439,6 +10543,7 @@ titles:
         url: https://d-nb.info/579582817
     verified: true
   - title: Pohádky
+    original_title: Eventyr
     authors:
       - Hans Christian Andersen
       - Jiří Trnka
@@ -11377,6 +11482,7 @@ titles:
         url: https://lccn.loc.gov/75576309
     verified: true
   - title: Malé ženy
+    original_title: Little women
     authors:
       - Louisa May Alcott
       - Eva Jelínková
@@ -11427,6 +11533,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb43435741x
     verified: true
   - title: Město malomocného krále
+    original_title: La città del re lebbroso
     series: Knihy odvahy a dobrodružství; sv. 132
     authors:
       - Emilio Salgari
@@ -11683,6 +11790,8 @@ titles:
     subtitle: '[Pro čtenáře od 12 let]'
     authors:
       - Vítězslav Nezval
+    editors:
+      - Milan Blahynka
     year: 1974
     edition: 1. vyd
     series: Zlatoroh
@@ -11715,8 +11824,9 @@ titles:
   - title: Přihody Řeka Melikla
     authors:
       - Witold Makowiecki
-      - Vera Jersáková
       - Miroslav Váša
+    translators:
+      - Vera Jersáková
     year: 1974
     language: Czech
     sources:
@@ -11774,8 +11884,9 @@ titles:
   - title: Setkání s andělem
     authors:
       - Natalia Gall
-      - Olga Hostovská
       - Jitka Kolínská
+    translators:
+      - Olga Hostovská
     year: 1974
     language: Czech
     sources:
@@ -11930,6 +12041,7 @@ titles:
   - title: Tuláci
     authors:
       - Horst Bastian
+    translators:
       - Kamila Jiroudková
     year: 1974
     language: Czech
@@ -12120,6 +12232,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=167287141
     verified: true
   - title: Als noch die Welt voll Teufel war
+    original_title: Když se čerti rojili
     authors:
       - Josef Štefan Kubín
       - Adolf Zábranský
@@ -12144,6 +12257,8 @@ titles:
   - title: Bajky
     authors:
       - Josef Lada
+    editors:
+      - Jan Vrána
     year: 1975
     language: Czech
     sources:
@@ -12222,10 +12337,13 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=440452082
     verified: true
   - title: Cesta do neznáma
+    original_title: Podróz w nieznane
     series: První čtení
     authors:
       - Adam Bahdaj
       - Olga Čechová
+    translators:
+      - Anetta Balajková
     year: 1975
     language: Czech
     sources:
@@ -12340,6 +12458,7 @@ titles:
         url: https://d-nb.info/369180798
     verified: true
   - title: Das wilde Pferdchen Ryn
+    original_title: Divoký koník Ryn
     authors:
       - Bohumil Říha
       - Mirko Hanák
@@ -12443,8 +12562,9 @@ titles:
   - title: Karibu
     authors:
       - Nora Szczepańska
-      - Josef Vlášek
       - Radomír Kolář
+    translators:
+      - Josef Vlášek
     year: 1975
     language: Czech
     sources:
@@ -12846,6 +12966,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=440261090
     verified: true
   - title: Petr a Lucie
+    original_title: Pierre et Luce
     authors:
       - Romain Rolland
     year: 1975
@@ -13093,9 +13214,10 @@ titles:
   - title: Střela z Elamu
     authors:
       - Jerzy Edigey
+      - Vladimír Kopecký
+    translators:
       - René Frühauf
       - Jiři Frühauf
-      - Vladimír Kopecký
     year: 1975
     language: Czech
     sources:
@@ -13169,6 +13291,7 @@ titles:
   - title: Tři útĕky z Korintu
     authors:
       - Witold Makowiecki
+    translators:
       - Vera Jersáková
     year: 1975
     language: Czech
@@ -13310,11 +13433,13 @@ titles:
         url: https://lccn.loc.gov/75591409
     verified: true
   - title: Zázraky a divy
+    original_title: Wiersze dla dzieci
     series: Klub mladých čtenář°u
     authors:
       - Julian Tuwim
-      - Jan Pilař
       - Luděk Vimr
+    translators:
+      - Jan Pilař
     year: 1975
     language: Czech
     sources:
@@ -13560,6 +13685,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=437419711
     verified: true
   - title: Cerny pasazér z Odyssea
+    original_title: El polizón del "Ulises"
     authors:
       - Ana María Matute
     year: 1976
@@ -13672,6 +13798,7 @@ titles:
     authors:
       - Miroslav Válek
       - Miroslav Cipár
+    translators:
       - Miloslav Topinka
     year: 1976
     language: Czech
@@ -13683,6 +13810,8 @@ titles:
     subtitle: '[Výběr z článků a projevů]'
     authors:
       - František Hrubín
+    editors:
+      - Josef Strnadel
     year: 1976
     edition: 1. vyd
     language: Czech
@@ -13723,6 +13852,9 @@ titles:
   - title: Dva divoši
     authors:
       - Ernest Thompson Seton
+    translators:
+      - Libuše Bubeníková
+      - Jiří Valaj
     year: 1976
     edition: 4. vydání
     series: KNihy odvahy a dobrodružství
@@ -13746,6 +13878,9 @@ titles:
     subtitle: International Conference of Writers and Theoreticians of Literature for Children and Young People, September 22 to 25, 1975
     authors:
       - International Conference of Writers and Theoreticians of Literature for Children and Young People (1975 Dobříš, Czechoslovakia)
+    editors:
+      - Bohumil Nohejl
+      - Bohumil Říha
     year: 1976
     language: English
     pages: 168
@@ -13803,9 +13938,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1678838403
     verified: true
   - title: Jagd ohne Waffen
+    original_title: Lovy beze zbraní
     authors:
       - Jaromír Tomeček
       - Mirko Hanák
+    translators:
       - Günther Jarosch
     year: 1976
     language: Not recorded
@@ -14027,8 +14164,9 @@ titles:
   - title: Má drahá rodinka a já
     authors:
       - Natalia Rolleczek
-      - Zdenka Koutenská
       - Adolf Born
+    translators:
+      - Zdenka Koutenská
     year: 1976
     language: Czech
     sources:
@@ -14254,6 +14392,8 @@ titles:
     subtitle: 'Výbor z Mudrosloví národu slovanského ve příslovích: [pro čtenáře od 12 let]'
     authors:
       - František Ladislav Čelakovský
+    editors:
+      - Karel Dvořák
     year: 1976
     edition: 1 vyd
     series: Zlatoroh
@@ -14372,7 +14512,8 @@ titles:
     verified: true
   - title: Sluneční prsten
     subtitle: Čeští a slovenští umélci détem
-    authors:
+    authors: []
+    translators:
       - Vladimíra Gebhartová
     year: 1976
     language: Czech
@@ -14434,8 +14575,9 @@ titles:
   - title: Tajfun a jiné povídky
     authors:
       - Joseph Conrad
-      - Vladimír Svoboda
       - Josef Duchoň
+    translators:
+      - Vladimír Svoboda
     year: 1976
     language: Czech
     sources:
@@ -14614,6 +14756,8 @@ titles:
     subtitle: 'Výbor z povídek: [pro čtenáře od 12 let]'
     authors:
       - Vladislav Vančura
+    editors:
+      - Rudolf Havel
     year: 1976
     edition: 1. vyd
     series: Zlatoroh
@@ -14762,6 +14906,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=436717794
     verified: true
   - title: Deset měst
+    original_title: Le dieci città
     authors:
       - Marcello Argilli
       - Hana Benešová
@@ -14831,10 +14976,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=440452120
     verified: true
   - title: Do poločasu 0:1
+    original_title: Z polského originálu Do Przerwy 0:1
     series: Edice střelka; svazek 125
     authors:
       - Adam Bahdaj
       - Josef Žemlička
+    translators:
       - Oldřich Syrovátka
     year: 1977
     language: Czech
@@ -15226,9 +15373,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=439157730
     verified: true
   - title: Namalujeme si panáčka
+    original_title: A fost odată un băietel pe un gard
     authors:
       - Octav Pancu-Iaşi
       - Olga Čechová
+    translators:
       - Eva Strebingerová
     year: 1977
     language: Czech
@@ -15274,8 +15423,9 @@ titles:
   - title: O bílém slonu
     authors:
       - Ludwik Jerzy Kern
-      - Oldřich Syrovátka
       - Květa Pacovská
+    translators:
+      - Oldřich Syrovátka
     year: 1977
     language: Czech
     sources:
@@ -15315,8 +15465,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb43437633h
     verified: true
   - title: Pátek aneb vítezství divociny
+    original_title: Vendredi ou la vie sauvage
     authors:
       - Michel Tournier
+    translators:
       - Jaroslav Smetana
     year: 1977
     language: Czech
@@ -15467,8 +15619,9 @@ titles:
   - title: Škaredkovic rodina a já
     authors:
       - Natalia Rolleczek
-      - Zdenka Koutenská
       - Adolf Born
+    translators:
+      - Zdenka Koutenská
     year: 1977
     language: Czech
     sources:
@@ -15501,8 +15654,9 @@ titles:
   - title: Trosečníci v řece meteorů
     authors:
       - Jerzy Broszkiewicz
-      - Jaroslav Simonides
       - Teodor Rotrekl
+    translators:
+      - Jaroslav Simonides
     year: 1977
     language: Czech
     sources:
@@ -15570,6 +15724,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=436719576
     verified: true
   - title: Veselá Zuzanka
+    original_title: Die lustige Susanne
     authors:
       - Lilo Hardel
       - Jitka Fučíková
@@ -15682,9 +15837,10 @@ titles:
   - title: Zlatý̜ košíček
     authors:
       - Hanna Januszewska
-      - Helena Stachová
       - Bożena Truchanowska
       - Wydawnictwo "Nasza Księgarnia"
+    translators:
+      - Helena Stachová
     year: 1977
     language: Czech
     sources:
@@ -15774,6 +15930,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991155288679705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Bílá kněžna
+    original_title: Biela kňažná
     authors:
       - Mária Ďuríčková
       - Jiřina Kintnerová
@@ -15799,8 +15956,9 @@ titles:
   - title: Blouděni v čase
     authors:
       - Jerzy Jesionowski
-      - Jiří Fiedler
       - Teodor Rotrekl
+    translators:
+      - Jiří Fiedler
     year: 1978
     language: Czech
     sources:
@@ -15819,6 +15977,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb43441637n
     verified: true
   - title: Bratr Mlčenlivého vlka
+    original_title: Brat Mlčanlivého vlka
     series: Střelka; 64
     authors:
       - Klára Jarunková
@@ -15942,10 +16101,11 @@ titles:
   - title: Dávno
     authors:
       - Dora Gabe
-      - Vítězslav Nezval
       - Eva Bednářová
       - Václav Kabát
       - Liberec Severografia
+    translators:
+      - Vítězslav Nezval
     year: 1978
     language: Czech
     sources:
@@ -16009,9 +16169,11 @@ titles:
     verified: true
   - title: Die Großmutter
     subtitle: Bilder aus den ländlichen Leben
+    original_title: Babička
     authors:
       - Božena Němcová
       - Adolf Kašpar
+    translators:
       - Günther Jarosch
     year: 1978
     language: Czech
@@ -16173,8 +16335,9 @@ titles:
   - title: Jezevec Fridolin
     authors:
       - Hans Fallada
-      - Jiří Stach
       - Dagmar Černá
+    translators:
+      - Jiří Stach
     year: 1978
     language: Czech
     sources:
@@ -16533,8 +16696,9 @@ titles:
   - title: Pan Auťák a templáři
     authors:
       - Zbigniew Nienacki
-      - Karla Bártů
       - Jan Černý
+    translators:
+      - Karla Bártů
     year: 1978
     language: Czech
     sources:
@@ -16598,8 +16762,9 @@ titles:
     authors:
       - Viktor Stanislavovič Vitkovič
       - Grigorij Âgdfelʹd
-      - Jaroslava Sluková
       - Karel Franta
+    translators:
+      - Jaroslava Sluková
     year: 1978
     language: Czech
     sources:
@@ -16638,6 +16803,7 @@ titles:
     authors:
       - Jerzy Ławicki
       - Gabriel Filcík
+    translators:
       - Oldřich Syrovátka
     year: 1978
     language: Czech
@@ -17023,11 +17189,12 @@ titles:
   - title: Zprávy o planetĕ Zemi v hádankách a kvizech
     authors:
       - Jerzy Ławicki
-      - Jiří Černý
       - Jindřich Hegr
       - Václav Kabát
       - Janusz Maruszewski
       - Mieczysław Siemieński
+    translators:
+      - Jiří Černý
     year: 1978
     language: Czech
     sources:
@@ -17132,6 +17299,7 @@ titles:
   - title: Černé koráby
     authors:
       - Joe Alex
+    translators:
       - Anetta Balajková
     year: 1979
     language: Czech
@@ -17220,6 +17388,7 @@ titles:
     verified: false
   - title: Děvčátko Momo a ukradený čas
     subtitle: Pohádkový román
+    original_title: Momo
     authors:
       - Michael Ende
       - Milada Misárková
@@ -17387,6 +17556,7 @@ titles:
     authors:
       - Milena Lukešová
       - Jan Kudláček
+    translators:
       - Ingrid Juršikowa
     year: 1979
     language: Czech
@@ -17422,8 +17592,9 @@ titles:
   - title: Jiná dívka?
     authors:
       - Irena Jurgielewiczowa
-      - Helena Teigová
       - Jitka Kolínská
+    translators:
+      - Helena Teigová
     year: 1979
     language: Czech
     sources:
@@ -17492,6 +17663,8 @@ titles:
   - title: Kniha veršů Jana Nerudy
     authors:
       - Jan Neruda
+    editors:
+      - Vaclav Königsmark
     year: 1979
     edition: 1. vyd
     series: Zlatoroh
@@ -17672,6 +17845,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=435307541
     verified: true
   - title: Medvěd pro bratříčka
+    original_title: Medveď pre bračeka
     series: Mezinárodní série
     authors:
       - Eleonóra Gašparová
@@ -17707,6 +17881,7 @@ titles:
     authors:
       - Krystyna Boglar
       - Karel Beneš
+    translators:
       - Josef Vlášek
     year: 1979
     language: Czech
@@ -17992,6 +18167,7 @@ titles:
     subtitle: Životopis Mikuláše Koperníka
     authors:
       - Mira Jaworczakowa
+    translators:
       - Jaroslav Simonides
     year: 1979
     language: Czech
@@ -18002,6 +18178,7 @@ titles:
         url: https://search.worldcat.org/title/837261551
     verified: true
   - title: Sněhová královna
+    original_title: Eventyr
     authors:
       - Hans Christian Andersen
       - Božena Köllnová-Ehrmannová
@@ -18125,6 +18302,7 @@ titles:
     authors:
       - Czesław Janczarski
       - Zbigniew Rychlicki
+    translators:
       - Josef Vlášek
     year: 1979
     language: Czech
@@ -18334,8 +18512,9 @@ titles:
   - title: Cesty pana Kaňky
     authors:
       - Jan Brzechwa
-      - Jiří Fiedler
       - Vratislav Hlavatý
+    translators:
+      - Jiří Fiedler
     year: 1980
     language: Czech
     sources:
@@ -18443,6 +18622,7 @@ titles:
   - title: Devčata si představují jinak
     authors:
       - Eugenia Kobylińska-Masiejewska
+    translators:
       - Vera Jersáková
     year: 1980
     language: Czech
@@ -18849,6 +19029,8 @@ titles:
     authors:
       - Ota Hofman
       - Jitka Kolinská
+    editors:
+      - Liberec Severografia
     year: 1980
     language: Czech
     sources:
@@ -18879,6 +19061,7 @@ titles:
         url: https://lccn.loc.gov/80124446
     verified: true
   - title: Majka
+    original_title: Das Mädchen Heika
     series: První čtení
     authors:
       - Alfred Wellm
@@ -19394,6 +19577,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=442348630
     verified: true
   - title: Wie die Wassermänner den Wels besänftigten
+    original_title: Jak vodníci udobřili sumce
     authors:
       - Bohumil Říha
       - Jan Kudláček
@@ -19528,8 +19712,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb43437918f
     verified: true
   - title: Burinka a Bambule
+    original_title: Keménykalap és krumpliorr
     authors:
       - István Csukás
+    translators:
+      - Marcela Husová
     year: 1981
     language: Czech
     sources:
@@ -19678,6 +19865,8 @@ titles:
       - Miroslav Rada
       - Ervín Urban
       - Jaroslav Velc
+    editors:
+      - Velký Šenov Severografia
     year: 1981
     language: Czech
     sources:
@@ -19744,9 +19933,12 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA87283564
     verified: false
   - title: Jagd ohne Waffen
+    original_title: Lovy beze zbraní
     authors:
       - Jaromír Tomeček
       - Mirko Hanák
+    translators:
+      - Günther Jarosch
     year: 1981
     language: German
     sources:
@@ -20150,6 +20342,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=438315278
     verified: true
   - title: Noční orel
+    original_title: Ночной орел
     authors:
       - Aleksandr Lomm (Александр Ломм)
     year: 1981
@@ -20351,6 +20544,7 @@ titles:
     authors:
       - Karel Jaromír Erben
       - Artuš Scheiner
+    translators:
       - Günther Jarosch
     year: 1981
     language: German
@@ -20419,8 +20613,9 @@ titles:
     authors:
       - Alina Centkiewiczowa
       - Czesław Jacek Centkiewicz
-      - Helena Stachová
       - Karel Toman
+    translators:
+      - Helena Stachová
     year: 1981
     language: Czech
     sources:
@@ -20580,6 +20775,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=440261015
     verified: true
   - title: Alenka v kraji divů a za zrcadlem
+    original_title: Alice's Adventures in Wonderland. Through the Looking Glass
     authors:
       - Lewis Carroll
       - Markéta Prachatická
@@ -20767,6 +20963,7 @@ titles:
   - title: Dům zarostlý vínem
     authors:
       - Ewa Nowacka
+    translators:
       - Olga Hostovská
     year: 1982
     language: Czech
@@ -20832,8 +21029,10 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BB03039320
     verified: false
   - title: Geschichten vom Hündchen und vom Kätzchen
+    original_title: Povídání o pejskovi a kočičce
     authors:
       - Josef Čapek
+    translators:
       - Otto František Babler
     year: 1982
     language: German
@@ -21077,9 +21276,10 @@ titles:
   - title: Leonek a lev
     authors:
       - Wanda Chotomska
-      - Vlasta Dvořáčková
       - Teresa Wilbik-Stanny
       - Wydawnictwo "Nasza Księgarnia"
+    translators:
+      - Vlasta Dvořáčková
     year: 1982
     language: Czech
     sources:
@@ -21145,6 +21345,8 @@ titles:
     authors:
       - Jaroslav Seifert
       - Božena Němcová
+    editors:
+      - Otakar Chaloupka
     year: 1982
     language: Czech
     sources:
@@ -21314,6 +21516,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=441323332
     verified: true
   - title: Otylka
+    original_title: Ottilie
     authors:
       - Lothar Otto
       - Olga Krejčová
@@ -21342,8 +21545,9 @@ titles:
   - title: Pan Auťák a pražské tajemství
     authors:
       - Zbigniew Nienacki
-      - Karla Bártů
       - Jan Černý
+    translators:
+      - Karla Bártů
     year: 1982
     language: Czech
     sources:
@@ -21376,8 +21580,9 @@ titles:
   - title: Pouští a pralesem
     authors:
       - Henryk Sienkiewicz
-      - Karel Málek
       - Karel Toman
+    translators:
+      - Karel Málek
     year: 1982
     language: Czech
     sources:
@@ -21561,8 +21766,9 @@ titles:
   - title: Terka jede do Varšavy
     authors:
       - Irena Jurgielewiczowa
-      - Zdenka Koutenská
       - Jaromír Zápal
+    translators:
+      - Zdenka Koutenská
     year: 1982
     language: Czech
     sources:
@@ -21637,9 +21843,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb43435753x
     verified: true
   - title: Waffen, Schützen, Büchsenmacher
+    original_title: Zbraně, střelci, puškaři
     authors:
       - Ludiše Letošníková
       - Josef Herčik
+    translators:
       - Irmgard Luft
     year: 1982
     language: German
@@ -21683,8 +21891,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=441323383
     verified: true
   - title: Zápisnḱ básnířky
+    original_title: Zapiski dětskogo poeta
     authors:
       - Agnija Bartová
+    translators:
       - Naďa Klevisová
     year: 1982
     language: Czech
@@ -21735,6 +21945,9 @@ titles:
   - title: Alenka o kraji divœu a za zrcadlem
     authors:
       - Lewis Carroll
+    translators:
+      - Aloys Skoumalovi
+      - Hana Skoumalovi
     year: 1983
     language: Czech
     sources:
@@ -21755,8 +21968,9 @@ titles:
   - title: Aňa, Ryška a první jahody
     authors:
       - Mira Michałowska
-      - Zdenka Koutenská
       - Luděk Vimr
+    translators:
+      - Zdenka Koutenská
     year: 1983
     language: Czech
     sources:
@@ -21777,6 +21991,7 @@ titles:
     authors:
       - Milena Lukešová
       - Jan Kudláček
+    translators:
       - Ingrid Juršikowa
     year: 1983
     language: Not recorded
@@ -21785,13 +22000,15 @@ titles:
         url: https://d-nb.info/840136811
     verified: true
   - title: Barevný koníček
+    original_title: A Horse of Another Color
     series: (První čtení)
     authors:
       - Nathan Kravetz
       - Adolf Born
-      - Jarmila Emmerová
       - Milan Grygar
       - Praha Svoboda
+    translators:
+      - Jarmila Emmerová
     year: 1983
     language: Czech
     sources:
@@ -21900,6 +22117,8 @@ titles:
     subtitle: Slavné premiéry českých her na scénách Národního divadla
     authors:
       - Vladimír Kovářík
+    editors:
+      - Vladimír Kovárĭk
     year: 1983
     edition: 1. vyd
     language: Czech
@@ -21944,6 +22163,7 @@ titles:
   - title: Divoký Anda
     authors:
       - Nora Szczepańska
+    translators:
       - Josef Vlášek
     year: 1983
     language: Czech
@@ -21954,6 +22174,7 @@ titles:
         url: https://search.worldcat.org/title/864200136
     verified: true
   - title: Drion opouští Zemi
+    original_title: '"Дрион" покидает Землю'
     authors:
       - Aleksandr Lomm (Александр Ломм)
     year: 1983
@@ -22072,8 +22293,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=43742541X
     verified: true
   - title: Karavana
+    original_title: Die Märchen
     authors:
       - Wilhelm Hauff
+    translators:
       - František Hrubín
     year: 1983
     language: Czech
@@ -22113,6 +22336,8 @@ titles:
   - title: Kluk s jantarovyma ocima
     authors:
       - Aleksander Minkowski
+    translators:
+      - Eva Jílková
     year: 1983
     language: Czech
     sources:
@@ -22185,6 +22410,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BB18929536
     verified: false
   - title: Lampa malého plavčíka
+    original_title: Lampáš malého plavčíka
     authors:
       - Jan Navrátil
       - Jan Černý
@@ -22230,6 +22456,7 @@ titles:
     verified: true
   - title: Léto na Humřím Útesu
     subtitle: Kniha o přáních a snech
+    original_title: Sommer auf den Hummerklippen
     authors:
       - James Krüss
       - Hana Žantovska
@@ -22446,9 +22673,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=440239966
     verified: true
   - title: Plaudereien mit dem Fuchs
+    original_title: Povídáni s liškou
     authors:
       - Jaroslav Holeček
       - Daniela Fischerová
+    translators:
       - Helena Krausová
     year: 1983
     language: German
@@ -22485,6 +22714,7 @@ titles:
     verified: true
     series: Pro dêti od 5 let
   - title: Pohádky po telefonu
+    original_title: Favole de telefono
     series: Edice Jiskřičky
     authors:
       - Gianni Rodari
@@ -22518,13 +22748,14 @@ titles:
     authors:
       - Arnoštka Kubelková
       - Olga Pavalová
-      - Zdenka Koutenská
-      - Ilona Borská
       - Stanisław Grabowski
       - Piotr Korda
       - Joanna Pollakówna
       - Maria Terlikowska
       - Janina Porazińska
+    translators:
+      - Zdenka Koutenská
+      - Ilona Borská
     year: 1983
     language: Czech
     sources:
@@ -23085,6 +23316,7 @@ titles:
   - title: Das goldene tor
     authors:
       - Adolf Zabransky
+    translators:
       - James Krüss
     year: 1984
     language: German
@@ -23196,6 +23428,7 @@ titles:
     verified: true
   - title: Hosté na Humřím útesu
     subtitle: Nová kniha o přánich a snech
+    original_title: Gäste auf den Hummerklippen
     authors:
       - James Krüss
       - Hana Žantovska
@@ -23284,6 +23517,7 @@ titles:
     authors:
       - Katalin Nagyová
       - Květa Pacovská
+    translators:
       - Richard Pražák
     year: 1984
     language: Czech
@@ -23416,6 +23650,7 @@ titles:
     authors:
       - František Hrubín
       - Jiří Běhounek
+    translators:
       - Leon Kuciński
     year: 1984
     language: Polish
@@ -23760,6 +23995,8 @@ titles:
     authors:
       - Bohumil Říha
       - Catherine Servant
+    translators:
+      - Olga Hostovská
     year: 1984
     language: Czech
     sources:
@@ -23852,8 +24089,9 @@ titles:
     verified: true
   - title: Rozprávky zdaleka i zblízka
     authors:
-      - Magda Baloghová
       - István Bara
+    translators:
+      - Magda Baloghová
     year: 1984
     language: Slovak
     sources:
@@ -23941,6 +24179,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=434861871
     verified: true
   - title: Što Sebi Zwěrjatka W Nocy Powědaja
+    original_title: Co si povídají zvířátka w noci
     authors:
       - Mirko Hanák
       - Ljuba Štíplová
@@ -23956,6 +24195,7 @@ titles:
   - title: Strážce pyramidy
     authors:
       - Jerzy Edigey
+    translators:
       - René Frühauf
     year: 1984
     language: Czech
@@ -24001,6 +24241,7 @@ titles:
   - title: Tajemná přílba
     authors:
       - Maciej Kuczyński
+    translators:
       - Ludvík Štěpán
     year: 1984
     language: Czech
@@ -24046,6 +24287,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=434856045
     verified: true
   - title: Trampoty s helikónem
+    original_title: Prázdniny so strýcom Rafaelom
     authors:
       - Vincent Šikula
       - Miloslav Jágr
@@ -24146,6 +24388,7 @@ titles:
   - title: Za minutu první láska
     authors:
       - Hanna Ożogowska
+    translators:
       - Jiřina Syrovátkova
     year: 1984
     language: Czech
@@ -24386,6 +24629,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb434414044
     verified: true
   - title: Canterburské povídky
+    original_title: The Canterbury tales
     authors:
       - Geoffrey Chaucer
       - Eleanor Farjeon
@@ -24491,6 +24735,7 @@ titles:
         url: https://search.worldcat.org/title/16810914
     verified: true
   - title: Die grossen Abenteuer des kleinen Ferdinand
+    original_title: Knížka Ferdy Mravence
     authors:
       - Ondřej Sekora
       - Helena Krausová
@@ -24778,6 +25023,7 @@ titles:
         url: https://search.worldcat.org/title/16893927
     verified: true
   - title: Kratochvíle s Hadem na pu̇l míle
+    original_title: Zarjadka dlja chvosta
     authors:
       - Grigorij Bencionovič Oster
       - Zdeňka Psu̇tková
@@ -24857,6 +25103,7 @@ titles:
     subtitle: 'Poslední plavba Willema Barentse: Pro čtenáře od 12 let'
     authors:
       - Herbert Friedrich
+    translators:
       - Milada Misárková
     year: 1985
     language: Czech
@@ -25150,6 +25397,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb43437430x
     verified: true
     subtitle: Z beranciho Kozisku
+    original_title: Eventyr
   - title: Pohádky bratří Grimm°u
     authors:
       - Jacob Grimm
@@ -25392,9 +25640,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb43437565v
     verified: true
   - title: Tschechische Märchen
+    original_title: České pohádky
     authors:
       - Jan Drda
       - Josef Lada
+    translators:
       - Walter Kraus
     year: 1985
     language: German
@@ -25467,6 +25717,7 @@ titles:
     subtitle: Pro děti od 10 let
     authors:
       - Jeanne Schlageter
+    translators:
       - Josef Poláček
     year: 1985
     language: Czech
@@ -25475,8 +25726,11 @@ titles:
         url: https://d-nb.info/979296927
     verified: true
   - title: Už zase já
+    original_title: Már megint
     authors:
       - Éva Janikovszky
+    translators:
+      - Richard Pražák
     year: 1985
     language: Czech
     sources:
@@ -25667,6 +25921,7 @@ titles:
     authors:
       - Milena Lukešová
       - Jan Kudlaček
+    translators:
       - Leon Kuciński
     year: 1986
     language: Polish
@@ -25788,6 +26043,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1134550898
     verified: true
   - title: Die Fabel vom Kätzchen, vom Mäuschen und vom roten Hühnchen
+    original_title: O kočičce, myšičce a červevé slepičce
     authors:
       - Markéta Prachatická
     year: 1986
@@ -25858,9 +26114,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991090837749705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Fryderyk
+    original_title: Fryderyk
     series: Životopisy; 21
     authors:
       - Tadeusz Łopalewski
+    translators:
       - Josef Zumr
     year: 1986
     language: Czech
@@ -26241,6 +26499,7 @@ titles:
     authors:
       - Krystyna Boglar
       - Stanislav Duda
+    translators:
       - Vlasta Dvořáčková
     year: 1986
     language: Czech
@@ -26254,6 +26513,8 @@ titles:
     authors:
       - Daniel Hevier
       - Květa Pacovská
+    translators:
+      - Jiří Žáček
     year: 1986
     language: Czech
     sources:
@@ -26423,6 +26684,7 @@ titles:
     authors:
       - Jan Brzechwa
       - Miloslav Jágr
+    translators:
       - Jan Pilař
     year: 1986
     language: Czech
@@ -26919,6 +27181,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991171042500805501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Ein Vogelmärchen
+    original_title: Ptačí pohádka
     authors:
       - Heda Průchová
       - Heda Pr°uchová
@@ -26948,6 +27211,7 @@ titles:
     authors:
       - Milan Buben
       - Julie Bubnová
+    translators:
       - Walter Beck
     year: 1987
     language: German
@@ -27005,10 +27269,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=330278967
     verified: true
   - title: Já, kocour Standa
+    original_title: Ja kocor Stani
     authors:
       - Ben Budar
-      - Josef Vlášek
       - Luboš Grunt
+    translators:
+      - Josef Vlášek
     year: 1987
     language: Czech
     sources:
@@ -27115,6 +27381,8 @@ titles:
   - title: Konec prazdnin
     authors:
       - Janusz Domagalik
+    translators:
+      - Helena Stachová
     year: 1987
     language: Czech
     sources:
@@ -27126,10 +27394,13 @@ titles:
         url: https://search.worldcat.org/title/832444873
     verified: true
   - title: Kral Matýsek První
+    original_title: Król Macius pierwszy
     authors:
       - Janusz Korczak
       - Jan Černý
       - Richard Vyhlidal
+    translators:
+      - Richard Vyhlídal
     year: 1987
     language: Czech
     sources:
@@ -27433,6 +27704,7 @@ titles:
       - Simon Dresner
       - Martin Hillman
       - Vladimír Hulpach
+    translators:
       - Jiří Stach
     year: 1987
     language: Czech
@@ -27491,6 +27763,7 @@ titles:
     authors:
       - Günther Weisenborn
       - Josef Duchoň
+    translators:
       - Jiří Stach
     year: 1987
     language: Czech
@@ -27501,6 +27774,10 @@ titles:
   - title: Ostrov kde rostou housle
     authors:
       - Agniia Barto
+    editors:
+      - Josef Brukner
+      - Pavel Šrut
+      - Agniia Lʹvovna Barto
     year: 1987
     edition: 1. vyd
     language: Czech
@@ -27524,6 +27801,7 @@ titles:
     subtitle: Pro čtenáře od 10 let
     authors:
       - Benno Pludra
+    translators:
       - Jiří Stach
     year: 1987
     language: Czech
@@ -27549,6 +27827,7 @@ titles:
   - title: Pan Auťák a Vinnetou
     authors:
       - Zbigniew Nienacki
+    translators:
       - Karla Bártů
     year: 1987
     language: Czech
@@ -27643,6 +27922,7 @@ titles:
     subtitle: 'Výbor povídek: Pro čtenáře od 9 let'
     authors:
       - Karl May
+    translators:
       - Alena Hartmanová
     year: 1987
     language: Czech
@@ -27685,6 +27965,8 @@ titles:
   - title: Příběh staršího bratra
     authors:
       - Ilona Borská
+    editors:
+      - Jaroslav Dostál
     year: 1987
     edition: 1. vyd
     series: Životopisy -- 23
@@ -27713,6 +27995,7 @@ titles:
     authors:
       - Michael Ende
       - Václav Kabát
+    translators:
       - Milada Misárková
     year: 1987
     language: Czech
@@ -27723,6 +28006,7 @@ titles:
         url: https://d-nb.info/978642368
     verified: true
     subtitle: Pro čtenáře od 10 let
+    original_title: Die unendliche Geschichte
   - title: Procházky Prahou
     authors:
       - Jana Štefánková
@@ -27772,10 +28056,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=115834516X
     verified: true
   - title: Řád za lásku
+    original_title: Wstęga pawilonu
     authors:
       - Zofia Chądzyńska
-      - Pavel Frýbort
       - Kateřina Černá
+    translators:
+      - Pavel Frýbort
     year: 1987
     language: Czech
     sources:
@@ -27804,6 +28090,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=583736076
     verified: true
   - title: Ruská sága
+    original_title: Russkaâ saga
     authors:
       - Boris Borisovič Kolokolov
     year: 1987
@@ -27992,8 +28279,9 @@ titles:
     authors:
       - Alina Afanasjew
       - Jerzy Afanasjew
-      - Jan Pišta
       - František Skála
+    translators:
+      - Jan Pišta
     year: 1987
     language: Czech
     sources:
@@ -28245,6 +28533,7 @@ titles:
     verified: true
   - title: Die ältesten Amerikaner
     subtitle: Das Buch von den Eskimos und Indianern
+    original_title: Nejstarší Američané
     authors:
       - Václav Šolc
       - Jaromír Vraštil
@@ -28280,6 +28569,7 @@ titles:
     authors:
       - Hana Doskočilová
       - Gabriel Filcík
+    translators:
       - Andrzej Magala
     year: 1988
     language: Polish
@@ -28355,6 +28645,7 @@ titles:
     subtitle: Pro starší čtenáře
     authors:
       - Uwe Kant
+    translators:
       - Josef Poláček
     year: 1988
     language: Czech
@@ -28367,6 +28658,7 @@ titles:
       - Milena Lukešová
       - Jiři Blažek
       - Jan Kudlaček
+    translators:
       - Andrzej Magala
     year: 1988
     language: Polish
@@ -28380,6 +28672,7 @@ titles:
     authors:
       - Zdeněk Miler
       - Eduard Petiška
+    translators:
       - Ingrid Juršikowa
     year: 1988
     language: Not recorded
@@ -28765,6 +29058,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb43437541v
     verified: true
   - title: Pohádky z bramborových řádk°u
+    original_title: Rootabaga stories
     authors:
       - Carl Sandburg
       - Jan Válek
@@ -28809,6 +29103,7 @@ titles:
     subtitle: Pro čtenáře od 10 let
     authors:
       - Christine Nöstlinger
+    translators:
       - Olga Krejčová
     year: 1988
     language: Czech
@@ -29002,8 +29297,6 @@ titles:
     verified: true
   - title: Vládcové času
     authors:
-      - Pavel Weigel
-      - Jaroslav Olša
       - Marek Baraniecki
       - Tadeusz Zbigniew Dworak
       - Janusz Andrzej Zajdel
@@ -29021,6 +29314,9 @@ titles:
       - Jacek Sawaszkiewicz
       - Andrzej Krzepkowski
       - Jan Hejda
+    translators:
+      - Pavel Weigel
+      - Jaroslav Olša
     year: 1988
     language: Czech
     sources:
@@ -29063,8 +29359,9 @@ titles:
   - title: Zázraky a divy
     authors:
       - Julian Tuwim
-      - Jan Pilař
       - Luděk Vimr
+    translators:
+      - Jan Pilař
     year: 1988
     language: Czech
     sources:
@@ -29301,6 +29598,7 @@ titles:
     authors:
       - Milena Lukešová
       - Jan Kudláček
+    translators:
       - Walter Kraus
     year: 1989
     language: German
@@ -29322,8 +29620,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=584546661
     verified: true
   - title: Die Fabel vom Kätzchen, vom Mäuschen und vom roten Hühnchen
+    original_title: O kočičce, myšičce a červené slepičce
     authors:
       - Markéta Prachatická
+    translators:
       - Paul Völkel
     year: 1989
     language: German
@@ -29349,6 +29649,7 @@ titles:
     subtitle: Pro čtenáře od 10 let
     authors:
       - Renate Krüger
+    translators:
       - Hana Žantovská
     year: 1989
     language: Czech
@@ -29395,9 +29696,11 @@ titles:
     verified: true
   - title: Heidi, děvčátko z hor
     subtitle: Pro čtenáře od 6 let
+    original_title: Heidi
     series: Edice Jiskřičky
     authors:
       - Johanna Spyri
+    translators:
       - Bohumil Říha
     year: 1989
     language: Czech
@@ -29612,10 +29915,12 @@ titles:
         url: https://catalog.hathitrust.org/Record/006172009
     verified: true
   - title: Kater Schnurr mit den blauen Augen
+    original_title: Z deníku kocoura Modroočka
     authors:
       - Josef Kolář
-      - Otfried Preußler
       - Helena Zmatlíková
+    translators:
+      - Otfried Preußler
     year: 1989
     language: German
     sources:
@@ -29730,6 +30035,7 @@ titles:
         url: https://www.sudoc.fr/020602871
     verified: true
   - title: Kulatá kostka
+    original_title: Guľatá kocka
     series: Veronika
     authors:
       - Jan Navrátil
@@ -29786,6 +30092,7 @@ titles:
     subtitle: Pro čtenáře od 10 let
     authors:
       - Willi Fährmann
+    translators:
       - Jiří Stach
     year: 1989
     language: Czech
@@ -30076,6 +30383,7 @@ titles:
     subtitle: Pro čtenáře od 10 let
     authors:
       - Benno Pludra
+    translators:
       - Jiří Stach
     year: 1989
     language: Czech
@@ -30107,10 +30415,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=583105572
     verified: true
   - title: Pohádky Matky Husy
+    original_title: Contes de ma mère l'Oie
     authors:
       - Charles Perrault
-      - František Hrubín
       - František Skála
+    translators:
+      - František Hrubín
     year: 1989
     language: Czech
     sources:
@@ -30527,6 +30837,7 @@ titles:
   - title: Žlutý kačer
     authors:
       - Irena Laris
+    translators:
       - Jan Pilař
     year: 1989
     language: Czech
@@ -31026,6 +31337,7 @@ titles:
   - title: Talisman z azurové země
     authors:
       - Lech Borski
+    translators:
       - Anetta Balajková
     year: 1990
     language: Czech
@@ -31036,10 +31348,13 @@ titles:
         url: https://search.worldcat.org/title/804738483
     verified: true
   - title: Únos princezny Violínky
+    original_title: Porwanie w Tiutiurlistanie
     authors:
       - Wojciech Żukrowski
       - Jiří Šalamoun
+    translators:
       - Irena Lexová
+      - Jiří Žáček
     year: 1990
     language: Czech
     sources:
@@ -31102,6 +31417,7 @@ titles:
     authors:
       - Miloš Macourek
       - Adolf Born
+    translators:
       - Jürgen Ostmeyer
     language: Not recorded
     sources:

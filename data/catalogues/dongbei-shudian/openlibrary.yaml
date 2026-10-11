@@ -64,8 +64,9 @@ titles:
   - title: Gei chu xue xie zuo zhe de yi feng xin
     series: Min guo ji cui
     authors:
-      - Zhongshi Zhang
       - Su lian wen xue gu wen hui
+    translators:
+      - Zhongshi Zhang
     year: 1946
     language: Chinese
     sources:
@@ -259,6 +260,8 @@ titles:
     verified: true
   - title: Wo men de lian chang he wan xiang
     authors: []
+    editors:
+      - Dong bei shu dian
     year: 1946
     language: Chinese
     sources:
@@ -291,6 +294,8 @@ titles:
   - title: Yu wei he can jia zhong gong gong zuo
     authors:
       - Jinkun Chen
+    editors:
+      - Tai yue xin hua shu dian
     year: 1946
     language: Chinese
     sources:
@@ -585,6 +590,8 @@ titles:
     verified: true
   - title: Dong bei xian shi yu zhong gong dui dong bei wen ti de zhu zhang
     authors: []
+    editors:
+      - Dong bei shu dian
     year: 1947
     language: Chinese
     sources:
@@ -773,8 +780,9 @@ titles:
   - title: Lie ning zai yi jiu yi ba nian (dian ying ju ben)
     authors:
       - T.zi la tuo ge luo wa
-      - Danqiu Lin
       - A.ka pu le
+    translators:
+      - Danqiu Lin
     year: 1947
     language: Chinese
     sources:
@@ -1421,6 +1429,8 @@ titles:
   - title: Di qiu shang sheng ming de fa sheng
     authors:
       - Dmitriĭ Oparin
+    translators:
+      - Feng Yi
     year: 1948
     language: Chinese
     pages: 24
@@ -1533,6 +1543,8 @@ titles:
   - title: Kong qi de hai yang
     authors:
       - Tejie'erjieyefusiji
+    translators:
+      - Yang Liu
     year: 1948
     language: Chinese
     pages: 34
@@ -3152,6 +3164,8 @@ titles:
   - title: Zi ran de gai zao zhe
     authors:
       - Shafunuofu
+    translators:
+      - Nong Yu
     year: 1949
     series: Qing nian zhi shi cong shu -- 6
     language: Chinese
@@ -3844,7 +3858,8 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1059236389
     verified: true
   - title: Da dan gong kai de pi ping
-    authors:
+    authors: []
+    translators:
       - Madeng Zhu
     language: Chinese
     sources:
@@ -3864,6 +3879,8 @@ titles:
     verified: false
   - title: Guo min dang he gong chan dang
     authors: []
+    editors:
+      - Dong bei shu dian
     language: Chinese
     sources:
       - title: K10plus record 1812774419
@@ -3871,8 +3888,9 @@ titles:
     verified: false
   - title: Hai shang shu lin
     authors:
-      - Qiubai Qu
       - Lu xun
+    translators:
+      - Qiubai Qu
     language: Chinese
     sources:
       - title: K10plus record 181264888X

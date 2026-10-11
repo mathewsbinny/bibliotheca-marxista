@@ -235,6 +235,7 @@ titles:
     verified: true
   - title: Note sulla guerra franco-prussiana
     subtitle: 1870-1871
+    original_title: Notes on the war
     series: Classici
     authors:
       - Friedrich Engels
@@ -292,6 +293,7 @@ titles:
     verified: true
   - title: Il miliardo slesiano
     subtitle: Ed altri scritti
+    original_title: Gesammellte Schriften von Wilhelm Wolff
     authors:
       - Wilhelm Wolff
       - Friedrich Engels
@@ -305,6 +307,7 @@ titles:
         url: https://d-nb.info/955690269
     verified: true
   - title: Manifesto del Partito comunista
+    original_title: Manifest der Kommunistischen Partei
     series: Classici
     authors:
       - Karl Marx
@@ -586,6 +589,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991051634049705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Alle origini della prima Internazionale
+    original_title: Zur Geschichte der Ersten Internationale
     series: Documenti
     authors:
       - David Borisovič Râzanov
@@ -1070,6 +1074,8 @@ titles:
     series: Classici
     authors:
       - Friedrich Engels
+    editors:
+      - Paolo Dalvit
     year: 2014
     language: Italian
     sources:
@@ -1097,6 +1103,7 @@ titles:
     verified: true
   - title: La Prima Internazionale in America
     subtitle: Un contributo alla storia del movimento operaio negli Stati Uniti
+    original_title: Die Internationale in Amerika
     authors:
       - Hermann Schlüter
     year: 2015

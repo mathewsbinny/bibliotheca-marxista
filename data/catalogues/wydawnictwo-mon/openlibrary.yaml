@@ -104,6 +104,7 @@ titles:
     series: Biblioteczka żołnierza
     authors:
       - W. Romaniuk
+    translators:
       - Zofia Meissner
     year: 1951
     language: Polish
@@ -253,6 +254,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1420788981
     verified: true
   - title: Jarmark sensacji
+    original_title: Marktplatz der Sensationen
     authors:
       - Egon Erwin Kisch
     year: 1952
@@ -447,9 +449,11 @@ titles:
         url: https://www.sudoc.fr/128547871
     verified: true
   - title: Twój nieznany brat
+    original_title: Dein unbekannter Bruder
     series: Biblioteka trybuny robotniczej; Nr. 26
     authors:
       - Willi Bredel
+    translators:
       - Józef Brodzki
     year: 1952
     language: Polish
@@ -560,6 +564,7 @@ titles:
   - title: Gdzie były Niemcy
     authors:
       - Harald Hauser
+    translators:
       - Maria Wisłowska
     year: 1953
     language: Polish
@@ -974,6 +979,8 @@ titles:
     verified: true
   - title: 'Morze, wybór poezji i prozy. Opracował i objaśnieniamia zaopatrzył Janusz Ste̡powski. Przedmowa: Bolesław Bierut'
     authors: []
+    editors:
+      - Janusz Stępowski
     year: 1954
     language: Polish
     sources:
@@ -1215,6 +1222,8 @@ titles:
   - title: Wypisy źródłowe do historii polskiej sztuki wojennej
     authors:
       - Wojskowy instytut historyczny
+    editors:
+      - Emanuel Halicz
     year: 1954
     language: Polish
     sources:
@@ -1483,6 +1492,8 @@ titles:
   - title: Odparcie najazdu arcyksie̡cia Maksymiliana w 1587-8 r
     authors:
       - Jan Wimmer
+    editors:
+      - Tadeusz Nowak
     year: 1955
     language: Polish
     sources:
@@ -1744,6 +1755,7 @@ titles:
         url: https://search.worldcat.org/title/22044258
     verified: true
   - title: Cusima
+    original_title: T︠S︡usima
     authors:
       - Alekseĭ Silych Novikov-Priboĭ
     year: 1956
@@ -1909,6 +1921,8 @@ titles:
     authors:
       - Józef Bem
       - Pologne
+    editors:
+      - Eligiusz Kozłowski
     year: 1956
     language: Polish
     sources:
@@ -2130,6 +2144,10 @@ titles:
     subtitle: Wybór tekstów
     authors:
       - Karol Lausz
+    editors:
+      - K. Lausz
+      - T. Parnowski
+      - S. Szliferstajnowa
     year: 1956
     language: Polish
     pages: 811
@@ -2965,6 +2983,8 @@ titles:
   - title: Satyra w konspiracji, 1939-1944
     authors:
       - Grzegorz Załęski
+    editors:
+      - Grzegorz Zaleski
     year: 1958
     edition: '[Wyd. 2.]'
     language: Polish
@@ -3031,6 +3051,8 @@ titles:
     verified: true
   - title: Ustawa o służbie wojskowej oficerów sił zbrojnych i o zaopatrzeniu emerytalnym żołnierzy zawodowych i nadterminowych oraz ich rodzin
     authors: []
+    editors:
+      - Wydawnictwo Ministerstwa Obrony Narodowej
     year: 1958
     language: Polish
     sources:
@@ -3087,6 +3109,7 @@ titles:
   - title: Wspomnienia żołnierza
     authors:
       - Heinz Guderian
+    translators:
       - Jerzy Nowacki
     year: 1958
     language: Polish
@@ -3098,6 +3121,8 @@ titles:
     verified: true
   - title: Wypisy źródłowe do historii polskiej sztuki wojennej
     authors: []
+    editors:
+      - Zdzisław Spieralski
     year: 1958
     language: Polish
     sources:
@@ -3249,6 +3274,7 @@ titles:
         url: https://search.worldcat.org/title/42387810
     verified: true
   - title: Dywizjon "X"
+    original_title: Enemy coast ahead
     authors:
       - Guy Gibson
     year: 1959
@@ -3364,6 +3390,7 @@ titles:
     authors:
       - E. J. Kingston-McCloughry
       - Jan Gerhard
+    translators:
       - Konstanty Ważyński
     year: 1959
     language: Polish
@@ -3755,6 +3782,8 @@ titles:
   - title: Walka ludu podhalańskiego z uciskiem feudalnym 1625-1633
     authors:
       - Adam Jaszczołt
+    editors:
+      - Adam Przyboś
     year: 1959
     edition: Wyd. 1
     language: Polish
@@ -3776,6 +3805,8 @@ titles:
     subtitle: Wspomnienia, relacje, dokumenty
     authors:
       - Zbigniew Flisowski
+    editors:
+      - Wojskowy Instytut Historyczny
     year: 1959
     edition: Wyd. 1
     language: Polish
@@ -3831,6 +3862,8 @@ titles:
     verified: true
   - title: Wypisy źródłowe do historii polskiej sztuki wojennej
     authors: []
+    editors:
+      - Marian Anusiewicz
     year: 1959
     language: Polish
     sources:
@@ -3851,6 +3884,8 @@ titles:
   - title: Z Zagadnien techniki wojennej
     series: Biblioteka Wiedzy Wojskowej
     authors: []
+    editors:
+      - Wydawnictwo Ministerstwa Obrony Narodowej
     year: 1959
     language: Polish
     sources:
@@ -4063,8 +4098,9 @@ titles:
     authors:
       - Leonid Tihonovič Bykov
       - Mihail Spiridovič Egorov
-      - Edward Piotrowski
       - Pavel Vasil'evič Tarasov
+    translators:
+      - Edward Piotrowski
     year: 1960
     language: Polish
     sources:
@@ -4208,6 +4244,8 @@ titles:
     subtitle: '[Kwestyja czwarta]'
     authors:
       - Towarzystwo Demokratyczne Polskie
+    editors:
+      - Marian Anusiewicz
     year: 1960
     edition: Wyd. 1
     language: Polish
@@ -4306,6 +4344,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/102896816
     verified: true
   - title: Podróż za rzekę Amu
+    original_title: Podróż za rzekę Amu
     authors:
       - Andrzej Bińkowski
     year: 1960
@@ -4320,6 +4359,7 @@ titles:
     authors:
       - Erich Rackwitz
       - Eugeniusz Banaszczyk
+    translators:
       - Paweł Elsztein
     year: 1960
     language: Polish
@@ -4488,6 +4528,9 @@ titles:
     subtitle: Przełżyli z originału Aleksander Golberg i Ryszard Leciński
     authors:
       - Vladimir Vladimirovich Razmerov
+    translators:
+      - Aleksander Goldberg
+      - Ryszard Leciński
     year: 1960
     edition: '[Wyd. 1]'
     language: Polish
@@ -5010,6 +5053,8 @@ titles:
     subtitle: Stanisław Arnold et al
     authors:
       - Sesja Naukowa, Poświęcona Wojnie Wyzwoleńczej Narodu Polskiego, 1939-1945 (1st 1958 Warsaw, Poland)
+    editors:
+      - Stanisław Arnold
     year: 1961
     edition: Wyd. 2
     language: Polish
@@ -5131,8 +5176,9 @@ titles:
     authors:
       - N. I. Britvin
       - R. V. Cvetkov
-      - Zygmunt Hofman
       - F. I. Lysenko
+    translators:
+      - Zygmunt Hofman
     year: 1961
     language: Polish
     sources:
@@ -5222,6 +5268,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/102841408
     verified: true
   - title: Skąpani w ogniu
+    original_title: Skąpani w ogniu
     authors:
       - Wojciech Żukrowski
     year: 1961
@@ -5427,6 +5474,8 @@ titles:
     verified: true
   - title: Wypisy źródłowe do historii polskiej sztuki wojennej
     authors: []
+    editors:
+      - Tadeusz Marian Nowak
     year: 1961
     language: Polish
     sources:
@@ -5665,6 +5714,7 @@ titles:
   - title: Broń biologiczna
     authors:
       - Leonid Aristarhovič Belikov
+    translators:
       - Zdzisława Rokita
     year: 1962
     language: Polish
@@ -5859,6 +5909,7 @@ titles:
   - title: Jak bronią się okręty
     authors:
       - Konstantin Vasil'evič Morozov
+    translators:
       - Michał Kochański
     year: 1962
     language: Polish
@@ -5958,6 +6009,7 @@ titles:
   - title: Lenin o wychowaniu wojskowym
     authors:
       - Ivan Dmitrievič Mošnin
+    translators:
       - Aleksander Gradlewski
     year: 1962
     language: Polish
@@ -6042,6 +6094,8 @@ titles:
   - title: Moje wspomnienia o wojnie 1854 roku
     authors:
       - Michał Czajkowski
+    editors:
+      - Józef Fijałek
     year: 1962
     edition: '[Wyd. 1]'
     language: Polish
@@ -6093,9 +6147,10 @@ titles:
     verified: true
   - title: O radzieckiej nauce wojennej
     authors:
-      - Karol Jeż
       - Ivan Ivanovič Zubkov
       - Mihail Vasil'evič Smirnov
+    translators:
+      - Karol Jeż
     year: 1962
     language: Polish
     sources:
@@ -6106,6 +6161,7 @@ titles:
     verified: true
   - title: O Zawiszy Czarnym
     subtitle: Opowieść
+    original_title: O Zawiszy Czarnym opowieść
     authors:
       - Karol Bunsch
     year: 1962
@@ -6208,8 +6264,10 @@ titles:
         url: https://search.worldcat.org/title/17944524
     verified: true
   - title: Opowieść północna
+    original_title: Severnaâ povest'
     authors:
       - Konstantin Paustowski
+    translators:
       - Jadwiga Laskowska
     year: 1962
     language: Polish
@@ -6263,6 +6321,7 @@ titles:
         url: https://search.worldcat.org/title/831358009
     verified: true
   - title: Pamietnik zolnierza korteza czyli prawdziwa historia podboju nowej hiszpanii
+    original_title: Historia verdadera de la conquista de la Nueva España
     authors:
       - Bernal Díaz del Castillo
       - Anna Ludwika Czerny
@@ -6273,10 +6332,12 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991008415909708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Pamiętnik żołnierza Korteza czyli Prawdziwa historia podboju Nowej Hiszpanii
+    original_title: Historia verdadera de la Conquista de la Nueva España
     authors:
       - Bernal Díaz del Castillo
-      - Anna Ludwika Czerny
       - Konstanty Sopoćko
+    translators:
+      - Anna Ludwika Czerny
     year: 1962
     language: Polish
     sources:
@@ -6286,8 +6347,11 @@ titles:
         url: https://search.worldcat.org/title/749665764
     verified: true
   - title: Paryż we krwi
+    original_title: Les Massacres de Paris
     authors:
       - Jean Cassou
+    translators:
+      - Marta Higier-Łebkowska
     year: 1962
     language: Polish
     sources:
@@ -6298,6 +6362,7 @@ titles:
     subtitle: Trzy dni inwazji na Kubę
     authors:
       - Fidel Castro
+    translators:
       - Adam Paszt
     year: 1962
     language: Polish
@@ -6324,6 +6389,7 @@ titles:
   - title: Początek drogi
     authors:
       - Vasilij Ivanovič Čujkov
+    translators:
       - Lena Hesu
     year: 1962
     language: Polish
@@ -6435,10 +6501,12 @@ titles:
         url: https://search.worldcat.org/title/831303213
     verified: true
   - title: Przyrządy elektronowe
+    original_title: Èlektrovakuumnye pribory
     authors:
       - Moisej Davidovič Gurevič
-      - Jakub Grycan
       - Mark Davidovič Gurevič
+    translators:
+      - Jakub Grycan
     year: 1962
     language: Polish
     sources:
@@ -6616,6 +6684,7 @@ titles:
   - title: Szpiedzy
     authors:
       - Lev Romanovič Šejnin
+    translators:
       - Jadwiga Laskowska
     year: 1962
     language: Polish
@@ -6824,8 +6893,9 @@ titles:
     subtitle: Zawrotna kariera dzielnego żołnierza
     authors:
       - Karlludwig Opitz
-      - Jacek Frühling
       - Kurt Halbritter
+    translators:
+      - Jacek Frühling
     year: 1962
     language: Polish
     sources:
@@ -6891,6 +6961,9 @@ titles:
     subtitle: 'Wybór i opracowanie: Szymon Datner, Kazimierz Leszczyński. Ze wstẹpem Janusza Gumkowskiego'
     authors:
       - Szymon Datner
+    editors:
+      - Szymon Danter
+      - Kazimierz Leszczyński
     year: 1962
     edition: '[Wyd. 1'
     language: Polish
@@ -7155,8 +7228,9 @@ titles:
   - title: Działanie rażące wybuchu jądrowego
     authors:
       - Anatolij Ivanovič Ivanov
-      - Ładysław Panufnik
       - Georgij Iosifovič Rybkin
+    translators:
+      - Ładysław Panufnik
     year: 1963
     language: Polish
     sources:
@@ -7335,6 +7409,7 @@ titles:
     authors:
       - Dan Billany
       - David Dowie
+    translators:
       - Ludmiła Duninowska
     year: 1963
     language: Polish
@@ -7436,6 +7511,7 @@ titles:
   - title: Mikrofalowe wzmacniacze parametryczne
     authors:
       - Boris Vasil'evič Sergovancev
+    translators:
       - Jan Szarek
     year: 1963
     language: Polish
@@ -7853,6 +7929,7 @@ titles:
   - title: Przybysze z kosmosu
     authors:
       - Evgenij Leonidovič Krinov
+    translators:
       - Wanda Trzcińska
     year: 1963
     language: Polish
@@ -8040,6 +8117,8 @@ titles:
   - title: Wielkiej sztuki artylerii część pierwsza
     authors:
       - Kazimierz Siemienowicz
+    editors:
+      - Rudolf Niemiec
     year: 1963
     edition: Wyd. 1
     language: Polish
@@ -8244,8 +8323,9 @@ titles:
   - title: Żołnierska epopeja
     authors:
       - Omar Nelson Bradley
-      - Emilia Niemirska
       - Franciszek Skibiński
+    translators:
+      - Emilia Niemirska
     year: 1963
     language: Polish
     sources:
@@ -8296,6 +8376,7 @@ titles:
   - title: Żywi i martwi
     authors:
       - Konstantin Simonow
+    translators:
       - Jerzy Brzęczkowski
     year: 1963
     language: Polish
@@ -8535,6 +8616,7 @@ titles:
         url: https://search.worldcat.org/title/812768085
     verified: true
   - title: Desant
+    original_title: Desant
     authors:
       - Adam Kaska
     year: 1964
@@ -8669,6 +8751,7 @@ titles:
     subtitle: Zastosowania wojskowe
     authors:
       - V. S. Sinâk
+    translators:
       - Aleksander Bogusławski
     year: 1964
     language: Polish
@@ -8702,6 +8785,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991103226189705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Frontowe drogi
+    original_title: Frontowe drogi
     authors:
       - Waldemar Kotowicz
     year: 1964
@@ -8909,6 +8993,7 @@ titles:
     series: Biblioteka Wiedzy Wojskowej; Seria 7
     authors:
       - N. Â. Suško
+    translators:
       - Jerzy Targalski
     year: 1964
     language: Polish
@@ -8958,6 +9043,7 @@ titles:
     subtitle: Włókna ogniotrwałe, włókna metalowe, kompozycje
     authors:
       - Zbigniew Karol Porczyński
+    translators:
       - Antoni Zawadzki
     year: 1964
     language: Polish
@@ -9583,6 +9669,7 @@ titles:
   - title: Przygody Wernera Holta
     authors:
       - Dieter Noll
+    translators:
       - Zofia Rybicka
     year: 1964
     language: Polish
@@ -9838,6 +9925,7 @@ titles:
   - title: Tuchaczewski
     authors:
       - Lev Veniaminovič Nikulin
+    translators:
       - Stefan Klonowski
     year: 1964
     language: Polish
@@ -9940,6 +10028,7 @@ titles:
   - title: Wojna wyzwoleńcza narodu wietnamskiego
     authors:
       - Võ Nguyên Giáp
+    translators:
       - Franciszek Dziedzic
       - Czesław Lech
     year: 1964
@@ -9953,6 +10042,7 @@ titles:
   - title: Wojna, jak ją poznałem
     authors:
       - George Smith Patton
+    translators:
       - Emilia Niemirska
     year: 1964
     language: Polish
@@ -10205,6 +10295,7 @@ titles:
     authors:
       - Viktor Dmitrievič Kurov
       - Ûrij Mihajlovič Dolžanskij
+    translators:
       - Tadeusz Roszczypała
       - Alojzy Kulawiec
       - Bogumił Łysiak
@@ -10428,6 +10519,8 @@ titles:
   - title: Bitwa pod Lagarde
     authors:
       - Zygmunt Kosior
+    editors:
+      - Witold Biegański
     year: 1965
     language: Polish
     pages: 149
@@ -10688,9 +10781,11 @@ titles:
         url: https://search.worldcat.org/title/833048028
     verified: true
   - title: Dzieje żywota i znamienitych spraw admirała don Krzysztofa Kolumba
+    original_title: Historie
     authors:
       - Fernando Colón
       - Władysław Brykczyński
+    translators:
       - Alija Dukanović
     year: 1965
     language: Polish
@@ -10702,6 +10797,7 @@ titles:
     verified: true
   - title: Dziennik z lat wojny 1914-1919
     subtitle: Fragmenty
+    original_title: Journal des années de guerre
     authors:
       - Romain Rolland
     year: 1965
@@ -10757,6 +10853,7 @@ titles:
   - title: Energia - motor świata
     authors:
       - Charles-Noël Martin
+    translators:
       - Bolesław Lenart
     year: 1965
     language: Polish
@@ -10821,9 +10918,10 @@ titles:
     verified: true
   - title: Historia sztuki wojennej
     authors:
-      - Edward Bagieński
       - Pavel Alekseevič Rotmistrov
       - Ivan Efrimovič Krupčenko
+    translators:
+      - Edward Bagieński
     year: 1965
     language: Polish
     sources:
@@ -10865,6 +10963,7 @@ titles:
   - title: Jeśli mnie opuścisz
     authors:
       - Zdeněk Pluhař
+    translators:
       - Emilia Witwicka
     year: 1965
     language: Polish
@@ -10897,6 +10996,7 @@ titles:
     authors:
       - Viktor Pavlovič Petrov
       - Arkadij Arkad'evič Sočivko
+    translators:
       - Marian Sztarski
     year: 1965
     language: Polish
@@ -11435,8 +11535,9 @@ titles:
     subtitle: Poradnik
     authors:
       - Aleksander Nikolaevič Paškov
-      - Leonard Niemcewicz
       - Vladimir Petrovič Korsakov
+    translators:
+      - Leonard Niemcewicz
     year: 1965
     language: Polish
     sources:
@@ -11448,6 +11549,7 @@ titles:
   - title: Rakieta kontra rakieta
     authors:
       - Mihail Nikolaevič Nikolaev
+    translators:
       - Tadeusz Kempf
       - Jerzy Niemiec
     year: 1965
@@ -11496,6 +11598,7 @@ titles:
         url: https://search.worldcat.org/title/831315927
     verified: true
   - title: Śniegi płyną
+    original_title: Śniegi płyną
     authors:
       - Roman Bratny
     year: 1965
@@ -11544,8 +11647,9 @@ titles:
   - title: Strzały w stepie
     authors:
       - Aleksandr Lukin
-      - Teresa Achmatowicz
       - Dmitrij Polânovskij
+    translators:
+      - Teresa Achmatowicz
     year: 1965
     language: Polish
     sources:
@@ -11761,6 +11865,7 @@ titles:
   - title: Wojna za kręgiem polarnym
     authors:
       - Arseni Grigorevič Golovko
+    translators:
       - Zdzisław Boczkowski
     year: 1965
     language: Polish
@@ -11862,8 +11967,9 @@ titles:
   - title: Z Buzułuku do Pragi
     authors:
       - Ludvík Svoboda
-      - Zdzisław Hierowski
       - Władysław Filar
+    translators:
+      - Zdzisław Hierowski
     year: 1965
     language: Polish
     sources:
@@ -12015,8 +12121,9 @@ titles:
     authors:
       - Lûdmila Nikolaevna Abaeva
       - J. P. Petrov
-      - Jerzy Nowacki
       - Petr Nikolaevič Pospelov
+    translators:
+      - Jerzy Nowacki
       - Ignacy Bukowski
     year: 1965
     language: Polish
@@ -12086,6 +12193,7 @@ titles:
   - title: Zima naszej goryczy
     authors:
       - John Steinbeck
+    translators:
       - Bronisław Zieliński
     year: 1965
     language: Polish
@@ -12261,6 +12369,7 @@ titles:
   - title: Artyleryjskim szlakiem
     authors:
       - Nikolaj Pavlovič Voronov
+    translators:
       - Stefan Michnik
     year: 1966
     language: Polish
@@ -12336,6 +12445,7 @@ titles:
     authors:
       - Dušan Hamšik
       - Jiří Pražak
+    translators:
       - Cecylia Dmochowska
     year: 1966
     language: Polish
@@ -12373,6 +12483,10 @@ titles:
     subtitle: O dzialalnosci radzieckich partyzantow na ziemiach polskich
     authors:
       - Władysław Góra
+    editors:
+      - Stanisław Wroński
+    translators:
+      - Mieczysław Lidert
     year: 1966
     edition: '[Wyd. 1'
     language: Polish
@@ -12460,6 +12574,7 @@ titles:
   - title: Cybernetyka techniczna
     authors:
       - Leonid Pavlovič Krajzmer
+    translators:
       - Lech Pocheć
     year: 1966
     language: Polish
@@ -12472,8 +12587,9 @@ titles:
   - title: Cyrus Wielki
     authors:
       - Harold Lamb
-      - Tadeusz Jan Dehnel
       - Mieczysław Wiśniewski
+    translators:
+      - Tadeusz Jan Dehnel
     year: 1966
     language: Polish
     sources:
@@ -12513,6 +12629,7 @@ titles:
   - title: Czołgi idą rombem
     authors:
       - Anatolij Andreevič Anan'ev
+    translators:
       - Igor Zakrzewski
     year: 1966
     language: Polish
@@ -12523,6 +12640,7 @@ titles:
         url: https://search.worldcat.org/title/802740771
     verified: true
   - title: Czterej pancerni i pies
+    original_title: Czterej pancerni i pies
     authors:
       - Janusz Przymanowski
     year: 1966
@@ -12883,6 +13001,7 @@ titles:
     series: Biblioteka Powszechna
     authors:
       - Hans Hellmut Kirst
+    translators:
       - Jacek Frühling
     year: 1966
     language: Polish
@@ -13005,6 +13124,7 @@ titles:
   - title: Ku gwiazdom
     authors:
       - Nikolaj Andreevič Gorbačev
+    translators:
       - Aleksander Matuszyn
     year: 1966
     language: Polish
@@ -13032,8 +13152,11 @@ titles:
         url: https://search.worldcat.org/title/750934021
     verified: true
   - title: Lata potopu, 1655-1657
+    original_title: Annales Poloniae ab obitu Vladislai IV
     authors:
       - Wespazjan Kochowski
+    editors:
+      - Leszek Kukulski
     year: 1966
     edition: Wyd. 1
     language: Polish
@@ -13307,6 +13430,8 @@ titles:
     subtitle: Wybór poezji
     authors:
       - Lucjan Szenwald
+    editors:
+      - Bogdan Ostromęcki
     year: 1966
     edition: Wyd. 1
     language: Polish
@@ -13363,8 +13488,9 @@ titles:
   - title: Na podgórzu Bałkanów
     authors:
       - Mitka Grábćeva
-      - Halina Kalita
       - Eugeniusz Stachurski
+    translators:
+      - Halina Kalita
     year: 1966
     language: Polish
     sources:
@@ -13438,6 +13564,7 @@ titles:
     subtitle: Opowieść
     authors:
       - Christa Wolf
+    translators:
       - Zofia Rybicka
     year: 1966
     language: Polish
@@ -13451,6 +13578,7 @@ titles:
     subtitle: Z notatek korespondenta wojennego
     authors:
       - Aleksandr Ûr'evič Krivickij
+    translators:
       - Kazimierz Cis
       - Jadwiga Laskowska
     year: 1966
@@ -13464,6 +13592,7 @@ titles:
   - title: Nikt nie rodzi się żołnierzem
     authors:
       - Konstantin Simonow
+    translators:
       - Jadwiga Laskowska
     year: 1966
     language: Polish
@@ -13623,8 +13752,9 @@ titles:
     subtitle: Działania bojowe 65. armii w operacji berlińskiej, kwiecień - maj 1945
     authors:
       - Pavel Ivanovič Batov
-      - Jan Ćwierdziński
       - Konstanty Rokossowski
+    translators:
+      - Jan Ćwierdziński
     year: 1966
     language: Polish
     sources:
@@ -13658,6 +13788,7 @@ titles:
   - title: Opowieść północna
     authors:
       - Konstantin Paustowski
+    translators:
       - Jadwiga Laskowska
     year: 1966
     language: Polish
@@ -13723,8 +13854,9 @@ titles:
   - title: Pentagon
     authors:
       - Jack Raymond
-      - Emilia Niemirska
       - Franciszek Skibiński
+    translators:
+      - Emilia Niemirska
       - Antoni Stefan Wayda
     year: 1966
     language: Polish
@@ -14007,6 +14139,7 @@ titles:
   - title: Przygody Wernera Holta
     authors:
       - Dieter Noll
+    translators:
       - Zofia Rybicka
     year: 1966
     language: Polish
@@ -14198,6 +14331,7 @@ titles:
   - title: Sierpień, spadają gwiazdy
     authors:
       - Vladimir Anatol'evič Dobrovol'skij
+    translators:
       - Urszula Gutowska
     year: 1966
     language: Polish
@@ -14430,6 +14564,7 @@ titles:
   - title: Trudne lata
     authors:
       - Andrej Trofimovič Stučenko
+    translators:
       - Ryszard Leciński
     year: 1966
     language: Polish
@@ -14589,6 +14724,10 @@ titles:
   - title: W bojach o wolność Hiszpanii. Zebrali i przygotowali do druku Michał Bron, Eugeniusz Kozłowski i Stanisław Oke̡cki. Słowo wste̡pne napisał Eugeniusz Szyr
     authors:
       - Karol Świerczewski
+    editors:
+      - Stanisław Oke̜cki
+      - Michał Bron
+      - Eugeniusz Kozłowski
     year: 1966
     language: Polish
     sources:
@@ -14720,6 +14859,7 @@ titles:
   - title: Wojna radiowa
     authors:
       - Aleksandr Ignat'evič Palij
+    translators:
       - Zenon Mendygrał
     year: 1966
     language: Polish
@@ -14733,6 +14873,8 @@ titles:
     subtitle: Szkice i schematy
     authors:
       - Tadeusz Rawski
+    editors:
+      - Ernest Wisniewski
     year: 1966
     language: Polish
     pages: 80
@@ -14961,6 +15103,8 @@ titles:
     verified: true
   - title: Wypisy źródłowe do historii polskiej sztuki wojennej
     authors: []
+    editors:
+      - Zdzisław Spieralski
     year: 1966
     language: Polish
     sources:
@@ -15161,8 +15305,10 @@ titles:
     verified: true
   - title: Żelazny potok
     subtitle: Powieść
+    original_title: Železnyj potok
     authors:
       - Aleksandr Sierafimowicz
+    translators:
       - Józef Brodzki
     year: 1966
     language: Polish
@@ -15241,10 +15387,11 @@ titles:
     series: Historia Wielkiej Wojny Narodowej Związku Radzieckiego 1941-1945; t. 5
     authors:
       - Aleksej Vasil'evič Basov
-      - Ignacy Bukowski
       - S. I. Roŝin
       - Petr Nikolaevič Pospelov
       - Lech Ratajski
+    translators:
+      - Ignacy Bukowski
       - Jerzy Nowacki
     year: 1966
     language: Polish
@@ -15259,6 +15406,7 @@ titles:
   - title: Życiorysy
     authors:
       - Alexander Kluge
+    translators:
       - Janina Jonscher
       - Joanna Jonscher
     year: 1966
@@ -15272,6 +15420,7 @@ titles:
   - title: Żywi i martwi
     authors:
       - Konstantin Simonow
+    translators:
       - Jerzy Brzęczkowski
     year: 1966
     language: Polish
@@ -15363,6 +15512,8 @@ titles:
       - Polska Akademia Nauk. Wydział I--Nauk Społecznych
       - Wojskowy Instytut Historyczny (Poland)
       - Sesja Naukowa, Poświęcona Wojnie Wyzwolńczej Narodu Polskiego, 1939-1945 (1963 Warsaw)
+    editors:
+      - Henryk Jabłoński
     year: 1967
     edition: Wyd. I.
     language: Polish
@@ -15538,6 +15689,9 @@ titles:
   - title: Bibliografia polskich bibliografii wojskowych
     authors:
       - Poland) Centralna Biblioteka Wojskowa (Warsaw
+    editors:
+      - Wiesław Majewski
+      - Edward Pigoń
     year: 1967
     language: Polish
     sources:
@@ -15752,6 +15906,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991060964629705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Czterej pancerni i pies
+    original_title: Czterej pancerni i pies
     series: Biblioteka powszechna
     authors:
       - Janusz Przymanowski
@@ -16014,6 +16169,8 @@ titles:
   - title: Historia sztuki wojennej do roku 1939
     authors:
       - P. A. Rotmistrov
+    translators:
+      - Edward Bagieński
     year: 1967
     edition: Wyd. 1.]
     series: Biblioteka wiedzy wojskowej -- seria 8
@@ -16234,6 +16391,7 @@ titles:
     authors:
       - Vlado Šegrt
       - Mieczysław Juchniewicz
+    translators:
       - Halina Kalita
     year: 1967
     language: Polish
@@ -16259,6 +16417,7 @@ titles:
         url: https://search.worldcat.org/title/831279634
     verified: true
   - title: Krystek z Warszawy
+    original_title: Krystek z Warszawy
     authors:
       - Janina Broniewska
       - Helena Krajewska
@@ -16422,8 +16581,9 @@ titles:
     authors:
       - Sergej Alekseevič Abramov
       - M. I. Mariničev
-      - Ryszard Sieradzan
       - P. D. Polâkov
+    translators:
+      - Ryszard Sieradzan
     year: 1967
     language: Polish
     sources:
@@ -16436,6 +16596,7 @@ titles:
     subtitle: Ballada o Hiszpanii
     authors:
       - Žanis Griva
+    translators:
       - Jadwiga Laskowska
     year: 1967
     language: Polish
@@ -16509,6 +16670,7 @@ titles:
   - title: Na pokładzie S-56
     authors:
       - Grigorij Ivanovič Ŝedrin
+    translators:
       - Zygmunt Grabowski
     year: 1967
     language: Polish
@@ -16521,6 +16683,7 @@ titles:
   - title: Na przedpolach Leningradu
     authors:
       - Dmitrij Alekseevič Ŝeglov
+    translators:
       - Michał Gardowski
       - Janina Olszowska
     year: 1967
@@ -16556,6 +16719,7 @@ titles:
   - title: Nad mapą minionych bitew
     authors:
       - Mihail Il'ič Kazakov
+    translators:
       - Stefan Klonowski
     year: 1967
     language: Polish
@@ -16693,8 +16857,9 @@ titles:
   - title: Nowe Kanny
     subtitle: Operacja Jassy-Kiszyniów
     authors:
-      - Tadeusz Kossakiewicz
       - Rodion Âkovlevič Malinovskij
+    translators:
+      - Tadeusz Kossakiewicz
     year: 1967
     language: Polish
     sources:
@@ -16730,6 +16895,8 @@ titles:
   - title: O drugi front w Europie
     authors:
       - V. M. Kulish
+    translators:
+      - Aleksander Gradlewski
     year: 1967
     language: Polish
     pages: 439
@@ -16878,6 +17045,7 @@ titles:
   - title: Okrutne morze
     authors:
       - Nicholas Monsarrat
+    translators:
       - Maria Boduszyńska-Borowikowa
     year: 1967
     language: Polish
@@ -16978,8 +17146,10 @@ titles:
         url: https://search.worldcat.org/title/831229613
     verified: true
   - title: Pamiętniki Filipa Pawła de Ségura, adiutanta Napoleona
+    original_title: Histoire de Napoléon et de la grande armée, pendant l'année 1812
     authors:
       - Philippe Paul de Ségur
+    translators:
       - Emilia Leszczyńska
       - Eligia Bąkowska
     year: 1967
@@ -17117,6 +17287,7 @@ titles:
   - title: Płonące brzegi
     authors:
       - Petr Alekseevič Teremov
+    translators:
       - Apoloniusz Zawilski
     year: 1967
     language: Polish
@@ -17305,6 +17476,7 @@ titles:
     authors:
       - Stanisław Komornicki
       - Tadeusz Słupski
+    translators:
       - Andrzej Zieliński
     year: 1967
     language: English
@@ -17505,6 +17677,8 @@ titles:
   - title: Przed i po maju
     authors:
       - Marian Romeyko
+    editors:
+      - Konrad Bugajak
     year: 1967
     edition: Wyd. 1
     language: Polish
@@ -17794,8 +17968,9 @@ titles:
   - title: Rosja we krwi skąpana
     authors:
       - Artem Veselyj
-      - Ignacy Szenfeld
       - Mieczysław Wiśniewski
+    translators:
+      - Ignacy Szenfeld
     year: 1967
     language: Polish
     sources:
@@ -17914,9 +18089,10 @@ titles:
   - title: Spokojna Odessa
     authors:
       - Aleksandr Lukin
-      - Teresa Achmatowicz
       - Jerzy Karolak
       - Dmitrij Polânovskij
+    translators:
+      - Teresa Achmatowicz
     year: 1967
     language: Polish
     sources:
@@ -17993,9 +18169,10 @@ titles:
   - title: Szosa Wołokołamska
     authors:
       - Aleksandr Al'fredovič Bek
-      - Stefan Klonowski
       - Konstantin Simonow
       - Konstanty Sopoćko
+    translators:
+      - Stefan Klonowski
     year: 1967
     language: Polish
     sources:
@@ -18007,6 +18184,7 @@ titles:
   - title: Szybkość, czas i przestrzeń w wojnie współczesnej
     authors:
       - Ivan Grigor'evič Zav'âlov
+    translators:
       - Edward Bagieński
     year: 1967
     language: Polish
@@ -18277,6 +18455,7 @@ titles:
         url: https://d-nb.info/577662031
     verified: true
   - title: Wędrówki z moim Guru
+    original_title: Wędrówki z moim Guru
     authors:
       - Wojciech Żukrowski
       - Jan Marcin Szancer
@@ -18320,8 +18499,9 @@ titles:
   - title: Wielkie zwycięstwo nad Wołgą
     authors:
       - Fedor Vasil'evič Danilov
-      - Marian Odlewany
       - Konstanty Rokossowski
+    translators:
+      - Marian Odlewany
     year: 1967
     language: Polish
     sources:
@@ -18361,6 +18541,7 @@ titles:
     series: Biblioteka wiedzy wojskowej; 10
     authors:
       - Ivan Andreevič Seleznev
+    translators:
       - Ryszard Leciński
     year: 1967
     language: Polish
@@ -18375,6 +18556,7 @@ titles:
   - title: Wojna i rewolucja narodów Jugosławii 1941-1945
     authors:
       - Vlado Strugar
+    translators:
       - Helena Bron
       - Michał Bron
     year: 1967
@@ -18440,6 +18622,8 @@ titles:
   - title: 'Wojsko polskie we Francji, 1939-1940. Red. naukowy: Eugeniusz Kozłowski'
     authors:
       - Witold Biegański
+    editors:
+      - Eugeniusz Kozłowski
     year: 1967
     language: Polish
     sources:
@@ -18447,6 +18631,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb36204640d
     verified: true
   - title: Wojskowe lotnictwo transportowe
+    original_title: Transport wojskowy w przestworzach
     authors:
       - Jerzy Domański
     year: 1967
@@ -18533,10 +18718,11 @@ titles:
     authors:
       - V. N. Andriânov
       - V. A. Vasilenko
-      - Ignacy Bukowski
-      - Jerzy Nowacki
       - Petr Nikolaevič Pospelov
       - Lech Ratajski
+    translators:
+      - Ignacy Bukowski
+      - Jerzy Nowacki
     year: 1967
     language: Polish
     sources:
@@ -18639,6 +18825,7 @@ titles:
     subtitle: Przegląd planów wojennych niemieckiego sztabu generalnego
     authors:
       - Sergej P. Solov'ev
+    translators:
       - Edward Bagieński
     year: 1967
     language: Polish
@@ -18694,6 +18881,7 @@ titles:
   - title: Zbrodnie wojenne w Wietnamie
     authors:
       - Bertrand Russell
+    translators:
       - Antoni Stefan Wayda
     year: 1967
     language: Polish
@@ -18706,6 +18894,7 @@ titles:
   - title: Żelazny Gustaw
     authors:
       - Hans Fallada
+    translators:
       - Emilia Bielicka
       - Teresa Jętkiewicz
     year: 1967
@@ -18929,9 +19118,10 @@ titles:
   - title: Armia ogólnowojskowa w natarciu
     subtitle: Na podstawie doświadczeń wielkiej wojny narodowej Związku Radzieckiego 1941-1945
     authors:
-      - Janusz Horodecki
       - Pavel Alekseevič Kuročkin
       - Ernest Wiśniewski
+    translators:
+      - Janusz Horodecki
     year: 1968
     language: Polish
     sources:
@@ -19061,6 +19251,7 @@ titles:
   - title: Bitwa o Kaukaz
     authors:
       - Andrej Antonovič Grečko
+    translators:
       - Czesław Czarnogórski
     year: 1968
     language: Polish
@@ -19251,8 +19442,10 @@ titles:
         url: https://search.worldcat.org/title/750736925
     verified: true
   - title: Czterdziesty piąty
+    original_title: Sorok pâtyj
     authors:
       - Ivan Stepanovič Konev
+    translators:
       - Czesław Waluk
     year: 1968
     language: Polish
@@ -19285,8 +19478,10 @@ titles:
         url: https://search.worldcat.org/title/830891119
     verified: true
   - title: Dnie i noce
+    original_title: Dni i noči
     authors:
       - Konstantin Simonow
+    translators:
       - Czesław Jastrzębiec-Kozłowski
     year: 1968
     language: Polish
@@ -19299,6 +19494,7 @@ titles:
   - title: Doktryny morskie państw imperialistycznych
     authors:
       - Ivan Nikolaevič Potapov
+    translators:
       - Edward Bagieński
     year: 1968
     language: Polish
@@ -19605,8 +19801,9 @@ titles:
     authors:
       - Nikolaj Alekseevič Ostrovskij
       - Helena Bobińska
-      - Wacław Rogowicz
       - Mieczysław Wiśniewski
+    translators:
+      - Wacław Rogowicz
     year: 1968
     language: Polish
     sources:
@@ -19617,8 +19814,10 @@ titles:
     verified: true
   - title: Kadzidło i pumpernikiel
     subtitle: Westfalski obrazek obyczajowy
+    original_title: Weihrauch und Pumpernickel
     authors:
       - Horst Otto Jägersberg
+    translators:
       - Stanisław Mroczek
     year: 1968
     language: Polish
@@ -19677,8 +19876,9 @@ titles:
   - title: Klęska armii kwantuńskiej
     subtitle: Zarys historyczny
     authors:
-      - Stanisław Ludkiewicz
       - Rodion Âkovlevič Malinovskij
+    translators:
+      - Stanisław Ludkiewicz
       - Andrzej Zbyszewski
     year: 1968
     language: Polish
@@ -19702,8 +19902,10 @@ titles:
         url: https://search.worldcat.org/title/830901432
     verified: true
   - title: Kozara
+    original_title: Kozara
     authors:
       - Mladen Oljača
+    translators:
       - Maria Krukowska
     year: 1968
     language: Polish
@@ -19716,6 +19918,7 @@ titles:
   - title: Krach nad Wołgą
     authors:
       - Joachim Wieder
+    translators:
       - Stefan Jellenta
       - Andrzej Rzepniewski
     year: 1968
@@ -19802,6 +20005,7 @@ titles:
   - title: Matematyczna teoria procesów optymalnych
     authors:
       - Lew Pontriagin
+    translators:
       - Jerzy Skibiński
     year: 1968
     language: Polish
@@ -19847,6 +20051,7 @@ titles:
   - title: Morski front
     authors:
       - Ûrij Aleksandrovič Panteleev
+    translators:
       - Zygmunt Grabowski
     year: 1968
     language: Polish
@@ -20008,6 +20213,8 @@ titles:
   - title: Niebo wojny
     authors:
       - Aleksandr Ivanovich Pokryshkin
+    translators:
+      - Kazimierz Cis
     year: 1968
     edition: Wyd. 1
     language: Polish
@@ -20037,6 +20244,7 @@ titles:
     authors:
       - Arkadij Iosifovič Poltorak
       - Tadeusz Cyprian
+    translators:
       - Jerzy Gonczarski
     year: 1968
     language: Polish
@@ -20174,6 +20382,7 @@ titles:
     subtitle: Opowieści
     authors:
       - Viktor Aleksandrovič Ust'âncev
+    translators:
       - Marta Tywonek
     year: 1968
     language: Polish
@@ -20246,9 +20455,10 @@ titles:
   - title: Operacja "Gołąb"
     authors:
       - Igor' Petrovič Belâev
-      - Bolesław Kazimierz Kowalski
       - Evgenij Maksimovič Primakov
       - Tomas Anatol'evič Kolesničenko
+    translators:
+      - Bolesław Kazimierz Kowalski
     year: 1968
     language: Polish
     sources:
@@ -20272,6 +20482,7 @@ titles:
     subtitle: Teoria i praktyka amerykańskiej wojny psychologicznej
     authors:
       - Nikolaj Ivanovič Živejnov
+    translators:
       - Czesław Czarnogórski
     year: 1968
     language: Polish
@@ -20282,8 +20493,10 @@ titles:
         url: https://search.worldcat.org/title/831190284
     verified: true
   - title: Opowieść północna
+    original_title: Severnaâ povest'
     authors:
       - Konstantin Paustowski
+    translators:
       - Jadwiga Laskowska
     year: 1968
     language: Polish
@@ -20489,6 +20702,7 @@ titles:
     authors:
       - Nikolaj Mihajlovič Izûmov
       - Dimitrij Pavlovič Linde
+    translators:
       - Jan Szarek
     year: 1968
     language: Polish
@@ -20698,6 +20912,7 @@ titles:
   - title: Przygody Wernera Holta
     authors:
       - Dieter Noll
+    translators:
       - Zofia Rybicka
     year: 1968
     language: Polish
@@ -20714,6 +20929,7 @@ titles:
   - title: Psychologia kolektywu żołnierskiego
     authors:
       - Aleksandr Vasil'evič Barabanŝikov
+    translators:
       - Czesław Czarnogórski
     year: 1968
     language: Polish
@@ -20726,6 +20942,7 @@ titles:
   - title: Radzieckie wojska rakietowe
     authors:
       - Petr Timofeevič Astašenkov
+    translators:
       - Ładysław Panufnik
     year: 1968
     language: Polish
@@ -20827,6 +21044,8 @@ titles:
   - title: Rozpoznania i szarże
     authors:
       - Janusz Przymanowski
+    editors:
+      - Maria Przymanowska
     year: 1968
     edition: '[Wyd. 1'
     language: Polish
@@ -21027,6 +21246,7 @@ titles:
   - title: Trudna decyzja
     authors:
       - Wilhelm Adam
+    translators:
       - Hanna Lebecka
     year: 1968
     language: Polish
@@ -21071,6 +21291,7 @@ titles:
   - title: Ultradźwięki i ich zastosowanie
     authors:
       - Ivan Grigor'evič Horbenko
+    translators:
       - Jan Baranowski
     year: 1968
     language: Polish
@@ -21139,6 +21360,7 @@ titles:
   - title: W marszu i w boju
     authors:
       - Pavel Ivanovič Batov
+    translators:
       - Czesław Czarnogórski
       - Jadwiga Laskowska
     year: 1968
@@ -21422,6 +21644,7 @@ titles:
     subtitle: Metody i środki kierowania walką
     authors:
       - Georgij Dmitrievič Krysenko
+    translators:
       - Zygmunt Klimecki
       - Franciszek Lesisz
       - Alfred Pondo
@@ -21435,10 +21658,12 @@ titles:
     verified: true
   - title: Wstęp do strategii
     subtitle: Odstraszanie i strategia
+    original_title: Introduction à la stratégie
     authors:
       - André Beaufre
-      - Franciszek Dziedzic
       - Franciszek Skibiński
+    translators:
+      - Franciszek Dziedzic
     year: 1968
     language: Polish
     sources:
@@ -21612,6 +21837,9 @@ titles:
   - title: Z lat wojny i okupacji, 1939-1945
     authors:
       - Marian Anusiewicz
+    editors:
+      - Stanisław Herbst
+      - Tadeusz Jędruszczak
     year: 1968
     language: Polish
     sources:
@@ -21844,6 +22072,7 @@ titles:
   - title: Żywi i martwi
     authors:
       - Konstantin Simonow
+    translators:
       - Jerzy Brzęczkowski
     year: 1968
     language: Polish
@@ -21876,8 +22105,10 @@ titles:
         url: https://search.worldcat.org/title/839129388
     verified: true
   - title: Alarm na ziemi
+    original_title: Zemnaâ trevoga
     authors:
       - V. N. Žukov
+    translators:
       - Marta Tywonek
     year: 1969
     language: Polish
@@ -21985,6 +22216,7 @@ titles:
   - title: Asy na start
     authors:
       - Geno Borov
+    translators:
       - Henryka Czajka
     year: 1969
     language: Polish
@@ -22124,14 +22356,16 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991140349209705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Broń jądrowa a rozwój taktyki
+    original_title: Âdernoe oruženie i razvitie taktiki
     authors:
       - P. M. Petrus'
       - Petr Vasil'evič Šemanskij
-      - Edward Bagieński
       - Grigorij Fedorovič Birûkov
       - N. K. Čul'skij
-      - Mikołaj Plikus
       - Grigorij Vul'fovič Mel'nikov
+    translators:
+      - Edward Bagieński
+      - Mikołaj Plikus
     year: 1969
     language: Polish
     sources:
@@ -22270,6 +22504,8 @@ titles:
   - title: Czerwone noce
     authors:
       - Henryk Cybulski
+    editors:
+      - Henryk Pająk
     year: 1969
     edition: Wyd. 1
     language: Polish
@@ -22310,6 +22546,7 @@ titles:
         url: https://search.worldcat.org/title/15056016
     verified: true
   - title: Czterej pancerni i pies
+    original_title: Czterej pancerni i pies
     authors:
       - Janusz Przymanowski
     year: 1969
@@ -22431,9 +22668,10 @@ titles:
   - title: Dr Sorge nadaje z Tokio
     authors:
       - Julius Mader
-      - Włodzimierz Gorzkowski
       - Horst Pehnert
       - Gerhard Stuchlik
+    translators:
+      - Włodzimierz Gorzkowski
     year: 1969
     language: Polish
     sources:
@@ -22525,6 +22763,7 @@ titles:
         url: https://search.worldcat.org/title/838875463
     verified: true
   - title: Dziękuję ci, kapitanie
+    original_title: Dziękuję ci, kapitanie
     authors:
       - Arkady Fiedler
     year: 1969
@@ -23010,10 +23249,12 @@ titles:
         url: https://search.worldcat.org/title/839160195
     verified: true
   - title: Kocioł Falaise
+    original_title: Stalingrad en Normandie
     authors:
       - Eddy Florentin
-      - Józef Kołodziejski
       - Franciszek Skibiński
+    translators:
+      - Józef Kołodziejski
     year: 1969
     language: Polish
     sources:
@@ -23039,6 +23280,7 @@ titles:
   - title: Komando fałszerzy
     authors:
       - Oskar Skála
+    translators:
       - Włodzimierz Kaniewski
     year: 1969
     language: Polish
@@ -23143,6 +23385,8 @@ titles:
     subtitle: Materiały z sesji zorganizowanej przez Związek Literatów Polskich i Główny Zarząd Polityczny WP z okazji XXV-lecia odrodzonego Wojska Polskiego, poświęconej tematyce patriotyczno-obywatelskiej w naszej literaturze
     authors:
       - Wojciech Żukrowski
+    editors:
+      - Urszula Gutowska
     year: 1969
     language: Polish
     sources:
@@ -23161,6 +23405,8 @@ titles:
     authors:
       - Pologne. Wojsko polskie. Główny zarza̡d polityczny. Sesja. [1969. Varsovie.]
       - Związek literatów polskich
+    editors:
+      - Urszula Gutowska
     year: 1969
     language: Polish
     sources:
@@ -23256,6 +23502,7 @@ titles:
   - title: Major Wicher
     authors:
       - Ûlian Semenovič Semenov
+    translators:
       - Stanisław Głowiak
       - Zofia Głowiak
     year: 1969
@@ -23270,9 +23517,10 @@ titles:
     subtitle: Bój spotkaniowy
     authors:
       - Sergej Vladimirovič Grišin
-      - Marian Odlewany
       - F. D. Sverdlov
       - Ûdim Zalmanovič Novikov
+    translators:
+      - Marian Odlewany
     year: 1969
     language: Polish
     sources:
@@ -23408,6 +23656,7 @@ titles:
   - title: Niebezpieczna gra
     authors:
       - Per Hansson
+    translators:
       - Anita Thierry
     year: 1969
     language: Polish
@@ -23570,6 +23819,7 @@ titles:
     subtitle: Praca zbiorowa
     authors:
       - Harry Jubisch
+    translators:
       - January Kossakowski
     year: 1969
     language: Polish
@@ -23718,6 +23968,7 @@ titles:
   - title: Pod czarnym słońcem Italii
     authors:
       - Cesira Fiori
+    translators:
       - Jan Skowroński
     year: 1969
     language: Polish
@@ -23834,6 +24085,8 @@ titles:
       - Sesja Naukowa Poświęcona 200-i.e. Dwuchset-leciiu Polskich Bibliotek Wojskowych
       - Księga pamiątkowa 200-i.e. Dwuchset- lecia polskich bibliotek wojskowych
       - Poland. Wojsko Polskie. Zarząd Kultury i Oświaty
+    editors:
+      - Tadeusz Peterson
     year: 1969
     edition: Wyd. 1
     language: Polish
@@ -23891,9 +24144,10 @@ titles:
   - title: Powrót
     subtitle: Opowiadania jugosłowiańskie
     authors:
+      - Miodrag Pavlović
+    translators:
       - Elżbieta Kwaśniewska
       - Alija Dukanović
-      - Miodrag Pavlović
       - Danuta Ćirlić-Straszyńska
     year: 1969
     language: Polish
@@ -23928,6 +24182,7 @@ titles:
   - title: Późny świt
     authors:
       - Máté Tímár
+    translators:
       - Hanna Kuźniarska
     year: 1969
     language: Polish
@@ -24099,8 +24354,9 @@ titles:
     verified: true
   - title: Siły zbrojne państw kapitalistycznych
     authors:
-      - Ignacy Bukowski
       - G. I. Sergeev
+    translators:
+      - Ignacy Bukowski
     year: 1969
     language: Polish
     sources:
@@ -24123,6 +24379,7 @@ titles:
   - title: Skok w ciemność
     authors:
       - Rudolf Vetiška
+    translators:
       - Grzegorz Łatuszyński
     year: 1969
     language: Polish
@@ -24233,6 +24490,7 @@ titles:
   - title: Strategia kłamstwa
     authors:
       - A. Vlasov
+    translators:
       - Jerzy Gonczarski
     year: 1969
     language: Polish
@@ -24285,8 +24543,13 @@ titles:
         url: https://d-nb.info/57788929X
     verified: true
   - title: Sztab generalny w latach wojny
+    original_title: General'nyj štab v gody vojny
     authors:
       - S. M. Shtemenko
+    translators:
+      - Wojciech Barański
+      - Leon Gregorowicz
+      - Władysław Mróz
     year: 1969
     edition: Wyd. 1
     series: Biblioteka Wiedzy wojskowej -- Seria XII
@@ -24305,6 +24568,8 @@ titles:
   - title: Sztandar nad Reichstagiem
     authors:
       - Vasiliĭ Mitrofanovich Shatilov
+    translators:
+      - Jadwiga Wrońska
     year: 1969
     language: Polish
     sources:
@@ -24318,6 +24583,7 @@ titles:
   - title: Sztuczne satelity Ziemi
     authors:
       - Ûrij Nikolaevič Suškov
+    translators:
       - Jan Szarek
     year: 1969
     language: Polish
@@ -24509,6 +24775,8 @@ titles:
     subtitle: Wybór relacji i dokumentów. Wybór i oprac. relacji oraz dokumentów
     authors:
       - Juliusz Jerzy Malczewski
+    editors:
+      - Marian Anusiewicz
     year: 1969
     edition: Wyd. 1
     series: 'Wojskowy Instytut Historyczny. Seria: Wojna wyzwolencza narodu polskiego'
@@ -24532,6 +24800,8 @@ titles:
     verified: true
   - title: 'Udział Polaków w szturmie Berlina, 24 kwietnia _ 2 maja 1945 roku, wybór relacji i dokumentów. Wybór i opracowanie relacji oraz dokumentów: Juliusz Jerzy Malczewski, Waldemar Strzałkowski. Dobór zdje̡ć: Wincenty Romanowski, Waldemar Strzałkowski. Indeksy: Wincenty Romanowski. Wste̡pem opatrzył Stanisław Komornicki. Red. naukowy: Marian Anusiewicz'
     authors: []
+    editors:
+      - Juliusz Jerzy Malczewski
     year: 1969
     language: Polish
     sources:
@@ -24602,6 +24872,8 @@ titles:
     subtitle: Wspomnienia uczestników walk partyzanckich na Białorusi, 1941-1944
     authors:
       - Julian Tobiasz
+    editors:
+      - Z. Bieługa
     year: 1969
     edition: Wyd. 1
     language: Polish
@@ -24727,9 +24999,10 @@ titles:
     authors:
       - Nikolaj Il'ič Anisimov
       - Lech Ratajski
+      - Mušeg Munasovič Minasân
+    translators:
       - Edward Bagieński
       - Ignacy Bukowski
-      - Mušeg Munasovič Minasân
       - Jerzy Nowacki
     year: 1969
     language: Polish
@@ -25005,6 +25278,8 @@ titles:
   - title: Z dziejów wychowania wojskowego w Polsce
     authors:
       - Józef Karwin
+    editors:
+      - Jerzy Cytowski
     year: 1969
     edition: '[Wyd. 2.]'
     language: Polish
@@ -25033,6 +25308,7 @@ titles:
   - title: Z wiatrem w twarz
     authors:
       - Jan Falkowski
+    translators:
       - Urszula Gutowska
     year: 1969
     language: Polish
@@ -25342,8 +25618,10 @@ titles:
         url: https://search.worldcat.org/title/830859324
     verified: true
   - title: Amenmaryja, sami dobrzy żołnierze
+    original_title: Amenmária
     authors:
       - Ladislav Ťažký
+    translators:
       - Edward Madany
     year: 1970
     language: Polish
@@ -25532,6 +25810,7 @@ titles:
   - title: Bułgarska Armia Ludowa
     authors:
       - Slavčo Tr''nski
+    translators:
       - Stanisław Jaros
     year: 1970
     language: Polish
@@ -25543,7 +25822,8 @@ titles:
     verified: true
   - title: Bundeswehra
     subtitle: Armia agresji
-    authors:
+    authors: []
+    translators:
       - Julian Sokół
     year: 1970
     language: Polish
@@ -25721,6 +26001,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/102418686
     verified: true
   - title: Czterej pancerni i pies
+    original_title: Czterej pancerni i pies
     authors:
       - Janusz Przymanowski
     year: 1970
@@ -26110,6 +26391,7 @@ titles:
   - title: Gorące lato 1944
     authors:
       - Sergej Matveevič Štemenko
+    translators:
       - Piotr Marciniszyn
     year: 1970
     language: Polish
@@ -26148,6 +26430,7 @@ titles:
   - title: Historia i przyszłość wojsk powietrzno-desantowych
     authors:
       - Albert Merglen
+    translators:
       - Franciszek Dziedzic
     year: 1970
     language: Polish
@@ -26469,8 +26752,10 @@ titles:
         url: https://search.worldcat.org/title/830917691
     verified: true
   - title: Kurs na Bornholm
+    original_title: Aufenthalt vor Bornholm
     authors:
       - Klaus Beuchler
+    translators:
       - Marek Fijałkowski
     year: 1970
     language: Polish
@@ -26597,6 +26882,7 @@ titles:
   - title: Lotnik republiki
     authors:
       - Ignacio Hidalgo de Cisneros
+    translators:
       - Zofia Szleyen
     year: 1970
     language: Polish
@@ -26754,6 +27040,7 @@ titles:
   - title: Na głównym kierunku
     authors:
       - Nikolaj Aleksandrovič Antipenko
+    translators:
       - Bolesław Szczerba
     year: 1970
     language: Polish
@@ -26767,6 +27054,7 @@ titles:
     subtitle: O polityce grupy Mao
     authors:
       - Mihail Stepanovič Kapica
+    translators:
       - Helena Żerańska
     year: 1970
     language: Polish
@@ -26810,6 +27098,7 @@ titles:
         url: https://search.worldcat.org/title/805217181
     verified: true
   - title: Nagie ostrza
+    original_title: Nagie ostrza
     authors:
       - Kazimierz Korkozowicz
     year: 1970
@@ -26859,6 +27148,8 @@ titles:
   - title: Nauczyciele w walce o nową Polskę
     authors:
       - Kazimierz educator Wojciechowski
+    editors:
+      - Kazimierz Wojciechowski
     year: 1970
     edition: '[Wyd. 1'
     language: Polish
@@ -26931,6 +27222,7 @@ titles:
   - title: Nikt nie rodzi się żołnierzem
     authors:
       - Konstantin Simonow
+    translators:
       - Jadwiga Laskowska
     year: 1970
     language: Polish
@@ -26971,6 +27263,7 @@ titles:
     subtitle: Powieść i opowiadania
     authors:
       - Ştefan Bănulescu
+    translators:
       - Danuta Bieńkowska
     year: 1970
     language: Polish
@@ -26996,6 +27289,7 @@ titles:
         url: https://www.sudoc.fr/054850622
     verified: true
   - title: O Zawiszy Czarnym opowieść
+    original_title: O Zawiszy Czarnym opowieść
     authors:
       - Karol Bunsch
       - Maja Berezowska
@@ -27113,6 +27407,7 @@ titles:
     subtitle: Kronika piractwa
     authors:
       - Wolfgang Schreyer
+    translators:
       - Stanisław Wołowiec
     year: 1970
     language: Polish
@@ -27366,6 +27661,8 @@ titles:
     subtitle: Antologia wierszy i pieśni żołnierskich
     authors:
       - Janusz Kapuścik
+    editors:
+      - Wojciech Jerzy Podgórski
     year: 1970
     edition: '[Wyd. 1.]'
     language: Polish
@@ -27483,7 +27780,8 @@ titles:
         url: https://search.worldcat.org/title/839146024
     verified: true
   - title: Posterunek 27
-    authors:
+    authors: []
+    translators:
       - Jerzy Gonczarski
     year: 1970
     language: Polish
@@ -27564,6 +27862,7 @@ titles:
   - title: Programowanie dynamiczne i procesy Markowa
     authors:
       - Ronald A. Howard
+    translators:
       - Jerzy Skibiński
     year: 1970
     language: Polish
@@ -27622,6 +27921,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/009893873
     verified: true
   - title: Przygoda śródziemnomorska
+    original_title: Przygoda śródziemnomorska
     authors:
       - Janusz Meissner
     year: 1970
@@ -27652,6 +27952,7 @@ titles:
     pages: 248
     edition: '[Wyd. 1.]'
   - title: Przyłbice i kaptury
+    original_title: Przyłbice i kaptury
     authors:
       - Kazimierz Korkozowicz
     year: 1970
@@ -27714,8 +28015,9 @@ titles:
     authors:
       - K. F. Skorobogatkin
       - Mieczysław Juchniewicz
-      - Tadeusz Nowacki
       - Matvej Vasilevič Zaharov
+    translators:
+      - Tadeusz Nowacki
     year: 1970
     language: Polish
     sources:
@@ -27761,6 +28063,8 @@ titles:
     subtitle: Wybór poezji. Przełożył Henryk Gaworski
     authors:
       - B. S. Dubrovin
+    translators:
+      - Henryk Gaworski
     year: 1970
     edition: '[Wyd. 1.]'
     language: Polish
@@ -27926,6 +28230,7 @@ titles:
   - title: Rozbitkowie z Cap Arcony
     authors:
       - Emil František Burian
+    translators:
       - Edward Madany
     year: 1970
     language: Polish
@@ -28261,8 +28566,10 @@ titles:
         url: https://search.worldcat.org/title/297528469
     verified: true
   - title: Uciekinierzy i zwycięzcy
+    original_title: Běženci a vitězové
     authors:
       - Vojta Erban
+    translators:
       - Grzegorz Łatuszyński
     year: 1970
     language: Polish
@@ -28305,6 +28612,7 @@ titles:
     subtitle: Szkice z ideologii, organizacji i praktyki syjonizmu
     authors:
       - Ûrij Sergeevič Ivanov
+    translators:
       - Władysław Mazur
     year: 1970
     language: Polish
@@ -28605,6 +28913,10 @@ titles:
     subtitle: '[Tlumaczyli: Czeslaw Czarnogórski et al.]'
     authors:
       - Georgiĭ Konstantinovich Zhukov
+    translators:
+      - Czesław Czarnogórski
+      - Franciszek Czuchrowski
+      - Piotr Marciniszyn
     year: 1970
     edition: '[Wyd. 1.]'
     language: Polish
@@ -29207,6 +29519,8 @@ titles:
   - title: Zołnierska droga
     authors:
       - Jerzy Bordziłowski
+    editors:
+      - Konrad Bugajak
     year: 1970
     edition: '[Wyd. 1.]'
     language: Polish
@@ -29478,6 +29792,7 @@ titles:
     subtitle: 'Pokój nr 39: brytyjski wywiad morski w akcji 1939-1945'
     authors:
       - Donald McLachlan
+    translators:
       - Małgorzata Pająk
       - Wojciech Rychlicki
     year: 1971
@@ -29618,6 +29933,7 @@ titles:
   - title: Atom i NATO
     authors:
       - Ûrij Grigor'evič Nelin
+    translators:
       - Stanisław Wołowiec
     year: 1971
     language: Polish
@@ -29722,10 +30038,12 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb35215158d
     verified: true
   - title: Bitwa pod Kurskiem
+    original_title: Kurskaâ bitva
     authors:
       - Grigorij Avtonomovič Koltunov
-      - Henryk Rapacewicz
       - Boris Grigorevič Solov'ev
+    translators:
+      - Henryk Rapacewicz
     year: 1971
     language: Polish
     sources:
@@ -29805,8 +30123,9 @@ titles:
   - title: Byłem amerykańskim agentem
     authors:
       - Eduard Pára
-      - Donata Ciepieńko-Zielińska
       - Luděk Náprava
+    translators:
+      - Donata Ciepieńko-Zielińska
     year: 1971
     language: Polish
     sources:
@@ -29856,6 +30175,7 @@ titles:
     subtitle: Dwa dziesięciolecia - dwie polityki
     authors:
       - Mihail Stepanovič Kapica
+    translators:
       - Leszek Ogórek
     year: 1971
     language: Polish
@@ -29935,6 +30255,8 @@ titles:
     subtitle: Okruchy historyczne
     authors:
       - Bronisław Maszlanka
+    editors:
+      - Konrad Bugajak
     year: 1971
     edition: '[Wyd. 1'
     language: Polish
@@ -30362,8 +30684,9 @@ titles:
     verified: true
   - title: Jeśli nie nastanie pokój
     authors:
-      - Ignacy Bukowski
       - Nigel Calder
+    translators:
+      - Ignacy Bukowski
     year: 1971
     language: Polish
     sources:
@@ -30510,6 +30833,7 @@ titles:
   - title: Księga Walhalli
     authors:
       - Hiranmoy Ghoshal
+    translators:
       - Devadan Bogdan Ghoshal
       - Barbara Grabowska
     year: 1971
@@ -30758,6 +31082,7 @@ titles:
       - Â. A. Homenko
       - Timofej Romanovič Kondratkov
       - Piotr Marciniszyn
+    translators:
       - Władysław Polański
     year: 1971
     language: Polish
@@ -30770,6 +31095,7 @@ titles:
   - title: Miasto pod ogniem
     authors:
       - Nikolaj Ivanovič Krylov
+    translators:
       - Marian Laprus
     year: 1971
     language: Polish
@@ -30792,8 +31118,9 @@ titles:
     verified: true
   - title: Mikrofalowe wzmacniacze o małym poziomie szumów
     authors:
-      - Janusz Andrzej Dobrowolski
       - Hugh Neville Daglish
+    translators:
+      - Janusz Andrzej Dobrowolski
       - Marian Majewski
     year: 1971
     language: Polish
@@ -30962,6 +31289,7 @@ titles:
   - title: Niektóre problemy pracy partyjno-politycznej
     authors:
       - Aleksej Alekseevič Epišev
+    translators:
       - Piotr Marciniszyn
     year: 1971
     language: Polish
@@ -31104,12 +31432,14 @@ titles:
     verified: true
   - title: Ostatni szturm
     subtitle: Operacja berlińska 1945 r
+    original_title: Poslednij šturm
     authors:
       - Fedor Danilovič Vorob'ev
-      - Franciszek Czuchrowski
       - Ivan Vasil'evič Parot'kin
-      - Mikołaj Plikus
       - Aleksandr Nikolaevič Šimanskij
+    translators:
+      - Franciszek Czuchrowski
+      - Mikołaj Plikus
     year: 1971
     language: Polish
     sources:
@@ -31312,6 +31642,7 @@ titles:
   - title: Pół wieku w mundurze
     authors:
       - Kiriłł Mierieckow
+    translators:
       - Czesław Czarnogórski
       - Franciszek Czuchrowski
     year: 1971
@@ -31622,6 +31953,7 @@ titles:
   - title: Przed przełomem
     authors:
       - Kirill Semenovič Moskalenko
+    translators:
       - Zygmunt Grabowski
       - Jerzy Gonczarski
     year: 1971
@@ -31656,8 +31988,10 @@ titles:
         url: https://search.worldcat.org/title/839018630
     verified: true
   - title: Przez Karpaty
+    original_title: Čerez Karpaty
     authors:
       - Andrej Antonovič Grečko
+    translators:
       - Czesław Czarnogórski
     year: 1971
     language: Polish
@@ -32095,6 +32429,7 @@ titles:
   - title: Układy tranzystorowe
     authors:
       - Roman Mihajlovič Malinin
+    translators:
       - Marian Foik
     year: 1971
     language: Polish
@@ -32334,6 +32669,7 @@ titles:
     verified: true
   - title: Wehrmacht, 1933-1939
     subtitle: Rozbudowa sił zbrojnych Trzeciej Rzeszy jako narzędzia presji, ekspansji terytorialnej i wojny
+    original_title: Wehrmacht 1933-1939
     authors:
       - Władysław Kozaczuk
     year: 1971
@@ -32528,6 +32864,7 @@ titles:
       - Ivan Ivanovič Andruhov
       - K. E. Efimov
       - Mihail Romanovič Georgiev
+    translators:
       - Józef Kuropieska
     year: 1971
     language: Polish
@@ -32819,6 +33156,7 @@ titles:
   - title: Zapiski z powstań bułgarskich 1870-1876
     authors:
       - Zahari Stoânov
+    translators:
       - Liliana Kosecka
     year: 1971
     language: Polish
@@ -33006,6 +33344,7 @@ titles:
   - title: 1418 dni korespondenta wojennego
     authors:
       - Nikolaj Nikolaevič Denisov
+    translators:
       - Ludmiła Pietrzak
     year: 1972
     language: Polish
@@ -33128,8 +33467,9 @@ titles:
   - title: Batalion piechoty jako desant powietrzny
     authors:
       - Ivan Stepanovič Lûtov
-      - Czesław Czarnogórski
       - Petr Tihonovič Sagajdak
+    translators:
+      - Czesław Czarnogórski
     year: 1972
     language: Polish
     sources:
@@ -33206,6 +33546,7 @@ titles:
   - title: Braterstwo broni
     authors:
       - Ivan Ignat'evič Âkubovskij
+    translators:
       - Piotr Marciniszyn
     year: 1972
     language: Polish
@@ -33342,7 +33683,8 @@ titles:
         url: https://search.worldcat.org/title/839076763
     verified: true
   - title: Czołgi i wojska pancerne
-    authors:
+    authors: []
+    translators:
       - Henryk Rapacewicz
     year: 1972
     language: Polish
@@ -33377,6 +33719,7 @@ titles:
   - title: Dnie i noce
     authors:
       - Konstantin Simonow
+    translators:
       - Czesław Jastrzębiec-Kozłowski
     year: 1972
     language: Polish
@@ -33494,6 +33837,7 @@ titles:
   - title: Dziesięć razy od początku
     authors:
       - Oleg Konstantinovič Antonov
+    translators:
       - Jan Rybkowski
     year: 1972
     language: Polish
@@ -33562,8 +33906,10 @@ titles:
         url: https://search.worldcat.org/title/838969172
     verified: true
   - title: Ergonomia w służbie wojska
+    original_title: Voennaâ inženernaâ psihologiâ
     series: Biblioteka wiedzy wojskowej
-    authors:
+    authors: []
+    translators:
       - Czesław Czarnogórski
     year: 1972
     language: Polish
@@ -33703,6 +34049,7 @@ titles:
   - title: Heca z panem sierżantem
     authors:
       - Mac Hyman
+    translators:
       - Jan Meysztowicz
     year: 1972
     language: Polish
@@ -33942,6 +34289,7 @@ titles:
     subtitle: Zapiski inżyniera
     authors:
       - Aleksej Ivanov
+    translators:
       - Andrzej Szymański
     year: 1972
     language: Polish
@@ -34309,6 +34657,7 @@ titles:
     authors:
       - Dobri Džurov
       - Elena Džurova
+    translators:
       - Halina Kalita
     year: 1972
     language: Polish
@@ -34415,8 +34764,10 @@ titles:
         url: https://lccn.loc.gov/73214750
     verified: true
   - title: Naród, armia, wódz
+    original_title: Narod, armija, polkovodec
     authors:
       - Mitrofan Pavlovič Skirdo
+    translators:
       - Zbigniew Szydłowski
     year: 1972
     language: Polish
@@ -34576,6 +34927,7 @@ titles:
   - title: Okrutne morze
     authors:
       - Nicholas Monsarrat
+    translators:
       - Maria Boduszyńska-Borowikowa
     year: 1972
     language: Polish
@@ -34588,6 +34940,7 @@ titles:
   - title: Orlik
     authors:
       - Nikolaj Timofeevič Kotyš
+    translators:
       - Ludwik Hofman
     year: 1972
     language: Polish
@@ -34726,6 +35079,7 @@ titles:
         url: https://search.worldcat.org/title/838991764
     verified: true
   - title: Płonące lazarety
+    original_title: Płonące lazarety
     authors:
       - Józef Stompor
     year: 1972
@@ -34859,6 +35213,7 @@ titles:
     authors:
       - Nikolaj Mihajlovič Izûmov
       - Dimitrij Pavlovič Linde
+    translators:
       - Jan Szarek
     year: 1972
     language: Polish
@@ -35257,6 +35612,7 @@ titles:
   - title: Rodowód katiuszy
     authors:
       - Vladimir Gal'kovskij
+    translators:
       - Zygmunt Jabłoński
     year: 1972
     language: Polish
@@ -35296,6 +35652,8 @@ titles:
     subtitle: Wybór dokumentow
     authors:
       - 'Opracowali: Zofia Boda-Kre̜żel'
+    editors:
+      - Zofia Boda-Krężel
     year: 1972
     edition: Wyd. 1.]
     series: 'Wojskowy Instytut Historyczny. Seria: Wojna wyzwoleńcza narodu polskiego'
@@ -35318,6 +35676,7 @@ titles:
   - title: Siedemnaście mgnień wiosny
     authors:
       - Ûlian Semenovič Semenov
+    translators:
       - Zdzisław Romanowski
     year: 1972
     language: Polish
@@ -35375,6 +35734,8 @@ titles:
   - title: Spirale życia
     authors:
       - Danuta Brzosko-Mędryk
+    editors:
+      - Jerzy Kępkiewicz]
     year: 1972
     edition: '[Wyd. 1.]'
     language: Polish
@@ -35458,6 +35819,7 @@ titles:
   - title: Taki był początek wojny
     authors:
       - Ivan Hristoforovič Bagramân
+    translators:
       - Ignacy Bukowski
     year: 1972
     language: Polish
@@ -35548,8 +35910,9 @@ titles:
   - title: Ucieczka z wyspy Uznam
     authors:
       - Mihail Devâtaêv
-      - Ludwik Hofman
       - Anatolij Mefod'evič Horunžij
+    translators:
+      - Ludwik Hofman
     year: 1972
     language: Polish
     sources:
@@ -35769,6 +36132,7 @@ titles:
   - title: Wiatr pachnący rezedą
     authors:
       - Leonid Dmitrievič Platov
+    translators:
       - Andrzej Szymański
     year: 1972
     language: Polish
@@ -35894,6 +36258,7 @@ titles:
       - Andrej Mihajlovič Vasil'ev
       - Ûrij Vsevolodovič Skorohod
       - Gleb Pavlovič Zlobin
+    translators:
       - Jan Żarek
     year: 1972
     language: Polish
@@ -36031,6 +36396,7 @@ titles:
         url: https://search.worldcat.org/title/839176720
     verified: true
   - title: Z jednej menażki
+    original_title: Z jednej menażki
     authors:
       - Stanisław Myśliński
     year: 1972
@@ -36156,8 +36522,9 @@ titles:
   - title: Zasady przeciwdziałania radioelektronicznego
     authors:
       - Sergiej A. Vakin
-      - Tadeusz Kątcki
       - Lev N. Šustov
+    translators:
+      - Tadeusz Kątcki
       - Bogdan Unrath
     year: 1972
     language: Polish
@@ -36537,6 +36904,7 @@ titles:
   - title: Badania operacji w wojsku
     authors:
       - Ûrij Vasil'evič Čuev
+    translators:
       - Marian Sztarski
     year: 1973
     language: Polish
@@ -36807,6 +37175,7 @@ titles:
         url: https://lccn.loc.gov/80452274
     verified: true
   - title: Czterej pancerni i pies
+    original_title: Czterej pancerni i pies
     authors:
       - Janusz Przymanowski
     year: 1973
@@ -37253,6 +37622,7 @@ titles:
   - title: Gwardziści spod Stalingradu
     authors:
       - Vasilij Ivanovič Čujkov
+    translators:
       - Piotr Marciniszyn
     year: 1973
     language: Polish
@@ -38013,6 +38383,7 @@ titles:
   - title: Niezawodność eksploatacyjna urządzeń technicznych
     authors:
       - Ûrij Georgievič Fokin
+    translators:
       - Jerzy Jaźwiński
       - Janusz Migdalski
     year: 1973
@@ -38196,8 +38567,10 @@ titles:
         url: https://search.worldcat.org/title/19895716
     verified: true
   - title: Opowieść północna
+    original_title: Severnaâ povest'
     authors:
       - Konstantin Paustowski
+    translators:
       - Jadwiga Laskowska
     year: 1973
     language: Polish
@@ -38267,6 +38640,7 @@ titles:
   - title: Plan Barbarossa
     authors:
       - Pavel Andreevič Žilin
+    translators:
       - Piotr Marciniszyn
     year: 1973
     language: Polish
@@ -38532,6 +38906,7 @@ titles:
     subtitle: Poradnik
     authors:
       - G. G. Abezgauz
+    translators:
       - Longina Mardoń
     year: 1973
     language: Polish
@@ -38579,6 +38954,10 @@ titles:
     subtitle: Formowanie, działania bojowe, organizacja, metryki dywizji i brygad
     authors:
       - Witold Biegański
+    editors:
+      - Stanisława Drzewiecka
+      - Mieczysław Juchniewicz
+      - T. Szumowski
     year: 1973
     edition: Wydanie II.
     series: Wojsko polskie -- 5
@@ -38639,6 +39018,8 @@ titles:
   - title: Rodziny patriotów
     authors:
       - Maria Domańska
+    editors:
+      - Maria Domanska
     year: 1973
     edition: Wyd. 1
     language: Polish
@@ -38762,6 +39143,7 @@ titles:
         url: https://search.worldcat.org/title/838878608
     verified: true
   - title: Siedem trudnych lat
+    original_title: Siedem trudnych lat
     authors:
       - Andrzej Czechowicz
     year: 1973
@@ -38811,8 +39193,10 @@ titles:
         url: https://openlibrary.org/books/OL40254229M
     verified: true
   - title: Skazani na sukces
+    original_title: Verdammt zum Erfolg
     authors:
       - Hans Hellmut Kirst
+    translators:
       - Brygida Jodkowska
     year: 1973
     language: Polish
@@ -39076,6 +39460,7 @@ titles:
   - title: Taktyka działań partyzantki jugosławiańskiej
     authors:
       - Petar Kleut
+    translators:
       - Bożena Nowak
     year: 1973
     language: Polish
@@ -39142,6 +39527,7 @@ titles:
         url: https://search.worldcat.org/title/838692431
     verified: true
   - title: Towarzysze frontowych dróg
+    original_title: Tovariŝi v bor'be
     authors:
       - Stanisław Popławski
     year: 1973
@@ -39478,8 +39864,10 @@ titles:
     verified: true
   - title: Wojna chłopska w Niemczech
     subtitle: 1524-1526
+    original_title: Deutsche Bauernkrieg 1524-1526
     authors:
       - Manfred Bensing
+    translators:
       - Jadwiga Nadzieja
     year: 1973
     language: Polish
@@ -39586,8 +39974,10 @@ titles:
         url: https://search.worldcat.org/title/838750302
     verified: true
   - title: Wspomnienia i refleksje
+    original_title: Vospominaniâ i razmyšleniâ
     authors:
       - Gieorgij Żukow
+    translators:
       - Czesław Czarnogórski
       - Franciszek Czuchrowski
       - Piotr Marciniszyn
@@ -39837,6 +40227,8 @@ titles:
   - title: Zardzewiała śmierć
     authors:
       - Michał Sawczyc
+    editors:
+      - Ryszard Danielewski
     year: 1973
     edition: '[Wyd. 1'
     language: Polish
@@ -39858,6 +40250,7 @@ titles:
       - Dimitrij Afanas'evič Ivanov
       - Igor' Vladimirovič Savel'ev
       - Petr Vasil'evič Šemanskij
+    translators:
       - Jan Żarek
     year: 1973
     language: Polish
@@ -39929,6 +40322,7 @@ titles:
   - title: Żołnierski obowiązek
     authors:
       - Konstanty Rokossowski
+    translators:
       - Franciszek Czuchrowski
     year: 1973
     language: Polish
@@ -40151,10 +40545,12 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991135777339705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Arnhem
+    original_title: Arnhem
     authors:
       - Robert Elliot Urquhart
-      - Ignacy Bukowski
       - Franciszek Skibiński
+    translators:
+      - Ignacy Bukowski
     year: 1974
     language: Polish
     sources:
@@ -40328,8 +40724,10 @@ titles:
         url: https://lccn.loc.gov/75537469
     verified: true
   - title: Czołgi wczoraj i dziś
+    original_title: Vremâ i tanki
     authors:
       - Pavel Alekseevič Rotmistrov
+    translators:
       - Henryk Rapacewicz
     year: 1974
     language: Polish
@@ -40618,9 +41016,11 @@ titles:
         url: https://search.worldcat.org/title/830617840
     verified: true
   - title: Jak hartowała się stal
+    original_title: Kak zakalâlasʹ stalʹ
     authors:
       - Nikolaj Alekseevič Ostrovskij
       - Helena Bobińska
+    translators:
       - Wacław Rogowicz
     year: 1974
     language: Polish
@@ -40672,6 +41072,7 @@ titles:
   - title: Jubiler na tropie
     authors:
       - Rostyslav Fedoseevič Sambuk
+    translators:
       - Stefan Demczuk
       - Krystyna Wojtylak
     year: 1974
@@ -40792,6 +41193,8 @@ titles:
     subtitle: Materialy z Międzynarodowej Konferencji Naukowej z okazji XXX-lecia Ludowego Wojska Polskiego, 5-6 wrzesnia 1973 g
     authors:
       - Międzynarodowa Konferencja Naukowa z Okazji XXX-lecia Ludowego Wojska Polskiego (1973 Warsaw)
+    editors:
+      - Włodzimierz Sawczuk
     year: 1974
     language: Polish
     sources:
@@ -40910,8 +41313,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/001980054
     verified: true
   - title: Mikrofalowe przyrządy półprzewodnikowe
+    original_title: Microwave semiconductor devices
     authors:
       - Harold Victor Shurmer
+    translators:
       - Janusz Andrzej Dobrowolski
       - Marian Majewski
     year: 1974
@@ -40924,10 +41329,11 @@ titles:
     verified: true
   - title: Misja wyzwoleńcza Radzieckich Sił Zbrojnych w II wojnie światowej
     authors:
-      - Czesław Czarnogórski
-      - Józef Nowicki
       - Andrej Antonovič Grečko
       - Ivan Vasilevič Parot'kin
+    translators:
+      - Czesław Czarnogórski
+      - Józef Nowicki
     year: 1974
     language: Polish
     sources:
@@ -41573,6 +41979,7 @@ titles:
     authors:
       - Ivan Fedorovič Zolotar'
       - Mieczysław Juchniewicz
+    translators:
       - Leon Onichimowski
     year: 1974
     language: Polish
@@ -41980,8 +42387,10 @@ titles:
         url: https://www.sudoc.fr/163148104
     verified: true
   - title: Uderzenie za uderzeniem 1943-45
+    original_title: Na Ûgo-Zapadnom napravlenii
     authors:
       - Kirill Semenovič Moskalenko
+    translators:
       - Czesław Czarnogórski
     year: 1974
     language: Polish
@@ -42157,6 +42566,9 @@ titles:
     subtitle: Materiały z sesji literackiej "Obraz Współczesnego Życia Ludowego Wojska Polskiego w literaturze," zorganizowanej w 30 rocznicę Sił Zbrojnych PRL
     authors:
       - Sesja Literacka Obraz Współczesnego Życia Ludowego Wojska Polskiego w Literaturze Warsaw 1963
+    editors:
+      - Feliks Kulej
+      - Józef Lewicki
     year: 1974
     edition: Wyd. 1
     language: Polish
@@ -42308,6 +42720,8 @@ titles:
     subtitle: Zarys historii, 1943-1969
     authors:
       - Roman Łoś
+    editors:
+      - Zenon Słomczyński
     year: 1974
     edition: Wyd. 1
     language: Polish
@@ -43327,6 +43741,7 @@ titles:
   - title: Koniec Trzeciej Rzeszy
     authors:
       - Vasilij Ivanovič Čujkov
+    translators:
       - Franciszek Czuchrowski
     year: 1975
     language: Polish
@@ -43441,6 +43856,7 @@ titles:
   - title: Moja błękitna planeta
     authors:
       - German Stepanovič Titov
+    translators:
       - Marian Laprus
     year: 1975
     language: Polish
@@ -43700,6 +44116,7 @@ titles:
   - title: Ostatnie lato
     authors:
       - Konstantin Simonow
+    translators:
       - Urszula Gutowska
     year: 1975
     language: Polish
@@ -43807,6 +44224,7 @@ titles:
         url: https://search.worldcat.org/title/830573449
     verified: true
   - title: Pokój na poddaszu
+    original_title: Pokój na poddaszu
     authors:
       - Wanda Wasilewska
       - Leonia Janecka
@@ -43863,8 +44281,9 @@ titles:
   - title: Postęp naukowo-techniczny a przeobrażenia w sztuce wojennej
     authors:
       - I. Anureev
-      - Władysław Mróz
       - Czesław Czarnogórski
+    translators:
+      - Władysław Mróz
     year: 1975
     language: Polish
     sources:
@@ -43926,6 +44345,7 @@ titles:
   - title: Przygody Wernera Holta
     authors:
       - Dieter Noll
+    translators:
       - Zofia Rybicka
     year: 1975
     language: Polish
@@ -44041,8 +44461,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991147340729705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Siły zbrojne państwa radzieckiego
+    original_title: Vooružennye Sily Sovetskogo gosudarstva
     authors:
       - Andrej Antonovič Grečko
+    translators:
       - Czesław Czarnogórski
       - Antoni Pacześniak
     year: 1975
@@ -44878,6 +45300,7 @@ titles:
         url: https://lccn.loc.gov/78361955
     verified: true
   - title: Arnhem - ciemne światło
+    original_title: Arnhem - ciemne światło
     authors:
       - Bohdan Drozdowski
     year: 1976
@@ -44923,8 +45346,10 @@ titles:
         url: https://search.worldcat.org/title/69505071
     verified: true
   - title: Bionika
+    original_title: Bionique
     authors:
       - Lucien Gérardin
+    translators:
       - Maria Piotrkiewicz
     year: 1976
     language: Polish
@@ -45054,8 +45479,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/000133747
     verified: true
   - title: Dzieło całego życia
+    original_title: Delo vsej žizni
     authors:
       - Aleksandr Mihajlovič Vasilevskij
+    translators:
       - Czesław Czarnogórski
     year: 1976
     language: Polish
@@ -45182,13 +45609,15 @@ titles:
         url: https://lccn.loc.gov/79383194
     verified: true
   - title: Geneza wojny; Siły postępowe w walce o zachowanie pokoju
+    original_title: '"Istoriâ vtoroj mirovoj vojny 1939-1945 : v 12-ti t." T. 1, "Zaroždenie vojny" ; "Borba progressivnyh sil za sohranenie mira"'
     authors:
-      - Czesław Czarnogórski
-      - Ernest Wiśniewski
       - Grigorij Abramovič Deborin
       - Andrej Antonovič Grečko
-      - Józef Nowicki
       - Tadeusz Szaciło
+    translators:
+      - Czesław Czarnogórski
+      - Ernest Wiśniewski
+      - Józef Nowicki
     year: 1976
     language: Polish
     sources:
@@ -45336,6 +45765,7 @@ titles:
   - title: Jeszcze raz o Sztabie Generalnym w latach wojny
     authors:
       - Sergej Matveevič Štemenko
+    translators:
       - Piotr Marciniszyn
     year: 1976
     language: Polish
@@ -45471,6 +45901,7 @@ titles:
   - title: Londyn nie odpowiada
     authors:
       - Sverre Midtskau
+    translators:
       - Janina Zagrodzka-Kawa
     year: 1976
     language: Polish
@@ -45563,8 +45994,10 @@ titles:
         url: https://www.sudoc.fr/054982898
     verified: true
   - title: Morze, okręt i ty
+    original_title: Morie, korabl' i ty
     authors:
       - Nikolaj Nikolajevič Panov
+    translators:
       - Marta Tywonek
     year: 1976
     language: Polish
@@ -45577,6 +46010,7 @@ titles:
   - title: Na kierunku białostockim
     authors:
       - Evgenij Pavlovič Eliseev
+    translators:
       - Piotr Marciniszyn
     year: 1976
     language: Polish
@@ -45888,6 +46322,8 @@ titles:
   - title: Pamiętnik nawigatora
     authors:
       - Stanisław Polak
+    editors:
+      - Józef Bratko
     year: 1976
     edition: Wyd. 1
     language: Polish
@@ -45903,8 +46339,10 @@ titles:
         url: https://search.worldcat.org/title/830584015
     verified: true
   - title: Pancerny grot
+    original_title: Na ostrie glavnogo udara
     authors:
       - Mihail Efimovič Katukov
+    translators:
       - Jan Żarek
     year: 1976
     language: Polish
@@ -46539,6 +46977,8 @@ titles:
     subtitle: Pluton
     authors:
       - Aleksandr Adgamov
+    translators:
+      - Feliks Rogala
     year: 1976
     language: Polish
     pages: 236
@@ -46777,6 +47217,7 @@ titles:
     subtitle: Rozważania teoretyczne
     authors:
       - Boris Mihajlovič Šapošnikov
+    translators:
       - Antoni Pacześniak
       - Piotr Marciniszyn
     year: 1976
@@ -47067,6 +47508,7 @@ titles:
   - title: Ziemia w ogniu
     authors:
       - Ivan Ignat'evič Âkubovskij
+    translators:
       - Czesław Czarnogórski
       - Józef Nowicki
     year: 1976
@@ -47111,6 +47553,7 @@ titles:
     authors:
       - Konstanty Rokossowski
       - Pavel Ivanovič Batov
+    translators:
       - Piotr Marciniszyn
       - Franciszek Czuchrowski
     year: 1976
@@ -47265,6 +47708,7 @@ titles:
   - title: Bitwa stulecia
     authors:
       - Vasilij Ivanovič Čujkov
+    translators:
       - Franciszek Czuchrowski
     year: 1977
     language: Polish
@@ -47421,6 +47865,8 @@ titles:
   - title: Dokąd, ale i skąd idziemy
     authors:
       - Jan Zygmunt Jakubowski
+    editors:
+      - Jagoda Opalińska
     year: 1977
     edition: Wyd. 1
     language: Polish
@@ -47472,6 +47918,7 @@ titles:
   - title: Drogi zwycięstwa
     authors:
       - Amazasp Hačaturovič Babadžanân
+    translators:
       - Olgierd Darżynkiewicz
     year: 1977
     language: Polish
@@ -48125,6 +48572,7 @@ titles:
     authors:
       - Semen L'vovič Agaev
       - Ûlij Stepanovič Oganis'ân
+    translators:
       - Teodor Ładyka
     year: 1977
     language: Polish
@@ -48371,6 +48819,7 @@ titles:
   - title: Ostatnie lato
     authors:
       - Konstantin Simonow
+    translators:
       - Urszula Gutowska
     year: 1977
     language: Polish
@@ -48434,8 +48883,10 @@ titles:
         url: https://search.worldcat.org/title/4463734
     verified: true
   - title: Piołun na śniegu
+    original_title: Polyn' na snegu
     authors:
       - Viktor Petrovič Tel'pugov
+    translators:
       - Ewa Leszczyńska
       - Jan Tetter
     year: 1977
@@ -48630,6 +49081,7 @@ titles:
   - title: Przygody Wernera Holta
     authors:
       - Dieter Noll
+    translators:
       - Zofia Rybicka
     year: 1977
     language: Polish
@@ -49081,12 +49533,14 @@ titles:
         url: https://catalog.hathitrust.org/Record/000176924
     verified: true
   - title: W przededniu wojny
+    original_title: '"Istorija vtoroj mirovoj vojny 1939-1945 : v 12-ti t. T. 2, "Nakanune vojny"'
     authors:
       - Aleksandr Aleksandrovič Babakov
-      - Czesław Czarnogórski
       - Andrej Antonovič Grečko
-      - Piotr Marciniszyn
       - Tadeusz Szaciło
+    translators:
+      - Czesław Czarnogórski
+      - Piotr Marciniszyn
       - Ernest Wiśniewski
     year: 1977
     language: Polish
@@ -49469,6 +49923,7 @@ titles:
   - title: Żelazny potok
     authors:
       - Aleksandr Sierafimowicz
+    translators:
       - Józef Brodzki
     year: 1977
     language: Polish
@@ -49512,8 +49967,10 @@ titles:
         url: https://search.worldcat.org/title/830338622
     verified: true
   - title: Żywi i martwi
+    original_title: Živye i mertvye
     authors:
       - Konstantin Simonow
+    translators:
       - Jerzy Brzęczkowski
     year: 1977
     language: Polish
@@ -49730,6 +50187,7 @@ titles:
   - title: Ćwiczenia taktyczne
     authors:
       - Aleksandr Šramčenko
+    translators:
       - Leopold Podgórski
     year: 1978
     language: Polish
@@ -50103,8 +50561,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=858083299
     verified: true
   - title: Krach "Blitzkriegu"
+    original_title: Proval "blickriga"
     authors:
       - Viktor Aleksandrovič Anfilov
+    translators:
       - Edward Barszcz
     year: 1978
     language: Polish
@@ -50135,6 +50595,7 @@ titles:
   - title: Lata w pancerzu
     authors:
       - David Abramovič Dragunskij
+    translators:
       - Franciszek Czuchrowski
     year: 1978
     language: Polish
@@ -50238,6 +50699,7 @@ titles:
     authors:
       - Hanna Karpińska
       - Adam Koseski
+    translators:
       - Marzenna Szlenk-Iliewa
     year: 1978
     language: Polish
@@ -50419,6 +50881,7 @@ titles:
     subtitle: Łotewskie podziemie antyfaszystowskie
     authors:
       - Jānis Dzintars
+    translators:
       - Leon Pawłowicz
     year: 1978
     language: Polish
@@ -50556,6 +51019,7 @@ titles:
   - title: Odsłonięte skrzydło
     authors:
       - V. Kardin
+    translators:
       - Jacek Jarkowski
       - Jerzy Pleśniarowicz
     year: 1978
@@ -50576,8 +51040,10 @@ titles:
         url: https://www.sudoc.fr/054848954
     verified: true
   - title: Okręt
+    original_title: Boot
     authors:
       - Lothar-Günther Buchheim
+    translators:
       - Adam Kaska
     year: 1978
     language: Polish
@@ -50650,6 +51116,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991012837759705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Pamiętaj o Róży
+    original_title: Pamiętaj o Róży
     authors:
       - Ewa Ostrowska
     year: 1978
@@ -50737,11 +51204,13 @@ titles:
         url: https://search.worldcat.org/title/69461676
     verified: true
   - title: Początek wojny, przygotowanie agresji przeciwko ZSRR
+    original_title: Načalo vojny podgotovka agressif protiv SSSR, 1974
     authors:
       - Tadeusz Szaciło
       - P. M. Derevânko
       - Mieczysław Juchniewicz
       - Andrej Antonovič Grečko
+    translators:
       - Leon Onichimowski
     year: 1978
     language: Polish
@@ -50839,8 +51308,10 @@ titles:
         url: https://search.worldcat.org/title/189435819
     verified: true
   - title: Polacy i Włosi w drugiej wojnie światowej
+    original_title: '"Polacci ed Italiani nella seconda guerra mondiale" 1976'
     authors:
       - Antonio Ricchezza
+    translators:
       - Henryka Młynarska
       - Wojciech Narębski
     year: 1978
@@ -51092,6 +51563,9 @@ titles:
   - title: Serce w plecaku
     authors:
       - Michał Zieliński
+    editors:
+      - Janusz Kapuścik
+      - Wojciech Jerzy Podgórski
     year: 1978
     language: Polish
     pages: 186
@@ -51587,6 +52061,7 @@ titles:
   - title: W marszu i w boju
     authors:
       - Pavel Ivanovič Batov
+    translators:
       - Czesław Czarnogórski
       - Jadwiga Laskowska
     year: 1978
@@ -51629,6 +52104,7 @@ titles:
     verified: true
   - title: Wehrmacht 1933-1939
     subtitle: Rozbudowa sił zbrojnych Trzeciej Rzeszy jako narzędzia presji, ekspansji terytorialnej i wojny
+    original_title: Wehrmacht 1933-1939
     authors:
       - Władysław Kozaczuk
     year: 1978
@@ -52196,8 +52672,10 @@ titles:
         url: https://search.worldcat.org/title/830198512
     verified: true
   - title: Cuszima
+    original_title: Cusima
     authors:
       - Aleksej Silyč Novikov-Priboj
+    translators:
       - Władysław Broniewski
     year: 1979
     language: Polish
@@ -52286,6 +52764,7 @@ titles:
   - title: Formacje obrony cywilnej w walce z klęskami żywiołowymi
     authors:
       - Aleksandr Terent'evič Altunin
+    translators:
       - Józef Nowicki
     year: 1979
     language: Polish
@@ -52365,8 +52844,9 @@ titles:
     subtitle: W 12 tomach
     authors:
       - N. G. Andronikov
-      - Witold Biegański
       - Tadeusz Szaciło
+    translators:
+      - Witold Biegański
       - Eugeniusz Kozłowski
     year: 1979
     language: Polish
@@ -52500,6 +52980,7 @@ titles:
     verified: true
   - title: Krzyżacy
     subtitle: Powieść historyczna
+    original_title: Krzyżacy
     authors:
       - Henryk Sienkiewicz
     year: 1979
@@ -52580,6 +53061,8 @@ titles:
   - title: Leksykon wiedzy wojskowej
     authors:
       - Ryszard Dalecki
+    editors:
+      - Marian Laprus
     year: 1979
     edition: Wyd. 1
     language: Polish
@@ -52714,6 +53197,7 @@ titles:
   - title: Mil i jego śmigłowce
     authors:
       - David Gaj
+    translators:
       - Józef Nowicki
     year: 1979
     language: Polish
@@ -52824,6 +53308,7 @@ titles:
   - title: Nad polem walki
     authors:
       - Aleksandr Nikolaevič Efimov
+    translators:
       - Marian Laprus
     year: 1979
     language: Polish
@@ -53163,9 +53648,11 @@ titles:
         url: https://lccn.loc.gov/81122654
     verified: true
   - title: Potęga morska współczesnego państwa
+    original_title: Morskaâ moŝ' gosudarstva
     series: Biblioteka wiedzy wojskowej
     authors:
       - Siergiej Gorszkow
+    translators:
       - Antoni Pacześniak
     year: 1979
     language: Polish
@@ -53198,8 +53685,9 @@ titles:
   - title: Prowadzenie czołgu
     authors:
       - Arsenij Katunskij
-      - Tadeusz Harasim
       - Główny Zarząd Szkolenia Bojowego (Wojsko Polskie)
+    translators:
+      - Tadeusz Harasim
     year: 1979
     language: Polish
     sources:
@@ -53246,6 +53734,7 @@ titles:
   - title: Przygody Wernera Holta
     authors:
       - Dieter Noll
+    translators:
       - Zofia Rybicka
     year: 1979
     language: Polish
@@ -53537,8 +54026,10 @@ titles:
         url: https://search.worldcat.org/title/69289114
     verified: true
   - title: Szymona Starowolskiego Wojownicy sarmaccy czyli Pochwały mężów słynących męstwem wojennym w pamięci naszej lub naszych pradziadów
+    original_title: Sarmatiae bellatores
     authors:
       - Szymon Starowolski
+    translators:
       - Jerzy Starnawski
     year: 1979
     language: Polish
@@ -53664,6 +54155,7 @@ titles:
     authors:
       - Mihail Devâtaêv
       - Anatolij Mefod'evič Horunžij
+    translators:
       - Ludwik Hofman
     year: 1979
     language: Polish
@@ -54157,6 +54649,7 @@ titles:
     subtitle: Na 30-lecie rozgromienia militarystycznej Japonii
     authors:
       - Oleg Borisovič Borisov
+    translators:
       - Teodor Ładyka
     year: 1979
     language: Polish
@@ -54460,6 +54953,7 @@ titles:
   - title: Droga do Berlina
     authors:
       - Vladimir Semënovič Antonov
+    translators:
       - Edward Pomianowski
       - Edward Lenik
     year: 1980
@@ -54585,6 +55079,7 @@ titles:
       - Tadeusz Szaciło
       - G. T. Choroszyłow
       - Andrej Antonovič Grečko
+    translators:
       - Ludwik Hofman
       - Piotr Marciniszyn
     year: 1980
@@ -55272,6 +55767,7 @@ titles:
     verified: true
   - title: Siedem polskich grzechów głównych
     subtitle: Nieśmieszne igraszki
+    original_title: Siedem polskich grzechów głównych
     authors:
       - Zbigniew Załuski
     year: 1980
@@ -55291,6 +55787,7 @@ titles:
         url: https://search.worldcat.org/title/830956785
     verified: true
   - title: Skąpani w ogniu
+    original_title: Skąpani w ogniu
     authors:
       - Wojciech Żukrowski
     year: 1980
@@ -55431,6 +55928,7 @@ titles:
   - title: Tak wykuwaliśmy zwycięstwo
     authors:
       - Ivan Hristoforovič Bagramân
+    translators:
       - Franciszek Czuchrowski
     year: 1980
     language: Polish
@@ -55702,6 +56200,8 @@ titles:
   - title: Wojsko, literatura, sztuka
     authors:
       - Sesja "Wojsko--Literatura--Sztuka" (1978 Uniwersytet Warszawski)
+    editors:
+      - Zbigniew Opoka
     year: 1980
     language: Polish
     pages: 294
@@ -55835,6 +56335,7 @@ titles:
         url: https://search.worldcat.org/title/749657019
     verified: true
   - title: Z problematyki politycznej powstania warszawskiego
+    original_title: Z problematyki politycznej powstania warszawskiego 1944
     authors:
       - Ryszard Nazarewicz
     year: 1980
@@ -56003,6 +56504,7 @@ titles:
   - title: Żołnierska powinność
     authors:
       - Georgij Ivanovič Chetagurov
+    translators:
       - Antoni Pacześniak
     year: 1980
     language: Polish
@@ -56199,8 +56701,9 @@ titles:
   - title: Byłem kamikaze
     authors:
       - Ryuji Nagatsuka
-      - Janina Pałęcka
       - Eugeniusz Stanczykiewicz
+    translators:
+      - Janina Pałęcka
     year: 1981
     language: Polish
     sources:
@@ -56260,8 +56763,10 @@ titles:
         url: https://search.worldcat.org/title/835943298
     verified: true
   - title: Dowodzenie lotnictwem radzieckim w drugiej wojnie światowej
+    original_title: Komandovanie i štab VVS Sovetskoj Armii v Velikoj Otečestvennoj vojne
     authors:
       - Mihail Nikolaevič Koževnikov
+    translators:
       - Ludwik Hofman
     year: 1981
     language: Polish
@@ -56272,10 +56777,12 @@ titles:
         url: https://search.worldcat.org/title/830211668
     verified: true
   - title: Droga w kosmos
+    original_title: Doroga v kosmos
     authors:
       - Jurij Gagarin
-      - Czesław Czarnogórski
       - Vladimir Aleksandrovič Šatalov
+    translators:
+      - Czesław Czarnogórski
     year: 1981
     language: Polish
     sources:
@@ -56363,8 +56870,9 @@ titles:
     authors:
       - Andrej Antonovič Grečko
       - Boris Grigorevič Solov'ev
-      - Piotr Marciniszyn
       - Tadeusz Szaciło
+    translators:
+      - Piotr Marciniszyn
     year: 1981
     language: Polish
     sources:
@@ -56393,6 +56901,8 @@ titles:
   - title: Generał Karol Roloff-Miałowski
     authors:
       - Rolando Alvarez Estévez
+    translators:
+      - Grażyna Zwierzchowska-Ruiz
     year: 1981
     edition: Wyd. 1. --
     language: Polish
@@ -56438,10 +56948,11 @@ titles:
   - title: Historia drugiej wojny światowej 1939-1945
     subtitle: W 12 tomach
     authors:
-      - Czesław Czarnogórski
       - Evgenij Petrovič Egorov
-      - Józef Nowicki
       - Dmitrij Fedorovič Ustinov
+    translators:
+      - Czesław Czarnogórski
+      - Józef Nowicki
     year: 1981
     language: Polish
     sources:
@@ -56800,6 +57311,7 @@ titles:
     subtitle: Powieść dokumentalna
     authors:
       - Zahar Karpovič Slûsarenko
+    translators:
       - Piotr Marciniszyn
     year: 1981
     language: Polish
@@ -57161,8 +57673,10 @@ titles:
     verified: true
   - title: Różne dni wojny
     subtitle: Dziennik pisarza
+    original_title: Raznye dni vojny
     authors:
       - Konstantin Simonow
+    translators:
       - Joanna Prosińska-Giersz
     year: 1981
     language: Polish
@@ -57476,6 +57990,7 @@ titles:
         url: https://lccn.loc.gov/82125626
     verified: true
   - title: Wszyscy i nikt
+    original_title: Wszyscy i nikt
     authors:
       - Janusz Przymanowski
     year: 1981
@@ -58023,8 +58538,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/010370698
     verified: true
   - title: Czołgi idą rombem
+    original_title: Tanki idut rombom
     authors:
       - Anatolij Andreevič Anan'ev
+    translators:
       - Igor Zakrzewski
     year: 1982
     language: Polish
@@ -58489,6 +59006,7 @@ titles:
   - title: Marynarze drogi życia
     authors:
       - Wiktor Czerokow
+    translators:
       - Antoni Pacześniak
     year: 1982
     language: Polish
@@ -59021,6 +59539,7 @@ titles:
     subtitle: Dziennik pisarza
     authors:
       - Konstantin Simonow
+    translators:
       - Aleksander Achmatowicz
     year: 1982
     language: Polish
@@ -59131,6 +59650,7 @@ titles:
     authors:
       - Ûrij Semënovič Tarskij
       - Sławomir Gałązka
+    translators:
       - Zofia Klimaszewska
     year: 1982
     language: Polish
@@ -59507,10 +60027,11 @@ titles:
     verified: true
   - title: Wyzwolenie terytorium ZSRR i państw europejskich, wojna na Oceanie Spokojnym i w Azji
     authors:
-      - Marian Laprus
-      - Antoni Pacześniak
       - Mihail Ivanovič Semirâga
       - Dmitrij Fedorovič Ustinov
+    translators:
+      - Marian Laprus
+      - Antoni Pacześniak
     year: 1982
     language: Polish
     sources:
@@ -59757,6 +60278,7 @@ titles:
         url: https://d-nb.info/369179587
     verified: true
   - title: Bramy Lipska
+    original_title: Bramy Lipska
     authors:
       - Jan Dobraczyński
     year: 1983
@@ -59986,6 +60508,8 @@ titles:
   - title: Dziennik buchenwaldzki
     authors:
       - Edmund Polak
+    editors:
+      - Barbara Wasilewska
     year: 1983
     edition: Wyd. 1
     language: Polish
@@ -60153,11 +60677,12 @@ titles:
   - title: Historia drugiej wojny światowej 1939-1945
     subtitle: W 12 tomach
     authors:
-      - Eugeniusz Kozłowski
-      - Piotr Marciniszyn
       - Tadeusz Szaciło
       - Nikolaj Ivanovič Šehovcov
       - Dmitrij Fedorovič Ustinov
+    translators:
+      - Eugeniusz Kozłowski
+      - Piotr Marciniszyn
     year: 1983
     language: Polish
     sources:
@@ -60425,8 +60950,10 @@ titles:
         url: https://d-nb.info/369167031
     verified: true
   - title: Nie szukajcie przyjaciół daleko, a wrogów blisko
+    original_title: Tamminiemi
     authors:
       - Urho Kekkonen
+    translators:
       - Zygmunt Broniarek
     year: 1983
     language: Polish
@@ -60512,6 +61039,7 @@ titles:
   - title: Ognie nad fiordami
     authors:
       - Max Manus
+    translators:
       - Janina Zagrodzka-Kawa
     year: 1983
     language: Polish
@@ -60552,6 +61080,7 @@ titles:
         url: https://d-nb.info/369183851
     verified: true
   - title: Pan Wołodyjowski
+    original_title: Pan Wołodyjowski
     authors:
       - Henryk Sienkiewicz
       - Maria Skalska
@@ -60570,6 +61099,7 @@ titles:
     subtitle: Wspomnienia dowódcy armii
     authors:
       - Dmitrij Danilovič Lelûšenko
+    translators:
       - Piotr Marciniszyn
     year: 1983
     language: Polish
@@ -60757,8 +61287,9 @@ titles:
   - title: Przed tokijskim trybunałem
     authors:
       - Lev Nikolaevič Smirnov
-      - Teofil Leśko
       - Evgenij Borisovič Zajcev
+    translators:
+      - Teofil Leśko
     year: 1983
     language: Polish
     sources:
@@ -61439,6 +61970,8 @@ titles:
   - title: Z dziejów wojen polsko-tureckich
     authors:
       - Janusz Woliński
+    editors:
+      - Jan Wimmer
     year: 1983
     edition: Wyd. 1
     language: Polish
@@ -61928,8 +62461,9 @@ titles:
     authors:
       - Vasilij Ivanovič Ačkasov
       - Tadeusz Szaciło
-      - Czesław Czarnogórski
       - Dmitrij Fedorovič Ustinov
+    translators:
+      - Czesław Czarnogórski
     year: 1984
     language: Polish
     sources:
@@ -62231,6 +62765,7 @@ titles:
   - title: Nikt nie rodzi się żołnierzem
     authors:
       - Konstantin Simonow
+    translators:
       - Jadwiga Laskowska
     year: 1984
     language: Polish
@@ -62246,6 +62781,8 @@ titles:
       - Andrzej Wierzbicki
       - Stanisław Haller
       - Jan Rzepecki
+    editors:
+      - Eugeniusz Kozłowski
     year: 1984
     language: Polish
     sources:
@@ -62274,6 +62811,9 @@ titles:
   - title: Obrona Warszawy 1939 we wspomnieniach
     authors:
       - Eugeniusz J. Kozłowski
+    editors:
+      - Mieczysław Cieplewicz
+      - Eugeniusz Kozłowski
     year: 1984
     edition: Wyd. 1
     language: Polish
@@ -62366,6 +62906,7 @@ titles:
   - title: Ostatnie lato
     authors:
       - Konstantin Simonow
+    translators:
       - Urszula Gutowska
     year: 1984
     language: Polish
@@ -62546,8 +63087,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/006069913
     verified: true
   - title: Próba ognia
+    original_title: Ispytanie ognem
     authors:
       - Mihail P. Odincov
+    translators:
       - Czesław Seniuch
     year: 1984
     language: Polish
@@ -62761,6 +63304,7 @@ titles:
     subtitle: 'Problemy i rozwiązania: (szkice polemiczne)'
     authors:
       - Igor Vasilevich Besthuzev-Lada
+    translators:
       - Czesław Czarnogórski
     year: 1984
     language: Polish
@@ -63165,6 +63709,9 @@ titles:
     authors:
       - Witold Biegański
       - Eugeniusz J. Kozłowski
+    editors:
+      - Eugeniusz Kozłowski
+      - Zbigniew Święcicki
     year: 1984
     edition: Wyd. 1
     language: Polish
@@ -63337,6 +63884,7 @@ titles:
   - title: Żywi i martwi
     authors:
       - Konstantin Simonow
+    translators:
       - Jerzy Brzęczkowski
     year: 1984
     language: Polish
@@ -63391,6 +63939,7 @@ titles:
   - title: Armia irańska w czasie rewolucji i wojny
     authors:
       - Volodymir Ivanenko
+    translators:
       - Czesław Czarnogórski
     year: 1985
     language: Polish
@@ -63658,6 +64207,8 @@ titles:
     verified: true
   - title: 'Józef Piłsudski w oczach polityków i wojskowych: Wincenty Witos, Jan Kwapiński, Adam Pragier, Maciej Rataj, Ignacy Daszyński... [et al.]; wyboru dokonał i wstȩpem opatrzył Eugeniusz Kozłowski'
     authors: []
+    editors:
+      - Eugeniusz Kozłowski
     year: 1985
     language: Polish
     sources:
@@ -64719,6 +65270,7 @@ titles:
   - title: Wojna bez linii frontu
     authors:
       - Ûrij Borisovič Dolgopolov
+    translators:
       - Czesław Czarnogórski
     year: 1985
     language: Polish
@@ -64777,8 +65329,10 @@ titles:
         url: https://search.worldcat.org/title/12491599
     verified: true
   - title: Wspomnienia i refleksje
+    original_title: Vospominaniâ i razmyšleniâ
     authors:
       - Gieorgij Żukow
+    translators:
       - Piotr Marciniszyn
       - Franciszek Czuchrowski
       - Czesław Czarnogórski
@@ -64821,9 +65375,10 @@ titles:
     series: 'Historia drugiej wojny światowej 1939 - 1945: w 12 tomach / Instytut Historii Wojskowej Ministerstwa Obrony ZSRR ...; 12'
     authors:
       - Dmitrij Fedorovič Ustinov
-      - Czesław Czarnogórski
       - Tadeusz Szaciło
       - Stepan Andreevič Tûškevič
+    translators:
+      - Czesław Czarnogórski
     year: 1985
     language: Polish
     sources:
@@ -65435,9 +65990,11 @@ titles:
     verified: true
   - title: Kryzys gospodarczy i społeczny na świecie
     subtitle: 'Jego reperkusje w krajach rozwijających się, mroczne perspektywy oraz konieczność walki o przetrwanie: sprawozdanie przedstawione na VII spotkaniu na szczycie krajów niezaangażowanych'
+    original_title: Crisis económica y social del mundo
     authors:
       - Fidel Castro
       - Tadeusz Iwiński
+    translators:
       - Małgorzata Dorożyńska-Nidecka
     year: 1986
     language: Polish
@@ -65711,6 +66268,7 @@ titles:
     verified: true
   - title: Popioły
     subtitle: Powieść z końca XVIII i początku XIX wieku
+    original_title: Popioły
     authors:
       - Stefan Żeromski
       - Aleksander Achmatowicz
@@ -66135,8 +66693,9 @@ titles:
   - title: Wietnam - krew i kwiaty
     authors:
       - Tố Hữu
-      - Tu Thang Nguyen
       - Andrzej Zaniewski
+    translators:
+      - Tu Thang Nguyen
     year: 1986
     language: Polish
     sources:
@@ -66339,6 +66898,7 @@ titles:
   - title: 08/15
     authors:
       - Hans Hellmut Kirst
+    translators:
       - Jacek Frühling
     year: 1987
     language: Polish
@@ -66856,6 +67416,7 @@ titles:
     authors:
       - Martin Middlebrook
       - Rajmund Szubański
+    translators:
       - Marian Duryasz
     year: 1987
     language: Polish
@@ -67016,8 +67577,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/001077706
     verified: true
   - title: Pamiętniki Filipa Pawła de Ségura, adiutanta Napoleona
+    original_title: La campagne de Russie
     authors:
       - Philippe de Ségur
+    translators:
       - Emilia Leszczyńska
     year: 1987
     language: Polish
@@ -67117,6 +67680,7 @@ titles:
   - title: Przygody Wernera Holta
     authors:
       - Dieter Noll
+    translators:
       - Zofia Rybicka
     year: 1987
     language: Polish
@@ -67148,6 +67712,7 @@ titles:
     verified: true
   - title: Ptasi gościniec
     subtitle: Babie lato
+    original_title: Ptasi gościniec
     authors:
       - Halina Auderska
     year: 1987
@@ -67323,6 +67888,7 @@ titles:
   - title: Ściśle tajne szyfry
     authors:
       - V. P. Borovička
+    translators:
       - Urszula Janus
     year: 1987
     language: Polish
@@ -67657,6 +68223,7 @@ titles:
   - title: 08/15
     authors:
       - Hans Hellmut Kirst
+    translators:
       - Jacek Frühling
     year: 1988
     language: Polish
@@ -67675,6 +68242,7 @@ titles:
   - title: 08/15 Zero osiem piętnaście
     authors:
       - Hans Hellmut Kirst
+    translators:
       - Jacek Frühling
     year: 1988
     language: Polish
@@ -67891,8 +68459,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/006024263
     verified: true
   - title: Fabryka oficerów
+    original_title: Fabrik der Offiziere
     authors:
       - Hans Hellmut Kirst
+    translators:
       - Edda Werfel
     year: 1988
     language: Polish
@@ -68005,6 +68575,7 @@ titles:
         url: https://d-nb.info/983274312
     verified: true
   - title: Heroina 74
+    original_title: Heroina
     authors:
       - Bohdan Władysław Tymieniecki
     year: 1988
@@ -68378,6 +68949,7 @@ titles:
   - title: Okrutne morze
     authors:
       - Nicholas Monsarrat
+    translators:
       - Maria Boduszyńska-Borowikowa
     year: 1988
     language: Polish
@@ -68428,6 +69000,7 @@ titles:
   - title: Pasażer ekspresu Praga - Paryż
     authors:
       - Ivan Brož
+    translators:
       - Stanisław Majewski
     year: 1988
     language: Polish
@@ -68451,6 +69024,7 @@ titles:
   - title: Podwodna wachta
     authors:
       - Georgij Michajlovič Egorov
+    translators:
       - Andrzej Pacześniak
     year: 1988
     language: Polish
@@ -68898,8 +69472,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/007388959
     verified: true
   - title: Telegram Zimmermanna
+    original_title: Zimmermann telegram
     authors:
       - Barbara Wertheim Tuchman
+    translators:
       - Andrzej Michejda
       - Maria Janina Michejda
     year: 1988
@@ -69749,6 +70325,8 @@ titles:
     subtitle: Książka poświęcona bohaterskiej walce narodów Związku Radzieckiego i Polski w czasie II wojny światowej
     authors:
       - Leszek Grot
+    editors:
+      - Grigorij Lobarev
     year: 1989
     language: Polish
     pages: 448
@@ -69796,6 +70374,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/002168498
     verified: true
   - title: Potop
+    original_title: Potop
     authors:
       - Henryk Sienkiewicz
       - Julian Krzyżanowski
@@ -69895,6 +70474,7 @@ titles:
   - title: Rzeka śmierci
     authors:
       - Alistair MacLean
+    translators:
       - Tadeusz Markowski
     year: 1989
     language: Polish
@@ -70029,6 +70609,7 @@ titles:
         url: https://d-nb.info/981394728
     verified: true
     subtitle: Kurierka z Londynu
+    original_title: Kurierka z Londynu
   - title: Szpieg cesarza
     authors:
       - Kazimierz Kłoś
@@ -70044,8 +70625,10 @@ titles:
         url: https://search.worldcat.org/title/22287817
     verified: true
   - title: Telegram Zimmermanna
+    original_title: Zimmermann telegram
     authors:
       - Barbara Wertheim Tuchman
+    translators:
       - Andrzej Michejda
       - Maria Janina Michejda
     year: 1989

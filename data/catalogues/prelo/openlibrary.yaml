@@ -95,6 +95,8 @@ titles:
     authors:
       - Romain Rolland
       - Jaime Brasil
+    translators:
+      - Jaime Brasli
     year: 1961
     series: Autores estrangeiros
     language: Portuguese
@@ -108,6 +110,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb35092052n
     verified: true
     subtitle: Romance
+    original_title: Colas Breugnon
     links:
       - label: Free ebook (Project Gutenberg)
         url: https://www.gutenberg.org/ebooks/70371
@@ -402,8 +405,9 @@ titles:
   - title: Agricultura, reforma agrária e desenvolvimento económico
     series: Biblioteca de economia...; 2
     authors:
-      - Blasco Hugo Fernandes
       - Oskar Lange
+    translators:
+      - Blasco Hugo Fernandes
     year: 1967
     language: Portuguese
     sources:
@@ -584,6 +588,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=465232426
     verified: true
   - title: Revelando a velha África
+    original_title: Old Africa rediscovered
     series: Cadernos de hoje; 5
     authors:
       - Basil Davidson
@@ -732,6 +737,7 @@ titles:
     verified: true
   - title: Cuba
     subtitle: Socialismo e desenvolvimento
+    original_title: 'Cuba : socialisme et développement'
     series: Biblioteca de economia; 4
     authors:
       - René Dumont
@@ -1272,8 +1278,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=466452594
     verified: true
   - title: A presença negra na América Latina
+    original_title: La presencia negra en el Nuevo Mundo
     authors:
       - José Luciano Franco
+    translators:
+      - A. Portela Santos
     year: 1971
     series: Colecção O homen no mundo
     language: Portuguese
@@ -1482,6 +1491,7 @@ titles:
     series: Repertório para um Teatro Actual; 9
     authors:
       - Stanisław Ignacy Witkiewicz
+    translators:
       - José Palla e Carmo
     year: 1972
     language: Portuguese
@@ -2622,7 +2632,8 @@ titles:
     verified: true
   - title: O exército ao serviço de quem?
     series: Documentos; 20
-    authors:
+    authors: []
+    translators:
       - Joao Assis Gomes
     year: 1974
     language: Portuguese
@@ -2806,6 +2817,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=520821963
     verified: true
   - title: A agricultura socializada em Cuba
+    original_title: L'agriculture socialisée à Cuba
     series: Biblioteca de economia; 10
     authors:
       - Michel Gutelman
@@ -2856,6 +2868,7 @@ titles:
   - title: A economia nas sociedades modernas
     authors:
       - Oskar Lange
+    translators:
       - P. de Oliveira
     year: 1975
     language: Portuguese
@@ -3336,8 +3349,11 @@ titles:
     verified: true
   - title: Três tiros da P.I.D.E.
     subtitle: Quem, porquê e como, mataram Amílcar Cabral
+    original_title: Tri vystrela v rajone Min'er
     authors:
       - Oleg Konstantinovich Ignatʹev
+    translators:
+      - Maria Teresa Alpiarça
     year: 1975
     series: Colecção "O homem no mundo"
     language: Portuguese
@@ -3834,6 +3850,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991103252679705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Revelando a velha Africa
+    original_title: Old Africa rediscovered
     series: Cadernos de hoje; 5
     authors:
       - Basil Davidson
@@ -3882,6 +3899,7 @@ titles:
     verified: true
   - title: A sátira social de Fernão Mendes Pinto
     subtitle: Análise crítica da Peregrinação
+    original_title: 'Iconoclasm as literary technique: a study of the satiric devices used in the Peregrinação de Fernão Mendes Pinto (1972)'
     authors:
       - Rebecca Catz
     year: 1978
@@ -4028,6 +4046,7 @@ titles:
   - title: Economia política
     authors:
       - Oscar Richard Lange
+    translators:
       - Eneida C. Araújo
     year: 1979
     language: Portuguese
@@ -4136,6 +4155,8 @@ titles:
     verified: true
   - title: Biblioteca de economia. Dir. Sérgio Ribeiro
     authors: []
+    editors:
+      - Sérgio Ribeiro
     language: Not recorded
     sources:
       - title: BnF catalogue record cb342643725
@@ -4207,6 +4228,8 @@ titles:
     verified: false
   - title: Repertório para um teatro actual. Dir. Luiz Francisco Rebello
     authors: []
+    editors:
+      - Luiz Francisco Rebello
     language: Not recorded
     sources:
       - title: BnF catalogue record cb34258582s

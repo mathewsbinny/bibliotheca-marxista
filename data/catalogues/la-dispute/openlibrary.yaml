@@ -88,13 +88,15 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb36183490n
     verified: true
   - title: Pensée et langage
+    original_title: Myslenie i rec
     authors:
       - Lev Semenovitch Vygotski
       - Jean Piaget
-      - Françoise Sève
       - Lucien Sève
       - Yves Clot
       - Jacques Leplat
+    translators:
+      - Françoise Sève
     year: 1997
     language: French
     sources:
@@ -291,6 +293,11 @@ titles:
     subtitle: Une Russe dans le siècle
     authors:
       - Lioudmila
+    editors:
+      - Vera Kuznecova
+    translators:
+      - Daniel Bertaux
+      - Véronique Garros
     year: 1998
     language: French
     sources:
@@ -374,6 +381,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb36992177z
     verified: true
   - title: Antigone
+    original_title: Antigone
     authors:
       - Jean-Louis Sagot-Duvauroux
       - Habib Dembélé
@@ -504,6 +512,9 @@ titles:
   - title: Contre la dictature des marchés
     authors:
       - Bernard Cassen
+    editors:
+      - Liêm Hoang-Ngoc
+      - Pierre-André Imbert
     year: 1999
     language: French
     pages: 158
@@ -967,8 +978,9 @@ titles:
     verified: true
   - title: Avec Vygotsk
     authors:
-      - Françoise Sève
       - Yves Clot
+    translators:
+      - Françoise Sève
     year: 2002
     language: French
     sources:
@@ -979,6 +991,7 @@ titles:
     authors:
       - Aleksej Nikolaevič Leontʹev
       - Yves Clot
+    translators:
       - Françoise Sève
     year: 2002
     language: French
@@ -1060,11 +1073,13 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991111905819705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: L'arrangement des sexes
+    original_title: The arrangement between the sexes
     series: Série Le genre du monde
     authors:
       - Erving Goffman
-      - Hervé Maury
       - Claude Zaidman
+    translators:
+      - Hervé Maury
     year: 2002
     language: French
     sources:
@@ -1330,6 +1345,7 @@ titles:
     authors:
       - Lev Semenovitch Vygotski
       - Yves Clot
+    translators:
       - Françoise Sève
       - Gabriel Fernandez
     year: 2003
@@ -1362,6 +1378,9 @@ titles:
     verified: true
   - title: Eau, res publica ou marchandise ?
     authors: []
+    editors:
+      - Riccardo Petrella
+      - Jean-Claude Oliva
     year: 2003
     language: French
     sources:
@@ -2077,6 +2096,8 @@ titles:
   - title: J'ai 18 ans
     subtitle: Le guide de mes droits
     authors: []
+    editors:
+      - Catherine Tricot
     year: 2005
     language: French
     sources:
@@ -2233,6 +2254,7 @@ titles:
     series: Hors collection
     authors:
       - Lev Semenovitch Vygotski
+    translators:
       - Françoise Sève
     year: 2005
     language: French
@@ -2252,6 +2274,9 @@ titles:
     subtitle: Le second Forum social européen
     authors:
       - European Social Forum (2003 Paris, France)
+    editors:
+      - Éric Agrikoliansky
+      - Isabelle Sommier
     year: 2005
     series: Série "Pratiques politiques" -- 2
     language: French
@@ -2361,6 +2386,8 @@ titles:
   - title: Banlieue, lendemains de révolte
     authors:
       - Clémentine Autain
+    editors:
+      - Chakri Belaïd
     year: 2006
     language: French
     pages: 154
@@ -2434,6 +2461,8 @@ titles:
     subtitle: Sur la radicalisation politique
     authors:
       - Annie Collovald
+    editors:
+      - Brigitte Gaïti
     year: 2006
     series: Pratiques politiques
     language: French
@@ -2813,10 +2842,12 @@ titles:
     verified: true
     subtitle: Édition 2007-2008
   - title: Pouvoirs et savoirs de l'écrit
+    original_title: The power of the written tradition
     authors:
       - Jack Goody
-      - Claire Maniez
       - Jean-Marie Privat
+    translators:
+      - Claire Maniez
     year: 2007
     language: French
     sources:
@@ -2856,6 +2887,8 @@ titles:
     subtitle: De Foucault à Cronenberg
     authors:
       - Teresa De Lauretis
+    translators:
+      - Sam Bourcier
     year: 2007
     series: Genre du monde
     language: French
@@ -2939,6 +2972,10 @@ titles:
   - title: L'asile au Sud
     authors:
       - Luc Cambrézy
+    editors:
+      - Smaïn Laacher
+      - Véronique Lassailly-Jacob
+      - Luc Legoux
     year: 2008
     language: French
     pages: 220
@@ -3224,6 +3261,9 @@ titles:
   - title: Chemins de l'émancipation et rapports sociaux de sexe
     authors:
       - Philippe Cardon
+    editors:
+      - Danièle Kergoat
+      - Roland Pfefferkorn
     year: 2009
     series: Le genre du monde
     language: French
@@ -3477,6 +3517,7 @@ titles:
     verified: true
   - title: Agoudas
     subtitle: Les "Brésiliens" du Bénin
+    original_title: 'Agudás : os "brasileiros" do Benim'
     authors:
       - Milton Guran
       - Seloua Luste Boulbina
@@ -3672,10 +3713,11 @@ titles:
     subtitle: Recherche méthodologique
     authors:
       - Lev Semenovitch Vygotski
-      - Colette Barras
-      - Jacques Barberis
       - Jean-Paul Bronckart
       - Janette Friedrich
+    translators:
+      - Colette Barras
+      - Jacques Barberis
     year: 2010
     language: French
     sources:
@@ -3813,6 +3855,9 @@ titles:
     subtitle: Histoire, esthétique, politique
     authors:
       - Jean-Jacques Goblot
+    editors:
+      - Catherine Goblot-Cahen
+      - Lucien Sève
     year: 2011
     language: French
     pages: 270
@@ -3902,6 +3947,7 @@ titles:
     verified: true
   - title: L'école en Europe
     subtitle: Politiques néolibérales et résistances collectives
+    original_title: Schooling in Western Europe
     series: L'enjeu scolaire
     authors:
       - Ken Jones
@@ -3911,8 +3957,9 @@ titles:
       - Rosalind Innes
       - Samuel Johsua
       - Jürgen Klausenitzer
-      - Evelyne Meziani
       - Christian Laval
+    translators:
+      - Evelyne Meziani
     year: 2011
     language: French
     sources:
@@ -3991,10 +4038,11 @@ titles:
   - title: Leçons de psychologie
     authors:
       - Lev Semenovitch Vygotski
+      - Michel Brossard
+    translators:
       - Olga Anokhina
       - Gabriel Fernandez
       - Françoise Sève
-      - Michel Brossard
     year: 2011
     language: French
     sources:
@@ -4240,6 +4288,8 @@ titles:
   - title: Le Gange, miroir social
     authors:
       - Olivia Aubriot
+    editors:
+      - Lia Marcondes
     year: 2012
     series: 'Septième de la collection: "Tout autour de l''eau"'
     language: French
@@ -4601,12 +4651,14 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb437289645
     verified: true
   - title: Pensée et langage
+    original_title: Myšlenie i reč
     authors:
       - Lev Semenovitch Vygotski
       - Jean Piaget
-      - Françoise Sève
       - Yves Clot
       - Lucien Sève
+    translators:
+      - Françoise Sève
     year: 2013
     language: French
     sources:
@@ -4707,13 +4759,15 @@ titles:
         url: https://archive.org/details/emanciper-le-travail-entretiens-avec-patrick-zech
   - title: Family fortunes
     subtitle: Hommes et femmes de la bourgeoisie anglaise 1780-1850
+    original_title: Family fortunes
     series: Le genre du monde
     authors:
       - Leonore Davidoff
       - Catherine Hall
+      - Elénī Varíka
+    translators:
       - Christine Wünscher
       - Isabelle Clair
-      - Elénī Varíka
     year: 2014
     language: French
     sources:
@@ -4730,9 +4784,10 @@ titles:
     series: Hors collection
     authors:
       - Lev Semenovitch Vygotski
-      - Françoise Sève
       - Michel Brossard
       - Lucien Sève
+    translators:
+      - Françoise Sève
     year: 2014
     language: French
     sources:
@@ -4881,11 +4936,13 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb44442678m
     verified: true
   - title: Des femmes contre le militarisme et la guerre
+    original_title: 'Antimilitarism : Political and Gender Dynamics of Peace Movements'
     series: Le genre du monde
     authors:
       - Cynthia Cockburn
-      - Séverine Sofio
       - Arielle Denis
+    translators:
+      - Séverine Sofio
     year: 2015
     language: French
     sources:
@@ -4975,6 +5032,7 @@ titles:
       - Guillaume Fondu
       - Jean-Numa Ducange
       - Isabelle Garo
+    translators:
       - Paul Guillibert
       - Frédéric Monferrand
     year: 2015
@@ -5030,6 +5088,9 @@ titles:
     subtitle: Autour d'Étienne Balibar
     authors:
       - Étienne Balibar
+    editors:
+      - Marie-Claire Caloz-Tschopp
+      - Ahmet Insel
     year: 2015
     language: French
     pages: 181
@@ -5173,6 +5234,10 @@ titles:
     subtitle: Enjeux théoriques et politiques
     authors:
       - Congrès international des recherches féministes francophones (6th 2012 Lausanne, Switzerland)
+    editors:
+      - Marta Roca i Escoda
+      - Farinaz Fassa
+      - Éléonore Lépinard
     year: 2016
     series: Le genre du monde
     language: French
@@ -5208,6 +5273,7 @@ titles:
   - title: Podemos, la politique en mouvement
     authors:
       - Alberto Minguez Espallargas
+    translators:
       - Julie Beligot
     year: 2016
     language: French
@@ -5261,6 +5327,8 @@ titles:
       - Martial Zé Belinga
       - Bruno Tinel
       - Demba Moussa Dembélé
+    editors:
+      - Martial Ze Belinga
     year: 2016
     language: French
     sources:
@@ -5280,6 +5348,7 @@ titles:
     authors:
       - Lev Semenovitch Vygotski
       - Yves Clot
+    translators:
       - Françoise Sève
       - Gabriel Fernandez
     year: 2017
@@ -5298,7 +5367,10 @@ titles:
     verified: true
   - title: Contre la guerre 14-18
     subtitle: Résistances mondiales et révolution sociale
-    authors:
+    authors: []
+    editors:
+      - Stéfanie Prezioso
+    translators:
       - Stéfanie Prezioso
       - Hans-Peter Renk
       - Pierre Vanek
@@ -5596,11 +5668,14 @@ titles:
     verified: true
   - title: Les doigts coupés
     subtitle: Une anthropologie féministe
+    original_title: Le dita tagliati
     series: Le genre du monde
     authors:
       - Paola Tabet
       - Mathieu Trachman
       - Marie-Élisabeth Handman
+    translators:
+      - Pascal Cordara
     year: 2018
     language: French
     sources:
@@ -5778,13 +5853,15 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb456909267
     verified: true
   - title: Pensée et langage
+    original_title: Myšlenie i reč
     series: Hors collection
     authors:
       - Lev Semenovitch Vygotski
       - Jean Piaget
-      - Françoise Sève
       - Yves Clot
       - Lucien Sève
+    translators:
+      - Françoise Sève
     year: 2019
     language: French
     sources:
@@ -6141,9 +6218,10 @@ titles:
     series: Le genre du monde
     authors:
       - Helena Sumiko Hirata
-      - Hélène Le Doaré
       - Evelyn Glenn Nakano
       - Danièle Kergoat
+    translators:
+      - Hélène Le Doaré
     year: 2021
     language: French
     sources:
@@ -6162,6 +6240,7 @@ titles:
       - Franck Freitas-Ekué
       - Karima Ramdani
       - Stuart Hall
+    translators:
       - Séverine Sofio
     year: 2021
     language: French
@@ -6285,6 +6364,7 @@ titles:
     verified: true
   - title: L'invasion de l'Ukraine
     subtitle: Histoires, conflits et résistances populaires
+    original_title: Matrix of war
     authors:
       - Karine Clément
       - Denys Gorbach
@@ -6627,6 +6707,8 @@ titles:
     series: Le genre du monde
     authors:
       - Teresa De Lauretis
+    translators:
+      - Sam Bourcier
     year: 2023
     language: French
     sources:
@@ -6671,6 +6753,7 @@ titles:
     authors:
       - Lev Semenovitch Vygotski
       - Yves Clot
+    translators:
       - Françoise Sève
       - Gabriel Fernandez
     year: 2024
@@ -6759,9 +6842,10 @@ titles:
   - title: Histoire du développement des fonctions psychiques supérieures
     authors:
       - Lev Semenovitch Vygotski
-      - Françoise Sève
       - Michel Brossard
       - Lucien Sève
+    translators:
+      - Françoise Sève
     year: 2024
     language: French
     sources:
@@ -6904,13 +6988,15 @@ titles:
         url: https://www.sudoc.fr/286483963
     verified: true
   - title: Pensée et langage
+    original_title: Myšlenie i reč
     series: Hors collection
     authors:
       - Lev Semenovitch Vygotski
       - Jean Piaget
-      - Françoise Sève
       - Yves Clot
       - Lucien Sève
+    translators:
+      - Françoise Sève
     year: 2024
     language: French
     sources:
@@ -7096,6 +7182,7 @@ titles:
         url: https://archive.org/details/le-travail-enjeu-des-retraites-bernard-friot
   - title: Les doigts coupés
     subtitle: Une anthropologie féministe
+    original_title: Le dita tagliati
     authors:
       - Paola Tabet
     year: 2025
@@ -7139,12 +7226,14 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb48621650g
     verified: true
   - title: Pensée et langage
+    original_title: Myšlenie i reč
     authors:
       - Lev Semenovitch Vygotski
       - Yves Clot
-      - Françoise Sève
       - Jean Piaget
       - Lucien Sève
+    translators:
+      - Françoise Sève
     year: 2025
     language: French
     sources:
@@ -7333,12 +7422,14 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991173070148305501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: L'arrangement des sexes
+    original_title: The Arrangement between the Sexes
     series: Le genre du monde
     authors:
       - Erving Goffman
-      - Hervé Maury
       - Claude Zaidman
       - Yves Winkin
+    translators:
+      - Hervé Maury
     year: 2026
     language: French
     sources:

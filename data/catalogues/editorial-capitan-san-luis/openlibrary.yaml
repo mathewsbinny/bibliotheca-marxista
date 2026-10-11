@@ -1238,6 +1238,8 @@ titles:
   - title: El pensamiento del Che
     authors:
       - Che Guevara
+    editors:
+      - María del Carmen Ariet García
     year: 2000
     series: Colección Pensamiento revolucionario
     language: Spanish
@@ -1601,6 +1603,8 @@ titles:
   - title: Cuba, la historia no contada
     authors:
       - Juan Carlos Rodriguez Cruz
+    editors:
+      - Juan Carlos Rodríguez Cruz
     year: 2003
     language: Spanish
     isbn: '9592112517'
@@ -1734,6 +1738,8 @@ titles:
     subtitle: Prelude of a Direct Invasion on Cuba
     authors:
       - Jacinto Valdés-Dapena
+    translators:
+      - Ornán José Batista Peña
     year: 2004
     language: English
     pages: 159
@@ -2029,6 +2035,7 @@ titles:
     series: Colección Denuncia
     authors:
       - Juan Carlos Rodríguez Cruz
+    translators:
       - Ornán José Batista Peña
     year: 2007
     language: English
@@ -2039,6 +2046,8 @@ titles:
   - title: The CIA Against Che
     authors:
       - Adys Cupull
+    translators:
+      - Germán Piniella Sardiñas
     year: 2007
     series: Colección Denuncia
     language: English
@@ -2242,6 +2251,8 @@ titles:
     subtitle: Transnational Security, Counterterrorism and Global Crisis in the Third Millenium
     authors:
       - Alejandro Castro Espín
+    translators:
+      - Juanita F. Vera
     year: 2009
     series: Colección Denuncia
     language: English
@@ -2701,8 +2712,11 @@ titles:
     verified: true
   - title: Cuba
     subtitle: A Different Story
+    original_title: Contar a Cuba
     authors:
       - Ciro Bianchi Ross
+    translators:
+      - J. F. Vera
     year: 2013
     language: English
     pages: 251
@@ -2760,6 +2774,8 @@ titles:
     subtitle: The Truth Names Me
     authors:
       - Antonio Guerrero Rodríguez
+    translators:
+      - Margaret L. Becker
     year: 2013
     edition: Primera edición
     language: Spanish, English
@@ -2952,6 +2968,7 @@ titles:
     verified: true
   - title: Raúl Castro
     subtitle: Un hombre en revolución
+    original_title: Raulʹ Kastro
     authors:
       - N. S. Leonov
     year: 2015
@@ -3020,6 +3037,8 @@ titles:
     subtitle: ¿Qué se encontró al triunfo de la Revolución?
     authors:
       - Juan Carlos Rodríguez Cruz
+    editors:
+      - Juan Carlos Rodríguez
     year: 2016
     series: Colección 90 aniversario del comandante en jefe Fidel Castro Ruz
     language: Spanish
@@ -3060,6 +3079,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1004525451
     verified: true
   - title: En el bosque
+    original_title: Yabu no naka
     authors:
       - Wimar Verdecia Fuentes
       - Ryūnosuke Akutagawa

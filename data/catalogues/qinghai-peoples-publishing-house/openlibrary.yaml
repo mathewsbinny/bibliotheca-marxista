@@ -4339,6 +4339,7 @@ titles:
         url: https://lccn.loc.gov/87152939
     verified: true
   - title: Feng fang
+    original_title: La colmena
     series: Shi jie wen xue ming zhu cong shu
     authors:
       - Camilo José Cela
@@ -4810,8 +4811,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1629646237
     verified: true
   - title: Ta'er si zhi
+    original_title: Sku-ʼbum byamsba-gliṅ gi gdan rabs don ldan tshaṅs paʼi dbyaṅs sñan
     authors:
       - Seduo Luosangcuichenjiacuo
+    translators:
+      - Heqing Guo
+      - 和卿 郭
     year: 1986
     edition: Di 1 ban
     series: Ta'er si cong shu
@@ -5820,8 +5825,14 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=819202126
     verified: true
   - title: Menggu shu mian yu yu Ka'erga fang yan bi jiao yu fa
+    original_title: Sravnitelʹnai︠a︡ grammatika mongolʹskogo pisʹmennogo i︠a︡zyka i khalkhaskogo narechii︠a︡
     authors:
       - B. ÍÀ Vladimirt́s̀ov
+    translators:
+      - 伟 陈
+      - Wei Chen
+      - Peng Chen
+      - 鹏 陈
     year: 1988
     edition: Di 1 ban
     language: Chinese
@@ -6312,6 +6323,9 @@ titles:
   - title: Shou wen de ao mi
     authors:
       - Kenji Tanaka
+    translators:
+      - Yong Xiong
+      - Jingyu Han
     year: 1989
     edition: Di 1 ban
     language: Chinese
@@ -6554,9 +6568,10 @@ titles:
     verified: true
   - title: Lian hua sheng da shi ben sheng zhuan
     authors:
+      - Zhongguo Zangyuxi gaoji foxueyuan yanjiushi
+    translators:
       - Luozhu Jiacuo
       - Edong Wala
-      - Zhongguo Zangyuxi gaoji foxueyuan yanjiushi
     year: 1990
     language: Chinese
     sources:
@@ -6602,6 +6617,7 @@ titles:
     isbn: '7225003410'
     edition: Di 1 ban
   - title: Qing dai ming ren zhuan lue
+    original_title: Eminent Chinese of Chʻing period (1644-1912)
     authors:
       - Arthur William Sr Hummel
       - Zhongguo ren min da xue

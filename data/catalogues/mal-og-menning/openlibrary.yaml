@@ -5,8 +5,10 @@ publisher: mal-og-menning
 titles:
   - title: Vatnajökull
     subtitle: Barátta elds og ísa
+    original_title: 'Vatnajökull : kampen mellem ild og is'
     authors:
       - Niels Nielsen
+    translators:
       - Pálmi Hannesson
     year: 1937
     language: Icelandic
@@ -163,6 +165,7 @@ titles:
   - title: Tóníó Kröger
     authors:
       - Thomas Mann
+    translators:
       - Gísli Ásmundsson
     year: 1942
     language: Icelandic
@@ -203,6 +206,8 @@ titles:
   - title: Þrúgur Reiðinnar
     authors:
       - John Steinbeck
+    translators:
+      - Stefán Bjarman
     year: 1943
     language: Icelandic, English
     sources:
@@ -237,7 +242,8 @@ titles:
         url: https://search.worldcat.org/title/3688449
     verified: true
   - title: Ljóð frá ýmsum löndum
-    authors:
+    authors: []
+    translators:
       - Magnús Ásgeirsson
     year: 1946
     language: Icelandic
@@ -421,8 +427,10 @@ titles:
         url: https://search.worldcat.org/title/4373815
     verified: true
   - title: Þögn hafsins
+    original_title: Le silence de la mer
     authors:
       - Vercors
+    translators:
       - Sigfús Daðason
     year: 1953
     language: Icelandic
@@ -680,6 +688,8 @@ titles:
   - title: Dægradvöl
     authors:
       - Benedikt Gröndal
+    editors:
+      - Ingvar Stefánsson
     year: 1965
     language: Icelandic
     sources:
@@ -696,6 +706,7 @@ titles:
     authors:
       - Rembrandt
       - Ernst Vogel
+    translators:
       - Gísli Ásmundsson
     year: 1966
     language: German
@@ -861,6 +872,8 @@ titles:
   - title: Ljóðmæli
     authors:
       - Grímur Thomsen
+    editors:
+      - Sigurður Nordal
     year: 1969
     language: Icelandic
     pages: 478
@@ -923,8 +936,9 @@ titles:
     subtitle: Um skáldverk Halldórs Laxness frá Sölku Völku til Gerplu
     authors:
       - Peter Hallberg
-      - Helgi J. Halldórsson
       - Halldór Laxness
+    translators:
+      - Helgi J. Halldórsson
     year: 1970
     language: Icelandic
     sources:
@@ -1063,6 +1077,8 @@ titles:
   - title: Bréf til tveggja vina
     authors:
       - Magnús Stefánsson
+    editors:
+      - Jóhann Gunnar Ólafsson
     year: 1972
     language: Icelandic
     pages: 119
@@ -1339,6 +1355,7 @@ titles:
     subtitle: Heimildasaga
     authors:
       - Björn Th. Björnsson
+    translators:
       - Hilmar Þ. Helgason
     year: 1976
     language: Icelandic
@@ -1374,6 +1391,8 @@ titles:
     subtitle: Ritgerðir
     authors:
       - Kristinn E. Andrésson
+    editors:
+      - Sigfús Daðason
     year: 1976
     language: Icelandic
     sources:
@@ -1502,6 +1521,7 @@ titles:
     subtitle: 'The City Past and Present: A Walking Guide'
     authors:
       - Vigdís Finnbogadóttir
+    translators:
       - Magnús Magnússon
     year: 1977
     language: English
@@ -2366,6 +2386,8 @@ titles:
   - title: Ritsafn
     authors:
       - Jóhann Sigurjónsson
+    editors:
+      - Atli Rafn Kristinsson
     year: 1980
     language: Icelandic
     sources:
@@ -2828,6 +2850,7 @@ titles:
     verified: true
   - title: Felix Krull
     subtitle: Játningar glæframanns
+    original_title: Die Bekenntnisse des Hochstaplers Felix Krull
     authors:
       - Thomas Mann
       - Kristján Árnason
@@ -2912,6 +2935,8 @@ titles:
     subtitle: Tólf íslenskar smásögur í skólaútgáfu
     authors:
       - Njörður P. Njarðvík
+    editors:
+      - Njörður P. Njardvík
     year: 1982
     language: Icelandic
     sources:
@@ -3353,6 +3378,7 @@ titles:
     subtitle: Skáldsaga
     authors:
       - Heinrich Böll
+    translators:
       - Böðvar Guðmundsson
     year: 1983
     language: German
@@ -3718,6 +3744,9 @@ titles:
     subtitle: Ritgerđir og heimildir
     authors:
       - Gísli Ágúst Gunnlaugsson
+    editors:
+      - Gylfi Már Guðbergsson
+      - Sigurður Þorarinsson
     year: 1984
     language: Icelandic, Danish, English
     sources:
@@ -3861,6 +3890,7 @@ titles:
         url: https://lccn.loc.gov/86116143
     verified: true
   - title: Flowers on the Roof
+    original_title: Blomin á þakinu
     authors:
       - Ingibjörg Sigurðardóttir
       - Brian Pilkington
@@ -4205,8 +4235,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=043345131
     verified: true
   - title: Fávitinn
+    original_title: Idiot
     authors:
       - Fëdor Michajlovič Dostoevskij
+    translators:
       - Ingibjörg Haraldsdóttir
     year: 1986
     language: Icelandic
@@ -4334,6 +4366,7 @@ titles:
     subtitle: The City Past and Present. A Walking Guide
     authors:
       - Vigdís Finnbogadóttir
+    translators:
       - Magnús Magnússon
     year: 1986
     language: English
@@ -4500,6 +4533,7 @@ titles:
   - title: Fávitinn
     authors:
       - Fëdor Michajlovič Dostoevskij
+    translators:
       - Ingibjörg Haraldsdóttir
     year: 1987
     language: Icelandic
@@ -4679,8 +4713,10 @@ titles:
     verified: true
     pages: 306
   - title: Ljóð í maeltu máli
+    original_title: Paroles
     authors:
       - Jacques Prévert
+    translators:
       - Sigurður Pálsson
     year: 1987
     language: Icelandic
@@ -4738,6 +4774,8 @@ titles:
     subtitle: Úr dagbókum, bréfum og öðrum óprentuðum ritsmíðum frá árunum 1918-1929
     authors:
       - Þórbergur Þórðarson
+    editors:
+      - Helgi Máni Sigurðsson
     year: 1987
     language: Icelandic
     pages: 216
@@ -4756,6 +4794,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991093897469705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Myndir
+    original_title: Small paintings
     authors:
       - Louisa Matthíasdóttir
     year: 1987
@@ -4960,6 +4999,7 @@ titles:
     subtitle: Nouvelle
     authors:
       - Einar Kárason
+    translators:
       - Régis Boyer
     year: 1987
     language: French
@@ -5370,6 +5410,7 @@ titles:
     verified: true
   - title: Himingeimurinn
     subtitle: Sólir, stjörnur, gervitungl, geimtaekni
+    original_title: Space, stars, planets and spacecraft
     series: Gluggi alheimsins
     authors:
       - Sue Becklake
@@ -5556,6 +5597,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/102003189
     verified: true
   - title: Líkaminn og starfsemi hans
+    original_title: The body and how it works
     authors:
       - Steve Parker
     year: 1989
@@ -5632,6 +5674,7 @@ titles:
     subtitle: Úrval nútímaljóða frá þýska sambandslýðveldinu
     authors:
       - Wolfgang Schiffer
+    translators:
       - Arthúr Björgvin Bollason
     year: 1989
     language: Icelandic
@@ -5924,8 +5967,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=043286593
     verified: true
   - title: Karamazovbræðurnir
+    original_title: Bratʹja Karamazovy
     authors:
       - Fëdor Michajlovič Dostoevskij
+    translators:
       - Ingibjörg Haraldsdóttir
     year: 1990
     language: Icelandic

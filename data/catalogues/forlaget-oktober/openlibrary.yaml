@@ -121,6 +121,9 @@ titles:
     subtitle: Rudolf Nilsens prosa i utvalg
     authors:
       - Rudolf Nilsen
+    editors:
+      - Jon Michelet
+      - Martin Nag
     year: 1974
     language: Norwegian
     pages: 296
@@ -1854,8 +1857,9 @@ titles:
   - title: Polsk rapsodi
     authors:
       - Aleksander Ścibor-Rylski
-      - Ådne Goplen
       - Andrzej Wajda
+    translators:
+      - Ådne Goplen
     year: 1982
     language: Not recorded
     sources:
@@ -1964,8 +1968,10 @@ titles:
     verified: true
   - title: Dikt for viderekomne
     subtitle: Et utvalg dikt
+    original_title: Selected poems
     authors:
       - Amiri Baraka
+    translators:
       - Jón Sveinbjørn Jónsson
     year: 1983
     language: Norwegian
@@ -1991,6 +1997,7 @@ titles:
   - title: Erobringen av makten
     authors:
       - Czesław Miłosz
+    translators:
       - Ivar Lunde
     year: 1983
     language: Not recorded
@@ -2029,8 +2036,10 @@ titles:
         url: https://www.sudoc.fr/10281810X
     verified: true
   - title: Kong Johan
+    original_title: King John
     authors:
       - William Shakespeare
+    translators:
       - Torstein Bugge Høverstad
     year: 1983
     language: Norwegian
@@ -2039,8 +2048,11 @@ titles:
         url: https://www.sudoc.fr/103035508
     verified: true
   - title: Kong Rikard den annen
+    original_title: Richard II
     authors:
       - William Shakespeare
+    translators:
+      - Klaus Hagerup
     year: 1983
     language: Norwegian
     isbn: '8270943916'
@@ -2309,6 +2321,7 @@ titles:
     subtitle: Utvalgte dikt
     authors:
       - Jack Kerouac
+    translators:
       - Jón Sveinbjørn Jónsson
     year: 1984
     language: Norwegian
@@ -2412,6 +2425,7 @@ titles:
         url: https://www.sudoc.fr/10301246X
     verified: true
   - title: Tysk krigs-ABC
+    original_title: Deutsche Kriegsfibel
     authors:
       - Bertolt Brecht
     year: 1984
@@ -2478,6 +2492,7 @@ titles:
     subtitle: Utvalgte dikt
     authors:
       - Kenneth Patchen
+    translators:
       - Øyvind Berg
     year: 1985
     language: Norwegian
@@ -2698,6 +2713,8 @@ titles:
   - title: Romeo og Julie
     authors:
       - William Shakespeare
+    translators:
+      - Edvard Hoem
     year: 1985
     language: Norwegian
     isbn: '9788270944125'
@@ -2731,8 +2748,10 @@ titles:
     verified: true
   - title: Bange anelser
     subtitle: Søla setter seg
+    original_title: 'Fear and misadventures : Mud settles'
     authors:
       - Anthony Barnett
+    translators:
       - Knut Johansen
     year: 1986
     language: Norwegian
@@ -2781,8 +2800,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991136739299705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Ennå
+    original_title: Aún
     authors:
       - Pablo Neruda
+    translators:
       - Kari Kemény
     year: 1986
     language: Norwegian
@@ -2897,9 +2918,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/007289462
     verified: true
   - title: Som om
+    original_title: Likasum
     authors:
       - Rói Patursson
       - Trondur Patursson
+    translators:
       - Jón Sveinbjørn Jónsson
     year: 1986
     language: Norwegian
@@ -3147,6 +3170,7 @@ titles:
     subtitle: Dikt
     authors:
       - Charles Olson
+    translators:
       - Torleiv Grue
     year: 1987
     language: Norwegian
@@ -3155,8 +3179,10 @@ titles:
         url: https://www.sudoc.fr/102985677
     verified: true
   - title: Orestien
+    original_title: Oresteia
     authors:
       - Eschyle
+    translators:
       - Robert Lowell
       - Torstein Bugge Høverstad
     year: 1987
@@ -3368,6 +3394,7 @@ titles:
     subtitle: Dikt
     authors:
       - George Oppen
+    translators:
       - Jón Sveinbjørn Jónsson
     year: 1988
     language: Norwegian
@@ -3865,8 +3892,10 @@ titles:
         url: https://www.sudoc.fr/102982341
     verified: true
   - title: Kjøpmannen i Venezia
+    original_title: The merchant of Venice
     authors:
       - William Shakespeare
+    translators:
       - Edvard Hoem
     year: 1990
     language: Norwegian
@@ -4032,6 +4061,7 @@ titles:
   - title: Dikt 1963-1989
     authors:
       - Per Højholt
+    translators:
       - Øyvind Berg
     year: 1991
     language: Norwegian

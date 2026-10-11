@@ -888,6 +888,8 @@ titles:
     subtitle: Hrsg. von Jutta von Freyberg und Kurt Steinhaus
     authors:
       - Jutta von Freyberg
+    editors:
+      - Kurt Steinhaus
     year: 1969
     series: Marxistische Taschenbücher
     language: German
@@ -1196,6 +1198,8 @@ titles:
   - title: Zur Rolle der Sozialdemokratie in der Klassenauseinandersetzung auf deutschem Boden
     authors:
       - Hermann Matern
+    editors:
+      - Marianne Roth
     year: 1969
     language: German
     sources:
@@ -1298,6 +1302,8 @@ titles:
     authors:
       - Karl Marx
       - Richard Sperl
+    editors:
+      - Leni Hoffmann
     year: 1970
     language: German
     sources:
@@ -1346,6 +1352,7 @@ titles:
     verified: true
   - title: Bismarck
     subtitle: Diplomatie u. Militarismus
+    original_title: Bismark
     authors:
       - Arkadij S. Erusalimskij
     year: 1970
@@ -1455,6 +1462,8 @@ titles:
     subtitle: Zur Kritik d. Philosophie u. Soziologie von Horkheimer, Adorno, Marcuse, Habermas
     authors:
       - Vladimir Il’ich Lenin
+    editors:
+      - Johannes Henrich von Heiseler
     year: 1970
     series: Marxistische Taschénbücher
     language: German
@@ -1511,9 +1520,15 @@ titles:
     verified: true
   - title: Die kommunistische Internationale
     subtitle: Kurzer historischer Abriss
+    original_title: Коммунистический интернационал
     authors:
       - Aleksandr Ivanovich Sobolev
       - Kommunisticheskaya Partiya Sovetskogo Soyuza. Institut Marksizma-Leninizma
+    editors:
+      - Institut Marksizma-Leninizma
+    translators:
+      - Gisela Jähn
+      - Lidia Schewtschenko
     year: 1970
     language: German
     pages: 717
@@ -1563,6 +1578,7 @@ titles:
         url: https://d-nb.info/750168242
     verified: true
   - title: Die proletarische Revolution und der Renegat Kautsky
+    original_title: Proletarskaja revoljucija i renegat Kautskij
     series: Marxistische Taschenbücher
     authors:
       - Vladimir Ilʹič Lenin
@@ -1649,6 +1665,8 @@ titles:
     subtitle: Eine Biographie
     authors:
       - Heinrich Gemkow
+    editors:
+      - Institut für Marxismus-Leninismus
     year: 1970
     language: German
     pages: 707
@@ -1717,6 +1735,9 @@ titles:
     subtitle: Erarbeitet durch das Institut für Marxistische Studien und Forschungen (Frankfurt/M)
     authors:
       - Institut für Marxistische Studien und Forschungen (Frankfurt am Main, Germany)
+    editors:
+      - Heinz Jung
+      - Heinz Schäfer
     year: 1970
     language: German
     pages: 371
@@ -1831,6 +1852,7 @@ titles:
     verified: true
   - title: Leninismus und die Gegenwart
     subtitle: Zur Philosophie, Ökonomie, z. revolutionären Weltprozess
+    original_title: Leninizm i sovremennostʹ
     series: Marxistische Taschenbücher
     authors:
       - Michail A. Suslov
@@ -1929,6 +1951,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991118145289705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Marxistische Wissenschaft und antimarxistisches Dogma
+    original_title: The open philosophy and the open society (Teil 1 und 2)
     series: Marxistische Taschenbücher
     authors:
       - Maurice Campbell Cornforth
@@ -2133,6 +2156,8 @@ titles:
     authors:
       - Petr N. Pospelov
       - Else Zaisser
+    editors:
+      - Institut Marksizma-Leninizma
     year: 1970
     language: German
     sources:
@@ -2373,6 +2398,8 @@ titles:
   - title: Ausgewählte Werke
     authors:
       - Karl Marx
+    editors:
+      - Leni Hoffmann
     year: 1971
     language: German
     sources:
@@ -2563,6 +2590,8 @@ titles:
   - title: Der Imperialismus der BRD
     authors:
       - Lutz Maier
+    editors:
+      - Institut für Gesellschaftswissenschaften beim ZK der SED
     year: 1971
     language: German
     pages: 686
@@ -2878,6 +2907,8 @@ titles:
     subtitle: Lehrbuch
     authors:
       - Boris N. Ponomarev
+    editors:
+      - Leon Nebenzahl
     year: 1971
     language: German
     sources:
@@ -2892,6 +2923,7 @@ titles:
     verified: true
   - title: Geschichte der sowjetischen Aussenpolitik
     subtitle: 1945 - 1970
+    original_title: Istorija vnešnej politiki SSSR
     series: Monographie en 2 volumes
     authors:
       - Boris N. Ponomarev
@@ -2957,6 +2989,8 @@ titles:
     subtitle: (Anti-Dühring.) Mit Kommentar
     authors:
       - Friedrich Engels
+    editors:
+      - Walter Hollitscher
     year: 1971
     language: German
     pages: 413
@@ -3241,6 +3275,9 @@ titles:
   - title: Lenin als Philosoph
     authors:
       - M. M. Rozentalʹ
+    editors:
+      - Mark Moiseevič Rozentalʹ
+      - Akademija Obščestvennych Nauk
     year: 1971
     language: German
     pages: 587
@@ -3328,9 +3365,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=152643583
     verified: true
   - title: Millionäre machen Meinung von Millionen
+    original_title: Monopolii slova
     series: Marxistische Paperbacks
     authors:
       - Spartak Ivanovič Beglov
+    translators:
+      - Wolfgang Eckstein
     year: 1971
     language: German
     sources:
@@ -3363,6 +3403,8 @@ titles:
     subtitle: Auseinandersetzung mit neoreformistischen und neosyndikalistischen Anschauungen
     authors:
       - Institut für Marxistische Studien und Forschungen (Frankfurt am Main, Germany)
+    editors:
+      - Institut für Marxistische Studien und Forschungen
     year: 1971
     series: Marxistische Taschenbücher
     language: German
@@ -3859,6 +3901,8 @@ titles:
     series: Marxistische Taschenbücher; 33
     authors:
       - Karl Marx
+    editors:
+      - Leni Hoffmann
     year: 1972
     language: German
     sources:
@@ -4226,6 +4270,8 @@ titles:
     subtitle: Einführungen in marxistische Analysen aus der DDR, Frankreich und der Sowjetunion. Hrsg. vom Institut für Marxistische Studien und Forschungen (IMSF) Frankfurt Main
     authors:
       - Institut für Marxistische Studien und Forschungen (Frankfurt am Main, Germany)
+    editors:
+      - Rudolf Mondelaers
     year: 1972
     series: Marxistische Taschenbücher, 49
     language: German
@@ -4630,6 +4676,7 @@ titles:
         url: https://d-nb.info/730074145
     verified: true
   - title: Gemeinsames Regierungsprogramm der Französischen Kommunistischen Partei und der Sozialistischen Partei vom 27. Juni 1972
+    original_title: Programme commun du gouvernement du Parti communiste français et du Parti sosialiste (27 juin 1972)
     series: Marxistische Taschenbücher; 48
     authors:
       - Parti communiste français
@@ -4645,6 +4692,8 @@ titles:
   - title: Georgi Dimitroff; Leben und Werk
     authors:
       - Veselin Dimitrov Khadzhinikolov
+    editors:
+      - David Elazar
     year: 1972
     series: Marxistische Paperbacks
     language: German
@@ -4920,8 +4969,9 @@ titles:
   - title: Lehrbuch politische Ökonomie
     authors:
       - Nikolaj A. Cagolov
-      - Hermann Mertens
       - Moskovskij gosudarstvennyj universitet im. M. V. Lomonosova
+    translators:
+      - Hermann Mertens
     year: 1972
     language: German
     sources:
@@ -4945,7 +4995,9 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=021343063
     verified: true
     subtitle: Vorsozialistische Produktionsweisen
+    original_title: Kurs političeskoj ėkonomii
   - title: Marxismus und Theorie der Persönlichkeit
+    original_title: Marxisme et théorie de la personnalité
     authors:
       - Lucien Sève
     year: 1972
@@ -5086,6 +5138,11 @@ titles:
   - title: Politische Ökonomie des heutigen Monopolkapitalismus
     authors:
       - Akademie der Wissenschaften der UdSSR. Institut für Weltwissenschaft und internationale Beziehungen
+    editors:
+      - Nikolaj N. Inozemcev
+      - Institut Mirovoj Ėkonomiki i Meždunarodnych Otnošenij
+    translators:
+      - Sepp Görbert
     year: 1972
     language: German
     pages: 752
@@ -5106,6 +5163,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1110840489
     verified: true
     subtitle: '[Verantwortliche Redaktion: N.N. Inosemzew et al. Übersetzung: Intertext Fremdsprachendienst der DDR, Berlin. Sepp Görbert (Kapitel 1-6)]'
+    original_title: Političeskaja ėkonomija sovremennogo monopolističeskogo kapitalizma
   - title: Politische Ökonomie des heutigen Monopolkapitalismus/ Inst. f. Weltwirtschaft u. Internat. Beziehungen d. Akad. d. Wiss. d. UdSSR
     authors:
       - N. N. Inozemtsev
@@ -5489,6 +5547,8 @@ titles:
   - title: Arbeiterbewegung und Frauenemanzipation 1889 bis 1933
     authors:
       - Institut für Marxistische Studien und Forschungen (Frankfurt am Main, Germany)
+    editors:
+      - Marcella von Heiseler-Knipping
     year: 1973
     series: Neudrucke zur sozialistischen Theorie und Gewerkschaftspraxis
     language: German
@@ -5635,8 +5695,11 @@ titles:
     verified: true
   - title: Der Staatsmonopolistische Kapitalismus
     subtitle: Einführungen in marxistische Analysen aus der DDR, Frankreich und der Sowjetunion
+    original_title: Le capitalisme monopoliste d'état
     authors:
       - Institut für Marxistische Studien und Forschungen (Frankfurt am Main, Germany)
+    editors:
+      - Rudolf Mondelaers
     year: 1973
     edition: 2. Aufl
     series: 'Marxistische Taschenbücher: Reihe Marxismus aktuell -- 49'
@@ -5746,6 +5809,7 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/10043114bsb
   - title: Die internationalen Beziehungen der Gegenwart
+    original_title: Leninskie idei i sovremennye meždunarodnye otnošenija
     authors:
       - Dmitrij Georgievič Tomaševskij
     year: 1973
@@ -5760,6 +5824,7 @@ titles:
     verified: true
   - title: Die kommunistische Weltbewegung
     subtitle: Abriss d. Strategie u. Taktik
+    original_title: Meždunarodnoe kommunističeskoe dviženie
     authors:
       - Vadim V. Zagladin
     year: 1973
@@ -5812,6 +5877,7 @@ titles:
     verified: true
   - title: Die vietnamesische Revolution
     subtitle: Grundprobleme u. Hauptaufgaben
+    original_title: La révolution vietnamienne
     series: Marxistische Taschenbücher. Reihe Marxismus aktuell; 56
     authors:
       - Lê-Duẩn
@@ -5955,6 +6021,8 @@ titles:
     subtitle: Dokumente u. Materialien
     authors:
       - Institut für Marxistische Studien und Forschungen (Frankfurt am Main, Germany)
+    editors:
+      - Institut für Marxistische Studien und Forschungen
     year: 1973
     series: Neudrucke zur sozialistischen Theorie und Gewerkschaftspraxis
     language: German
@@ -6005,6 +6073,9 @@ titles:
       - Heinz Dr Jung
       - Heinz Dr. rer. oec Schäfer
       - Institute für Marxistische Studien und Forschungen
+    editors:
+      - Heinz Jung
+      - Institut für Marxistische Studien und Forschungen
     year: 1973
     edition: 3., veränd. u. erw. Aufl
     series: Marxistische Taschenbücher
@@ -6065,6 +6136,8 @@ titles:
     authors:
       - Wolfgang Menzel
       - Leipzig (Germany). Universität. Institut für Internationale Studien
+    editors:
+      - Institut für Internationale Studien
     year: 1973
     series: Marxistische Paperbacks
     language: German
@@ -6118,6 +6191,8 @@ titles:
     subtitle: Theorie, Diskussion, Sozialistische Analyse
     authors:
       - Institut für Marxistische Studien und Forschungen (Frankfurt am Main, Germany)
+    editors:
+      - Institut für Marxistische Studien und Forschungen
     year: 1973
     series: Marxistische Paperbacks -- 38
     language: German
@@ -6207,6 +6282,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991080357589705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Kritik der theoretischen Auffassungen Mao Tse-tungs
+    original_title: Kritika teoretičeskich koncepcij Mao Czė-duna
     authors:
       - Fëdor V. Konstantinov
       - Akademija nauk SSSR
@@ -6266,6 +6342,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/006686824
     verified: true
   - title: Lektionen über den Faschismus
+    original_title: Lezioni sul fascismo
     series: Marxistische Paperbacks; Bd 4
     authors:
       - Palmiro Togliatti
@@ -6292,6 +6369,7 @@ titles:
     verified: true
     subtitle: Lohn, Preis und Profit
   - title: Marxismus und Theorie der Persönlichkeit
+    original_title: Marxisme et théorie de la personnalité
     series: Marxistische Paperbacks; 34
     authors:
       - Lucien Sève
@@ -6330,6 +6408,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=223863076
     verified: true
   - title: Marxistische Wissenschaft und antimarxistisches Dogma
+    original_title: The open philosophy and the open society
     series: Marxistische Taschenbücher; 21
     authors:
       - Maurice Campbell Cornforth
@@ -6414,6 +6493,7 @@ titles:
     verified: true
   - title: Politische Ökonomie des Sozialismus
     subtitle: Übers. aus d. Russ
+    original_title: Političeskaja ėkonomija socializma
     authors:
       - Aleksej F. Rumjancev
     year: 1973
@@ -6699,6 +6779,8 @@ titles:
     subtitle: Zur marxistischen Analyse des heutigen Kapitalismus und ihren Kritikern in der SPD
     authors:
       - Heinz Schäfer
+    editors:
+      - Marianne Roth
     year: 1973
     language: German
     sources:
@@ -6830,6 +6912,8 @@ titles:
       - Wolfgang Eichhorn
       - Erich Hahn
       - Frank Rupprecht
+    editors:
+      - Wissenschaftlicher Rat für Philosophische Forschung der DDR
     year: 1974
     language: German
     pages: 155
@@ -6982,6 +7066,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=128721138
     verified: true
   - title: Der Leninismus und die nationale Frage in der Gegenwart
+    original_title: Leninizm i nacionalʹnyj vopros v sovremennych uslovijach
     authors:
       - Petr Nikolaevič Fedoseev
     year: 1974
@@ -7040,6 +7125,7 @@ titles:
     verified: true
   - title: Der Wissenschaftler in der kapitalistischen Gesellschaft
     subtitle: Die vertauschte Eule der Minerva
+    original_title: Die vertauschte Eule der Minerva (Ausg. im Akademie-Verlag)
     authors:
       - Jürgen Kuczynski
     year: 1974
@@ -7292,6 +7378,8 @@ titles:
   - title: Einführung in die politische Ökonomie des Sozialismus
     authors:
       - Zentralkomitee der SED. Institut für Gesellschaftswissenschaften
+    editors:
+      - Institut für Gesellschaftswissenschaften beim ZK der SED
     year: 1974
     language: German
     pages: 502
@@ -7408,6 +7496,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000416937
     verified: true
   - title: Gesetze der Gesellschaft und wissenschaftliche Voraussicht
+    original_title: Zakony obščestva i naučnoe predvidenie
     authors:
       - Sergej I. Gončruk
       - V. G. Vinogradov
@@ -7433,6 +7522,8 @@ titles:
     subtitle: Dokumente und Materialien
     authors:
       - Institut für Marxistische Studien und Forschungen (Frankfurt am Main, Germany)
+    editors:
+      - Institut für Marxistische Studien und Forschungen
     year: 1974
     series: Marxistische Paperbacks -- 43
     language: German
@@ -7557,6 +7648,8 @@ titles:
     subtitle: Theorie, Diskussion, Sozialstatistische Analyse
     authors:
       - Institut für Marxistische Studien und Forschungen (Frankfurt am Main, Germany)
+    editors:
+      - Eberhard Dähne
     year: 1974
     series: Marxistische Paperbacks; 39/2
     language: German
@@ -7637,6 +7730,8 @@ titles:
     subtitle: Referate und Diskussionsbeiträge der Wissenschaftlichen Tagung des Instituts für Marxistische Studien und Forschungen (IMSF), Frankfurt/Main, vom April 1973
     authors:
       - Institut für Marxistische Studien und Forschungen (Frankfurt am Main, Germany)
+    editors:
+      - Institut für Marxistische Studien und Forschungen
     year: 1974
     series: Marxistische Taschenbücher -- 67
     language: German
@@ -7691,6 +7786,7 @@ titles:
     verified: true
   - title: Management
     subtitle: Eine Analyse bürgerl. Theorien von Organisation u. Leitung
+    original_title: Organizacija i upravlenie
     authors:
       - Džermen M. Gvišiani
     year: 1974
@@ -7767,6 +7863,7 @@ titles:
     verified: true
   - title: Ökonomen aus drei Jahrhunderten
     subtitle: Das Leben u. Wirken d. Ökonomen vor Marx u. Engels; Übers. aus d. Russ
+    original_title: Junost nauki
     authors:
       - Andrej V. Anikin
     year: 1974
@@ -7857,8 +7954,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=02029462X
     verified: true
   - title: Politische Ökonomie Und Ihre Anwendung in den Entwicklungsländern
+    original_title: Ocerki politiceskoj ekonomii razvivajusciesja strany
     authors:
       - Sergej I. Tjulʹpanov
+    translators:
       - Horst Richter
     year: 1974
     language: Arabic, German, English, French, Russian, Spanish
@@ -8300,6 +8399,8 @@ titles:
     subtitle: '1904-1945: Dokumente u. Materialien'
     authors:
       - Institut für Marxistische Studien und Forschungen (Frankfurt am Main, Germany)
+    editors:
+      - Institut für Marxistische Studien und Forschungen
     year: 1975
     series: Neudrucke zur sozialistischen Theorie und Gewerkschaftspraxis; Bd. 7
     language: German
@@ -8386,6 +8487,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=020780575
     verified: true
   - title: Das Wesen des Trotzkismus von heute
+    original_title: Antirevoli︠u︡t︠s︡ionnai︠a︡ sushchnostʹ sovremennogo trot︠s︡kizma
     authors:
       - M. I. Basmanov
     year: 1975
@@ -8632,8 +8734,11 @@ titles:
     verified: true
   - title: Die Antihitlerkoalition
     subtitle: Die diplomat. Zusammenarb. zwischen d. UdSSR, den USA u. England während d. 2. Weltkrieges 1941-1945
+    original_title: Antigitlerovskaja koalicija
     authors:
       - Viktor Levonovich Israėlian
+    translators:
+      - L. Steinmetz
     year: 1975
     language: German
     pages: 483
@@ -8654,6 +8759,8 @@ titles:
     subtitle: (3.-15. Oktober 1935)
     authors:
       - Kommunistische Partei Deutschlands
+    editors:
+      - Klaus Mammach
     year: 1975
     language: German
     pages: 621
@@ -8826,8 +8933,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/008997959
     verified: true
   - title: Ernesto Che Guevara
+    original_title: Ernesto Che Gevara
     authors:
       - Iosif Romualʹdovič Grigulevič
+    translators:
+      - Mathias Moll
     year: 1975
     language: German
     sources:
@@ -8975,6 +9085,8 @@ titles:
     subtitle: Theorie, Diskussion, Sozialstatistische Analyse
     authors:
       - Intitut für Marxistische Studien und Forschungen
+    editors:
+      - Eberhard Dähne
     year: 1975
     series: Marxistische Paperbacks; 40
     language: German
@@ -9003,6 +9115,8 @@ titles:
   - title: Klassenkämpfe im kapitalistischen Europa
     authors:
       - Institut für marxistische Studien und Forschungen
+    editors:
+      - Barbara Schilling
     year: 1975
     language: German
     sources:
@@ -9170,6 +9284,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=021841756
     verified: true
   - title: Kurze Geschichte der Bulgarischen Kommunistischen Partei
+    original_title: Kratka istorija pa BKP
     authors:
       - Kiril Vasilev
     year: 1975
@@ -9468,6 +9583,8 @@ titles:
     subtitle: Studien zum Kampf um die Vereinigung des Marxismus mit der Arbeiterbewegung
     authors:
       - Institut marksizma-leninizma (Moscow, Russia)
+    editors:
+      - Jekaterina Barwenko
     year: 1975
     language: German
     pages: 622
@@ -9606,6 +9723,7 @@ titles:
     verified: true
   - title: Über die Einheit der internationalen kommunistischen Bewegung
     subtitle: Sammelband
+    original_title: O edinstve meždunarodnogo kommunističeskogo dviženija
     authors:
       - Vladimir Ilʹič Lenin
     year: 1975
@@ -9626,6 +9744,8 @@ titles:
     subtitle: 'Oder, Woran CDU, FDP und SPD nicht mehr erinnert werden wollen: Vorstellungen z. Neubeginn 1945'
     authors:
       - Hans-Werner Franz
+    editors:
+      - Fritz Krause
     year: 1975
     series: 'Marxistische Taschenbücher: Reihe Marxismus aktuell; 86'
     language: German
@@ -9702,8 +9822,9 @@ titles:
     subtitle: D. Evolution d. Aussenpolitik Pekings
     authors:
       - Gennadij V. Astafʹev
-      - H. Schnittke
       - A. M. Dubinski
+    translators:
+      - H. Schnittke
     year: 1975
     language: German
     sources:
@@ -10131,6 +10252,8 @@ titles:
   - title: Das Kapital
     authors:
       - Karl Marx
+    editors:
+      - Friedrich Engels
     year: 1976
     language: German
     sources:
@@ -10148,6 +10271,8 @@ titles:
     subtitle: 'Theoret. u. aktuelle Gesichtspunkte d. marxist.-leninist. Monopoltheorie: Referate u. Diskussionsbeiträge d. Kolloquiums d. Inst. für Marxist. Studien u. Forschungen (IMSF), Frankfurt am Main vom 26./27. Juni 1976'
     authors:
       - Institut für Marxistische Studien und Forschungen (Frankfurt am Main, Germany)
+    editors:
+      - Institut für Marxistische Studien und Forschungen
     year: 1976
     series: Marxistische Paperbacks; 75
     language: German
@@ -10209,6 +10334,9 @@ titles:
   - title: Der Bürgerkrieg in den Vereinigten Staaten
     authors:
       - Karl Marx
+    editors:
+      - Günter Witsotzki
+      - Manfred Tetzel
     year: 1976
     language: German
     pages: 289
@@ -10544,6 +10672,7 @@ titles:
     verified: true
   - title: Gespräche im Gefängnis
     subtitle: D. gewerkschaftl. Arbeiterbewegung in Spanien
+    original_title: Charlas en la prision
     series: Marxistische Taschenbücher. Reihe Marxismus aktuell; 94
     authors:
       - Marcelino Camacho
@@ -10732,7 +10861,8 @@ titles:
     verified: true
   - title: Probleme der kommunistischen Bewegung
     subtitle: Einige Fragen zur Theorie u. Methodologie
-    authors:
+    authors: []
+    translators:
       - Shemaryahu Goreliḳ
     year: 1976
     language: German
@@ -10891,6 +11021,7 @@ titles:
         url: https://search.worldcat.org/title/3994350
     verified: true
   - title: Studien über den staatsmonopolistischen Kapitalismus, seine Krise und seine Überwindung
+    original_title: Etudes sur le capitalisme monopoliste d'Etat, sa crise et son issue
     series: Marxistische Paperbacks; 71
     authors:
       - Paul Boccara
@@ -10983,6 +11114,7 @@ titles:
     verified: true
   - title: Von der Konfrontation zur Zusammenarbeit
     subtitle: (Zum 20. Jahrestag d. Aufnahme d. diplomat. Beziehungen zwischen d. UdSSR u.d. BRD)
+    original_title: Ot konfrontacii k sotrudničestvu
     authors:
       - Rudolʹf F. Alekseev
     year: 1976
@@ -11034,6 +11166,7 @@ titles:
     verified: true
   - title: Wie "Das Kapital" entstand
     subtitle: Aus d. Russ
+    original_title: K istorii sozdanija Kapitala
     authors:
       - V. S. Vygodskij
     year: 1976
@@ -11068,6 +11201,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=021836655
     verified: true
   - title: Wissenschaftlich-technische und soziale Revolution
+    original_title: Naučno-techničeska i socialna revoljucija
     authors:
       - Toncho Trendafilov
     year: 1976
@@ -11091,6 +11225,8 @@ titles:
     subtitle: '1919-1946: Dokumente'
     authors:
       - Institut für Marxistische Studien und Forschungen (Frankfurt am Main, Germany)
+    editors:
+      - Institut für Marxistische Studien und Forschungen
     year: 1976
     series: Neudrucke zur sozialistischen Theorie und Gewerkschaftspraxis
     language: German
@@ -11134,6 +11270,8 @@ titles:
     subtitle: Herausgegeben von Manfred Buhr unter Mitwirkung von Guy Besse, Paris András Gedö
     authors:
       - Manfred Buhr
+    editors:
+      - Verlag Marxistische Blätter
     year: 1976
     language: German
     sources:
@@ -11161,6 +11299,8 @@ titles:
   - title: Antifaschistische Beiträge 1933-1939
     authors:
       - Rudolf Breitscheid
+    editors:
+      - Dieter Lange
     year: 1977
     series: Marxistische Paperbacks; 76
     language: German
@@ -11397,6 +11537,7 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/soc-polit-die-frau-und-der-sozialismus-bebel-livro
   - title: Die irische Krise
+    original_title: The Irish crisis
     series: Marxistische Taschenbücher; 105
     authors:
       - Charles Desmond Greaves
@@ -11703,6 +11844,8 @@ titles:
   - title: Grundlagen der marxistisch-leninistischen Soziologie
     authors:
       - Rudhard Stollberg
+    editors:
+      - Georg Aßmann
     year: 1977
     language: German
     pages: 411
@@ -11833,6 +11976,8 @@ titles:
     subtitle: Dokumente u. Materialien
     authors:
       - Ingeborg Nödinger
+    editors:
+      - Leon Bertold
     year: 1977
     edition: 2., überarb. u. aktualisierte Aufl
     series: Klassenkämpfe im kapitalistischen Europa
@@ -11942,6 +12087,7 @@ titles:
     verified: true
   - title: Marxismus und Theorie der Persönlichkeit
     subtitle: Mit d. Nachw. zur 3. franz. Aufl
+    original_title: Marxisme et théorie de la personnalité
     series: Marxistische Paperbacks; 34
     authors:
       - Lucien Sève
@@ -12130,6 +12276,8 @@ titles:
     subtitle: E. Ausw. in 2. Bd
     authors:
       - Franz Mehring
+    editors:
+      - Josef Schleifstein
     year: 1977
     series: 'Marxistische Taschenbücher: Reihe Sozialistische Klassiker; 45-'
     language: German
@@ -12168,6 +12316,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=112738389
     verified: true
   - title: Psychologie der Sexualität
+    original_title: A szexualitás modern elmélete
     authors:
       - Béla Buda
     year: 1977
@@ -12823,6 +12972,8 @@ titles:
     subtitle: Grundriss
     authors:
       - Herbert Meissner
+    editors:
+      - Herbert Meißner
     year: 1978
     language: German
     pages: 682
@@ -12840,8 +12991,9 @@ titles:
     authors:
       - A. A. Gromyko
       - B. N. Ponomarjow
-      - D. Bakkour
       - Akademie der Wissenschaften der UdSSR
+    translators:
+      - D. Bakkour
     year: 1978
     language: German
     sources:
@@ -13208,8 +13360,9 @@ titles:
     subtitle: Menschenrechte in d. USA
     series: Marxistische Taschenbücher; 119
     authors:
-      - Gisela Anders
       - Communist Party USA
+    translators:
+      - Gisela Anders
     year: 1978
     language: German
     sources:
@@ -13226,6 +13379,8 @@ titles:
     authors:
       - Augustyn Wajda
       - Włodzimierz Wesołowski
+    editors:
+      - Institut für Marxistische Studien und Forschungen
     year: 1978
     language: German
     pages: 279
@@ -13316,7 +13471,8 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1957838922
     verified: true
   - title: Wissenschaftlich-technische Revolution und ideologischer Kampf
-    authors:
+    authors: []
+    translators:
       - Cay-Harro Dahl
     year: 1978
     language: German
@@ -13330,6 +13486,7 @@ titles:
     verified: true
   - title: Wissenschaftlicher Fortschritt und Zukunft des Menschen
     subtitle: Kritik des Szientismus, Biologismus und ethischen Nihilismus
+    original_title: Progress nauki i budušče čeloveka
     authors:
       - I. T. Frolov
     year: 1978
@@ -13782,6 +13939,7 @@ titles:
     verified: true
   - title: Epistemologie oder Philosophie?
     subtitle: Zu G. Bachelards neuem epistemologischem Idealismus
+    original_title: Bachelard on le nouvel idéalisme épistémologique
     authors:
       - Michel Vadée
     year: 1979
@@ -13805,6 +13963,8 @@ titles:
     subtitle: Eine Biographie
     authors:
       - Günter Hortzschansky
+    editors:
+      - Institut für Marxismus-Leninismus
     year: 1979
     language: German
     pages: 804
@@ -13823,6 +13983,7 @@ titles:
     verified: true
   - title: Geschichte und Antigeschichte
     subtitle: Zur Kritik d. Methodologie d. bürgerl. Geschichtsphilosophie
+    original_title: Istorija i antiistorija
     series: Zur Kritik der bürgerlichen Ideologie; 96
     authors:
       - Lev Vladimirovič Skvorcov
@@ -13896,6 +14057,8 @@ titles:
       - Bruno Mahlow
       - Harald Neubert
       - Gerhard Powik
+    editors:
+      - Institut für Internationale Arbeiterbewegung
     year: 1979
     language: German
     pages: 348
@@ -13945,6 +14108,8 @@ titles:
   - title: Neokolonialismus der BRD und antiimperialistischer Befreiungskampf
     authors:
       - Institut für Marxistische Studien und Forschungen (Frankfurt am Main, Germany)
+    editors:
+      - Institut für Marxistische Studien und Forschungen
     year: 1979
     series: 'Marxistische Taschenbücher: Reihe Marxismus aktuell; 133'
     language: German
@@ -14191,6 +14356,7 @@ titles:
         url: https://www.sudoc.fr/098467077
     verified: true
   - title: '"Demokratischer Sozialismus" - Ideologie des Sozialreformismus'
+    original_title: Čto takoe demokratičeskij socializm
     series: Zur Kritik der bürgerlichen Ideologie; 98
     authors:
       - Petr Nikolaevič Fedoseev
@@ -14266,6 +14432,10 @@ titles:
     subtitle: Aufsätze, Artikel, Reden
     authors:
       - Fritz Rische
+    editors:
+      - Peter Hiedl
+      - Victoria Theuer
+      - Institut für Marxistische Studien und Forschungen
     year: 1980
     language: German
     pages: 293
@@ -14912,6 +15082,8 @@ titles:
     subtitle: 'Eine marxistische Diskussion über Technologie-Entwicklung, Ökologie, Wachstumsgrenzen und die "Grünen": Materialien der Tagung "Wissenschaftlich-Technischer Fortschritt und Gesellschaftliche Alternativen"'
     authors:
       - Tagung "Wissenschaftlich-Technischer Fortschritt und Gesellschaftliche Alternativen" (1980 Frankfurt am Main, Germany)
+    editors:
+      - Institut für Marxistische Studien und Forschungen
     year: 1980
     series: Marxismus aktuell
     language: German
@@ -15036,6 +15208,8 @@ titles:
     subtitle: Marxist. Politikwiss. in d. BRD
     authors:
       - Josef Blahož
+    editors:
+      - Gemeinsame Forschungsgruppe zur Kritik der Bürgerlichen Ideologie
     year: 1980
     series: Schriften zur Philosophie und ihrer Geschichte
     language: German
@@ -15408,6 +15582,8 @@ titles:
     subtitle: Zur betrieblichen und gesellschaftlichen Praxis
     authors:
       - Institut für Marxistische Studien und Forschungen (Frankfurt am Main, Germany)
+    editors:
+      - Institut für Marxistische Studien und Forschungen
     year: 1981
     edition: 4., völlig neu bearbeitete une erw. Aufl
     language: German
@@ -15636,6 +15812,8 @@ titles:
     subtitle: Aus Schriften und Reden
     authors:
       - Max Schäfer
+    editors:
+      - Willi Gottschall
     year: 1981
     language: German
     pages: 409
@@ -15721,6 +15899,8 @@ titles:
     subtitle: Beiträge zur Philosophie G.W.F. Hegels
     authors:
       - Manfred Buhr
+    editors:
+      - Akademija nauk SSSR
     year: 1981
     series: Schriften zur Philosophie und ihrer Geschichte
     language: German
@@ -15843,6 +16023,8 @@ titles:
     subtitle: Zeitung der Kommunistischen Internationale, 1921-1939
     authors:
       - Irén Komját
+    translators:
+      - Péter Máté
     year: 1982
     language: German
     sources:
@@ -15993,6 +16175,8 @@ titles:
   - title: Handbuch Abrüstung
     authors:
       - Manfred Dr. rer. pol Müller
+    editors:
+      - Manfred Müller
     year: 1982
     language: German
     pages: 272
@@ -16046,8 +16230,13 @@ titles:
     verified: true
   - title: Karl Marx
     subtitle: Biographie
+    original_title: Karl Marks, Biografiia
     authors:
       - Petr Nikolaevich Fedoseev
+    editors:
+      - Institut Marksizma-Leninizma
+    translators:
+      - Hans Zikmund
     year: 1982
     language: German
     pages: 890
@@ -16267,6 +16456,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1499102267
     verified: true
   - title: Studien über "Das Kapital"
+    original_title: Sur la mise en mouvement du "Capital"
     series: Marxistische Paperbacks; 95
     authors:
       - Paul Boccara
@@ -16329,6 +16519,9 @@ titles:
     subtitle: Materialien einer gemeinsamen wissenschaftlichen Konferenz der Institute IMEMO, Moskau, IPW, Berlin-DDR, und IMSF, Frankfurt am Main
     authors:
       - Institut mirovoĭ ėkonomiki i mezhdunarodnykh otnosheniĭ (Akademiia nauk SSSR)
+    editors:
+      - Institut Mirovoj Ėkonomiki i Meždunarodnych Otnošenij
+      - Institut für Marxistische Studien und Forschungen
     year: 1982
     series: Marxistische Paperbacks
     language: German
@@ -16392,6 +16585,8 @@ titles:
     verified: true
   - title: 1933 [Neunzehnhundertdreiunddreissig], Texte, Fotos, Chronik
     authors: []
+    editors:
+      - Kurt Bachmann
     year: 1983
     language: German
     sources:
@@ -16419,6 +16614,7 @@ titles:
     verified: true
   - title: 'Antiker Materialismus aktuell: Demokrit, der lachende Philosoph'
     subtitle: Demokrits geschichtsphilos. u. soziolog. Anschauungen; mit e. Nachtr. über Lukrez
+    original_title: Demokrit, smeeštijăt se filosof
     series: Marxistische Paperbacks; 107
     authors:
       - Nikolaj N. Iribadžakov
@@ -16605,6 +16801,8 @@ titles:
   - title: Dokumente und Materialien aus der Vorgeschichte des Zweiten Weltkrieges
     authors:
       - Germany. Auswärtiges Amt
+    translators:
+      - V. Lomov
     year: 1983
     language: German
     isbn: '3880126704'
@@ -16635,6 +16833,7 @@ titles:
         url: https://d-nb.info/550913432
     verified: true
     subtitle: 1937 - 1939
+    original_title: Dokumenty i materialy kanuna Vtoroj mirovoj vojny, 1937-1939
   - title: Frauen gegen Wiederaufrüstung
     subtitle: Der Demokratische Frauenbund Deutschland im antimilitaristischen Widerstand (1950 bis 1957)
     authors:
@@ -16694,6 +16893,8 @@ titles:
     subtitle: Materialien zum Karl-Marx-Jahr 1983
     authors:
       - Institut für Marxistische Studien und Forschungen (Frankfurt am Main, Germany)
+    editors:
+      - Institut für Marxistische Studien und Forschungen
     year: 1983
     language: German
     pages: 359
@@ -16767,6 +16968,8 @@ titles:
     subtitle: Kleines Marx-wörterbuch
     authors:
       - Karl Marx
+    editors:
+      - Richard Kumpf
     year: 1983
     language: German
     isbn: '3880126712'
@@ -16948,6 +17151,8 @@ titles:
     subtitle: 'Diskussion und Kritik ihrer wirtschafts- und gesellschaftspolitischen Konzeptionen: Materialien einer Tagung des IMSF vom 26./27. November 1983 in Frankfurt/M'
     authors:
       - Tagung des IMSF (1983 Frankfurt am Main, Germany)
+    editors:
+      - Institut für Marxistische Studien und Forschungen
     year: 1984
     series: Mak
     language: German
@@ -17393,6 +17598,7 @@ titles:
     verified: true
   - title: Sowjetdiplomatie gegen faschistische Bedrohung
     subtitle: 1939 - 1941
+    original_title: Pered velikim ispytaniem
     authors:
       - Pavel P. Sevost'janov
     year: 1984
@@ -17575,6 +17781,7 @@ titles:
         url: https://archive.org/details/soc-polit-die-frau-und-der-sozialismus-bebel-livro
   - title: Die sowjetische Wirtschaft
     subtitle: Errungenschaften, Probleme, Perspektiven
+    original_title: Sovetskaja ėkonomika
     authors:
       - N. A. Tikhonov
     year: 1985
@@ -17741,6 +17948,8 @@ titles:
   - title: Kapital und Arbeit
     authors:
       - Karl Marx
+    editors:
+      - Johann Most
     year: 1985
     language: German
     sources:
@@ -17884,6 +18093,7 @@ titles:
     verified: true
   - title: Realer Sozialismus
     subtitle: 'Frieden und gesellschaftlicher Fortschritt: d. histor. Rolle d. Sozialist. Gesellschaft'
+    original_title: Istoričeskaja missija socialističeskogo obščestvo
     authors:
       - V. V. Zagladin
     year: 1985
@@ -17941,6 +18151,8 @@ titles:
     subtitle: Ein kritischer Abriss
     authors:
       - V. V. Mshvenieradze
+    editors:
+      - Bernd P. Löwe
     year: 1985
     series: Zur Kritik der bürgerlichen Ideologie -- 105
     language: German
@@ -18032,6 +18244,8 @@ titles:
     subtitle: 'Eine Diskussion nach der ersten Etappe des 35-Stunden Kampfes: Materialien der Tagung des IMSF zum Thema "Situation und Perspektive der Gewerkschaftsbewegung" vom 10./11. November 1984 in Mörfelden bei Frankfurt'
     authors:
       - Tagung des IMSF zum Thema "Situation und Perspektive der Gewerkschaftsbewegung" (1984 Mörfelden bei Frankfurt, Germany)
+    editors:
+      - Institut für Marxistische Studien und Forschungen
     year: 1985
     series: Mak
     language: German

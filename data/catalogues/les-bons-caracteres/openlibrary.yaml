@@ -6,6 +6,10 @@ titles:
   - title: La jeunesse de Lénine
     authors:
       - Lev Davydovič Trockij
+    translators:
+      - Maurice Parijanine
+      - Geneviève Petiot
+      - Christiane Marchello-Nizia
     year: 2004
     language: French
     sources:
@@ -15,8 +19,11 @@ titles:
         url: https://www.sudoc.fr/082586055
     verified: true
   - title: Le programme socialiste
+    original_title: Das Erfurter Programm in seinem grundsätzlichen Teil erläutert
     authors:
       - Karl Kautsky
+    translators:
+      - Léon Rémy
     year: 2004
     language: French
     sources:
@@ -146,9 +153,13 @@ titles:
         url: https://www.sudoc.fr/107900866
     verified: true
   - title: La paix
+    original_title: Frieden
     series: Collection Romans
     authors:
       - Ernst Glaeser
+    translators:
+      - Joseph Delage
+      - Cécile Knoertzer
     year: 2006
     language: French
     sources:
@@ -161,6 +172,8 @@ titles:
     series: Témoignages
     authors:
       - Aleksandr Ignatʹevič Tarasov-Rodionov
+    translators:
+      - Marc Semenoff
     year: 2006
     language: French
     sources:
@@ -170,6 +183,7 @@ titles:
         url: https://www.sudoc.fr/113424698
     verified: true
     subtitle: Febral
+    original_title: Febral
   - title: Le fléau du savoir
     subtitle: L'épopée de Ménaché Foïgel
     authors:
@@ -266,9 +280,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1957506571
     verified: true
   - title: Émeute au Transvaal
+    original_title: Transvaal episode
     series: Romans
     authors:
       - Harry Bloom
+    translators:
+      - Anne Garnier
     year: 2008
     language: French
     sources:
@@ -313,9 +330,12 @@ titles:
     verified: true
   - title: Au-delà de l'Oural
     subtitle: Un ouvrier américain dans la métropole russe de la sidérurgie
+    original_title: Behind the Urals, an american worker in Russia's city of steel
     series: Collection Témoignages
     authors:
       - John Scott
+    translators:
+      - Jeannette Milichian
     year: 2010
     language: French
     sources:
@@ -384,9 +404,12 @@ titles:
     verified: true
   - title: Les croisés
     subtitle: Roman
+    original_title: The crusaders
     series: Romans
     authors:
       - Stefan Heym
+    translators:
+      - Michel Arnaud
     year: 2010
     language: French
     sources:
@@ -454,9 +477,12 @@ titles:
     verified: true
   - title: Ici, sous l'Étoile polaire
     subtitle: Roman
+    original_title: Täällä pohjantähden alla
     series: Romans
     authors:
       - Väinö Linna
+    translators:
+      - Jean-Jacques Fol
     year: 2011
     language: French
     sources:
@@ -497,9 +523,12 @@ titles:
     verified: true
   - title: Les gardes rouges de Tampere
     subtitle: Roman
+    original_title: Täällä pohjantähden alla
     series: Ici, sous l'Étoile polaire; tome 2
     authors:
       - Väinö Linna
+    translators:
+      - Jean-Jacques Fol
     year: 2011
     language: French
     sources:
@@ -520,9 +549,13 @@ titles:
     verified: true
   - title: Maman Jones
     subtitle: Autobiographie
+    original_title: Autobiography of Mother Jones
     series: Témoignages
     authors:
       - Mother Jones
+    translators:
+      - Colette Audry
+      - Marina Stalio
     year: 2012
     language: French
     sources:
@@ -533,9 +566,12 @@ titles:
     verified: true
   - title: Réconciliation
     subtitle: Roman
+    original_title: Täällä pohjantähden alla
     series: Ici, sous l'Étoile polaire; tome 3
     authors:
       - Väinö Linna
+    translators:
+      - Jean-Michel Kalmbach
     year: 2012
     language: French
     sources:
@@ -546,12 +582,14 @@ titles:
     verified: true
   - title: Histoire de la social-démocratie allemande
     subtitle: (1863-1891)
+    original_title: Geschichte der Deutschen Sozialdemokratie
     series: Collection Histoire
     authors:
       - Franz Mehring
+      - Anne Deffarges
+    translators:
       - Monique Tesseyre
       - Dominique Petitjean
-      - Anne Deffarges
     year: 2013
     language: French
     sources:
@@ -698,6 +736,7 @@ titles:
     verified: true
   - title: Les leçons d'Octobre
     subtitle: Nouvelle traduction
+    original_title: Uroki Oktâbrâ
     series: Classiques
     authors:
       - Lev Davydovič Trockij
@@ -711,9 +750,12 @@ titles:
     verified: true
   - title: Les sentiers de la gloire
     subtitle: Roman
+    original_title: Paths of glory
     series: Romans
     authors:
       - Humphrey Cobb
+    translators:
+      - André Falk
     year: 2014
     language: French
     sources:
@@ -779,9 +821,12 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991055409179705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Toute ma vie j'ai lutté
+    original_title: A fighter all my life
     series: Témoignages
     authors:
       - Sam Johnson
+    translators:
+      - Patricia Barbe-Girault
     year: 2015
     language: French
     sources:
@@ -796,6 +841,8 @@ titles:
     series: Témoignages
     authors:
       - Adelheid Popp
+    translators:
+      - Mina Valette
     year: 2016
     language: French
     sources:
@@ -879,6 +926,8 @@ titles:
     series: Témoignages
     authors:
       - Rose Alpert Jersawitz
+    translators:
+      - Jean-Louis Deiss
     year: 2016
     language: French
     sources:
@@ -916,6 +965,10 @@ titles:
     series: Classiques
     authors:
       - Vladimir Ilʹič Lenin
+    editors:
+      - Pierre Pascal
+    translators:
+      - Pierre Pascal
     year: 2017
     language: French
     sources:
@@ -966,6 +1019,8 @@ titles:
     series: Histoire
     authors:
       - Alfred Rosmer
+    editors:
+      - Marcel Martinet
     year: 2018
     language: French
     sources:
@@ -994,10 +1049,11 @@ titles:
     authors:
       - Jean-Jacques Marie
       - Georges Haupt
+      - Claudie Weill
+    translators:
       - Claude-Catherine Kiejman
       - Nadine Marie-Schwartzenberg
       - Catherine Reguin
-      - Claudie Weill
     year: 2018
     language: French
     sources:
@@ -1021,6 +1077,7 @@ titles:
     verified: true
   - title: L'État et la révolution
     subtitle: La doctrine du marxisme sur l'État et les tâches du prolétariat dans la révolution
+    original_title: Gosudarstvo i Revolûcia
     series: Classiques
     authors:
       - Vladimir Ilʹič Lenin
@@ -1053,9 +1110,12 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb466673510
     verified: true
   - title: Les compagnons de la charte
+    original_title: Comrades for the charter
     series: Romans
     authors:
       - Geoffrey Trease
+    translators:
+      - Aniouta Pitoëff
     year: 2019
     language: French
     sources:
@@ -1069,6 +1129,8 @@ titles:
     series: Classiques
     authors:
       - Hristian Georgievič Rakovskij
+    translators:
+      - Pierre Laffitte
     year: 2019
     language: French
     sources:
@@ -1081,6 +1143,10 @@ titles:
     series: Collection Témoignages
     authors:
       - Robert F. Williams
+    editors:
+      - Judith Carpenter
+    translators:
+      - Jean-Louis Deiss
     year: 2019
     language: French
     sources:
@@ -1092,10 +1158,15 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991110665819705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Des Noirs avec des flingues
+    original_title: Negroes with guns
   - title: Cours nouveau
     series: Classiques
     authors:
       - Lev Davydovič Trockij
+    editors:
+      - Léna Razina
+    translators:
+      - Pierre Laffitte
     year: 2020
     language: French
     sources:
@@ -1454,7 +1525,12 @@ titles:
   - title: Les cahiers de Verkhnéouralsk
     subtitle: Ecrits de militants trotskystes soviétiques
     series: Classiques
-    authors:
+    authors: []
+    editors:
+      - Pierre Laffitte
+      - Pierre Mattei
+      - Léna Razina
+    translators:
       - Pierre Lafitte
       - Pierre Mattei
       - Léna Razina
@@ -1512,9 +1588,13 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb47628236c
     verified: true
   - title: Souvenirs de ma vie
+    original_title: Aus meinem Leben
     series: Témoignages
     authors:
       - August Bebel
+    translators:
+      - Monique Tesseyre
+      - Dominique Petitjean
     year: 2022
     language: French
     sources:
@@ -1525,9 +1605,12 @@ titles:
     verified: true
   - title: Sur les piquets de grève
     subtitle: Les femmes dans la grande grève des mines d'Arizona en 1983
+    original_title: 'Holding the line : women in the great Arizona mine strike of 1983'
     series: Témoignages
     authors:
       - Barbara Kingsolver
+    translators:
+      - Martine Aubert
     year: 2022
     language: French
     sources:
@@ -1576,6 +1659,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991171874120705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: L' origine de la famille, de la propriété privée et de l'État
+    original_title: Der Ursprung der Familie, des Privateigentums und des Staates
     series: Collection Classiques
     authors:
       - Friedrich Engels
@@ -1606,9 +1690,12 @@ titles:
     verified: true
   - title: La route de la liberté
     subtitle: Roman
+    original_title: Freedom road
     series: Romans (Pantin)
     authors:
       - Howard Fast
+    translators:
+      - Laurent Demergeant
     year: 2024
     language: French
     sources:
@@ -1621,11 +1708,12 @@ titles:
     subtitle: Écrits de militants trotskystes soviétiques
     series: Classiques
     authors:
+      - Eric Aunoble
+    translators:
       - Pierre Lafitte
       - Pierre Mattei
       - Pierre Merlet
       - Léna Razina
-      - Eric Aunoble
     year: 2024
     language: French
     sources:
@@ -1666,15 +1754,20 @@ titles:
     verified: true
   - title: '"Et notre drapeau est rouge"'
     subtitle: Souvenirs de six décennies dans le mouvement ouvrier allemand
+    original_title: 'Und unsere Fahn'' ist rot : Erinnerungen an 60 Jahre in d. Arbeiterbewegung'
     series: Témoignages
     authors:
       - Oskar Hippe
+      - Anne Deffarges
+    editors:
+      - Monique Tesseyre
+      - Henri Marnier
+    translators:
       - Marie-Louise Roux
       - Didier Aviat
       - Johann Schöger
       - Monique Tesseyre
       - Henri Marnier
-      - Anne Deffarges
     year: 2025
     language: French
     sources:
@@ -1687,6 +1780,7 @@ titles:
     verified: true
   - title: À travers la révolution russe
     subtitle: '1921'
+    original_title: Through the Russian revolution
     series: Témoignages
     authors:
       - Albert Rhys Williams
@@ -1712,9 +1806,12 @@ titles:
         url: https://www.sudoc.fr/285877623
     verified: true
   - title: Les questions du mode de vie
+    original_title: Voprosy byta
     series: Classiques
     authors:
       - Lev Davydovič Trockij
+    translators:
+      - Pierre Laffitte
     year: 2025
     language: French
     sources:

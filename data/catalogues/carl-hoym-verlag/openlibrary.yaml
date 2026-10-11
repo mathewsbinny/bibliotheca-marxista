@@ -536,6 +536,7 @@ titles:
     verified: true
   - title: Das ABC des Kommunismus
     subtitle: Populäre Erläuterung des Programms der Kommunistischen Partei Rußlands (Bolschewiki)
+    original_title: Azbuka kommunizma
     series: Bibliothek der Kommunistischen Internationale; 13
     authors:
       - Nikolaj Ivanovič Bucharin
@@ -952,6 +953,7 @@ titles:
         url: https://archive.org/details/DieLehrenDesBrgerkrieges
   - title: Die neue Etappe
     subtitle: Die Weltlage und unsere Aufgaben
+    original_title: Novyj ėtap
     series: Bibliothek der Kommunistischen Internationale; 24
     authors:
       - Lev Davidovič Trockij
@@ -1027,6 +1029,7 @@ titles:
     authors:
       - Vladimir Ilʹič Lenin
       - Grigorij Evseevič Zinovʹev
+    translators:
       - Frida Rubiner
     year: 1921
     language: German
@@ -1847,8 +1850,10 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA22070386
     verified: false
   - title: Indien
+    original_title: India in transition
     authors:
       - Manabendra Nath Roy
+    translators:
       - Willi Schulz
     year: 1922
     language: German
@@ -1937,6 +1942,8 @@ titles:
     subtitle: Gemeinverständliches Lehrbuch der marxistischen Soziologie
     authors:
       - Nikolaj Ivanovič Bucharin
+    translators:
+      - F. Rubiner
     year: 1922
     language: German
     sources:
@@ -2044,8 +2051,11 @@ titles:
         url: https://www.sudoc.fr/149143680
     verified: true
   - title: Zehn Tage, die die Welt erschütterten
+    original_title: Ten days that shook the world
     authors:
       - John Reed
+    translators:
+      - William C. Schulz
     year: 1922
     language: German
     sources:
@@ -2260,8 +2270,10 @@ titles:
     verified: false
   - title: Die Rebellen
     subtitle: Erinnerungen aus der Revolutionszeit
+    original_title: V nedrach carskogo flota
     authors:
       - Pavel Efimovič Dybenko
+    translators:
       - Eduard Schiemann
     year: 1923
     language: German
@@ -2307,6 +2319,7 @@ titles:
     verified: true
   - title: Geschichte der Kommunistischen Partei Russlands (Bolschewiki)
     subtitle: Abriss in 6 Vorträgen
+    original_title: Istorija Rossijskoy Kommunistićeskoj Partii (bol'`śevikov)
     authors:
       - Grigory Yevseyevich Zinovyev
     year: 1923
@@ -3829,6 +3842,7 @@ titles:
     verified: true
   - title: Bolschewiki im zaristischen Russland
     subtitle: Aus Memoiren alter Bolschewiki
+    original_title: Bolʹševiki v carskoj Rossii
     authors:
       - Cecilija Samojlovna Bobrovskaja-Zelikson
     year: 1932
@@ -4029,6 +4043,7 @@ titles:
     verified: true
   - title: Karl Marx
     subtitle: Rede an seinem Grabe; Artikel und Briefe anlässlich seines Todes
+    original_title: Rede am Grabe von Karl Marx (gehalten in Highgate an 17 März 1883); erschienen im Züricher "Sozialdemokrat", Nr. 13, vom 22. März 1883
     authors:
       - Friedrich Engels
       - Institut Marksa-Ėngelʹsa-Lenina

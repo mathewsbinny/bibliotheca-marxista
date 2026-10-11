@@ -406,9 +406,14 @@ titles:
     verified: true
   - title: Adresse inaugurale de l'Association internationale des travailleurs
     subtitle: Suivie du préambule et des statuts de l'Association
+    original_title: Address and provisional rules of the International working men's association
     authors:
       - Karl Marx
       - Association internationale des travailleurs
+    editors:
+      - Amédée Dunois
+    translators:
+      - Charles Longuet
     year: 1921
     language: French
     sources:
@@ -632,6 +637,7 @@ titles:
     verified: false
   - title: Entre l'impérialisme et la révolution
     subtitle: Les questions fondamentales de la révolution à la lumière de l'expérience géorgienne
+    original_title: Meždu imperializmom i revoljuciej
     series: Bibliothèque communiste
     authors:
       - Lev Davidovič Trockij
@@ -709,6 +715,8 @@ titles:
   - title: Histoire socialiste de la Révolution française
     authors:
       - Jean Jaures
+    editors:
+      - Albert Mathiez
     year: 1922
     edition: Éd. rev. / par A. Mathiez
     language: French
@@ -803,10 +811,11 @@ titles:
     series: Bibliothèque communiste
     authors:
       - Evgenij Samojlovič Varga
-      - Alzir Hella
-      - Olivier Bournac
       - Voltaire Radi
       - Jacques Seebacher
+    translators:
+      - Alzir Hella
+      - Olivier Bournac
     year: 1922
     language: French
     sources:
@@ -924,6 +933,7 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Laura Lafargue
     year: 1922
     language: French
@@ -997,6 +1007,7 @@ titles:
     series: Bibliothèque communiste
     authors:
       - Lev Davidovič Trockij
+    translators:
       - Maurice Parijanine
     year: 1923
     language: French
@@ -1015,6 +1026,7 @@ titles:
         url: https://openlibrary.org/books/OL16728796M
     verified: true
   - title: ABC du communisme
+    original_title: Azbuka Kommunizma
     series: Bibliothèque communiste
     authors:
       - Nikolaj Ivanovič Buharin
@@ -1691,13 +1703,14 @@ titles:
     subtitle: 1916-1918
     authors:
       - Karl Liebknecht
-      - Francis Treat
-      - Paul Vaillant-Couturier
       - Franz Pfemfert
       - Ernst Drahn
       - Georges Cogniot
       - Voltaire Radi
       - Jacques Seebacher
+    translators:
+      - Francis Treat
+      - Paul Vaillant-Couturier
     year: 1924
     language: French
     sources:
@@ -1882,6 +1895,7 @@ titles:
         url: https://www.sudoc.fr/101808488
     verified: true
   - title: A. B. C. du communisme
+    original_title: Azbuka kommunizma
     series: Bibliotheque communiste
     authors:
       - Nikolaj Ivanovič Bucharin
@@ -2229,8 +2243,9 @@ titles:
     subtitle: (La Commune de Paris)
     authors:
       - Karl Marx
-      - Charles Longuet
       - Friedrich Engels
+    translators:
+      - Charles Longuet
     year: 1925
     language: French
     sources:
@@ -2783,6 +2798,7 @@ titles:
     series: Bibliothèque communiste
     authors:
       - Max Beer
+    translators:
       - Marcel Ollivier
     year: 1926
     language: French
@@ -2925,8 +2941,9 @@ titles:
     series: Bibliothèque communiste; [1926]
     authors:
       - Lev Davidovič Trockij
-      - Victor Serge
       - Voltaire Radi
+    translators:
+      - Victor Serge
     year: 1926
     language: French
     sources:

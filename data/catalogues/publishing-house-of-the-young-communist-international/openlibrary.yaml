@@ -267,6 +267,8 @@ titles:
     subtitle: With a Portrait and a Facsimile
     authors:
       - Rosa Luxemburg
+    translators:
+      - Cedar Paul
     year: 1921
     language: English
     pages: 82
@@ -546,6 +548,7 @@ titles:
     verified: true
   - title: Der rote Stern
     subtitle: Ein utopischer Roman
+    original_title: Krasnaja zvezda
     authors:
       - A. Bogdanov
     year: 1923
@@ -677,6 +680,8 @@ titles:
   - title: My Flight from Siberia
     authors:
       - Leon Trotsky
+    translators:
+      - Malcolm Campbell
     year: 1923
     series: International Youth Series
     language: English
@@ -730,6 +735,7 @@ titles:
     verified: true
   - title: Schwarze Leute
     subtitle: Erzählung aus dem Bergmannsleben
+    original_title: Černye ljudi
     series: Kleine Jugendbücherei; 1
     authors:
       - Aleksej Ivanovič Svirskij
@@ -1048,6 +1054,8 @@ titles:
   - title: Bibliothek des jungen Leninisten
     authors:
       - Kommunistische Jugendinternationale
+    editors:
+      - Kommunistischer Jugendverband Deutschlands
     year: 1925
     language: German
     sources:
@@ -1142,6 +1150,7 @@ titles:
     verified: true
   - title: Im Morgenrot der Revolution
     subtitle: Erinnerungen eines Revolutionärs aus dem Jahre 1905
+    original_title: Na zare revoljucii
     authors:
       - D. Sverchkov
     year: 1925
@@ -1429,6 +1438,7 @@ titles:
     subtitle: Das politische Grundwissen des jungen Kommunisten
   - title: Die Jagd nach dem Zaren
     subtitle: Nacht über Russland; aus den Lebenserinnerungen von Wera Figner
+    original_title: Zapečatlennyj Trud
     series: Roter Trommler; H. 1
     authors:
       - Vera Nikolaevna Figner
@@ -1451,6 +1461,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991062550589705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Die Pioniere sind da
+    original_title: Pionery prišli
     authors:
       - Ol'ga Markovna Guŕjan-Kalabuškina
       - M. Šervinskaja
@@ -1510,6 +1521,7 @@ titles:
     series: Das Tagebuch des Schülers Kostja Rjabzew / Nicolaj Ognev. Autoris. Übers. von Maria Einstein; Bd. 1
     authors:
       - Nikolaj Ognev
+    translators:
       - Maria Einstein
     year: 1928
     language: German
@@ -1519,6 +1531,7 @@ titles:
     verified: true
   - title: Das Tagebuch des Schülers Kostja Rjabzew
     subtitle: 'Aufzeichnungen eines Fünfzehnjährigen: Bilder aus dem Leben der Schule (II. Stufe) Unterrichtsjahr 1923/24'
+    original_title: Dnevnik Kosti Ryabceva
     authors:
       - Nikolai Ognjew
       - Maria Einstein
@@ -1580,11 +1593,13 @@ titles:
     verified: true
   - title: Die roten Helden
     subtitle: Eine Erzählung
+    original_title: Krasnyj desant
     series: Roter Trommler; Heft 8
     authors:
       - Dmitrij A. Furmanov
-      - Alexander Videns
       - Bruno Fuk
+    translators:
+      - Alexander Videns
     year: 1928
     language: German
     sources:
@@ -1602,10 +1617,12 @@ titles:
     verified: true
   - title: Hans ohne Brot
     subtitle: Eine Geschichte für alle Kinder
+    original_title: Jean sons pain
     authors:
       - Paul Vaillant-Couturier
-      - Anna Nussbaum
       - Maria Braun
+    translators:
+      - Anna Nussbaum
     year: 1928
     language: German
     sources:
@@ -1737,6 +1754,8 @@ titles:
   - title: Das Tagebuch des Schülers Kostja Rjabzew
     authors:
       - Nikolaj Ognev
+    translators:
+      - Maria Einstein
     year: 1929
     language: German
     sources:
@@ -1750,6 +1769,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=134622561
     verified: true
     subtitle: Aufzeichnungen eines Fünfzehnjährigen
+    original_title: Dnevnik Kosti Rjabceva
   - title: Das Weltprogramm der revolutionären Arbeiterjugend im Kampfe um die Diktatur des Proletariats
     authors:
       - Richard Schüller
@@ -1844,9 +1864,12 @@ titles:
     verified: true
   - title: Kostja Rjabzew auf der Universität
     subtitle: Das Tagbuch des Schülers
+    original_title: (Ischod Nikpetoža. Deutsch)
     series: Das Tagebuch des Schülers Kostja Rjabzew / Nikolai Ognjew [d.i. Michail Grigoŕevič Rozanov]. Autor. Übers. von Maria Einstein; 2
     authors:
       - Nikolaj Ognev
+    translators:
+      - Maria Einstein
     year: 1929
     language: German
     sources:
@@ -1949,9 +1972,12 @@ titles:
     verified: true
   - title: Schkid
     subtitle: Die Republik der Strolche
+    original_title: Respublika Schkid
     authors:
       - G. Bjelych
       - L. Panteleev
+    translators:
+      - Maria Einstein
     year: 1929
     language: German
     sources:
@@ -2039,8 +2065,10 @@ titles:
     verified: true
   - title: Das erste Mädel
     subtitle: Eine romantische Geschichte
+    original_title: Pervaja devuška
     authors:
       - Nikolaj Vladimirovič Bogdanov
+    translators:
       - Alfred Kurella
     year: 1930
     language: German
@@ -2110,9 +2138,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991080961969705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Die Uhr
+    original_title: Tschassy
     authors:
       - L. Panteleev
       - Bruno Fuk
+    translators:
       - Maria Einstein
     year: 1930
     language: German
@@ -2136,6 +2166,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=316168068
     verified: true
   - title: Fabrik im Walde
+    original_title: Lesozavod
     authors:
       - Anna Karavaeva
       - Alexandra Pfemfert
@@ -2258,8 +2289,9 @@ titles:
   - title: Die Rache des Kabunauri
     authors:
       - Helena Bobińska
-      - Wanda Koch
       - Ernst Jadzdewski
+    translators:
+      - Wanda Koch
     year: 1931
     language: German
     sources:
@@ -2485,6 +2517,7 @@ titles:
     verified: true
   - title: Produktiv arbeiten, kulturell Leben
     subtitle: 'Rede des Vorsitzenden des Russischen Komsomol: gehalten auf der VII. Unionskonferenz des Leninistischen Kommunistischen Jugendverbandes der Sowjetunion, Moskau, Juli 1932'
+    original_title: Proizvoditelʹno rabotatʹ, kulʹturno žitʹ
     authors:
       - Aleksandr V. Kosarev
     year: 1932

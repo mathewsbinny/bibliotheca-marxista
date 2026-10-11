@@ -136,6 +136,7 @@ titles:
     verified: true
   - title: Handfeuerwaffen
     subtitle: Systematischer Überblick über die Handfeuerwaffen und ihre Geschichte
+    original_title: Ruční palné zbraně
     authors:
       - Jaroslav Lugs
     year: 1956
@@ -455,6 +456,7 @@ titles:
   - title: Traktat über die Kriegskunst
     authors:
       - Sʹun-tse
+    translators:
       - Ina Balcetowiak
     year: 1957
     language: German
@@ -672,6 +674,8 @@ titles:
   - title: Gefechtshandlungen der Schützeneinheiten
     subtitle: Eine Sammlung taktischer Beispiele aus dem Grossen Vaterländischen Krieg
     authors: []
+    editors:
+      - K. V. Sychev
     year: 1958
     language: German
     pages: 225
@@ -730,8 +734,10 @@ titles:
         url: https://lccn.loc.gov/60019099
     verified: true
   - title: Rote Reiter voran
+    original_title: Projdennyj put'
     authors:
       - Semën Michajlovič Budënnyj
+    translators:
       - Traute Stein
     year: 1958
     language: German
@@ -1584,6 +1590,8 @@ titles:
   - title: Aufklärung durch Beobachtung
     authors:
       - F. P. Korolev
+    translators:
+      - Major Bruno Stomber
     year: 1961
     language: German
     pages: 138
@@ -1600,6 +1608,8 @@ titles:
   - title: Aus ganzem Herzen
     authors:
       - Berta Lask
+    editors:
+      - Mira Lask
     year: 1961
     series: Kämpfende Kunst
     language: German
@@ -1633,11 +1643,13 @@ titles:
         url: https://search.worldcat.org/title/17187542
     verified: true
   - title: Cq ... cq, wie arbeitet eine Funkstation?
+    original_title: Kak rabotaet radiostancija
     authors:
       - Aleksej Dmitrievič Knjazev
-      - Friedrich Baschke
       - Werner Winkler
       - Günter Adler
+    translators:
+      - Friedrich Baschke
     year: 1961
     language: German
     sources:
@@ -1698,6 +1710,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=214416119
     verified: true
   - title: Das Herz des Freundes
+    original_title: Serdce druga
     series: Das Taschenbuch; 13
     authors:
       - Ėmmanuil G. Kazakevič
@@ -1732,6 +1745,7 @@ titles:
     verified: true
   - title: Der Fluch von Maralinga
     subtitle: Erzählungen
+    original_title: The curse of Maralinga
     authors:
       - Walter Kaufmann
       - Theo Pinkus
@@ -1765,6 +1779,8 @@ titles:
     subtitle: Völkerrechtliche Dokumente über die Verhinderung von Aggressionsakten, die Regeln der Kriegführung und die Bestrafung von Kriegsverbrechern
     authors:
       - Herbert Standke
+    editors:
+      - Lothar Krumbiegel
     year: 1961
     language: German
     pages: 538
@@ -1786,6 +1802,8 @@ titles:
     verified: true
   - title: Der Krieg im Völkerrecht, völkerrechtliche Dokumente über die Verhinderung von Agressionsakten, die Regeln der Kriegführung und die Bestrafung von Kriegsverbrechern. Zusammengestellt und bearbeitet von Herbert Standke unter Mitarbeit von Lothar Krumbiegel
     authors: []
+    editors:
+      - Herbert Standke
     year: 1961
     language: German
     sources:
@@ -1913,8 +1931,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1606361716
     verified: true
   - title: Die Entwicklung der Taktik der Sowjetarmee im grossen vaterländischen Krieg
+    original_title: Razvitie taktiki sovetskoj armii v gody Velikoj Otečestvennoj vojny 1941-1945
     authors:
       - Voennaia akademiia imeni M. V. Frunze
+    editors:
+      - K. S. Kolganov
     year: 1961
     language: German
     pages: 413
@@ -1935,6 +1956,7 @@ titles:
         url: https://www.sudoc.fr/092152244
     verified: true
   - title: Die Entwicklung der Taktik der Sowjetarmee im Großen Vaterländischen Krieg
+    original_title: Razvitie taktiki sovetskoj armii v gody Velikoj Otečestvennoj vojny 1941-1945
     authors:
       - Voennaja Akademija Imeni M. V. Frunze
       - Joachim Pfeifer
@@ -2036,8 +2058,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb33089972z
     verified: true
   - title: Die kriegsökonomischen Theorien des westdeutschen Militarismus
+    original_title: Idejnye oruženoscy voennopromyšlennych monopolij FRG
     authors:
       - Aleksandr A. Gurov
+    translators:
       - Günther Liebscher
     year: 1961
     language: German
@@ -2125,6 +2149,7 @@ titles:
   - title: Die schwarze Flagge
     authors:
       - Janusz Meissner
+    translators:
       - Rudolf Pabel
     year: 1961
     language: German
@@ -2187,9 +2212,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=307165027
     verified: true
   - title: Dollars und Abrüstung
+    original_title: Dollars and sense of disarmament
     authors:
       - Karl Marzani
       - Victor Perlo
+    translators:
       - Georg Friedrich Alexan
     year: 1961
     language: German
@@ -2230,11 +2257,13 @@ titles:
         url: https://www.sudoc.fr/117979929
     verified: true
   - title: Flugmeteorologie
+    original_title: Letčiku o meteorologii
     authors:
       - Ivan V. Kravčenko
-      - Dieter Rauch
       - Rudolf Merta
       - Heinz Schweig
+    translators:
+      - Dieter Rauch
     year: 1961
     language: German
     sources:
@@ -2302,6 +2331,8 @@ titles:
       - Bernhard Watzdorf
       - Albrecht Charisius
       - Alfred Voerster
+    editors:
+      - Deutsches Institut für Militärgeschichte
     year: 1961
     language: German
     sources:
@@ -2313,8 +2344,9 @@ titles:
   - title: Grundlagen der Thermodynamik und Gasdynamik
     series: 'Theorie der Flugzeugtriebwerke / Übersetzt von Klaus Sperling. Deutsche Bearbeitung: Herbert Bellanger; Band 1'
     authors:
-      - Klaus Sperling
       - Herbert Bellanger
+    translators:
+      - Klaus Sperling
     year: 1961
     language: German
     sources:
@@ -2353,6 +2385,7 @@ titles:
   - title: Himmelswege
     authors:
       - Janusz Meissner
+    translators:
       - Kurt Kelm
     year: 1961
     language: German
@@ -2482,6 +2515,7 @@ titles:
     subtitle: Artikelsammlung
     authors:
       - Claus Gruszka
+    translators:
       - Erika Steuk
     year: 1961
     language: German
@@ -2573,6 +2607,9 @@ titles:
     authors:
       - Moisej Borisovič Nejman
       - Konstantin Michajlovič Sadilenko
+    editors:
+      - A. Langhans
+      - K. Langhans
     year: 1961
     language: German
     sources:
@@ -2584,7 +2621,9 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=01906828X
     verified: true
     subtitle: Mit 90 Bildern und 11 Tabellen
+    original_title: Termojadernoe oružie
   - title: Mensch und Technik im modernen Krieg
+    original_title: Čelovek i technika v sovremennoj vojne
     series: Schriftenreihe zur Diskussion über militärwissenschaftliche Fragen; H. 25
     authors:
       - Vjačeslav K. Abramov
@@ -2618,8 +2657,11 @@ titles:
     verified: true
   - title: Militärpsychologie
     subtitle: Psychologische und pädagogische Fragen bei der militärischen Bildung und Erziehung
+    original_title: Psichologija
     authors:
       - Grigorij D. Lukov
+    translators:
+      - Günter Fischer
     year: 1961
     language: German
     sources:
@@ -2706,6 +2748,8 @@ titles:
     authors:
       - G. D. Krysenko
       - P. T. Astašenkov
+    editors:
+      - Harald Kießlich-Köcher
     year: 1961
     language: German
     sources:
@@ -2715,6 +2759,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=020987080
     verified: true
   - title: Reportage unter dem Strang geschrieben
+    original_title: Reportáž psaná na oprátce
     authors:
       - Julius Fučík
     year: 1961
@@ -2724,8 +2769,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991131401559705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Rote Reiter voran
+    original_title: Projdennyj put
     authors:
       - Semën Michajlovič Budënnyj
+    translators:
       - Traute Stein
       - Günther Stein
     year: 1961
@@ -2782,6 +2829,7 @@ titles:
       - label: Read or download (HathiTrust)
         url: https://catalog.hathitrust.org/Record/011224225
   - title: Tage der Bewährung
+    original_title: Na zapadnom napravlenii
     authors:
       - Andrej Ivanovič Eremenko
     year: 1961
@@ -2793,6 +2841,7 @@ titles:
   - title: Tage der Bewährung. Ins Deutsche übertr
     authors:
       - Andrej Iwanowitsch Jeremenko
+    translators:
       - Erwin Engelbrecht
     year: 1961
     language: German
@@ -2801,7 +2850,9 @@ titles:
         url: https://www.sudoc.fr/225945649
     verified: true
   - title: Theorie der Flugzeugtriebwerke
-    authors:
+    original_title: Teorija aviacionnych dvigatelej
+    authors: []
+    translators:
       - Klaus Sperling
     year: 1961
     language: German
@@ -2884,6 +2935,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991077155129705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Ueber sowjetische Militärwissenschaft
+    original_title: O sovetskoj voennoj nauke
     authors:
       - Michail Vasilʹevič Smirnov
       - I. S. Bas
@@ -3096,10 +3148,12 @@ titles:
         url: https://catalog.hathitrust.org/Record/000594907
     verified: true
   - title: Aufbau und Nutzung von Artilleriewaffen
+    original_title: Osnovy ustrojstva i ėkspluatacii materialʹnoj časti artillerii
     authors:
       - J. T. Jurin
-      - Alfred Rippa
       - Erich Böhm
+    translators:
+      - Alfred Rippa
     year: 1962
     language: German
     sources:
@@ -3146,6 +3200,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=464535069
     verified: true
   - title: Bergen von Kraftfahrzeugen
+    original_title: Vyprosttovani automobilu
     authors:
       - Vladislav Zumr
       - Lotar Cibis
@@ -3198,6 +3253,7 @@ titles:
   - title: Das grüne Tor
     authors:
       - Janusz Meissner
+    translators:
       - Rudolf Pabel
     year: 1962
     language: German
@@ -3241,6 +3297,7 @@ titles:
   - title: Das OKW gibt nichts mehr bekann
     authors:
       - Klaus Poche
+    translators:
       - Hans Oliva
     year: 1962
     language: German
@@ -3258,6 +3315,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=300672268
     verified: true
   - title: Der Partisanenkrieg
+    original_title: La guerra de guerrillas
     authors:
       - Che Guevara
     year: 1962
@@ -3271,8 +3329,10 @@ titles:
         url: https://archive.org/details/der-partisanenkrieg
   - title: Der Tote von Volmerange
     subtitle: Roman
+    original_title: Le commandant Watrin
     authors:
       - Armand Lanoux
+    translators:
       - Ruth Gerull-Kardas
     year: 1962
     language: German
@@ -3337,6 +3397,7 @@ titles:
     series: Das Taschenbuch; 27
     authors:
       - Andrzej Piwowarczyk
+    translators:
       - Ruth Matz
     year: 1962
     language: German
@@ -3349,8 +3410,11 @@ titles:
         url: https://search.worldcat.org/title/903366645
     verified: true
   - title: Die Koreanische Volksarmee
+    original_title: Koreĭskai︠a︡ Narodnai︠a︡ armii︠a︡
     authors:
       - Viktor Antonovich Matsulenko
+    translators:
+      - Fred Herms
     year: 1962
     series: Waffenbrüder
     language: German
@@ -3372,6 +3436,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/008746562
     verified: true
   - title: Die letzten Salven
+    original_title: Poslednie zalpy
     series: Das Taschenbuch; 24
     authors:
       - Jurij Bondarev
@@ -3402,6 +3467,8 @@ titles:
   - title: Die polnische Volksarmee
     authors:
       - Juri Olbrich
+    translators:
+      - Charlotte Eckert
     year: 1962
     language: German
     pages: 95
@@ -3418,8 +3485,10 @@ titles:
         url: https://search.worldcat.org/title/909137899
     verified: true
   - title: Die roten Kreuze
+    original_title: Czerwone krzyże
     authors:
       - Janusz Meissner
+    translators:
       - Rudolf Pabel
     year: 1962
     language: German
@@ -3437,6 +3506,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991056705159705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Die Tscheka greift ein
+    original_title: Sotrudnik ČK
     authors:
       - Aleksandr Aleksandrovič Lukin
       - Dmitrij Ioganovič Poljanovskij
@@ -3588,9 +3658,11 @@ titles:
     verified: true
   - title: Frontberichterstatter im Westen
     subtitle: Die Wahrheit über die zweite Front in Westeuropa
+    original_title: Pravda o vtorom fronte
     series: Erinnerungen aus dem Zweiten Weltkrieg und dem antifaschistischen Widerstandskampf
     authors:
       - Daniil F. Kraminov
+    translators:
       - Arno Specht
     year: 1962
     language: German
@@ -3616,6 +3688,8 @@ titles:
   - title: Geschichte des Grossen Vaterländischen Krieges der Sowjetunion
     authors:
       - Institut marksizma-leninizma (Moscow, R.S.F.S.R.)
+    editors:
+      - Hans Gossens
     year: 1962
     language: German
     sources:
@@ -3635,7 +3709,9 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1070924377
     verified: true
     subtitle: In 6 Bänden
+    original_title: Istorija Velikoj Otečestvennoj Vojny Sovetskogo Sozuja 1941-1945
   - title: Geschichte des grossen vaterländischen Krieges der Sowjetunion... ... Red... P. N. Pospelov,... E. A. Boltin, V. P. Moskovskij,... W. A. Andrejew... etc. Deutsche Ausgabe... hrsg... Hans Gossens,... Walter Bartel, Ernst Engelberg, Konrad Fischer... etc
+    original_title: Istorija velikoj otečestvennoj vojny sovetskogo sojuza, 1941-1945
     authors:
       - P. N. Pospelov
       - E. A. Boltin
@@ -3688,11 +3764,13 @@ titles:
     verified: true
   - title: Handfeuerwaffen
     subtitle: Systematischer Überblick über die Handfeuerwaffen und ihre Geschichte
+    original_title: Rucni palné zkraně
     authors:
       - Jaroslav Lugs
-      - Rudolf Winkler
       - Heinrich Müller
       - Gerhard Thiele
+    translators:
+      - Rudolf Winkler
     year: 1962
     language: German
     sources:
@@ -3738,9 +3816,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991131911939705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: In schwerer Zeit
+    original_title: V tjažkuju poru
     series: Erinnerungen aus dem Zweiten Weltkrieg und dem antifaschistischen Widerstandskampf
     authors:
       - Nikolaj K. Popel'
+    translators:
       - G. Kaiser
     year: 1962
     language: German
@@ -3813,8 +3893,10 @@ titles:
     verified: true
   - title: Kotschubej
     subtitle: Der kühne Kommandeur der Kubankosaken
+    original_title: Kočubej
     authors:
       - Arkadij A. Pervencev
+    translators:
       - Ilse Berger
     year: 1962
     language: German
@@ -3929,8 +4011,10 @@ titles:
     verified: true
   - title: Normandie-Njemen
     subtitle: Roman
+    original_title: Normandie, Niemen
     authors:
       - Martine Monod
+    translators:
       - Christine Hoeppener
     year: 1962
     language: German
@@ -3962,6 +4046,7 @@ titles:
         url: https://www.sudoc.fr/129998257
     verified: true
   - title: Panzer im Gefecht
+    original_title: Tanki v boju
     authors:
       - N. Korolkow
     year: 1962
@@ -3995,8 +4080,11 @@ titles:
         url: https://search.worldcat.org/title/831136379
     verified: true
   - title: Partisanen am Monte battaglia
+    original_title: quelli Che non si Arresero; Ins Deutsche übertragen von Egon Wiszniewsky
     authors:
       - Luciano Bergonzini
+    translators:
+      - Egon Wiszniewsky
     year: 1962
     language: German
     sources:
@@ -4054,9 +4142,11 @@ titles:
     verified: true
   - title: Schiffe der Zukunft
     subtitle: Betrachtungen über die Verwendung von Kernhaftanlagen auf Schiffen
+    original_title: Korabli buduščego
     authors:
       - Viktor I. Korotkov
       - Anatolij M. Černyš
+    translators:
       - Erika Steuk
     year: 1962
     language: German
@@ -4113,8 +4203,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1422755452
     verified: true
   - title: Spione
+    original_title: Voenaja tajna
     authors:
       - Lev Romanovič Šejnin
+    translators:
       - Viktor Gronfain
     year: 1962
     language: German
@@ -4138,8 +4230,10 @@ titles:
         url: https://search.worldcat.org/title/36504045
     verified: true
   - title: Tage der Niederlage
+    original_title: Dni klęski
     authors:
       - Wojciech Żukrowski
+    translators:
       - Ruth Matz
     year: 1962
     language: German
@@ -4163,6 +4257,7 @@ titles:
         url: https://search.worldcat.org/title/8796332
     verified: true
   - title: Tarnung
+    original_title: Maskování
     authors:
       - Lubomir Halas
       - Lubomír Halas
@@ -4203,8 +4298,9 @@ titles:
   - title: Theorie der Strahltriebwerke
     series: 'Theorie der Flugzeugtriebwerke / Übersetzt von Klaus Sperling. Deutsche Bearbeitung: Herbert Bellanger; Band 2'
     authors:
-      - Klaus Sperling
       - Herbert Bellanger
+    translators:
+      - Klaus Sperling
     year: 1962
     language: German
     sources:
@@ -4252,10 +4348,13 @@ titles:
     verified: true
   - title: Vom jenseitigen Ufer
     subtitle: Lebensroman über Aurél Stromfeld
+    original_title: A tulsó partról
     authors:
       - Péter Földes
-      - Tilda Alpári
       - Paul Alpári
+    translators:
+      - Tilda Alpári
+      - Pál Alpári
     year: 1962
     language: German
     sources:
@@ -4265,6 +4364,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=270460179
     verified: true
   - title: Vor dem polnischen Staatsanwalt
+    original_title: Przed polskim prokuratoren
     authors:
       - Jerzy Sawicki
     year: 1962
@@ -4405,6 +4505,7 @@ titles:
         url: https://search.worldcat.org/title/217385646
     verified: true
   - title: Das blaue Paket
+    original_title: Goluboj paket
     authors:
       - Georgi Brjanzew
       - Rahel Strassberg
@@ -4417,6 +4518,7 @@ titles:
   - title: Das grüne Tor
     authors:
       - Janusz Meissner
+    translators:
       - Rudolf Pabel
     year: 1963
     language: German
@@ -4449,6 +4551,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/006066069
     verified: true
   - title: Der Flieger Tschkalow
+    original_title: Letčik Valerij Čkalov
     series: Das Taschenbuch; 39
     authors:
       - Michail V. Vodopʹjanov
@@ -4664,8 +4767,11 @@ titles:
         url: https://www.sudoc.fr/093031459
     verified: true
   - title: Die rote Schlacht
+    original_title: Spanskij dnevnik
     authors:
       - Michail Kolʹcov
+    translators:
+      - Rahel Strassberg
     year: 1963
     language: German
     sources:
@@ -4679,6 +4785,7 @@ titles:
   - title: Die schwarze Flagge
     authors:
       - Janusz Meissner
+    translators:
       - Rudolf Pabel
     year: 1963
     language: German
@@ -4737,6 +4844,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1603463593
     verified: true
   - title: Festungen, die nicht kapitulieren
+    original_title: Kogda kreposti ne sdajutsja
     authors:
       - Sergej N. Golubov
       - Gottfried J. Wojtek
@@ -4751,6 +4859,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=609151878
     verified: true
   - title: Fla-Raketen
+    original_title: Zenitnye upravljaemye rakety
     series: Armee und Technik
     authors:
       - Svjatoslav Aleksandrovič Peresada
@@ -4871,6 +4980,8 @@ titles:
   - title: Ich fand das wahre Vaterland
     authors:
       - Vincenz Müller
+    editors:
+      - Klaus Mammach
     year: 1963
     language: German
     pages: 492
@@ -4985,9 +5096,10 @@ titles:
     verified: true
   - title: Krieg, Armee, Militärwissenschaft
     authors:
-      - Peter Bollhagen
       - Georgij A. Fedorov
       - B. A. Bely
+    translators:
+      - Peter Bollhagen
     year: 1963
     language: German
     sources:
@@ -5050,8 +5162,9 @@ titles:
   - title: Luftabwehr der Schiffe
     authors:
       - Konstantin V. Morozov
-      - Hans Koch
       - Heinz Schweig
+    translators:
+      - Hans Koch
     year: 1963
     language: German
     sources:
@@ -5097,6 +5210,7 @@ titles:
         url: https://lccn.loc.gov/87874233
     verified: true
   - title: Man stirbt nur einmal
+    original_title: Semi smertjam ne byvatʹ
     series: Das Taschenbuch; 46
     authors:
       - Andrej Kutschkin
@@ -5109,6 +5223,7 @@ titles:
     verified: true
   - title: Manövrierfähigkeit
     subtitle: Grundbedingung des Erfolges im modernen Krieg
+    original_title: Manévrovost
     authors:
       - Ludvík Varvar̆ovský
     year: 1963
@@ -5153,6 +5268,7 @@ titles:
     verified: true
   - title: Militärpädagogik
     subtitle: Aus Theorie und Praxis der militärischen Erziehung und Bildung
+    original_title: Pedagogika
     authors:
       - Aleksej Grigorʹevič Bazanov
     year: 1963
@@ -5195,6 +5311,7 @@ titles:
         url: https://search.worldcat.org/title/36311028
     verified: true
   - title: Parametron
+    original_title: Parametron
     series: Armee und Technik
     authors:
       - Aleksandr I. Višneveckij
@@ -5231,6 +5348,7 @@ titles:
         url: https://lccn.loc.gov/65056116
     verified: true
   - title: Quartier ohne Nummer
+    original_title: Dzivoklis bez numura
     authors:
       - Gunārs Cīrulis
       - Anatols Imermanis
@@ -5285,6 +5403,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=022224475
     verified: true
   - title: Schiessen aus dem Panzer
+    original_title: Strel'ba iz tanka
     authors:
       - L. M. Gussew
       - N. N. Schramow
@@ -5295,6 +5414,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991016614359705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Schießen vom SPW
+    original_title: Strelʹba s bronetransportera
     authors:
       - S. S. Savčenko
       - Aleksej Fedorovič Grečichin
@@ -5518,8 +5638,11 @@ titles:
         url: https://search.worldcat.org/title/14521538
     verified: true
   - title: Das Schiessen der Artillerie; Lehrbuch
+    original_title: Strelb́anazemnoĭ artillereii
     authors:
       - Soviet Union. Sovetskaia Armiia. Upravlenie komanduiushchego artillerieĭ
+    editors:
+      - Martin Auge
     year: 1964
     language: German
     sources:
@@ -5673,8 +5796,10 @@ titles:
     verified: true
   - title: Eine einfache Geschichte
     subtitle: Roman
+    original_title: Prostaja istorija
     authors:
       - Vera A. Ustinova
+    translators:
       - Heinz Kübart
     year: 1964
     language: German
@@ -5697,6 +5822,8 @@ titles:
   - title: Feuerschein in den Beskiden
     authors:
       - Jan Gerhard
+    translators:
+      - Ruth Matz
     year: 1964
     language: German
     sources:
@@ -5708,8 +5835,10 @@ titles:
         url: https://search.worldcat.org/title/823654090
     verified: true
   - title: Feuerschein in den Biskiden
+    original_title: Łuny e Bieszczadach
     authors:
       - Jan Gerhard
+    translators:
       - Ruth Matz
     year: 1964
     language: German
@@ -5884,6 +6013,8 @@ titles:
     subtitle: Studientexte zu militärpädagogischen und- psychologischen Problemen. Für die militärpädagogische Aus- und Weiterbildung der Offiziere und Unteroffiziere der Nationalen Volksarmee
     authors:
       - Klaus Dieter Uckel
+    editors:
+      - Klaus-Dieter Uckel
     year: 1964
     language: German
     pages: 299
@@ -5984,6 +6115,7 @@ titles:
     subtitle: '1943'
   - title: Passive Funkmesstechnik
     subtitle: Neue Methoden der Zielortung
+    original_title: Passivnaja radiolokacija
     authors:
       - E. A. Malyschkin
     year: 1964
@@ -6096,6 +6228,7 @@ titles:
     verified: true
   - title: Tage der Entscheidung
     subtitle: Als Frontoberbefehlshaber in der Schlacht an der Wolga
+    original_title: Stalingrad
     authors:
       - Andrej Ivanovič Eremenko
     year: 1964
@@ -6224,6 +6357,8 @@ titles:
     series: Erzählerreihe; Heft 107
     authors:
       - Mirosław Żuławski
+    translators:
+      - Gottfried Schiller
     year: 1965
     language: German
     sources:
@@ -6250,6 +6385,7 @@ titles:
     verified: true
   - title: Analyse synthetischer Gifte
     subtitle: Theorie und Praxis der Kampfstoffanalyse
+    original_title: Analýza bojových otravných látek (Praha 1961)
     authors:
       - Jiří Matoušek
     year: 1965
@@ -6292,6 +6428,8 @@ titles:
   - title: Beiderseits der Grenze
     subtitle: Über den gemeinsamen antifaschistischen Widerstandskampf von Deutschen, Tschechen und Slowaken, 1939 bis 1945
     authors: []
+    editors:
+      - Horst Köpstein
     year: 1965
     language: German
     pages: 318
@@ -6390,6 +6528,7 @@ titles:
   - title: Das grüne Tor
     authors:
       - Janusz Meissner
+    translators:
       - Rudolf Pabel
     year: 1965
     language: German
@@ -6453,6 +6592,7 @@ titles:
   - title: Der Prager Aufstand 1945
     authors:
       - Karel Bartošek
+    translators:
       - Erwin Thiemann
     year: 1965
     language: German
@@ -6636,6 +6776,8 @@ titles:
   - title: Impulsschaltungen in funktechnischen Kreisen
     authors:
       - Vladimir Vasilʹevich Nelepets
+    editors:
+      - V. Schubert
     year: 1965
     language: German
     pages: 226
@@ -6649,6 +6791,7 @@ titles:
     verified: true
   - title: Krieg im Äther
     subtitle: Mittel und Methoden der Funk- und Funkmessgegenwirkung
+    original_title: Radiovojna
     authors:
       - A. I. Palij
       - G. Rossberg
@@ -6710,6 +6853,7 @@ titles:
     verified: true
   - title: Militärpädagogik
     subtitle: Aus Theorie und Praxis der militärischen Erziehung und Bildung
+    original_title: Pedagogika
     authors:
       - Aleksej Grigorʹevič Bazanov
     year: 1965
@@ -6933,6 +7077,7 @@ titles:
   - title: Das Rätsel Cicero
     authors:
       - Gustaw Jarl
+    translators:
       - Kurt Kelm
     year: 1966
     language: German
@@ -7075,6 +7220,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991134564299705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Die Ausbildung von Aufklärern
+    original_title: Podgotvka soldatarazvedčika
     authors:
       - Vasiliĭ Stepanovich Bakalenko
     year: 1966
@@ -7136,11 +7282,13 @@ titles:
         url: https://search.worldcat.org/title/236299314
     verified: true
   - title: Die rote Rakete
+    original_title: Krasnaja raketa
     series: Kleine Erzählerreihe; Heft 74
     authors:
       - Georgij S. Berezko
-      - Nikolai Nikschitsch
       - Hans Räde
+    translators:
+      - Nikolai Nikschitsch
     year: 1966
     language: German
     sources:
@@ -7264,6 +7412,8 @@ titles:
     subtitle: Der Kampf deutscher Kommunisten und anderer Antifaschisten im national-revolutionären Krieg des spanischen Volkes 1936-1939. Protokoll einer wissenschaftlichen Konferenz an der Militärakademie "Friedrich Engels," 20/21. Januar 1966
     authors:
       - Dresden (Germany). Kriegsakademie "Friedrich Engels. ."
+    editors:
+      - Horst Kühne
     year: 1966
     language: German
     pages: 567
@@ -7284,9 +7434,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb331007853
     verified: true
   - title: Junge Asse
+    original_title: Młode asy
     series: Kleine Erzählerreihe; Heft 66
     authors:
       - Janusz Meissner
+    translators:
       - Kurt Kelm
     year: 1966
     language: German
@@ -7296,9 +7448,11 @@ titles:
     verified: true
   - title: Kamikaze
     subtitle: Ein Todesflieger führte Tagebuch
+    original_title: Kamikaze - boski wiatr
     series: Sonderausgabe für die kleine Hausbibliothek
     authors:
       - Bohdan Arct
+    translators:
       - Kurt Kelm
     year: 1966
     language: German
@@ -7348,6 +7502,8 @@ titles:
   - title: Militärstrategie
     authors:
       - W. D. Sokolowski
+    editors:
+      - Wassilij Danilovich Sokolowski
     year: 1966
     language: German
     sources:
@@ -7390,6 +7546,7 @@ titles:
     verified: true
   - title: Operationsforschung
     subtitle: Eine Einführung für Kommandeure und Stäbe
+    original_title: Vvedenie v issledovanie operacij
     authors:
       - E. S. Ventcel'
     year: 1966
@@ -7471,8 +7628,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/009935667
     verified: true
   - title: Raketen und Schneeglöckchen
+    original_title: Rakety i podsnežniki
     authors:
       - Nikolaj Gorbačev
+    translators:
+      - Heinz Kübart
     year: 1966
     language: German
     sources:
@@ -7755,8 +7915,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=218535643
     verified: true
   - title: Das grüne Tor
+    original_title: Zielona brama
     authors:
       - Janusz Meissner
+    translators:
       - Rudolf Pabel
     year: 1967
     language: German
@@ -7800,6 +7962,7 @@ titles:
   - title: Der Mann mit dem Skalpell
     authors:
       - Józef Stompor
+    translators:
       - Kurt Kelm
     year: 1967
     language: German
@@ -7813,8 +7976,9 @@ titles:
     series: Erzählerreihe; Heft 129
     authors:
       - Andrzej Piwowarczyk
-      - Barbara Antkowiak
       - Karl Fischer
+    translators:
+      - Barbara Antkowiak
     year: 1967
     language: German
     sources:
@@ -7892,6 +8056,8 @@ titles:
     subtitle: Über die Ursachen der verschärften Agressivität des USA-Imperialismus in der Gegenwart
     authors:
       - Deutsche Akademie für Staats- und Rechtswissenschaft "Walter Ulbricht." Institut für Internationale Beziehungen
+    editors:
+      - Klaus Bollinger
     year: 1967
     language: German
     pages: 430
@@ -7933,6 +8099,7 @@ titles:
         url: https://lccn.loc.gov/68081186
     verified: true
   - title: Die roten Kreuze
+    original_title: Czerwone krzyże
     authors:
       - Janusz Meissner
       - Rudolf Pabel
@@ -7943,6 +8110,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991114557649705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Die schwarze Flagge
+    original_title: Czarna bandera
     authors:
       - Janusz Meissner
       - Rudolf Pabel
@@ -8007,6 +8175,7 @@ titles:
   - title: Feuerschein in den Beskiden
     authors:
       - Jan Gerhard
+    translators:
       - Ruth Matz
     year: 1967
     language: German
@@ -8083,11 +8252,13 @@ titles:
         url: https://lccn.loc.gov/75404946
     verified: true
   - title: Hafen ohne Schiffe
+    original_title: Casto García Roza
     series: Meridian; 6
     authors:
       - Jesús Izcaray
-      - Eva Klemperer
       - Karl-Georg Hirsch
+    translators:
+      - Eva Klemperer
     year: 1967
     language: German
     sources:
@@ -8477,6 +8648,7 @@ titles:
     verified: true
     pages: 415
   - title: Sportschiessen mit dem Gewehr
+    original_title: Sportivnaja strel'ba
     authors:
       - Aleksandr A. Jurʹev
       - Herbert Golla
@@ -8490,6 +8662,9 @@ titles:
     subtitle: Eine Dokumentation über die Verbrechen der SS
     authors:
       - Komitee der Antifaschistischen Widerstandskämpfer der Deutschen Demokratischen Republik
+    editors:
+      - Heinz Schumann
+      - Heinz Kühnrich
     year: 1967
     edition: 8., verb. Aufl
     language: German
@@ -8572,6 +8747,7 @@ titles:
         url: https://openlibrary.org/books/OL19079257M
     verified: true
   - title: Von Busuluk bis Prag
+    original_title: Z Buzuluku do Prahy
     authors:
       - Ludvik Svoboda
     year: 1967
@@ -8587,13 +8763,15 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991103293579705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Alarm auf der Strecke
+    original_title: Trenul de seara
     series: Erzählerreihe; Heft 133
     authors:
       - Aurel Mihale
       - Boris Polevoj
-      - J. K. Dollinger
       - Ursula Wiebach
       - Karl Fischer
+    translators:
+      - J. K. Dollinger
     year: 1968
     language: German
     sources:
@@ -8603,6 +8781,8 @@ titles:
   - title: Anfang des Weges
     authors:
       - V. I. Chuĭkov
+    translators:
+      - Arno Specht
     year: 1968
     edition: 3. Aufl.]
     language: German
@@ -9044,8 +9224,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991101545029705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: In schwerer Zeit
+    original_title: V tjazkuju poru
     authors:
       - Nikolaj K. Popel'
+    translators:
       - G. Kaiser
     year: 1968
     language: German
@@ -9099,6 +9281,7 @@ titles:
     subtitle: Ein Todesflieger führte Tagebuch
     authors:
       - Bohdan Arct
+    translators:
       - Kurt Kelm
     year: 1968
     language: German
@@ -9221,6 +9404,7 @@ titles:
   - title: Operation "Drei Pfeile"
     authors:
       - Monika Warneńska
+    translators:
       - Sonja Warnecke
     year: 1968
     language: German
@@ -9360,6 +9544,7 @@ titles:
     verified: true
   - title: Tote Dünung
     subtitle: Eine Romanchronik
+    original_title: Mertvaja zybʹ
     authors:
       - Lev Vemiaminovič Nikulin
       - Heinz Kübart
@@ -9427,6 +9612,8 @@ titles:
     subtitle: Chronik, Fakten, Dokumente
     authors:
       - Deutsches Institut für Militärgeschichte
+    editors:
+      - Siegfried Zeimer
     year: 1969
     series: Schriften des Deutschen Instituts für Militärgeschichte
     language: German
@@ -9450,9 +9637,11 @@ titles:
         url: https://www.sudoc.fr/095571728
     verified: true
   - title: Das Geheimnis des silbernen Bechers
+    original_title: Kontrarazuznavane
     series: Das Taschenbuch; 111
     authors:
       - Andrej Guljas̆ki
+    translators:
       - Hanna Rennhack
     year: 1969
     language: German
@@ -9463,6 +9652,7 @@ titles:
   - title: Das grüne Tor
     authors:
       - Janusz Meissner
+    translators:
       - Rudolf Pabel
     year: 1969
     language: German
@@ -9534,6 +9724,7 @@ titles:
         url: https://openlibrary.org/books/OL17512913M
     verified: true
   - title: Der jugoslawische Volksbefreiungskrieg, 1941-1945
+    original_title: Jugoslovenski oslobodilački rat
     series: Kleine Militärgeschichte. Bewaffnete revolutionäre Kämpfe
     authors:
       - Vlado Strugar
@@ -9544,6 +9735,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991111541359705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Der Junge mit dem Gewehr
+    original_title: Chłopiec z karabinem
     series: Das Taschenbuch; 116
     authors:
       - Henryk Panas
@@ -9579,6 +9771,7 @@ titles:
   - title: Die schwarze Flagge
     authors:
       - Janusz Meissner
+    translators:
       - Rudolf Pabel
     year: 1969
     language: German
@@ -9611,6 +9804,8 @@ titles:
     subtitle: Gedichte
     authors:
       - Helmut Preissler
+    editors:
+      - Helmut Preißler
     year: 1969
     language: German
     pages: 393
@@ -9638,6 +9833,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991122900049705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Erinnerungen und Gedanken
+    original_title: Vospominanija i razmyšlenija
     authors:
       - Georgij Konstantinovič Žukov
     year: 1969
@@ -10263,6 +10459,7 @@ titles:
         url: https://www.sudoc.fr/086417711
     verified: true
   - title: Der italienische Widerstandskampf 1943 bis 1945
+    original_title: Breve storia della resistenza italiana
     series: Kleine Militärgeschichte. Bewaffnete und revolutionäre Kämpfe
     authors:
       - Roberto Battaglia
@@ -10589,6 +10786,7 @@ titles:
     verified: true
   - title: Handfeuerwaffen
     subtitle: Systematischer Überblick über die Handfeuerwaffen und ihre Geschichte
+    original_title: Ruční palné zbraně
     authors:
       - Jaroslav Lugs
     year: 1970
@@ -10610,6 +10808,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1402942036
     verified: true
   - title: Im Generalstab
+    original_title: Generalʹnyj štab v gody vojny
     authors:
       - Sergej M. Štemenko
     year: 1970
@@ -10619,11 +10818,13 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991059108289705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Im Keller vor Berjosowka
+    original_title: Nas bylo dvadcat'
     series: Erzählerreihe; Heft 161
     authors:
       - Sever F. Gansovskij
-      - Rahel Strassberg
       - Karl Fischer
+    translators:
+      - Rahel Strassberg
     year: 1970
     language: German
     sources:
@@ -11000,6 +11201,8 @@ titles:
     series: Erzählerreihe; Heft 173
     authors:
       - Stanisław Biskupski
+    translators:
+      - Ruth Matz
     year: 1971
     language: German
     sources:
@@ -11237,6 +11440,8 @@ titles:
   - title: Die Verteidigung des sozialistischen Vaterlandes
     authors:
       - Hermann Oberst Dr. sc Müller
+    editors:
+      - Hermann Müller
     year: 1971
     series: Serie Politik und Landesverteidigung
     language: German
@@ -11362,6 +11567,7 @@ titles:
   - title: Gefährliche Pfade
     authors:
       - Marian Reniak
+    translators:
       - Bolko Schweinitz
     year: 1971
     language: German
@@ -11422,6 +11628,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991170890020605501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Im Generalstab
+    original_title: General'nyj štab v gody vojny
     authors:
       - S. M. Schtemenko
     year: 1971
@@ -11505,6 +11712,7 @@ titles:
   - title: Maigewitter
     authors:
       - Stanisław Glinka
+    translators:
       - Ruth Matz
     year: 1971
     language: German
@@ -11559,6 +11767,10 @@ titles:
   - title: Militärlexikon
     authors:
       - Gerhard Artl
+    editors:
+      - E. Bauer
+      - Militärakademie Friedrich Engels
+      - Deutschland
     year: 1971
     language: German
     pages: 573
@@ -11584,6 +11796,8 @@ titles:
     verified: true
   - title: Militärlexikon Gemeinschaftsarbeit. Ausarbeitung geleitet von E. Bauer
     authors: []
+    editors:
+      - Eddy Bauer
     year: 1971
     language: German
     sources:
@@ -11695,6 +11909,9 @@ titles:
     subtitle: Zur Rolle der Bundeswehrführung im Militär-Industrie-Komplex der BRD
     authors:
       - Albrecht Charisius
+    editors:
+      - Deutsches Institut für Militärgeschichte
+      - Militärakademie Friedrich Engels
     year: 1971
     series: Schriften des Deutschen Institut für Militärgeschichte
     language: German
@@ -11776,6 +11993,7 @@ titles:
     verified: true
   - title: Soldatenpflicht
     subtitle: Erinnerungen eines Frontoberbefehlshabers
+    original_title: Soldatskij dolg
     authors:
       - Konstantin Konstantinovič Rokossovskij
     year: 1971
@@ -11838,6 +12056,8 @@ titles:
     subtitle: Der deutschsprachigen Ausg. liegt d. Orig.-Ausg. aus d. Jahre 1966 zugrunde, bezügl. d. eine Reihe Straffungen vorgenommen wurden
     authors:
       - Vasilij G. Rezničenko
+    editors:
+      - Vasilij Gerasimovič Rezničenko
     year: 1971
     language: German
     sources:
@@ -11987,6 +12207,8 @@ titles:
   - title: Das grüne Tor
     authors:
       - Janusz Meissner
+    translators:
+      - Rudolf Pabel
     year: 1972
     language: German
     sources:
@@ -12022,6 +12244,7 @@ titles:
   - title: Der Fall Dr. Stajny
     authors:
       - Edmund Niziurski
+    translators:
       - Kurt Kelm
     year: 1972
     language: German
@@ -12117,6 +12340,8 @@ titles:
   - title: Die roten Kreuze
     authors:
       - Janusz Meissner
+    translators:
+      - Rudolf Pabel
     year: 1972
     language: German
     sources:
@@ -12128,6 +12353,7 @@ titles:
         url: https://search.worldcat.org/title/922207831
     verified: true
   - title: Die Schlacht um den Kaukasus
+    original_title: Bitva za Kavkaz
     authors:
       - Andrej A. Grečko
     year: 1972
@@ -12143,6 +12369,8 @@ titles:
   - title: Die schwarze Flagge
     authors:
       - Janusz Meissner
+    translators:
+      - Rudolf Pabel
     year: 1972
     language: German
     sources:
@@ -12210,6 +12438,7 @@ titles:
         url: https://d-nb.info/750042478
     verified: true
   - title: Erinnerungen und Gedanken
+    original_title: Vospominanija i razmyšlenija
     authors:
       - Georgiĭ Konstantinovich Zhukov
     year: 1972
@@ -12438,6 +12667,7 @@ titles:
   - title: M-xiv
     authors:
       - Witold Borowski
+    translators:
       - Ruth Matz
     year: 1972
     language: German
@@ -12449,6 +12679,7 @@ titles:
     verified: true
   - title: Militaerische Theorie und Militaerische Praxis
     subtitle: Methodologische Probleme
+    original_title: Metodologičeskie problemy voennoj teorii i praktiki, izd. 2
     authors:
       - A. S. Sholtow
     year: 1972
@@ -12543,6 +12774,8 @@ titles:
     subtitle: Funktion und Potential des Nordatlantikpaktes
     authors:
       - József Pálfy
+    translators:
+      - Hans Skirecki
     year: 1972
     language: German
     pages: 226
@@ -12601,6 +12834,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1604872861
     verified: true
   - title: Operationsforschung im Militärwesen
+    original_title: Issledovanie operacij v voennom dele
     authors:
       - J. W. Tschujew
     year: 1972
@@ -12785,6 +13019,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991170932841705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Unser Krieg
+    original_title: Nuestra guerra
     authors:
       - Enrique Líster
     year: 1972
@@ -12940,8 +13175,9 @@ titles:
   - title: Der kleine Kiliński
     authors:
       - Teofil Urniaż
-      - Ruth Matz
       - Wojciech Kozłowicz
+    translators:
+      - Ruth Matz
     year: 1973
     language: German
     sources:
@@ -13191,6 +13427,7 @@ titles:
     verified: true
   - title: Psychologie für das Gefecht
     subtitle: Psychologische Probleme der Vorbereitung der Armeeangehörigen auf das moderne Gefecht
+    original_title: Sovremennyj boj i problemy psichologii
     authors:
       - M. P. Korobejnikov
       - Josef Neugebauer
@@ -13320,6 +13557,8 @@ titles:
   - title: Am Rande des Abgrunds
     authors:
       - V. Drozdov
+    translators:
+      - Heinz Kübart
     year: 1974
     edition: 1. Aufl
     series: Erzählerreihe -- 200
@@ -13845,6 +14084,7 @@ titles:
     verified: true
   - title: Die militärischen Fragen in den Arbeiten W. I. Lenins
     subtitle: Mit kurzen Inhaltsangaben vers. Nachschlagewerk d. Werke u. Aussprüche W. I. Lenins zu d. wichtigsten Fragen d. Krieges, d. Armee u.d. Militärwiss
+    original_title: Voennye voprosy v trudach V. I. Lenina
     authors:
       - Nikolaĭ Nikolaevich Azovtsev
     year: 1974
@@ -13985,6 +14225,7 @@ titles:
         url: https://d-nb.info/209878169
     verified: true
   - title: Dora meldet
+    original_title: Dóra jelenti.. (Budapest 1971)
     authors:
       - Sándor Radó
       - Hans Skirecki
@@ -14145,6 +14386,7 @@ titles:
   - title: In den Reihen des Gegners
     authors:
       - Marian Reniak
+    translators:
       - Bolko Schweinitz
     year: 1974
     language: German
@@ -14298,6 +14540,8 @@ titles:
     subtitle: Lebensbilder deutscher Kommunisten und Antifaschisten
     authors:
       - Militärakademie "Friedrich Engels"
+    editors:
+      - Paul Heider
     year: 1974
     edition: '[1. Aufl'
     series: Kleine Militärgeschichte. Biographien
@@ -14872,6 +15116,8 @@ titles:
   - title: Über den rechten Gebrauch der Muskete für die jungen und unerfahrenen Soldaten
     authors:
       - Jacob de Gheyn
+    editors:
+      - Armeemuseum der DDR
     year: 1974
     edition: 1. Aufl
     language: German
@@ -15799,6 +16045,10 @@ titles:
     subtitle: Dt. Antifaschisten im poln. Widerstandskampf = Za nasza i wasza wolność
     authors:
       - Wladysl̃aw Góra
+    editors:
+      - Stanisław Ok
+    translators:
+      - Norbert Rösler
     year: 1975
     edition: 1. Aufl
     language: German
@@ -15975,6 +16225,7 @@ titles:
     verified: true
   - title: Idee, Algorithmus, Entschluß
     subtitle: Entschlußfassung und Automatisierung
+    original_title: Ideja, algoritm, rešenie
     authors:
       - Valentin Vasilʹevič Družinin
       - David Solomonovic̆ Kontorov
@@ -15997,6 +16248,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1616676051
     verified: true
   - title: In der Hauptrichtung
+    original_title: Na glavnom napravlenii
     authors:
       - Nikolaj Aleksandrovič Antipenko
     year: 1975
@@ -16152,6 +16404,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1798870126
     verified: true
   - title: Militärpsychologie
+    original_title: Voennaja psichologija
     authors:
       - Vasilij Vasilʹevič Šeljag
     year: 1975
@@ -16254,6 +16507,8 @@ titles:
     subtitle: Erzählungen
     authors:
       - Helmut Preissler
+    editors:
+      - Helmut Preißler
     year: 1975
     edition: 1. Aufl., 1.-10. Tausend
     language: German
@@ -16872,6 +17127,8 @@ titles:
     authors:
       - Władysław Góra
       - Stanislaw Oke̜cki
+    editors:
+      - Reinhold Jeske
     year: 1975
     language: Polish
     sources:
@@ -17367,8 +17624,11 @@ titles:
         url: https://d-nb.info/369261313
     verified: true
   - title: Der Marschallstab
+    original_title: Maršal'skij žezl
     authors:
       - Vladimir V. Karpov
+    translators:
+      - Michael Fahrentholz
     year: 1976
     language: German
     sources:
@@ -17820,6 +18080,7 @@ titles:
     verified: true
     subtitle: Color-Dia-Tonband-Vortrag
   - title: Gardisten auf dem Weg nach Berlin
+    original_title: Gvardejcy Stalingrada idut na zapad
     authors:
       - Vasilij Ivanovič Čujkov
     year: 1976
@@ -17995,6 +18256,7 @@ titles:
   - title: In der Ersten Reiterarmee
     authors:
       - Stefan Szpinger
+    translators:
       - B. Skrzydło
     year: 1976
     language: German
@@ -18086,6 +18348,7 @@ titles:
         url: https://d-nb.info/369250540
     verified: true
   - title: Konstruktion von Flugzeugen
+    original_title: Konstrukcii samoletov
     authors:
       - Michail N. Šul'ženko
     year: 1976
@@ -18193,6 +18456,8 @@ titles:
     series: (Das Taschenbuch; 167)
     authors:
       - Stanisław Glinka
+    translators:
+      - Ruth Matz
     year: 1976
     language: German
     sources:
@@ -18435,6 +18700,8 @@ titles:
     series: NVA in Wort und Bild
     authors:
       - Hans Luft
+    editors:
+      - Militärverlag der Deutschen Demokratischen Republik
     year: 1976
     language: German
     sources:
@@ -18520,6 +18787,7 @@ titles:
     verified: true
   - title: Sowjetische Militärenzyklopädie
     subtitle: Auswahl
+    original_title: Sovetskaja voennaja ėnziklopedija
     authors: []
     year: 1976
     language: German
@@ -18560,8 +18828,11 @@ titles:
     verified: true
   - title: Start und Landung
     subtitle: Roman in 3 Erzählungen
+    original_title: Nebom kreščennye
     authors:
       - Viktor Trichmanenko
+    translators:
+      - Wolfram Umlauft
     year: 1976
     language: German
     sources:
@@ -18601,8 +18872,13 @@ titles:
         url: https://d-nb.info/369264371
     verified: true
   - title: Tarnung in den Seekriegsflotten
+    original_title: Maskrovka v Boevych Deistvijach flota
     authors:
       - Nikolaj P. Gordeev
+    editors:
+      - Gunter Larisch
+    translators:
+      - Manfred Lau
     year: 1976
     language: German
     sources:
@@ -19081,6 +19357,8 @@ titles:
     series: NVA in Wort und Bild
     authors:
       - Hans Luft
+    editors:
+      - Militärverlag der Deutschen Demokratischen Republik
     year: 1977
     language: German
     sources:
@@ -19448,6 +19726,7 @@ titles:
     verified: true
     subtitle: Color-Dia-Tonvortrag
   - title: Dora meldet
+    original_title: Dóra jelenti.. (Budapest 1971)
     authors:
       - Sándor Radó
     year: 1977
@@ -19792,6 +20071,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=438091884
     verified: true
   - title: Krieg und ideologischer Kampf
+    original_title: Vojna i ideologičeskaja borʹba
     authors:
       - Ivan Andreevič Selesnev
     year: 1977
@@ -20110,6 +20390,8 @@ titles:
   - title: Stählerne Strecken
     authors:
       - Pavel Alekseevič Kabanow
+    editors:
+      - Arnold Sabisch
     year: 1977
     language: German
     sources:
@@ -20384,6 +20666,8 @@ titles:
     series: NVA in Wort und Bild
     authors:
       - Hans Luft
+    editors:
+      - Militärverlag der Deutschen Demokratischen Republik
     year: 1977
     language: German
     sources:
@@ -20497,6 +20781,7 @@ titles:
         url: https://d-nb.info/369257464
     verified: true
   - title: Antlitz im Sturm
+    original_title: Vse uragany v lico
     authors:
       - Michail Kolesnikov
     year: 1978
@@ -20537,6 +20822,7 @@ titles:
         url: https://d-nb.info/369266757
     verified: true
   - title: Aufzeichnungen eines Frontoberbefehlshabers 1943/1944
+    original_title: Zapiski komandujuscego frontom 1943-1944
     authors:
       - I. S. Konev
       - Irmgard Zeisler
@@ -20547,6 +20833,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991170948542105501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Aufzeichnungen eines Frontoberbefehlshabers 1943/44
+    original_title: Zapisky komandujuščego frontom 1943-1944
     authors:
       - Ivan Stepanovič Konev
     year: 1978
@@ -20771,6 +21058,7 @@ titles:
         url: https://d-nb.info/369252810
     verified: true
   - title: Die Seemacht des Staates
+    original_title: Morskaja moščʹ gosudarstva
     authors:
       - Sergej Georgievič Gorškov
     year: 1978
@@ -20963,6 +21251,8 @@ titles:
       - Stanisław Gać
       - Leszek Grot
       - Wiesław Z. Szota
+    translators:
+      - Günther Kozianka
     year: 1978
     language: German
     sources:
@@ -21185,6 +21475,7 @@ titles:
     subtitle: Ein Todesflieger führte Tagebuch
     authors:
       - Bohdan Arct
+    translators:
       - Kurt Kelm
     year: 1978
     language: German
@@ -21463,6 +21754,7 @@ titles:
         url: https://d-nb.info/369267117
     verified: true
   - title: Rote Reiter voran
+    original_title: Projdennyj putʹ
     authors:
       - Semën Michajlovič Budënnyj
       - Traute Stein
@@ -21894,6 +22186,8 @@ titles:
     subtitle: Ein Bericht über die Solidarität und den Widerstand im Konzentrationslager Mauthausen von 1938 bis 1945
     authors:
       - Komitee der Antifaschistischen Widerstandskämpfer der Deutschen Demokratischen Republik
+    editors:
+      - Komitee der Antifaschistischen Widerstandskämpfer der DDR
     year: 1979
     edition: 1. Aufl
     language: German
@@ -22236,8 +22530,10 @@ titles:
         url: https://d-nb.info/369248317
     verified: true
   - title: Das Spital am Kreuzweg
+    original_title: Nagrody i odznaczenia
     authors:
       - Wacław Biliński
+    translators:
       - Ruth Matz
     year: 1979
     language: German
@@ -22358,6 +22654,8 @@ titles:
   - title: Die Abenteuer des Jan Kuna, genannt Marten
     authors:
       - Janusz Meissner
+    translators:
+      - Rudolf Pabel
     year: 1979
     language: German
     sources:
@@ -22417,6 +22715,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991061705159705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Die Marxistisch-leninistische Ästhetik und die Erziehung der Soldaten
+    original_title: Marksitsko-leninskaja estetika i vospitanie voinov
     authors:
       - A. S. Milovidov
     year: 1979
@@ -22760,6 +23059,8 @@ titles:
   - title: Im Aufklärungspanzer
     authors:
       - Kazimierz Przytocki
+    translators:
+      - Ruprecht Willnow
     year: 1979
     edition: 1. Aufl
     language: German
@@ -22849,6 +23150,7 @@ titles:
     subtitle: Ein Todesflieger führte Tagebuch
     authors:
       - Bohdan Arct
+    translators:
       - Kurt Kelm
     year: 1979
     language: German
@@ -23258,6 +23560,8 @@ titles:
     subtitle: Lesematerial für d. Teilnehmer an d. vormilitär. Ausbildung für d. Laufbahn Militärkraftfahrer d. NVA
     authors:
       - Rudolf Baldermann
+    editors:
+      - Gesellschaft für Sport und Technik
     year: 1979
     language: German
     sources:
@@ -23594,6 +23898,8 @@ titles:
   - title: Zeittafel zur Militärgeschichte der Deutschen Demokratischen Republik 1969 bis 1977
     authors:
       - Militärgeschichtliches Institut der DDR
+    editors:
+      - Toni Nelles
     year: 1979
     edition: 1. Aufl
     language: German
@@ -23666,6 +23972,7 @@ titles:
         url: https://d-nb.info/202503712
     verified: true
   - title: Anleitung zur Anfertigung und Führung militärischer Arbeitskarten
+    original_title: Rabočaja karta komandira
     authors:
       - Il'ja D. Pombrik
       - Nikolaj A. Ševčenko
@@ -24118,6 +24425,7 @@ titles:
     subtitle: Und Eine Partie Domino
     authors:
       - Andrzej Zbych
+    translators:
       - Hartmut Kühn
     year: 1980
     language: German
@@ -24418,6 +24726,8 @@ titles:
   - title: Friedrich Engels und der militärische Schutz des Sozialismus
     authors:
       - Ernst Hocke
+    editors:
+      - Horst Fiedler
     year: 1980
     language: German
     sources:
@@ -24561,6 +24871,7 @@ titles:
         url: https://d-nb.info/369245024
     verified: true
   - title: Im Kreis des weißen Feuers
+    original_title: Datje točku opory
     authors:
       - Nikolaj Andreevič Gorbačev
       - Ruth Matz
@@ -24595,6 +24906,9 @@ titles:
       - P. A. Zhilin
       - Militärgeschichtliches Institut der DDR
       - Institut voennoĭ istorii
+    editors:
+      - Reinhard Brühl
+      - P. A. Shilin
     year: 1980
     edition: 1. Aufl
     language: German
@@ -24672,6 +24986,8 @@ titles:
   - title: Kampfgefährten
     authors:
       - Stanisłav Popłavskij
+    translators:
+      - Ernst Strnad
     year: 1980
     language: German
     sources:
@@ -25228,11 +25544,13 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=439163358
     verified: true
   - title: Über meinen Freund
+    original_title: Povest' o moem druge
     authors:
       - Petr A. Abrasimov
-      - Traute Stein
       - Günter Stein
       - Joachim Warnatzsch
+    translators:
+      - Traute Stein
     year: 1980
     language: German
     sources:
@@ -25253,6 +25571,8 @@ titles:
     subtitle: Entstehung u. Bewährung d. T-34
     authors:
       - Janusz Magnuski
+    translators:
+      - Lilli Schirduan
     year: 1980
     language: German
     sources:
@@ -25590,6 +25910,7 @@ titles:
         url: https://d-nb.info/369262964
     verified: true
   - title: Der Bewaffnete Kampf der Völker Afrikas für Freiheit und Unabhängigkeit
+    original_title: Vooruzhennai︠a︡ borʹba narodov Afriki za svobodu i nezavisimostʹ
     authors:
       - Institut voennoĭ istorii
     year: 1981
@@ -25888,6 +26209,8 @@ titles:
   - title: Die vorletzte Vorstellung
     authors:
       - Andrzej Zbych
+    translators:
+      - Hartmut Kühn
     year: 1981
     language: German
     sources:
@@ -26087,6 +26410,7 @@ titles:
         url: https://d-nb.info/36887592X
     verified: true
   - title: Fata Morgana
+    original_title: Fata Morgana
     authors:
       - Ion Grecea
     year: 1981
@@ -26127,8 +26451,10 @@ titles:
         url: https://search.worldcat.org/title/10562071
     verified: true
   - title: Frühjahr des Sieges und der Befreiung
+    original_title: Vesna pobedy i osvoboždenija
     authors:
       - Fedor Pavlovič Bokov
+    translators:
       - Hans-Joachim Lambrecht
     year: 1981
     language: German
@@ -26339,8 +26665,11 @@ titles:
         url: https://search.worldcat.org/title/29814986
     verified: true
   - title: Heidekraut
+    original_title: Wrzosy
     authors:
       - Władysław Misiołek
+    translators:
+      - Hartmut Kühn
     year: 1981
     language: German
     sources:
@@ -26586,8 +26915,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=438050215
     verified: true
   - title: Mitten im Visier
+    original_title: En el punto rojo de mi kolimador
     authors:
       - Álvaro Prendes
+    translators:
+      - Jochen Martin
     year: 1981
     language: German
     sources:
@@ -26615,6 +26947,7 @@ titles:
         url: https://d-nb.info/369253353
     verified: true
   - title: Panzer erwachen wieder
+    original_title: Tanki oživali vnov'
     authors:
       - Ivan M. Goluško
     year: 1981
@@ -26860,6 +27193,8 @@ titles:
   - title: Streng geheim
     authors:
       - Andrzej Zbych
+    translators:
+      - Hartmut Kühn
     year: 1981
     language: German
     sources:
@@ -27512,6 +27847,7 @@ titles:
     verified: true
   - title: Der Warschauer Vertrag
     subtitle: Bündnis für Frieden und Sozialismus
+    original_title: Varshavskiĭ Dogovor--soi︠u︡z vo imi︠a︡ mira i sot︠s︡ializma
     authors:
       - A. I. Gribkov
       - Viktor Georgievich Kulikov
@@ -27652,6 +27988,8 @@ titles:
   - title: Die Parole
     authors:
       - Andrzej Zbych
+    translators:
+      - Hartmut Kühn
     year: 1982
     language: German
     sources:
@@ -27870,7 +28208,8 @@ titles:
         url: https://www.sudoc.fr/05504011X
     verified: true
   - title: Geschichte der Kriegskunst
-    authors:
+    authors: []
+    translators:
       - Eduard Ullmann
     year: 1982
     language: German
@@ -27915,6 +28254,8 @@ titles:
   - title: Gesetz über den Wehrdienst in der Deutschen Demokratischen Republik - Wehrdienstgesetz - vom 25. März 1982
     authors:
       - Horst Sonntag
+    editors:
+      - Militärverlag der Deutschen Demokratischen Republik
     year: 1982
     language: German
     sources:
@@ -28019,8 +28360,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=438137760
     verified: true
   - title: Jan und Jana
+    original_title: Jan a Jana
     authors:
       - Jiřina Trojanová
+    translators:
+      - Corrina Wojtek
     year: 1982
     language: German
     sources:
@@ -29303,6 +29647,8 @@ titles:
   - title: Hans Kloss unter Verdacht
     authors:
       - Andrzej Zbych
+    translators:
+      - Hartmut Kühn
     year: 1983
     language: German
     sources:
@@ -29328,6 +29674,7 @@ titles:
     verified: true
   - title: Instandsetzungsarbeiten in Wirkungsherden
     subtitle: 'Aufbau und Standhaftigkeit der städtischen kommunalen und Energieversorgungssysteme: Instandsetzungsarbeiten an diesen Systemen nach Waffenwirkungen'
+    original_title: Аварийные работы в очагах поражения
     authors:
       - IU. IU Kammerer
     year: 1983
@@ -29346,6 +29693,7 @@ titles:
     subtitle: Ein Todesflieger führte Tagebuch
     authors:
       - Bohdan Arct
+    translators:
       - Kurt Kelm
     year: 1983
     language: German
@@ -29430,6 +29778,7 @@ titles:
     verified: true
   - title: Lokale Kriege
     subtitle: Geschichte und Gegenwart
+    original_title: Локальные войны. история и современность
     authors:
       - I. E. Shavrov
     year: 1983
@@ -29519,8 +29868,11 @@ titles:
         url: https://lccn.loc.gov/84175408
     verified: true
   - title: Operation "Poker"
+    original_title: Los hombres color del silencio
     authors:
       - Alberto Molina Rodríguez
+    translators:
+      - Jochen Martin
     year: 1983
     language: German
     sources:
@@ -29533,7 +29885,8 @@ titles:
     verified: true
   - title: Panzer und Panzertruppen
     subtitle: Entwicklungsstand u. Perspektive
-    authors:
+    authors: []
+    translators:
       - Karl-Heinz Kaufmann
     year: 1983
     language: German
@@ -29786,6 +30139,7 @@ titles:
     subtitle: Entstehung und Bewährung des T-34
     authors:
       - Janusz Magnuski
+    translators:
       - Lilli Schirduan
     year: 1983
     language: German
@@ -30128,6 +30482,7 @@ titles:
     authors:
       - Janusz Meissner
       - Günter Lück
+    translators:
       - Rudolf Pabel
     year: 1984
     language: German
@@ -31321,6 +31676,7 @@ titles:
         url: https://openlibrary.org/books/OL24706582M
     verified: true
   - title: Die Bestie von Buchenwald
+    original_title: La chienne de Buchenwald
     authors:
       - Pierre Durand
     year: 1985
@@ -31375,8 +31731,10 @@ titles:
     verified: true
     subtitle: Color-Dia-Ton-Vortrag
   - title: Die parteipolitische Arbeit in der Sowjetarmee und Seekriegsflotte
+    original_title: Partijno-političeskaja rabota v Sovetskoj Armii i Voenno-Morskom Flote
     authors:
       - Leonid A. Bublik
+    translators:
       - Hans Wolter
     year: 1985
     language: German
@@ -31575,6 +31933,9 @@ titles:
   - title: Handbuch für den Offizier der Luftverteidigung
     authors:
       - G. V. Zimin
+    editors:
+      - Eckard Rebarz
+      - Hans Süß
     year: 1985
     edition: 1. Aufl
     language: German
@@ -31674,6 +32035,8 @@ titles:
     subtitle: Gedichte zum Frieden
     authors:
       - Wolfgang Lange
+    editors:
+      - Wolfgang S. Lange
     year: 1985
     edition: 1. Aufl
     language: German
@@ -31898,6 +32261,8 @@ titles:
   - title: Soldaten des Volkes
     authors:
       - Eberhard Heinrich
+    editors:
+      - Peter Seifert
     year: 1985
     edition: 1. Aufl
     language: German
@@ -32082,6 +32447,8 @@ titles:
     series: Schriften des Militärgeschichtlichen Instituts der Deutschen Demokratischen Republik
     authors:
       - Militärgeschichtliches Institut der Deutschen Demokratischen Republik
+    editors:
+      - Toni Nelles
     year: 1985
     language: German
     sources:
@@ -32214,6 +32581,8 @@ titles:
   - title: Ausgewählte militärische Schriften
     authors:
       - Gerhard Johann David von Scharnhorst
+    editors:
+      - Hansjürgen Usczeck
     year: 1986
     edition: 1. Aufl
     series: Schriften des Militärgeschichtlichen Instituts der DDR
@@ -32422,7 +32791,8 @@ titles:
     verified: true
   - title: Der Uhrmacher von Dien Bien Phu
     subtitle: Erzählungen
-    authors:
+    authors: []
+    translators:
       - Günter Schick
     year: 1986
     language: German
@@ -32505,8 +32875,10 @@ titles:
         url: https://d-nb.info/212727184
     verified: true
   - title: Die stählerne Garde
+    original_title: Stal'naja gvardija
     authors:
       - Veniamin Borisovič Mironov
+    translators:
       - Karl-Heinz Kaufmann
     year: 1986
     language: Not recorded
@@ -32809,7 +33181,8 @@ titles:
     verified: true
   - title: Irgendwo auf einer Insel
     subtitle: Erzählungen über Grenzsoldaten
-    authors:
+    authors: []
+    translators:
       - Traute Stein
     year: 1986
     language: German
@@ -32833,8 +33206,11 @@ titles:
         url: https://lccn.loc.gov/87121702
     verified: true
   - title: Jan und Jana
+    original_title: Jan a Jana
     authors:
       - Jiřina Trojanová
+    translators:
+      - Corrina Wojtek
     year: 1986
     edition: 3. Aufl
     language: German
@@ -32894,6 +33270,7 @@ titles:
     subtitle: Ein Todesflieger führte Tagebuch
     authors:
       - Bohdan Arct
+    translators:
       - Kurt Kelm
     year: 1986
     language: German
@@ -32987,6 +33364,8 @@ titles:
     subtitle: Volksbefreiungskrieg und Verteidigung einer Revolution
     authors:
       - Werner Pade
+    editors:
+      - Inge Fischer
     year: 1986
     edition: 1. Auflage
     series: Kriege nach 1945
@@ -33086,6 +33465,8 @@ titles:
     authors:
       - I. M. Goluschko
       - N. V. Varlamov
+    editors:
+      - Burkhard Kleingünther
     year: 1986
     language: German
     sources:
@@ -33115,6 +33496,7 @@ titles:
   - title: Morgendämmerung über der Insel
     authors:
       - Peter Hajdúk
+    translators:
       - Eva Wolle
     year: 1986
     language: German
@@ -33224,6 +33606,8 @@ titles:
   - title: Sozialistische Landesverteidigung im Friedenskampf
     authors:
       - Dieter Hillebrenner
+    editors:
+      - Militärakademie Friedrich Engels
     year: 1986
     edition: 1. Aufl
     series: Serie Politik und Landesverteidigung
@@ -33438,6 +33822,9 @@ titles:
   - title: Vom Freiheitskampf des roten Mannes
     authors:
       - Miloslav Stingl
+    translators:
+      - Gustav Just
+      - Ruth Kassube
     year: 1986
     language: German
     pages: 357
@@ -33553,6 +33940,8 @@ titles:
     subtitle: Zur Entwicklung des Militärwesens im Spätfeudalismus
     authors:
       - Helmut Schnitter
+    editors:
+      - Thomas Schmidt
     year: 1987
     edition: 1. Aufl
     series: Militärhistorische Studien
@@ -34011,6 +34400,7 @@ titles:
   - title: Die Abenteuer des Jan Kuna, genannt Marten
     authors:
       - Janusz Meissner
+    translators:
       - Rudolf Pabel
     year: 1987
     language: German
@@ -34358,6 +34748,8 @@ titles:
   - title: In der Höhle des Löwen
     authors:
       - Marian Reniak
+    translators:
+      - Kurt Kelm
     year: 1987
     language: German
     sources:
@@ -34945,6 +35337,8 @@ titles:
   - title: Sozialistische Wehrerziehung in der Berufsausbildung
     authors:
       - Werner Schröer
+    editors:
+      - Zentralinstitut für Berufsbildung der Deutschen Demokratischen Republik
     year: 1987
     language: German
     sources:
@@ -35382,10 +35776,12 @@ titles:
     verified: true
   - title: Das Echo der Kriegsjahre
     subtitle: Erzählungen, Skizzen, Notizen; ausgew. u. leicht gekürzt
+    original_title: Echo voennych let
     authors:
       - Valentin Kataev
-      - Marianne Bobrowski
       - Irene Strobel
+    translators:
+      - Marianne Bobrowski
     year: 1988
     language: German
     sources:
@@ -35558,6 +35954,8 @@ titles:
   - title: Die geheimen Regisseure
     authors:
       - Kurt Rückmann
+    editors:
+      - Brigitte Heinrich
     year: 1988
     edition: 1. Auflage
     language: German
@@ -35684,6 +36082,7 @@ titles:
     verified: true
   - title: Doktrin des Friedens
     subtitle: Über die Militärdoktrin der Teilnehmerstaaten des Warschauer Vertrages
+    original_title: Doktrina mira
     series: Militärpolitik aktuell
     authors:
       - V. G. Kulikow
@@ -35747,6 +36146,7 @@ titles:
   - title: Feuerschein in den Beskiden
     authors:
       - Jan Gerhard
+    translators:
       - Ruth Matz
     year: 1988
     language: German
@@ -36008,6 +36408,7 @@ titles:
     subtitle: Ein Todesflieger führte Tagebuch
     authors:
       - Bohdan Arct
+    translators:
       - Kurt Kelm
     year: 1988
     language: German
@@ -36685,6 +37086,7 @@ titles:
   - title: Taktik
     authors:
       - V. G. Resničenko
+    translators:
       - Heinrich Wrobel
     year: 1988
     language: German
@@ -36923,6 +37325,7 @@ titles:
   - title: Das Jahr fünfundvierzig
     authors:
       - Iwan Stepanowitsch Konew
+    translators:
       - Arno Specht
     year: 1989
     language: German
@@ -38016,8 +38419,11 @@ titles:
         url: https://www.sudoc.fr/007478607
     verified: true
   - title: Tania, la guerrillera inolvidable
+    original_title: Tania la guerrillera inolvidable
     authors:
       - Marta Rojas
+    translators:
+      - Nadja Bunke
     year: 1989
     edition: 7. Auflage
     language: German
@@ -38392,6 +38798,7 @@ titles:
   - title: Hauptmann Kloss greift ein
     authors:
       - Andrzej Zbych
+    translators:
       - Hartmut Kühn
     year: 1990
     language: German
@@ -38418,6 +38825,8 @@ titles:
   - title: In den Reihen des Gegners
     authors:
       - Marian Reniak
+    translators:
+      - Bolko Schweinitz
     year: 1990
     language: German
     sources:
@@ -38526,6 +38935,7 @@ titles:
     verified: true
   - title: Yanks treffen Rote
     subtitle: 'Begegnung an der Elbe: Erinnerungen amerikanischer und sowjetischer Soldaten des zweiten Weltkrieges'
+    original_title: Yanks meet Reds
     authors: []
     year: 1990
     language: German

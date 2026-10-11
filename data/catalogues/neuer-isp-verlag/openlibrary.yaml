@@ -86,6 +86,7 @@ titles:
         url: https://d-nb.info/205645909
     verified: true
   - title: Die Herausforderung
+    original_title: Československo a socialismus
     authors:
       - Petr Uhl
     year: 1981
@@ -108,6 +109,7 @@ titles:
         url: https://d-nb.info/550622748
     verified: true
   - title: Geschichte der Kommunistischen Internationale (1919-1943)
+    original_title: Histoire de l'Internationale communiste
     authors:
       - Pierre Frank
     year: 1981
@@ -222,6 +224,8 @@ titles:
     authors:
       - Jakob Taut
       - Michel Warschawsky
+    translators:
+      - Jakob Moneta
     year: 1982
     language: German
     sources:
@@ -457,6 +461,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991152971679705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Von der Oktober-Revolution bis zum Brester Friedensvertrag
+    original_title: Ot oktjabr'skoj revoljucii do Brestskogo mira
     series: Isp-Reprint
     authors:
       - Lev Davidovič Trockij
@@ -608,6 +613,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/101092418
     verified: true
   - title: Nicaragua, die grosse Herausforderung
+    original_title: El gran desafío
     series: Isp pocket; 8
     authors:
       - Jaime Wheelock
@@ -856,6 +862,7 @@ titles:
     verified: true
   - title: Sozialismus und Neostalinismus
     subtitle: Eine Stimme aus dem Sowjetischen Untergrund
+    original_title: Le stalinisme et son "socialisme réel"
     authors:
       - A. Zimin
     year: 1985
@@ -871,6 +878,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991058594339705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Sozialistinnen
+    original_title: 'Mujeres Socialistas. - Stichwort: sozialistischer Feminismus'
     authors:
       - José Gutiérrez Alvarez
       - Paul B. Kleiser
@@ -939,6 +947,7 @@ titles:
     series: Internationale sozialistische Publikationen
   - title: Der lange Krieg
     subtitle: Diktatur und Revolution in El Salvador
+    original_title: The long war
     series: Internationale sozialistische Publikationen
     authors:
       - James Dunkerley
@@ -1135,6 +1144,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=163544719
     verified: true
   - title: Che Guevara
+    original_title: La pensée de Che Guevara
     series: ISP-pocket; 25
     authors:
       - Michael Löwy
@@ -1272,6 +1282,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=015390918
     verified: true
     subtitle: Acre Bayardo, Humberto Ortega, Jaime Wheelock
+    original_title: Sandinistas
   - title: Schuldenkrise
     subtitle: In der dritten Welt tickt eine Zeitbombe
     authors:
@@ -1390,8 +1401,10 @@ titles:
     verified: true
   - title: Zwei Hunde und Freiheit
     subtitle: Südafrikanische Kinder aus den Gettos erzählen
+    original_title: Two dogs and freedom
     series: Internationale sozialistische Publikationen
-    authors:
+    authors: []
+    translators:
       - Anneliese Rutkies
     year: 1987
     language: German
@@ -1405,6 +1418,7 @@ titles:
     verified: true
   - title: Arbeiterunion
     subtitle: Sozialismus und Feminismus im 19. Jahrhundert
+    original_title: Union ouvrière
     series: Internationale sozialistische Publikationen
     authors:
       - Flora Tristan
@@ -1575,6 +1589,7 @@ titles:
     verified: true
   - title: Rotbuch über den Moskauer Prozess 1936
     subtitle: Trotzkis Sohn klagt an
+    original_title: Livre rouge sur le procès de Moscou
     authors:
       - Lev Lʹvovič Sedov
       - Leo Sedow
@@ -1598,6 +1613,9 @@ titles:
   - title: Schriften
     authors:
       - Lev Davidovič Trockij
+    editors:
+      - Wolrad Bode
+      - Helmut Dahmer
     year: 1988
     language: German
     sources:
@@ -1798,6 +1816,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991035046499705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Moskau zu Lenins Zeiten
+    original_title: Moscou sous Lénine
     series: Internationale sozialistische Publikationen
     authors:
       - Alfred Rosmer
@@ -1830,6 +1849,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991014373899705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Sozialistinnen
+    original_title: Mujeres socialistas
     authors:
       - José Gutiérrez Alvarez
       - Paul B. Kleiser
@@ -1946,6 +1966,7 @@ titles:
     verified: true
   - title: Umwelt in Lateinamerika
     subtitle: 'Die Geschichte einer Zerstörung: von den Kulturen der Eingeborenen zur ökologischen Krise der Gegenwart'
+    original_title: Hacia una historia del ambiente en America Latina
     series: ISP-pocket; 45
     authors:
       - Luis Vitale
@@ -1978,6 +1999,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/009849327
     verified: true
   - title: Der Zweite Weltkrieg
+    original_title: The meaning of the second world war
     authors:
       - Ernest Mandel
     year: 1991
@@ -1990,6 +2012,7 @@ titles:
     verified: true
   - title: Kurdistan
     subtitle: Internationale Kolonie
+    original_title: Devletterarasi sǒmurge Kurdistan
     authors:
       - İsmail.· Beşikçi
     year: 1991
@@ -2059,6 +2082,8 @@ titles:
     subtitle: Erinnerungen eines chinesischen Oppositionellen
     authors:
       - Chaolin Zheng
+    translators:
+      - Gregor Benton
     year: 1991
     edition: 1. Aufl
     language: German
@@ -2103,6 +2128,7 @@ titles:
     verified: true
   - title: Herrera de la Mancha
     subtitle: Aufzeichnungen eines baskischen Gefangenen
+    original_title: 'Herrera: prisón de guerra'
     authors:
       - Anjel Rekalde
     year: 1993
@@ -2115,6 +2141,7 @@ titles:
     verified: true
   - title: '"Keine Angst vor besseren Zeiten"'
     subtitle: Lula, die PT und Brasilien
+    original_title: Without fear of being happy
     authors:
       - Emir Sader
       - Ken Silverstein
@@ -2373,6 +2400,7 @@ titles:
     verified: true
   - title: Die GIM
     subtitle: Zur Politik und Geschichte der Gruppe Internationale Marxisten, 1969-1986
+    original_title: Die Gruppe Internationale Marxisten - zur Politik und Geschichte des deutschen Trotzkismus 1969-1986
     series: Wissenschaft & Forschung; 14
     authors:
       - Günther Gellrich
@@ -2537,6 +2565,7 @@ titles:
     verified: true
   - title: Trotzki
     subtitle: Eine politische Biographie
+    original_title: Trotsky (für die dt. Erstausg. durchges. und korr.)
     authors:
       - Pierre Broué
     year: 2003
@@ -2619,6 +2648,8 @@ titles:
   - title: Die EU in neoliberaler Verfassung
     authors:
       - Paul B. Kleiser
+    editors:
+      - Angela Klein
     year: 2006
     edition: Originalausg
     language: German
@@ -2739,8 +2770,10 @@ titles:
     verified: true
   - title: Die politische Ökonomie der israelischen Besatzung
     subtitle: Unterdrückung über die Ausbeutung hinaus
+    original_title: <<The>> political economy of Israel's occupation
     authors:
       - Shir Hever
+    translators:
       - Heidi Niggemann
       - Angelica Seyfrid
     year: 2014
@@ -2798,9 +2831,10 @@ titles:
       - Helmut Dahmer
       - Wolfgang Feikert
       - Julijana Ranc
+      - Neuer ISP Verlag GmbH
+    translators:
       - David Promies
       - Susi Anderle
-      - Neuer ISP Verlag GmbH
     year: 2023
     language: German
     sources:

@@ -377,12 +377,14 @@ titles:
         url: https://openlibrary.org/books/OL13780670M
     verified: true
   - title: Anamnī́seis gia ton Thalmann
+    original_title: Erinnerungen an meinen Vater
     authors:
       - Irma Thalmann
       - Ιρμα Ταιλμαν
+      - Jean Meynaud
+    translators:
       - Ersi Lagke
       - Ερση Λάγκε
-      - Jean Meynaud
     year: 1977
     language: Greek
     sources:
@@ -683,6 +685,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=438164008
     verified: true
   - title: Hōriōn Alexakēs
+    original_title: Orion Aleksakis
     authors:
       - Leb Gkurbits
       - Nikos Mponiakos
@@ -852,6 +855,7 @@ titles:
         url: https://openlibrary.org/books/OL13804533M
     verified: true
   - title: Apantíseis se epíkaira provlímata
+    original_title: Solutions
     authors:
       - Gus Hall
       - Jean Meynaud
@@ -1340,9 +1344,10 @@ titles:
   - title: Eínai galínia edó i charavgí
     authors:
       - Boris Lʹvovič Vasilʹev
+      - Jean Meynaud
+    translators:
       - Chrístos Trikalinós
       - Χρήστος Τρικαλινός
-      - Jean Meynaud
     year: 1983
     language: Greek
     sources:
@@ -1932,11 +1937,13 @@ titles:
         url: https://www.sudoc.fr/258629622
     verified: true
   - title: O Tzóni píre to óplo tou
+    original_title: Johnny got his gun
     authors:
       - Dalton Trumbo
+      - Jean Meynaud
+    translators:
       - Elli Filokýprou
       - Ελλη Φιλοκύπρου
-      - Jean Meynaud
     year: 1987
     language: Greek
     sources:
@@ -2171,6 +2178,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=601475771
     verified: true
   - title: To xeno paidi
+    original_title: Das fremde Kind
     authors:
       - E. T. A. Hoffmann
     year: 1990
@@ -4244,6 +4252,8 @@ titles:
     subtitle: Apo to chōraphi, sta organa tēs sovietikēs exousias
     authors:
       - Angelina Praskovya
+    translators:
+      - Anastasēs I. Gkikas
     year: 2017
     language: Greek
     pages: 151
@@ -4702,9 +4712,10 @@ titles:
   - title: I dikí mou anakálypsi tis Amerikís
     authors:
       - Vladimir Vladimirovič Maâkovskij
+      - Jean Meynaud
+    translators:
       - N. Békou
       - Ν. Μπέκου
-      - Jean Meynaud
     language: Greek
     sources:
       - title: SUDOC record 253959209

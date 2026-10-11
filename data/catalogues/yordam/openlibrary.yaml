@@ -184,9 +184,11 @@ titles:
     verified: true
   - title: Buluşmalar
     subtitle: İnsanlar, Kentler, Kitaplar
+    original_title: Begegnungen mit Menschen, Büchern, Städten
     series: Yordam Kitap; 49
     authors:
       - Stefan Zweig
+    translators:
       - Ahmet Arpad
     year: 2008
     language: Turkish
@@ -216,8 +218,9 @@ titles:
   - title: Kapital Manga
     authors:
       - Karl Marx
-      - H. Can Erkin
       - Variety Art Works
+    translators:
+      - H. Can Erkin
     year: 2008
     language: Turkish
     sources:
@@ -289,12 +292,14 @@ titles:
     verified: true
   - title: Dostlarla mektuplaşmalar
     subtitle: Rilke, Schnitzler, Bahr, Gorki, Freud, Hesse
+    original_title: Briefwechsel mit Hermann Bahr, Sigmund Freud, Rainer Maria Rilke und Arthur Schnitzler
     authors:
       - Stefan Zweig
       - Sigmund Freud
       - Rainer Maria Rilke
       - Arthur Schnitzler
       - Hermann Bahr
+    translators:
       - Ahmet Arpad
     year: 2009
     language: Turkish
@@ -318,6 +323,8 @@ titles:
     authors:
       - Chris Harman
       - Cris Harman
+    translators:
+      - Uygur Kocabaşoğlu
     year: 2009
     language: Turkish
     pages: 639
@@ -329,6 +336,7 @@ titles:
   - title: Kitapçı Mendel
     authors:
       - Stefan Zweig
+    translators:
       - Burhan Arpad
       - Ahmet Arpad
     year: 2009
@@ -360,6 +368,8 @@ titles:
     subtitle: 10. Ulusal Sosyal Bilimler Kongresi metinleri
     authors:
       - Ulusal Sosyal Bilimler Kongresi (10th 2007 Turkey)
+    editors:
+      - Yüksel Akkaya
     year: 2009
     edition: 1. basım
     series: Kuram/güncel
@@ -526,8 +536,10 @@ titles:
     verified: true
   - title: Rosa Luxemburg
     subtitle: Her şeye inat, tutkuyla yaşamak
+    original_title: Im Lebensrausch, trotz alledem - Rosa Luxemburg
     authors:
       - Annelies Laschitza
+    translators:
       - Etem Levent Bakaç
     year: 2010
     language: Turkish
@@ -537,6 +549,7 @@ titles:
     verified: true
   - title: Türkiye solunda Üç Tarz-ı Siyaset
     subtitle: YÖN, MDD ve TİP
+    original_title: 'Türkiye solunda iktidar stratejisi tartışmaları : 1961-1971'
     authors:
       - Mustafa Şener
     year: 2010
@@ -636,8 +649,10 @@ titles:
         url: https://search.worldcat.org/title/742254610
     verified: true
   - title: Kapitalizmin kısa tarihi
+    original_title: G Strich - kleine Geschichte des Kapitalismus
     authors:
       - Georg Fülberth
+    translators:
       - Sadık Usta
     year: 2011
     language: Turkish
@@ -742,6 +757,7 @@ titles:
     subtitle: 'Usta Işi: Öyküler'
     authors:
       - Stefan Zweig
+    translators:
       - Tahsin Yücel
     year: 2013
     language: Turkish
@@ -764,6 +780,12 @@ titles:
     subtitle: Ekonomi Politiğin Eleştirisi
     authors:
       - Karl Marx
+    editors:
+      - Nail Satılgan
+      - Erkin Özalp
+      - Oktar Türel
+    translators:
+      - Mehmet Selik
     year: 2013
     language: Turkish
     isbn: '9786055541798'
@@ -799,8 +821,10 @@ titles:
     verified: true
   - title: Korku
     subtitle: Uzun öykü
+    original_title: Angst
     authors:
       - Stefan Zweig
+    translators:
       - Behçet Necatigil
     year: 2013
     language: Turkish
@@ -809,8 +833,10 @@ titles:
         url: https://d-nb.info/1135627525
     verified: true
   - title: Merhamet
+    original_title: Ungeduld des Herzens
     authors:
       - Stefan Zweig
+    translators:
       - Deniz Banoğlu
     year: 2013
     language: Turkish
@@ -822,6 +848,7 @@ titles:
     subtitle: 'Alacakaranlık Öyküsü: Öyküler'
     authors:
       - Stefan Zweig
+    translators:
       - Ali Avni Öneş
     year: 2013
     language: Turkish
@@ -830,8 +857,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1617868132
     verified: true
   - title: Yara
+    original_title: The Scar
     authors:
       - China Miéville
+    translators:
+      - Güler Siper
     year: 2013
     date_note: '2013-10-29'
     language: Turkish
@@ -866,8 +896,12 @@ titles:
     verified: false
   - title: 'Büyük Bir Devletin Doğuşu: Osmanlılar (1300-1481)'
     subtitle: Osmanlı Feodalizminin Oluşum Süreci
+    original_title: Die Geburt einer Grossmacht, die Osmanen (1300-1481)
     authors:
       - Ernst Werner
+    translators:
+      - Yılmaz Öner
+      - Orhan Esen
     year: 2014
     language: Turkish
     isbn: '9786054836581'
@@ -878,6 +912,8 @@ titles:
   - title: Çizgilerle LENİN
     authors:
       - Rius
+    translators:
+      - Çiçek Öztek
     year: 2014
     language: Turkish
     pages: 168
@@ -911,8 +947,11 @@ titles:
     verified: false
   - title: Devrime Doğru
     subtitle: Petrograd Bolşevikleri ve 1917 Temmuz Ayaklanması
+    original_title: 'Prelude to Revolution: The Petrograd Bolsheviks and the July 1917 Uprising'
     authors:
       - Alexander Rabinowitch
+    translators:
+      - Serpil Pehlivan
     year: 2014
     language: Turkish
     isbn: '9786054836574'
@@ -921,8 +960,11 @@ titles:
         url: https://openlibrary.org/books/OL25607846M
     verified: false
   - title: Dünya Dinleri ve İktidar
+    original_title: 'The Meek and the Militant: Religion and Power Across the World'
     authors:
       - Paul N. Siegel
+    translators:
+      - Selin Dingiloğlu
     year: 2014
     language: Turkish
     isbn: '9786054836413'
@@ -941,8 +983,11 @@ titles:
         url: https://openlibrary.org/books/OL25607844M
     verified: false
   - title: Germinal
+    original_title: Germinal
     authors:
       - Émile Zola
+    translators:
+      - Hamdi Varoğlu
     year: 2014
     language: Turkish
     isbn: '9786054836628'
@@ -956,6 +1001,8 @@ titles:
   - title: İlahi Komedya Manga
     authors:
       - Dante Alighieri
+    editors:
+      - İnan Öner
     year: 2014
     language: Turkish
     pages: 216
@@ -986,6 +1033,11 @@ titles:
     subtitle: Ekonomi Politiğin Eleştirisi
     authors:
       - Karl Marx
+    editors:
+      - Erkin Özalp
+      - Oktar Türel
+    translators:
+      - Nail Satılgan
     year: 2014
     language: Turkish
     pages: 875
@@ -1013,9 +1065,12 @@ titles:
     verified: true
     series: Yordam kitap; 225
   - title: Komünist Manifesto
+    original_title: Manifest der Kommunistischen Partei
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
+      - Nail Satılgan
     year: 2014
     language: Turkish
     pages: 128
@@ -1036,8 +1091,11 @@ titles:
     verified: false
   - title: Lenin, Hegel ve Batı Marksizmi
     subtitle: Eleştirel Bir İnceleme
+    original_title: 'Lenin, Hegel, and Western Marxism: A Critical Study'
     authors:
       - Kevin B. Anderson
+    translators:
+      - Ertan Günçiner
     year: 2014
     language: Turkish
     pages: 496
@@ -1048,8 +1106,11 @@ titles:
     verified: false
   - title: Marksist Dünya Tarihi
     subtitle: Neandertallerden Neoliberallere
+    original_title: 'A Marxist History of the World: From Neanderthals to Neoliberals'
     authors:
       - Neil Faulkner
+    translators:
+      - Tuncel Öncel
     year: 2014
     language: Not recorded
     isbn: '9786054836666'
@@ -1059,8 +1120,11 @@ titles:
     verified: false
   - title: Marksist İktisat El Kitabı
     subtitle: Temel Kavramlar
+    original_title: 'Marxist Economics: A Handbook of Basic Definitions'
     authors:
       - Allen Myers
+    translators:
+      - Nail Satılgan
     year: 2014
     language: Turkish
     isbn: '9789944122375'
@@ -1069,8 +1133,11 @@ titles:
         url: https://openlibrary.org/books/OL25607834M
     verified: false
   - title: Marx Neden Haklıydı?
+    original_title: Why Marx was right
     authors:
       - Terry Eagleton
+    translators:
+      - Oya Köymen
     year: 2014
     language: Turkish
     pages: 272
@@ -1098,8 +1165,11 @@ titles:
         url: https://lccn.loc.gov/2013342915
     verified: true
   - title: Marx's 'Das Kapital' For Beginners
+    original_title: Marx's 'Das Kapital' For Beginners
     authors:
       - Mike Wayne
+    translators:
+      - Ümit Şenesen
     year: 2014
     language: Turkish
     isbn: '9786054836604'
@@ -1108,8 +1178,11 @@ titles:
         url: https://openlibrary.org/books/OL25607842M
     verified: false
   - title: Merhamet
+    original_title: Ungeduld des Herzens
     authors:
       - Stefan Zweig
+    translators:
+      - Deniz Banoğlu
     year: 2014
     language: Turkish
     isbn: '9786055541811'
@@ -1119,8 +1192,12 @@ titles:
     verified: false
   - title: Neoliberalizm
     subtitle: Muhalif Bir Seçki
+    original_title: 'Neoliberalism: A Critical Reader'
     authors:
       - Alfredo Saad-Filho
+    translators:
+      - Şeyda Başlı
+      - Tuncel Öncel
     year: 2014
     language: Turkish
     isbn: 978-9944-122-30
@@ -1156,6 +1233,8 @@ titles:
     subtitle: Manga
     authors:
       - Lev Nikolayevic Tolstoy, Huseyin Can Erkin, East Press
+    translators:
+      - H. Can Erkin
     year: 2014
     date_note: Oct 29, 2014
     language: Turkish
@@ -1168,8 +1247,11 @@ titles:
         url: https://openlibrary.org/books/OL25607826M
     verified: false
   - title: Sermaye İmparatorluğu
+    original_title: Empire of Capital
     authors:
       - Ellen Meiksins Wood
+    translators:
+      - Oya Köymen
     year: 2014
     language: Turkish
     pages: 192
@@ -1181,6 +1263,8 @@ titles:
   - title: Tanrı'nın Ölümü ve Kültür
     authors:
       - Terry Eagleton
+    translators:
+      - Selin Dingiloğlu
     year: 2014
     language: Turkish
     pages: 272
@@ -1191,8 +1275,11 @@ titles:
     verified: false
   - title: Ulusların Sağlığı
     subtitle: Yeni Bir Ekonomi Politiğe Doğru
+    original_title: 'The Health of Nations: Towards a New Political Economy'
     authors:
       - Gavin H. Mooney
+    translators:
+      - Cem Terzi
     year: 2014
     language: Turkish
     isbn: '9786054836550'
@@ -1204,6 +1291,7 @@ titles:
     subtitle: 'Stefan Zweig. Çeviren: Deniz Banoğlu'
     authors:
       - Stefan Zweig
+    translators:
       - Deniz Banoğlu
     year: 2014
     language: Turkish
@@ -1302,6 +1390,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=845275763
     verified: true
   - title: Feodalizmden kapitalizme, Osmanlı'dan Türkiye'ye
+    original_title: Développement du capitalisme dans l'agriculture de Turquie
     series: Yordam kitap; 278
     authors:
       - Oğuz Oyan
@@ -1324,6 +1413,7 @@ titles:
   - title: Suriye Kürdistanı'nda Savaş ve Devrim
     authors:
       - Thomas Schmidinger
+    translators:
       - Sevinç Altinçekiç
     year: 2016
     language: Turkish
@@ -1370,6 +1460,7 @@ titles:
     subtitle: On dört tarihsel minyatür
     authors:
       - Stefan Zweig
+    translators:
       - Deniz Banoğlu
     year: 2016
     language: Turkish
@@ -1432,12 +1523,14 @@ titles:
     verified: true
   - title: Büyük bir devletin doğuşu - Osmanlılar (1300-1481)
     subtitle: Osmanlı feodalizminin oluşum süreci
+    original_title: Die Geburt einer Grossmacht - die Osmanen (1300 - 1481)$dein Beitrag zur Genesis des türkischen Feudalismus
     series: Yordam kitap; 208
     authors:
       - Ernst Werner
+      - Taner Timur
+    translators:
       - Orhan Esen
       - Yılmaz Öner
-      - Taner Timur
     year: 2019
     language: Turkish
     sources:

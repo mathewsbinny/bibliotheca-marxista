@@ -27,6 +27,8 @@ titles:
     verified: true
   - title: Crna Gora 1941-1945
     authors: []
+    editors:
+      - Veselin Đuranović
     year: 1966
     language: Serbian
     pages: 252
@@ -70,6 +72,9 @@ titles:
     subtitle: Crnogorske narodne poslovice, izreke, kletve, blagoslovi
     authors:
       - Joksim Radović
+    editors:
+      - Milorad Stojović
+      - Milorad Stoјoviћ (Милорад Стојовић)
     year: 1975
     series: Posebna izdanja
     language: Serbian
@@ -221,6 +226,8 @@ titles:
   - title: Rat crnogorski
     authors:
       - Nikola I. King of Montenegro
+    editors:
+      - Branko Banjević
     year: 1975
     series: Biblioteka Luča
     language: Serbian
@@ -656,6 +663,8 @@ titles:
   - title: Spomenik
     authors:
       - Stevan Bulajić
+    editors:
+      - Milorad Stojović
     year: 1976
     series: Biblioteka Luc̆a
     language: Serbian
@@ -797,6 +806,8 @@ titles:
     subtitle: Antologija crnogorskih narodnih bajki
     authors:
       - Slavko Janevski
+    editors:
+      - Radoje Radojević
     year: 1976
     language: Serbian
     pages: 419
@@ -1475,6 +1486,7 @@ titles:
         url: https://search.worldcat.org/title/79747145
     verified: true
   - title: Art Treasures of Montenegro
+    original_title: Umjetničko blago Crne Gore
     authors:
       - Pavle Mijović
     year: 1980
@@ -1638,6 +1650,7 @@ titles:
     authors:
       - Stefan Morawski
       - Milan Damnjanović
+    translators:
       - Jugana Stojanović
     year: 1980
     language: Serbian
@@ -1652,8 +1665,10 @@ titles:
         url: https://search.worldcat.org/title/912869935
     verified: true
   - title: Montenegro
+    original_title: Crna Gora
     authors:
       - Marko Špadijer
+    translators:
       - Brigitte Baumbusch
     year: 1980
     language: English
@@ -2532,9 +2547,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb41719546w
     verified: true
   - title: Istorija o Crnoj Gori
+    original_title: Istorija o Černoj Gory
     series: Biblioteka Montenegrina; 3
     authors:
       - Vasilije
+    translators:
       - Radmilo Marojevič
     year: 1985
     language: Serbian
@@ -2570,6 +2587,9 @@ titles:
   - title: Memoari
     authors:
       - Gavro Vuković
+    editors:
+      - Slobodan Tomović
+      - Slobodan Tomoviћ (Слободан Томовић)
     year: 1985
     series: Biblioteka Posebna izdanja
     language: Serbian
@@ -2870,6 +2890,8 @@ titles:
     subtitle: Kritičko izdanje
     authors:
       - Marko Miljanov
+    editors:
+      - Dušan Kostić
     year: 1989
     language: Serbian
     isbn: '8672510163'

@@ -689,6 +689,10 @@ titles:
     verified: true
   - title: Narodna književnost Srba na Kosovu
     authors: []
+    editors:
+      - Vladimir Bovan
+      - Vladimir Cvetanović
+      - Milenko Jevtović
     year: 1980
     language: Serbian
     sources:
@@ -1774,10 +1778,12 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb43746167x
     verified: false
   - title: Čergarske vatre
+    original_title: Čergarendje jaga
     authors:
+      - Marcel Courthiade
+    translators:
       - Alija Krasnići
       - Aliјa Krasniћi (Алија Краснићи)
-      - Marcel Courthiade
     language: Serbian
     sources:
       - title: SUDOC record 286786826

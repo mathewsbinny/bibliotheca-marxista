@@ -61,6 +61,7 @@ titles:
     verified: true
     pages: 181
   - title: El hijo del elefante
+    original_title: Elephant's childe
     series: Colección zunzún
     authors:
       - Rudyard Kipling
@@ -385,6 +386,7 @@ titles:
     verified: true
   - title: Precisamente asi
     subtitle: Historia para los niños y para los que aman a los niños
+    original_title: Just so, stories for little children
     series: Colección Nautilus
     authors:
       - Rudyard Kipling
@@ -531,6 +533,7 @@ titles:
         url: https://search.worldcat.org/title/3546248
     verified: true
   - title: El corsario negro
+    original_title: Il Corsaro nero
     series: Colección aventuras
     authors:
       - Emilio Salgari
@@ -555,9 +558,10 @@ titles:
   - title: El piloto y yo
     authors:
       - Adam Bahdaj
-      - Georgina Cuervo
       - Danuta Konwicka
       - Wydawnictwo "Nasza Księgarnia"
+    translators:
+      - Georgina Cuervo
     year: 1973
     language: Spanish
     sources:
@@ -597,6 +601,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb43434449m
     verified: true
   - title: La estrella del sur
+    original_title: L'étoile du sud
     authors:
       - Jules Verne
     year: 1973
@@ -709,6 +714,7 @@ titles:
     verified: true
   - title: Ante la bandera
     subtitle: 'Julio Verne; Ed.: Georgina D. Cuervo Cerulia; Cub, y siseño: José Gonzalez Rodriguez; Il.: René Martinez Sopeña'
+    original_title: Face au drapeau
     series: Colección aventuras
     authors:
       - Jules Verne
@@ -845,6 +851,7 @@ titles:
     verified: true
   - title: Dos años de vacaciones
     subtitle: 'Julio Verne; Ed.: Georgina D. Cuervo Cerulia: Cub. e il.: Alberto Mirabal Chaple'
+    original_title: Deux Ans de vancances
     series: Colección aventuras
     authors:
       - Jules Verne
@@ -972,6 +979,7 @@ titles:
     verified: true
   - title: Kerabán el testarudo
     subtitle: 'Julio Verne; Ed.: Georgina D. Cuervo Cerulia; Cub.: Armando Millares Blanco'
+    original_title: Keraban, le têtu
     series: Colección aventuras
     authors:
       - Jules Verne
@@ -1071,6 +1079,8 @@ titles:
   - title: Pintores cubanos
     authors:
       - Museo Nacional de Cuba
+    editors:
+      - Mercedes Vich Adell
     year: 1974
     language: Spanish
     pages: 66
@@ -1231,6 +1241,7 @@ titles:
   - title: Die Moncada
     authors:
       - Mercedes Vich Adell
+    translators:
       - Volker Koepp
     year: 1975
     language: German
@@ -1837,8 +1848,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=442357915
     verified: true
   - title: El conde de Monte Cristo
+    original_title: Le comte de Monte-Cristo
     authors:
       - Alexandre Dumas
+    translators:
+      - Maria Teresa Garcia
     year: 1977
     language: Spanish
     sources:
@@ -2683,6 +2697,7 @@ titles:
         url: https://search.worldcat.org/title/11101792
     verified: true
   - title: Gorki y la literatura para niños y jóvenes
+    original_title: Ceux qui écrivent pour les enfants
     authors:
       - Maksim Gorʹkij
       - Waldo González López
@@ -3175,6 +3190,8 @@ titles:
   - title: Antes de que Nazca un nino
     authors:
       - Heinrich Bruckner
+    translators:
+      - Francisco Diaz Soler
     year: 1979
     language: Spanish
     sources:
@@ -3313,6 +3330,8 @@ titles:
     subtitle: Explicaciones para padres y educadores acerca del libro
     authors:
       - Heinrich Bruckner
+    translators:
+      - Francisco Diaz Soler
     year: 1979
     language: Spanish
     sources:
@@ -3515,8 +3534,11 @@ titles:
     verified: true
     series: Arco Iris
   - title: El millon
+    original_title: Devisement du monde
     authors:
       - Marco Polo
+    translators:
+      - Benjamín Jarnés
     year: 1979
     language: Spanish
     sources:
@@ -3858,6 +3880,8 @@ titles:
     authors:
       - Ernesto Morales
       - María Cristina Eduardo
+    editors:
+      - Maria Cristina Eduardo Vazquez
     year: 1979
     language: Spanish
     sources:
@@ -3871,6 +3895,7 @@ titles:
         url: https://search.worldcat.org/title/912889030
     verified: true
   - title: Ḻlévame, Tony!
+    original_title: Nimm mich mit
     series: Liliput
     authors:
       - Thomas Schleusing
@@ -3885,6 +3910,8 @@ titles:
       - Antonio Maceo
       - Pedro Alvarez Tabío
       - Juan J. Soto Valdespino
+    editors:
+      - Pedro Alvarez Tabio
     year: 1979
     edition: 2a ed. rev
     language: Spanish
@@ -4179,6 +4206,7 @@ titles:
     verified: true
   - title: Cuando tu hijo te pregunta
     subtitle: Explicaciones para padres y educadores acerca del libro Antes de que nazca un niño
+    original_title: Wenn dein Kind dich fragt
     authors:
       - Heinrich Brückner
     year: 1980
@@ -4235,6 +4263,7 @@ titles:
         url: https://d-nb.info/997465492
     verified: true
   - title: Duerme, querida Elsita
+    original_title: Schlafe, liebes Elselein
     authors:
       - August Heinrich Hoffmann von Fallersleben
       - Erika Klein
@@ -4683,6 +4712,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=437381285
     verified: true
   - title: Pare conejito Willi
+    original_title: Stop für Willi
     authors:
       - Thomas Schallnau
       - Excilia Saldaña
@@ -4828,6 +4858,7 @@ titles:
         url: https://d-nb.info/368995119
     verified: true
   - title: ¿Piensas ya en el amor?
+    original_title: Denkst Du schon an Liebe?
     authors:
       - Heinrich Brückner
       - Olga Sánchez Guevara
@@ -5231,6 +5262,9 @@ titles:
   - title: Cartas à Maria Mantilla
     authors:
       - José Martí
+    editors:
+      - E. López Ugarte
+      - Norma Padilla Ceballos
     year: 1982
     language: Spanish
     sources:
@@ -5650,9 +5684,10 @@ titles:
   - title: El piloto y yo
     authors:
       - Adam Bahdaj
-      - Georgina Cuervo
       - Danuta Konwicka
       - Wydawnictwo "Nasza Księgarnia"
+    translators:
+      - Georgina Cuervo
     year: 1983
     language: Spanish
     sources:
@@ -6596,6 +6631,7 @@ titles:
         url: https://lccn.loc.gov/98102431
     verified: true
   - title: El tigre en la vitrina
+    original_title: Το καπλάνι της βιτρίνας
     authors:
       - Άλκη Ζέη
     year: 1985
@@ -6779,6 +6815,7 @@ titles:
         url: https://lccn.loc.gov/93238797
     verified: true
   - title: Mi familia y yo
+    original_title: Já a nase rodina
     authors:
       - Irena Jakubcová
       - Luboš Grunt
@@ -7355,6 +7392,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/101137924
     verified: true
   - title: Cuentos de la Alhambra
+    original_title: The Alhambra
     authors:
       - Washington Irving
     year: 1987
@@ -7482,6 +7520,7 @@ titles:
   - title: La tritogenia de demócrito
     authors:
       - Anatolij I. Dombrovskij
+    translators:
       - René Gómez Manzano
     year: 1987
     language: Spanish
@@ -7774,6 +7813,7 @@ titles:
     verified: true
   - title: El cumpleanos de Hoyitos
     subtitle: Una historia totalmente asombrosa
+    original_title: Grübchens Geburtstag. -- Hoyitos is sad because her birthday falls in November, a month in which nothing happens and the sky is dull and grey. But when she winds her toy watch, it begins to run backwards and extraordinary things occur
     authors:
       - Chris Hornbogen
       - Barbara Schumann
@@ -7842,6 +7882,7 @@ titles:
   - title: Lili y el globo
     authors:
       - Thomas Schleusing
+    translators:
       - Olga Sánchez Guevara
     year: 1988
     language: Spanish
@@ -7865,6 +7906,7 @@ titles:
         url: https://d-nb.info/994118813
     verified: true
   - title: Los instrumentos musicales
+    original_title: Hudební nástroja
     authors:
       - Miloslav Klement
     year: 1988
@@ -8391,6 +8433,8 @@ titles:
     subtitle: Selecciones
     authors:
       - Alejandro Casona
+    editors:
+      - Ricardo Gómez López
     year: 1991
     language: Spanish
     pages: 111
@@ -8656,6 +8700,8 @@ titles:
   - title: Paloma del viento libre
     authors:
       - Adolfo Menéndez Alberdi
+    editors:
+      - Denia García Ronda
     year: 1992
     edition: 1. ed
     series: Biblioteca escolar
@@ -8968,6 +9014,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=176476725X
     verified: true
   - title: El principito
+    original_title: Le petit prince
     series: Biblioteca escolar
     authors:
       - Antoine de Saint-Exupéry
@@ -9514,6 +9561,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991040740099708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Contra tu pecho desnudo
+    original_title: Leaves of grass
     series: Biblioteca juvenil
     authors:
       - Walt Whitman
@@ -9589,6 +9637,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991003969519708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Dafnis y Cloe
+    original_title: Dafnis y Cloe
     authors:
       - Longo
       - Juan Varela
@@ -10205,6 +10254,8 @@ titles:
   - title: Juan Ligero y el Gallo Encantado
     authors:
       - Dora Alonso
+    editors:
+      - Mirta Andreu Dominguez
     year: 2000
     series: Biblioteca Escolar
     language: Spanish
@@ -10422,6 +10473,8 @@ titles:
   - title: Cartas a Julio Orlando
     authors:
       - Dulce María Loynaz
+    editors:
+      - Aldo Martínez Malo
     year: 2002
     edition: 2. ed
     language: Spanish
@@ -11366,6 +11419,8 @@ titles:
     subtitle: Antología de cuentos humorísticos de ciencia ficción
     authors:
       - Carlos Duarte Cano
+    editors:
+      - Yoss
     year: 2014
     series: Ámbar
     language: Spanish
@@ -11541,6 +11596,8 @@ titles:
   - title: La Edad de Oro
     authors:
       - José Martí
+    editors:
+      - Janet Rayneri Martínez
     year: 2015
     edition: Décima edición
     language: Spanish
@@ -11606,6 +11663,8 @@ titles:
   - title: Te regalo el cielo
     authors:
       - Arístides Vega Chapú
+    editors:
+      - Josefa Quintana
     year: 2015
     language: Spanish
     isbn: '9789590818035'

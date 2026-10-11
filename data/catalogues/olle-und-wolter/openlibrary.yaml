@@ -91,6 +91,7 @@ titles:
         url: https://openlibrary.org/books/OL25190795M
     verified: true
     subtitle: (Ins Dt. übertr. von Werner Olle [u.a.])
+    original_title: The decline of the Dollar
   - title: Die Novemberrevolution
     subtitle: Richard Müller
     authors:
@@ -858,6 +859,8 @@ titles:
       - Karl Marx
       - David Borisovič Rjazanov
       - Bernd Rabehl
+    editors:
+      - Ulf Wolter
     year: 1977
     language: German
     sources:
@@ -868,8 +871,12 @@ titles:
     verified: true
   - title: Die Krise der Kommunistischen Bewegung
     subtitle: Von der Komintern zur Kominform
+    original_title: La crise du mouvement communiste
     authors:
       - Fernando Claudín
+    translators:
+      - Friedrich Krabbe
+      - Hans-Ulrich Laukat
     year: 1977
     language: German
     sources:
@@ -1113,6 +1120,7 @@ titles:
     verified: true
   - title: Weltmarktkonkurrenz und Industrialisierung Deutschlands 1870-1914
     subtitle: Eine Untersuchung zur nationalen und internationalen Geschichte der kapitalistischen Produktionsweise
+    original_title: Grundlinien der kapitalistischen Industrialisierung Deutschlands 1870 - 1914 im Rahmen imperialistischer Weltmarktkonkurrenz
     authors:
       - Willfried Spohn
     year: 1977
@@ -1256,6 +1264,8 @@ titles:
     series: 'Die Betriebsräte in der Weimarer Republik: von der Selbstverwaltung zur Mitbestimmung / R. Crusius .. (Hrsg.); 2'
     authors:
       - Kurt Brigl-Matthiass
+    editors:
+      - Reinhard Crusius
     year: 1978
     language: German
     sources:
@@ -1271,8 +1281,11 @@ titles:
     subtitle: Mit einer Einl. von Reinhard Hoffmann
   - title: Das Gewissen der Revolution
     subtitle: Kommunist. Opposition in d. Sowjetunion
+    original_title: The conscience of the revolution
     authors:
       - Robert Vincent Daniels
+    translators:
+      - Karl Römer
     year: 1978
     language: German
     sources:
@@ -1350,6 +1363,8 @@ titles:
     authors:
       - Reinhard Crusius
       - Manfred Wilke
+    editors:
+      - Günter Schiefelbein
     year: 1978
     series: Kritische Bibliothek der Arbeiterbewegung; [Text Nr. 5-6]
     language: German
@@ -1450,6 +1465,8 @@ titles:
   - title: Die Krise der kommunistischen Bewegung
     authors:
       - Fernando Claudín
+    translators:
+      - Hans-Ulrich Laukat
     year: 1978
     language: German
     sources:
@@ -1504,6 +1521,8 @@ titles:
     authors:
       - Adolf Brock
       - Reinhold Crusius
+    editors:
+      - Reinhard Crusius
     year: 1978
     language: German
     sources:
@@ -1706,6 +1725,7 @@ titles:
     verified: true
   - title: Antonio Gramsci
     subtitle: E. krit. Würdigung
+    original_title: The antinomies of Antonio Gramsci
     authors:
       - Perry Anderson
     year: 1979
@@ -1792,6 +1812,11 @@ titles:
     subtitle: 'Aufzeichnungen, Berichte und Referate: (Dokumentation des Bahro-Kongresses vom 16.-19. November 1978 in der Technischen Universität Berlin)'
     authors:
       - Bahro-Kongress (1978 Technische Universität Berlin)
+    editors:
+      - Karin Weber
+      - Walter Süss
+      - Rudolf Steinke
+      - Kristina Mänicke-Gyöngyösi
     year: 1979
     language: German
     pages: 255
@@ -1985,6 +2010,8 @@ titles:
     subtitle: Kämpferin für e. emanzipator. Sozialismus
     authors:
       - Norman Geras
+    translators:
+      - Klaus Kochmann
     year: 1979
     language: German
     sources:
@@ -2000,6 +2027,7 @@ titles:
         url: https://search.worldcat.org/title/836549520
     verified: true
   - title: 'Rosa Luxemburg: Kämpferin für einen emanzipatorischen Sozialismus'
+    original_title: The legacy of Rosa Luxemburg
     authors:
       - Norman Geras
     year: 1979
@@ -2050,6 +2078,7 @@ titles:
         url: https://d-nb.info/550448705
     verified: true
     subtitle: Eine politische Biographie
+    original_title: Stalin
   - title: Verelendungsprozesse und Widerstandsformen
     series: Lateinamerika; 3
     authors:
@@ -2229,8 +2258,11 @@ titles:
     verified: true
   - title: Die Töchter Egalias
     subtitle: E. Roman über d. Kampf d. Geschlechter
+    original_title: Egalias døtre
     authors:
       - Gerd Brantenberg
+    translators:
+      - Elke Radicke
     year: 1980
     language: German
     sources:
@@ -2334,6 +2366,8 @@ titles:
   - title: Europäische Gewerkschaften
     authors:
       - Werner Olle
+    editors:
+      - Marion F. Hellmann
     year: 1980
     language: German
     pages: 252
@@ -2593,6 +2627,8 @@ titles:
     subtitle: Perspektiven der 80er Jahre
     authors:
       - Rudolf Bahro
+    editors:
+      - Ulf Wolter
     year: 1980
     edition: 1. Aufl
     series: Edition Vielfalt
@@ -2641,6 +2677,8 @@ titles:
     subtitle: Eine fragmentarische Autobiographie
     authors:
       - Rudi Dutschke
+    editors:
+      - Ulf Wolter
     year: 1981
     language: German
     pages: 204
@@ -2681,6 +2719,7 @@ titles:
     verified: true
   - title: Die grosse Spaltung
     subtitle: D. dt. Sozialdemokratie 1905 - 1917
+    original_title: German social democracy 1905-1917
     authors:
       - Carl E. Schorske
     year: 1981
@@ -2704,6 +2743,7 @@ titles:
     verified: true
   - title: Die Töchter Egalias
     subtitle: Ein Roman über den Kampf der Geschlechter
+    original_title: Egalias døtre
     authors:
       - Gerd Brantenberg
       - Wilfried Sczepan
@@ -2742,6 +2782,8 @@ titles:
   - title: Geisel Europa
     authors:
       - Wolf Perdelwitz
+    editors:
+      - Ulf Wolter
     year: 1981
     language: German
     pages: 352
@@ -2774,6 +2816,7 @@ titles:
     verified: true
   - title: Leo Trotzki
     subtitle: E. Einf. in sein Denken
+    original_title: Trotsky
     authors:
       - Ernest Mandel
     year: 1981
@@ -2864,6 +2907,7 @@ titles:
     subtitle: Ein Roman über den Kampf der Geschlechter
     authors:
       - Gerd Brantenberg
+    translators:
       - Elke Radicke
     year: 1982
     language: German
@@ -2875,8 +2919,14 @@ titles:
     verified: true
   - title: Die Vernichtung der Europäischen Juden
     subtitle: Die Gesamtgeschichte des Holocaust
+    original_title: The destruction of the European Jews
     authors:
       - Raul Hilberg
+    translators:
+      - Christian Seeger
+      - Harry Maòr
+      - Walle Bengs
+      - Wilfried Sczepan
     year: 1982
     language: German
     pages: 840
@@ -2921,6 +2971,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=125238320
     verified: true
   - title: Mädchenwelten
+    original_title: Sangen om St. Croix
     authors:
       - Gerd Brantenberg
     year: 1982
@@ -3050,10 +3101,12 @@ titles:
     verified: true
   - title: Die Töchter Egalias
     subtitle: Ein Roman über den Kampf der Geschlechter
+    original_title: Egalias døtre
     authors:
       - Gerd Brantenberg
-      - Elke Radicke
       - Wilfried Sczepan
+    translators:
+      - Elke Radicke
     year: 1984
     language: German
     sources:

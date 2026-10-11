@@ -128,9 +128,12 @@ titles:
         url: https://openlibrary.org/books/OL18525296M
     verified: true
   - title: A hamis Nero
+    original_title: Der falsche Nero
     authors:
       - Lion Feuchtwanger
       - László Dormandi
+    translators:
+      - Ladislas Dormandi
     year: 1958
     language: Hungarian
     sources:
@@ -214,6 +217,8 @@ titles:
   - title: Egy marék arany
     authors:
       - John Steinbeck
+    translators:
+      - Tamás Ungvári
     year: 1958
     language: Not recorded
     pages: 247
@@ -690,6 +695,7 @@ titles:
     verified: true
   - title: “A” Második világháború történetének meghamisítói ellen
     subtitle: (Tanulmányok)
+    original_title: Protiv falʹsifikacii istorii Vtoroj mirovoj vojny
     authors:
       - József Nyirő
     year: 1961
@@ -813,6 +819,7 @@ titles:
   - title: A millió elefánt országában
     authors:
       - Wojciech Żukrowski
+    translators:
       - Mihály Bába
     year: 1962
     language: Hungarian
@@ -1080,6 +1087,7 @@ titles:
         url: https://search.worldcat.org/title/1036309464
     verified: true
   - title: Hadászat
+    original_title: Voennaja strategija
     authors:
       - Vasilij D. Sokolovskij
     year: 1964
@@ -1586,6 +1594,8 @@ titles:
     verified: true
   - title: Tanulmányok a katonai nevelés köréből
     authors: []
+    editors:
+      - Sándor Vladár
     year: 1966
     language: Hungarian
     sources:
@@ -1899,6 +1909,7 @@ titles:
     subtitle: Regény
     authors:
       - Władysław Jarnicki
+    translators:
       - Mihály Bába
     year: 1968
     language: Hungarian
@@ -2146,10 +2157,12 @@ titles:
     verified: true
   - title: Maskenball
     subtitle: Roman für junge Mädchen
+    original_title: Álarcosbál
     authors:
       - Magda Szabó
-      - Mirza Schüching
       - Károly Reich
+    translators:
+      - Mirza Schüching
     year: 1968
     language: German
     sources:
@@ -2424,6 +2437,8 @@ titles:
     verified: true
   - title: Haditechnika, 1970
     authors: []
+    editors:
+      - Tibor Sárdy
     year: 1969
     language: Hungarian
     pages: 207
@@ -2517,6 +2532,8 @@ titles:
     subtitle: Dokumentumok a magyar antifasiszta ellenállási mozgalom, történetéböl, 1941-1945. Szerk. Harsányi János. A szerkesztésben részt vett Gazsi József
     authors:
       - János Harsányi
+    editors:
+      - József Gazsi
     year: 1969
     edition: 2. Kiad
     language: Hungarian
@@ -2685,6 +2702,8 @@ titles:
   - title: A Honvédelmi nevelés módszertani kérdései
     subtitle: Módszertani segédkönyv az általános és középiskolai tanárok számára
     authors: []
+    editors:
+      - László Bodó
     year: 1970
     edition: 2., átdolg. kiad
     language: Hungarian
@@ -3022,8 +3041,10 @@ titles:
         url: https://lccn.loc.gov/79299105
     verified: true
   - title: A pokolbeli légió
+    original_title: Die Stunde der toten Augen
     authors:
       - Harry Thürk
+    translators:
       - Ferenc Rátkai
     year: 1971
     language: Hungarian
@@ -3147,6 +3168,7 @@ titles:
     verified: true
   - title: Oroszország nagy háborúja
     subtitle: 1941-1945
+    original_title: Russia at war
     authors:
       - Alexander Werth
     year: 1971
@@ -3207,6 +3229,8 @@ titles:
   - title: A barna téboly
     subtitle: Antológia
     authors: []
+    editors:
+      - Endre Kajetán
     year: 1972
     language: Hungarian
     sources:
@@ -3215,6 +3239,8 @@ titles:
     verified: true
   - title: A Hadtudományi kutatásról
     authors: []
+    editors:
+      - József Lantódi
     year: 1972
     language: Hungarian
     pages: 266
@@ -3243,6 +3269,7 @@ titles:
   - title: Az atomháború első száz órája
     authors:
       - Henryk Michalski
+    translators:
       - Beatrix Murányi
     year: 1972
     language: Hungarian
@@ -3297,6 +3324,7 @@ titles:
   - title: Jan Marten kalóz regényes históriája
     authors:
       - Janusz Meissner
+    translators:
       - Grácia Kerényi
     year: 1972
     language: Hungarian
@@ -3455,6 +3483,7 @@ titles:
   - title: A korszerű harc társadalompszichológiai jelenségei
     authors:
       - Przemysław Przewłocki
+    translators:
       - Beatrix Murányi
     year: 1973
     language: Hungarian
@@ -3729,6 +3758,7 @@ titles:
   - title: Katonai didaktika
     authors:
       - Jan Bogusz
+    translators:
       - Beatrix Murányi
     year: 1974
     language: Hungarian
@@ -3892,6 +3922,7 @@ titles:
   - title: A Virtuti Militari lovagjai
     authors:
       - Kazimierz Radowicz
+    translators:
       - Murányi Beatrix
     year: 1975
     language: Hungarian
@@ -4224,6 +4255,7 @@ titles:
   - title: A katona pszichikai állapota
     authors:
       - Zdzisław Rydzyński
+    translators:
       - Beatrix Murányi
     year: 1976
     language: Hungarian
@@ -4332,6 +4364,7 @@ titles:
   - title: Frontutak
     authors:
       - Waldemar Kotowicz
+    translators:
       - Mihály Bába
     year: 1976
     language: Hungarian
@@ -4435,8 +4468,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=168619970
     verified: true
   - title: Pearl Harbor
+    original_title: Pearl Harbor
     authors:
       - Harry Thürk
+    translators:
       - Imre Katalin
     year: 1976
     language: Hungarian
@@ -4449,8 +4484,9 @@ titles:
   - title: Pszichológia a harcban és a katonai vezetésben
     authors:
       - Jerzy Cendrowski
-      - Dániel Pfeifer
       - Stefan Swebocki
+    translators:
+      - Dániel Pfeifer
     year: 1976
     language: Hungarian
     sources:
@@ -4695,8 +4731,9 @@ titles:
   - title: A könyvhöz/ Pablo Neruda. Ford. Somlyó György
     authors:
       - Pablo Neruda
-      - György Somlyó
       - Tibor Szántó
+    translators:
+      - György Somlyó
     year: 1977
     language: Hungarian
     sources:
@@ -4769,8 +4806,11 @@ titles:
         url: https://search.worldcat.org/title/947205916
     verified: true
   - title: Brodarics históriája a Mohácsi vészröl
+    original_title: De conflictu Hungarorum cum Turcis ad Mohatz verissima descriptio
     authors:
       - István Brodarics
+    translators:
+      - Imre Szentpétery
     year: 1977
     language: Not recorded
     sources:
@@ -5497,6 +5537,7 @@ titles:
   - title: A hidfö
     authors:
       - Adam Kaska
+    translators:
       - Mihály Bába
       - Beatrix Murányi
     year: 1979
@@ -5682,6 +5723,7 @@ titles:
         url: https://lccn.loc.gov/79392053
     verified: true
   - title: Hajsza
+    original_title: Youngblood Hawke
     authors:
       - Herman Wouk
       - Éva Zentai
@@ -6162,6 +6204,7 @@ titles:
     verified: true
   - title: Monumenta cartografica
     subtitle: Budavár erödítési térképe 1749
+    original_title: Plan de la forteresse de Bude
     authors:
       - Lászlo Csendes
     year: 1980
@@ -6573,6 +6616,10 @@ titles:
     series: Tisztek könyvtára
     authors:
       - István Kovács
+    editors:
+      - N. F. Fegyenko
+    translators:
+      - Ibolya Barna
     year: 1981
     language: Hungarian
     sources:
@@ -6668,6 +6715,8 @@ titles:
   - title: Űrhajózási lexikon
     authors:
       - András Horváth
+    editors:
+      - Iván Almár
     year: 1981
     language: Hungarian
     pages: 999
@@ -6755,8 +6804,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991149620219705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: A fellegvár
+    original_title: Kështjella
     authors:
       - Ismail Kadare
+    translators:
       - Rozsnyai Ervin
     year: 1982
     language: Hungarian
@@ -6858,8 +6909,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991047829359705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Déltengerek
+    original_title: Los mares del Sur
     authors:
       - Manuel Vázquez Montalbán
+    translators:
+      - Judit Patkós
     year: 1982
     language: Hungarian
     pages: 215
@@ -7600,6 +7654,8 @@ titles:
   - title: A Dunántúl hadi krónikája, 1944-1945
     authors:
       - D. Csaba Veress
+    editors:
+      - György Váradi
     year: 1984
     language: Hungarian
     pages: 372
@@ -8029,6 +8085,8 @@ titles:
   - title: Magyarország hadtörténete
     authors:
       - Ervin Liptai
+    editors:
+      - József Borus
     year: 1984
     language: Hungarian
     isbn: '9633263352'
@@ -8493,6 +8551,7 @@ titles:
   - title: Kambodzsai napló
     authors:
       - Wiesław Górnicki
+    translators:
       - László Sándor
     year: 1985
     language: Hungarian
@@ -8611,6 +8670,7 @@ titles:
   - title: Mindenki és senki
     authors:
       - Janusz Przymanowski
+    translators:
       - Klára Simándi
     year: 1985
     language: Hungarian
@@ -8712,6 +8772,8 @@ titles:
     subtitle: Visszaemlékezések az 1945-1948-as évekre
     authors:
       - Gábor Nagy
+    editors:
+      - Lajos Móricz
     year: 1985
     edition: 2., bőv. kiad
     language: Hungarian
@@ -8786,6 +8848,9 @@ titles:
     verified: true
   - title: Zrínyi-könyvtár
     authors: []
+    editors:
+      - Tibor Klaniczay
+      - Sándor Iván Kovács
     year: 1985
     language: Hungarian
     sources:
@@ -9121,6 +9186,8 @@ titles:
     subtitle: Münnich Ferenc válogatott beszédei és írásai
     authors:
       - Ferenc Münnich
+    editors:
+      - Tibor Hetés
     year: 1986
     language: Hungarian
     pages: 216
@@ -9620,6 +9687,8 @@ titles:
     subtitle: Válogatott elbeszélések
     authors:
       - Gyula Krúdy
+    editors:
+      - V. Lajos Mohai
     year: 1987
     series: Zrínyi-zsebkönyvek
     language: Hungarian
@@ -9954,6 +10023,8 @@ titles:
     verified: true
   - title: Korok és emberek
     authors: []
+    editors:
+      - Gábor Hausner
     year: 1987
     language: Hungarian
     sources:
@@ -10079,6 +10150,7 @@ titles:
     verified: true
   - title: Rendkívüli játszma
     subtitle: Bűnügyi regény
+    original_title: Una jugada extraordinaria
     authors:
       - Juan Ángel Cardi
       - Katalin Fehér
@@ -10193,6 +10265,8 @@ titles:
     subtitle: Válogatott írások, levelek, beszédek
     authors:
       - Pál Vasvári
+    editors:
+      - Gábor Danyi
     year: 1988
     language: Hungarian
     pages: 358
@@ -10322,6 +10396,8 @@ titles:
     subtitle: Posztumusz és kötetben meg nem jelent versek
     authors:
       - Mihály Ladányi
+    editors:
+      - András Simor
     year: 1988
     language: Hungarian
     pages: 157
@@ -10340,6 +10416,8 @@ titles:
     subtitle: '1944'
     authors:
       - István gróf Bethlen
+    editors:
+      - Ignác Romsics
     year: 1988
     language: Hungarian
     pages: 174
@@ -10404,6 +10482,8 @@ titles:
   - title: Életemnek emlékezete
     authors:
       - András Lipthay
+    editors:
+      - Andor Tarnai
     year: 1988
     language: Hungarian
     pages: 143
@@ -10418,6 +10498,7 @@ titles:
     verified: true
   - title: Gustáv Adolf apródja
     subtitle: Válogatott kisregények és elbeszélések
+    original_title: Gustav Adolfs Page
     series: Zrínyi-zsebkönyvek
     authors:
       - Conrad Ferdinand Meyer
@@ -10546,6 +10627,8 @@ titles:
   - title: Náray Antal visszaemlékezése, 1945
     authors:
       - Antal Náray
+    editors:
+      - Sándor Szakály
     year: 1988
     language: Hungarian
     pages: 150
@@ -10880,8 +10963,9 @@ titles:
     authors:
       - Józef Wysocki
       - László Bombay
-      - István Kovács
       - Róbert Hermann
+    translators:
+      - István Kovács
     year: 1989
     language: Hungarian
     sources:
@@ -10893,6 +10977,8 @@ titles:
   - title: Emlékezés a 2. Magyar Hadseregre, 1942-1943
     authors:
       - Árpád Lajtos
+    editors:
+      - Péter Szabó
     year: 1989
     series: Sisak és cilinder sorozat
     language: Hungarian
@@ -10915,6 +11001,8 @@ titles:
   - title: Észak-Erdély kormánybiztosa voltam
     authors:
       - Béla gróf Bethlen
+    editors:
+      - Ignác Romsics
     year: 1989
     language: Hungarian
     pages: 310
@@ -10948,8 +11036,9 @@ titles:
   - title: Generális a szalonban
     subtitle: Válogatás a klasszikus német és az NDK-beli irodalom katonaelbeszéléseiböl
     authors:
-      - Ambrus Bor
       - András Tabák
+    translators:
+      - Ambrus Bor
     year: 1989
     language: Hungarian
     sources:
@@ -11021,6 +11110,8 @@ titles:
     series: Zrínyi-könyvtár
     authors:
       - Esterházy, Pál, herceg
+    editors:
+      - Emma Iványi
     year: 1989
     language: Hungarian
     sources:
@@ -11076,6 +11167,8 @@ titles:
     verified: true
   - title: Sisak és cilinder
     authors: []
+    editors:
+      - István Bartyik
     year: 1989
     language: Hungarian
     sources:
@@ -11172,6 +11265,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb420137803
     verified: true
   - title: Walter Schellenberg emlékiratai
+    original_title: Memoiren
     authors:
       - Walter Schellenberg
     year: 1989
@@ -11478,6 +11572,8 @@ titles:
     subtitle: 1941-1944
     authors:
       - Jusztinián Serédi
+    editors:
+      - Sándor Orbán
     year: 1990
     series: Sisak és cilinder
     language: Hungarian

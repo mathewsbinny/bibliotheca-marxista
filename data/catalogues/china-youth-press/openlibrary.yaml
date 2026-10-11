@@ -507,8 +507,10 @@ titles:
         url: https://search.worldcat.org/title/502449512
     verified: true
   - title: Niu meng
+    original_title: Gadfly
     authors:
       - Ethel Lilian Voynich
+    translators:
       - Liangmin Li
       - 俍民 李
     year: 1953
@@ -1507,6 +1509,8 @@ titles:
     subtitle: Sani zu xu shi shi
     authors:
       - Yunnan Sheng ren min wen gong tuan. Guishan gong zuo zu
+    editors:
+      - Tie Huang
     year: 1954
     language: Chinese
     pages: 85
@@ -1833,6 +1837,8 @@ titles:
   - title: Qing nian ying xiong de gu shi
     authors:
       - Zhongguo xin min zhu zhu yi qing nian tuan. Zhong yang wei yuan hui. Xuan chuan bu
+    editors:
+      - Zhongguo xin min zhu zhu yi qing nian tuan
     year: 1954
     edition: 1 ban
     language: Chinese
@@ -4423,6 +4429,9 @@ titles:
     subtitle: (Yuenan)
     authors:
       - Xuân Truờng
+    translators:
+      - Qinghuan Yao
+      - Nailiang Peng
     year: 1955
     language: Chinese
     pages: 53
@@ -7202,8 +7211,10 @@ titles:
         url: https://search.worldcat.org/title/44687295
     verified: true
   - title: Kelante chuan zhang de er nü
+    original_title: Les enfants du capitaine Grant
     authors:
       - Jules Verne
+    translators:
       - Ren Zhi
       - 人 知
     year: 1956
@@ -7971,6 +7982,8 @@ titles:
   - title: Tan you yi he tong zhi ai
     authors:
       - A. Ia Vlatin
+    translators:
+      - Ning He
     year: 1956
     language: Chinese
     pages: 52
@@ -11821,6 +11834,10 @@ titles:
   - title: Ming Qing chuan qi xuan
     authors:
       - Jingshen Zhao
+    editors:
+      - 景深 趙
+      - Ji Hu
+      - 忌 胡
     year: 1957
     language: Chinese
     pages: 159
@@ -12077,6 +12094,8 @@ titles:
   - title: Tan tan yi wu, you yi he ai qing
     authors:
       - Iu Nagibin
+    translators:
+      - Qinglian He
     year: 1957
     language: Chinese
     pages: 120
@@ -12384,6 +12403,8 @@ titles:
   - title: Yi zhi de pei yang
     authors:
       - V. A. Kruteiskiĭ
+    translators:
+      - Biru Zhao
     year: 1957
     language: Chinese
     pages: 57
@@ -14625,6 +14646,8 @@ titles:
   - title: Xue xi Mao Zedong de si xiang fang fa he gong zuo fang fa
     authors:
       - Youyu Zhang
+    editors:
+      - 友漁 張
     year: 1958
     edition: Di 1 ban
     language: Chinese
@@ -14834,6 +14857,8 @@ titles:
   - title: Zhongguo zhe xue shi lue
     authors:
       - Wailu Hou
+    editors:
+      - 外廬 侯
     year: 1958
     edition: Di 1 ban
     language: Chinese
@@ -16006,6 +16031,8 @@ titles:
   - title: Shi ji xuan jiang
     authors:
       - Sima Qian
+    editors:
+      - Quanzhong Zheng
     year: 1959
     language: Chinese
     pages: 271
@@ -16116,6 +16143,8 @@ titles:
   - title: Wu si san wen xuan jiang
     authors:
       - Beijing da xue. Zhong wen xi
+    editors:
+      - Beijing da xue
     year: 1959
     language: Chinese
     pages: 330
@@ -17314,6 +17343,8 @@ titles:
     subtitle: Zhongguo ren min jie fang zhan zheng jian shi
     authors:
       - Junying Zhang
+    editors:
+      - 骏英 张
     year: 1961
     edition: Beijing di 1 ban
     language: Chinese
@@ -17393,6 +17424,8 @@ titles:
   - title: Jie fang zhan zheng hui yi lu
     authors:
       - Hong qi piao piao bian ji bu
+    editors:
+      - Hong qi piao piao bian ji bu bian
     year: 1961
     edition: Beijing di 1 ban
     language: Chinese
@@ -17885,6 +17918,8 @@ titles:
   - title: Li dai wen xuan
     authors:
       - Qiyong Feng
+    editors:
+      - Zhongguo ren min da xue
     year: 1962
     edition: Beijing di 1 ban
     language: Chinese
@@ -19640,6 +19675,8 @@ titles:
   - title: Gu wen xuan du
     authors:
       - 中國青年出版社
+    editors:
+      - Zhongguo qing nian chu ban she
     year: 1964
     edition: Di 1 ban
     language: Chinese
@@ -23229,6 +23266,8 @@ titles:
       - 孟元凯
       - Yuyuan Tang
       - 唐宇元
+    editors:
+      - Zhongguo qing nian chu ban she
     year: 1978
     language: Chinese
     sources:
@@ -24160,6 +24199,8 @@ titles:
     subtitle: Qin Han Wei Jin Nan Bei chao bu fen
     authors:
       - Qingyuan Meng
+    editors:
+      - 孟庆远
     year: 1979
     edition: Beijing di 1 ban
     series: Qing nian wen ku
@@ -24182,6 +24223,8 @@ titles:
   - title: Zhongguo jin dai shi chang shi
     authors:
       - Jiapei Song
+    editors:
+      - Han Wu
     year: 1979
     edition: Beijing di 1 ban
     series: Qing nian wen ku
@@ -25458,6 +25501,8 @@ titles:
     subtitle: Zhuan ti bu fen
     authors:
       - Qingyuan Meng
+    editors:
+      - 孟庆远
     year: 1980
     edition: Beijing di 1 ban
     series: Qing nian wen ku
@@ -26671,6 +26716,8 @@ titles:
     authors:
       - Qingyuan Meng
       - 孟庆远
+    editors:
+      - 庆远 孟
     year: 1981
     language: Chinese
     sources:
@@ -27875,6 +27922,8 @@ titles:
   - title: Zheng zhi jing ji xue jian ming du ben. She hui zhu yi bu fen
     authors:
       - Guanghui Wu
+    editors:
+      - 光辉 吴
     year: 1982
     edition: Di 1 ban
     language: Chinese
@@ -29046,6 +29095,8 @@ titles:
   - title: Xin hai ge ming shi qi di li shi ren wu
     authors:
       - Xin Li
+    editors:
+      - Yimin Ren
     year: 1983
     edition: Di 1 ban
     language: Chinese

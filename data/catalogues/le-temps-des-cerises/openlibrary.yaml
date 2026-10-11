@@ -57,6 +57,8 @@ titles:
   - title: Almanachs et prognostications
     authors:
       - François Rabelais
+    editors:
+      - Catherine Claude
     year: 1994
     language: French
     pages: 141
@@ -83,6 +85,9 @@ titles:
     verified: true
   - title: Cent-un poèmes dans le métro
     authors: []
+    editors:
+      - Gérard Cartier
+      - Francis Combes
     year: 1994
     language: French
     sources:
@@ -370,9 +375,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/002987938
     verified: true
   - title: Le manifeste du parti communiste
+    original_title: Manifest der Kommunistischen Partei
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Laura Lafargue
     year: 1995
     language: French
@@ -401,6 +408,8 @@ titles:
     authors:
       - Pierre Courtade
       - John Flower
+    editors:
+      - John Ernest Flower
     year: 1995
     language: French
     sources:
@@ -431,6 +440,9 @@ titles:
     series: Cahiers Roger-Vailland
     authors:
       - Roger Vailland
+    editors:
+      - René Ballet
+      - Christian Petr
     year: 1995
     language: French
     sources:
@@ -536,8 +548,10 @@ titles:
     verified: true
   - title: Tard, bien tard dans la nuit
     subtitle: Derniers poèmes
+    original_title: '''Argá, polỳ ''argà mésa stī̀ nýchta'
     authors:
       - Giannēs Ritsos
+    translators:
       - Gérard Pierrat
     year: 1995
     language: French
@@ -695,8 +709,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb36171799w
     verified: true
   - title: La lanterne de l'aubépine
+    original_title: The haw lantern
     authors:
       - Seamus Heaney
+    translators:
       - Gérard Cartier
     year: 1996
     language: French
@@ -886,6 +902,10 @@ titles:
     authors:
       - Eliot Katz
       - Christian Haye
+    editors:
+      - Francis Combes
+      - Georges Hassoméris
+      - Gilles-Bernard Vachon
     year: 1997
     language: French, English
     pages: 338
@@ -1056,6 +1076,8 @@ titles:
       - Pierre Courtade
       - John Flower
       - Max Schoendorff
+    editors:
+      - John Ernest Flower
     year: 1997
     language: French
     sources:
@@ -1079,8 +1101,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb370521244
     verified: true
   - title: Le nuage en pantalon
+    original_title: Oblako v štanah
     authors:
       - Vladimir Vladimirovič Maâkovskij
+    translators:
       - Charles Dobzynski
     year: 1997
     language: French
@@ -1094,6 +1118,9 @@ titles:
     subtitle: Choix de poèmes
     authors:
       - Heinrich Heine
+    editors:
+      - Francis Combes
+    translators:
       - Francis Combes
     year: 1997
     language: French, German
@@ -1126,6 +1153,7 @@ titles:
   - title: Lettres d'Alger et de la Côte d'Azur
     authors:
       - Karl Marx
+    translators:
       - Gilbert Badia
     year: 1997
     language: French
@@ -1263,9 +1291,11 @@ titles:
     verified: true
   - title: Un grain de maïs
     subtitle: Conversation entre Fidel Castro et Tomás Borge
+    original_title: Un grano de maiz
     authors:
       - Fidel Castro
       - Tomás Borge Martínez
+    translators:
       - Jacques-François Bonaldi
     year: 1997
     language: French
@@ -1336,6 +1366,8 @@ titles:
   - title: Býti básníkem
     authors:
       - Jaroslav Seifert
+    translators:
+      - Jana Boxberger
     year: 1998
     language: Czech, French
     sources:
@@ -1444,6 +1476,9 @@ titles:
     subtitle: Poèmes d'une vie
     authors:
       - Rafael Alberti
+    editors:
+      - Claude Couffon
+    translators:
       - Claude Couffon
     year: 1998
     language: French
@@ -1467,6 +1502,8 @@ titles:
   - title: Debout dans ce siècle anthracite
     authors:
       - Louis Mauberret
+    editors:
+      - Christiane Rorato
     year: 1998
     language: French
     sources:
@@ -1502,6 +1539,10 @@ titles:
   - title: Ernesto Che Guevara
     subtitle: La légende
     authors: []
+    translators:
+      - Christelle Pouchoulin
+      - Vanessa Vysosias
+      - Marie-José de Galzin
     year: 1998
     language: French
     sources:
@@ -1534,8 +1575,11 @@ titles:
     verified: true
   - title: Etre poète
     subtitle: Éd. bilingue
+    original_title: Býti básníkem
     authors:
       - Jaroslav Seifert
+    translators:
+      - Jana Boxberger
     year: 1998
     language: French
     sources:
@@ -1589,6 +1633,7 @@ titles:
     verified: true
   - title: La mort en fleurs
     subtitle: Réflexions d'un prisonnier de conscience
+    original_title: Death blossoms
     authors:
       - Mumia Abu-Jamal
       - Cornel Ronald West
@@ -1691,8 +1736,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb37041083x
     verified: true
   - title: Le nuage en pantalon
+    original_title: Oblako v štanah
     authors:
       - Vladimir Vladimirovič Maâkovskij
+    translators:
       - Charles Dobzynski
     year: 1998
     language: French
@@ -1785,6 +1832,8 @@ titles:
     subtitle: Démocrite, Epicure, Lucrèce, Goethe, Marx
     authors:
       - Georges Cogniot
+    editors:
+      - Léo Figuères
     year: 1998
     language: French
     sources:
@@ -1863,6 +1912,8 @@ titles:
   - title: Poèmes d'amour et de liberté
     authors:
       - Paul Éluard
+    editors:
+      - Jacques Gaucheron
     year: 1998
     language: French
     sources:
@@ -1892,6 +1943,8 @@ titles:
     subtitle: Paroles et images de mai 1968
     authors:
       - Jean-Claude Poitou
+    editors:
+      - Jean-François Jousselin
     year: 1998
     language: French
     pages: 256
@@ -2135,6 +2188,7 @@ titles:
   - title: J'ai su que j'avais un frère
     authors:
       - Jack Hirshman
+    translators:
       - Gilles-Bernard Vachon
     year: 1999
     language: French
@@ -2193,6 +2247,8 @@ titles:
     authors:
       - Roger Vailland
       - Alain Virmaux
+    editors:
+      - Odette Virmaux
     year: 1999
     language: French
     sources:
@@ -2292,6 +2348,7 @@ titles:
       - Noam Chomsky
       - Michel Chossudowsky
       - Jean-Pierre Page
+    translators:
       - Namita Dewan
     year: 1999
     language: French
@@ -2329,6 +2386,8 @@ titles:
     verified: true
   - title: Maîtres du monde ? ou Les dessous de la guerre des Balkans
     authors: []
+    translators:
+      - Namita Dewan
     year: 1999
     language: French
     sources:
@@ -2337,7 +2396,12 @@ titles:
     verified: true
   - title: Notre combat
     subtitle: Interviews de résistants autrichiens en France
+    original_title: 'Unser Kampf : in Frankreich für Österreich'
     authors: []
+    editors:
+      - Franz Richard Reiter
+    translators:
+      - Claudette Krynk
     year: 1999
     language: French
     sources:
@@ -2496,8 +2560,9 @@ titles:
     series: Cahiers Roger Vailland
     authors:
       - Ilarie Voronca
-      - Roger Vailland
       - Michel Bulteau
+    translators:
+      - Roger Vailland
     year: 1999
     language: French
     sources:
@@ -2553,8 +2618,10 @@ titles:
     verified: true
   - title: Argenteuil
     subtitle: Creuset d'une petite Italie
+    original_title: Cavriago ad Argenteuil migrazioni comunità memorie
     authors:
       - Antonio Canovi
+    translators:
       - Marie-Pascale Travade
     year: 2000
     language: French
@@ -2577,6 +2644,8 @@ titles:
   - title: Autour d'Épicure
     authors:
       - Épicure
+    editors:
+      - Philippe Paraire
     year: 2000
     language: French
     sources:
@@ -2612,6 +2681,8 @@ titles:
     verified: true
   - title: Douze poètes de Saint-Domingue
     authors: []
+    editors:
+      - José Rafael Lantigua
     year: 2000
     language: French, Spanish
     sources:
@@ -2655,6 +2726,7 @@ titles:
     verified: true
   - title: Fuir l'histoire?
     subtitle: Essai sur l'autophobie des communistes
+    original_title: Fuga della storia ?
     authors:
       - Domenico Losurdo
     year: 2000
@@ -2763,6 +2835,7 @@ titles:
   - title: La révolution russe
     authors:
       - Rosa Luxemburg
+    translators:
       - Gilbert Badia
     year: 2000
     language: French
@@ -3102,10 +3175,12 @@ titles:
     verified: true
     subtitle: Malá podobenství a jiné texty
   - title: Ces idées qui ne meurent pas
+    original_title: Le idee che non muoiono
     authors:
       - Fausto Bertinotti
-      - Joëlle Carpentier
       - Alfonso Gianni
+    translators:
+      - Joëlle Carpentier
     year: 2001
     language: French
     sources:
@@ -3129,6 +3204,7 @@ titles:
   - title: Depuis les montagnes du sud-est du Mexique
     authors:
       - Marcos
+    translators:
       - Françoise Roy
     year: 2001
     language: French
@@ -3167,10 +3243,11 @@ titles:
     series: Collection Romans des libertés
     authors:
       - Nikolaj Alekseevic̆ Ostrovskij
-      - Valentin Feldman
-      - Paul Kolodrine
       - François Eychart
       - Romain Rolland
+    translators:
+      - Valentin Feldman
+      - Paul Kolodrine
     year: 2001
     language: French
     sources:
@@ -3314,9 +3391,11 @@ titles:
     verified: true
   - title: La mère
     subtitle: Roman
+    original_title: Matʹ
     series: Collection romans des libertés
     authors:
       - Maxime Gorki
+    translators:
       - René Huntzbucler
     year: 2001
     language: French
@@ -3330,6 +3409,9 @@ titles:
     series: Le Temps des Cerises
     authors:
       - Rosa Luxemburg
+    editors:
+      - Bruno Drwęski
+    translators:
       - Claudie Weill
       - Bruno Drweski
     year: 2001
@@ -3387,6 +3469,7 @@ titles:
   - title: Méditations sur le socialisme
     authors:
       - Adam Schaff
+    translators:
       - Jerzy Wolf
     year: 2001
     language: French
@@ -3425,6 +3508,7 @@ titles:
     subtitle: Et autres poèmes
     authors:
       - Ernesto Cardenal
+    translators:
       - Claude Couffon
     year: 2001
     language: French, Spanish
@@ -3523,7 +3607,10 @@ titles:
     verified: true
   - title: Sans quiétude aucune
     subtitle: Anthologie de la poésie allemande contemporaine
-    authors:
+    authors: []
+    editors:
+      - Barbara Paul
+    translators:
       - Barbara Paul
       - Henri-Alexis Baatsch
     year: 2001
@@ -3547,6 +3634,8 @@ titles:
   - title: Trafiquer dans l'inconnu
     authors:
       - Arthur Rimbaud
+    editors:
+      - Lucien Francoeur
     year: 2001
     language: French
     sources:
@@ -3599,6 +3688,8 @@ titles:
   - title: 101 poèmes sur l'amour
     subtitle: Des troubadours au XXe siècle
     authors: []
+    editors:
+      - Francis Combes
     year: 2002
     language: French
     sources:
@@ -3618,6 +3709,7 @@ titles:
   - title: 73 Poèmes
     authors:
       - Edward Estlin Cummings
+    translators:
       - Thierry Gillybœuf
     year: 2002
     language: English, French
@@ -3745,6 +3837,7 @@ titles:
   - title: Depuis les montagnes du sud-est du Mexique
     authors:
       - Marcos
+    translators:
       - Françoise Roy
     year: 2002
     language: French
@@ -3797,8 +3890,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb38859838z
     verified: true
   - title: José Martí et Victor Hugo
+    original_title: José Martí y Victor Hugo en el fiel de las modernidades
     authors:
       - Carmen Suárez León
+    translators:
       - Jacques-François Bonaldi
     year: 2002
     language: French
@@ -3875,7 +3970,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb38867021r
     verified: true
   - title: La poésie palestinienne contemporaine
-    authors:
+    authors: []
+    editors:
+      - Abdellatif Laâbi
+    translators:
       - Abdellatif Laâbi
     year: 2002
     language: French
@@ -3902,6 +4000,8 @@ titles:
   - title: La question nationale et l'autonomie
     authors:
       - Rosa Luxemburg
+    editors:
+      - Claudie Weill
     year: 2002
     language: French
     sources:
@@ -3912,6 +4012,7 @@ titles:
     subtitle: Poèmes 1930-1972
     authors:
       - Nicolás Guillén
+    translators:
       - Claude Couffon
     year: 2002
     language: French
@@ -3972,6 +4073,8 @@ titles:
   - title: Poèmes à rêver
     subtitle: 24 poètes pour la jeunesse
     authors: []
+    editors:
+      - Louise Blouin
     year: 2002
     language: French
     sources:
@@ -3999,8 +4102,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb39052693m
     verified: true
   - title: Robaïat
+    original_title: Rubâ'iyyât
     authors:
       - Ġīāṯ al-Dīn abō al-Fatḥ ʿOmar bin Ibrāhīm H̱ayyām Nīšāpōrī
+    translators:
+      - Jacques Gaucheron
     year: 2002
     language: French
     sources:
@@ -4090,6 +4196,8 @@ titles:
     verified: true
   - title: 101 poèmes contre la guerre
     authors: []
+    editors:
+      - Francis Combes
     year: 2003
     language: French
     sources:
@@ -4148,9 +4256,11 @@ titles:
     verified: true
   - title: Cahiers de Temuco
     subtitle: Poèmes
+    original_title: Cuadernos de Temuco
     authors:
       - Pablo Neruda
       - Víctor Farías
+    translators:
       - Claude Couffon
     year: 2003
     language: French
@@ -4291,8 +4401,10 @@ titles:
     verified: true
   - title: Démocratie ou bonapartisme
     subtitle: Triomphe et décadence du suffrage universel
+    original_title: Democrazia o bonapartismo
     authors:
       - Domenico Losurdo
+    translators:
       - Jean-Michel Goux
     year: 2003
     language: French
@@ -4311,13 +4423,15 @@ titles:
     verified: true
   - title: Gens sans terre
     subtitle: La trajectoire du MST et la lutte pour la terre au Brésil
+    original_title: Brava gente
     authors:
       - João Pedro Stédile
       - Bernardo Mançano Fernandes
-      - Maria do F de Almeida
-      - Jean-Yves Martin
       - José Bové
       - Michael Löwy
+    translators:
+      - Maria do F de Almeida
+      - Jean-Yves Martin
     year: 2003
     language: French
     sources:
@@ -4334,10 +4448,11 @@ titles:
     authors:
       - Zerdalia K. S. Dahoun
       - Marie-Noëlle Yvonnet
+      - Emmanuel Binet
+    translators:
       - Fatima Rhamsoussi
       - Mohamed Soualmia
       - Wezna Waksel
-      - Emmanuel Binet
     year: 2003
     language: French, Arabic, Berber
     sources:
@@ -4350,6 +4465,9 @@ titles:
     authors:
       - Myŏng-in Kim
       - Hynja Kim-Schmidt
+    translators:
+      - Hyunja Kim-Schmidt
+      - Thierry Gillyboeuf
     year: 2003
     language: French
     sources:
@@ -4492,8 +4610,11 @@ titles:
         url: https://www.sudoc.fr/107001489
     verified: true
   - title: Les poèmes du piéton
+    original_title: Los poemas del peatón
     authors:
       - Jaime Sabines
+    translators:
+      - Émile Martel
     year: 2003
     language: Spanish, French
     sources:
@@ -4529,6 +4650,7 @@ titles:
     authors:
       - Jaime Sabines
       - Marco Antonio Campos
+    translators:
       - Emile Martel
     year: 2003
     language: Spanish, French
@@ -4538,7 +4660,8 @@ titles:
     verified: true
   - title: Mars poetica
     subtitle: Le Printemps des Poètes
-    authors:
+    authors: []
+    translators:
       - Vanda Mikšić
       - Brankica Radić
     year: 2003
@@ -4592,10 +4715,12 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb39052602g
     verified: true
   - title: Poèmes clandestins
+    original_title: Poemas clandestinos
     authors:
       - Roque Dalton
-      - Juliette Combes-Latour
       - Laurent Sanchis
+    translators:
+      - Juliette Combes-Latour
     year: 2003
     language: French
     sources:
@@ -4660,6 +4785,8 @@ titles:
     verified: true
   - title: 111 poètes d'aujourd'hui en Rhône-Alpes
     authors: []
+    editors:
+      - Jean-Louis Roux
     year: 2004
     language: French
     sources:
@@ -4669,6 +4796,9 @@ titles:
   - title: 25 poètes islandais d'aujourd'hui
     authors:
       - Thór Stefánsson
+    editors:
+      - Þór Stefánsson
+    translators:
       - Lucie Albertini
     year: 2004
     language: French
@@ -4710,6 +4840,7 @@ titles:
   - title: Arcanes
     authors:
       - Jack Hirschman
+    translators:
       - Gilles-Bernard Vachon
     year: 2004
     language: French, English
@@ -5092,6 +5223,7 @@ titles:
     series: Cahiers Roger-Vailland
     authors:
       - Pier Paolo Pasolini
+    translators:
       - Flaviano Pisanelli
     year: 2004
     language: French
@@ -5338,8 +5470,10 @@ titles:
     verified: true
   - title: Bréviaire des terres du Brésil
     subtitle: Une aventure à l'époque de l'Inquisition
+    original_title: 'Breviário das terras do Brasil : uma aventura nos tempos da Inquisição'
     authors:
       - Luiz Antonio de Assis Brasil
+    translators:
       - Celso Libânio
       - Dominique Olivier
     year: 2005
@@ -5361,6 +5495,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb40081092v
     verified: true
   - title: Chávez et la révolution bolivarienne
+    original_title: La revoluciòn pacifica
     authors:
       - Hugo Rafael Chávez Frías
       - Luis María Bilbao
@@ -5417,6 +5552,7 @@ titles:
     subtitle: Poésies
     authors:
       - Vladimir Vladimirovič Maâkovskij
+    translators:
       - Francis Combes
       - Simone Pirez
     year: 2005
@@ -5539,6 +5675,7 @@ titles:
     verified: true
   - title: La croisade des fous
     subtitle: Yougoslavie, première guerre de la mondialisation
+    original_title: Fools' crusade
     authors:
       - Diana Johnstone
       - Jean Bricmont
@@ -5746,6 +5883,8 @@ titles:
     subtitle: Écrits sur le sport
     authors:
       - Pier Paolo Pasolini
+    translators:
+      - Flaviano Pisanelli
     year: 2005
     language: French
     sources:
@@ -5881,8 +6020,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb400897038
     verified: true
   - title: Poème sale
+    original_title: Poema sujo
     authors:
       - Ferreira Gullar
+    translators:
       - Jean-Michel Beaudet
     year: 2005
     language: French
@@ -5955,6 +6096,7 @@ titles:
   - title: Sur un air de Cuba
     authors:
       - Hernando Calvo Ospina
+    translators:
       - Karine Alvarez
       - Martial Leduc
     year: 2005
@@ -6118,6 +6260,7 @@ titles:
     series: Écrits des Forges
     authors:
       - Philip Hammial
+    translators:
       - Emile Martel
       - Nicole Martel
     year: 2006
@@ -6158,8 +6301,9 @@ titles:
     subtitle: Le monde à l'heure de la globalisation impériale
     authors:
       - Frédéric Delorca
-      - Zaina Assaf
       - Jean Bricmont
+    translators:
+      - Zaina Assaf
     year: 2006
     language: French
     sources:
@@ -6495,6 +6639,9 @@ titles:
     authors:
       - Rosa Luxemburg
       - Jack Ralite
+    editors:
+      - Gilbert Badia
+    translators:
       - Gilbert Badia
     year: 2006
     language: French
@@ -6651,6 +6798,8 @@ titles:
     subtitle: Une vie dans le parti des Black Panthers
     authors:
       - Mumia Abu-Jamal
+    translators:
+      - Claude Audmal
     year: 2006
     language: French
     sources:
@@ -6672,8 +6821,10 @@ titles:
     verified: true
   - title: '"We want freedom"'
     subtitle: Une vie dans le parti des Black Panthers
+    original_title: We want freedom
     authors:
       - Mumia Abu-Jamal
+    translators:
       - Claude Audmal
     year: 2007
     language: French
@@ -6889,11 +7040,13 @@ titles:
     verified: true
   - title: Ecrits Des Blessures
     subtitle: Poèmes
+    original_title: Pages of the wound
     authors:
       - John Berger
-      - Carlos Laforêt
       - Yves Berger
       - Marc Trivier
+    translators:
+      - Carlos Laforêt
     year: 2007
     language: French, English
     sources:
@@ -6952,8 +7105,10 @@ titles:
     verified: true
   - title: Fuir l'histoire ?
     subtitle: La révolution russe et la révolution chinoise aujourd'hui
+    original_title: Fuga dalla storia?
     authors:
       - Domenico Losurdo
+    translators:
       - Aymeric Monville
     year: 2007
     language: French
@@ -7023,6 +7178,8 @@ titles:
     subtitle: Combattants pour la vie, des voix pour l'espoir
     authors:
       - Association républicaine des anciens combattants et victimes de guerre
+    editors:
+      - Georges Doussin
     year: 2007
     language: French
     pages: 799
@@ -7077,6 +7234,8 @@ titles:
   - title: La démocratie chez les penseurs révolutionnaires
     authors:
       - Groupe d'études du matérialisme rationnel
+    editors:
+      - Yves Vargas
     year: 2007
     language: French
     sources:
@@ -7087,6 +7246,8 @@ titles:
     subtitle: Dictionnaire
     authors:
       - Groupe d'études du matérialisme rationnel
+    editors:
+      - Yves Vargas
     year: 2007
     language: French
     sources:
@@ -7095,8 +7256,10 @@ titles:
     verified: true
   - title: La question radiante
     subtitle: Anthologie poétique
+    original_title: La Cuestión radiante
     authors:
       - Fernando Rendon
+    translators:
       - Stéphane Chaumet
     year: 2007
     language: French, Spanish
@@ -7138,8 +7301,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb411789506
     verified: true
   - title: Le portrait
+    original_title: Portret
     authors:
       - Nicolas Gogol
+    translators:
+      - Elsa Triolet
     year: 2007
     language: French
     sources:
@@ -7161,8 +7327,13 @@ titles:
     verified: true
   - title: Le rationalisme d'Ibn Khaldoun
     subtitle: Extraits de la Muqqadima
+    original_title: Al-muqaddimaẗ
     authors:
       - ʿAbd al-Raḥmân ibn Muḥammad Ibn H̱aldūn
+    editors:
+      - Georges Labica
+    translators:
+      - Jamel-Eddine Bencheikh
     year: 2007
     language: French
     sources:
@@ -7252,8 +7423,10 @@ titles:
     verified: true
   - title: Lumière de mai
     subtitle: Oratorio
+    original_title: La junta luz
     authors:
       - Juan Gelman
+    translators:
       - Monique Blaquière-Roumette
     year: 2007
     language: Spanish, French
@@ -7353,6 +7526,7 @@ titles:
     series: Le Temps des cerises
     authors:
       - Lucien de Samosate
+    translators:
       - Jean Suret-Canale
     year: 2007
     language: French
@@ -7387,6 +7561,8 @@ titles:
   - title: Penser l'Afrique
     authors:
       - Jean Suret-Canale
+    editors:
+      - Roger Botte
     year: 2007
     series: Les dossiers de La pensée
     language: French
@@ -7489,7 +7665,8 @@ titles:
     verified: true
   - title: Tout est chemins
     subtitle: Une anthologie de poèmes du Bengale
-    authors:
+    authors: []
+    translators:
       - Sumana Sinha
       - Lionel Ray
     year: 2007
@@ -7503,9 +7680,10 @@ titles:
     series: Collection Romans des libertés
     authors:
       - Maxime Gorki
+      - François Eychart
+    translators:
       - Georges Dumesnil de Gramont
       - Claude Moral
-      - François Eychart
     year: 2007
     language: French
     sources:
@@ -7630,8 +7808,9 @@ titles:
     verified: true
   - title: Anthologie de la poésie amérindienne
     authors:
-      - Manuel Van Thienen
       - Nora Herman
+    translators:
+      - Manuel Van Thienen
     year: 2008
     language: French
     sources:
@@ -7649,9 +7828,11 @@ titles:
     verified: true
   - title: Colombie
     subtitle: Derrière le rideau de fumée
+    original_title: Terrorismo estado colombia
     authors:
       - Hernando Calvo Ospina
       - Ignacio Ramonet
+    translators:
       - Carmen Caamano
       - Karine Alvarez
     year: 2008
@@ -7757,9 +7938,10 @@ titles:
   - title: Irak
     subtitle: La résistance a la parole
     authors:
+      - Appel franco-arabe
+    translators:
       - Bruno Drweski
       - Yves Vargas
-      - Appel franco-arabe
     year: 2008
     language: French
     sources:
@@ -7770,8 +7952,10 @@ titles:
     verified: true
   - title: Je Suis Né Assassiné
     subtitle: Poèmes
+    original_title: Sore dove chapbooks
     authors:
       - Jack Hirschman
+    translators:
       - Gilles-Bernard Vachon
     year: 2008
     language: French, English
@@ -7861,6 +8045,8 @@ titles:
     subtitle: Anthologie poétique, 1982-2005
     authors:
       - Fernando Rendón
+    translators:
+      - Stéphane Chaumet
     year: 2008
     language: French, Spanish
     sources:
@@ -7925,8 +8111,10 @@ titles:
     verified: true
   - title: Le Léopard des neiges
     subtitle: Roman
+    original_title: Kogda padaïout gori
     authors:
       - Čingiz Torekulovič Ajtmatov
+    translators:
       - Pierre Frugier
       - Charlotte Yelnik
     year: 2008
@@ -7942,8 +8130,9 @@ titles:
     authors:
       - Luis Alberto Arellano
       - Román Luján
-      - Françoise Roy
       - Eduardo Milán
+    translators:
+      - Françoise Roy
     year: 2008
     language: French, Spanish
     sources:
@@ -7958,6 +8147,7 @@ titles:
       - Shomishbai Sariyev
       - Nourlan Orazaline
       - Olžas Omarovič Sulejmenov
+    translators:
       - Jacques Jouet
       - Coralie Vauchelles
       - Léon Robel
@@ -8245,6 +8435,8 @@ titles:
     verified: true
   - title: Cinq femmes poètes d'Amérique latine aujourd'hui
     authors: []
+    editors:
+      - Adélaïde de Chatellus
     year: 2009
     language: French
     sources:
@@ -8255,6 +8447,9 @@ titles:
     subtitle: Derrière le rideau de fumée, histoire du terrorisme d'État
     authors:
       - Hernando Calvo Ospina
+    translators:
+      - Carmen Caamano
+      - Karine Alvarez
     year: 2009
     language: French
     sources:
@@ -8315,6 +8510,7 @@ titles:
     series: Le temps des cerises
     authors:
       - Pierre Kropotkine
+    translators:
       - Philippe Paraire
     year: 2009
     language: French
@@ -8398,6 +8594,7 @@ titles:
     subtitle: Cuba, Viêtnam, Angola, Chili, Nicaragua
     authors:
       - Hernando Calvo Ospina
+    translators:
       - Karine Alvarez
       - Hélène Anger
       - Simone Bosveuil
@@ -8515,6 +8712,7 @@ titles:
     verified: true
   - title: Le capital
     subtitle: Critique de l'économie politique
+    original_title: Der Gesammtprocess der kapitalistischen Produktion
     authors:
       - Karl Marx
       - Friedrich Engels
@@ -8549,6 +8747,7 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/ldpd_13051551_000
   - title: Le capitalecritique de l'économie politique
+    original_title: Der Cirkulationsprocess des Kapitals
     authors:
       - Karl Marx
       - Friedrich Engels
@@ -8559,6 +8758,7 @@ titles:
         url: https://www.sudoc.fr/142292303
     verified: true
   - title: Le développement de la production capitaliste
+    original_title: Der Produktionsprocess des Kapitals
     authors:
       - Karl Marx
     year: 2009
@@ -8568,10 +8768,12 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb42110270v
     verified: true
   - title: Le manifeste du parti communiste
+    original_title: Manifest der Kommunistischen Partei
     series: Petite collection rouge
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Laura Lafargue
     year: 2009
     language: French
@@ -8580,6 +8782,7 @@ titles:
         url: https://www.sudoc.fr/139910514
     verified: true
   - title: Le procès d'ensemble de la production capitaliste
+    original_title: Der Gesammtprocess der kapitalistischen Produktion
     authors:
       - Karl Marx
     year: 2009
@@ -8589,6 +8792,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb42167534j
     verified: true
   - title: Le procès de circulation du capital
+    original_title: Der Cirkulationsprocess des Kapitals
     authors:
       - Karl Marx
     year: 2009
@@ -8600,6 +8804,7 @@ titles:
   - title: Le tyran et le poète
     authors:
       - Özdemir İnce
+    translators:
       - Ferda Fidan
     year: 2009
     language: French
@@ -8610,6 +8815,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb42110257n
     verified: true
     subtitle: Traduit du turc par Ferda Fidan
+    original_title: Zorba ve ozan
   - title: Les âmes aux pieds nus
     subtitle: Poèmes
     authors:
@@ -8758,6 +8964,9 @@ titles:
     subtitle: Chroniques de la résistance et de la survie
     authors:
       - John Berger
+    translators:
+      - Claude Albert
+      - Michel Fuchs
     year: 2009
     language: French
     sources:
@@ -8786,6 +8995,7 @@ titles:
     authors:
       - Claudia Schvartz
       - Gerardo Manfredi
+    translators:
       - Nicole Martel
       - Emile Martel
     year: 2009
@@ -8808,6 +9018,8 @@ titles:
     verified: true
   - title: Y a-t-il une vie après le capitalisme ?
     authors: []
+    editors:
+      - Efstathios Kouvélakis
     year: 2009
     language: French
     sources:
@@ -8874,6 +9086,8 @@ titles:
     subtitle: Le peuple mis à mal
     authors:
       - Groupe d'études du matérialisme rationnel
+    editors:
+      - Yves Vargas
     year: 2010
     language: French
     sources:
@@ -8883,6 +9097,9 @@ titles:
   - title: Contes humoristiques
     authors:
       - Anton Pavlovitch Tchekhov
+    translators:
+      - Madeleine Durand
+      - Édouard Parayre
     year: 2010
     language: French
     sources:
@@ -8939,6 +9156,8 @@ titles:
     verified: true
   - title: Et si le rouge n'existait pas
     authors: []
+    editors:
+      - Françoise Coulmin
     year: 2010
     language: French
     sources:
@@ -9167,10 +9386,12 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb423179479
     verified: true
   - title: Les Théories et autres poèmes
+    original_title: Mawâkib
     authors:
       - Khalil Gibran Gibran
-      - Clara Murner
       - Édouard Tarabay
+    translators:
+      - Clara Murner
     year: 2010
     language: French
     sources:
@@ -9281,8 +9502,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb42436106v
     verified: true
   - title: Chicago Poems
+    original_title: Chicago poems
     authors:
       - Carl Sandburg
+    translators:
       - Thierry Gillybœuf
     year: 2011
     language: French, English
@@ -9347,6 +9570,8 @@ titles:
     subtitle: 'Tracts, affiches et déclarations du Groupe de Paris du mouvement surréaliste: 1970-2010'
     authors:
       - Groupe de Paris du mouvement surréaliste
+    editors:
+      - Guy Girard
     year: 2011
     language: French
     pages: 251
@@ -9366,6 +9591,7 @@ titles:
   - title: Je sens qu'on me balance un coup de latte dans les reins ou tout ce qui reste
     authors:
       - Jack Hirschman
+    translators:
       - Gilles-Bernard Vachon
     year: 2011
     language: French
@@ -9387,8 +9613,9 @@ titles:
     series: Commun'art
     authors:
       - Vladimir Vladimirovič Maâkovskij
-      - Henri Deluy
       - Aleksandr Mihailovič Rodčenko
+    translators:
+      - Henri Deluy
     year: 2011
     language: French
     sources:
@@ -9536,9 +9763,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991052880549705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Le nuage en pantalon
+    original_title: Oblako v štanah
     series: Petite bibliothèque de poésie
     authors:
       - Vladimir Vladimirovič Maâkovskij
+    translators:
       - Charles Dobzynski
     year: 2011
     language: French
@@ -9620,6 +9849,7 @@ titles:
     subtitle: Et autres poèmes
     authors:
       - Ernesto Cardenal
+    translators:
       - Claude Couffon
     year: 2011
     language: French, Spanish
@@ -9644,8 +9874,12 @@ titles:
     verified: true
   - title: Poèmes de la révolution
     subtitle: Vols victorieux
+    original_title: Vuelos de victoria
     authors:
       - Ernesto Cardenal
+    editors:
+      - Bernard Desfretières
+    translators:
       - Bernard Desfretières
     year: 2011
     language: French
@@ -9779,6 +10013,7 @@ titles:
     series: Collection Romans des libertés
     authors:
       - César Vallejo
+    translators:
       - Nicole Réda-Euvremer
     year: 2011
     language: French
@@ -9852,6 +10087,7 @@ titles:
     subtitle: Une vie dans le Parti des Black Panthers
     authors:
       - Mumia Abu-Jamal
+    translators:
       - Claude Audmal
     year: 2011
     language: French
@@ -9897,6 +10133,8 @@ titles:
   - title: 101 poèmes sur les femmes
     subtitle: Anthologie
     authors: []
+    editors:
+      - Patricia Latour
     year: 2012
     language: French
     sources:
@@ -9906,6 +10144,7 @@ titles:
   - title: 73 Poèmes
     authors:
       - Edward Estlin Cummings
+    translators:
       - Thierry Gillybœuf
     year: 2012
     language: English, French
@@ -9982,6 +10221,8 @@ titles:
   - title: Cours sur Rousseau (1972)
     authors:
       - Louis Althusser
+    editors:
+      - Yves Vargas
     year: 2012
     language: French
     pages: 189
@@ -10058,10 +10299,11 @@ titles:
     series: Collection Romans des libertés
     authors:
       - Nikolaj Alekseevic̆ Ostrovskij
-      - Valentin Feldman
-      - Paul Kolodrine
       - François Eychart
       - Romain Rolland
+    translators:
+      - Valentin Feldman
+      - Paul Kolodrine
     year: 2012
     language: French
     sources:
@@ -10072,7 +10314,10 @@ titles:
     verified: true
   - title: Femmes poètes du monde arabe
     subtitle: Anthologie
-    authors:
+    authors: []
+    editors:
+      - Marām al- Maṣrī
+    translators:
       - Maram Al- Masri
     year: 2012
     language: French
@@ -10105,6 +10350,8 @@ titles:
   - title: Ils ont chanté Bezons
     subtitle: Bezons et ses écrivains
     authors: []
+    editors:
+      - Daniel Renard
     year: 2012
     language: French
     sources:
@@ -10193,6 +10440,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb435095903
     verified: true
   - title: L'origine de la famille, de la propriété privée et de l'État
+    original_title: Der Ursprung der Familie, des Privateigentums und des Staates
     series: Petite collection rouge
     authors:
       - Friedrich Engels
@@ -10242,8 +10490,9 @@ titles:
     subtitle: Et Autres Poèmes
     authors:
       - John Berger
-      - Carlos Laforêt
       - Yves Berger
+    translators:
+      - Carlos Laforêt
     year: 2012
     language: French, English
     sources:
@@ -10332,6 +10581,7 @@ titles:
     subtitle: Écrits sur le sport
     authors:
       - Pier Paolo Pasolini
+    translators:
       - Flaviano Pisanelli
     year: 2012
     language: French
@@ -10351,9 +10601,11 @@ titles:
     verified: true
   - title: Musique perdue
     subtitle: Roman
+    original_title: Música perdida
     series: Collection Romans des libertés
     authors:
       - Luiz Antonio de Assis Brasil
+    translators:
       - Vincent Gorse
     year: 2012
     language: French
@@ -10426,8 +10678,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb42642570n
     verified: true
   - title: Robâïâts
+    original_title: Rubâ'iyyât
     authors:
       - ʿUmar H̱ayyām
+    translators:
       - Jacques Gaucheron
     year: 2012
     language: French
@@ -10480,6 +10734,8 @@ titles:
   - title: Adieu mon tortionnaire
     authors:
       - Ṣalāḥ al- Ḥamdānī
+    translators:
+      - Isabelle Lagny
     year: 2013
     language: French
     sources:
@@ -10506,6 +10762,7 @@ titles:
     authors:
       - John Berger
       - Selçuk Demirel
+    translators:
       - Claude Albert
     year: 2013
     language: English, French
@@ -10518,6 +10775,8 @@ titles:
   - title: Ce que signifient les Ithaques
     subtitle: 20 poètes grecs contemporains
     authors: []
+    translators:
+      - Marie-Laure Coulmin Koutsaftis
     year: 2013
     language: Greek, French
     sources:
@@ -10575,7 +10834,8 @@ titles:
         url: https://archive.org/details/femmesdesquartie0000unse
     verified: true
   - title: Femmes poètes du monde arabe
-    authors:
+    authors: []
+    translators:
       - Maram Al- Masri
     year: 2013
     language: French
@@ -10588,10 +10848,12 @@ titles:
     subtitle: Anthologie
   - title: Gaz moutarde
     subtitle: Roman d'aventures
+    original_title: Iprit
     series: Roman des libertés
     authors:
       - Viktor Borisovič Šklovskij
       - Vsevolod Viatcheslavovitch Ivanov
+    translators:
       - Marion Thévenot
     year: 2013
     language: French
@@ -10611,8 +10873,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1469810417
     verified: true
   - title: L'histoire m'acquittera
+    original_title: La historia me absolverá
     authors:
       - Fidel Castro
+    translators:
+      - Jacques-François Bonaldi
     year: 2013
     language: French
     sources:
@@ -10656,9 +10921,11 @@ titles:
     verified: true
   - title: La mère
     subtitle: Roman
+    original_title: Matʹ
     series: Roman des libertés
     authors:
       - Maxime Gorki
+    translators:
       - René Huntzbucler
     year: 2013
     language: French
@@ -10852,6 +11119,7 @@ titles:
     series: Action poétique
     authors:
       - Boris Leonidovič Pasternak
+    translators:
       - Henri Deluy
     year: 2013
     language: French
@@ -10897,6 +11165,8 @@ titles:
     series: Collection Commun'art
     authors:
       - Manuel Maples Arce
+    translators:
+      - Antoine Chareyre
     year: 2013
     language: French, Spanish
     sources:
@@ -10906,8 +11176,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991041096039705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Théâtre
+    original_title: Klop
     authors:
       - Vladimir Vladimirovič Maâkovskij
+    translators:
       - Claude Frioux
       - Marianne Gourg
       - Irène Sokologorsky
@@ -11020,6 +11292,8 @@ titles:
     subtitle: Poèmes
     authors:
       - Roberto Fernández Retamar
+    translators:
+      - Jacques-François Bonaldi
     year: 2014
     language: French, Spanish
     sources:
@@ -11058,11 +11332,13 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb44223389x
     verified: true
   - title: Enfantés par la tempête
+    original_title: Roždënnye burej
     series: Collection Roman des libertés
     authors:
       - Nikolaj Alekseevic̆ Ostrovskij
-      - Michel Wassiltchikov
       - François Eychart
+    translators:
+      - Michel Wassiltchikov
     year: 2014
     language: French
     sources:
@@ -11087,6 +11363,8 @@ titles:
     series: Collection Romans des libertés
     authors:
       - Atahualpa Yupanqui
+    translators:
+      - Louise Mamiac
     year: 2014
     language: French
     sources:
@@ -11098,8 +11376,9 @@ titles:
   - title: L'amour au temps de l'insurrection et de la guerre
     subtitle: Anthologie de la poésie syrienne d'aujourd'hui
     authors:
-      - Maram Al- Masri
       - Jean-Pierre Siméon
+    translators:
+      - Maram Al- Masri
     year: 2014
     language: French, Arabic
     sources:
@@ -11154,6 +11433,7 @@ titles:
   - title: Le mendiant de la beauté
     authors:
       - Attila József
+    translators:
       - Francis Combes
       - Cécile A. Holdban
       - Georges Kassai
@@ -11199,6 +11479,9 @@ titles:
     authors:
       - Rosa Luxemburg
       - Jack Ralite
+    editors:
+      - Gilbert Badia
+    translators:
       - Gilbert Badia
     year: 2014
     language: French
@@ -11268,9 +11551,11 @@ titles:
     verified: true
   - title: Paul le Malchanceux
     subtitle: Roman
+    original_title: Goremyka Pavel
     series: Roman des libertés
     authors:
       - Maxime Gorki
+    translators:
       - Léon Robel
     year: 2014
     language: French
@@ -11319,6 +11604,8 @@ titles:
   - title: Peuples dominés, peuples dominants
     authors:
       - Groupe d'études du matérialisme rationnel
+    editors:
+      - Yves Vargas
     year: 2014
     language: French
     sources:
@@ -11336,6 +11623,8 @@ titles:
   - title: Rien qu'un mort de plus
     authors:
       - Ramiro Pinilla
+    translators:
+      - Nicole Euvremer
     year: 2014
     language: French
     sources:
@@ -11370,6 +11659,9 @@ titles:
     series: Vivre en poésie
     authors:
       - Giánnīs Rítsos
+    translators:
+      - Gérard Pierrat
+      - Marie-Laure Coulmin Koutsaftis
     year: 2014
     language: French, Greek
     sources:
@@ -11383,6 +11675,7 @@ titles:
     authors:
       - Antonio Gramsci
       - André Tosel
+    translators:
       - Jean Bramant
       - Gilbert Moget
       - Armand Monjo
@@ -11410,11 +11703,13 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991004974509705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Trois femmes d'Haïti
+    original_title: Drei Frauen aus Haiti
     series: Collection Roman des libertés
     authors:
       - Anna Seghers
-      - Bruno Meur
       - Hélène Roussel
+    translators:
+      - Bruno Meur
     year: 2014
     language: French
     sources:
@@ -11455,6 +11750,9 @@ titles:
     series: Les Lettres françaises
     authors:
       - Vladimir Vladimirovič Maâkovskij
+    editors:
+      - Elsa Triolet
+    translators:
       - Elsa Triolet
     year: 2014
     language: French
@@ -11477,7 +11775,8 @@ titles:
   - title: Women
     subtitle: Une Anthologie de la Poésie Féminine Américaine du XXe Siècle
     series: Vivre En Poésie
-    authors:
+    authors: []
+    translators:
       - Olivier Apert
     year: 2014
     language: French, English
@@ -11568,6 +11867,8 @@ titles:
   - title: Droit de citer les poètes
     subtitle: La poésie s'affiche
     authors: []
+    editors:
+      - Francis Combes
     year: 2015
     language: French
     sources:
@@ -11590,6 +11891,7 @@ titles:
   - title: Instructions, à l'intérieur
     authors:
       - Ašraf Fayyāḍ
+    translators:
       - Abdellatif Laâbi
     year: 2015
     language: French
@@ -11602,6 +11904,8 @@ titles:
   - title: J'ai su que j'avais un frère
     authors:
       - Jack Hirschman
+    translators:
+      - Gilles-Bernard Vachon
     year: 2015
     language: French
     sources:
@@ -11634,6 +11938,8 @@ titles:
   - title: Jean-François Rey, penser la santé
     subtitle: Recueil de textes
     authors: []
+    editors:
+      - Michel Limousin
     year: 2015
     language: French
     sources:
@@ -11679,6 +11985,7 @@ titles:
     authors:
       - Alejo Carpentier
       - Paolo Gasparini
+    translators:
       - Julián Garavito
     year: 2015
     language: Spanish, French
@@ -11693,6 +12000,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991011012209705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: = La ciudad de las columnas
+    original_title: <<La>> ciudad de las columnas
   - title: La France aux quatre vents
     authors:
       - Francis Combes
@@ -11717,9 +12025,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991098898739705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: La rose de Kichinev
+    original_title: A kisinyovi rózsa
     series: Action poétique
     authors:
       - Ottó Tolnai
+    translators:
       - Anna Bálint
       - Cécile Kovacshazy
     year: 2015
@@ -11747,6 +12057,7 @@ titles:
     series: Récits des libertés
     authors:
       - Hernando Calvo Ospina
+    translators:
       - Karine Alvarez
       - Hélène Vaucelle
       - Niurka Règle
@@ -11856,11 +12167,15 @@ titles:
     verified: true
   - title: Parc industriel
     subtitle: (Roman prolétaire)
+    original_title: Parque industrial
     series: Collection Romans des libertés
     authors:
       - Patrícia Galvão
-      - Antoine Chareyre
       - Liliane Giraudon
+    editors:
+      - Antoine Chareyre
+    translators:
+      - Antoine Chareyre
     year: 2015
     language: French
     sources:
@@ -11978,8 +12293,9 @@ titles:
     series: Vivre en poésie
     authors:
       - Títos Patríkios
-      - Marie-Laure Coulmin Koutsaftis
       - Olivier Delorme
+    translators:
+      - Marie-Laure Coulmin Koutsaftis
     year: 2015
     language: French, Greek
     sources:
@@ -11992,6 +12308,7 @@ titles:
     authors:
       - Selçuk Demirel
       - John Berger
+    translators:
       - Claude Albert
     year: 2015
     language: French, English
@@ -12005,8 +12322,9 @@ titles:
     subtitle: Poèmes
     authors:
       - Vlada Uroševiḱ
-      - Jeanne Delcroix-Angelovski
       - Francis Combes
+    translators:
+      - Jeanne Delcroix-Angelovski
     year: 2015
     language: French
     sources:
@@ -12026,8 +12344,9 @@ titles:
     verified: true
   - title: Anthologie de la poésie amérindienne
     authors:
-      - Manuel Van Thienen
       - Nora Herman
+    translators:
+      - Manuel Van Thienen
     year: 2016
     language: French
     sources:
@@ -12068,8 +12387,10 @@ titles:
     verified: true
   - title: Chanson de geste
     subtitle: '1960'
+    original_title: Canción de gesta
     authors:
       - Pablo Neruda
+    translators:
       - Pablo Urquiza
     year: 2016
     language: French, Spanish
@@ -12096,6 +12417,8 @@ titles:
     subtitle: Poèmes, 1930-1972
     authors:
       - Nicolás Guillén
+    translators:
+      - Claude Couffon
     year: 2016
     language: French
     sources:
@@ -12192,6 +12515,8 @@ titles:
   - title: L'amour au temps de l'insurrection et de la guerre
     subtitle: Anthologie de la poésie syrienne d'aujourd'hui
     authors: []
+    translators:
+      - Marām al- Maṣrī
     year: 2016
     language: French
     sources:
@@ -12199,11 +12524,13 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb45148725c
     verified: true
   - title: L'amour, la poésie, la Révolution
+    original_title: Flejta-pozvonočnik
     series: Commun'art
     authors:
       - Vladimir Vladimirovič Maâkovskij
-      - Henri Deluy
       - Aleksandr Mihailovič Rodčenko
+    translators:
+      - Henri Deluy
     year: 2016
     language: French
     sources:
@@ -12214,6 +12541,7 @@ titles:
     series: Collection Romans des libertés
     authors:
       - Franz Fühmann
+    translators:
       - Alain Lance
     year: 2016
     language: French
@@ -12230,6 +12558,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991159266079705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: = Das Judenauto “franz.”
+    original_title: Das Judenauto
   - title: L'esprit de la révolution
     subtitle: 'Aufhebung: Marx, Hegel et l''abolition'
     authors:
@@ -12269,6 +12598,7 @@ titles:
     series: Vivre en poésie
     authors:
       - Nicolás Guillén
+    translators:
       - Claude Couffon
     year: 2016
     language: French
@@ -12315,9 +12645,11 @@ titles:
       - label: Free ebook (Project Gutenberg)
         url: https://www.gutenberg.org/ebooks/77029
   - title: Le figuier
+    original_title: La Higuera
     series: Roman des libertés
     authors:
       - Ramiro Pinilla
+    translators:
       - Nicole Réda-Euvremer
     year: 2016
     language: French
@@ -12367,9 +12699,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991098953729705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Le Manifeste du Parti communiste
+    original_title: Manifest der Kommunistischen Partei
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Laura Lafargue
     year: 2016
     language: French
@@ -12393,13 +12727,15 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb45148738q
     verified: true
   - title: Le talon de fer
+    original_title: The iron heel
     series: Romans des libertés
     authors:
       - Jack London
-      - Louis Postif
       - Bernard Clavel
       - Anatole France
       - Paul Vaillant-Couturier
+    translators:
+      - Louis Postif
     year: 2016
     language: French
     sources:
@@ -12440,6 +12776,7 @@ titles:
     series: Vivre en poésie
     authors:
       - Omar Youssef Souleimane
+    translators:
       - Salah al- Hamdani
       - Isabelle Lagny
     year: 2016
@@ -12596,9 +12933,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb45410455f
     verified: true
   - title: À demain, camarades !
+    original_title: Até amanhã, camaradas
     series: Romans des libertés
     authors:
       - Manuel Tiago
+    translators:
       - Élodie Dupau
     year: 2017
     language: French
@@ -12609,9 +12948,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb453694424
     verified: true
   - title: C'est juste un film
+    original_title: Is Just a Movie
     series: Collection Romans des libertés
     authors:
       - Earl Lovelace
+    translators:
       - Alexis Bernaut
       - Thomas Chaumont
     year: 2017
@@ -12627,6 +12968,7 @@ titles:
     series: Petite bibliothèque de poésie
     authors:
       - Pablo Neruda
+    translators:
       - Pablo Urquiza
     year: 2017
     language: French, Spanish
@@ -12639,6 +12981,7 @@ titles:
     series: Vivre en poésie
     authors:
       - Miguel Hernández
+    translators:
       - Nicole Laurent-Catrice
     year: 2017
     language: French, Spanish
@@ -12680,9 +13023,11 @@ titles:
     verified: true
   - title: États-Unis, le prix du pouvoir
     subtitle: Sécurité nationale, antiterrorisme et crise mondiale du troisième millénaire
+    original_title: Los Estados Unidos
     series: Penser le monde
     authors:
       - Alejandro Castro Espín
+    translators:
       - Karine Alvarez
     year: 2017
     language: French
@@ -12717,6 +13062,10 @@ titles:
   - title: Henry Deluy, ici et ailleurs
     subtitle: Une traversée d'"Action poétique"
     authors: []
+    editors:
+      - Julien Lefort-Favreau
+      - Saskia Deluy
+      - Henri Deluy
     year: 2017
     language: French
     sources:
@@ -12737,9 +13086,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb453031162
     verified: true
   - title: La révolution russe
+    original_title: Die russische Revolution
     series: Petite collection rouge
     authors:
       - Rosa Luxemburg
+    translators:
       - Gilbert Badia
     year: 2017
     language: French
@@ -12824,9 +13175,13 @@ titles:
     verified: true
   - title: Le premier maître
     subtitle: Nouvelles
+    original_title: Pervyj učitelʹ
     series: Romans des libertés
     authors:
       - Tchinguiz Aïtmatov
+    translators:
+      - A. Dmitrieva
+      - Nina Branche
     year: 2017
     language: French
     sources:
@@ -12844,6 +13199,7 @@ titles:
       - Vladimir Ilʹič Lenin
       - Francis Combes
       - Guillaume Roubaud-Quashie
+    translators:
       - Thérèse Godier
       - Henri Perdizet
       - Paul Kolodrine
@@ -12929,8 +13285,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991002317649705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Tard, bien tard dans la nuit
+    original_title: Ta arnītiká tīs siōpī́s
     authors:
       - Giánnīs Rítsos
+    translators:
       - Gérard Pierrat
       - Marie-Laure Coulmin Koutsaftis
     year: 2017
@@ -12945,6 +13303,8 @@ titles:
       - Bertrand Delanoë
       - Delphine Renard
       - Comité vérité et justice pour Charonne
+    editors:
+      - Comité Vérité et justice pour Charonne
     year: 2017
     series: Le coeur à l'ouvrage
     language: French
@@ -12964,6 +13324,7 @@ titles:
     series: Collection Romans des libertés
     authors:
       - Giánnīs Rítsos
+    translators:
       - Gérard Pierrat
     year: 2018
     language: French
@@ -12999,11 +13360,13 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb45516081h
     verified: true
   - title: Imaginez une Amérique socialiste
+    original_title: Imagine living in a socialist USA
     series: Penser le monde
     authors:
       - Frances Goldin
       - Debra Smith
       - Michael Steven Smith
+    translators:
       - Claude Guillaumaud-Pujol
     year: 2018
     language: French
@@ -13054,6 +13417,9 @@ titles:
   - title: Le sel
     authors:
       - Earl Lovelace
+    translators:
+      - Alexis Bernaut
+      - Thomas Chaumont
     year: 2018
     language: French
     sources:
@@ -13080,8 +13446,13 @@ titles:
     verified: true
   - title: Révélations sur l'affaire Mumia Abu-Jamal
     subtitle: Le témoignage de Veronica Jones d'après sa soeur Valerie Jones
+    original_title: Veronica & the case of Mumia Abu-Jamal
     authors:
       - Veronica Jones
+    editors:
+      - Valerie Jones
+    translators:
+      - Claude Guillaumaud-Pujol
     year: 2018
     language: French
     sources:
@@ -13103,12 +13474,14 @@ titles:
     verified: true
   - title: Traversée
     subtitle: Une histoire d'amour
+    original_title: Überfahrt
     series: Romans des libertés
     authors:
       - Anna Seghers
+      - Hélène Roussel
+    translators:
       - Bruno Meur
       - Claire Mercier
-      - Hélène Roussel
     year: 2018
     language: French
     sources:
@@ -13141,7 +13514,10 @@ titles:
   - title: Blues Sur Paroles
     subtitle: Une Histoire Originale du Blues Depuis 1920 Par le Texte Même
     series: Vivre En Poésie
-    authors:
+    authors: []
+    editors:
+      - Olivier Apert
+    translators:
       - Olivier Apert
     year: 2019
     language: French, English
@@ -13156,7 +13532,10 @@ titles:
   - title: Femmes poètes du monde arabe
     subtitle: Anthologie
     series: Vivre en poésie
-    authors:
+    authors: []
+    editors:
+      - Marām al- Maṣrī
+    translators:
       - Maram Al- Masri
     year: 2019
     language: French
@@ -13241,8 +13620,9 @@ titles:
     subtitle: Anthologie bilingue arabe-français de 18 poètes
     authors:
       - Anas Alaili
-      - Mohammed El Amraoui
       - Vladimir Tamari
+    translators:
+      - Mohammed El Amraoui
     year: 2019
     language: Arabic, French
     sources:
@@ -13281,6 +13661,12 @@ titles:
     subtitle: Le peuple sait pourquoi on me condamne
     authors:
       - Lula
+    editors:
+      - Ivana Jinkings
+    translators:
+      - Pedro Afonso
+      - Antoine Chareyre
+      - Élodie Dupau
     year: 2019
     language: French
     sources:
@@ -13324,6 +13710,7 @@ titles:
     subtitle: (Autobiographie précoce)
     authors:
       - Patrícia Galvão
+    translators:
       - Antoine Chareyre
     year: 2019
     language: French
@@ -13336,6 +13723,7 @@ titles:
     series: Collection Récits des libertés
     authors:
       - Patrícia Galvão
+    translators:
       - Antoine Chareyre
     year: 2019
     language: French
@@ -13390,6 +13778,8 @@ titles:
       - Joël Biard
       - Gwendoline Jarczyk
       - Pierre-Jean Labarière
+    editors:
+      - Yves Vargas
     year: 2019
     language: French
     sources:
@@ -13490,6 +13880,8 @@ titles:
     subtitle: 'Le congrès de Tours: présentation, extraits, résolutions'
     authors:
       - Jacques Girault
+    editors:
+      - Jean-Louis Robert
     year: 2020
     language: French
     pages: 201
@@ -13510,6 +13902,7 @@ titles:
     authors:
       - Nâzım Hikmet
       - Charles Dobzynski
+    translators:
       - Güzin Dino
       - Münevver Andaç
     year: 2020
@@ -13525,6 +13918,8 @@ titles:
     subtitle: Ou Le ciel n'est pas à vendre
     authors:
       - Francis Combes
+    translators:
+      - Aurélia Lassaque
     year: 2020
     language: French
     sources:
@@ -13536,6 +13931,8 @@ titles:
     authors:
       - Léo Figuères
       - Amis de Léo Figuères (Association)
+    editors:
+      - Amis de Léo Figuères
     year: 2020
     edition: New augmented edition]
     language: French
@@ -13554,9 +13951,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb46808514p
     verified: true
   - title: La chute de la ville principale
+    original_title: Gibelʹ Glavnogo goroda
     series: Collection Romans des libertés
     authors:
       - Efim Davidovič Zozulâ
+    translators:
       - Emma Lavigne
     year: 2020
     language: French
@@ -13570,11 +13969,13 @@ titles:
     verified: true
   - title: La mère
     subtitle: Roman
+    original_title: Matʹ
     series: Roman des libertés
     authors:
       - Maxime Gorki
-      - René Huntzbucler
       - François Eychart
+    translators:
+      - René Huntzbucler
     year: 2020
     language: French
     sources:
@@ -13585,6 +13986,7 @@ titles:
     verified: true
   - title: La révolution aux portes
     subtitle: Textes choisis de Lénine de 1917
+    original_title: Revolution at the gates
     series: Petite collection rouge
     authors:
       - Vladimir Ilʹič Lenin
@@ -13603,6 +14005,7 @@ titles:
     series: Vivre en poésie
     authors:
       - Munḏir Maṣrī
+    translators:
       - Maram Al- Masri
     year: 2020
     language: Arabic, French
@@ -13615,6 +14018,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991039902889705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Le rôle de la violence dans l'histoire et autres textes
+    original_title: Die Rolle der Gewalt in der Geschichte
     series: Petite collection rouge
     authors:
       - Friedrich Engels
@@ -13630,6 +14034,8 @@ titles:
   - title: Les grandes pages d'un centenaire
     subtitle: Discours communistes, 1920-2020
     authors: []
+    editors:
+      - Nicolas Devers-Dreyfus
     year: 2020
     language: French
     sources:
@@ -13783,8 +14189,9 @@ titles:
     series: Vivre en poésie
     authors:
       - Rafael Alberti
-      - Claude Couffon
       - Zoraida Carandell
+    translators:
+      - Claude Couffon
     year: 2021
     language: French
     sources:
@@ -13841,6 +14248,7 @@ titles:
     series: Empreinte des luttes
     authors:
       - Howard Fast
+    translators:
       - Renaud de Jouvenel
     year: 2021
     language: French
@@ -13884,8 +14292,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb471554526
     verified: true
   - title: Les souterrains de la liberté
+    original_title: Subterraneos de liberdade
     authors:
       - Jorge Amado
+    translators:
       - Isabel Meyrelles
     year: 2021
     language: French
@@ -13894,8 +14304,10 @@ titles:
         url: https://www.sudoc.fr/266508243
     verified: true
   - title: Mal d'amour
+    original_title: Mal de amor
     authors:
       - Óscar Hahn
+    translators:
       - Josiane Gourinchas
     year: 2021
     language: French
@@ -14015,10 +14427,12 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb47102772w
     verified: true
   - title: Impasse de la Baleine
+    original_title: Impasse de la Ballena
     authors:
       - Roxana Páez
-      - Anne Talvaz
       - Geneviève Huttin
+    translators:
+      - Anne Talvaz
     year: 2022
     language: French, Spanish
     sources:
@@ -14070,8 +14484,10 @@ titles:
     verified: true
   - title: L'aube était brune
     subtitle: Roman
+    original_title: Vor grossen Wandlungen
     authors:
       - Ludwig Renn
+    translators:
       - Jean-Pierre Landais
     year: 2022
     language: French
@@ -14084,8 +14500,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb47062801q
     verified: true
   - title: L'ombre de l'aigle
+    original_title: La sombra del águila
     authors:
       - Arturo Pérez-Reverte
+    translators:
       - Simon Vialle
     year: 2022
     language: French
@@ -14193,6 +14611,8 @@ titles:
   - title: Les souterrains de la liberté
     authors:
       - Jorge Amado
+    translators:
+      - Isabel Meyrelles
     year: 2022
     language: French
     sources:
@@ -14287,8 +14707,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb47279440r
     verified: true
   - title: Cervantes pour les chèvres, Marx pour les brebis
+    original_title: Cervantes para cabras, Marx para ovejas
     authors:
       - Pablo Santiago Chiquero
+    translators:
       - Simon Vialle
     year: 2023
     language: French
@@ -14323,12 +14745,14 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb47445022g
     verified: true
   - title: Diatribe d'amour contre un homme assis
+    original_title: Diatriba de amor contra un hombre sentado
     authors:
       - Gabriel García Márquez
+      - Caroline Lepage
+    translators:
       - Catherine Delahaye
       - Pascale Delahaye
       - Ricardo Montserrat
-      - Caroline Lepage
     year: 2023
     language: Spanish, French
     sources:
@@ -14339,8 +14763,10 @@ titles:
     verified: true
   - title: Guerre
     subtitle: Version intégrale
+    original_title: Krieg
     authors:
       - Ludwig Renn
+    translators:
       - Jean-Pierre Landais
     year: 2023
     language: French
@@ -14375,6 +14801,9 @@ titles:
   - title: La mémoire des nuits
     authors:
       - Paul Éluard
+    editors:
+      - Olivier Barbarant
+      - Victor Laby
     year: 2023
     language: French
     sources:
@@ -14386,6 +14815,7 @@ titles:
   - title: La vipère
     authors:
       - Alekseï Nikolaevitch Tolstoï
+    translators:
       - Paul Lequesne
     year: 2023
     language: French
@@ -14490,6 +14920,8 @@ titles:
   - title: 12 leçons d'économie et d'anthroponomie
     authors:
       - Paul Boccara
+    editors:
+      - Catherine Mills
     year: 2024
     language: French
     sources:
@@ -14514,6 +14946,9 @@ titles:
     series: Les bilingues - poésie
     authors:
       - Mario Benedetti
+    editors:
+      - Omar Emilio Spósito
+    translators:
       - Omar Emilio Spósito
     year: 2024
     language: French, Spanish
@@ -14594,8 +15029,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb475687383
     verified: true
   - title: Printemps au coin cassé
+    original_title: Primavera con una esquina rota
     authors:
       - Mario Benedetti
+    translators:
       - Caroline Lepage
     year: 2024
     language: French
@@ -14650,11 +15087,13 @@ titles:
     subtitle: Roman
   - title: XXe siècle
     subtitle: Roman
+    original_title: Eikostós Aiṓnas
     authors:
       - Melpo Axioti
-      - Jean Darlet
       - Dominique Grandmont
       - Titíka Dīmītroúlia
+    translators:
+      - Jean Darlet
     year: 2024
     language: French
     sources:
@@ -14667,8 +15106,9 @@ titles:
     series: Les bilingues - poésie
     authors:
       - Till Lindemann
-      - Emma Wolff
       - Matthias Matthies
+    translators:
+      - Emma Wolff
     year: 2025
     language: French, German
     sources:
@@ -14686,8 +15126,10 @@ titles:
     verified: true
   - title: Après-guerre
     subtitle: Suite de Guerre
+    original_title: Nachkrieg
     authors:
       - Ludwig Renn
+    translators:
       - Jean-Pierre Landais
     year: 2025
     language: French
@@ -14733,8 +15175,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb48564130v
     verified: true
   - title: Chant profond du roi de l'ombre
+    original_title: Martinete del rey sombra
     authors:
       - Raúl Quinto
+    translators:
       - Raoul Gomez
     year: 2025
     language: French
@@ -14769,6 +15213,7 @@ titles:
   - title: Journal de la guerre d'Espagne
     authors:
       - Ludwig Renn
+    translators:
       - Jean-Pierre Landais
     year: 2025
     language: French
@@ -14781,6 +15226,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb48636694h
     verified: true
     subtitle: Roman
+    original_title: Der spanische Krieg
   - title: L'effacement
     subtitle: Hélène Legotien, tuée et oubliée
     series: Essai
@@ -14868,9 +15314,11 @@ titles:
     verified: true
   - title: Staline et la guerre
     subtitle: Entretiens avec Gueorgui Joukov, Ivan Koniev, Ivan Issakov, Alexandre Vassilievski
+    original_title: Stalin i vojna
     series: Le temps des cerises
     authors:
       - Konstantin Mihajlovič Simonov
+    translators:
       - Simone Pirez
       - François Eychart
     year: 2025
@@ -14893,8 +15341,11 @@ titles:
     verified: true
   - title: Comment tout a commencé
     subtitle: Roman
+    original_title: Vremena
     authors:
       - Nikolaj Ivanovič Buharin
+    translators:
+      - Lucie Kaldor
     year: 2026
     language: French
     sources:

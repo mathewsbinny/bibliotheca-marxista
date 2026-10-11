@@ -1558,6 +1558,7 @@ titles:
     verified: true
   - title: Dimitrov srešu Gʺoring
     subtitle: Po materiali na Georgi Dimitrov vʺrhu o Lajpcigskiâ process ot 1933 godina
+    original_title: Dimitroff contra Göring
     authors:
       - Alfred Kurella
       - Alfred Kurela (Алфред Курела)
@@ -2766,6 +2767,8 @@ titles:
     subtitle: Sbornik ot biogr. ochertsi za [part.] revol. borni ot Burgaski okr
     authors:
       - Georgi Tomov
+    editors:
+      - Khaskiia Chelebonov
     year: 1971
     language: Bulgarian
     pages: 568
@@ -3231,6 +3234,8 @@ titles:
   - title: Spomeni za Georgi Dimitrov
     authors:
       - Ruben Avramov
+    editors:
+      - Dimo Andreev
     year: 1971
     language: Bulgarian
     sources:
@@ -4122,6 +4127,8 @@ titles:
     subtitle: Viden deets na mezhdunarodnoto komunistichesko dvizhenie
     authors:
       - Kostadin Baĭchinski
+    editors:
+      - David Elazar
     year: 1972
     language: Bulgarian
     pages: 555
@@ -5288,6 +5295,8 @@ titles:
     subtitle: “Spomeni i razmisli”
     authors:
       - TSola Dragoĭcheva
+    editors:
+      - Stefan Zhelev
     year: 1972
     language: Bulgarian
     pages: 600
@@ -6799,6 +6808,9 @@ titles:
     subtitle: (Sb.) [materiali ot] mezhdunarodna konf. po sluchaĭ 90 god. ot rozhdenieto na Georgi Dimitrov (13-17 iuni 1972 g. Sofiia)
     authors:
       - Dimitŭr Stanishev
+    editors:
+      - Petko Boev
+      - Todor Ganchev
     year: 1973
     language: Bulgarian
     pages: 628
@@ -7925,6 +7937,9 @@ titles:
     subtitle: Sb. [statii]. Sŭstav. [S predg.]
     authors:
       - Dimitŭr Blagoev
+    editors:
+      - Jordanka Dolapčieva
+      - Elena Evstatieva
     year: 1973
     language: Bulgarian
     pages: 511
@@ -8277,6 +8292,8 @@ titles:
     authors:
       - Georgi Miškov
       - Ekaterina Peovska
+    editors:
+      - Minka Petrova
     year: 1973
     language: Bulgarian
     sources:
@@ -8306,6 +8323,11 @@ titles:
       - Minka Petrova
       - Minka Petrova (Минка Петрова)
       - Bernard Lory
+    editors:
+      - Georgi Miškov
+      - Georgi Mishkov (Георги Мишков)
+      - Ekaterina Peovska
+      - Ekaterina Peovska (Екатерина Пеовска)
     year: 1973
     language: Bulgarian
     sources:
@@ -10080,9 +10102,10 @@ titles:
     subtitle: Ûni 1912- avgust 1914
     authors:
       - Ûrij Vladimirovič Bernov
+      - Aleksandr Âkovlevič Manusevič
+    translators:
       - Lilâna Georgieva
       - Nedâlka Hrisčeva
-      - Aleksandr Âkovlevič Manusevič
     year: 1974
     language: Bulgarian
     sources:
@@ -10145,6 +10168,7 @@ titles:
     subtitle: (Problemy na ličnostta v s''vremennata filosofska antropologiâ - marksiz''m, strukturaliz''m, eksperimentaliz''m, hristianski personaliz''m)
     authors:
       - Tadeusz Maciej Jaroszewski
+    translators:
       - Magdalena Atanasova
       - Metodi Metodiev
     year: 1974
@@ -10278,6 +10302,8 @@ titles:
     subtitle: Sbornik
     authors:
       - Georgi Dimitrov
+    editors:
+      - Mariâ Červendineva
     year: 1974
     edition: 1. izd
     language: Bulgarian
@@ -10709,8 +10735,9 @@ titles:
   - title: Političeskata agitataciâ - moščno orʺžie
     subtitle: Materiali ot dvustrannata teoretičeska konferenciâ, organizarana ot otdel "Propaganda i agitataciâ" na CK na BKP i otdel "Agitataciâ" na CK na GESP, po metodite i sredstvata na političeskata agitataciâ, s sʺtoâla se vʺv Varna prez oktomvri 1973 g
     authors:
-      - Dimit"r Zagorov
       - Pet"r Karagâurov
+    translators:
+      - Dimit"r Zagorov
     year: 1974
     language: Bulgarian
     sources:
@@ -11646,6 +11673,9 @@ titles:
     subtitle: 50 g. ot Septemvriĭskogo antifashistko vŭstanie 1923 g. Materiali ot iubileĭnata nauch. sesiia v Mikhaĭlovgrad, 13 i 15 sept. 1973 g
     authors:
       - IUbileĭna nauchna sesiia na tema Roliata na Septemvriĭskoto vŭstanie 1923 g. za bolshevizatsiiata na BKP Mikhaylovgrad, Bulgaria 1973
+    editors:
+      - Kostadin Baĭchinski
+      - Tatiana Koleva
     year: 1974
     language: Bulgarian
     pages: 287
@@ -12057,6 +12087,7 @@ titles:
     subtitle: 20 ûli
     authors:
       - Jerzy Putrament
+    translators:
       - Liliâ Račeva
     year: 1975
     language: Bulgarian
@@ -12437,6 +12468,8 @@ titles:
     subtitle: Bio-bibliogr
     authors:
       - TSvetanka Andonova
+    editors:
+      - Cvetana Andonova
     year: 1975
     edition: 1. izd
     language: Bulgarian
@@ -13794,6 +13827,7 @@ titles:
     verified: true
   - title: Petdeset godini borba na IUzhnoafrikanskata komunisticheska partiia
     subtitle: (1921-1971 g.)
+    original_title: Fifty fighting years
     authors:
       - A. Lerumo
     year: 1975
@@ -14160,6 +14194,7 @@ titles:
     subtitle: Roman
     authors:
       - Anna Seghers
+    translators:
       - Cvetana Uzunova-Kaludieva
     year: 1975
     language: Bulgarian
@@ -14758,7 +14793,8 @@ titles:
     verified: true
   - title: VII. Kongres na Polskata obedinena rabotničeska partiâ
     subtitle: 8-12 dekemvri 1975 g
-    authors:
+    authors: []
+    translators:
       - Vencislav Karaivanov
     year: 1975
     language: Bulgarian
@@ -14772,6 +14808,9 @@ titles:
     subtitle: Izbrana publitsistika
     authors:
       - Ĭosif Kherbst
+    editors:
+      - Katâ Conkova
+      - Lûbomir Jordanov
     year: 1975
     edition: 1. izd
     series: Revoliutsionna publitsistika
@@ -15864,6 +15903,7 @@ titles:
     subtitle: Reči i stati
     authors:
       - Edward Gierek
+    translators:
       - Magdalena Atanasova
     year: 1976
     language: Bulgarian
@@ -16489,6 +16529,7 @@ titles:
     authors:
       - Sław Krzemień-Ojak
       - Kr''st'o Goranov
+    translators:
       - Lidiâ Kueva
     year: 1976
     language: Bulgarian
@@ -16761,10 +16802,11 @@ titles:
       - Gena Todorova (Гена Тодорова)
       - Mariâ Vasileva
       - Mariia Vasileva (Мария Васильева)
-      - Valentina Hristova
-      - Valentina Khristova (Валентина Христова)
       - Nedâlka Hrisčeva-Mihajlova
       - Nedialka Khrischeva-mikhailova (Недялка Хрисчева-Михайлова)
+    translators:
+      - Valentina Hristova
+      - Valentina Khristova (Валентина Христова)
     year: 1976
     language: Russian
     sources:
@@ -17829,10 +17871,11 @@ titles:
     subtitle: Velikijat oktomvri; kratka istorija, dokumenti, snimki
     authors:
       - Alʹbert Pavlovič Nenarokov
-      - Nenčo Cvetkov
       - Žeko Aleksiev
       - Sofija Dăržaven poligrafičen "Balkan"
       - Sofija Dăržaven poligrafičen "Georgi Dimitrov"
+    translators:
+      - Nenčo Cvetkov
     year: 1977
     language: Bulgarian
     sources:
@@ -18017,6 +18060,8 @@ titles:
   - title: Botev v spomenite na săvremennicite si
     authors:
       - Stefan Karakostov
+    editors:
+      - Stefan Ljubomirov Karakostov
     year: 1977
     language: Bulgarian
     sources:
@@ -18261,6 +18306,8 @@ titles:
   - title: Družba ot vekove za vekove
     authors:
       - Todor Živkov
+    editors:
+      - Milko Balev
     year: 1977
     language: Bulgarian
     sources:
@@ -18569,6 +18616,7 @@ titles:
   - title: Ideologiâ i polityka na sʺvremennata socialdemokraciâ
     authors:
       - Janusz W. Gołębiowski
+    translators:
       - Magdalena Atanasova
     year: 1977
     language: Bulgarian
@@ -18795,6 +18843,9 @@ titles:
   - title: Izbrani proizvedeniâ 1944-1950
     authors:
       - Vasil Kolarov
+    editors:
+      - Boân Grigorov
+      - Pet''r Canev
     year: 1977
     language: Bulgarian
     sources:
@@ -19139,6 +19190,8 @@ titles:
     authors:
       - D. Blagoev
       - D. Blagoev (Д. Благоев)
+    editors:
+      - Jordanka Dolapčieva
     year: 1977
     language: Bulgarian
     sources:
@@ -19391,6 +19444,7 @@ titles:
     subtitle: Istoričeski očerk
     authors:
       - Czesław Kozłowski
+    translators:
       - Magdalena Atanasova
     year: 1977
     language: Bulgarian
@@ -20171,6 +20225,7 @@ titles:
     subtitle: Meždunarodna naučno-teoretična konferenciâ, posvetena na 60-godiŝninata na Velikata oktomvrijska socialističeska revolûciâ
     authors:
       - Konstantin Ivanovič Zarodov
+    translators:
       - Georgi I. Georgiev
     year: 1977
     language: Bulgarian
@@ -20912,7 +20967,8 @@ titles:
     verified: true
   - title: Hora na m''lčaliviâ
     subtitle: Očerci za razuznavači
-    authors:
+    authors: []
+    translators:
       - Rusi Šemelekov
       - Nedâlka Hrisčeva
     year: 1978
@@ -21600,6 +21656,10 @@ titles:
     subtitle: Predsmărtni pisma na geroi, zaginali v evropejskata săprotiva 1939-1945
     authors:
       - Antonina N. Kuzmanova
+    editors:
+      - Antonina Nikolova Kuzmanova
+    translators:
+      - Elisaveta Todorova Kuzmanova
     year: 1978
     language: Bulgarian
     sources:
@@ -22536,7 +22596,8 @@ titles:
     verified: true
   - title: Za Evropa na mira i progresa
     subtitle: Komunistite, novata obstanovka v Evropa i problemite na idejno-političeskata borba
-    authors:
+    authors: []
+    translators:
       - Dočka Ivanova
     year: 1978
     language: Bulgarian
@@ -24001,6 +24062,7 @@ titles:
   - title: Načaloto na eposa
     authors:
       - Jerzy Putrament
+    translators:
       - Metodi Metodiev
     year: 1979
     language: Bulgarian
@@ -27603,6 +27665,8 @@ titles:
   - title: Izbrani săčinenija
     authors:
       - Todor Živkov
+    editors:
+      - Ada Zacharieva
     year: 1980
     language: Bulgarian
     sources:
@@ -27902,6 +27966,7 @@ titles:
   - title: Ličnost
     authors:
       - Tadeusz Hołuj
+    translators:
       - Magdalena Atanasova
     year: 1980
     language: Bulgarian
@@ -29855,6 +29920,8 @@ titles:
     subtitle: Izbrani proizvedeniia 1949-1979
     authors:
       - Stanko Todorov
+    editors:
+      - Marko Markov
     year: 1980
     edition: 1. izd
     series: Vidni stroiteli na Narodna Republika Bŭlgariia
@@ -29989,7 +30056,8 @@ titles:
     verified: true
   - title: VIII Kongres na Polskata obedinena rabotničeska partiâ
     subtitle: 'Doklady i rešeniâ: 11-15 fevruari 1980 g'
-    authors:
+    authors: []
+    translators:
       - Vasil Ivanov
     year: 1980
     language: Bulgarian
@@ -31671,6 +31739,7 @@ titles:
   - title: Obvinâemite ne se priznavat za vinovni
     authors:
       - Karol Małcużyński
+    translators:
       - Magdalena Atanasova
     year: 1981
     language: Bulgarian
@@ -32498,6 +32567,8 @@ titles:
   - title: Săčinenija
     authors:
       - Georgi Dimitrov
+    editors:
+      - Jordan Jotov
     year: 1981
     language: Bulgarian
     sources:
@@ -33191,6 +33262,7 @@ titles:
   - title: V profil i anfas
     authors:
       - Stanisław Brodzki
+    translators:
       - Miroslav Čorbanov
     year: 1981
     language: Bulgarian
@@ -34140,6 +34212,7 @@ titles:
     authors:
       - Mihail Ovsânikov
       - Mikhail Ovsianikov (Михаил Овсяников)
+    translators:
       - Stoân Kajnarov
       - Stoian Kainarov (Стоян Кайнаров)
     year: 1982
@@ -35738,6 +35811,7 @@ titles:
   - title: Atentat''t v''v "V''lčeto legoviŝe"
     authors:
       - Jerzy Putrament
+    translators:
       - Liliâ Račeva
     year: 1983
     language: Bulgarian
@@ -37100,6 +37174,7 @@ titles:
     subtitle: Teoriâ i praktika na KOS-KOR
     authors:
       - Edward Modzelewski
+    translators:
       - Miroslav Čorbanov
     year: 1983
     language: Bulgarian
@@ -37736,6 +37811,7 @@ titles:
   - title: V obkr''ženieto na Hitler
     authors:
       - Marian Podkowiński
+    translators:
       - Magdalena Atanasova
     year: 1983
     language: Bulgarian
@@ -39033,6 +39109,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=301975302
     verified: true
   - title: Majka
+    original_title: Matʹ
     series: Knigi za revoljucijata
     authors:
       - Maksim Gorʹkij
@@ -39980,6 +40057,8 @@ titles:
   - title: Săčinenija
     authors:
       - Georgi Dimitrov
+    editors:
+      - Jordan Jotov
     year: 1984
     language: Bulgarian
     sources:
@@ -40518,6 +40597,9 @@ titles:
     subtitle: Spomeni i razmisli
     authors:
       - Vera Nacheva
+    editors:
+      - Stanka Penčeva
+      - Stanka Pencheva (Станка Пенчева)
     year: 1984
     edition: 1. izd
     language: Bulgarian
@@ -42342,6 +42424,7 @@ titles:
   - title: Reči proizneseni na plenumi na CK na PORP i zasedaniâ na Sejma na PNR, pred različni kongresi, nacionalni konferencii i s''veŝaniâ, pri sreŝi s trudeŝite se
     authors:
       - Wojciech Jaruzelski
+    translators:
       - Magdalena Atanasova
       - Miroslav Čorbanov
       - Vasil Ivanov
@@ -43526,6 +43609,7 @@ titles:
     verified: true
   - title: Konferencijata na Obedinenite Nacii v San Francisko, 25 april - 26 juni 1945
     subtitle: Sbornik dokumenti
+    original_title: Konferencija Obʺedinennych Nacij v San-Francisko, 25 aprelja - 26 ijunja 1945 g
     series: Săvetskijat Săjuz na meždunarodnite konferencii v perioda na Velikata Otečestvena vojna 1941/1945; tom 5
     authors: []
     year: 1986
@@ -44522,6 +44606,7 @@ titles:
         url: https://lccn.loc.gov/86180178
     verified: true
   - title: Săvetskijat Săjuz na meždunarodnite konferencii v perioda na Velikata Otečestvena vojna 1941/1945
+    original_title: Sovetskij Sojuz na meždunarodnych konferencijach perioda Velikoj Otečestvennoj vojny, 1941/1945
     authors:
       - Sowjetunion
     year: 1986
@@ -45776,6 +45861,9 @@ titles:
     authors:
       - Bistra Dimova
       - Nesho Vŭlev TSarevski
+    editors:
+      - Nešo Carevski
+      - Nesho Tsarevski (Нешо Царевски)
     year: 1987
     edition: 2., dop. izd
     language: Bulgarian
@@ -46276,6 +46364,8 @@ titles:
   - title: Marksistko-leninskata filosofska misăl v Bălgarija
     authors:
       - Slavi Slavov
+    editors:
+      - Kosta Andreev
     year: 1987
     language: Bulgarian
     sources:
@@ -47997,6 +48087,7 @@ titles:
   - title: Čas't na prilepa
     authors:
       - Wiesław Górnicki
+    translators:
       - Magdalena Atanasova
     year: 1988
     language: Bulgarian
@@ -48617,6 +48708,8 @@ titles:
   - title: Izbrani săčinenija
     authors:
       - Todor Živkov
+    editors:
+      - Ada Zacharieva
     year: 1988
     language: Bulgarian
     sources:
@@ -49865,6 +49958,7 @@ titles:
     subtitle: Iz trilogiâta "Polovin vek"
     authors:
       - Jerzy Putrament
+    translators:
       - Liliâ Račeva
     year: 1988
     language: Bulgarian
@@ -50196,8 +50290,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=273674919
     verified: true
   - title: Anverskiât tigʺr
+    original_title: Le tigre d'Anvers
     authors:
       - Vercors
+    translators:
       - Malinka Baeva
     year: 1989
     language: Bulgarian
@@ -50862,6 +50958,8 @@ titles:
   - title: Izbrani săčinenija
     authors:
       - Todor Živkov
+    editors:
+      - Ada Zacharieva
     year: 1989
     language: Bulgarian
     sources:
@@ -51433,6 +51531,7 @@ titles:
   - title: Praznik i kultura
     authors:
       - Kazimierz Żygulski
+    translators:
       - Pravda Spasova
     year: 1989
     language: Bulgarian
@@ -51758,6 +51857,8 @@ titles:
   - title: SIV, realnosti i perspektivi
     authors:
       - Marin Petrov Marinov
+    editors:
+      - Marin Petrov
     year: 1989
     edition: 1. izd
     language: Bulgarian
@@ -52626,6 +52727,8 @@ titles:
     subtitle: Mezhdu krasotata i dobroto
     authors:
       - Elka Chernokozheva
+    editors:
+      - Elka Ch Černokoževa
     year: 1990
     edition: 1. izd
     language: Bulgarian
@@ -52874,8 +52977,9 @@ titles:
     authors:
       - Władysław Kozaczuk
       - Magdalena Atanasova
-      - Borâna Rajčeva
       - Pet"r Tončev
+    translators:
+      - Borâna Rajčeva
     year: 1990
     language: Bulgarian
     sources:
@@ -52887,6 +52991,7 @@ titles:
   - title: Tuk na Vesterplate
     authors:
       - Zbigniew Flisowski
+    translators:
       - Magdalena Atanasova
     year: 1990
     language: Bulgarian

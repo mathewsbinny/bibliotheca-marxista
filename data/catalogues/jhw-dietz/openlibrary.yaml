@@ -7,6 +7,9 @@ titles:
     subtitle: Revue des geistigen und öffentlichen Lebens
     authors:
       - Sozialdemokratische Partei Deutschlands
+    editors:
+      - Karl Kautsky
+      - Heinrich Cunow
     year: 1883
     language: German
     sources:
@@ -143,8 +146,14 @@ titles:
     verified: false
   - title: Das elend der Philosophie
     subtitle: Antwort auf Proudhons "Philosophie des elends"
+    original_title: Mis�ere de la philosophie
     authors:
       - Karl Marx
+    editors:
+      - Friedrich Engels
+    translators:
+      - Eduard Bernstein
+      - Karl Kautsky
     year: 1885
     series: The making of the modern world. Part 2 (1851-1914)
     language: German
@@ -744,6 +753,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb34144604x
     verified: true
   - title: Die ländliche Arbeiterfrage
+    original_title: Vopros o rabocich v selʹskom chozjajstve
     authors:
       - N. A. Kablukov
     year: 1889
@@ -1116,6 +1126,9 @@ titles:
     subtitle: Untersuchungen über den Fortschritt der Menschheit aus der Wildheit durch die Barbarei zur Zivilisation
     authors:
       - Lewis Henry Morgan
+    translators:
+      - Wilhelm Eichhoff
+      - Karl Kautsky
     year: 1891
     language: German
     pages: 480
@@ -1135,6 +1148,8 @@ titles:
   - title: Dr. W. Zimmerman's Grosser Deutscher Bauernkrieg
     authors:
       - Wilhelm Zimmermann
+    editors:
+      - Wilhelm Blos
     year: 1891
     language: German
     pages: 816
@@ -1278,6 +1293,7 @@ titles:
       - label: Read or download (HathiTrust)
         url: https://catalog.hathitrust.org/Record/100209799
   - title: 'Das elend der Philosophie: Antwort auf Proudhons "Philosophie des elends"'
+    original_title: Mis�ere de la philosophie
     series: 'The Making of the Modern World, Part II: 1851-1914'
     authors:
       - Karl Marx
@@ -1530,9 +1546,11 @@ titles:
         url: https://search.worldcat.org/title/837619713
     verified: true
   - title: Der russische Bauer
+    original_title: The Russian Peasantry
     series: Internationale Bibliothek; 15
     authors:
       - S. Stepniak
+    translators:
       - Victor Adler
     year: 1893
     language: Russian
@@ -1571,6 +1589,8 @@ titles:
   - title: Der russische Bauer, von Stepniak. Autorisirte Uebersetzung [aus Englischem], von Dr. Viktor Adler
     authors:
       - Stepnâk
+    translators:
+      - Viktor Adler
     year: 1893
     language: German
     sources:
@@ -1799,6 +1819,8 @@ titles:
   - title: Die Bewegung in Sizilien im Hinblick auf die letzten Verurtheilungen
     authors:
       - Adolfo Rossi
+    translators:
+      - Leopold Jacoby
     year: 1894
     language: German
     pages: 114
@@ -2181,8 +2203,12 @@ titles:
         url: https://search.worldcat.org/title/4679676
     verified: true
   - title: Das Elend der Philosophie, Antwort auf Proudhon's "Philosophie des Elends", ["Misère de la Philosophie, réponse à la "Philosophie de la misère" de Proudhon"] von Karl Marx. Deutsch von E. Bernstein und K. Kautsky. Mit Vorwort und Noten von Friedrich Engels. 3... Auflage
+    original_title: Misère de la philosophie
     authors:
       - Karl Marx
+    translators:
+      - Eduard Bernstein
+      - Karl Kautsky
     year: 1895
     language: German
     sources:
@@ -2243,12 +2269,14 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb300747163
     verified: true
   - title: Die Geschichte des britischen Trade Unionismus
+    original_title: The history of trade unionism
     authors:
       - Beatrice Webb
       - Beatrice Potter Webb
       - Sidney Webb
-      - Richard Bernstein
       - Eduard Bernstein
+    translators:
+      - Richard Bernstein
     year: 1895
     language: German
     sources:
@@ -2513,6 +2541,7 @@ titles:
         url: https://archive.org/details/derursprungderf00enge
   - title: Die Englische Gewerkvereins-Bewegung
     subtitle: Nach G. Howell's "The conflicts of capital and labour" von C. Hugo [pseud.]
+    original_title: The Conflicts of capital and labour
     authors:
       - Hugo Lindemann
       - George Howell
@@ -2636,6 +2665,7 @@ titles:
     authors:
       - Friedrich Engels
       - Karl Marx
+    translators:
       - Karl Kautsky
     year: 1896
     language: German
@@ -2665,6 +2695,8 @@ titles:
   - title: Revolution und Kontre-Revolution in Deutschland, [Revolution and counter-Revolution or Germany in 1848,] von Karl Marx. Ins Deutsche übertragen von [Karl] Kautsky
     authors:
       - Karl Marx
+    translators:
+      - Karl Kautsky
     year: 1896
     language: German
     sources:
@@ -2781,6 +2813,8 @@ titles:
   - title: Zur Kritik der politischen Oekonomie
     authors:
       - Karl Marx
+    editors:
+      - Karl Klautsky
     year: 1897
     language: German
     sources:
@@ -2969,6 +3003,7 @@ titles:
     isbn: '3801225097'
   - title: Theorie und Praxis der englischen Gewerkvereine
     subtitle: (Industrial democracy)
+    original_title: Industrial democracy
     authors:
       - Sidney Webb
       - Beatrice Potter Webb
@@ -3865,6 +3900,7 @@ titles:
         url: https://search.worldcat.org/title/6699664
     verified: true
   - title: Der Sozialismus und das öffentliche Leben
+    original_title: Chego ozhidatʹ zhenshchine ot sot︠s︡ializma
     authors:
       - A. A. Isaev
     year: 1903
@@ -4010,9 +4046,12 @@ titles:
     verified: true
   - title: Finanzminister Witte und der russische Reichsrat über die Finanzlage Russlands
     subtitle: Protokoll der Plenarsitzung des russischen Reichsrates vom 30. Dezember 1912 (12. Januar 1903)
+    original_title: Ministrʺ finansovʺ i Gosudarstvennyj Sovětʺ o finansovomʺ položenìi Rossìi
     authors:
       - Petr Berngardovich Struve
       - Russia. Gosudarstvennyĭ Soviet
+    editors:
+      - Petr Berngardovitch Struve
     year: 1903
     language: German
     pages: 20
@@ -4657,6 +4696,7 @@ titles:
         url: https://www.sudoc.fr/148116426
     verified: true
     subtitle: Mit einem Nachtrag Die Vorgeschichte und die inneren Triebkräfte der Kommune
+    original_title: Histoire de la Commune de 1871
   - title: Gosudarstvennyâ prestupleniâ v Rossii v XIX veke
     subtitle: Sbornik iz političeskih processov i drugih materialov otnosâŝihsâ k istorii revolûcionnyh i opozicionnyh dviženij v Rossii
     authors:
@@ -5165,6 +5205,7 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/soc-polit-die-frau-und-der-sozialismus-bebel-livro
   - title: Die Geschichte der englischen Arbeit
+    original_title: Six centuries of work and wages
     authors:
       - James E. Thorold Rogers
     year: 1906
@@ -5174,6 +5215,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991004225209705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Die Geschichte des Britischen Trade Unionismus
+    original_title: The history of trade unionism
     authors:
       - Sidney Webb
       - Beatrice Potter Webb
@@ -5340,6 +5382,7 @@ titles:
         url: https://search.worldcat.org/title/6976243
     verified: true
   - title: Geschichte des Sozialismus in den Vereinigten Staaten
+    original_title: History of Socialism in the United States
     series: Internationale Bibliothek; 39
     authors:
       - Morris Hillquit
@@ -5669,12 +5712,15 @@ titles:
         url: https://hdl.handle.net/2027/wu.89101098093
   - title: Theorie und Praxis der englischen Gewerkvereine
     subtitle: (Industrial democracy)
+    original_title: Industrial democracy
     authors:
       - Sidney Webb
       - R. Bernstein
       - Beatrice Potter Webb
       - C. Hugo
       - Beatrice Webb
+    translators:
+      - Hugo Lindemann
     year: 1906
     language: German
     sources:
@@ -6026,6 +6072,8 @@ titles:
   - title: Der Schutz der Deutschen in Frankreich 1870 und 1871, Briefwechsel des ausserordentlichen Gesandten und bevollmächtigen Minister der Vereinigten Staaten für Frankreich E. B. Washburne in Paris, vom 17. Juli 1870 bis zum 29. Juni 1871. Aus den diplomatischen Akten der Regierung der Vereinigten Staaten von Nordamerika ausgewählt... von Adolf Hepner
     authors:
       - Elihu Benjamin Washburne
+    editors:
+      - Adolf Hepner
     year: 1907
     language: German
     sources:
@@ -6212,6 +6260,8 @@ titles:
   - title: Revolution und kontre-Revolution in Deutschland
     authors:
       - Friedrich Engels
+    translators:
+      - Karl Kautsky
     year: 1907
     edition: 2. aufl
     series: Internationale bibliothek
@@ -6609,8 +6659,11 @@ titles:
         url: https://hdl.handle.net/2027/hvd.hnh47f
   - title: Die Urgesellschaft
     subtitle: Untersuchungen über den Fortschritt der Menschheit aus der Wildheit durch die Barbarei zur Zivilisation
+    original_title: Ancient society
     authors:
       - Lewis Henry Morgan
+    translators:
+      - Karl Kautsky
       - Wilhelm Eichhoff
     year: 1908
     language: German
@@ -6656,6 +6709,7 @@ titles:
         url: https://search.worldcat.org/title/6699660
     verified: true
   - title: Geschichte des Sozialismus in Frankreich
+    original_title: Histoire du socialisme en France
     series: Internationale Bibliothek; Nr. 43
     authors:
       - Paul Louis
@@ -6741,11 +6795,15 @@ titles:
         url: https://hdl.handle.net/2027/hvd.hn3hk8
   - title: Babeuf und die Verschwörung für die Gleichheit
     subtitle: Mit dem durch sie veranlassten Prozess und den Belegstücken
+    original_title: Conspiration pour l'égalité dite Babeuf
     series: Internationale Bibliothek; 49
     authors:
       - Philippe Buonarroti
       - Anna Blos
       - Wilhelm Blos
+    translators:
+      - Anna Tomasczewska Blos
+      - Whilhen Blos
     year: 1909
     language: German
     sources:
@@ -6811,6 +6869,8 @@ titles:
   - title: Der historische Materialismus
     authors:
       - Herman Gorter
+    translators:
+      - Anna Pannekoek
     year: 1909
     series: Kleine Bibliothek, no. 4
     language: German
@@ -6965,6 +7025,7 @@ titles:
         url: https://search.worldcat.org/title/10344659
     verified: true
   - title: Geschichte der Kommune von 1871
+    original_title: Histoire de la Commune de 1871
     series: Internationale Bibliothek; 10, Ed. 4
     authors:
       - Prosper Olivier Lissagaray
@@ -7430,6 +7491,8 @@ titles:
     subtitle: Aus dem nachgelassenen Manuskript "Zur Kritik der politischen Ökonomie"
     authors:
       - Karl Marx
+    editors:
+      - Karl Kautsky
     year: 1910
     series: Internationale Bibliothek
     language: German
@@ -7788,6 +7851,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/010314388
   - title: Der Kapitalismus im Altertum
     subtitle: Studien über die römische Wirtschaftsgeschichte
+    original_title: <<Le>> capitalisme dans le monde antique
     series: Internationale Bibliothek; 52
     authors:
       - Joseph Salvioli
@@ -7929,6 +7993,10 @@ titles:
   - title: Geschichte der Gewerkschaftsbewegung in Frankreich (1789 bis 1912)
     authors:
       - Paul Louis
+    editors:
+      - Gustav Eckstein
+    translators:
+      - Hedwig Kurucz- Eckstein
     year: 1912
     series: Internationale Bibliothek
     language: German, French
@@ -8017,6 +8085,7 @@ titles:
     subtitle: Ratschläge eines Arztes an die heranreifende Jugend
     authors:
       - Alfred Fournier
+    translators:
       - Carl Ravasini
     year: 1912
     language: German
@@ -8093,6 +8162,9 @@ titles:
     subtitle: 1844 bis 1883
     authors:
       - Friedrich Engels
+    editors:
+      - Eduard Bernstein
+      - August Bebel
     year: 1913
     language: German
     sources:
@@ -8112,6 +8184,9 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    editors:
+      - August Bebel
+      - Eduard Bernstein
     year: 1913
     language: German
     sources:
@@ -8328,6 +8403,8 @@ titles:
   - title: Revolution und kontre-Revolution in Deutschland
     authors:
       - Friedrich Engels
+    translators:
+      - Karl Kautsky
     year: 1913
     edition: 3. aufl
     series: Internationale bibliothek
@@ -8395,6 +8472,8 @@ titles:
   - title: Aus meinem Leben
     authors:
       - August Bebel
+    editors:
+      - Karl Kautsky
     year: 1914
     language: German
     links:
@@ -8787,8 +8866,9 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
-      - Luise Kautsky
       - David Borisovič Râzanov
+    translators:
+      - Luise Kautsky
     year: 1917
     language: German
     sources:
@@ -8822,8 +8902,9 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
-      - Luise Kautsky
       - David Borisovič Râzanov
+    translators:
+      - Luise Kautsky
     year: 1917
     language: German
     sources:
@@ -9034,8 +9115,9 @@ titles:
     series: Kleine Bibliothek; Nr. 4
     authors:
       - Herman Gorter
-      - Anna Pannekoek
       - Karl Kautsky
+    translators:
+      - Anna Pannekoek
     year: 1919
     language: German
     sources:
@@ -9246,6 +9328,8 @@ titles:
   - title: Revolution und Kontre-Revolution in Deutschland
     authors:
       - Karl Marx
+    translators:
+      - Karl Kautsky
     year: 1919
     language: German
     sources:
@@ -9419,6 +9503,7 @@ titles:
     verified: false
   - title: Der historische Materialismus
     subtitle: Für Arbeiter erklärt
+    original_title: 'Het historisch materialisme : voor arbeiders verklaard'
     series: Kleine Bibliothek; 4
     authors:
       - Herman Gorter
@@ -9773,6 +9858,7 @@ titles:
     verified: true
   - title: Beiträge zur Geschichte des Materialismus
     subtitle: Holbach, Helvetius, Marx
+    original_title: Ocerki po istorii materializma
     authors:
       - Georgiĭ Valentinovich Plekhanov
     year: 1921
@@ -10250,6 +10336,8 @@ titles:
   - title: Karl Marx' ökonomische Lehren, gemeinverständlich dargestellt und erläutert von Karl Kautsky. 20. Auflage
     authors:
       - Karl Marx
+    editors:
+      - Karl Kautsky
     year: 1921
     language: German
     sources:
@@ -10844,6 +10932,8 @@ titles:
     subtitle: Studien über die römische Wirtschaftsgeschichte
     authors:
       - Joseph Salvioli
+    translators:
+      - Karl Kautsky
     year: 1922
     language: German
     sources:
@@ -11413,6 +11503,8 @@ titles:
   - title: Lohnarbeit und Kapital, von Karl Marx, neu herausgegeben von Karl Kautsky
     authors:
       - Karl Marx
+    editors:
+      - Karl Kautsky
     year: 1922
     language: German
     sources:
@@ -12548,6 +12640,8 @@ titles:
   - title: Das Werk von Arno Holz
     authors:
       - Arno Holz
+    editors:
+      - Hans W. Fischer
     year: 1924
     edition: 1. Ausg., mit Einführungen von Dr. Hasn W. Fischer ...
     language: German
@@ -13674,6 +13768,7 @@ titles:
     verified: true
   - title: Der Lotterieschwede
     subtitle: Eine Erz
+    original_title: Lotterisvensken
     series: Die kleine Reihe des Dietz-Verlages
     authors:
       - Martin Andersen Nexø
@@ -14474,6 +14569,8 @@ titles:
   - title: Sonntage eines Grossstädters in der Natur
     authors:
       - Curt Grottewitz
+    editors:
+      - Wilhelm Bölsche
     year: 1925
     language: German
     pages: 117
@@ -17210,6 +17307,8 @@ titles:
   - title: Josef Dietzgens Gesammelte Schriften
     authors:
       - Joseph Dietzgen
+    editors:
+      - Eugen Dietzgen
     year: 1930
     edition: 4. Auflage
     language: German
@@ -18747,6 +18846,8 @@ titles:
     pages: 66
   - title: Ein Leben für das politische Buch, ein Almanach zum 120. Geburtstag von Johann Heinrich Wilhelm Dietz, herausgegeben von Gustav Schmidt-Küster
     authors: []
+    editors:
+      - Gustav Schmidt Küster
     year: 1963
     language: German
     sources:
@@ -18882,6 +18983,8 @@ titles:
   - title: Reden und Aufsätze
     authors:
       - Erich Ollenhauer
+    editors:
+      - Fritz Sänger
     year: 1964
     language: German
     pages: 357
@@ -19090,6 +19193,8 @@ titles:
     subtitle: Drei Vortrag
     authors:
       - Eduard Bernstein
+    editors:
+      - Helmut Hirsch
     year: 1966
     language: German
     isbn: '3801200000'
@@ -19573,6 +19678,8 @@ titles:
     subtitle: 'Abgehalten zu Breslau vom 6. bis 12. Oktober 1895: mit einem Personen-, Zeitschriften- und Zeitungsregister sowie Ortsregister zum Nachdruck von Max Schwarz'
     authors:
       - Sozialdemokratische Partei Deutschlands. Parteitag
+    editors:
+      - Max Schwarz
     year: 1978
     series: Reprints zur Sozialgeschichte
     language: German
@@ -19696,6 +19803,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991121825049705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Sozialdemokratie und Frauenemanzipation in deutschen Kaiserreich
+    original_title: Women and social democracy in imperial Germany
     series: Internationale Bibliothek; Bd. 119
     authors:
       - Richard J. Evans
@@ -19867,8 +19975,11 @@ titles:
     verified: true
   - title: Afrika den Afrikanern!
     subtitle: Aufzeichnungen eines Nama-Häuptlings aus der Zeit der deutschen Eroberung Südwestafrikas 1884 bis 1894
+    original_title: Die dagboek van Hendrik Witbooi, kaptein van die Witbooi-Hottentotte
     authors:
       - Henderick Witbooi
+    editors:
+      - Wolfgang Reinhard
     year: 1982
     language: German
     pages: 212
@@ -19943,6 +20054,7 @@ titles:
     verified: true
   - title: Gramp
     subtitle: 'Ein Mann altert und stirbt: die Begegnung einer Familie mit der Wirklichkeit des Todes'
+    original_title: Gramp
     authors:
       - Mark Jury
       - Dan Jury
@@ -19992,6 +20104,9 @@ titles:
   - title: 'Zur Theoriediskussion des demokratischen Sozialismus in der Weimarer Republik: Bericht zum wissenschaftlichen Kongress der Friedrich-Ebert-Stiftung "Beiträge zur reformistischen Sozialismustheorie in der Weimarer Republik", vom 9. bis 12. Oktober 1980, Freudenberg, Siegen'
     authors:
       - Wissenschaftlicher Kongress Beitrage zur reformistischen Sozialismustheorie in der Weimarer Republik
+    editors:
+      - Horst Heimann
+      - Thomas Meyer
     year: 1982
     language: German
     sources:
@@ -20127,6 +20242,8 @@ titles:
     authors:
       - Sozialdemokratische Partei Deutschlands
       - Sozialdemokratische Partei Deutschlands.Protokoll über die Verhandhungen des Parteitages der Sozialdemokratischen Partei Deutschlands. _
+    editors:
+      - Max Schwarz
     year: 1984
     language: German
     sources:
@@ -20137,6 +20254,8 @@ titles:
     authors:
       - Sozialdemokratische Partei Deutschlands
       - Sozialdemokratische Partei Deutschlands.Protokoll über die Verhandhungen des Parteitages der Sozialdemokratischen Partei Deutschlands. _
+    editors:
+      - Max Schwarz
     year: 1984
     language: German
     sources:
@@ -20147,6 +20266,8 @@ titles:
     series: Geschichte der Arbeiter und der Arbeiterbewegung in Deutschland seit dem Ende des 18; Bd. 10
     authors:
       - Heinrich August Winckler
+    editors:
+      - Gerhard Albert Ritter
     year: 1984
     language: German
     sources:
@@ -20213,6 +20334,8 @@ titles:
     verified: true
   - title: Reprints zur Sozialgeschichte
     authors: []
+    editors:
+      - Dieter Dowe
     year: 1984
     language: Not recorded
     sources:
@@ -20468,6 +20591,8 @@ titles:
   - title: Emil Stumpp, ein Zeichner seiner Zeit
     authors:
       - Emil Stumpp
+    editors:
+      - Detlef Brennecke
     year: 1988
     language: German
     pages: 251
@@ -20486,6 +20611,7 @@ titles:
     verified: true
   - title: Gramp
     subtitle: 'Ein Mann altert und stirbt: die Begegnung einer Familie mit der Wirklichkeit des Todes'
+    original_title: Gramp
     authors:
       - Mark Jury
       - Edwin Ortmann
@@ -20783,6 +20909,8 @@ titles:
     subtitle: Das Leben des Dienstmädchens Sophia von ihr selbst erzählt
     authors:
       - Sophia Lemitz
+    editors:
+      - Gunilla Budde
     year: 1989
     series: Dietz Taschenbuch
     language: German
@@ -20804,9 +20932,12 @@ titles:
     verified: true
   - title: Mein Gefängnis hat viele Mauern
     subtitle: 'Eine Palästinenserin berichtet: çbers'
+    original_title: my home, my prison; aus dem englischen übersetzt von Barbara Bortfeldt.; 2., Unveränderter Nachdruck
     series: Dietz-Taschenbuch; 13
     authors:
       - Raymonda Tawil
+    translators:
+      - Barbara Bortfeldt
     year: 1989
     language: German
     sources:
@@ -20863,6 +20994,8 @@ titles:
   - title: Widerstand und Verweigerung im Saarland
     subtitle: 1935-1945
     authors: []
+    editors:
+      - Hans-Walter Herrmann
     year: 1989
     language: German
     sources:
@@ -21135,6 +21268,8 @@ titles:
     authors:
       - Peter Losche
       - Historische Kommission zu Berlin
+    editors:
+      - Peter Lösche
     year: 1990
     language: German
     sources:
@@ -21151,6 +21286,8 @@ titles:
   - title: Sozialistische Akademiker- und Intellektuellenorganisationen in der Weimarer Republik
     authors:
       - Franz Walter
+    editors:
+      - Peter Lösche
     year: 1990
     series: Solidargemeinschaft und Milieu
     language: German
@@ -21287,6 +21424,8 @@ titles:
     subtitle: Sozialdemokraten unter sowjetischer Besatzung
     authors:
       - Beatrix W. Bouvier
+    editors:
+      - Horst-Peter Schulz
     year: 1991
     language: German
     pages: 328
@@ -21331,6 +21470,8 @@ titles:
   - title: A Brief History of the German Trade Unions
     authors:
       - Michael Schneider
+    translators:
+      - Barrie Selman
     year: 1991
     language: English
     pages: 422
@@ -21423,6 +21564,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/010368976
     verified: true
   - title: Der Oeko-Atlas
+    original_title: The state of the earth
     authors:
       - Joni Seager
     year: 1991
@@ -21870,6 +22012,8 @@ titles:
   - title: Arbeitersänger und Volksbühnen in der Weimarer Republik
     authors:
       - Dietmar Klenke
+    editors:
+      - Peter Lösche
     year: 1992
     series: Solidargemeinschaft und Milieu
     language: German
@@ -21947,6 +22091,7 @@ titles:
         url: https://search.worldcat.org/title/32401946
     verified: true
   - title: Der politische Weltatlas
+    original_title: The new state of the world atlas
     authors:
       - Michael Kidron
       - Ronald Segal
@@ -21960,6 +22105,8 @@ titles:
     subtitle: Die Republik im Übergang
     authors:
       - Wolfgang Thierse
+    editors:
+      - Michael Müller
     year: 1992
     series: Dietz Taschenbuch
     language: German
@@ -22146,6 +22293,7 @@ titles:
     verified: false
   - title: Nachbarn und Opfer
     subtitle: Erinnerungen an eine Kleinstadt im Nationalsozialismus
+    original_title: Victims and neighbors
     authors:
       - Frances Henry
       - Förderverein Synagoge Sobernhaeim
@@ -22231,6 +22379,7 @@ titles:
         url: https://lccn.loc.gov/94178694
     verified: true
   - title: Der Oeko-Atlas
+    original_title: The state of the earth
     authors:
       - Joni Seager
     year: 1993
@@ -22240,6 +22389,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991093771869705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Der Weltgesundheitsatlas
+    original_title: The state of health atlas
     authors:
       - Judith Mackay
       - Martin Rethmeier
@@ -22653,6 +22803,8 @@ titles:
     authors:
       - Jochem Langkau
       - Michael Schneider
+    editors:
+      - Hans Matthöfer
     year: 1994
     series: Politik im Taschenbuch
     language: German
@@ -22678,6 +22830,7 @@ titles:
     subtitle: 'Bearbeitung und Einführung von Jochen Langkau: Band 2, Ein notwendiges Bündnis'
   - title: Überleben im Versteck
     subtitle: Jüdische Kinder, 1940-1944
+    original_title: Les enfants cachés
     authors:
       - Raphaël Delpard
     year: 1994
@@ -22722,6 +22875,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991035272599705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Weltatlas der Religionen
+    original_title: The state of the religion atlas
     authors:
       - Joanne O'Brien
       - Martin Palmer
@@ -22984,6 +23138,8 @@ titles:
     subtitle: Eine Verhaltensgeschichte der Gesellschaft im Nationalsozialismus
     authors:
       - Gerhard Paul
+    editors:
+      - Hans-Walter Herrmann
     year: 1995
     series: Widerstand und Verweigerung im Saarland 1935-1945
     language: German
@@ -23554,6 +23710,7 @@ titles:
     verified: false
   - title: Ungleiche Schwerstern?
     subtitle: Die britische Labour Party und die deutsche Sozialdemokratie im Vergleich
+    original_title: The British Labour Party and the German Social Democrats
     authors:
       - Stefan Berger
     year: 1997
@@ -23564,6 +23721,7 @@ titles:
     verified: true
   - title: Ungleiche Schwestern?
     subtitle: 'Die britische Labour Party und die deutsche Sozialdemokratie im Vergleich: 1900 - 1931'
+    original_title: The British Labour Party and the German Social Democrats
     series: Politik- und Gesellschaftsgeschichte / Forschungsinstitut der Friedrich-Ebert-Stiftung; Bd. 46
     authors:
       - Stefan Berger
@@ -24015,6 +24173,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb39163340t
     verified: true
   - title: 50 Jahre humanitärer Einsatz
+    original_title: Fifty years of humanitarian action
     series: Zur Lage der Flüchtlinge in der Welt; 2000/2001
     authors:
       - Klaus Birker
@@ -24114,6 +24273,7 @@ titles:
     verified: true
   - title: Rudolf Hilferding
     subtitle: Tragödie eines deutschen Sozialdemokraten
+    original_title: Rudolf Hilferding
     series: Reihe Politik- und Gesellschaftsgeschichte; Bd. 55
     authors:
       - William Smaldone
@@ -24754,6 +24914,8 @@ titles:
     subtitle: Zwischen Fordismus und digitaler Revolution
     authors:
       - Peter Hübner
+    editors:
+      - Gerhard A. Ritter
     year: 2014
     series: Geschichte der Arbeiter und der Arbeiterbewegung in Deutschland seit dem Ende des 18. Jahrhunderts -- Band 15
     language: German
@@ -24950,6 +25112,7 @@ titles:
     verified: true
   - title: IS und al-Qaida
     subtitle: Die Krise der Sunniten und die Rivalität im globalen Dschihad
+    original_title: Tanẓīm "ad-daula al-islāmīya"
     authors:
       - Ḥasan Abū-Hanīya
       - Muḥammad Abū-Rummān
@@ -25325,6 +25488,10 @@ titles:
   - title: Der Deutsche Gewerkschaftsbund 1975-1982
     authors:
       - Johannes Platz
+    editors:
+      - Anja Kruke
+      - Dietmar Süß
+      - Meik Woyke
     year: 2018
     series: Quellen zur Geschichte der deutschen Gewerkschaftsbewegung im 20. Jahrhundert -- Band 17
     language: German
@@ -25541,8 +25708,11 @@ titles:
     verified: true
   - title: Germany and a Europe of Defence
     subtitle: Global Responsibility Requires the End of Small-State Particularism
+    original_title: Deutschland und das Europa der Verteidigung
     authors:
       - Hans-Peter Bartels
+    translators:
+      - James Patterson
     year: 2019
     language: English
     pages: 130
@@ -25655,6 +25825,7 @@ titles:
     authors:
       - Cas Mudde
       - Cristóbal Rovira Kaltwasser
+    translators:
       - Anne Emmert
     year: 2019
     language: German
@@ -25958,6 +26129,7 @@ titles:
     subtitle: Plädoyer für ein vorsichtiges Europa
     authors:
       - René Cuperus
+    translators:
       - Gregor Seferens
     year: 2021
     language: German
@@ -26614,6 +26786,7 @@ titles:
     subtitle: Der Anfang
     authors:
       - Aleksej Bobrovnikov
+    translators:
       - Franziska Zwerg
     year: 2024
     language: German
@@ -26623,6 +26796,7 @@ titles:
     verified: true
   - title: 'China: Dangerous Rival or Cooperation Partner?'
     subtitle: How Can EU–China Relations Develop in a Changing World with Geopolitical Conflicts?
+    original_title: China - Zukunftsmodell oder Albtraum?
     authors:
       - Gerhard Stahl
     year: 2024
@@ -26679,9 +26853,11 @@ titles:
     verified: true
   - title: Isay Rottenbergs Zigarrenfabrik
     subtitle: Wie ein niederländisch-jüdischer Unternehmer in Sachsen den Nazis die Stirn bot
+    original_title: De sigarenfabriek van Isay Rottenberg
     authors:
       - Hella Rottenberg
       - Sandra Rottenberg
+    translators:
       - Christina Margrit Siever
     year: 2024
     language: German
@@ -27176,6 +27352,7 @@ titles:
     verified: true
   - title: The International Network of the Radical Right
     subtitle: Democracy Under Attack in the United States and Europe
+    original_title: Das internationale Netz der radikalen Rechten
     authors:
       - Thomas Greven
     year: 2026
@@ -27575,6 +27752,8 @@ titles:
     verified: false
   - title: Sozialistische Klassiker in Neudrucken. Herausgegeben von Georg Eckert
     authors: []
+    editors:
+      - Georg Eckert
     language: Not recorded
     sources:
       - title: BnF catalogue record cb342553350

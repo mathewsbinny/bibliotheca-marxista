@@ -185,6 +185,8 @@ titles:
   - title: Zbrano delo
     authors:
       - Anton Aškerc
+    editors:
+      - Janez Logar
     year: 1946
     language: Slovenian
     sources:
@@ -504,6 +506,8 @@ titles:
     series: Zbrana dela slovenskih pesnikov in pisateljev
     authors:
       - Janko Kersnik
+    editors:
+      - Janez Logar
     year: 1947
     language: Slovenian
     sources:
@@ -560,6 +564,8 @@ titles:
     subtitle: Opera množica v osmih slikah
     authors:
       - Matija Bravnicar
+    translators:
+      - Peter Gresserov-Golovin
     year: 1948
     language: French
     sources:
@@ -800,6 +806,8 @@ titles:
     series: Zbrana dela slovenskih pesnikov in pisateljev
     authors:
       - Janez Trdina
+    editors:
+      - Anton Slodnjak
     year: 1948
     language: Slovenian
     sources:
@@ -1070,6 +1078,8 @@ titles:
     series: Zbrana dela slovenskih pesnikov in pisateljev
     authors:
       - Dragotin Kette
+    editors:
+      - France Koblar
     year: 1949
     language: Slovenian
     sources:
@@ -1709,6 +1719,8 @@ titles:
     verified: true
   - title: 'Likovni svet: arhitektura, slikarstvo, kiparstvo in umetna obrt. Uredil odbor "Lojze Gostiša"'
     authors: []
+    editors:
+      - Lojze Gostiša
     year: 1951
     language: Czech
     sources:
@@ -1739,9 +1751,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991027319029705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Malavoglievi
+    original_title: Malavoglievi
     series: Svetovni klasiki
     authors:
       - Giovanni Verga
+    translators:
       - Niko Kuret
     year: 1951
     language: Not recorded
@@ -1991,6 +2005,8 @@ titles:
   - title: Risto Savin. Dva Intermezza, op. 14 pour violon et piano. Partition et partie. Violinske označbe redigiral prof Karlo Rupel
     authors:
       - Risto Savin
+    editors:
+      - Karlo Rupel
     year: 1951
     language: French
     sources:
@@ -2177,6 +2193,9 @@ titles:
   - title: 'Zugl.: A. S. Puškin: Izbrano delo. Bd 3'
     authors:
       - Aleksandr Sergeevič Puškin
+    editors:
+      - Mile Klopčič
+    translators:
       - Mile Klopčič
       - Vladimir Levstik
     year: 1951
@@ -2254,6 +2273,7 @@ titles:
   - title: Leto 1794
     authors:
       - Władysław Stanisław Reymont
+    translators:
       - Marjan Bregant
     year: 1952
     language: Slovenian
@@ -2310,6 +2330,8 @@ titles:
   - title: Morfologija slovenskega jezika
     authors:
       - Fran Ramovs
+    editors:
+      - Fran Ramovš
     year: 1952
     language: Slovenian
     sources:
@@ -2692,6 +2714,9 @@ titles:
       - Zorka Bradačev
       - Silva Hrašovčev
       - Marija Vogelnik
+    editors:
+      - Zorka Bradačeva
+      - Silva Hrašovčeva
     year: 1953
     language: Slovenian
     sources:
@@ -2858,6 +2883,8 @@ titles:
   - title: Harfa v vetru
     authors:
       - Alojz Gradnik
+    editors:
+      - Filip Kalan
     year: 1954
     language: Slovenian
     pages: 297
@@ -3434,6 +3461,8 @@ titles:
     series: Monografije k zbranim delom slovenskih pesnikov in pisateljev
     authors:
       - Ivan Prijatelj
+    editors:
+      - Anton Ocvirk
     year: 1955
     language: Slovenian
     sources:
@@ -3514,6 +3543,8 @@ titles:
   - title: Zbrano delo
     authors:
       - Janez Trdina
+    editors:
+      - Francè Koblar
     year: 1955
     language: Slovenian
     sources:
@@ -3695,6 +3726,7 @@ titles:
   - title: Lutka
     authors:
       - Bolesław Prus
+    translators:
       - M. B.
     year: 1956
     language: Slovenian
@@ -4108,6 +4140,8 @@ titles:
     series: Zbrana dela slovenskij pesnikov in pisateljev
     authors:
       - Janez Trdina
+    editors:
+      - Francè Koblar
     year: 1957
     language: Slovenian
     sources:
@@ -4304,6 +4338,7 @@ titles:
   - title: Resničnost
     authors:
       - Jerzy Putrament
+    translators:
       - Marjan Bregant
     year: 1958
     language: Slovenian
@@ -4475,6 +4510,8 @@ titles:
   - title: Delo
     authors:
       - France Prešeren
+    editors:
+      - Dušan Pirjevec
     year: 1959
     language: Slovenian
     pages: 286
@@ -4519,6 +4556,8 @@ titles:
     series: Slovenski Likovni Umetniki
     authors:
       - Luc Menaše
+    editors:
+      - Državna Založba Slovenije
     year: 1959
     language: Slovenian
     sources:
@@ -4982,6 +5021,8 @@ titles:
     series: Zbrana dela slovenskih pesnikov in pisateljev
     authors:
       - Janez Trdina
+    editors:
+      - Janez Logar
     year: 1959
     language: Slovenian
     sources:
@@ -5147,11 +5188,13 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=250447533
     verified: true
   - title: Gorski car
+    original_title: Gorski car
     series: Izbrana dela jugoslovanskih klasikov
     authors:
       - Svetolik Ranković
-      - Severin Šali
       - Tone Potokar
+    translators:
+      - Severin Šali
     year: 1960
     language: Slovenian
     sources:
@@ -5220,6 +5263,8 @@ titles:
     verified: true
   - title: Ivan Grohar. Besedilo France Stelè. Traduit par Radojka Vrančić
     authors: []
+    translators:
+      - Radojka Vrančič
     year: 1960
     language: Multiple languages
     sources:
@@ -5246,8 +5291,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb33065513z
     verified: true
   - title: Križarji
+    original_title: Krzyżacy
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Rudolf Molè
     year: 1960
     language: Slovenian
@@ -5528,9 +5575,11 @@ titles:
     verified: true
   - title: Blišč in beda nemcev
     subtitle: Roman
+    original_title: Glanz und Elend der Deutschen
     series: Moderni roman
     authors:
       - Ernst Glaeser
+    translators:
       - Fran Albreht
     year: 1961
     language: Slovenian
@@ -5747,6 +5796,7 @@ titles:
     subtitle: Roman
     authors:
       - Maria Dąbrowska
+    translators:
       - France Vodnik
     year: 1961
     language: Slovenian
@@ -6092,6 +6142,8 @@ titles:
     authors:
       - Mihail Talj
       - Vasja Pirc
+    editors:
+      - Anton Preinfalk
     year: 1962
     language: Slovenian
     sources:
@@ -6283,6 +6335,8 @@ titles:
     subtitle: '[Uredniški otbor: Anton Bajec et al.]'
     authors:
       - Ljubljana Slovenska akademija znanosti in umetnosti
+    editors:
+      - Anton Bajec
     year: 1962
     language: Slovenian
     pages: 1054
@@ -6335,9 +6389,11 @@ titles:
     verified: true
   - title: Symphonie pathétique
     subtitle: Roman o Čajkovskem
+    original_title: Symphonie pathétique
     series: Biografije
     authors:
       - Klaus Mann
+    translators:
       - Vladimir Levstik
     year: 1962
     language: Slovenian
@@ -6464,9 +6520,11 @@ titles:
         url: https://www.sudoc.fr/15031051X
     verified: true
   - title: Gospodična
+    original_title: Gospođica
     series: Dela; knj. 3
     authors:
       - Ivo Andrić
+    translators:
       - Pavel Flerè
     year: 1963
     language: Slovenian
@@ -6558,9 +6616,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=320235475
     verified: true
   - title: Most na Drini
+    original_title: Na Drini ćuprija
     series: Dela; knj. 1
     authors:
       - Ivo Andrić
+    translators:
       - Tone Potokar
     year: 1963
     language: Slovenian
@@ -6572,6 +6632,7 @@ titles:
     subtitle: Roman
     authors:
       - Maria Dąbrowska
+    translators:
       - France Vodnik
     year: 1963
     language: Slovenian
@@ -6621,6 +6682,10 @@ titles:
     subtitle: Dvajsetega stoletja; antologija
     authors:
       - Ryszard Matuszewski
+    editors:
+      - Zygmunt Stoberski
+    translators:
+      - Lojze Krakar
     year: 1963
     language: Slovenian
     sources:
@@ -6696,6 +6761,8 @@ titles:
   - title: Sodobnost
     authors:
       - Kulturno-umetniško društvo Sodobnost International
+    editors:
+      - Ciril Zlobec
     year: 1963
     language: Slovenian
     sources:
@@ -6736,9 +6803,11 @@ titles:
     verified: true
   - title: Travniška kronika
     subtitle: Konzulski časi
+    original_title: Travnička hronika
     series: Dela; knj. 2
     authors:
       - Ivo Andrić
+    translators:
       - Severin Šali
     year: 1963
     language: Slovenian
@@ -6877,6 +6946,7 @@ titles:
   - title: Eseji o Shakespearu
     authors:
       - Jan Kott
+    translators:
       - Uroš Kraigher
       - Radojka Vrančič
     year: 1964
@@ -6891,8 +6961,9 @@ titles:
     subtitle: Marksizem in eksistencializem
     authors:
       - Adam Schaff
-      - Frane Jerman
       - Mihailo Marković
+    translators:
+      - Frane Jerman
     year: 1964
     language: Slovenian
     sources:
@@ -7151,11 +7222,13 @@ titles:
         url: https://search.worldcat.org/title/20960976
     verified: true
   - title: Stiller
+    original_title: Stiller
     series: Moderni roman
     authors:
       - Max Frisch
-      - Vital Klabus
       - Peter Suhrkamp
+    translators:
+      - Vital Klabus
     year: 1964
     language: Slovenian
     sources:
@@ -7497,6 +7570,7 @@ titles:
   - title: Hudič
     authors:
       - Leopold Tyrmand
+    translators:
       - Janko Moder
     year: 1965
     language: Slovenian
@@ -7643,6 +7717,7 @@ titles:
         url: https://d-nb.info/948857188
     verified: true
   - title: Naj mi bo ime Gantenbein
+    original_title: Mein Name sei Gantenbein
     series: Moderni Roman
     authors:
       - Max Frisch
@@ -8102,6 +8177,8 @@ titles:
       - Francè Stelè
       - Francè Avčin
       - Ivan Bratko
+    translators:
+      - 'Kordia Kveder. Photos. by: F[ranc'
     year: 1966
     language: Slovenian
     sources:
@@ -8346,8 +8423,9 @@ titles:
     subtitle: Izbrane pesmi
     authors:
       - Tadeusz Różewicz
-      - Lojze Krakar
       - Ryszard Matuszewski
+    translators:
+      - Lojze Krakar
     year: 1966
     language: Slovenian
     sources:
@@ -8482,6 +8560,8 @@ titles:
   - title: Pesmi
     authors:
       - Fran Albreht
+    editors:
+      - Zvone Verstovšek
     year: 1966
     language: Croatian
     pages: 108
@@ -9848,6 +9928,8 @@ titles:
     authors:
       - Roman Savnik
       - Živko Šifrer
+    editors:
+      - Francè Planina
     year: 1968
     language: Slovenian
     sources:
@@ -9977,6 +10059,7 @@ titles:
     subtitle: Roman
     authors:
       - Maria Dąbrowska
+    translators:
       - France Vodnik
     year: 1968
     language: Slovenian
@@ -10075,8 +10158,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/000807717
     verified: true
   - title: Pozni srednji vek
+    original_title: Spätes Mittelalter
     authors:
       - Hans H. Hofstätter
+    translators:
       - Helena Menaše
     year: 1968
     language: Slovenian
@@ -10176,6 +10261,9 @@ titles:
   - title: The Bailiff Yerney and His Rights
     authors:
       - Ivan Cankar
+    translators:
+      - Sidonie Yeras
+      - H. C.
     year: 1968
     language: English
     pages: 102
@@ -10195,6 +10283,8 @@ titles:
     subtitle: Izbrane pesmi
     authors:
       - Marc Alyn
+    translators:
+      - Kajetan Kovič
     year: 1968
     language: Slovenian
     sources:
@@ -10918,6 +11008,7 @@ titles:
     series: Slowenien
     authors:
       - Francè Stelè
+    translators:
       - Janko Golias
     year: 1970
     language: English
@@ -11096,8 +11187,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/001352912
     verified: true
   - title: Ljudstva starega vzhoda
+    original_title: Völker des Alten Orients
     authors:
       - Carel J. Ry van Beest Holle
+    translators:
       - Helena Menaše
     year: 1970
     language: Slovenian
@@ -11108,6 +11201,7 @@ titles:
   - title: Mali vitez
     authors:
       - Henryk Sienkiewicz
+    translators:
       - M. A.
     year: 1970
     language: Slovenian
@@ -11357,9 +11451,11 @@ titles:
         url: https://search.worldcat.org/title/217699579
     verified: true
   - title: Rojstvo Evrope
+    original_title: Die Geburt Europas
     authors:
       - Magnus Backes
       - Regine Dölling
+    translators:
       - Helena Menaše
     year: 1970
     language: Slovenian
@@ -11409,6 +11505,8 @@ titles:
   - title: Slovar slovenskega književnega jezika
     authors:
       - Inštitut za slovenski jezik Frana Ramovša
+    editors:
+      - Anton Bajec
     year: 1970
     language: Slovenian
     sources:
@@ -11448,6 +11546,8 @@ titles:
   - title: Slovenski impresionisti
     authors:
       - Francè Stelè
+    editors:
+      - France Stele
     year: 1970
     language: Slovenian
     sources:
@@ -11553,6 +11653,7 @@ titles:
   - title: V puščavi in goščavi
     authors:
       - Henryk Sienkiewicz
+    translators:
       - France Vodnik
     year: 1970
     language: Slovenian
@@ -11628,6 +11729,7 @@ titles:
   - title: Z ognjem in mečem
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Janko Moder
     year: 1970
     language: Slovenian
@@ -11787,8 +11889,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=684841592
     verified: true
   - title: Islamski svet
+    original_title: Die Welt des Islam
     authors:
       - Carel J. Ry van Beest Holle
+    translators:
       - Helena Menaše
     year: 1971
     language: Slovenian
@@ -11922,6 +12026,9 @@ titles:
   - title: My Life and Other Sketches
     authors:
       - Ivan Cankar
+    translators:
+      - Elza Jereb
+      - Alasdair MacKinnon
     year: 1971
     language: English, Slovenian
     pages: 196
@@ -12128,7 +12235,13 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1547379146
     verified: true
   - title: Slovene impressionists
+    original_title: Slovenski impresionisti
     authors: []
+    editors:
+      - France Stele
+    translators:
+      - Alasdair MacKinnon
+      - Elza Jereb
     year: 1971
     language: Slovenian
     sources:
@@ -12404,6 +12517,8 @@ titles:
   - title: Eros tanatos. Uredil in spremno besedo napisal Kajetan Kovič
     authors:
       - Alois Gradnik
+    editors:
+      - Kajetan Kovič
     year: 1972
     language: Slovenian
     sources:
@@ -12428,6 +12543,8 @@ titles:
   - title: France Mihelič
     subtitle: Grafika, risba
     authors: []
+    translators:
+      - Viktor Jesenik
     year: 1972
     language: French, Slovenian
     sources:
@@ -12647,6 +12764,7 @@ titles:
     subtitle: Roman
     authors:
       - Willi Heinrich
+    translators:
       - Janko Moder
     year: 1972
     language: German
@@ -12656,8 +12774,9 @@ titles:
     verified: true
   - title: Najlepše pravljice
     authors:
-      - Rudolf Kresal
       - Zdenko Balabanić
+    translators:
+      - Rudolf Kresal
       - Fran Albreht
       - Božidar Premrl
     year: 1972
@@ -13121,8 +13240,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1958500755
     verified: true
   - title: Kratko pismo, dolgo slovo
+    original_title: Der kurze Brief zum langen Abschied
     authors:
       - Peter Handke
+    translators:
       - Vital Klabus
     year: 1973
     language: Slovenian
@@ -13582,6 +13703,7 @@ titles:
     subtitle: Plemiška povest v verzih iz let 1811 in 1812 v dvanjastih spevih
     authors:
       - Adam Mickiewicz
+    translators:
       - Rozka Štefan
     year: 1974
     language: Slovenian
@@ -13689,6 +13811,7 @@ titles:
   - title: Mali vitez
     authors:
       - Henryk Sienkiewicz
+    translators:
       - M. A.
     year: 1974
     language: Slovenian
@@ -13723,6 +13846,8 @@ titles:
     series: Zbrano delo; Knj. 21
     authors:
       - Ivan Cankar
+    editors:
+      - Anton Ocvirk
     year: 1974
     language: Slovenian
     sources:
@@ -13802,8 +13927,9 @@ titles:
   - title: Nikolaj Kopernik
     authors:
       - Eugeniusz Rybka
-      - Uroš Kraigher
       - Pavel Kunaver
+    translators:
+      - Uroš Kraigher
       - Majda Woźniak
     year: 1974
     language: Slovenian
@@ -13870,8 +13996,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb35170279h
     verified: true
   - title: Potop
+    original_title: Potop
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Rudolf Molè
     year: 1974
     language: Slovenian
@@ -14019,6 +14147,7 @@ titles:
   - title: Slovo
     authors:
       - Stanisław Dygat
+    translators:
       - Janko Moder
     year: 1974
     language: Slovenian
@@ -14184,6 +14313,7 @@ titles:
   - title: Z ognjem in mečem
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Janko Moder
     year: 1974
     language: Slovenian
@@ -14250,6 +14380,7 @@ titles:
   - title: Brez dogme
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Janko Moder
     year: 1975
     language: Slovenian
@@ -14417,8 +14548,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=037532146
     verified: true
   - title: Križarji
+    original_title: Krzyżacy
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Rudolf Molè
     year: 1975
     language: Slovenian
@@ -14449,8 +14582,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=551278579
     verified: true
   - title: Lord Jim
+    original_title: Lord Jim
     authors:
       - Joseph Conrad
+    translators:
       - Avgust Petrišič
     year: 1975
     language: Slovenian
@@ -14495,6 +14630,7 @@ titles:
   - title: Novele
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Janko Moder
     year: 1975
     language: Slovenian
@@ -14507,6 +14643,8 @@ titles:
   - title: O osvobodilni vojni
     subtitle: Dušan Kveder-Tomaž
     authors: []
+    editors:
+      - Anton Bebler
     year: 1975
     language: Slovenian
     sources:
@@ -14624,8 +14762,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1547380780
     verified: true
   - title: Quo vadis
+    original_title: Quo vadis
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Janko Moder
     year: 1975
     language: Slovenian
@@ -14766,6 +14906,7 @@ titles:
   - title: V puščavi in goščavi
     authors:
       - Henryk Sienkiewicz
+    translators:
       - France Vodnik
     year: 1975
     language: Slovenian
@@ -14819,6 +14960,7 @@ titles:
   - title: Dada pesmi
     authors:
       - Hans Arp
+    translators:
       - Andrej Medved
     year: 1976
     language: German
@@ -14923,6 +15065,8 @@ titles:
   - title: Očiščenje in pomlajenje
     authors:
       - Ivan Cankar
+    editors:
+      - Dušan Moravec
     year: 1976
     language: Slovenian
     pages: 201
@@ -14946,6 +15090,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1454416904
     verified: true
   - title: Omerpaša Latas
+    original_title: Omerpaša Latas
     series: Zbrano delo / Ivo Andrić; knj. 16
     authors:
       - Ivo Andrić
@@ -15125,6 +15270,8 @@ titles:
   - title: The Ward of Our Lady of Mercy
     authors:
       - Ivan Cankar
+    translators:
+      - Henry Leeming
     year: 1976
     language: English
     sources:
@@ -15389,6 +15536,7 @@ titles:
   - title: Glavni problemi literarne vede
     authors:
       - Henryk Markiewicz
+    translators:
       - Niko Jež
     year: 1977
     language: Slovenian
@@ -15492,8 +15640,10 @@ titles:
     verified: true
   - title: Montauk
     subtitle: Pripoved
+    original_title: Montauk
     authors:
       - Max Frisch
+    translators:
       - Vital Klabus
     year: 1977
     language: Slovenian
@@ -15658,6 +15808,7 @@ titles:
   - title: Roald Amundsen, poslednji viking
     authors:
       - Edouard Calic
+    translators:
       - Stanko Jarc
     year: 1977
     language: German
@@ -15815,6 +15966,7 @@ titles:
   - title: Znamenja ob poti
     authors:
       - Ivo Andrić
+    translators:
       - Janko Moder
     year: 1977
     language: Slovenian
@@ -15893,6 +16045,8 @@ titles:
     subtitle: Drame in komedije
     authors:
       - Ferdo Kozak
+    editors:
+      - Primož Kozak
     year: 1978
     language: Slovenian
     pages: 439
@@ -16343,6 +16497,8 @@ titles:
   - title: Zbrani spisi
     authors:
       - Fran Milčinski
+    editors:
+      - Anton Slodnjak
     year: 1978
     edition: '[2. izd. / uredila Breda Slodnjak]'
     language: Slovenian
@@ -16831,6 +16987,8 @@ titles:
   - title: Zbrano delo
     authors:
       - Franc Saleški Finžgar
+    editors:
+      - France Bernik
     year: 1979
     series: Zbrana dela slovenskih pesnikov in pisateljev
     language: Slovenian
@@ -17470,6 +17628,9 @@ titles:
   - title: Zbrani spisi
     authors:
       - Fran Milčinski
+    editors:
+      - Breda Slodnjak
+      - Anton Slodnjak
     year: 1980
     language: Slovenian
     sources:
@@ -18329,6 +18490,7 @@ titles:
   - title: Zgodovina Poljske
     authors:
       - Aleksander Gieysztor
+    translators:
       - Niko Jež
       - Rozka Štefan
     year: 1982
@@ -18354,6 +18516,8 @@ titles:
     subtitle: 'Mednarodni Grafični Bienale, 17. Junij-30. September 1983 = Biennale Internationale de Gravure, 17. Juin-30. Septembre 1983 = International Biennial of Graphic Art, 17. June-30. September 1983: Moderna Galerija, Ljubljana, Jugoslavija'
     authors:
       - International Biennial of Graphic Art (15th 1983 Ljubljana, Slovenia)
+    editors:
+      - Živa Škodlar Vujić
     year: 1983
     language: Slovenian, English, French
     pages: 471
@@ -18760,9 +18924,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1437419550
     verified: true
   - title: Teta Liza
+    original_title: La cousine Bette
     series: Zbirka Mojstri
     authors:
       - Honoré de Balzac
+    translators:
       - Oton Župančič
     year: 1983
     language: Slovenian
@@ -18949,6 +19115,7 @@ titles:
     verified: true
   - title: Mala flora Slovenije
     subtitle: Praprotnice in semenke
+    original_title: Petite flore de Slovénie, plantes vasculaires. Ed. augm. et corrigée
     authors:
       - Andrej Tine Martinčič
       - Franc Sušnik
@@ -19028,6 +19195,8 @@ titles:
   - title: Ships of Stone in the Adriatic
     authors:
       - Ivo Eterović
+    translators:
+      - Marjan Golobič
     year: 1984
     language: English
     pages: 192
@@ -19172,6 +19341,8 @@ titles:
     series: Zbrana dela slovenskih pesnikov in pisateljev
     authors:
       - Franc Saleški Finžgar
+    editors:
+      - France Bernik
     year: 1984
     language: Slovenian
     sources:
@@ -19287,6 +19458,8 @@ titles:
   - title: Londonski dnevnik 1944 - 1945
     authors:
       - Izidor Cankar
+    editors:
+      - Lojze Gostiša
     year: 1985
     language: Slovenian
     sources:
@@ -19355,6 +19528,7 @@ titles:
         url: https://search.worldcat.org/title/17693557
     verified: true
   - title: Orgeln in Slowenien
+    original_title: Orgle na Slovenskem
     authors:
       - Milko Bizjak
     year: 1985
@@ -19377,6 +19551,8 @@ titles:
   - title: Pipe Organs in Slovenia
     authors:
       - Milko Bizjak
+    translators:
+      - Rudi Meden
     year: 1985
     language: English
     pages: 232
@@ -19511,6 +19687,8 @@ titles:
   - title: Sto manj en epigram
     authors:
       - Matej Bor
+    editors:
+      - Kajetan Kovič
     year: 1985
     language: Slovenian
     sources:
@@ -19606,6 +19784,7 @@ titles:
   - title: Izbrane pesmi
     authors:
       - Victor Hugo
+    translators:
       - Janez Menart
     year: 1986
     language: Slovenian
@@ -19706,8 +19885,9 @@ titles:
   - title: Pornografija
     authors:
       - Witold Gombrowicz
-      - Katarina Šalamun-Biedrzycka
       - Milan Pajk
+    translators:
+      - Katarina Šalamun-Biedrzycka
     year: 1986
     language: Slovenian
     sources:
@@ -20083,8 +20263,10 @@ titles:
         url: https://d-nb.info/1006651888
     verified: true
   - title: Pornografija
+    original_title: Pornografia
     authors:
       - Witold Gombrowicz
+    translators:
       - Katarina Šalamun-Biedrzycka
     year: 1987
     language: Slovenian
@@ -20343,6 +20525,8 @@ titles:
     series: Zbrana dela slovenskih pesnikov in pisateljev
     authors:
       - Juš Kozak
+    editors:
+      - Jože Munda
     year: 1988
     language: Slovenian
     sources:
@@ -20438,6 +20622,8 @@ titles:
   - title: Domače obrti na Slovenskem
     authors:
       - Janez Bogataj
+    editors:
+      - Zmaga Kumer
     year: 1989
     language: Slovenian
     pages: 245
@@ -20752,6 +20938,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=028978781
     verified: true
   - title: Blütenpracht Sloweniens
+    original_title: Rože na Slovenskem
     authors:
       - Luka Pintar
       - Tone Wraber
@@ -20967,6 +21154,8 @@ titles:
     series: Zbrano delo / Juš Kozak. Uredil in opombe napis. Jože Munda; 3
     authors:
       - Juš Kozak
+    editors:
+      - Jože Munda
     year: 1990
     language: Slovenian
     sources:
@@ -21593,6 +21782,8 @@ titles:
   - title: Izbrano delo
     authors:
       - Juš Kozak
+    editors:
+      - Franček Bohanec
     language: Serbian
     sources:
       - title: K10plus record 1132162521

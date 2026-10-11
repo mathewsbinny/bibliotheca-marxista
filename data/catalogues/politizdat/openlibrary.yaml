@@ -83,6 +83,8 @@ titles:
     subtitle: Doklad [L. Ivanova] i vystupleniia v Institute MKh i MP
     authors:
       - Institut mirovogo khoziaĭstva i mirovoĭ politiki (Kommunisticheskaia akademiia)
+    editors:
+      - Dmitriĭ Bukhartsev
     year: 1932
     language: Russian
     pages: 216
@@ -146,6 +148,8 @@ titles:
       - Friedrich Engels
       - Karl Marx
       - Karl Marks
+    editors:
+      - Vladimir Viktorovič Adoratskij
     year: 1932
     language: Russian
     sources:
@@ -1974,6 +1978,9 @@ titles:
   - title: Arhiv Marksa i Èngelʹsa
     authors:
       - Karl Marx
+    editors:
+      - Vladimir Viktorovič Adoratskij
+      - Vladimir Viktorovich Adoratskii (Владимир Викторович Адоратский)
     year: 1934
     language: Russian
     sources:
@@ -3997,6 +4004,9 @@ titles:
     authors:
       - Karl Marx
       - Karl Marks
+    editors:
+      - Vladimir Viktorovič Adoratskij
+      - Vladimir Viktorovich Adoratskii (Владимир Викторович Адоратский)
     year: 1935
     language: Russian
     sources:
@@ -9982,14 +9992,15 @@ titles:
     authors:
       - Karl Marx
       - Karl Marks (Карл Маркс)
-      - I. I. Stepanov-Skvorcov
-      - E. E. Stepanov-skvortsov (И. И. Степанов-Скворцов)
       - V. Adoratskij
       - V. Adoratskii (В. Адоратский)
       - M. Savelʹev
       - M. Savelev (М. Савельев)
       - A. Steckij
       - A. Stetskii (А. Стецкий)
+    translators:
+      - I. I. Stepanov-Skvorcov
+      - E. E. Stepanov-skvortsov (И. И. Степанов-Скворцов)
     year: 1937
     language: Russian
     sources:
@@ -10039,6 +10050,8 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
+      - Iwan Skworcow-Stiepanow
     year: 1937
     language: Russian
     sources:
@@ -10984,6 +10997,7 @@ titles:
     verified: true
   - title: Pod znamenem Narodnogo Fronta
     subtitle: Rechʹ и Statʹi, 1935-1937
+    original_title: Bajo la bandera del Frente Popular
     authors:
       - José Díaz
     year: 1937
@@ -11468,6 +11482,8 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    editors:
+      - Vladimir V. Adoratskij
     year: 1937
     language: Russian
     sources:
@@ -11550,6 +11566,8 @@ titles:
     authors:
       - V. Kolesnik
       - V. Kolesnik (В. Колесник)
+    editors:
+      - Ėmilija Isaakovna Teumin
     year: 1937
     language: Russian
     sources:
@@ -13013,6 +13031,8 @@ titles:
     authors:
       - Karl Marx
       - Karl Marks
+    editors:
+      - M. B. Mitin
     year: 1939
     language: Russian
     sources:
@@ -13349,6 +13369,8 @@ titles:
     authors:
       - Karl Marx
       - Karl Marks
+    editors:
+      - M. B. Mitin
     year: 1940
     language: Russian
     sources:
@@ -14338,6 +14360,8 @@ titles:
     authors:
       - Karl Marx
       - Karl Marks
+    editors:
+      - Mark Borisovič Mitin
     year: 1941
     language: Russian
     sources:
@@ -16922,8 +16946,10 @@ titles:
         url: https://www.sudoc.fr/271533994
     verified: true
   - title: Farhad i Širin
+    original_title: Farhad ve Širin. Hamsa
     authors:
       - Alî Şîr Nevâʿî
+    translators:
       - Lev Penʹkovskij
       - Lev Penkovskii (Лев Пеньковский)
     year: 1946
@@ -17566,6 +17592,7 @@ titles:
         url: https://www.sudoc.fr/121923401
     verified: true
   - title: Obŝestvennoe i gosudarstvennoe ustrojstvo SSSR
+    original_title: La Structure sociale et politique de l'U.R.S.S
     authors:
       - Vâčeslav Alekseevič Karpinskij
       - Viacheslav Alekseevich Karpinskii (Вячеслав Алексеевич Карпинский)
@@ -18622,6 +18649,8 @@ titles:
       - Giordano Bruno
       - Michail A. Dynnik
       - Akademija nauk SSSR
+    translators:
+      - Mihail Aleksandrovič Dynnik
     year: 1949
     language: Russian
     sources:
@@ -19598,6 +19627,7 @@ titles:
         url: https://search.worldcat.org/title/837591958
     verified: true
   - title: Berežlivostʹ na proizvodstve - istočnik rosta obŝestvennogo bogatstva
+    original_title: Úspornost ve výrobě - zdroj růstu společenského bohatství
     authors:
       - Evgenij Vasilʹevič Kasimovskij
       - Evgenii Vasilevich Kasimovskii (Евгений Васильевич Касимовский)
@@ -20158,6 +20188,7 @@ titles:
     subtitle: O svâzi poznaniâ s praktikoj - svâzi znanij s dejstviâmi
     authors:
       - Zedong Mao
+    translators:
       - N. Fedorenko
       - N. Fedorenko (Н. Федоренко)
     year: 1950
@@ -21742,6 +21773,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1449777481
     verified: true
   - title: Materiâ i soznanie
+    original_title: Materiâ i soznanie
     authors:
       - Fedor Ignat'evič Hashačih
     year: 1951
@@ -22293,6 +22325,7 @@ titles:
     subtitle: O svâzi poznaniâ s praktikoj-svâzi znanij s dejstviâmi (iûl' 1939 g.)
     authors:
       - Zedong Mao
+    translators:
       - Nikolaj Trofimovič Fedorenko
     year: 1951
     language: Russian
@@ -23106,6 +23139,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1565288203
     verified: true
   - title: Vnutripartijnaâ demokratiâ v bol'ševistskoj partii
+    original_title: Vnutripartijnaâ demokratiâ v bol'ševistskoj partii
     authors:
       - Anatol Gavrilov
     year: 1951
@@ -24649,6 +24683,7 @@ titles:
     subtitle: Roman
     authors:
       - Zedong Mao
+    translators:
       - Vl Rudman
       - Vl Rudman (Вл Рудман)
     year: 1952
@@ -25928,6 +25963,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991146107359705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Cenoobrazovanie v narodnom hozâjstve SSSR
+    original_title: Cenoobrazovanie v narodnom hozâjstve SSSR
     authors:
       - Lev Il'ič Majzenberg
     year: 1953
@@ -25974,6 +26010,7 @@ titles:
   - title: Don Kihot
     authors:
       - Miguel de Cervantes Saavedra
+    translators:
       - N. Lûbimov
     year: 1953
     language: Russian
@@ -28330,6 +28367,7 @@ titles:
   - title: Don Kihot
     authors:
       - Miguel de Cervantes Saavedra
+    translators:
       - N. Lûbimov
     year: 1954
     language: Russian
@@ -32486,6 +32524,7 @@ titles:
         url: https://www.sudoc.fr/283428252
     verified: true
   - title: Čto takoe marksistskaâ teoriâ poznaniâ
+    original_title: Čto takoe marksistskaâ teoriâ poznaniâ
     authors:
       - Mark Moiseevič Rozental'
     year: 1955
@@ -35663,6 +35702,7 @@ titles:
         url: https://search.worldcat.org/title/995689582
     verified: true
   - title: Éntsiklopediia filosofskij nauk
+    original_title: Die Philosophie des Geistes
     series: Sochineniia; v. 3
     authors:
       - Georg Wilhelm Friedrich Hegel
@@ -35725,7 +35765,8 @@ titles:
     verified: true
   - title: Federativnaâ respublika Germanii
     subtitle: (Ékonomičeskoe položenie)
-    authors:
+    authors: []
+    translators:
       - Aleksandr Abramovič Galkin
       - Aleksandr Abramovich Galkin (Александр Абрамович Галкин)
       - Oleg Mstislavovič Nakropin
@@ -36324,7 +36365,8 @@ titles:
     verified: true
   - title: Materialy VIII S'ezda Ital'ânskoj Kommunističeskoj Partii
     subtitle: (Rim- 8-14 dekabrâ 1956 g.)
-    authors:
+    authors: []
+    translators:
       - G. Slavina
       - Ûrij Lisovskij
     year: 1956
@@ -38306,6 +38348,7 @@ titles:
         url: https://search.worldcat.org/title/891182023
     verified: true
   - title: Teoriâ srednej pribyli i ceny proizvodstva K. Marksa v svete sovremennyh dannyh
+    original_title: Srednââ pribyl' i cena proizvodstva
     authors:
       - Solomon Lʹvovič Vygodskij
       - Solomon Lvovich Vygodskii (Соломон Львович Выгодский)
@@ -40138,6 +40181,8 @@ titles:
   - title: Èvolûciâ moego mirovozzreniâ
     authors:
       - Ânagida Kendzûro
+    translators:
+      - Boris Pavlovič Lavrent'ev
     year: 1957
     language: Russian
     sources:
@@ -40956,7 +41001,8 @@ titles:
     verified: true
   - title: Materialy III S'ezda Albanskoj Partii Truda
     subtitle: (25 maâ - 3 iûnâ 1956 g.)
-    authors:
+    authors: []
+    translators:
       - V. Barzykin
     year: 1957
     language: Russian
@@ -40968,7 +41014,8 @@ titles:
     verified: true
   - title: Materialy III S'ezda Trudovoj Parii Korei
     subtitle: 23-2g aprelâ 1956 g
-    authors:
+    authors: []
+    translators:
       - A. Kulikov
     year: 1957
     language: Russian
@@ -42586,6 +42633,7 @@ titles:
     subtitle: Očerk
     authors:
       - Ânka Bryl'
+    translators:
       - A. Ostrovskij
     year: 1957
     language: Russian
@@ -43522,6 +43570,11 @@ titles:
   - title: Vsemirnaia Istorii̲a̲
     subtitle: Tom III
     authors: []
+    editors:
+      - Natalʹâ Alekseevna Sidorova
+      - Nikolaj Iosifovič Konrad
+      - I. P. Petruševskogo
+      - Lev Vladimirovič Čerepnin
     year: 1957
     language: Russian
     sources:
@@ -43576,7 +43629,8 @@ titles:
         url: https://search.worldcat.org/title/891270033
     verified: true
   - title: X s''ezd Kommunističeskoj partii Čili (aprel 1956 g.)
-    authors:
+    authors: []
+    translators:
       - Mihail Fedorovič Kudačkin
       - Sergej Ivanovič Semenov
     year: 1957
@@ -45269,6 +45323,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1418926604
     verified: true
   - title: Istorija trech Internacianalov meždunarodnoe socialističeskoe i kommunističeskoe dviženie s 1848 goda do nastojaščegp vremeni
+    original_title: History of the three internationals
     authors:
       - William Zebulon Foster
     year: 1958
@@ -46828,6 +46883,7 @@ titles:
   - title: Odisseâ
     authors:
       - Homer
+    translators:
       - Wasilij Żukowski
     year: 1958
     language: Russian
@@ -47403,8 +47459,9 @@ titles:
     verified: true
   - title: Problemy razyvitija ėkonomiki Kitajskoj Narodnoj Respubliki
     authors:
-      - Û. M. Avsenev
       - V. Trifonov
+    translators:
+      - Û. M. Avsenev
     year: 1958
     language: Russian
     sources:
@@ -47801,6 +47858,7 @@ titles:
     authors:
       - H. G. Wells
       - Gleb Maksimilianovič Kržižanovskij
+    translators:
       - V. Pastoeva
       - I. Vikker
     year: 1958
@@ -48365,8 +48423,9 @@ titles:
   - title: VI Nacional'nyj S'ezd Rabočej Progressivnoj Partii Kanady
     subtitle: (Toronto, 19-22 aprelâ 1957 g.)
     authors:
-      - Û. Ivanov
       - Communist Party of Canada
+    translators:
+      - Û. Ivanov
     year: 1958
     language: Russian
     sources:
@@ -48626,8 +48685,9 @@ titles:
   - title: XII Nacional'nyj S'ezd Kommunističeskoj Partii Belgii
     subtitle: (Gent, 19-22 aprelâ 1957 g.)
     authors:
-      - N. Migina
       - Parti Communiste de Belgique
+    translators:
+      - N. Migina
     year: 1958
     language: Russian
     sources:
@@ -49814,7 +49874,8 @@ titles:
     verified: true
   - title: Èkonomičeskoe sorevnovanie meždu SSSR i SŠa
     subtitle: Kritika vzglâdov amerikanskih buržuaznyh ékonomistov
-    authors:
+    authors: []
+    translators:
       - Aleksej Vladimirovič Efimov
     year: 1959
     language: Russian
@@ -50048,8 +50109,9 @@ titles:
   - title: III s''ezd Pol'skoj ob''edinennoj rabočej partii
     subtitle: (Varšava, 10-19 marta 1959 g.)
     authors:
-      - Â. Dzeržinskij
       - F. Vejnberg
+    translators:
+      - Â. Dzeržinskij
     year: 1959
     language: Russian
     sources:
@@ -51731,6 +51793,9 @@ titles:
     authors:
       - Zinovij K. Zvezdin
       - Ljudmila S. Rogačevskaja
+    editors:
+      - Zinovij Konstantinovič Zvezdin
+      - Lûdmila Solomonovna Rogačevskaâ
     year: 1959
     language: Russian
     sources:
@@ -52336,6 +52401,7 @@ titles:
     subtitle: (V zaŝitu Manolisa Glezosa)
     authors:
       - E. Rigas
+    translators:
       - T. Panfilova
     year: 1959
     language: Russian
@@ -52513,6 +52579,8 @@ titles:
   - title: Socialističeskaâ industrializaciâ Kitaâ
     authors:
       - Venʹ-Czen Czen
+    translators:
+      - Ûrij Aleksandrovič Pekšev
     year: 1959
     language: Russian
     sources:
@@ -52804,6 +52872,7 @@ titles:
   - title: Tjuremnye zapiski
     authors:
       - Zhimin Fang
+    translators:
       - Vladimir N. Baryšnikov
     year: 1959
     language: Russian
@@ -54580,8 +54649,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991065750399705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Gody političeskogo učeničestva
+    original_title: Serving my time
     authors:
       - Harry Pollitt
+    translators:
       - V. Michajlova
     year: 1960
     language: Russian
@@ -54819,6 +54890,8 @@ titles:
     authors:
       - Institut marksizma-leninizma pri CK KPSS
       - Institut Marksizma-leninizma Pri Tsk Kpss (Институт марксизма-ленинизма при ЦК КПСС)
+    editors:
+      - Raisa M. Savickaja
     year: 1960
     language: Russian
     sources:
@@ -57053,6 +57126,7 @@ titles:
         url: https://search.worldcat.org/title/838365982
     verified: true
   - title: Vnešnââ politika SŠA v èpohu imperializma
+    original_title: Zahraniční politika USA 1939-1961
     authors:
       - Nikolaj Nikolaevič Inzemcev
     year: 1960
@@ -58440,7 +58514,8 @@ titles:
         url: https://search.worldcat.org/title/38797948
     verified: true
   - title: Francuzskoj kommunističeskoj partii 40 let
-    authors:
+    authors: []
+    translators:
       - N. Migina
     year: 1961
     language: Russian
@@ -59489,8 +59564,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=666378630
     verified: true
   - title: Moris Torez
+    original_title: Avec Maurice Thorez
     authors:
       - Jean Fréville
+    translators:
       - D. Kuninoj
     year: 1961
     language: Russian
@@ -59548,6 +59625,7 @@ titles:
         url: https://search.worldcat.org/title/947676473
     verified: true
   - title: Naučnoe mirovozzrenie i religioznaâ vera
+    original_title: Wissenschaftliche Weltanschauung und religiöser Glaube
     series: Naučno-populârnaâ bibliotečka po ateizmu
     authors:
       - Robert Kirchhoff
@@ -61208,9 +61286,11 @@ titles:
         url: https://search.worldcat.org/title/67227607
     verified: true
   - title: Stupajte, messa okončena!
+    original_title: Ite, Missa est!
     authors:
       - Jonas Ragauskas
       - G. Semirečenko
+    translators:
       - F. Dektora
     year: 1961
     language: Russian
@@ -63024,6 +63104,7 @@ titles:
   - title: Edinstvennyj put'
     authors:
       - Dolores Ibarruri
+    translators:
       - D. Prickner
     year: 1962
     language: Russian
@@ -63325,9 +63406,10 @@ titles:
     verified: true
   - title: Istoriâ Kommunističeskoj partii Čehoslovakii
     authors:
-      - M. Alekseeva
       - Bohuslav Graca
       - Pavel Rejman
+    translators:
+      - M. Alekseeva
     year: 1962
     language: Russian
     sources:
@@ -63448,6 +63530,8 @@ titles:
   - title: Izbrannye stat'i i reči
     authors:
       - Jumžaagijn Cėdėnbal
+    translators:
+      - Û. Bernov
     year: 1962
     language: Russian
     sources:
@@ -63875,8 +63959,10 @@ titles:
     verified: true
   - title: Ljudi, idoly i bogi
     subtitle: Očerk istorii religii
+    original_title: Lineamenti di storia delle religioni
     authors:
       - Ambrogio Donini
+    translators:
       - I. I. Kravčenko
     year: 1962
     language: Russian
@@ -64373,6 +64459,9 @@ titles:
     authors:
       - Vladimir Ilʹič Lenin
       - Vladimir Ilich Lenin (Владимир Ильич Ленин)
+    editors:
+      - V. S. Štejnbuk
+      - Dmitrij Andreevič Parfenov
     year: 1962
     language: Russian
     sources:
@@ -64434,6 +64523,7 @@ titles:
   - title: OAS
     authors:
       - Bela Fenʹo
+    translators:
       - K. Ivanov
     year: 1962
     language: Russian
@@ -65472,6 +65562,8 @@ titles:
     authors:
       - G. Škarenkova
       - A. Nikol'skij
+    editors:
+      - D. S. Asanov
     year: 1962
     language: Russian
     sources:
@@ -67092,7 +67184,8 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991056082619705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Demokratičeskaâ Respublika Vʹetnam
-    authors:
+    authors: []
+    translators:
       - Zvonov
       - Zvonov (Звонов)
     year: 1963
@@ -67834,6 +67927,10 @@ titles:
     subtitle: Sbornik documentov
     authors:
       - Kommunisticheskaia partiia Sovetskogo Soiuza
+    editors:
+      - Veniamin Samuilovich Viktorov
+      - A. S. Konʹkova
+      - Dmitriĭ Andreevich Parfenov
     year: 1963
     language: Russian
     pages: 551
@@ -67866,6 +67963,8 @@ titles:
   - title: Kratkiĭ slovarʹ po e̊stetike
     authors:
       - Mikhail Fedotovich Ovsiannikov
+    editors:
+      - Vladimir Aleksandrovich Razumnyĭ
     year: 1963
     language: Russian
     pages: 542
@@ -68423,6 +68522,8 @@ titles:
     authors:
       - Vladimir Ilʹič Lenin
       - Vladimir Ilich Lenin (Владимир Ильич Ленин)
+    editors:
+      - K. F. Bogdanova
     year: 1963
     language: Russian
     sources:
@@ -68998,6 +69099,7 @@ titles:
     authors:
       - Ûlius Mader
       - Iulius Mader (Юлиус Мадер)
+    translators:
       - E. Petrunin
       - A. Petrunin (Е. Петрунин)
       - G. Rudyj
@@ -69079,6 +69181,7 @@ titles:
   - title: Pol'skie gody Lenina
     authors:
       - Józef Sieradzki
+    translators:
       - Ûrij Vladimirovič Bernov
     year: 1963
     language: Russian
@@ -69205,6 +69308,8 @@ titles:
     authors:
       - Institut marksizma-leninizma pri CK KPSS
       - Institut Marksizma-leninizma Pri Tsk Kpss (Институт марксизма-ленинизма при ЦК КПСС)
+    editors:
+      - Gurij Fedorovič Zastavenko
     year: 1963
     language: Russian
     sources:
@@ -72424,6 +72529,8 @@ titles:
     subtitle: Nagljadnoe posobie v četyrech vypuskach
     authors:
       - V. N. Ročko
+    editors:
+      - O. V. Novikova
     year: 1964
     language: Russian
     sources:
@@ -72511,6 +72618,8 @@ titles:
     subtitle: K 100-letiiu so dnia osnovaniia I Internatsionala
     authors:
       - Institut marksizma-leninizma (Moscow, R.S.F.S.R.)
+    editors:
+      - B. G. Tartakovskiĭ
     year: 1964
     language: Russian
     pages: 664
@@ -73285,6 +73394,8 @@ titles:
     subtitle: Posobie dlia propagandistov i slushateleĭ sistemy politicheskogo prosveshcheniia
     authors:
       - M. G. Zhuravkov
+    editors:
+      - Aleksandr Stepanovich Vishniakov
     year: 1964
     language: Russian
     pages: 190
@@ -73462,6 +73573,7 @@ titles:
     authors:
       - Julian Lider
       - Boris Mihajlovič Haloša
+    translators:
       - A. Panfilov
     year: 1964
     language: Russian
@@ -77554,7 +77666,8 @@ titles:
         url: https://catalog.hathitrust.org/Record/001847178
     verified: true
   - title: 20 [dvadcatʹ] let narodnoj Polʹši
-    authors:
+    authors: []
+    translators:
       - I. S. Borisov
       - E. S. Borisov (И. С. Борисов)
     year: 1965
@@ -77797,9 +77910,11 @@ titles:
     verified: true
   - title: Bomba dlja Gejdricha
     subtitle: Dokumental'n poverst'
+    original_title: Bomba pro Heydricha
     authors:
       - Dušan Hamšik
       - Jiří Pražák
+    translators:
       - L. Lerer
     year: 1965
     language: Russian
@@ -78733,6 +78848,7 @@ titles:
   - title: Išču Baltazara Kujavskogo
     authors:
       - Monika Warneńska
+    translators:
       - J. Nemčinskij
     year: 1965
     language: Russian
@@ -78839,6 +78955,7 @@ titles:
     authors:
       - Monika Varnenska
       - Monika Varnenska (Моника Варненска)
+    translators:
       - Âkov Osipovič Nemčinskij
       - Iakov Osipovich Nemchinskii (Яков Осипович Немчинский)
     year: 1965
@@ -78871,6 +78988,7 @@ titles:
   - title: Izbrannye stat'i i reči
     authors:
       - Władysław Gomułka
+    translators:
       - Û. Bernov
     year: 1965
     language: Russian
@@ -79171,6 +79289,8 @@ titles:
     subtitle: Slovarʹ-spravochnik
     authors:
       - A. D. Smirnova
+    editors:
+      - Lebedeva
     year: 1965
     language: Russian
     pages: 318
@@ -79246,6 +79366,8 @@ titles:
       - L. Lerer-Baša
       - L. Lerer-basha (Л. Лерер-Баша)
       - Evgenij Konstantinovič Denisov
+    editors:
+      - L. I. Lerer-Baša
     year: 1965
     language: Russian
     sources:
@@ -79417,6 +79539,8 @@ titles:
     authors:
       - Vladimir Vladimirovich Pavlov
       - Ivan Pavlovich Selishchev
+    editors:
+      - L. F. Toropov
     year: 1965
     language: Russian
     sources:
@@ -79701,6 +79825,9 @@ titles:
     authors:
       - B. Zaslavskiĭ
       - G. A. Menchinov
+    editors:
+      - Boris Efremovich Zaslavskiĭ
+      - G. Menchinov
     year: 1965
     language: Russian
     pages: 77
@@ -79822,6 +79949,9 @@ titles:
     subtitle: Spravochnik
     authors:
       - B. TS Urlanis
+    editors:
+      - Boris Cezarevič Urlanis
+      - Boris Tsezarevich Urlanis (Борис Цезаревич Урланис)
     year: 1965
     language: Russian
     pages: 343
@@ -79843,6 +79973,8 @@ titles:
     subtitle: Materialy k lektsiiam
     authors:
       - Serafim Ivanovich Nikishov
+    editors:
+      - A. A. Sudarikov
     year: 1965
     language: Russian
     pages: 397
@@ -80791,6 +80923,8 @@ titles:
   - title: Partizanskie byli
     authors:
       - Terentiĭ Arkhipovich Kliatskiĭ
+    editors:
+      - V. L. Malyšev
     year: 1965
     language: Russian
     pages: 527
@@ -81044,6 +81178,8 @@ titles:
     verified: true
   - title: Populiarnye lektsii po ateizmu
     authors: []
+    editors:
+      - V. A. Karpushin
     year: 1965
     edition: 2. izd. [Pod obshcheĭ red. V. A. Karpushina]
     language: Russian
@@ -81629,6 +81765,7 @@ titles:
     authors:
       - Slavčo Radomirskij
       - Slavcho Radomirskii (Славчо Радомирский)
+    translators:
       - L. Bačurskij
       - L. Bachurskii (Л. Бачурский)
     year: 1965
@@ -82068,6 +82205,9 @@ titles:
     subtitle: Vospominaniia
     authors:
       - Iosif Karlovich Gamburg
+    editors:
+      - Iosif Karlovič Gamburg
+      - Iosif Karlovich Gamburg (Иосиф Карлович Гамбург)
     year: 1965
     language: Russian
     pages: 189
@@ -83528,6 +83668,8 @@ titles:
     subtitle: Dokumenty sotsialisticheskoĭ edinoĭ partii Germanii
     authors:
       - Sozialistische Einheitspartei Deutschlands
+    translators:
+      - A. Karetnikova
     year: 1966
     language: Russian
     pages: 289
@@ -83866,6 +84008,7 @@ titles:
     verified: true
   - title: Četvertyj sʺezd Polʹskoj obʺedinennoj rabočej partii
     subtitle: Varšava, 15-20 iûna 1964 g
+    original_title: IV zjazd Polskiej zjednoczonej partii robotniczej. 15-20 czervca 1964 g. Podstawowe materialy i dokumenty
     authors: []
     year: 1966
     language: Russian
@@ -84201,6 +84344,8 @@ titles:
   - title: Ėstetika
     authors:
       - M. F. Ovsiannikov
+    editors:
+      - Mikhail Fedotovich Ovsiannikov
     year: 1966
     language: Russian
     pages: 255
@@ -84959,6 +85104,7 @@ titles:
     authors:
       - Gustav Bareš
       - Gustav Baresh (Густав Бареш)
+    translators:
       - R. Razumova
       - R. Razumova (Р. Разумова)
     year: 1966
@@ -86707,9 +86853,11 @@ titles:
     verified: true
   - title: Podpolʹnyj front
     subtitle: Vospominaniâ polʹskogo partizana
+    original_title: Podziemny front
     authors:
       - Tadeuš Petšak
       - Tadeush Petshak (Тадеуш Петшак)
+    translators:
       - N. Vorov
       - N. Vorov (Н. Воров)
     year: 1966
@@ -87485,6 +87633,8 @@ titles:
       - V. A. Veličko
       - Georgij N. Aleksandrov
       - Boris Efimov
+    editors:
+      - Georgij Nikolaevič Aleksandrov
     year: 1966
     language: Russian
     sources:
@@ -87562,6 +87712,8 @@ titles:
     authors:
       - Evtihij Emelʹânovič Belov
       - Evtikhii Emelianovich Belov (Евтихий Емельянович Белов)
+    translators:
+      - A. V. Belanovskij
     year: 1966
     language: Russian
     sources:
@@ -87826,6 +87978,7 @@ titles:
     subtitle: Opyt literaturnogo portreta
     authors:
       - Stefan Prodev
+    translators:
       - B. Dudenko
     year: 1966
     language: Russian
@@ -87856,7 +88009,8 @@ titles:
     verified: true
   - title: Vnizu - perednij kraj
     subtitle: Dokumentalʹnaâ povestʹ
-    authors:
+    authors: []
+    translators:
       - Evgenij Mariinskij
       - Evgenii Mariinskii (Евгений Мариинский)
     year: 1966
@@ -89319,6 +89473,8 @@ titles:
     verified: true
   - title: 50 let Oktiabria -- torzhestvo marksizma-leninizma
     authors: []
+    editors:
+      - S. I. Pruzhanin
     year: 1967
     language: Russian
     pages: 365
@@ -90881,6 +91037,8 @@ titles:
     authors:
       - Karl Marx
       - A. K. Vorobʹeva
+    editors:
+      - M. P. Marinicheva
     year: 1967
     language: Russian
     pages: 809
@@ -92160,6 +92318,7 @@ titles:
     authors:
       - Todor Živkov
       - Todor Zhivkov (Тодор Живков)
+    translators:
       - E. I. Gromuškin
       - A. E. Gromushkin (Е. И. Громушкин)
       - G. A. Černejko
@@ -92331,8 +92490,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/001602636
     verified: true
   - title: Oktjabr' 17 goda i Francija
+    original_title: Octobre 17 vu de France
     authors:
       - Jacques Duclos
+    translators:
       - J. I. Zuev
     year: 1967
     language: Russian
@@ -92983,6 +93144,9 @@ titles:
     subtitle: Spravochnik
     authors:
       - V. M. Alekseev
+    editors:
+      - Aleksandr Fedorovich Kudriashov
+      - Elizar Ilʹich Kuskov
     year: 1967
     language: Russian
     pages: 349
@@ -93325,6 +93489,7 @@ titles:
     verified: true
   - title: Putʹ k pobede
     subtitle: Zadači partii v demokratičeskoj i nacionalʹnoj revolûcii
+    original_title: Rumo a vitoria
     authors:
       - Álvaro Cunhal
       - Alvaro Kunial (Альваро Куньял)
@@ -97003,6 +97168,7 @@ titles:
   - title: Izbrannye stat'i i reči
     authors:
       - Władysław Gomułka
+    translators:
       - Û. Bernov
     year: 1968
     language: Russian
@@ -97477,6 +97643,9 @@ titles:
       - V. Pavlov (В. Павлов)
       - I. Seliŝev
       - E. Selishchev (И. Селищев)
+    editors:
+      - Vladimir Vladimirovič Pavlov
+      - I. P. Seliŝev
     year: 1968
     language: Russian
     sources:
@@ -97591,6 +97760,8 @@ titles:
   - title: Marksistsko-leninskai□a□ filosofii□a□
     subtitle: Uchebnoe posobie (Romanized form)
     authors: []
+    editors:
+      - V. P. Tugarinov
     year: 1968
     edition: 'Izd. 3 [Redkollegii□a□ : V.P. Roozhin, V.P. Tugarinov, V.A. Chagin.]'
     language: Russian
@@ -97603,6 +97774,9 @@ titles:
     subtitle: Uchebnoe posobie
     authors:
       - Vasiliĭ Petrovich Rozhin
+    editors:
+      - V. P. Tugarinov
+      - B. A. (Boris Aleksandrovich) Chagin
     year: 1968
     edition: Izd.3.,[ispr. i dop
     language: Russian
@@ -98001,6 +98175,8 @@ titles:
     subtitle: Dlja sistemy partijnoj učeby
   - title: Metodicheskoe posobie po politicheskoĭ ėkonomii
     authors: []
+    editors:
+      - IUriĭ A. Komarnitskiĭ
     year: 1968
     language: Russian
     pages: 304
@@ -98333,6 +98509,8 @@ titles:
   - title: O dialekticheskom materializme
     authors:
       - Karl Marx
+    editors:
+      - A. P. (Aleksandr Petrovich) Sheptulin
     year: 1968
     language: Russian
     pages: 431
@@ -100369,8 +100547,10 @@ titles:
         url: https://openlibrary.org/books/OL18955095M
     verified: true
   - title: Tret'ja storona dollara
+    original_title: Trečioji dolerio pusė, russ
     authors:
       - Albertas Laurinčiukas
+    translators:
       - A. Berman
     year: 1968
     language: Russian
@@ -100663,6 +100843,8 @@ titles:
   - title: Uchebno-metodicheskoe posobie po istorii KPSS
     authors:
       - I. A. Zelenkov
+    editors:
+      - Semen Aronovich Levitin
     year: 1968
     language: Russian
     pages: 303
@@ -101099,6 +101281,8 @@ titles:
     subtitle: '[Ocherki]'
     authors:
       - D. I. Ortenberg
+    editors:
+      - D. I. Ortenburg
     year: 1968
     language: Russian
     pages: 672
@@ -101153,6 +101337,7 @@ titles:
         url: https://www.sudoc.fr/237782863
     verified: true
   - title: Vospominaniia o Lenine
+    original_title: Erinnerungen an Lenin
     authors:
       - Klara Zetkin
     year: 1968
@@ -101406,6 +101591,7 @@ titles:
     series: Plamennye revoljucionery; Suchė-Bator
     authors:
       - Lodongujn Tudėv
+    translators:
       - Galina S. Matveeva
     year: 1968
     language: Russian
@@ -103081,6 +103267,8 @@ titles:
     subtitle: Eë osushchestvlenie i problemy
     authors:
       - Pavel Grigorʹevich Bunich
+    editors:
+      - Alekseĭ Matveevich Rumiantsev
     year: 1969
     language: Russian
     pages: 327
@@ -104072,6 +104260,10 @@ titles:
   - title: Leninizm i mirovoe revoliutsionnoe rabochee dvizhenie
     subtitle: (Problemy borʹby za edinstvo proletariata, vsekh antiimperalisticheskikh sil)
     authors: []
+    editors:
+      - Elizar Ilʹich Kusakov
+      - Alekseĭ Matveevich Rumiantsev
+      - Timur Timofeevich Timofeev
     year: 1969
     series: Seriia "Mezhdunarodnyĭ rabochiĭ klass"
     language: Russian
@@ -106194,8 +106386,10 @@ titles:
     verified: true
   - title: Promyšlennaâ revolûciâ v razvitii obŝestva
     subtitle: Perevod s rumynskogo V. M. Leonova
+    original_title: Revoluția industrială în dezvoltarea societății
     authors:
       - Valter Roman
+    translators:
       - V. M. Leonov
       - V. M. Leonov (В. М. Леонов)
     year: 1969
@@ -106672,6 +106866,9 @@ titles:
   - title: Sozdano Leninȳm
     authors:
       - Vladimir Il’ich Lenin
+    editors:
+      - Viktor Konstantinovič Belâkov
+      - Rostislav Aleksandrovič Lavrov
     year: 1969
     language: Russian
     pages: 13
@@ -106832,6 +107029,8 @@ titles:
     authors:
       - Vasiliĭ Grigorʹevich Solodnovikov
       - V. P. Rumiantsev
+    editors:
+      - Vasilij G. Solodovnikov
     year: 1969
     language: Russian
     pages: 318
@@ -107058,6 +107257,10 @@ titles:
     authors:
       - V. V. Anikeev
       - N. S. Gudkova
+    editors:
+      - Vladislav Anikeev
+      - N. V. (Nina Viktorovna) Bychkova
+      - N. S. Zelov
     year: 1969
     edition: Izd. 2., dop. [Sost. Anikaev V.V., Bychkova N.V. & Zelov N.S. Red. N.S. Gudkova
     language: Russian
@@ -107383,8 +107586,10 @@ titles:
     subtitle: Putevoĭ dnevnik.,Вьетнам, Лаос, 1968
   - title: Varšavskoe vosstanie
     subtitle: Stat'i, reči, vospominanija, dokumenty
+    original_title: Powstanie warszawskie
     authors:
       - Zenon Kliszko
+    translators:
       - P. K. Kostikov
     year: 1969
     language: Russian
@@ -108896,6 +109101,7 @@ titles:
   - title: Bjuro doktora Deliusa
     authors:
       - Gočo Gočev
+    translators:
       - E. I. Gromuškin
     year: 1970
     language: Russian
@@ -109551,6 +109757,8 @@ titles:
   - title: Fond dokumentov V. I. Lenina
     authors:
       - Institut marksizma-leninizma (Moscow, Russia)
+    editors:
+      - G. Pronina
     year: 1970
     language: Russian
     pages: 306
@@ -109865,6 +110073,8 @@ titles:
   - title: Ikh prostota i chelovechnostʹ
     authors:
       - Karl Marx
+    editors:
+      - Sviatoslav Filippovich Vinogradov
     year: 1970
     edition: Izd. 3., dop
     language: Russian
@@ -110807,6 +111017,8 @@ titles:
     subtitle: K semidesiatiletiiu so knia vykhoda pervogo nomera
     authors:
       - Aleksandr Fedorovich Kostin
+    editors:
+      - A. F. Kostin
     year: 1970
     language: Russian
     pages: 247
@@ -111691,6 +111903,8 @@ titles:
     authors:
       - G. N. Golikov
       - M. I. Trush
+    editors:
+      - A. G. Khomenko
     year: 1970
     language: Russian
     pages: 302
@@ -112235,6 +112449,8 @@ titles:
     subtitle: Dokumenty KPSS. Posleoktiabrʹskiĭ period
     authors:
       - N. A. Petrovichev
+    editors:
+      - IA. V. Storozhev
     year: 1970
     language: Russian
     pages: 448
@@ -112435,6 +112651,8 @@ titles:
     subtitle: Dokmenty, materialy gazet i radio voen let, dnevniki, pisʹma, vospominaniia
     authors:
       - Ivan Roshchin
+    editors:
+      - B. L. Tikhonenko
     year: 1970
     language: Russian
     pages: 239
@@ -113344,6 +113562,9 @@ titles:
     subtitle: '[Sbornik stateĭ]'
     authors:
       - A. M. Korolev
+    editors:
+      - M. Nazarov
+      - B. Tulepbaev
     year: 1970
     series: Materialy kursov perepodgotovki rukovodiashchikh partiĭnykh i sovetskikh kadrov v VPSH pri TSK KPSS
     language: Russian
@@ -113361,6 +113582,9 @@ titles:
   - title: Sovershenstvovatʹstilʹ i metody partiĭnoĭ raboty
     authors:
       - A. M. Korolev
+    editors:
+      - M. Nazarov
+      - B. Tulepbaev
     year: 1970
     series: Materialy kursov perepodgotovki rukobodiashchikh partiĭnykh i sovetskikh kadrov v vpsh pri TSK KPSS -- vyp. 2
     language: Russian
@@ -116671,6 +116895,9 @@ titles:
   - title: Idejnyj arsenal kommunistov
     authors:
       - Petr A. Rodionov
+    editors:
+      - Zinajda Alekseevna Levina
+      - Ivan Petrovič Verhovcev
     year: 1971
     language: Russian
     sources:
@@ -117297,6 +117524,8 @@ titles:
     subtitle: Spravochnik
     authors:
       - A. A. Solovʹev
+    editors:
+      - A. A. Solovev (А. А. Соловьев)
     year: 1971
     edition: 3-e dop. i pererab. izd
     language: Russian
@@ -117735,6 +117964,9 @@ titles:
       - V. Pavlov (В. Павлов)
       - I. Seliŝev
       - E. Selishchev (И. Селищев)
+    editors:
+      - Vladimir Vladimirovič Pavlov
+      - I. P. Seliŝev
     year: 1971
     language: Russian
     sources:
@@ -117830,6 +118062,8 @@ titles:
     subtitle: Per. s veng
     authors:
       - Magyar Szocialista Munkáspárt (10th 1970 Budapest)
+    editors:
+      - IU. A. Egorov
     year: 1971
     series: Dokumenty i materialy zarubezhnykh Kommunisticheskikh i rabochikh partiĭ
     language: Russian
@@ -117953,6 +118187,8 @@ titles:
   - title: Metodicheskoe posobie po filosofii
     authors:
       - A. F. Zotov
+    editors:
+      - Alekseǐ Alekseevich Sudarikov
     year: 1971
     edition: Izd. 3
     series: Dlia shkol osnov marksizma-leninizma
@@ -122747,6 +122983,7 @@ titles:
     authors:
       - Ėdgar Kaulin'š
       - Peteris Baugis
+    translators:
       - Ljudmila Lubej
     year: 1972
     language: Russian
@@ -123414,6 +123651,8 @@ titles:
     subtitle: Otchety i pisʹma
     authors:
       - International Workingmen's Association. Congress
+    editors:
+      - I. A. Bakh
     year: 1972
     series: Dokumenty Pervogo Internatsionala
     language: Russian
@@ -124589,6 +124828,8 @@ titles:
     subtitle: Peterburgskie gody. Po vospominaniiam sovremennikov i dokumentam
     authors:
       - A. I. Ivanskiĭ
+    editors:
+      - Anatolij I. Ivanskij
     year: 1972
     language: Russian
     pages: 423
@@ -124857,6 +125098,8 @@ titles:
     authors:
       - P. N. Fedoseev
       - Institut marksizma-leninizma (Moscow, Russia)
+    editors:
+      - Petr Nikolaevich Fedoseev
     year: 1972
     language: Russian
     pages: 526
@@ -125220,6 +125463,8 @@ titles:
   - title: Mnogonatsionalʹnoe Sovetskoe gosudarstvo
     subtitle: Kollektiv avtorov
     authors: []
+    editors:
+      - Mykhaĭlo Ivanovych Kulichenko
     year: 1972
     language: Russian
     pages: 430
@@ -125576,6 +125821,7 @@ titles:
         url: https://search.worldcat.org/title/947146414
     verified: true
   - title: Naučno-tehničeskaâ revolûciâ, upravlenie, obrazovanie
+    original_title: Naučno-tehničeskaâ revolûciâ, upravlenie, obrazovanie
     authors:
       - Viktor Grigor'evič Afanas'ev
     year: 1972
@@ -126037,6 +126283,8 @@ titles:
     authors:
       - I. A. Degtâreva
       - E. A. Degtiareva (И. А. Дегтярева)
+    editors:
+      - I. A. Degtiareva
     year: 1972
     language: Russian
     sources:
@@ -126591,6 +126839,9 @@ titles:
     subtitle: Vospominaniia starykh bolʹshevikov
     authors:
       - F. N. Petrov
+    editors:
+      - M. M. Konstantinov
+      - Avgust Ėval'dovič Ėkštejn
     year: 1972
     language: Russian
     pages: 287
@@ -127018,6 +127269,8 @@ titles:
     subtitle: Materialy Nauch. konf. In-ta marksizma-leninizma, Akad. obshchestv. nauk AN SSSR na temu "XXIV sʺezd KPSS i razvitie marksistsko-leninskoĭ teorii," 29 sent.- 1 okt. 1971 g
     authors:
       - Nauchnaia konferentsiia na temu Dvadtsatʹ chetvertyĭ sʺezd KPSS i razvitie marksistsko-leninskoĭ teorii (1971 Moscow)
+    editors:
+      - Petr Aleksandrovich Rodionov
     year: 1972
     language: Russian
     pages: 327
@@ -127623,6 +127876,8 @@ titles:
     subtitle: Spravochnik
     authors:
       - A. I. Akbarov
+    editors:
+      - M. V. Grigorʹeva
     year: 1972
     language: Russian
     pages: 293
@@ -128189,6 +128444,9 @@ titles:
     verified: true
   - title: Uchebno-metodicheskoe posobie po istorii KPSS
     authors: []
+    editors:
+      - I. A. Zelenkov
+      - Semen Aronovich Levitin
     year: 1972
     edition: Izd. 2-e, dop. i pererab
     language: Russian
@@ -128581,8 +128839,9 @@ titles:
   - title: VI s''ezd Pol'skoj ob''edinennoj rabočej partii, 6-11 dekabrâ 1971 g
     subtitle: Osnovnye materialy i dokumenty
     authors:
-      - Viktor Vital'evič Anisimov
       - Polska Zjednoczona Partia Robotnicza
+    translators:
+      - Viktor Vital'evič Anisimov
     year: 1972
     language: Russian
     sources:
@@ -130437,6 +130696,8 @@ titles:
   - title: Bolʹshevizm i reformizm
     authors:
       - Aleksandr Fedorovich Kostin
+    editors:
+      - Viktor Sergeevich Kirillov
     year: 1973
     language: Russian
     pages: 392
@@ -130475,6 +130736,8 @@ titles:
     authors:
       - Leon Trotsky
       - Aleksandr Ivanovich Sobolev
+    editors:
+      - A. I. Sobolev
     year: 1973
     language: Russian
     pages: 222
@@ -130827,6 +131090,8 @@ titles:
     subtitle: Očerki o pervych sovetskich diplomatičeskich kur'erach
     authors:
       - I. Ch Bauman
+    editors:
+      - I. H. Bauman
     year: 1973
     language: Russian
     sources:
@@ -131121,6 +131386,8 @@ titles:
     verified: true
   - title: Filosofiia i sovremennost'
     authors: []
+    editors:
+      - Ivan Timofeevič Frolov
     year: 1973
     language: Russian
     sources:
@@ -131569,6 +131836,8 @@ titles:
   - title: Internatsionalʹnoe znachenie leninskikh printsipov partiĭnogo stroitelʹstva
     subtitle: Materialy dvustoron. nauch. simpoziuma, organiz. In-tom marksizma-leninizma pri TSK KPSS i In-tom marksizma-leninizma TSK KPCH. Praga, 12-14 dek. 1972 g
     authors: []
+    editors:
+      - A. F. Kadashev
     year: 1973
     language: Russian
     pages: 359
@@ -134576,6 +134845,7 @@ titles:
     verified: true
   - title: Pozdnij kapitalizm bez perspektivy
     subtitle: Tendencii i protivorečiâ zapadnogermanskogo imperializma
+    original_title: Spätkapitalismus ohne perspektive. Tendenzen..
     authors: []
     year: 1973
     language: Russian
@@ -134814,6 +135084,7 @@ titles:
   - title: Pryžok vo t'mu
     authors:
       - Rudolf Vetižka
+    translators:
       - F. Molok
     year: 1973
     language: Russian
@@ -134822,6 +135093,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1124223215
     verified: true
   - title: Pryžok vo tʹmu
+    original_title: Skok do tmy
     authors:
       - Rudolʹf Vetiška
       - Rudolf Vetishka (Рудольф Ветишка)
@@ -135282,6 +135554,8 @@ titles:
     authors:
       - V. V. Bogoslovskiĭ
       - I. I. Mints
+    editors:
+      - Viktor Vasilʹevich Bogoslovskiĭ
     year: 1973
     language: Russian
     pages: 240
@@ -135615,6 +135889,8 @@ titles:
     authors:
       - Georgij Nazarovič Golikov
       - Georgii Nazarovich Golikov (Георгий Назарович Голиков)
+    editors:
+      - Georgij N. Golikov
     year: 1973
     language: Russian
     sources:
@@ -139188,6 +139464,8 @@ titles:
     subtitle: O sbornike "KPSS v rezolyutsiyakh i resheniyakh sʺezdov, konferentsii i plenumov TsK", istoriograficheskii ocherk
     authors:
       - K. M. Bogolyubov
+    editors:
+      - Klavdij M. Bogoljubov
     year: 1974
     language: Russian
     sources:
@@ -140138,6 +140416,9 @@ titles:
     subtitle: Reči i statʹi
     authors:
       - Salvador Allende Gossens
+    editors:
+      - I. E. Rybalkin
+    translators:
       - I. E. Rybalkin
       - E. A. Rybalkin (И. Е. Рыбалкин)
     year: 1974
@@ -140669,6 +140950,7 @@ titles:
     verified: true
   - title: Kitajskie zapiski
     subtitle: 1932-1939
+    original_title: Činesisče Aufzeičnungen (1932-1939)
     authors:
       - Otto Braun
       - Otto Braun (Отто Браун)
@@ -140889,6 +141171,8 @@ titles:
     subtitle: Materialy nauch. konf. posviashch. 125-letiiu "Manifesta Kommunisticheskoĭ partii" K. Marksa i F. Ėngelʹsa, Moskva, 9-12 marta 1973 g
     authors:
       - Nauchnaia konferentsiia posviashchennaia sto 125-letiiu "Manifesta Kommunisticheskoĭ partii" K. Marksa i F. Ėngelʹsa (1973 Moscow)
+    editors:
+      - Aleksandr Ivanovich Sobolev
     year: 1974
     language: Russian
     pages: 255
@@ -141322,6 +141606,9 @@ titles:
       - V. Pavlov (В. Павлов)
       - I. Seliŝev
       - E. Selishchev (И. Селищев)
+    editors:
+      - Vladimir Vladimirovič Pavlov
+      - I. P. Seliŝev
     year: 1974
     language: Russian
     sources:
@@ -141411,6 +141698,7 @@ titles:
   - title: Memuary
     authors:
       - Jacques Duclos
+    translators:
       - E. N. Korendâsov
     year: 1974
     language: Russian
@@ -141454,9 +141742,11 @@ titles:
     verified: true
   - title: Meždu reakciej i revoljuciej
     subtitle: Vospominanija i razmyšlenija o pervych godach dejatel'nosti IKP
+    original_title: Tra reazione e rivoluzione
     authors:
       - Luigi Longo
       - Carlo Salinari
+    translators:
       - Afanasij A. Veselickij
     year: 1974
     language: Russian
@@ -141473,6 +141763,7 @@ titles:
     authors:
       - Luigi Longo
       - Carlo Salinari
+    translators:
       - Afanasij Aleksandrovič Veselickij
     year: 1974
     language: Russian
@@ -141486,6 +141777,8 @@ titles:
     subtitle: Očerk strategii i taktiki
     authors:
       - Vladimir Viktorovič Zagladin
+    editors:
+      - Vadim V. Zagladin
     year: 1974
     language: Russian
     sources:
@@ -142634,6 +142927,8 @@ titles:
     verified: true
   - title: Obshchestvenno-politicheskie dvizheniia v SShA
     authors: []
+    editors:
+      - Mikhail Sergeevich Vozchikov
     year: 1974
     language: Russian
     pages: 343
@@ -143045,6 +143340,8 @@ titles:
     subtitle: Dokumenty i materialy
     authors:
       - Stefan Doernberg
+    editors:
+      - S. Dernberg
     year: 1974
     language: Russian
     pages: 726
@@ -143554,6 +143851,7 @@ titles:
     verified: true
   - title: Po veleniû dolga
     subtitle: Vospominaniâ i razmyšleniâ
+    original_title: Povelâ na dʺlga
     authors:
       - Cola Ninčeva Dragojčeva
       - Tsola Nincheva Dragoicheva (Цола Нинчева Драгойчева)
@@ -145156,6 +145454,8 @@ titles:
     verified: true
   - title: Sotsialisticheskiĭ internatsionalizm v deĭstvii
     authors: []
+    editors:
+      - P. Astardzhiev
     year: 1974
     language: Russian
     pages: 251
@@ -145974,6 +146274,9 @@ titles:
     subtitle: Sbornik dokumentov i materialov
     authors:
       - Vladimir Ilʹič Lenin
+    editors:
+      - Liberta Iosifovna Prokova
+      - Žan Gavrilovič Golotvin
     year: 1974
     language: Russian
     sources:
@@ -146503,6 +146806,7 @@ titles:
     authors:
       - Nedelčo Gančovskij
       - Nedelcho Ganchovskii (Неделчо Ганчовский)
+    translators:
       - S. Parhomovskaâ
       - S. Parkhomovskaia (С. Пархомовская)
     year: 1974
@@ -146685,6 +146989,7 @@ titles:
     subtitle: Vospominanija i razmyšlenija
     authors:
       - Nedelčo Gančovskij
+    translators:
       - S. Parchomovskaja
     year: 1974
     language: Russian
@@ -146715,6 +147020,8 @@ titles:
       - K. U. Chernenko
       - M. S. Smirtiukov
       - Klavdiĭ Mikhaĭlovich Bogoliubov
+    editors:
+      - Konstantin U. Černenko
     year: 1974
     language: Russian
     sources:
@@ -148751,6 +149058,7 @@ titles:
   - title: Biblejskie skazaniâ
     authors:
       - Zenon Kosidowski
+    translators:
       - Èstera Gessen
       - Ûliâ Borisovna Ŝepkina-Mirskaâ
     year: 1975
@@ -150097,6 +150405,9 @@ titles:
     authors:
       - Aleksandr Georgievič Halturin
       - Ûrij Vasil'evič Plotnikov
+    editors:
+      - Û. V. Plotnikov
+      - I. V. Plotnikov (Ю. В. Плотников)
     year: 1975
     language: Russian
     sources:
@@ -150391,6 +150702,7 @@ titles:
     subtitle: 1971-1974 gg
     authors:
       - Edward Gierek
+    translators:
       - Viktor Vital'evič Anisimov
     year: 1975
     language: Russian
@@ -150420,6 +150732,7 @@ titles:
   - title: Izbrannye stat'i i reči 1965-1975
     authors:
       - Todor Živkov
+    translators:
       - E. I. Gromuškin
     year: 1975
     language: Russian
@@ -151096,6 +151409,8 @@ titles:
     subtitle: '[Redaktsionnaia kollegiia Golikov V. A. (rukovoditelʹ) ... et al.]'
     authors:
       - Viktor Andreevich Golikov
+    editors:
+      - Viktor A. Golikov
     year: 1975
     language: Russian
     pages: 526
@@ -151651,6 +151966,8 @@ titles:
     authors:
       - S. M. Aleksandrovskaâ
       - S. M. Aleksandrovskaia (С.М. Александровская)
+    editors:
+      - S. M. Aleksandrovskaja
     year: 1975
     language: Russian
     sources:
@@ -153534,6 +153851,8 @@ titles:
     subtitle: Materialy Vsesojuznoj naučno-teoretičeskoj konferencii, posvjaščennoj 10-letiju martovkogo Plenuma CK KPSS >24-26 marta 1975 g>
     authors:
       - V. A. Golikov
+    editors:
+      - Viktor A. Golikov
     year: 1975
     language: Russian
     sources:
@@ -153741,6 +154060,8 @@ titles:
     authors:
       - S. A. Levitin
       - S. A. Levitin (С.А. Левитин)
+    editors:
+      - Semen Aronovič Levitin
     year: 1975
     language: Russian
     sources:
@@ -157256,6 +157577,8 @@ titles:
       - L. N. Velikovich (Л. Н. Великович)
       - L. P. Kurpakova
       - L. P. Kurpakova (Л. П. Курпакова)
+    editors:
+      - Lazar' Naumovič Velikovič
     year: 1975
     language: Russian
     sources:
@@ -164422,6 +164745,8 @@ titles:
       - N. A. Zhuravlev (Н. А. Журавлев)
       - I. P. Burmistrov
       - E. P. Burmistrov (И. П. Бурмистров)
+    editors:
+      - I. D. Konach
     year: 1976
     language: Russian
     sources:
@@ -164432,9 +164757,12 @@ titles:
     verified: true
   - title: Svastika na sutanah
     subtitle: Fakty, dokumenty, sv-va očevidcev
+    original_title: Svastika na sutanah
     authors:
       - Klim Evgenʹevič Dmitruk
       - Klim Evgenevich Dmitruk (Клим Евгеньевич Дмитрук)
+    translators:
+      - Anatolij Nikolaevič Andreev
     year: 1976
     language: Russian
     sources:
@@ -165201,8 +165529,9 @@ titles:
   - title: VII s''ezd Pol'skoj ob''edinennoj rabočej partii, 8-12 dekabrâ 1975 g
     subtitle: Osnovnye materialy i dokumenty
     authors:
-      - Viktor Vital'evič Anisimov
       - Petr Kuz'mič Kostikov
+    translators:
+      - Viktor Vital'evič Anisimov
     year: 1976
     language: Russian
     sources:
@@ -165215,6 +165544,7 @@ titles:
     subtitle: 8 - 12 dekabrja 1975 g. Osnovnye materialy i dokumenty
     authors:
       - K. N. Svanidze
+    translators:
       - P. K. Kostikov
     year: 1976
     language: Russian
@@ -167560,7 +167890,8 @@ titles:
         url: https://search.worldcat.org/title/14244940
     verified: true
   - title: Bonnskij s''ezd Germanskoj kommunističeskoj partii 19-21 marta 1976 g
-    authors:
+    authors: []
+    translators:
       - Grigorij Âkovlevič Rudoj
     year: 1977
     language: Russian
@@ -167571,8 +167902,10 @@ titles:
         url: https://search.worldcat.org/title/836238807
     verified: true
   - title: Bonnskij sʺezd Germanskoj kommunističeskoj partii 19-21 marta 1976 g
+    original_title: Protokol des Bonner Parteitags der Deutschen Kommunistischen Partei
     series: Dokumenty i materialy zarubežnyh kommunističeskih i rabočih partij
-    authors:
+    authors: []
+    translators:
       - Grigorij Âkovlevič Rudoj
       - Grigorii Iakovlevich Rudoi (Григорий Яковлевич Рудой)
     year: 1977
@@ -168886,6 +169219,9 @@ titles:
     authors:
       - Dinmuhamed Ahmedovič Kunaev
       - Dinmukhamed Akhmedovich Kunaev (Динмухамед Ахмедович Кунаев)
+    editors:
+      - V. I. Gerasev
+      - V. E. Gerasev (В. И. Герасев)
     year: 1977
     language: Russian
     sources:
@@ -169145,6 +169481,8 @@ titles:
   - title: Izbrannye stat'i i reči
     authors:
       - Luis Emilio Recabarren
+    translators:
+      - A. B. Belâkova
     year: 1977
     language: Russian
     sources:
@@ -169767,6 +170105,7 @@ titles:
   - title: Kul'tura i religija
     authors:
       - Aleksandru Tėnase
+    translators:
       - M. F. Soloduchina
     year: 1977
     language: Russian
@@ -170299,6 +170638,8 @@ titles:
     subtitle: The Scientific and Technological Revolution, the Soviet Workingclass and Intelligentsia
     authors:
       - L. S. Blyakhman
+    translators:
+      - Yuri Sviridov
     year: 1977
     language: English
     sources:
@@ -171638,6 +171979,7 @@ titles:
         url: https://openlibrary.org/books/OL14094419M
     verified: true
   - title: Opportunizm segodnâ
+    original_title: Opportunismus heaute
     authors:
       - Willi Gerns
       - Villi Gerns (Вилли Гернс)
@@ -172557,6 +172899,8 @@ titles:
     subtitle: Materialy Vsesoiuznoĭ nauchno-teoreticheskoĭ konferentsii "XXV se̋zd KPSS i razvitie marksistsko-leninskoĭ teorii"
     authors:
       - Vsesoiuznaia nauchno-teoreticheskaia konferentsiia Dvadtsatʹ piatyĭ sʺezd KPSS i razvitie marksistsko-leninskoĭ teorii
+    editors:
+      - Aleksandr Ivanovich Sobolev
     year: 1977
     language: Russian
     pages: 196
@@ -173059,8 +173403,9 @@ titles:
   - title: Skazaniâ evangelistov
     authors:
       - Zenon Kosidowski
-      - Èstera Gessen
       - Irina Sergeevna Svencickaâ
+    translators:
+      - Èstera Gessen
     year: 1977
     language: Russian
     sources:
@@ -175274,7 +175619,8 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=508595134
     verified: true
   - title: XI s''ezd Bolgarskiej kommunističeskoj partii, Sofiâ 29 marta - 2 aprelâ 1976 g
-    authors:
+    authors: []
+    translators:
       - V. N. Grebennikov
     year: 1977
     language: Russian
@@ -175298,9 +175644,10 @@ titles:
     subtitle: Bogota, 5-9 dekabrâ 1975 g
     authors:
       - A. Mineev
+      - Partido Comunista Colombiano
+    translators:
       - Vladimir Gerasimovič Tkačenko
       - Galina Eliseevna Žučkova
-      - Partido Comunista Colombiano
     year: 1977
     language: Russian
     sources:
@@ -177172,6 +177519,9 @@ titles:
   - title: Bolʹshevizm i reformizm
     authors:
       - Aleksandr Fedorovich Kostin
+    editors:
+      - V. S. Kirillov
+      - S. L. Titarenko
     year: 1978
     edition: Izd. 2-e, dop
     language: Russian
@@ -177433,7 +177783,8 @@ titles:
     verified: true
   - title: Čilijskaâ revolûciâ, fašistskaâ diktatura, bor'ba za eë sverženie i sozdanie novoj demokratii
     subtitle: Plenum Central'nogo Komiteta Kommunističeskoj partii Čili, Avgust 1977 g
-    authors:
+    authors: []
+    translators:
       - I. E. Rybalkin
     year: 1978
     language: Russian
@@ -177570,6 +177921,7 @@ titles:
     series: Plamennye revoljucionery
     authors:
       - Vladimir G. Drozd
+    translators:
       - N. Dangulova
     year: 1978
     language: Russian
@@ -178213,6 +178565,8 @@ titles:
   - title: Iz perežitogo
     authors:
       - Luis Korvalan
+    translators:
+      - V. Kučerov
     year: 1978
     language: Russian
     sources:
@@ -179103,6 +179457,8 @@ titles:
     subtitle: 'Sbornik vazhneĭshikh dokumentov: mart 1965 g.-iiul'' 1978 g'
     authors:
       - M. S. Smirtiukov
+    editors:
+      - K. M. Bogoliubov
     year: 1978
     language: Russian
     pages: 679
@@ -179430,6 +179786,8 @@ titles:
   - title: Monolog sovremennika
     authors:
       - B. IAkovlev
+    editors:
+      - B. Jakovlev
     year: 1978
     edition: Izd. 2
     language: Russian
@@ -180532,6 +180890,7 @@ titles:
     subtitle: Reči i vystupleniâ 1960-1977 gg
     authors:
       - Fidel Castro
+    translators:
       - A. A. Ŝerba
     year: 1978
     language: Russian
@@ -181480,7 +181839,8 @@ titles:
     verified: true
   - title: Položenie v oblasti prav čeloveka v SŠA
     subtitle: Publikaciâ Kommunističeskoj partii SŠA; perevod s anglijskogo
-    authors:
+    authors: []
+    translators:
       - N. V. Mostovec
     year: 1978
     language: Russian
@@ -184153,6 +184513,8 @@ titles:
     subtitle: Sbornik dokumentov
     authors:
       - Kommunisticheskaia partiia Sovetskogo Soiuza. Otdel organizatsionno-partiĭnoĭ raboty
+    editors:
+      - Ivan Vasil'evich Kapitonov
     year: 1978
     edition: Izd. 2., dop
     language: Russian
@@ -186667,6 +187029,8 @@ titles:
   - title: Georgij Dimitrov, kakim ja ego videl i zapomnil
     authors:
       - Nedelčo Gančovskij
+    translators:
+      - V. N. Grebennikov
     year: 1979
     language: Russian
     sources:
@@ -187186,6 +187550,8 @@ titles:
     subtitle: 'Rechi i statʹi: (1971-1978 gg.)'
     authors:
       - Erich Honecker
+    editors:
+      - Anatolij Ivanovič Martynov
     year: 1979
     language: Russian
     pages: 702
@@ -188235,6 +188601,7 @@ titles:
     verified: true
   - title: Mangejmskij sʺezd Germanskoj kommunističeskoj partii
     subtitle: 20-22 oktâbrâ 1978 g
+    original_title: Protokoll des Mannheimer Parteitages der Deutschen kommunistischen Partei
     series: Dokumenty i materialy zarubežnyh kommunističeskih i rabočih partij
     authors: []
     year: 1979
@@ -189206,9 +189573,10 @@ titles:
     verified: true
   - title: Očerk istorii Kommunističeskoj partii Čehoslovakii
     authors:
-      - Boris Petrovič Zernov
       - Instytut Marksizmu-Leninizmu (Komunistyczna Partia Czechosłowacji)
       - Komunistická strana Slovenska
+    translators:
+      - Boris Petrovič Zernov
     year: 1979
     language: Russian
     sources:
@@ -190964,8 +191332,9 @@ titles:
   - title: Skazaniâ evangelistov
     authors:
       - Zenon Kosidowski
-      - Èstera Gessen
       - Irina Sergeevna Svencickaâ
+    translators:
+      - Èstera Gessen
     year: 1979
     language: Russian
     sources:
@@ -191081,6 +191450,7 @@ titles:
     subtitle: 'Na materialah evropejskih socialističeskih stran: spravočnik'
     authors:
       - Michał Teofil Staszewski
+    translators:
       - T. Trifonova
     year: 1979
     language: Russian
@@ -191809,9 +192179,11 @@ titles:
     verified: true
   - title: U istokov christianstva
     subtitle: (Ot Zaroždenija do Justiniana)
+    original_title: Storia del christianesimo
     series: Biblioteka ateističeskoj literatury
     authors:
       - Ambrogio Donini
+    translators:
       - I. I. Kravčenko
     year: 1979
     language: Russian
@@ -191948,6 +192320,7 @@ titles:
     verified: true
   - title: V bratskom soûze
     subtitle: Iz istorii vengero-sovetskih otnošenij
+    original_title: Baráti Szövetségben
     authors:
       - Jànos Berecz
     year: 1979
@@ -195327,8 +195700,10 @@ titles:
     verified: true
   - title: Do poslednego dychanija
     subtitle: Biografija Karla Libknechta
+    original_title: Karl Liebknecht
     authors:
       - Heinz Wohlgemuth
+    translators:
       - I. E. Zil'berman
     year: 1980
     language: Russian
@@ -196283,6 +196658,7 @@ titles:
     subtitle: 1975-1979 gg
     authors:
       - Edward Gierek
+    translators:
       - Viktor Vital'evič Anisimov
     year: 1980
     language: Russian
@@ -196324,6 +196700,7 @@ titles:
     authors:
       - János Kádár
       - Ianosh Kadar (Янош Кадар)
+    translators:
       - A. M. Sorokin
       - A. M. Sorokin (А. М. Сорокин)
     year: 1980
@@ -196647,6 +197024,8 @@ titles:
     authors:
       - Mihail Iosifovič Sladkovskij
       - Mikhail Iosifovich Sladkovskii (Михаил Иосифович Сладковский)
+    editors:
+      - Michail I. Sladkovskij
     year: 1980
     language: Russian
     sources:
@@ -196819,6 +197198,9 @@ titles:
     subtitle: Spravochnik
     authors:
       - D. I. Antoniuk
+    editors:
+      - Dmitrij Ivanovič Antonûk
+      - Dmitrii Ivanovich Antoniuk (Дмитрий Иванович Антонюк)
     year: 1980
     edition: 4., dop. i perer. izd
     language: Russian
@@ -196912,6 +197294,8 @@ titles:
     authors:
       - Leon Aršakovič Onikov
       - Nikolaj Vladimirovič Šišlin
+    editors:
+      - Leon A. Onikov
     year: 1980
     language: Russian
     sources:
@@ -198063,6 +198447,8 @@ titles:
     subtitle: Slovarʹ
     authors:
       - Aleksej Matveevič Rumâncev
+    editors:
+      - Aleksej Matveevič Rumjancev
     year: 1980
     language: Russian
     sources:
@@ -199115,6 +199501,8 @@ titles:
     authors:
       - L. I. Alekseeva
       - Viktor Andreevich Golikov
+    editors:
+      - Viktor A. Golikov
     year: 1980
     language: Russian
     pages: 318
@@ -199240,6 +199628,7 @@ titles:
     subtitle: Povest' o Grigorii Petrovskom
     authors:
       - Oleksa Savčuk
+    translators:
       - Svetlana Kedrina
       - L. Kedrina
     year: 1980
@@ -199363,6 +199752,7 @@ titles:
     series: Plamennye revoljucionery
     authors:
       - Aleksej I. Savčuk
+    translators:
       - Ljudmila Kedrina
     year: 1980
     language: Russian
@@ -200259,6 +200649,8 @@ titles:
     series: 'Socializm: opyt, problemy, perspektivy'
     authors:
       - Nikolaj N. Nekrasov
+    translators:
+      - V. P. Voronina
     year: 1980
     language: Russian
     sources:
@@ -201518,6 +201910,8 @@ titles:
     authors:
       - K. I. Lisovoj
       - V. I. Lučinkina
+    editors:
+      - Konstantin Ivanovič Lisovoj
     year: 1980
     language: Russian
     sources:
@@ -202182,6 +202576,7 @@ titles:
     subtitle: (O geroe Sovetskogo Soûza P. M. Bujko)
     authors:
       - Âkìv Vasìl'ovič Baš
+    translators:
       - Ivan Fedotovič Karabutenko
     year: 1980
     language: Russian
@@ -202197,6 +202592,7 @@ titles:
     authors:
       - Â. V. Baš
       - I. V. Bash (Я. В. Баш)
+    translators:
       - Ivan Fedotovič Karabutenko
       - Ivan Fedotovich Karabutenko (Иван Федотович Карабутенко)
     year: 1980
@@ -202207,8 +202603,10 @@ titles:
     verified: true
   - title: Zasedanie Rejchstaga oba̋vljaju otkrytym
     subtitle: Žizn i dejatel'nost' Klary Cetkin
+    original_title: Clara Zetkin
     authors:
       - Luise Dornemann
+    translators:
       - I. E. Zil'berman
     year: 1980
     language: Russian
@@ -204005,6 +204403,7 @@ titles:
     series: Plamennye revoljucionery
     authors:
       - Vladimir G. Drozd
+    translators:
       - N. Dangulova
     year: 1981
     language: Russian
@@ -204461,6 +204860,9 @@ titles:
   - title: Imant Sudmalis
     authors:
       - I. M. Muzykantik
+    translators:
+      - M. Krupnikova
+      - M. Krupnikova (М. Крупникова)
     year: 1981
     series: Geroi Sovetskoĭ Rodiny
     language: Russian
@@ -204666,6 +205068,12 @@ titles:
     subtitle: 1975 - 1981 gg
     authors:
       - Le Zuan
+    editors:
+      - Milko Balev
+    translators:
+      - V. N. Grebennikov
+      - Valentin Ivanovič Korovin
+      - V. A. Molodov
     year: 1981
     language: Russian
     sources:
@@ -204715,6 +205123,12 @@ titles:
     authors:
       - Le Zuan
       - Le Zuan (Ле Зуан)
+    editors:
+      - S. I. Kolesnikova
+      - S. E. Kolesnikova (С. И. Колесникова)
+    translators:
+      - G. A. Azančeeva
+      - G. A. Azancheeva (Г. А. Азанчеева)
     year: 1981
     language: Russian
     sources:
@@ -205733,6 +206147,8 @@ titles:
   - title: Materialy XXVI sʺezda KPSS
     authors:
       - Kommunisticheskaya partiya Sovetskogo Soyuza. S"ezd
+    editors:
+      - G. Ė. Cukanov
     year: 1981
     language: Russian
     sources:
@@ -208226,8 +208642,9 @@ titles:
   - title: Skazaniâ evangelistov
     authors:
       - Zenon Kosidowski
-      - Èstera Gessen
       - Irina Sergeevna Svencickaâ
+    translators:
+      - Èstera Gessen
     year: 1981
     language: Russian
     sources:
@@ -209316,6 +209733,7 @@ titles:
     subtitle: Povest' ob Arteme
     authors:
       - Radìj Fedorovič Polons'kij
+    translators:
       - N. Rogova
     year: 1981
     language: Russian
@@ -209792,6 +210210,8 @@ titles:
     authors:
       - Vladimir Il’ich Lenin
       - Klavdiĭ Mikhaĭlovich Bogoliubov
+    editors:
+      - Klavdij Mihajlovič Bogolûbov
     year: 1981
     language: Russian
     pages: 800
@@ -210486,6 +210906,7 @@ titles:
     authors:
       - Sergej Ivanovič Kolesnikov
       - Sergei Ivanovich Kolesnikov (Сергей Иванович Колесников)
+    translators:
       - G. A. Azančeeva
       - G. A. Azancheeva (Г. А. Азанчеева)
     year: 1981
@@ -213377,6 +213798,9 @@ titles:
     subtitle: Spravochnik
     authors:
       - D. I. Antoniuk
+    editors:
+      - D. I. Antonûk
+      - D. E. Antoniuk (Д. И. Антонюк)
     year: 1982
     edition: 5. dop., i perer. izd
     language: Russian
@@ -214268,6 +214692,8 @@ titles:
     subtitle: TSifry i fakty
     authors:
       - IAkov Abramovich Ioffe
+    editors:
+      - J. A. Ioffe
     year: 1982
     edition: Izd. 5-e, dop
     language: Russian
@@ -214746,6 +215172,9 @@ titles:
   - title: Ob iskusstve polemiki
     authors:
       - Petr Nikolaevich Fedoseev
+    editors:
+      - Petr Nikolaevič Fedoseev
+      - Petr Nikolaevich Fedoseev (Пётр Николаевич Федосеев)
     year: 1982
     edition: Izd. 2. dop
     language: Russian
@@ -216292,6 +216721,8 @@ titles:
     authors:
       - Aleksandr Mihajlovič Aleksandrov
       - Aleksandr Mikhailovich Aleksandrov (Александр Михайлович Александров)
+    editors:
+      - Aleksandr Mihailovič Aleksandrov
     year: 1982
     language: Russian
     sources:
@@ -216842,6 +217273,7 @@ titles:
   - title: Sovremennaâ hristianskaâ demokratiâ
     authors:
       - Stanisław Markiewicz
+    translators:
       - Èstera Gessen
       - T. Trifonova
     year: 1982
@@ -216926,6 +217358,9 @@ titles:
     subtitle: Dokumenty i materialy
     authors:
       - L. F. Ilʹichev
+    editors:
+      - L. F. Ilʹičev
+      - L. F. Ilichev (Л. Ф. Ильичев)
     year: 1982
     language: Russian
     sources:
@@ -222535,6 +222970,8 @@ titles:
     subtitle: Učebnik
     authors:
       - Petr Nikolaevič Fedoseev
+    editors:
+      - Aleksej Matveevič Rumjancev
     year: 1983
     language: Russian
     sources:
@@ -228504,6 +228941,8 @@ titles:
     authors:
       - G. Pronina
       - Institut marksizma-leninizma (Moscow, Russia)
+    editors:
+      - G. Pronina (Г. Пронина)
     year: 1984
     edition: Izd. 2e, dop
     language: Russian
@@ -228548,6 +228987,9 @@ titles:
   - title: GDR, budni i prazdniki
     authors:
       - V. I. Abyzov
+    editors:
+      - Gûnter Brok
+      - Giunter Brok (Гюнтер Брок)
     year: 1984
     language: Russian
     pages: 124
@@ -228766,6 +229208,7 @@ titles:
   - title: 'Imperializm: špionaž v Evrope včera i segodnja'
     authors:
       - Julius Mader
+    translators:
       - G. Rudoj
     year: 1984
     language: Russian
@@ -229487,6 +229930,8 @@ titles:
   - title: Krizis strategii sovremennogo antikommunizma
     authors:
       - V. V. Zagladin
+    editors:
+      - Ju Pankov
     year: 1984
     language: Russian
     pages: 318
@@ -229566,6 +230011,7 @@ titles:
     series: Plamennye revoljucionery
     authors:
       - Mišši Juhma
+    translators:
       - Benedikt M. Sarnov
     year: 1984
     language: Russian
@@ -230733,10 +231179,11 @@ titles:
   - title: Neobʺâvlennaâ vojna protiv Polʹši
     subtitle: Podryvnaâ deâtelʹnostʹ zapadnyh služb
     authors:
-      - Ûrij Leontʹevič Dʹâkov
-      - Iurii Leontevich Diakov (Юрий Леонтьевич Дьяков)
       - P. Olʹgin
       - P. Olgin (П. Ольгин)
+    translators:
+      - Ûrij Leontʹevič Dʹâkov
+      - Iurii Leontevich Diakov (Юрий Леонтьевич Дьяков)
     year: 1984
     language: Russian
     sources:
@@ -231217,6 +231664,8 @@ titles:
     subtitle: Voprosy i otvety
     authors:
       - Oleg Tikhonovich Darusenkov
+    editors:
+      - A. Idal'go
     year: 1984
     language: Russian
     pages: 159
@@ -233266,6 +233715,8 @@ titles:
     subtitle: Zhenshchiny-kommunistki v gody Velikoĭ Otechestvennoĭ voĭny
     authors:
       - L. Stishova
+    editors:
+      - Lidija I. Stišova
     year: 1984
     language: Russian
     pages: 317
@@ -235145,9 +235596,11 @@ titles:
     verified: true
   - title: '"My prožili ne naprasno..."'
     subtitle: Biografiâ Karla Marksa i Fridriha Éngelʹsa
+    original_title: Unser Leben
     authors:
       - Heinrich Gemkow
       - Genrikh Gemkov (Генрих Гемков)
+    translators:
       - S. P. Gavriš
       - S. P. Gavrish (С. П. Гавриш)
       - V. V. Černyšev
@@ -236612,6 +237065,7 @@ titles:
     verified: true
   - title: Izbrannye statʹi i reči
     subtitle: Maj 1979 g. - aprelʹ 1985 g
+    original_title: Selections
     authors:
       - Ânoš Kadar
     year: 1985
@@ -237798,6 +238252,8 @@ titles:
     subtitle: Tsifry i fakty
     authors:
       - Ya. A. Ioffe
+    editors:
+      - J. A. Ioffe
     year: 1985
     edition: Izd. 6-oe, dop
     language: Russian
@@ -238231,6 +238687,9 @@ titles:
       - Boris Kostiukovskii (Борис Костюковский)
       - Anatolij Izrailovič Razgon
       - Anatolii Izrailovich Razgon (Анатолий Израилович Разгон)
+    editors:
+      - Anatolij Izrailevič Razgon
+      - Boris Aleksandrovič Kostûkovskij
     year: 1985
     language: Russian
     sources:
@@ -239143,9 +239602,11 @@ titles:
     verified: true
   - title: Proischoždenie
     subtitle: Roman-biografija Čarlza Darvina
+    original_title: The origin
     series: Biblioteka ateističeskoj literatury
     authors:
       - Irving Stone
+    translators:
       - M. I. Bruk
     year: 1985
     language: Russian
@@ -239584,8 +240045,10 @@ titles:
     verified: true
   - title: Slesarnaja komanda Ravensbrjuka
     subtitle: Vospominanija zaključennoj nomer 10787
+    original_title: Die Klempnerkolonne in Ravensbrück
     authors:
       - Charlotte Müller
+    translators:
       - N. A. Smirnova
     year: 1985
     language: Russian
@@ -240408,6 +240871,7 @@ titles:
     pages: 126
   - title: Tajnye kanaly
     subtitle: Po sledam nacistskoj mafii
+    original_title: Geheime Kanäle
     authors:
       - Jurgen Pomorin
       - Iurgen Pomorin (Юрген Поморин)
@@ -240462,6 +240926,7 @@ titles:
     series: Plamennye revoljucionery
     authors:
       - Magomed-Sultan Joch'jaev
+    translators:
       - Benedikt M. Sarnov
     year: 1985
     language: Russian
@@ -240855,6 +241320,8 @@ titles:
   - title: V. I. Lenin o kul'ture
     authors:
       - Vladimir Il’ich Lenin
+    editors:
+      - Arnolʹd I. Arnolʹdov
     year: 1985
     edition: Izd. 2-e, dop
     language: Russian
@@ -241668,10 +242135,11 @@ titles:
     subtitle: Budapešt, 25 - 28 marta 1985 g
     series: Dokumenty i materialy zarubežnyh kommunističeskih i rabočih partij
     authors:
-      - Valerij Leonidovič Musatov
-      - Valerii Leonidovich Musatov (Валерий Леонидович Мусатов)
       - Vengerskaâ socialističeskaâ rabočaâ partiâ
       - Vengerskaia Sotsialisticheskaia Rabochaia Partiia (Венгерская социалистическая рабочая партия)
+    translators:
+      - Valerij Leonidovič Musatov
+      - Valerii Leonidovich Musatov (Валерий Леонидович Мусатов)
     year: 1985
     language: Russian
     sources:
@@ -244632,6 +245100,7 @@ titles:
         url: https://search.worldcat.org/title/16796177
     verified: true
   - title: Krizisy i sovremennyj kapitalizm
+    original_title: Krize a současný kapitalismus
     authors:
       - Pavel Rapoš
       - Pavel Raposh (Павел Рапош)
@@ -245089,6 +245558,9 @@ titles:
     subtitle: O "novykh filosofakh" i oʺnovykh pravykh""
     authors:
       - IU Kagramanov
+    editors:
+      - Û. M. Kagramanov
+      - I. M. Kagramanov (Ю. М. Каграманов)
     year: 1986
     series: Sotsialʹnyĭ progress i burzhuaznaia filosofiia
     language: Russian
@@ -245325,6 +245797,8 @@ titles:
     authors:
       - S. M. Aleksandrovskaâ
       - S. M. Aleksandrovskaia (С.М. Александровская)
+    editors:
+      - S. M. Aleksandrovskaja
     year: 1986
     language: Russian
     sources:
@@ -247659,6 +248133,8 @@ titles:
     subtitle: Politiko-ėkonomičeskij slovarʹ-spravočnik
     authors:
       - Olimp Alekseevič Čukanov
+    editors:
+      - O. A. Čukanov
     year: 1986
     language: Russian
     sources:
@@ -247986,6 +248462,8 @@ titles:
     subtitle: '1960-mart 1986 gg.: dokumenty i materialy'
     authors:
       - Anatoliĭ Andreevich Gromyko
+    editors:
+      - Anatolij Andreevič Gromyko
     year: 1986
     language: Russian
     sources:
@@ -251333,6 +251811,11 @@ titles:
   - title: Glavnye filosofskie trudy V.I. Lenina
     authors:
       - B. V. Bogdanov
+    editors:
+      - Boris Viktorovič Bogdanov
+      - Boris Viktorovich Bogdanov (Борис Викторович Богданов)
+      - Igorʹ Sergeevič Narskij
+      - Igor Sergeevich Narskii (Игорь Сергеевич Нарский)
     year: 1987
     language: Russian
     pages: 287
@@ -254405,6 +254888,7 @@ titles:
         url: https://d-nb.info/984218882
     verified: true
   - title: Počemu imeet smysl sporitʹ o ponâtiâh
+    original_title: Warum es sich lohnt, um Begriffe zu streiten
     series: Nad čem rabotaût, o čem sporât filosofy
     authors:
       - Monika Leske
@@ -256168,8 +256652,10 @@ titles:
     verified: true
   - title: V burjach našego veka
     subtitle: Zapiski razvedčika-antifašista
+    original_title: In den Stürmen unseres Jahrhunderts
     authors:
       - Gerhard Kegel
+    translators:
       - Vladimir P. Grenkov
     year: 1987
     language: Russian
@@ -256957,6 +257443,8 @@ titles:
   - title: Za mir i bezopasnostʹ narodov
     authors:
       - V. A. Vasilʹev
+    editors:
+      - V. A. Vasilev (В. А. Васильев)
     year: 1987
     language: Russian
     sources:
@@ -258853,6 +259341,8 @@ titles:
     subtitle: Rasskazy o dipkur'erakh
     authors:
       - I. M. Maiskii
+    editors:
+      - O. V. Vadeev
     year: 1988
     language: Russian
     isbn: '5250000525'
@@ -262685,6 +263175,9 @@ titles:
     subtitle: Slovarʹ ateista
     authors:
       - N. S. Gordienko
+    editors:
+      - Nikolaj Semenovič Gordienko
+      - Nikolai Semenovich Gordienko (Николай Семенович Гордиенко)
     year: 1988
     language: Russian
     pages: 270
@@ -262750,6 +263243,7 @@ titles:
     verified: true
   - title: 'Priznaius'': ia zhil'
     subtitle: Vospominaniia
+    original_title: Confieso que he vivido
     authors:
       - Pablo Neruda
     year: 1988
@@ -264073,8 +264567,10 @@ titles:
     verified: true
   - title: Večnoe gorenie
     subtitle: Vospominaniâ
+    original_title: Figlio della classe operaia
     authors:
       - Antonio Roasio
+    translators:
       - Genrih Pavlovič Smirnov
       - Genrikh Pavlovich Smirnov (Генрих Павлович Смирнов)
     year: 1988
@@ -266777,6 +267273,8 @@ titles:
     subtitle: Slovar'
     authors:
       - A. Belyaev
+    editors:
+      - Al'bert Andreevich Beliaev
     year: 1989
     language: Russian
     pages: 445
@@ -269993,6 +270491,9 @@ titles:
     subtitle: Vekhi istorii
     authors:
       - A. I. Klibanov
+    editors:
+      - Aleksandr Ilʹič Klibanov
+      - Aleksandr Ilich Klibanov (Александр Ильич Клибанов)
     year: 1989
     language: Russian
     pages: 719
@@ -273972,6 +274473,9 @@ titles:
     subtitle: '1938-1939: dokumenty i materialy v dvukh tomakh'
     authors:
       - L. F. Ilʹichev
+    editors:
+      - A. P. Bondarenko
+      - A. P. Bondarenko (А. П. Бондаренко)
     year: 1990
     language: Russian
     sources:
@@ -274295,6 +274799,7 @@ titles:
     subtitle: Kniga o vospitanii
     authors:
       - Janusz Korczak
+    translators:
       - Kinga Senkevič
     year: 1990
     language: Russian
@@ -275567,6 +276072,7 @@ titles:
         url: https://openlibrary.org/books/OL19906513M
     verified: true
   - title: Novyj putʹ Litvy
+    original_title: Lithuania's new way
     authors:
       - Anna Louise Strong
     year: 1990
@@ -276558,6 +277064,8 @@ titles:
     subtitle: Slovarʹ ateista
     authors:
       - L. N. Mitrokhin
+    editors:
+      - L. N. Mitrohin
     year: 1990
     language: Russian
     pages: 317
@@ -277350,6 +277858,9 @@ titles:
   - title: Uedinennoe
     authors:
       - Vasiliĭ Vasilʹevich Rozanov
+    editors:
+      - Aleksandr Nikolaevič Nikolûkin
+      - Aleksandr Nikolaevich Nikoliukin (Александр Николаевич Николюкин)
     year: 1990
     series: Mysliteli XX veka
     language: Russian
@@ -278204,6 +278715,11 @@ titles:
   - title: Библейские сказания; Сказания евангелистов
     authors:
       - Zenon Kosidowski
+    editors:
+      - O. A. Belov (О. А. Белов)
+      - T. E. Trifanova (Т. И. Трифанова)
+      - A. A. Pchelkin (А. А. Пчелкин)
+      - N. K. Kapustina (Н. К. Капустина)
     year: 1990
     language: Russian
     pages: 478
@@ -279400,6 +279916,7 @@ titles:
   - title: Carskaâ Rossiâ nakanune revolûcii
     authors:
       - Maurice Paléologue
+    translators:
       - Fedor Ge
       - D. Protopopov
     year: 1991
@@ -279733,6 +280250,8 @@ titles:
     subtitle: Dramatizm obnovleniia
     authors:
       - Nikolaĭ Ivanovich Lapin
+    editors:
+      - Nikolaj Ivanovič Lapin
     year: 1991
     series: Nad chem rabotaiut, o chem sporiat filosofy
     language: Russian
@@ -281347,6 +281866,8 @@ titles:
     subtitle: 6 sentiabria 1918 g.-28 avgusta 1923 g
     authors:
       - A. P. Nenarokov
+    editors:
+      - Al'bert Pavlovič Nenarokov
     year: 1991
     language: Russian
     pages: 464

@@ -482,6 +482,8 @@ titles:
   - title: Sedm interludií. Kvydání připravil a úvod napsal... Josef Hrabák
     authors:
       - Václav František Kocmánek
+    editors:
+      - Josef Hrabák
     year: 1953
     language: Czech
     sources:
@@ -491,6 +493,8 @@ titles:
   - title: Spisy a projevy Josefa Dobrovského
     authors:
       - Josef Dobrovský
+    editors:
+      - Miroslav Heřman
     year: 1953
     language: Czech
     sources:
@@ -510,6 +514,8 @@ titles:
   - title: Spisy a projevy Josefa Dobrovského vycházejí péčí komise pro vydávání spisu Josefa Dobrovského
     authors:
       - Josef Dobrovský
+    editors:
+      - Bohumil Ryba
     year: 1953
     language: Czech
     sources:
@@ -554,6 +560,8 @@ titles:
     verified: true
   - title: Středověke legendy prokopské, jejich historický rozbor a texty napsal Václav Chaloupecký, vydání textů dokončil, z dalších rukopisů rozmnožil a kritickým aparátem opatřil Bohumil Ryba
     authors: []
+    editors:
+      - Bohumil Ryba
     year: 1953
     language: Multiple languages
     sources:
@@ -1036,6 +1044,8 @@ titles:
   - title: Spisy a projevy Josefa Dobrovského vycházejí péčí komise pro vydávání spisu Josefa Dobrovského
     authors:
       - Josef Dobrovský
+    editors:
+      - Mirjam Dankova
     year: 1954
     language: Czech
     sources:
@@ -1096,6 +1106,7 @@ titles:
     verified: true
   - title: Úvaha o funkcích nervové soustavy
     subtitle: (Praha, 1784)
+    original_title: De functionibus systematis nervosi commentatio
     series: Československá Akademie Věd, Klasikové vědy
     authors:
       - Jiří Procháska
@@ -1145,6 +1156,8 @@ titles:
     authors:
       - Jaroslav Vrchlický
       - Eduard Albert
+    editors:
+      - Bohuslav Knoesl
     year: 1954
     language: Czech
     sources:
@@ -1427,6 +1440,7 @@ titles:
     verified: true
   - title: Paleogeografie
     subtitle: (Historická Zeměvěda)
+    original_title: Paleogeografija
     authors:
       - Konstantin K. Markov
     year: 1955
@@ -1507,6 +1521,8 @@ titles:
     verified: true
   - title: Slavica v české řečí
     authors: []
+    editors:
+      - Josef Bečka
     year: 1955
     language: Czech
     sources:
@@ -1526,6 +1542,8 @@ titles:
   - title: Soupis cizozemských periodik technických a příbuzných v knihovnách Československé republiky. Základní soupis z let 1928-1953, s dodatky k soupisu Bečkovu-Fochovu... Pracovala knihovna výsokých škol technickych. Redigoval Josef Lomsky
     authors:
       - Státní technická Knihovna
+    editors:
+      - Be kova Fochova
     year: 1955
     language: Czech
     sources:
@@ -1566,6 +1584,8 @@ titles:
     verified: true
   - title: Studie z antiky Antonínu Salačovi k sedmdesátinám. - Studia antiqua Antonio Salač septuagenario oblata. Vědecký redaktor Ladislav Varcl
     authors: []
+    editors:
+      - Ladislav Varcl
     year: 1955
     language: Czech
     sources:
@@ -1585,6 +1605,8 @@ titles:
   - title: Studie z mezinárodního práva
     authors:
       - Československá akademie věd
+    editors:
+      - Jaroslav Žourek
     year: 1955
     language: Czech
     sources:
@@ -2178,6 +2200,12 @@ titles:
   - title: Historie o plavení se do Ameriky, kteráž i Brasilia slove. [Histoire d'un voyage faict en la terre du Brésil.] Z latiny přeložili roku 1590 Pavel Slovák a Matěj Cyrus, k vydání připravili Quido Hodura, Bohuslav Horák
     authors:
       - Jean de Léry
+    editors:
+      - Quido Hodura
+      - Bohuslav Horák
+    translators:
+      - Matěj Cyrus
+      - Pavel Slovak
     year: 1957
     language: Czech
     sources:
@@ -2563,6 +2591,8 @@ titles:
     authors:
       - Josef Václav Sládek
       - Julius Zeyer
+    editors:
+      - J. S. Kvapil
     year: 1957
     language: Czech
     sources:
@@ -2715,9 +2745,10 @@ titles:
       - Vladimir Havliček
       - Radvan Horný
       - Josef Svoboda
-      - Tomáš Feigel
       - J. Košáková
       - J. Storm
+    translators:
+      - Tomáš Feigel
     year: 1958
     language: German
     sources:
@@ -2771,6 +2802,8 @@ titles:
     verified: true
   - title: 'Gotická nástĕnná malba v zemích českých... Zpracovali členové Ústavu pro teorii a dějiny umění Československé akademie věd: Antonín Bartušek, Vlasta Dvořáková, Antonín Friedl, Jarmila Krčálová, Anežka Merhautová-Livorová, Věra Mixová, Karel Stejskal. Práci vedl a úvodní stat napsal Jaroslav Pešina'
     authors: []
+    editors:
+      - Jaroslav Pešina
     year: 1958
     language: Czech
     sources:
@@ -2792,6 +2825,9 @@ titles:
     verified: true
   - title: Hnutí venkovského lidu v českých zemích v letech 1918-1922. K vydání připravili Jaroslav César a Milan Otáhal
     authors: []
+    editors:
+      - Jaroslav César
+      - Milan Otáhal
     year: 1958
     language: Czech
     sources:
@@ -2969,6 +3005,9 @@ titles:
     authors:
       - Československá akademie věd
       - Ústav pro českou a světovou literaturu
+    editors:
+      - Bohumil Trnka
+      - Zdeněk Vančura
     year: 1958
     language: Multiple languages
     sources:
@@ -3148,6 +3187,8 @@ titles:
     verified: true
   - title: Verše bolesti, posměchu i vzdoru, z časové poesie lidové a polidové 17. a 18. století. K vydání připravila a úvod napsala Zdeňka Tichá
     authors: []
+    editors:
+      - Zdeńka Ticha
     year: 1958
     language: Czech
     sources:
@@ -3317,6 +3358,8 @@ titles:
     verified: true
   - title: Clozianus, codex palaeoslovenicus glagoliticus, tridentinus et oenipotanus, editio phototipica... - Clozianus, staroslověnský hlaholský sborník tridentský a innsbrucký, fototypické vydání rukopisu... K vydání připravil Antonín Dostál
     authors: []
+    editors:
+      - Antonín Dostál
     year: 1959
     language: Czech
     sources:
@@ -3367,6 +3410,8 @@ titles:
     verified: true
   - title: Dějiny české literatury. Hlavní redaktor Jan Mukařovský
     authors: []
+    editors:
+      - Josef Hrabák
     year: 1959
     language: Czech
     sources:
@@ -3420,6 +3465,9 @@ titles:
     verified: true
   - title: Dvě legendy z doby Karlovy, Legenda o svatém Prokopu, Život svaté Kateřiny. Básnická legenda v literatuře českého středověku napsal Antonín Škarka. Legenda o svatém Prokopu, k vydání připravil, úvodem a poznámkami opatřil Josef Hrabák. Život svaté Kateřiny, k vydání připravil a poznámkami opatřil Václav Vážný, úvod napsal Antonín Škarka
     authors: []
+    editors:
+      - Josef Hrabák
+      - Václav Vážný
     year: 1959
     language: Czech
     sources:
@@ -3489,6 +3537,8 @@ titles:
     verified: true
   - title: Frantowé a grobiánï, z mravokárných satir 16 věku v Čechách. K vydáni připravil a úvod napsal Jaroslav Kolár
     authors: []
+    editors:
+      - Jaroslav Kolár
     year: 1959
     language: Czech
     sources:
@@ -3644,6 +3694,8 @@ titles:
     verified: true
   - title: Kladensko, život a kultura lidu v prumyslové oblasti. Zpracoval kolektiv pracovníků Ústavu pro etnografii a folkloristiku Československé akademie věd za vedení Olgy Sklaníkové. Předmluvu napsal Jiří Horák
     authors: []
+    editors:
+      - Olga Skalníková
     year: 1959
     language: Czech
     sources:
@@ -4175,6 +4227,8 @@ titles:
     verified: true
   - title: Dějiny české literatury. Hlavní redaktor Jan Mukařovský
     authors: []
+    editors:
+      - Felix Vodička
     year: 1960
     language: Czech
     sources:
@@ -4449,6 +4503,8 @@ titles:
   - title: Naučný geologický slovník
     authors:
       - J. F. Svoboda
+    editors:
+      - Josef Svoboda
     year: 1960
     language: Czech
     sources:
@@ -4633,6 +4689,8 @@ titles:
   - title: Prager Arbeitstagung über die Stratigraphie des Silurs und des Devons (1958)
     authors:
       - Prager Arbeitstagung über die Stratigraphie des Silurs und des Devons (1958)
+    editors:
+      - Josef Svoboda
     year: 1960
     language: German
     pages: 518
@@ -4765,6 +4823,8 @@ titles:
   - title: Sebrané spisy. Kvydáni připravila, přeložila, úvodní studii a poznámkový komentař napsala Marie Bayerova
     authors:
       - Augustin Smetana
+    editors:
+      - Marie Bayerová
     year: 1960
     language: Czech
     sources:
@@ -4916,6 +4976,8 @@ titles:
   - title: Tomáš ze Štítného. Sborník vyšehradský. O bojování hřiechóv s šlechtnostmi, o sedmi duchovnieho stavu vstupních, o korábi Noemově, o domu duchovniem. Vydal František Ryšánek
     authors:
       - Tomáš Štítný ze Štítného
+    editors:
+      - František Ryšánek
     year: 1960
     language: Czech
     sources:
@@ -4989,6 +5051,8 @@ titles:
     verified: true
   - title: Veršované skladby Neuberského sborníku, k vydání připravila a úvod napsala Zdeňka Ticha
     authors: []
+    editors:
+      - Zdeńka Ticha
     year: 1960
     language: Czech
     sources:
@@ -5213,6 +5277,8 @@ titles:
     verified: true
   - title: Dějiny české literatury. Hlavní redaktor Jan Mukařovský
     authors: []
+    editors:
+      - Miloš Pohorský
     year: 1961
     language: Czech
     sources:
@@ -5233,6 +5299,8 @@ titles:
     verified: true
   - title: Dějiny exaktních věd v českých zemích do konce 19. století, vedoucí autorského kolektivu Luboš Nový. Autorský kolektiv Jaroslav Folta, Zdeněk Horský, Luboš Nový, Irena Seidlerová, Josef Smolka a Mikuláš Teich
     authors: []
+    editors:
+      - Luboš Nový
     year: 1961
     language: Czech
     sources:
@@ -5327,6 +5395,8 @@ titles:
     series: Rozpravy Československé akademie věd; ročník 71, sešit 14
     authors:
       - Ivan Dubský
+    editors:
+      - Československá akademie věd
     year: 1961
     language: German
     sources:
@@ -5428,6 +5498,9 @@ titles:
     authors:
       - Pavol Jozef Šafárik
       - František Palacký
+    editors:
+      - Zoe Hauptová
+      - Věnceslava Bechynová
     year: 1961
     language: Czech
     sources:
@@ -5535,6 +5608,8 @@ titles:
   - title: Naučný geologický slovník
     authors:
       - J. F. Svoboda
+    editors:
+      - Josef Svoboda
     year: 1961
     language: Czech
     sources:
@@ -5667,6 +5742,8 @@ titles:
   - title: Pavel Josef Šafařík, život a dílo. Úvod napsal Karel Krejčí
     authors:
       - Karel Paul
+    editors:
+      - Karel Krejčí
     year: 1961
     language: Czech
     sources:
@@ -5754,6 +5831,9 @@ titles:
   - title: Příspěvky k historii a dialektologii českého jazyka, k vydání připravil... Josef Kurz, úvod napsal... Bohuslav Havránek
     authors:
       - Oldřich Hujer
+    editors:
+      - Bohuslav Havránek
+      - Josef Kurz
     year: 1961
     language: Czech
     sources:
@@ -5784,6 +5864,9 @@ titles:
     verified: true
   - title: Prosincová generalni stávka 1920, k vydańí připravili Irena Malá a František Štěpán
     authors: []
+    editors:
+      - Irena Malá
+      - František Štěpán
     year: 1961
     language: Czech
     sources:
@@ -6001,6 +6084,8 @@ titles:
   - title: Archiv Československé akademie věd, průvodce po archivních fondech sestavil kolektiv pracovníků za vedení... Jiřího Berana
     authors:
       - Československá akademie věd
+    editors:
+      - Jiři Beran
     year: 1962
     language: Czech
     sources:
@@ -6439,6 +6524,8 @@ titles:
   - title: Pannonia and the Onset of Crisis in the Roman Empire"Pannonie a Počátky Krize Řimského Imperia". English Translation by Iris Urwin
     authors:
       - Pavel Oliva
+    translators:
+      - Iris Lewitová
     year: 1962
     language: English
     sources:
@@ -6527,6 +6614,8 @@ titles:
     verified: true
   - title: Přiruční slovník naučný. Hlavní redaktor Vladimír Procházka
     authors: []
+    editors:
+      - Vladimír Procházka
     year: 1962
     language: Czech
     sources:
@@ -6708,6 +6797,8 @@ titles:
     verified: true
   - title: Staročeské satiry Hradeckého rukopisu a Smilovy školy, k vydání připravil a úvod napsal Josef Hrabák
     authors: []
+    editors:
+      - Josef Hrabák
     year: 1962
     language: Czech
     sources:
@@ -6859,6 +6950,8 @@ titles:
     verified: false
   - title: Z teorie výchovy a vyučování, sborník pedagogických studií za redakce akademika Otokara Chlupa
     authors: []
+    editors:
+      - Otokar Chlup
     year: 1962
     language: Czech
     sources:
@@ -6915,6 +7008,8 @@ titles:
     verified: true
   - title: Alexandreida, k vydání připravil Václav Vážný, úvodní studii napsal František Svejkovský
     authors: []
+    editors:
+      - Václav Vážný
     year: 1963
     language: Czech
     sources:
@@ -7188,6 +7283,10 @@ titles:
   - title: 'Franz Kafka, liblická konference 1963. Redakce sborníku: Eduard Goldstücker, František Kautman, Pavel Reiman'
     authors:
       - Kafka Konferenz
+    editors:
+      - Eduard Goldstücker
+      - František Kautman
+      - Pavel Reiman
     year: 1963
     language: Czech
     sources:
@@ -7465,6 +7564,8 @@ titles:
   - title: Paradoxy nekonečna. "Paradoxien des Unendlichen", k vydání připravil, přeložil a poznámkovým komentářem opatřil Otakar Zich, předmluvu napsal Arnošt Kolman
     authors:
       - Bernard Bolzano
+    editors:
+      - Otakar Zich
     year: 1963
     language: Czech
     sources:
@@ -7525,6 +7626,8 @@ titles:
     verified: true
   - title: Přiruční slovník naučný. Hlavní redaktor Vladimír Procházka
     authors: []
+    editors:
+      - Vladimír Procházka
     year: 1963
     language: Czech
     sources:
@@ -7712,6 +7815,8 @@ titles:
     verified: true
   - title: Veršované skladby doby husitské, k vydání připravil a úvod napsal František Svejkovský
     authors: []
+    editors:
+      - František Svejkovský
     year: 1963
     language: Czech
     sources:
@@ -7792,6 +7897,8 @@ titles:
     verified: true
   - title: Zrcadlo rozděleného království, z politických satir předbělohorského století v Čechách. K vydání připravil a úvod napsal Jaroslav Kolár
     authors: []
+    editors:
+      - Jaroslav Kolár
     year: 1963
     language: Czech
     sources:
@@ -8245,6 +8352,8 @@ titles:
     verified: true
   - title: Nejstaší české veršované legendy, soubor rukopisných zlomků. Kvydání připravil Jiří Cejnar, úvod napsal... Josef Hrabák
     authors: []
+    editors:
+      - Jiři Cejnar
     year: 1964
     language: Czech
     sources:
@@ -8803,6 +8912,8 @@ titles:
   - title: Čechy v době stěhování národů
     authors:
       - Bedřich Svoboda
+    editors:
+      - Jan Filip
     year: 1965
     edition: '[1. vyd.]'
     series: Monumenta archaeologica -- t. 13
@@ -8834,6 +8945,8 @@ titles:
   - title: Československo-sovětské literární vztahy v období meziválečném. Sborník uspořádal Jan Jíša
     authors:
       - Ústav pro českou a světovou literaturu
+    editors:
+      - Jan Jíša
     year: 1965
     language: Czech
     sources:
@@ -9112,6 +9225,8 @@ titles:
     subtitle: Od doby nejstarší až do konce XVIII. století
     authors:
       - Ústav pro českou a světovou literaturu
+    editors:
+      - František Horák
     year: 1965
     language: Czech
     sources:
@@ -9131,6 +9246,10 @@ titles:
     verified: false
   - title: Kybernetika ve společenských vědách, sborník uspořádali Eduard Arab-Ogly, Arnošt Kolman, Jiří Zeman
     authors: []
+    editors:
+      - Eduard Arab Ogly
+      - Arnošt Kolman
+      - Jiří Zeman
     year: 1965
     language: Czech
     sources:
@@ -9382,6 +9501,8 @@ titles:
     subtitle: Proceedings
     authors:
       - International Speleological Conference (1964- Brno, Czech Republic)
+    editors:
+      - Otakar Štelcl
     year: 1965
     language: English
     pages: 220
@@ -9412,6 +9533,8 @@ titles:
     verified: true
   - title: Realismus a modernost, proměny v české próze 19. století, sborník statí. Úspořadal Vladimír Forst
     authors: []
+    editors:
+      - Vladimír Forst
     year: 1965
     language: Czech
     sources:
@@ -10192,6 +10315,8 @@ titles:
     subtitle: 'Sborník příspévkú z konference historikú k. 20. výroči osvobození ČSSR. Védecký redaktor: Jaroslav Kladiva. Redaktor sborníku: Vlastislav Lacina'
     authors:
       - Československá akademie věd. Historický ústav
+    editors:
+      - Jaroslav Kladiva
     year: 1966
     edition: '[Vyd. 1.]'
     language: Czech
@@ -10271,6 +10396,8 @@ titles:
     subtitle: 'Études et documents du "Symposium Pragense Cultus Pacis 1464-1964": commemoratio pacis generalis ante quingentos annos a Georgio Bohemiae rege propositae'
     authors:
       - Symposium Pragense Cultus Pacis 1464-1965 (1964)
+    editors:
+      - Václav Vaněček
     year: 1966
     language: French
     pages: 200
@@ -10302,6 +10429,8 @@ titles:
     subtitle: Tagung der Wissenschaftlichen Konferenz des Archäologischen Instituts der Tschechoslowakischen Akademie der Wissenschaften, Brno-Nitra; 1.-4. X. 1963. Redaktion František Graus, Jan Filip u. Antonín Dostál
     authors:
       - Tagung der Wissenschaftlichen Konferenz über das Grossmährische Reich, Brünn-Nitra 1963
+    editors:
+      - Antonín Dostal
     year: 1966
     language: German
     pages: 433
@@ -10349,6 +10478,8 @@ titles:
   - title: Dějiny francouzské literatury 19. a 20. stol
     authors:
       - Jan Otakar Fischer
+    editors:
+      - Jan Otokar Fischer
     year: 1966
     edition: '[1.vyd.]'
     series: Československá akademie věd. Dějiny světových literatur, sv. 1, 4-5
@@ -10517,6 +10648,9 @@ titles:
     edition: '[Vyd. 1.]'
   - title: Dokumenty z historie československé politiky 1939-1943. - Acta occupationis Bohemiae et Moraviae... Kvydání připravily Libuše Otáhalová a Milada Červinková
     authors: []
+    editors:
+      - Milada ervinkova
+      - Libuše Otáhalová
     year: 1966
     language: Czech
     sources:
@@ -10714,6 +10848,9 @@ titles:
     subtitle: Proceedings
     authors:
       - Symposium on the Mutational Process Prague 1965
+    editors:
+      - Marta Vojtíšková
+      - Vladimír Zelený
     year: 1966
     series: Symposia ČSAV
     language: English
@@ -10985,6 +11122,8 @@ titles:
     subtitle: 'Actes de la réunion à Prague du 13 au 18 septembre 1965 = Applied geography in the world: proceedings of the Prague meeting, 13th to 18th September, 1965'
     authors:
       - International Geographical Union. Commission on Applied Geography
+    editors:
+      - Miroslav Střída
     year: 1966
     language: English
     pages: 194
@@ -11106,6 +11245,8 @@ titles:
     subtitle: Proceedings
     authors:
       - Symposium on the Mutational Process (1965 Prague)
+    editors:
+      - Zdeněk Landa
     year: 1966
     series: Symposia ČSAV
     language: English
@@ -11152,6 +11293,10 @@ titles:
   - title: Microbial Transformations of Steroids
     authors:
       - Alois Čapek
+    translators:
+      - O. Macek
+      - L. Urbánek
+      - O. Hanč
     year: 1966
     series: Biologia Et Industria
     language: English, Czech
@@ -11190,6 +11335,8 @@ titles:
     series: Symposia CSAV
     authors:
       - Robert Hončariv
+    editors:
+      - Robert Honc̆ariv
     year: 1966
     language: English
     sources:
@@ -11375,6 +11522,8 @@ titles:
   - title: Petr Chelčický. Drobné spisy. O boji duchovním. O církvi svaté. O trojiem lidu řeč. Replika proti Mikuláši Biskupcovi. K vydání přípravil a úvod napsal Eduard Petrů
     authors:
       - Petr Chel ický
+    editors:
+      - Eduard Petrů
     year: 1966
     language: Czech
     sources:
@@ -11417,6 +11566,7 @@ titles:
     subtitle: Obecné otázky
     authors:
       - Oskar Lange
+    translators:
       - Ivan Figura
     year: 1966
     language: Czech
@@ -11562,6 +11712,8 @@ titles:
     verified: true
   - title: Přiruční slovník naučný. Hlavní redaktor Vladimír Procházka
     authors: []
+    editors:
+      - Vladimír Procházka
     year: 1966
     language: Czech
     sources:
@@ -11664,6 +11816,8 @@ titles:
   - title: Proceedings
     authors:
       - G. Mendel Memorial Symposium, 1865-1965 (1965 Brno, Czechoslovakia)
+    editors:
+      - Milan Sosna
     year: 1966
     series: Symposia CSAV
     language: English
@@ -11732,6 +11886,7 @@ titles:
         url: https://search.worldcat.org/title/10144506
     verified: true
   - title: Rigidity and Strength of Steel Parts
+    original_title: Tuhost a pevnost ocelových částí
     authors:
       - Jaroslav Nemec
     year: 1966
@@ -11750,6 +11905,8 @@ titles:
   - title: Rukověť humanistického básnictví v Čechách a na Moravě
     authors:
       - Josef Hejnic
+    editors:
+      - Antonín Truhlár̆
     year: 1966
     language: Czech
     sources:
@@ -11924,6 +12081,8 @@ titles:
     authors:
       - Ústav pro českou a světovou literaturu
       - Československá akademie věd
+    editors:
+      - Josef Kurz
     year: 1966
     language: Czech
     sources:
@@ -12216,6 +12375,8 @@ titles:
     subtitle: Logický základ teorie jazyka, O pojmu "gramatické pravidlo."
     authors:
       - Noam Chomsky
+    translators:
+      - Zdeněk Hlavsa
     year: 1966
     edition: '[Vyd. 1.]'
     language: Czech
@@ -12252,6 +12413,11 @@ titles:
   - title: Teorie ekonomického růstu a soudobý kapitalismus
     authors:
       - Józef Zawadzki
+    editors:
+      - Aleksander Łukaszewicz
+    translators:
+      - Miroslav Rumler
+      - Lumír Smetana
     year: 1966
     edition: '[Vyd. 1.]'
     language: Czech
@@ -12306,6 +12472,8 @@ titles:
   - title: The Oresteia [ @ ] of Aeschylus. Edited with an Introduction and Commentary, in Which Is Included the Work of the Late Walter Headlam, by George Thomson,... New Edition
     authors:
       - Eschyle
+    editors:
+      - George Derwent Thomson
     year: 1966
     language: English
     sources:
@@ -12315,6 +12483,8 @@ titles:
   - title: The Oresteia of Aeschylus
     authors:
       - Aeschylus
+    editors:
+      - George Derwent Thomson
     year: 1966
     edition: New ed., rev. and enl
     language: English
@@ -12355,6 +12525,9 @@ titles:
     subtitle: Proceedings
     authors:
       - Symposium on the Mutational Process Prague 1965
+    editors:
+      - Margita Kohoutová
+      - Josef Hubáček
     year: 1966
     series: Symposia ČSAV
     language: English
@@ -12374,6 +12547,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/009494221
     verified: true
   - title: Theory of a Lens-Shaped Cable Roof Anchored in Plane Ring
+    original_title: Teorie lanové střechy ve tvaru čočky upnuté v rovinném věnci
     authors:
       - Vladimír Březina
     year: 1966
@@ -12394,6 +12568,8 @@ titles:
     subtitle: Proceedings
     authors:
       - Summer School on the Theory of Crystal Defects (1964 Hrazany (Středočeský kraj, Czechoslovakia))
+    editors:
+      - Boris Gruber
     year: 1966
     language: English
     pages: 415
@@ -12434,6 +12610,8 @@ titles:
   - title: Topological Spaces
     authors:
       - Eduard Čech
+    editors:
+      - Zdeněk Frolik
     year: 1966
     language: English
     pages: 893
@@ -12452,6 +12630,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=448393026
     verified: true
     subtitle: (Czechoslov. Acad. Of Sciences); Rev. by Zdeněk Frolik and Miroslav Katětov
+    original_title: Topologiché prostory
   - title: Topological Spaces. Rev. by Zdeněk Frolík and Miroslav Katětov
     authors:
       - Eduard Čech
@@ -12846,6 +13025,8 @@ titles:
   - title: Algebraic Methods of Mathematical Logic
     authors:
       - Ladislav Rieger
+    translators:
+      - Michael Basch
     year: 1967
     language: English
     pages: 210
@@ -12908,6 +13089,10 @@ titles:
   - title: Asafjevova teorie intonace, její geneze a význam
     authors:
       - Jaroslav Jiránek
+    translators:
+      - Markéta Královcová
+      - A. Koštál
+      - V. Vit
     year: 1967
     language: Czech
     sources:
@@ -12950,6 +13135,9 @@ titles:
   - title: Brachiopoda of the Suborder Strophomenidina in Czechoslovakia
     authors:
       - Vladimír Havlíček
+    translators:
+      - Jana Košáková
+      - Dagmar Losertová
     year: 1967
     series: Rozpravy Ústředního Ústavu Geologického
     language: English
@@ -12977,6 +13165,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=094316899
     verified: true
   - title: Catalogue of Galactic Planetary Nebulae
+    original_title: Katalog galaktických planetárních mlhovin
     authors:
       - Luboš Perek
       - Luboš Kohoutek
@@ -13180,6 +13369,8 @@ titles:
     series: Czechoslovak Academy of Sciences
     authors:
       - Československá akademie věd
+    editors:
+      - Joroslav Pluhař
     year: 1967
     language: English
     sources:
@@ -13347,6 +13538,8 @@ titles:
     authors:
       - Jan Garewicz
       - Irena Michňáková
+    editors:
+      - Irena Michnáková
     year: 1967
     language: German
     pages: 593
@@ -13369,6 +13562,9 @@ titles:
     subtitle: Studien des polnisch-tschechoslowakischen geschichtsphilosophischen Symposiums, Warschau vom 1.-5. Dezember 1964
   - title: 'Der Streit um Hegel bei den Slawen. Studien anlässlich des polnisch-tchechoslowakischen geschichtsphilosophischen Symposium, Warschau, 1.-5. Dezember 1964. Wissenschaftliche Redakteure: Karel Kosik,... Josef Zumr,... Editoren: Jan Garewicz, Irena Michnakova,...'
     authors: []
+    editors:
+      - Jan Garewicz
+      - Irena Michňáková
     year: 1967
     language: German
     sources:
@@ -13448,6 +13644,8 @@ titles:
     authors:
       - Antonín Sova
       - František Xaver Šalda
+    editors:
+      - Josef Zika
     year: 1967
     language: Czech
     sources:
@@ -13501,6 +13699,8 @@ titles:
     subtitle: Proceedings of the 4th General Meeting. Edited by Miroslav Macka
     authors:
       - International Geographical Union. Commission on Methods of Economic Regionalization
+    editors:
+      - Miroslav Macka
     year: 1967
     language: English
     pages: 271
@@ -13776,6 +13976,8 @@ titles:
       - Československá akademie věd
       - Ústav experimentálni biologie a genetiky (Ceskoslovenská akademie ved)
       - Symposium on the Mutational Process Prague 1965
+    editors:
+      - Milan Hašek
     year: 1967
     series: Symposia ČSAV
     language: English
@@ -13831,6 +14033,9 @@ titles:
     subtitle: Pracovní motivy ve starých vyobrazeních
     authors:
       - Václav Husa
+    editors:
+      - Josef Petráň
+      - Alena Šubrtová
     year: 1967
     edition: '[1. české vyd.]'
     language: Czech
@@ -14044,6 +14249,8 @@ titles:
   - title: K problemům psychologie osobnosti
     subtitle: Sborník vybraných příspěvků z 2. sjezdu Československé psychologické společnosti při ČSAV
     authors: []
+    editors:
+      - Valdimír Tardy
     year: 1967
     language: Czech
     pages: 278
@@ -14084,6 +14291,8 @@ titles:
     authors:
       - Jaromír Neumann
       - Obrazárna Pražského Hradu
+    translators:
+      - Konstantin Jelinek
     year: 1967
     language: Czech
     sources:
@@ -14109,6 +14318,10 @@ titles:
   - title: Les méthodes directes en théorie des équations elliptiques
     authors:
       - Jindřich Nečas
+    translators:
+      - Jean Dhombres
+      - M. Maillé
+      - Philippe Robba
     year: 1967
     language: French
     pages: 351
@@ -14130,6 +14343,10 @@ titles:
   - title: Les Méthodes directes en théorie des équations elliptiques, par Jindřich Nečas. Traduction française révisée par J. Dhombres, M. Maillé et P. Robba
     authors:
       - Jindřich Nec̆as
+    translators:
+      - Jean Dhombres
+      - M. Maillé
+      - Philippe Robba
     year: 1967
     language: French
     sources:
@@ -14170,6 +14387,8 @@ titles:
       - Zdeněk Landa
       - Ústav experimentální botaniky ČSAV
       - Symposium on the Mutational Process (1965 Praha)
+    editors:
+      - Zdenĕk Landa
     year: 1967
     series: Symposia CSAV
     language: English
@@ -14190,6 +14409,7 @@ titles:
     verified: true
   - title: Mezinárodní ekonomická integrace
     subtitle: Úvod do teorie
+    original_title: International Economic Integration
     authors:
       - Josef Sládek
     year: 1967
@@ -14442,6 +14662,8 @@ titles:
   - title: Ota Šik. Plan and Market Under Socialism. Plán a Trh Za Socialismu. Translated by Eleanor Wheeler
     authors:
       - Ota Šik
+    translators:
+      - Eleanor Wheeler
     year: 1967
     language: English
     sources:
@@ -14514,6 +14736,8 @@ titles:
     series: Czechoslovak Academy of Sciences
     authors:
       - Ota Šik
+    translators:
+      - Eleanor Wheeler
     year: 1967
     language: English
     sources:
@@ -14525,6 +14749,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=45086359X
     verified: true
     subtitle: (Czechoslovak Acad. Of Sciences); (Transl. Eleanor Wheeler)
+    original_title: K Problematice socialistických zbožních vztahů
   - title: Policejní a soudní perzekuce dělnické třídy v druhé polovinč 19. století v Čechách
     authors:
       - Karel Malý
@@ -14678,6 +14903,8 @@ titles:
     verified: true
   - title: Přiruční slovník naučný. Hlavní redaktor Vladimír Procházka
     authors: []
+    editors:
+      - Vladimír Procházka
     year: 1967
     language: Czech
     sources:
@@ -14688,6 +14915,8 @@ titles:
     subtitle: Jaroslav Hájek [and] Václav Dupac. Translated by Michal Basch [and] Jaroslav Hájek
     authors:
       - Jaroslav Hájek
+    translators:
+      - Mical Basch [
     year: 1967
     language: English
     pages: 120
@@ -14820,6 +15049,10 @@ titles:
   - title: Science in Czechoslovakia and the Czechoslovak Academy of Sciences
     authors:
       - Československá akademie věd
+    translators:
+      - Karel Fink
+      - Sylvia Finková
+      - Karel Mayer
     year: 1967
     language: English
     pages: 190
@@ -14944,8 +15177,11 @@ titles:
     verified: true
   - title: Soudobý kapitalismus
     subtitle: Ekonomické črty
+    original_title: Kapitalizm współczesny, szkice ekonomiczne
     authors:
       - Józef Zawadzki
+    translators:
+      - Lumír Smetana
     year: 1967
     language: Czech
     sources:
@@ -15044,6 +15280,8 @@ titles:
     subtitle: Proceedings of a Symposium Held in Brno, 4. - 7. 8. 1965 and in Prague in August 9 - 11, 1965; G. Mendel Memorial Symposium
     authors:
       - Československá akademie věd
+    editors:
+      - Robert Hončariv
     year: 1967
     language: English
     sources:
@@ -15165,8 +15403,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=417304285
     verified: true
   - title: Teorie vývoje kapitalismu
+    original_title: The theory of capitalist development
     authors:
       - Paul Marlor Sweezy
+    translators:
       - Zdeněk Madar
     year: 1967
     language: Czech
@@ -15217,6 +15457,8 @@ titles:
       - Margita Kohoutová
       - Mikrobiologický ústav (Československá akademie věd). Oddeleni mikrobiologické genetiky
       - Symposium on the Mutational Process (1965 Praha)
+    editors:
+      - Ivan Malek
     year: 1967
     series: Symposia CSAV
     language: English
@@ -15249,6 +15491,8 @@ titles:
   - title: The Picture Gallery of Prague Castle
     authors:
       - Jaromi r. Neumann
+    translators:
+      - Till Gottheinerová
     year: 1967
     series: Art Treasures of Prague Castle -- 1
     language: English
@@ -15582,6 +15826,8 @@ titles:
     subtitle: Konferenz über die Prager deutsche Literatur
     authors:
       - Konferenz über die Prager Deutsche Literatur Liblice 1965
+    editors:
+      - Eduard Goldstücker
     year: 1967
     language: German
     pages: 430
@@ -15774,6 +16020,8 @@ titles:
     subtitle: '[Poř.] Mezin. komitét slavistů a Čs. komitét slavistů'
     authors:
       - International Congress of Slavists (6th 1968 Prague)
+    editors:
+      - Bohuslav Havránek
     year: 1968
     edition: 1. vyd
     language: Czech, Multiple languages
@@ -15845,6 +16093,9 @@ titles:
     subtitle: Acta congressus internationalis habiti Brunae diebus 12-16 mensis Aprilis MCMLXVI
     authors:
       - Congressus internationalis Antiquitas Graeco-Romana ac tempora nostra, Brünn, 1966
+    editors:
+      - Jan Burian
+      - Ladislav Vidman
     year: 1968
     language: Latin
     pages: 585
@@ -15876,6 +16127,9 @@ titles:
   - title: Antiquitas graeco-romana ac tempora nostra, acta Congressus internationalis habiti Brunae diebus 12-16 mensis Aprilis 1966. Edendum curaverunt Jan Burian et Ladislav Vidman
     authors:
       - Congressus internationalis antiquitas graeco-romana ac tempora nostra
+    editors:
+      - Jan Burian
+      - Ladislav Vidman
     year: 1968
     language: Latin
     sources:
@@ -16085,6 +16339,8 @@ titles:
   - title: C̕inoherní divadlo v C̕eskoslovenské republice a za nacistické okupace
     authors:
       - Divadelní ústav
+    editors:
+      - František Černý
     year: 1968
     language: Czech
     sources:
@@ -16121,6 +16377,8 @@ titles:
   - title: Control Mechanisms of Lipid Mobilization from Adipose Tissue
     authors:
       - Bedřich Mosinger
+    translators:
+      - Kateřina Ošancová
     year: 1968
     series: Rozpravy Československé Akademie Věd. Řada Matematických a Přírodních Věd. Roč. 78, Seš. 5
     language: English
@@ -16290,8 +16548,13 @@ titles:
     verified: true
   - title: Dopisy Milene
     subtitle: Uspořadal, úvodni stat napsal František Kautman. Přeložila Hana Žantovska
+    original_title: Briefe an Milena
     authors:
       - Franz Kafka
+    editors:
+      - Frantisek Kautman
+    translators:
+      - Hana Zantoska
     year: 1968
     language: Czech
     pages: 261
@@ -16392,6 +16655,8 @@ titles:
       - S. Krupička
       - J. Šternberk
       - W. S. Bardo
+    editors:
+      - Svatopluk Krupička
     year: 1968
     language: English
     pages: 310
@@ -16452,6 +16717,8 @@ titles:
   - title: Etymologický slovník jazyka českého
     authors:
       - Václav Machek
+    editors:
+      - Vladimír Šmilauer
     year: 1968
     edition: 2., opr. a dopln. vyd
     language: Czech
@@ -16834,6 +17101,8 @@ titles:
     subtitle: An Eneolithic Site in Bohemia
     authors:
       - Robert W. Ehrich
+    editors:
+      - Jan Filip
     year: 1968
     series: Monumenta Archeologica. Acta Praehistorica, Protohistorica Et Historica Instituti Archeologici Academiae Scientiarum Bohemoslovacae, T. 16
     language: English
@@ -16915,6 +17184,8 @@ titles:
     subtitle: Report of the Twenty-Third Session Czechoslovakia 1968. Abstracts
     authors:
       - International Geological Congress Prague 1968
+    editors:
+      - Jan Petránek
     year: 1968
     language: English
     pages: 396
@@ -17028,6 +17299,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1857901150
     verified: true
   - title: Kapitoly z obecné algebry
+    original_title: Lekts︠i︡i po obshcheĭ algebre
     authors:
       - A. G. Kurosh
     year: 1968
@@ -17128,6 +17400,9 @@ titles:
     subtitle: Colloque international sur la mécanisation et l'automation des recherches linguistiques
     authors:
       - Colloque International sur la Mécanisation et L'automation des Recherches Linguistiques (1966 Prague, Czechoslovakia)
+    editors:
+      - Jitka Štindlová
+      - Erich Mater
     year: 1968
     series: Janua linguarum -- Series maior, 30
     language: French
@@ -17158,6 +17433,9 @@ titles:
     verified: true
   - title: 'Les Machines dans la linguistique. Colloque international sur la mécanisation et l''automation des recherches linguistiques [Prague, 7-11 juin 1966]. Rédaction: Erich Mater, Jitka Stindlová'
     authors: []
+    editors:
+      - Erich Mater
+      - Jitka Štindlová
     year: 1968
     language: French
     sources:
@@ -17726,6 +18004,8 @@ titles:
   - title: Proceedings of the Fourth Conference on Nonlinear Oscillations
     authors:
       - Conference on Nonlinear Oscillations Prague 1967
+    editors:
+      - Jan Gonda
     year: 1968
     language: English
     pages: 609
@@ -17828,6 +18108,9 @@ titles:
   - title: Report of the Twenty-Third Session, Czechoslovakia, 1968
     authors:
       - International Geological Congress (23rd 1968 Prague, Czechoslovakia)
+    editors:
+      - Miroslav Kuthan
+      - Miroslav Malkovsky
     year: 1968
     language: English
     sources:
@@ -18170,6 +18453,8 @@ titles:
     authors:
       - Milan Kudělka
       - Ústav dějin evropských socialistických zemí (Československá akademie věd)
+    editors:
+      - Ondrej Rodmil Halaga
     year: 1968
     edition: Vyd.1
     series: Československá akademie věd. Ústav dějin evropských socialistických zemí. Slovanské historické studie -- 7
@@ -18235,6 +18520,8 @@ titles:
     edition: '[1. vyd.]'
   - title: Smutní kavaleři o lásce, z české milostné poezie 17. století. K vydání připravila Zdeňka Tichá, úvod napsal Josef Hrabák
     authors: []
+    editors:
+      - Zdeńka Ticha
     year: 1968
     language: Czech
     sources:
@@ -18244,6 +18531,10 @@ titles:
   - title: Social Stratification in Tribal Africa
     authors:
       - Ladislav Holy
+    editors:
+      - Ladislav Holý
+    translators:
+      - Joy Turner--Kadeckova
     year: 1968
     language: English
     pages: 203
@@ -18267,6 +18558,8 @@ titles:
     edition: 1st ed.]
   - title: Social Stratification in Tribal Africa. Translated by Joy Turner-Kadečkova
     authors: []
+    translators:
+      - Joy Turner-Kadečková
     year: 1968
     language: English
     sources:
@@ -18296,6 +18589,8 @@ titles:
     subtitle: Its Use in the Laboratory and in Technology
     authors:
       - Jaromír Plešek
+    translators:
+      - Karel Mayer
     year: 1968
     language: English
     pages: 185
@@ -18338,6 +18633,8 @@ titles:
     subtitle: Úv. stati, soupis pramenů a zkratek
     authors:
       - Ústav pro jazyk český ČSAV
+    editors:
+      - Bohuslav Havránek
     year: 1968
     edition: 1. vyd
     language: Czech
@@ -18440,6 +18737,8 @@ titles:
   - title: Surge Phenomena in Electrical Machines
     authors:
       - Bedřich Heller
+    translators:
+      - Arnos̆t Jappel
     year: 1968
     language: English
     pages: 501
@@ -18456,6 +18755,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=409577200
     verified: true
     subtitle: Heller, Bedřich, Antonín Veverka; Czechoslov. Acad. Of Sciences; (Transl. Arnošt Jappel)
+    original_title: Rázové jevy v elektrických strojich
   - title: Tajný výbor [MAFFIE] a spolupráce s Jihoslovany v letech 1916-1918
     authors:
       - Milada Paulova
@@ -18597,6 +18897,10 @@ titles:
     authors:
       - Johann Wolfgang von Goethe
       - Jan Evangelista Purkyně
+    editors:
+      - Vladislav Kruta
+    translators:
+      - Lidmila Pantůčková
     year: 1968
     language: English
     sources:
@@ -18694,6 +18998,7 @@ titles:
     authors:
       - Oskar Lange
       - Antoni Banasiński
+    translators:
       - Jaroslav Rohlena
     year: 1968
     language: Czech
@@ -19278,6 +19583,8 @@ titles:
     subtitle: Proceedings. Edited by I. Málek [and Others]
     authors:
       - International Symposium on Continuous Cultivation of Microorganisms 4th Prague, 1968
+    editors:
+      - Ivan Málek
     year: 1969
     language: English
     pages: 651
@@ -19443,6 +19750,8 @@ titles:
     subtitle: 'Vědecký redaktor Antonín Škarka. Vydali: Jiří Daňhelka [et al.]'
     authors:
       - Johann Amos Comenius
+    editors:
+      - Antonín Škarka
     year: 1969
     edition: '[Vyd. 1.]'
     language: Czech
@@ -19496,6 +19805,7 @@ titles:
     verified: true
   - title: Economic Growth in Czechoslovakia
     subtitle: An Introduction to the Theory of Economic Growth Under Socialism, Including an Experimental Application of Kalecki's Model to Czechoslovak Statistical Data
+    original_title: Hospodářský r°ust V ČSSR
     authors:
       - Josef Goldmann
       - Karel Kouba
@@ -19811,7 +20121,8 @@ titles:
     verified: true
   - title: J.E. Purkyně, 1787-1869, Physiologist
     subtitle: A Short Account of His Contributions to the Progress of Psyciology with a Bibliography of His Works
-    authors:
+    authors: []
+    translators:
       - Vladislav Kruta
     year: 1969
     language: English
@@ -20070,6 +20381,9 @@ titles:
   - title: Marina Cvetaeva. Pisʹma k A. Teskovoj. K izdaniû podgotovil V. Morkovin. Naučnyj redaktor Z. Matgauzer. Vstupitelʹnye statʹi Z. Matgauzera i V. Morkovina
     authors:
       - Marina Ivanovna Cvetaeva
+    editors:
+      - Vadim V. Morkovin
+      - Zdenek Matgauzer
     year: 1969
     language: Russian
     sources:
@@ -20253,6 +20567,7 @@ titles:
     subtitle: Jev a podstata hospodářského rozvoje
     authors:
       - Ferenc Jánossy
+    translators:
       - Jiří Kosta
       - Anna Červenková
     year: 1969
@@ -20463,8 +20778,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb35039816f
     verified: true
   - title: Point Sets
+    original_title: Bodové množiny
     authors:
       - Eduard Čech
+    translators:
+      - Alois Pultr
     year: 1969
     language: English
     pages: 271
@@ -20511,6 +20829,9 @@ titles:
   - title: Pravidla českého pravopisu
     authors:
       - Ústav pro jazyk český ČSAV
+    editors:
+      - Bohuslav Havránek
+      - František Trávníček
     year: 1969
     edition: 5. vyd
     language: Czech
@@ -20533,6 +20854,9 @@ titles:
   - title: Pravidla českého pravopisu. 5. vyd. za vedení Bohuslava Havranka a Františka Trávnička
     authors:
       - Ústav pro jazyk český
+    editors:
+      - Bohuslav Havránek
+      - František Trávníček
     year: 1969
     language: Czech
     sources:
@@ -20706,6 +21030,8 @@ titles:
   - title: Proceedings of the 7th International Conference on Condensation and Ice Nuclei, September 18-24, 1969, Prague and Vienna
     authors:
       - International Conference on Condensation and Ice Nuclei (7th 1969 Prague, Czechoslovakia and Vienna, Austria)
+    editors:
+      - Josef Podzimek
     year: 1969
     language: English
     pages: 461
@@ -20735,6 +21061,8 @@ titles:
     subtitle: 'Fondy a sbírky uložené v Čechách. Zpracovali: Jaroslav Bužga [et al.] Redigoval Jan Kouba'
     authors:
       - Československá akademie věd. Ústav pro hudební vědu
+    editors:
+      - Jaroslav Bužga
     year: 1969
     edition: '[Vyd. 1.]'
     language: Czech
@@ -20749,6 +21077,8 @@ titles:
     verified: true
   - title: Průvodce po pramenech k dějinám hudby, fondy a sbírky uložené v Čechách. Zpracovali Jaroslav Bužga, Jan Kouba, Eva Mikanová a Tomislav Volek, redigoval Jan Kouba
     authors: []
+    editors:
+      - Jan Kouba
     year: 1969
     language: Czech
     sources:
@@ -20814,6 +21144,8 @@ titles:
     subtitle: Proceedings of Symposium II
     authors:
       - Miroslav Malkovsky
+    editors:
+      - Josef Vachtl
     year: 1969
     language: English
     sources:
@@ -21331,6 +21663,8 @@ titles:
   - title: Tomáš ze Štítného. Sborník vyšehradský. O bojování hřiechóv s šlechtnostmi, o sedmi duchovnieho stavu vstupních, o korábi Noemově, o domu duchovniem. Vydal František Ryšánek
     authors:
       - Tomáš Štítný ze Štítného
+    editors:
+      - František Ryšánek
     year: 1969
     language: Czech
     sources:
@@ -21571,6 +21905,8 @@ titles:
   - title: Anglicko-Ćeský Slovník S Dodatky
     authors:
       - Antonín Osička
+    editors:
+      - Ivan Poldauf
     year: 1970
     edition: 4.,opr. a rozš. vyd
     language: English
@@ -21605,6 +21941,8 @@ titles:
     authors:
       - Jan Amos Komenský
       - Jaromír Červenka
+    editors:
+      - Jaromír Cervenka
     year: 1970
     language: Czech
     sources:
@@ -21720,6 +22058,7 @@ titles:
         url: https://d-nb.info/363878734
     verified: true
   - title: Biegungstheorie der Sandwich-Platten
+    original_title: Teorie ohybu sendvičových desek
     authors:
       - Věra Dundrová
       - Václav Kovařík
@@ -21791,6 +22130,8 @@ titles:
     edition: 1. Vyd
   - title: 'České umění gotické, 1350-1420 / vědecký redaktor... Jaroslav Pešina,... [napsali: F. Kavka, J. Pešina, J. Homolka, V. Kotrba etc.]; Československá akademia věd'
     authors: []
+    editors:
+      - Jaroslav Pešina
     year: 1970
     language: Czech
     sources:
@@ -21899,6 +22240,8 @@ titles:
   - title: Deterioration of Electrical Equipment in Adverse Environments
     authors:
       - Miroslav Rychtera
+    editors:
+      - E. W. Firth
     year: 1970
     language: English
     pages: 190
@@ -22068,6 +22411,8 @@ titles:
     series: Rozpravy Ceskoslovenské Akademie ved. Rada spolec. ved; 80,7
     authors:
       - Anežka Merhautová
+    translators:
+      - Marie Anna Kotrbová
     year: 1970
     language: German
     sources:
@@ -22213,6 +22558,8 @@ titles:
   - title: Integrace zemědělství Evropského hospodářského společenství
     subtitle: Ekonomický růst--státní intervence--společny trh
     authors: []
+    editors:
+      - Zdeněk Bednařik
     year: 1970
     edition: 1. vyd
     language: Czech
@@ -22399,6 +22746,8 @@ titles:
     authors:
       - Josef V. Polišenský
       - František Šmahel
+    editors:
+      - Josef Polišenský
     year: 1970
     edition: 1. vyd
     language: Czech
@@ -23130,6 +23479,7 @@ titles:
     series: Rozpravy Ústředního Ústavu Geologického; 35
     authors:
       - Ivan Cicha
+    translators:
       - Helena Zárubová
     year: 1970
     language: English
@@ -23266,6 +23616,8 @@ titles:
     verified: true
   - title: U základu pražské jazykovědné školy, k vydání připravil... Josef Vachek
     authors: []
+    editors:
+      - Josef Vachek
     year: 1970
     language: Czech
     sources:
@@ -23325,6 +23677,8 @@ titles:
     authors:
       - International Committee of Slavists
       - Mezinárodní Sjezd Slavistů
+    editors:
+      - Miroslav Drozda
     year: 1970
     language: Czech
     sources:
@@ -23462,6 +23816,8 @@ titles:
     subtitle: 'Proceedings. Edited by Vladimír v. Novotný. Introduction: V. Fetter'
     authors:
       - Anthropological Congress, Prague and Humpolec, Czechoslovak Republic 1969
+    editors:
+      - Vladimír V. Novotný
     year: 1971
     language: English
     pages: 584
@@ -23682,6 +24038,11 @@ titles:
     verified: true
   - title: 'Der Kampf um den besten Frieden: Quellen zur Geschichte des Dreissigjährigen Krieges zur Zeit der Friedensverhandlungen von Westfalen und der Ratifizierung des Friedens, 1643-1649. - 1981. - 439 p. - [16] p. de pl. ill'
     authors: []
+    editors:
+      - Josef Kocí
+      - Josef Janáček
+      - Gabriela c̕echouá
+      - Miroslav Toegel
     year: 1971
     language: German
     sources:
@@ -23690,9 +24051,12 @@ titles:
     verified: true
   - title: Der Krieg und die Gesellschaft in Europa
     subtitle: 1618 - 1648
+    original_title: Třicetiletá válka a evropské knize 17 stoleti
     series: Documenta Bohemica bellum tricennale illustrantia; Tom. I
     authors:
       - Josef Polišenský
+    translators:
+      - Anna Urbanová
     year: 1971
     language: German
     sources:
@@ -23787,6 +24151,11 @@ titles:
       - Josef PhDr Kočí
       - Josef V. Polišenský
       - Gabriela Čechová
+    editors:
+      - Josef Kocí
+      - Josef Janáček
+      - Gabriela c̕echouá
+      - Miroslav Toegel
     year: 1971
     language: German
     sources:
@@ -23879,6 +24248,8 @@ titles:
       - Katěrina Ošancová
       - Zdeněk Mařatka
       - Antonín Krondl
+    translators:
+      - Katerina Osancová
     year: 1971
     language: English
     sources:
@@ -23965,6 +24336,8 @@ titles:
     subtitle: Proceedings of the Kanpur Topological Conference, 1968
     authors:
       - Symposium on General Topology and Its Relations to Modern Algebra (1968 Kanpur)
+    editors:
+      - Josef P. Novák
     year: 1971
     language: English
     pages: 332
@@ -24012,6 +24385,11 @@ titles:
   - title: Geography of Czechoslovakia
     authors:
       - Jaromír Demek
+    editors:
+      - Zdeněk Hoffmann
+    translators:
+      - Věra Dittrichová
+      - Lawrence G. Winter
     year: 1971
     language: English
     sources:
@@ -24045,6 +24423,9 @@ titles:
     authors:
       - Jaromír Demek
       - Miroslav Střída
+    editors:
+      - Vera Dittrichova
+      - Lawrence G. Winter
     year: 1971
     language: English
     sources:
@@ -24054,6 +24435,8 @@ titles:
   - title: Geology of Recent Sediments
     authors:
       - Zdeněk Kukal
+    translators:
+      - Helena Zárubová
     year: 1971
     language: English
     pages: 490
@@ -24173,6 +24556,7 @@ titles:
         url: https://search.worldcat.org/title/3379378
     verified: true
   - title: Jazyk
+    original_title: Sproget
     authors:
       - Louis Hjelmslev
       - Miloš Dokulil
@@ -24361,6 +24745,8 @@ titles:
     subtitle: '[Soubor statí]'
     authors:
       - Jaromír Jech
+    editors:
+      - Olga Skalníková
     year: 1971
     edition: 1. vyd
     language: Czech
@@ -24564,6 +24950,8 @@ titles:
     subtitle: Proceedings of the Symposiumheld in Prague, April 1-2, 1970
     authors:
       - International Symposium on Nonshivering Thermogenesis (1st 1970 Prague)
+    editors:
+      - Ladislav Janský
     year: 1971
     language: English
     sources:
@@ -24699,6 +25087,8 @@ titles:
     subtitle: Sborník studií a materiálových statí hudebně historických
     authors:
       - Československá akademie věd
+    editors:
+      - Jaroslav Jiránek
     year: 1971
     language: Czech
     sources:
@@ -24982,6 +25372,8 @@ titles:
   - title: Soubor zvukových dokumentů k I .-IV. svazku
     authors:
       - Divadelní ústav
+    editors:
+      - František Černý
     year: 1971
     language: Czech
     sources:
@@ -25012,8 +25404,11 @@ titles:
         url: https://openlibrary.org/books/OL18436664M
     verified: true
   - title: Sparta and Her Social Problems
+    original_title: Sparta a její sociální problémy
     authors:
       - Pavel Oliva
+    translators:
+      - Iris Urwin-Lewitová
     year: 1971
     language: English
     sources:
@@ -25032,6 +25427,8 @@ titles:
   - title: Sparta and Her Social Problems. [Sparta a Její Sociální Problémy, Translated by Iris Urwin-Lewitova]. Pavel Oliva
     authors:
       - Pavel Oliva
+    translators:
+      - Iris Lewitová
     year: 1971
     language: English
     sources:
@@ -25403,6 +25800,8 @@ titles:
   - title: Trends of Private International Law
     authors:
       - Pavel Kalenský
+    translators:
+      - Ivo Dvorák
     year: 1971
     language: English
     pages: 308
@@ -25419,6 +25818,8 @@ titles:
   - title: Trends of Private International Law. Translation by Ivo Dvořák
     authors:
       - Pavel Kalenský
+    translators:
+      - Ivo Dvořák
     year: 1971
     language: English
     sources:
@@ -25813,6 +26214,8 @@ titles:
   - title: Classification of the West Greek Dialects at the Time About 350 B.C
     authors:
       - Antonín Bartoněk
+    translators:
+      - Samuel Kostomlatský
     year: 1972
     language: English
     sources:
@@ -25930,6 +26333,8 @@ titles:
     subtitle: 'Autor: kol'
     authors:
       - Československá akademie věd
+    editors:
+      - Robert Smetana
     year: 1972
     edition: 1. Vyd
     language: Czech
@@ -25952,6 +26357,8 @@ titles:
     series: Documenta Bohemica Bellum Tricennale illustrantia; Vol. 2
     authors:
       - Josef Polišenský
+    translators:
+      - Anna Urbanová
     year: 1972
     language: German
     sources:
@@ -25971,6 +26378,7 @@ titles:
     series: 'Documenta Bohemica bellum tricennale illustrantia / Hauptred.: Josef Koči ..; 2'
     authors:
       - Miroslav Toegel
+    translators:
       - Anna Urbanová
     year: 1972
     language: German
@@ -26019,6 +26427,7 @@ titles:
   - title: Die Prager Burg zur Zeit der Přemyslidenfürsten
     authors:
       - Ivan Borkovský
+    translators:
       - Helena Plátková
     year: 1972
     language: German
@@ -26136,6 +26545,8 @@ titles:
     subtitle: Proceedings of the Third Prague Topological Symposium, 1971
     authors:
       - Symposium on General Topology and Its Relations to Modern Analysis and Algebra Prague 1971
+    editors:
+      - Josef Novak
     year: 1972
     language: English
     pages: 487
@@ -26595,6 +27006,7 @@ titles:
     verified: true
   - title: Origine et débuts des slaves
     subtitle: Recueil d'études sur les antiquités slaves
+    original_title: Vznik a počátky slovanu
     authors:
       - Josef Poulík
     year: 1972
@@ -26741,8 +27153,9 @@ titles:
   - title: Praxeologie
     authors:
       - Tadeusz Kotarbiński
-      - Pavel Materna
       - Jaroslav Kučera
+    translators:
+      - Pavel Materna
     year: 1972
     language: Czech
     sources:
@@ -26821,6 +27234,8 @@ titles:
     authors:
       - Milan Kuna
       - Jaroslav Bužga
+    editors:
+      - Jaroslav Jiránek
     year: 1972
     language: Czech
     sources:
@@ -27182,6 +27597,8 @@ titles:
   - title: Vibration of Solids and Structures Under Moving Loads
     authors:
       - Ladislav Frýba
+    translators:
+      - D. Hajšmanová
     year: 1972
     language: English
     pages: 484
@@ -27266,8 +27683,12 @@ titles:
     verified: true
   - title: Vyznání a obrana Táborů
     subtitle: 'Z lat. originálů přel. a úv. studii naps. František M. Dobiáš a Amadeo Molnár. Předml.: Robert Kalivoda'
+    original_title: 'Lydius, Balthasar: Waldensia. Rotterdam 1616. Von Lydius dem Johannes Lukawitz zugeschrieben'
     authors:
       - Mikulás z Pelhřimova
+    translators:
+      - Frantisek M. Dobiáš
+      - Amedeo Molnár
     year: 1972
     edition: 1. vyd
     series: Filosofická knihovna
@@ -27285,6 +27706,7 @@ titles:
     series: Filosofická knihovna
     authors:
       - Nicolaus
+    translators:
       - František M. Dobiáš
     year: 1972
     language: Czech
@@ -27634,6 +28056,8 @@ titles:
     subtitle: Curavit Václav Plocek
     authors:
       - Státní knihovna *CSR
+    editors:
+      - Frantisek Mužík
     year: 1973
     language: Latin
     sources:
@@ -27649,6 +28073,8 @@ titles:
   - title: Catalogus codicum notis musicis instructorum qui in Bibliotheca publica rei publicae Bohemicae socialisticae in Bibliotheca universitatis Pragensis servantur / curavit Václav Plocek; editionem redegit František Mužík
     authors:
       - Václav Plocek
+    editors:
+      - Frantisek Mužík
     year: 1973
     language: Latin
     sources:
@@ -27840,6 +28266,7 @@ titles:
     subtitle: 'Funkce více proměnných: přiručka pro vyskoé školy universitního směru'
     authors:
       - Roman Sikorski
+    translators:
       - Ilja Černý
     year: 1973
     language: Czech
@@ -27915,8 +28342,11 @@ titles:
         url: https://d-nb.info/367441047
     verified: true
   - title: Dynamics in Engineering Structures
+    original_title: Dynamíka stavebnìch konstrukcí
     authors:
       - Vladimír Z. Koloušek
+    translators:
+      - Doubravka Hajšmanová
     year: 1973
     language: English
     sources:
@@ -27963,6 +28393,10 @@ titles:
   - title: Encyklopedie antiky
     authors:
       - Ludvík Svoboda
+    editors:
+      - Ladislav Varcl
+      - Ladislav Vidman
+      - Římská a Latinská Kabinet pro Studia Řecká
     year: 1973
     language: Czech
     sources:
@@ -28025,6 +28459,8 @@ titles:
     subtitle: Slova grammatická a zájmena
     authors:
       - František Kopečný
+    editors:
+      - Bohuslav Havránek
     year: 1973
     edition: 1. vyd.]
     language: Czech
@@ -28143,6 +28579,8 @@ titles:
     series: Studie ČSAV / Československá Akademie Věd; 1973,9
     authors:
       - Karel Hůrka
+    editors:
+      - Československá akademie věd
     year: 1973
     language: German
     sources:
@@ -28198,6 +28636,9 @@ titles:
     subtitle: '[Papers]'
     authors:
       - International Symposium on the Genetics of Industrial Microorganisms Prague 1970
+    editors:
+      - Zdeněk Hošťálek
+      - Josef Cudlín
     year: 1973
     language: English
     sources:
@@ -28327,6 +28768,8 @@ titles:
   - title: Joannis Evangelistae Purkyně opera omnia
     authors:
       - Jan Evangelista Purkyně
+    editors:
+      - Vladislav Kruta
     year: 1973
     language: Czech
     sources:
@@ -28511,8 +28954,9 @@ titles:
   - title: Kvantové teorie v chemii a biologii
     authors:
       - Włodzimierz Kołos
-      - František Petrů
       - Rudolf Zahradník
+    translators:
+      - František Petrů
       - Pavel Polívka
     year: 1973
     language: Czech
@@ -28925,6 +29369,8 @@ titles:
     series: Studie ČSAV; Č. 10
     authors:
       - Denisa Blažková
+    editors:
+      - Československá akademie věd
     year: 1973
     language: German
     sources:
@@ -29000,6 +29446,9 @@ titles:
     subtitle: 'Proceedings of the International Symposium RILEM/IUPAC, Prague, September 18 to 21, 1973 = Structures Des Pores Et Propriétés Des Matériaux: Comptes Rendus du Colloque International RILEM/IUPAC, Prague, du 18 Au 21 Septembre 1973'
     authors:
       - International Symposium on Pore Structure and Properties of Materials (1973 Prague)
+    editors:
+      - S. Modry
+      - M. Svata
     year: 1973
     language: English
     sources:
@@ -29183,6 +29632,9 @@ titles:
   - title: Proceedings of the 3rd International Congress of Acarology Held in Prague (Czechoslovakia), August 31-September 6, 1971
     authors:
       - International Congress of Acarology Prague 1971
+    editors:
+      - Milan Daniel
+      - Bohumír Rosický
     year: 1973
     language: English
     pages: 837
@@ -29228,6 +29680,9 @@ titles:
     verified: true
   - title: Protocollum visitationis archidiaconatus Pragensis annis 1379-1382
     authors: []
+    editors:
+      - Ivan Hlaváček
+      - Zdeňka Hledíková
     year: 1973
     language: Latin, Czech
     sources:
@@ -29473,6 +29928,8 @@ titles:
   - title: Slovník jazyka staroslověnského
     authors:
       - Československá akademie věd
+    editors:
+      - Josef Kurz
     year: 1973
     language: Czech
     sources:
@@ -29640,6 +30097,8 @@ titles:
     authors:
       - Milan Romportl
       - Josef Vachek
+    translators:
+      - David Short
     year: 1973
     language: Czech
     sources:
@@ -29796,6 +30255,8 @@ titles:
   - title: The Ostracoda of the Klentnice Formation (Tithonian?), Czechoslovakia
     authors:
       - Vladimír Pokorný
+    translators:
+      - The Author
     year: 1973
     series: Rozpravy Ústředního Ústavu Geologického
     language: English
@@ -29911,6 +30372,8 @@ titles:
     subtitle: Soubor příspěvků z vědeckého semináře historiků-komunistǔ z 10-11. XI. 1972
     authors:
       - Celostátní seminář historiků-komunistů Prague, Czechoslovakia 1972
+    editors:
+      - Král, Václav, historian
     year: 1973
     edition: Vyd. 1. --
     language: Czech
@@ -30538,7 +31001,8 @@ titles:
     verified: false
   - title: Der Dänish-Niederdeutsche Krieg un der Austieg Wallensteins
     subtitle: Quellen zur Geschichte der Kriegsereignisse der Jahre 1625-1630
-    authors:
+    authors: []
+    translators:
       - Anna Urbanová
     year: 1974
     language: German
@@ -30582,6 +31046,8 @@ titles:
   - title: Die Lausitzer Urnenfelderkultur in Ostmähren
     authors:
       - Vít Dohnal
+    editors:
+      - Archeologický ústav
     year: 1974
     edition: Vyd. 1
     series: Studie Archeologického ústavu Československé akademie věd v Brně; roč. 2/1973, sv. 3
@@ -30709,6 +31175,7 @@ titles:
     series: Czechoslovak Academy of Sciences
     authors:
       - Milan Loos
+    translators:
       - Iris Lewitová
     year: 1974
     language: English
@@ -30911,6 +31378,9 @@ titles:
   - title: Iohannis Milicii de Cremsir Tres sermones synodales
     authors:
       - Jan Milíč z Kroměříže
+    editors:
+      - Vilém Herold
+      - Milan Mráz
     year: 1974
     edition: 1. vyd. --
     language: Latin
@@ -30932,6 +31402,8 @@ titles:
     series: Johannis Amos Comenii opera omnia; 14
     authors:
       - Jan Amos Komenský
+    editors:
+      - Ludvík Svoboda
     year: 1974
     language: Czech
     sources:
@@ -30974,6 +31446,9 @@ titles:
   - title: Johannis Milicii de Cremsir Tres sermones synodales = Jana Milíče z Kroměřiže Tři řeči synodní / Vilém Herold - Milan Mráz; Československá akademie věd, Ústav pro filosofii a sociologii, filosofická sekce
     authors:
       - Jan Milíč z Kroměříže
+    editors:
+      - Milan Mráz
+      - Vilém Herold
     year: 1974
     language: Not recorded
     sources:
@@ -31394,6 +31869,9 @@ titles:
   - title: Pravidla českého pravopisu
     authors:
       - Ústav pro jazyk český ČSAV
+    editors:
+      - Bohuslav Havránek
+      - František Trávníček
     year: 1974
     edition: 6. vyd
     language: Czech
@@ -31440,6 +31918,8 @@ titles:
     series: Johannis Amos Comenii opera omnia; 18
     authors:
       - Jan Amos Komenský
+    editors:
+      - Ludvík Svoboda
     year: 1974
     language: Czech
     sources:
@@ -31464,6 +31944,7 @@ titles:
     verified: true
   - title: Prognózování kapitalistické ekonomiky
     subtitle: Metodologické problémy
+    original_title: Prognozirovanie kapitalističeskoj ėkonomiki. Problemy metodologii
     authors:
       - A. I. Shapiro
     year: 1974
@@ -31578,6 +32059,8 @@ titles:
     authors:
       - Jan Amos Komenský
       - Oldřich Říha
+    editors:
+      - Oldrich Ríha
     year: 1974
     language: Czech
     sources:
@@ -31921,6 +32404,8 @@ titles:
     subtitle: The third Conference of the Czechoslovak Physicists, Olomouc, 12.-14.9.1973
     authors:
       - Pracovna konferencia československých fyzikov Olomouc, Czechoslovakia 1973
+    editors:
+      - Miloš Matyáš
     year: 1974
     edition: Vyd. 1
     language: Czech
@@ -32119,10 +32604,13 @@ titles:
         url: https://catalog.hathitrust.org/Record/002014933
     verified: true
   - title: A Functional Analysis of Present Day English on a General Linguistic Basis
+    original_title: Obsahový rozbor současné angličtiny na źakladě obecně linguistickém
     authors:
       - Vilém Mathesius
       - Josef Vachek
       - Libuše Dušková
+    translators:
+      - Lisbuse Duskova
     year: 1975
     language: English
     sources:
@@ -32184,6 +32672,8 @@ titles:
     subtitle: Proceedings of the 6th International Congress of Speleology, Olomouc, ČSSR
     authors:
       - International Speleological Congress (6th 1973 Olomouc, Czechoslovakia)
+    editors:
+      - Vladimír Panoš
     year: 1975
     language: English
     sources:
@@ -32347,6 +32837,8 @@ titles:
   - title: Československo-sovětské vztahy jako faktor mezinárodní politiky
     subtitle: 1917-1970; materiály českoslov.-sov. sympozia, Praha 16.-18.10.1973
     authors: []
+    editors:
+      - František Hejl
     year: 1975
     language: Czech, Slovak
     sources:
@@ -32489,6 +32981,8 @@ titles:
     series: Studie Archeologickěho ústavu ćeskoslovenské akademie věd v Brně; roč. 3/1974, sv. 2
     authors:
       - Jaroslav Tejral
+    editors:
+      - Archeologický ústav
     year: 1975
     language: German
     sources:
@@ -33135,6 +33629,8 @@ titles:
     authors:
       - František Matouš
       - Ústav Teorie a Dějin Umění
+    translators:
+      - Marie Anna Kotrbová
     year: 1975
     language: German
     sources:
@@ -33535,6 +34031,8 @@ titles:
     subtitle: Proceedings of the 5th International Colloquium on Soil Zoology Held in Prague September 17-22, 1973
     authors:
       - International Soil Zoology Colloquium (5th 1973 Prague, Czechoslovakia)
+    editors:
+      - Jan Vanek
     year: 1975
     language: English
     pages: 630
@@ -33626,6 +34124,8 @@ titles:
     series: (Symposia ČSAV)
     authors:
       - Czechoslovak Symposium on Graph Theory
+    editors:
+      - Miroslav Fiedler
     year: 1975
     language: English
     sources:
@@ -33651,6 +34151,8 @@ titles:
   - title: Renesanční poesie
     authors:
       - Jan Martínek
+    translators:
+      - Helena Businská
     year: 1975
     edition: 1. vyd
     language: Czech
@@ -34370,6 +34872,8 @@ titles:
       - Vladimir Klíma
       - Petr Zima
       - Karsten Legère
+    editors:
+      - Jaroslav Cesar
     year: 1976
     language: Czech
     sources:
@@ -34527,8 +35031,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=094464723
     verified: true
   - title: Celtic Civilization and Its Heritage
+    original_title: Keltská civilizace a její dědictiví
     authors:
       - Jan Filip
+    translators:
+      - Iris Lewitova
+      - Roberta Finlayson Samsour
     year: 1976
     edition: 2d rev. ed
     series: New Horizons
@@ -34732,6 +35240,8 @@ titles:
     subtitle: Quellen zur Geschichte des Pfälzisch-Niederländisch-Ungarischen Krieges, 1621-1625
     authors:
       - Miloš Kouřil
+    translators:
+      - Anna Urbanová
     year: 1976
     series: Documenta Bohemica Bellum Tricennale illustrantia -- t. 3
     language: German
@@ -34787,6 +35297,8 @@ titles:
   - title: Die altsteinzeitliche Fundstelle in Brno-Bohunice
     authors:
       - Karel Valoch
+    editors:
+      - Archeologický ústav
     year: 1976
     series: Studie archeologického ústavu Československé Akademie véd v Brně; Roč. 4, sv.1
     language: German
@@ -34920,6 +35432,8 @@ titles:
   - title: En suivant les traces d'Alexandre Dumas père en Bohême
     authors:
       - Marie Ullrichová
+    editors:
+      - Maria Ullrichová
     year: 1976
     language: French
     pages: 341
@@ -35036,6 +35550,8 @@ titles:
   - title: Grundzüge der Völkerwanderungszeit in Mähren
     authors:
       - Jaroslav Tejral
+    editors:
+      - Archeologický ústav
     year: 1976
     series: Studie archeologického ústavu Československé Akademie věd v Brně; roč. 4, 2
     language: German
@@ -35481,6 +35997,8 @@ titles:
     authors:
       - Milan Kuna
       - Jaroslav Bužga
+    editors:
+      - Jaroslav Jiránek
     year: 1976
     language: Czech
     sources:
@@ -35515,6 +36033,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=436692627
     verified: true
   - title: Problémy optimálního plánování vnějších ekonomických vztah°u
+    original_title: Problemy optimalʹnogo planirovanija vnešnek̇onomičeskich svjazej
     authors:
       - Grigorij Lazarevič Šagalov
       - Judita Štouračová
@@ -35527,6 +36046,8 @@ titles:
   - title: Průvodce po archívu Zdeňka Nejedlého
     authors:
       - Ústav pro českou a světovou literaturu (Československá akademie věd). Kabinet Zdeňka Nejedlého
+    editors:
+      - Josef Hanzal
     year: 1976
     edition: 1. vyd
     language: Czech
@@ -35591,6 +36112,8 @@ titles:
   - title: Selected Writings in English and General Linguistics
     authors:
       - Josef Vachek
+    editors:
+      - Ján Horecký
     year: 1976
     language: English
     pages: 451
@@ -35828,6 +36351,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=349029733
     verified: true
   - title: Tectonic Map of the World
+    original_title: Tektonickou mapou světa
     authors:
       - Jan Holubec
     year: 1976
@@ -35847,6 +36371,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=267438052
     verified: true
   - title: The Arcuate Structure of the Earth's Crust (with Tectonic Map of the World)
+    original_title: Oblouková struktura zemské k°ury
     authors:
       - Jan Holubec
     year: 1976
@@ -36094,6 +36619,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1524262382
     verified: true
   - title: Zásada komparativních náklad°u a problémy RVHP
+    original_title: Zasada kosztów komparatywnych a problemy RWPG
     authors:
       - Marian Guzek
     year: 1976
@@ -36118,6 +36644,7 @@ titles:
   - title: Zásada komparativníh nákladů a problémy RVHP
     authors:
       - Marian Guzek
+    translators:
       - Mohammed Puladdež
     year: 1976
     language: Czech
@@ -36348,6 +36875,12 @@ titles:
   - title: Československá slavistika v letech 1918-1939
     authors:
       - Milan Kudělka
+    editors:
+      - František Hejl
+      - M. Šimeček
+      - Zd Kudělka
+      - V. Št̕astný
+      - Radoslav Večerka
     year: 1977
     edition: 1. vyd
     language: Czech
@@ -36412,6 +36945,8 @@ titles:
   - title: Dějiny českého divadla
     authors:
       - Divadelní ústav
+    editors:
+      - František Černý
     year: 1977
     language: Czech
     sources:
@@ -36470,6 +37005,8 @@ titles:
     series: Documenta Bohemica bellum tricennale illustrantia; 5
     authors:
       - Miroslav Toegel
+    translators:
+      - Anna Urbanová
     year: 1977
     language: German
     sources:
@@ -36692,6 +37229,8 @@ titles:
   - title: Harmonic Field Effects in Induction Machines
     authors:
       - Bedřich Heller
+    translators:
+      - Rudolph Major
     year: 1977
     language: English
     pages: 330
@@ -36802,6 +37341,8 @@ titles:
   - title: Latinitatis medii aevi lexicon bohemorum
     authors:
       - Římská a latinská Kabinet pro studia řecká
+    editors:
+      - Dana Martínková
     year: 1977
     language: Latin
     sources:
@@ -36967,6 +37508,7 @@ titles:
         url: https://search.worldcat.org/title/947175004
     verified: true
   - title: Nástin fylogeneze stélkatých rostlin
+    original_title: Očerk filogenij bessosudistych rastenij
     authors:
       - Dimitrij Konstantonovič Zerov
     year: 1977
@@ -37078,6 +37620,8 @@ titles:
   - title: Pravidla českého pravopisu
     authors:
       - Ústav pro jazyk český ČSAV
+    editors:
+      - Bohuslav Havránek
     year: 1977
     edition: 7. vyd
     language: Czech
@@ -37395,6 +37939,8 @@ titles:
   - title: Solid-Liquid Phase Equilibria
     authors:
       - Jaroslav Nývlt
+    translators:
+      - M. Štulíková
     year: 1977
     language: English
     pages: 248
@@ -37462,6 +38008,8 @@ titles:
   - title: System of Analytical Archaeography
     authors:
       - Jaroslav Malina
+    translators:
+      - Ladislav Mach
     year: 1977
     series: Studie Archeologického Ústavu Československé Akademie Věd v Brně; Roč. 5, Sv. 2
     language: English
@@ -37484,6 +38032,7 @@ titles:
     series: Studie Archeologického Ústavu Akademie Věd ČR v Brně; 5,2
     authors:
       - Jaroslav Malina
+    translators:
       - Ladislav Mach
     year: 1977
     language: English
@@ -37528,6 +38077,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=435260979
     verified: true
   - title: The Posthumous Life of Plato
+    original_title: O Platónovi
     authors:
       - František Novotný
     year: 1977
@@ -37752,6 +38302,10 @@ titles:
     subtitle: Sborník materialů ze VI. zasedání Komise historiků SSSR a C̕SSR v Minsku 23.-26. září 1975
     authors:
       - Československá akademie věd
+    editors:
+      - Václav Peša
+      - František Hejl
+      - Josef Poulík
     year: 1977
     language: Czech
     sources:
@@ -38087,6 +38641,8 @@ titles:
     series: Studie archeologického ustavu Ceskoslovenské Akademie Ved v Brne; 6,2
     authors:
       - Jan Beneš
+    editors:
+      - Archeologický ústav
     year: 1978
     language: German
     sources:
@@ -38254,6 +38810,8 @@ titles:
     subtitle: Literatura, folklór, historie
     authors:
       - International Congress of Slavists. Zagreb and Ljubljana 1978
+    editors:
+      - Bohuslav Havránek
     year: 1978
     edition: Vyd. 1. --
     language: Czech
@@ -38357,7 +38915,8 @@ titles:
     verified: true
   - title: Der Grosse Kampf um die Vormacht in Europa
     subtitle: 'Die Rolle Schwedens und Frankreichs: Quellen zur Geschichte des Dreissigjährigen Krieges 1635-1643'
-    authors:
+    authors: []
+    translators:
       - Anna Urbanová
     year: 1978
     language: German
@@ -38472,6 +39031,8 @@ titles:
     series: Československa akademie věd v Brně; n.s. roč. 12, seš. 3
     authors:
       - Jiří Havlín
+    editors:
+      - Československá Akademie Věd
     year: 1978
     language: German
     sources:
@@ -38494,6 +39055,8 @@ titles:
   - title: Dílo Jana Amose Komenského
     authors:
       - Jan Amos Comenius
+    editors:
+      - Jaroslav Kolár
     year: 1978
     language: Czech
     sources:
@@ -38522,6 +39085,10 @@ titles:
     verified: true
   - title: Documenta Bohemica Bellum Tricennale illustrantia
     authors: []
+    editors:
+      - Miroslav Toegel
+      - Josef Kocí
+      - Bohumil Bad'Ura
     year: 1978
     language: German
     sources:
@@ -38626,6 +39193,8 @@ titles:
     authors:
       - Jan Amos Komenský
       - Luboš Nový
+    editors:
+      - Lubos Noyy
     year: 1978
     language: Czech
     sources:
@@ -38973,6 +39542,7 @@ titles:
   - title: Korespondence Zdeňka Nejedlého s českými historiky Jaroslav Goll, Josef Kalousek, Čeněk Zíbrt, Jaromír Celakovský, Zikmunt Winter
     authors:
       - Zdeněk Nejedlý
+    translators:
       - Josef Hanzal
       - Blanka Svadbová
     year: 1978
@@ -39306,6 +39876,8 @@ titles:
   - title: Planning and forecasting social processes
     authors:
       - Československá akademie věd
+    editors:
+      - Karel Nesazal
     year: 1978
     language: Czech
     sources:
@@ -39556,6 +40128,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA86678396
     verified: false
   - title: Prospecting and Exploration of Mineral Deposits
+    original_title: Vyhledávání a pr°uzkum ložisek nerostných surovin
     authors:
       - Miloš Kužvart
     year: 1978
@@ -39884,6 +40457,8 @@ titles:
     series: Československa akademie věd v Brně; n.s. roč.12, seš.1
     authors:
       - Ivo Grulich
+    editors:
+      - Československá Akademie Věd
     year: 1978
     language: German
     sources:
@@ -39949,8 +40524,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=572554206
     verified: true
   - title: Stress in Subsoil and Methods of Final Settlement Calculation /Jaroslav Feda. Transl. Doubravka Hajšmanová
+    original_title: Napjatost podzakladi a metody vypoctu konecneho sednuti
     authors:
       - Jaroslav Feda
+    translators:
       - Doubravka Hajšmanová
     year: 1978
     language: English
@@ -40092,6 +40669,8 @@ titles:
   - title: Transactions
     authors:
       - Prague Conference On Information Theory, Statistical Decision Functions, Random Processes
+    editors:
+      - Jaroslav Kožešník
     year: 1978
     language: Not recorded
     sources:
@@ -40143,6 +40722,8 @@ titles:
     authors:
       - Jan Amos Komenský
       - Milan Kopecký
+    editors:
+      - Milan Kopecky
     year: 1978
     language: Czech
     sources:
@@ -40469,6 +41050,8 @@ titles:
   - title: Zdeněk Nejedly
     subtitle: Ve vzpomínkách svých sovětských žáku̇ a spolupracovníku, vzpomínky shromáždila, preložila a připravila k vydání
     authors: []
+    editors:
+      - Blanka Svadbová
     year: 1978
     language: Czech
     sources:
@@ -40545,6 +41128,8 @@ titles:
   - title: Aktuální otázky jazykové kultury v socialistické společnosti
     authors:
       - Ústav pro jazyk český ČSAV. Oddělení jazykové kultury
+    editors:
+      - Jaroslav Kuchař
     year: 1979
     edition: Vyd. 1
     language: Czech
@@ -40777,6 +41362,8 @@ titles:
     verified: true
   - title: Dějiny francouzské literatury 19. a 20. stol. [etí] / zpracoval kolektiv autoru za vedení... Jana O. Fischera
     authors: []
+    editors:
+      - Jan Otokar Fischer
     year: 1979
     language: Czech
     sources:
@@ -40963,6 +41550,8 @@ titles:
     authors:
       - Václav Hálek
       - Jan Švec
+    translators:
+      - Doubravka Hajšmanová
     year: 1979
     language: English
     sources:
@@ -41082,6 +41671,8 @@ titles:
   - title: Kniha počtů královského města Loun z let 1450-1472 a 1490-1491
     authors:
       - Ústav československých a světových dějin (Československá akademie věd)
+    editors:
+      - Jaroslav Vaniš
     year: 1979
     edition: Vyd. 1
     language: Czech, Latin
@@ -41631,6 +42222,8 @@ titles:
     subtitle: Proceedings
     authors:
       - International Seminar Of Comecon Countries
+    editors:
+      - Josef Jeslínek
     year: 1979
     language: English
     sources:
@@ -41681,6 +42274,8 @@ titles:
   - title: Problémy úpravy smluvních vztahů mezi hospodářskými organizacemi v socialistické ekonomické integraci
     authors:
       - Pavel Kalenský
+    editors:
+      - Augustin Hubka
     year: 1979
     edition: 1. vyd
     language: Czech
@@ -41699,6 +42294,9 @@ titles:
     subtitle: Third Formator Symposium of Mathematical Methods for the Analysis of Large Scale Systems
     authors:
       - '"Formator" Symposium on Mathematical Methods for the Analysis of Large Scale Systems (3rd 1978 Liblice, Czechoslovakia)'
+    editors:
+      - Jiří Beneš
+      - Lubomír Bakule
     year: 1979
     series: Symposia / ČSAV
     language: English
@@ -41714,6 +42312,8 @@ titles:
   - title: Proceedings of the VIIIth International Conference on Nonlinear Oscillations, Held in Prague on September 11th-15th, 1978
     authors:
       - International Conference on Nonlinear Oscillations Prague 1978
+    editors:
+      - Ladislav Pust
     year: 1979
     language: English
     sources:
@@ -42584,6 +43184,8 @@ titles:
   - title: České sloveso
     authors:
       - Josef Zubatý
+    editors:
+      - Jaroslav Porák
     year: 1980
     series: Prameny české a slovenské lingvistiky
     language: Czech
@@ -43159,6 +43761,8 @@ titles:
   - title: Korespondence Julia Zeyera s polskými spisovateli
     authors:
       - Julius Zeyer
+    editors:
+      - Jerzy Śliziński
     year: 1980
     edition: 1. vyd. --
     series: Prameny k dějinám české literatury -- sv. 9
@@ -43981,6 +44585,8 @@ titles:
   - title: Spojky, častice, zájmena a zájmenná adverbia
     authors:
       - Československá akademie věd
+    editors:
+      - Bohuslav Havránek
     year: 1980
     language: Czech
     sources:
@@ -44355,6 +44961,8 @@ titles:
     authors:
       - Pavel Hobza
       - Rudolf Zahradník
+    translators:
+      - Madeleine S̆tulíková
     year: 1980
     language: English
     sources:
@@ -44544,6 +45152,7 @@ titles:
     verified: true
   - title: Bernard Bolzano
     subtitle: 'Vědosloví: pokus o zevrubný a převážně nový výklad logiky se stálým zřetelem k dřívějším zpracovatelům (Výbor)'
+    original_title: Wissenschaftslehre
     series: Filosofická knihovna
     authors:
       - Bernard Bolzano
@@ -44681,6 +45290,8 @@ titles:
     series: Československá akademie věd v Brně; n.s. roč. 15 seš. 11
     authors:
       - Josef Kratochvíl
+    editors:
+      - Československá Akademie Věd
     year: 1981
     language: German
     sources:
@@ -44721,6 +45332,8 @@ titles:
   - title: Dějiny české hudební kultury 1890-1945
     authors:
       - Robert Smetana
+    editors:
+      - Československá akademie věd
     year: 1981
     language: Czech
     sources:
@@ -44752,6 +45365,8 @@ titles:
     series: 'Documenta Bohemica bellum tricennale illustrantia / Hauptred.: Josef Koči ..; 7'
     authors:
       - Miroslav Toegel
+    translators:
+      - Anna Urbanová
     year: 1981
     language: German
     sources:
@@ -45952,6 +46567,8 @@ titles:
   - title: Staročeská Bible dráždʹanská a olomoucká
     subtitle: Kritické vydání nejstaršího českého překladu bible ze 14. století
     authors: []
+    editors:
+      - Vladimír Kyas
     year: 1981
     language: Czech
     sources:
@@ -45962,9 +46579,13 @@ titles:
     verified: true
   - title: Staročeská Bible drážďanská a olomoucká
     subtitle: 'Kritické vydání nejstaršího českého překladu bible ze 14. století = Biblia paleobohema Codicis Dresdensis ac Olomucensis: editio critica bibliae Bohemae versionis antiquissimae XIV. saeculi'
+    original_title: Bible
     authors:
-      - Vladimír Kyas
       - Bohuslav Havránek
+    editors:
+      - Vladimír Kyas
+    translators:
+      - Vladimír Kyas
     year: 1981
     edition: Vyd. 1. --
     language: Czech
@@ -46133,6 +46754,8 @@ titles:
   - title: The Dynamics of Arches and Frames
     authors:
       - Josef Henrych
+    translators:
+      - Rudolph Major
     year: 1981
     language: English
     pages: 463
@@ -46233,6 +46856,8 @@ titles:
   - title: Übersicht der Blattläuse (Homoptera, Aphidoidea) der Rumänischen Sozialistischen Republik
     authors:
       - Jaroslav Holman
+    editors:
+      - Československá akademie věd
     year: 1981
     series: Studie ČSAV
     language: German
@@ -46276,9 +46901,15 @@ titles:
     verified: true
   - title: Vědosloví
     subtitle: Pokus o zevrubný a převážně nový výklad logiky se stálým zřetelem k dřívějším zpracovatelům
+    original_title: Wissenschaftslehre
     series: Filosofická knihovna
     authors:
       - Bernard Bolzano
+    editors:
+      - Karel Berka
+    translators:
+      - Jaromír Loužil
+      - Marie Bayerová
     year: 1981
     language: Czech
     sources:
@@ -46449,6 +47080,10 @@ titles:
   - title: Základní všeslovanská slovní zásoba
     authors:
       - František Kopečný
+    editors:
+      - Eva Havlova
+      - Antonín Mátl
+      - Hermína Plevačova
     year: 1981
     edition: 1. vyd
     language: Czech
@@ -46599,6 +47234,8 @@ titles:
     series: Československá akademie věd v brně; n.s. roč. 16 seš. 6
     authors:
       - Josef Kratochvíl
+    editors:
+      - Československá Akademie Věd
     year: 1982
     language: German
     sources:
@@ -46729,6 +47366,8 @@ titles:
     series: Československá akademie věd v Brně; n.s. roč. 16 seš. 7
     authors:
       - Vladimír Fiala
+    editors:
+      - Československá Akademie Věd
     year: 1982
     language: German
     sources:
@@ -47148,6 +47787,7 @@ titles:
     authors:
       - Zdeněk Nejedlý
       - Otakar Ostrčil
+    translators:
       - Stanislava Zachařová
     year: 1982
     language: Czech
@@ -47364,8 +48004,9 @@ titles:
     verified: true
   - title: Molecular Vibrational-Rotational Spectra
     authors:
-      - Dušan Papoušek
       - M. R. Aliev
+    translators:
+      - Dušan Papoušek
     year: 1982
     language: English
     sources:
@@ -47719,6 +48360,8 @@ titles:
   - title: Srbocharvátsko český slovník
     authors:
       - Kabinet cizích jazyků (Československá akademie věd)
+    editors:
+      - Josef Kurz
     year: 1982
     language: Croatian, Czech
     sources:
@@ -48381,6 +49024,8 @@ titles:
   - title: C̕inoherní divadlo v C̕eskoslovenské republice a za nacistické okupace
     authors:
       - Divadelní ústav
+    editors:
+      - František Černý
     year: 1983
     language: Czech
     sources:
@@ -48949,6 +49594,8 @@ titles:
   - title: Karel Čapek, život a dílo v datech
     authors:
       - Miroslav Halík
+    editors:
+      - Jiří Opelík
     year: 1983
     language: Czech
     pages: 88
@@ -49781,6 +50428,8 @@ titles:
   - title: Pravidla českého pravopisu
     authors:
       - Ústav pro jazyk český ČSAV
+    editors:
+      - Hana Pešatová
     year: 1983
     edition: 8. vyd
     language: Czech
@@ -50051,6 +50700,8 @@ titles:
     authors:
       - František Čermák
       - Jiří Hronek
+    editors:
+      - Československá akademie věd
     year: 1983
     language: Czech
     sources:
@@ -50103,6 +50754,9 @@ titles:
   - title: Socialism and Science
     authors:
       - Radovan Richta
+    editors:
+      - Semen Romanovič Mikulinskij
+      - Institut Istorii Nauki i Techniki
     year: 1983
     language: English
     pages: 455
@@ -50505,6 +51159,9 @@ titles:
     series: Památky staré literatury české
     authors:
       - Dubravius, Jan, approximately 1486-1553
+    editors:
+      - Miroslav Horna
+      - Eduard Petrů
     year: 1983
     language: Czech
     sources:
@@ -50784,6 +51441,8 @@ titles:
     authors:
       - Jan Amos Komenský
       - Milan Kopecký
+    editors:
+      - Milan Kopecky
     year: 1983
     language: Czech
     sources:
@@ -50865,6 +51524,9 @@ titles:
   - title: Biologie nově napuštěné nádrže
     authors:
       - P. Marvan
+    editors:
+      - Jiří Heteša
+      - Petr Marvan
     year: 1984
     edition: Vyd. 1
     series: Studie ČSAV
@@ -51116,6 +51778,9 @@ titles:
     authors:
       - Radomír Pleiner
       - Jaroslav Purš
+    editors:
+      - Ústav Československých a světových dějin
+      - Technickoekonomický Výzkumný Ústav Hutního Průmyslu
     year: 1984
     edition: Vyd. 1
     language: Czech
@@ -51178,6 +51843,8 @@ titles:
     series: České dějiny
     authors:
       - Josef Janáček
+    editors:
+      - Radovan Cigler
     year: 1984
     language: Czech
     sources:
@@ -51349,6 +52016,8 @@ titles:
   - title: Industrial Minerals and Rocks
     authors:
       - Miloš Kužvart
+    translators:
+      - Helena Zárubová
     year: 1984
     language: English
     pages: 454
@@ -51529,6 +52198,8 @@ titles:
     authors:
       - Zdeněk Kratochvíl
       - Zdenek Kux
+    editors:
+      - Československá Akademie Věd
     year: 1984
     language: German, Czech
     sources:
@@ -51620,6 +52291,8 @@ titles:
   - title: Malá československá encyklopedie
     authors:
       - Bohumil Kvasil
+    editors:
+      - Miroslav Štěpánek
     year: 1984
     edition: Vyd. 1
     language: Czech
@@ -51798,6 +52471,10 @@ titles:
     subtitle: Vývoj představ o jejím předmětu a podstatě
     authors:
       - Milan Kudělka
+    editors:
+      - Karel Herman
+      - František Hejl
+      - Vladimír Matula
     year: 1984
     edition: Vyd. 1
     language: Czech
@@ -51974,6 +52651,8 @@ titles:
   - title: Pracovní poměr v socialistickém právu
     authors:
       - Marie Kalenská
+    editors:
+      - Jan Kovař́ik
     year: 1984
     edition: Vyd. 1
     language: Czech
@@ -52479,8 +53158,14 @@ titles:
     verified: true
   - title: Thermophysical Properties of Solids
     subtitle: Their Measurements and Theoretical Thermal Analysis
+    original_title: Měření termofyzikálních vlastností pevných látek
     authors:
       - Jaroslav Šesták
+    editors:
+      - Ivo Proks
+      - Československá akademie věd
+    translators:
+      - Madeleine Štulíková
     year: 1984
     language: English
     sources:
@@ -52980,6 +53665,9 @@ titles:
     subtitle: S rejstříkem českých názvů
     authors:
       - Otakar Zeman
+    editors:
+      - Otokar Zeman
+      - Karel Beneš
     year: 1985
     edition: 2. přepracované vyd
     language: Czech
@@ -53044,6 +53732,9 @@ titles:
   - title: Autobiografické stati
     authors:
       - Jan Evangelista Purkyně
+    editors:
+      - Vladislav Kruta
+      - Vladimír Zapl
     year: 1985
     language: Czech, German
     sources:
@@ -53430,6 +54121,8 @@ titles:
     authors:
       - Wiesław Balcerak
       - Václav Melichar
+    editors:
+      - Václav Král
     year: 1985
     edition: Vyd. 1
     language: Czech
@@ -53456,6 +54149,8 @@ titles:
     series: 'Magistri Iohannis Hus Opera omnia; 4: Opera bohemica minora'
     authors:
       - Jan Hus
+    editors:
+      - Amedeo Molnár
     year: 1985
     language: Czech
     sources:
@@ -53699,6 +54394,8 @@ titles:
     subtitle: Proceedings of the Byzantinological Symposium in the 16th International Eirene Conference
     authors:
       - Byzantinological Symposium (1982 Prague, Czechoslovakia)
+    editors:
+      - Vladimír Vavřínek
     year: 1985
     edition: Vyd. 1
     language: English
@@ -54067,6 +54764,8 @@ titles:
   - title: Kvantitativní charakteristiky současné češtiny / Marie Těšitelová a kol.; Československá akademie věd
     authors:
       - Československá akademie věd
+    editors:
+      - Marie Těšitelová
     year: 1985
     language: Czech
     sources:
@@ -54111,6 +54810,8 @@ titles:
     subtitle: Osobnosti, díla, instituce
     authors:
       - Vladimír Forst
+    editors:
+      - Jiří Opelík
     year: 1985
     edition: Vyd. 1
     language: Czech
@@ -54376,6 +55077,9 @@ titles:
     subtitle: Pravidla IUPAC 1979, oddíl A,B,C,D, a F
     authors:
       - Karel Bláha
+    editors:
+      - K. Bláha
+      - M. Ferles
     year: 1985
     edition: 3. rozšířené a upravené vyd
     language: Czech
@@ -54655,6 +55359,8 @@ titles:
     series: Přírodovědné Práce Ústav°u Československé Akademie Věd v Brne; N.s. Roc. 19, Ses. 6
     authors:
       - Jiří Pikula
+    editors:
+      - Josef Kratochvíl
     year: 1985
     language: English
     sources:
@@ -54877,6 +55583,8 @@ titles:
   - title: Staročeská Bible dráždʹanská a olomoucká
     subtitle: Kritické vydání nejstaršího českého překladu bible ze 14. století
     authors: []
+    editors:
+      - Vladimír Kyas
     year: 1985
     language: Czech
     sources:
@@ -54885,6 +55593,7 @@ titles:
     verified: true
   - title: Staročeská Bible drážďanská a olomoucká
     subtitle: Kritické vydání nejstaršího českého překladu bible ze 14. století
+    original_title: Bible
     authors:
       - Vladimír Kyas
     year: 1985
@@ -55103,6 +55812,8 @@ titles:
     series: Přírodovědné práce Ústav°u Československé Akademie Věd v Brné; N.S., 19,9
     authors:
       - Zdeněk Kratochvíl
+    editors:
+      - Československá Akademie Věd
     year: 1985
     language: German
     sources:
@@ -55592,6 +56303,9 @@ titles:
   - title: Autor, text a společnost
     authors:
       - Pavel Vašák
+    editors:
+      - Jiří Kotalík
+      - František Miko
     year: 1986
     edition: Vyd. 1
     language: Czech
@@ -55774,6 +56488,8 @@ titles:
   - title: Dedicatio, praefatio ODO
     authors:
       - Comenius
+    editors:
+      - Eva Kamínková
     year: 1986
     language: Latin
     sources:
@@ -55786,6 +56502,9 @@ titles:
       - Zd Deyl
       - J. Faltus
       - Jaroslav Purš
+    editors:
+      - Ústav Československých a světových dějin
+      - Technickoekonomický Výzkumný Ústav Hutního Průmyslu
     year: 1986
     language: Czech
     sources:
@@ -56077,6 +56796,8 @@ titles:
   - title: Grossmähren und die Anfänge der tschechoslowakischen Staatlichkeit
     authors:
       - Josef Poulík
+    editors:
+      - Československá akademie věd
     year: 1986
     language: German
     pages: 347
@@ -56473,9 +57194,11 @@ titles:
         url: https://lccn.loc.gov/87135066
     verified: true
   - title: Microwave Measurements of Complex Permittivity by Free Space Methods and Their Applications
+    original_title: Mikrovenné mčřeni komplexni permitivity ve volném prostoru
     authors:
       - Jindřich Musil
       - František Žáček
+    translators:
       - Jozef Krištofik
     year: 1986
     language: English
@@ -57003,6 +57726,8 @@ titles:
   - title: Slovanské depoty železných předmětů v Československu
     authors:
       - Andrea Bartošková
+    translators:
+      - H. Tichá
     year: 1986
     edition: Vyd. 1
     series: Studie Archeologického ústavu Československé akademie věd v Brně -- roč. 13, sv. 2
@@ -57152,6 +57877,10 @@ titles:
   - title: Studies on Shallow Lakes and Ponds
     authors:
       - I. M. Raspopov
+    editors:
+      - Slavomil Hejný
+      - Igor Mihajlovič Raspopov
+      - Jan Květ
     year: 1986
     language: English
     pages: 256
@@ -57262,6 +57991,8 @@ titles:
   - title: Teorie množin
     authors:
       - Bohuslav Balcar
+    editors:
+      - Lev Bukovský
     year: 1986
     edition: Vyd. 1
     language: Czech
@@ -57721,6 +58452,8 @@ titles:
   - title: Boje o Karla Čapka
     authors:
       - Viktor Kudělka
+    editors:
+      - M. Pohorský
     year: 1987
     edition: Vyd. 1
     language: Czech
@@ -58286,6 +59019,8 @@ titles:
     authors:
       - Václav Kotek
       - Ladislav Niklíček
+    translators:
+      - Eva Kalinová
     year: 1987
     language: English
     sources:
@@ -58400,6 +59135,9 @@ titles:
       - Akademie věd České republiky
       - Akademie věd České Republiky
       - Římská a Latinská Kabinet pro Studia Řecká
+    editors:
+      - Ladislav Varcl
+      - Jan Martínek
     year: 1987
     language: Latin
     sources:
@@ -58450,6 +59188,10 @@ titles:
       - Jaroslav Matouš
       - Jiři Pick
       - Josef P. Novak
+    editors:
+      - Eduard Hála
+    translators:
+      - Madeleine Štulíková
     year: 1987
     language: English
     sources:
@@ -58805,6 +59547,8 @@ titles:
     subtitle: Ke zrození novodobé české kultury
     authors:
       - Josef Hanzal
+    editors:
+      - Josef Hrabák
     year: 1987
     edition: Vyd. 1
     language: Czech
@@ -58856,6 +59600,8 @@ titles:
   - title: Pathobiochemie
     authors:
       - P. Karlson
+    translators:
+      - Jan Kocourek
     year: 1987
     edition: Vyd. 1
     language: Czech
@@ -59087,6 +59833,8 @@ titles:
     subtitle: 'Meždunarodnaja celevaja programma mnogostoronnego sotrudničestva "Nacionalʹnye jazyki v socialističeskom obščestve"; učastniki: VNR, GDR, PNR, SSSR, ČSSR'
     authors:
       - Jan Chloupek
+    editors:
+      - Jan Petr
     year: 1987
     language: Russian
     sources:
@@ -59157,6 +59905,8 @@ titles:
   - title: Revoluční proces v rozvojových zemích, 1945-1985
     authors:
       - Jaroslav Cesar
+    editors:
+      - Jaroslav César
     year: 1987
     edition: Vyd. 1
     language: Czech
@@ -59656,6 +60406,8 @@ titles:
     series: Přı́rodovědné práce ústav°u Československé Akademie Věd v Brně; 21,11
     authors:
       - Zdeněk Kratochvíl
+    editors:
+      - Československá Akademie Věd
     year: 1987
     language: German
     sources:
@@ -59919,6 +60671,7 @@ titles:
     series: Cesta k vědění; 39
     authors:
       - Włodzimierz Kołos
+    translators:
       - Jiří Pancíř
     year: 1987
     language: Czech
@@ -60085,6 +60838,9 @@ titles:
   - title: Československá slavistika
     authors:
       - Československý komitét slavistů
+    editors:
+      - Slavomír Wollman
+      - Karol Rosenbaum
     year: 1988
     language: Czech
     sources:
@@ -60147,6 +60903,9 @@ titles:
       - Zd Jadrny
       - J. Josif
       - Jaroslav Purš
+    editors:
+      - Ústav Československých a světových dějin
+      - Technickoekonomický Výzkumný Ústav Hutního Průmyslu
     year: 1988
     language: Czech
     sources:
@@ -60492,6 +61251,7 @@ titles:
     verified: true
   - title: Intermolecular Complexes
     subtitle: The Role of van der Waals Systems in Physical Chemistry and in the Biodisciplines
+    original_title: Mezimolekulové komplexy
     authors:
       - Pavel Hobza
       - Rudolf Zahradník
@@ -60642,6 +61402,8 @@ titles:
     subtitle: Pars hiemalis
     authors:
       - Jan Hus
+    editors:
+      - Anežka Vidmanová
     year: 1988
     language: Latin
     sources:
@@ -60873,6 +61635,8 @@ titles:
     subtitle: Slovník umělců divadel Vlastenského, Stavovského, prozatímního a Národního
     authors:
       - Vladimír Procházka
+    editors:
+      - Vladimír Prochádzka
     year: 1988
     edition: Vyd. 1
     language: Czech
@@ -61129,6 +61893,8 @@ titles:
     subtitle: Mezinárodní kolektiv
     authors:
       - Olga Augustinová
+    editors:
+      - Pavel Kalenský
     year: 1988
     language: Czech
     sources:
@@ -61304,6 +62070,8 @@ titles:
     series: Přírodovědné Práce Ústav°u Československé Akademie Věd v Brně; Nova Series, Tomus 22, Fasc. 3
     authors:
       - Vlastimil Baruš
+    editors:
+      - Jozef Sládek
     year: 1988
     language: English
     sources:
@@ -61344,6 +62112,8 @@ titles:
     series: Přírodovědné Práce Ústav°u Československé Akademie Věd v Brně; Roč. 22, Seš. 2
     authors:
       - Armando Peréz Martínez
+    editors:
+      - Vlastimil Baruš
     year: 1988
     language: English
     sources:
@@ -61483,6 +62253,8 @@ titles:
     subtitle: Výrazy neslovesné
     authors:
       - Josef Filipec
+    editors:
+      - František Čermák
     year: 1988
     edition: Vyd. 1
     language: Czech
@@ -61555,6 +62327,8 @@ titles:
   - title: Staročeská Bible dráždʹanská a olomoucká
     subtitle: Kritické vydání nejstaršího českého překladu bible ze 14. století
     authors: []
+    editors:
+      - Vladimír Kyas
     year: 1988
     language: Czech
     sources:
@@ -61563,6 +62337,7 @@ titles:
     verified: true
   - title: Staročeská Bible drážďanská a olomoucká
     subtitle: Kritické vydání nejstaršího českého překladu bible ze 14. století
+    original_title: Bible
     authors:
       - Vladimír Kyas
     year: 1988
@@ -61584,6 +62359,8 @@ titles:
   - title: Staročeská kronika tak řečeného Dalimila
     authors:
       - Jiří Daňhelka
+    editors:
+      - Bohuslav Havránek
     year: 1988
     edition: Vyd. 1
     series: Texty a studie k dějinám českého jazyka a literatury
@@ -62255,6 +63032,8 @@ titles:
       - Oldřich Jakub Blažíček
       - Mirjam Bohatcová
       - Beket Bukovinská
+    editors:
+      - Jiří Dvorský
     year: 1989
     language: Czech
     sources:
@@ -62292,6 +63071,8 @@ titles:
   - title: Dílo Jana Amose Komenského
     authors:
       - Johann Amos Comenius
+    editors:
+      - Martin Steiner
     year: 1989
     language: Latin
     sources:
@@ -62373,6 +63154,8 @@ titles:
   - title: Dokumenty a materiály k dějinám československo-polských vztahů v letech 1949-1960
     authors:
       - Wiesław Balcerak
+    editors:
+      - Václav Král
     year: 1989
     edition: Vyd. 1
     language: Czech
@@ -62472,6 +63255,9 @@ titles:
   - title: Etymologický slovník jazyka staroslověnského
     authors:
       - Eva Havlová
+    editors:
+      - Ústav Slavistiky
+      - Ústav pro Jazyk Český
     year: 1989
     language: Church Slavonic
     sources:
@@ -62659,8 +63445,9 @@ titles:
       - Vladimir F. Majer
       - Václav Svoboda
       - Jiří Robert Pick
-      - Madeleine S̆tulíková
       - Vladimír Majer
+    translators:
+      - Madeleine S̆tulíková
     year: 1989
     language: English
     sources:
@@ -62715,6 +63502,8 @@ titles:
     authors:
       - Jan Amos Komenský
       - Jiřina Otáhalová-Popelová
+    editors:
+      - Jirina Otáhalová-Popelová
     year: 1989
     language: Czech
     sources:
@@ -62743,6 +63532,8 @@ titles:
     subtitle: Proceedings of the 10th Symposium on Industrial Crystallization, Bechyně, Czechoslovakia, September 21-25, 1987
     authors:
       - Symposium on Industrial Crystallization (10th 1987 Bechyně, Czechoslovakia)
+    editors:
+      - Jaroslav Nývlt
     year: 1989
     edition: Vyd. 1
     language: English
@@ -62944,6 +63735,8 @@ titles:
     series: Přı́rodovědné práce ústav°u Československé Akademie Věd v Brně; 23,8
     authors:
       - Tadeáš Czudek
+    editors:
+      - Československǎ Akademie Věd
     year: 1989
     language: German
     sources:
@@ -63189,6 +63982,7 @@ titles:
         url: https://d-nb.info/985964871
     verified: true
   - title: Modelling of Soil-Structure Interaction
+    original_title: Studie nového modelu podloží staveb
     authors:
       - Vladimir Kolar
       - Ivan Němec
@@ -63404,6 +64198,8 @@ titles:
     series: Johannis Amos Comenii opera omnia; 15.2
     authors:
       - Comenius
+    editors:
+      - Eva Kamínková
     year: 1989
     language: Latin
     sources:
@@ -63825,6 +64621,8 @@ titles:
   - title: Slovník česko-německý
     authors:
       - Josef Jakub Jungmann
+    editors:
+      - Jan Petr
     year: 1989
     edition: 2., nezměněné vyd
     language: Czech
@@ -64717,6 +65515,8 @@ titles:
     subtitle: Diskuse nezávislých historiků
     authors:
       - Bohumil Černý
+    editors:
+      - Bohumil Julius Černý
     year: 1990
     edition: Vyd. 1
     language: Czech
@@ -64752,6 +65552,7 @@ titles:
         url: https://openlibrary.org/books/OL19116007M
     verified: true
   - title: Cesta do otroctví
+    original_title: The Road to Serfdom
     authors:
       - Friedrich August Hayek
     year: 1990
@@ -64778,6 +65579,10 @@ titles:
   - title: Corpus vasorum antiquorum
     authors:
       - Union académique internationale
+    editors:
+      - Jan Bažant
+      - Jan Bouzek
+      - Marie Dufková
     year: 1990
     edition: Vyd. 1
     series: Corpus vasorum antiquorum. Tchécoslovaquie
@@ -65006,6 +65811,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=042987040
     verified: true
   - title: Environment of the Czech Republic
+    original_title: Blue Book
     authors:
       - République tchèque
     year: 1990
@@ -65162,6 +65968,9 @@ titles:
   - title: Kacirske eseje o filozofii dejin
     authors:
       - Jan Patočka
+    editors:
+      - Ivan Chvatík
+      - Pavel Kouba
     year: 1990
     language: Czech
     pages: 144
@@ -65989,6 +66798,8 @@ titles:
     subtitle: Dokumentace
     authors:
       - Historický ústav (Československá akademie věd)
+    editors:
+      - Josef Macek
     year: 1990
     edition: Vyd. 1
     language: Czech
@@ -66108,6 +66919,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=269158219
     verified: true
   - title: Socialismus dnes?
+    original_title: Socialism today
     authors:
       - Ota Šik
     year: 1990
@@ -66174,6 +66986,8 @@ titles:
   - title: Staročeský Slovník
     authors:
       - Československá Akademie věd Ústav Pro Jazyk Český
+    editors:
+      - Bohuslav Havránek
     year: 1990
     language: Czech
     sources:
@@ -66637,6 +67451,8 @@ titles:
   - title: Základy oceánografie
     authors:
       - Zdeněk Kukal
+    editors:
+      - Václav Král
     year: 1990
     edition: Vyd. 2
     language: Czech
@@ -66754,6 +67570,8 @@ titles:
   - title: Information processing machines
     authors:
       - Jiři Reichl
+    editors:
+      - Výzkumný Ústav Matematických Stroju
     language: German
     sources:
       - title: Open Library edition OL37835051M

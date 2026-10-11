@@ -74,6 +74,9 @@ titles:
   - title: Russian Poetry
     subtitle: An Anthology
     authors: []
+    translators:
+      - Babette Deutsch
+      - Avrahm Yarmolinsky
     year: 1927
     language: English
     pages: 255
@@ -222,6 +225,8 @@ titles:
   - title: Selections from Lenin
     authors:
       - Vladimir Il’ich Lenin
+    translators:
+      - J. Fineberg
     year: 1929
     language: English
     sources:
@@ -286,8 +291,10 @@ titles:
     verified: true
     pages: 317
   - title: The Nineteen
+    original_title: Razgrom
     authors:
       - Aleksandr Aleksandrovič Fadeev
+    translators:
       - R. D. Charques
     year: 1929
     language: English
@@ -338,9 +345,12 @@ titles:
         url: https://openlibrary.org/books/OL13811003M
     verified: true
   - title: Memories of Lenin
+    original_title: Vospominanija o Lenine
     authors:
       - Nadezhda Konstantinovna Krupskaia (Надежда Константиновна Крупская)
       - Eric Verney
+    translators:
+      - E. Verney
     year: 1930
     language: English
     pages: 213
@@ -512,6 +522,9 @@ titles:
     subtitle: An Episode in Nine Scenes
     authors:
       - Sergeĭ Mikhaĭlovich Tretʹiakov
+    translators:
+      - F. Polianovskaia
+      - Barbara Marion Nixon
     year: 1931
     language: English
     pages: 87
@@ -901,6 +914,7 @@ titles:
       - label: Read or download (Internet Archive)
         url: https://archive.org/details/78049959-45716218-lenin-will-the-bolsheviks-retain-state-power
   - title: Barricades in Berlin
+    original_title: Barrikaden am Wedding
     authors:
       - Klaus Neukrantz
     year: 1933
@@ -919,6 +933,7 @@ titles:
   - title: Brief History of Russia
     authors:
       - Grigorij Aleksandrovič Medynskij
+    translators:
       - Dmitrij Petrovič Mirskij
     year: 1933
     language: English
@@ -1390,6 +1405,8 @@ titles:
   - title: A Soviet Writer Looks at Vienna
     authors:
       - Ilya Erenburg (Илья́ Григо́рьевич Эренбу́рг)
+    translators:
+      - Ivor Montagu
     year: 1934
     language: English
     pages: 43
@@ -1666,6 +1683,8 @@ titles:
   - title: Memoirs of a Barber
     authors:
       - Giovanni Germanettto
+    translators:
+      - Edmund Stevens
     year: 1934
     language: English
     pages: 360
@@ -1935,6 +1954,8 @@ titles:
   - title: Fascism Make or Brake? German Experience Since the "June Days"
     authors:
       - R. Braun
+    translators:
+      - Michael Davidson
     year: 1935
     language: English
     pages: 133
@@ -1946,6 +1967,8 @@ titles:
     subtitle: '[Anti-Duhring]'
     authors:
       - Friedrich Engels
+    translators:
+      - Emile Burns
     year: 1935
     language: English
     pages: 364
@@ -2240,6 +2263,8 @@ titles:
     subtitle: A Novel
     authors:
       - A. Adeyenko
+    translators:
+      - Anthony Wixely
     language: English
     pages: 283
     sources:
@@ -2321,6 +2346,8 @@ titles:
     subtitle: The 5-year Plan in Soviet Agriculture
     authors:
       - Y. A. Yakovlev
+    translators:
+      - Anna Louise Strong
     language: English
     pages: 128
     sources:
@@ -2329,6 +2356,8 @@ titles:
     verified: false
   - title: Short Stories from China
     authors: []
+    translators:
+      - Cze Ming-Ting
     language: English
     pages: 96
     sources:

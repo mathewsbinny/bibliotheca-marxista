@@ -100,6 +100,8 @@ titles:
     subtitle: Ji nian Sidalin shi wen ji
     authors:
       - Zuo jia chu ban she. Bian ji bu. bian
+    editors:
+      - Zuo jia chu ban she
     year: 1953
     language: Chinese
     pages: 178
@@ -334,8 +336,10 @@ titles:
         url: https://search.worldcat.org/title/502873734
     verified: true
   - title: Ha'erci shan you ji
+    original_title: Die Harzreise
     authors:
       - Heinrich Heine
+    translators:
       - Zhi Feng
     year: 1954
     language: Chinese
@@ -453,6 +457,7 @@ titles:
   - title: Ji he de xian sheng zhuan
     authors:
       - Miguel <<de>> Cervantes Saavedra
+    translators:
       - Donghua Fu
     year: 1954
     language: Chinese
@@ -461,8 +466,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991046715939705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Jihede xian sheng zhuan
+    original_title: Don Quichotte
     authors:
       - Miguel de Cervántes Saavedra
+    translators:
       - Shi Wu
       - 实 伍
     year: 1954
@@ -738,6 +745,8 @@ titles:
   - title: Sheng La sa de ding xiang
     authors:
       - Pierre Gamarra
+    translators:
+      - Shao hou Zhao
     year: 1954
     language: Chinese
     sources:
@@ -787,8 +796,10 @@ titles:
         url: https://search.worldcat.org/title/37797530
     verified: true
   - title: Shi jian ya, qian jin!
+    original_title: Forward, oh time!
     authors:
       - Valentin Kataev
+    translators:
       - Danqiu Lin
     year: 1954
     language: Chinese
@@ -970,6 +981,8 @@ titles:
   - title: Zhan you zhi ge
     authors:
       - Shi yong Piao
+    translators:
+      - Cheng yong Yin
     year: 1954
     language: Chinese
     sources:
@@ -1021,6 +1034,7 @@ titles:
     verified: true
   - title: 七月十四日
     subtitle: 三幕剧
+    original_title: Le quatorze juillet
     authors:
       - Romain Rolland
       - Chen Mian
@@ -1924,8 +1938,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1057135445
     verified: true
   - title: 莎士比亞戯劇集
+    original_title: Tales from Shakespeare
     authors:
       - William Shakespeare
+    translators:
       - 朱生豪
     year: 1954
     edition: Di 1 ban
@@ -2263,6 +2279,8 @@ titles:
     subtitle: '[108 hui]'
     authors:
       - Menglong Feng
+    editors:
+      - Meng long Feng
     year: 1955
     language: Chinese
     pages: 1040
@@ -2359,6 +2377,8 @@ titles:
   - title: Hei shui jiang
     authors:
       - Pierre Courtade
+    translators:
+      - Bao Yan
     year: 1955
     language: Multiple languages
     sources:
@@ -2762,6 +2782,8 @@ titles:
     verified: true
   - title: Ru lin wai shi yan jiu lun ji
     authors: []
+    editors:
+      - Zuo jia chu ban she
     year: 1955
     language: Chinese
     sources:
@@ -3080,7 +3102,8 @@ titles:
         url: https://search.worldcat.org/title/37765398
     verified: true
   - title: Yin du ni xi ya min ge xuan
-    authors:
+    authors: []
+    translators:
       - Qicheng Zhang
     year: 1955
     language: Chinese
@@ -5113,8 +5136,10 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BB07600506
     verified: false
   - title: A la gong shi wen chao
+    original_title: Selections
     authors:
       - Louis Aragon
+    translators:
       - Dagang Luo
       - 羅大岡
     year: 1956
@@ -5126,6 +5151,8 @@ titles:
   - title: Ai she de ren
     authors:
       - Peking Zuo jia chu ban she
+    editors:
+      - Zuo jia chu ban she
     year: 1956
     series: Nong ye he zuo hua duan bian chuang zuo xuan, 1
     language: Chinese
@@ -5400,6 +5427,9 @@ titles:
   - title: Du Fu shi xuan
     authors:
       - Tu Fu
+    editors:
+      - Zhi Feng
+      - 至 冯
     year: 1956
     edition: Beijing di 1 ban
     language: Chinese
@@ -5418,6 +5448,8 @@ titles:
     verified: true
   - title: Fa lang shi duan pian xiao shuo ji
     authors: []
+    translators:
+      - Shao hou Zhao
     year: 1956
     language: Chinese
     sources:
@@ -5430,6 +5462,7 @@ titles:
     authors:
       - Anatole France
       - 法朗士
+    translators:
       - Shaohou Zhao
       - 少候 趙
     year: 1956
@@ -5657,6 +5690,8 @@ titles:
   - title: Huo xia qu
     authors:
       - Utako Kamada
+    translators:
+      - Jieruo Wen
     year: 1956
     language: Chinese
     pages: 170
@@ -6588,6 +6623,9 @@ titles:
   - title: Ya ke tuan
     authors:
       - Prosper Mérimée
+    translators:
+      - Lin ge Guo
+      - Jing Ju
     year: 1956
     language: Multiple languages
     sources:
@@ -6710,6 +6748,8 @@ titles:
   - title: Yuan ren za ju xuan
     authors:
       - Xuejie Gu
+    editors:
+      - 學頡 顧
     year: 1956
     language: Chinese
     pages: 14570
@@ -9764,6 +9804,8 @@ titles:
   - title: Chu ci yan jiu lun wen ji
     authors:
       - Zuo jia chu ban she. Bian ji bu
+    editors:
+      - Zuo jia chu ban she
     year: 1957
     language: Chinese
     pages: 463
@@ -10209,6 +10251,9 @@ titles:
   - title: Li Yü ci tao lun ji
     authors:
       - Wen xue yi chan
+    editors:
+      - «Wen xue yi chan» bian ji bu
+      - Zhongguo yu wen xue she
     year: 1957
     language: Chinese
     pages: 2224
@@ -10742,6 +10787,8 @@ titles:
   - title: Shui hu yan jiu lun wen ji
     authors:
       - Zuo jia chu ban she. Bian ji bu
+    editors:
+      - Zuo jia chu ban she
     year: 1957
     language: Chinese
     pages: 402
@@ -10946,6 +10993,8 @@ titles:
   - title: Xi you ji yan jiu lun wen ji
     authors:
       - Peking Zuo jia chu ban she
+    editors:
+      - Zuo jia chu ban she
     year: 1957
     language: Chinese
     pages: 2184
@@ -11198,6 +11247,8 @@ titles:
   - title: Yue fu shi yan jiu lun wen ji
     authors:
       - Zhongguo yu wen xue she
+    editors:
+      - Zuo jia chu ban she
     year: 1957
     edition: Beijing di 1 ban
     language: Chinese
@@ -14425,6 +14476,8 @@ titles:
   - title: Ouyang Xiu ci xuan yi
     authors:
       - Xiu Ouyang
+    editors:
+      - Gongzhu Huang
     year: 1958
     language: Chinese
     pages: 74
@@ -15243,6 +15296,8 @@ titles:
   - title: Zhong guo jin shi xi qu shi
     authors:
       - Qingmu Zheng'er
+    translators:
+      - Gulu Wang
     year: 1958
     language: Chinese
     sources:
@@ -21610,8 +21665,10 @@ titles:
         url: https://lccn.loc.gov/c64000093
     verified: true
   - title: Bei kai ken de chu nü di
+    original_title: Podniataia tselina. Chinese
     authors:
       - Michail Šolochov
+    translators:
       - Ying Cao
     year: 1961
     language: Chinese
@@ -23970,6 +24027,8 @@ titles:
   - title: Bao gao wen xue
     authors:
       - Zhongguo zuo jia xie hui. Nong cun du wu gong zuo wei yuan hui
+    editors:
+      - Zhongguo-Zuojia-Xiehui-Nongcong-Duwu-Gongzuo-Weiyuanhui
     year: 1963
     edition: Beijing di 1 ban
     series: Nong cun wen xue du wu cong shu
@@ -24858,6 +24917,8 @@ titles:
     verified: true
   - title: Ying xiong ge si er ke han (meng gu zu min jian shi shi)
     authors: []
+    translators:
+      - An ke qin fu
     year: 1963
     language: Chinese
     sources:
@@ -28501,6 +28562,7 @@ titles:
     authors:
       - Xiong Guang
       - 雄光
+    translators:
       - Jiang Wang
       - 江望
     year: 1965
@@ -28866,6 +28928,8 @@ titles:
     subtitle: Chaoxian bao gao wen xue ji
     authors:
       - Zaichun Yang
+    translators:
+      - Yilin Sheng
     year: 1965
     language: Chinese
     pages: 204
@@ -29211,6 +29275,7 @@ titles:
   - title: Zhan dou de Yue nan nan fang qing nian
     authors:
       - Quang Phong
+    translators:
       - Ling Ye
     year: 1965
     language: Chinese
@@ -30466,6 +30531,8 @@ titles:
   - title: 1984 Quan guo you xiu duan pian xiao shuo ping xuan huo jiang zuo pin ji
     authors:
       - Zhongguo zuo jia xie hui
+    editors:
+      - Desheng Xiao
     year: 1985
     edition: Di 1 ban
     language: Chinese
@@ -33007,9 +33074,11 @@ titles:
         url: https://archive.org/details/renyuantaishan0000unse
     verified: true
   - title: Sheng ming zhong bu neng cheng shou zhi qing
+    original_title: Nesnesitelná lehkost bytí
     series: Zuo jia can kao cong shu
     authors:
       - Milan Kundera
+    translators:
       - Shaogong Han
       - 少功 韩
       - Gang Han
@@ -34218,6 +34287,8 @@ titles:
   - title: Shi jing xiao shuo xuan
     authors:
       - Dehua Yang
+    editors:
+      - 德华 杨
     year: 1988
     edition: Beijing di 1 ban
     language: Chinese
@@ -35777,6 +35848,8 @@ titles:
   - title: Xi yang xia de sao dong
     authors:
       - Yin'ge
+    editors:
+      - Ge Yin
     year: 1989
     edition: Beijing di 1 ban
     series: Dang dai ji shi wen ku

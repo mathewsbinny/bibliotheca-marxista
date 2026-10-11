@@ -20,6 +20,7 @@ titles:
         url: https://search.worldcat.org/title/9029319
     verified: true
     subtitle: Geografía, civilización, historia
+    original_title: Afrique noire occidentale et centrale
   - title: Escándalo en los Estados Unidos
     authors:
       - Albert Eugene Kahn
@@ -1691,6 +1692,7 @@ titles:
     verified: true
   - title: La expansión ideológica de Estados Unidos en América Latina
     subtitle: Doctrinas, formas y métodos de propaganda de Estados Unidos
+    original_title: Ideologicheskai︠a︡ ėkspansii︠a︡ SShA v Latinskoĭ Amerike
     authors:
       - Karėn A. Chačaturov
     year: 1982
@@ -2634,6 +2636,7 @@ titles:
     verified: true
   - title: Statements by Cuba on the Events in Grenada
     subtitle: October 1983
+    original_title: Declaraciones de Cuba sobre los sucesos de Granada
     authors:
       - Nora Madan
     year: 1983
@@ -4160,6 +4163,7 @@ titles:
     verified: true
   - title: Rencontre sur la situation de la femme dans l'Amerique Latine et les Caraibes d'aujourd'hui
     subtitle: Discours, La Havane, le 7 juin 1985
+    original_title: Encuentro sobre la situación de la mujer en América Latina y el Caribe hoy
     authors:
       - Fidel Castro
     year: 1985
@@ -4678,6 +4682,8 @@ titles:
   - title: Lineamientos económicos y sociales para el quinquenio, 1986-1990
     authors:
       - Partido Comunista de Cuba
+    editors:
+      - Anolan Águila Tomás
     year: 1986
     language: Spanish
     pages: 154
@@ -5465,6 +5471,8 @@ titles:
     authors:
       - Froilán Escobar
       - Félix Guerra
+    editors:
+      - Froilán Escobar González
     year: 1988
     series: Enero
     language: Spanish
@@ -5555,6 +5563,8 @@ titles:
   - title: El diario del Che en Bolivia
     authors:
       - Che Guevara
+    editors:
+      - Adys Cupull
     year: 1988
     edition: 1a ed
     language: Spanish
@@ -6281,6 +6291,8 @@ titles:
     subtitle: Documentos de un proceso
     authors:
       - Cuba) Editora Política (Havana
+    editors:
+      - Editora Política
     year: 1989
     language: Spanish
     sources:
@@ -7889,6 +7901,8 @@ titles:
     authors:
       - María Cristina Zamora
       - Cuba) Editora Política (Havana
+    editors:
+      - Maria C. Zamora
     year: 1992
     language: Spanish
     sources:
@@ -8140,6 +8154,10 @@ titles:
   - title: Extraordinary circumstances bring people together
     subtitle: Cuban electoral process, November 1992 March 1993
     authors: []
+    translators:
+      - Susan Hubbard
+      - Janet Duckworth
+      - John Murchison
     year: 1993
     language: Spanish
     pages: 69
@@ -8525,6 +8543,8 @@ titles:
     subtitle: Sus relaciones con la teología de la liberación
     authors:
       - Gaspar Montagne González
+    editors:
+      - Norma Castillo Falcato
     year: 1994
     series: Colección VOZ
     language: Spanish
@@ -8630,6 +8650,7 @@ titles:
     verified: true
   - title: Reason Is on Our Side
     subtitle: Text from the Appearance of President Fidel Castro on Cuban Television and Radio Havana Cuba's International Service, August 24, 1994
+    original_title: Razón es nuestra
     authors:
       - Fidel Castro
     year: 1994
@@ -10700,6 +10721,8 @@ titles:
   - title: Batalla por la liberación de Elián González
     authors:
       - Nora Madan
+    editors:
+      - Nora Madan Rivas
     year: 2000
     language: Spanish
     pages: 242
@@ -11030,6 +11053,8 @@ titles:
     authors:
       - Julio Garcia-Luis
       - Julio Garcia Luis
+    editors:
+      - Julio García Luis
     year: 2000
     language: Spanish
     pages: 276
@@ -11731,6 +11756,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/004742938
     verified: true
   - title: Ideas Are Worth More than Weapons
+    original_title: Las ideas pueden más que las armas
     authors:
       - Iraida Aguirrechu
       - Martha Brancacho
@@ -11937,6 +11963,7 @@ titles:
     verified: true
   - title: The Dissidents
     subtitle: Cuban State Security Agents Reveal the True Story
+    original_title: Los disidentes
     authors:
       - Rosa Miriam Elizalde
     year: 2003
@@ -14944,6 +14971,7 @@ titles:
     subtitle: Documentos del gobierno de EE.UU. sobre la Operación Mangosta
     authors:
       - Tomás Diez Acosta
+    translators:
       - Ornán José Batista Peña
     year: 2018
     language: Spanish

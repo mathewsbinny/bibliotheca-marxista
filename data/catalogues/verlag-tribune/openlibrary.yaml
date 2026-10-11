@@ -173,10 +173,12 @@ titles:
         url: https://search.worldcat.org/title/63599432
     verified: true
   - title: Bálint Zsóry muss sterben
+    original_title: Alapkö
     authors:
       - Imre Keszi
-      - Almos Csongár
       - Verlag Tribüne Berlin
+    translators:
+      - Almos Csongár
     year: 1955
     language: German
     sources:
@@ -200,8 +202,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/103349402
     verified: true
   - title: Das Sparsamkeitsregime in der sozialistischen Wirtschaft
+    original_title: Režim ėkonomii v socialističeskom chozjajstve
     authors:
       - Mikhail Pimenovich Sakov
+    translators:
+      - Otto Finger
     year: 1955
     language: German
     pages: 36
@@ -257,6 +262,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1605019968
     verified: true
   - title: Giuseppe di Vittorio - ein Sohn der Arbeiterklasse
+    original_title: La vita di Giuseppe di Vittorio
     authors:
       - Felice Chilanti
     year: 1955
@@ -397,6 +403,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991046598659705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Die Arbeit der Frau in der Industrie der UdSSR
+    original_title: Ženskij trud v promyšlennosti SSSR
     authors:
       - Nadezhda Dmitrievna Aralovets
     year: 1956
@@ -423,6 +430,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=170068986X
     verified: true
   - title: Die britische Gewerkschaftsbewegung
+    original_title: British trade unionism
     authors:
       - Allen Hutt
     year: 1956
@@ -468,6 +476,7 @@ titles:
         url: https://search.worldcat.org/title/1989825
     verified: true
   - title: Geschichte der Gewerkschaftsbewegung in der UdSSR
+    original_title: Istorija profsojuznogo dviženija v SSSR
     authors:
       - A. M. Pankratova
       - Moscow (Russia). Vysshaia shkola professionalʹnogo dvizheniia
@@ -485,8 +494,10 @@ titles:
     verified: true
   - title: Licht vom Corund
     subtitle: Roman
+    original_title: Cumpana luminilor
     authors:
       - Nicolae Jianu
+    translators:
       - Leo Hornung
     year: 1956
     language: German
@@ -502,6 +513,8 @@ titles:
       - Hans-Martin Pleßke
       - Gerty Görlitz
       - Freier Deutscher Gewerkschaftsbund
+    editors:
+      - Gerty Zech
     year: 1956
     language: German
     sources:
@@ -755,6 +768,7 @@ titles:
     verified: true
   - title: Die Schöne mit den Augen der Einsamkeit
     subtitle: Novellen
+    original_title: Les mains des hommes
     authors:
       - Pierre Gamarra
       - Paul Schlicht
@@ -893,8 +907,10 @@ titles:
     verified: true
   - title: Septemberaufstand
     subtitle: Roman
+    original_title: Septembrijci
     authors:
       - Emil Koralov
+    translators:
       - Stefan Ivanov Stančev
     year: 1957
     language: German
@@ -1244,6 +1260,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1167480597
     verified: true
   - title: Jahrgang 21
+    original_title: Ročník jedenadvacet
     authors:
       - Karel Ptačník
       - Bruno Liehm
@@ -1368,6 +1385,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1909210625
     verified: true
   - title: Tage unseres Lebens
+    original_title: I giorni della nostra vita
     authors:
       - Marina Sereni
     year: 1958
@@ -1740,6 +1758,7 @@ titles:
     verified: true
   - title: Ökonomik der Arbeit
     subtitle: Vom Wissenschaftlichen Rat der Moskauer Hochschule der Gewerkschaftsbewegung als Lehrmaterial gebilligt. [Übersetzung unter der Leitung von Eveline Lüders]
+    original_title: Ekonomika truda
     authors:
       - Afanasi S̆tepanocich Kudrilavtlsev
     year: 1959
@@ -1842,6 +1861,7 @@ titles:
     verified: true
   - title: Abriss der Geschichte der Weltgewerkschaftsbewegung
     subtitle: Von den Anfängen bis 1955
+    original_title: Outline history of the world trade union movement
     authors:
       - William Zebulon Foster
     year: 1960
@@ -1853,6 +1873,7 @@ titles:
         url: https://www.sudoc.fr/016125118
     verified: true
   - title: Auf Leben und Tod
+    original_title: Na život i smărt
     authors:
       - Dimităr Angelov
       - Hartmut Herboth
@@ -2088,8 +2109,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1169864406
     verified: true
   - title: Ein Tag und eine Nacht
+    original_title: The man beneath
     authors:
       - Len Doherty
+    translators:
       - Lore Krüger
     year: 1960
     language: German
@@ -2279,6 +2302,7 @@ titles:
     verified: true
   - title: Zeit der Entscheidung
     subtitle: Roman
+    original_title: Občan brych
     authors:
       - Jan Otčenášek
       - Bruno Liehm
@@ -2312,6 +2336,7 @@ titles:
   - title: Afrika blickt in die Zukunft
     authors:
       - Ivan I. Potechin
+    translators:
       - Heinz Deutschland
     year: 1961
     language: German
@@ -2471,8 +2496,10 @@ titles:
         url: https://lccn.loc.gov/85855278
     verified: true
   - title: Die BGL arbeitet auf neue Art
+    original_title: Zavkom rabotaet po-novomu
     authors:
       - Konstantin Nikolaevič Sergeev
+    translators:
       - Paul Freiberg
     year: 1961
     language: German
@@ -2509,8 +2536,9 @@ titles:
   - title: Die ständigen Produktionsberatungen in den Betrieben der UdSSR
     subtitle: Sammelband
     authors:
-      - Horst Foerster
       - Horst Heintze
+    translators:
+      - Horst Foerster
     year: 1961
     language: German
     sources:
@@ -2564,8 +2592,10 @@ titles:
         url: https://search.worldcat.org/title/4845788
     verified: true
   - title: Fragen der Arbeit im Siebenjahrplan
+    original_title: Voprosy truda v semiletnem plane
     authors:
       - F. I. Kotov
+    translators:
       - Horst Förster
     year: 1961
     language: German
@@ -3111,8 +3141,14 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb331337456
     verified: true
   - title: Geschichte der Gewerkschaftsbewegung in der UdSSR
+    original_title: Istorija profdviženija v SSSR
     authors:
       - Moskovskaia vysshaia zaochnaia shkola profdvizheniia
+    editors:
+      - N. P. Antropov
+      - Moskauer Hochschule der Gewerkschaftsbewegung für Fernstudium
+    translators:
+      - Bruno Löwel
     year: 1962
     language: German
     pages: 772
@@ -3298,6 +3334,8 @@ titles:
     subtitle: Beiträge zur ökonomischen Konzeption der Richter-Rosenberg/Gruppe in DGB
     authors:
       - Deutscher Gewerkschaftsbund
+    editors:
+      - Freier Deutscher Gewerkschaftsbund
     year: 1962
     language: German
     pages: 271
@@ -3491,6 +3529,8 @@ titles:
     subtitle: Von der Ostsee bis zum Schwarzen Meer
     authors:
       - Freier Deutscher Gewerkschaftsbund
+    editors:
+      - Herbert Cieslik
     year: 1963
     language: German
     pages: 624
@@ -3636,6 +3676,7 @@ titles:
     verified: true
   - title: Im Schatten des Galgens
     subtitle: Chronik
+    original_title: Pod sjankata na vesilkata
     authors:
       - Cvetan Dankin
       - Hanna Kurzendörfer
@@ -3646,8 +3687,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991068673589705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Jahrgang 21
+    original_title: Ročnik jedenadvacet
     authors:
       - Karel Ptáčník
+    translators:
       - Bruno Liehm
     year: 1963
     language: German
@@ -3802,8 +3845,10 @@ titles:
     verified: true
   - title: Zeit der Entscheidung
     subtitle: Roman
+    original_title: Občan Brych
     authors:
       - Jan Otčenášek
+    translators:
       - Bruno Liehm
     year: 1963
     language: German
@@ -3813,6 +3858,7 @@ titles:
     verified: true
   - title: A.M. Gorki und die Geschichte der Fabriken und Werke
     subtitle: Sammelband zur Unterstützung der Arbeit an der Betriebsgeschichte
+    original_title: A.M. Gorʹkij i sozdanie Istorii fabrik i zavodov
     authors:
       - Maksim Gorky
     year: 1964
@@ -3867,6 +3913,8 @@ titles:
   - title: Die Gewerkschaften in der Periode des Aufbaus des Kommunismus
     authors:
       - Grigoriĭ Petrovich Alekseev
+    translators:
+      - Horst Förster
     year: 1964
     edition: 1. Aufl.]
     language: German
@@ -4115,6 +4163,8 @@ titles:
   - title: Zum Grundsatzprogramm des DGB
     authors:
       - Deutscher Gewerkschaftsbund
+    editors:
+      - Erwin Swillus
     year: 1964
     language: German
     pages: 94
@@ -4304,6 +4354,9 @@ titles:
     authors:
       - Rudi Kirchner
       - Bundesvorstand des FDGB
+    editors:
+      - Gerhard Voigt
+      - Freier Deutscher Gewerkschaftsbund
     year: 1965
     language: German
     sources:
@@ -4483,6 +4536,10 @@ titles:
     subtitle: Dokumente aus der Tätigkeit des Weltgewerkschaftsbundes
     authors:
       - World Federation of Trade Unions
+    editors:
+      - Irmgard Thiemann
+    translators:
+      - Lucie Kallmann
     year: 1965
     language: German
     sources:
@@ -5304,6 +5361,8 @@ titles:
     subtitle: Erläuterung wichtiger Begriffe
     authors:
       - Bernau, Ger. Hochschule der Deutschen Gewerkschaften "Fritz Heckert."
+    editors:
+      - Siegfried Lindner
     year: 1968
     edition: '[1. Aufl.]'
     language: German
@@ -5754,6 +5813,7 @@ titles:
     authors:
       - Vladimir G. Kovalkov
       - Aleksej E. Košelev
+    translators:
       - Fritz Matke
     year: 1969
     language: German
@@ -5961,8 +6021,10 @@ titles:
         url: https://d-nb.info/36345683X
     verified: true
   - title: Der Leninsche Stil in der Gewerkschaftsarbeit
+    original_title: Leninskij stil' v profsojuznoj rabote
     authors:
       - G. V. Podelščikov
+    translators:
       - Horst Förster
     year: 1970
     language: German
@@ -6070,6 +6132,9 @@ titles:
     authors:
       - Jürgen Teichmüller
       - Sozialversicherung der Arbeiter und Angestellten
+    editors:
+      - Erich Weigel
+      - Freier Deutscher Gewerkschaftsbund
     year: 1970
     language: German
     sources:
@@ -6995,6 +7060,8 @@ titles:
     subtitle: Geschichte des VEB Volltuchwerke Crimmitschau
     authors:
       - Walter Fellmann
+    editors:
+      - Sozialistische Einheitspartei Deutschlands
     year: 1971
     language: German
     pages: 151
@@ -7690,6 +7757,8 @@ titles:
       - Fritz Gericke
       - Freier Deutscher Gewerkschaftsbund
       - Deutsches Institut für Berufsbildung
+    translators:
+      - Fritz E. Gericke
     year: 1972
     language: German
     sources:
@@ -7733,6 +7802,8 @@ titles:
       - Gunnar Winkler
       - Gerhard Tietze
       - Günter Schmunk
+    editors:
+      - Hochschule der Deutschen Gewerkschaften "Fritz Heckert"
     year: 1972
     edition: 1. Aufl
     language: German
@@ -7868,6 +7939,9 @@ titles:
     subtitle: Neue sozialpolitische Massnahmen. Erläuterungen, Gemeinsamer Beschluss und gesetzliche Bestimmungen
     authors:
       - Freier Deutscher Gewerkschaftsbund
+    editors:
+      - Günter Thude
+      - Herbert Püschel
     year: 1972
     edition: 2., unveränderte Aufl.]
     language: German
@@ -7948,6 +8022,8 @@ titles:
     subtitle: Lyrik schreibender Arbeiter
     authors:
       - Josef Müller-Marein
+    editors:
+      - Jupp Müller
     year: 1972
     edition: '[1. Aufl.]'
     language: German
@@ -8622,6 +8698,8 @@ titles:
     authors:
       - Karl-Heinz Wenzel
       - Manfred Berger
+    editors:
+      - Freier Deutscher Gewerkschaftsbund
     year: 1973
     edition: 1. Aufl. 1.-15. Tsd
     language: German
@@ -8668,6 +8746,8 @@ titles:
   - title: Handbuch für den Vertrauensmann
     authors:
       - Freier Deutscher Gewerkschaftsbund
+    editors:
+      - Georg Gensel
     year: 1973
     edition: 8. überarb. Aufl
     language: German
@@ -9012,6 +9092,8 @@ titles:
   - title: Über künstlerisches Volksschaffen
     authors:
       - Hans Lange
+    editors:
+      - Horst Schnabel
     year: 1973
     language: German
     sources:
@@ -9109,6 +9191,7 @@ titles:
     verified: true
   - title: Wettbewerb und Arbeitsproduktivität
     subtitle: Über d. persönl. Pläne z. Steigerung d. Arbeitsproduktivität im Moskauer Dynamo-Werk
+    original_title: Sorevnovanie i proizvoditelʹnostʹ truda
     series: Nachgedacht, mitgemacht
     authors:
       - Vladimir A. Boldyrev
@@ -9219,6 +9302,8 @@ titles:
   - title: Anleitung zur Ersten Hilfe bei Unfällen durch elektrischen Strom
     authors:
       - FDGB Abteilung Arbeitsschutz
+    editors:
+      - FDGB
     year: 1974
     edition: 4. Aufl
     language: German
@@ -9836,6 +9921,8 @@ titles:
   - title: Einfluss von Lärm auf die Leistungsparameter des Systems Mensch-Maschine
     authors:
       - Manfred Rentzsch
+    editors:
+      - Zentralinstitut für Arbeitsschutz
     year: 1974
     edition: 1. Aufl. 1.-5. Tsd
     series: Schriftenreihe des Zentralinstituts für Arbeitsschutz Dresden
@@ -9875,6 +9962,9 @@ titles:
     subtitle: Auswahl von Reden und Schriften
     authors:
       - Fritz Heckert
+    editors:
+      - Hans Polzin
+      - Günter Thoms
     year: 1974
     edition: 1. Aufl
     language: German
@@ -9954,6 +10044,8 @@ titles:
   - title: Handbuch für den Kulturobmann
     authors:
       - Artur Brauer
+    editors:
+      - Freier Deutscher Gewerkschaftsbund
     year: 1974
     edition: 5., völlig neu bearb. Aufl
     language: German
@@ -10103,6 +10195,9 @@ titles:
   - title: Kleines Lexikon des Arbeitsschutzes
     authors:
       - Heinz Arldt
+    editors:
+      - Zentralinstitut für Arbeitsschutz
+      - Freier Deutscher Gewerkschaftsbund
     year: 1974
     edition: 3., korrigierte Aufl
     language: German
@@ -10123,6 +10218,8 @@ titles:
     subtitle: Eine Ausw. bewährter sowjet. u. DDR-Neuerermethoden
     authors:
       - Freier Deutscher Gewerkschaftsbund
+    editors:
+      - Gesellschaft für Deutsch-Sowjetische Freundschaft
     year: 1974
     edition: 1. Aufl. 1.-10. Tsd
     series: Nachgedacht, mitgemacht
@@ -10217,6 +10314,8 @@ titles:
     subtitle: Eine Einf. in d. Messung u. Beurteilung von Arbeitsplatz- u. Kommuallärm
     authors:
       - Werner Schirmer
+    editors:
+      - Zentralinstitut für Arbeitsschutz
     year: 1974
     edition: 1. Aufl. 1.-10. Tsd
     series: Schriftenreihe des Zentralinstituts für Arbeitsschutz Dresden
@@ -10333,6 +10432,9 @@ titles:
     subtitle: IV. Kongress d. Ges. f. Arbeitshygiene u. Arbeitsschutz in d. DDR vom 11.-13. Okt. 1972 in Dresden
     authors:
       - Gesellschaft für Arbeitshygiene und Arbeitsschutz in der Deutschen Demokratischen Republik
+    editors:
+      - Gesellschaft für Arbeitshygiene und Arbeitsschutz in der DDR
+      - Zentralinstitut für Arbeitsschutz
     year: 1974
     edition: 1. Aufl. 1.-3. Tsd
     series: Schriftenreihe des Zentralinstituts für Arbeitsschutz Dresden
@@ -10723,6 +10825,8 @@ titles:
     subtitle: (Ausw. von Reden u. Shriften)
     authors:
       - Fritz Heckert
+    editors:
+      - Hans Polzin
     year: 1974
     language: German
     sources:
@@ -10766,6 +10870,8 @@ titles:
   - title: Almanach für junge Gewerkschafter
     authors:
       - FDGB Abteilung Bildung
+    editors:
+      - FDGB
     year: 1975
     edition: 1. Aufl
     language: German
@@ -10934,6 +11040,8 @@ titles:
   - title: Arbeitsschutz im Konsumgüter-Binnenhandel
     authors:
       - H. Weṯerdorff
+    editors:
+      - Freier Deutscher Gewerkschaftsbund
     year: 1975
     language: German
     sources:
@@ -11616,6 +11724,8 @@ titles:
   - title: Die Kommission Agitation und Propaganda
     authors:
       - Ruth Becker
+    editors:
+      - Manfred Fischer
     year: 1975
     language: German
     pages: 35
@@ -11637,6 +11747,9 @@ titles:
     authors:
       - Lothar Hille
       - Helmut Zieten
+    editors:
+      - Deutschland
+      - FDGB Freier Deutscher Gewerkschaftsbund
     year: 1975
     language: German
     sources:
@@ -11704,6 +11817,8 @@ titles:
     subtitle: Volkswirtschaftl. Analyse ihres Zustandes in d. DDR
     authors:
       - Gerhard Lippold
+    editors:
+      - Zentralinstitut für Arbeitsschutz
     year: 1975
     edition: 2., überarb. Aufl
     series: Schriftenreihe des Zentralinstituts für Arbeitsschutz Dresden
@@ -11848,6 +11963,8 @@ titles:
     series: Arbeitsschutzpraxis
     authors:
       - Manfred Brandt
+    editors:
+      - Gewerkschaftshochschule "Fritz Heckert" beim Bundesvorstand des FDGB
     year: 1975
     language: German
     sources:
@@ -11995,6 +12112,8 @@ titles:
     authors:
       - Herbert Püschel
       - Gerhard Renneberg
+    editors:
+      - Freier Deutscher Gewerkschaftsbund
     year: 1975
     language: German
     sources:
@@ -12012,6 +12131,8 @@ titles:
   - title: Kennzeichnung von Gefahrenstellen und Sicherheitseinrichtungen im Betrieb durch Sicherheitsfarben und Sicherheitszeichen
     authors:
       - Heinz Pfalz
+    editors:
+      - Zentralinstitut für Arbeitsschutz
     year: 1975
     edition: 1. Aufl. 1.-10. Tsd
     series: Schriftenreihe des Zentralinstituts für Arbeitsschutz Dresden
@@ -12032,6 +12153,9 @@ titles:
   - title: Kleines Lexikon des Arbeitsschutzes
     authors:
       - Heinz Arldt
+    editors:
+      - Zentralinstitut für Arbeitsschutz
+      - Freier Deutscher Gewerkschaftsbund
     year: 1975
     edition: 4., unveränd. Aufl
     language: German
@@ -12483,6 +12607,9 @@ titles:
     subtitle: 'Industrie: Erl. wichtiger Begriffe'
     authors:
       - Bernau, Ger. Hochschule der Deutschen Gewerkschaften "Fritz Heckert."
+    editors:
+      - Siegfried Lindner
+      - Hochschule der Deutschen Gewerkschaften "Fritz Heckert"
     year: 1975
     edition: 4., neubearb. u. erw. Aufl
     language: German
@@ -12904,6 +13031,8 @@ titles:
   - title: Arbeitssicherheit beim Transport von Hand
     authors:
       - Martin Freitag
+    editors:
+      - Gewerkschaftshochschule "Fritz Heckert" beim Bundesvorstand des FDGB
     year: 1976
     edition: 1. Aufl
     series: Arbeitsschutzpraxis
@@ -12992,6 +13121,8 @@ titles:
     subtitle: Rechtliche Probleme d. Qualifizierung der Leitungskräfte und der Werktätigen im Gesundheits- und Arbeitsschutz
     authors:
       - Rudi Sander
+    editors:
+      - Zentralinstitut für Arbeitsschutz
     year: 1976
     edition: 2. Aufl
     series: Schriftenreihe des Zentralinstituts für Arbeitsschutz Dresden
@@ -13188,6 +13319,8 @@ titles:
   - title: Die Standardisierung von Forderungen des Gesundheits- und Arbeitsschutzes sowie des Brandschutzes
     authors:
       - Uwe Rieger
+    editors:
+      - Deutschland
     year: 1976
     edition: 1. Aufl., 1.-10. Tsd
     language: German
@@ -13230,6 +13363,8 @@ titles:
     subtitle: Tagungsmaterialien über die Umsetzung von Forschungsergebnissen
     authors:
       - Zentralinstitut für Berufsbildung der DDR
+    editors:
+      - Akademie der Wissenschaften der DDR
     year: 1976
     edition: 1. Aufl
     language: German
@@ -13461,6 +13596,8 @@ titles:
     subtitle: Weiterbildungskonferenz (6. Dresdner Fortbildungslehrgang), 5. bis 8. Nov. 1974 in Dresden
     authors:
       - Weiterbildungskonferenz Gesundheits- und Arbeitsschutz Dresden 1974
+    editors:
+      - Zentralinstitut für Arbeitsschutz
     year: 1976
     edition: 1. Aufl
     series: Schriftenreihe des Zentralinstituts für Arbeitsschutz Dresden
@@ -13727,6 +13864,7 @@ titles:
     verified: true
   - title: Klassenkampf und Gewerkschaften
     subtitle: Gegenwärtige Tendenzen u. d. Kampf für d. Einheit d. internat. Gewerkschaftsbewegung
+    original_title: Klassovaja borʹba i profsojuzy
     authors:
       - M. V. Baglaĭ
     year: 1976
@@ -14357,9 +14495,12 @@ titles:
         url: https://search.worldcat.org/title/838403341
     verified: true
   - title: WAO heute und die Gewerkschaften
+    original_title: Not segodnja i profsojuzy
     authors:
       - Ivan A. Slepov
       - Georgij T. Černenko
+    translators:
+      - Karl Hübner
     year: 1976
     language: German
     sources:
@@ -14829,6 +14970,8 @@ titles:
     series: Arbeitsschutzpraxis
     authors:
       - Lothar Liebmann
+    editors:
+      - Freier Deutscher Gewerkschaftsbund
     year: 1977
     language: German
     sources:
@@ -15142,6 +15285,8 @@ titles:
     subtitle: Grundlagen und praktische Erfahrungen
     authors:
       - Wolfgang Parthey
+    editors:
+      - Zentralinstitut für Arbeitsschutz
     year: 1977
     series: Schriftenreihe des Zentralinstituts für Arbeitsschutz Dresden
     language: German
@@ -15251,6 +15396,7 @@ titles:
     verified: true
   - title: Die sowjetischen Gewerkschaften im Grossen Vaterländischen Krieg
     subtitle: 1941 - 45; Erinnerungen
+    original_title: Sovetske profsojuzy v Velikoj Otvečestvennoj Vojne 1941-1945
     authors: []
     year: 1977
     language: German
@@ -15339,8 +15485,11 @@ titles:
     verified: true
   - title: Ein Tropfen Wasser, ein Körnchen Gold
     subtitle: Roman
+    original_title: Kaplja vody - krupica zolota
     authors:
       - Berdi Kerbabaev
+    translators:
+      - Heinz Kübart
     year: 1977
     language: German
     sources:
@@ -15476,6 +15625,10 @@ titles:
     subtitle: Ausgewählte Reden und Aufsätze, 1971-1975
     authors:
       - Herbert Warnke
+    editors:
+      - Charlotte Steinbrecher
+      - Alfred Förster
+      - Horst Förster
     year: 1977
     language: German
     sources:
@@ -16086,6 +16239,8 @@ titles:
   - title: Untersuchung von Arbeitsunfällen
     authors:
       - Manfred Rudloff
+    editors:
+      - Freier Deutscher Gewerkschaftsbund
     year: 1977
     edition: 1. Aufl. 1.-10. Tsd
     language: German
@@ -16393,6 +16548,8 @@ titles:
     series: (Arbeitsschutzpraxis)
     authors:
       - Lothar Schauer
+    editors:
+      - Gewerkschaftshochschule "Fritz Heckert" beim Bundesvorstand des FDGB
     year: 1978
     language: German
     sources:
@@ -16524,6 +16681,8 @@ titles:
     subtitle: Zur Geschichte des VEB Carl Zeiss Jena, Betrieb Eisfeld
     authors:
       - Sozialistische Einheitspartei Deutschlands
+    editors:
+      - Karl-Heinz May
     year: 1978
     language: German
     sources:
@@ -16667,6 +16826,8 @@ titles:
     series: Angebote
     authors:
       - Georgij Dmitrievič Gulia
+    translators:
+      - Ursula Teckelmann
     year: 1978
     language: German
     sources:
@@ -16733,6 +16894,8 @@ titles:
     subtitle: '7. Dresdner Fortbildungslehrgang für Arbeitsschutz, 18. bis 20. Oktober 1977 in Dresden: ausgewählte Referate'
     authors:
       - Dresdner Fortbildungslehrgang für Arbeitsschutz (7th 1977 Dresden, Germany)
+    editors:
+      - Zentralinstitut für Arbeitsschutz
     year: 1978
     edition: 1. Aufl
     series: Schriftenreihe des Zentralinstituts für Arbeitsschutz Dresden
@@ -16986,6 +17149,8 @@ titles:
     subtitle: Beiträge zur Geschichte des VEB Robotron-Elektronik Zella-Mehlis
     authors:
       - Horst Jäger
+    editors:
+      - Dagmar Römhild
     year: 1978
     edition: 1. Aufl
     language: German
@@ -17065,6 +17230,8 @@ titles:
     series: Angebote
     authors:
       - Lothar Kusche
+    editors:
+      - Renate Bachmann
     year: 1978
     language: German
     sources:
@@ -17305,6 +17472,8 @@ titles:
     subtitle: Anthologie
     authors:
       - Johannes Robert Becher
+    editors:
+      - Hans Baumgart
     year: 1978
     edition: 1. Aufl
     language: German
@@ -17354,6 +17523,8 @@ titles:
     authors:
       - Manfred Rudloff
       - Horst Schladebach
+    editors:
+      - Freier Deutscher Gewerkschaftsbund
     year: 1978
     language: German
     sources:
@@ -18267,10 +18438,13 @@ titles:
     subtitle: Prosa und Lyrik
     series: Angebote
     authors:
-      - Wolfgang Gruhn
       - Traute Stein
       - Joerg Schroeder
+    translators:
+      - Wolfgang Gruhn
+      - Jörg Schröder
       - Günther Stein
+      - Trauter Stein
     year: 1979
     language: German
     sources:
@@ -18671,8 +18845,11 @@ titles:
     verified: true
   - title: Lohn der Angst
     subtitle: Roman
+    original_title: Le salaire de la peur
     authors:
       - Georges Arnaud
+    translators:
+      - Hubertus Förster
     year: 1979
     language: German
     sources:
@@ -18866,6 +19043,8 @@ titles:
     subtitle: Lyrik für sozialistische Festtage und Feierstunden
     authors:
       - Helmut Preissler
+    editors:
+      - Helmut Preißler
     year: 1979
     edition: 2. Aufl
     language: German
@@ -18941,6 +19120,8 @@ titles:
   - title: Über die Gewerkschaften
     authors:
       - Karl Marx
+    editors:
+      - Institut für Marxismus-Leninismus
     year: 1979
     edition: 3. AUFL.
     language: German
@@ -19191,6 +19372,8 @@ titles:
     authors:
       - Monika Brückner
       - Renate Seiler
+    editors:
+      - Freier Deutscher Gewerkschaftsbund
     year: 1980
     language: German
     sources:
@@ -20080,6 +20263,8 @@ titles:
   - title: Larmarme Technik vom Reissbrett
     authors:
       - Werner Schirmer
+    editors:
+      - Zentralinstitut für Arbeitsschutz
     year: 1980
     language: German
     pages: 71
@@ -20203,6 +20388,8 @@ titles:
     subtitle: Satiren, Humoresken und Feuilletons
     authors:
       - Slang
+    editors:
+      - Wolfgang U. Schütte
     year: 1980
     edition: 1. Aufl
     language: German
@@ -20371,6 +20558,9 @@ titles:
     subtitle: Rechtsvorschriften
     authors:
       - Germany (East)
+    editors:
+      - Werner Henneberg
+      - Freier Deutscher Gewerkschaftsbund
     year: 1980
     edition: 1. Aufl
     series: Taschenbücher Arbeitsschutz
@@ -20559,8 +20749,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1621173496
     verified: true
   - title: Verurteilt zur Unsterblichkeit
+    original_title: Prigovorennye k bessmertiju
     authors:
       - Georgij I. Sviridov
+    translators:
+      - Heinz Kübart
     year: 1980
     language: German
     sources:
@@ -20764,6 +20957,12 @@ titles:
     series: Taschenbücher Arbeitsschutz
     authors:
       - Manfred Grapentin
+    editors:
+      - P. Koch
+      - Rainer Leye
+      - Joachim Liebig
+      - R. Rybarczyk
+      - Friedrich-Karl Scherer
     year: 1981
     language: German
     sources:
@@ -20964,6 +21163,9 @@ titles:
     series: Schriftenreihe zum Arbeitsgesetzbuch der DDR; 6
     authors:
       - Harald Bienert
+    editors:
+      - Uwe Franze
+      - Fritz Gericke
     year: 1981
     language: German
     sources:
@@ -21798,6 +22000,8 @@ titles:
     subtitle: Roman
     authors:
       - Jurij S. Krymov
+    translators:
+      - Herta von Schulz
     year: 1981
     language: German
     sources:
@@ -21903,8 +22107,11 @@ titles:
     verified: true
   - title: Winter ohne Schnee
     subtitle: Roman
+    original_title: Zima bez snjag
     authors:
       - Radoslav Michajlov
+    translators:
+      - Wolfgang Köppe
     year: 1981
     language: German
     sources:
@@ -22163,6 +22370,8 @@ titles:
     series: Arbeitsschutzpraxis
     authors:
       - Wolfgang Apfeld
+    editors:
+      - Gewerkschaftshochschule "Fritz Heckert" beim Bundesvorstand des FDGB
     year: 1982
     language: German
     sources:
@@ -22202,6 +22411,10 @@ titles:
     authors:
       - Rudi Just
       - FDGB
+    editors:
+      - Manfred Rudloff
+      - Ingrid Wilhelm
+      - Freier Deutscher Gewerkschaftsbund
     year: 1982
     language: German
     sources:
@@ -23174,6 +23387,9 @@ titles:
     series: Arbeitsschutzpraxis
     authors:
       - Martin Freitag
+    editors:
+      - Freier Deutscher Gewerkschaftsbund
+      - Verlag Tribüne Berlin
     year: 1983
     language: German
     sources:
@@ -23362,8 +23578,11 @@ titles:
     verified: true
   - title: Die Farbe der Seele
     subtitle: Roman
+    original_title: Sětgėlijn öngö
     authors:
       - Sonomyn Ločin
+    translators:
+      - Renate Bauwe
     year: 1983
     language: German
     sources:
@@ -23453,6 +23672,8 @@ titles:
     series: Werke in Einzelausgaben
     authors:
       - Karl Grünberg
+    editors:
+      - Hans Baumgart
     year: 1983
     language: German
     sources:
@@ -23566,6 +23787,8 @@ titles:
     authors:
       - Paul Resch
       - Gerhard Scheidt
+    editors:
+      - Freier Deutscher Gewerkschaftsbund
     year: 1983
     language: German
     sources:
@@ -23634,6 +23857,8 @@ titles:
     authors:
       - Jürgen Teichmüller
       - Erich Weigel
+    editors:
+      - Sozialversicherung der Arbeiter und Angestellten
     year: 1983
     language: German
     sources:
@@ -23969,6 +24194,8 @@ titles:
     series: Schriftenreihe die Kommissionen der Betriebsgewerkschaftsleitung
     authors:
       - Heinz Bauerfeld
+    editors:
+      - Freier Deutscher Gewerkschaftsbund
     year: 1983
     language: German
     sources:
@@ -24114,6 +24341,8 @@ titles:
   - title: Über das Manifest der Kommunistischen Partei
     authors:
       - Hermann Duncker
+    editors:
+      - Heinz Deutschland
     year: 1983
     language: German
     sources:
@@ -24139,6 +24368,8 @@ titles:
     authors:
       - Manfred Rudloff
       - Horst Schladebach
+    editors:
+      - Freier Deutscher Gewerkschaftsbund
     year: 1983
     language: German
     sources:
@@ -24330,6 +24561,8 @@ titles:
   - title: Arbeitsschutz bei Prüfarbeiten an elektrotechnischen Erzeugnissen
     authors:
       - Klaus Bödeker
+    editors:
+      - Freier Deutscher Gewerkschaftsbund
     year: 1984
     language: German
     sources:
@@ -24436,6 +24669,8 @@ titles:
   - title: Ausgewählte Schriften und Reden aus sechs Jahrzehnten
     authors:
       - Hermann Duncker
+    editors:
+      - Heinz Deutschland
     year: 1984
     edition: 1.Aufl. --
     language: German
@@ -24617,6 +24852,8 @@ titles:
     authors:
       - Stefan Otte
       - Siegfried Sahr
+    editors:
+      - Bettina Herzog
     year: 1984
     edition: 1. Aufl
     language: German
@@ -24635,8 +24872,10 @@ titles:
     verified: true
   - title: Die Männer vom unterirdischen Kontinent
     subtitle: Erzählung
+    original_title: Muži z podzemního kontinentu
     authors:
       - Josef Frais
+    translators:
       - Gustav Just
     year: 1984
     language: German
@@ -24720,6 +24959,8 @@ titles:
     series: Schriftenreihe die Kommissionen der Betriebsgewerkschaftsleitung
     authors:
       - Erich Rothhaar
+    editors:
+      - Freier Deutscher Gewerkschaftsbund
     year: 1984
     language: German
     sources:
@@ -24873,6 +25114,8 @@ titles:
     authors:
       - Jürgen Teichmüller
       - Erich Weigel
+    editors:
+      - Freier Deutscher Gewerkschaftsbund
     year: 1984
     language: German
     sources:
@@ -25280,6 +25523,8 @@ titles:
   - title: Wettbewerb und Wirtschaftsstrategie
     authors:
       - Rudolf Ellereit
+    editors:
+      - Gewerkschaftshochschule "Fritz Heckert" beim Bundesvorstand des FDGB
     year: 1984
     edition: 1. Aufl
     language: German
@@ -25409,6 +25654,8 @@ titles:
     series: Arbeitsschutzpraxis
     authors:
       - Wolfgang Müller
+    editors:
+      - Freier Deutscher Gewerkschaftsbund
     year: 1985
     language: German
     sources:
@@ -25451,6 +25698,8 @@ titles:
     subtitle: Rechtsvorschriften
     authors:
       - Germany (East)
+    editors:
+      - Walter Balasus
     year: 1985
     edition: 1. Aufl
     series: Taschenbücher Arbeitsschutz
@@ -25752,6 +26001,8 @@ titles:
     subtitle: Chronik 1945-1982
     authors:
       - H. Deutschland
+    editors:
+      - Gewerkschaftshochschule "Fritz Heckert" beim Bundesvorstand des FDGB
     year: 1985
     edition: 2., unveranderte Auflage
     language: German
@@ -26130,6 +26381,8 @@ titles:
     series: Arbeitsschutzpraxis
     authors:
       - Hans Lüdemann
+    editors:
+      - Freier Deutscher Gewerkschaftsbund
     year: 1985
     language: German
     sources:
@@ -26152,8 +26405,11 @@ titles:
     verified: true
   - title: Steine am Weg
     subtitle: Roman
+    original_title: Běh znaveného koně
     authors:
       - Stanislav Rudolf
+    translators:
+      - Lora Kowarjowa
     year: 1985
     language: German
     sources:
@@ -26406,6 +26662,8 @@ titles:
     subtitle: Neue Gedichte
     authors:
       - Peter Schütt
+    editors:
+      - Jutta Zimmer
     year: 1986
     edition: 2. Aufl
     series: Angebote
@@ -26510,6 +26768,8 @@ titles:
     subtitle: Ausgew. Dokumente 1965 - 1985
     authors:
       - Weltgewerkschaftsbund
+    translators:
+      - Jutta Waldner
     year: 1986
     language: German
     sources:
@@ -26760,6 +27020,8 @@ titles:
   - title: Erfüllt die Gewerkschaften mit dem Geist des Klassenkampfes
     authors:
       - Ernst Thälmann
+    editors:
+      - Hans Polzin
     year: 1986
     edition: 1. Aufl
     language: German
@@ -26791,9 +27053,12 @@ titles:
     series: Angebote
   - title: Gehversuch
     subtitle: Erzählung
+    original_title: Meander
     series: Angebote
     authors:
       - Andrzej Otre̜bski
+    translators:
+      - Roswitha Matwin-Buschmann
     year: 1986
     language: German
     sources:
@@ -27235,6 +27500,7 @@ titles:
     verified: true
   - title: ... Und der Hindin wachsen Klauen
     subtitle: Roman
+    original_title: La sueur des hommes
     authors:
       - Louis Akin
     year: 1987
@@ -27530,6 +27796,8 @@ titles:
     subtitle: Erinnerungen an wichtige Etappen meines Wirkens in der Arbeiterbewegung
     authors:
       - Hans Jendretzky
+    editors:
+      - Heinz Deutschland
     year: 1987
     language: German
     sources:
@@ -27745,6 +28013,7 @@ titles:
     subtitle: Gedichte
     authors:
       - Vladimir Majakovskij
+    translators:
       - Hugo Huppert
     year: 1987
     language: German
@@ -27837,6 +28106,8 @@ titles:
     subtitle: Antifaschistische Texte und Grafik aus dem Exil
     authors:
       - Johannes Wüsten
+    editors:
+      - Heinz Dieter Tschörtner
     year: 1987
     language: German
     isbn: '3730300377'
@@ -28531,6 +28802,8 @@ titles:
     subtitle: Erzählungen aus Ungarn
     authors:
       - Gyula Kurucz
+    translators:
+      - Jörg Buschmann
     year: 1988
     language: German
     sources:
@@ -28811,6 +29084,8 @@ titles:
     authors:
       - Helmut Preissler
       - Martin Viertel
+    editors:
+      - Helmut Preißler
     year: 1989
     edition: 1. Aufl
     language: German
@@ -29193,6 +29468,8 @@ titles:
     subtitle: Berichte, Fotos, Dokumente
     authors:
       - Zeno Zimmerling
+    editors:
+      - Sabine Zimmerling
     year: 1990
     edition: 2. Aufl
     language: German

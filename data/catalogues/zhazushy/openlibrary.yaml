@@ -50,6 +50,7 @@ titles:
     subtitle: Roman
     authors:
       - H̱ezmät Abdullin
+    translators:
       - I. Ščegilihin
     year: 1964
     language: Russian
@@ -61,6 +62,8 @@ titles:
     subtitle: Poema
     authors:
       - Zhūban Moldaghaliev
+    translators:
+      - N. (Naum) Korzhavin
     year: 1964
     language: Russian, Kazakh
     pages: 114
@@ -2476,6 +2479,7 @@ titles:
     authors:
       - Utebaj Kanahin
       - Utebai Kanakhin (Утебай Канахин)
+    translators:
       - N. Rovenskij
       - N. Rovenskii (Н. Ровенский)
     year: 1967
@@ -3454,7 +3458,8 @@ titles:
         url: https://lccn.loc.gov/72249040
     verified: true
   - title: Kozy-Korpeš i Bajan-slu
-    authors:
+    authors: []
+    translators:
       - V. Potapovoj
     year: 1968
     language: Not recorded
@@ -3465,6 +3470,7 @@ titles:
   - title: Krov' i pot
     authors:
       - Abdižamil K. Nurpeisov
+    translators:
       - Jurij P. Kazakov
     year: 1968
     language: Russian
@@ -4008,8 +4014,10 @@ titles:
     subtitle: Rasskaz.--Frontovaia tetradʹ.--Vetka tamariska. Povesti
   - title: Tvorčestvo Žumagali Saina
     subtitle: Literaturnye očerki i stat'i
+    original_title: Žūmaġali Sainnyṅ ömiri men tvorčestvosy
     authors:
       - Ädí Šärípov
+    translators:
       - Aleksej Bragin
     year: 1968
     language: Kazakh
@@ -4732,9 +4740,10 @@ titles:
       - M. K. H̱ämraev
       - Rišat Sabitov
       - Machinur Mustafʹevna Alieva
-      - Nina Skalkovskaja
       - Sektor ujgurovedenija Akademii nauk Kazachskoj SSR
       - Akademija Nauk Kazachskoj SSR
+    translators:
+      - Nina Skalkovskaja
     year: 1969
     language: Russian
     sources:
@@ -4993,6 +5002,9 @@ titles:
   - title: Kobyz i kop'e
     authors:
       - Makhtar Magauin
+    translators:
+      - Pavel P. Kosenko
+      - Pavl Kosenko
     year: 1970
     language: Russian
     pages: 159
@@ -5235,6 +5247,7 @@ titles:
     subtitle: Monografija
   - title: Ômìr
     subtitle: Roman
+    original_title: Une vie
     authors:
       - Guy de Maupassant
       - A̋bìš Kekìlbaev
@@ -5419,6 +5432,7 @@ titles:
     authors:
       - Abáj Qŭnanbaev
       - Abai Kunanbaev (Абай Кунанбаев)
+    translators:
       - Satimžan Sanbaev
       - Satimzhan Sanbaev (Сатимжан Санбаев)
     year: 1970
@@ -5591,6 +5605,7 @@ titles:
     subtitle: Vospominanija
     authors:
       - Kažim Džumaliev
+    translators:
       - Konstantin N. Altajskij
     year: 1970
     language: Russian
@@ -6551,6 +6566,7 @@ titles:
   - title: Indijskaja povest'
     authors:
       - Tachavi Achtanov
+    translators:
       - Vasilij Pavlovič Aksënov
     year: 1972
     language: Russian
@@ -6677,6 +6693,8 @@ titles:
     verified: true
   - title: Muhtar Auèzov v vospominaniâh sovremennikov. Sostavlenie, vstupitelʹnaâ statʹâ i kommentarii L. M. Auèzovoj
     authors: []
+    editors:
+      - Lejla Muhtarovna Auèzova
     year: 1972
     language: Russian
     sources:
@@ -6685,6 +6703,8 @@ titles:
     verified: true
   - title: Mukhtar Auezov v vospominaniiakh sovremennikov
     authors: []
+    editors:
+      - Evgeniia Vasil'evna Lizunova
     year: 1972
     language: Russian
     pages: 358
@@ -6896,6 +6916,7 @@ titles:
     authors:
       - Gabit Musrepov
       - Gabit Musrepov (Габит Мусрепов)
+    translators:
       - Vladimir Dmitrievič Dudincev
       - Vladimir Dmitrievich Dudintsev (Владимир Дмитриевич Дудинцев)
       - N. Gordeeva
@@ -7062,8 +7083,10 @@ titles:
         url: https://search.worldcat.org/title/78943294
     verified: true
   - title: Spartak
+    original_title: Spartaco
     authors:
       - Raffaele Giovagnoli
+    translators:
       - Žüsíp Altajbaev
     year: 1972
     language: Kazakh
@@ -9734,6 +9757,7 @@ titles:
     subtitle: 'Povesti: Perevody s kazachskogo'
     authors:
       - Safuan Šajmerdenov
+    translators:
       - O. Saraktaš
     year: 1974
     language: Not recorded
@@ -10272,6 +10296,7 @@ titles:
   - title: Zapiski vrača
     authors:
       - Istore Urazakov
+    translators:
       - German Maksimov
     year: 1974
     language: Russian
@@ -12042,7 +12067,8 @@ titles:
     verified: true
   - title: Karaganda
     subtitle: Roman
-    authors:
+    authors: []
+    translators:
       - Gabiden Mustafin
       - Gabiden Mustafin (Габиден Мустафин)
     year: 1976
@@ -12225,8 +12251,11 @@ titles:
     verified: true
     subtitle: '[Pushkinovedcheskie issledovaniya]'
   - title: Promel'knuvšij meteor
+    original_title: Aḳḳan žūldyz
     authors:
       - Säbit Mūkan Mūkanov
+    translators:
+      - Aleksej Bragin
     year: 1976
     language: Russian
     sources:
@@ -12721,6 +12750,7 @@ titles:
     authors:
       - Marat Sabitovič Mukanov
       - Marat Sabitovich Mukanov (Марат Сабитович Муканов)
+    translators:
       - Semen Rodinov
       - Semen Rodinov (Семен Родинов)
     year: 1977
@@ -12780,6 +12810,7 @@ titles:
     subtitle: Povest'
     authors:
       - Ķurvan Tohtämov
+    translators:
       - Leonid V. Chanbekov
     year: 1977
     language: Russian
@@ -12854,8 +12885,10 @@ titles:
     verified: true
   - title: Groza
     subtitle: Roman
+    original_title: Najzágaj
     authors:
       - Älžappar Äbı́šev
+    translators:
       - Aleksej Beljaninov
     year: 1977
     language: Russian
@@ -13002,7 +13035,8 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=118576111X
     verified: true
   - title: Ḳožanasyr hikajalary
-    authors:
+    authors: []
+    translators:
       - Töken Äbdírahmanov
     year: 1977
     language: Kazakh
@@ -13224,8 +13258,10 @@ titles:
     verified: true
   - title: Plemja mladoe
     subtitle: Izbrannye proizvedenija
+    original_title: Ösken örken
     authors:
       - Mūhtar Äuezov
+    translators:
       - Aleksej Pantielev
     year: 1977
     language: Russian
@@ -13270,6 +13306,7 @@ titles:
   - title: Poterjannoe zoloto ili ... nevesta pod ognem
     authors:
       - Sadïqbek Adambekov
+    translators:
       - Jurij Plaševskij
     year: 1977
     language: Russian
@@ -13359,8 +13396,10 @@ titles:
     verified: true
   - title: Šajḳalġan šaṅyraḳ
     subtitle: Roman
+    original_title: Poterjanyj krov
     authors:
       - Jonas K. Abižjus
+    translators:
       - Hajdolla Tílemísov
     year: 1977
     language: Kazakh
@@ -13491,9 +13530,11 @@ titles:
     verified: true
   - title: Taṅ säri
     subtitle: Roman
+    original_title: Tret'i petuchi
     series: Dostyḳ kitaphanasy
     authors:
       - Anna P. Lupan
+    translators:
       - Nūrġazy Šäkeev
     year: 1977
     language: Kazakh
@@ -13717,6 +13758,7 @@ titles:
     subtitle: Stichi, ballady, poėma
     authors:
       - Saġi Žienbaev
+    translators:
       - Gennadij V. Serebrjakov
     year: 1977
     language: Russian
@@ -14126,8 +14168,10 @@ titles:
     verified: true
   - title: Kljatva
     subtitle: Roman
+    original_title: Ant
     authors:
       - Mūhamedžan Düzenov
+    translators:
       - Leonid Krivoščekov
     year: 1978
     language: Russian
@@ -14236,7 +14280,8 @@ titles:
     subtitle: Amanat; Romandar
   - title: Maržan söz
     subtitle: Makal-mätelder
-    authors:
+    authors: []
+    translators:
       - Mūzafar Älímbaev
     year: 1978
     language: Kazakh
@@ -14674,6 +14719,8 @@ titles:
     subtitle: Rasskazy
     authors:
       - Ḣezmăt Abdullin
+    translators:
+      - Aleksandra Samojlenko
     year: 1978
     language: Russian
     pages: 128
@@ -15363,8 +15410,10 @@ titles:
     verified: true
   - title: Molodoe pokolenie
     subtitle: Roman
+    original_title: Žas tülekter
     authors:
       - Älžappar Äbı́šev
+    translators:
       - Aleksej Beljaninov
     year: 1979
     language: Russian
@@ -15826,6 +15875,10 @@ titles:
     subtitle: Izbranye perevody
     authors:
       - Evgeniĭ Mikhaĭlovich Vinokurov
+    editors:
+      - Evgenij M. Vinokurov
+    translators:
+      - Evgenij Michajlovič Vinokurov
     year: 1979
     language: Russian
     pages: 138
@@ -16458,7 +16511,8 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=438078764
     verified: true
   - title: Kazahskie poslovicy i pogovorki
-    authors:
+    authors: []
+    translators:
       - Naum Grebnev
       - Naum Grebnev (Наум Гребнев)
     year: 1980
@@ -17884,6 +17938,8 @@ titles:
     subtitle: Poėmy, ballady, rubai
     authors:
       - Abdughopur Qutluqov
+    translators:
+      - Valentin Smirnov
     year: 1981
     language: Russian
     pages: 82
@@ -18304,9 +18360,11 @@ titles:
     verified: true
   - title: Zäbírlengender
     subtitle: Roman
+    original_title: Kämḥetelgändär
     series: Dostyḳ kítaphanasy
     authors:
       - Zäjnäp Biiševa
+    translators:
       - Zūlḳarnaj Saḳiev
     year: 1981
     language: Kazakh
@@ -18876,6 +18934,7 @@ titles:
     series: Biblioteka "Družba"
     authors:
       - Ibraḫim Salahov
+    translators:
       - Ömiržan Ospanov
     year: 1982
     language: Kazakh
@@ -19821,8 +19880,10 @@ titles:
     verified: true
   - title: Utrennjaja zvezda
     subtitle: Roman v 2-ch knigach
+    original_title: Taṇ žūldyzy
     authors:
       - Žüsípbek Arystanov
+    translators:
       - Vladimir Ermačenkov
     year: 1982
     language: Russian
@@ -20431,6 +20492,8 @@ titles:
   - title: Eki tomdyḳ taṅdamaly šyġarmalar
     authors:
       - Isa Bajzaḳov
+    editors:
+      - Arasanbaj Estenov
     year: 1983
     language: Kazakh
     sources:
@@ -20605,6 +20668,8 @@ titles:
     subtitle: Mazdak -- roman; Iskuplenie dabira -- roman; Povesti krasnykh i chernykh peskov
     authors:
       - Moris Simashko
+    editors:
+      - Ädi Šärípov
     year: 1983
     language: Russian
     pages: 472
@@ -20760,6 +20825,7 @@ titles:
     subtitle: Roman, povesti, rasskazy
     authors:
       - Turġan Tohtämov
+    translators:
       - Nikolaj Gora
     year: 1983
     language: Russian
@@ -21979,6 +22045,7 @@ titles:
     subtitle: 'Istoričeskij roman: Perevod s ujgurskogo'
     authors:
       - Mašur Ruziev
+    translators:
       - N. Rovenskij
     year: 1984
     language: Not recorded
@@ -22163,6 +22230,8 @@ titles:
     authors:
       - Toktagali Žangelʹdinovič Žangelʹdin
       - Toktagali Zhangeldinovich Zhangeldin (Токтагали Жангельдинович Жангельдин)
+    editors:
+      - Bašit R. Kazychanova
     year: 1984
     language: Russian
     sources:
@@ -22270,6 +22339,8 @@ titles:
     authors:
       - Īliias Zhansu̇gīrov
       - Mukhamedzhan Karataev
+    editors:
+      - Muchameǆan Karataev
     year: 1984
     language: Russian
     pages: 270
@@ -22520,6 +22591,7 @@ titles:
     series: Kazachskaja proza
     authors:
       - Estaj Murzachmetov
+    translators:
       - Amantaj Achetov
     year: 1984
     language: Russian
@@ -22573,6 +22645,7 @@ titles:
     series: Kazachskaja proza
     authors:
       - Täken Älimḳūlov
+    translators:
       - Maja Ivanova
     year: 1984
     language: Russian
@@ -22584,6 +22657,8 @@ titles:
     subtitle: Povesti kazakhskikh pisateleĭ
     authors:
       - S. Sanbaev
+    editors:
+      - Raisa Ch Aroslanova
     year: 1984
     language: Russian
     pages: 270
@@ -22850,6 +22925,7 @@ titles:
     subtitle: Roman
     authors:
       - Sabit Mukanovič Mukanov
+    translators:
       - Aleksej Bragin
     year: 1984
     language: Not recorded
@@ -23026,9 +23102,12 @@ titles:
     verified: true
   - title: Sedaja step'
     subtitle: Roman. Perev. s kazachskogo
+    original_title: Aķdala
     series: Kazachskaja proza
     authors:
       - Köríbaj Ahmetbekov
+    translators:
+      - Tamara Zolotuchina
     year: 1984
     language: Russian
     sources:
@@ -24290,6 +24369,8 @@ titles:
     series: Kazachskaja proza
     authors:
       - Äbíš Kekílbajūly
+    translators:
+      - Gerolʹd Belʹger
     year: 1985
     language: Russian
     sources:
@@ -24399,6 +24480,8 @@ titles:
     subtitle: Povesti, rasskazy
     authors:
       - Maral Sqaqbaev
+    translators:
+      - Lidija A. Obuchova
     year: 1985
     language: Russian
     pages: 332
@@ -25314,6 +25397,7 @@ titles:
     subtitle: 'Ġazaldar men dastandar = Ujgurskie uzory: stichi i poėmy'
     authors:
       - Bilal Nazym
+    translators:
       - Marfuġa Ajthożina
       - Abylaj Tügelbaev
     year: 1985
@@ -25326,8 +25410,9 @@ titles:
     subtitle: Ġazaldar men dastandar
     authors:
       - Bilal Nazim
-      - Marfuġa Ajthożina
       - Nazym Bilal
+    translators:
+      - Marfuġa Ajthożina
     year: 1985
     language: Not recorded
     sources:
@@ -26261,6 +26346,7 @@ titles:
     subtitle: 'Roman: Avtorizovanyj perevod s kazachskogo'
     authors:
       - Adij Šaripov
+    translators:
       - Nikolaj Kuzʹmin
     year: 1986
     language: Not recorded
@@ -26272,6 +26358,7 @@ titles:
     subtitle: 'Dokumentalʹnaja povestʹ: Perevod s kazachskogo'
     authors:
       - Ibraj Žachaev
+    translators:
       - A. Egorov
     year: 1986
     language: Not recorded
@@ -26607,6 +26694,10 @@ titles:
       - Ә. Қoңyratbaev (Ә. Қоңыратбаев)
       - M. Bajdìldaev
       - M. Baidildaev (М. Байділдаев)
+    editors:
+      - Ä. Ḳoṅyratbaev
+    translators:
+      - Äuelbek Ķoṇyratbaev
     year: 1986
     language: Kazakh
     sources:
@@ -26641,6 +26732,8 @@ titles:
     subtitle: Ȯlengder, tolghaular, termeler, aĭtys
     authors:
       - Aqmolla
+    editors:
+      - Burkit Isakakov
     year: 1986
     language: Kazakh
     pages: 171
@@ -26711,6 +26804,7 @@ titles:
     subtitle: 'Povesti: Perevod s kazachskogo'
     authors:
       - Muchtar Muchanovič Magauin
+    translators:
       - Ju Gert
     year: 1986
     language: Not recorded
@@ -28347,6 +28441,8 @@ titles:
     subtitle: Ȯlengder men poėmalar
     authors:
       - Esenbaĭ Du̇ĭsenbaev
+    editors:
+      - Esenbaj Dujsenbaev
     year: 1987
     language: Kazakh
     pages: 252
@@ -28850,6 +28946,8 @@ titles:
     subtitle: Kniga stichov
     authors:
       - Ḳadyr Myrzaliev
+    translators:
+      - Aleksandr Kušner
     year: 1987
     language: Kazakh
     sources:
@@ -28862,6 +28960,8 @@ titles:
     subtitle: Roman, povester, äṇgímeler
     authors:
       - Aḳan Nūrmanov
+    editors:
+      - Önerbaj Ķožanov
     year: 1987
     language: Kazakh
     sources:
@@ -29160,6 +29260,8 @@ titles:
     subtitle: Ȯlengder, mysaldar, aĭtystar
     authors:
       - Molda Mūsa
+    editors:
+      - M. Toḳḳožaev
     year: 1987
     series: Asyl mūra
     language: Kazakh
@@ -29534,6 +29636,7 @@ titles:
     subtitle: Povesti
     authors:
       - Adam Mekebaev
+    translators:
       - T. Ošanina
     year: 1987
     language: Not recorded
@@ -29623,6 +29726,7 @@ titles:
     series: '"Dostyḳ" kitapchanasy'
     authors:
       - Alim Kešokov
+    translators:
       - Dínäš Nūrmūhanbetov
     year: 1987
     language: Kazakh
@@ -29663,6 +29767,7 @@ titles:
     subtitle: Roman-dilogija
     authors:
       - Hažymūrat Rahimov
+    translators:
       - Bigel'din Gabdullin
     year: 1987
     language: Not recorded
@@ -29841,6 +29946,7 @@ titles:
     subtitle: 'Stichi i poėmy: Perevod s kazachskogo'
     authors:
       - Abdilʹda Tažibaev
+    translators:
       - N. Grebnev
     year: 1987
     language: Not recorded
@@ -30752,6 +30858,8 @@ titles:
   - title: Ertegīler
     authors:
       - Z. A. Akhmetov
+    editors:
+      - Z. Ahmetov
     year: 1988
     series: Qazaq khalyq ădebieti
     language: Kazakh
@@ -30784,6 +30892,7 @@ titles:
     subtitle: Povesti
     authors:
       - Kadirbek Segizbaev
+    translators:
       - K. Sejsenbaeva
     year: 1988
     language: Russian
@@ -30946,6 +31055,8 @@ titles:
       - Z. Ahmetov
       - Ä. Almanov
       - Institut Literatury i Iskusstva Imeni M. O. Auėzova
+    editors:
+      - T. Alpysbaev
     year: 1988
     language: Kazakh
     sources:
@@ -31929,6 +32040,7 @@ titles:
     subtitle: Povest'
     authors:
       - Ġabit M. Müsrepov
+    translators:
       - Stepan Pavlovič Zlobin
     year: 1988
     language: Russian
@@ -32064,6 +32176,7 @@ titles:
     subtitle: 'Povesti i rasskazy: Perevody s kazachskogo'
     authors:
       - Bolat Bodaubaev
+    translators:
       - Bachytžan Momyš-uly
     year: 1988
     language: Not recorded
@@ -32611,6 +32724,7 @@ titles:
     subtitle: Roman
     authors:
       - Zamanbek Žäkenov
+    translators:
       - Amantaj Achetov
     year: 1988
     language: Russian
@@ -33146,6 +33260,8 @@ titles:
   - title: Dastandar
     authors:
       - Omar Shipin
+    editors:
+      - S. Äsı́pov
     year: 1989
     language: Kazakh
     pages: 213
@@ -33634,6 +33750,7 @@ titles:
     subtitle: Povesti
     authors:
       - Orazbek Särsenbaev
+    translators:
       - Pavel P. Kosenko
     year: 1989
     language: Russian
@@ -34275,6 +34392,7 @@ titles:
     subtitle: Roman-dilogija
     authors:
       - Hažymūrat Rahimov
+    translators:
       - Bigel'din Gabdullin
     year: 1989
     language: Not recorded
@@ -34553,6 +34671,7 @@ titles:
     subtitle: Roman; perevod s kazachskogo
     authors:
       - Sofy Smataev
+    translators:
       - V. Michajlov
     year: 1989
     language: Russian
@@ -35187,6 +35306,8 @@ titles:
   - title: Dastandar
     authors:
       - Z. A. Akhmetov
+    editors:
+      - T. Alpysbaev
     year: 1990
     series: Qazaq khalyq ădebietī
     language: Kazakh
@@ -36918,6 +37039,7 @@ titles:
     subtitle: Povesti i rasskazy
     authors:
       - Kažigali Muchanbetkaliev
+    translators:
       - Vladimir S. Michajlov
     year: 1991
     language: Not recorded
@@ -36942,6 +37064,8 @@ titles:
   - title: Ekí tomdyķ tandamaly šyǵarmalar
     authors:
       - Sajyn Mūratbekov
+    editors:
+      - Naġima Derbísalina
     year: 1991
     language: Russian
     sources:
@@ -37237,6 +37361,7 @@ titles:
     subtitle: Roman
     authors:
       - Ämen Äziev
+    translators:
       - Farid Fachrutdinov
     year: 1991
     language: Not recorded
@@ -37886,6 +38011,8 @@ titles:
   - title: Üš tomdyḳ šyġarmalar žinaġy
     authors:
       - Mūḳaġali Maḳataev
+    editors:
+      - Lašyn Äzímžanova
     year: 1991
     language: Kazakh
     sources:
@@ -37956,6 +38083,8 @@ titles:
     subtitle: Maqalalar, estelīkter
     authors:
       - Beĭbīt Qoĭshybaev
+    editors:
+      - Bejbı́t Ķojšybaev
     year: 1991
     language: Kazakh
     pages: 269

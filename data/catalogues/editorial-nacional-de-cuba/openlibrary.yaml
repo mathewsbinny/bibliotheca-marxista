@@ -497,6 +497,7 @@ titles:
     verified: true
   - title: El rojo y el negro
     subtitle: Crónica del siglo XIX
+    original_title: Le rouge et le noir
     series: Biblioteca del pueblo
     authors:
       - Stendhal
@@ -1391,6 +1392,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb43434369z
     verified: true
   - title: Obras completas
+    original_title: History of classical Greek literature
     authors:
       - José Martí
     year: 1965
@@ -1555,6 +1557,8 @@ titles:
   - title: José Martí. Obras completas
     authors:
       - José Martí
+    translators:
+      - Helen Hunt Jackson
     language: Spanish
     sources:
       - title: BnF catalogue record cb330915786

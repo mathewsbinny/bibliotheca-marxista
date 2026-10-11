@@ -219,6 +219,7 @@ titles:
     subtitle: Roman
     authors:
       - Wanda Wasilewska
+    translators:
       - Branko Ćirlić
     year: 1946
     language: Serbian
@@ -229,6 +230,7 @@ titles:
         url: https://search.worldcat.org/title/830152191
     verified: true
   - title: Geometrija za više razrede srednjih škola
+    original_title: 'Geometrija : učebnik dlja 9-10 klassov srednej školy / A.P. Kiselev. Častʹ 2: Stereometrija. 6oe izdanje. Moskva : Gosudarstvennoe učebno-pedagogičeskoe izdatelʹstvo Narkomprosa RSFSR, 1944'
     authors:
       - Andrej P. Kiselëv
     year: 1946
@@ -274,6 +276,7 @@ titles:
     verified: true
   - title: Kako Gertruda uči svoju decu
     subtitle: Pokušaj da se majke nauče kako da svoju decu same poučavaju
+    original_title: Wie Gertrud ihre Kinder lehrt
     authors:
       - Johann Heinrich Pestalozzi
       - Milorad Vanlić
@@ -549,9 +552,11 @@ titles:
     verified: true
   - title: Sluga Jernej
     subtitle: Pripovetka
+    original_title: Hlapec Jernej in njegova pravica
     series: Jevtina biblioteka; 2-3
     authors:
       - Ivan Cankar
+    translators:
       - Đuza Radović
       - Ђuza Radoviћ (Ђуза Радовић)
     year: 1946
@@ -626,6 +631,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1524228702
     verified: true
   - title: Vaspitanje igrom i umetnošću
+    original_title: Gedanken über Erziehung durch Spiel und Kunst
     series: Pedagoška biblioteka; 10
     authors:
       - Vićentije Rakić
@@ -895,6 +901,8 @@ titles:
     subtitle: Zbornik
     authors:
       - Tanasije Mladenović
+    editors:
+      - Tanasiјe Mladenoviћ (Танасије Младеновић)
     year: 1947
     language: Croatian
     sources:
@@ -1126,6 +1134,8 @@ titles:
   - title: Pisma
     authors:
       - Vuk Stefanović Karadžić
+    editors:
+      - Ðuro Gavela
     year: 1947
     language: Serbian
     pages: 298
@@ -1246,8 +1256,9 @@ titles:
     subtitle: Istorijski roman s kraja 18 i početka 19 veka
     authors:
       - Stefan Żeromski
-      - Stjepan Musulin
       - Jan Karol Wende
+    translators:
+      - Stjepan Musulin
     year: 1947
     language: Serbian
     sources:
@@ -1541,6 +1552,8 @@ titles:
     subtitle: Komedija u 5 činova
     authors:
       - Marin Držić
+    editors:
+      - Dragoljub Pavlović
     year: 1948
     language: Croatian
     sources:
@@ -1686,8 +1699,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=357666763
     verified: true
   - title: Mladost
+    original_title: Youth
     authors:
       - Joseph Conrad
+    translators:
       - Milenko Jovanović
     year: 1948
     language: Serbian
@@ -2422,6 +2437,7 @@ titles:
     subtitle: Izbor iz uporednih životopisa
     authors:
       - Plutarque
+    translators:
       - Miloš Đurić
       - Milosh Ђuriћ (Милош Ђурић)
     year: 1950
@@ -2454,6 +2470,7 @@ titles:
     authors:
       - Aleksandr Sergeevič Puškin
       - Aleksandr Sergeevich Pushkin (Александр Сергеевич Пушкин)
+    translators:
       - Božidar Kovačević
       - Bozhidar Kovacheviћ (Божидар Ковачевић)
     year: 1950
@@ -2549,9 +2566,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/009893449
     verified: true
   - title: Fuente Ovehuna komedija u tri čina
+    original_title: Fuenteovejuna
     series: Pozorišna biblioteka; 28
     authors:
       - Lope de Vega
+    translators:
       - Dragoslav Ilić
     year: 1950
     language: Serbian
@@ -2797,6 +2816,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=412171481
     verified: true
   - title: Odiseja
+    original_title: Odyssea
     series: Omladinska biblioteka
     authors:
       - Homerus
@@ -3023,6 +3043,8 @@ titles:
     subtitle: Ili o zakonima fizičkog i moralnog sveta
     authors:
       - Paul Henri Dietrich baron d' Holbach
+    editors:
+      - Dušan Nedeljković
     year: 1950
     language: Serbian
     sources:
@@ -3243,6 +3265,9 @@ titles:
   - title: Cjelokupna djela P. [Petar] P. [Petrović] Njegoša
     authors:
       - Pierre Njegoš
+    editors:
+      - Radosav Bošković
+      - Mihailo Stevanović
     year: 1951
     language: Serbian
     sources:
@@ -3587,6 +3612,8 @@ titles:
   - title: Novele i crtice
     authors:
       - Ivan Cankar
+    translators:
+      - Dora Pilković-Maksimović
     year: 1951
     language: Serbian
     pages: 207
@@ -3667,6 +3694,9 @@ titles:
     series: Cjelokupna djela P. P. Njegoša; 5
     authors:
       - Petar Petrović Njegoš
+    editors:
+      - Mihailo Stevanović
+      - Radosav Bošković
     year: 1951
     language: Serbian
     sources:
@@ -3755,6 +3785,9 @@ titles:
     authors:
       - Petar Petrović Njegoš
       - Petar Petroviћ Њegosh (Петар Петровић Његош)
+    editors:
+      - Miraš Kičović
+      - Ljubomir Durković-Jakšić
     year: 1951
     language: Serbian
     sources:
@@ -4085,6 +4118,9 @@ titles:
     authors:
       - Nikola Grulović
       - Mika Todorović
+    editors:
+      - Nikola Gruloviћ (Никола Груловић)
+      - Mika Todoroviћ (Мика Тодоровић)
     year: 1951
     language: Serbian
     sources:
@@ -4181,6 +4217,9 @@ titles:
     series: Cjelokupna djela P. P. Njegoša / Petar Petrović Njegoš; 1
     authors:
       - Peter
+    editors:
+      - Nikola Banašević
+      - Mihailo Stevanović
     year: 1951
     language: Serbian
     sources:
@@ -4363,6 +4402,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BB09133343
     verified: false
   - title: Androkle i lav
+    original_title: Androcles and Lion
     series: Pozorišna biblioteka; 35
     authors:
       - Bernard Shaw
@@ -4512,6 +4552,7 @@ titles:
         url: https://search.worldcat.org/title/25484127
     verified: true
   - title: Derboransa
+    original_title: Derborence
     series: Savremena strana kńiževnost
     authors:
       - C. F. Ramuz
@@ -4523,6 +4564,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991026314709705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Diktatura kralja Aleksandra
+    original_title: La dictature du roi Alexandre
     authors:
       - Svetozar Pribićević
     year: 1952
@@ -5163,6 +5205,9 @@ titles:
     series: Cjelokupna djela P. P. Njegoša / Petar Petrović Njegoš; 4
     authors:
       - Peter
+    editors:
+      - Mihailo Stevanović
+      - Radovan Lalić
     year: 1952
     language: Serbian
     sources:
@@ -5201,6 +5246,10 @@ titles:
     subtitle: Zbornik
     authors:
       - Đuza Radović
+    editors:
+      - Ђuza Radoviћ (Ђуза Радовић)
+      - Milorad Panić-Surep
+      - Milorad Paniћ-surep (Милорад Панић-Суреп)
     year: 1952
     language: Serbian
     pages: 444
@@ -5498,6 +5547,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=115672063X
     verified: true
   - title: Diktatura kralja Aleksandra
+    original_title: La dictature du roi Alexandre
     authors:
       - Svetozar Pribićević
     year: 1953
@@ -5558,6 +5608,7 @@ titles:
         url: https://d-nb.info/577727613
     verified: true
   - title: Gec od Berlihingena vitez za gvozdenom rukom
+    original_title: Götz von Berlichingen mit der eisernen Hand
     series: Pozorišna biblioteka; 38
     authors:
       - Johann Wolfgang von Goethe
@@ -5758,6 +5809,9 @@ titles:
   - title: Opšti katalog knjiga
     authors:
       - Boško M. Veljković
+    editors:
+      - Boško Veljković
+      - Boshko Veљkoviћ (Бошко Вељковић)
     year: 1953
     language: Serbian
     pages: 827
@@ -5773,6 +5827,7 @@ titles:
     subtitle: Roman
     authors:
       - Klod Avlin
+    translators:
       - Raško Dimitrijevič
     year: 1953
     language: Serbian
@@ -5794,6 +5849,8 @@ titles:
     authors:
       - Petar Petrović Njegoš
       - Petar Petroviћ Њegosh (Петар Петровић Његош)
+    editors:
+      - Miraš Kičović
     year: 1953
     language: Serbian
     sources:
@@ -5805,6 +5862,8 @@ titles:
   - title: Pjesme, Luča mikrokozma, Proza, Prijevodi
     authors:
       - Bishop of Montenegro Prince Peter II
+    editors:
+      - Miraš Kičović
     year: 1953
     series: His Celokupna dela -- 2
     language: Serbian
@@ -6014,6 +6073,8 @@ titles:
   - title: Sabrana dela
     authors:
       - Simo Matavulj
+    editors:
+      - Ðuza Radović
     year: 1953
     series: Srpski pisci
     language: Serbian
@@ -6069,6 +6130,8 @@ titles:
     authors:
       - Milan Kašanin
       - Sreten Stojanović
+    editors:
+      - Momčilo Stevanovič
     year: 1953
     language: Serbian
     pages: 94
@@ -6096,6 +6159,9 @@ titles:
   - title: Šćepan Mali
     authors:
       - Pierre Njegoš
+    editors:
+      - Mihailo Stevanović
+      - Radovan Lalić
     year: 1953
     language: Serbian
     sources:
@@ -6149,6 +6215,8 @@ titles:
   - title: Srpske narodne pjesme
     authors:
       - Vuk Stefanović Karadžić
+    editors:
+      - Vuk Stefanoviћ Karaџiћ (Вук Стефановић Караџић)
     year: 1953
     language: Serbian
     sources:
@@ -6367,8 +6435,9 @@ titles:
     subtitle: Tragedija
     authors:
       - Jean Racine
-      - Milan Dedinac
       - Milan Dedinats (Милан Дединац)
+    translators:
+      - Milan Dedinac
     year: 1954
     language: Serbian
     sources:
@@ -6425,9 +6494,11 @@ titles:
         url: https://search.worldcat.org/title/13408985
     verified: true
   - title: Konjički gambit
+    original_title: Knight's gambit
     series: Biblioteka Putevi; 12
     authors:
       - William Faulkner
+    translators:
       - Božidar Marković
     year: 1954
     language: Serbian
@@ -6613,6 +6684,10 @@ titles:
   - title: Rječnik
     authors:
       - Mihailo Stevanović
+    editors:
+      - Mikhailo Stevanoviћ (Михаило Стевановић)
+      - Radoslav Bošković
+      - Radoslav Boshkoviћ (Радослав Бошковић)
     year: 1954
     series: Cjelokupna djela P.P. Njegoša -- no. 6
     language: Serbian
@@ -7117,6 +7192,8 @@ titles:
   - title: Pisma
     authors:
       - Pierre Njegoš
+    editors:
+      - Miraš Kičović
     year: 1955
     language: Serbian
     sources:
@@ -7429,6 +7506,7 @@ titles:
     verified: true
   - title: Čarobni breg
     subtitle: Roman
+    original_title: Der Zauberberg
     series: Biblioteka velikih romana; 1
     authors:
       - Thomas Mann
@@ -8404,6 +8482,8 @@ titles:
     authors:
       - Borisav Stanković
       - Borisav Stankoviћ (Борисав Станковић)
+    editors:
+      - Milica Carcaračević
     year: 1957
     language: Serbian
     sources:
@@ -8478,6 +8558,8 @@ titles:
       - Laza K. Lazareviћ (Лаза К. Лазаревић)
       - Božidar Kovačević
       - Bozhidar Kovacheviћ (Божидар Ковачевић)
+    editors:
+      - Gvido Tartalja
     year: 1957
     language: Serbian
     sources:
@@ -8500,6 +8582,8 @@ titles:
   - title: Rukoveti
     authors:
       - Stevan S. Mokranjac
+    editors:
+      - Miljenko Živković
     year: 1957
     language: Serbian
     sources:
@@ -8544,6 +8628,7 @@ titles:
     verified: true
   - title: Velika buna
     subtitle: Dramska hronika iz 1573 godine u pet činova
+    original_title: Velika puntarija
     authors:
       - Bratko Kreft
     year: 1957
@@ -8596,6 +8681,9 @@ titles:
   - title: Eseji
     authors:
       - Miroslav Krleža
+    editors:
+      - Gustav Krklec
+      - Gustav Krklets (Густав Крклец)
     year: 1958
     series: Brazde, biblioteka savremenih jugoslovenskih pisaca -- 14
     language: Serbian
@@ -8812,6 +8900,9 @@ titles:
     subtitle: Román
     authors:
       - Mirko Božić
+    editors:
+      - Vlatko Pavletić
+      - Vlatko Pavletiћ (Влатко Павлетић)
     year: 1958
     series: Brazde; biblioteka savremenih jugoslovenskih pisaca -- kolo 3, knj. 16
     language: Croatian
@@ -8846,6 +8937,7 @@ titles:
     subtitle: Roman
     authors:
       - Bolesław Prus
+    translators:
       - Krešimir Georgijević
     year: 1958
     language: Serbian
@@ -9413,6 +9505,8 @@ titles:
   - title: Miloš i Marko
     subtitle: Srpske narodne pesme
     authors: []
+    editors:
+      - Radomir B. Aleksić
     year: 1959
     language: Serbian
     sources:
@@ -9554,6 +9648,9 @@ titles:
     subtitle: Miloš i Marko
     authors:
       - Radomir Aleksić
+    editors:
+      - Radomir B. Aleksić
+      - Radomir B. Aleksiћ (Радомир Б. Алексић)
     year: 1959
     series: Biblioteka kluba chitalaca. Prva serija -- 1
     language: Serbian
@@ -9833,6 +9930,8 @@ titles:
   - title: Izabrane pripovetke
     authors:
       - Janko Veselinović
+    editors:
+      - Milica Carcaračević
     year: 1960
     language: Serbian
     sources:
@@ -9863,6 +9962,9 @@ titles:
   - title: Milosno doba
     authors:
       - Svetislav Mandić
+    editors:
+      - Stevan Raičković
+      - Stevan Raichkoviћ (Стеван Раичковић)
     year: 1960
     series: Albatros -- kolo 1, knj. 1
     language: Serbian
@@ -10259,6 +10361,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1421232421
     verified: true
   - title: “L'”économie yougoslave
+    original_title: Privredni razvoj Jugoslavije
     authors:
       - Milutin Bogosavljević
     year: 1961
@@ -10697,6 +10800,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991109527879705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Kapetan Pamfil
+    original_title: Le capitaine Pamphile
     series: Zlatna kńiga; N.S., 7
     authors:
       - Alexandre Dumas
@@ -10711,6 +10815,7 @@ titles:
   - title: Karijera Nikodema Dizme
     authors:
       - Tadeusz Dołęga-Mostowicz
+    translators:
       - Milorad Dragović
     year: 1961
     language: Serbian
@@ -10813,6 +10918,7 @@ titles:
         url: https://openlibrary.org/books/OL15198047M
     verified: true
   - title: Nanine priče
+    original_title: The old nurse's Stocking-Basket
     series: Zlatna kńiga; N.S., 6
     authors:
       - Eleanor Farjeon
@@ -10826,8 +10932,10 @@ titles:
     verified: true
   - title: Nostromo
     subtitle: Priče s morske obale
+    original_title: Nostromo
     authors:
       - Joseph Conrad
+    translators:
       - Svetislav Predić
     year: 1961
     language: Serbian
@@ -11042,6 +11150,7 @@ titles:
   - title: Robinzonovo ostrovo
     authors:
       - Arkady Fiedler
+    translators:
       - Petar Vujičić
     year: 1961
     language: Serbian
@@ -11077,6 +11186,9 @@ titles:
   - title: Sabrana dela
     authors:
       - Petar Kočić
+    editors:
+      - Milorad Pavić
+      - Milorad Paviћ (Милорад Павић)
     year: 1961
     series: Srpski pisci
     language: Serbian
@@ -11372,6 +11484,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=572361785
     verified: true
   - title: Veliki talas
+    original_title: The big wave
     series: Zlatna kńiga; N.S., 10
     authors:
       - Pearl S. Buck
@@ -11433,6 +11546,8 @@ titles:
     subtitle: Autobiografija
     authors:
       - Dositej Obradović
+    editors:
+      - Borivoje Marinković
     year: 1961
     language: Serbian
     pages: 221
@@ -11474,6 +11589,8 @@ titles:
   - title: Životi znamenitih srpskih vojvoda i drugih znamenitih Srba
     authors:
       - Vuk Karadjitch
+    editors:
+      - Golub Dobrašinović
     year: 1961
     language: Serbian
     sources:
@@ -11606,6 +11723,8 @@ titles:
     subtitle: Antologija
     authors:
       - Mladen St Đuričić
+    editors:
+      - Mladen St. Đuričić
     year: 1962
     language: Serbian
     pages: 210
@@ -12088,6 +12207,9 @@ titles:
   - title: Pjesme
     authors:
       - Aleksa Šantić
+    editors:
+      - Milica Carcaračević
+      - Vojislav Đurić
     year: 1962
     language: Serbian
     pages: 267
@@ -12135,6 +12257,7 @@ titles:
     verified: true
     series: Albatros -- 2:3
   - title: Priče iz celog sveta
+    original_title: Around the World Story Book
     series: Zlatna kńiga; N.S., 14
     authors:
       - Danny Kaye
@@ -12191,6 +12314,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=195455010
     verified: true
   - title: Putovańe Plave Strele
+    original_title: Il viaggio della Freccia azzurra
     series: Zlatna kńiga; N.S., 12
     authors:
       - Gianni Rodari
@@ -12215,10 +12339,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=566131846
     verified: true
   - title: Putovanje po Italiji
+    original_title: Italienische Reise
     series: Svetski klasici; 11
     authors:
       - Johann Wolfgang von Goethe
       - Zoran Gluščević
+    translators:
       - Branimir Živojinović
     year: 1962
     language: Not recorded
@@ -12315,9 +12441,11 @@ titles:
         url: https://search.worldcat.org/title/4726799
     verified: true
   - title: Štiler
+    original_title: Stiller
     series: Savremeni strani pisci; 12
     authors:
       - Max Frisch
+    translators:
       - Vera Stojić
     year: 1962
     language: German
@@ -12623,6 +12751,9 @@ titles:
   - title: Crveni petao leti prema nebu
     authors:
       - Miodrag Bulatović
+    editors:
+      - Dragan M. Jeremić
+      - Dragan M. Јeremiћ (Драган М. Јеремић)
     year: 1963
     series: Brazde; biblioteka savremenikh jugoslovenskikh pisaca
     language: Serbian
@@ -12742,6 +12873,7 @@ titles:
   - title: Disk olimpijski
     authors:
       - Jan Parandowski
+    translators:
       - Petar Vujičić
     year: 1963
     language: Serbian
@@ -13036,6 +13168,7 @@ titles:
         url: https://search.worldcat.org/title/4106979
     verified: true
   - title: Griška i ńegov meda
+    original_title: Grichka et son ours
     series: Zlatna kńiga; N.S., 17
     authors:
       - René Guillot
@@ -13230,6 +13363,7 @@ titles:
   - title: Kroz pustinu i prašumu
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Đorđe Živanović
     year: 1963
     language: Serbian
@@ -13241,6 +13375,7 @@ titles:
     verified: true
   - title: Kuga
     subtitle: Roman
+    original_title: La peste
     authors:
       - Albert Camus
     year: 1963
@@ -13289,9 +13424,11 @@ titles:
     pages: 847
     edition: 2. izd
   - title: Mali princ
+    original_title: Le Petit prince
     series: Biblioteka Prosveta; 23
     authors:
       - Antoine de Saint-Exupéry
+    translators:
       - Strahinja Jelić
       - Strakhiњa Јeliћ (Страхиња Јелић)
     year: 1963
@@ -13497,6 +13634,7 @@ titles:
   - title: Noći i dani
     authors:
       - Maria Dąbrowska
+    translators:
       - Marija Stojiljković
     year: 1963
     language: Serbian
@@ -14041,9 +14179,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/103540185
     verified: true
   - title: Štiler
+    original_title: Stiller
     series: Savremeni strani pisci; Kolo 2,12
     authors:
       - Max Frisch
+    translators:
       - Vera Stojić
     year: 1963
     language: German
@@ -14272,6 +14412,8 @@ titles:
     subtitle: Zapisi, povodi, odgovori, 1955-1964
     authors:
       - Dobrica Ćosić
+    editors:
+      - Živorad Stojković
     year: 1964
     language: Serbian
     pages: 364
@@ -14293,8 +14435,9 @@ titles:
     subtitle: Grad Svjentovita
     authors:
       - Anna Świrszczyńska
-      - Stojan Subotin
       - Aleksandar Hecl
+    translators:
+      - Stojan Subotin
     year: 1964
     language: Serbian
     sources:
@@ -14457,6 +14600,7 @@ titles:
     verified: true
   - title: Čarobni breg
     subtitle: Roman
+    original_title: Der Zauberberg
     series: Biblioteka velikih romana; 1 Ed.3
     authors:
       - Thomas Mann
@@ -14632,6 +14776,8 @@ titles:
   - title: Feljtoni, skice i govori
     authors:
       - Jovan Skerlić
+    editors:
+      - Midhat Begić
     year: 1964
     series: His Sabrana dela -- 7
     language: Croatian
@@ -15000,6 +15146,7 @@ titles:
     subtitle: Roman
     authors:
       - Mieczysław Jastrun
+    translators:
       - Miroslav Topić
     year: 1964
     language: Serbian
@@ -15249,6 +15396,8 @@ titles:
     authors:
       - Stevan K. Hristić
       - Ilija Marinković
+    editors:
+      - Milenko Živković
     year: 1964
     language: Serbian, French, Russian
     sources:
@@ -15458,6 +15607,10 @@ titles:
   - title: Pisci i knjige iz stranih književnosti
     authors:
       - Jovan Skerlić
+    editors:
+      - Midhat Begić
+      - Muhsin Rizvić
+      - Mukhsin Rizviћ (Мухсин Ризвић)
     year: 1964
     series: His Sabrana dela -- 6
     language: Croatian
@@ -15671,6 +15824,8 @@ titles:
   - title: Pripovijetke
     authors:
       - Isak Samokovlija
+    editors:
+      - Skender Kulenović
     year: 1964
     series: Srpski i hrvatski pisci XX veka
     language: Serbian
@@ -15845,6 +16000,9 @@ titles:
     subtitle: Proza iz Rječnika
     authors:
       - Vuk Stefanović Karadžić
+    editors:
+      - Radomir Konstantinović
+      - Radomir Konstantinoviћ (Радомир Константиновић)
     year: 1964
     series: Brazde; posebna serija
     language: Serbian
@@ -15920,6 +16078,7 @@ titles:
   - title: Rukopis nađen u Saragosi
     authors:
       - Jan Potocki
+    translators:
       - Slobodan Petković
     year: 1964
     language: Serbian
@@ -15932,6 +16091,9 @@ titles:
   - title: Sabrana dela
     authors:
       - Radoje Domanović
+    editors:
+      - Dimitrije Vučenov
+      - Dimitpije Vuchenov (Димитpиjе Вученов)
     year: 1964
     series: Srpski pisci
     language: Serbian
@@ -16705,6 +16867,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=420027696
     verified: true
   - title: Freni i Zui
+    original_title: Franny and Zooey
     series: Savremeni strani pisci; kolo 4, 24
     authors:
       - Jerome D. Salinger
@@ -16918,8 +17081,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991023820799705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Le classicisme serbe, 1790-1848
+    original_title: 'Klasicizam kod Srba : 1790-1848'
     authors:
       - Miodrag Kolarić
+    translators:
+      - Mila Djordjević
     year: 1965
     language: French
     pages: 40
@@ -17267,6 +17433,8 @@ titles:
     subtitle: 1814-1815
     authors:
       - Vuk Karadjitch
+    editors:
+      - Vladan Nedić
     year: 1965
     language: Serbian
     sources:
@@ -17368,9 +17536,12 @@ titles:
         url: https://search.worldcat.org/title/26370201
     verified: true
   - title: Psecé godine
+    original_title: Hundejahre
     series: 'Savremeni strani pisci; '
     authors:
       - Günter Grass
+    translators:
+      - Iwan Iwani
     year: 1965
     language: German
     sources:
@@ -17514,6 +17685,8 @@ titles:
   - title: Sabrana dela Vuka Karadžić
     authors:
       - Vuk Karadjitch
+    editors:
+      - Miroslav Pantić
     year: 1965
     language: Serbian
     sources:
@@ -17523,6 +17696,9 @@ titles:
   - title: Sabrana dela Vuka Karadžića
     authors:
       - Vuk Stefanović Karadžić
+    editors:
+      - Radovan Samardžić
+      - Radovan Samarџiћ (Радован Самарџић)
     year: 1965
     language: Serbian
     pages: 36
@@ -17623,6 +17799,8 @@ titles:
     series: Sabrana dela Vuka Karadžića; kn. 9
     authors:
       - Vuk Stefanović Karadžić
+    editors:
+      - Miroslav Pantić
     year: 1965
     language: Serbian
     sources:
@@ -17784,6 +17962,7 @@ titles:
   - title: Velika potera
     authors:
       - Otfried Preußler
+    translators:
       - Marija Đorđević
     year: 1965
     language: German
@@ -17956,7 +18135,8 @@ titles:
     verified: true
   - title: Antologija novije francuske lirike od Bodlera do naših dana
     series: Svetski Klasici; Kolo 5, 27
-    authors:
+    authors: []
+    translators:
       - Ivan V. Lalić
       - Ivan V. Laliћ (Иван В. Лалић)
     year: 1966
@@ -18132,6 +18312,8 @@ titles:
     subtitle: Legende, besede, pesme
     authors:
       - Gavril Stefanović-Venclović
+    editors:
+      - Milorad Pavić
     year: 1966
     series: Brazde; posebna serija
     language: Serbian
@@ -18611,8 +18793,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=443978131
     verified: true
   - title: Istorija makedonskog jezika
+    original_title: Istorija na makedonskiot jazik
     authors:
       - Blaže Koneski
+    translators:
+      - Todor Dimitrovski
+      - Todor Dimitrovski (Тодор Димитровски)
     year: 1966
     language: Serbian
     pages: 202
@@ -18638,6 +18824,7 @@ titles:
     authors:
       - Blaže Koneski
       - Blazhe Koneski (Блаже Конески)
+    translators:
       - Todor Dimitrovski
       - Todor Dimitrovski (Тодор Димитровски)
     year: 1966
@@ -18650,6 +18837,8 @@ titles:
     subtitle: Javno mnenje u Francuskoj prema političkoj i socijalnoj poeziji od 1830 do 1848
     authors:
       - Jovan Skerlić
+    editors:
+      - Midhat Begić
     year: 1966
     series: His Sabrana dela -- 8
     language: Croatian
@@ -18759,6 +18948,9 @@ titles:
     series: Brazde; 5
     authors:
       - Konstantin
+    editors:
+      - Đorđe Živanović
+    translators:
       - Đorđe Živanović
     year: 1966
     language: Serbian
@@ -19136,6 +19328,7 @@ titles:
   - title: Kroz pustinu i prašumu
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Đorđe Živanović
     year: 1966
     language: Serbian
@@ -19168,6 +19361,8 @@ titles:
   - title: Leksikon stranih reči i izraza
     authors:
       - Milan Vujaklija
+    editors:
+      - Svetomir Ristić
     year: 1966
     edition: Izd. 2.]
     language: Croatian
@@ -19235,6 +19430,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=331460793
     verified: true
   - title: Martin Krpan s Vrha
+    original_title: Martin Krpan z Vrha
     authors:
       - Fran Levstik
     year: 1966
@@ -19326,6 +19522,7 @@ titles:
     subtitle: Roman
     authors:
       - Heinrich Böll
+    translators:
       - Marija Đorđević
     year: 1966
     language: German
@@ -19335,6 +19532,7 @@ titles:
     verified: true
   - title: Mišljenja jednog klovna
     subtitle: Roman
+    original_title: Ansichten eines Clowns
     series: Savremeni strani pisci; kolo 5, 30
     authors:
       - Heinrich Böll
@@ -19350,6 +19548,7 @@ titles:
     series: Savremeni strani pisci; 14
     authors:
       - Saint-John Perse
+    translators:
       - Borislav Radović
       - Borislav Radoviћ (Борислав Радовић)
     year: 1966
@@ -19701,6 +19900,8 @@ titles:
   - title: Opisanije života
     authors:
       - Sava Tekelija
+    editors:
+      - Aleksandar Forišković
     year: 1966
     series: Brazde. Posebna serija, kolo I
     language: Serbian
@@ -20224,6 +20425,7 @@ titles:
         url: https://www.sudoc.fr/046104011
     verified: true
   - title: Robinson Kruso
+    original_title: Robinson Crusoe
     series: Biblioteka Prosveta; 20
     authors:
       - Daniel Defoe
@@ -20566,6 +20768,8 @@ titles:
   - title: Seobe
     authors:
       - Miloš Crnjanski
+    editors:
+      - Nikola Milošević
     year: 1966
     series: H̲i̲s̲ Sabrana dela
     language: Serbian
@@ -20586,6 +20790,8 @@ titles:
   - title: Sklonište
     authors:
       - Eros Sequi
+    translators:
+      - Miodrag Pavlović
     year: 1966
     series: Jugoslovenska poezija -- 2
     language: Croatian
@@ -20749,6 +20955,8 @@ titles:
   - title: Srpska književnost u XVIII veku
     authors:
       - Jovan Skerlić
+    editors:
+      - Midhat Begić
     year: 1966
     series: His Sabrana dela -- 9
     language: Croatian
@@ -20813,6 +21021,8 @@ titles:
   - title: Srpski rječnik 1815
     authors:
       - Vuk Karadjitch
+    editors:
+      - Paul Ivić
     year: 1966
     language: Serbian
     sources:
@@ -20938,6 +21148,11 @@ titles:
   - title: Večer nad gradom
     authors:
       - Dragutin Tadijanović
+    editors:
+      - Ivan Minatti
+    translators:
+      - Aco Šopov
+      - Atso Shopov (Ацо Шопов)
     year: 1966
     series: Jugoslovanski pesniki
     language: Croatian
@@ -21069,8 +21284,10 @@ titles:
     verified: true
     pages: 647
   - title: Zamak
+    original_title: Das Schloß
     authors:
       - Franz Kafka
+    translators:
       - Predrag Milojević
     year: 1966
     language: Not recorded
@@ -21244,6 +21461,9 @@ titles:
   - title: Agneau pascal
     authors:
       - Vladimir A. Mošin
+    editors:
+      - Vladimir Aleksejevič Mošin
+      - Miroslava Grozdanović-Pajić
     year: 1967
     series: Albums des filigranes, 1
     language: French
@@ -21602,6 +21822,7 @@ titles:
         url: https://d-nb.info/57781267X
     verified: true
   - title: Dva shvatanja
+    original_title: Zwei Ansichten
     series: Savremeni strani pisci; 34
     authors:
       - Uwe Johnson
@@ -21744,6 +21965,9 @@ titles:
   - title: Gorski vijenac
     authors:
       - Pierre Njegoš
+    editors:
+      - Vido Latković
+      - Radosav Bošković
     year: 1967
     language: Serbian
     sources:
@@ -21758,6 +21982,11 @@ titles:
   - title: Gorski vijenac; Luča mikrokozma
     authors:
       - Bishop of Montenegro Prince Peter II
+    editors:
+      - Radosav Bošković
+      - Radosav Boshkoviћ (Радосав Бошковић)
+      - Vido Latkovič
+      - Vido Latkoviћ (Видо Латковић)
     year: 1967
     series: Celokupna dela Petra Petrovića Njegoša -- knj. 3
     language: Serbian
@@ -21951,6 +22180,13 @@ titles:
   - title: Izabrana pisma
     authors:
       - Bishop of Montenegro Prince Peter II
+    editors:
+      - Nikola Banašević
+      - Nikola Banasheviћ (Никола Банашевић)
+      - Vido Latkovič
+      - Vido Latkoviћ (Видо Латковић)
+      - Jevto M. Milović
+      - Јevto M. Miloviћ (Јевто М. Миловић)
     year: 1967
     series: His Celokupna dela -- 6
     language: Serbian
@@ -22029,6 +22265,7 @@ titles:
         url: https://lccn.loc.gov/68097720
     verified: true
   - title: Judejski rat
+    original_title: De bello Judaico
     series: Svetski klasici; kolo 5, 29
     authors:
       - Flavius Josephus
@@ -22133,6 +22370,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=442586876
     verified: true
   - title: Kukavice
+    original_title: Zbabělci
     authors:
       - Josef Škvorecký
     year: 1967
@@ -22213,6 +22451,8 @@ titles:
   - title: Miroslav Krleža
     authors:
       - Vojislav Đurić
+    editors:
+      - Nikša Stipčević
     year: 1967
     series: Institut za teoriju književnosti i umetnosti. Posebna izdanja
     language: Serbian
@@ -22284,9 +22524,12 @@ titles:
         url: https://search.worldcat.org/title/2708346
     verified: true
   - title: Mraz
+    original_title: Frost
     series: Savremeni strani pisci; 33
     authors:
       - Thomas Bernhard
+    translators:
+      - Borivoje Grujic
     year: 1967
     language: German
     sources:
@@ -22798,6 +23041,10 @@ titles:
   - title: Rečnik uz celokupna dela Petra Petrovića Njegoša
     authors:
       - Pierre Njegoš
+    editors:
+      - Mihailo Stevanović
+      - Radovan Lalić
+      - Radosav Bošković
     year: 1967
     language: Serbian
     sources:
@@ -22864,6 +23111,9 @@ titles:
     authors:
       - Ivo Andrić
       - Ivo Andriћ (Иво Андрић)
+    editors:
+      - Muharem Pervić
+      - Petar Džadžić
     year: 1967
     language: Serbian
     sources:
@@ -23107,6 +23357,9 @@ titles:
     series: Celokupna dela / Petar Petrović Njego·s; 2
     authors:
       - Peter
+    editors:
+      - Nikola Banašević
+      - Mihailo Stevanović
     year: 1967
     language: Serbian
     sources:
@@ -23118,6 +23371,11 @@ titles:
   - title: Svobodijada, Glas kamenštaka
     authors:
       - Bishop of Montenegro Prince Peter II
+    editors:
+      - Nikola Banašević
+      - Nikola Banasheviћ (Никола Банашевић)
+      - Mihailo Stevanović
+      - Mikhailo Stevanoviћ (Михаило Стевановић)
     year: 1967
     series: His Celokupna dela -- 2
     language: Serbian
@@ -23178,6 +23436,8 @@ titles:
   - title: Zajednička ulaganja domaćih preduzeća i proizvodnofinansijska saradnja jugoslovenske privrede sa inostranom privredom
     authors:
       - Yugoslavia. Savezna skupština
+    editors:
+      - Dragoljub Đurović
     year: 1967
     series: Biblioteka Savezne skupštine
     language: Croatian
@@ -23437,6 +23697,7 @@ titles:
     authors:
       - Milan Ǵurčinov
       - Milan Ѓurchinov (Милан Ѓурчинов)
+    translators:
       - Vlada Uroševiḱ
       - Vlada Urosheviќ (Влада Урошевиќ)
     year: 1968
@@ -23612,6 +23873,9 @@ titles:
   - title: Čovek peva posle rata
     authors:
       - Dušan Vasiljev
+    editors:
+      - Stevan Raičković
+      - Stevan Raichkoviћ (Стеван Раичковић)
     year: 1968
     series: Biblioteka Prosveta
     language: Serbian
@@ -24276,6 +24540,10 @@ titles:
     subtitle: Spomen--album prilikom pedesetgodišnjice proboja Solunskog fronta
     authors:
       - Kosta Todorović
+    editors:
+      - Voǰin M. Đorđević
+      - Voјin M. Ђorђeviћ (Војин М. Ђорђевић)
+      - Kosta Todoroviћ (Коста Тодоровић)
     year: 1968
     language: Serbian
     pages: 172
@@ -24329,6 +24597,7 @@ titles:
   - title: Kroz pustinu i prašumu
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Đorđe Živanović
     year: 1968
     language: Serbian
@@ -24383,6 +24652,9 @@ titles:
     subtitle: Roman
     authors:
       - Mihailo Lalić
+    editors:
+      - Miloš I. Bandić
+      - Milosh E. Bandiћ (Милош И. Бандић)
     year: 1968
     series: Biblioteka Prosveta
     language: Serbian
@@ -24400,6 +24672,9 @@ titles:
   - title: Lelek sebra
     authors:
       - Tin Ujević
+    editors:
+      - Radomir Konstantinović
+      - Radomir Konstantinoviћ (Радомир Константиновић)
     year: 1968
     series: Biblioteka Prosveta
     language: Serbian
@@ -24422,6 +24697,9 @@ titles:
   - title: Les Fleurs du mal
     authors:
       - Charles Baudelaire
+    translators:
+      - Milovan Danojlić
+      - Ivan V. Lalić
     year: 1968
     language: French, Serbian
     sources:
@@ -24554,6 +24832,9 @@ titles:
     subtitle: Opšta enciklopedija
     authors:
       - Oto Bihalji-Merin
+    editors:
+      - Stojan Ćelić
+      - Stoјan Ћeliћ (Стојан Ћелић)
     year: 1968
     edition: 2. izd
     language: Serbian
@@ -24677,6 +24958,8 @@ titles:
   - title: Nacrt Osnovnog zakona o utvrđivanju ukupnog prihoda i dohotka i raspodeli dohotka u radnim organizacijama
     authors:
       - Yugoslavia. Savezna skupština
+    editors:
+      - Dragoljub Đurović
     year: 1968
     series: Biblioteka Savezne skupštine
     language: Croatian
@@ -24896,6 +25179,8 @@ titles:
     subtitle: Teze za izborni sistem za Saveznu skupštinu. Za javnu diskusiju
     authors:
       - Yugoslavia. Savezna skupština
+    editors:
+      - Dragoljub Đurović
     year: 1968
     series: Biblioteka Savezne skupštine
     language: Croatian
@@ -25190,6 +25475,8 @@ titles:
     subtitle: Dubrovnik, Dalmacija, Boka Kotorska
     authors:
       - Miroslav Pantić
+    editors:
+      - Miroslav Pantiћ (Мирослав Пантић)
     year: 1968
     series: Biblioteka Prosveta
     language: Serbian
@@ -25340,6 +25627,8 @@ titles:
     subtitle: Pesme
     authors:
       - Laza Kostić
+    translators:
+      - Vasko Popa
     year: 1968
     series: Biblioteka Prosveta
     language: Serbian
@@ -25527,6 +25816,8 @@ titles:
   - title: Predlog zakona o narodnoj odbrani
     authors:
       - Yugoslavia. Savezna skupština
+    editors:
+      - Dragoljub Đurović
     year: 1968
     series: Biblioteka Savezne skupštine
     language: Croatian
@@ -25932,6 +26223,9 @@ titles:
     subtitle: Pripovetke
     authors:
       - Mihailo Lalić
+    editors:
+      - Dragan M. Jeremić
+      - Dragan M. Јeremiћ (Драган М. Јеремић)
     year: 1968
     series: Biblioteka Prosveta -- 119
     language: Serbian
@@ -26315,6 +26609,10 @@ titles:
   - title: Sonetni venac
     authors:
       - France Prešeren
+    editors:
+      - Roksanda Njegus
+    translators:
+      - Desanka Maksimović
     year: 1968
     series: Biblioteka Prosveta
     language: Serbian
@@ -26484,6 +26782,9 @@ titles:
   - title: Stradija i druge satire
     authors:
       - Radoje Domanović
+    editors:
+      - Borislav Mihaǰlović
+      - Borislav Mikhaјloviћ (Борислав Михајловић)
     year: 1968
     series: Biblioteka Prosveta
     language: Serbian
@@ -26719,6 +27020,8 @@ titles:
     subtitle: Izbor i predgovor “"Vladislav Petković Dis" [napisao]” Miodrag Pavlović
     authors:
       - Vladislav Petković Dis
+    editors:
+      - Miodrag Pavlović
     year: 1968
     series: Biblioteka Prosveta
     language: Serbian
@@ -26799,6 +27102,8 @@ titles:
     subtitle: Pesme
     authors:
       - Branko Miljković
+    translators:
+      - Petar Džadžić
     year: 1968
     series: Biblioteka Prosveta
     language: Serbian
@@ -26870,6 +27175,9 @@ titles:
     subtitle: Izbor poezije. Izbor i predgovor
     authors:
       - Desanka Maksimović
+    editors:
+      - Stevan Raičković
+      - Stevan Raichkoviћ (Стеван Раичковић)
     year: 1968
     series: Biblioteka Prosveta
     language: Serbian
@@ -27330,6 +27638,9 @@ titles:
     subtitle: 1826, 1827, 1828, 1829, 1834
     authors:
       - Vuk Stefanović Karadžić
+    editors:
+      - Milorad Pavić
+      - Milorad Paviћ (Милорад Павић)
     year: 1969
     series: Sabrana dela Vuka Karadžića -- knj. 7
     language: Serbian
@@ -27707,6 +28018,9 @@ titles:
   - title: Istorijski spisi
     authors:
       - Vuk Stefanović Karadžić
+    editors:
+      - Radovan Samardžić
+      - Radovan Samarџiћ (Радован Самарџић)
     year: 1969
     series: Sabrana dela Vuka Karadžića -- knj. 15-16
     language: Serbian
@@ -28493,6 +28807,9 @@ titles:
   - title: Pravna zaštita privrednih organizacija
     authors:
       - Vjekoslav Hraste
+    editors:
+      - Antonije Isaković
+      - Aleksandar Nikolić
     year: 1969
     language: Croatian
     pages: 136
@@ -28900,6 +29217,8 @@ titles:
   - title: Sabrana dela Oskara Daviča
     authors:
       - Oskar Davičo
+    editors:
+      - Roksanda Njeguš
     year: 1969
     language: Serbian
     sources:
@@ -29005,6 +29324,8 @@ titles:
   - title: Socijalna zaštita
     authors:
       - Yugoslavia. Savezna skupština
+    editors:
+      - Dragoljub Đurović
     year: 1969
     series: Biblioteka Savezne skupštine
     language: Croatian
@@ -29049,6 +29370,9 @@ titles:
     authors:
       - Vuk Stefanović Karadžić
       - Vuk Stefanoviћ Karaџiћ (Вук Стефановић Караџић)
+    editors:
+      - Vladan Nedić
+      - Vladan Nediћ (Владан Недић)
     year: 1969
     language: Serbian
     sources:
@@ -30274,6 +30598,9 @@ titles:
   - title: Petar Veliki
     authors:
       - Zaharija Orfelin
+    editors:
+      - Zoran Božović
+      - Zoran Bozhoviћ (Зоран Божовић)
     year: 1970
     series: Brazde. Posebna serija, kolo 2 -- knj. 7-8
     language: Serbian
@@ -30443,6 +30770,9 @@ titles:
   - title: Sabrana dela Borisava Stankovića
     authors:
       - Borisav Stanković
+    editors:
+      - Živorad Stojković
+      - Zhivorad Stoјkoviћ (Живорад Стојковић)
     year: 1970
     language: Serbian
     sources:
@@ -30606,6 +30936,8 @@ titles:
   - title: Stanje i problemi u pravosuđu
     authors:
       - Yugoslavia. Savezna skupština
+    editors:
+      - Dragoljub Đurović
     year: 1970
     series: Biblioteka Savezne skupštine
     language: Croatian
@@ -30673,6 +31005,8 @@ titles:
   - title: Teze osnovnih i opštih odredaba Zakona o građansko-pravnim odnosima (Građanskog zakonika) sa obrazloženjem i napomenama
     authors:
       - Yugoslavia. Savezna skupština
+    editors:
+      - Dragoljub Đurović
     year: 1970
     series: Biblioteka savezne skupštine
     language: Croatian
@@ -30886,6 +31220,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA87467727
     verified: false
   - title: 20.000 milja pod morem
+    original_title: 20.000 lieues sous les mers
     series: Biblioteka Prosveta; 44
     authors:
       - Jules Verne
@@ -30997,6 +31332,8 @@ titles:
   - title: Deutsch-serbisches Wörterbuch
     authors:
       - Vuk Stefanović Karadžić
+    editors:
+      - Ivan Pudić
     year: 1971
     series: Sabrana dela Vuka Karadžića; vknj. 19
     language: Serbian
@@ -31248,6 +31585,7 @@ titles:
     series: Biblioteka Prosveta; 59
     authors:
       - Petar Kočić
+    translators:
       - Živorad Stojković
     year: 1971
     language: Serbian
@@ -31258,6 +31596,7 @@ titles:
   - title: Kroz pustin̂u i prašumu
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Đorđe Živanović
     year: 1971
     language: Serbian
@@ -31311,6 +31650,7 @@ titles:
     authors:
       - Bronisław Malinowski
       - Zagorka Golubović
+    translators:
       - Anđeliâ Todorović
     year: 1971
     language: Serbian
@@ -31325,6 +31665,7 @@ titles:
     authors:
       - Matija Nenadović
       - Matiјa Nenadoviћ (Матија Ненадовић)
+    translators:
       - Milosav Mirković
       - M. Mirkoviћ (М. Мирковић)
     year: 1971
@@ -31626,6 +31967,7 @@ titles:
     authors:
       - Dositej Obradović
       - Dositej Obradoviћ (Доситеj Обрадовић)
+    translators:
       - Radomir Konstantinović
       - Radomir Konstantinoviћ (Радомир Константиновић)
     year: 1971
@@ -31665,6 +32007,8 @@ titles:
     authors:
       - Laza K. Lazarević
       - Laza K. Lazareviћ (Лаза К. Лазаревић)
+    editors:
+      - Milica Carcaračević
     year: 1971
     language: Serbian
     sources:
@@ -32517,6 +32861,7 @@ titles:
     subtitle: Roman
     authors:
       - Bolesław Prus
+    translators:
       - Krešimir Georgijević
     year: 1972
     language: Serbian
@@ -32848,6 +33193,7 @@ titles:
     verified: true
   - title: Rečnik francusko-srpskohrvatski, srpskohrvatsko-francuski
     subtitle: Sa kratkom gramatikom francuskog jezika
+    original_title: Rečnik francusko-srpskohrvatski, srpskohrvatsko-francuski sa kratkom gramatikom francuskog jezika
     authors:
       - Branislav Grujić
     year: 1972
@@ -33483,6 +33829,8 @@ titles:
     authors:
       - Oto Bihalji-Merin
       - Jože Snoj
+    editors:
+      - Franček Šafar
     year: 1973
     language: Slovenian
     sources:
@@ -33782,6 +34130,7 @@ titles:
   - title: San i pomračenje
     authors:
       - Georg Trakl
+    translators:
       - Branimir Živojinović
     year: 1973
     language: German
@@ -33794,6 +34143,11 @@ titles:
       - Dragoljub Stojadinović
       - Petar Sarić
       - Radoslav Zlatanović
+    editors:
+      - Petar Sariћ (Петар Сарић)
+      - Dragoљub Stoјadinoviћ (Драгољуб Стојадиновић)
+      - Radoslav Zlatanoviḱ
+      - Radoslav Zlatanoviќ (Радослав Златановиќ)
     year: 1973
     language: Serbian
     sources:
@@ -34308,6 +34662,8 @@ titles:
   - title: Istorija Beograda
     authors:
       - Vasa Čubrilović
+    editors:
+      - Vasa Chubriloviћ (Васа Чубриловић)
     year: 1974
     language: Serbian
     sources:
@@ -34401,9 +34757,10 @@ titles:
   - title: Kleine serbische Grammatik
     authors:
       - Vuk Stefanović Karadžić
-      - Jacob Grimm
       - Miljan Mojašević
       - Peter Rehder
+    translators:
+      - Jacob Grimm
     year: 1974
     language: German
     sources:
@@ -34578,6 +34935,8 @@ titles:
     verified: true
   - title: Novi zavjet Gospoda našega Isusa Krista
     authors: []
+    editors:
+      - Vuk Karadjitch
     year: 1974
     language: Serbian
     sources:
@@ -34755,6 +35114,8 @@ titles:
   - title: Psalmi po sinu
     authors:
       - Tanasije Mladenović
+    editors:
+      - Predrag Protić
     year: 1974
     language: Serbian
     pages: 317
@@ -34905,6 +35266,7 @@ titles:
     series: Biblioteka Prosveta; 173-174-175
     authors:
       - Stevan J. Jakovljević
+    translators:
       - Djoković
     year: 1974
     language: Serbian
@@ -35858,6 +36220,7 @@ titles:
     authors:
       - Jovan Dučić
       - Jovan Duchiћ (Jован Дучић)
+    translators:
       - Slijepčević
     year: 1975
     language: Serbian
@@ -36002,6 +36365,8 @@ titles:
   - title: Sabrana dela Branka Ćopića
     authors:
       - Branko Ćopić
+    editors:
+      - Živorad Stojković
     year: 1975
     edition: Jubilarno izd. / [urednici izdanja Stevan Raičković, Muris Idrizović, Josip Osti]. --
     language: Serbian
@@ -36246,6 +36611,8 @@ titles:
   - title: Srpske narodne pjesme
     authors:
       - Vuk Stefanović Karadžić
+    editors:
+      - Vladan Nedić
     year: 1975
     series: Sabrana dela Vuka Karadžića
     language: Serbian
@@ -36261,6 +36628,8 @@ titles:
   - title: Stare srpske biografije
     authors:
       - Dimitrije Bogdanović
+    editors:
+      - Dimitriјe Bogdanoviћ (Димитрије Богдановић)
     year: 1975
     series: Biblioteka Prosveta
     language: Serbian
@@ -36726,6 +37095,7 @@ titles:
   - title: Kroz pustin̂u i prašumu
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Đorđe Živanović
     year: 1976
     language: Serbian
@@ -37402,6 +37772,8 @@ titles:
   - title: Antologija ruske poezije, XVII-XX vek
     authors:
       - Aleksandar Petrov
+    editors:
+      - Aleksandar Petrov (Александар Петров)
     year: 1977
     series: Svetski klasici. Kolo s̆esto -- 34
     language: Serbian
@@ -37489,6 +37861,8 @@ titles:
   - title: Dim u dim
     authors:
       - Stevan Sremac
+    editors:
+      - Đuro Gavela
     year: 1977
     series: Sabrana dela Stevana Sremca
     language: Serbian
@@ -37719,6 +38093,7 @@ titles:
     verified: true
   - title: Ko se sjeća mora
     subtitle: Roman
+    original_title: Qui se souvient de la mer
     series: Biblioteka Ceo svet
     authors:
       - Mohammed Dib
@@ -37872,6 +38247,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=823353184
     verified: true
   - title: Nauka logike
+    original_title: Encyklopädie der philosophischen Wissenschaften. Teil I, Wissenschaft der Logik
     authors:
       - Georg Wilhelm Friedrich Hegel
     year: 1977
@@ -38070,6 +38446,8 @@ titles:
     series: 'Sabrana dela Stevana Sremca: u 6 knjiga / ured. Momčilo Milankov .̤ 5'
     authors:
       - Stevan Sremac
+    editors:
+      - Đuro Gavela
     year: 1977
     language: Serbian
     sources:
@@ -38164,6 +38542,9 @@ titles:
   - title: Sabrana dela
     authors:
       - Ivo Andrić
+    editors:
+      - Miodrag Bogićević
+      - Miodrag Bogiћeviћ (Миодраг Богићевић)
     year: 1977
     edition: 2. izd. --
     language: Serbian
@@ -38198,6 +38579,9 @@ titles:
   - title: Sabrana dela Stevana Sremca
     authors:
       - Stevan Sremac
+    editors:
+      - Momčilo Milankov
+      - Milorad Pavić
     year: 1977
     language: Serbian
     sources:
@@ -38405,6 +38789,9 @@ titles:
   - title: Vukadin i druge pripovetke
     authors:
       - Stevan Sremac
+    editors:
+      - Gavela, Đuro19..-...
+      - Ђuro Gavela (Ђуро Гавела)
     year: 1977
     series: Sabrana dela Stevana Sremca
     language: Serbian
@@ -38470,8 +38857,11 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/dli.ernet.425504
   - title: Aura
+    original_title: Aura
     authors:
       - Carlos Fuentes
+    translators:
+      - Branko Anđić
     year: 1978
     series: Erotikon
     language: Serbian
@@ -38708,6 +39098,7 @@ titles:
     authors:
       - Bolesław Prus
       - Vladimir Pajevic
+    translators:
       - Petar Vujičić
     year: 1978
     language: Serbian
@@ -38756,6 +39147,7 @@ titles:
   - title: Ikonosfera
     authors:
       - Mieczysław Porębski
+    translators:
       - Petar Vujičić
     year: 1978
     language: Serbian
@@ -38895,6 +39287,8 @@ titles:
     subtitle: Opšta enciklopedija
     authors:
       - Oto Bihalji-Merin
+    editors:
+      - Oto Bikhaљi-merin (Ото Бихаљи-Мерин)
     year: 1978
     edition: 3. izd
     language: Serbian
@@ -39261,6 +39655,8 @@ titles:
   - title: Rečnik stranih reči i izraza
     authors:
       - Rad. B. Aleksić
+    editors:
+      - Radomir Aleksić
     year: 1978
     language: Croatian
     pages: 793
@@ -39423,6 +39819,7 @@ titles:
         url: https://search.worldcat.org/title/9434648
     verified: true
   - title: Srpskohrvatsko - engleski rečnik
+    original_title: Serbocroatian-english dictionary
     authors:
       - Morton Benson
     year: 1978
@@ -39535,6 +39932,8 @@ titles:
     subtitle: Fantazmogorija
     authors:
       - Borislav Pekić
+    editors:
+      - Vuk Krnjević
     year: 1978
     series: Sovremena proza
     language: Serbian
@@ -39678,6 +40077,8 @@ titles:
     authors:
       - Jelena Maksin
       - Anica Lolić
+    editors:
+      - Milorad Radević
     year: 1979
     language: Serbian
     sources:
@@ -39688,6 +40089,9 @@ titles:
     authors:
       - Jelena Maksin
       - Anica Lolić
+    editors:
+      - Milorad Radević
+      - Milorad Radeviћ (Милорад Радевић)
     year: 1979
     series: Istorijski institut. Građa -- knj. 20
     language: Serbian
@@ -40299,9 +40703,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/000768954
     verified: true
   - title: Razgovori sa dželatom
+    original_title: Razmowy z katem
     series: Biblioteka Prosveta; 2
     authors:
       - Kazimierz Moczarski
+    translators:
       - Ilija Marinković
     year: 1979
     language: Serbian
@@ -40497,6 +40903,8 @@ titles:
   - title: Veverice-leptiri, ili, Nadopis obojenog žbuna
     authors:
       - Oskar Davičo
+    editors:
+      - Milica Nikolić
     year: 1979
     series: Izabrana poezija / Oskar Davičo
     language: Croatian
@@ -40516,6 +40924,8 @@ titles:
   - title: Višnja za zidom
     authors:
       - Oskar Davičo
+    editors:
+      - Milica Nikolić
     year: 1979
     series: Izabrana poezija / Oskar Davičo
     language: Croatian
@@ -40939,6 +41349,7 @@ titles:
   - title: Kroz pustinju i prašumu
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Đorđe Živanović
     year: 1980
     language: Serbian
@@ -40951,6 +41362,7 @@ titles:
     authors:
       - Henryk Sienkiewicz
       - D. Stojanović
+    translators:
       - Đorđe Živanović
     year: 1980
     language: Serbian
@@ -41050,6 +41462,7 @@ titles:
   - title: Mađioničar iz Lublina
     authors:
       - Isaac Bashevis Singer
+    translators:
       - Eugen Werber
     year: 1980
     language: Serbian
@@ -41143,6 +41556,8 @@ titles:
   - title: Naučni skup Srbija u završnoj fazi velike istočne krize, 1877-1878
     authors:
       - Naučni skup Srbija u završnoj fazi velike istočne krize, 1877-1878 (1978 Belgrade, Serbia)
+    editors:
+      - Ljiljana Aleksić-Pejković
     year: 1980
     series: Zbornik radova / Istorijski institut
     language: Serbian
@@ -41361,6 +41776,8 @@ titles:
   - title: Sabrana dela Borisava Stankovića
     authors:
       - Borisav Stanković
+    editors:
+      - Živorad Otojković
     year: 1980
     language: Serbian
     sources:
@@ -42756,6 +43173,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1957181494
     verified: true
   - title: Budenbrokovi
+    original_title: Die Buddenbrooks
     series: Lektura za 2. godinu zajednitschkich osnova srednjeg usmerenog obrazovanija; 12; 13
     authors:
       - Thomas Mann
@@ -43533,6 +43951,7 @@ titles:
   - title: Slava i hvala
     authors:
       - Jarosław Iwaszkiewicz
+    translators:
       - Petar Vujičić
     year: 1982
     language: Serbian
@@ -43579,6 +43998,7 @@ titles:
         url: https://openlibrary.org/books/OL21884644M
     verified: true
   - title: Tajanstveni nestanak markize lorija
+    original_title: La misteriosa desaparición de la marquesita de Loria
     series: Biblioteca "Erotikon"; 20
     authors:
       - José Donoso
@@ -43918,6 +44338,10 @@ titles:
   - title: Biće i jezik u iskustvu pesnika srpske kulture dvadesetog veka
     authors:
       - Radomir Konstantinović
+    editors:
+      - M. Savić
+      - B. Milošević
+      - R. Zdrale
     year: 1983
     language: Croatian
     sources:
@@ -44057,6 +44481,8 @@ titles:
     subtitle: Sabrana poezija u shest knjiga
     authors:
       - Stevan Raičković
+    editors:
+      - Vidosav Stevanović
     year: 1983
     language: Serbian
     sources:
@@ -44297,6 +44723,8 @@ titles:
     verified: true
   - title: Haggadah
     authors: []
+    editors:
+      - Eugen Verber
     year: 1983
     language: Hebrew
     sources:
@@ -44420,6 +44848,8 @@ titles:
   - title: Izabrana prozna dela Eriha Koša
     authors:
       - Erih Koš
+    editors:
+      - Vuk Krnjević
     year: 1983
     language: Serbian
     sources:
@@ -44541,8 +44971,9 @@ titles:
   - title: Krcko oraščić i kralj miševa
     authors:
       - E. T. A. Hoffmann
-      - Mirjana Popović
       - Branislav Mojsilović
+    translators:
+      - Mirjana Popović
     year: 1983
     language: German
     sources:
@@ -44787,6 +45218,8 @@ titles:
   - title: Noć i magla
     authors:
       - Danilo Kiš
+    editors:
+      - Milisav Savić
     year: 1983
     series: Biblioteka Svjetski pisci
     language: Croatian
@@ -45062,8 +45495,11 @@ titles:
         url: https://search.worldcat.org/title/18088583
     verified: true
   - title: Putovanje po Srbiji u godini 1829
+    original_title: Reise in Serbien im Spätherbst 1829
     authors:
       - Otto von Pirch
+    translators:
+      - Dragiša T. Mijušković
     year: 1983
     series: Biblioteka Baština
     language: Serbian
@@ -45783,6 +46219,8 @@ titles:
     subtitle: Psihološki ogledi iz domaće književnosti
     authors:
       - Vladeta Jerotić
+    editors:
+      - Milka Janković
     year: 1984
     language: Croatian
     pages: 249
@@ -46333,6 +46771,8 @@ titles:
   - title: Naš narodni život
     authors:
       - Tihomir R. Đorđević
+    editors:
+      - Ivan Čolović
     year: 1984
     language: Serbian
     pages: 11
@@ -46397,6 +46837,7 @@ titles:
   - title: Niko
     authors:
       - Jerzy Andrzejewski
+    translators:
       - Petar Vujičić
     year: 1984
     language: Serbian
@@ -47069,6 +47510,7 @@ titles:
         url: https://d-nb.info/368920097
     verified: true
   - title: Bestidna nocna ptica
+    original_title: El obsceno pájaro de la noche
     series: Hispanoamericki roman
     authors:
       - José Donoso
@@ -47079,10 +47521,12 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991052532139708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Bogdanović
+    original_title: Die unendliche Geschichte
     authors:
       - Michael Ende
-      - Mirjana Popović
       - Tomislav Bogdanović
+    translators:
+      - Mirjana Popović
     year: 1985
     language: Serbian
     sources:
@@ -47157,8 +47601,12 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991127024869705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Dnevnik
+    original_title: Dziennik
     authors:
       - Witold Gombrowicz
+    editors:
+      - Petar Vujičić
+    translators:
       - Petar Vujičić
     year: 1985
     language: Serbian
@@ -47452,6 +47900,9 @@ titles:
   - title: Iz naroda i o narodu
     authors:
       - Luka Grđić-Bjelokosić
+    editors:
+      - Hatidža Krnjević
+      - Khatiџa Krњeviћ (Хатиџа Крњевић)
     year: 1985
     series: Biblioteka Baština
     language: Serbian
@@ -47561,6 +48012,9 @@ titles:
   - title: Konzulska pisma, 1905-1911
     authors:
       - Milan Rakić
+    editors:
+      - Andreǰ Mitrović
+      - Andreј Mitroviћ (Андреј Митровић)
     year: 1985
     language: Serbian
     pages: 409
@@ -47720,6 +48174,7 @@ titles:
     verified: true
   - title: Maks
     subtitle: Roman o maksizmu ili borba između većine i veličine
+    original_title: Maks
     authors:
       - Dimitrij Rupel
     year: 1985
@@ -47827,6 +48282,7 @@ titles:
   - title: Na putu za Korint
     authors:
       - Andrzej Kuśniewicz
+    translators:
       - Ljubica Rosić
     year: 1985
     language: Serbian
@@ -47837,6 +48293,7 @@ titles:
         url: https://search.worldcat.org/title/934771942
     verified: true
   - title: Nabujala reka
+    original_title: Perroi vershues
     authors:
       - Sinan Hasani
     year: 1985
@@ -48017,6 +48474,8 @@ titles:
     subtitle: Zbornik
     authors:
       - Ivan Kovačević
+    editors:
+      - Ivan Kovacheviћ (Иван Ковачевић)
     year: 1985
     series: Biblioteka Baština
     language: Serbian
@@ -48269,11 +48728,13 @@ titles:
     verified: true
   - title: Polet naše mladosti
     subtitle: Književno-sociološki esej o staljinizmu
+    original_title: Našej junosti polet
     authors:
       - Aleksandar Zinovjev
       - Milisav Savić
-      - Ivan Sekić
       - Vuk Krnjević
+    translators:
+      - Ivan Sekić
     year: 1985
     language: Serbian
     sources:
@@ -48404,6 +48865,8 @@ titles:
   - title: Sabrana dela Borisava Stankovića
     authors:
       - Borisav Stanković
+    editors:
+      - Vladimir Jovičić
     year: 1985
     language: Serbian
     sources:
@@ -48756,6 +49219,8 @@ titles:
   - title: Svirač pred paklom
     authors:
       - Veno Taufer
+    translators:
+      - Marija Mitrović
     year: 1985
     series: Savremena poezija
     language: Serbian
@@ -48793,6 +49258,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/001298506
     verified: true
   - title: Terra nostra
+    original_title: Terra nostra
     series: Hispanoamericki roman
     authors:
       - Carlos Fuentes
@@ -48907,6 +49373,7 @@ titles:
         url: https://search.worldcat.org/title/16169711
     verified: true
   - title: Vek prosvecenosti
+    original_title: El siglo de las luces
     series: Hispanoamericki roman
     authors:
       - Alejo Carpentier
@@ -49056,9 +49523,11 @@ titles:
         url: https://lccn.loc.gov/85186295
     verified: true
   - title: Ajnštajn prelazi Labu kod Hamburga
+    original_title: Einstein überquert die Elbe bei Hamburg
     series: Savremini strani pisci; 61
     authors:
       - Siegfried Lenz
+    translators:
       - Božidar Zec
     year: 1986
     language: German
@@ -49568,6 +50037,9 @@ titles:
     authors:
       - Konstantin Mihailović
       - Konstantin Mikhailoviћ (Константин Михаиловић)
+    editors:
+      - Ðorđe Živanović
+    translators:
       - Đorđe Živanović
       - Ђorђe Zhivanoviћ (Ђорђе Живановић)
     year: 1986
@@ -49665,6 +50137,8 @@ titles:
   - title: Koča Popović
     subtitle: Nadrealizam i postnadrealizam
     authors: []
+    editors:
+      - Gojko Tešić
     year: 1986
     language: Serbian
     sources:
@@ -49922,6 +50396,8 @@ titles:
     authors:
       - Koča Popović
       - Marko Ristić
+    editors:
+      - Gojko Tešić
     year: 1986
     language: Croatian
     sources:
@@ -50089,6 +50565,8 @@ titles:
   - title: Poezija
     authors:
       - Miodrag Pavlović
+    editors:
+      - Bogdan A. Popović
     year: 1986
     series: Biblioteka Izabrane i nove pesme
     language: Serbian
@@ -50353,6 +50831,9 @@ titles:
     series: Stara srpska književnost / uređ. odbor Dimitrije Bogdanović ..; 2
     authors:
       - Sava
+    editors:
+      - Lazar Mirković
+      - Dimitrije Bogdanović
     year: 1986
     language: Serbian
     sources:
@@ -50540,6 +51021,9 @@ titles:
   - title: Srbija i Venecija u XIII i XIV veku
     authors:
       - Ruža Ćuk
+    editors:
+      - Danica Milić
+      - Danitsa Miliћ (Даница Милић)
     year: 1986
     series: Posebna izdanja / Istorijski institut
     language: Serbian
@@ -50610,6 +51094,8 @@ titles:
   - title: Srpskohrvatsko-engleski rečnik
     authors:
       - Morton Benson
+    editors:
+      - M. Benson
     year: 1986
     edition: 2nd ed
     language: Croatian
@@ -50872,6 +51358,8 @@ titles:
     subtitle: Omnibus-roman
     authors:
       - Živojin Pavlović
+    editors:
+      - Vuk Krnjević
     year: 1986
     edition: 2. izd
     series: Savremena proza
@@ -50952,6 +51440,8 @@ titles:
     series: Savremena proza '86
     authors:
       - Borislav Pekić
+    editors:
+      - Vuk Krnjević
     year: 1986
     language: Serbian, Croatian
     sources:
@@ -51057,6 +51547,7 @@ titles:
     verified: true
   - title: Čarobni breg
     subtitle: Roman
+    original_title: Der Zauberberg
     series: Biblioteka velikih romana; 1 Ed.5
     authors:
       - Thomas Mann
@@ -51236,6 +51727,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1088575773
     verified: true
   - title: Don Kihot
+    original_title: Don Quijote de la Mancha
     authors:
       - Miguel de Cervantes Saavedra
       - Ljiljana Samurović-Pavlović
@@ -51247,10 +51739,12 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991043445339708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Enciklopedijski rečnik nauka o jeziku
+    original_title: Dictionnaire encyclopedique des sciences du langage
     series: Biblioteka XX vek; 65/1-2
     authors:
       - Oswald Ducrot
       - Tzvetan Todorov
+    translators:
       - Sanja Grahek
       - Mihajlo Popović
     year: 1987
@@ -51367,6 +51861,7 @@ titles:
     verified: false
   - title: Ilija Garašanin
     subtitle: Državnik i diplomata
+    original_title: Ilija Garašanin, Balkan Bismarck
     authors:
       - David MacKenzie
     year: 1987
@@ -51655,6 +52150,8 @@ titles:
   - title: Miholjsko leto
     authors:
       - Desanka Maksimović
+    editors:
+      - Miloš I. Bandić
     year: 1987
     language: Serbian
     pages: 95
@@ -51861,6 +52358,7 @@ titles:
   - title: Osuđen na uspjeh
     authors:
       - Hans Hellmut Kirst
+    translators:
       - Drago Dujmić
     year: 1987
     language: German
@@ -51899,6 +52397,7 @@ titles:
     subtitle: Satire
     authors:
       - Gabriel Laub
+    translators:
       - Zlatko Krasni
     year: 1987
     language: German
@@ -52028,6 +52527,8 @@ titles:
   - title: Provokativne figurice
     authors:
       - Miljurko Vukadinović
+    editors:
+      - Milosav Mirković
     year: 1987
     series: Savremena proza
     language: Serbian
@@ -52059,6 +52560,9 @@ titles:
     subtitle: Osnovni problemi ruske misli XIX i početkom XX veka
     authors:
       - Nikolaĭ Berdiaev
+    translators:
+      - Branislav Marković
+      - Marija Marković
     year: 1987
     series: Biblioteka Prosveta -- 50
     language: Croatian
@@ -52161,6 +52665,8 @@ titles:
   - title: Škripac
     authors:
       - Dragan Tomić
+    editors:
+      - Milosav Mirković
     year: 1987
     series: Savremena proza
     language: Serbian
@@ -52366,6 +52872,7 @@ titles:
     verified: true
   - title: Vuk Karadžić
     subtitle: Njegov rad i značaj
+    original_title: Vuk Karadzhich
     authors:
       - Platon Kulakovskīĭ
     year: 1987
@@ -52388,6 +52895,8 @@ titles:
   - title: Vuk o Knezu
     authors:
       - Vuk Stefanović Karadžić
+    editors:
+      - Golub Dobrašinović
     year: 1987
     series: Biblioteka Baština -- 25
     language: Serbian
@@ -52507,6 +53016,8 @@ titles:
     subtitle: The Golden Age
     authors:
       - Mihailo Dordevic
+    editors:
+      - Mihailo Ðorđević
     year: 1988
     edition: 2nd ed
     language: English, Serbian
@@ -53022,8 +53533,13 @@ titles:
         url: https://catalog.hathitrust.org/Record/002165718
     verified: true
   - title: Ljetopis popa Dukljanina
+    original_title: Regnum Sclavorum
     authors:
       - Diocleas
+    editors:
+      - Slavko Mijušković
+    translators:
+      - Slavko Mijušković
     year: 1988
     series: Stara srpska književnost u 24 knjige
     language: Serbian
@@ -53236,6 +53752,8 @@ titles:
   - title: Povest o Trištanu i Ižoti
     authors:
       - Irena Grickat
+    editors:
+      - Irena Grickat Radulović
     year: 1988
     language: Serbian
     sources:
@@ -53352,9 +53870,12 @@ titles:
     pages: 129
     isbn: 860700364X
   - title: Priče o dragom Bogu i druge pripovetke
+    original_title: Geschichten vom lieben Gott
     series: Biblioteka Prosveta; 51
     authors:
       - Rainer Maria Rilke
+    translators:
+      - Vera Kolaković
     year: 1988
     language: German
     sources:
@@ -53500,6 +54021,8 @@ titles:
     series: Stara srpska književnost u 24 knjige; Knj. 3
     authors:
       - Stefan Nemanjić
+    editors:
+      - Ljiljana Juhas-Georgijevska
     year: 1988
     language: Serbian
     sources:
@@ -53544,6 +54067,9 @@ titles:
   - title: Službe, kanoni i Pochvala
     authors:
       - Teodosije Hilandarac
+    editors:
+      - Biljana Jovanović-Stipčević
+    translators:
       - Dimitrije Bogdanović
       - Biljana Jovanović-Stipčević
     year: 1988
@@ -53575,6 +54101,7 @@ titles:
     subtitle: Roman
     authors:
       - Stanisław Lem
+    translators:
       - Petar Vujičić
     year: 1988
     language: Serbian
@@ -53686,8 +54213,15 @@ titles:
     verified: true
     subtitle: 1804-1850
   - title: Srpski ustanak i prva vladavina Miloša Obrenovića, 1804-1850
+    original_title: Essai historique sur les révolutions et l'indépendance de la Serbie depuis 1804 jusqu'à 1850
     authors:
       - Barthélemy Sylvestre Cunibert
+    editors:
+      - Dušan T. Bataković
+      - Dushan T. Batakoviћ (Душан Т. Батаковић)
+    translators:
+      - Milenko R. Vesnić
+      - Milenko R. Vesniћ (Миленко Р. Веснић)
     year: 1988
     series: Biblioteka Baština
     language: Serbian
@@ -54007,8 +54541,10 @@ titles:
         url: https://lccn.loc.gov/89868359
     verified: true
   - title: Zena u pejzazu s rekom
+    original_title: Frauen vor Flusslandschaft
     authors:
       - Heinrich Böll
+    translators:
       - Ivan Ivanji
     year: 1988
     language: Not recorded
@@ -54021,6 +54557,8 @@ titles:
     authors:
       - Hilandarac Teodosije
       - Dimitrije Bogdanović
+    translators:
+      - Lazar Mirković
     year: 1988
     language: Serbian
     sources:
@@ -54060,6 +54598,12 @@ titles:
   - title: Životi kraljeva i arhiepiskopa srpskih
     authors:
       - Danilo
+    editors:
+      - Gordon Mak Danijel
+      - Damnjan Petrović
+    translators:
+      - Dimitrije Bogdanović
+      - Lazar Mirković
     year: 1988
     language: Serbian
     sources:
@@ -54164,6 +54708,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/002229952
     verified: true
   - title: Alhemija kao fenomen srednjovekovne kulture
+    original_title: Alkhimii︠a︡ kak fenomen srednovekovoĭ kuʹtury
     series: Biblioteka Današnji svet
     authors:
       - V. L. Rabinovich
@@ -54276,6 +54821,9 @@ titles:
       - Grigoriĭ Tsamblak
       - Konstanty Michałowicz
       - Konstantin Filozof
+    editors:
+      - Gordon Mak Danijel
+      - Gordon Mak Daniјel (Гордон Мак Данијел)
     year: 1989
     series: Stara srpska književnost u 24 knjige
     language: Serbian
@@ -54308,6 +54856,8 @@ titles:
   - title: Dečansko pitanje
     authors:
       - Dušan T. Bataković
+    editors:
+      - Slavenko Terzić
     year: 1989
     series: Posebna izdanja / Istorijski institut
     language: Serbian
@@ -54392,8 +54942,10 @@ titles:
         url: https://lccn.loc.gov/90868285
     verified: true
   - title: Eden
+    original_title: Eden
     authors:
       - Stanisław Lem
+    translators:
       - Petar Vujičić
     year: 1989
     language: Serbian
@@ -54911,8 +55463,10 @@ titles:
         url: https://www.sudoc.fr/022208186
     verified: true
   - title: Nepobedivi
+    original_title: Niezwyciężony
     authors:
       - Stanisław Lem
+    translators:
       - Petar Vujičić
     year: 1989
     language: Serbian
@@ -55338,6 +55892,8 @@ titles:
     authors:
       - Morton Benson
       - Biljana Šljivić-Šimšić
+    editors:
+      - Biljane Šljivić-Simšić
     year: 1989
     edition: 3. izd
     language: Croatian
@@ -55645,6 +56201,8 @@ titles:
     subtitle: An Anthology of Love Poems from the Oral Poetry of Serbia, Bosnia and Hercegovina
     authors:
       - E. D. Goy
+    editors:
+      - Edward Dennis Goy
     year: 1990
     language: English
     sources:
@@ -55703,6 +56261,7 @@ titles:
     authors:
       - Milorad Đurić
       - Milorad Ђuriћ (Милорад Ђурић)
+    translators:
       - Bosilka Kićevac
       - Bosiљka Kiћevats (Босиљка Кићевац)
     year: 1990
@@ -55775,6 +56334,9 @@ titles:
   - title: Crvene magle; Kritičari o Dragiši Vasiću
     authors:
       - Dragiša Vasić
+    editors:
+      - Aleksandar Jerkov
+      - Vuk Krnʹević
     year: 1990
     series: Izabrana dela/Dragiše Vasića -- 1
     language: Serbian
@@ -55839,6 +56401,9 @@ titles:
   - title: Dva meseca u jugoslovenskom Sibiru; Utisci iz Rusije; Putopisi, eseji, kritike, članci
     authors:
       - Dragiša Vasić
+    editors:
+      - Aleksandar Jerkov
+      - Vuk Krnʹević
     year: 1990
     series: Izabrana dela/Dragiše Vasića -- 4
     language: Serbian
@@ -56048,6 +56613,9 @@ titles:
   - title: Karakter i mentalitet jednog pokolenja; Devetsto treca
     authors:
       - Dragiša Vasić
+    editors:
+      - Aleksandar Jerkov
+      - Vuk Krnʹević
     year: 1990
     series: Izabrana dela/Dragiše Vasića -- 3
     language: Serbian
@@ -56122,9 +56690,10 @@ titles:
     authors:
       - Milorad Pavić
       - Milorad Paviћ (Милорад Павић)
-      - Kristina Pribićević-Zorić
       - Tode Panaić
       - Miodrag Đorđević
+    translators:
+      - Kristina Pribićević-Zorić
     year: 1990
     language: Serbian
     sources:
@@ -56156,6 +56725,8 @@ titles:
     subtitle: Priče
     authors:
       - Antonije Isaković
+    editors:
+      - Petar Džadžić
     year: 1990
     series: Džepna knjiga. Domaći klasici
     language: Serbian
@@ -56398,6 +56969,9 @@ titles:
   - title: Sabrane pripovetke
     authors:
       - Dragiša Vasić
+    editors:
+      - Aleksandar Jerkov
+      - Vuk Krnʹević
     year: 1990
     series: Izabrana dela/Dragiše Vasića -- 2
     language: Serbian
@@ -56551,6 +57125,7 @@ titles:
   - title: Varvarin u vrtu
     authors:
       - Zbigniew Herbert
+    translators:
       - Petar Vujičić
     year: 1990
     language: Serbian
@@ -56619,6 +57194,8 @@ titles:
   - title: Ze len bor
     subtitle: Antologija ljubavnih narodnih pesama iz Srbije, Bosne i Hercegovine
     authors: []
+    translators:
+      - E. D. Goy
     year: 1990
     language: Croatian
     pages: 321
@@ -56747,6 +57324,9 @@ titles:
   - title: Deca
     authors:
       - Ivo Andrić
+    editors:
+      - Petar Džadžić
+      - Muharem Pervić
     year: 1991
     language: Serbian
     sources:
@@ -56773,6 +57353,8 @@ titles:
   - title: Diplomatski spisi
     authors:
       - Jovan Dučić
+    editors:
+      - Miladin Milošević
     year: 1991
     language: Serbian
     pages: 466
@@ -56885,6 +57467,9 @@ titles:
   - title: Gospođica
     authors:
       - Ivo Andrić
+    editors:
+      - Petar Džadžić
+      - Muharem Pervić
     year: 1991
     language: Serbian
     sources:
@@ -57067,6 +57652,9 @@ titles:
   - title: Jelena, žena koje nema
     authors:
       - Ivo Andrić
+    editors:
+      - Petar Džadžić
+      - Muharem Pervić
     year: 1991
     language: Serbian
     sources:
@@ -57155,6 +57743,8 @@ titles:
   - title: Lutke na bunjištu
     authors:
       - Živojin Pavlović
+    editors:
+      - Milosav Mirković
     year: 1991
     series: Savremena proza
     language: Croatian
@@ -57207,6 +57797,10 @@ titles:
   - title: Na Drini ćuprija
     authors:
       - Ivo Andrić
+    editors:
+      - Muharem Pervić
+    translators:
+      - Petar Džadžić
     year: 1991
     language: Serbian
     sources:
@@ -57236,6 +57830,9 @@ titles:
   - title: Nemirna godina
     authors:
       - Ivo Andrić
+    editors:
+      - Petar Džadžić
+      - Muharem Pervić
     year: 1991
     language: Serbian
     sources:
@@ -57365,6 +57962,9 @@ titles:
   - title: Prokleta avlija
     authors:
       - Ivo Andrić
+    editors:
+      - Petar Džadžić
+      - Muharem Pervić
     year: 1991
     language: Serbian
     sources:
@@ -57403,6 +58003,9 @@ titles:
   - title: Sabrana dela Ive Andrića
     authors:
       - Ivo Andrić
+    editors:
+      - Petar Džadžić
+      - Muharem Pervić
     year: 1991
     language: Serbian
     sources:
@@ -57521,6 +58124,9 @@ titles:
   - title: Staze, lica, predeli
     authors:
       - Ivo Andrić
+    editors:
+      - Petar Džadžić
+      - Muharem Pervić
     year: 1991
     language: Serbian
     sources:
@@ -57567,6 +58173,9 @@ titles:
   - title: Travnička hronika
     authors:
       - Ivo Andrić
+    editors:
+      - Petar Džadžić
+      - Muharem Pervić
     year: 1991
     language: Serbian
     sources:
@@ -57699,6 +58308,9 @@ titles:
   - title: Žeđ
     authors:
       - Ivo Andrić
+    editors:
+      - Petar Džadžić
+      - Muharem Pervić
     year: 1991
     language: Serbian
     sources:
@@ -57723,6 +58335,9 @@ titles:
   - title: Znakovi
     authors:
       - Ivo Andrić
+    editors:
+      - Petar Džadžić
+      - Muharem Pervić
     year: 1991
     language: Serbian
     sources:
@@ -57933,9 +58548,11 @@ titles:
         url: https://www.sudoc.fr/096505001
     verified: false
   - title: Decji dobos
+    original_title: Die Blechtrommel
     series: Lektira za II godinu srednjeg usmerenog obrazovanja
     authors:
       - Günter Grass
+    translators:
       - Olga Trebičnik
     language: Not recorded
     sources:

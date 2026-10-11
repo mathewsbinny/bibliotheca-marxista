@@ -403,6 +403,8 @@ titles:
     subtitle: The Czechoslovak National Insurance Act
     authors:
       - Czechoslovakia
+    translators:
+      - Fr. Stein
     year: 1948
     edition: 1st ed.]
     language: English
@@ -427,6 +429,8 @@ titles:
   - title: Czechoslovak Women To-day
     authors:
       - Sylva Thelenová-Havlíčková
+    translators:
+      - F. O. Stein
     year: 1948
     language: English
     pages: 35
@@ -474,6 +478,8 @@ titles:
   - title: Das Puppentheater in der Tschechoslowakei
     authors:
       - Jan Malík
+    translators:
+      - E. Kleinschnitz
     year: 1948
     language: German
     pages: 61
@@ -562,6 +568,7 @@ titles:
   - title: Die Bodenreform in der Tschechoslowakei
     authors:
       - Jiří Koťátko
+    translators:
       - Lene Gundermannová
     year: 1948
     language: German
@@ -593,6 +600,7 @@ titles:
     subtitle: Die Geschichte der Regierungskrise
     authors:
       - Bedřich Rohan
+    translators:
       - H. Flecková
     year: 1948
     language: German
@@ -628,6 +636,7 @@ titles:
   - title: Die Frau in der neuen Tschechoslowakei
     authors:
       - Sylva Thelenová-Havlíčková
+    translators:
       - F. Kirschner
     year: 1948
     language: German
@@ -673,8 +682,11 @@ titles:
     verified: true
   - title: Die Tschechoslowakei auf dem Wege zur Planwirtschaft
     subtitle: Überblick der Nachkriegsentwicklung der Industrie und des Zweijahrplanes
+    original_title: Czechoslovakia Test Case of nationalisation
     authors:
       - Josef Goldmann
+    translators:
+      - Eva Goldmannová
     year: 1948
     edition: 1. Aufl.]
     language: German
@@ -716,8 +728,10 @@ titles:
     verified: true
   - title: Die Verfassung der Tschechoslowakischen Republik
     subtitle: Verfassungsgesetz vom 9. Mai 1948
+    original_title: Verfassung
     authors:
       - Tschechoslowakei
+    translators:
       - Eduard Kleinschnitz
     year: 1948
     language: German
@@ -840,6 +854,7 @@ titles:
         url: https://search.worldcat.org/title/836744313
     verified: true
   - title: Face to Face with Reality
+    original_title: Skutečnosti tváří v tvář
     authors:
       - Ladislav Štoll
     year: 1948
@@ -1094,6 +1109,8 @@ titles:
   - title: Jan Amos Komenský (Comenius)
     authors:
       - Josef Hendrich
+    translators:
+      - Bohdan Goldreich
     year: 1948
     edition: 1st ed
     language: English
@@ -1263,6 +1280,7 @@ titles:
   - title: Künstler und Wirklichkeit
     authors:
       - Ladislav Štoll
+    translators:
       - Josefa Lenková
     year: 1948
     language: German
@@ -1364,6 +1382,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/007836427
     verified: true
   - title: La réforme agraire en Tchécoslovaquie
+    original_title: Pozemková reforma v Československu
     authors:
       - Jiří Koťátko
     year: 1948
@@ -1423,6 +1442,8 @@ titles:
   - title: Land Reform in Czechoslovakia
     authors:
       - Jiří Koťátko
+    translators:
+      - Bedřich Rohan
     year: 1948
     edition: 1st ed. --
     language: English
@@ -1442,6 +1463,7 @@ titles:
         url: https://search.worldcat.org/title/216492785
     verified: true
     subtitle: (Transl. from the Czech by B. Rohan and Fr. Stein)
+    original_title: Pozemková reforma v CSR
   - title: Land Reform in Czechoslovakia
     authors:
       - Jiří Kot̕átko
@@ -1617,11 +1639,13 @@ titles:
         url: https://catalog.hathitrust.org/Record/001989653
     verified: true
   - title: Lídové vzdělání v Sovětském svazu
+    original_title: Narodnoe obrazovanie v SSSR
     series: Kulturně politická knihovna; Sv. 3
     authors:
       - Evgenij Nikolaevič Medynskij
-      - Ant Hlaváček
       - Ladislav Kratochvíl
+    translators:
+      - Ant Hlaváček
     year: 1948
     language: Czech
     sources:
@@ -1657,8 +1681,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=495990248
     verified: true
   - title: Marxistická dialektická methoda
+    original_title: Marksistskij dialektičeskij metod
     authors:
       - Mark Moiseevitch Rozental
+    translators:
       - Ladislav Kratochvíl
     year: 1948
     language: Czech
@@ -1807,6 +1833,8 @@ titles:
     series: Národní knihovna; 1
     authors:
       - František Ladislav Čelakovský
+    editors:
+      - Karel Dvořák
     year: 1948
     language: Czech
     sources:
@@ -2007,6 +2035,8 @@ titles:
   - title: Počátky staročeské mystiky
     authors:
       - Jan Menšík
+    editors:
+      - Jan Menšik
     year: 1948
     series: 5. sv. řady A Knižnice Památky staré literatury české
     language: Czech
@@ -2042,6 +2072,7 @@ titles:
   - title: Pokojík v podkroví
     authors:
       - Wanda Wasilewska
+    translators:
       - Zdeňka Galasová-Brdlíková
     year: 1948
     language: Czech
@@ -2232,6 +2263,7 @@ titles:
         url: https://www.sudoc.fr/148776175
     verified: true
   - title: Průvodce po výzkumu veřejného mínění
+    original_title: A guide to public opinion polls
     series: Kulturné politická knihovna; 4
     authors:
       - George Gallup
@@ -2244,6 +2276,8 @@ titles:
   - title: Puppetry in Czechoslovakia
     authors:
       - Jan Mali k
+    translators:
+      - B. Goldreich
     year: 1948
     language: English
     sources:
@@ -2533,6 +2567,8 @@ titles:
   - title: Sociální rodokmen polské literatury
     authors:
       - Ignacy Fik
+    translators:
+      - Erich Sojka
     year: 1948
     series: Slovanský svět; myšlenky a skutečnosti
     language: Czech
@@ -2652,6 +2688,8 @@ titles:
     subtitle: The Concentration Camp Europe Under the Rule of Hitler
     authors:
       - Jan Hajšman
+    translators:
+      - L. H. Vydra
     year: 1948
     language: English
     pages: 212
@@ -2675,6 +2713,9 @@ titles:
     subtitle: Its Foundation, Character and Development in the Fourteenth Century
     authors:
       - Václav Chaloupecký
+    translators:
+      - V. Fried
+      - W. R. Lee
     year: 1948
     language: English
     pages: 150
@@ -2887,6 +2928,8 @@ titles:
     subtitle: The Problem of Man-Power
     authors:
       - Bohuslav Glos
+    translators:
+      - J. Bohdan
     year: 1948
     language: English
     pages: 146
@@ -3006,9 +3049,11 @@ titles:
         url: https://www.sudoc.fr/092397972
     verified: true
   - title: Úpadek buržoasní sociologie
+    original_title: Bankrotstvo buržuaznoj sociologii
     series: Malá knihovna sovětské vědy; 2
     authors:
       - G. Aleksandrov
+    translators:
       - Josef Lívanec
     year: 1948
     language: Czech
@@ -3199,6 +3244,9 @@ titles:
   - title: Zákon o volbách do Národního shromáz̆dĕní ...
     authors:
       - Czechoslovak Republic. Constitution
+    editors:
+      - Hoffmann, Josef, doctor of laws
+      - Karel Drdacký
     year: 1948
     edition: '[1. vyd.]'
     series: C̆eskoslovenské právo
@@ -3359,6 +3407,8 @@ titles:
   - title: A. Novikov. Pochod demokratické mládeže.. Slova Lev Ošanin,. zpěv (sbor) a klavír avec refrain pour choeur à 4 v.. Přeložil Jos. Urban. Kytara neb harmonika ad lib
     authors:
       - Anatolij Grigorʹevič Novikov
+    translators:
+      - Josef Urban
     year: 1949
     language: Czech
     sources:
@@ -3434,6 +3484,8 @@ titles:
     subtitle: Obrazy z venkovského života
     authors:
       - Božena Němcová
+    editors:
+      - Miloslav Novotný
     year: 1949
     series: Národní knihovna -- sv.2
     language: Czech
@@ -3457,6 +3509,8 @@ titles:
   - title: Barevné střepy
     authors:
       - Jaroslav Vrchlický
+    editors:
+      - Vítězslav Tichý
     year: 1949
     series: Národní knihovna -- 8
     language: Czech
@@ -3617,6 +3671,7 @@ titles:
   - title: Buržoasní kinematografie ve službě reakce
     authors:
       - Grigorij Vasil'evič Aleksandrov
+    translators:
       - Josef Pernica
     year: 1949
     language: Czech
@@ -3722,6 +3777,8 @@ titles:
     subtitle: A Contribution to the Pattern of Social Security; the Czechoslovak National Insurance Act
     authors:
       - Czechoslovakia
+    translators:
+      - F. O. Stein
     year: 1949
     edition: 2d (rev.) ed
     language: English
@@ -3786,9 +3843,10 @@ titles:
   - title: Das tschechoslowakische Verlagsgesetz
     subtitle: Ansprachen u. Motivenbericht
     authors:
+      - Tschechoslowakei
+    translators:
       - Eva Ebertová
       - E. J. Haas
-      - Tschechoslowakei
     year: 1949
     language: German
     sources:
@@ -4271,6 +4329,11 @@ titles:
   - title: Jazykový koutek Československého rozhlasu
     authors:
       - Československý rozhlas
+    editors:
+      - Bohuslav Havránek
+      - Alois Jedlička
+      - František Vahala
+      - Miloš Dokulil
     year: 1949
     edition: '[Vyd. 1.]'
     series: Knižnice Rozhlasové práce
@@ -4537,7 +4600,8 @@ titles:
   - title: La nouvelle loi tchécoslovaque sur l'édition
     subtitle: Loi sur l'édition et la mise en circulation des livres, des partitions de musique et d'autres publications non-périodiques. Discours et documents
     series: Ministère de l'information et de l'éducation populaire
-    authors:
+    authors: []
+    translators:
       - A. L. Castan
     year: 1949
     language: French
@@ -4662,9 +4726,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1985067803
     verified: true
   - title: Lidově demokratické Maďarsko na cestě k socialismu
+    original_title: Vengerskaâ demokratičeskaâ respublika na novom ètape
     series: Politické aktuality
     authors:
       - Ivan Sergejevič Laponogov
+    translators:
       - Vl Smrž
     year: 1949
     language: Czech
@@ -4836,6 +4902,7 @@ titles:
   - title: Na vrcholu césarismu
     authors:
       - Tacite
+    translators:
       - Ant Minarík
     year: 1949
     language: Czech
@@ -4939,6 +5006,7 @@ titles:
     series: Malá knihovna sovětské vědy; 4
     authors:
       - S. L. Vygodskij
+    translators:
       - Miloslav Kubík
     year: 1949
     language: Czech
@@ -5133,10 +5201,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1153282534
     verified: true
   - title: Osobnost v socialistické společnosti
+    original_title: Ličnost' v socialističeskom obščestve
     series: Malá knihovna sovětské vědy; 1
     authors:
       - I. N. Umanskij
       - Jiří Holínkovy
+    translators:
       - Galina Holínkova
     year: 1949
     language: Czech
@@ -5169,6 +5239,8 @@ titles:
   - title: Planned Economy in Czechoslovakia
     authors:
       - Josef Goldmann
+    translators:
+      - F. O. Stein. 1st ed
     year: 1949
     language: English
     pages: 149
@@ -5224,6 +5296,8 @@ titles:
     series: Malá knihovna sovětské vědy; 17
     authors:
       - I. I. Jermašev
+    translators:
+      - Vlastimil Rollo
     year: 1949
     language: Czech
     sources:
@@ -5328,6 +5402,8 @@ titles:
     subtitle: Péčí Uměleckoprůmyslového musea v Praze
     authors:
       - Hana Frankensteinová
+    editors:
+      - Eva Pávková
     year: 1949
     edition: 1. vyd.]
     language: Czech
@@ -5406,6 +5482,8 @@ titles:
   - title: Probleme der tschechoslowakischen Wirtschaftsplanung
     authors:
       - Josef Goldmann
+    translators:
+      - H. Flekov
     year: 1949
     edition: 1. Aufl. im März 1949
     language: German
@@ -5425,6 +5503,7 @@ titles:
         url: https://www.sudoc.fr/148771033
     verified: true
     subtitle: Institut f. Wirtschafts- u. soziale Forschg. d. Sozialist, Akad. in Prag; Verf. unter d. Leitg v. Dr. Josef Goldmann u. Dr. Josef Fiek u. d. Mitarb. d. Mitgl. d. Inst. ... (Aus d. Tschech. übers. v. H. Fleková.) Mit e. Vorw. v. Prof. Jürgen Kuczynski
+    original_title: Problémy československého hospodařského plánovám
   - title: Problémy sovětské hudby
     series: Přednášky a diskuse; Sv. 27
     authors:
@@ -5573,9 +5652,11 @@ titles:
         url: https://www.sudoc.fr/096460199
     verified: true
   - title: Ruská fysiologická škola
+    original_title: Russkaâ fiziologičeskaâ škola i ee rolʹ v razvitii mirovoj nauki
     series: Malá knihovna sovětské vědy; Sv. 3
     authors:
       - Chačatur Sedrakovič Koštojanc
+    translators:
       - Vlasta Vojtigová
     year: 1949
     language: Czech
@@ -5597,6 +5678,7 @@ titles:
     subtitle: Cesty Miklucho-Maklaje
     authors:
       - Nikolaj Nikolaevič Mikluho-Maklaj
+    translators:
       - Alexej Kist
     year: 1949
     language: Czech
@@ -5619,6 +5701,8 @@ titles:
   - title: Sbírka starého umění
     authors:
       - Národní galerie v Praze
+    editors:
+      - Jaroslav Pešina
     year: 1949
     edition: 1. vyd.]
     language: Czech
@@ -5753,6 +5837,8 @@ titles:
     subtitle: Překlady vybraných studií
     authors:
       - Miroslav Drozda
+    editors:
+      - M. Drozda
     year: 1949
     language: Czech
     sources:
@@ -6110,6 +6196,8 @@ titles:
     series: Národní knihovna; 11
     authors:
       - Karolína Světlá
+    editors:
+      - Věra Mazlová
     year: 1949
     language: Czech
     sources:
@@ -6155,6 +6243,7 @@ titles:
         url: https://d-nb.info/455302529
     verified: true
   - title: Výchovný význam sovětského soudu
+    original_title: Vospitatelʹnoe značenie sovetskago suda
     series: Malá Knihovna Sovětské Vědy; 14
     authors:
       - I. Goljakov
@@ -6200,6 +6289,8 @@ titles:
     subtitle: A souvislé zákony a nařízení
     authors:
       - Czechoslovakia
+    editors:
+      - Josef Glos
     year: 1949
     edition: 1. vyd. --
     series: Ceskoslovenské právo. Rada 1 -- sv. 22
@@ -6226,6 +6317,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=578837676
     verified: true
   - title: Zákulisí druhé fronty
+    original_title: Za kulisami podgotovki vtorogo fronta
     series: Malá knihovna sovětské vědy; sv. 9
     authors:
       - T. V. Tolčenov
@@ -6240,6 +6332,8 @@ titles:
     series: Národní knihovna; 9
     authors:
       - Matěj Anastasia Šimáček
+    editors:
+      - Anna Kellnerová
     year: 1949
     language: Czech
     sources:
@@ -6364,6 +6458,8 @@ titles:
     subtitle: Piano
     authors:
       - Bohuslav Martinů
+    editors:
+      - Karel Šolc
     year: 1950
     language: French
     sources:
@@ -6428,6 +6524,7 @@ titles:
     subtitle: Vyběr ... skladeb pro klav
   - title: Album pro mládež
     subtitle: '= Album pour la jeunesse: op. 21: piano'
+    original_title: Album pro mládež
     authors:
       - Génari Karganoff
       - Karel Hoffmeister
@@ -6508,6 +6605,8 @@ titles:
   - title: Básnické dílo
     authors:
       - Karel Havlíček-Borovský
+    editors:
+      - Jaromír Bělič
     year: 1950
     edition: Vyd. 1. --
     series: Národní knihovna -- sv. 16
@@ -6589,6 +6688,7 @@ titles:
     subtitle: Życie i dzieło orientalisty czeskiego
     authors:
       - Lubor Matouš
+    translators:
       - Irena Ryšánková
     year: 1950
     language: Polish
@@ -6627,6 +6727,8 @@ titles:
       - Giovanni Boccaccio
       - Antonín Grund
       - Antonı́n Grund
+    translators:
+      - Hynek, z Poděbrad, Prince of Münsterberg
     year: 1950
     language: Czech
     sources:
@@ -6856,9 +6958,11 @@ titles:
         url: https://www.sudoc.fr/096461284
     verified: true
   - title: Charakteristické znaky ruské přírodovědy
+    original_title: Характерные черты русского естествознания
     series: Malá knihovna sovět. vědy; Sv. 30
     authors:
       - I. V. Kuznecov
+    translators:
       - Tomáš Henek
     year: 1950
     language: Czech
@@ -6985,7 +7089,8 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=577460803
     verified: true
   - title: Die Schulreform in der Tschechoslowakei
-    authors:
+    authors: []
+    translators:
       - L. Gundermannová
     year: 1950
     language: German
@@ -7035,8 +7140,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=410103233
     verified: true
   - title: Die Verfassung der Tschechoslowakischen Republik
+    original_title: Ustava československé republiky, <dt.>
     authors:
       - Tschechoslowakei
+    translators:
       - Eduard Kleinschnitz
     year: 1950
     language: German
@@ -7048,6 +7155,8 @@ titles:
     subtitle: A New Method of Structural Analysis
     authors:
       - Celestin Vladimir Klouc ek
+    translators:
+      - A. H. Waddell-Zalud [
     year: 1950
     language: English
     pages: 512
@@ -7445,6 +7554,7 @@ titles:
   - title: Indonézie
     authors:
       - I. L. Halûta
+    translators:
       - Radim Palouš
     year: 1950
     language: Czech
@@ -7468,6 +7578,8 @@ titles:
     series: Časové otázky
     authors:
       - Renaud de Jouvenel
+    translators:
+      - Antonín J. Liehm
     year: 1950
     language: Czech
     sources:
@@ -7521,9 +7633,11 @@ titles:
     verified: true
   - title: Jana Amosa Komenského Všenáprava
     subtitle: Všeobecné porady o nápravě věcí lidských(část 6 ) = (Panorthosie)
+    original_title: Panorthosia
     series: Politická knihovna
     authors:
       - Johann Amos Comenius
+    translators:
       - Josef Hendrich
     year: 1950
     language: Czech
@@ -7535,6 +7649,8 @@ titles:
     subtitle: Všeobecné porady o nápravě věcí lidských (část šestá)
     authors:
       - Johann Amos Comenius
+    translators:
+      - Josef Hendrich
     year: 1950
     edition: 1. vydání]
     series: Politická knihovna
@@ -7887,6 +8003,8 @@ titles:
     series: Otázky politické ekonomie; [Sv.] 3
     authors:
       - M. Makarova
+    translators:
+      - Svatopluk Tíkal
     year: 1950
     language: Czech
     sources:
@@ -7938,6 +8056,7 @@ titles:
   - title: Lidová republika Bulharská na cestě k socialismu
     authors:
       - F. T. Konstantinov
+    translators:
       - O. Koudelková
     year: 1950
     language: Czech
@@ -7950,6 +8069,7 @@ titles:
   - title: Lidově demokratické Maďarsko na cestě k socialismu
     authors:
       - Ivan Sergeevič Laponogov
+    translators:
       - Vladimir Smrž
     year: 1950
     language: Czech
@@ -8045,6 +8165,11 @@ titles:
   - title: Milion
     authors:
       - Marco Polo
+    editors:
+      - Quido Hodura
+    translators:
+      - Quido Hodura
+      - Bohuslav Horák
     year: 1950
     series: Památky staré literatury české. Řada A -- sv. 8
     language: Czech
@@ -8062,6 +8187,7 @@ titles:
         url: https://www.sudoc.fr/098411853
     verified: true
     subtitle: K vydánï připravili Quido Hodura a Bohuslav Horák
+    original_title: Il Milione
   - title: Miloš Smatek. Pionýrská abeceda.. Slova Karel Baroch,. Zpěv (sbor) [à 2 v.] a klavír. Kytara neb harmonika ad lib
     authors:
       - Miloš Smatek
@@ -8072,6 +8198,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb43275102v
     verified: true
   - title: Mír nebo atomová bomba?
+    original_title: Bombe ou paix atomique?
     authors:
       - Dominique Desanti
       - Charles Haroche
@@ -8098,6 +8225,8 @@ titles:
     subtitle: Historický obraz
     authors:
       - Zikmund Winter
+    editors:
+      - František Váhala
     year: 1950
     edition: 1. vyd
     series: Narodní knihovna -- sv. 14
@@ -8183,6 +8312,8 @@ titles:
     series: Zpěvem k srdci; 3
     authors:
       - Bohuslav Valašt'an
+    editors:
+      - Bohuslav Valaštan
     year: 1950
     language: Czech
     sources:
@@ -8249,6 +8380,8 @@ titles:
   - title: Našemu Antoninu Zápotockému, 19. prosinec 1949
     authors:
       - Czechoslovakia. Ministerstvo informací
+    editors:
+      - Josef Krasny
     year: 1950
     language: Czech
     pages: 181
@@ -8310,6 +8443,8 @@ titles:
   - title: Nová rada
     authors:
       - Smil Flaška
+    editors:
+      - Jiří Daňhelka
     year: 1950
     series: 9. sv. Řady A knis̄nice Památky staré literatury české
     language: Czech
@@ -8335,6 +8470,8 @@ titles:
     authors:
       - Svatopluk Čech
       - Karel Krejčí
+    editors:
+      - Antonín Procházka
     year: 1950
     language: Czech
     sources:
@@ -8450,6 +8587,8 @@ titles:
     subtitle: Roman
     authors:
       - Antal Stašek
+    editors:
+      - Zdeněk Tyl
     year: 1950
     series: Národní knihovna -- 21
     language: Czech
@@ -8472,6 +8611,7 @@ titles:
     verified: true
   - title: O Státním rozpočtu SSSR na rok 1950 a o splnění
     subtitle: Státního rozpočtu v letech 1948 a 1949
+    original_title: Pravda. [Moskva.] vom 14. u. 18.7.1950
     series: Knihovna Státního Úřadu planovacího; 2
     authors:
       - A. G. Zvěrev
@@ -8509,6 +8649,7 @@ titles:
         url: https://www.sudoc.fr/150737432
     verified: true
   - title: Občanský soudní řád
+    original_title: Občanský soudní řád (1950)
     series: Knižnice ministerstva spravedlnosti
     authors:
       - Czechoslovak Republic
@@ -8691,6 +8832,8 @@ titles:
     series: Národní knihovna; 15
     authors:
       - Ladislav Stroupežnický
+    editors:
+      - Vladimír Müller
     year: 1950
     language: Czech
     sources:
@@ -8771,6 +8914,7 @@ titles:
     series: Národní knihovna; 23
     authors:
       - Svatopluk Čech
+    translators:
       - Antonín Procházka
     year: 1950
     language: Czech
@@ -8813,6 +8957,8 @@ titles:
     series: Národní knihovna; 22
     authors:
       - Božena Němcová
+    editors:
+      - Zdeňka Havránková
     year: 1950
     language: Czech
     sources:
@@ -8894,6 +9040,10 @@ titles:
     subtitle: Komp. 1942
     authors:
       - Vít Nejedlý
+    editors:
+      - Jiří Berkovec
+    translators:
+      - Josef Urban
     year: 1950
     language: Multiple languages
     sources:
@@ -9064,6 +9214,8 @@ titles:
     authors:
       - Bedřich Smetana
       - František Maxian
+    editors:
+      - František Maxián
     year: 1950
     language: Not recorded
     sources:
@@ -9118,6 +9270,8 @@ titles:
   - title: Sít' víry
     authors:
       - Petr Chelčický
+    editors:
+      - František Šimek
     year: 1950
     edition: 1. vyd.]
     series: Politická knihovna
@@ -9164,6 +9318,8 @@ titles:
   - title: Slovácké pěsničky
     authors:
       - Jan Polášek
+    editors:
+      - Jan Poláček
     year: 1950
     language: Slovak
     sources:
@@ -9215,6 +9371,8 @@ titles:
       - Jaroslav Jeremiáš
       - Antonín Hyksa
       - Jaroslav Posadovský
+    editors:
+      - Jaroslav Posadovsky
     year: 1950
     language: Not recorded
     sources:
@@ -9281,6 +9439,7 @@ titles:
         url: https://www.sudoc.fr/095418687
     verified: true
   - title: Sovětské odbory v boji za jednotu mezinárodního odborového hnutí
+    original_title: Sovetskie profsoûzy v avangarde borʹby za edinstvo meždunarodnogo profsoûznogo dviženiâ
     series: Politické aktuality
     authors:
       - Ivan Nikolajevič Žmychov
@@ -9581,6 +9740,7 @@ titles:
   - title: Tysiąc lat naszych stosunków z Polską
     authors:
       - Julius Dolanský
+    translators:
       - Irena Ryšánková
       - Maria Tomczyńska
     year: 1950
@@ -9630,6 +9790,7 @@ titles:
   - title: Úloha pokrokových idejí ve společenském vývoji
     authors:
       - Fedor Vasil'evič Konstantinov
+    translators:
       - Jaroslav Kohout
     year: 1950
     language: Czech
@@ -9660,9 +9821,11 @@ titles:
         url: https://www.sudoc.fr/096459530
     verified: true
   - title: USA - země cizopasného zahnívajícího kapitalismu
+    original_title: Soedinennye Štaty Ameriki - strana parazitičeskogo, zagnivaûŝego kapitalizma
     series: Malá knihovna sovětské vědy; Sv. 26
     authors:
       - Vitalij Germanovič Korionov
+    translators:
       - Josef Sůva
       - Josef Lukášek
     year: 1950
@@ -9756,6 +9919,9 @@ titles:
     subtitle: Pochod pro symfonický orchestr
     authors:
       - Vít Nejedlý
+    editors:
+      - Karel Šolc
+      - Zdeněk Nejedlý
     year: 1950
     language: French
     sources:
@@ -9834,6 +10000,10 @@ titles:
     series: Politicìa Knihovna historicaó
     authors:
       - Charles Fourier
+    editors:
+      - Jaroslav Vozka
+    translators:
+      - Stanislav Lyer
     year: 1950
     language: Czech
     sources:
@@ -9927,6 +10097,8 @@ titles:
     authors:
       - Bedřich Smetana
       - Štěpán Suchý
+    editors:
+      - Jindřich Feld
     year: 1950
     language: Not recorded
     sources:
@@ -9962,6 +10134,7 @@ titles:
         url: https://www.sudoc.fr/156731142
     verified: true
   - title: Zákon o Pětiletém Státním Národohospodářském Plánu Lidové Republiky Bulharské 1949-1953
+    original_title: Planovo Stopanstvo. [Sofija]. Roč. 3. C. 10
     series: Knihovna Státního Úřadu plánovacího; 4
     authors:
       - Jaroslav Minář
@@ -10026,6 +10199,10 @@ titles:
   - title: Zdeněk Fibich, op. 2. Lístky do památníku--Feuillets d'album. Piano. Rev. Frantisek Vrána. Notice par L. Boháček
     authors:
       - Zdenĕk Fibich
+    editors:
+      - František Vrána
+      - L. Boháček
+      - L. Boháěk
     year: 1950
     language: French
     sources:
@@ -10191,6 +10368,8 @@ titles:
     series: Národní knihovna; 29
     authors:
       - Ivan Olbracht
+    editors:
+      - Rudolf Havel
     year: 1951
     language: Czech
     sources:
@@ -10433,6 +10612,8 @@ titles:
     subtitle: '[Předml. napsal František Nečásek.]'
     authors:
       - Vítězslav Rzounek
+    editors:
+      - Vitězslav Rzounek
     year: 1951
     edition: '[1. vyd.]'
     language: Czech
@@ -10497,6 +10678,7 @@ titles:
       - Antonín Dvořák
       - Otakar Šourek
       - Adolf Wenig
+    translators:
       - Richard Batke
     year: 1951
     language: Czech
@@ -10571,6 +10753,8 @@ titles:
   - title: Czechoslovak Agriculture on a New Path
     authors:
       - Jiří Koťátko
+    translators:
+      - Jaroslav Gardavský
     year: 1951
     language: English
     pages: 67
@@ -10610,8 +10794,13 @@ titles:
         url: https://www.sudoc.fr/150910924
     verified: true
   - title: Deník o jízdě a putování pana Lva z Rožmitálu a z Blatné z Čech až na konec světa
+    original_title: Commentarius brevis et iucundus itineris atque peregrinationis pietatis et religionis causa susceptae ab illustri et magnifico Domino, Domino Leone, libero barone de Rosmital et Blatna
     authors:
       - Václav Šašek z Bířkova
+    editors:
+      - František Svejkovský
+    translators:
+      - Stanisław Pawłowski
     year: 1951
     edition: 1. vyd.]
     series: Památky staré literatury české
@@ -10841,6 +11030,8 @@ titles:
     subtitle: Furiant, piano, op. 12
     authors:
       - Antonín Dvořák
+    editors:
+      - Karel Vinklát
     year: 1951
     language: French
     sources:
@@ -11003,8 +11194,11 @@ titles:
     verified: true
   - title: Folk Toys
     subtitle: Les Jouets Populaires
+    original_title: Československé lidové hračky
     authors:
       - Emanuel Hercík
+    translators:
+      - Roberta Finlayson Samsour
     year: 1951
     language: English
     pages: 66
@@ -11049,6 +11243,10 @@ titles:
   - title: František Škroup. Chrudimská ouvertura. Předehra k otevřeni městeského divadla v Chrudimi 1854. Partitura. Vydáno péči Národní a universitni knihovny v Praze z původního rekopisu k tisku připravil a vydavatelskými poznámkami, doprovodil Dr Václav Plocek, Úvodní slovo a poznámky napsal Dr Jiří Ježek, a Dr Marie Svobodová
     authors:
       - Frantisek Jan Skroup
+    editors:
+      - Jiří Ježek
+      - Marie Svobodová
+      - Václav Plocek
     year: 1951
     language: French
     sources:
@@ -11079,6 +11277,9 @@ titles:
   - title: Golet v údolí
     authors:
       - Ivan Olbracht
+    editors:
+      - Rudolf Havel
+      - Jan Mukařovský
     year: 1951
     edition: 2 vyd
     series: Národní knihovna
@@ -11376,6 +11577,8 @@ titles:
     subtitle: Kutnohorští havíři
     authors:
       - Josef Kajetán Tyl
+    editors:
+      - Alois Jedlička
     year: 1951
     series: Národní knihovna -- sv. 32
     language: Czech
@@ -11530,6 +11733,8 @@ titles:
   - title: Knihy básní
     authors:
       - Jan Neruda
+    editors:
+      - Felix Vodička
     year: 1951
     edition: l. vyd.]
     series: Národní knihovna
@@ -11616,6 +11821,7 @@ titles:
         url: https://lccn.loc.gov/65047238
     verified: true
   - title: Krach "Marshallova plánu" Zruštiny prelozila Vilma Vavrecicová
+    original_title: Proval "plana Maršalla"
     series: Politické akuality
     authors:
       - Mihail Samuilovic Dragilev
@@ -11875,6 +12081,8 @@ titles:
     series: Politické aktuality
     authors:
       - Aleksandr Jakovlevič Manusevič
+    translators:
+      - Olga Sádková
     year: 1951
     language: Czech
     sources:
@@ -12037,6 +12245,7 @@ titles:
     subtitle: Nastroj amerického imperialismu
     authors:
       - Mihail Sergeevič Vozčikov
+    translators:
       - Antonie Schwarzová
     year: 1951
     language: Czech
@@ -12404,6 +12613,7 @@ titles:
         url: https://www.sudoc.fr/135666635
     verified: true
   - title: O Státním rozpočtu SSSR na rok 1951
+    original_title: Pravda, [Moskva.] vom 8., 11. u. 13.3.1951
     series: Knihovna Státního Úřadu plánovacího; 15
     authors:
       - A. G. Zvěrev
@@ -12475,6 +12685,8 @@ titles:
   - title: Občanský soudní řád
     authors:
       - Czechoslovakia
+    editors:
+      - Josef Rubeš
     year: 1951
     edition: 2. opravené a rozšířené vyd.]
     series: Knižnice Ministerstva spravedlnosti
@@ -12534,6 +12746,8 @@ titles:
     authors:
       - František Ladislav Čelakovský
       - Karel Dvořák
+    editors:
+      - Milan Jungmann
     year: 1951
     language: Czech
     sources:
@@ -12695,6 +12909,12 @@ titles:
   - title: Píseň o vítězství u Domažlic
     authors:
       - Vavřinec z Březové
+    editors:
+      - Jan Blahoslav Čapek
+      - Karel Hrdina
+      - Bohumil Ryba
+    translators:
+      - Jan Blahoslav Čapek
     year: 1951
     series: Památky staré literatury české -- 12
     language: Czech
@@ -12725,6 +12945,7 @@ titles:
         url: https://www.sudoc.fr/094851506
     verified: true
     subtitle: '[Latinský text připravil k vydání, kritickým aparátem a poznámkami opatřili Karel Hrdina a Bohumil Ryba. Novočesky přebásnil J.B. Čapek.]'
+    original_title: Carmen insignis corone Boemie
     edition: '[1. vyd.]'
   - title: Píseň o vítězství u Domažlic (Carmen insignis Corone Bohemie pro tropheo ... circa Ryzmberg et Domazlicz ... 1431 ... per Laurencium [Laurentium] de Brzezova ... congestum)
     series: (Památky staré literatury české)
@@ -13039,8 +13260,9 @@ titles:
     verified: true
   - title: První pětiletý hospodářský plán Maďarské lidové republiky, 1950-54
     authors:
-      - Kateřina Kafková
       - Hungary
+    translators:
+      - Kateřina Kafková
     year: 1951
     edition: 1. vyd
     series: Knihovna Státního úřadu plánovacího -- sv. 10
@@ -13146,6 +13368,7 @@ titles:
   - title: Rolnictwo czechosłowackie na nowych drogach
     authors:
       - Jiří Koťátko
+    translators:
       - Rudolf Janiček
     year: 1951
     language: Polish
@@ -13330,7 +13553,8 @@ titles:
     verified: true
   - title: Šestiletý plan hospodárškého rozvoje a výstavby základů socialísmu v Polsku na léta 1950-55
     series: Knihovna St. úřadu plánovacího; Sv. 8
-    authors:
+    authors: []
+    translators:
       - Zděnek Plášíl
     year: 1951
     language: Czech
@@ -13518,6 +13742,7 @@ titles:
         url: https://search.worldcat.org/title/77894129
     verified: true
   - title: Soudní řeči
+    original_title: Sudebnye rechi Czech
     series: Socialistické právo
     authors:
       - Andrej Ânuarʹevič Vyšinskij
@@ -13621,6 +13846,7 @@ titles:
   - title: Sovětské výtvarné uměni v období intervence a občanské války
     authors:
       - Polikarp Ivanovič Lebedev
+    translators:
       - Emilie Bednářová
     year: 1951
     language: Czech
@@ -13790,6 +14016,8 @@ titles:
     authors:
       - Jan Hanuš
       - Mánes
+    editors:
+      - Spytihněv Šorm
     year: 1951
     language: Not recorded
     sources:
@@ -13881,6 +14109,8 @@ titles:
     subtitle: Address in the Cultural Committee of the Czechoslovak National Assembly on March 14th, 1951
     authors:
       - Václav Kopecký
+    translators:
+      - Vl. Vařecha
     year: 1951
     edition: 1st ed
     language: English
@@ -13968,6 +14198,8 @@ titles:
   - title: Trestní zákon a trestní řád
     authors:
       - Czechoslovakia
+    editors:
+      - Josef Štefánek
     year: 1951
     edition: 4. rozšířené a opravené vyd
     series: Knižnice ministerstva spravedlnosti
@@ -13994,6 +14226,8 @@ titles:
     series: Knižnice Ministerstva spravedlnosti
     authors:
       - Czechoslovak Republic
+    editors:
+      - Miloš Parma
     year: 1951
     language: Czech
     sources:
@@ -14072,6 +14306,7 @@ titles:
   - title: Trumanův "čtvrtý bod" nástroj amerického imperialismu
     authors:
       - Stefan Czarny
+    translators:
       - Božena Málková
     year: 1951
     language: Czech
@@ -14105,8 +14340,10 @@ titles:
     verified: true
   - title: Über die Entwicklung der kulturellen Aufklärungsarbeit in der Tschechoslowakei
     subtitle: Exposé des Ministers für Information und Aufklärung, vorgetragen am 14. März 1951 vor dem Kulturausschuß der Nationalversammlung
+    original_title: O rozvoji kulturní a osvětové práce v Československu
     authors:
       - Václav Kopecký
+    translators:
       - Jana Nowakova
     year: 1951
     language: German
@@ -14290,6 +14527,7 @@ titles:
     verified: true
   - title: Vengriâ
     subtitle: Kratkij geografičeskij i politiko-ékonomičeskij očerk
+    original_title: Madarsko. žeměpisný, hospodářský a politický přehled
     series: Casavé otàzky
     authors: []
     year: 1951
@@ -14311,6 +14549,8 @@ titles:
   - title: Vítězslav Novák. op. 24. Sonata eroica, piano. Rev. Frantíšek Rauch
     authors:
       - Vítězslav Novák
+    editors:
+      - Frantíšek Rauch
     year: 1951
     language: French
     sources:
@@ -14478,6 +14718,8 @@ titles:
   - title: Zapadlí vlastenci
     authors:
       - Karel Václav Rais
+    editors:
+      - Ladislav Janský
     year: 1951
     edition: 1. vyd.]
     series: Národní knihovna, sv. 31
@@ -14607,6 +14849,7 @@ titles:
   - title: Albanie na cestě k socialismu
     authors:
       - P. Mančcha
+    translators:
       - Jan Belfin
       - Leopold Jouna
     year: 1952
@@ -14618,6 +14861,8 @@ titles:
   - title: Alois Jiránek par Zdeněk Nejedlý. Traduit par le Dr. Stanislav Lyer
     authors:
       - Zdeněk Nejedlý
+    translators:
+      - Stanislav Lyer
     year: 1952
     language: French
     sources:
@@ -14732,6 +14977,8 @@ titles:
   - title: Antonín Dvořák, vie et oeuvre par Otakar Šourek. Traduit par le Dr. Stanislav Lyer
     authors:
       - Otakar Šourek
+    translators:
+      - Stanislav Lyer
     year: 1952
     language: French
     sources:
@@ -14741,6 +14988,15 @@ titles:
   - title: Antonín Dvořák. Op. 114. Rusalka. Lyrická pohádka o třech jednáních. Slova Jaroslav Kvapil. Klavírní výtah Josef Faměra. XV. vydání..., U̇vod napsal Otakar Šourek. Vydavatelské poznámky zpracoval Otakar Nebuška. Za redakce Jana Hanuše z pu̇vodních pramenu̇ k tisku připravili Jiří Berkovec, Antonín Čubr, Ladislav Láska, Karel Šole, a Otakar Šourek. Obálka Karel Svolinský
     authors:
       - Antonín Dvořák
+    editors:
+      - Otakar Šourek
+      - Otakar Nebuška
+      - Jiří Berkovec
+      - Antonín Čubr
+      - Ladislav Láska
+      - Karel Šolc
+      - Jana Hanuše
+      - Jan Hanuš
     year: 1952
     language: French
     sources:
@@ -14815,6 +15071,8 @@ titles:
     series: Národní knihovna; 17
     authors:
       - Jiří Wolker
+    editors:
+      - A. M. Píša
     year: 1952
     language: Czech
     sources:
@@ -14896,7 +15154,8 @@ titles:
     verified: true
   - title: Bílá Kniha o vyzbrojování Rakouska
     subtitle: Dokumenty a skutečnosti
-    authors:
+    authors: []
+    translators:
       - Pavel Borský
       - Julius Kramarič
     year: 1952
@@ -15181,8 +15440,9 @@ titles:
     subtitle: Lyrické Scény Ve 3 Dějstvích
     authors:
       - Pëtr Ilʹič Čajkovskij
-      - Jelena Holečková
       - Aleksandr Sergeevič Puškin
+    translators:
+      - Jelena Holečková
     year: 1952
     language: Not recorded
     sources:
@@ -15291,6 +15551,8 @@ titles:
     authors:
       - Rudolf Urbánek
       - Jiří Daňhelka
+    editors:
+      - Josef Štefánek
     year: 1952
     series: Památky staré literatury české
     language: Czech
@@ -15332,6 +15594,8 @@ titles:
     verified: true
   - title: Husitské skladby budyśinského rukopisu. Vydal Jiří Dańhelka. Úvod napsal Josef Macek
     authors: []
+    editors:
+      - Jiří Daňhelka
     year: 1952
     language: Czech
     sources:
@@ -15368,6 +15632,7 @@ titles:
   - title: Iraklij Mojsejevič Toidze
     authors:
       - Konstantin Andreevič Sitnik
+    translators:
       - Věra Smetanová
       - Květa Šedá
     year: 1952
@@ -15440,6 +15705,8 @@ titles:
     subtitle: Opera a třech dějstvích, op. 84
     authors:
       - Antonín Dvořák
+    editors:
+      - Roman Veselý
     year: 1952
     edition: Nezměněný otisk IV vydání / jež podle rukopisné partitury revidoval Otakar Šourek
     series: Souborné vydání děl Antonína Dvořáka. Tvorba dramatická
@@ -15613,10 +15880,11 @@ titles:
     subtitle: Mihail Vasil'evič Kupriânov, Porfirij Nikitič Krylov, Nikolaj Aleksandrovič Sokolov
     authors:
       - Kukryniksy
+      - Orbis (Praga)
+    translators:
       - Ivan Růžička
       - Štěpán Hanuš
       - Naděžda Filaretovna Melniková-Papoušková
-      - Orbis (Praga)
     year: 1952
     language: Russian
     sources:
@@ -15637,6 +15905,8 @@ titles:
     subtitle: Únor 1948. Sporník projevů
     authors:
       - Klement Gottwald
+    editors:
+      - František Nečásek
     year: 1952
     edition: 9. vyd. Uspoř. František Nečásek
     language: Czech
@@ -15780,6 +16050,8 @@ titles:
     subtitle: Národní písné, Rukopis Královédvorský
     authors:
       - Antonín Matějček
+    translators:
+      - Václav Hanka
     year: 1952
     edition: '[1. vyd.]'
     series: Edice České dějiny, sv. 8
@@ -15890,6 +16162,8 @@ titles:
     authors:
       - Miroslav Míčko
       - Mikoláš Aleš
+    translators:
+      - Marcel Aymonin
     year: 1952
     language: French
     sources:
@@ -16042,6 +16316,8 @@ titles:
   - title: Návštěva presidenta republiky Klementa Gottwalda v Berlíně ve dnech 11. - 14. března 1952
     authors:
       - Klement Gottwald
+    editors:
+      - Josef Štefánek
     year: 1952
     language: Czech
     sources:
@@ -16114,6 +16390,7 @@ titles:
     verified: true
   - title: Nové úspěchy sovětského výtvarného uměni
     subtitle: Všesvazová umělecká výstava 1950
+    original_title: Iskusstvo [u.] Sovetskoe iskusstvo
     series: (Světové dějiny; 6)
     authors: []
     year: 1952
@@ -16304,6 +16581,10 @@ titles:
   - title: Písně otroka a jiné básně
     authors:
       - Svatopluk Čech
+    editors:
+      - Antonín Procházka
+    translators:
+      - Antonín Procházka
     year: 1952
     edition: 2. vyd.]
     series: Národní knihovna, sv. 23
@@ -16341,6 +16622,8 @@ titles:
   - title: Písně z bašty a jiné básně
     authors:
       - Josef Václav Frič
+    editors:
+      - Karel Cvejn
     year: 1952
     edition: 1. vyd.]
     series: Národní knihovna, sv. 35
@@ -16466,6 +16749,8 @@ titles:
   - title: Povídky
     authors:
       - Božena Němcová
+    editors:
+      - Zdeňka Havránková
     year: 1952
     edition: '[K vyd.]'
     language: Czech
@@ -16507,6 +16792,8 @@ titles:
   - title: Pracující den a jiné básně
     authors:
       - Josef Hora
+    editors:
+      - A. M. Píša
     year: 1952
     edition: '[1. vyd.]'
     series: Národní knihovna
@@ -16670,8 +16957,10 @@ titles:
     verified: true
   - title: Rusalkes Lied an den Mond
     subtitle: 'Gleitender Mond du! = Píseň Rusalky o měsíčku: měsíčku na nebi'
+    original_title: Rusalka, Op. 114
     authors:
       - Antonín Dvořák
+    translators:
       - Jaroslav Kvapil
     year: 1952
     language: German
@@ -16798,6 +17087,8 @@ titles:
     authors:
       - Jan Žižka z Trocnova
       - Václav Vl ek z enova
+    editors:
+      - František Svejkovský
     year: 1952
     language: Czech
     sources:
@@ -16858,6 +17149,7 @@ titles:
   - title: Titovština zákeřná zbraň imperialismu
     authors:
       - Stanisław Brodzki
+    translators:
       - Božena Málková
     year: 1952
     language: Czech
@@ -16929,6 +17221,7 @@ titles:
   - title: Upevnění peněžního oběhu v SSSR, inflace v kapitalistických zemích
     authors:
       - Âkov Abramovič Kronrod
+    translators:
       - Josef Kazda
       - Vit Vrátný
     year: 1952
@@ -16940,6 +17233,7 @@ titles:
   - title: Úvod do plánovaného národního hospodářství
     authors:
       - Bronislav Minc
+    translators:
       - A. Horal
       - Vl Pavlát
     year: 1952
@@ -16990,6 +17284,8 @@ titles:
     authors:
       - Vasilij Ivanovič Surikov
       - S. N. Družinina
+    translators:
+      - Věra Smetanová
     year: 1952
     language: Czech
     sources:
@@ -17027,7 +17323,8 @@ titles:
     verified: true
   - title: Velká vlastenecka válka v dilech sovětských umělců
     subtitle: Sborník statí
-    authors:
+    authors: []
+    translators:
       - Květa Šedá
     year: 1952
     language: Czech
@@ -17668,6 +17965,10 @@ titles:
   - title: Dokumenty o protilidové a protinárodní politice T. G. Masaryka
     authors:
       - Josef Štefánek
+    editors:
+      - František Nečásek
+      - Jan Pachta
+      - Eva Raisová
     year: 1953
     edition: 1. vyd
     series: Knihovna dokumentů o předmnichovské kapitalistické republice -- sv. 1
@@ -17700,6 +18001,10 @@ titles:
     subtitle: Sbornik dokumentů
   - title: 'Dokumenty o protilidové a protinárodní politici T. G. Masaryka. Redigovali: František Nečásek, Jan Pachta e Eva Raisová'
     authors: []
+    editors:
+      - František Ne ásek
+      - Jan Pachta
+      - Eva Raisová
     year: 1953
     language: Czech
     sources:
@@ -18120,9 +18425,12 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb33447291p
     verified: true
   - title: La moisson théâtrale, 1951-1952
+    original_title: Divadelní žatva 1951-1952
     authors:
       - Vladimír Bor
       - František Vrba
+    translators:
+      - Louis Michaud
     year: 1953
     language: French
     sources:
@@ -18568,6 +18876,8 @@ titles:
       - Ludmila Spačková
       - Rudolf Skřeček
       - Lumír Čivrný
+    editors:
+      - Lída Špacková-Ehrlichová
     year: 1953
     language: Czech
     sources:
@@ -19143,6 +19453,8 @@ titles:
     verified: true
   - title: Prozess gegen die Leitung des stastsfeindlichen Verschwörerzentrums mit Rudolf Slánský an der Spitze
     authors: []
+    editors:
+      - Orbis
     year: 1953
     language: German
     sources:
@@ -19276,6 +19588,8 @@ titles:
     subtitle: Základy moderního šachu
     authors:
       - Karel Zmatlík
+    editors:
+      - Josef Louma
     year: 1953
     language: Czech
     sources:
@@ -19659,6 +19973,9 @@ titles:
   - title: Trestní řád a předpisy souvisící
     authors:
       - Czechoslovakia
+    editors:
+      - Jaroslav Šimák
+      - Jan Tolar
     year: 1953
     edition: 1. vyd.]
     language: Czech
@@ -19807,6 +20124,7 @@ titles:
   - title: Vesmírný vývoj
     authors:
       - Walter Hollitscher
+    translators:
       - Ladislav Hoch
     year: 1953
     language: Czech
@@ -20152,6 +20470,8 @@ titles:
   - title: Antonín Zápotocký, 1884-1954
     authors:
       - Ustav dějin socialismu
+    editors:
+      - Ústav Dějin Komunistické Strany Československa
     year: 1954
     edition: 1. vyd
     language: Czech
@@ -20330,6 +20650,9 @@ titles:
   - title: Co řekl a napsal Lenin o knihovnách
     authors:
       - Nadežda Konstantinovna Krupskaja
+    translators:
+      - Jan Petrmichl
+      - Miloň Konvalinka
     year: 1954
     language: Czech
     sources:
@@ -20592,6 +20915,7 @@ titles:
     authors:
       - E. Fokin
       - V. A. Granatkin
+    translators:
       - František Klonfar
       - Magda Sklenářová
     year: 1954
@@ -21007,6 +21331,8 @@ titles:
     series: Divadelní edice. Knihovna divadelní tvorby
   - title: Listy z dějin českého divadla, sborník studií a dokumentů. Uspořádala Ljubov Klosová
     authors: []
+    editors:
+      - Ljubov Klosová
     year: 1954
     language: Czech
     sources:
@@ -21028,6 +21354,8 @@ titles:
   - title: Má pouť životem a umění
     authors:
       - Václav Vydra
+    editors:
+      - Josef Träger
     year: 1954
     language: Czech
     sources:
@@ -21455,6 +21783,8 @@ titles:
     subtitle: Kapitoly o vyćhově hercově, o režii a rezisérech, o hereckém dorostu a o kritice
     authors:
       - Václav Vydra
+    editors:
+      - Josef Träger
     year: 1954
     series: Výbor z literární pozůstalosti Václava Vydry
     language: Czech
@@ -22322,6 +22652,8 @@ titles:
   - title: Deset let lidově demokratického Československa
     authors:
       - Eduard Vyškovský
+    editors:
+      - Eduard Vyskovski
     year: 1955
     language: Czech
     pages: 149
@@ -22746,13 +23078,15 @@ titles:
     verified: true
   - title: Kocour Chlubílek
     subtitle: Loutková hra o dvou dějstvích
+    original_title: Kot Chvastun
     series: Hry pro loutky; 7
     authors:
       - Anatolij Karanov
       - Vladimir A. Lëvšin
-      - Míla Mellanová
       - Jan Dvořák
       - Rudolf Mader
+    translators:
+      - Míla Mellanová
     year: 1955
     language: Czech
     sources:
@@ -23029,6 +23363,8 @@ titles:
     subtitle: Komedie
     authors:
       - Karel Čapek
+    editors:
+      - Jaroslav Kolár
     year: 1955
     language: Czech
     pages: 165
@@ -23123,6 +23459,7 @@ titles:
         url: https://www.sudoc.fr/113641699
     verified: true
   - title: Moje povolání
+    original_title: Moja professija
     authors:
       - Serguej Vladimirovič Obrazcov
     year: 1955
@@ -23219,6 +23556,9 @@ titles:
   - title: Občanský soudní řád a předpisy s ním souvisící
     authors:
       - Czechoslovakia
+    editors:
+      - Karel Malza
+      - Jaroslav Sluga
     year: 1955
     language: Czech
     pages: 655
@@ -23323,6 +23663,7 @@ titles:
     subtitle: Veršovaná komedie o pěti dějstvích
     authors:
       - Aleksander Fredro
+    translators:
       - Mojmíra Janišová
       - Ota Ornest
     year: 1955
@@ -23714,6 +24055,7 @@ titles:
     subtitle: Hra o třech dějstvích
     authors:
       - Jerzy Lutowski
+    translators:
       - Karel Málek
     year: 1955
     language: Czech
@@ -23898,6 +24240,7 @@ titles:
     subtitle: Satirická komedie o 3 dějstvích
     authors:
       - Jerzy Jurandot
+    translators:
       - Mojmíra Janišová
     year: 1955
     language: Czech
@@ -24708,6 +25051,8 @@ titles:
   - title: Dějiny českého divadla
     authors:
       - Jan Vondráček
+    editors:
+      - Vladimír Müller
     year: 1956
     edition: 1. vyd. --
     series: Knihovna divadelní tvorby
@@ -24985,6 +25330,8 @@ titles:
   - title: Hercův listář, výbor z korespondence. Uspořádal vysvětlivkami a rejstříkem opatřil Josef Träger
     authors:
       - Václav Vydra
+    editors:
+      - Josef Träger
     year: 1956
     language: Czech
     sources:
@@ -25038,9 +25385,10 @@ titles:
     subtitle: Veselohra o 5 dějstvích
     authors:
       - Ján Palárik
+      - Jaroslav Šámal
+    translators:
       - Jaroslav Janovský
       - Miriam Paulíny-Tóthová
-      - Jaroslav Šámal
     year: 1956
     language: Czech
     sources:
@@ -25209,6 +25557,7 @@ titles:
         url: https://openlibrary.org/books/OL13959039M
     verified: true
   - title: Leoš Janáček
+    original_title: Leoš Janáček
     authors:
       - Jaroslav Šeda
     year: 1956
@@ -25267,6 +25616,9 @@ titles:
   - title: Leoš Janáček, by Jaroslav Šeda. Translated from the Czech by Margot Milner and Dr. Vilém Fried
     authors:
       - Jaroslav Šeda
+    translators:
+      - Margot Leigh-Milner
+      - Vilém Fried
     year: 1956
     language: English
     sources:
@@ -25369,6 +25721,7 @@ titles:
         url: https://www.sudoc.fr/145734501
     verified: true
   - title: Mozart in Prag
+    original_title: Mozart ve Prahe
     authors:
       - Ladislav Šip
       - Wolfgang Amadeus Mozart
@@ -25498,6 +25851,8 @@ titles:
     subtitle: Její stavební vývoj a dávný život
     authors:
       - Cyril Merhout
+    editors:
+      - Emanuel Poche
     year: 1956
     edition: 1. vyd
     series: Edice Pragensia
@@ -25613,6 +25968,8 @@ titles:
     subtitle: Hra o pěti dějstvich
     authors:
       - Peter Karvaš
+    translators:
+      - Sergej Machonin
     year: 1956
     language: Czech
     pages: 94
@@ -25879,6 +26236,9 @@ titles:
     verified: false
   - title: Sbírka českého sochařství
     authors: []
+    editors:
+      - Gabriela Stockelova
+      - Olga Macková
     year: 1956
     language: Czech
     sources:
@@ -25943,8 +26303,9 @@ titles:
     subtitle: Komedie-farse o 3 dějstvích
     authors:
       - Zdzisław Skowroński
-      - Jaroslav Langer
       - Józef Słotwiński
+    translators:
+      - Jaroslav Langer
     year: 1956
     language: Czech
     sources:
@@ -26047,6 +26408,7 @@ titles:
     subtitle: Hra a boji mládeže v Německu
     authors:
       - Friedrich Wolf
+    translators:
       - Jiří Stach
     year: 1956
     language: Czech
@@ -26056,6 +26418,8 @@ titles:
     verified: true
   - title: Umění čtyr světa dílu̇ z českých sbírek mimoevropského umění. Snimky a úprava W. a B. Formanovi, redakce Lubor Hájek, úvod... V. V. Štech
     authors: []
+    editors:
+      - Lubor Hájek
     year: 1956
     language: Czech
     sources:
@@ -26080,6 +26444,8 @@ titles:
     subtitle: Z českých sbírek mimoevropského umění
     authors:
       - Werner Forman
+    editors:
+      - Lubor Hájek
     year: 1956
     series: Obrazové publikace
     language: Czech
@@ -26210,6 +26576,8 @@ titles:
     series: Divadelní hry
     authors:
       - Gabriela Zapolska
+    translators:
+      - Jaroslav Langer
     year: 1956
     language: Czech
     sources:
@@ -26231,6 +26599,7 @@ titles:
     verified: true
   - title: Zahraniční obchod SSSR
     subtitle: Celost. vysokošk. učebnice pro fakultu vnitř. a zahr. obchodu Vys. školy ekonomické v Praze
+    original_title: Vnešnââ torgovlâ SSSR
     authors:
       - A. M. Smirnov
       - N. N. Ljubimov
@@ -26544,6 +26913,8 @@ titles:
     subtitle: Doba předbřeznová, 1824-1846
     authors:
       - Jan Vondráček
+    editors:
+      - Vladimír Müller
     year: 1957
     edition: 1. vyd.]
     series: V Knihovně divadelní tvorby
@@ -26582,6 +26953,7 @@ titles:
     authors:
       - Bohumil Erben
       - Jaromír Mařík
+    translators:
       - Viktor Schless
     year: 1957
     language: German
@@ -26662,6 +27034,8 @@ titles:
     subtitle: Translated from the Czech by Iris Urwin
     authors:
       - Iris Urwin Lewitová
+    translators:
+      - Iris Urwin
     year: 1957
     language: English
     pages: 128
@@ -26674,6 +27048,7 @@ titles:
         url: https://openlibrary.org/books/OL14079280M
     verified: true
   - title: Historie o plavení se do Ameriky, kteráž i Brasilia slove
+    original_title: Historia navigationis in Brasiliam quæ et America dicitur
     series: Památky staré literatury české; 19
     authors:
       - Jean de Léry
@@ -26755,6 +27130,8 @@ titles:
   - title: Jan Amos Komenský
     authors:
       - Kamil Škoda
+    editors:
+      - Antonín Škarka
     year: 1957
     series: Knihovna československé společnosti pro šíření politických a vědeckých znalostí, Sv. 156. Společenské vědy -- 46
     language: Czech
@@ -26946,6 +27323,7 @@ titles:
     verified: true
   - title: Král jelenem
     subtitle: Tragikomická báchorka o třech dějstvích
+    original_title: Il re cerva
     series: Hry pro loutky; 24
     authors:
       - Carlo Gozzi
@@ -26962,6 +27340,8 @@ titles:
     series: Divadelni hry
     authors:
       - Arnošt Dvořák
+    editors:
+      - Milan Lukeš
     year: 1957
     language: Czech
     sources:
@@ -26975,7 +27355,8 @@ titles:
         url: https://search.worldcat.org/title/836125204
     verified: true
   - title: La marionnette en Tchécoslovaquie
-    authors:
+    authors: []
+    translators:
       - Marcel Aymonin
     year: 1957
     language: French
@@ -27064,6 +27445,9 @@ titles:
   - title: Lidice. Traduit de l'anglais par Paul Lecler et Stanislav Lyer
     authors:
       - Eleanor Wheeler
+    translators:
+      - Stanislav Lyer
+      - Paul Lecler
     year: 1957
     language: French
     sources:
@@ -27096,12 +27480,14 @@ titles:
     verified: true
   - title: Matka Kuráž a její děti
     subtitle: Kronika z třieetileté války
+    original_title: Mutter Courage und ihre Kinder
     series: Edice Divadelní Hry
     authors:
       - Bertolt Brecht
-      - Rudolf Vápeník
       - Jaroslav Pokorný
       - Ludvík Kundera
+    translators:
+      - Rudolf Vápeník
     year: 1957
     language: German
     sources:
@@ -27694,9 +28080,10 @@ titles:
       - Jan Weiss
       - Jan Drda
       - Jiří Marek
+      - Jan Černý
+    translators:
       - Marcel Aymonin
       - Milada Kleinerová
-      - Jan Černý
       - Paul Lecler
     year: 1957
     language: French
@@ -27746,6 +28133,7 @@ titles:
     verified: true
   - title: Slavík
     subtitle: Dramatická pohádka v pěti dějstvích na motivy H. Ch. Andersena
+    original_title: Nattergalen
     series: Hry pro loutky; 26
     authors:
       - Hans Christian Andersen
@@ -27811,7 +28199,8 @@ titles:
         url: https://www.sudoc.fr/095737952
     verified: true
   - title: Spielpuppen in der Tschechoslowakei
-    authors:
+    authors: []
+    translators:
       - Štěpán Engel
     year: 1957
     language: German
@@ -27835,6 +28224,7 @@ titles:
   - title: Sportstars der Tschechoslowakei
     authors:
       - Armour Milne
+    translators:
       - Štěpán Engel
     year: 1957
     language: German
@@ -28074,7 +28464,8 @@ titles:
         url: https://lccn.loc.gov/59044318
     verified: true
   - title: Vier tschechische Erzählungen
-    authors:
+    authors: []
+    translators:
       - Hans Gaertner
     year: 1957
     language: German
@@ -28144,6 +28535,7 @@ titles:
     subtitle: Hra o třech dějstvích
     authors:
       - Piotr Choynowski
+    translators:
       - Jaroslav Langer
     year: 1957
     language: Czech
@@ -28155,6 +28547,7 @@ titles:
     verified: true
   - title: Zbózná Marta
     subtitle: Komedie o trech Dejlvich
+    original_title: Marta la piadosa
     authors:
       - Tirso de Molina
       - Jan F. Fischerovi
@@ -28170,6 +28563,8 @@ titles:
     series: Edice Divadelní hry
     authors:
       - Viktor Dyk
+    editors:
+      - Milan Lukeš
     year: 1957
     language: Czech
     sources:
@@ -28389,6 +28784,8 @@ titles:
     authors:
       - Universita Karlova. Katedra trestního práva
       - Univerzita Komenského v Bratislave. Právnická fakulta
+    editors:
+      - Antonin R°užek
     year: 1958
     language: Czech
     pages: 421
@@ -28434,8 +28831,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=416341780
     verified: true
   - title: Contemporary Art in Czechoslovakia
+    original_title: Umění v Československu
     authors:
       - Miroslav Lamač
+    translators:
+      - Geraldine Thomson
     year: 1958
     language: English
     pages: 139
@@ -28491,6 +28891,7 @@ titles:
   - title: Die bildende Kunst der Tschechoslowakei
     authors:
       - Miroslav Lamač
+    translators:
       - Josef Fanta
     year: 1958
     language: German
@@ -28602,6 +29003,7 @@ titles:
   - title: Die wirtschaftliche Entfaltung der Tschechoslowakei
     authors:
       - Stanislav Dubský
+    translators:
       - Otto Guth
     year: 1958
     language: German
@@ -28617,6 +29019,7 @@ titles:
     verified: true
   - title: Domeček
     subtitle: Maňásková hra o třech obrazech s předehrou a dohrou
+    original_title: Teremok
     series: Hry pro loutky; 30
     authors:
       - Samuil Maršak
@@ -28685,6 +29088,8 @@ titles:
       - Albert Einstein
       - Leopold Infeld
       - Jan Reimoser
+    translators:
+      - Jan Rey
     year: 1958
     language: Czech
     sources:
@@ -28974,6 +29379,7 @@ titles:
   - title: Le mouvement hussite en Bohême
     authors:
       - Josef Macek
+    translators:
       - Marcel Aymonin
     year: 1958
     edition: 2ème édition, augmentée. [Traduit du tchèque par Marcel Aymonin
@@ -29009,6 +29415,7 @@ titles:
   - title: Les arts dans la Tchécoslovaquie d'aujourd'hui
     authors:
       - Miroslav Lamač
+    translators:
       - Marcel Aymonin
     year: 1958
     language: French
@@ -29019,7 +29426,8 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991019392269705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Les droits sociaux en Tchécoslovaquie
-    authors:
+    authors: []
+    translators:
       - Louis Michaud
     year: 1958
     language: French
@@ -29203,6 +29611,8 @@ titles:
   - title: New Documents on the History of Munich
     authors:
       - Czechoslovakia. Ministerstvo zahraničních věcí
+    editors:
+      - Valentin Fedoseevich Klochko
     year: 1958
     language: English
     pages: 134
@@ -29649,6 +30059,8 @@ titles:
   - title: Předpisy o bezpečnosti a ochraně zdraví při práci
     authors:
       - Czechoslovakia
+    editors:
+      - Josef Kotek
     year: 1958
     edition: '[Vyd. 1.]'
     language: Czech
@@ -29691,6 +30103,9 @@ titles:
   - title: Richesse de la Tchécoslovaquie en souvenirs d'art et d'histoire
     authors:
       - Jiří Kostka
+    translators:
+      - Iris Urwin. Übers
+      - von Josef Fanta
     year: 1958
     language: French
     sources:
@@ -29848,6 +30263,7 @@ titles:
   - title: Stanislav Dubský. Développement économique de la Tchécoslovaquie
     authors:
       - Stanislav Dubsky
+    translators:
       - Paul Lecler
     year: 1958
     language: French
@@ -29982,6 +30398,7 @@ titles:
   - title: The Hussite Movement in Bohemia
     authors:
       - Josef Macek
+    translators:
       - Vilém Fried
       - Ian Milner
     year: 1958
@@ -30232,7 +30649,8 @@ titles:
     verified: true
   - title: Wissenswertes über die Tschechoslowakei
     subtitle: Bevölkerung und Geschichte, Staatsordnung
-    authors:
+    authors: []
+    translators:
       - Štěpán Engel
     year: 1958
     language: German
@@ -30456,6 +30874,8 @@ titles:
   - title: Antonín Dvořák
     authors:
       - Václav Holzknecht
+    translators:
+      - Roberta Finlayson-Samsourová
     year: 1959
     language: English
     pages: 79
@@ -30757,9 +31177,11 @@ titles:
     verified: true
     subtitle: Ferdinand Engelmüller
   - title: Cesty zvířat
+    original_title: Woher - wohin?
     series: Věda a život
     authors:
       - Gerolf Alschner
+    translators:
       - Adolf Felix
     year: 1959
     language: Czech
@@ -30816,6 +31238,8 @@ titles:
     subtitle: A Handbook of Facts and Figures
     authors:
       - Jiří Hronek
+    translators:
+      - Iris Urwin
     year: 1959
     language: English
     pages: 182
@@ -30912,6 +31336,8 @@ titles:
   - title: Die Orientalistik in der Tschechoslowakei
     authors:
       - Dušan Zbavitel
+    translators:
+      - Josef Fanta
     year: 1959
     language: German
     pages: 74
@@ -30935,6 +31361,8 @@ titles:
   - title: Die Orientalistik in der Tschechoslowakei. Aus dem Tschechischen übersetzt von Josef Fanta
     authors:
       - Dušan Zbavitel
+    translators:
+      - Josef Fanta
     year: 1959
     language: German
     sources:
@@ -31307,6 +31735,8 @@ titles:
   - title: Jak se časopisy dělají
     authors:
       - Jan Neruda
+    editors:
+      - Stanislav Budín
     year: 1959
     edition: 1. vyd.]
     series: Edice Novinářského studijního ústavu
@@ -31454,6 +31884,8 @@ titles:
     subtitle: Z rukopisného odkazu našich loutkářů
     authors:
       - Jaroslav Bartos
+    editors:
+      - Jan Malík
     year: 1959
     series: Edice Knihovna loutkářských souborǔ
     language: Czech
@@ -31496,8 +31928,10 @@ titles:
         url: https://search.worldcat.org/title/84001129
     verified: true
   - title: L'orientalisme en Tchécoslovaquie
+    original_title: Orientalistika v ČSR
     authors:
       - Dušan Zbavitel
+    translators:
       - Paul Lecler
     year: 1959
     language: French
@@ -31521,6 +31955,8 @@ titles:
   - title: Le Musée de la littérature tchèque
     authors:
       - Jaroslav Dvořáček
+    translators:
+      - Marcel Aymonin
     year: 1959
     language: French
     sources:
@@ -31630,6 +32066,7 @@ titles:
     series: (Přírodní vědy; 47)
     authors:
       - Leopold Infeld
+    translators:
       - Bojana Fiedlerova
     year: 1959
     language: Czech
@@ -31682,6 +32119,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb33126081n
     verified: true
   - title: Muj život v umění
+    original_title: Moja žiznʹ v isskustve
     authors:
       - Konstantin Sergeevič Stanislavskij
     year: 1959
@@ -31933,6 +32371,8 @@ titles:
     subtitle: Documents Relating to the Congress of Socialist Culture, Prague, 1959
     authors:
       - Congress of Socialist Culture Prague 1959
+    translators:
+      - Hilda Lass
     year: 1959
     language: English
     pages: 81
@@ -31945,6 +32385,8 @@ titles:
   - title: Oriental Studies in Czechoslovakia
     authors:
       - Dušan Zbavitel
+    translators:
+      - Iris Urwin
     year: 1959
     language: English
     pages: 65
@@ -32070,6 +32512,8 @@ titles:
     series: (Pragensia)
     authors:
       - Josef Illík
+    editors:
+      - Josef Trojan
     year: 1959
     language: Czech
     sources:
@@ -32145,6 +32589,8 @@ titles:
     subtitle: Sbornik dokumentu
     authors:
       - Sjezd Socialisticke Kultury, Prague, 1959
+    editors:
+      - Jiří Záruba
     year: 1959
     edition: Vyd. 1.]
     language: Czech
@@ -32165,6 +32611,7 @@ titles:
     series: Zur Geschichte der tschechischen und slowakischen Musik; 2
     authors:
       - Ladislav Šip
+    translators:
       - Pavel Eisner
     year: 1959
     language: German
@@ -32282,6 +32729,9 @@ titles:
     subtitle: Guide for Students from Abroad
     authors:
       - M. Vronský
+    translators:
+      - Ian Milner
+      - Vilém Fried
     year: 1959
     language: English
     pages: 44
@@ -32468,9 +32918,11 @@ titles:
     verified: true
   - title: V šeru tropických pralesů
     subtitle: Krajina, člověk a hospodářství; Mapy byly převzaty z orig
+    original_title: Im Zwielicht der tropischen Wälder
     series: Knižnice Poznání světa
     authors:
       - Herbert Butze
+    translators:
       - Josef Cincibus
     year: 1959
     language: Czech
@@ -32491,6 +32943,8 @@ titles:
   - title: Vaclav Holzknecht. Antonín Dvořák
     authors:
       - Václav Holzknecht
+    translators:
+      - Roberta Finlayson Samsour
     year: 1959
     language: Spanish
     sources:
@@ -32696,11 +33150,13 @@ titles:
     verified: true
   - title: Zakletý kačer
     subtitle: Loutková hra o třech obrazech
+    original_title: Baśń o zaklȩtym kaczorze
     series: Hry pro loutky; 40
     authors:
       - Maria Kann
-      - Eva Nováková
       - Jarmila Fenclová
+    translators:
+      - Eva Nováková
     year: 1959
     language: Czech
     sources:
@@ -32859,6 +33315,8 @@ titles:
   - title: An Outline of Czech and Slovak Music
     authors:
       - Ladislav S. i p
+    translators:
+      - Margot Leigh-Milner
     year: 1960
     language: English
     sources:
@@ -32874,6 +33332,8 @@ titles:
   - title: An Outline of Czechoslovak History
     authors:
       - Frantis ek Kavka
+    translators:
+      - Ian Milner
     year: 1960
     language: English
     sources:
@@ -32989,6 +33449,9 @@ titles:
   - title: Českolovenské pracovní právo
     authors:
       - Ústav práva ČSAV
+    editors:
+      - Jiří Chyský
+      - Jiří Hromada
     year: 1960
     edition: 2., pr̆epracované vyd
     series: Právnické edice
@@ -33114,6 +33577,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=451811240
     verified: true
   - title: Constitution de la République Socialiste Tchécoslovaque
+    original_title: Ústava (1960) English
     authors:
       - Tchécoslovaquie
     year: 1960
@@ -33134,6 +33598,7 @@ titles:
   - title: Contrastes slovaques
     authors:
       - Gustav Solar
+    translators:
       - Paul Lecler
     year: 1960
     language: French
@@ -33215,6 +33680,8 @@ titles:
   - title: 'Czechoslovakia: Yesterday, Today, Tomorrow'
     authors:
       - Jiří Hronek
+    translators:
+      - Hilda Lass
     year: 1960
     language: English
     sources:
@@ -33252,6 +33719,7 @@ titles:
     verified: true
   - title: Dantonova smrt
     subtitle: Drama
+    original_title: Dantons Tod
     authors:
       - Georg Büchner
       - Jaroslav Pokorný
@@ -33368,8 +33836,9 @@ titles:
   - title: Die Tschechoslowakei gestern - heute - morgen
     authors:
       - Jiří Hronek
-      - Otto Kalina
       - K. Hajek
+    translators:
+      - Otto Kalina
     year: 1960
     language: German
     sources:
@@ -33381,8 +33850,9 @@ titles:
   - title: Die Tschechoslowakei in Wort und Zahl
     authors:
       - Jiří Hronek
-      - Ruth Joklová
       - Otto Kalina
+    translators:
+      - Ruth Joklová
     year: 1960
     language: German
     sources:
@@ -33444,6 +33914,9 @@ titles:
     subtitle: Dokumente über die Germanisierungs- und Austilgungspolitik der Naziokkupanten in der Tschechoslowakei
     authors:
       - Václav Král
+    editors:
+      - Instytut Internacionalni Polityky a Ekonomii
+      - Československá akademie věd
     year: 1960
     language: German
     pages: 174
@@ -33513,6 +33986,8 @@ titles:
   - title: Economic Development
     authors:
       - Stanislav Dubský
+    translators:
+      - Jean Eisler
     year: 1960
     edition: '[2d rev. ed.]'
     series: The Czechoslovakia Series
@@ -33767,6 +34242,8 @@ titles:
     series: Knižnice osvětových aktualit; 4
     authors:
       - Státní Knihovna Československé Socialistické Republiky
+    translators:
+      - Jaroslava Petrásková
     year: 1960
     language: Czech
     sources:
@@ -33842,6 +34319,8 @@ titles:
   - title: La Musique slovaque par Ladislav Šip
     authors:
       - Ladislav Šip
+    translators:
+      - Marcel Aymonin
     year: 1960
     language: French
     sources:
@@ -33897,6 +34376,7 @@ titles:
   - title: La Tchécoslovaquie en faits et en chiffres
     authors:
       - Jiří Hronek
+    translators:
       - Jeanne Knorová
       - Paul Lecler
     year: 1960
@@ -33907,6 +34387,8 @@ titles:
     verified: true
   - title: La Tchécoslovaquie en faits et en chiffres. Préparé par Jiří Hronek et ses collaborateurs
     authors: []
+    editors:
+      - Jiří Hronek
     year: 1960
     language: French
     sources:
@@ -33925,6 +34407,8 @@ titles:
   - title: La Tchécoslovaquie, histoire lointaine et récente
     authors:
       - František Kavka
+    translators:
+      - Marcel Aymonin
     year: 1960
     language: French
     sources:
@@ -34019,6 +34503,7 @@ titles:
     verified: true
   - title: Mária Magdeléna
     subtitle: Občanská tragédie ve třech dějstvich; ma v troch dejstvách
+    original_title: Maria Magdalena
     authors:
       - Friedrich Hebbel
       - Karel Kraus
@@ -34095,6 +34580,7 @@ titles:
     subtitle: Komedie o 3 dĕjstvich
     authors:
       - Aleksander Fredro
+    translators:
       - Ota Ornest
       - Mojmíra Janišová
     year: 1960
@@ -34155,8 +34641,10 @@ titles:
         url: https://d-nb.info/577850962
     verified: true
   - title: O původu věcí
+    original_title: Vom Ursprung der Dinge
     authors:
       - Julius Lips
+    translators:
       - Vladimír Špinka
     year: 1960
     language: Czech
@@ -34184,6 +34672,9 @@ titles:
     series: (Knihovna lidového funkcionárě)
     authors:
       - František Petrů
+    editors:
+      - Kamil Kalousek
+      - Karel Malza
     year: 1960
     language: Czech
     sources:
@@ -34258,6 +34749,8 @@ titles:
       - M. Aymonin
       - Bohumil Karásek
       - Ladislav Síp
+    translators:
+      - Marcel Aymonin
     year: 1960
     language: French
     sources:
@@ -34318,6 +34811,8 @@ titles:
   - title: Praha před osmdesáti lety
     authors:
       - Leoš Karel Žižka
+    editors:
+      - Helena Dvořáková
     year: 1960
     edition: '[1. vyd.]'
     language: Czech
@@ -34488,6 +34983,7 @@ titles:
     subtitle: Hra o 3 dějstvích
     authors:
       - Gabriela Zapolska
+    translators:
       - Mojmíra Janišová
     year: 1960
     language: Czech
@@ -34533,6 +35029,7 @@ titles:
   - title: Slowakische Kontraste
     authors:
       - Gustav Solar
+    translators:
       - Pavel Redlich
     year: 1960
     language: German
@@ -34615,6 +35112,7 @@ titles:
   - title: Tahiti nejkrásnější
     authors:
       - Aleksander Lech Godlewski
+    translators:
       - Jaroslav Janouch
     year: 1960
     language: Czech
@@ -34832,6 +35330,8 @@ titles:
     subtitle: Dokumente über die verbrecherische Tätigkeit von 230 nazistischen richtern und staatsanwälten auf dem okkupierten gebiet der Tschechoslowakischen Republik, die gegenwärtig in der westdeutschen justiz dienen
     authors:
       - Verband der antifaschistischen widerstandskämpfer
+    editors:
+      - Československý svaz protifašistických bojovníků
     year: 1960
     language: German
     pages: 135
@@ -34909,6 +35409,9 @@ titles:
     authors:
       - Zdeněk Wirth
       - Hana Budínová
+    translators:
+      - Jindřich Gajdečka
+      - Hana Budínova
     year: 1960
     language: Czech
     sources:
@@ -34980,7 +35483,8 @@ titles:
     verified: true
   - title: A vous de juger
     subtitle: Réalités tchécoslovaques
-    authors:
+    authors: []
+    translators:
       - Paul Lecler
     year: 1961
     language: French
@@ -35017,6 +35521,7 @@ titles:
     subtitle: Tragická komedie o 8 obrazech
     authors:
       - Fritz Kuhn
+    translators:
       - Vladislav Čejchan
     year: 1961
     language: Czech
@@ -35026,10 +35531,12 @@ titles:
     verified: true
   - title: Až na vrchol světa
     subtitle: Od Mont Blanku k Mount Everestu
+    original_title: Bis zum Gipfel der Welt
     series: Poznání světa
     authors:
       - Hans Albert Förster
       - Franz Grassler
+    translators:
       - Věra Urychová
     year: 1961
     language: Czech
@@ -35247,6 +35754,8 @@ titles:
   - title: Dějiny KSČ v obrazech
     authors:
       - Ústav dějin Komunistické strany Československa
+    editors:
+      - Miroslav Bouček
     year: 1961
     edition: 1. vyd.]
     language: Czech
@@ -35327,6 +35836,8 @@ titles:
   - title: Education
     authors:
       - Stanislav Vodinský
+    translators:
+      - Ian Milner
     year: 1961
     series: The Czechoslovakia Series
     language: English, Czech
@@ -35530,6 +36041,8 @@ titles:
     subtitle: Cyklus statí pracovníků Ústavu pro jazyk český ČSAV
     authors:
       - Ústav pro jazyk český ČSAV
+    editors:
+      - Lubomír Doležel
     year: 1961
     edition: 1. vyd
     language: Czech
@@ -35561,6 +36074,7 @@ titles:
     subtitle: Loutková hra o 3 dějstvích
     authors:
       - Zofia Nawrocka
+    translators:
       - Olga Hostovská
     year: 1961
     language: Czech
@@ -35655,6 +36169,8 @@ titles:
       - Václav Král
       - Karel Fremund
       - Instytut Internacionalni Polityky a Ekonomii
+    translators:
+      - Marcel Aymonin
     year: 1961
     language: French
     sources:
@@ -35687,6 +36203,9 @@ titles:
     subtitle: Documents Concerning Nazi Policies for Germanisation and Extermination in Czechoslovakia
     authors:
       - Václav Král
+    translators:
+      - P. Eisler
+      - K. Rotter
     year: 1961
     language: English
     pages: 168
@@ -35728,6 +36247,8 @@ titles:
   - title: Meet Czechoslovakia
     authors:
       - Václav Straka
+    translators:
+      - Leonora Leff
     year: 1961
     language: English
     pages: 30
@@ -35981,6 +36502,7 @@ titles:
     series: Enzyklopädische Bücherreihe Tschechoslowakei; 6
     authors:
       - Stanislav Vodinský
+    translators:
       - Karel Havránek
     year: 1961
     language: German
@@ -36083,6 +36605,8 @@ titles:
     authors:
       - Ferdinand Bilek
       - Czechoslovakia
+    editors:
+      - Ferdinand Bílek
     year: 1961
     series: Právnické edice. Zákony
     language: Czech
@@ -36518,7 +37042,8 @@ titles:
     verified: true
   - title: A vous de juger
     subtitle: Réalités tchécoslovaques
-    authors:
+    authors: []
+    translators:
       - Paul Lecler
     year: 1962
     language: French
@@ -36548,9 +37073,12 @@ titles:
     verified: true
   - title: Antigona a ti druzí
     subtitle: Tragédie; hra o třech dějstvích
+    original_title: Antigona a tí druhí
     series: Divadlo; 32
     authors:
       - Peter Karvaš
+    editors:
+      - Sergej Machonin
     year: 1962
     language: Czech
     sources:
@@ -36606,6 +37134,8 @@ titles:
     series: (Českoslov. Společnost pro šiřeni politických a vedeckych znalosti. Malá moderni encyklopedie; 33)
     authors:
       - Jiří Hr°uza
+    editors:
+      - Československá Společnost pro Šiření Politických a Vědeckých Znalosti
     year: 1962
     language: Czech
     sources:
@@ -36631,7 +37161,8 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=412805545
     verified: true
   - title: Čechoslovakija našich dnej
-    authors:
+    authors: []
+    translators:
       - A. Rejman
     year: 1962
     language: Czech
@@ -36668,6 +37199,8 @@ titles:
     subtitle: Cesta k Zákonu o jednotné soustavě knihoven a jeho uskutečňování
     authors:
       - František knihovnický pracovník Novotný
+    editors:
+      - Státní Knihovna Československé Socialistické Republiky
     year: 1962
     edition: '[1. vyd.]'
     series: Knihovna osvětové práce
@@ -36964,6 +37497,7 @@ titles:
     authors:
       - Milan Hromádka
       - Ludvík Pacovský
+    translators:
       - Arnold Hauwaert
     year: 1962
     language: French
@@ -37016,6 +37550,10 @@ titles:
     verified: true
   - title: Facts About Czechoslovakia
     authors: []
+    translators:
+      - I. Drápalová
+      - R. Kavanová
+      - K. Strádal
     year: 1962
     edition: 3rd ed
     language: English
@@ -37123,6 +37661,8 @@ titles:
   - title: History for Young People
     authors:
       - Miloš V. Kratochvíl
+    translators:
+      - Marlan Vilbrová
     year: 1962
     series: The Czechoslovakia Series
     language: English
@@ -37380,6 +37920,8 @@ titles:
   - title: Kinderzeichnungen und Gedichte aus Theresienstadt, 1942-1944
     authors:
       - Státní židovské muzeum (Czechoslovakia)
+    editors:
+      - Hana Volavková
     year: 1962
     edition: 2. Aufl.]
     language: German
@@ -37444,6 +37986,8 @@ titles:
     subtitle: Cyklus statí pracovníků Ústavu pro jazyk český ČSAV
     authors:
       - Ústav pro jazyk český ČSAV
+    editors:
+      - Lubomír Doležel
     year: 1962
     edition: 2. vyd.]
     language: Czech
@@ -37519,6 +38063,9 @@ titles:
   - title: La Leçon du passé, documents sur la politique de germanisation et d'extermination pratiquée en Tchécoslovaquie par l'occupant nazi. Recueil établi avec une introduction et des notes par Václav Král, documents rassemblés par Karel Fremund et Václav Král. 2e édition
     authors:
       - Ústav pro mezinárodní politiku a ekonomii
+    editors:
+      - Karel Fremund
+      - Václav Král
     year: 1962
     language: French
     sources:
@@ -37529,6 +38076,7 @@ titles:
     subtitle: Dix-sept années d'expériences (1945-1962)
     authors:
       - Drago Fiser
+    translators:
       - Jaime Pinto
     year: 1962
     language: French
@@ -37552,8 +38100,9 @@ titles:
   - title: Le commerce voie de la coopération internationale
     authors:
       - Vladimír Kaigl
-      - Jaime Pinto
       - Arnold Hauwaert
+    translators:
+      - Jaime Pinto
     year: 1962
     language: French
     sources:
@@ -37663,6 +38212,8 @@ titles:
     subtitle: Hra o jednom dějství se čtyřmi vizemi
     authors:
       - Milan Kundera
+    editors:
+      - Otomar Krejča
     year: 1962
     series: Edice Divadlo -- 35
     language: Czech
@@ -37710,8 +38261,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=664386725
     verified: true
   - title: Mezi mořem a pouští
+    original_title: Insel zwischen Meer und Wüste
     authors:
       - H. A. W. Treffz
+    translators:
       - Jiří Stach
     year: 1962
     language: Czech
@@ -37810,6 +38363,7 @@ titles:
         url: https://d-nb.info/577699393
     verified: true
     subtitle: (Z němec. orig. přelož. Alexej Kusák. Dosl. naps. Oleg Sus)
+    original_title: Von der Notwendigkeit der Kunst
   - title: O pražském hradu
     authors:
       - Adolf Hoffmeister
@@ -38038,6 +38592,9 @@ titles:
     subtitle: Vysvětlivky k Zákonu o úkolech národních výborů při zajišt'ování socialistického pořádku a k Zákonu o místních lidových soudech
     authors:
       - Czechoslovakia
+    editors:
+      - Ladislav Bydžovský
+      - Zdeněk Lukeš
     year: 1962
     edition: '[1. vyd.]'
     series: Právnické edice
@@ -38079,6 +38636,7 @@ titles:
     authors:
       - Simbo Janira
       - Ludwig Kohl-Larsen
+    translators:
       - Svatopluk Dolejš
       - Otto Hornung
     year: 1962
@@ -38145,6 +38703,8 @@ titles:
   - title: Tchécoslovaquie industrielle par Václav Straka. Traduit du tchèque par Paul Leclerc
     authors:
       - Václav Straka
+    translators:
+      - Paul Lecler
     year: 1962
     language: French
     sources:
@@ -38195,6 +38755,8 @@ titles:
     subtitle: Trestní řád a předpisy souvisící
     authors:
       - Czechoslovakia
+    editors:
+      - Jan Tolar
     year: 1962
     language: Czech
     pages: 709
@@ -38248,6 +38810,8 @@ titles:
     subtitle: '[Ze dne 11. července 1960, č. 100 Sb.] a důležité právní předpisy s ní souvisící'
     authors:
       - Czechoslovakia
+    editors:
+      - Zdeněk Jičínský
     year: 1962
     edition: 1. vyd.]
     series: Pravnické edice. Zákony; kapesní vydaní
@@ -38477,6 +39041,9 @@ titles:
   - title: An Outline of Czechoslovak History, by František Kavka,.... 2nd Rev. Edition
     authors:
       - František Kavka
+    translators:
+      - Jarmila Milner
+      - Ian Milner
     year: 1963
     language: English
     sources:
@@ -38600,6 +39167,8 @@ titles:
       - Vladimír Solnař
       - Universita Karlova. Katedra trestního práva
       - Univerzita Komenského v Bratislave. Právnická fakulta
+    editors:
+      - Vladimíra Solnaře
     year: 1963
     language: Czech
     pages: 355
@@ -38724,6 +39293,7 @@ titles:
   - title: Das Hochschulwesen der Tschechoslowakei
     authors:
       - Luděk Holubec
+    translators:
       - Oskar Kosta
     year: 1963
     language: German
@@ -38912,6 +39482,8 @@ titles:
   - title: Education
     authors:
       - Stanislav Vodinský
+    translators:
+      - Ian Milner
     year: 1963
     edition: 2d, rev. ed
     series: The Czechoslovakia Series
@@ -39181,6 +39753,8 @@ titles:
   - title: Kultura; sborník právních předpisů
     authors:
       - Czechoslovakia
+    editors:
+      - Karel Neumann
     year: 1963
     edition: '[1. vyd.]'
     series: Právnické edice
@@ -39259,6 +39833,7 @@ titles:
     subtitle: Histoire lointaine et récente
     authors:
       - Frantisek Kavka
+    translators:
       - Marcel Aymonin
     year: 1963
     language: French
@@ -39273,6 +39848,8 @@ titles:
   - title: Le Musée de la littérature tchèque
     authors:
       - Jaroslav Dvořáček
+    translators:
+      - Marcel Aymonin
     year: 1963
     language: French
     sources:
@@ -39288,6 +39865,8 @@ titles:
       - Helena Stachova
       - Miloslav Doležal
       - Josef Blahož
+    translators:
+      - Helena Stachová
     year: 1963
     language: Polish
     pages: 408
@@ -39313,8 +39892,10 @@ titles:
         url: https://www.sudoc.fr/129887064
     verified: true
   - title: Lidice
+    original_title: Lidice
     authors:
       - Eleanor Wheeler
+    translators:
       - Otto Kalina
     year: 1963
     language: German
@@ -39802,6 +40383,7 @@ titles:
     series: Enzyklopädische Bücherreihe Tschechoslowakei; 6
     authors:
       - Stanislav Vodinský
+    translators:
       - Karel Havránek
     year: 1963
     language: German
@@ -40030,6 +40612,8 @@ titles:
     verified: true
   - title: Tchécoslovaquie scientifique. Texte de Ladislav Khás. Traduction de Paul Lecler
     authors: []
+    translators:
+      - Paul Lecler
     year: 1963
     language: French
     sources:
@@ -40048,6 +40632,8 @@ titles:
   - title: The Museum of Czech Literature
     authors:
       - Jaroslav Dvořáček
+    translators:
+      - Iris Urwin
     year: 1963
     edition: 3rd. rev. and enl. ed
     language: English
@@ -40293,6 +40879,8 @@ titles:
   - title: Vyprávění o Národním divadle
     authors:
       - Vladimír Müller
+    editors:
+      - Eduard Šimek
     year: 1963
     edition: 1. vyd
     series: Edice Pragensie
@@ -40341,6 +40929,8 @@ titles:
   - title: Základy a praxe moderního divadla
     authors:
       - Jindřich Honzl
+    editors:
+      - Milan Obst
     year: 1963
     edition: '[1. vyd.]'
     series: Knihovna divadeiní tvorby
@@ -40455,6 +41045,8 @@ titles:
   - title: An Outline of Czech and Slovak Music
     authors:
       - Vladimir Ste pa nek
+    translators:
+      - Iva Drápalová in collaboration with Margot Leigh-Milner
     year: 1964
     language: English
     sources:
@@ -40494,9 +41086,11 @@ titles:
     verified: true
   - title: Andorra
     subtitle: Hra o dvanácti obrazech
+    original_title: Andorra
     series: Divadlo; 64
     authors:
       - Max Frisch
+    translators:
       - Bohumil Cerník
     year: 1964
     language: German
@@ -40762,6 +41356,8 @@ titles:
     subtitle: A Handbook of Facts and Figures
     authors:
       - Jiří Hronek
+    translators:
+      - Iris Urwin
     year: 1964
     edition: 2d, rev. ed
     language: English
@@ -40859,6 +41455,7 @@ titles:
   - title: Die Tschechoslowakei in Wort und Zahl
     authors:
       - Jiří Hronek
+    translators:
       - Otto Kalina
     year: 1964
     language: German
@@ -40932,6 +41529,7 @@ titles:
   - title: Doktor Korczak
     authors:
       - Erwin Sylvanus
+    translators:
       - Jiří Stach
     year: 1964
     language: Czech
@@ -41021,6 +41619,8 @@ titles:
     subtitle: Svědectví z Prahy
     authors:
       - Jiři Žantovský
+    editors:
+      - Karel Kýhos
     year: 1964
     language: Czech, Russian, German, English, French
     sources:
@@ -41052,6 +41652,7 @@ titles:
     authors:
       - Ctibor Votrubec
       - Helena Maxová
+    translators:
       - Pavel Redlich
     year: 1964
     language: German
@@ -41121,6 +41722,7 @@ titles:
     series: Série encyclopédique; 7
     authors:
       - Miloš Václav Kratochvíl
+    translators:
       - Christian Frenkel
       - Marcel Aymonin
     year: 1964
@@ -41234,11 +41836,13 @@ titles:
     verified: true
   - title: Jizva
     subtitle: Malá občanská činohra ve 3 mezihrách (4 obrazech)
+    original_title: Jazva
     series: Divadlo; 56
     authors:
       - Peter Karvaš
-      - Vladimír Reis
       - Jan Kopecký
+    translators:
+      - Vladimír Reis
     year: 1964
     language: Czech
     sources:
@@ -41439,6 +42043,10 @@ titles:
     authors:
       - Vladimír Štěpánek
       - Bohumil Karásek
+    translators:
+      - Oldřich Beneš
+      - Marcel Ayomin
+      - Paul Lecler
     year: 1964
     language: French
     sources:
@@ -41449,7 +42057,10 @@ titles:
     authors:
       - Vladimír Štěpánek
       - Bohumil Karásek
+    translators:
       - P. Lecler
+      - Marcel Aymonin
+      - Oldřich Beneš
     year: 1964
     language: French
     sources:
@@ -41460,6 +42071,7 @@ titles:
     subtitle: Histoire
     authors:
       - Miloš Václav Kratochvíl
+    translators:
       - Marcel Aymonin
       - Christian Frenkel
     year: 1964
@@ -41471,6 +42083,10 @@ titles:
   - title: La Tchecoslovaquie en faits et en chiffres
     authors:
       - Jiři Hronek
+    editors:
+      - Jiří Hronek
+    translators:
+      - Paul Lecler
     year: 1964
     language: French
     sources:
@@ -41579,6 +42195,10 @@ titles:
   - title: Nová slovenská literatura
     authors:
       - Pavol Števček
+    editors:
+      - Evžen Lukeš
+    translators:
+      - Zdeněk Eis
     year: 1964
     edition: 1. vyd. --
     series: Malá moderní encyklopedie -- sv. 48
@@ -41820,6 +42440,7 @@ titles:
   - title: Poznámky o polském filmu
     authors:
       - Bolesław Michałek
+    translators:
       - Gabriel Laub
     year: 1964
     language: Czech
@@ -41919,6 +42540,8 @@ titles:
     subtitle: Z anglick'eho origin'alu The elements of drama
     authors:
       - J. L. Styan
+    translators:
+      - František Vrba
     year: 1964
     edition: 1. vyd.]
     language: Not recorded
@@ -41933,6 +42556,7 @@ titles:
     authors:
       - Zbigniew Pietrasiński
       - Josef Linhart
+    translators:
       - Antonín Měšťan
     year: 1964
     language: Czech
@@ -41956,13 +42580,15 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb35220327p
     verified: true
   - title: Romeo a Julie
+    original_title: Romeo and Juliet
     series: Divaldo; 2
     authors:
       - William Shakespeare
-      - Josef Topol
       - Jiří Trnka
       - Milan Hegar
       - Praha Polygrafia
+    translators:
+      - Josef Topol
     year: 1964
     language: Czech
     sources:
@@ -42108,6 +42734,9 @@ titles:
     series: (Právnické edice. Zákony)
   - title: Trestní zákon, komentář. Za hlavní redakce Štefana Breiera, Aloise Burdy a Zoltána Farkaša
     authors: []
+    editors:
+      - Aloise Burdy
+      - Zoltána Farkaše
     year: 1964
     language: Czech
     sources:
@@ -42303,6 +42932,9 @@ titles:
     subtitle: Komentář
     authors:
       - Czechoslovak Republic
+    editors:
+      - Jan Tolar
+      - Oldřich Rolenc
     year: 1964
     edition: '[1. vyd.]'
     series: Právnické edice
@@ -42606,6 +43238,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb33085088w
     verified: true
   - title: Constitution de la République Socialiste Tchécoslovaque
+    original_title: Constitution
     authors:
       - Tchécoslovaquie
     year: 1965
@@ -42644,6 +43277,10 @@ titles:
     subtitle: Trends and Achievements
     authors:
       - Anna Tučková
+    translators:
+      - Marian Wilbraham
+      - Karel Strádal
+      - Jean Eisler
     year: 1965
     language: English
     sources:
@@ -42718,6 +43355,8 @@ titles:
     authors:
       - Koloman Gajan
       - Robert Kvaček
+    translators:
+      - Karel Havránek
     year: 1965
     language: German
     pages: 183
@@ -42747,6 +43386,8 @@ titles:
     subtitle: Herausgegeben zum 550. Jahrestag der Verbrennung des Magisters Johannes Hus
     authors:
       - Josef Macek
+    translators:
+      - Egon Jiříček
     year: 1965
     language: German
     sources:
@@ -42868,8 +43509,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb352203250
     verified: true
   - title: Führer durch die Gemäldegalerie der Prager Burg
+    original_title: Průvodce obrazárnou pražského hradu
     authors:
       - Jaromír Neumann
+    translators:
       - Jindrich Gaydecka
     year: 1965
     language: German
@@ -42954,6 +43597,8 @@ titles:
   - title: Hospodářský zákoník, komentář. Zpracoval autorský kolektiv, hlavní redakce Karel Svitavský
     authors:
       - Tchécoslovaquie
+    editors:
+      - Karel Svitavský
     year: 1965
     language: Czech
     sources:
@@ -43172,8 +43817,9 @@ titles:
   - title: Le mouvement hussite en Bohême
     authors:
       - Josef Macek
-      - Marcel Aymonin
       - Antoine Marès
+    translators:
+      - Marcel Aymonin
     year: 1965
     language: French
     sources:
@@ -43220,12 +43866,13 @@ titles:
     subtitle: Kronika z třicetileté války
     authors:
       - Bertolt Brecht
-      - Rudolf Vápeník
-      - Ludvík Kundera
       - Adolf Born
       - Jiří Rathouský
       - Praha Knihtisk
       - Liberec Severografia
+    translators:
+      - Rudolf Vápeník
+      - Ludvík Kundera
     year: 1965
     language: Czech
     sources:
@@ -43248,6 +43895,7 @@ titles:
     authors:
       - Sławomir Mrożek
       - Aleš Fuchs
+    translators:
       - Jaroslav Langer
     year: 1965
     language: Czech
@@ -43287,6 +43935,8 @@ titles:
   - title: Nové občanské právo, zpracoval z podnětu Právnického ústavu ministerstva spravedlnosti autorský kolektiv za hlavní redakce... Zdeňka Kratochvíla
     authors:
       - Tchécoslovaquie
+    editors:
+      - Zdeněk Kratochvíl
     year: 1965
     language: Czech
     sources:
@@ -43297,6 +43947,8 @@ titles:
     subtitle: Notár̆ský r̆ád a pr̆edpisy a nimi souvisící
     authors:
       - Czechoslovakia
+    editors:
+      - Jir̆í S̆tĕpán
     year: 1965
     edition: 2., v podstatĕ nezmĕnéné vyd
     series: Právnické edice
@@ -43509,6 +44161,8 @@ titles:
   - title: Prahou včerejška i dneška
     authors:
       - Emanuel Poche
+    translators:
+      - Josef Ehm
     year: 1965
     edition: 2. vyd
     series: Edicie Pragensie
@@ -43822,6 +44476,7 @@ titles:
     authors:
       - Václav Pelíšek
       - Václav Vaněk
+    translators:
       - Karel Zych
     year: 1965
     language: French
@@ -43869,6 +44524,8 @@ titles:
     verified: true
   - title: Theater-Divadlo, vzpomínky českých divadelniků na německou okupaci a druhou světovou válku. Úspořádal, redigoval, obrazovou přilohu sestavil a doslovem opatřil František Černý
     authors: []
+    editors:
+      - František Černý
     year: 1965
     language: Czech
     sources:
@@ -43914,6 +44571,9 @@ titles:
     verified: true
   - title: Učebnice československého občanského práva,... vypracoval autorský kolektiv za hlavní redakce... Viktora Knappa a... Karola Planka. Předmluvu napsali V. Knapp, K. Plank
     authors: []
+    editors:
+      - Viktor Knapp
+      - Karol Plank
     year: 1965
     language: Czech
     sources:
@@ -44280,6 +44940,7 @@ titles:
         url: https://www.sudoc.fr/111081475
     verified: true
     subtitle: The Economy
+    original_title: Czechoslovakia
     series: Czechoslovakia
   - title: Czechoslovakia in Brief
     authors:
@@ -44380,6 +45041,8 @@ titles:
   - title: Economic Planning and Management in Czechoslovakia
     authors:
       - Ota Šik
+    translators:
+      - M. I. Parker
     year: 1966
     edition: 2d rev. ed
     language: English
@@ -44520,6 +45183,8 @@ titles:
     series: The Czechoslovakia Series
     authors:
       - Miloš V. Kratochvíl
+    translators:
+      - M. Wilbraham
     year: 1966
     language: English
     sources:
@@ -44686,6 +45351,7 @@ titles:
     series: Enzyklopädische Bücherreihe Tschechoslowakei; 4
     authors:
       - Václav Pelíšek
+    translators:
       - Kurt Lauscher
     year: 1966
     language: German
@@ -44816,11 +45482,13 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=310867193
     verified: true
   - title: Na prahu dějin
+    original_title: What happened in history
     series: Malá moderní encyklopedie; 52
     authors:
       - '[V.] Gordon Childe'
-      - Vladimír Špinka
       - Jan Filip
+    translators:
+      - Vladimír Špinka
     year: 1966
     language: Czech
     sources:
@@ -44889,6 +45557,8 @@ titles:
   - title: Nouvelles découvertes de l'archéologie tchécoslovaque
     authors:
       - Jan Filip
+    translators:
+      - Vaclav Kruta
     year: 1966
     series: Série encyclopédique tchécoslovaque -- 3
     language: French
@@ -45013,6 +45683,8 @@ titles:
     subtitle: Zprac. autorský kol. pod ved. J(iřiho) Hromady
   - title: Právnický slovník, zpracoval autorský kolektiv pod vedením... J. Hromady
     authors: []
+    editors:
+      - Jiři Hromada
     year: 1966
     language: Czech
     sources:
@@ -45109,6 +45781,7 @@ titles:
     subtitle: Ze vzpominek konferenciérky
     authors:
       - Stefania Grodzieńska
+    translators:
       - Anetta Balajková
     year: 1966
     language: Czech
@@ -45157,6 +45830,8 @@ titles:
   - title: Recent Archaeological Finds in Czechoslovakia
     authors:
       - Jan Filip
+    translators:
+      - David Leff
     year: 1966
     language: English
     pages: 98
@@ -45259,6 +45934,7 @@ titles:
     series: Horizont; 2
     authors:
       - Martin Esslin
+    translators:
       - František Vrba
     year: 1966
     language: Czech
@@ -45273,6 +45949,7 @@ titles:
   - title: Sociologie
     authors:
       - Zygmunt Bauman
+    translators:
       - Antonín Měšt'an
     year: 1966
     language: Czech
@@ -45285,6 +45962,8 @@ titles:
   - title: Soudci, omyly a paragrafy
     authors:
       - Jerzy Sawicki
+    translators:
+      - Helena Stachová
     year: 1966
     edition: 1. vyd
     series: Popul⁻arn⁻i pr⁻avnick⁻a knihovna
@@ -45334,6 +46013,8 @@ titles:
     subtitle: Sborník Pražského střediska státní památkové péče a ochrany přírody
     authors:
       - Sestavil Zdislav Buříval
+    editors:
+      - Zdislav Buříval
     year: 1966
     language: Czech
     sources:
@@ -45449,6 +46130,8 @@ titles:
   - title: The Czechoslovak Society for International Relations
     authors:
       - Československá společnost pro mezinárodní styky
+    translators:
+      - Karel Strádel
     year: 1966
     language: English
     pages: 26
@@ -45463,6 +46146,8 @@ titles:
   - title: The Economy
     authors:
       - Jiří Sekera
+    translators:
+      - Miriam Vilbrova
     year: 1966
     language: English
     sources:
@@ -45480,6 +46165,8 @@ titles:
     subtitle: Textové vydání
     authors:
       - Czechoslovakia
+    editors:
+      - Jan Tolar
     year: 1966
     edition: 1. vyd.]
     series: Právnické edice. Knihovna Zákony; kapesni vydání
@@ -45703,6 +46390,8 @@ titles:
   - title: Canada and Czechoslovakia
     authors:
       - Josef V. Polišenský
+    translators:
+      - Jessie Kocmannová
     year: 1967
     language: English
     pages: 60
@@ -45846,6 +46535,8 @@ titles:
   - title: Czechoslavakia
     subtitle: Ancient and modern
     authors: []
+    translators:
+      - Marian Wilbraham
     year: 1967
     language: Not recorded
     sources:
@@ -45878,6 +46569,8 @@ titles:
     subtitle: Conception
     authors:
       - Oldřich Beneš
+    translators:
+      - Marian Wilbraham
     year: 1967
     language: English
     links:
@@ -45954,6 +46647,10 @@ titles:
     verified: true
   - title: Facts About Czechoslovakia
     authors: []
+    translators:
+      - I. Drápalová
+      - R. Kavanová
+      - K. Strádal
     year: 1967
     language: English, Czech
     pages: 194
@@ -45995,6 +46692,7 @@ titles:
     authors:
       - Jerzy Płażewski
       - Jan Kučera
+    translators:
       - Zdeněk Smejkal
     year: 1967
     language: Czech
@@ -46134,6 +46832,8 @@ titles:
   - title: Lenin and Prague
     authors:
       - Miroslav Ivanov
+    translators:
+      - Marian Wilbraham
     year: 1967
     language: English
     pages: 122
@@ -46148,6 +46848,7 @@ titles:
   - title: Lenin und Prag
     authors:
       - Miroslav Ivanov
+    translators:
       - Kurt Lauscher
     year: 1967
     language: German
@@ -46368,6 +47069,8 @@ titles:
     authors:
       - Günter Linde
       - Edmund Brettschneider
+    translators:
+      - Boris Michajlov
     year: 1967
     language: Czech
     sources:
@@ -46484,6 +47187,10 @@ titles:
       - Dušan Kužel
       - Bohumil Hrabal
       - Ivan Vyskočil
+    translators:
+      - George Theiner
+      - Rosemary Kavanová
+      - Marian Wilbraham
     year: 1967
     language: English
     sources:
@@ -46503,6 +47210,7 @@ titles:
   - title: Sieben Würfel
     authors:
       - Dušan Kužel
+    translators:
       - Hans Gaertner
     year: 1967
     language: German
@@ -46514,8 +47222,9 @@ titles:
     series: Orbis; sv. 2
     authors:
       - François Gayot de Pitaval
-      - Antonín Rausch
       - Miroslav Váša
+    translators:
+      - Antonín Rausch
     year: 1967
     language: Czech
     sources:
@@ -46549,6 +47258,7 @@ titles:
     series: Enzyklopädische Bücherreihe Tschechoslowakei; 6
     authors:
       - G. Vlk
+    translators:
       - Vilém Fuchs
     year: 1967
     language: German
@@ -46579,6 +47289,8 @@ titles:
   - title: Staletá Praha. Sborník Pražského střediska státní památkové péče a ochrany přírody
     authors:
       - Prague
+    editors:
+      - Zdislav Buříval
     year: 1967
     language: Czech
     sources:
@@ -46648,9 +47360,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=420123237
     verified: true
   - title: Světadíly z ptačí perspektivy
+    original_title: Kontinente aus der Vogelschau
     series: Edice Vědění všem
     authors:
       - Klaus Polkehn
+    translators:
       - Jiří Bělovský
     year: 1967
     language: Czech
@@ -46675,6 +47389,8 @@ titles:
     pages: 180
   - title: Tchécoslovaquie ancienne, moderne
     authors: []
+    editors:
+      - Oldřich Beneš
     year: 1967
     language: French
     sources:
@@ -46743,6 +47459,8 @@ titles:
     subtitle: Od Josefa Jiřího Kolára k Vlastovi Burianovi. [K vydání připravil Josef Trager.]
     authors:
       - Jindřich Vodák
+    editors:
+      - Josef Träger
     year: 1967
     edition: '[1. vyd.]'
     series: Proměny. Velká řada, sv. 1
@@ -46783,6 +47501,7 @@ titles:
     subtitle: Dnešek a perspektivy filmu a televize v USA
     authors:
       - Jerzy Toeplitz
+    translators:
       - Quida Fuchsová
     year: 1967
     language: Czech
@@ -46933,6 +47652,8 @@ titles:
     subtitle: Changes in the Management of Agriculture
     authors:
       - Vladimír Vydra
+    translators:
+      - Marian Wilbraham
     year: 1968
     language: English
     pages: 23
@@ -47002,6 +47723,7 @@ titles:
   - title: Autostopem po Americe
     authors:
       - Krzysztof Baranowski
+    translators:
       - Olga Hostovská
     year: 1968
     language: Czech
@@ -47151,6 +47873,8 @@ titles:
     subtitle: Připravila Socialistická akademie ve spolupráci s Československou akademií věd
     authors:
       - Josef Macek
+    translators:
+      - Sáva Heřman
     year: 1968
     language: Czech
     sources:
@@ -47337,6 +48061,8 @@ titles:
     subtitle: Recenze, stati, kresby, fotografie
     authors:
       - Karel Čapek
+    editors:
+      - Miroslav Halík
     year: 1968
     edition: 1. vyd
     series: Horizont -- sv. 8
@@ -47395,6 +48121,8 @@ titles:
   - title: Ein Schlüssel zu Prag
     authors:
       - František Kožík
+    translators:
+      - Cyril Bouda
     year: 1968
     language: German
     sources:
@@ -47430,6 +48158,8 @@ titles:
     series: Films and Film-Makers
     authors:
       - Jan Žalman
+    translators:
+      - George Theiner
     year: 1968
     language: English
     sources:
@@ -47447,8 +48177,11 @@ titles:
     pages: 99
   - title: Geschichte der Tschechoslowakei
     subtitle: Kurzer Abbriss
+    original_title: Dějiny Československa
     authors:
       - František Kavka
+    translators:
+      - Karel Havránek
     year: 1968
     language: Czech
     pages: 233
@@ -47519,6 +48252,8 @@ titles:
     subtitle: Founder of Polarography
     authors:
       - Ladislav Khás
+    translators:
+      - J. R. Kavanová
     year: 1968
     language: English
     pages: 30
@@ -47533,6 +48268,7 @@ titles:
     series: The Czechoslovakia Series
   - title: Johann Nepomuk Nestroy
     subtitle: Tv̕urce tragické frašky
+    original_title: 'Johann Nepomuk Nestroy : der Schöpfer der tragischen Posse'
     authors:
       - Rio Preisner
     year: 1968
@@ -47565,6 +48301,8 @@ titles:
   - title: Klauniady--Entrées clownesques. Traduit par Jean Brabec
     authors:
       - Tristan Rémy
+    translators:
+      - Jean Brabec
     year: 1968
     language: French
     sources:
@@ -47861,6 +48599,8 @@ titles:
   - title: Otomar Krejča
     authors:
       - Jindřich Černý
+    translators:
+      - Marian Wilbraham
     year: 1968
     language: English
     pages: 28
@@ -47971,6 +48711,7 @@ titles:
     subtitle: Vybrané otázky
     authors:
       - Zbigniew Pietrasiński
+    translators:
       - Josef Zikán
     year: 1968
     language: Czech
@@ -48022,6 +48763,9 @@ titles:
   - title: Qui est Josef Svoboda ?
     authors:
       - Vladimír Jindra
+    translators:
+      - Alena Šestáková
+      - Gilbert Friant
     year: 1968
     language: French
     sources:
@@ -48051,6 +48795,7 @@ titles:
     series: Edice Divadlo; sv. 112
     authors:
       - Paul Claudel
+    translators:
       - Jiří Konůpek
     year: 1968
     language: Czech
@@ -48170,6 +48915,8 @@ titles:
   - title: The Country
     authors:
       - Dušan Tomášek
+    translators:
+      - Rosemary Kavanová
     year: 1968
     edition: 2d edition
     series: The Czechoslovakia Series
@@ -48185,6 +48932,10 @@ titles:
     subtitle: Statist. Übersicht
     authors:
       - Antonin Dryák
+    editors:
+      - Libuše Prokopová
+    translators:
+      - Anton Dryák
     year: 1968
     language: Czech
     sources:
@@ -48268,6 +49019,8 @@ titles:
   - title: Who Is Josef Svoboda
     authors:
       - Vladimír Jindra
+    translators:
+      - Marian Wilbraham
     year: 1968
     language: English
     pages: 30
@@ -48318,6 +49071,8 @@ titles:
       - Josef Macek
       - Miroslav Blažek
       - Jaroslav Böhm
+    translators:
+      - František Pospíšil
     year: 1969
     language: Czech
     sources:
@@ -48436,6 +49191,7 @@ titles:
         url: https://openlibrary.org/books/OL16856746M
     verified: true
   - title: Die Hauptstadt Prag und ihre Verwaltung
+    original_title: Hlavní město Praha a jeho správa
     authors:
       - Zbyněk Kiesewetter
       - Jan-Hanns Hrdlička
@@ -48587,6 +49343,8 @@ titles:
     subtitle: A Study in East-West Contacts
     authors:
       - Miloslav Krása
+    translators:
+      - 'Boleslav Seidl. Foreword: Tara Chand'
     year: 1969
     language: English
     pages: 158
@@ -48612,6 +49370,7 @@ titles:
     verified: true
   - title: Max Reinhardt
     subtitle: Divadlo mezi snem a skutečnosti
+    original_title: Max Reinhardt
     series: Edice Proměny; 5
     authors:
       - Heinrich Braulich
@@ -48823,6 +49582,7 @@ titles:
     authors:
       - Filip Heger
       - František Heger
+    translators:
       - Jindřich Chvalkovský
     year: 1969
     language: Czech, German
@@ -48916,6 +49676,8 @@ titles:
   - title: Repertoár
     authors:
       - Michel Butor
+    editors:
+      - Jan Vladislav
     year: 1969
     language: Czech
     sources:
@@ -48961,6 +49723,8 @@ titles:
   - title: Staletá Praha
     authors:
       - Pražské středisko státní památkové péče a ochrany přírody
+    editors:
+      - Zdislav Buříval
     year: 1969
     language: Czech
     sources:
@@ -49131,6 +49895,7 @@ titles:
         url: https://search.worldcat.org/title/831352257
     verified: true
   - title: D°um smutku
+    original_title: Geheimnis eines Menschen
     series: Edice Pragensia
     authors:
       - Franz Werfel
@@ -49175,6 +49940,8 @@ titles:
     authors:
       - Andrej Plávka
       - Hans Gaertner
+    translators:
+      - Hans Gärtner
     year: 1970
     language: German
     sources:
@@ -49264,6 +50031,7 @@ titles:
     series: Edice Kobra
     authors:
       - Clifford D. Simak
+    translators:
       - Václav Kajdoš
     year: 1970
     language: Czech
@@ -49324,6 +50092,7 @@ titles:
   - title: Le théâtre des marionnettes en Tchécoslovaquie
     authors:
       - Jan Malík
+    translators:
       - Odile Kůstková
       - Madelaine Gasnier
     year: 1970
@@ -49415,9 +50184,10 @@ titles:
     authors:
       - Jaroslav Seifert
       - Wolfgang Amadeus Mozart
-      - Otto František Babler
       - Jirí Antonín Svengsbír
       - Jiří Rathouský
+    translators:
+      - Otto František Babler
     year: 1970
     language: German
     sources:
@@ -49546,6 +50316,8 @@ titles:
   - title: Slovakia. The Song of the Land
     authors:
       - Andrej Plávka
+    translators:
+      - Boleslav Seidl
     year: 1970
     edition: 1st ed
     language: English
@@ -49617,6 +50389,7 @@ titles:
     authors:
       - Jerzy Sawicki
       - Josef Blahož
+    translators:
       - Helena Stachová
     year: 1970
     language: Czech
@@ -49660,8 +50433,9 @@ titles:
   - title: Tschechoslowakei
     subtitle: Statistische Übersicht
     authors:
-      - Antonin Dryák
       - Tschechoslowakei
+    translators:
+      - Antonin Dryák
     year: 1970
     language: German
     sources:
@@ -49750,6 +50524,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/010640127
     verified: true
   - title: Vsechno na zahrade
+    original_title: Everything in the garden
     series: Divadlo; 121
     authors:
       - Edward Albee
@@ -50139,6 +50914,7 @@ titles:
     authors:
       - Albert Einstein
       - Leopold Infeld
+    translators:
       - Jan Rey
     year: 1971
     language: Czech
@@ -50159,6 +50935,7 @@ titles:
         url: https://d-nb.info/1026068282
     verified: true
   - title: Když papyry promluvily
+    original_title: Kiedy piaski egipskie przemówiły po grecku
     authors:
       - Anna Świderkówna
       - Josef Vlášek
@@ -50197,6 +50974,8 @@ titles:
   - title: L'Art tchécoslovaque de la forme. Josef Raban. Traduit par Jean-René Chambon
     authors:
       - Josef Raban
+    translators:
+      - Jean-René Chambon
     year: 1971
     language: French
     sources:
@@ -50240,6 +51019,8 @@ titles:
   - title: Leos Janácek
     authors:
       - Jaroslav Seda
+    translators:
+      - Marcel Aymonin
     year: 1971
     language: French
     sources:
@@ -50287,6 +51068,7 @@ titles:
   - title: Lidé u pralesé Zwischen wasser und Urwald
     authors:
       - Albert Schweitzer
+    translators:
       - Marie Skrachová
       - Pavla Stuchliková
     year: 1971
@@ -50474,6 +51256,8 @@ titles:
   - title: Praha stověžatá
     authors:
       - Ladislav Sitenský
+    editors:
+      - Jaroslav Herout
     year: 1971
     edition: 1. vyd
     language: Czech
@@ -50565,6 +51349,8 @@ titles:
   - title: Staletá Praha
     authors:
       - Pražské středisko státní památkové péče a ochrany přírody
+    editors:
+      - Zdislav Buříval
     year: 1971
     language: Czech
     sources:
@@ -50827,6 +51613,8 @@ titles:
     authors:
       - Václav Holzknecht
       - Karel Havránek
+    translators:
+      - Karel Havranek
     year: 1971
     language: German
     sources:
@@ -50938,8 +51726,9 @@ titles:
   - title: Astronomie Mikuláše Koperníka
     authors:
       - Cecylia Iwaniszewska
-      - Zdeněk Horský
       - Boris Valniček
+    translators:
+      - Zdeněk Horský
     year: 1972
     language: Czech
     sources:
@@ -50951,6 +51740,7 @@ titles:
   - title: Atlantida
     authors:
       - Ludwik Zajdler
+    translators:
       - Helena Stachová
     year: 1972
     language: Czech
@@ -51172,6 +51962,8 @@ titles:
   - title: Helada králů
     authors:
       - Anna Świderkówna
+    translators:
+      - Josef Vlášek
     year: 1972
     edition: 1. vyd
     language: Czech
@@ -51220,8 +52012,9 @@ titles:
     authors:
       - Anna Świderkówna
       - Evžen Hnatek
-      - Ilona Páclová
       - Evžen Strouhal
+    translators:
+      - Ilona Páclová
       - Josef Vlášek
     year: 1972
     language: Czech
@@ -51741,6 +52534,9 @@ titles:
     authors:
       - J. Hromada
       - Z. Madar
+    editors:
+      - Zdenek Madar
+      - Jiri Hromada
     year: 1972
     language: Czech
     sources:
@@ -51828,8 +52624,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1074456408
     verified: true
   - title: Psychologische Kriegsführung und das tschechoslowakische Experiment
+    original_title: Psychologická vojna a československý experiment
     authors:
       - Milos Marko
+    translators:
+      - Štěpán Engel
     year: 1972
     language: German
     pages: 234
@@ -52014,7 +52813,8 @@ titles:
     verified: true
   - title: Aperçu statistique de la Tchécoslovaquie
     subtitle: '1973'
-    authors:
+    authors: []
+    translators:
       - Paul Lecler
     year: 1973
     language: French
@@ -52035,6 +52835,7 @@ titles:
   - title: Atlantida
     authors:
       - Ludwik Zajdler
+    translators:
       - Helena Stachová
     year: 1973
     language: Czech
@@ -52115,9 +52916,11 @@ titles:
         url: https://lccn.loc.gov/76465382
     verified: true
   - title: Do hlubin džungle
+    original_title: Ulu - verdens ende
     series: Edice cesty
     authors:
       - Jörgen Bitsch
+    translators:
       - Božena Køllnová-Ehrmannová
     year: 1973
     language: Chechen
@@ -52126,9 +52929,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=141329619X
     verified: true
   - title: Dobrodružství u kanibalů
+    original_title: Mine venner kannibalerne
     series: Edice Cesty
     authors:
       - Arne Falk-Rønne
+    translators:
       - Jan Hendrych
     year: 1973
     language: Czech
@@ -52190,6 +52995,7 @@ titles:
   - title: Když papyry promluvily
     authors:
       - Anna Świderkówna
+    translators:
       - Ilona Páclová
       - Josef Vlášek
     year: 1973
@@ -52203,6 +53009,8 @@ titles:
   - title: Klement Gottwald
     authors:
       - Jaroslav Matějka
+    translators:
+      - Joy Moss-Kohoutová
     year: 1973
     language: English, Czech
     pages: 102
@@ -52243,6 +53051,7 @@ titles:
   - title: Klement Gottwald et février 1948
     authors:
       - Zdenĕk S̆el
+    translators:
       - Růžena Semrádová
     year: 1973
     language: French
@@ -52253,6 +53062,7 @@ titles:
   - title: Kleopatra
     authors:
       - Aleksander Krawczuk
+    translators:
       - Josef Vlášek
     year: 1973
     language: Czech
@@ -52712,6 +53522,8 @@ titles:
   - title: Staletá Praha
     authors:
       - Pražské středisko státní památkové péče a ochrany přírody
+    editors:
+      - Zdislav Buříval
     year: 1973
     language: Czech
     sources:
@@ -53010,6 +53822,7 @@ titles:
     authors:
       - Gerhard Löwe
       - Heinrich Alexander Stoll
+    translators:
       - Dalibor Plichta
     year: 1974
     language: Czech
@@ -53239,6 +54052,8 @@ titles:
   - title: Čeština za školou
     authors:
       - Karel Hausenblas
+    editors:
+      - Karla Hausenblase
     year: 1974
     edition: 1. vyd
     series: Edice Pyramida
@@ -53266,6 +54081,8 @@ titles:
     verified: true
   - title: Czechoslovak Social Policy
     authors: []
+    translators:
+      - V. Jindra
     year: 1974
     language: English
     pages: 36
@@ -53447,6 +54264,7 @@ titles:
   - title: Kleopatra
     authors:
       - Aleksander Krawczuk
+    translators:
       - Josef Vlášek
     year: 1974
     language: Czech
@@ -53540,6 +54358,8 @@ titles:
   - title: Lenin und Prag
     authors:
       - Miroslav Ivanov
+    translators:
+      - Kurt Lauscher
     year: 1974
     edition: 3. Ausg
     language: German
@@ -53553,6 +54373,7 @@ titles:
         url: https://d-nb.info/200037919
     verified: true
   - title: Lenine et Prague
+    original_title: Lenin v Praze
     authors:
       - Miroslav Ivanov
     year: 1974
@@ -53632,6 +54453,7 @@ titles:
     subtitle: Soudní lékařství ve službách pravdy
     authors:
       - Hans Pfeiffer
+    translators:
       - Václav Kajdoš
     year: 1974
     language: Czech
@@ -53687,8 +54509,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=099291754
     verified: true
   - title: Ohrožená příroda
+    original_title: Avant que nature meure
     authors:
       - Jean Dorst
+    translators:
       - Mária Lexová
     year: 1974
     language: Czech
@@ -53760,6 +54584,8 @@ titles:
     verified: true
   - title: Population Policy in Czechoslovakia
     authors: []
+    translators:
+      - Vladimir Jindra
     year: 1974
     language: English
     pages: 90
@@ -53776,7 +54602,8 @@ titles:
         url: https://search.worldcat.org/title/1113626
     verified: true
   - title: Populationspolitik in der Tschechoslowakei
-    authors:
+    authors: []
+    translators:
       - Štěpán Engel
     year: 1974
     language: German
@@ -54022,8 +54849,9 @@ titles:
     authors:
       - Alina Centkiewiczowa
       - Czesław Jacek Centkiewicz
-      - Helena Stachová
       - Karel Zpěvák
+    translators:
+      - Helena Stachová
     year: 1974
     language: Czech
     sources:
@@ -54057,8 +54885,9 @@ titles:
     series: Edice cesty
     authors:
       - Arkady Fiedler
-      - Helena Stachova
       - Jan Javorský
+    translators:
+      - Helena Stachova
     year: 1974
     language: Czech
     sources:
@@ -54304,6 +55133,9 @@ titles:
   - title: Eloge de la musique
     authors:
       - Jiří Berkovec
+    translators:
+      - Anne-Marie Ducreux
+      - Elisabeth Ducreux
     year: 1975
     edition: 1. ed. --
     language: French
@@ -54357,6 +55189,8 @@ titles:
   - title: European Security and Czechoslovak Foreign Policy
     authors:
       - Jaromír Kubíček
+    translators:
+      - J. Moss-Kohoutová
     year: 1975
     edition: '[2d ed.]'
     language: English
@@ -54603,9 +55437,10 @@ titles:
   - title: Mezi přílivem a odlivem
     authors:
       - Joseph Conrad
+      - Miloslav Disman
+    translators:
       - Rudolf Pellar
       - Luba Pellarová
-      - Miloslav Disman
     year: 1975
     language: Czech
     sources:
@@ -54737,6 +55572,7 @@ titles:
     subtitle: Hippie hledají zaslíbenou zemi
     authors:
       - Kazimierz Jankowski
+    translators:
       - Josef Vlášek
     year: 1975
     language: Czech
@@ -54778,6 +55614,7 @@ titles:
   - title: Plavecké ostrovy
     authors:
       - Ewa Wolak
+    translators:
       - Helena Stachová
     year: 1975
     language: Czech
@@ -54926,6 +55763,8 @@ titles:
   - title: Staletá Praha
     authors:
       - Pražské středisko státní památkové péče a ochrany přírody
+    editors:
+      - Zdislav Buříval
     year: 1975
     language: Czech
     sources:
@@ -54991,6 +55830,8 @@ titles:
   - title: The Czechoslovak Health Service
     authors:
       - Zdeněk Gazdík
+    translators:
+      - Jana Reiterová
     year: 1975
     language: English
     pages: 51
@@ -55157,6 +55998,8 @@ titles:
     authors:
       - Antonín Kanda
       - Czechoslovakia
+    editors:
+      - Antonin Kanda
     year: 1975
     language: Czech
     pages: 335
@@ -55656,6 +56499,7 @@ titles:
   - title: Les services de santé en Tchécoslovaquie
     authors:
       - Zdeněk Gazdík
+    translators:
       - Jiři Šálek
     year: 1976
     language: French
@@ -55753,6 +56597,7 @@ titles:
   - title: Nero
     authors:
       - Aleksander Krawczuk
+    translators:
       - Josef Vlášek
     year: 1976
     language: Czech
@@ -55856,6 +56701,8 @@ titles:
     subtitle: Fotografický průvodce městem
     authors:
       - Karel Plicka
+    editors:
+      - Emanuel Poche
     year: 1976
     edition: 2., přeprac. a dopln. vyd
     language: Czech
@@ -56247,9 +57094,11 @@ titles:
         url: https://d-nb.info/369103289
     verified: true
   - title: Země větrných mlýnů
+    original_title: Holland auf den ersten Blick
     series: Cesty
     authors:
       - Fred Wander
+    translators:
       - Stanislava Hřebíčková
     year: 1976
     language: Czech
@@ -56288,6 +57137,8 @@ titles:
   - title: Antonin Dvorak
     authors:
       - Václav Holzknecht
+    translators:
+      - Marcel Aymonin
     year: 1977
     language: French
     sources:
@@ -56334,7 +57185,8 @@ titles:
         url: https://search.worldcat.org/title/836743474
     verified: true
   - title: Aperçu statistique de la Tchécoslovaquie 1977
-    authors:
+    authors: []
+    translators:
       - Paul Lecler
     year: 1977
     language: French
@@ -56378,6 +57230,8 @@ titles:
   - title: Československé trestní řízení
     authors:
       - Anontín Ru̇žek
+    editors:
+      - Antonín Růžek
     year: 1977
     edition: 3., dopln. a část. přeprac. vyd
     language: Czech
@@ -56439,6 +57293,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA87470798
     verified: false
   - title: Darovaný Herkules vyprávění o obrazech
+    original_title: Der verschenkte Herkules
     series: Stopy fakta svědectví
     authors:
       - Ruth Seydewitz
@@ -56456,6 +57311,8 @@ titles:
     subtitle: (Ausgew. Kap.)
     authors:
       - Ladislava Entlerová
+    translators:
+      - Hella Smolová
     year: 1977
     language: German
     sources:
@@ -56642,6 +57499,7 @@ titles:
   - title: Kam spéje nový americký film
     authors:
       - Jerzy Toeplitz
+    translators:
       - Helena Stachová
     year: 1977
     language: Czech
@@ -56978,6 +57836,8 @@ titles:
   - title: Slovník literárních směrů a skupin
     authors:
       - Štěpán Vlašín
+    editors:
+      - Československá Akademie Věd
     year: 1977
     edition: 1. vyd
     series: Pyramida - Encyklopedie
@@ -57031,6 +57891,8 @@ titles:
   - title: Světová socialistická soustava a státní výstavba v evropských socialistických zemích
     authors:
       - David Lʹvovich Zlatopolʹskiĭ
+    translators:
+      - Ivan Průša
     year: 1977
     edition: 1. vyd
     series: Edice Socialistická státní politika
@@ -57169,8 +58031,9 @@ titles:
   - title: V uniformě lodního lékaře
     authors:
       - Wacław Korabiewicz
-      - Helena Stachová
       - Karel Přibyl
+    translators:
+      - Helena Stachová
     year: 1977
     language: Czech
     sources:
@@ -57265,6 +58128,7 @@ titles:
         url: https://www.sudoc.fr/046886451
     verified: true
   - title: Bedřich Smetana
+    original_title: Bedřich Smetana
     authors:
       - Miloslav Malý
     year: 1978
@@ -57741,8 +58605,11 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA59102854
     verified: false
   - title: La Crise de la vie de tous les jours et la lutte victorieuse contre elle
+    original_title: The Crisis of everyday living and the winning fightback
     authors:
       - Gus Hall
+    translators:
+      - Helena Kelišová
     year: 1979
     language: French
     sources:
@@ -57779,8 +58646,11 @@ titles:
         url: https://www.sudoc.fr/047080205
     verified: true
   - title: Ma vie avec Bohuslav Martinů
+    original_title: Můj život s Bohuslav Martinů, par Ru̇žena Semradová
     authors:
       - Charlotte Martinů
+    translators:
+      - Růžena Semrádová
     year: 1979
     language: French
     sources:
@@ -57882,7 +58752,8 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA19866649
     verified: false
   - title: Chinese Aggression Against Vietnam
-    authors:
+    authors: []
+    translators:
       - Ivo Dvořák
     year: 1980
     language: English
@@ -57893,6 +58764,8 @@ titles:
   - title: Comenius
     authors:
       - František Kožík
+    translators:
+      - Štěpan Kolář
     year: 1980
     language: English
     pages: 76
@@ -57942,6 +58815,7 @@ titles:
   - title: Die chinesische Aggression gegen Vietnam
     authors:
       - Miloš Pozděna
+    translators:
       - Inge Vápeníková
     year: 1980
     language: German
@@ -57977,7 +58851,8 @@ titles:
     verified: true
     pages: 179
   - title: Grundriss der Geschichte der KPTsch
-    authors:
+    authors: []
+    translators:
       - Ingrid Kondrková
       - Hella Smolová
     year: 1980
@@ -58030,6 +58905,7 @@ titles:
   - title: Jean Amos Comenius
     authors:
       - František Kožík
+    translators:
       - Kolář
     year: 1980
     language: English
@@ -58040,6 +58916,7 @@ titles:
   - title: L'Etalon blanc
     authors:
       - Jan Kozák
+    translators:
       - Paul Emond
     year: 1980
     language: French
@@ -58078,6 +58955,8 @@ titles:
   - title: New Czech Prose
     authors:
       - Norah Hronková
+    translators:
+      - Joy Moss-Kohoutová
     year: 1980
     language: English, Czech
     pages: 155
@@ -58100,6 +58979,7 @@ titles:
   - title: Občianske procesne pravo v teorii a praxi
     authors:
       - Vilém Steiner
+    translators:
       - Anna Rollová
     year: 1980
     language: Not recorded
@@ -58192,9 +59072,10 @@ titles:
     verified: true
   - title: Choix de nouvelles tchèques
     authors:
-      - Anne-Marie Ducreux
       - Bohunka Waageová
       - Catherine Servant
+    translators:
+      - Anne-Marie Ducreux
     year: 1981
     language: French
     sources:
@@ -58214,6 +59095,8 @@ titles:
   - title: La Slovaquie dans la Tchécoslovaquie socialiste
     authors:
       - Viliam Plevza
+    translators:
+      - Emil Fiala
     year: 1981
     language: French
     sources:
@@ -58418,6 +59301,8 @@ titles:
     subtitle: 1938 - 1945
     authors:
       - Miroslav Novák
+    translators:
+      - Jaroslav Konšal
     year: 1981
     language: German
     sources:
@@ -58559,6 +59444,7 @@ titles:
   - title: Krótki zarys historii CSRS
     authors:
       - Václav Novák
+    translators:
       - Irena Krasnická
     year: 1982
     language: Polish
@@ -58841,6 +59727,7 @@ titles:
   - title: Désarmement - intérêt et droit de l'humanité
     authors:
       - Miloš Vejvoda
+    translators:
       - Svatopluk Pacejka
     year: 1983
     language: French
@@ -59085,6 +59972,7 @@ titles:
   - title: La Spartakiade tchécoslovaque de 1985
     authors:
       - Zdeněk Lipský
+    translators:
       - Alena Lhotová
     year: 1984
     language: French
@@ -59144,6 +60032,8 @@ titles:
     subtitle: Instrument of People's Administration in Czechoslovakia
     authors:
       - Karel Havlíček-Borovský
+    translators:
+      - Alžběta Rejchrtová
     year: 1984
     language: English
     pages: 31
@@ -59553,6 +60443,7 @@ titles:
     subtitle: Tabous et falsifications
     authors:
       - Josef Skála
+    translators:
       - Emile Fiala
     year: 1985
     language: French
@@ -59648,6 +60539,7 @@ titles:
   - title: Tschechoslowakische Außenpolitik
     authors:
       - Michal Štefanak
+    translators:
       - Bert Walo
     year: 1985
     language: German
@@ -59885,10 +60777,12 @@ titles:
         url: https://lccn.loc.gov/86083298
     verified: true
   - title: Un coup de bistouri
+    original_title: Skalpel
     authors:
       - Valja Stýblová
-      - Karel Zich
       - Catherine Servant
+    translators:
+      - Karel Zich
     year: 1986
     language: French
     sources:
@@ -59977,6 +60871,8 @@ titles:
   - title: Environmental Protection in Czechoslovakia
     authors:
       - Alena Helclova
+    translators:
+      - Jan Vales ka
     year: 1987
     language: English
     pages: 24
@@ -60062,8 +60958,9 @@ titles:
     authors:
       - Alena Helclová
       - Martin Mrnka
-      - Dirk Köster
       - Antonín Bahenský
+    translators:
+      - Dirk Köster
     year: 1987
     language: German, Czech
     sources:
@@ -60240,6 +61137,7 @@ titles:
     authors:
       - Jiří Kejř
       - Jiří Ployhar
+    translators:
       - Pedro Monteiro
     year: 1988
     language: Portuguese
@@ -60602,6 +61500,8 @@ titles:
     subtitle: Sborník Charty 77
     authors:
       - Petr Uhl
+    editors:
+      - Jiří Gruntorád
     year: 1990
     edition: Vyd. 1
     language: Czech
@@ -60644,6 +61544,8 @@ titles:
   - title: Prague, Paris
     authors:
       - Pavla Horská
+    translators:
+      - Svatopluk Pacejka
     year: 1990
     language: French
     pages: 157
@@ -61249,6 +62151,8 @@ titles:
     subtitle: The Problem of Man-Power
     authors:
       - Bohuslav Glos
+    translators:
+      - J. Bohdan
     edition: lst ed.]
     language: English, Czech
     pages: 149

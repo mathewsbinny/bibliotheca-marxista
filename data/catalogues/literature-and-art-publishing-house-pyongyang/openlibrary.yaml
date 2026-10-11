@@ -7099,8 +7099,10 @@ titles:
     verified: true
   - title: Poriwa imgŭm
     subtitle: Tonghwajip
+    original_title: Little bookroom
     authors:
       - Eleanor Farjeon
+    translators:
       - Kim Ch'ŏng-il
     year: 1984
     language: Korean
@@ -7682,6 +7684,8 @@ titles:
     subtitle: Tanpʻyŏn sosŏlchip
     authors:
       - Sin Tʻae-il
+    editors:
+      - Sin T'ae-il
     year: 1985
     language: Korean
     pages: 314
@@ -9324,6 +9328,8 @@ titles:
   - title: Ongninmong
     authors:
       - Yi Chŏng-jak
+    editors:
+      - O Hui-bok
     year: 1986
     series: Chosŏn kojŏn munhak sŏnjip -- 14-15
     language: Korean
@@ -9355,6 +9361,8 @@ titles:
     authors:
       - Hong Ki-mun
       - Kim Ch'an-sun
+    editors:
+      - Hong Gi mun
     year: 1986
     language: Korean
     sources:
@@ -9494,6 +9502,8 @@ titles:
   - title: Sŏjŏngsi sŏnjip, 1979-1985
     authors:
       - Chun-suk No
+    editors:
+      - Chun-suk Ro
     year: 1986
     language: Korean
     pages: 215
@@ -10402,6 +10412,8 @@ titles:
     subtitle: Changpʻyŏn sosŏl
     authors:
       - Kang Hak-tʻae
+    editors:
+      - Pak T'ae-su
     year: 1987
     language: Korean
     pages: 431
@@ -11673,6 +11685,8 @@ titles:
   - title: Chin Changgun chŏn
     authors:
       - Pak Pyŏng-sik
+    editors:
+      - Kim Se-min
     year: 1988
     series: Chosŏn kojŏn munhak sŏnjip -- 23
     language: Korean
@@ -14639,6 +14653,7 @@ titles:
     series: Chosŏn kojŏn munhak sŏnjip; 72
     authors:
       - Kim Ryŏ
+    translators:
       - O Hŭi-bok
     year: 1990
     language: Korean
@@ -16167,6 +16182,8 @@ titles:
     subtitle: Changp'yŏn sosŏl
     authors:
       - Luise Rinser
+    translators:
+      - Yi Sŏng-su
     year: 1991
     language: Korean
     pages: 234
@@ -16181,7 +16198,8 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=527531014
     verified: true
   - title: Kŭndae Yŏngguk sisŏn
-    authors:
+    authors: []
+    translators:
       - Hak-su Im
     year: 1991
     series: Segye munhak sŏnjip -- 22
@@ -16515,6 +16533,8 @@ titles:
   - title: Posimnok
     authors:
       - Kim Yŏng-chʻŏl
+    editors:
+      - Kim Yŏng-ch'ŏl
     year: 1991
     series: Chosŏn kojŏn munhak sŏnjip -- 40
     language: Korean
@@ -16965,6 +16985,8 @@ titles:
   - title: Widaehan Suryŏng Kim Il-sŏng Tongji munhak yesul yŏngdosa
     authors:
       - Yi Ki-ju
+    editors:
+      - Yŏ-je Kye
     year: 1991
     language: Korean
     pages: 466
@@ -17967,8 +17989,9 @@ titles:
     verified: true
   - title: Im Kyŏng-ŏp chŏn
     authors:
-      - Kim Yun-se
       - Yun Kye-sŏn
+    translators:
+      - Kim Yun-se
     year: 1992
     series: Chosŏn kojŏn munhak sŏnjip -- 39
     language: Korean
@@ -19823,6 +19846,8 @@ titles:
     subtitle: Yi Myŏng-gyun tanpʻyŏn sosŏlchip
     authors:
       - Yi Myŏng-gyun
+    editors:
+      - Ri Myong-ho
     year: 1993
     language: Korean
     pages: 212
@@ -20666,8 +20691,11 @@ titles:
     verified: true
   - title: Hwangha nŭn tong ŭro hŭrŭnda
     subtitle: Changpʻyŏn sosŏl
+    original_title: Huang He dong liu qu
     authors:
       - Li Zhun
+    translators:
+      - Han Man-hun
     year: 1994
     language: Korean
     sources:
@@ -20763,6 +20791,8 @@ titles:
     authors:
       - Ch'oe Kŭn
       - Kim Hyŏng-sik
+    translators:
+      - Choe Kŭn
     year: 1994
     language: Korean
     sources:
@@ -20925,8 +20955,9 @@ titles:
   - title: Nanch'o chaese kiyŏnnok
     series: Chosŏn Kojŏn Munhak Sŏnjip; 48
     authors:
-      - Chi Chŏng-yŏp
       - Sŏn-yŏng Sŏk
+    translators:
+      - Chi Chŏng-yŏp
     year: 1994
     language: Korean
     sources:
@@ -21915,6 +21946,8 @@ titles:
     subtitle: Sijip
     authors:
       - Kim Ch'ŏl
+    editors:
+      - Han Yŏng-ae
     year: 1995
     language: Korean
     pages: 95
@@ -22243,6 +22276,8 @@ titles:
     subtitle: Taehwach'ŏp
     authors:
       - Kim Hyŏng-jun
+    editors:
+      - Yi Hyŏn-dŏk
     year: 1995
     language: Korean
     sources:
@@ -22539,6 +22574,8 @@ titles:
   - title: Chuch'e kŭngmunhak ŭi sae kiwŏn
     authors:
       - Chin Kang
+    editors:
+      - Kim Yŏng-gil
     year: 1996
     language: Korean
     pages: 288
@@ -22740,6 +22777,8 @@ titles:
     subtitle: Sŏsasi
     authors:
       - Yi Pŏm-su
+    editors:
+      - Kim Hyŏng-jun
     year: 1996
     language: Korean
     pages: 218
@@ -23201,6 +23240,8 @@ titles:
     subtitle: Ŭmak irhwajip
     authors:
       - Kim Chi-hyŏn
+    editors:
+      - Chʻang-jun Son
     year: 1997
     language: Korean
     pages: 167
@@ -24456,6 +24497,9 @@ titles:
     subtitle: Munhak chakp'umjip
     authors:
       - In-jun Paek
+    editors:
+      - Yi Il-sŏp
+      - Cho Sang-ho
     year: 1999
     language: Korean
     pages: 323
@@ -25224,6 +25268,8 @@ titles:
     subtitle: Kŭrim tongyojip
     authors:
       - Chŏng Kwang-su (Illustrator)
+    editors:
+      - Kim In-myŏng
     year: 2000
     language: Korean
     pages: 83
@@ -25263,6 +25309,9 @@ titles:
   - title: Kŭmgangsan
     authors:
       - Pak Myŏng-sŏn
+    editors:
+      - Kim Sang-sun
+      - Yi Hyŏn-bok
     year: 2000
     language: Korean
     pages: 104
@@ -26286,6 +26335,9 @@ titles:
   - title: Miguk ŭi pigŭk
     authors:
       - Theodore Dreiser
+    translators:
+      - Yi Kŭm-jin
+      - Han Yong-dŏk
     year: 2001
     series: Segye munhak sŏnjip -- 68-69
     language: Korean
@@ -27438,9 +27490,11 @@ titles:
         url: https://lccn.loc.gov/2004388523
     verified: true
   - title: Chyang k'ŭrisŭt'op'ŭ
+    original_title: Jean Christophe
     series: Segye munhak sŏnjip; 62
     authors:
       - Romaeng Rollang
+    translators:
       - Kim Ch'ang-ho
     year: 2002
     language: Korean
@@ -27675,6 +27729,8 @@ titles:
     series: Yŏnghwa munhak
     authors:
       - Ri Kye-wŏn
+    editors:
+      - Yi Kye-wŏn
     year: 2002
     language: Korean
     sources:
@@ -27935,6 +27991,8 @@ titles:
     authors:
       - Chʻoe Chʻi-yŏng
       - Sang-bong Mun
+    editors:
+      - Ch'oe Ch'i-yŏng
     year: 2002
     language: Korean
     pages: 259
@@ -28837,6 +28895,8 @@ titles:
     authors:
       - Ch'oe Ch'i-yŏng
       - Cho Chang-gŭn
+    editors:
+      - Cho Ch'ang-gŭn
     year: 2003
     language: Korean
     sources:
@@ -28917,6 +28977,8 @@ titles:
     subtitle: Sosŏljip
     authors:
       - Yu Hŭi-jŏng
+    editors:
+      - Hŭi-jŏng Ryu
     year: 2003
     series: Hyŏndae Chosŏn munhak sŏnjip -- 35
     language: Korean
@@ -29173,6 +29235,8 @@ titles:
     authors:
       - Pak Yŏng-gap
       - Yŏng-hun (Illustrator) Kwŏn
+    editors:
+      - Achʻim sarang
     year: 2003
     language: Korean
     pages: 80
@@ -29253,6 +29317,8 @@ titles:
     authors:
       - Kim Hyŏng-jun
       - Hŏ Chʻang-gŭn
+    editors:
+      - Hŏ Ch'ang-gŭn
     year: 2003
     language: Korean
     pages: 203
@@ -30614,6 +30680,9 @@ titles:
     subtitle: Munhak chakp'umjip
     authors:
       - Yu Tong-ho
+    editors:
+      - Ch'oe Ch'i-yŏng
+      - Cho Ch'ang-gŭn
     year: 2004
     language: Korean
     pages: 235
@@ -30666,6 +30735,9 @@ titles:
     authors:
       - Kang In-chʻŏl
       - Hŏ Chʻang-gŭn
+    editors:
+      - Kang In-ch'ŏl
+      - Hŏ Ch'ang-gŭn
     year: 2004
     language: Korean
     pages: 191
@@ -30811,6 +30883,8 @@ titles:
     subtitle: Tanp'yŏn sosŏljip
     authors:
       - Hyŏn-suk Paek
+    editors:
+      - Hŏ Ch'ang-gŭn
     year: 2004
     language: Korean
     pages: 195
@@ -31098,6 +31172,8 @@ titles:
       - Kang Sang-jun
       - Ch'oe Yŏng-sŏk (Illustrator)
       - Kong Yŏng-guk
+    editors:
+      - Achʻim sarang
     year: 2004
     language: Korean
     pages: 120
@@ -31157,6 +31233,8 @@ titles:
     authors:
       - Po-hŭm Paek
       - Song Sang-wŏng
+    editors:
+      - Yi Sun-il
     year: 2004
     language: Korean
     sources:
@@ -31170,6 +31248,8 @@ titles:
     authors:
       - Chʻoe Chʻi-yŏng
       - Sang-bong Mun
+    editors:
+      - Ch'oe Ch'i-yŏng
     year: 2004
     language: Korean
     pages: 187
@@ -32320,6 +32400,8 @@ titles:
   - title: Paektu ̆ui meari
     authors:
       - Yi Myŏng-ho
+    editors:
+      - Yi Sam-dŭk
     year: 2005
     language: Korean
     pages: 295
@@ -35786,6 +35868,8 @@ titles:
     series: Sijip "21-segi-ŭi t'aeyang-ŭl urŏrŏ; 6"
     authors:
       - Ri Il-sŏp
+    editors:
+      - Yi Il-sŏp
     year: 2008
     language: Korean
     sources:
@@ -35926,6 +36010,8 @@ titles:
     authors:
       - Nam ryong Baeg
       - Li Myeong ho
+    editors:
+      - Yi Myŏng-ho
     year: 2008
     language: Korean
     sources:
@@ -36120,7 +36206,8 @@ titles:
     verified: true
   - title: Yŏktae yŏryu sigasŏn
     series: Chosŏn kojŏn munhak sŏnjip; 45
-    authors:
+    authors: []
+    translators:
       - O Hŭi-bok
     year: 2008
     language: Korean
@@ -36195,6 +36282,8 @@ titles:
     subtitle: Munhak chakpʻumjip
     authors:
       - Yi Il-sŏp
+    editors:
+      - Cho Ch'ang-gŭn
     year: 2008
     language: Korean
     pages: 307
@@ -36477,6 +36566,8 @@ titles:
       - Pak Yong-sun
       - Yi Ch'ŏl-chin
       - Kim Ŭn-byŏl
+    editors:
+      - Kang Sŭng-guk
     year: 2009
     language: Korean
     pages: 52
@@ -36906,6 +36997,8 @@ titles:
     subtitle: Pak Kŭn-wŏn sijip
     authors:
       - Pak Kŭn-wŏn
+    editors:
+      - Han Yŏng-ae
     year: 2009
     language: Korean
     pages: 283
@@ -37099,6 +37192,8 @@ titles:
     series: Sijip "21-segi-ŭi t'aeyang-ŭl urŏrŏ; 7"
     authors:
       - Ri Il-sŏp
+    editors:
+      - Yi Il-sŏp
     year: 2009
     language: Korean
     sources:
@@ -37110,6 +37205,8 @@ titles:
   - title: Sŏngjang ŭi kil esŏ
     authors:
       - In-jun Paek
+    editors:
+      - Sŏng-ho Chŏn
     year: 2009
     series: Paek In-jun yŏnghwa munhak chakp'umsŏn -- 3
     language: Korean
@@ -39651,6 +39748,9 @@ titles:
   - title: Paektusan kiinsŏl
     authors:
       - Kim U-gyŏng
+    editors:
+      - Kim Sŏng-ch'ŏl
+      - 성철 김
     year: 2012
     series: Hyŏngmyŏng chŏnsŏl ch'ongsŏ. Paektu Kwangmyŏngsŏng chŏnsol p'yŏn
     language: Korean
@@ -40375,6 +40475,8 @@ titles:
     subtitle: Hyŏngmyŏng chŏnsŏl ch'ongsŏ (Kŭmsusan T'aeyanggung chŏnsŏl p'yŏn)
     authors:
       - Kim U-gyŏng
+    editors:
+      - Kim Sŏng-ch'ŏl
     year: 2013
     language: Korean
     pages: 399
@@ -40695,6 +40797,8 @@ titles:
     subtitle: Norae haesolchip
     authors:
       - Pak Yŏng-ho
+    editors:
+      - Sin Hyo-kyŏng
     year: 2013
     language: Korean
     pages: 216
@@ -41948,6 +42052,8 @@ titles:
   - title: Kim I-man chakp'umjip
     authors:
       - Kim I-man
+    translators:
+      - In-ch'ŏl Na
     year: 2016
     series: Chosŏn kojŏn munhak sŏnjip -- 85
     language: Korean
@@ -42116,6 +42222,8 @@ titles:
   - title: T'aep'yŏngyang ŭl cham chaeuda
     authors:
       - Kim U-gyŏng
+    editors:
+      - Kim Chong-sŏk
     year: 2016
     series: Hyŏngmyŏng chŏnsŏl ch'ongsŏ. Paektusan chŏnsŏl p'yŏn
     language: Korean
@@ -42360,6 +42468,8 @@ titles:
     subtitle: Changp'yŏn sahwa
     authors:
       - Ch'ŏr-ho Chŏn
+    editors:
+      - Yi Wŏn-hŭi
     year: 2017
     language: Korean
     pages: 373
@@ -42419,6 +42529,8 @@ titles:
   - title: Osan e nat'anan ch'ŏngjo
     authors:
       - Yi Il-lyong
+    editors:
+      - Kim Sŏng-ch'ŏl
     year: 2017
     series: Hyŏngmyŏng chŏnsŏl ch'ongsŏ. Paektusan Yŏjangsu chŏnsŏl p'yŏn
     language: Korean
@@ -42448,6 +42560,8 @@ titles:
     subtitle: Changp'yŏn sahwa
     authors:
       - Cho Ch'ŏng-un
+    editors:
+      - Yi Wŏn-hŭi
     year: 2017
     language: Korean
     pages: 445
@@ -42601,6 +42715,8 @@ titles:
     subtitle: Changp'yŏn sahwa
     authors:
       - Cho Chʻŏng-un
+    editors:
+      - Yi Wŏn-hŭi
     year: 2018
     language: Korean
     pages: 381
@@ -42660,6 +42776,8 @@ titles:
   - title: Kyesŏ yadam
     authors:
       - Yi Hŭi-jun
+    translators:
+      - O Hŭi-bok
     year: 2018
     series: Chosŏn kojŏn munhak sŏnjip -- 94
     language: Korean
@@ -43079,6 +43197,9 @@ titles:
     subtitle: Yŏkcha O Hŭi-bok, Kim Hŭi-ok
     authors:
       - Yi Wŏn-myŏng
+    translators:
+      - O Hŭi-bok
+      - Kim Hŭi-ok (Scholar on Chinese literature)
     year: 2019
     series: Chosŏn kojŏn munhak sŏnjip -- 97
     language: Korean

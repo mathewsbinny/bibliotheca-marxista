@@ -35,11 +35,13 @@ titles:
     verified: false
   - title: Transformation und Förderung
     subtitle: Interpretation von Chinas Urbanisierung
+    original_title: 'Transformation and promotion: interpreting China''s urbanization'
     series: Chinesische Zeitdokumente; 13
     authors:
       - Jianwen Wei
-      - Martin Woesler
       - Europäischer Universitätsverlag GmbH
+    translators:
+      - Martin Woesler
     year: 2018
     language: German
     sources:
@@ -236,6 +238,7 @@ titles:
     verified: true
   - title: Operation "Green Hunt" in India
     subtitle: Social Practices of the Genocidal Counter-insurgency Strategy "Hearts and Minds"
+    original_title: Operación "Cacería Verde" en la India
     authors:
       - Adolfo Naya Fernández
     year: 2020
@@ -358,6 +361,7 @@ titles:
       - label: Read or download (Internet Archive)
         url: https://archive.org/details/stalinfoundationsleninism
   - title: The Origin of the Family, Private Property and the State
+    original_title: Der Ursprung der Familie, des Privateigentums und des Staates
     authors:
       - Friedrich Engels
     year: 2020
@@ -414,6 +418,7 @@ titles:
     verified: true
   - title: Anti-Dühring
     subtitle: Herr Eugen Dühring's Revolution in Science
+    original_title: Anti-Dühring
     authors:
       - Friedrich Engels
     year: 2021
@@ -762,6 +767,7 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/pariscommuneinc00marxgoog
   - title: The Eighteenth Brumaire of Louis Bonaparte
+    original_title: Der achtzehnte Brumaire des Louis Bonaparte
     authors:
       - Karl Marx
     year: 2021
@@ -776,6 +782,7 @@ titles:
       - label: Full text (marxists.org)
         url: https://www.marxists.org/archive/marx/works/1852/18th-brumaire/index.htm
   - title: The German Communist Resistance, 1933-1945
+    original_title: La Résistance communiste allemande, 1933-1945
     authors:
       - T. Derbent
     year: 2021
@@ -815,6 +822,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb467873193
     verified: true
   - title: The Poverty of Philosophy
+    original_title: Misère de la philosophie
     authors:
       - Karl Marx
     year: 2021
@@ -990,6 +998,7 @@ titles:
     verified: false
   - title: Documents of the Communist Party of the Philippines
     subtitle: Resistance to Martial Law in the Pages of "Ang Bayan"
+    original_title: Paglaban sa batas militar sa mga pahina ng "Ang Bayan"
     authors:
       - Communist party
     year: 2022
@@ -1001,6 +1010,8 @@ titles:
   - title: Economic Problems of Socialism in the USSR
     authors:
       - Iosif Vissarionovič Stalin
+    editors:
+      - Ze dong Mao
     year: 2022
     language: English
     sources:
@@ -1436,6 +1447,7 @@ titles:
     verified: true
   - title: Clausewitz and the People's War
     subtitle: And Other Politico-Military Essays
+    original_title: Clausewitz et la guerre populaire
     series: New Roads; 17
     authors:
       - T. Derbent

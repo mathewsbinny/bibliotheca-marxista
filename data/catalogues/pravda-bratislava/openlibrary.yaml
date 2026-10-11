@@ -236,6 +236,7 @@ titles:
   - title: Námorné bitky
     authors:
       - Edmund Kosiarz
+    translators:
       - Jaroslav Coplák
     year: 1960
     language: Slovak
@@ -359,8 +360,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=620482850
     verified: true
   - title: Láska Adama a Evy
+    original_title: Le Roman d'Adam et Eve
     authors:
       - Jean Effel
+    translators:
+      - Fedor Ballo
     year: 1968
     language: Slovak
     sources:
@@ -630,6 +634,7 @@ titles:
     subtitle: Legenda a skutočnos
     authors:
       - Alfred Liebfeld
+    translators:
       - Matej Andráš
     year: 1969
     language: Slovak
@@ -716,6 +721,7 @@ titles:
   - title: Moj kolega čarodejník
     authors:
       - Kazimierz Dziewanowski
+    translators:
       - Samuel Dúbrava
     year: 1969
     language: Slovak
@@ -764,6 +770,8 @@ titles:
     verified: true
   - title: Polstoročie Slovenska v spoločnej vlasti, štatisticko-ekonomský prehl'ad. Zostavil a úvod napísal Ján Marček
     authors: []
+    editors:
+      - Ján Marček
     year: 1969
     language: Slovak
     sources:
@@ -774,6 +782,8 @@ titles:
     authors:
       - Laco Novomeský
       - Karol Rosenbaum
+    translators:
+      - Zora Jesenská
     year: 1969
     language: Slovak
     sources:
@@ -822,6 +832,8 @@ titles:
   - title: Semiotika a kultúra
     authors:
       - Stefan Żółkiewski
+    translators:
+      - Róbert Roško
     year: 1969
     language: Slovak
     sources:
@@ -835,6 +847,8 @@ titles:
   - title: Strieborna kniha rozpravok
     authors:
       - Božena Němcová
+    translators:
+      - E. Chmelova
     year: 1969
     language: Czech
     sources:
@@ -844,6 +858,7 @@ titles:
   - title: Štyria tankisti a pes
     authors:
       - Janusz Przymanowski
+    translators:
       - Viktória Kalafutová
     year: 1969
     language: Slovak
@@ -1014,6 +1029,8 @@ titles:
     verified: true
   - title: Žili sme vo Francúzsku. Jozef Ludrovský, literárn[...]spracoval Pavel Paška
     authors: []
+    editors:
+      - Jozef Ludrovský
     year: 1969
     language: Czech
     sources:
@@ -1105,6 +1122,7 @@ titles:
   - title: Austrálske zápisky
     authors:
       - Lucjan Wolanowski
+    translators:
       - Samuel Dúbrava
     year: 1970
     language: Slovak
@@ -1129,6 +1147,7 @@ titles:
   - title: Didaktika stranickej výchovy
     authors:
       - Jarosław Rudniański
+    translators:
       - Jozef Marušiak
     year: 1970
     language: Slovak
@@ -1150,6 +1169,7 @@ titles:
   - title: Gangstri
     authors:
       - Stanisław Mierzeński
+    translators:
       - Matej Andráš
     year: 1970
     language: Slovak
@@ -1340,6 +1360,7 @@ titles:
   - title: Poznámky z Činy
     authors:
       - Stanisław Głąbiński
+    translators:
       - Samuel Dúbrava
     year: 1970
     language: Slovak
@@ -1400,6 +1421,10 @@ titles:
   - title: Publicistika
     authors:
       - Ladislav Novomeský
+    editors:
+      - Karol Rosenbaum
+    translators:
+      - Zora Jesenská
     year: 1970
     language: Slovak
     sources:
@@ -1497,8 +1522,9 @@ titles:
   - title: Smer Antarktida
     authors:
       - Alina Centkiewiczowa
-      - Vlasta Šmrhová
       - Czesław Jacek Centkiewicz
+    translators:
+      - Vlasta Šmrhová
     year: 1970
     language: Slovak
     sources:
@@ -1671,6 +1697,7 @@ titles:
   - title: Akcie proti banditom
     authors:
       - Stanisław Wałach
+    translators:
       - Ján Majerník
     year: 1971
     language: Slovak
@@ -1727,6 +1754,7 @@ titles:
   - title: Didaktické problémy straníckeho vzdelávania
     authors:
       - Stefan Słomkiewicz
+    translators:
       - Jozef Marušiak
     year: 1971
     language: Slovak
@@ -1845,6 +1873,7 @@ titles:
     subtitle: Z rozhovorov s redaktormi tlače, rozhlasu a televízie
     authors:
       - Andrzej Czechowicz
+    translators:
       - Samuel Dúbrava
     year: 1971
     language: Slovak
@@ -1858,6 +1887,8 @@ titles:
     subtitle: Dokumenty z konferencii a plén 1944-1948
     authors:
       - Marta Vartíková
+    editors:
+      - Marta Vartiková
     year: 1971
     language: Slovak
     sources:
@@ -1957,6 +1988,9 @@ titles:
     subtitle: 'Prejavy a články: okt. 1967 - dec. 1970'
     authors:
       - Vasil Bil'ak
+    editors:
+      - Ján Škoda
+      - Michal Štefanák
     year: 1971
     language: Slovak
     sources:
@@ -2139,8 +2173,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1132089867
     verified: true
   - title: Tu na Westerplatte
+    original_title: Tu, na Westerplatte
     authors:
       - Zbigniew Flisowski
+    translators:
       - Rudolf Turňa
     year: 1971
     language: Slovak
@@ -2315,10 +2351,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=49634143X
     verified: true
   - title: Buridanov Osol
+    original_title: Buridans Esel
     authors:
       - Günter de Bruyn
-      - Milan Žuffa
       - Ivan Cvrkal
+    translators:
+      - Milan Žuffa
     year: 1972
     language: Not recorded
     sources:
@@ -2359,6 +2397,7 @@ titles:
   - title: Hlavné problémy a smery filozofie
     authors:
       - Zdzisław Cackowski
+    translators:
       - Jozef Marušiak
     year: 1972
     language: Slovak
@@ -2414,6 +2453,7 @@ titles:
   - title: Po stopách tatranských kuriérov
     authors:
       - Alfons Filar
+    translators:
       - Mária Krkoškova
     year: 1972
     language: Slovak
@@ -2426,6 +2466,7 @@ titles:
   - title: Pobočník generála Bołdyna
     authors:
       - Jerzy Putrament
+    translators:
       - Jozef Brandobur
     year: 1972
     language: Slovak
@@ -2470,6 +2511,10 @@ titles:
   - title: Publicistika
     authors:
       - Ladislav Novomeský
+    editors:
+      - Karol Rosenbaum
+    translators:
+      - Zora Jesenská
     year: 1972
     language: Slovak
     sources:
@@ -2493,6 +2538,7 @@ titles:
     subtitle: Listy nemeckému priateľovi
     authors:
       - Alojzy Twardecki
+    translators:
       - Emil Benčík
     year: 1972
     language: Slovak
@@ -2651,6 +2697,7 @@ titles:
     verified: true
   - title: Zahraničná politika a ideológia
     subtitle: Uloha ideológie v zahraničnej politike Imperializmu
+    original_title: Vnešnââ politika i ideologiâ
     authors:
       - Vladimír Nikolajevič Kelin
     year: 1972
@@ -2722,6 +2769,8 @@ titles:
     series: Publiciatika 1945-1950; Zv.5
     authors:
       - Ladislav Novomeský
+    editors:
+      - Karol Rosenbaum
     year: 1972
     language: Czech
     sources:
@@ -2756,6 +2805,7 @@ titles:
   - title: Demisia inšpektora Willburna
     authors:
       - Andrzej Szczypiorski
+    translators:
       - Viera Havránková
     year: 1973
     language: Slovak
@@ -2999,6 +3049,7 @@ titles:
   - title: Dlho a štastne
     authors:
       - Jerzy Broszkiewicz
+    translators:
       - Hana Lerchová
     year: 1974
     language: Slovak
@@ -3048,6 +3099,7 @@ titles:
   - title: F. E. Dzeržinskij
     authors:
       - Nikolaj Ivanovič Zubov
+    translators:
       - Jirka Vašinová
     year: 1974
     language: Slovak
@@ -3171,6 +3223,7 @@ titles:
   - title: Kariéra pápežského komoríka
     authors:
       - Jerzy Rawicz
+    translators:
       - Samuel Dúbrava
     year: 1974
     language: Slovak
@@ -3240,6 +3293,7 @@ titles:
   - title: Ostrov moreplavcov
     authors:
       - Ewa Wolak
+    translators:
       - Mária Krkoškova
     year: 1974
     language: Slovak
@@ -3252,8 +3306,9 @@ titles:
   - title: Partizánske noci
     authors:
       - Stanisław Wałach
-      - Samuel Dúbrava
       - Witold Zechenter
+    translators:
+      - Samuel Dúbrava
     year: 1974
     language: Slovak
     sources:
@@ -3376,6 +3431,7 @@ titles:
     subtitle: Reportér putuje to stopách utrapenia
     authors:
       - Lucjan Wolanowski
+    translators:
       - Samuel Dúbrava
     year: 1974
     language: Slovak
@@ -3388,6 +3444,8 @@ titles:
   - title: Velk̕ý odkaz
     authors:
       - Karol Belický
+    editors:
+      - Ján Princ
     year: 1974
     edition: 1. vyd
     language: Slovak
@@ -3549,6 +3607,7 @@ titles:
   - title: Epidémia
     authors:
       - Jalu Kurek
+    translators:
       - Ján Sedlák
     year: 1975
     language: Slovak
@@ -3689,9 +3748,11 @@ titles:
     verified: true
   - title: Nostromo
     subtitle: Príbeh z pobrežia
+    original_title: Nostromo
     authors:
       - Joseph Conrad
       - Jozef Olexa
+    translators:
       - Pavel Vilikovský
     year: 1975
     language: Slovak
@@ -3764,10 +3825,14 @@ titles:
     verified: true
   - title: Program revolúcie
     subtitle: K vzniku Košického vládneho programu
+    original_title: Program revoluce
     authors:
       - Miroslav Bouček
       - Miloslav Klimes
       - Marta Vartikova
+    translators:
+      - Ol'ga Kuchtova
+      - Dana Viceníková
     year: 1975
     language: Slovak
     sources:
@@ -3960,8 +4025,11 @@ titles:
     pages: 142
     edition: 1. vyd
   - title: Tigrie oko
+    original_title: L'Oeil de chat
     authors:
       - Claude Aveline
+    translators:
+      - Maria Kutláková
     year: 1975
     language: Slovak
     sources:
@@ -4005,6 +4073,7 @@ titles:
   - title: Veci života
     authors:
       - Paul Guimard
+    translators:
       - Hana Lerchova
     year: 1975
     language: Slovak
@@ -4261,10 +4330,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=503045276
     verified: true
   - title: Leško
+    original_title: Lesio
     authors:
       - Joanna Chmielewska
-      - Hana Lerchová
       - Ján Meisner
+    translators:
+      - Hana Lerchová
     year: 1976
     language: Slovak
     sources:
@@ -4286,6 +4357,8 @@ titles:
     subtitle: '[Vybrané kapitoly]'
     authors:
       - Daniel Okáli
+    editors:
+      - Karol Rosenbaum
     year: 1976
     edition: 1. vyd
     series: Človek a umenie
@@ -4403,6 +4476,7 @@ titles:
   - title: Neobyčajný kapitán
     authors:
       - Karol Olgierd Borchardt
+    translators:
       - Anna Varsiková
       - Jaroslav Coplák
     year: 1976
@@ -5083,8 +5157,9 @@ titles:
   - title: Hranica
     authors:
       - Zofia Nałkowska
-      - Jozef Gazdík
       - Ján Sedlák
+    translators:
+      - Jozef Gazdík
     year: 1977
     language: Slovak
     sources:
@@ -5096,6 +5171,7 @@ titles:
   - title: Ideológia a politika súčasnej sociálnej demokracie
     authors:
       - Janusz W. Gołębiowski
+    translators:
       - Samuel Dúbrava
     year: 1977
     language: Czech
@@ -5266,6 +5342,8 @@ titles:
     authors:
       - Sergej Vladimirovič Rogačev
       - Zdeno Âura
+    editors:
+      - Sergej V. Rogačev
     year: 1977
     language: Russian
     sources:
@@ -5503,6 +5581,7 @@ titles:
   - title: Úvahy o praxi
     authors:
       - Tadeusz Maciej Jaroszewski
+    translators:
       - Anna Varsiková
     year: 1977
     language: Slovak
@@ -5789,6 +5868,7 @@ titles:
   - title: Hospodarske dejiny sveta do roku 1970
     authors:
       - Jerzy Ciepielewski
+    translators:
       - Juraj Glosik
       - Jozef Verdenšteter
     year: 1978
@@ -5858,10 +5938,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=028978374
     verified: true
   - title: La Fédération socialiste tchécoslovaque
+    original_title: Ceskoslovenská socialistická federacia
     authors:
       - Jaroslav Chovanec
-      - Anton Vantuch
       - Viliam Plevza
+    translators:
+      - Anton Vantuch
     year: 1978
     language: French
     sources:
@@ -5873,6 +5955,7 @@ titles:
   - title: Nadriadený a podriadený vo svetle teórie organizácie
     authors:
       - Stanisław Kowalewski
+    translators:
       - Jozefa Antalová
       - Andrej Mind'aš
     year: 1978
@@ -5957,8 +6040,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=388980842
     verified: true
   - title: Predohra k Mníchovu
+    original_title: Putʹ Anglii k Mûnhenu
     authors:
       - M. Pankrashova
+    translators:
+      - Anton Eliáš
     year: 1978
     edition: 1. vyd
     language: Slovak
@@ -6266,6 +6352,7 @@ titles:
   - title: Akumulácia kapitálu
     authors:
       - Róża Luksemburg
+    translators:
       - Herta Tkadlečková
     year: 1979
     language: Slovak
@@ -6372,6 +6459,7 @@ titles:
   - title: Frontové cesty
     authors:
       - Waldemar Kotowicz
+    translators:
       - Matej Andráš
     year: 1979
     language: Slovak
@@ -6674,10 +6762,12 @@ titles:
     verified: true
   - title: O začiatkoch ľudských dejín
     subtitle: (Problémy paleopsychológie)
+    original_title: O načale čelovečeskoj istorii
     authors:
       - B. Poršnev
-      - Raisa Kopsová
       - Boris Fedorovič Poršnev
+    translators:
+      - Raisa Kopsová
     year: 1979
     language: Slovak
     sources:
@@ -6776,6 +6866,7 @@ titles:
   - title: Prvé pištole
     authors:
       - Jerzy Fonkowicz
+    translators:
       - Anna Varsiková
     year: 1979
     language: Slovak
@@ -6886,6 +6977,9 @@ titles:
   - title: Slovník medzinárodných organizácií
     authors:
       - Zbigniew Mieczysław Klepacki
+    translators:
+      - Marián Servátka
+      - Milan Štefanko
     year: 1979
     language: Slovak
     sources:
@@ -7093,6 +7187,7 @@ titles:
   - title: Zlato púšte
     authors:
       - Kazimierz Dziewanowski
+    translators:
       - Mária Krkoškova
     year: 1979
     language: Slovak
@@ -7234,6 +7329,7 @@ titles:
   - title: Karol Świerczewski
     authors:
       - V. Kardin
+    translators:
       - Vladimír Lehotský
     year: 1980
     language: Slovak
@@ -7495,6 +7591,7 @@ titles:
   - title: Neobyčajný kapitán
     authors:
       - Karol Olgierd Borchardt
+    translators:
       - Anna Varsiková
       - Jaroslav Coplák
     year: 1980
@@ -7599,8 +7696,10 @@ titles:
     verified: true
   - title: Predmarxistické politické myslenie
     subtitle: Novoveké politickeé myslenie
+    original_title: Przedmarksowska myśl polityczna
     authors:
       - Grzegorz Leopold Seidler
+    translators:
       - Irena Roháčová
     year: 1980
     language: Slovak
@@ -7703,6 +7802,7 @@ titles:
   - title: Sezónna láska
     authors:
       - Gabriela Zapolska
+    translators:
       - Hana Lerchová
     year: 1980
     language: Slovak
@@ -7935,10 +8035,12 @@ titles:
         url: https://openlibrary.org/books/OL13824196M
     verified: true
   - title: Con amore
+    original_title: Con amore
     authors:
       - Krystyna Berwińska
-      - Viera Havránková
       - Naďa Rappensbergerová
+    translators:
+      - Viera Havránková
     year: 1981
     language: Slovak
     sources:
@@ -8870,6 +8972,7 @@ titles:
   - title: Úteky z Osvienčimu
     authors:
       - Tomasz Sobański
+    translators:
       - Anna Varsiková
     year: 1982
     language: Slovak
@@ -8960,6 +9063,7 @@ titles:
     subtitle: Rozhovory s nacistickými prominentmi
     authors:
       - Krzysztof Kąkolewski
+    translators:
       - Anna Varsiková
     year: 1983
     language: Slovak
@@ -9436,6 +9540,7 @@ titles:
     authors:
       - Božena Němcová
       - Štefan Cpin
+    translators:
       - Elena Chmelová
     year: 1983
     language: Slovak
@@ -9922,6 +10027,7 @@ titles:
   - title: Osamelá plavba Opty
     authors:
       - Leonid Teliga
+    translators:
       - Jaroslav Coplák
     year: 1984
     language: Slovak
@@ -10074,7 +10180,10 @@ titles:
     verified: true
   - title: Umenie, revolúcia, spoločnost ̕
     subtitle: Antológia českej a slovenskej marxistickej estetiky a literárnej vedy z dvadsiatych a tridsiatych rokov
-    authors:
+    authors: []
+    editors:
+      - Stanislav Šmatlák
+    translators:
       - Stanislav Šmatlák
     year: 1984
     edition: 1. vyd
@@ -10118,6 +10227,7 @@ titles:
   - title: Ak sa vrátime z mora
     authors:
       - Marian Bielski
+    translators:
       - Jaroslav Coplák
     year: 1985
     language: Slovak
@@ -10356,6 +10466,7 @@ titles:
   - title: Medzinárodné vzťahy a svetový revolučný proces
     authors:
       - Jaroslav Kučera
+    translators:
       - Eva Belicová
       - Anton Gosiorovský
       - Marcela Siváková
@@ -10426,6 +10537,7 @@ titles:
     subtitle: Vraždy podľa abecedy
     authors:
       - Jerzy Edigey
+    translators:
       - Matej Andráš
     year: 1985
     language: Slovak
@@ -10657,6 +10769,7 @@ titles:
   - title: Stručný slovník teórie a praxe výstavby strany
     authors:
       - Miroslav Šolc
+    translators:
       - Klára Košková
       - Anton Gosiorovský
     year: 1985
@@ -10836,8 +10949,9 @@ titles:
     series: Edícia Postavy svetového revolučného hnutia
     authors:
       - Jan Galandauer
-      - Viera Götzová
       - Antoine Marès
+    translators:
+      - Viera Götzová
     year: 1986
     language: Slovak
     sources:
@@ -10899,6 +11013,8 @@ titles:
   - title: Filozofia Jana Amosa Komenského
     authors:
       - Jiřina Popelová
+    translators:
+      - Ján Gallo
     year: 1986
     edition: 1. vyd
     language: Slovak
@@ -11079,6 +11195,8 @@ titles:
   - title: Roky 1958 - 1962 v dějinách KSČ
     authors:
       - Václav Brabec
+    translators:
+      - Mária Korbellová
     year: 1986
     language: Slovak
     sources:
@@ -11115,8 +11233,9 @@ titles:
   - title: Slovník medzinárodnych vzt'ahov
     authors:
       - Werner Hänisch
-      - Vladimír Lehotský
       - Adolf Novotný
+    translators:
+      - Vladimír Lehotský
     year: 1986
     language: Slovak
     sources:
@@ -11230,6 +11349,7 @@ titles:
         url: https://openlibrary.org/books/OL50440548M
     verified: true
   - title: Vybrané prejavy
+    original_title: Discursos
     authors:
       - Fidel Castro
     year: 1986
@@ -11448,6 +11568,7 @@ titles:
   - title: Čas netopierov
     authors:
       - Wiesław Górnicki
+    translators:
       - Jaroslav Coplák
     year: 1987
     language: Slovak
@@ -11488,6 +11609,7 @@ titles:
   - title: Fúga na ľúbostnú tému
     authors:
       - Wanda Karczewska
+    translators:
       - Hana Lerchová
     year: 1987
     language: Slovak
@@ -11500,6 +11622,7 @@ titles:
   - title: Hľadá sa Albert Peryt
     authors:
       - Jerzy Jesionowski
+    translators:
       - Hana Lerchová
     year: 1987
     language: Slovak
@@ -11633,6 +11756,7 @@ titles:
   - title: Na rozvalinách trtej riše
     authors:
       - Dušan Azanjac
+    translators:
       - Ján Jankovič
     year: 1987
     language: Czech
@@ -11657,6 +11781,9 @@ titles:
     series: Človek a umenie
     authors:
       - Pavel Paška
+    editors:
+      - Pavol Paška
+      - Martin Čičilla
     year: 1987
     language: Slovak
     sources:
@@ -11719,8 +11846,9 @@ titles:
     authors:
       - Igorʹ Vsevolodovič Možejko
       - Svetozár Mydlo
-      - Dagmar Sabolová
       - Pavol Blažo
+    translators:
+      - Dagmar Sabolová
     year: 1987
     language: Czech
     sources:
@@ -11889,10 +12017,12 @@ titles:
     verified: true
   - title: Vyhľadávacie sociálne prognózovanie
     subtitle: (Perspektívne problémy spoločnosti)
+    original_title: 'Poiskovoe sociaľnoe prognozirovanie : perspektivnye problemy obščestva'
     authors:
       - Igor Bestužev-Lada
-      - Peter Velický
       - Rudolf Šíma
+    translators:
+      - Peter Velický
     year: 1987
     language: Slovak
     sources:
@@ -12271,6 +12401,7 @@ titles:
   - title: Nehoda
     authors:
       - Wacław Biliński
+    translators:
       - Daniela Holáková
     year: 1988
     language: Slovak
@@ -12284,6 +12415,8 @@ titles:
     series: Edícia Maják
     authors:
       - Christa Wolf
+    translators:
+      - Viera Juríčková
     year: 1988
     language: Czech
     sources:
@@ -12657,6 +12790,7 @@ titles:
   - title: Je čas ísť domov, chlapci
     authors:
       - Zbigniew Domino
+    translators:
       - Jaroslav Coplák
     year: 1989
     language: Slovak
@@ -12695,6 +12829,7 @@ titles:
   - title: Nová láska
     authors:
       - Jarosław Iwaszkiewicz
+    translators:
       - Ján Sedlák
     year: 1989
     language: Slovak
@@ -12837,9 +12972,11 @@ titles:
         url: https://openlibrary.org/books/OL57964151M
     verified: true
   - title: Svetové vojny a osudy ľudstva
+    original_title: Mirovye vojny i sud'by čelovečestva
     series: Členská knižnica
     authors:
       - D. M. Proektor
+    translators:
       - Marta Frühaufová
     year: 1989
     language: Slovak
@@ -12882,9 +13019,11 @@ titles:
         url: https://search.worldcat.org/title/30559037
     verified: true
   - title: Veda a moderný svet
+    original_title: Science and the modern world
     series: Filozofické odkazy
     authors:
       - A. N. Whitehead
+    translators:
       - Ján Bodnár
       - Jan Kvapil
     year: 1989

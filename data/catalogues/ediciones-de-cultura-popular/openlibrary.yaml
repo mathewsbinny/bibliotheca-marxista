@@ -907,8 +907,15 @@ titles:
         url: https://search.worldcat.org/title/41586699
     verified: false
   - title: La Revolución Mexicana de 1910-1917 y la política de los Estados Unidos
+    original_title: Meksikanskaâ revolûciâ 1910-1917 gg. i politika SŠA
     authors:
       - M. S. Alʹperovich
+    editors:
+      - Boris Timofeevich Rudenko
+    translators:
+      - Mokedonio Garza y Armén Ohanián
+      - María Teresa Francés
+      - Alejo Mendez Garcia
     year: 1973
     edition: 5a ed
     series: Pasado y presente de México -- 1
@@ -1130,6 +1137,8 @@ titles:
     subtitle: Informe del Comité Central al la segunda conferencia nacional de organización
     authors:
       - Partido Comunista Mexicano. Comité Central
+    editors:
+      - Arturo Martínez Nateras
     year: 1975
     series: Nueva revolución
     language: Spanish
@@ -1742,6 +1751,7 @@ titles:
     verified: true
   - title: El origen de la familia, la propiedad privada y el estado
     subtitle: El papel del trabajo en la transformación del mono en hombre
+    original_title: Der Ursprung der Familie, des Privateigenthums und des Staats
     series: Biblioteca Marxista
     authors:
       - Friedrich Engels
@@ -2048,8 +2058,9 @@ titles:
     series: Historia
     authors:
       - Witold Kula
-      - Jan Patula
       - Jean-Pierre Berthe
+    translators:
+      - Jan Patula
     year: 1984
     language: Spanish
     sources:

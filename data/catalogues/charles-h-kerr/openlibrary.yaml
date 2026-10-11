@@ -221,6 +221,8 @@ titles:
   - title: Aphorisms of the Three Threes
     authors:
       - Edward Owings Towne
+    editors:
+      - Towne, Edward Owings, b. 1859
     year: 1887
     edition: 3rd ed
     language: English
@@ -480,6 +482,8 @@ titles:
   - title: The Legend of Hamlet, Prince of Denmark, as Found in the Works of Saxo Grammaticus and Other Writers of the Twelfth Century
     authors:
       - George P. Hansen
+    editors:
+      - Charlie B. Simons
     year: 1887
     language: English
     pages: 57
@@ -934,6 +938,8 @@ titles:
     authors:
       - Paul Lafargue
       - Fredric Wertham Collection (Library of Congress)
+    translators:
+      - Charles H. Kerr
     year: 1890
     language: English
     sources:
@@ -1055,6 +1061,8 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
+      - J. L. Joynes
     year: 1890
     series: Harvard Social History/business Preservation Microfilm Project -- 24946
     language: English
@@ -1918,6 +1926,8 @@ titles:
   - title: 'Elsie: A Christmas Story'
     authors:
       - Alexander Lange Kielland
+    translators:
+      - Miles Menander Dawson
     year: 1894
     language: English
     pages: 109
@@ -3196,6 +3206,8 @@ titles:
   - title: Socialism, What It Is and What It Seeks to Accomplish
     authors:
       - Wilhelm Liebknecht
+    translators:
+      - Simons, May Wood, d. 1948
     year: 1897
     language: English
     pages: 64
@@ -3698,6 +3710,8 @@ titles:
     subtitle: His Life, His Work and His Writings
     authors:
       - Karl Kautsky
+    translators:
+      - May Wood Simons
     year: 1899
     series: Library of Progress -- No. 32
     language: English
@@ -3829,6 +3843,8 @@ titles:
     authors:
       - Wilhelm Liebknecht
       - May Wood Simons
+    translators:
+      - May Wood Simon
     year: 1899
     series: Unity Library -- No. 97
     language: English
@@ -3949,6 +3965,7 @@ titles:
   - title: Wage-Labor and Capital
     authors:
       - Karl Marx
+    translators:
       - J. L. Joynes
     year: 1899
     series: Pocket Library of Socialism -- No. 7
@@ -4243,6 +4260,8 @@ titles:
   - title: Socialism and the Intellectuals
     authors:
       - Paul Lafargue
+    translators:
+      - Charles H. Kerr
     year: 1900
     series: Unity Library -- No. 109
     language: English
@@ -4279,6 +4298,8 @@ titles:
   - title: Socialism, Utopian and Scientific
     authors:
       - Friedrich Engels
+    translators:
+      - Edward Bibbins Aveling
     year: 1900
     language: English
     pages: 87
@@ -4577,6 +4598,8 @@ titles:
   - title: Collectivism and Industrial Evolution
     authors:
       - Emile Vandevelde
+    translators:
+      - Charles H. Kerr
     year: 1901
     language: English
     pages: 199
@@ -4655,6 +4678,8 @@ titles:
     subtitle: Biographical Memoirs
     authors:
       - Wilhelm Liebknecht
+    translators:
+      - Ernest Untermann
     year: 1901
     language: English
     pages: 181
@@ -4798,6 +4823,9 @@ titles:
   - title: The International Socialist Review
     authors:
       - A. M. Simons
+    editors:
+      - Algie Martin Simons
+      - Charles H. Kerr
     year: 1901
     language: English
     sources:
@@ -5051,6 +5079,8 @@ titles:
   - title: Socialism and the Social Movement in the 19th Century
     authors:
       - Werner Sombart
+    translators:
+      - Anson P. Atterbury
     year: 1902
     language: English
     pages: 199
@@ -5169,6 +5199,8 @@ titles:
   - title: The Origin of the Family, Private Property and the State
     authors:
       - Friedrich Engels
+    translators:
+      - Ernest Untermann
     year: 1902
     language: English
     pages: 217
@@ -5212,6 +5244,7 @@ titles:
     authors:
       - Karl Kautsky
       - A. M. Simons
+    translators:
       - May Wood Simons
     year: 1902
     language: English
@@ -5287,8 +5320,11 @@ titles:
         url: https://www.gutenberg.org/ebooks/32644
   - title: Feuerbach
     subtitle: The Roots of the Socialist Philosophy
+    original_title: Ludwig Feuerbach und der Ausgang der klassischen deutschen Philosophie
     authors:
       - Friedrich Engels
+    translators:
+      - Austin Lewis
     year: 1903
     language: English
     pages: 133
@@ -5549,6 +5585,8 @@ titles:
   - title: The Social Revolution
     authors:
       - Karl Kautsky
+    translators:
+      - May Wood Simons
     year: 1903
     series: Standard Socialist Series
     language: English
@@ -5716,6 +5754,8 @@ titles:
   - title: Essays on the Materialistic Conception of History
     authors:
       - Antonio Labriola
+    translators:
+      - Charles H. Kerr
     year: 1904
     language: English
     pages: 246
@@ -5817,6 +5857,8 @@ titles:
   - title: The Sale of an Appetite
     authors:
       - Paul Lafargue
+    translators:
+      - Kerr, Charles H., b. 1860
     year: 1904
     language: English
     pages: 56
@@ -5945,6 +5987,8 @@ titles:
   - title: Germs of Mind in Plants
     authors:
       - R. H. France
+    translators:
+      - A. M. Simons
     year: 1905
     language: English
     pages: 151
@@ -6053,6 +6097,8 @@ titles:
       - Wilhelm Liebknecht
       - A. M. Simons
       - Marcus Hitch
+    translators:
+      - A. M.
     year: 1905
     edition: Revised ed. --
     series: Standard Socialist Series
@@ -6155,6 +6201,8 @@ titles:
   - title: The End of the World
     authors:
       - M. W. Meyer
+    translators:
+      - Margaret Wagner
     year: 1905
     series: Library of Science for the Workers
     language: English
@@ -6275,6 +6323,12 @@ titles:
     subtitle: A Critique of Political Economy
     authors:
       - Karl Marx
+    editors:
+      - Friedrich Engels
+    translators:
+      - Samuel Moore
+      - Edward Bibbins Aveling
+      - Ernest Untermann
     year: 1906
     language: English
     sources:
@@ -6367,6 +6421,8 @@ titles:
   - title: Collectivism and Industrial Evolution
     authors:
       - Emile Vandervelde
+    translators:
+      - C. H. Kerr
     year: 1906
     series: Standard Socialist Series
     language: English
@@ -6385,6 +6441,8 @@ titles:
   - title: Ethics and the Materialist Concept of History
     authors:
       - Karl Kautsky
+    translators:
+      - John B. Askew
     year: 1906
     edition: 4th ed
     language: English
@@ -6549,6 +6607,8 @@ titles:
   - title: Social and Philosophical Studies
     authors:
       - Paul Lafargue
+    translators:
+      - Charles H. Kerr
     year: 1906
     language: English
     pages: 165
@@ -6600,6 +6660,8 @@ titles:
   - title: Some of the Philosophical Essays on Socialism and Science, Religion, Ethics, Critique-of-reason and the World-at-large
     authors:
       - Joseph Dietzgen
+    translators:
+      - Ernest Untermann
     year: 1906
     language: English
     sources:
@@ -6694,6 +6756,8 @@ titles:
   - title: The Making of the World
     authors:
       - M. W. Meyer
+    translators:
+      - Ernest Untermann
     year: 1906
     language: English
     pages: 150
@@ -6737,6 +6801,8 @@ titles:
   - title: The Positive Outcome of Philosophy
     authors:
       - Joseph Dietzgen
+    translators:
+      - Ernest Untermann
     year: 1906
     language: English
     pages: 444
@@ -6814,6 +6880,8 @@ titles:
     subtitle: Three Lectures Given at the University of Naples, Italy, on April 22, 23, and 24, 1901
     authors:
       - Enrico Ferri
+    translators:
+      - Ernest Untermann
     year: 1906
     series: Standard Socialist Series
     language: English
@@ -6909,6 +6977,8 @@ titles:
   - title: The Triumph of Life
     authors:
       - Wilhelm Bölsche
+    translators:
+      - Simons, May Wood, d. 1948
     year: 1906
     series: Library of Science for the Workers
     language: English
@@ -7159,6 +7229,12 @@ titles:
     subtitle: A Critique of Political Economy
     authors:
       - Karl Marx
+    editors:
+      - Friedrich Engels
+    translators:
+      - Samuel Moore
+      - Edward B. Aveling
+      - Ernest Untermann
     year: 1907
     language: English
     sources:
@@ -7247,6 +7323,8 @@ titles:
   - title: Ethics and the Materialist Conception of History
     authors:
       - Karl Kautsky
+    translators:
+      - John B. Askew
     year: 1907
     series: Standard Socialist Series
     language: English
@@ -7475,6 +7553,8 @@ titles:
   - title: Socialism and Philosophy
     authors:
       - Antonio Labriola
+    translators:
+      - Ernest Untermann
     year: 1907
     series: International Library of Social Science
     language: English
@@ -7503,6 +7583,8 @@ titles:
     subtitle: A Lecture Delivered in Paris, November 27, 1893
     authors:
       - Gabriel Deville
+    translators:
+      - Robert Rives La Monte
     year: 1907
     language: English
     pages: 64
@@ -7581,6 +7663,8 @@ titles:
   - title: The Evolution of Man
     authors:
       - Wilhelm Bölsche
+    translators:
+      - Ernest Untermann
     year: 1907
     edition: 8th thousand. --
     language: English
@@ -7635,8 +7719,11 @@ titles:
     verified: true
   - title: The Right to Be Lazy
     subtitle: And Other Studies
+    original_title: Droit à la paresse
     authors:
       - Paul Lafargue
+    translators:
+      - Charles H. Kerr
     year: 1907
     language: English
     pages: 164
@@ -7871,6 +7958,8 @@ titles:
   - title: Changes in the Theory and Tactics of the (German) Social-Democracy
     authors:
       - Paul Kampffmeyer
+    translators:
+      - Winfield Romeo Gaylord
     year: 1908
     language: English
     pages: 164
@@ -7945,6 +8034,8 @@ titles:
   - title: Essays on the Materialistic Conception of History
     authors:
       - Antonio Labriola
+    translators:
+      - Charles H. Kerr
     year: 1908
     language: English
     pages: 246
@@ -8060,6 +8151,7 @@ titles:
     subtitle: Biographical Memoirs ...
     authors:
       - Wilhelm Liebknecht
+    translators:
       - Ernest Untermann
     year: 1908
     series: Standard Socialist Series
@@ -8099,6 +8191,9 @@ titles:
   - title: Manifesto de la komunista partio de Karolo Marks kaj Frederiko Engels
     authors:
       - Karl Marx
+    translators:
+      - Friedrich Engels
+      - Arthur Baker
     year: 1908
     series: Standard socialist series
     language: Esperanto
@@ -8170,6 +8265,8 @@ titles:
   - title: Socialism, Utopian and Scientific
     authors:
       - Friedrich Engels
+    translators:
+      - Edward Bibbins Aveling
     year: 1908
     language: English
     pages: 139
@@ -8388,9 +8485,10 @@ titles:
     subtitle: The Nature of Human Brain Work; Letters on Logic; the Positive Outcome of Philosophy
     authors:
       - Joseph Dietzgen
-      - Ernest Untermann
       - Eugene Dietzgen
       - Dietzgen, Joseph, jr
+    translators:
+      - Ernest Untermann
     year: 1908
     series: International Library of Social Science
     language: English, German
@@ -8466,6 +8564,8 @@ titles:
   - title: The Social Revolution
     authors:
       - Karl Kautsky
+    translators:
+      - May Wood Simons
     year: 1908
     series: Standard Socialist Series
     language: English
@@ -8865,6 +8965,8 @@ titles:
   - title: Socialism and Modern Science (Darwin, Spencer, Marx)
     authors:
       - Enrico Ferri
+    translators:
+      - Robert Rives La Monte
     year: 1909
     edition: 3d éd
     language: English
@@ -9081,6 +9183,8 @@ titles:
   - title: The Origin of the Family, Private Property and the State
     authors:
       - Friedrich Engels
+    translators:
+      - Ernest Untermann
     year: 1909
     series: Standard Socialist Series
     language: English
@@ -9571,8 +9675,13 @@ titles:
         url: https://search.worldcat.org/title/4990477
     verified: true
   - title: The Class Struggle (Erfurt Program)
+    original_title: The Class Struggle (Erfurt Program)
     authors:
       - Karl Kautsky
+    editors:
+      - William E. Bohn
+    translators:
+      - William E. Bohn
     year: 1910
     language: English
     pages: 217
@@ -9689,6 +9798,7 @@ titles:
     subtitle: Three Lectures Given at the University of Naples, Italy on April 22, 23 and 24, 1901
     authors:
       - Enrico Ferri
+    translators:
       - Ernest Untermann
     year: 1910
     language: English
@@ -9768,6 +9878,8 @@ titles:
   - title: The Social Revolution
     authors:
       - Karl Kautsky
+    translators:
+      - May Wood Simons
     year: 1910
     language: English
     sources:
@@ -10344,8 +10456,11 @@ titles:
       - label: Full text (marxists.org)
         url: https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch02.htm
   - title: Marxism and Darwinism
+    original_title: Darwinisme en marxisme
     authors:
       - Anton Pannekoek
+    translators:
+      - Nathan Weiser
     year: 1912
     language: English
     pages: 58
@@ -10474,6 +10589,8 @@ titles:
     subtitle: Utopian and Scientific
     authors:
       - Friedrich Engels
+    translators:
+      - Edward Aveling ... with a special introduction by the author
     year: 1912
     language: English
     pages: 139
@@ -10495,6 +10612,9 @@ titles:
   - title: Socialism and Philosophy
     authors:
       - Antonio Labriola
+    translators:
+      - Ernest Untermann from the 3d Italian ed
+      - Amplified By the Author
     year: 1912
     language: English
     pages: 260
@@ -10688,6 +10808,9 @@ titles:
   - title: The Social Revolution
     authors:
       - Karl Kautsky
+    translators:
+      - A. M.
+      - May Wood Simons
     year: 1912
     language: English
     pages: 189
@@ -10896,6 +11019,8 @@ titles:
   - title: Sabotage
     authors:
       - Emile Pouget
+    translators:
+      - Arturo M. Giovannitti
     year: 1913
     language: English
     pages: 108
@@ -11017,6 +11142,8 @@ titles:
   - title: The Eighteenth Brumaire of Louis Bonaparte
     authors:
       - Karl Marx
+    translators:
+      - Daniel De Leon
     year: 1913
     edition: 3rd ed
     language: English
@@ -11066,6 +11193,8 @@ titles:
     subtitle: Three Lectures Given at the University of Naples, Italy, on April 22, 23 and 24, 1901
     authors:
       - Enrico Ferri
+    translators:
+      - Ernest Untermann
     year: 1913
     language: English
     pages: 125
@@ -11094,6 +11223,8 @@ titles:
     subtitle: 'Being a Translation of the Misere de la Philosophie: (A Reply to "La Philosophie de la Misere" of M. Proudhon)'
     authors:
       - Karl Marx
+    translators:
+      - H. Quelch
     year: 1913
     language: English
     pages: 227
@@ -11126,6 +11257,8 @@ titles:
   - title: The Triumph of Life
     authors:
       - Wilhelm Bolsche
+    translators:
+      - May Wood Simons
     year: 1913
     language: English
     pages: 157
@@ -11146,6 +11279,8 @@ titles:
     subtitle: Addressed to Working Men
     authors:
       - Karl Marx
+    editors:
+      - Eleanor Marx Aveling
     year: 1913
     language: English
     pages: 128
@@ -11274,6 +11409,8 @@ titles:
   - title: Ethics and the Materialist Conception of History
     authors:
       - Karl Kautsky
+    translators:
+      - John B. Askew
     year: 1914
     edition: 4th ed., rev
     language: English
@@ -11361,6 +11498,8 @@ titles:
     subtitle: Utopian and Scientific
     authors:
       - Friedrich Engels
+    translators:
+      - Edward Aveling
     year: 1914
     language: English
     pages: 139
@@ -11434,6 +11573,8 @@ titles:
   - title: The End of the World
     authors:
       - M. W. Meyer
+    translators:
+      - Margaret Wagner
     year: 1914
     language: English
     pages: 140
@@ -11602,10 +11743,12 @@ titles:
         url: https://openlibrary.org/books/OL7144855M
     verified: true
   - title: Socialism, Utopian and Scientific
+    original_title: Entwicklung des Sozialismus von der Utopie zur Wissenschaft
     authors:
       - Friedrich Engels
-      - Edward B. Aveling
       - Fredric Wertham Collection (Library of Congress)
+    translators:
+      - Edward B. Aveling
     year: 1915
     language: English
     sources:
@@ -11912,6 +12055,8 @@ titles:
     authors:
       - Friedrich Engels
       - Edward B. Aveling
+    translators:
+      - Edward Aveling
     year: 1917
     language: English
     pages: 139
@@ -11929,6 +12074,8 @@ titles:
   - title: 'Socialism and Modern Science: (Darwin, Spencer, Marx)'
     authors:
       - Enrico Ferri
+    translators:
+      - Robert Rives La Monte
     year: 1917
     language: English
     pages: 230
@@ -12092,6 +12239,8 @@ titles:
     subtitle: Utopian Andscientific
     authors:
       - Friedrich Engels
+    translators:
+      - Edward Aveling
     year: 1918
     language: English
     sources:
@@ -12124,8 +12273,11 @@ titles:
         url: https://openlibrary.org/books/OL23289163M
     verified: true
   - title: The Economic Causes of War
+    original_title: Bases économiques de la justice internationale
     authors:
       - Achille Loria
+    translators:
+      - John Leslie Garner
     year: 1918
     language: English
     pages: 188
@@ -12196,6 +12348,8 @@ titles:
   - title: The Republic of Plato
     authors:
       - Plato
+    translators:
+      - Alexander Kerr
     year: 1918
     language: English
     pages: 599
@@ -12383,6 +12537,8 @@ titles:
   - title: No Compromise, No Political Trading
     authors:
       - Wilhelm Liebknecht
+    translators:
+      - A. M.
     year: 1919
     edition: Rev. ed
     language: English
@@ -12799,6 +12955,8 @@ titles:
   - title: The Origin and Evolution of the Idea of the Soul
     authors:
       - Paul Lafargue
+    translators:
+      - Charles H. Kerr
     year: 1922
     language: English
     pages: 127
@@ -13023,6 +13181,8 @@ titles:
   - title: Marxism and Darwinism
     authors:
       - Anton Pannekoek
+    translators:
+      - Nathan Weiser
     year: 1928
     language: English
     pages: 58
@@ -13038,6 +13198,8 @@ titles:
   - title: The Myth of Adam and Eve
     authors:
       - Paul Lafargue
+    translators:
+      - Charles H. Kerr
     year: 1928
     language: English
     pages: 68
@@ -13066,6 +13228,10 @@ titles:
     subtitle: The Nature of Human Brain-Work. Letters on Logic. The Positive Outcome of Philosophy
     authors:
       - Joseph Dietzgen
+    editors:
+      - Will W. Craik
+    translators:
+      - Ernest Untermann
     year: 1928
     language: English
     pages: 430
@@ -13191,10 +13357,12 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/godmyneighbor00blat_0
   - title: Socialism and Philosophy
+    original_title: Discorrendo di socialismo e di filosofia
     authors:
       - Antonio Labriola
-      - Gerhard Ernest Untermann
       - Fredric Wertham Collection (Library of Congress)
+    translators:
+      - Gerhard Ernest Untermann
     year: 1934
     language: English
     sources:
@@ -13227,6 +13395,8 @@ titles:
   - title: The Poverty of Philosophy, Being a Translation of the Misère de la Philosophie (a Reply to "La Philosophie de la Misère" of M. Proudhon)
     authors:
       - Karl Marx
+    translators:
+      - H. Quelch
     year: 1934
     language: English
     pages: 227
@@ -13478,6 +13648,8 @@ titles:
     subtitle: 'Being a Translation of the Misère de la Philosophie: (A Reply to "La Philosophie de la Misère" of M. Proudhon)'
     authors:
       - Karl Marx
+    translators:
+      - H. Quelch
     year: 1950
     language: English
     pages: 227
@@ -13872,6 +14044,8 @@ titles:
   - title: The Autobiography of Mother Jones
     authors:
       - Mary "Mother" Jones
+    editors:
+      - Mary Field Parton
     year: 1974
     edition: 3d ed
     language: English
@@ -13893,6 +14067,8 @@ titles:
   - title: The Origin of the Family, Private Property, and the State
     authors:
       - Friedrich Engels
+    translators:
+      - Ernest Untermann
     year: 1974
     series: Woman's Rights -- No. 237
     language: English
@@ -14284,6 +14460,8 @@ titles:
     subtitle: What It Is and What It Seeks to Accomplish
     authors:
       - Wilhelm Liebknecht
+    translators:
+      - May Wood Simons
     year: 1980
     series: Unity Library -- No. 71
     language: English
@@ -14455,6 +14633,8 @@ titles:
   - title: An Appeal to the Young
     authors:
       - Peter Kropotkin
+    translators:
+      - H. M. Hyndman
     year: 1984
     series: Revolutionary Classics
     language: English
@@ -14633,6 +14813,8 @@ titles:
   - title: Ethics and the Materialist Conception of History
     authors:
       - Karl Kautsky
+    translators:
+      - John B. Askew
     year: 1986
     series: Standard Socialist Series
     language: English
@@ -14942,6 +15124,8 @@ titles:
     subtitle: A Novel
     authors:
       - Heinrich Börnstein
+    translators:
+      - Friedrich Münch
     year: 1990
     edition: Modern ed. / by Steven Rowan and Elisabeth Sims
     series: Foreign-Language American Left Series
@@ -15095,6 +15279,8 @@ titles:
     subtitle: Writings & Speeches of Isadora Duncan
     authors:
       - Isadora Duncan
+    editors:
+      - Franklin Rosemont
     year: 1994
     language: English
     pages: 149
@@ -15666,6 +15852,8 @@ titles:
   - title: Starving Amidst Too Much & Other IWW Writings on the Food Industry
     authors:
       - Peter Jay Rachleff
+    editors:
+      - Peter Rachleff
     year: 2005
     date_note: March 8, 2005
     language: English
@@ -15742,6 +15930,8 @@ titles:
     subtitle: Black Hoboes and Their Songs
     authors:
       - Paul Garon
+    editors:
+      - Gene Tomko
     year: 2006
     language: English
     pages: 296
@@ -15769,6 +15959,8 @@ titles:
       - Salvatore Salerno
       - Tom Morello
       - Utah Phillips
+    editors:
+      - David Roediger
     year: 2007
     language: English
     pages: 538

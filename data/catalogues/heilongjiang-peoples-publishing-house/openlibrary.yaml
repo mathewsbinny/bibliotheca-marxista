@@ -1406,6 +1406,9 @@ titles:
     subtitle: 1949 -1979
     authors:
       - Bin wei Guo
+    editors:
+      - Pu sen Jin
+      - Hong yuan Wei
     year: 1980
     language: Chinese
     sources:
@@ -6595,6 +6598,8 @@ titles:
   - title: Cheng Qian shi ji
     authors:
       - Qian Cheng
+    editors:
+      - Geng Niu
     year: 1984
     edition: Di 1 ban
     language: Chinese
@@ -7181,8 +7186,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=141401323X
     verified: true
   - title: Jin dai nüzhen yan jiu
+    original_title: Kindai Joshin no kenkyū
     authors:
       - Tsugio Mikami
+    translators:
+      - Qicong Jin
     year: 1984
     edition: Di 1 ban
     language: Chinese
@@ -7200,6 +7208,9 @@ titles:
   - title: Jing ji ti zhi gai ge wen da
     authors:
       - Shuxian Zhu
+    editors:
+      - Jingyao Lin
+      - Haisu Tao
     year: 1984
     edition: Di 1 ban
     language: Chinese
@@ -7309,6 +7320,11 @@ titles:
     authors:
       - Li Hui
       - Yu Fei
+    editors:
+      - Hui Li
+      - 李晖
+      - Fei Yu
+      - 于非
     year: 1984
     edition: Di 1 ban
     language: Chinese
@@ -8345,6 +8361,10 @@ titles:
   - title: Zhong guo xian dai zheng zhi si xiang shi
     subtitle: 1919-1949
     authors: []
+    editors:
+      - Hui lin Wang
+      - Wei li Wang
+      - Mao sheng Lin
     year: 1984
     language: Chinese
     sources:
@@ -8547,6 +8567,8 @@ titles:
       - Maosheng Lin
       - Weili Wang
       - Guilin Wang
+    editors:
+      - Huilin Wang
     year: 1984
     edition: Di 1 ban
     language: Chinese
@@ -9414,6 +9436,8 @@ titles:
   - title: Shi ji Tai shi gong zi xu zhu shuo hui zuan
     authors:
       - Zhongkuang Wu
+    editors:
+      - 忠匡 吴
     year: 1985
     edition: Di 1 ban
     series: Heilongjiang gu ji yan jiu cong shu
@@ -9617,6 +9641,12 @@ titles:
   - title: Yin qi xuan shi
     authors:
       - Mingge Wang
+    editors:
+      - Shou You
+      - 寿 游
+      - 明阁 王
+      - Lianyuan Li
+      - 连元 李
     year: 1985
     edition: Di 1 ban
     language: Chinese
@@ -10883,6 +10913,8 @@ titles:
   - title: Ma feng nü chuan qi
     authors:
       - Guanren Lü
+    editors:
+      - 观仁 呂
     year: 1986
     edition: Di 1 ban
     series: Ming Qing bi ji xiao shuo xuan yi cong shu
@@ -13253,6 +13285,8 @@ titles:
     verified: true
   - title: Da xue li shi ci dian
     authors: []
+    editors:
+      - Rui yun Chen
     year: 1988
     language: Chinese
     sources:
@@ -13496,8 +13530,10 @@ titles:
     verified: true
   - title: Jiang Jie shi de wai guo gao ji can mou zhang
     subtitle: Shi di wei
+    original_title: Stilwell and the American experience in China, 1911-45
     authors:
       - Barbara Wertheim Tuchman
+    translators:
       - Fanli Yao
       - Jianmin Lei
       - Shuihua Wu

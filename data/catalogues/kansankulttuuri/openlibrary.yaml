@@ -43,6 +43,7 @@ titles:
     subtitle: Romaani
     authors:
       - Wanda Wasilewska
+    translators:
       - Leo Schulgin
     year: 1945
     language: Finnish
@@ -394,6 +395,7 @@ titles:
     subtitle: Utopistinen romaani
     authors:
       - Stanisław Lem
+    translators:
       - Ilmari Raitakari
     year: 1960
     language: Finnish
@@ -435,6 +437,7 @@ titles:
   - title: Tukha ja timantti
     authors:
       - Jerzy Andrzejewski
+    translators:
       - Ake Lahtinen
     year: 1960
     language: Finnish
@@ -782,9 +785,11 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BD05217832
     verified: true
   - title: Pilvilammas
+    original_title: Das Wolkenschaf
     authors:
       - Fred Rodrian
       - Werner Klemke
+    translators:
       - Liisa Ryömä
     year: 1967
     language: German
@@ -842,6 +847,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=447441728
     verified: true
   - title: Etelä-Amerikka
+    original_title: Südamerika
     authors:
       - Fritz Hack
       - Max Kahane
@@ -1023,6 +1029,7 @@ titles:
   - title: Sosiologian peruskäsitteet
     authors:
       - Jan Szczepański
+    translators:
       - Matti Koskelo
     year: 1970
     language: Finnish
@@ -1155,6 +1162,8 @@ titles:
       - Erkki Piironen
       - Veikko Kansikas
       - 'Martti Valta. Piirrokset: Aune Kämäräinen'
+    editors:
+      - Esko Vainionpää
     year: 1972
     language: Finnish
     pages: 170
@@ -1292,8 +1301,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/011803869
     verified: true
   - title: Suomen 1900-luvun alun kirjallisuus
+    original_title: Otserki finskoj literatury natsala XX veka
     authors:
       - Ėjno G. Karchu
+    translators:
+      - Ulla-Liisa Heino
     year: 1973
     language: Finnish
     sources:
@@ -1665,6 +1677,7 @@ titles:
         url: https://lccn.loc.gov/77575108
     verified: true
   - title: Sateenhaltijatar
+    original_title: Die Regentrude
     authors:
       - Theodor Storm
       - Jan Kudláček
@@ -1689,6 +1702,7 @@ titles:
   - title: Sosiologian peruskäsitteet
     authors:
       - Jan Szczepański
+    translators:
       - Matti Koskelo
     year: 1976
     language: Finnish
@@ -1757,8 +1771,10 @@ titles:
         url: https://lccn.loc.gov/78366649
     verified: true
   - title: Dostojevski ja Suomen kirjallisuus
+    original_title: Dostojevski i finskaja literatura
     authors:
       - Eino Karhu
+    translators:
       - Ulla-Liisa Heino
     year: 1977
     language: Finnish
@@ -2247,6 +2263,7 @@ titles:
   - title: Kilpajuoksu Isä Jumalan kanssa
     authors:
       - Hanna Krall
+    translators:
       - Liisa Ryömä
     year: 1983
     language: Finnish
@@ -2344,6 +2361,7 @@ titles:
   - title: Lepakon aika
     authors:
       - Wiesław Górnicki
+    translators:
       - Unto Järvinen
     year: 1985
     language: Finnish
@@ -2392,6 +2410,7 @@ titles:
   - title: Digedagit New Orleansissa
     authors:
       - Hannes Hegen
+    translators:
       - Pirkko Mankki
     year: 1986
     language: German

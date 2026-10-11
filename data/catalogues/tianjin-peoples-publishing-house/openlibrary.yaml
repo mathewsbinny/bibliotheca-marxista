@@ -4091,6 +4091,8 @@ titles:
     verified: true
   - title: Hai he zhan ge
     authors: []
+    editors:
+      - Tianjin ren min chu ban she
     year: 1973
     language: Chinese
     sources:
@@ -5446,6 +5448,8 @@ titles:
   - title: Zu guo jin xiu he shan
     authors:
       - Chen Xiechuan
+    editors:
+      - Renmin-Chubanshe
     year: 1975
     language: Chinese
     pages: 200
@@ -6966,10 +6970,11 @@ titles:
     verified: true
   - title: Lu Xun zao qi wu pian lun wen zhu yi
     authors:
-      - Wang Shijing
-      - 士菁 王
       - Yang Jiyun
       - 杨霁云
+    translators:
+      - Wang Shijing
+      - 士菁 王
     year: 1978
     language: Chinese
     sources:
@@ -8742,6 +8747,8 @@ titles:
   - title: Gu dai Han yu
     authors:
       - Zhu Xing
+    editors:
+      - 星 朱
     year: 1980
     edition: Di 1 ban
     language: Chinese
@@ -9016,6 +9023,8 @@ titles:
   - title: Ming Qing shi zi liao
     authors:
       - Zheng Tianting
+    editors:
+      - Tian ting Zheng
     year: 1980
     edition: Di 1 ban
     language: Chinese
@@ -9324,6 +9333,8 @@ titles:
   - title: Yu yan yan jiu lun cong
     authors:
       - Wang Li
+    editors:
+      - Nankai-Daxue
     year: 1980
     language: Chinese
     sources:
@@ -9340,6 +9351,9 @@ titles:
   - title: Yue man tang du shu jian duan ji
     authors:
       - Li Ciming
+    editors:
+      - 王利器
+      - Wang Liqi
     year: 1980
     edition: Di 1 ban
     language: Chinese
@@ -10600,8 +10614,10 @@ titles:
         url: https://lccn.loc.gov/82170348
     verified: true
   - title: Niu meng zai liu wang zhong
+    original_title: The gadfly
     authors:
       - Ethel L. Voynich
+    translators:
       - Zhang Rengxun
     year: 1981
     language: Chinese
@@ -10901,9 +10917,11 @@ titles:
         url: https://www.sudoc.fr/121745945
     verified: true
   - title: Xian dai Zhong guo ren kou
+    original_title: Population in modern China
     series: She hui xue cong shu
     authors:
       - Chen Da
+    translators:
       - Liao Baoyun
     year: 1981
     language: Chinese
@@ -12337,6 +12355,8 @@ titles:
   - title: Ming Qing shi guo ji xue shu tao lun hui lun wen ji
     authors:
       - 'Ming Qing shi guo ji xue shu tao lun hui (1980 : Tianjin, China)'
+    editors:
+      - Ming-Qing-Shi-Guoji-Xueshu-Taolunhui-Mishuchu-Lunwenzu
     year: 1982
     edition: Di 1 ban
     language: Chinese
@@ -16082,6 +16102,8 @@ titles:
   - title: Zhong xue yu wen zhi shi shou ce
     authors:
       - Li Xingjian
+    editors:
+      - 行健 李
     year: 1984
     edition: Di 1 ban
     language: Chinese
@@ -16118,6 +16140,9 @@ titles:
   - title: Zhongguo jin dai zhe xue shi lun wen ji
     authors:
       - Zhongguo she hui ke xue yuan. Zhongguo zhe xue shi yan jiu shi
+    editors:
+      - Zhongguo she hui ke xue yuan
+      - '"Zhongguo zhe xue shi yan jiu" bian ji bu'
     year: 1984
     edition: Di 1 ban
     language: Chinese
@@ -18805,6 +18830,7 @@ titles:
     series: Wai guo ming ren zhuan ji
     authors:
       - Louis Antoine Fauvelet de Bourrienne
+    translators:
       - Yu Fei
     year: 1986
     language: Chinese
@@ -20111,6 +20137,8 @@ titles:
     verified: true
   - title: Han ying ke ji ci hui da quan
     authors: []
+    editors:
+      - Wang Tong yi
     year: 1987
     language: Multiple languages
     sources:
@@ -21278,6 +21306,9 @@ titles:
   - title: Wu Han xuan ji
     authors:
       - Wu Han
+    editors:
+      - Su Shuangbi
+      - Wáng Hóng Zhì
     year: 1988
     edition: Di 1 ban
     language: Chinese
@@ -23624,6 +23655,7 @@ titles:
       - Angelika Bartram
       - Jan-Uwe Rogge
       - Annette Swoboda
+    translators:
       - Zhu Xianliang
     language: Not recorded
     sources:
@@ -23634,6 +23666,8 @@ titles:
     authors:
       - Xie Wenqing
       - Hui Sun
+    editors:
+      - Sun Hui
     language: Chinese
     isbn: '7201035738'
     sources:
@@ -23648,6 +23682,7 @@ titles:
     authors:
       - Dietlof Reiche
       - Joe Cepeda
+    translators:
       - Du Fengfeng
     language: Not recorded
     sources:
@@ -23684,6 +23719,8 @@ titles:
     verified: false
   - title: Zhong guo xian dai wen xue shu kan zi liao cong shu
     authors: []
+    editors:
+      - Huang mei Chen
     language: Chinese
     sources:
       - title: BnF catalogue record cb39931760t

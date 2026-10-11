@@ -165,6 +165,8 @@ titles:
     subtitle: A Selection with Commentary and Notes
     authors:
       - Karl Marx
+    translators:
+      - Dona Torr
     year: 1936
     edition: New ed
     series: The Marxist-Leninist Library -- Vol.9
@@ -318,6 +320,8 @@ titles:
     subtitle: '1917'
     authors:
       - Vladimir Il’ich Lenin
+    editors:
+      - Joseph Fineberg
     year: 1936
     series: V.I. Lenin Selected Works -- VI
     language: English
@@ -821,6 +825,8 @@ titles:
   - title: The Ascent of Mount Stalin
     authors:
       - Mi khai l Davi dovi ch Romm
+    translators:
+      - Alec Brown
     year: 1936
     language: English
     pages: 270
@@ -841,6 +847,7 @@ titles:
         url: https://www.gateway-bayern.de/BV011945481
     verified: true
     subtitle: Romm, Michail [Davidovič]; by Michael Romm. Transl. By Alec Brown
+    original_title: Šturm pika Stalina
     date_note: '1936-01-01'
     links:
       - label: Borrow (Internet Archive)
@@ -1362,6 +1369,11 @@ titles:
     subtitle: Selected Writings
     authors:
       - Denis Diderot
+    translators:
+      - Jean Stewart
+      - Jonathan Kemp. Edited
+      - With An Introduction
+      - Jonathan Kemp
     year: 1937
     language: English
     pages: 358
@@ -1386,6 +1398,8 @@ titles:
     subtitle: A Collective Study Prepared Under the Guidance of Benjamin I. Weitz
     authors:
       - Benjamin I. Weitz
+    translators:
+      - Leonard E. Mins
     year: 1937
     language: English
     sources:
@@ -1405,6 +1419,7 @@ titles:
     subtitle: A Collective Study
     authors:
       - Benjamin I. Weitz
+    translators:
       - Leonard E. Mins
     year: 1937
     language: English
@@ -1890,6 +1905,7 @@ titles:
         url: https://lccn.loc.gov/38038708
     verified: true
   - title: The History of the Civil War in the U. S. S. R.
+    original_title: Istorii︠a︡ grazhdanskoĭ voĭny v SSSR
     authors:
       - Maksim Gorkii (Максим Горький)
     year: 1937
@@ -1982,6 +1998,8 @@ titles:
     subtitle: 1918-1920
     authors:
       - Vladimir Il’ich Lenin
+    editors:
+      - Joseph Fineberg
     year: 1937
     series: V.I. Lenin Selected Works -- VIII
     language: English
@@ -2192,6 +2210,8 @@ titles:
   - title: Biology and Marxism
     authors:
       - Marcel Prenant
+    translators:
+      - Desmond Greaves
     year: 1938
     language: English
     pages: 223
@@ -2420,6 +2440,8 @@ titles:
   - title: Son of the People
     authors:
       - Maurice Thorez
+    translators:
+      - Douglas Garman
     year: 1938
     language: English
     pages: 237
@@ -2467,6 +2489,8 @@ titles:
   - title: The Civil War in the United States
     authors:
       - Karl Marx
+    editors:
+      - Richard Enmale
     year: 1938
     language: English
     pages: 325
@@ -2644,6 +2668,8 @@ titles:
     subtitle: A Record of English Democracy Through Twelve Centuries
     authors:
       - Jack Lindsay
+    editors:
+      - Edgell Rickword
     year: 1939
     language: English
     pages: 408
@@ -2937,8 +2963,11 @@ titles:
         url: https://d-nb.info/1060521245
     verified: true
   - title: The Real Rulers of Germany
+    original_title: Die wahren Herren Deutschlands
     authors:
       - Albert Norden
+    translators:
+      - Charles Ashleigh
     year: 1939
     language: English
     pages: 230
@@ -3075,6 +3104,8 @@ titles:
     subtitle: A Symposium
     authors:
       - Richard Sir Acland
+    editors:
+      - Richard Acland
     year: 1939
     language: English
     pages: 160
@@ -3161,8 +3192,11 @@ titles:
         url: https://search.worldcat.org/title/843252604
     verified: true
   - title: Dialectics of Nature
+    original_title: Dialektik der Natur
     authors:
       - Friedrich Engels
+    translators:
+      - Clemens Palme Dutt
     year: 1940
     language: English
     pages: 383
@@ -3317,6 +3351,7 @@ titles:
         url: https://search.worldcat.org/title/5380509
     verified: true
     subtitle: Transl. from the Russian
+    original_title: Voprosy leninizma
     pages: 667
   - title: Marxism, Nationality and War
     subtitle: A Text-Book in Two Parts
@@ -3822,6 +3857,8 @@ titles:
   - title: A Socialist and War, 1914-1916
     authors:
       - James Connolly
+    editors:
+      - P. J. Musgrove
     year: 1941
     language: English
     pages: 125
@@ -4029,8 +4066,11 @@ titles:
       - label: Read or download (Internet Archive)
         url: https://archive.org/details/dialectical-historical-metarlism-j-stalin
   - title: Dialectics of Nature
+    original_title: Dialektik der Natur
     authors:
       - Friedrich Engels
+    translators:
+      - Clemes Palme Dutt
     year: 1941
     series: The Marxist-Leninist Library -- 19
     language: English
@@ -4667,6 +4707,9 @@ titles:
   - title: The Origin of the Family, Private Property and the State, in the Light of the Researches of Lewis H. Morgan
     authors:
       - Friedrich Engels
+    translators:
+      - Alick West
+      - Dona Torr
     year: 1941
     language: English
     pages: 216
@@ -5274,6 +5317,8 @@ titles:
   - title: Memories of Lenin (1893-1917)
     authors:
       - N. K. Krupskaya
+    translators:
+      - Eric Verney
     year: 1942
     series: Worker's Library
     language: English
@@ -5383,6 +5428,7 @@ titles:
     verified: true
   - title: Political Economy
     subtitle: A Beginners' Course
+    original_title: Partizdat
     authors:
       - Lev Abramovič Leontʹev
     year: 1942
@@ -5431,6 +5477,8 @@ titles:
   - title: Selected Works
     authors:
       - Karl Marx
+    editors:
+      - Vladimir Viktorovič Adoratskij
     year: 1942
     language: English
     sources:
@@ -5913,11 +5961,13 @@ titles:
     verified: true
   - title: Herr Eugen Dühring's Revolution in Science
     subtitle: (Anti-Dühring)
+    original_title: Herrn Eugen Dühring's Umwälzung der Wissenschaft
     series: The Marxist-Leninist Library; Vol. 1
     authors:
       - Friedrich Engels
-      - Emile Burns
       - C. P. Dutt
+    translators:
+      - Emile Burns
     year: 1943
     language: English
     sources:
@@ -6281,6 +6331,9 @@ titles:
   - title: The Origin of the Family, Private Property and the State
     authors:
       - Friedrich Engels
+    translators:
+      - Alick West
+      - Dona Torr
     year: 1943
     series: The Marxist-Leninist Library
     language: English
@@ -6861,6 +6914,12 @@ titles:
   - title: Essays on the French Revolution
     authors:
       - William Zak
+    editors:
+      - T. A. Jackson
+    translators:
+      - William Zak from Cahiers du communisme 1939. Edited
+      - With An Introduction
+      - T. A. Jackson
     year: 1945
     language: English
     pages: 211
@@ -6918,6 +6977,8 @@ titles:
     subtitle: A Beginner's Course
     authors:
       - A. Leontʹev
+    editors:
+      - Elizabeth Donnelly
     year: 1945
     language: English
     sources:
@@ -6927,6 +6988,8 @@ titles:
   - title: Selected Works
     authors:
       - Karl Marx
+    editors:
+      - Clemens Palme Dutt
     year: 1945
     language: English
     sources:
@@ -7695,6 +7758,8 @@ titles:
     subtitle: The Development of the Monist View of History
     authors:
       - Georgiĭ Valentinovich Plekhanov
+    translators:
+      - Andrew Rothstein
     year: 1947
     language: English
     pages: 303
@@ -7725,8 +7790,10 @@ titles:
         url: https://archive.org/details/dli.ernet.234281
   - title: In Defense Materialism
     subtitle: The Development of the Monist View of History
+    original_title: K voprosu o razvitii monističeskogo vzglâda na istoriû
     authors:
       - Georges Plekhanov
+    translators:
       - Andrew Rothstein
     year: 1947
     language: English
@@ -8130,6 +8197,7 @@ titles:
         url: https://www.sudoc.fr/10688218X
     verified: true
   - title: A People's History of England
+    original_title: People's history of England
     authors:
       - A. L. Morton
     year: 1948
@@ -8325,6 +8393,7 @@ titles:
       - label: Read or download (Internet Archive)
         url: https://archive.org/details/in.ernet.dli.2015.131161
   - title: One Step Forward, Two Steps Back
+    original_title: Один шаг вперед, два шага назад
     authors:
       - Vladimir Il’ich Lenin
     year: 1948
@@ -8884,6 +8953,7 @@ titles:
         url: https://archive.org/details/in.ernet.dli.2015.68153
   - title: Æschylus and Athens
     subtitle: A Study in the Social Origins of Drama
+    original_title: Aeschylus and Athens
     authors:
       - George Derwent Thomson
       - Lawrence & Wishart (Londyn)
@@ -9159,6 +9229,10 @@ titles:
   - title: On Literature, Music and Philosophy
     authors:
       - Andreĭ Aleksandrovich Zhdanov
+    translators:
+      - Eleanor Fox
+      - Stella Jackson
+      - Harold C. Feldt
     year: 1950
     language: English
     pages: 112
@@ -9599,6 +9673,8 @@ titles:
     subtitle: Articles from the New York Daily Tribune
     authors:
       - Karl Marx
+    editors:
+      - Dona Torr
     year: 1951
     language: English
     pages: 98
@@ -9864,6 +9940,8 @@ titles:
     subtitle: A Selection from the Volumes Published Between 1905 and 1910 as Theorien Über den Mehrwert
     authors:
       - Karl Marx
+    translators:
+      - G. A.
     year: 1951
     language: English
     pages: 432
@@ -9897,6 +9975,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991003024279705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Thirty Years of the Communist Party of China, an Outline History
+    original_title: Chung-kuo kung ch'an tang ti san shih nien
     authors:
       - Qiaomu Hu
     year: 1951
@@ -10047,6 +10126,8 @@ titles:
     subtitle: Ballads and Songs of the Coalfields
     authors:
       - A. L. Lloyd
+    editors:
+      - Albert A. Lloyd
     year: 1952
     language: English
     pages: 143
@@ -10517,6 +10598,12 @@ titles:
   - title: Art and Social Life
     authors:
       - Georgiĭ Valentinovich Plekhanov
+    editors:
+      - Andrew Rothstein
+    translators:
+      - Eric Hartley Eleanor Fox
+      - Jack Lindsay!
+      - Andrew Rothstein
     year: 1953
     language: English
     pages: 235
@@ -10716,6 +10803,8 @@ titles:
     subtitle: Selections from the Writings of Marx and Engels Dealing with the Theories of Thomas Robert Malthus
     authors:
       - Karl Marx
+    translators:
+      - Dorothea L. Meek
     year: 1953
     language: English
     pages: 190
@@ -11115,8 +11204,14 @@ titles:
     verified: false
   - title: Capital
     subtitle: A Critical Analysis of Capitalist Production
+    original_title: Das Kapital
     authors:
       - Karl Marx
+    editors:
+      - Friedrich Engels
+    translators:
+      - Samuel Moore
+      - Edward Aveling
     year: 1954
     language: English
     sources:
@@ -11469,8 +11564,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991004442079705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Selectes Poems
+    original_title: Izbrani stichotvorenija
     authors:
       - Nikola Jonkov Vapcarov
+    translators:
       - Peter Tempest
     year: 1954
     language: English
@@ -11858,6 +11955,8 @@ titles:
     subtitle: A Biography
     authors:
       - Institut marksizma-leninizma (Moscow, Russia)
+    translators:
+      - Violet Dutt
     year: 1955
     language: English
     pages: 272
@@ -12200,6 +12299,9 @@ titles:
   - title: The Ninth Wave
     authors:
       - Ilya Erenburg (Илья́ Григо́рьевич Эренбу́рг)
+    translators:
+      - Tatiana Shebunina
+      - Joseph Castle
     year: 1955
     series: Library of Contemporary Soviet Novels
     language: English
@@ -12397,6 +12499,7 @@ titles:
     subtitle: A Critique of Political Economy
     authors:
       - Karl Marx
+    translators:
       - Friedrich Engels
     year: 1956
     language: English
@@ -12410,6 +12513,8 @@ titles:
   - title: Cavalier of the Gold Star
     authors:
       - Semen Babaevskii
+    translators:
+      - Ruth Kisch
     year: 1956
     series: Library of Contemporary Soviet Novels
     language: English
@@ -12603,8 +12708,11 @@ titles:
     verified: true
     subtitle: Toward a Scientific Psychology and Psychiatry
   - title: Peter the First
+    original_title: Пётр Первый
     authors:
       - Alexei Tolstoy
+    translators:
+      - Tatiana Shebunina
     year: 1956
     series: Library of Contemporary Soviet Novels
     language: English
@@ -12688,6 +12796,8 @@ titles:
   - title: Stories from Chukotka
     authors:
       - Ritkheyu
+    translators:
+      - David Fry
     year: 1956
     series: Library of Contemporary Soviet Novels
     language: English
@@ -12805,6 +12915,8 @@ titles:
   - title: The Lost Letter, and Other Plays
     authors:
       - I. L. Caragiale
+    translators:
+      - Frida Knight
     year: 1956
     series: Library of Rumanian Literature
     language: English
@@ -13186,6 +13298,7 @@ titles:
       - Konstantin Georgievič Paustovskij
       - Vera Mihajlovna Inber
       - Mihail Mihaijlovič Prišvin
+    translators:
       - Tatiana Minorsky
     year: 1957
     language: English
@@ -13304,8 +13417,11 @@ titles:
     verified: true
   - title: Political Economy
     subtitle: A Textbook Issued by the Institute of Economics of the Academy of Sciences of the U.S.S.R.
+    original_title: Politicheskai︠a︡ ėkonomii︠a︡
     authors:
       - Institut ėkonomiki (Akademiia nauk SSSR)
+    editors:
+      - Clemens Palme Dutt
     year: 1957
     language: English
     pages: 858
@@ -13408,6 +13524,8 @@ titles:
     subtitle: And Other Writings
     authors:
       - Antonio Gramsci
+    translators:
+      - Louis Marks
     year: 1957
     language: English
     pages: 192
@@ -13538,6 +13656,8 @@ titles:
   - title: Two Captains
     authors:
       - V. Kaverin
+    translators:
+      - Brian Pearce
     year: 1957
     series: Library of Contemporary Soviet Novels
     language: English
@@ -14163,8 +14283,11 @@ titles:
     verified: true
   - title: A Theory of the Origin of the Earth
     subtitle: Four Lectures
+    original_title: Četyre Lekcii o teorii proischoždenija zemli
     authors:
       - Otto IUlʹevich Shmidt
+    translators:
+      - George H. Hanna
     year: 1959
     edition: 3d ed. / translated from the Russian by George H. Hanna
     language: English
@@ -14186,6 +14309,8 @@ titles:
   - title: A Theory of the Origin of the Earth, [ @, Four Lectures by Otto Schmidt. Translated from the Russian by George H. Hanna]
     authors:
       - Otto Ûlʹevič Šmidt
+    translators:
+      - George H. Hanna
     year: 1959
     language: English
     sources:
@@ -14234,8 +14359,10 @@ titles:
         url: https://archive.org/details/arabdawn0000russ
   - title: Capital
     subtitle: A Critique of Political Economy
+    original_title: Kapital
     authors:
       - Karl Marx
+    translators:
       - Friedrich Engels
     year: 1959
     language: English
@@ -14299,6 +14426,8 @@ titles:
   - title: Dmitry Shostakovich
     authors:
       - D. Rabinovich
+    translators:
+      - George Hanna
     year: 1959
     language: English
     pages: 165
@@ -14327,6 +14456,7 @@ titles:
         url: https://search.worldcat.org/title/21934270
     verified: true
     subtitle: Composer
+    original_title: Dmitrij Sostakovic
     date_note: '1959-01-01'
   - title: Economic and Philosophic Manuscripts of 1844
     authors:
@@ -14418,6 +14548,8 @@ titles:
   - title: Notes of a Film Director
     authors:
       - Sergei Eisenstein
+    translators:
+      - X. Danko
     year: 1959
     language: English
     pages: 207
@@ -14580,6 +14712,8 @@ titles:
   - title: The Real Rulers of Germany
     authors:
       - Hans Behrend
+    translators:
+      - C. Ashleigh
     year: 1959
     language: English
     sources:
@@ -14628,6 +14762,8 @@ titles:
     subtitle: A Survey of Modern Solar Physics
     authors:
       - Andreĭ Borisovich Severnyĭ
+    translators:
+      - G. Yankovsky
     year: 1959
     language: English
     pages: 173
@@ -14834,6 +14970,8 @@ titles:
   - title: Dmitry Shostakovich
     authors:
       - David Rabinovich
+    translators:
+      - George Hanna
     year: 1960
     language: English
     pages: 166
@@ -15996,6 +16134,10 @@ titles:
   - title: Collected Works
     authors:
       - Vladimir Il’ich Lenin
+    editors:
+      - Clemens Dutt
+    translators:
+      - Abraham Fineberg
     year: 1962
     language: English
     sources:
@@ -16311,6 +16453,8 @@ titles:
     subtitle: '[Essays]'
     authors:
       - Adam Schaff
+    translators:
+      - Jack Lindsay
     year: 1963
     language: English
     pages: 139
@@ -16507,6 +16651,8 @@ titles:
     subtitle: Twenty-Five Years of Objective Study of the Higher Nervous Activity (Behaviour) of Animals
     authors:
       - I. P. Pavlov
+    editors:
+      - William Andrew Horsley Gantt
     year: 1963
     language: English
     pages: 22
@@ -16639,6 +16785,8 @@ titles:
   - title: Spain, 1936-1939
     authors:
       - Jose Sandoval
+    translators:
+      - Nan Green
     year: 1963
     language: English
     pages: 149
@@ -16943,8 +17091,13 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991041453299705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Pre-capitalist Economic Formations
+    original_title: Formen, die der kapitalistichen Produktion vorhergehen
     authors:
       - Karl Marx
+    editors:
+      - Eric J. Hobsbawm
+    translators:
+      - Jack Cohen
     year: 1964
     language: English
     pages: 153
@@ -17739,6 +17892,9 @@ titles:
   - title: The Hussite Movement in Bohemia
     authors:
       - Josef Macek
+    translators:
+      - Vilém Fried
+      - Ian Milner
     year: 1965
     language: English
     pages: 123
@@ -18321,6 +18477,8 @@ titles:
   - title: The Last Memoirs
     authors:
       - William Gallacher
+    editors:
+      - Nan Green
     year: 1966
     language: English
     pages: 320
@@ -18350,6 +18508,8 @@ titles:
     subtitle: '[Edited and Prepared for the Press by Nan Green]'
     authors:
       - William Gallacher
+    editors:
+      - Nan Green
     year: 1966
     language: English
     pages: 320
@@ -18490,6 +18650,7 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/in.ernet.dli.2015.68153
   - title: Aims and Methods of Soviet Planning
+    original_title: Očerki po metodologii i metodike
     authors:
       - Michail Z. Bor
     year: 1967
@@ -18664,6 +18825,8 @@ titles:
     subtitle: A Bibliography of English Language Works
     authors:
       - Lionel M. Munby
+    editors:
+      - Ernst Wangermann
     year: 1967
     language: English
     pages: 62
@@ -18982,6 +19145,8 @@ titles:
   - title: Collected Works [of] V.I. Lenin
     authors:
       - Vladimir Il’ich Lenin
+    translators:
+      - Clemens Dutt
     year: 1968
     language: English
     pages: 841
@@ -19213,6 +19378,8 @@ titles:
     subtitle: The Evolution of His Thought
     authors:
       - Roger Garaudy
+    translators:
+      - Nan Apotheker
     year: 1968
     language: English
     pages: 223
@@ -19245,6 +19412,8 @@ titles:
     subtitle: Articles from the New York Daily Tribune
     authors:
       - Karl Marx
+    editors:
+      - Dona Torr
     year: 1968
     edition: '[1st ed.] reprinted'
     language: English
@@ -19563,8 +19732,13 @@ titles:
         url: https://archive.org/details/raggedtrouseredp00tresuoft
   - title: The Role of Force in History
     subtitle: A Study of Bismarck's Policy of Blood and Iron
+    original_title: Die Rolle der Gewalt in der Geshichte
     authors:
       - Friedrich Engels
+    editors:
+      - Ernst Wangermann
+    translators:
+      - Jack Cohen
     year: 1968
     language: English
     pages: 108
@@ -19597,6 +19771,10 @@ titles:
   - title: The Role of Force in History [Die Rolle der Gewalt in der Geschichte], a Study of Bismarck's Policy of Blood and Iron. Translated by Jack Cohen. Edited and with an Introduction by Ernst Wangermann
     authors:
       - Friedrich Engels
+    editors:
+      - Ernst Wangermann
+    translators:
+      - Jack Cohen
     year: 1968
     language: English
     sources:
@@ -19776,6 +19954,8 @@ titles:
   - title: Collected Works
     authors:
       - Vladimir Il’ich Lenin
+    translators:
+      - B. Isaacs
     year: 1969
     date_note: October 1969
     language: Not recorded
@@ -19840,6 +20020,8 @@ titles:
   - title: Fundamental Problems of Marxism
     authors:
       - Georgiĭ Valentinovich Plekhanov
+    translators:
+      - Julius Katzer
     year: 1969
     language: English
     pages: 117
@@ -19864,6 +20046,7 @@ titles:
         url: https://www.gateway-bayern.de/BV021740982
     verified: true
     subtitle: 'With an Appendix of His Essays: The Materialist Conception of History, the Role of the Individual in History'
+    original_title: Osnovnye voprosy marksizma
     isbn: '0853153175'
     links:
       - label: Borrow (Internet Archive)
@@ -19876,6 +20059,8 @@ titles:
     subtitle: Revolution and Counter-revolution, by Friedrich Engels with the Collaboration of Karl Marx
     authors:
       - Friedrich Engels
+    editors:
+      - Eleanor Marx
     year: 1969
     language: English
     sources:
@@ -19891,6 +20076,8 @@ titles:
   - title: 'Germany: Revolution and Counter-revolution'
     authors:
       - Friedrich Engels
+    editors:
+      - Eleanor (Marx) Aveling
     year: 1969
     language: English
     pages: 155
@@ -20024,6 +20211,8 @@ titles:
   - title: 'Ho Chi Minh: Selected Articles and Speeches, 1920-1967'
     authors:
       - Hồ Chí Minh
+    editors:
+      - Jack Woddis
     year: 1969
     language: English
     pages: 172
@@ -20040,8 +20229,10 @@ titles:
     verified: true
   - title: Philosophy of World Revolution
     subtitle: A Contribution to an Anthology of Theories of Revolution
+    original_title: Philosophie der Weltrevolution
     authors:
       - Franz Marek
+    translators:
       - Daphne Simon
     year: 1969
     language: English
@@ -20342,8 +20533,11 @@ titles:
       - label: Read or download (Internet Archive)
         url: https://archive.org/details/LifeIdeasRobertOwen
   - title: The Twelve Lays of the Gipsy
+    original_title: Ho dōdekalogos tu gyphtu <engl.>
     authors:
       - Kostis Palamas
+    translators:
+      - George Derwent Thomson
     year: 1969
     language: English
     pages: 146
@@ -20358,6 +20552,8 @@ titles:
   - title: The Twelve Lays of the Gypsy
     authors:
       - Kōstēs Palamas
+    translators:
+      - George Derwent Thomson
     year: 1969
     language: English
     sources:
@@ -20375,6 +20571,8 @@ titles:
   - title: Theories of Surplus Value
     authors:
       - Karl Marx
+    translators:
+      - Renate Simpson
     year: 1969
     language: English
     sources:
@@ -20501,6 +20699,9 @@ titles:
     subtitle: A Critique of Political Economy
     authors:
       - Karl Marx
+    translators:
+      - Samuel Moore
+      - Edward Aveling
     year: 1970
     language: English
     sources:
@@ -20724,6 +20925,8 @@ titles:
   - title: Memories of Lenin
     authors:
       - N. K. Krupskaya
+    translators:
+      - E. Verney
     year: 1970
     language: English
     pages: 318
@@ -20757,6 +20960,7 @@ titles:
   - title: Problems of Socialism Today
     authors:
       - Santiago Carrillo
+    translators:
       - Nan Green
       - A. M. Elliott
     year: 1970
@@ -20837,8 +21041,11 @@ titles:
         url: https://archive.org/details/englishrevolution1640
   - title: The German Ideology
     subtitle: Part One with Selections from Parts Two and Three, Together with Marx's "Introduction to a Critique of Political Economy"; Edited and with Introduction by C.J. Arthur
+    original_title: Die deutsche Ideologie
     authors:
       - Karl Marx
+    editors:
+      - Christopher John Arthur
     year: 1970
     language: English
     pages: 158
@@ -21021,8 +21228,13 @@ titles:
     verified: true
   - title: A Contribution to the Critique of Political Economy
     subtitle: With an Introd. By Maurice Dobb
+    original_title: Zur Kritik der politischen Ökonomie
     authors:
       - Karl Marx
+    editors:
+      - Maurice Dobb
+    translators:
+      - S. W. Ryazanskaya
     year: 1971
     language: English
     pages: 263
@@ -21173,6 +21385,8 @@ titles:
     subtitle: An Outline History of the Irish Struggle for National Freedom and Independence
     authors:
       - T. A. Jackson
+    editors:
+      - C. Desmond Greaves
     year: 1971
     edition: '[1st ed. reprinted]; edited and with an epilogue by C. Desmond Greaves'
     language: English
@@ -22027,6 +22241,8 @@ titles:
     subtitle: A Compilation of Writings by William Godwin ... (Et Al)
   - title: The Radical Tradition in Education in Britain, a Compilation of Writings by William Godwin, Thomas Paine, Robert Owen, Richard Carlile... [Etc.]; Edited and with Introduction by Brian Simon
     authors: []
+    editors:
+      - Brian Simon
     year: 1972
     language: English
     sources:
@@ -22077,6 +22293,10 @@ titles:
   - title: Theories of surplus value
     authors:
       - Karl Marx
+    editors:
+      - S. Ryazanskaya
+      - Richard Milhous Nixon
+    translators:
       - Jack Cohen
     year: 1972
     language: German
@@ -22210,6 +22430,7 @@ titles:
     authors:
       - Karl Marx
       - Dirk Jan Struik
+    translators:
       - Martin Milligan
     year: 1973
     language: English
@@ -22398,6 +22619,8 @@ titles:
     authors:
       - William Morris
       - Arthur L. Morton
+    editors:
+      - Arthur Leslie Morton
     year: 1973
     language: English
     sources:
@@ -22409,6 +22632,8 @@ titles:
   - title: Political Writings of William Morris
     authors:
       - William Morris
+    editors:
+      - Arthur L. Morton
     year: 1973
     language: English
     pages: 248
@@ -22712,9 +22937,13 @@ titles:
     verified: true
   - title: Capital
     subtitle: A Critique of Political Economy
+    original_title: Der Gesamtprozess der kapitalistischen Produktion
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
+      - Samuel Moore
+      - Edward Bibbins Aveling
     year: 1974
     language: English
     sources:
@@ -23014,6 +23243,8 @@ titles:
   - title: The German Ideology
     authors:
       - Karl Marx
+    editors:
+      - Christopher John Arthur
     year: 1974
     edition: Students ed
     language: English
@@ -23249,6 +23480,8 @@ titles:
   - title: Art and Revolution
     authors:
       - David Alfaro Siqueiros
+    translators:
+      - Sylvia Calles
     year: 1975
     language: English
     sources:
@@ -23277,6 +23510,7 @@ titles:
   - title: Brecht as They Knew Him
     authors:
       - Hubert Witt
+    translators:
       - John Peet
     year: 1975
     language: English
@@ -23384,6 +23618,8 @@ titles:
   - title: Culture and Socialist Democracy
     authors:
       - György Aczél
+    translators:
+      - Gyula Gulyas
     year: 1975
     language: English
     sources:
@@ -24004,6 +24240,8 @@ titles:
   - title: Dialogue on Spain
     authors:
       - Régis Debray
+    translators:
+      - A. M. Elliott
     year: 1976
     language: English
     pages: 222
@@ -24464,8 +24702,11 @@ titles:
       - label: Free ebook (Project Gutenberg)
         url: https://www.gutenberg.org/ebooks/3608
   - title: The Stalin Phenomenon
+    original_title: Histoire du phénomène Stalinien
     authors:
       - Jean Elleinstein
+    translators:
+      - Peter Latham
     year: 1976
     language: English
     pages: 221
@@ -24528,6 +24769,8 @@ titles:
     subtitle: Selections from "the Calendar of Modern Letters", 1925-7
     authors:
       - Frank Raymond Leavis
+    editors:
+      - F. F. Leavis
     year: 1976
     language: English
     pages: 200
@@ -24636,6 +24879,7 @@ titles:
         url: https://www.gateway-bayern.de/BV021968382
     verified: true
   - title: A Contribution to the Critique of Political Economy
+    original_title: Zur Kritik der politischen Ökonomie
     authors:
       - Karl Marx
       - Maurice Herbert Dobb
@@ -24799,6 +25043,7 @@ titles:
       - label: Read or download (Internet Archive)
         url: https://archive.org/details/dialectical-materialism-conforth
   - title: Dialogue on Spain
+    original_title: Demain l'Espagne
     authors:
       - Santiago Carrillo
       - Régis Debray
@@ -24988,6 +25233,9 @@ titles:
     subtitle: The Communist University of London
     authors:
       - Communist University of London 1976
+    editors:
+      - Jon Bloomfield
+      - Richard Gunn
     year: 1977
     language: English
     pages: 125
@@ -25028,8 +25276,9 @@ titles:
   - title: Selections from Political Writings
     authors:
       - Antonio Gramsci
-      - John Mathews
       - Quintin Hoare
+    translators:
+      - John Mathews
     year: 1977
     language: English
     sources:
@@ -25041,6 +25290,8 @@ titles:
   - title: Selections from Political Writings (1910-1920)
     authors:
       - Antonio Gramsci
+    translators:
+      - John Mathews
     year: 1977
     language: English
     pages: 393
@@ -25219,6 +25470,7 @@ titles:
         url: https://archive.org/details/conceptfreedomcaudwell
   - title: The Condition of the Working-Class in England
     subtitle: From Personal Observation and Authentic Sources
+    original_title: Die Lage der arbeitenden Klasse in England
     authors:
       - Friedrich Engels
     year: 1977
@@ -25442,8 +25694,10 @@ titles:
         url: https://archive.org/details/bwb_KU-791-305
     verified: false
   - title: ''' Eurocommunism'' and the State'
+    original_title: '"Eurocomunismo" y estado'
     authors:
       - Santiago Carrillo
+    translators:
       - Nan Green
       - A. M. Elliott
     year: 1978
@@ -25458,6 +25712,8 @@ titles:
     subtitle: 'Selections from Political Writings (1921-1926): With Additional Texts by Other Italian Communist Leaders'
     authors:
       - Antonio Gramsci
+    translators:
+      - Quintin Hoare
     year: 1978
     language: English
     pages: 516
@@ -25773,6 +26029,8 @@ titles:
     subtitle: Papers from the Communist University of London
     authors:
       - Communist University of London 1977
+    editors:
+      - Sally Hibbin
     year: 1978
     language: English
     pages: 143
@@ -25821,6 +26079,8 @@ titles:
     subtitle: Essays in Honour of a. L. Morton
     authors:
       - A. L. Morton
+    editors:
+      - Maurice Campbell Cornforth
     year: 1978
     language: English
     pages: 224
@@ -25876,6 +26136,7 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/in.ernet.dli.2015.220268
   - title: Rousseau and Marx
+    original_title: Rousseau e Marx e altri saggi di critica materialistica
     authors:
       - Galvano Della Volpe
       - John Fraser
@@ -25919,6 +26180,9 @@ titles:
   - title: Selections from Political Writings
     authors:
       - Antonio Gramsci
+    editors:
+      - Quintin Hoare
+    translators:
       - Quintin Hoare
     year: 1978
     language: English
@@ -26141,8 +26405,11 @@ titles:
     verified: false
   - title: Antonio Gramsci and the Party
     subtitle: The Prison Years
+    original_title: Gramsci in carcere e il partito
     authors:
       - Paolo Spriano
+    translators:
+      - John Fraser
     year: 1979
     language: English
     pages: 192
@@ -26236,6 +26503,8 @@ titles:
     subtitle: The Story of a Welsh Mining Valley
     authors:
       - Lewis Jones
+    editors:
+      - David Smith
     year: 1979
     language: English
     sources:
@@ -26605,8 +26874,11 @@ titles:
     verified: true
     date_note: '1979-05-01'
   - title: Thomas More and His Utopia
+    original_title: Thomas More und seine Utopie
     authors:
       - Karl Kautsky
+    translators:
+      - H. J. Stenning
     year: 1979
     language: English
     sources:
@@ -26845,6 +27117,8 @@ titles:
   - title: Essays on Realism
     authors:
       - Lukács György
+    translators:
+      - David Fernbach
     year: 1980
     language: English
     pages: 250
@@ -27128,6 +27402,8 @@ titles:
     subtitle: Three Studies in the Sociology of Art
     authors:
       - Max Raphael
+    translators:
+      - Inge Marcuse
     year: 1980
     language: English
     pages: 174
@@ -27205,6 +27481,9 @@ titles:
   - title: Selected Philosophical Works
     authors:
       - Georgiĭ Valentinovich Plekhanov
+    translators:
+      - K. M. Cook
+      - S. N. Syrovatkin
     year: 1980
     language: Not recorded
     pages: 783
@@ -27309,6 +27588,8 @@ titles:
     subtitle: The Story of a Welsh Mining Valley
     authors:
       - Lewis Jones
+    editors:
+      - David Smith
     year: 1980
     language: English
     sources:
@@ -27417,6 +27698,7 @@ titles:
     authors:
       - Max Raphael
       - John Tagg
+    translators:
       - Inge Marcuse
     year: 1981
     language: English
@@ -27444,6 +27726,8 @@ titles:
     subtitle: Contributions to the Communist University of London
     authors:
       - Communist University of London (12th 1980)
+    editors:
+      - George Bridges
     year: 1981
     language: English
     pages: 189
@@ -27704,6 +27988,8 @@ titles:
     subtitle: From the Middle Ages to Purcell
     authors:
       - Ernst Hermann Meyer
+    editors:
+      - Diana Poulton
     year: 1982
     edition: 2nd, rev. ed. / edited by the author and Diana Poulton
     language: English
@@ -28226,6 +28512,8 @@ titles:
   - title: The Left & the Erotic
     authors:
       - Eileen Phillips
+    editors:
+      - Phillips
     year: 1983
     language: Not recorded
     pages: 184
@@ -28459,6 +28747,8 @@ titles:
     subtitle: A Warning to England
     authors:
       - William Cobbett
+    editors:
+      - Denis Knight
     year: 1984
     language: English
     pages: 302
@@ -28548,6 +28838,8 @@ titles:
     subtitle: 'Orwell: Views from the Left'
     authors:
       - George Orwell
+    editors:
+      - Christopher Norris
     year: 1984
     language: English
     pages: 287
@@ -28690,6 +28982,8 @@ titles:
   - title: Political Writings of William Morris
     authors:
       - William Morris
+    editors:
+      - Arthur L. Morton
     year: 1984
     language: English
     pages: 259
@@ -29031,6 +29325,8 @@ titles:
   - title: Policing the Miners' Strike
     authors:
       - Robert Millar
+    editors:
+      - Ben Fine
     year: 1985
     language: English
     pages: 243
@@ -29095,8 +29391,13 @@ titles:
         url: https://catalog.hathitrust.org/Record/000664310
     verified: true
   - title: Selections from Cultural Writings
+    original_title: Sélections
     authors:
       - Antonio Gramsci
+    editors:
+      - David Anthony Forgacs
+    translators:
+      - William Boelhower
     year: 1985
     language: English
     pages: 448
@@ -29401,6 +29702,8 @@ titles:
     subtitle: Despatches from the Spanish Civil War
     authors:
       - Claud Cockburn
+    editors:
+      - James Pettifer
     year: 1986
     language: English
     pages: 208
@@ -29646,6 +29949,8 @@ titles:
     subtitle: Capitalism, Populism and Culture
     authors:
       - David Forgacs
+    editors:
+      - David Anthony Forgacs
     year: 1986
     language: English
     pages: 209
@@ -30052,6 +30357,9 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
+      - P. Ross
+      - B. Ross
     year: 1987
     language: English
     sources:
@@ -30687,6 +30995,8 @@ titles:
   - title: Selections from Political Writings
     authors:
       - Antonio Gramsci
+    translators:
+      - J. Matthews
     year: 1987
     language: English
     pages: 393
@@ -30822,6 +31132,8 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    editors:
+      - C. J. Arthur
     year: 1987
     edition: Student Ed edition
     language: English
@@ -30926,6 +31238,8 @@ titles:
   - title: Theory of Surplus Value
     authors:
       - Karl Marx
+    translators:
+      - E. Burns
     year: 1987
     language: English
     pages: 491
@@ -31372,8 +31686,11 @@ titles:
     pages: 192
     isbn: '0853156727'
   - title: The Middle East--war Without End?
+    original_title: Proche orient une guerre de cent ans. - Includes index
     authors:
       - Alain Gresh
+    translators:
+      - Simon Medaney with Henriette Bardel
     year: 1988
     language: English
     pages: 207
@@ -31998,6 +32315,8 @@ titles:
     subtitle: 'The British Communist Party and the Second World War: The Verbatim Record of the Central Committee Meetings of 25 September and 2-3 October 1939'
     authors:
       - Communist Party of Great Britain. Central Committee
+    editors:
+      - Francis King
     year: 1990
     language: English
     pages: 318
@@ -32121,6 +32440,8 @@ titles:
     subtitle: Selected Writings of A.L. Morton
     authors:
       - A. L. Morton
+    editors:
+      - Margot Heinemann
     year: 1990
     language: English
     pages: 352
@@ -32295,6 +32616,8 @@ titles:
     subtitle: The Working Class and Adult Education in the Twentieth Century
     authors:
       - Simon
+    editors:
+      - Brian Simon
     year: 1990
     language: English
     pages: 334
@@ -32364,6 +32687,8 @@ titles:
     subtitle: The Battle for the Marginals
     authors:
       - Gareth Smith
+    editors:
+      - Gareth Smyth
     year: 1991
     language: English
     pages: 159
@@ -32498,6 +32823,8 @@ titles:
   - title: Forged in Fire
     authors:
       - Bailey
+    editors:
+      - Victor Bailey
     year: 1991
     language: Not recorded
     pages: 384
@@ -32622,6 +32949,9 @@ titles:
     subtitle: The Case Against Censorship
     authors:
       - Feminists Against Censorship (Organization)
+    editors:
+      - Gillian Rodgerson
+      - Elizabeth Wilson
     year: 1991
     language: English
     pages: 79
@@ -32752,6 +33082,9 @@ titles:
   - title: Women's Voices from the Spanish Civil War
     authors:
       - Hubert Jim Fyrth
+    editors:
+      - Jim Fyrth
+      - Sally Alexander
     year: 1991
     language: English
     sources:
@@ -32771,6 +33104,9 @@ titles:
   - title: '"New Formations"'
     authors:
       - James Donald
+    editors:
+      - Erica Carter
+      - Jenny Taylor
     year: 1992
     language: Not recorded
     pages: 160
@@ -32893,6 +33229,8 @@ titles:
     subtitle: The History of the Fire Brigades Union
     authors:
       - Bailey
+    editors:
+      - Victor Bailey
     year: 1992
     language: English
     pages: 486
@@ -32987,6 +33325,8 @@ titles:
   - title: Marx's Capital
     authors:
       - Karl Marx
+    editors:
+      - Christopher J. Arthur
     year: 1992
     edition: A student ed
     language: English
@@ -33015,6 +33355,7 @@ titles:
       - label: Borrow (Internet Archive)
         url: https://archive.org/details/marxscapital0000marx
     subtitle: 'A Student Edition: An Edited and Abridged Version of the First Volume of Capital'
+    original_title: Das Kapital
     isbn: '0853157774'
   - title: Opting Out
     subtitle: Choice and the Future of Schools
@@ -33044,6 +33385,8 @@ titles:
     subtitle: Electoral Reform and British Politics
     authors:
       - G. Smyth
+    editors:
+      - Gareth Smyth
     year: 1992
     language: English
     pages: 170
@@ -33101,6 +33444,8 @@ titles:
   - title: The Black Insider
     authors:
       - Dambudzo Marechera
+    editors:
+      - Flora Veit-Wild
     year: 1992
     language: English
     sources:
@@ -33277,6 +33622,8 @@ titles:
   - title: Collected Works
     authors:
       - Karl Marx
+    translators:
+      - Rodney Livingstone
     year: 1993
     language: English
     sources:
@@ -33311,6 +33658,8 @@ titles:
     subtitle: Critical Responses to Government Policy
     authors:
       - Brian Simon
+    editors:
+      - Clyde Chitty
     year: 1993
     language: English
     pages: 181
@@ -33358,6 +33707,8 @@ titles:
     subtitle: The Government and the Economy, 1945-51
     authors:
       - Jim Fyrth
+    editors:
+      - Hubert Jim Fyrth
     year: 1993
     language: English
     pages: 282
@@ -33429,6 +33780,8 @@ titles:
     subtitle: Politics, Sexuality and Ethics
     authors:
       - David Oswell
+    editors:
+      - Victoria Harwood
     year: 1993
     language: English
     pages: 192
@@ -33660,6 +34013,8 @@ titles:
   - title: Vanley Burke, a Retrospective
     authors:
       - Vanley Burke
+    editors:
+      - Mark Sealy
     year: 1993
     language: English
     pages: 88
@@ -33716,6 +34071,8 @@ titles:
     subtitle: Lesbian, Gay, Bisexual Politics
     authors:
       - Joseph Bristow
+    editors:
+      - Anglia R. Wilson
     year: 1994
     language: English
     pages: 256
@@ -33972,6 +34329,8 @@ titles:
     authors:
       - Erica Carter
       - James Donald
+    editors:
+      - Judith Squires
     year: 1994
     language: English
     pages: 399
@@ -34021,8 +34380,11 @@ titles:
     verified: true
   - title: Trade Unions in the European Union
     subtitle: A Handbook
+    original_title: Gewerkschaften in den 12 EG-Ländern
     authors:
       - Wolfgang Lecher
+    translators:
+      - Pete Burgess
     year: 1994
     language: English
     pages: 296
@@ -34119,6 +34481,8 @@ titles:
     subtitle: Politics, Histories, Lives
     authors:
       - Sharon Rose
+    editors:
+      - Cris Stevens
     year: 1995
     language: English
     pages: 324
@@ -34135,6 +34499,8 @@ titles:
       - Erica Carter
       - James Donald
       - Judith Squires
+    editors:
+      - James Carter
     year: 1995
     language: English
     pages: 332
@@ -34167,6 +34533,10 @@ titles:
   - title: Further Selections from the Prison Notebooks
     authors:
       - Antonio Gramsci
+    editors:
+      - Derek Boothman
+    translators:
+      - Derek Boothman
     year: 1995
     language: English
     pages: 618
@@ -34207,6 +34577,8 @@ titles:
     subtitle: Culture and Society in Labour Britain, 1945-51
     authors:
       - Jim Fyrth
+    editors:
+      - Hubert Jim Fyrth
     year: 1995
     language: English
     pages: 320
@@ -34241,6 +34613,8 @@ titles:
     authors:
       - Pat Kirkham
       - Janet Thumin
+    editors:
+      - Janet Thumim
     year: 1995
     language: English
     pages: 296
@@ -34318,6 +34692,11 @@ titles:
     verified: true
   - title: Psychoanalysis and Culture (New Formations 26)
     authors: []
+    editors:
+      - Judith Squires
+      - James Donald
+      - Erica Carter
+      - Lesley Caldwell
     year: 1995
     language: English
     pages: 192
@@ -34646,6 +35025,10 @@ titles:
   - title: Heroes and Heroines ("Soundings")
     authors:
       - Jonathan Rutherford
+    editors:
+      - Stuart Hall
+      - Doreen Massey
+      - Michael Rustin
     year: 1996
     edition: Rev Ed edition
     language: Not recorded
@@ -34730,6 +35113,10 @@ titles:
   - title: Public Good ("Soundings")
     authors:
       - Will Hutton
+    editors:
+      - Stuart Hall
+      - Doreen Massey
+      - Michael Rustin
     year: 1996
     language: Not recorded
     pages: 192
@@ -34886,6 +35273,8 @@ titles:
   - title: The Urbanization of Injustice
     authors:
       - Andy Merrifield
+    editors:
+      - Erik Swyngedouw
     year: 1996
     language: English
     sources:
@@ -34905,6 +35294,11 @@ titles:
   - title: Universities and Their Communities
     subtitle: The Challenge for Lifelong Learning
     authors: []
+    editors:
+      - Jane Elliott
+      - Hywel Francis
+      - Rob Humphreys
+      - David Istance
     year: 1996
     language: English
     pages: 249
@@ -35127,6 +35521,10 @@ titles:
     authors:
       - Liffe Steve
       - Munro James
+    editors:
+      - Steve Iliffe
+      - James Munro
+      - James Munroe
     year: 1997
     language: English
     pages: 224
@@ -35267,6 +35665,10 @@ titles:
   - title: Media Worlds ("Soundings")
     authors:
       - Schwartz
+    editors:
+      - Stuart Hall
+      - Doreen Massey
+      - Michael Rustin
     year: 1997
     date_note: March 6, 1997
     language: Not recorded
@@ -35332,6 +35734,11 @@ titles:
   - title: Rising East
     authors:
       - '"The Journal of East London Studies"'
+    editors:
+      - Tim Butler
+      - Ruth Borthwick
+      - Vikki Rix
+      - Michael Rustin
     year: 1997
     language: Not recorded
     pages: 200
@@ -35447,6 +35854,9 @@ titles:
     series: Soundings; 7,special Issue
     authors:
       - Stuart Hall
+    editors:
+      - Doreen Barbara Massey
+      - Michael Rustin
     year: 1997
     language: English
     sources:
@@ -35599,6 +36009,9 @@ titles:
     isbn: '9780853158721'
   - title: Frontlines Backyards
     authors: []
+    editors:
+      - Bill Schwarz
+      - Phil Cohen
     year: 1998
     language: English
     sources:
@@ -35732,6 +36145,10 @@ titles:
   - title: Rising East
     authors:
       - '"The Journal of East London Studies"'
+    editors:
+      - Ruth Borthwick
+      - Vikki Rix
+      - Michael Rustin
     year: 1998
     language: Not recorded
     pages: 192
@@ -35768,6 +36185,9 @@ titles:
     subtitle: The Next Ten Years, Special Issue (Soundings)
     authors:
       - Stuart Hall
+    editors:
+      - Michael Rustin
+      - Doreen Massey
     year: 1998
     date_note: March 1998
     language: English
@@ -35781,6 +36201,10 @@ titles:
     subtitle: States of Africa, Issue 7 ("Soundings")
     authors:
       - Brittain
+    editors:
+      - Stuart Hall
+      - Rakiya Omaar
+      - Michael Rustin
     year: 1998
     language: English
     pages: 224
@@ -36005,6 +36429,8 @@ titles:
     subtitle: Selected Writings 1916-1935
     authors:
       - Antonio Gramsci
+    editors:
+      - David Anthony Forgacs
     year: 1999
     language: English
     pages: 447
@@ -36093,6 +36519,11 @@ titles:
   - title: Diana and Democracy (New Formations)
     authors:
       - Jeremy Gilbert
+    editors:
+      - David Glover
+      - Cora Kaplan
+      - Jenny Bourne Taylor
+      - Wendy Wheeler
     year: 1999
     language: English
     pages: 176
@@ -36209,6 +36640,8 @@ titles:
   - title: Renewal
     authors:
       - Thompson
+    editors:
+      - '"Journal of New Labour Politics"'
     year: 1999
     language: Not recorded
     isbn: '9780853159100'
@@ -36229,6 +36662,11 @@ titles:
     subtitle: No 2 (Rising East)
     authors:
       - '"The Journal of East London Studies"'
+    editors:
+      - Tim Butler
+      - Ruth Borthwick
+      - Vikki Rix
+      - Michael Rustin
     year: 1999
     language: Not recorded
     isbn: '9780853158882'
@@ -36279,6 +36717,10 @@ titles:
   - title: 'Soundings: Emotional Labour'
     subtitle: Issue 11 ("Soundings")
     authors: []
+    editors:
+      - Stuart Hall
+      - Michael Rustin
+      - Doreen Massey
     year: 1999
     language: English
     pages: 192
@@ -36632,9 +37074,12 @@ titles:
     verified: true
   - title: Rosa Luxemburg
     subtitle: An Intimate Portrait
+    original_title: Von Rosa Luxemburg und ihren Freunden in Krieg und Revolution, 1914-1919
     authors:
       - Mathilde Jacob
       - Rosa Luxemburg
+    translators:
+      - Hans Fernbach
     year: 2000
     language: English
     sources:
@@ -36669,6 +37114,9 @@ titles:
     verified: true
   - title: States of Mind ("Soundings")
     authors: []
+    editors:
+      - Stuart Hall
+      - Doreen Massey
     year: 2000
     language: Not recorded
     pages: 192
@@ -36750,6 +37198,10 @@ titles:
   - title: A Very British Affair ("Soundings")
     authors:
       - Hess
+    editors:
+      - Stuart Hall
+      - Doreen Massey
+      - Michael Rustin
     year: 2001
     language: English
     pages: 224
@@ -36825,6 +37277,11 @@ titles:
   - title: Civil Society 16
     authors:
       - Andreas Hess
+    editors:
+      - Stuart Hall
+      - Doreen Massey
+      - Michael Rustin
+      - Carole Satyamurti
     year: 2001
     date_note: October 2001
     language: English
@@ -36906,6 +37363,9 @@ titles:
     isbn: '9780853159278'
   - title: Critical Psychology (Critical Psychology Series)
     authors: []
+    editors:
+      - Michelle Fine
+      - Anita Harris
     year: 2001
     language: Not recorded
     pages: 192
@@ -36930,6 +37390,8 @@ titles:
     authors:
       - Timothy Bewes
       - Jeremy Gilbert
+    editors:
+      - Jeremy Bewes
     year: 2001
     language: English
     pages: 256
@@ -36948,6 +37410,8 @@ titles:
     authors:
       - Stephanie Donald
       - Harriet Evans
+    editors:
+      - Stephanie Hemelryk Donald
     year: 2001
     language: English
     pages: 157
@@ -37036,6 +37500,9 @@ titles:
     verified: true
   - title: Mobilities (New Formations)
     authors: []
+    editors:
+      - Tim Cresswell
+      - Scott McCracken
     year: 2001
     language: Not recorded
     isbn: '9780853159391'
@@ -37046,6 +37513,10 @@ titles:
   - title: New Political Directions ("Soundings")
     authors:
       - Hess
+    editors:
+      - Stuart Hall
+      - Doreen Massey
+      - Michael Rustin
     year: 2001
     language: English
     pages: 175
@@ -37109,6 +37580,9 @@ titles:
   - title: Soundings
     subtitle: Issue 14-One-Dimensional Politics (Soundings (New York University Press))
     authors: []
+    editors:
+      - Michael Rustin
+      - Wendy Wheeler
     year: 2001
     language: English
     pages: 192
@@ -37187,6 +37661,9 @@ titles:
     authors:
       - Vicky Lebeau Edited by Christine Clegg
       - Paul Myerscough
+    editors:
+      - Christine Clegg
+      - Vicky Lebeau
     year: 2001
     date_note: October 2001
     language: English
@@ -37268,6 +37745,10 @@ titles:
     verified: true
   - title: After Fanon (New Formations)
     authors: []
+    editors:
+      - Timothy Bewes
+      - Laura Chrisman
+      - Scott McCracken
     year: 2002
     date_note: October 31, 2002
     language: Not recorded
@@ -37414,6 +37895,10 @@ titles:
     verified: false
   - title: Monsters and Morals ("Soundings")
     authors: []
+    editors:
+      - Stuart Hall
+      - Doreen Massey
+      - Michael Rustin
     year: 2002
     language: English
     links:
@@ -37429,6 +37914,10 @@ titles:
     isbn: '9780853159667'
   - title: New World Disorder ("Soundings")
     authors: []
+    editors:
+      - Stuart Hall
+      - Doreen Massey
+      - Michael Rustin
     year: 2002
     language: English
     links:
@@ -37451,6 +37940,8 @@ titles:
       - John McIlroy
       - Kevin Morgan
       - Alan Campbell
+    editors:
+      - Alan McIlroy
     year: 2002
     language: English
     pages: 256
@@ -37478,6 +37969,10 @@ titles:
         url: https://archive.org/details/politicalsubject0000unse
   - title: Regimes of Emotion ("Soundings")
     authors: []
+    editors:
+      - Stuart Hall
+      - Doreen Massey
+      - Michael Rustin
     year: 2002
     language: Not recorded
     pages: 223
@@ -37521,6 +38016,8 @@ titles:
     subtitle: Militaries, Masculinities and International Peacekeeping, Bosnia and the Netherlands
     authors:
       - Dubravka Zarkov
+    editors:
+      - Cynthia Cockburn
     year: 2002
     language: English
     pages: 224
@@ -37557,6 +38054,10 @@ titles:
     verified: true
   - title: The Prosthetic Aesthetic (New Formations)
     authors: []
+    editors:
+      - Scott McCracken
+      - Joanne Morra
+      - Marquard Smith
     year: 2002
     language: Not recorded
     pages: 186
@@ -37635,6 +38136,10 @@ titles:
     authors:
       - Hall ANDREWS
       - RUSTIN [Editors]
+    editors:
+      - Stuart Hall
+      - Doreen Massey
+      - Michael Rustin
     year: 2003
     language: English
     pages: 158
@@ -37717,6 +38222,9 @@ titles:
     isbn: '0853159742'
   - title: Complex Figures (New Formations)
     authors: []
+    editors:
+      - Philip Tew
+      - Wendy Wheeler
     year: 2003
     language: Not recorded
     pages: 186
@@ -37739,6 +38247,10 @@ titles:
     verified: true
   - title: Fears and Hopes ("Soundings")
     authors: []
+    editors:
+      - Stuart Hall
+      - Doreen Massey
+      - Michael Rustin
     year: 2003
     language: English
     links:
@@ -37834,6 +38346,9 @@ titles:
   - title: Remembering the 90s (New Formations)
     authors:
       - Unnamed Unnamed
+    editors:
+      - Joe Brooker
+      - Roger Luckhurst
     year: 2003
     date_note: October 30, 2003
     language: Not recorded
@@ -37845,6 +38360,10 @@ titles:
     verified: false
   - title: Renewal Vol 11 No 4 (Renewal)
     authors: []
+    editors:
+      - Paul Thompson
+      - Alan MacDougall
+      - Sue Goss
     year: 2003
     date_note: December 2003
     language: Not recorded
@@ -37938,6 +38457,11 @@ titles:
     authors:
       - Hall ANDREWS
       - RUSTIN [Editors]
+    editors:
+      - Andrews
+      - Hall
+      - Massey
+      - Rustin
     year: 2003
     language: English
     pages: 191
@@ -37957,6 +38481,8 @@ titles:
     subtitle: Reframing Postcolonial Studies
     authors:
       - Neil Lazarus
+    editors:
+      - Priyamvada Gopal
     year: 2004
     language: English
     isbn: '9781905007547'
@@ -38105,6 +38631,10 @@ titles:
     authors:
       - Hall ANDREWS
       - RUSTIN [Editors]
+    editors:
+      - Stuart Hall
+      - Doreen Massey
+      - Michael Rustin
     year: 2004
     date_note: December 16, 2004
     language: Not recorded
@@ -38179,6 +38709,10 @@ titles:
     authors:
       - Edward W. Said
       - Scott McCracken
+    editors:
+      - Anita Biressi
+      - Heather Nunn
+      - Jonathan Rutherford
     year: 2004
     language: Not recorded
     pages: 144
@@ -38237,6 +38771,10 @@ titles:
     verified: true
   - title: Renewal
     authors: []
+    editors:
+      - Neal Lawson
+      - Paul Thompson
+      - Sue Goss
     year: 2004
     language: Not recorded
     pages: 89
@@ -38258,6 +38796,11 @@ titles:
     subtitle: Issue 12-Transversal Politics (Soundings (New York University Press))
     authors:
       - Michael Rustin
+    editors:
+      - Stuart Hall
+      - Doreen Massey
+      - Cynthia Cockburn
+      - Lynnette Hunter
     year: 2004
     language: English
     pages: 192
@@ -38272,6 +38815,10 @@ titles:
     authors:
       - Hall ANDREWS
       - RUSTIN [Editors]
+    editors:
+      - Stuart Hall
+      - Doreen Massey
+      - Michael Rustin
     year: 2004
     language: Not recorded
     pages: 160
@@ -38310,6 +38857,10 @@ titles:
     authors:
       - Hall ANDREWS
       - RUSTIN [Editors]
+    editors:
+      - Stuart Hall
+      - Doreen Massey
+      - Michael Rustin
     year: 2005
     language: Not recorded
     pages: 192
@@ -38334,6 +38885,10 @@ titles:
   - title: Asylum (Mediactive)
     authors:
       - Birchall RUTHERFORD
+    editors:
+      - Jonathan Rutherford
+      - Clare Birchall
+      - Anita Biressi
     year: 2005
     language: English
     isbn: '9781905007141'
@@ -38426,6 +38981,9 @@ titles:
     verified: true
   - title: Foucault Talk (New Formations)
     authors: []
+    editors:
+      - Scott McCracken
+      - David Glover
     year: 2005
     language: Not recorded
     pages: 208
@@ -38463,6 +39021,10 @@ titles:
   - title: Living Well ("Soundings")
     authors:
       - Jonathan [Editor] Williams RUTHERFORD
+    editors:
+      - Stuart Hall
+      - Doreen Massey
+      - Michael Rustin
     year: 2005
     language: English
     pages: 192
@@ -38542,6 +39104,10 @@ titles:
     verified: false
   - title: Reading Benjamin's Arcades (New Formations)
     authors: []
+    editors:
+      - Merrick Burrow
+      - Gary Farnell
+      - Mick Jardine
     year: 2005
     date_note: March 23, 2005
     language: Not recorded
@@ -38552,6 +39118,10 @@ titles:
     verified: false
   - title: Renewal
     authors: []
+    editors:
+      - Neal Lawson
+      - Philip Tew
+      - Sue Goss
     year: 2005
     language: Not recorded
     pages: 91
@@ -38574,6 +39144,10 @@ titles:
     verified: true
   - title: The Politics of Help (International Journal of Critical Psychology)
     authors: []
+    editors:
+      - Valerie Walkerdine
+      - Lisa Blackman
+      - Ben S. Bradley
     year: 2005
     language: Not recorded
     pages: 192
@@ -38678,6 +39252,8 @@ titles:
     subtitle: Reframing Postcolonial Studies
     authors:
       - Neil Lazarus
+    editors:
+      - Priyamvada Gopal
     year: 2006
     series: New Formations -- No. 59
     language: English
@@ -38804,6 +39380,8 @@ titles:
     authors:
       - Pumla Gobodo-Madikizela
       - Anthony Collins
+    editors:
+      - Gillian Eagle
     year: 2006
     language: Not recorded
     pages: 188
@@ -38897,6 +39475,9 @@ titles:
     isbn: '9781905007394'
   - title: The Good Society
     authors: []
+    editors:
+      - Jonathan Rutherford
+      - Hetan Shah
     year: 2006
     language: Not recorded
     pages: 96
@@ -38909,6 +39490,9 @@ titles:
     verified: false
   - title: The Spatial Imagery (New Formations)
     authors: []
+    editors:
+      - Richard Phillips
+      - Scott McCracken
     year: 2006
     language: Not recorded
     isbn: '9781905007349'
@@ -38983,6 +39567,9 @@ titles:
     verified: false
   - title: White Terror/(Post) Empire (Critical Psychology)
     authors: []
+    editors:
+      - Damien W. Riggs
+      - Lorraine Johnson-Riordan
     year: 2006
     language: Not recorded
     pages: 189
@@ -39156,6 +39743,9 @@ titles:
     verified: true
   - title: Eugenics Old and New (New Formations)
     authors: []
+    editors:
+      - Carolyn Burdett
+      - Angelique Richardson
     year: 2007
     language: Not recorded
     pages: 176
@@ -39541,6 +40131,8 @@ titles:
   - title: Soundings on Race, Identity and Belonging
     authors:
       - Jonathan Rutherford
+    editors:
+      - Sally Davison
     year: 2008
     language: English
     pages: 224
@@ -40066,6 +40658,8 @@ titles:
     subtitle: Technics, Politics, Individuation
     authors:
       - Jeremy Gilbert
+    editors:
+      - Ben Roberts
     year: 2012
     series: New Formations -- Number 77 (2012)
     language: English
@@ -40844,6 +41438,7 @@ titles:
     verified: true
   - title: Podemos
     subtitle: In the Name of the People
+    original_title: Construir pueblo
     series: A Soundings Publication
     authors:
       - Íñigo Errejón
@@ -40885,8 +41480,10 @@ titles:
     verified: true
   - title: Two Years of Wandering
     subtitle: A Menshevik Leader in Lenin's Russia
+    original_title: Dva goda skitaniy
     authors:
       - Fëdor Ilʹič Dan
+    translators:
       - Francis King
     year: 2016
     language: English
@@ -41316,6 +41913,7 @@ titles:
       - Edward B. Aveling
       - Stephen Williams
       - Tony J. Chandler
+    translators:
       - Francis King
     year: 2020
     language: English
@@ -41329,6 +41927,8 @@ titles:
     subtitle: Selected Writings
     authors:
       - Robin Murray
+    editors:
+      - Michael Rustin
     year: 2020
     language: English
     pages: 313
@@ -41525,6 +42125,8 @@ titles:
     authors:
       - Anastasia Kukuna
       - Margaret Poulos
+    editors:
+      - Margarite Poulos
     year: 2024
     language: English
     sources:
@@ -41723,6 +42325,8 @@ titles:
     verified: false
   - title: Marxism To-day Series
     authors: []
+    editors:
+      - Benjamin Farrington
     language: English
     sources:
       - title: BnF catalogue record cb33474741d
@@ -41858,6 +42462,8 @@ titles:
       - John Swift
       - V. I. Mezhlauk
       - Union des républiques socialistes soviétiques
+    translators:
+      - I. B. Lasker
     language: English
     sources:
       - title: BnF catalogue record cb339516813
@@ -41890,6 +42496,8 @@ titles:
   - title: Twentieth Century Capitalism
     authors:
       - Eugène Varga
+    translators:
+      - George H. Hanna
     language: English
     pages: 154
     sources:

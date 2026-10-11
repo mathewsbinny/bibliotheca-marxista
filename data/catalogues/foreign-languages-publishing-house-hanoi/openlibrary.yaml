@@ -25,6 +25,7 @@ titles:
     verified: true
   - title: Stories of the North West
     subtitle: The a Phus, Muong Gion Story
+    original_title: Vợ chồng A Phủ
     authors:
       - Tô Hoài
     year: 1957
@@ -424,6 +425,8 @@ titles:
     subtitle: A Story of Vietnam's Resistance War
     authors:
       - Nguyên Ngọc
+    translators:
+      - Tran Van
     year: 1958
     language: English
     pages: 211
@@ -548,6 +551,7 @@ titles:
     authors:
       - Dăng-Trân-Côn
       - Doan Thi Diëm
+    translators:
       - Rewi Alley
     year: 1959
     language: English, Vietnamese, Chinese
@@ -582,6 +586,8 @@ titles:
   - title: Nguyen Cong Hoan. Les Babouches du vénérable chef de canton, contes choisis. Traduction de Le Van Chat
     authors:
       - Nguyêñ Công Hoan
+    translators:
+      - Le Van Chat
     year: 1959
     language: French
     sources:
@@ -590,11 +596,13 @@ titles:
     verified: true
   - title: Noup
     subtitle: Le héros des montagnes
+    original_title: Đất nước đứng lên
     authors:
       - Nguyên Ngọc
+      - Charles Fourniau
+    translators:
       - Trọng Sót Đào
       - Georges Boudarel
-      - Charles Fourniau
     year: 1959
     language: French
     sources:
@@ -606,6 +614,8 @@ titles:
   - title: Poems
     authors:
       - Tô Hũu
+    translators:
+      - Aileen Palmer
     year: 1959
     language: English
     pages: 23
@@ -651,6 +661,7 @@ titles:
   - title: Quand la lampe s'éteint
     authors:
       - Ngô Tất Tố
+    translators:
       - Le Lien Vu
       - Georges Boudarel
     year: 1959
@@ -1113,6 +1124,8 @@ titles:
   - title: Ngo Tat to. When the Light Is Out, Novel. Translated from the Vietnamese by Pham Nhu Oanh
     authors:
       - Ngô Tât́ Tố
+    translators:
+      - Pham Nhu Oanh
     year: 1960
     language: English
     sources:
@@ -1260,6 +1273,7 @@ titles:
         url: https://www.gateway-bayern.de/BV025413261
     verified: true
   - title: The Resistance Will Win
+    original_title: Kháng chiến nhất định thắng lợi
     authors:
       - Truòng Chinh
     year: 1960
@@ -1612,8 +1626,10 @@ titles:
     verified: true
   - title: La braise sous la cendre
     subtitle: Roman
+    original_title: Yung Mo
     authors:
       - Võ Huy Tâm
+    translators:
       - Georges Boudarel
       - Nguyen Dinh Kha
     year: 1961
@@ -1630,6 +1646,7 @@ titles:
     verified: true
   - title: La jeune femme de Bai Sao
     subtitle: Roman
+    original_title: Một chuyện chép ở bệnh viện
     authors:
       - Anh Đức
     year: 1961
@@ -2097,6 +2114,7 @@ titles:
         url: https://search.worldcat.org/title/15998614
     verified: true
   - title: La résistance vaincra
+    original_title: Kháng chiến nhất định thắng lợi
     authors:
       - Trường Chinh
     year: 1962
@@ -2228,6 +2246,8 @@ titles:
   - title: Prison Diary
     authors:
       - Hồ Chí Minh
+    translators:
+      - Aileen Palmer
     year: 1962
     language: English, Vietnamese
     pages: 94
@@ -2527,6 +2547,8 @@ titles:
   - title: Diary of a Cricket
     authors:
       - Tô Haài
+    translators:
+      - Dang The Binh
     year: 1963
     language: English
     pages: 97
@@ -2574,8 +2596,11 @@ titles:
         url: https://search.worldcat.org/title/4008925
     verified: true
   - title: La Chanson des deux rives, poèmes
-    authors:
+    authors: []
+    translators:
       - Georges Boudarel
+      - Le-van-chat
+      - P. Gamarra
     year: 1963
     language: French
     pages: 104
@@ -3362,6 +3387,9 @@ titles:
   - title: Ap Bac (Major Victories of the South Vietnamese Patriotic Forces in 1963 & 1964)
     authors:
       - Lê Hồng Lĩnh
+    editors:
+      - Nguyen Q. S.
+      - Thanh Dien Vuong
     year: 1965
     language: English
     pages: 138
@@ -3523,8 +3551,11 @@ titles:
         url: https://search.worldcat.org/title/10556050
     verified: true
   - title: Kiều
+    original_title: Truyện Kiều
     authors:
       - Nguyễn Du
+    translators:
+      - Khăć Viện Nguyêñ
     year: 1965
     language: French
     sources:
@@ -3705,6 +3736,8 @@ titles:
   - title: Prison Diary
     authors:
       - Hồ Chí Minh
+    translators:
+      - Aileen Palmer
     year: 1965
     edition: 2nd ed
     language: English
@@ -4097,6 +4130,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000096532
     verified: true
   - title: La résistance vaincra
+    original_title: Kháng chiến nhất định thắng lợi
     authors:
       - Trường Chinh
     year: 1966
@@ -4445,6 +4479,7 @@ titles:
         url: https://www.gateway-bayern.de/BV036462914
     verified: true
     subtitle: Pour le 50. Anniversaire de la Révolution D'Octobre = Forward Under the Glorious Banner of the October Revolution
+    original_title: Tiến lên dưới ngọn cờ cách mạng Tháng Mười vĩ đại
   - title: Five Lessons of a Great Victory
     subtitle: (Winter 1966-Spring 1967)
     authors:
@@ -4483,6 +4518,8 @@ titles:
   - title: Ho Chi Minh. Prison Diary. Translated by Aileen Palmer. 4th Edition
     authors:
       - Hồ Chí Minh
+    translators:
+      - Aileen Palmer
     year: 1967
     language: English
     sources:
@@ -4651,6 +4688,9 @@ titles:
   - title: President Ho Chi Minh Answers President L. B. Johnson
     authors:
       - Hồ Chí Minh
+    editors:
+      - Lyndon Baines Johnson
+      - Nguyễn Hữu Thọ
     year: 1967
     language: English
     pages: 28
@@ -4669,6 +4709,8 @@ titles:
   - title: Prison Diary
     authors:
       - Hồ Chí Minh
+    translators:
+      - Aileen Palmer
     year: 1967
     edition: 4th ed
     language: English
@@ -5330,6 +5372,8 @@ titles:
     subtitle: Novel
     authors:
       - Anh Đức
+    translators:
+      - Robert C. Friend
     year: 1969
     language: English
     pages: 347
@@ -6063,6 +6107,11 @@ titles:
   - title: Anthologie de la littérature vietnamienne
     authors:
       - Khắc Viện Nguyễn
+    editors:
+      - Khăć Viện Nguyêñ
+      - Hưũ Ngọc
+    translators:
+      - Nguyễn Khắc Viện
     year: 1972
     language: French
     sources:
@@ -6185,6 +6234,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000010691
     verified: true
   - title: Histoire de la Révolution d'Août
+    original_title: Cách mạng tháng Tám 1945
     authors: []
     year: 1972
     language: French
@@ -6263,6 +6313,8 @@ titles:
   - title: Prison Diary
     authors:
       - Hồ Chí Minh
+    translators:
+      - Dang The Binh
     year: 1972
     edition: 5th ed
     language: English
@@ -6315,6 +6367,10 @@ titles:
     authors:
       - Khăć Viện Nguyêñ
       - Hưũ Ngọc
+    editors:
+      - Nguyễn Văn Hoan
+    translators:
+      - Vũ Đình Liên
     year: 1973
     language: Vietnamese
     sources:
@@ -6448,6 +6504,7 @@ titles:
         url: https://lccn.loc.gov/91941376
     verified: true
   - title: An Outline of Institutions of the Democratic Republic of Viet Nam
+    original_title: Aperçu sur les institutions de la République democratique du Viet Nam
     authors: []
     year: 1974
     language: English
@@ -6493,9 +6550,12 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991051334279705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Kiều
+    original_title: Kim Vân Kiêu
     authors:
       - Nguyễn Du
       - Khắc Viện Nguyễn
+    translators:
+      - Nguyễn-Khắc-Viện
     year: 1974
     edition: 2. éd
     language: French
@@ -6620,6 +6680,8 @@ titles:
     authors:
       - Khăć Viện Nguyêñ
       - Hưũ Ngọc
+    translators:
+      - Vũ Đình Liên
     year: 1975
     language: French
     sources:
@@ -6934,6 +6996,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb348113059
     verified: true
   - title: Unforgettable Days
+    original_title: Những năm tháng không thể nào quên
     authors:
       - Võ Nguyên Giáp
       - Hữu-Mai
@@ -6991,8 +7054,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1683573064
     verified: true
   - title: A Village Called Faithfulness
+    original_title: Ở xã Trung Nghĩa
     authors:
       - Nguyen Thi
+    translators:
+      - Kim Son
     year: 1976
     language: English
     pages: 128
@@ -7092,6 +7158,7 @@ titles:
     verified: true
   - title: Ecrits
     subtitle: 1920-1969
+    original_title: Sélections
     authors:
       - Hồ Chí Minh
     year: 1976
@@ -7293,6 +7360,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991029504649705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Écrits, 1954-1975
+    original_title: Sélections
     authors:
       - Phạm Văn Đồng
     year: 1977
@@ -7381,6 +7449,9 @@ titles:
   - title: L'éléphant-combattant et son cornac
     authors:
       - Vũ Hùng
+    translators:
+      - Vu Quy Vy
+      - Le Van Chat
     year: 1977
     language: French
     pages: 183
@@ -7688,6 +7759,7 @@ titles:
     authors:
       - Tố Hữu
       - Mireille Gansel
+    translators:
       - Elizabeth Hodgkin
     year: 1978
     language: English
@@ -8188,6 +8260,7 @@ titles:
         url: https://www.sudoc.fr/196903386
     verified: true
   - title: Patriotism and Proletarian Internationalism
+    original_title: Ké̂t hợp chặt chẽ lòng yêu nước với tinh thà̂n quó̂c té̂ vô sản
     authors:
       - Hồ Chí Minh
     year: 1979
@@ -8380,6 +8453,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991055557259705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: À propos du problème kampuchéen
+    original_title: Vè̂ và̂n đè̂ Cam-Pu-Chia
     authors:
       - Trường Chinh
     year: 1980
@@ -8556,6 +8630,7 @@ titles:
         url: https://www.sudoc.fr/113940688
     verified: true
   - title: Reminiscences of a Vietnamese Surgeon
+    original_title: Đường vào khoa học của tôi
     authors:
       - Thất Tùng Tôn
     year: 1980
@@ -8831,6 +8906,7 @@ titles:
         url: https://search.worldcat.org/title/223273113
     verified: true
   - title: Ho Chi Minh, His Exemplary Life and Achievements
+    original_title: Chủ tịch Hò̂-Chí-Minh, sự nghiệp vĩ đại, gương sáng đời đời
     authors:
       - Truong Chinh
     year: 1981
@@ -9491,6 +9567,7 @@ titles:
         url: https://search.worldcat.org/title/12549093
     verified: true
   - title: Impasse
+    original_title: 'Impasse, traduit de: "Bước đường cùng"'
     authors:
       - Nguyễn Công Hoan
     year: 1983
@@ -9533,8 +9610,11 @@ titles:
         url: https://lccn.loc.gov/85122403
     verified: true
   - title: L'Impasse
+    original_title: Buóc Ạuòng cùng
     authors:
       - Nguyêñ Công Hoan
+    translators:
+      - Georges Boudarel
     year: 1983
     language: French
     sources:
@@ -9638,6 +9718,8 @@ titles:
     authors:
       - Hồ Chí Minh
       - Đặng Thế Bình
+    translators:
+      - Dang The Binh
     year: 1983
     edition: 7th ed
     language: English
@@ -9654,6 +9736,7 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/prison-diary-ho-chi-minh
   - title: Quand la lampe s'éteint
+    original_title: Tắt đèn
     authors:
       - Ngô Tất Tố
     year: 1983
@@ -9831,9 +9914,14 @@ titles:
         url: https://www.sudoc.fr/191749753
     verified: true
   - title: Anthology of Vietnamese Popular Literature
+    original_title: Anthologie de la littérature populaire du Viêt-nam
     authors:
       - Hữu Ngọc
       - Françoise Corrèze
+    translators:
+      - Peggie Preston
+      - Dang The Binh
+      - Hoang Tuy
     year: 1984
     language: English
     pages: 361
@@ -9880,6 +9968,7 @@ titles:
         url: https://www.sudoc.fr/098584588
     verified: true
   - title: Dien Bien Phu
+    original_title: Điện Biên Phủ
     authors:
       - Võ Nguyên Giáp
     year: 1984
@@ -9904,6 +9993,7 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/dien-bien-phu-vo-nguyen-giap
   - title: Essays on Vietnamese Music
+    original_title: Essais sur la musique vietnamienne
     authors:
       - Trọng Từ Đào
     year: 1984
@@ -10030,6 +10120,8 @@ titles:
   - title: Les Nuits de lune pâle
     subtitle: La chasse au Vietnam
     authors: []
+    translators:
+      - Ðỗ Trọng Cảnh
     year: 1984
     language: French
     sources:
@@ -10373,6 +10465,8 @@ titles:
   - title: Southern Vietnam, 1975-1985
     authors:
       - Khac Vien Nguyen
+    translators:
+      - Nguyễn Khắc Viện
     year: 1985
     language: English
     pages: 435
@@ -10776,6 +10870,7 @@ titles:
     subtitle: = Muzej T'jamskoj Skulʹptury v Danange = Bảo Tàng Điêu Khắc Chàm Đà Nẵng
     pages: 74
   - title: Some pressing problems on the distribution and circulation of goods
+    original_title: Mấy vấn đề cấp bách về phân phối và lưu thông
     authors:
       - Nguyễn Vǎn Linh
       - Đảng cộng sản Việt Nam
@@ -10840,6 +10935,7 @@ titles:
     verified: true
     pages: 179
   - title: Vietnam, a Long History
+    original_title: Vietnam, une longue histoire
     authors:
       - Nguyễn Khắc Viện
     year: 1987
@@ -10901,6 +10997,8 @@ titles:
   - title: Diary of a Cricket
     authors:
       - Tô Haài
+    translators:
+      - Dang The Binh
     year: 1988
     edition: 2nd ed
     language: English, Vietnamese
@@ -10912,6 +11010,7 @@ titles:
         url: https://search.worldcat.org/title/19734699
     verified: true
   - title: Ho Chi Minh
+    original_title: Chủ tịch Hồ-Chí-Minh
     authors: []
     year: 1988
     edition: 3rd edition, revised and enlarged
@@ -11009,6 +11108,7 @@ titles:
     verified: true
   - title: Vietnam
     subtitle: Urgent Problems
+    original_title: Những việc cần làm ngay
     authors:
       - Nguyễn Văn Linh
     year: 1988
@@ -11151,6 +11251,7 @@ titles:
         url: https://search.worldcat.org/title/9154170
     verified: true
   - title: Nguyen Van Linh, secrétaire général du CC du PCV répond
+    original_title: Trả lời các nhà báo
     authors:
       - Nguyễn Văn Linh
     year: 1989
@@ -11291,6 +11392,7 @@ titles:
     verified: true
   - title: Highway 4
     subtitle: The Border Campaign (1947-1950)
+    original_title: 'Đường số 4 con đường lửa : hồi ký'
     authors:
       - Đặng Văn Việt
     year: 1990
@@ -11324,6 +11426,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb35619076q
     verified: true
   - title: Hồ Chí Minh, a Man, a Nation, an Age, a Cause
+    original_title: Hò̂ Chí Minh, một con người, một dân tộc, một thời đại, một sự nghiệp
     authors:
       - Phạm Văn Đồng
     year: 1990
@@ -11489,8 +11592,11 @@ titles:
         url: https://search.worldcat.org/title/19515611
     verified: true
   - title: Diary of a Cricket
+    original_title: Dế Mèn phiêu lưu ký
     authors:
       - Tô Hoài
+    translators:
+      - Dang The Binh
     year: 1991
     language: English
     pages: 110
@@ -11583,6 +11689,8 @@ titles:
   - title: Arts and handicrafts of Vietnam
     authors:
       - Nguyễn Khắc Viện
+    editors:
+      - Đỗ Phương Quỳnh
     year: 1992
     language: Vietnamese
     pages: 84
@@ -11943,6 +12051,7 @@ titles:
         url: https://archive.org/details/banvedaonho
   - title: Buddhism in Vietnam
     subtitle: From Its Origins to the 19th Century
+    original_title: Bouddhisme au Vietnam
     authors:
       - Chi Minh
     year: 1993
@@ -12204,6 +12313,7 @@ titles:
         url: https://lccn.loc.gov/94943083
     verified: true
   - title: The Ethnic Minorities in Vietnam
+    original_title: Les ethnies minoritaires du Vietnam
     authors:
       - Đặng Nghiêm Vạn
     year: 1993
@@ -12263,6 +12373,8 @@ titles:
   - title: The Traditional Village in Vietnam
     authors:
       - Lê Phan Huy
+    editors:
+      - Phan Huy Lê
     year: 1993
     language: English
     pages: 458
@@ -12379,6 +12491,7 @@ titles:
         url: https://lccn.loc.gov/93947355
     verified: true
   - title: Vietnamese Traditional Medicine
+    original_title: Y học cổ truyền Việt Nam
     authors: []
     year: 1993
     language: English
@@ -12554,6 +12667,7 @@ titles:
     subtitle: Việt - Anh
     authors:
       - Nguyễn Du
+    translators:
       - Michael Counsell
     year: 1994
     language: English
@@ -12648,6 +12762,7 @@ titles:
   - title: Phạm Văn Đồng, écrits (1954-1975)
     authors:
       - Phạm Văn Đồng
+    translators:
       - Editions Thế Giới
     year: 1994
     language: Vietnamese
@@ -13000,6 +13115,7 @@ titles:
         url: https://search.worldcat.org/title/42971553
     verified: true
   - title: Ho Chi Minh
+    original_title: Chủ tịch Hồ-Chí-Minh
     authors:
       - Đảng cộng sản Việt Nam. Ban Nghiên cứu lịch sử Đảng
     year: 1995
@@ -13103,6 +13219,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/100971603
     verified: true
   - title: The Ancient Civilization of Vietnam
+    original_title: Civilisation annamite
     authors:
       - Nguyễn Văn Huyên
     year: 1995
@@ -13417,6 +13534,7 @@ titles:
         url: https://search.worldcat.org/title/36315753
     verified: true
   - title: Le Duc Tho - Kissinger Negotiations in Paris
+    original_title: Các cuộc thương lượng Lê Đức Thọ-Kissinger tại Paris
     authors:
       - Văn Lọi Luu
       - Nguyen Anh Vu
@@ -13563,6 +13681,7 @@ titles:
   - title: Cuốn hút phương Tây
     authors:
       - André Malraux
+    translators:
       - Lê Trọng Bổng
     year: 1997
     language: Vietnamese
@@ -13605,6 +13724,7 @@ titles:
     series: Collection bilingue populaire
     authors:
       - Jean de La Fontaine
+    translators:
       - Lê Trọng Bổng
     year: 1997
     language: Vietnamese
@@ -13616,6 +13736,7 @@ titles:
     series: Collection bilingue populaire
     authors:
       - Nguyễn Đình Chiểu
+    translators:
       - Lê Trọng Bổng
     year: 1997
     language: French, Vietnamese
@@ -13698,6 +13819,9 @@ titles:
   - title: Les yeux
     subtitle: Recueil de nouvelles vietnamiennes 1945-1995
     authors: []
+    editors:
+      - Nguyên Ngọc
+      - Đức Thảo
     year: 1997
     language: French
     sources:
@@ -13961,6 +14085,8 @@ titles:
   - title: Diary of a Cricket
     authors:
       - Tô Hoài
+    translators:
+      - Đặng Thế Bính
     year: 1998
     language: English
     pages: 105
@@ -14106,6 +14232,7 @@ titles:
     verified: true
   - title: Nhật Ký Trong Tù
     subtitle: Prison Diary
+    original_title: Yu zhong ri ji
     authors:
       - Hồ-chí-Minh
     year: 1998
@@ -14366,6 +14493,7 @@ titles:
         url: https://www.sudoc.fr/188812482
     verified: true
   - title: La médecine traditionnelle vietnamienne
+    original_title: Y học cổ truyền Việt Nam
     authors: []
     year: 1999
     language: French
@@ -14709,6 +14837,8 @@ titles:
       - Cục lưu trữ Nhà nước (Vietnam)
       - Viện đại-học Huế
       - Đại học quốc gia Hà Nội. Trung tâm nghiên cứu Việt Nam và giao lưu văn hóa
+    editors:
+      - Phan Huy Lê
     year: 2000
     language: English
     sources:
@@ -14831,6 +14961,7 @@ titles:
         url: https://search.worldcat.org/title/47261937
     verified: true
   - title: Historical and Cultural Sites Around Hanoi
+    original_title: Danh thăńg quanh Hà nội
     authors:
       - Nguyễn-vinh-Phúc
     year: 2000
@@ -14956,8 +15087,10 @@ titles:
     verified: true
   - title: Our Great Spring Victory
     subtitle: An Account of the Liberation of South Vietnam
+    original_title: Đại thắng mùa xuân
     authors:
       - Tiến Dũng Văn
+    translators:
       - John Spragens
     year: 2000
     language: English
@@ -14980,6 +15113,7 @@ titles:
       - Trần Trọng Kim
       - Nguyễn Văn Ngọc
       - Đặng Đình Phúc
+    translators:
       - Louis Sizaret
     year: 2000
     language: Vietnamese, French
@@ -15228,6 +15362,8 @@ titles:
     subtitle: For non-native speakers
     authors:
       - Viện Việt Nam học và Khoa học phát triển
+    editors:
+      - Thiện Thuật Ðoàn
     year: 2001
     language: Multiple languages
     sources:
@@ -15326,6 +15462,8 @@ titles:
     authors:
       - Nolwen Henaff
       - Jean-Yves Martin
+    editors:
+      - Nolwen Hénaff
     year: 2001
     language: Vietnamese
     pages: 255
@@ -15340,8 +15478,12 @@ titles:
         url: https://catalog.hathitrust.org/Record/003603263
     verified: true
   - title: Mais avec tant d'oublis
+    original_title: Ký ức
     authors:
       - Nguyêñ Ðình Chính
+    translators:
+      - Nguyen Van Su
+      - Janine Gillon
     year: 2001
     language: French
     sources:
@@ -15353,6 +15495,7 @@ titles:
     authors:
       - Đặng Phúc Tinh
       - Hoàng Lan
+    translators:
       - Bùi Hữu Hồng
     year: 2001
     language: Vietnamese
@@ -15540,6 +15683,7 @@ titles:
         url: https://search.worldcat.org/title/52040629
     verified: true
   - title: Traditionelles vietnamesisches Wassermarionetten-Theater
+    original_title: Nghệ thuật rối nước truyền thống Việt Nam
     authors:
       - Nguyễn Huy Hồng
       - Trần Trung Chính
@@ -15598,7 +15742,8 @@ titles:
         url: https://search.worldcat.org/title/50386716
     verified: true
   - title: Tuyển tập thơ Hán Nôm Hồ Xuân Hương
-    authors:
+    authors: []
+    translators:
       - Trường Sơn La
     year: 2001
     language: Vietnamese
@@ -15640,6 +15785,7 @@ titles:
     verified: true
   - title: Vietnam Entering the 21st Century
     subtitle: Selected Speeches and Writings of the General Secretary of the Central Committee of the Communist Party of Vietnam
+    original_title: Việt-Nam-bước-vào-thé̂-ky-21
     authors:
       - Lê-Khả-Phiêu
     year: 2001
@@ -15713,6 +15859,7 @@ titles:
   - title: Các phương pháp quy hoạch đô thị
     authors:
       - Jean-Paul Lacaza
+    translators:
       - Đình Bắc Đào
     year: 2002
     language: Vietnamese
@@ -15775,6 +15922,7 @@ titles:
     verified: true
   - title: Đông Nam Á
     subtitle: Chặng đường dài phía trước
+    original_title: Southeast Asia the long road ahead
     authors:
       - Chong Yah Lim
     year: 2002
@@ -15888,6 +16036,7 @@ titles:
   - title: Khoa học và các khoa học$Gilles - Gaston Granger, Phan Ngọc, Phan Thiều
     authors:
       - Gilles-Gaston Granger
+    translators:
       - Phan Ngọc
       - Phan Thiều
     year: 2002
@@ -15924,6 +16073,8 @@ titles:
   - title: Kiến trúc Trung Quoc
     authors:
       - Tieu Mac
+    translators:
+      - Mai chi
     year: 2002
     language: Vietnamese
     pages: 220
@@ -15971,6 +16122,7 @@ titles:
         url: https://search.worldcat.org/title/60597623
     verified: true
   - title: Nhà mồ Tây Nguyên = Funeral houses in the Central Highlands of Vietnam = Maisons funéraires des peuples des hauts plateaux du Vietnam
+    original_title: Nhà mồ Tây Nguyên
     authors:
       - Nguyễn Văn Kự
     year: 2002
@@ -16279,8 +16431,10 @@ titles:
     verified: false
   - title: Chúng tôi ăn rừng đá - thần gôo
     subtitle: Biên niên của Sar Luk, làng Mnông Gar, Bộ lạc tiền Đông Dương trên cao nguyên miền Trung Việt Nam
+    original_title: Nous avons mangé la forêt de la pierre-génie Gôo
     authors:
       - Georges Condominas
+    translators:
       - Trần Thị Lan Anh
     year: 2003
     language: Vietnamese
@@ -16294,6 +16448,8 @@ titles:
       - Cầm Trọng
       - Masao Kashinaga
       - Chương trình nghiên cứu gia phả Việt Nam
+    editors:
+      - Trọng Cầm
     year: 2003
     series: Chương Trình Nghiên Cứu Gia Phả Việt Nam -- 2
     language: Vietnamese, English, French, Tai Dam
@@ -16797,6 +16953,7 @@ titles:
         url: https://search.worldcat.org/title/62720693
     verified: true
   - title: Dân số và phát triển ở Việt Nam
+    original_title: Population et développement au Viêt-nam
     authors:
       - Patrick Gubry
       - Nguyễn Hữu Dũng
@@ -16916,6 +17073,7 @@ titles:
     verified: true
   - title: Fighting Under Siege
     subtitle: Reminiscences
+    original_title: Chiến đấu trong vòng vây
     series: Memoirs of War
     authors:
       - Võ Nguyên Giáp
@@ -17244,6 +17402,7 @@ titles:
     verified: false
   - title: The Central Highlands
     subtitle: A North Vietnamese Journal of Life on the Hồ Chí Minh Trail, 1965-1973
+    original_title: Tây Nguyên ngày ấy
     series: Memoirs of War
     authors:
       - Lê Cao Đài
@@ -17260,6 +17419,7 @@ titles:
     verified: true
   - title: The Christmas Bombing
     subtitle: '"Ðien Biên Phu in the Air"'
+    original_title: Ðien Biên Phu trên không
     authors:
       - Lân Lưu Trọng
     year: 2004
@@ -17482,6 +17642,12 @@ titles:
     subtitle: Mộ Trạch-Hải Dương = Wu zu shi xi shi ji
     authors:
       - Vũ Phương Lan
+    editors:
+      - Vũ Thế Nho
+      - Vũ Tông Hải
+      - Vũ Huy Đĩnh
+    translators:
+      - Vũ Thế Khôi
     year: 2004
     edition: Xuất bản lần thứ 1
     series: Tủ sách gia phả Việt Nam -- 4
@@ -17574,6 +17740,7 @@ titles:
   - title: Các quy luật đích thực của nền kinh tế
     authors:
       - Jacques Généreux
+    translators:
       - Hữu Khôi
     year: 2005
     language: Vietnamese
@@ -17712,6 +17879,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb42337371x
     verified: true
   - title: Hồ Chí Minh from Childhood to President of Việt Nam
+    original_title: Hồ Chí Minh từ tuổi ấu thơ đến chủ tịch nước Việt Nam
     authors:
       - Mai Luận
       - Đắc Xuân
@@ -17736,6 +17904,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb410105544
     verified: true
   - title: Images of the Vietnamese Woman in the 21st Century
+    original_title: Hình ảnh người phụ nữ Việt Nam trước thè̂m thé̂ kỷ XXI
     authors:
       - Lê Thị Nhâm Tuyết
       - Family and environment in development Research centre for gender
@@ -17814,6 +17983,8 @@ titles:
     authors:
       - Hữu Ngọc
       - Lady Borton
+    editors:
+      - Huu Ngoc
     year: 2005
     series: Frequently asked questions about Vietnamese culture = Tham khảo biên dịch văn hóa Việt Nam
     language: Vietnamese
@@ -17846,6 +18017,8 @@ titles:
     subtitle: An Account of the Liberation of South Vietnam
     authors:
       - Tiến Dũng Văn
+    translators:
+      - John Spragens
     year: 2005
     edition: 2nd ed
     series: Memoirs of War
@@ -17928,6 +18101,7 @@ titles:
         url: https://search.worldcat.org/title/62590516
     verified: true
   - title: Reminiscences of Hồ Chí Minh
+    original_title: Hồi ức về Hồ Chí Minh
     authors:
       - Vietnam) Thế Giới Publishers (Hanoi
     year: 2005
@@ -17958,6 +18132,7 @@ titles:
         url: https://www.gateway-bayern.de/BV025358018
     verified: true
   - title: Single Women in Việt Nam
+    original_title: Cuộc sống của phụ nữ đơn thân ở Việt Nam
     authors:
       - Lê Thi
     year: 2005
@@ -17996,10 +18171,12 @@ titles:
     verified: true
   - title: Tận cùng tối tăm
     subtitle: Heart of darkness
+    original_title: Heart of darkness
     authors:
       - Joseph Conrad
-      - Lê Viết Thành
       - Mạc Sơn
+    translators:
+      - Lê Viết Thành
     year: 2005
     language: Vietnamese
     sources:
@@ -18038,6 +18215,9 @@ titles:
       - Annabel Jackson
       - Hàm Châu
       - Chi Vân
+    editors:
+      - Jackson Annabel
+      - Châu Hàm
     year: 2005
     edition: 1st ed
     series: Viet Nam Cultural Traveler
@@ -18069,8 +18249,12 @@ titles:
         url: https://archive.org/details/the-general-headquarters-in-the-spring-of-brilliant-victory
   - title: The Trans-Tru'ờng Sờn Route
     subtitle: A Memoir
+    original_title: Đuồng xuyên Tru'ờng Sờn
     authors:
       - Nguyên Đồng Sĩ
+    editors:
+      - Nguyễn Duy Tường
+      - Kỳ Vân
     year: 2005
     language: English
     sources:
@@ -18215,6 +18399,8 @@ titles:
   - title: Vietnam stellt sich vor
     authors:
       - Mai Lý Quảng
+    translators:
+      - Günter Giesenfeld
     year: 2005
     language: German
     pages: 222
@@ -18258,6 +18444,7 @@ titles:
         url: https://www.gateway-bayern.de/BV025358016
     verified: true
   - title: Wandering Through Vietnamese Culture
+    original_title: Lãng du trong văn hóa Việt Nam
     authors:
       - Hữu-Ngọc
     year: 2005
@@ -18463,6 +18650,7 @@ titles:
     verified: true
   - title: Champa Ancient Towers
     subtitle: Reality & Legend
+    original_title: Tháp cỏ̂ Chămpa
     authors:
       - Ngô Văn Doanh
     year: 2006
@@ -18563,6 +18751,8 @@ titles:
   - title: Đô thị Việt Nam trong thời kỳ quá độ
     authors:
       - Nguyễn Thị Thiềng
+    editors:
+      - Nguyêñ Thị Thiềng
     year: 2006
     language: Vietnamese
     pages: 323
@@ -18683,6 +18873,7 @@ titles:
     verified: false
   - title: Hanoi
     subtitle: Streets of the Old Quarter and Around Hoan Kiem Lake
+    original_title: Đường phố Hà Nội
     authors:
       - Nguyễn-vinh-Phúc
       - Nguyễn-Thừa-Hỷ
@@ -18989,6 +19180,8 @@ titles:
   - title: The Grave House of the Jarai Arap People
     authors:
       - Hùng Lưu
+    editors:
+      - Lưu-Hùng
     year: 2006
     language: English
     pages: 52
@@ -19004,8 +19197,11 @@ titles:
     verified: true
   - title: The new battlefield
     subtitle: A memoir
+    original_title: Chiến trường mới
     authors:
       - Nguyêñ Hưũ An
+    editors:
+      - Nguyêñ Tư Ðương
     year: 2006
     language: Vietnamese
     sources:
@@ -19167,6 +19363,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1907236880
     verified: true
   - title: Vietnamese Traditional Water Puppetry
+    original_title: Rối nước truyền thống Việt Nam
     authors:
       - Nguyễn Huy Hồng
     year: 2006
@@ -19558,6 +19755,7 @@ titles:
         url: https://search.worldcat.org/title/229464888
     verified: true
   - title: Một Chuyến du Hành Đến Đàng Ngoài Năm 1688
+    original_title: Voyages and discoveries
     series: 'Việt Nam Trong Qua Khứ: Tư Liệu Nước Ngoài'
     authors:
       - William Dampier
@@ -19611,6 +19809,7 @@ titles:
     verified: true
   - title: OSS và Hồ Chí Minh
     subtitle: Đồng minh bất ngờ trong cuộc chiến chống phát xít nhật
+    original_title: OSS and Ho Chi Minh
     authors:
       - Dixee R. Bartholomew-Feis
     year: 2007
@@ -19704,6 +19903,7 @@ titles:
     subtitle: Một người Mỹ giữa làng quê Việt Nam
     authors:
       - Lady Borton
+    translators:
       - Quang Hiến Hà
     year: 2007
     language: Vietnamese
@@ -19744,6 +19944,7 @@ titles:
     verified: true
   - title: Viêt Nam
     subtitle: From Past to Future
+    original_title: Vietnam, une longue histoire
     authors:
       - Mai Lý Quảng
     year: 2007
@@ -19818,6 +20019,7 @@ titles:
     subtitle: Une Américaine au milieu des Vietnamiens
     authors:
       - Lady Borton
+    translators:
       - Jean Meynard
     year: 2007
     language: French
@@ -19907,6 +20109,7 @@ titles:
         url: https://search.worldcat.org/title/426941817
     verified: true
   - title: À la découverte de la culture vietnamienne
+    original_title: Lãng du trong văn hóa Việt Nam
     authors:
       - Hữu Ngọc
     year: 2008
@@ -20314,6 +20517,7 @@ titles:
     verified: true
   - title: Magnificent Camouflage
     subtitle: Stories of Secret Agents in the Saigon Administration
+    original_title: Vỏ-bọc-nhiệm-màu
     authors:
       - Hà Bỉnh Nhưỡng
     year: 2008
@@ -20692,6 +20896,7 @@ titles:
         url: https://search.worldcat.org/title/316440197
     verified: true
   - title: Wandering Through Vietnamese Culture
+    original_title: Lãng du trong văn hóa Việt Nam
     authors:
       - Hữu Ngọc
     year: 2008
@@ -20759,6 +20964,8 @@ titles:
     subtitle: For non-native speakers
     authors:
       - Trung tâm nghiên cứu Việt Nam và giao lưu văn hóa
+    editors:
+      - Thiện Thuật Ðoàn
     year: 2009
     language: Multiple languages
     sources:
@@ -20911,6 +21118,8 @@ titles:
     subtitle: Hội nghị Thái học Việt Nam lấn thứ V, Điện Biên, 2009
     authors:
       - Hội nghị Thái học Việt Nam (5th 2009 Điện Biên, Vietnam)
+    editors:
+      - Nguyễn Ngọc Quang
     year: 2009
     language: Vietnamese
     pages: 390
@@ -21183,6 +21392,7 @@ titles:
         url: https://www.sudoc.fr/167745808
     verified: true
   - title: Land Equalization in 1839 in Bình Định Seen from the Land Records
+    original_title: Chính sách quân điền năm 1839 ở Bình Định qua tư liệu điạ bạ
     authors:
       - Phan Phương Thảo
     year: 2009
@@ -21286,8 +21496,10 @@ titles:
       - Trinh Van Thao
       - Nguyễn Văn Khánh
       - Nguyễn Trí Chí
-      - Trịnh Văn Tùng
       - Đinh Xuân Lâm
+    translators:
+      - Nguyễn Trí Chỉ
+      - Trịnh Văn Tùng
     year: 2009
     language: Vietnamese
     pages: 391
@@ -21961,6 +22173,7 @@ titles:
   - title: Thế giới đi về đâu?
     authors:
       - Grzegorz W. Kołodko
+    translators:
       - Nguyen Thi Thanh Thu
       - Nguyen Hoang
       - Nguyen Thi Thanh
@@ -21973,6 +22186,7 @@ titles:
     verified: true
   - title: The Vietnamese military
     subtitle: During the resistance war against the U.S. for national salvation and defense
+    original_title: Nghệ thuật quân sự Việt Nam trong kháng chiến chống Mỹ cứu nước và bảo vệ tổ quốc
     series: Memoirs of war
     authors:
       - Hoàng-minh-Thảo
@@ -22092,6 +22306,8 @@ titles:
     subtitle: Dịch Kinh Nam Wing Chun
     authors:
       - Quốc Định Trịnh
+    translators:
+      - Song Minh
     year: 2010
     language: English
     pages: 79
@@ -22177,6 +22393,8 @@ titles:
     subtitle: Hướng tới một khu vực hòa bình, an ninh, và hợp tác
     authors:
       - Hội thảo khoa học quốc tế "Biển Đông Hợp tác vì An ninh và Phát triển trong Khu vực" (2nd 2010 Ho Chi Minh City, Vietnam)
+    editors:
+      - Ðình Quý Ðặng
     year: 2011
     language: Vietnamese
     pages: 509
@@ -22220,6 +22438,8 @@ titles:
     subtitle: Vietnamese ancient jade
     authors:
       - Nguyễn Văn Cương
+    editors:
+      - Nguyễn Văn Cường (Director of National Museum of Vietnamese History)
     year: 2011
     language: Vietnamese
     pages: 249
@@ -22238,6 +22458,8 @@ titles:
   - title: Cơ sở khoa học cho phát triển vùng trong bối cảnh hội nhập quốc tế của Việt Nam
     authors:
       - Quang Ngọc Nguyễn
+    editors:
+      - Nguyễn Quang Ngọc
     year: 2011
     language: Vietnamese
     pages: 477
@@ -22341,6 +22563,8 @@ titles:
   - title: Đô thị Quảng Yên truyền thống và định hướng phát triển
     authors:
       - 'Quảng Ninh (Vietnam : Province). Ủy ban nhân dân'
+    editors:
+      - Đông Vĩnh
     year: 2011
     language: Vietnamese
     pages: 427
@@ -22399,6 +22623,10 @@ titles:
       - Kee Cheok Cheong
       - Minh Duc Pham
       - Nguyen Thang
+    editors:
+      - Kee-Cheok Cheong
+      - Minh Đức Phạm
+      - Nguyễn Thắng
     year: 2011
     language: English
     pages: 312
@@ -22466,8 +22694,12 @@ titles:
         url: https://lccn.loc.gov/2013341618
     verified: true
   - title: Hoạt động Ngoại giao của nước Pháp nhằm củng cố cơ sở tại Nam Kỳ (1862-1874)
+    original_title: L' action diplomatique de la France en vue de consolider son établissement en Cochinchine, 1862-1874
     authors:
       - Trương Bá Cần
+    translators:
+      - Vũ Lưu Xuân
+      - Nguyễn Thừa Hỷ
     year: 2011
     language: Vietnamese
     pages: 459
@@ -22552,6 +22784,7 @@ titles:
     series: 'Việt Nam trong quá khứ: tư liệu nước ngoài'
     authors:
       - William Dampier
+    translators:
       - Hoàng Anh Tuấn
     year: 2011
     language: Vietnamese
@@ -22564,6 +22797,7 @@ titles:
     series: 'Việt Nam trong quá khứ: tư liệu nước ngoài'
     authors:
       - John Barrow
+    translators:
       - Nguyễn Thừa Hỷ
     year: 2011
     language: Vietnamese
@@ -22598,6 +22832,7 @@ titles:
   - title: Những người châu Âu ở nước An Nam
     authors:
       - Charles Maybon
+    translators:
       - Nguyễn Thừa Hỷ
     year: 2011
     language: Vietnamese
@@ -22728,6 +22963,7 @@ titles:
     series: 'Việt Nam trong quá khứ: tư liệu nước ngoài'
     authors:
       - Jean-Baptiste Tavernier
+    translators:
       - Lê Tư Lành
     year: 2011
     language: Vietnamese
@@ -22759,6 +22995,8 @@ titles:
       - Bùi Minh Đạo
       - Trần Hồng Thu
       - Bùi Bích Lan
+    editors:
+      - Bùi-Minh-Đạo
     year: 2011
     edition: 1st ed
     language: English
@@ -22946,6 +23184,7 @@ titles:
         url: https://lccn.loc.gov/2012334071
     verified: true
   - title: Vietnam Fine Arts Museum
+    original_title: Bảo tàng mỹ thuật Việt Nam
     authors:
       - Bao Tàng My Thuât Viêt Nam
     year: 2011
@@ -22978,6 +23217,8 @@ titles:
       - Vũ Văn Quân
       - Đỗ Thị Hương Thảo
       - Đức Anh Phạm
+    editors:
+      - Phạm Đức Anh
     year: 2011
     language: Vietnamese
     pages: 683
@@ -22997,6 +23238,10 @@ titles:
   - title: Vùng đất Nam Bộ dưới triều Minh Mạng
     authors:
       - Choi Byung Wook
+    editors:
+      - Nguyễn Thừa Hỷ
+    translators:
+      - Lê Thùy Linh
     year: 2011
     series: 'Việt Nam trong quá khư: tư liệu nước ngoại'
     language: Vietnamese
@@ -23222,6 +23467,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=829771840
     verified: true
   - title: Five Hồ Chí Minh trails
+    original_title: Five đường mòn Hồ Chí Minh
     authors:
       - Ðặng Phong
     year: 2012
@@ -23295,7 +23541,10 @@ titles:
         url: https://search.worldcat.org/title/908639606
     verified: true
   - title: Hô Chí Minh Biography
+    original_title: Tiểu sử Hô Chí Minh
     authors: []
+    editors:
+      - Chu Ðức Tính
     year: 2012
     language: English
     sources:
@@ -23303,6 +23552,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb44285350m
     verified: true
   - title: Hồ Chí Minh, a Brilliant Thinker
+    original_title: Hồ Chí Minh nhà tư tưởng lỗi lạc. Nhà xuất bản Lý luận chính trị, 2005
     authors:
       - Song Thành
     year: 2012
@@ -23318,6 +23568,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991106039389705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Ho Chi Minh's Life and Cause
+    original_title: 'Chu̕ tịch Hô ̀Chí Minh : tiêu̕ sư ̕và sự nghiệp'
     authors: []
     year: 2012
     language: English
@@ -23326,6 +23577,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb44285530j
     verified: true
   - title: How the Vietnamese People's Army Was Founded
+    original_title: Quân đội nhân dân Việt Nam đã ra đời như thế nào?
     authors:
       - Trịnh Vương Hồng
       - Nguyễn Mạnh Hà
@@ -23353,6 +23605,8 @@ titles:
     subtitle: Tiếp cận bộ phận
     authors:
       - Lê̂ Phan Huy
+    editors:
+      - Phan Phương Thảo
     year: 2012
     edition: In lần thứ hai
     language: Vietnamese
@@ -23395,9 +23649,13 @@ titles:
         url: https://lccn.loc.gov/2012309250
     verified: true
   - title: Memory of Tây Nguyên (the Central Highlands)
+    original_title: Ký ức Tây Nguyên
     series: Memoirs of War
     authors:
       - Đặng-Vũ-Hiệp
+    editors:
+      - Lê Hải Triều
+      - Ngô Vĩnh Bình
     year: 2012
     language: English
     sources:
@@ -23527,6 +23785,8 @@ titles:
   - title: The 30 Year War
     subtitle: 1945-1975
     authors: []
+    editors:
+      - Lê Kinh Lịch
     year: 2012
     language: English
     sources:
@@ -23537,6 +23797,7 @@ titles:
     verified: true
   - title: The Hồ Chí Minh Campaign
     subtitle: Reminiscences of Revolutionary Commanders and Political Commissars
+    original_title: Chiến dịch Hồ Chí Minh qua hồi ức các tư lệnh và chính ủy
     series: Memoirs of War
     authors:
       - Edition Thế Giới
@@ -23585,6 +23846,8 @@ titles:
     subtitle: Luật pháp, địa chính trị và hợp tác quốc tế
     authors:
       - Đặng Đình Quý
+    editors:
+      - Ðình Quý Ðặng
     year: 2012
     language: Vietnamese
     pages: 439
@@ -23708,6 +23971,8 @@ titles:
     subtitle: Nghiên cứu lịch sử xã hội
     authors:
       - Trinh Van Thao
+    translators:
+      - Lê Kim Tân
     year: 2013
     language: Vietnamese
     pages: 457
@@ -23755,7 +24020,9 @@ titles:
     verified: true
   - title: Chiến thắng bằng mọi giá
     subtitle: Thiên tài quân sự Việt Nam
-    authors:
+    original_title: Currey, Cecil B. Victory at any cost
+    authors: []
+    translators:
       - Cecil B. Currey
       - Nguyễn Văn Sự
     year: 2013
@@ -23790,6 +24057,8 @@ titles:
       - Bùi Văn Tiến
       - Xuân Bắc Tạ
       - Trường đại học Mỹ thuật Việt Nam
+    editors:
+      - Lê Văn Sứu
     year: 2013
     language: Vietnamese
     pages: 501
@@ -23849,6 +24118,8 @@ titles:
     subtitle: Chuyên luận
     authors:
       - Nguyễn Thị Hường
+    editors:
+      - Viện nghiên cứu Hán Nôm (Vietnam)
     year: 2013
     language: Vietnamese
     sources:
@@ -23858,8 +24129,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1029352410
     verified: true
   - title: Ngũ luân thư
+    original_title: A Book of Five Rings (Gorin No Sho)
     authors:
       - Miyamoto Musashi
+    translators:
       - Bùi Thế Cần
     year: 2013
     language: Vietnamese
@@ -23941,6 +24214,7 @@ titles:
     authors:
       - Dan Senor
       - Saul Singer
+    translators:
       - Trí Vương
     year: 2013
     language: Vietnamese
@@ -24306,6 +24580,8 @@ titles:
     subtitle: Tiểu thuyết lịch sử
     authors:
       - Ryōtarō Shiba
+    translators:
+      - An Nhiên
     year: 2014
     language: Vietnamese
     pages: 363
@@ -24320,6 +24596,7 @@ titles:
     subtitle: The Arts and Culture of Viet Nam
     authors:
       - Phan Cẩm Thượng
+    translators:
       - Nguyen Long Thanh
     year: 2014
     language: English
@@ -24375,9 +24652,11 @@ titles:
         url: https://search.worldcat.org/title/1241727946
     verified: true
   - title: Việt Nam ngày nay chuyện mưu sinh
+    original_title: It's a living
     authors:
       - Gerard Sasges
       - Mai Huyền Chi
+    translators:
       - Nguyễn Xuân Hồng
     year: 2014
     language: Vietnamese
@@ -24411,6 +24690,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1782263780
     verified: true
   - title: Võ Nguyên Giáp hay cuộc chiến tranh nhân dân
+    original_title: Giap ou la guerre du peuple
     authors:
       - Lê, Quang, Gérard
     year: 2014
@@ -24541,6 +24821,8 @@ titles:
     subtitle: 'Những vấn đề phát triển bền vững: Hội nghị quốc gia Thái học Việt Nam lần thứ VII, Lai Châu-2015'
     authors:
       - Hội nghị quốc gia Thái học Việt Nam (7th 2015 Lai Châu, Vietnam)
+    editors:
+      - Toàn Vương
     year: 2015
     language: Vietnamese
     pages: 831
@@ -24596,6 +24878,9 @@ titles:
     series: Tủ sách Việt Nam / Viện Viễn Đông Bác Cổ; X
     authors:
       - Vũ Thị Mai Anh
+    editors:
+      - École française d'Extrême-Orient
+    translators:
       - Philippe Papin
     year: 2015
     language: Vietnamese
@@ -24683,6 +24968,7 @@ titles:
     series: Tủ sách Việt Nam; XII
     authors:
       - Phạm Xuân Lộc
+    translators:
       - Nguyễn Văn Nguyên
       - Philippe Papin
     year: 2015
@@ -24998,8 +25284,10 @@ titles:
     verified: true
   - title: Diễn tiến câu chuyện Vương Thúy Kiều
     subtitle: 'Từ sự kiện lịch sử Trung Hoa đến kiệt tác văn chương Việt Nam = The evolution of the Wang Cuiqiao tale: from historical event in China to literary masterpiece in Vietnam'
+    original_title: The evolution of the tale of Wang Cuiqiao$dfrom Chinese historical event to Vietnamese literary masterpiece
     authors:
       - Charles (Lê Văn Nam) Benoit
+    translators:
       - Nguyễn Nam
       - Trần Hải Yến
       - Nguyên Nguyễn Đào
@@ -25067,8 +25355,11 @@ titles:
     subtitle: Ký sử thời Nguyễn
     authors:
       - 董皞
-      - Trương Sĩ Hùng
       - Hàn Khánh
+    translators:
+      - Đông Hào
+      - Trương Sĩ Hùng
+      - Khánh Hà
     year: 2016
     language: Vietnamese
     pages: 281
@@ -25137,6 +25428,7 @@ titles:
     pages: 171
   - title: Hà Nội dấu yêu, 1978-2015
     subtitle: A photographic journey
+    original_title: My dear Hanoi
     authors:
       - Bảo Hữu
     year: 2016
@@ -25245,8 +25537,10 @@ titles:
     verified: true
   - title: Lên xuống dòng đời
     subtitle: Nhật ký của người lái taxi có học nhất Singapore
+    original_title: Diary of a taxi driver
     authors:
       - Cai Mingjie
+    translators:
       - Nguyễn Hoàng Ánh
       - Võ Phương Linh
       - Võ Huyền My
@@ -25283,8 +25577,10 @@ titles:
         url: https://www.sudoc.fr/199748071
     verified: true
   - title: Nhật ký Anne Frank
+    original_title: Achterhuis
     authors:
       - Anne Frank
+    translators:
       - Huyền Tạ
     year: 2016
     language: Vietnamese
@@ -25362,6 +25658,7 @@ titles:
     subtitle: Cảm hứng sống dành cho U25 Dương An Nhiên dịch
     authors:
       - Haruka Itou
+    translators:
       - Dương An Nhiên
     year: 2016
     language: Vietnamese
@@ -25560,8 +25857,10 @@ titles:
     verified: true
   - title: Bước chạy thanh xuân
     subtitle: Tiểu thuyết
+    original_title: Kaze ga tsuyoku fuite iru
     authors:
       - Shion Miura
+    translators:
       - Nguyễn Kim Hoàng
     year: 2017
     language: Vietnamese
@@ -25606,11 +25905,14 @@ titles:
         url: https://search.worldcat.org/title/1013967459
     verified: true
   - title: Chân Lạp phong thổ ký
+    original_title: Zhenla feng tu ji
     authors:
       - Zhou Daguan
       - Văn Tấn Hà
       - Phan Huy Lê
       - Ngọc Phúc Nguyễn
+    translators:
+      - Hà-văn-Tấn
     year: 2017
     edition: (Tái bản lần thứ nhất, có chỉnh sửa)
     language: Vietnamese, Chinese
@@ -25637,8 +25939,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1743658044
     verified: true
   - title: Con cá trên cây
+    original_title: Fish in a tree
     authors:
       - Lynda Mullaly Hunt
+    translators:
       - Linh Cua
     year: 2017
     language: Vietnamese
@@ -25791,6 +26095,7 @@ titles:
   - title: Nghệ thuật xứ An nam
     authors:
       - Henri Gourdon
+    translators:
       - Trương Quốc Toàn
     year: 2017
     language: Vietnamese
@@ -25950,6 +26255,9 @@ titles:
     authors:
       - Trần Đoàn Lâm
       - Bùi Hương Giang
+    editors:
+      - Thế Giới Publishers
+    translators:
       - Zac Herman
     year: 2017
     language: English
@@ -25972,8 +26280,10 @@ titles:
     verified: true
   - title: Tình yêu không có lỗi
     subtitle: Lỗi ở bản thân
+    original_title: 31 guys 31 lessons
     authors:
       - Maeya Zee
+    translators:
       - 4895.7 Miles
     year: 2017
     language: Vietnamese
@@ -26005,6 +26315,7 @@ titles:
     verified: true
   - title: Từ điển chiêm tinh
     subtitle: Tất tần tật về 12 cung Hoàng Đạo, Tổng quát về 12 chòm sao
+    original_title: 'All around the zodiac: exploring astrology''s twelve signs'
     series: Từ điển chiêm tinh - tất tần tật về 12 cung Hoàng Đạo
     authors:
       - Bil Tierney
@@ -26048,6 +26359,7 @@ titles:
     verified: true
   - title: Vietnamese Folk Tales
     subtitle: Satire and Humour
+    original_title: Truyện cười dân gian Việt Nam
     authors:
       - Trần Đoàn Lâm
     year: 2017
@@ -26113,6 +26425,7 @@ titles:
     authors:
       - Étienne Aymonier
       - Emile Roucoules
+    translators:
       - Lại Như Bằng
     year: 2018
     language: Vietnamese
@@ -26392,6 +26705,8 @@ titles:
   - title: Old Citadels of Việt Nam
     authors:
       - Vietnam) Thế Giới Publishers (Hanoi
+    editors:
+      - Thế Giới Publishers
     year: 2018
     language: English
     sources:
@@ -26474,6 +26789,8 @@ titles:
     subtitle: Historical Stories
     authors:
       - Vietnam) Thế Giới Publishers (Hanoi
+    editors:
+      - Thế Giới Publishers
     year: 2018
     language: English, Vietnamese
     sources:
@@ -26790,6 +27107,7 @@ titles:
     verified: true
   - title: Duong Xuan Residence Under the Nguyen Lords
     subtitle: The Former Dan Duong Palace, and the Tomb of Emperor Quang Trung in Hue
+    original_title: Dương Xuân Residence Under The Nguyễn Lords
     authors:
       - Nguyên-Đăc-Xuân
     year: 2019
@@ -26854,10 +27172,12 @@ titles:
     verified: true
   - title: Herstory
     subtitle: 50 women and girls who shook up the world = cuộc đời 50 người phụ nữ gây chấn động thế giới
+    original_title: 'Herstory : 50 women and girls who shook the world'
     authors:
       - Katherine Halligan
-      - Nguyen Thi Ha
       - Sarah Walsh
+    translators:
+      - Nguyen Thi Ha
     year: 2019
     language: Vietnamese
     sources:
@@ -26924,8 +27244,10 @@ titles:
         url: https://search.worldcat.org/title/1145415253
     verified: true
   - title: Lẽ nào tất cả đều là lỗi của tôi?
+    original_title: Nan dao yi qie dou shi wo de cuo ma?
     authors:
       - Li Songwei
+    translators:
       - Lam Thanh
     year: 2019
     language: Vietnamese
@@ -27075,8 +27397,10 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BD03591521
     verified: false
   - title: Những loài hoa có gai
+    original_title: Ci
     authors:
       - Li Shanglong
+    translators:
       - Bào Bình
     year: 2019
     language: Vietnamese
@@ -27293,7 +27617,8 @@ titles:
         url: https://lccn.loc.gov/2019344711
     verified: true
   - title: Vjetnama antologio
-    authors:
+    authors: []
+    translators:
       - Nguyễn Xuân Thu
       - Phạm Mai Lan
       - Nguyễn Thị Ngọc Lan
@@ -27320,6 +27645,7 @@ titles:
     authors:
       - Phạm Tử Vãn
       - Phạm Tử Hào
+    translators:
       - Na Bảo Anh
     year: 2019
     language: Vietnamese
@@ -27332,6 +27658,7 @@ titles:
     series: Góc nhìn sử Việt; Vol. 26
     authors:
       - Paul Doumer
+    translators:
       - Đình Tuấn Lưu
       - Hiệu Constant
       - Le Dinh Chi
@@ -27355,7 +27682,8 @@ titles:
   - title: Bảo tàng Khải Định
     subtitle: Tập san Những người bạn cố đô Huế
     series: Bulletin des Amis du Vieux Hué; No. 2 (Avril-Juin 1929)
-    authors:
+    authors: []
+    translators:
       - Bảo Chân
     year: 2020
     language: Vietnamese
@@ -27365,8 +27693,10 @@ titles:
     verified: true
   - title: Bella figura
     subtitle: Tôi có một chuyện tình
+    original_title: 'Bella figura : how to live, love, and eat the Italian way'
     authors:
       - Kamin Mohammadi
+    translators:
       - Vivian
     year: 2020
     language: Vietnamese
@@ -27464,8 +27794,10 @@ titles:
         url: https://lccn.loc.gov/2020313212
     verified: true
   - title: Hạnh phúc chết đi được!
+    original_title: 'Furiously happy : a funny book about horrible things'
     authors:
       - Jenny Lawson
+    translators:
       - Ngọc Hà
     year: 2020
     language: Vietnamese
@@ -27495,8 +27827,10 @@ titles:
         url: https://www.sudoc.fr/256521794
     verified: true
   - title: Không muốn cô ấy vì tôi mà rơi lệ
+    original_title: I don't want her to shed tears for me
     authors:
       - Ming Ya
+    translators:
       - Nguyễn Hương
     year: 2020
     language: Vietnamese
@@ -27516,8 +27850,11 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BC17448212
     verified: false
   - title: Kiều
+    original_title: Truyện Kiều
     authors:
       - Nguyễn Du
+    translators:
+      - Dương Tường
     year: 2020
     language: English
     sources:
@@ -27582,6 +27919,7 @@ titles:
   - title: Nghiên cứu bản đồ các cửa sông, hải cảng Việt Nam thế kỷ XV
     authors:
       - Gustave Dumoutier
+    translators:
       - Nguyễn Văn Trường
     year: 2020
     language: Vietnamese
@@ -27652,6 +27990,7 @@ titles:
     subtitle: Bàn đạp thuộc đi̇a
     authors:
       - Amaury Lorin
+    translators:
       - Nguyễn Văn Trường
     year: 2020
     language: Vietnamese
@@ -27707,7 +28046,8 @@ titles:
     isbn: '9786047780242'
     edition: Tái bản theo bản in năm 1942
   - title: Tết Việt Nam xưa
-    authors:
+    authors: []
+    translators:
       - Du Uyên
     year: 2020
     language: Vietnamese
@@ -27734,6 +28074,7 @@ titles:
         url: https://www.sudoc.fr/25644949X
     verified: true
   - title: The Origin & Development of the Dong Son Drum
+    original_title: Nguồn gốc và sự phát triển của trống đồng Đông Sơn
     authors:
       - Tạ-Đức
     year: 2020
@@ -27950,6 +28291,11 @@ titles:
     subtitle: A Systematic-Typological Study
     authors:
       - Trân-Ngọc-Thêm
+    translators:
+      - Phạm Thị Tuấn Lan
+      - Lê Xuân Hy
+      - Young Marc
+      - Võ Thị Minh Hà
     year: 2021
     language: English
     sources:
@@ -27961,6 +28307,7 @@ titles:
   - title: Hoàng Việt nhất thống dư điạ chí
     authors:
       - Lê Quang Định
+    translators:
       - Đăng Phan
     year: 2021
     language: Vietnamese
@@ -27989,6 +28336,7 @@ titles:
   - title: Hồi ký của một ông già Việt học
     authors:
       - Léopold Cadière
+    translators:
       - Đỗ Trinh Huệ
     year: 2021
     language: Vietnamese
@@ -27999,6 +28347,7 @@ titles:
   - title: Journey through the cultures of Vietnam
     authors:
       - Lê Thành Khôi
+    translators:
       - Phạm Thị Tuấn Lan
     year: 2021
     language: Vietnamese
@@ -28009,6 +28358,7 @@ titles:
   - title: Khảo cứu về tiền cổ ở An Nam
     authors:
       - Désiré Lacroix
+    translators:
       - Lê Tư Lành
     year: 2021
     language: Vietnamese
@@ -28249,6 +28599,7 @@ titles:
   - title: Du hành cùng Herodotus
     authors:
       - Ryszard Kapuściński
+    translators:
       - Nguyen Thai Linh
     year: 2022
     language: Vietnamese
@@ -28260,6 +28611,7 @@ titles:
     subtitle: Song Ngữ Anh-Việt = Beneath Saigon's Chò Nâu
     authors:
       - Paul Victor Christiansen
+    translators:
       - Trần Thị NgH
     year: 2022
     language: Vietnamese, English
@@ -28270,6 +28622,7 @@ titles:
   - title: Gỗ mun
     authors:
       - Ryszard Kapuściński
+    translators:
       - Nguyen Thai Linh
     year: 2022
     language: Vietnamese
@@ -28301,8 +28654,10 @@ titles:
     verified: true
   - title: Những nguyên lý của lịch aử nghệ thuật
     subtitle: Vấn đề phát triển phong cách ở tân nghệ thuật
+    original_title: Kunstgeschichtliche Grundbegriffe
     authors:
       - Heinrich Wölfflin
+    translators:
       - Phạm Minh Quân
     year: 2022
     language: Vietnamese
@@ -28396,6 +28751,7 @@ titles:
     subtitle: = Activités de la société enfantine Annamite du Tonkin
     authors:
       - Ngô Quý Sơn
+    translators:
       - Phùng Hồng Minh
     year: 2022
     language: Vietnamese
@@ -28428,6 +28784,7 @@ titles:
     subtitle: Nghiên cứu so sánh về chính quyền dân sự nhà Nguyễn và nhà Thanh nửa đầu thế kỷ XIX
     authors:
       - Alexander Barton Woodside
+    translators:
       - Ngô Thị Mai Diên
       - Phan Thị Thu Huyền
       - Nguyễn Thị Lê
@@ -28439,8 +28796,10 @@ titles:
         url: https://www.sudoc.fr/27044940X
     verified: true
   - title: Bài giảng lịch sử An Nam
+    original_title: Cours d'histoire annamite à l'usage des écoles de la Basse-Cochinchine
     authors:
       - Trương Vĩnh Ký
+    translators:
       - Nguyễn Thị Tươi
       - Trần Trung Quân
     year: 2023
@@ -28461,6 +28820,7 @@ titles:
   - title: Hội hè lễ tết của người Việt
     authors:
       - Nguyễn Văn Huyên
+    translators:
       - Đỗ Trọng Quang
       - Trần Đỉnh
     year: 2023
@@ -28471,7 +28831,8 @@ titles:
     verified: true
   - title: Huế đẹp như tranh
     series: Tập san Những người bạn cố đô Huế; 3e année - No. 2 (Avril-Juin 1916)
-    authors:
+    authors: []
+    translators:
       - Việt Anh
     year: 2023
     language: Vietnamese
@@ -28516,6 +28877,7 @@ titles:
   - title: Tiểu luận về Nghệ thuật An Nam
     authors:
       - Louis Bezacier
+    translators:
       - Vũ Mai
     year: 2023
     language: Vietnamese
@@ -28674,6 +29036,7 @@ titles:
     subtitle: Giao thoa văn hóa Việt-Pháp
     authors:
       - Trần Quốc Bảo
+    translators:
       - Yến Linh Thẩm
     year: 2024
     language: Vietnamese, French
@@ -28692,10 +29055,12 @@ titles:
     verified: true
   - title: Kim Vân Kiều
     subtitle: Le chant déchirant d'une destinée funeste
+    original_title: Kim Vân Kiều
     authors:
       - Nguyễn Du
-      - René Crayssac
       - Philippe Papin
+    translators:
+      - René Crayssac
     year: 2024
     language: French
     sources:
@@ -28816,6 +29181,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1949759660
     verified: true
   - title: Bauhaus
+    original_title: Bauhaus
     authors:
       - Frank Whitford
     year: 2025
@@ -28828,6 +29194,8 @@ titles:
     subtitle: = Les symboles, les emblèmes et les accessoires du culte chez les Annamites
     authors:
       - Gustave Dumoutier
+    editors:
+      - Việt Anh
     year: 2025
     language: Vietnamese
     sources:
@@ -28886,6 +29254,7 @@ titles:
     verified: true
   - title: Hậu khoa cử
     subtitle: Nam tính và thẩm mỹ hiện đại ở Việt Nam thời thuộc địa
+    original_title: Post-Mandarin masculinity and aesthetic modernity in colonial Vietnam
     authors:
       - Tran Ben
     year: 2025
@@ -28960,8 +29329,10 @@ titles:
         url: https://www.sudoc.fr/296191035
     verified: true
   - title: Truyền thống Việt Nam qua thử thách, 1920-1945
+    original_title: Vietnamese tradition on trial, 1920-1945
     authors:
       - David G. Marr
+    translators:
       - Thiếu Khanh
     year: 2025
     language: Vietnamese
@@ -29036,6 +29407,7 @@ titles:
     verified: false
   - title: La montagne de la femme qui attend son mari
     subtitle: Légendes vietnamiennes
+    original_title: Hòn Vọng Phu
     authors:
       - Mai Hoa
     language: Vietnamese

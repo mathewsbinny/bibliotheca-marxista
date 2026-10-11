@@ -109,6 +109,8 @@ titles:
   - title: Il tumulto dei Ciompi (Firenze 1378)
     authors:
       - Giuseppe Di Leva
+    editors:
+      - Renzo Vespignani
     year: 1972
     language: Italian
     pages: 221
@@ -140,9 +142,11 @@ titles:
     verified: true
   - title: Lotta di classe e morale marxista
     subtitle: 'Appendice: dizionario marxista-leninista'
+    original_title: Lutte de classe et morale marxiste
     series: Evidenze; 6
     authors:
       - Jean Fallot
+    translators:
       - Fabio Arcangeli
     year: 1972
     language: Italian
@@ -155,6 +159,8 @@ titles:
   - title: Memorie
     authors:
       - Giuseppe Garibaldi
+    editors:
+      - Ugoberto Alfassio Grimaldi
     year: 1972
     series: Testi
     language: Italian
@@ -231,6 +237,8 @@ titles:
     verified: true
   - title: 'Per un movimento politico di liberazione della donna, saggi e documenti. A cura di Lidia Menapace. In appendice: La questione femminile, interventi sul quotidiano «il manifesto»'
     authors: []
+    editors:
+      - Lidia Menapace Brisca
     year: 1972
     language: Italian
     sources:
@@ -411,6 +419,7 @@ titles:
     subtitle: È una cosa bella assai lu programma di l'operai ccu programma di l'operai chi lavora ora comanda
     authors:
       - Cicciu Busacca
+    translators:
       - Dario Fo
     year: 1973
     language: Italian
@@ -480,8 +489,12 @@ titles:
     verified: true
   - title: Il Re Lear
     subtitle: King Lear
+    original_title: King Lear
     authors:
       - William Shakespeare
+    translators:
+      - Angelo Dallagiacoma
+      - Luigi Lunari
     year: 1973
     language: Italian
     sources:
@@ -647,6 +660,8 @@ titles:
   - title: Testi del Collettivo la Comune
     authors:
       - Collettivo la Comune
+    editors:
+      - Dario Fo
     year: 1973
     language: Italian
     sources:
@@ -677,6 +692,8 @@ titles:
   - title: Ballate e canzoni
     authors:
       - Dario Fo
+    editors:
+      - Lanfranco Binni
     year: 1974
     series: Comunicazioni visive; 3
     language: Italian
@@ -902,6 +919,8 @@ titles:
     subtitle: Giullarata popolare
     authors:
       - Dario Fo
+    editors:
+      - Franca Rame
     year: 1974
     edition: Nuova ed
     series: Testi del collettivo La comune; nuova ser., 3
@@ -994,6 +1013,8 @@ titles:
     series: Communicazione visive; 2
     authors:
       - Bertolt Brecht
+    translators:
+      - Franco Fortini
     year: 1974
     language: Italian
     sources:
@@ -1003,7 +1024,9 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1385530316
     verified: true
     subtitle: '(Appendice: Analisi dello spettacolo di Stephan e Claire Lannoy)'
+    original_title: Die heilige Johanna der Schachthöfe
   - title: Santa Giovanna dei Macelli di Brecht
+    original_title: Die heilige Johanna der Schlachthöfe
     authors:
       - Giorgio Strehler
     year: 1974
@@ -1025,10 +1048,12 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991073640599705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Scienza della lotta di classe
+    original_title: La science de lutte des classes
     series: Evidenze; 14
     authors:
       - Jean Fallot
       - Ivano Spano
+    translators:
       - Emanuela Niero
     year: 1974
     language: Italian
@@ -1513,6 +1538,8 @@ titles:
   - title: Scritti sull'arte e sulla letteratura
     authors:
       - Rosa Luxemburg
+    editors:
+      - Marlen M. Korallov
     year: 1976
     series: Evidenze -- 22
     language: Italian
@@ -2590,6 +2617,8 @@ titles:
     subtitle: Attualità del razionalismo
     authors:
       - Ludovico Geymonat
+    editors:
+      - Mario Quaranta
     year: 1981
     series: Il Lavoro critico
     language: Italian
@@ -3224,6 +3253,8 @@ titles:
     subtitle: Contributi per uno storicismo scientifico
     authors:
       - Ludovico Geymonat
+    editors:
+      - Fabio Minazzi
     year: 1985
     series: Il Lavoro critico
     language: Italian
@@ -3565,6 +3596,8 @@ titles:
     subtitle: Interventi, 1976-1986
     authors:
       - Ludovico Geymonat
+    editors:
+      - Mario Quaranta
     year: 1987
     series: Lavoro critico -- 26. -- Filosofia e politica
     language: Italian

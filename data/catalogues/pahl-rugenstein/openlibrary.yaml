@@ -199,6 +199,7 @@ titles:
     verified: true
   - title: Pacem in terris
     subtitle: Über den Frieden unter allen Völkern in Wahrheit, Gerechtigkeit, Liebe und Freiheit; Enzyklika Papst Johannes XXIII; Gründonnerstag, den 11. April 1963
+    original_title: Pacem in terris
     series: Stimmen zur Zeit; 1
     authors:
       - Johannes
@@ -573,6 +574,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1576258831
     verified: true
   - title: Die Religion in der Geschichte der Völker
+    original_title: Religija v istorii narodov mira
     series: Kleine Bibliothek; 500
     authors:
       - Sergej A. Tokarev
@@ -894,6 +896,8 @@ titles:
   - title: Emanzipation oder Disziplinierung zur Studienreform 1967/68
     authors:
       - Verband Deutscher Studentenschaften
+    editors:
+      - Thomas Kieselbach
     year: 1969
     language: German
     pages: 149
@@ -1072,6 +1076,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/007359486
     verified: true
     subtitle: 'Eine Analyse von Industriereportagen und Reportageromanen: Max von der Grün, Christian Geissler, Günter Wallraff'
+    original_title: Industriereportagen und Reportageromane in der Bundesrepublik
   - title: Arbeiterliteratur in der Bundesrepublik
     subtitle: Eine Analyse von Industriereportagen und Reportageromanen; Max von der Grün, Christian Geissler, Günter Wallraff
     series: Sammlung Junge Wissenschaft
@@ -1628,8 +1633,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=054657695
     verified: true
   - title: Die spanische Opposition
+    original_title: Protagonistas de la España democrática
     authors:
       - Sergio Vilar
+    translators:
       - Josef Bender
     year: 1971
     language: German
@@ -1816,6 +1823,7 @@ titles:
         url: https://www.sudoc.fr/054650313
     verified: true
   - title: Soziologie der Persönlichkeit
+    original_title: Sociologija ličnosti
     authors:
       - Igorʹ Semenovič Kon
       - Willi Hoepp
@@ -1945,6 +1953,7 @@ titles:
     verified: true
   - title: Der gegenwärtige Kapitalismus
     subtitle: Versuch einer theoretischen Analyse
+    original_title: Sovremennyj kapitalizm
     authors:
       - S. L. Wygodski
     year: 1972
@@ -2069,8 +2078,11 @@ titles:
         url: https://openlibrary.org/books/OL21479866M
     verified: true
   - title: Einführung in die marxistische Erziehungstheorie
+    original_title: U podstaw materialistycznej teorii wychowania
     authors:
       - Bogdan Suchodolski
+    translators:
+      - Marian Kunze
     year: 1972
     language: German
     sources:
@@ -2207,6 +2219,7 @@ titles:
     verified: true
   - title: Literarische Intelligenz und Klassenkampf
     subtitle: '"Die Aktion", 1911-1932'
+    original_title: Das Verhältnis von Schriftstellern zum politischen Engagement am Beispiel der Zeitchrift "Die Aktion" 1918-1925 (Titel der Diss.)
     series: Sammlung Junge Wissenschaft
     authors:
       - Lothar Peter
@@ -2701,6 +2714,7 @@ titles:
         url: https://www.sudoc.fr/04778461X
     verified: true
   - title: Der deutsche Sozialliberalismus 1917-1933
+    original_title: Ideologie und Praxis des deutschen Sozialliberalismus 1917-1933 (Titel der Diss.)
     series: Kleine Bibliothek; 38
     authors:
       - Reinhard Opitz
@@ -2729,6 +2743,8 @@ titles:
     series: Kleine Bibliothek; 43
     authors:
       - Horst Bethge
+    editors:
+      - Erich Rossmann
     year: 1973
     language: German
     sources:
@@ -2824,6 +2840,7 @@ titles:
         url: https://www.sudoc.fr/063356899
     verified: true
   - title: Einführung in die marxistische Rechts- und Staatstheorie
+    original_title: Vvedenie v obščuju teoriju gosudarstva i prava
     authors:
       - Petr E. Nedbajlo
       - Petr Emelʹjanovič Nedbajlo
@@ -2951,6 +2968,7 @@ titles:
     verified: true
   - title: Kapitalismus und Klassen
     subtitle: Zur Sozialstruktur in der modernen kapitalistischen Gesellschaft
+    original_title: Kapitalizm i klassy
     authors:
       - W. S. Semjenow
     year: 1973
@@ -3081,6 +3099,8 @@ titles:
   - title: Protokoll
     authors:
       - Kongress Wissenschaft Und Demokratie. [1970. Marburg, R. F. A.]
+    editors:
+      - Jutta von Freyberg
     year: 1973
     language: German
     sources:
@@ -3090,6 +3110,8 @@ titles:
   - title: Protokoll des Kongresses Wissenschaft und Demokratie
     authors:
       - Kongress Wissenschaft und Demokratie, Marburg 1972
+    editors:
+      - Jutta von Freyberg
     year: 1973
     series: 'Kleine Bibliothek: Politik, Wissenschaft, Zukunft, 37'
     language: German
@@ -3401,6 +3423,7 @@ titles:
         url: https://www.sudoc.fr/062242911
     verified: true
   - title: Allgemeine Psychologie
+    original_title: Obščaja psichologija
     series: Bildung und Erziehung
     authors:
       - Artur V. Petrovskij
@@ -3552,6 +3575,7 @@ titles:
     verified: true
   - title: Der subjektive Faktor
     subtitle: Struktur und Gesetzmässigkeiten
+    original_title: Sub-ektivnyj faktor struktura i zakonomernosti
     authors:
       - B. A. Chagin
     year: 1974
@@ -3591,6 +3615,8 @@ titles:
       - Wolfgang Schumann
       - Walter Bartel
       - Zentralinstitut für Geschichte
+    editors:
+      - Gerhart Hass
     year: 1974
     language: German
     sources:
@@ -3953,6 +3979,8 @@ titles:
     subtitle: Texte aus West- und Osteuropa
     authors:
       - Symposium "Ökonomische und Soziale Aspekte der Abrüstung" Berlin 1973
+    editors:
+      - Wilfried von Bredow
     year: 1974
     series: 'Kleine Bibliothek: Politik, Wissenschaft, Zukunft -- 46'
     language: German
@@ -3970,6 +3998,8 @@ titles:
     authors:
       - Symposium Ökonomische Und Soziale Aspekte Der Abrüstung. [1973. Berlin, D. D. R.]
       - Weltkongress Der Friedenskräfte. [1973. Moscou.]
+    editors:
+      - Wilfried von Bredow
     year: 1974
     language: German
     sources:
@@ -4354,6 +4384,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=439139961
     verified: true
   - title: Befreites Portugal
+    original_title: Portugal livre
     authors:
       - Abel Fonseca
     year: 1975
@@ -4474,6 +4505,8 @@ titles:
   - title: Deutschland im Zweiten Weltkrieg
     authors:
       - Wolfgang Schumann
+    editors:
+      - Gerhart Hass
     year: 1975
     language: German
     sources:
@@ -4625,6 +4658,7 @@ titles:
         url: https://search.worldcat.org/title/2019404
     verified: true
   - title: Grundlagen der sozialpsychologischen Theorie
+    original_title: Osnovy socialʹno-psichologičeskoj teorii
     authors:
       - Boris Dmitrievich Parygin
       - Boris Dmitrievič Parygin
@@ -4685,6 +4719,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=437477134
     verified: true
   - title: Intellektuelle und Klassenkämpfe
+    original_title: Les intellectuels et les luttes de classes
     series: Kleine Bibliothek; 39
     authors:
       - Antoine Casanova
@@ -4699,8 +4734,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=020723113
     verified: true
   - title: Kinderpsychologie
+    original_title: Detskaja psichologija
     authors:
       - Anna Ljublinskaja
+    translators:
+      - Elske Däbritz
     year: 1975
     language: German
     sources:
@@ -4711,6 +4749,7 @@ titles:
     verified: true
   - title: Klassengegensätze in der Kirche
     subtitle: 'Erwin Eckert und der Bund der religiösen Sozialisten Deutschlands: ein Beitrag zur Sozialgeschichte der protestantischen Landeskirchen und der Arbeiterbewegung der Weimarer Republik'
+    original_title: Erwin Eckert und der Bund der religiösen Sozialisten Deutschlands
     series: Kleine Bibliothek; 36
     authors:
       - Friedrich-Martin Balzer
@@ -4723,6 +4762,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=039669688
     verified: true
   - title: Klassifizierung der Wissenschaften
+    original_title: Klassifikacija nauk
     authors:
       - Bonifatij Mihajlovič Kedrov
       - Bonifatij M. Kedrov
@@ -4760,6 +4800,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=616329474
     verified: true
   - title: Kritik der bürgerlichen Rechtsideologie
+    original_title: Buržuaznaja pravovaja ideologija
     authors:
       - Vladimir Aleksandrovič Tumanov
     year: 1975
@@ -5220,6 +5261,8 @@ titles:
   - title: Das Politische und gesellschaftliche System der UdSSR Union der Sozialistischen Sowjetrepubliken
     subtitle: Ein Quellenband
     authors: []
+    editors:
+      - Gert Meyer
     year: 1976
     language: German
     sources:
@@ -5365,6 +5408,8 @@ titles:
     series: Kleine Bibliothek; 66
     authors:
       - Udo Mayer
+    editors:
+      - Gerhard Stuby
     year: 1976
     language: German
     sources:
@@ -5550,6 +5595,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=053963415
     verified: true
   - title: Klassifizierung der Wissenschaften
+    original_title: Klassifikacija nauk
     authors:
       - Bonifatij M. Kedrov
       - L. Keith
@@ -5692,6 +5738,8 @@ titles:
     series: Kleine Bibliothek; 68. Politik Wissenschaft Zukunft
     authors:
       - Helmut Arnaszus
+    editors:
+      - Hans Jörg Sandkühler
     year: 1976
     language: German
     sources:
@@ -5982,9 +6030,12 @@ titles:
     verified: true
   - title: Auf den Spuren Zarathustras
     subtitle: Der Einfluss Nietzsches auf die bürgerliche deutsche Philosophie
+    original_title: Tropami Zaratustry
     authors:
       - Stepan Fedorovič Oduev
       - Stepan F. Oduev
+    editors:
+      - Hans-Martin Gerlach
     year: 1977
     language: German
     sources:
@@ -5997,6 +6048,8 @@ titles:
     verified: true
   - title: Beiträge zur Arbeiterliteratur
     authors: []
+    editors:
+      - Hugo Ernst Käufer
     year: 1977
     language: German
     sources:
@@ -6010,6 +6063,9 @@ titles:
   - title: Bericht
     authors:
       - Kongress Kritische Psychologie
+    editors:
+      - Klaus Holzkamp
+      - Karl-Heinz Braun
     year: 1977
     language: German
     sources:
@@ -6040,6 +6096,9 @@ titles:
   - title: Bericht über den I.Kongress Kritische Psychologie in Marburg vom 13. bis 15. Mai 1977
     authors:
       - Kongress Kritische Psychologie
+    editors:
+      - Klaus Holzkamp
+      - Karl-Heinz Braun
     year: 1977
     series: Studien zur Kritischen Psychologie
     language: German
@@ -6066,6 +6125,8 @@ titles:
     verified: true
   - title: Betr. Althusser Kontroversen über den «Klassenkampf in der Theorie» / Hans Jörg Sandkühler Hrsg
     authors: []
+    editors:
+      - Hans Jörg Sandkühler
     year: 1977
     language: German
     sources:
@@ -6076,6 +6137,8 @@ titles:
     subtitle: Kontroversen über den "Klassenkampf in der Theorie"
     authors:
       - Hans-Jörg Sandkühler
+    editors:
+      - Hans Jörg Sandkühler
     year: 1977
     series: Kleine Bibliothek, Politik, Wissenschaft, Zukunft; 96
     language: German
@@ -6459,6 +6522,10 @@ titles:
     verified: true
   - title: Geschichte der deutschen Gewerkschaftsbewegung / Frank Deppe, Georg Fulberth, Jürgen Harrer Hrsg.; mit Beiträgen von... Käthe Gerstung Hans-Dieter Gimbel, Wolfgang Hecker, Kurt Pohl... et al
     authors: []
+    editors:
+      - Jürgen Harrer
+      - Frank Deppe
+      - Georg Fülberth
     year: 1977
     language: German
     sources:
@@ -6492,7 +6559,9 @@ titles:
     verified: true
   - title: Geschichte der UdSSR
     subtitle: In drei Teilen
-    authors:
+    original_title: Istorija SSSR
+    authors: []
+    translators:
       - L. Schulman
     year: 1977
     language: German
@@ -6593,10 +6662,13 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=440560152
     verified: true
     subtitle: Von Tamás Földesi. (Aus d. Ungar. übers. von Maria Bondy)
+    original_title: A marxista filozófia bizonyításelméletének alapjai
   - title: Grundlagentexte zur Emanzipation der Frau
     series: Kleine Bibliothek; 61. Politik, Wissenschaft, Zukunft
     authors:
       - Jutta Menschik
+    editors:
+      - Jutta Menschik-Bendele
     year: 1977
     language: German
     sources:
@@ -6843,6 +6915,7 @@ titles:
     verified: true
   - title: Mensch, Wissenschaft, Technik
     subtitle: Versuch einer marxistischen Analyse der wissenschaftlich-technischen Revolution
+    original_title: Čelovek, nauka, technika
     authors:
       - Manfred Buhr
       - Günter Kröber
@@ -7086,6 +7159,9 @@ titles:
     verified: true
   - title: Studien zur kritischen Psychologie
     authors: []
+    editors:
+      - Karl-Heinz Braun
+      - Klaus Holzkamp
     year: 1977
     language: German
     sources:
@@ -7333,6 +7409,8 @@ titles:
       - Gerhard Kade
       - Reinhard Kühnl
       - Wilfried <<von>> Bredow
+    editors:
+      - Wilfried von Bredow
     year: 1978
     language: German
     sources:
@@ -7672,6 +7750,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1161789839
     verified: true
   - title: Die Religion in der Geschichte der Völker
+    original_title: Religija v istorii narodov mira
     series: Kleine Bibliothek; 500
     authors:
       - Sergej A. Tokarev
@@ -7969,6 +8048,7 @@ titles:
         url: https://www.sudoc.fr/087500140
     verified: true
   - title: Handlungstheorie und Sportwissenschaft
+    original_title: Handlungstheoretische Grundlagen und Probleme von Sportwissenschaft und Sport (Tit. der Orig.-Diss.)
     series: Sport, Arbeit, Gesellschaft; Bd. 11
     authors:
       - Peter Weinberg
@@ -8092,6 +8172,8 @@ titles:
     verified: true
   - title: 'Lehrerschaft, Republik und Faschismus: Beiträge zur Geschichte der organisierten Lehrerschaft in der Weimarer Republik / Herausgeber Dietfrid Krause-Vilmar'
     authors: []
+    editors:
+      - Dietfrid Krause-Vilmar
     year: 1978
     language: German
     sources:
@@ -8172,6 +8254,8 @@ titles:
     verified: true
   - title: Schwerpunkt Louis-Sébastien Mercier
     authors: []
+    editors:
+      - Herman Hofer
     year: 1978
     language: German
     sources:
@@ -8242,6 +8326,9 @@ titles:
   - title: Studien zur Wissenschaftsgeschichte des Sozialismus
     series: Studien zur Dialektik
     authors: []
+    editors:
+      - Manfred Hahn
+      - Hans Jörg Sandkühler
     year: 1978
     language: German
     sources:
@@ -8315,6 +8402,8 @@ titles:
     subtitle: Histor. Porträts zur dt. frühbürgerl. Revolution
     authors:
       - Helmut Bock
+    editors:
+      - Marianne Thoms
     year: 1978
     series: 'Kleine Bibliothek: Politik, Wissenschaft, Zukunft -- 132'
     language: German
@@ -8441,6 +8530,8 @@ titles:
     verified: true
   - title: 'Wer war Hitler wirklich? Grosskapital und Faschismus 1918-1945: Dokumente / Ulrike Hörster-Philipps'
     authors: []
+    editors:
+      - Ulrike Hörster-Philipps
     year: 1978
     language: German
     sources:
@@ -8500,6 +8591,9 @@ titles:
     series: Kleine Bibliothek; 148
     authors:
       - Kristine <<von>> Soden
+    editors:
+      - Kristine von Soden
+      - Gaby Zipfel
     year: 1979
     language: German
     sources:
@@ -8693,6 +8787,8 @@ titles:
   - title: Bürgerliche Staatsideologie
     authors:
       - Akademie für Staats- und Rechtswissenschaft der DDR
+    editors:
+      - Joachim Henker
     year: 1979
     language: German
     pages: 284
@@ -8930,6 +9026,8 @@ titles:
     verified: true
   - title: 'Die Deutsche Revolution, 1918-19: Quellen und Dokument / Herausgeber Jörg Berlin'
     authors: []
+    editors:
+      - Jörg Berlin
     year: 1979
     language: German
     sources:
@@ -9224,6 +9322,8 @@ titles:
     authors:
       - Friedrich Engels
       - Bonifatij Mihajlovič Kedrov
+    editors:
+      - Bonifatij M. Kedrov
     year: 1979
     language: German
     sources:
@@ -9302,7 +9402,8 @@ titles:
     verified: true
   - title: Geschichte der UdSSR
     subtitle: In drei Teilen
-    authors:
+    authors: []
+    translators:
       - L. Schulman
     year: 1979
     language: German
@@ -9426,6 +9527,7 @@ titles:
         url: https://www.sudoc.fr/05497643X
     verified: true
     subtitle: Dokumentarische Enthüllungen über Hitlers Geheimrüstungen
+    original_title: Hitler rearms
   - title: Hölderlin und revolutionäre Bestrebungen in Württemberg unter dem Einfluss der Französischen Revolution
     series: Pahl-Rugenstein Hochschulschriften. Gesellschafts- und Naturwissenschaften; 14
     authors:
@@ -9514,6 +9616,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=023652373
     verified: true
   - title: Kinderpsychologie
+    original_title: Detskaja psichologija
     authors:
       - Anna Aleksandrovna Ljublinskaja
     year: 1979
@@ -10707,6 +10810,9 @@ titles:
     verified: true
   - title: 'Betr.: Gramsci: Philosophie und revolutionäre Politik in Italien'
     authors: []
+    editors:
+      - Hans Heinz Holz
+      - Hans Jörg Sandkühler
     year: 1980
     language: German
     sources:
@@ -10781,6 +10887,10 @@ titles:
     authors:
       - Peter Gerdes
       - Vereinigte Deutsche Studentenschaften
+    editors:
+      - Jürgen Hentzelt
+      - Ulla Spittler
+      - Jürgen Starbatty
     year: 1980
     language: German
     sources:
@@ -10939,6 +11049,10 @@ titles:
     subtitle: Beiträge zu Philosophie und Wissenschaften
     series: Studien zur Dialektik
     authors: []
+    editors:
+      - Hans Heinz Holz
+      - Hans Jörg Sandkühler
+      - Lars Lambrecht
     year: 1980
     language: German
     sources:
@@ -11171,6 +11285,8 @@ titles:
     subtitle: Positionen, Probleme, Polemik
     authors:
       - Dietrich Eichholtz
+    editors:
+      - Kurt Gossweiler
     year: 1980
     edition: 2. durchgeseh. Aufl
     language: German
@@ -11389,6 +11505,8 @@ titles:
     authors:
       - Wilfried <<von>> Bredow
       - Vereinte Nationen
+    editors:
+      - Wilfried von Bredow
     year: 1980
     language: German
     sources:
@@ -11460,6 +11578,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=161196198X
     verified: true
   - title: Grundlagen einer realistischen Theorie der Wissenschaft
+    original_title: Scienza e realismo
     series: Studien zur Dialektik
     authors:
       - Ludovico Geymonat
@@ -11553,6 +11672,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=194482829X
     verified: true
     subtitle: Autobiographische Aufzeichnungen
+    original_title: Iz moej žizni i raboty
   - title: Industriesoziologische Analyse der Produktiventwicklung
     authors:
       - Rainer Thomas
@@ -12170,6 +12290,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1169775209
     verified: true
   - title: Psychologie des Spiels
+    original_title: Psichologija igry
     authors:
       - D. B. Ėlʹkonin
     year: 1980
@@ -12187,6 +12308,7 @@ titles:
     verified: true
   - title: Raum und Zeit
     subtitle: Grundfragen naturwissenschaftlicher und philosophischer Erkenntnis
+    original_title: Essai sur l'espace et le temps ou propos sur la dialectique de la nature
     series: Studien zur Dialektik
     authors:
       - Pierre Jaeglé
@@ -12375,6 +12497,8 @@ titles:
     subtitle: Zeichnungen von Häftlingen des Konzentrationslagers Auschwitz 1940-46
     authors:
       - Marina Stütz
+    translators:
+      - Christine Kopka
     year: 1980
     language: German
     sources:
@@ -12545,6 +12669,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/010373855
     verified: true
   - title: Zu Grundfragen der Psychologie
+    original_title: Vvedenie v psichologiju
     authors:
       - Petr IAkovlevich Galʹperin
     year: 1980
@@ -13277,6 +13402,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=02423561X
     verified: true
   - title: Die Geschichte des deutsch-sowjetischen Nichtangriffsvertrags
+    original_title: Diplomatičeskaja borʹba nakanune vtoroj mirovoj vojny
     authors:
       - Vilnis Janovič Sipols
       - Sylvia Ebel
@@ -13382,8 +13508,13 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=023923628
     verified: true
   - title: Die Vorgeschichte des deutsch-sowjetischen Nichtangriffsvertrags
+    original_title: Diplomatičeskaja bor'ba nakanune vtoroj mirovoj vojny
     authors:
       - V. IA Sipols
+    translators:
+      - Sylvia Ebel
+      - Wladislaw Lomon
+      - Alexander Smirnow
     year: 1981
     language: German
     pages: 359
@@ -13437,6 +13568,8 @@ titles:
     subtitle: Hauptdokumente der 1. bis 6. Gipfelkonferenz der nichtpaktgebundenen Staaten, 1961-1979
     authors:
       - Conference of Heads of State or Government of Non-aligned Countries
+    editors:
+      - Renate Wünsche
     year: 1981
     language: German
     pages: 294
@@ -13820,6 +13953,7 @@ titles:
         url: https://www.sudoc.fr/05491843X
     verified: true
   - title: Geschichte der NSDAP, 1920-1945
+    original_title: Hakenkreuz und Totenkopf
     series: Kleine Bibliothek; 232
     authors:
       - Kurt Pätzold
@@ -13970,6 +14104,7 @@ titles:
     verified: true
   - title: Gramsci und der Staat
     subtitle: Für eine materialistische Theorie der Philosophie
+    original_title: Gramsci et l'État
     series: Studien zur Dialektik
     authors:
       - Christine Buci-Glucksmann
@@ -14148,6 +14283,10 @@ titles:
   - title: Ich habe viele Leben gelebt
     authors:
       - Aleksandra Michajlovna Kollontaj
+    editors:
+      - Irina Martinovna Dažina
+      - Mansur Michajlovič Muchamedžanov
+      - R. J. Civlina
     year: 1981
     language: German
     sources:
@@ -14161,6 +14300,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=075031914
     verified: true
     subtitle: Autobiographische Aufzeichnungen
+    original_title: Iz moej zizni i raboty
   - title: In den Tod - hurra!
     subtitle: 'Deutsche Jugend-Regimenter im Ersten Weltkrieg: ein historischer Tatsachenbericht über Langemarck'
     series: Kleine Bibliothek; 228
@@ -14464,6 +14604,7 @@ titles:
     series: 'Pahl-Rugenstein Hochschulschriften: Gesellschafts- und Naturwissenschaften; 43'
     authors:
       - Nicolás Guillén
+    translators:
       - Gabriele Batinic
       - Ingrid Kerkhoff
       - Joachim Schmitt-Sasse
@@ -14600,6 +14741,8 @@ titles:
     series: (Stadt-Plan; 6)
     authors:
       - Arbeitskreis Arbeitsorientierte Regionalwissenschaft
+    editors:
+      - Hermann Bömer
     year: 1981
     language: German
     sources:
@@ -14639,8 +14782,11 @@ titles:
     verified: true
   - title: Simón Bolívar
     subtitle: Rebell gegen die spanische Krone, Befreier Südamerikas
+    original_title: Bolivar
     authors:
       - Josef Lawrezki
+    translators:
+      - Mathias Moll
     year: 1981
     language: German
     pages: 340
@@ -15161,6 +15307,7 @@ titles:
     verified: true
   - title: Arbeitslosigkeit und Tarifpolitik
     subtitle: Möglichkeiten und Grenzen der Tarifpolitik im Rahmen des gewerkschaftlichen Kampfes gegen die Arbeitslosigkeit
+    original_title: Auf die eigene Kraft verlassen! (Titel der Orig.-Diss.)
     series: Pahl-Rugenstein Hochschulschriften Gesellschafts- und Naturwissenschaften; 115
     authors:
       - Steffen Lehndorff
@@ -15221,8 +15368,12 @@ titles:
     verified: true
   - title: Ausgewählte Schriften
     subtitle: 1918-1964
+    original_title: Izbrannye proizvedenija
     authors:
       - Evgenij S. Varga
+    editors:
+      - Horst Heininger
+      - Lutz Maier
     year: 1982
     language: German
     sources:
@@ -15342,6 +15493,8 @@ titles:
     subtitle: Geschichte der revolutionären Bestrebungen in Rheinbayern um das Jahr 1832
     authors:
       - Wilhelm Herzberg
+    editors:
+      - Heinrich Werner
     year: 1982
     series: Kleine Bibliothek -- 257
     language: German
@@ -15365,6 +15518,8 @@ titles:
     subtitle: Geschichte und Gegenwart
     authors:
       - Karl Heinz Röder
+    editors:
+      - Karl-Heinz Röder
     year: 1982
     edition: 2, überarb. und erw. Aufl
     series: Kleine Bibliothek -- 181
@@ -15638,6 +15793,8 @@ titles:
     subtitle: In 12 Bänden
     authors:
       - Horst Bartel
+    editors:
+      - Walter Schmidt
     year: 1982
     language: German
     isbn: '3760910009'
@@ -16467,6 +16624,8 @@ titles:
     subtitle: Bilder, Texte, Dokumente
     authors:
       - Klaus Mannhardt
+    editors:
+      - Gerd Greune
     year: 1982
     language: German
     pages: 143
@@ -16574,6 +16733,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=160212758
     verified: true
   - title: Kinderpsychologie
+    original_title: Detskaja psichologija
     authors:
       - Anna Ljublinskaja
       - Anna Aleksandrovna Ljublinskaja
@@ -16696,6 +16856,8 @@ titles:
     authors:
       - Heinz Kloppenburg
       - Martin Niemöller
+    editors:
+      - Eugen Kogon
     year: 1982
     language: German
     sources:
@@ -16836,8 +16998,11 @@ titles:
     verified: true
   - title: Orientierung und Emotion
     subtitle: Ein grundlagentheoretischer Beitrag zur psychischen Handlungsregulation
+    original_title: Kody orientazji i struktura procesów emocjonalnych
     authors:
       - Kazimierz Obuchowski
+    translators:
+      - Anna-Marie Griese
     year: 1982
     series: Studien zur kritischen Psychologie -- Bd. 14
     language: German
@@ -16991,9 +17156,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/102095222
     verified: true
   - title: Sprache und Bewußtsein
+    original_title: Jazyk i soznanie
     series: Studien zur kritischen Psychologie; 31 vielm. 33
     authors:
       - A. R. Lurija
+    translators:
       - Klaus Krüger
     year: 1982
     language: German
@@ -17820,8 +17987,11 @@ titles:
         url: https://www.sudoc.fr/092816460
     verified: true
   - title: Die Entdeckung des Ichs
+    original_title: Otkrytie "ja"
     authors:
       - Igorʹ Semenovič Kon
+    translators:
+      - Lazar Steinmetz
     year: 1983
     language: German
     sources:
@@ -18486,6 +18656,8 @@ titles:
     series: Kleine Bibliothek; 303
     authors:
       - Susanne von Daniels
+    editors:
+      - Theresia Degener
     year: 1983
     language: German
     sources:
@@ -19453,6 +19625,7 @@ titles:
     verified: true
   - title: ... Die Stadt dem Erdboden gleichmachen
     subtitle: Leningrad ergibt sich nicht
+    original_title: Podvig Leningrada
     authors:
       - Nikolaj G. Kislicyn
       - Vasilij E. Zubakov
@@ -19661,6 +19834,8 @@ titles:
     series: Kleine Bibliothek; 297
     authors:
       - Renate Kerbst
+    editors:
+      - Gregor Witt
     year: 1984
     language: German
     sources:
@@ -19981,6 +20156,7 @@ titles:
     verified: true
   - title: Die kranke Wirtschaft
     subtitle: Kapitalismus und Krise
+    original_title: Krizy a súčasný kapitalizmus
     authors:
       - Pavel Rapoš
     year: 1984
@@ -20062,6 +20238,7 @@ titles:
     verified: true
   - title: Eingeborenen-Arbeit
     subtitle: Formen der Ausbeutung unter der portugiesischen Kolonialherrschaft in Mosambik
+    original_title: Diss. Univ. Bremen, 1983
     series: Pahl-Rugenstein-Hochschulschriften Gesellschafts- und Naturwissenschaften; 165
     authors:
       - Martin Schaedel
@@ -20098,6 +20275,8 @@ titles:
     series: Kleine Bibliothek; 326
     authors:
       - Carl Gustave Jacobsen
+    editors:
+      - Carl G. Jacobsen
     year: 1984
     language: German
     sources:
@@ -20271,6 +20450,8 @@ titles:
     authors:
       - Ursula Krause-Schmitt
       - Studienkreis zur Erforschung und Vermittlung der Geschichte des Deutschen Widerstandes
+    editors:
+      - Vereinigung der Verfolgten des Naziregimes - Bund der Antifaschisten
     year: 1984
     language: German
     sources:
@@ -20494,6 +20675,8 @@ titles:
     series: Kleine Bibliothek; 342
     authors:
       - Constantin Angélopoulos
+    editors:
+      - Rudolf Chowanetz
     year: 1984
     language: German
     sources:
@@ -20566,6 +20749,8 @@ titles:
     authors:
       - Hans Quitta
       - Joachim Hermann
+    editors:
+      - Joachim Herrmann
     year: 1984
     language: German
     sources:
@@ -21210,8 +21395,10 @@ titles:
     subtitle: Walter Hollitscher unter Mitarb. von Rolf Löther
   - title: Verschwörung gegen den Zaren
     subtitle: Porträts der Dekabristen
+    original_title: Portrety dekabristov
     authors:
       - Natan Jakovlevič Ėjdelʹman
+    translators:
       - L. Gurwitsch
     year: 1984
     language: German
@@ -21249,6 +21436,7 @@ titles:
     verified: true
   - title: Wendepunkt des Zweiten Weltkrieges
     subtitle: Die Schlacht bei Kursk
+    original_title: Na perelome vojny
     authors:
       - Boris Grigorʹevič Solovʹev
       - A. Kossarew
@@ -21574,6 +21762,8 @@ titles:
     series: Ausgewählte Schriften / Lew Wygotski. In dt. Sprache hrsg. von Joachim Lompscher; 1
     authors:
       - Lev Semenovič Vygotskij
+    translators:
+      - Joachim Lompscher
     year: 1985
     language: German
     sources:
@@ -21598,6 +21788,9 @@ titles:
     authors:
       - Lev Semenovič Vygotskij
       - Ruth Kossert
+    editors:
+      - Joachim Lompscher
+    translators:
       - Joachim Lompscher
     year: 1985
     language: German
@@ -21622,6 +21815,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=037233068
     verified: true
     subtitle: In dt. Sprache
+    original_title: Sobranie sočinenij
   - title: Ausländerrecht
     subtitle: 'Textsammlung: mit alphabetischem Wegweiser durch das gesamte Ausländerrecht'
     series: Kleine Bibliothek; 112
@@ -21675,6 +21869,7 @@ titles:
     verified: true
   - title: Der Anfang vom Ende
     subtitle: Deutsch-sowjetische Beziehungen 1933- 1939
+    original_title: Diplomatija mira protiv diplomatii vojny
     authors:
       - I. F. Maksimychev
     year: 1985
@@ -21868,9 +22063,12 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991082930709705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Die Entdeckung Sibiriens
+    original_title: Otkrytie Sibiri
     series: Kleine Bibliothek; 338
     authors:
       - Aleksej Pavlovič Okladnikov
+    translators:
+      - S. Ebel
     year: 1985
     language: German
     sources:
@@ -21974,6 +22172,7 @@ titles:
     verified: true
   - title: Die sowjetische Diplomatie im 2. Weltkrieg
     subtitle: Antihitlerkoalition, Teheran, Jalta, Potsdam
+    original_title: 'Na puti k velikoj pobede: sovetskaja diplomatija v 1941 - 1945 gg'
     series: Kleine Bibliothek; 369
     authors:
       - Vilnis Sipols
@@ -22018,6 +22217,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=572908105
     verified: true
   - title: Einführung in die Sexologie
+    original_title: Kulʹtura seksologija
     authors:
       - Igorʹ Semenovič Kon
       - Walter Friedrich
@@ -22140,6 +22340,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=019845847
     verified: true
   - title: General de Gaulle
+    original_title: General de Gollʾ
     authors:
       - Nikolaj N. Molčanov
     year: 1985
@@ -22250,6 +22451,8 @@ titles:
     subtitle: Aufklärung über Bewusstsein
     authors:
       - Arnim Regenbogen
+    editors:
+      - Dieter Krause
     year: 1985
     series: Dialektik, 10; Studien zur Dialektik
     language: German
@@ -22527,6 +22730,8 @@ titles:
   - title: Meinst du, die Russen wollen Krieg?
     authors:
       - Chingiz Aĭtmatov
+    editors:
+      - Čingiz Ajtmatov
     year: 1985
     series: '[Kleine Bibliothek -- 321 -- Politik, Wissenschaft, Zukunft]'
     language: German
@@ -22778,6 +22983,7 @@ titles:
   - title: Romane und Novellen
     authors:
       - Vasilʹ Uladzimiravič Bykaŭ
+    translators:
       - Ruth Henkel
       - Norbert Randow
     year: 1985
@@ -22862,8 +23068,10 @@ titles:
     verified: true
   - title: Stätten des Schweigens
     subtitle: Roman
+    original_title: Chatynskaja popest'
     authors:
       - Alesʹ Adamovič
+    translators:
       - Heinz Kübart
     year: 1985
     language: German
@@ -22884,6 +23092,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=040280837
     verified: true
   - title: Thomas Jefferson
+    original_title: Tomas Džefferson
     authors:
       - Grigorij N. Sevostʹjanov
       - Anatolij Ivanovič Utkin
@@ -23057,10 +23266,13 @@ titles:
     verified: true
   - title: An alle
     subtitle: Sowjetische Vorschläge zur Abrüstung von 1917 bis zur Gegenwart
+    original_title: 'SSSR predlagaet: razoružatʹsja!'
     authors:
       - Deutsch von L. Karin
       - D. Gabrielan
       - W. Wosnessenski
+    translators:
+      - Leonid Karin
     year: 1986
     series: Kleine Bibliothek -- 359 -- Politik, Wissenschaft, Zukunft
     language: German
@@ -23372,6 +23584,8 @@ titles:
     authors:
       - Ilya Prigogine
       - Günter Kröber
+    editors:
+      - Hans Heinz Holz
     year: 1986
     language: German
     sources:
@@ -23538,6 +23752,7 @@ titles:
         url: https://search.worldcat.org/title/14232597
     verified: true
   - title: Die soziale Funktion der Wissenschaft
+    original_title: The social function of science
     authors:
       - John D. Bernal
       - Helmut Steiner
@@ -23651,6 +23866,7 @@ titles:
     verified: true
   - title: Frauen in Südafrika
     subtitle: Ein Bild-Text-Band
+    original_title: South African women on the move
     series: Kleine Bibliothek; 420
     authors:
       - Jane Barrett
@@ -23853,6 +24069,8 @@ titles:
     subtitle: Bekenntnisse des antisandinistischen Kommandanten Moisés
     authors:
       - Elisabeth Reimann
+    translators:
+      - Willi Huismann
     year: 1986
     series: Kleine Bibliothek -- 425. Dritte Welt
     language: German
@@ -23882,6 +24100,8 @@ titles:
   - title: 'Illustrierte Alltagsgeschichte des deutschen Volkes: 1550 - 1810'
     authors:
       - Sigrid Jacobeit
+    editors:
+      - Wolfgang Jacobeit
     year: 1986
     language: German
     pages: 308
@@ -23917,6 +24137,8 @@ titles:
     series: Kleine Bibliothek; 388
     authors:
       - Matthias <<von>> Hellfeld
+    editors:
+      - Matthias von Hellfeld
     year: 1986
     language: German
     sources:
@@ -24824,6 +25046,7 @@ titles:
     verified: true
   - title: An geheimer Front
     subtitle: Bericht über Richard Sorge
+    original_title: Dr.-Sorge-Report
     authors:
       - Julius Mader
     year: 1987
@@ -24849,6 +25072,8 @@ titles:
     series: Ausgewählte Schriften / Lev S. Vygotskij; Band 2
     authors:
       - Lev Semenovič Vygotskij
+    translators:
+      - Joachim Lompscher
     year: 1987
     language: German
     sources:
@@ -24914,6 +25139,7 @@ titles:
     verified: true
     subtitle: In dt. Sprache
   - title: Barbie in Bolivien
+    original_title: Barbie en Bolivia
     series: Kleine Bibliothek; 469
     authors:
       - Gustavo Sánchez
@@ -24981,6 +25207,8 @@ titles:
     authors:
       - Erwin Siemantel
       - Kaus Dammann
+    editors:
+      - Klaus Dammann
     year: 1987
     language: German
     sources:
@@ -24991,8 +25219,10 @@ titles:
     verified: true
   - title: Blutiger Ball
     subtitle: Roman
+    original_title: Le pleurer-rire
     authors:
       - Henri Lopes
+    translators:
       - Thorgerd Schücker
     year: 1987
     language: German
@@ -25150,8 +25380,10 @@ titles:
     verified: true
   - title: Das Gemälde
     subtitle: Roman
+    original_title: Kartina
     authors:
       - Daniil Granin
+    translators:
       - Lieselotte Remané
     year: 1987
     language: German
@@ -25449,6 +25681,8 @@ titles:
       - Hans-Georg Ebert
       - Henner Fürtig
       - Hans-G Müller
+    editors:
+      - Günter Barthel
     year: 1987
     language: German
     sources:
@@ -25567,6 +25801,8 @@ titles:
   - title: Die wichtigsten Reden
     authors:
       - Mikhail Sergeevich Gorbachev
+    editors:
+      - Dietrich Busch
     year: 1987
     series: Kleine Bibliothek -- 457 -- Politik und Zeitgeschichte
     language: German
@@ -25605,6 +25841,7 @@ titles:
     verified: true
   - title: Drei Portraits
     subtitle: Aus der Epoche der Grossen Französischen Revolution
+    original_title: Tri portreta epochi velikoj francuzkoj revoljucii
     authors:
       - Alʹbert Zakharovich Manfred
     year: 1987
@@ -25657,8 +25894,10 @@ titles:
     verified: true
   - title: Eine Strasse in Alt-Havanna
     subtitle: Roman
+    original_title: De peña pobre
     authors:
       - Cintio Vitier
+    translators:
       - Manfred Schmitz
     year: 1987
     language: German
@@ -25668,8 +25907,10 @@ titles:
     verified: true
   - title: Eine Zusammenkunft alter Männer
     subtitle: Roman
+    original_title: A gathering of old men
     authors:
       - Ernest J. Gaines
+    translators:
       - Peter Liebich
     year: 1987
     language: German
@@ -25869,6 +26110,7 @@ titles:
     verified: true
   - title: Geschichte der Grossen Sozialistischen Oktoberrevolution in Wort und Bild
     subtitle: Russland 1917 - Monat für Monat
+    original_title: Illjustrirovannaja istorija Velikoj Oktjabr'skoj Socialističeskoj Revoljucii
     authors:
       - Alʹbert Pavlovič Nenarokov
     year: 1987
@@ -25986,6 +26228,8 @@ titles:
     authors:
       - Ling Ding
       - Enlin Yang
+    translators:
+      - Yang Enlin
     year: 1987
     language: German
     sources:
@@ -26029,6 +26273,8 @@ titles:
   - title: 'Illustrierte Alltagsgeschichte des deutschen Volkes: 1810 - 1900'
     authors:
       - Sigrid Jacobeit
+    editors:
+      - Wolfgang Jacobeit
     year: 1987
     language: German
     pages: 335
@@ -26053,6 +26299,7 @@ titles:
     series: Illustrierte Alltagsgeschichte des deutschen Volkes / Sigrid und Wolfgang Jacobeit; 2
   - title: Immanuel Kant
     subtitle: Freiheit, Recht und Revolution
+    original_title: Autocensura e compromesso nel pensiero politico di Kant
     series: Studien zur Dialektik
     authors:
       - Domenico Losurdo
@@ -26188,6 +26435,8 @@ titles:
     subtitle: Die Diskussion auf dem sowjetischen Schriftstellerkongress
     authors:
       - Georgiĭ Markov
+    translators:
+      - Karin Leonid
     year: 1987
     series: Kleine Bibliothek -- 477 -- Politik und Zeitgeschichte
     language: German
@@ -26443,8 +26692,10 @@ titles:
     verified: true
   - title: Russland in Blut gewaschen
     subtitle: Roman
+    original_title: Rossija, krov'ju umytaja
     authors:
       - Artem Veselyj
+    translators:
       - Thomas Reschke
     year: 1987
     language: German
@@ -26924,8 +27175,10 @@ titles:
     verified: true
   - title: Zickzack der Liebe
     subtitle: Erzählungen
+    original_title: Zigzag
     authors:
       - Viktorija Samojlovna Tokareva
+    translators:
       - Monika Tantzscher
     year: 1987
     language: German
@@ -27210,8 +27463,10 @@ titles:
     verified: true
   - title: Catherine Carmier
     subtitle: Roman
+    original_title: Catherine Carmier
     authors:
       - Ernest J. Gaines
+    translators:
       - Hans Hermann
     year: 1988
     language: German
@@ -27236,8 +27491,10 @@ titles:
     verified: true
   - title: Das Freiluftmuseum
     subtitle: Roman
+    original_title: Zmartwychwstanie Pudrycego
     authors:
       - Aleksander Minkowski
+    translators:
       - Hubert Schumann
     year: 1988
     language: German
@@ -27295,8 +27552,10 @@ titles:
     verified: true
   - title: Der Genetiker
     subtitle: 'Das Leben des Nikolai Timofejew-Ressowski, genannt Ur: Roman'
+    original_title: Zubr
     authors:
       - Daniil Granin
+    translators:
       - Erich Ahrndt
     year: 1988
     language: German
@@ -27391,8 +27650,10 @@ titles:
     verified: true
   - title: Der traurige Detektiv
     subtitle: Roman
+    original_title: Pečal'nyj detektiv
     authors:
       - Viktor Petrovič Astafʹev
+    translators:
       - Thomas Reschke
     year: 1988
     language: German
@@ -27654,8 +27915,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=56939810X
     verified: true
   - title: Die Okkupationspolitik Nazideutschlands in Polen, 1939 - 1945
+    original_title: Polityka III Rzeszy w okupowanej Polsce
     authors:
       - Czesław Madajczyk
+    translators:
       - Berthold Puchert
     year: 1988
     language: German
@@ -27750,6 +28013,8 @@ titles:
     authors:
       - Mikhail Sergeevich Gorbachev
       - Kommunisticheskaia partiia Sovetskogo Soiuza. Vsesoiuznaia konferentsiia
+    editors:
+      - Michail Gorbačev
     year: 1988
     series: Kleine Bibliothek -- 519 -- Politik und Zeitgeschichte
     language: German
@@ -28193,6 +28458,8 @@ titles:
     subtitle: Reden, Schriften, Interviews
     authors:
       - Indira Gandhi
+    editors:
+      - Bianca Schorr
     year: 1988
     edition: 1. Aufl
     language: German
@@ -29646,8 +29913,11 @@ titles:
     verified: true
   - title: Die Jahre brennen noch
     subtitle: Roman
+    original_title: Arde aún sobre los anos
     authors:
       - Fernando Lopez
+    translators:
+      - Christa Grewe
     year: 1989
     language: German
     sources:
@@ -29658,8 +29928,10 @@ titles:
     verified: true
   - title: Die Kiesgrube
     subtitle: Roman
+    original_title: Karʹer
     authors:
       - Vasilʹ Uladzimiravič Bykaŭ
+    translators:
       - Harry Burck
     year: 1989
     language: German
@@ -30459,8 +30731,10 @@ titles:
     verified: true
   - title: Tombéza
     subtitle: Roman
+    original_title: Tombéza
     authors:
       - Rachid Mimouni
+    translators:
       - Bernhard Thieme
     year: 1989
     language: German

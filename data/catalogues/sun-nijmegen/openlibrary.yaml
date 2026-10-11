@@ -74,6 +74,7 @@ titles:
     verified: true
     pages: 219
   - title: Het kunstwerk in het tijdperk van zijn techniese reproduceerbaarheid
+    original_title: Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit
     series: Sunschrift; 31
     authors:
       - Walter Benjamin
@@ -826,6 +827,7 @@ titles:
         url: https://d-nb.info/368900223
     verified: true
   - title: Sociale Geschiedenis van de Wetenschap 1
+    original_title: Science in History
     authors:
       - J. D. Bernal
     year: 1976
@@ -839,6 +841,7 @@ titles:
         url: https://openlibrary.org/books/OL25760425M
     verified: false
   - title: Sociale Geschiedenis van de Wetenschap 2
+    original_title: Science in History
     authors:
       - J. D. Bernal
     year: 1976
@@ -1369,6 +1372,8 @@ titles:
       - Christian Metz
       - Celia Britton
       - Josep Elías
+    translators:
+      - Albert Peters
     year: 1980
     language: Dutch
     sources:
@@ -2278,12 +2283,14 @@ titles:
     verified: true
   - title: Mentaliteitsgeschiedenis
     subtitle: Essays over leef- en beeldrovereld
+    original_title: Idéologies et mentalités
     series: Sporen
     authors:
       - Michel Vovelle
+      - Wilhelmus Theodorus Maria Frijhoff
+    translators:
       - Peter Klinkenberg
       - Wilfried Uitterhoeve
-      - Wilhelmus Theodorus Maria Frijhoff
     year: 1985
     language: Dutch
     sources:
@@ -2515,6 +2522,8 @@ titles:
     subtitle: De spanning tussen de voorgeschreven orde en de geleefde praktijk
     authors:
       - Gerard Rooijakkers
+    editors:
+      - Theo Van der Zee
     year: 1986
     series: Sporen
     language: Dutch
@@ -2576,6 +2585,7 @@ titles:
     isbn: '9061682592'
   - title: De boom en de vrucht
     subtitle: Zwangerschap en bevalling voor de medicalisering
+    original_title: L'arbre et le fruit
     series: Sporen
     authors:
       - Jacques Gélis
@@ -2594,6 +2604,7 @@ titles:
     authors:
       - Max Horkheimer
       - Theodor W. Adorno
+    translators:
       - Michel van Nieuwstadt
     year: 1987
     language: Dutch
@@ -2766,6 +2777,8 @@ titles:
   - title: Bladeren in andermans hoofd
     subtitle: Over lezers en leescultuur
     authors: []
+    editors:
+      - Theo Bijvoet
     series: Memoria
     language: Dutch
     isbn: '9061684439'
@@ -2811,12 +2824,13 @@ titles:
   - title: Mijn komedie
     authors:
       - Dante
-      - Jacques Janssen
       - Leo de Bruin
       - Grafisch Bureau G & T
       - F. E. MacDonald
       - Boekbinderij J. A. van Waarden
       - Socialistiese Uitgeverij
+    translators:
+      - Jacques Janssen
     language: Not recorded
     sources:
       - title: German National Library record 1132616549

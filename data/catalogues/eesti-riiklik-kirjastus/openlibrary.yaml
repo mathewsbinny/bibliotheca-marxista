@@ -16,6 +16,7 @@ titles:
   - title: Aeg antud elada, aeg antud surra
     authors:
       - Erich Maria Remarque
+    translators:
       - Viktor Tomberg
     year: 1950
     language: Russian
@@ -39,6 +40,11 @@ titles:
       - Juhan Liiv
       - Ernst Särgava
       - Anton Hansen- Tammsaare
+    editors:
+      - Zinaida Konstantinovna Šišova
+    translators:
+      - Lèon Valentinovič Toom
+      - V. Bergman
     year: 1950
     language: Multiple languages
     sources:
@@ -58,7 +64,13 @@ titles:
     verified: true
   - title: Kalevipoèg
     subtitle: Èstonskij narodnyj èpos
+    original_title: Kalevipoeg
     authors: []
+    editors:
+      - Friedrich Kreutzwald
+    translators:
+      - Vladimir Derjavin
+      - A. Kotchetkov
     year: 1950
     language: Russian
     sources:
@@ -1320,6 +1332,7 @@ titles:
     subtitle: Trilogia
     authors:
       - Wanda Wasilewska
+    translators:
       - Jüri Piik
     year: 1954
     language: Estonian
@@ -1330,6 +1343,7 @@ titles:
         url: https://search.worldcat.org/title/838062739
     verified: true
   - title: Lugusid sellest, mis sind ümbritseb
+    original_title: Rasskazy o tom, čto tebja okružaet
     authors:
       - M. Ilʹin
       - Elena A. Segal
@@ -1464,6 +1478,7 @@ titles:
   - title: Surnud jäävad nooreks
     authors:
       - Anna Seghers
+    translators:
       - Lydia Riikoja
       - H. Välk
     year: 1954
@@ -1731,6 +1746,9 @@ titles:
   - title: Eest NSV ajalugu
     authors:
       - Ajaloo Instituut (Eesti NSV Teaduste Akadeemia)
+    editors:
+      - Gustav Naan
+      - Artur Vassar
     year: 1955
     language: Estonian
     sources:
@@ -1973,6 +1991,9 @@ titles:
     subtitle: Toimetanud B. Pravdin
     authors:
       - J. Tamm
+    editors:
+      - Johan Tamm
+      - Boris Pravdin
     year: 1955
     language: Estonian
     pages: 820
@@ -2483,6 +2504,7 @@ titles:
     verified: true
     subtitle: Jutustused
   - title: Teravmeelne hidalgo Don Quijote La Manchast
+    original_title: Don Quijote de la Mancha
     authors:
       - Miguel de Cervantes Saavedra
       - Gustave Doré
@@ -3140,6 +3162,7 @@ titles:
         url: https://search.worldcat.org/title/947174271
     verified: true
   - title: Lehekülgi elust
+    original_title: Sivuja eletystä
     authors:
       - A. Taimi
       - H. Lepik
@@ -3366,6 +3389,8 @@ titles:
     subtitle: 'XIX sajandi algusest kuni tänapäevani/ Üldtoim.: E. Mägi'
     authors:
       - E. Mägi
+    editors:
+      - Hilja Läti
     year: 1956
     language: Estonian
     sources:
@@ -3665,6 +3690,10 @@ titles:
     series: Valimik Emakeele Seltsi Korrespondentide Murdetekste; 1
     authors:
       - Akademija Nauk Ėstonskoj SSR
+    editors:
+      - M. Must
+      - P. Palmeos
+      - H. Ahven
     year: 1956
     language: Estonian
     sources:
@@ -3817,6 +3846,7 @@ titles:
   - title: Argonaudid
     authors:
       - Eliza Orzeszkowa
+    translators:
       - K. Ruus
     year: 1957
     language: Estonian
@@ -4006,6 +4036,8 @@ titles:
     subtitle: (Kõige vanemast ajast tänapäevani)
     authors:
       - Ajaloo Instituut (Eesti NSV Teaduste Akadeemia)
+    editors:
+      - Gustav Naan
     year: 1957
     edition: 2. trükk. Toimetanud G. Naan
     language: Estonian
@@ -4141,6 +4173,8 @@ titles:
   - title: Eesti rahvarõivad XIX sajandist ja XX sajandi algult
     authors:
       - Etnograafia Muuseum (Estonia)
+    editors:
+      - V. A. Belitser
     year: 1957
     language: Estonian
     pages: 254
@@ -4564,6 +4598,7 @@ titles:
     subtitle: Romaan
     authors:
       - Bolesław Prus
+    translators:
       - Aleksander Kurtna
     year: 1957
     language: Estonian
@@ -4984,6 +5019,7 @@ titles:
     verified: true
   - title: Valitud teosed
     subtitle: Romaanid
+    original_title: Valitut teokset
     authors:
       - Mait Metsanurk
     year: 1957
@@ -5385,6 +5421,7 @@ titles:
     verified: true
   - title: Jean-Christophe
     subtitle: Romaan
+    original_title: Jean-Christophe
     authors:
       - Romain Rolland
     year: 1958
@@ -5797,6 +5834,8 @@ titles:
   - title: Padise klooster
     authors:
       - Villem Raam
+    editors:
+      - Ėstonskaja SSR
     year: 1958
     language: Estonian
     sources:
@@ -5908,6 +5947,7 @@ titles:
     subtitle: Irokeeside kasupoeg
     authors:
       - Anna Müller-Tannewitz
+    translators:
       - A. Ambus
       - Ü. Kurvits
     year: 1958
@@ -6159,6 +6199,7 @@ titles:
     verified: true
   - title: Wilhelm Meisteri õpiaastad
     subtitle: Romaan
+    original_title: Wilhelm Meisters Lehrjahre
     series: Suuri Sonameistreid
     authors:
       - Johann Wolfgang von Goethe
@@ -6262,6 +6303,7 @@ titles:
     subtitle: Romaan
     authors:
       - Bernhard Kellermann
+    translators:
       - H. Välk
     year: 1959
     language: Russian
@@ -6389,6 +6431,8 @@ titles:
     subtitle: Hiiu- ja vägilasmuistendid
     authors:
       - Udo Kolk
+    editors:
+      - Eduard Laugaste
     year: 1959
     series: Monumenta Estoniae antiquae
     language: Estonian
@@ -6470,6 +6514,8 @@ titles:
   - title: Eesti rahvaluule ülevaade
     authors:
       - Keele ja Kirjanduse Instituut (Eesti NSV Teaduste Akadeemia)
+    editors:
+      - Richard-Voldemar Viidalepp
     year: 1959
     language: Estonian
     pages: 520
@@ -6546,8 +6592,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=684559366
     verified: true
   - title: Fotograafia käsiraamat
+    original_title: Краткий фотографический справочник
     authors:
       - V. V. Puskov (В. В. Пуськов)
+    translators:
+      - Johannes Seilental
+      - Paul Talvre
     year: 1959
     language: Estonian
     pages: 466
@@ -6592,6 +6642,7 @@ titles:
   - title: Igaüks sureb omaette
     authors:
       - Hans Fallada
+    translators:
       - A. Kerge
     year: 1959
     language: Russian
@@ -7555,6 +7606,7 @@ titles:
     verified: true
   - title: Wilhelm Meisteri rännuaastad
     subtitle: Romaan
+    original_title: Wilhelm Meisters Wanderjahre
     series: Suuri Sonameistreid
     authors:
       - Johann Wolfgang von Goethe
@@ -7616,6 +7668,8 @@ titles:
     subtitle: Dokumente ja materjale
     authors:
       - Ajaloo Instituut (Eesti NSV Teaduste Akadeemia)
+    editors:
+      - S. Kutsar-Zabrodskaja
     year: 1960
     language: Estonian
     pages: 499
@@ -7802,6 +7856,8 @@ titles:
   - title: Eesti NSV ajaloo lugemik
     authors:
       - Juhan Kahk
+    editors:
+      - Artur Vassar
     year: 1960
     language: Estonian
     sources:
@@ -8120,8 +8176,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=365999512
     verified: true
   - title: Ilias
+    original_title: Iliade
     authors:
       - Homère
+    translators:
       - August Annist
     year: 1960
     language: Estonian
@@ -8267,6 +8325,7 @@ titles:
     subtitle: Roman
     authors:
       - Stefan Żeromski
+    translators:
       - Aleksander Kurtna
     year: 1960
     language: Estonian
@@ -8409,6 +8468,8 @@ titles:
     subtitle: Toimetanud Eesti NSV Teaduste Akadeemia Looduskaitse Komisiojoni esimees E. Kumari
     authors:
       - Eesti NSV Teaduste Akadeemia. Looduskaitse Komisjon
+    editors:
+      - Eerik Kumari
     year: 1960
     language: Estonian
     pages: 337
@@ -9192,6 +9253,7 @@ titles:
     subtitle: Romaan
     authors:
       - Bolesław Prus
+    translators:
       - Paul Viiding
     year: 1960
     language: Estonian
@@ -9794,8 +9856,10 @@ titles:
     verified: true
   - title: Jumalaema kirik Pariisis
     subtitle: Romaan
+    original_title: Notre-Dame de Paris
     authors:
       - Victor Hugo
+    translators:
       - Johannes Semper
     year: 1961
     language: Estonian
@@ -9845,6 +9909,8 @@ titles:
     subtitle: Eesti rahva eepos
     authors:
       - Friedrich Reinhold Kreutzwald
+    editors:
+      - Friedrich Kreutzwald
     year: 1961
     language: Estonian
     pages: 375
@@ -9962,6 +10028,7 @@ titles:
     subtitle: Romaan
     authors:
       - Heinrich Mann
+    translators:
       - H. Välk
     year: 1961
     language: Russian
@@ -11310,8 +11377,9 @@ titles:
   - title: Muistsed asulad ja linnused
     subtitle: Arheoloogiline kogumik
     authors:
-      - Harri Moora
       - Ajaloo Instituut (Akademiâ Nauk Èstonskoj Sovetskoj Socjalističeskoj Respubliki)
+    translators:
+      - Harri Moora
     year: 1962
     language: Estonian
     sources:
@@ -11525,6 +11593,7 @@ titles:
     subtitle: Romaan
     authors:
       - Bernhard Kellermann
+    translators:
       - E. Pant
     year: 1962
     language: Russian
@@ -12044,6 +12113,8 @@ titles:
     subtitle: Valitud tekste ja pilte
     authors:
       - Eduard Laugaste
+    editors:
+      - Endel Priidel
     year: 1963
     language: Estonian
     sources:
@@ -12522,6 +12593,7 @@ titles:
   - title: Marek Pieguse uskumatud seiklused
     authors:
       - Edmund Niziurski
+    translators:
       - Aleksander Kurtna
     year: 1963
     language: Estonian
@@ -12660,8 +12732,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/006650149
     verified: true
   - title: Odüsseia
+    original_title: Odyssée
     authors:
       - Homère
+    translators:
       - August Annist
     year: 1963
     language: Estonian
@@ -13084,6 +13158,7 @@ titles:
   - title: Vaikne nädal
     authors:
       - Jerzy Andrzejewski
+    translators:
       - Olev Jõgi
     year: 1963
     language: Estonian
@@ -13222,6 +13297,8 @@ titles:
     authors:
       - Gustav Naan
       - Joosep Saat
+    editors:
+      - Artur Vassar
     year: 1963
     language: Estonian
     sources:
@@ -13846,6 +13923,7 @@ titles:
   - title: Lobusaid värsse
     authors:
       - Jan Brzechwa
+    translators:
       - Iko Maran
     year: 1964
     language: Estonian
@@ -14015,6 +14093,8 @@ titles:
     subtitle: Valimik luuletusi
     authors:
       - Anna Haava
+    editors:
+      - Paul Rummo
     year: 1964
     language: Estonian
     pages: 59
@@ -14143,6 +14223,7 @@ titles:
     subtitle: Väljavalitud
     authors:
       - Natalia Rolleczek
+    translators:
       - Ruth Karemäe
     year: 1964
     language: Estonian
@@ -14625,6 +14706,8 @@ titles:
     subtitle: Koostanud J. Hüsse Et Al
     authors:
       - Johannes Hüsse
+    editors:
+      - J. Huesse
     year: 1964
     language: English
     sources:

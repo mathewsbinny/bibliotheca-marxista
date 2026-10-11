@@ -53,8 +53,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/009982883
     verified: true
   - title: Problemas fundamentales de la economía y de la política del imperialismo, después de la segunda guerra mundial
+    original_title: Osnovnye voprosy ekonomiki i politiki imperializma
     authors:
       - Eugène Varga
+    translators:
+      - M. B. Dalmacia
     year: 1959
     language: Spanish
     pages: 417
@@ -299,8 +302,11 @@ titles:
         url: https://lccn.loc.gov/74419270
     verified: true
   - title: La música
+    original_title: Physique et musique
     authors:
       - Gleb Borisovitch Anfilov
+    translators:
+      - Floreal Mazía
     year: 1971
     language: Spanish
     sources:
@@ -370,6 +376,8 @@ titles:
   - title: Educación y lucha de clases
     authors:
       - Anibal Ponce
+    editors:
+      - Héctor Pablo Agosti
     year: 1974
     language: Spanish
     sources:
@@ -512,6 +520,7 @@ titles:
   - title: Dialéctica de la naturaleza
     authors:
       - Friedrich Engels
+    translators:
       - Floreal Mazía
     year: 1975
     language: Spanish

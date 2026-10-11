@@ -188,6 +188,7 @@ titles:
     verified: true
   - title: '"Der fühlt Freuden, täglich neue"'
     subtitle: = Sono liete, fortunate
+    original_title: Sono liete, fortunate
     series: Duette und Terzette / Georg Friedrich Händel; 3
     authors:
       - Georg Friedrich Händel
@@ -200,6 +201,7 @@ titles:
     verified: true
   - title: '"Wie leichtes Laub vom Ost bewegt"""'
     subtitle: '= Fronda leggiera e mobile: für Sopran (Tenor), Alt (Bass) und Continuo'
+    original_title: Fronda leggiera e mobile
     series: Duette und Terzette / Georg Friedrich Händel; 19
     authors:
       - Georg Friedrich Händel
@@ -244,6 +246,7 @@ titles:
     verified: true
   - title: Ämor füllt mich mit Wonne
     subtitle: '= Amor, gioje mi porge: für zwei Soprane (Tenöre) und Continuo'
+    original_title: Amor, gioje mi porge
     series: Duette und Terzette / Georg Friedrich Händel; 6
     authors:
       - Georg Friedrich Händel
@@ -380,6 +383,8 @@ titles:
   - title: Duette und Terzette
     authors:
       - Georg Friedrich Händel
+    editors:
+      - Gerd Ochs
     year: 1949
     language: German, Italian
     sources:
@@ -458,6 +463,8 @@ titles:
   - title: Friedrich Wilhelm Zachow. Werke für Klavier, herausgegeben von Gerd Ochs
     authors:
       - Friedrich Wilhelm Zachow
+    editors:
+      - Gerd Ochs
     year: 1949
     language: French
     sources:
@@ -545,12 +552,14 @@ titles:
     verified: true
   - title: Ich lebte unter Eskimos
     subtitle: Dramatische Geschichten
+    original_title: Dramaet i storisen
     authors:
       - Peter Tutein
+      - Bernhard Wilhelm Borchert
+    translators:
       - Werner Bögli
       - Erich Tilgenkamp
       - K. Wassermann
-      - Bernhard Wilhelm Borchert
     year: 1949
     language: German
     sources:
@@ -697,6 +706,9 @@ titles:
   - title: Paul Höffer. Lieder und Spielstücke für Blockflöten, herausgegeben von Linde von Winterfeld
     authors:
       - Paul Höffer
+    editors:
+      - Lindle von Winterfeld
+      - Linde von Winterfeld
     year: 1949
     language: French
     sources:
@@ -814,6 +826,8 @@ titles:
   - title: An die Mütter und an die Lehrer. Kantate für eine Solostimme, gemischten Chor, zwei Klaviere, drei Trompeten und Pauken, von Paul Dessau. Worte von Marcel Breslasu. Deutsch von Fabius
     authors:
       - Paul Dessau
+    translators:
+      - Fabius
     year: 1950
     language: German
     sources:
@@ -1012,6 +1026,7 @@ titles:
     authors:
       - Georg Friedrich Händel
       - Johannes Brahms
+    translators:
       - Emilie Dahnk-Baroffio
     year: 1950
     language: German, Italian
@@ -1223,6 +1238,8 @@ titles:
     subtitle: Hrsg. von Gotthold Frotscher
     authors:
       - Johann Sebastian Bach
+    editors:
+      - Gotthold Frotscher
     year: 1950
     language: German
     pages: 40
@@ -1346,6 +1363,8 @@ titles:
   - title: Musikalische Erstlinge darin etliche vortreffliche, höchst kunstvolle und liebliche sogenannte Paduanen und Galliarden. [Primitiae musicales, Paduanas et Galliardas], von Balthasar Fritsch,.... 1606. Neudruck herausgegeben von Harald Kümmerling. Band I -II. A 4 instr
     authors:
       - Balthasar Fritsch
+    editors:
+      - Harald Kümmerling
     year: 1950
     language: French
     sources:
@@ -1968,6 +1987,7 @@ titles:
     authors:
       - Konstantin Âkovlevič Finn
       - Walter Radetz
+    translators:
       - Günther Richter
     year: 1951
     language: German
@@ -1991,6 +2011,7 @@ titles:
   - title: Der Lotse
     authors:
       - Âkov Vladimirovič Apuškin
+    translators:
       - Doris Dauber
     year: 1951
     language: German
@@ -2177,6 +2198,7 @@ titles:
     authors:
       - Georg Friedrich Händel
       - Johannes Brahms
+    translators:
       - Emilie Dahnk-Baroffio
     year: 1951
     language: German, Italian
@@ -2251,6 +2273,7 @@ titles:
     series: Dramatischer Zirkel
     authors:
       - G. Galeev
+    translators:
       - Doris Dauber
     year: 1951
     language: German
@@ -2401,8 +2424,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1357839502
     verified: true
   - title: Gorki und die Musik
+    original_title: M. Gor'kij i muzyka
     authors:
       - Nikolaj K. Piksanov
+    translators:
       - Wolfram Sterz
     year: 1951
     language: German
@@ -2459,6 +2484,8 @@ titles:
     authors:
       - Martin Hattwig
       - Günter Dahn
+    editors:
+      - Hans Bath
     year: 1951
     language: German
     sources:
@@ -2482,6 +2509,8 @@ titles:
   - title: Johann Ghro. Dreissig neue auserlesene Padouanen und Galliarden, 1604. Neudruck herausgegeben von Harald Kümmerling. A 5 instr
     authors:
       - Johann Ghro
+    editors:
+      - Harald Kümmerling
     year: 1951
     language: French
     sources:
@@ -2737,6 +2766,8 @@ titles:
     verified: true
   - title: Neue Musik für Gitarre, herausgegeben von Bruno Henze
     authors: []
+    editors:
+      - Bruno Henze
     year: 1951
     language: French
     sources:
@@ -2802,6 +2833,8 @@ titles:
   - title: Paul Dessau. Die sieben Schwestern. Ein chinesisches Volkslied der Gegenwart, von Tuan Mu Hung Liang, übersetzt von Martin Remané, für Klarinette, Gesang (Sopran) und 2 Tomtom und ein kleines Bekken
     authors:
       - Paul Dessau
+    translators:
+      - Martin Remané
     year: 1951
     language: German
     sources:
@@ -2899,6 +2932,8 @@ titles:
   - title: Sextett Es-Dur für Klarinette, 2 Hörner, Violine, Viola und Violoncello
     authors:
       - Wilhelm Friedrich Ernst Bach
+    editors:
+      - Kurt Janetzky
     year: 1951
     language: French
     sources:
@@ -3151,6 +3186,7 @@ titles:
   - title: Verantwortung
     authors:
       - Anna Brodele
+    translators:
       - Günther Richter
     year: 1951
     language: German
@@ -3192,8 +3228,10 @@ titles:
     verified: true
   - title: Zu neuen Ufern
     subtitle: Geschichten von Entdeckungsfahrten
+    original_title: K novym beregam
     authors:
       - Michail Vasilʹevič Muratov
+    translators:
       - Kurt Wassermann
     year: 1951
     language: German
@@ -3373,6 +3411,7 @@ titles:
         url: https://lccn.loc.gov/86876550
     verified: true
   - title: Der weiße Engel
+    original_title: Belyj angel
     series: Dramatischer Zirkel
     authors:
       - Jurij V. Nikulin
@@ -3418,9 +3457,10 @@ titles:
     series: Musik und Zeit; 1
     authors:
       - Elena A. Groševa
-      - Günter Bust
       - Günter Comte
       - Sojuz Kompozitorov SSSR
+    translators:
+      - Günter Bust
     year: 1952
     language: German
     sources:
@@ -3577,6 +3617,7 @@ titles:
     authors:
       - Georg Friedrich Händel
       - Johannes Brahms
+    translators:
       - Emilie Dahnk-Baroffio
     year: 1952
     language: German, Italian
@@ -3632,6 +3673,8 @@ titles:
   - title: Fantasien aus Magnum opus musicum
     authors:
       - Orlando di Lasso
+    editors:
+      - Gerd Ochs
     year: 1952
     language: Not recorded
     sources:
@@ -3777,12 +3820,14 @@ titles:
     verified: true
   - title: Ich lebte unter Eskimos
     subtitle: Dramatische Geschichten
+    original_title: Dramaet i storisen
     authors:
       - Peter Tutein
+      - Bernhard Wilhelm Borchert
+    translators:
       - Werner Bögli
       - Erich Tilgenkamp
       - K. Wassermann
-      - Bernhard Wilhelm Borchert
     year: 1952
     language: German
     sources:
@@ -4055,6 +4100,8 @@ titles:
     verified: true
   - title: Musik für Zither, herausgegeben von Bruno Henze
     authors: []
+    editors:
+      - Bruno Henze
     year: 1952
     language: French
     sources:
@@ -4146,13 +4193,15 @@ titles:
     verified: true
   - title: Rotkäppchen
     subtitle: Märchenspiel in drei Aufzügen
+    original_title: Krasnaja šapočka
     series: Dramatischer Zirkel
     authors:
       - Evgenij Lʹvovič Švarc
-      - Alice Wagner
       - Herbert Fischer
       - Johannes Paul Thilman
       - Fritz Werner
+    translators:
+      - Alice Wagner
     year: 1952
     language: German
     sources:
@@ -4245,6 +4294,8 @@ titles:
     subtitle: Hrsg. von Hans Erdmann
     authors:
       - Johan Helmich Roman
+    editors:
+      - Hans Erdmann
     year: 1952
     series: Alte Meister
     language: German
@@ -4369,8 +4420,9 @@ titles:
     authors:
       - A. Rozanova
       - A. Elagina
-      - Kurt Seeger
       - Rolf Thieme
+    translators:
+      - Kurt Seeger
     year: 1952
     language: German
     sources:
@@ -4627,8 +4679,9 @@ titles:
     subtitle: Geschichten von Entdeckungsfahrten
     authors:
       - Michail Vasilʹevič Muratov
-      - Kurt Wassermann
       - Kurt Gundermann
+    translators:
+      - Kurt Wassermann
     year: 1952
     language: German
     sources:
@@ -4723,11 +4776,12 @@ titles:
     authors:
       - S. Kolossowa
       - A. Antokolki
-      - Doris Dauber
       - Ruth Döppe-Ehser
       - Herbert Fischer
       - Rudolf Heinrich
       - Hans Mau
+    translators:
+      - Doris Dauber
     year: 1953
     language: German
     sources:
@@ -4800,9 +4854,11 @@ titles:
     verified: true
   - title: Das Märchen von der verlorenen Zeit
     subtitle: Ein Puppenspiel in drei Akten
+    original_title: Skazka o poterjannom vremeni
     series: Dramatischer Zirkel
     authors:
       - Evgenij Lʹvovič Švarc
+    translators:
       - Jutta Balk
     year: 1953
     language: German
@@ -4813,13 +4869,15 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991023643549705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Das Tierhäuschen
+    original_title: Terem-Teremok
     series: Dramatischer Zirkel
     authors:
       - Samuil Maršak
-      - Martin Remané
       - Ingeborg Meyer-Rey
       - Egon Günther
       - Fritz Steinmann
+    translators:
+      - Martin Remané
     year: 1953
     language: German
     sources:
@@ -4969,6 +5027,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=55899654X
     verified: true
   - title: Die Zaubergalosche
+    original_title: Bolšebnaja kaloša
     series: Puppenspiel
     authors:
       - G. G. Matveev
@@ -5012,6 +5071,7 @@ titles:
     authors:
       - Georg Friedrich Händel
       - Johannes Brahms
+    translators:
       - Emilie Dahnk-Baroffio
     year: 1953
     language: German, Italian
@@ -5054,6 +5114,8 @@ titles:
   - title: Geistige Armut in der Musik
     authors:
       - V. Gorodinskiĭ
+    translators:
+      - Nikolai Rechn
     year: 1953
     series: Musik und Zeit
     language: German
@@ -5378,6 +5440,8 @@ titles:
     verified: true
   - title: Reicht euch die Hände. Liederbuch des Friedens. Gestaltet von Bert Augustin Dahmen. Illustrationen Hans Baltzer. Préface de H. Holtzhauer. Chants nationaux, patriotiques et révolutionnaires, choeurs à 1, 2, 3 et 4 v. avec et sans acc
     authors: []
+    editors:
+      - Bert Augustin Dahmen
     year: 1953
     language: French
     sources:
@@ -5782,9 +5846,11 @@ titles:
     verified: true
   - title: Die Werberbande
     subtitle: Eine Jugendoper
+    original_title: The press-gang
     authors:
       - Alan Dudley Bush
       - Nancy Bush
+    translators:
       - Marianne Petzoldt
     year: 1954
     language: German
@@ -5796,6 +5862,7 @@ titles:
     authors:
       - Georg Friedrich Händel
       - Friedrich Chrysander
+    translators:
       - Emilie Dahnk-Baroffio
     year: 1954
     language: German, Italian
@@ -6545,6 +6612,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1543226833
     verified: true
   - title: Hirten, Herden, Hunde
+    original_title: Los perros hambrientos
     series: Neue Unterhaltungsreihe
     authors:
       - Ciro Alegría
@@ -6557,12 +6625,14 @@ titles:
     verified: true
   - title: Ich lebte unter Eskimos
     subtitle: Dramatische Geschichten
+    original_title: Dramaet i storisen
     authors:
       - Peter Tutein
+      - Bernhard Wilhelm Borchert
+    translators:
       - Werner Bögli
       - Erich Tilgenkamp
       - K. Wassermann
-      - Bernhard Wilhelm Borchert
     year: 1957
     language: German
     sources:
@@ -7019,6 +7089,8 @@ titles:
   - title: 'Sagen wird man über unsere Tage. Herausgeber: Gerhard Wolf, Klaus Marschke'
     authors:
       - Gerhard Wolf
+    editors:
+      - Klaus Marschke
     year: 1959
     language: German
     sources:
@@ -10129,6 +10201,8 @@ titles:
     subtitle: Gedichte der Deutschen Demokratischen Republik seit 1945
     authors:
       - Adolf Endler
+    editors:
+      - Karl Mickel
     year: 1966
     language: German
     pages: 398
@@ -12513,6 +12587,8 @@ titles:
     verified: true
   - title: 'Kritik in der Zeit, der Sozialismus, seine Literatur, ihre Entwicklung. Herausgeber: Klaus Jarmatz und das Kollektiv: Christel Berger, Renate Drenkow, Heinz Sallmon'
     authors: []
+    editors:
+      - Klaus Jarmatz
     year: 1970
     language: Not recorded
     sources:
@@ -12735,6 +12811,8 @@ titles:
     subtitle: Gedichte 1946-1967
     authors:
       - Kuba
+    editors:
+      - Max Zimmering
     year: 1970
     series: Gesammelte Werke in Einzelausgaben
     language: German
@@ -12857,6 +12935,8 @@ titles:
     subtitle: Gedichte auf fünf Jahrzehnten
     authors:
       - Hans Lorbeer
+    editors:
+      - Martin Reso
     year: 1971
     series: His Gesammelte Werke in Einzelausgaben [1]
     language: German
@@ -13057,6 +13137,8 @@ titles:
   - title: Gesammelte Werke in Einzelausgaben. Herausgeber Gerd Noglik
     authors:
       - Otto Gotsche
+    editors:
+      - Gerd Noglik
     year: 1971
     language: Not recorded
     sources:
@@ -13352,6 +13434,8 @@ titles:
     verified: true
   - title: Bettina pflückt wilde Narzissen, 66 Geschichten von 44 Autoren. Herausgegeben und mit einem Nachwort versehen von Manfred Jendryschik
     authors: []
+    editors:
+      - Manfred Jendryschik
     year: 1972
     language: Not recorded
     sources:
@@ -13651,6 +13735,8 @@ titles:
   - title: Gesammelte Werke in Einzelausgaben
     authors:
       - Liselotte Welskopf-Henrich
+    editors:
+      - Gerd Noglik
     year: 1972
     language: German
     sources:
@@ -13694,6 +13780,8 @@ titles:
     subtitle: Ausgewählte Gedichte
     authors:
       - Walter Dehmel
+    editors:
+      - Marianne Schmidt
     year: 1972
     language: German
     pages: 158
@@ -14430,6 +14518,8 @@ titles:
   - title: Gesammelte Werke in Einzelausgaben
     authors:
       - Otto Gotsche
+    editors:
+      - Gerd Noglik
     year: 1973
     language: German
     sources:
@@ -15579,6 +15669,8 @@ titles:
   - title: Gesammelte Werke in Einzelausgaben
     authors:
       - Inge von Wangenheim
+    editors:
+      - Martin Reso
     year: 1974
     edition: 2. Aufl
     language: German
@@ -16056,6 +16148,8 @@ titles:
     subtitle: Porträts
     authors:
       - Manfred Jendryschik
+    editors:
+      - Sylvia Albrecht
     year: 1974
     language: German
     pages: 369
@@ -16709,6 +16803,8 @@ titles:
   - title: Chile, Gesang und Bericht
     authors:
       - Thomas Billhardt
+    editors:
+      - Sylvia Albrecht
     year: 1975
     language: German
     pages: 282
@@ -18549,6 +18645,8 @@ titles:
     subtitle: Roman
     authors:
       - Hans Lorbeer
+    editors:
+      - Gerd Noglik
     year: 1976
     edition: 2. Aufl
     series: His Gesammelte Werke in Einzelausgaben -- [2]
@@ -18961,6 +19059,8 @@ titles:
   - title: Gesammelte Werke in Einzelausgaben
     authors:
       - Hugo Huppert
+    editors:
+      - Erika. Pick
     year: 1976
     language: German
     sources:
@@ -19370,6 +19470,8 @@ titles:
     subtitle: Erinnerungen e. jungen Frau
     authors:
       - Inge von Wangenheim
+    editors:
+      - Werner Kahle
     year: 1976
     series: Her Gesammelte Werke in Einzelausgaben
     language: German
@@ -20172,6 +20274,8 @@ titles:
     series: 'Essay-Reihe: Sonderband'
     authors:
       - Martin Reso
+    editors:
+      - Annemarie Auer
     year: 1977
     language: German
     sources:
@@ -21981,6 +22085,7 @@ titles:
     verified: true
   - title: Die Eskadron
     subtitle: Erzählung
+    original_title: Eskadronăt
     authors:
       - Stefan Dičev
     year: 1978
@@ -22518,6 +22623,8 @@ titles:
     subtitle: Gedichte, Prosa, Stücke, Aufsätze
     authors:
       - Volker Braun
+    editors:
+      - Holger J. Schubert
     year: 1978
     language: German
     sources:
@@ -22673,6 +22780,8 @@ titles:
     authors:
       - Klaus Jarmatz
       - Christel Berger
+    editors:
+      - Renate Drenkow
     year: 1978
     language: German
     sources:
@@ -22808,6 +22917,7 @@ titles:
     verified: true
   - title: Märkische Forschungen
     subtitle: Erzählung für Freunde der Literaturgeschichte
+    original_title: Märkische Forschungen
     authors:
       - Günter de Bruyn
     year: 1978
@@ -23035,6 +23145,8 @@ titles:
     subtitle: Gedichte
     authors:
       - Uwe Gressmann
+    editors:
+      - Holger J. Schubert
     year: 1978
     language: German
     pages: 112
@@ -23250,6 +23362,7 @@ titles:
     subtitle: DDR-Literatur in der sowjetischen Kritik
     authors:
       - Günter Warm
+    translators:
       - Erich Ahrndt
     year: 1978
     language: German
@@ -23473,6 +23586,8 @@ titles:
       - Heinz Sachs
       - Joachim Raehmer
       - Günter Gnauck
+    editors:
+      - Schriftstellerverband der DDR
     year: 1979
     language: German
     sources:
@@ -24133,6 +24248,8 @@ titles:
   - title: Georg Maurers immerwährender Dreistrophenkalender
     authors:
       - Georg Maurer
+    editors:
+      - Gerhard Wolf
     year: 1979
     language: German
     sources:
@@ -24282,6 +24399,8 @@ titles:
     subtitle: Prosa, Essay, Biographie
     authors:
       - Günter de Bruyn
+    editors:
+      - Werner Liersch
     year: 1979
     language: German
     pages: 436
@@ -27415,6 +27534,8 @@ titles:
     subtitle: Erinnerungen
     authors:
       - Walli Nagel
+    editors:
+      - Sibylle Schallenberg-Nagel
     year: 1981
     language: German
     pages: 230
@@ -27983,6 +28104,8 @@ titles:
     subtitle: Unbekanntes und Bekanntes
     authors:
       - Werner Bräunig
+    editors:
+      - Heinz Sachs
     year: 1981
     series: Im Querschnitt
     language: German
@@ -28714,6 +28837,8 @@ titles:
     authors:
       - Mikhail Ivanovich Baryshev
       - Peter Gosse
+    editors:
+      - Michail Baryschew
     year: 1981
     language: German
     pages: 285
@@ -29139,6 +29264,8 @@ titles:
     series: (Essays der Weltliteratur)
     authors:
       - Hans-Georg Werner
+    translators:
+      - Werner Paschek
     year: 1981
     language: German
     sources:
@@ -29659,6 +29786,8 @@ titles:
     subtitle: Gedichte, Prosa, Aufsätze
     authors:
       - Walter Werner
+    editors:
+      - Gerhard Wolf
     year: 1982
     series: Im Ouerschnitt
     language: German
@@ -30856,6 +30985,8 @@ titles:
     subtitle: Ausgewählte Publizistik
     authors:
       - Inge von Wangenheim
+    editors:
+      - Martin Reso
     year: 1982
     language: German
     pages: 387
@@ -32530,6 +32661,9 @@ titles:
   - title: Kritik in der Zeit
     authors:
       - Thomas Rietzschel
+    editors:
+      - Manfred Diersch
+      - Klaus Jarmatz
     year: 1983
     language: German
     pages: 557
@@ -32897,6 +33031,8 @@ titles:
     subtitle: Literarische Landschaften
     authors:
       - Helmut Richter
+    editors:
+      - Klaus Walther
     year: 1983
     language: German
     pages: 394
@@ -33338,8 +33474,12 @@ titles:
     verified: true
   - title: Bekenntnis und Erfahrung
     subtitle: Werkstattgespräche mit 25 sowjetischen Schriftstellern
-    authors:
+    authors: []
+    editors:
       - Horst Fliege
+    translators:
+      - Horst Fliege
+      - Christina Basche
     year: 1984
     series: '[Essay-Reihe]'
     language: German
@@ -33539,6 +33679,8 @@ titles:
     subtitle: Reden und Aufsätze
     authors:
       - Kuba
+    editors:
+      - Hans Joachim Bernhard
     year: 1984
     series: Gesammelte Werke in Einzelausgaben / Kuba
     language: German
@@ -34572,6 +34714,8 @@ titles:
     subtitle: Geschichten und Gedichte
     authors:
       - Hildegard Maria Rauchfuss
+    editors:
+      - Irmfried Hiebel
     year: 1984
     language: German
     pages: 365
@@ -35630,6 +35774,8 @@ titles:
     subtitle: Frühe DDR-Dramatik
     authors:
       - Hartmut Kahn
+    editors:
+      - Akademie der Künste der Deutschen Demokratischen Republik
     year: 1985
     series: Edition Aurora
     language: German
@@ -36287,6 +36433,8 @@ titles:
     subtitle: Dichter-Geschichten
     authors:
       - Gerhard W. Menzel
+    editors:
+      - Dagmar Winklhofer
     year: 1985
     language: German
     pages: 281
@@ -38813,6 +38961,8 @@ titles:
     subtitle: Feuilletons
     authors:
       - Heinz Knobloch
+    editors:
+      - Jürgen Borchert
     year: 1986
     edition: 2. Aufl
     language: German
@@ -39706,6 +39856,8 @@ titles:
     authors:
       - Walfried Hartinger
       - Klaus Schuhmann
+    editors:
+      - Egon Walfried Hartinger
     year: 1987
     language: German
     pages: 128
@@ -40402,6 +40554,10 @@ titles:
   - title: Werke in zwei Bänden
     authors:
       - Georg Maurer
+    editors:
+      - Egon Walfried Hartinger
+      - Christel Hartinger
+      - Eva Maurer
     year: 1987
     language: German
     isbn: '3354001879'
@@ -41203,6 +41359,8 @@ titles:
     subtitle: Texte aus erster Hand
     authors:
       - Ute Scheffler
+    editors:
+      - Roswitha Jendryschik
     year: 1988
     language: German
     isbn: '3354003367'
@@ -41946,6 +42104,8 @@ titles:
     authors:
       - Akademie der Künste der Deutschen Demokratischen Republik
       - Akademie der Wissenschaften der DDR
+    editors:
+      - Akademie der Künste der DDR
     year: 1988
     language: German
     pages: 180
@@ -43027,6 +43187,8 @@ titles:
     subtitle: DDR-Prosa der 70er und 80er Jahre
     authors:
       - Ute Scheffler
+    editors:
+      - Hagen Bartusch
     year: 1989
     language: German
     pages: 405
@@ -43046,6 +43208,8 @@ titles:
   - title: Dokumente Zu Einer Freundschaft 1927-1939
     authors:
       - Jawaharlal Nehru
+    editors:
+      - Joachim Oesterheld
     year: 1989
     language: German, English
     pages: 267
@@ -44014,6 +44178,8 @@ titles:
     series: Ausgewählte Werke
     authors:
       - Marianne Bruns
+    editors:
+      - Gerd Noglik
     year: 1989
     language: German
     sources:
@@ -44265,6 +44431,8 @@ titles:
     subtitle: Gedichte und Prosa 1958-1988
     authors:
       - Heinz Czechowski
+    editors:
+      - Wulf Kirsten
     year: 1990
     language: German
     pages: 151
@@ -45302,6 +45470,8 @@ titles:
   - title: Georg Philipp Telemann. Sonata I [ex D#] für Violine und Continuo, bearbeitet von Gotthold Frotscher. TWV 41 D 1
     authors:
       - Georg Philipp Telemann
+    editors:
+      - Gotthold Frotscher
     language: French
     sources:
       - title: BnF catalogue record cb432959839
@@ -45310,6 +45480,8 @@ titles:
   - title: 'Georg Philipp Telemann. Sonata II [ex G #] für Violine und Continuo, bearbeitet von Gotthold Frotscher. TWV 41 G 1'
     authors:
       - Georg Philipp Telemann
+    editors:
+      - Gotthold Frotscher
     language: French
     sources:
       - title: BnF catalogue record cb43295984n
@@ -45318,6 +45490,8 @@ titles:
   - title: Georg Philipp Telemann. Sonata III [ex G b] für Violine und Continuo, bearbeitet von Gotthold Frotscher. TWV 41 g 1
     authors:
       - Georg Philipp Telemann
+    editors:
+      - Gotthold Frotscher
     language: French
     sources:
       - title: BnF catalogue record cb432959850
@@ -45326,6 +45500,8 @@ titles:
   - title: Georg Philipp Telemann. Sonata IV [ex C♭] für Violine und Continuo, bearbeitet von Gotthold Frotscher. TWV 41 C 6
     authors:
       - Georg Philipp Telemann
+    editors:
+      - Gotthold Fzotscher
     language: French
     sources:
       - title: BnF catalogue record cb43295986b
@@ -45525,11 +45701,13 @@ titles:
     verified: false
   - title: Sacht gehen, hört ihr
     subtitle: Für Sopran (Tenor), Baß und Continuo = Tacete, ohimè, tacete
+    original_title: Tacete, ohimè, tacete
     series: Duette und Terzette / Georg Friedrich Händel; Neu herausgegeben von Gerd Ochs; 10
     authors:
       - Georg Friedrich Händel
       - Gerd Ochs
       - Johannes Brahms
+    translators:
       - Emilie Dahnk-Baroffio
     language: German, Italian
     sources:
@@ -45592,11 +45770,13 @@ titles:
     verified: false
   - title: Sucht zu wahren und zu paaren
     subtitle: Für Sopran (Tenor), Alt (Baß) und Continuo = Conservate, raddoppiate
+    original_title: Conservate, raddoppiate
     series: Duette und Terzette / Georg Friedrich Händel; Neu herausgegeben von Gerd Ochs; 11
     authors:
       - Georg Friedrich Händel
       - Gerd Ochs
       - Johannes Brahms
+    translators:
       - Emilie Dahnk-Baroffio
     language: German, Italian
     sources:

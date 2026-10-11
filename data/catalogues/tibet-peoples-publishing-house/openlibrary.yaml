@@ -438,7 +438,8 @@ titles:
         url: https://lccn.loc.gov/83146168
     verified: true
   - title: Zang ju gu shi ji
-    authors:
+    authors: []
+    translators:
       - Yao Wang
     year: 1980
     edition: Di 1 ban
@@ -642,6 +643,8 @@ titles:
     authors:
       - Fengpei Wu
       - Qiqin Zhang
+    editors:
+      - Xi zang yan jiu
     year: 1982
     edition: Di 1 ban
     series: Xizang yan jiu cong kan
@@ -693,6 +696,8 @@ titles:
   - title: Qing shi lu Zang zu shi liao
     authors:
       - Zucheng Gu
+    editors:
+      - Xi zang yan jiu
     year: 1982
     edition: Di 1 ban
     series: Xizang yan jiu cong kan -- 9
@@ -791,6 +796,8 @@ titles:
   - title: Xi zhao tu lue
     authors:
       - Songyun
+    editors:
+      - Xi zang yan jiu
     year: 1982
     series: Xizang yan jiu cong kan
     language: Chinese
@@ -1037,6 +1044,9 @@ titles:
   - title: Qing dai Zang shi ji yao
     authors:
       - Qiqin Zhang
+    editors:
+      - Fengpei Wu
+      - Xi zang yan jiu
     year: 1983
     edition: Di 1 ban
     series: Xizang yan jiu cong kan -- 7
@@ -1221,6 +1231,8 @@ titles:
   - title: Qing dai Zang shi ji yao xu bian
     authors:
       - Fengpei Wu
+    editors:
+      - Xi zang yan jiu
     year: 1984
     edition: Di 1 ban
     series: Xizang yan chiu cong kan -- 7
@@ -2186,6 +2198,8 @@ titles:
       - Zhong guo she hui ke xue yuan
       - Zhong yang min zu xue yuan
       - Zhong guo di er li shi dang an guan
+    editors:
+      - Tibetan Academy of Social Sciences of the Autonomous Region Tibet
     year: 1986
     language: Chinese
     sources:

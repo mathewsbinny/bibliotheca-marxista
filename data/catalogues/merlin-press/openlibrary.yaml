@@ -77,6 +77,8 @@ titles:
   - title: The French Prisoner
     authors:
       - Louis Garneray
+    translators:
+      - Lawrence Wood
     year: 1957
     language: English
     pages: 208
@@ -145,6 +147,8 @@ titles:
   - title: A Disgraceful Affair
     authors:
       - Fiódor Dostoievski
+    translators:
+      - Nora Gottlieb
     year: 1959
     language: English
     pages: 87
@@ -191,8 +195,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/001893701
   - title: From History to Sociology
     subtitle: The Transition in German Historical Thinking; with a Foreword by Benedetto Croce
+    original_title: Dallo storicismo alla sociologia
     authors:
       - Carlo Antoni
+    translators:
       - Hayden V. White
     year: 1959
     language: English
@@ -206,6 +212,8 @@ titles:
     subtitle: A Portrait from Letters
     authors:
       - Jane Ellen Harrison
+    editors:
+      - Jessie G. Stewart
     year: 1959
     language: English
     pages: 216
@@ -296,6 +304,8 @@ titles:
   - title: Armance; or, Scenes from a Parisian Salon in 1827
     authors:
       - Stendhal
+    translators:
+      - Suzanne Sale
     year: 1960
     language: English
     pages: 215
@@ -342,6 +352,8 @@ titles:
     subtitle: Or, the Moneyed Husband
     authors:
       - Stendhal
+    translators:
+      - H. R. L. Edwards
     year: 1960
     language: English
     sources:
@@ -452,6 +464,8 @@ titles:
         url: https://archive.org/details/bwb_O5-RTW-274
   - title: Nuclear Weapons and Christian Conscience. G. E. M. Anscombe, R. a. Markus, P. T. Geach, Roger Smith, Walter Stein. Foreword by Mgr T. D. Roberts
     authors: []
+    editors:
+      - Walter Stein
     year: 1961
     language: English
     sources:
@@ -553,6 +567,8 @@ titles:
   - title: Broad and Alien Is the World
     authors:
       - Ciro Alegría
+    translators:
+      - Harriet de Onis
     year: 1962
     language: English
     pages: 434
@@ -562,8 +578,11 @@ titles:
     verified: true
   - title: From History to Sociology
     subtitle: 'Dallo Storicisimo Alla Sociologia: The Transition in German Historical Thinking'
+    original_title: Dallo storicismo alla sociologia
     authors:
       - Carlo Antoni
+    translators:
+      - Hayden V. White
     year: 1962
     language: English
     pages: 249
@@ -669,8 +688,11 @@ titles:
         url: https://openlibrary.org/books/OL17864972M
     verified: true
   - title: The Dutch Windmill
+    original_title: Molens
     authors:
       - F. Stokhuyzen
+    translators:
+      - 'Carry Dikshoorn. Illus.: J. C. Lunenburg'
     year: 1962
     language: English
     pages: 128
@@ -746,6 +768,7 @@ titles:
         url: https://search.worldcat.org/title/350242
     verified: true
   - title: Totemism
+    original_title: Le totémisme aujourd'hui
     authors:
       - Claude Lévi-Strauss
     year: 1962
@@ -1013,8 +1036,11 @@ titles:
         url: https://www.sudoc.fr/065625439
     verified: true
   - title: The Meaning of Contemporary Realism
+    original_title: Gegenwartsbedeutung des Kritischen Realismus
     authors:
       - Lukács György
+    translators:
+      - Necke Mander
     year: 1963
     language: English
     pages: 137
@@ -1112,8 +1138,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991128703679705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: An Essay on the Origins of the House of Commons
+    original_title: Essai sur les origines de la Chambre des communes
     authors:
       - D. Pasquet
+    translators:
+      - R. G. D.
     year: 1964
     language: English
     pages: 248
@@ -1172,6 +1201,8 @@ titles:
   - title: Essays on Thomas Mann
     authors:
       - Lukács György
+    translators:
+      - Stanley Mitchell
     year: 1964
     language: English
     pages: 169
@@ -1207,6 +1238,8 @@ titles:
     subtitle: Philosopher Without Faith
     authors:
       - René Marill
+    translators:
+      - Wade Baskin
     year: 1964
     language: English
     pages: 159
@@ -1391,6 +1424,8 @@ titles:
   - title: The Overcoat
     authors:
       - Nikolaĭ Vasilʹevich Gogolʹ
+    translators:
+      - David Magarshack
     year: 1964
     language: English
     pages: 64
@@ -1400,6 +1435,9 @@ titles:
     verified: true
   - title: The Socialist Register
     authors: []
+    editors:
+      - Ralph Miliband
+      - John Saville
     year: 1964
     language: English
     sources:
@@ -1524,8 +1562,11 @@ titles:
     verified: true
     pages: 120
   - title: Totemism
+    original_title: Totémisme aujourd'hui
     authors:
       - Claude Lévi-Strauss
+    translators:
+      - Rodney Needham
     year: 1964
     language: English
     pages: 116
@@ -1591,6 +1632,8 @@ titles:
     subtitle: (Terres Vivantes)
     authors:
       - René Dumont
+    translators:
+      - Gilbert Sale. --
     year: 1965
     language: English
     pages: 247
@@ -1690,6 +1733,8 @@ titles:
   - title: Tapestries
     authors:
       - Wybren Sipke Sevensma
+    translators:
+      - Alexis Brown
     year: 1965
     language: English
     pages: 110
@@ -1703,6 +1748,8 @@ titles:
   - title: The Historical Novel
     authors:
       - Lukács György
+    translators:
+      - Stanley Mitchell
     year: 1965
     language: English
     pages: 363
@@ -1772,6 +1819,9 @@ titles:
   - title: Albert Camus
     authors:
       - Robert de Luppé
+    translators:
+      - John Cumming
+      - J. Hargreaves
     year: 1966
     language: English
     pages: 101
@@ -1795,6 +1845,8 @@ titles:
   - title: Chronicle of the Worker-Priests
     authors:
       - Stan Windass
+    editors:
+      - Stanley Windass
     year: 1966
     language: English
     pages: 156
@@ -1877,6 +1929,9 @@ titles:
   - title: T.S.Eliot
     authors:
       - Georges Cattaui
+    translators:
+      - Claire Pace
+      - Jean Stewart
     year: 1966
     language: English
     pages: 128
@@ -2029,6 +2084,8 @@ titles:
     subtitle: Translation [from the Italian] by Claire Pace
     authors:
       - Jules Leroy
+    translators:
+      - Claire Pace
     year: 1967
     language: English
     pages: 60
@@ -2066,8 +2123,9 @@ titles:
   - title: Marcel Proust
     authors:
       - Georges Cattaui
-      - Ruth Hall
       - Pierre de Boisdeffre
+    translators:
+      - Ruth Hall
     year: 1967
     language: English
     sources:
@@ -2168,6 +2226,9 @@ titles:
     verified: true
   - title: The Socialist Register
     authors: []
+    editors:
+      - Ralph Miliband
+      - John Saville
     year: 1967
     language: English
     sources:
@@ -2196,8 +2257,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1555538940
     verified: true
   - title: Goethe and His Age
+    original_title: Goethe und seine Zeit
     authors:
       - Georg Lukács
+    translators:
       - Robert Anchor
     year: 1968
     language: English
@@ -2241,6 +2304,8 @@ titles:
   - title: Marxist Economic Theory
     authors:
       - Ernest Mandel
+    translators:
+      - Brian Pearce. Vol.2
     year: 1968
     language: English
     sources:
@@ -2383,6 +2448,8 @@ titles:
   - title: What Is Economics?
     authors:
       - Rosa Luxemburg
+    translators:
+      - T. Edwards
     year: 1968
     language: English
     pages: 72
@@ -2410,6 +2477,7 @@ titles:
         url: https://www.sudoc.fr/015401286
     verified: true
   - title: Henry James
+    original_title: Henry James
     authors:
       - Georges Markow-Totevy
     year: 1969
@@ -2499,6 +2567,9 @@ titles:
   - title: Report on the International Politico-Legal Aspects of the Vietnam Conflict
     authors:
       - William Noble Warbey
+    editors:
+      - William Warbey
+      - Aake Anker-Ording
     year: 1969
     language: English
     pages: 110
@@ -2550,6 +2621,8 @@ titles:
   - title: The Mass Strike, the Political Party and the Trade Unions, 1906
     authors:
       - Rosa Luxemburg
+    translators:
+      - Patrick Lavin
     year: 1969
     language: English
     sources:
@@ -2562,6 +2635,8 @@ titles:
   - title: The Meaning of Contemporary Realism
     authors:
       - Lukács György
+    translators:
+      - Necke Mander
     year: 1969
     language: Not recorded
     pages: 137
@@ -2598,6 +2673,9 @@ titles:
     verified: true
   - title: The Socialist Register... Edited by Ralph Miliband and John Saville
     authors: []
+    editors:
+      - Ralph Miliband
+      - John Saville
     year: 1969
     language: English
     sources:
@@ -2740,6 +2818,8 @@ titles:
   - title: Solzhenitsyn
     authors:
       - Lukács György
+    translators:
+      - William David Graf
     year: 1970
     language: English
     pages: 88
@@ -2775,6 +2855,9 @@ titles:
     verified: true
   - title: The Socialist Register... Edited by Ralph Miliband and John Saville
     authors: []
+    editors:
+      - Ralph Miliband
+      - John Saville
     year: 1970
     language: English
     sources:
@@ -2824,6 +2907,8 @@ titles:
   - title: Writer & Critic, and Other Essays
     authors:
       - Lukács György
+    translators:
+      - Arthur Kahn
     year: 1970
     language: English
     pages: 256
@@ -2841,6 +2926,10 @@ titles:
   - title: Writer and Critic and Other Essays
     authors:
       - Lukács György
+    editors:
+      - Arthur David Kahn
+    translators:
+      - Arthur David Kahn
     year: 1970
     language: English
     pages: 256
@@ -2858,8 +2947,11 @@ titles:
     verified: true
   - title: History and Class Consciousness
     subtitle: Studies in Marxist Dialectics
+    original_title: Geschichte und Klassenbewusststein
     authors:
       - Lukács György
+    translators:
+      - Rodney Livingstone
     year: 1971
     language: English
     pages: 356
@@ -2890,6 +2982,7 @@ titles:
       - label: Full text (marxists.org)
         url: https://www.marxists.org/archive/lukacs/works/history/index.htm
   - title: James Joyce
+    original_title: James Joyce
     authors:
       - Joseph Majault
     year: 1971
@@ -2950,6 +3043,8 @@ titles:
     subtitle: Speech Delivered on December 30, 1918 at the Founding Conference of the Communist Party of Germany Held in Berlin
     authors:
       - Rosa Luxemburg
+    translators:
+      - Cedar Paul
     year: 1971
     language: English
     sources:
@@ -2958,6 +3053,8 @@ titles:
     verified: true
   - title: The English Defence of the Commune 1871. Edited and Introduced by Royden Harrison
     authors: []
+    editors:
+      - Royden. Harrison
     year: 1971
     language: English
     sources:
@@ -3041,6 +3138,9 @@ titles:
     verified: false
   - title: The Socialist Register... Edited by Ralph Miliband and John Saville
     authors: []
+    editors:
+      - Ralph Miliband
+      - John Saville
     year: 1971
     language: English
     sources:
@@ -3049,8 +3149,11 @@ titles:
     verified: true
   - title: The Theory of the Novel
     subtitle: A Historico-Philosophical Essay on the Forms of Great Epic Literature
+    original_title: Die Theorie des Romans
     authors:
       - Lukács György
+    translators:
+      - Anna Bostock
     year: 1971
     language: English
     pages: 160
@@ -3088,6 +3191,8 @@ titles:
     subtitle: Selections from the Morning Chronicle, 1849-1850
     authors:
       - Henry Mayhew
+    editors:
+      - Eileen Yeo
     year: 1971
     language: English
     pages: 489
@@ -3324,6 +3429,8 @@ titles:
   - title: Socialism and the Churches
     authors:
       - Rosa Luxemburg
+    translators:
+      - Juan Punto
     year: 1972
     language: English
     pages: 27
@@ -3338,6 +3445,8 @@ titles:
     subtitle: A Sociological Survey of the Writings of Balzac, Stendhal, Zola, Tolstoy, Gorki and Others
     authors:
       - Lukács György
+    translators:
+      - Edith Bone
     year: 1972
     language: English
     pages: 277
@@ -3411,8 +3520,11 @@ titles:
     verified: true
   - title: Art and Society
     subtitle: Essays in Marxist Aesthetics
+    original_title: 'Las Ideas estéticas de Marx : ensayos de estética marxista'
     authors:
       - Adolfo Sanchez Vasquez
+    translators:
+      - Maro Riofrancos
     year: 1973
     language: English
     sources:
@@ -3426,6 +3538,8 @@ titles:
   - title: Broad and Alien Is the World
     authors:
       - Ciro Alegría
+    translators:
+      - Harriet de Oni s
     year: 1973
     language: English
     pages: 434
@@ -3491,6 +3605,7 @@ titles:
     verified: true
     series: The Socialist Register; 9
   - title: What Is Economics?
+    original_title: Einfuehrung in die Nationaloekonomie
     authors:
       - Rosa Luxemburg
     year: 1973
@@ -3517,6 +3632,8 @@ titles:
     subtitle: Hans Heinz Holz, Leo Kofler, Wolfgang Abendroth
     authors:
       - Lukács György
+    translators:
+      - David Fernbach
     year: 1974
     language: English
     pages: 155
@@ -3539,12 +3656,15 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991044833309705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Evidence on the Terror in Chile
+    original_title: Terrorn i Chile
     authors:
       - Sun Axelsson
       - Birgitta Leander
       - Raúl Silva Castro
       - Raúl Silva Henríquez
       - Brian MacBeth
+    translators:
+      - Brian Stuart McBeth
     year: 1974
     language: English
     sources:
@@ -3623,6 +3743,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb344702447
     verified: true
   - title: Soul and Form
+    original_title: Lélek és a formák
     authors:
       - Lukács György
     year: 1974
@@ -3677,6 +3798,9 @@ titles:
     verified: true
   - title: The Socialist Register... Edited by Ralph Miliband and John Saville
     authors: []
+    editors:
+      - Ralph Miliband
+      - John Saville
     year: 1974
     language: English
     sources:
@@ -3839,6 +3963,9 @@ titles:
     verified: true
   - title: The Socialist Register... Edited by Ralph Miliband and John Saville
     authors: []
+    editors:
+      - Ralph Miliband
+      - John Saville
     year: 1975
     language: English
     sources:
@@ -3847,8 +3974,11 @@ titles:
     verified: true
   - title: The Young Hegel
     subtitle: Studies in the Relations Between Dialectics and Economics
+    original_title: Der Junge Hegel
     authors:
       - Lukács György
+    translators:
+      - Rodney Livingstone
     year: 1975
     language: English
     pages: 576
@@ -3965,6 +4095,9 @@ titles:
     verified: true
   - title: The Socialist Register... Edited by Ralph Miliband and John Saville
     authors: []
+    editors:
+      - Ralph Miliband
+      - John Saville
     year: 1976
     language: English
     sources:
@@ -4056,8 +4189,11 @@ titles:
         url: https://search.worldcat.org/title/5331254
     verified: true
   - title: The Philosophy of Praxis
+    original_title: Filosofia de la praxis
     authors:
       - Adolfo Sánchez Vázquez
+    translators:
+      - Mike Gonzalez
     year: 1977
     series: International Library of Social and Political Thought
     language: English
@@ -4242,6 +4378,8 @@ titles:
   - title: Hegel's False and His Genuine Ontology
     authors:
       - Lukács György
+    translators:
+      - David Fernbach
     year: 1978
     language: English
     pages: 116
@@ -4257,6 +4395,8 @@ titles:
   - title: Labour
     authors:
       - Lukács György
+    translators:
+      - David Fernbach
     year: 1978
     series: Toward the ontology of social being
     language: Not recorded
@@ -4268,6 +4408,8 @@ titles:
   - title: Marx's Basic Ontological Principles
     authors:
       - Lukács György
+    translators:
+      - David Fernbach
     year: 1978
     series: Toward the Ontology of Social Being -- 1. Chapter 4
     language: English
@@ -4336,6 +4478,7 @@ titles:
     subtitle: A Sociological Survey of the Writings of Balzac, Stendhal, Zola, Tolstoy, Gorki, and Others
     authors:
       - György Lukács
+    translators:
       - Edith Bone
     year: 1978
     language: English
@@ -4356,6 +4499,8 @@ titles:
   - title: The Hobby Horse and Other Animal Masks
     authors:
       - Viol ford
+    editors:
+      - Margaret Dean-Smith
     year: 1978
     language: English
     pages: 211
@@ -4377,6 +4522,8 @@ titles:
   - title: The Ontology of Social Being
     authors:
       - Lukács György
+    translators:
+      - David Fernbach
     year: 1978
     language: English
     sources:
@@ -4476,6 +4623,8 @@ titles:
   - title: Goethe and His Age
     authors:
       - Lukács György
+    translators:
+      - Robert Anchor
     year: 1979
     language: English
     pages: 260
@@ -4529,6 +4678,8 @@ titles:
   - title: The Meaning of Contemporary Realism
     authors:
       - Lukács György
+    translators:
+      - Necke Mander
     year: 1979
     language: English
     pages: 137
@@ -4606,6 +4757,8 @@ titles:
     subtitle: Greek Resistance Army
     authors:
       - Stephanos Saraphēs
+    translators:
+      - Sylvia Moody
     year: 1980
     edition: Complete English ed
     language: English
@@ -4644,6 +4797,8 @@ titles:
   - title: Labour
     authors:
       - Lukács György
+    translators:
+      - David Fernbach
     year: 1980
     series: 'Toward the Ontology of Social Being -- 3: Labour'
     language: English
@@ -4705,6 +4860,8 @@ titles:
   - title: The Destruction of Reason
     authors:
       - Lukács György
+    translators:
+      - Peter Palmer
     year: 1980
     language: English
     pages: 865
@@ -4722,6 +4879,8 @@ titles:
   - title: The Ontology of Social Being
     authors:
       - Lukács György
+    translators:
+      - David Fernbach
     year: 1980
     language: English
     pages: 139
@@ -4792,7 +4951,9 @@ titles:
     verified: true
     isbn: '0850362547'
   - title: Economic Crisis and Crisis Theory
-    authors:
+    original_title: Krisen und Krisentheorien
+    authors: []
+    translators:
       - Paul Mattick
     year: 1981
     language: English
@@ -5009,6 +5170,8 @@ titles:
   - title: Marx's Basic Ontological Principles
     authors:
       - Lukács György
+    translators:
+      - David Fernbach
     year: 1982
     language: English, German
     pages: 173
@@ -5079,6 +5242,9 @@ titles:
   - title: The Historical Novel
     authors:
       - Georg Lukács
+    translators:
+      - Hannah Mitchell
+      - Stanley Mitchell
     year: 1982
     language: English
     sources:
@@ -5193,6 +5359,8 @@ titles:
   - title: Broad and Alien Is the World
     authors:
       - Ciro Alegría
+    translators:
+      - Harriet de Onís
     year: 1983
     language: English
     pages: 434
@@ -5251,6 +5419,8 @@ titles:
   - title: Reviews and Articles from Die Rote Fahne
     authors:
       - Lukács György
+    translators:
+      - Peter Palmer
     year: 1983
     language: English
     pages: 73
@@ -5553,8 +5723,11 @@ titles:
     subtitle: Before and After Sizewell
   - title: British Intervention in Greece
     subtitle: From Varkiza to Civil War February 1945 to August 1946
+    original_title: Griechenland zwischen Revolution und Kontrarrevolution
     authors:
       - Heinz Richter
+    translators:
+      - Marion Sarafis
     year: 1985
     language: English
     sources:
@@ -6010,6 +6183,8 @@ titles:
     subtitle: A Guide to Foreign Languages for the Home Student
     authors:
       - Frederick Bodmer
+    editors:
+      - Lancelot Thomas Hogben
     year: 1987
     language: English
     sources:
@@ -6050,6 +6225,10 @@ titles:
   - title: The Socialist Register
     subtitle: '1987'
     authors: []
+    editors:
+      - Ralph Miliband
+      - Leo Panitch
+      - John Saville
     year: 1987
     language: English
     sources:
@@ -6238,6 +6417,7 @@ titles:
         url: https://search.worldcat.org/title/19265506
     verified: true
   - title: Ambassador in Athens
+    original_title: Ambassadeur in Athene
     authors:
       - C. D. Barkman
     year: 1989
@@ -6490,6 +6670,8 @@ titles:
     authors:
       - Marion Saraphē
       - Martin Eve
+    editors:
+      - Marion Sarafis
     year: 1990
     language: English
     sources:
@@ -6663,8 +6845,11 @@ titles:
         url: https://lccn.loc.gov/91227852
     verified: true
   - title: Struggle for the Balkans
+    original_title: Borba za Balkan
     authors:
       - Svetozar Vukmanović-Tempo
+    translators:
+      - Charles Bartlett
     year: 1990
     language: English
     pages: 355
@@ -6854,6 +7039,8 @@ titles:
   - title: Totemism
     authors:
       - Claude Lévi-Strauss
+    translators:
+      - Rodney Needham
     year: 1991
     language: English
     pages: 116
@@ -7287,6 +7474,8 @@ titles:
         url: https://archive.org/details/whynotcapitalism0000unse
   - title: Are There Alternatives?
     authors: []
+    editors:
+      - Leo Panitch
     year: 1996
     language: English
     sources:
@@ -7338,6 +7527,8 @@ titles:
     verified: true
   - title: Ruthless Criticism of All That Exists
     authors: []
+    editors:
+      - Leo Panitch
     year: 1997
     language: English
     sources:
@@ -8254,6 +8445,8 @@ titles:
     subtitle: 'A Debate Between Two Left-Wing Jews: Letters Between Marcel Liebman and Ralph Miliband'
     authors:
       - Ralph Miliband
+    translators:
+      - Peter Drucker
     year: 2006
     language: English
     pages: 82
@@ -8277,10 +8470,12 @@ titles:
     verified: true
   - title: The Theory of the Novel
     subtitle: A Historico-Philosophical Essay on the Forms of Great Epic Literature
+    original_title: Die Theorie des Romans
     authors:
       - Georg Lukács
-      - Anna Bostock
       - Merlin? Press?
+    translators:
+      - Anna Bostock
     year: 2006
     language: English
     sources:
@@ -8583,9 +8778,12 @@ titles:
         url: https://archive.org/details/feargusoconnorpo0000pick
   - title: Genocide in German South-West Africa
     subtitle: The Colonial War (1904 - 1908) in Namibia and Its Aftermath
+    original_title: Völkermord in Deutsch-Südwestafrika
     authors:
       - Jürgen Zimmerer
       - Joachim Zeller
+    translators:
+      - Edward Neather
     year: 2008
     language: English
     sources:
@@ -8656,6 +8854,8 @@ titles:
     series: The Socialist Register; 2009
     authors:
       - Leo Panitch
+    editors:
+      - Colin Leys
     year: 2008
     language: English
     sources:
@@ -8786,6 +8986,9 @@ titles:
     subtitle: National and International Perspectives
     authors:
       - Joan Allen
+    editors:
+      - Alan Campbell
+      - John McIlroy
     year: 2010
     language: English
     pages: 399
@@ -8887,8 +9090,13 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb42688289h
     verified: true
   - title: Reading Poulantzas
+    original_title: Poulantzas lesen
     authors:
       - Alexander Gallas
+    editors:
+      - Lars Bretthauer
+      - John Kannankulam
+      - Ingo Stützle
     year: 2011
     language: English
     sources:
@@ -9013,6 +9221,8 @@ titles:
     verified: true
   - title: European Revolutionaries and Algerian Independence
     authors: []
+    editors:
+      - Ian H. Birchall
     year: 2012
     language: English
     sources:
@@ -9140,10 +9350,12 @@ titles:
     verified: false
   - title: Dangerous Liaisons
     subtitle: The Marriages and Divorces of Marxism and Feminism
+    original_title: Relazioni pericolose
     series: IIRE Notebook for Study and Research; No. 55
     authors:
       - Cinzia Arruzza
       - Penelope Duggan
+    translators:
       - Marie Lagatta
       - Dave Kellaway
     year: 2013
@@ -9160,9 +9372,11 @@ titles:
     verified: true
   - title: Green Capitalism
     subtitle: Why It Can't Work
+    original_title: L'impossible Capitalisme vert
     series: IIRE Notebooks for Study and Research; 56
     authors:
       - Daniel Tanuro
+    translators:
       - Jane Ennis
     year: 2013
     language: English
@@ -9429,6 +9643,8 @@ titles:
     subtitle: Socialist Register 2016
     authors:
       - Leo Panitch
+    editors:
+      - Gregory Albo
     year: 2015
     edition: 2016 ed
     series: Socialist Register -- 2016
@@ -9647,6 +9863,8 @@ titles:
     series: Socialist Register; 2020
     authors:
       - Leo Panitch
+    editors:
+      - Gregory Albo
     year: 2019
     language: English
     sources:
@@ -9677,11 +9895,13 @@ titles:
     verified: true
   - title: Memoirs of a Critical Communist
     subtitle: Towards a History of the Fourth International
+    original_title: Per una storia della IV Internazionale
     authors:
       - Livio Maitan
       - Daniel Bensaïd
-      - Gregor Benton
       - Penelope Duggan
+    translators:
+      - Gregor Benton
     year: 2019
     language: English
     sources:
@@ -9776,6 +9996,8 @@ titles:
       - Walter Baier
       - Eric Canepa
       - Haris Golemis
+    editors:
+      - Transform! European Network for Alternative Thinking and Political Dialogue
     year: 2020
     language: English
     sources:
@@ -9866,6 +10088,10 @@ titles:
   - title: Socialist Register
     subtitle: The Crisis of Centrism
     authors: []
+    editors:
+      - Gregory Albo
+      - Leo Panitch
+      - Colin Leys
     year: 2021
     language: English
     sources:
@@ -10161,6 +10387,8 @@ titles:
     verified: false
   - title: Revolutionary History
     authors: []
+    editors:
+      - Ian H. Birchall
     language: English
     sources:
       - title: BnF catalogue record cb42764495s

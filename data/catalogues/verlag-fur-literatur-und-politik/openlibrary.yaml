@@ -38,6 +38,7 @@ titles:
       - label: Read or download (HathiTrust)
         url: https://hdl.handle.net/2027/wu.89110119120
   - title: Der Krieg und die Krise des Sozialismus
+    original_title: Voĭna i krizia sot︠s︡ializma
     authors:
       - Grigory Yevseyevich Zinovyev
     year: 1924
@@ -107,8 +108,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991071022469705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Die Front, 1918-1919
+    original_title: Front
     authors:
       - Larisa Reĭsner
+    translators:
+      - Eduard Schiemann
     year: 1924
     language: German
     pages: 158
@@ -188,10 +192,12 @@ titles:
       - label: Read or download (HathiTrust)
         url: https://hdl.handle.net/2027/uc1.$b39222
   - title: Die Hauptstrasse
+    original_title: Glavnaja ulica
     authors:
       - Demʹian Bednyĭ
-      - Johannes Robert Becher
       - Leon Trotsky
+    translators:
+      - Johannes Robert Becher
     year: 1924
     language: German
     pages: 29
@@ -207,6 +213,7 @@ titles:
     verified: true
   - title: Die Liquidation des Menschewismus in Georgien
     subtitle: Vortrag, gehalten in der Versammlung der Parteifunktionäre, Moskau, 7. August 1923
+    original_title: Likvidacija men'ševizma v Gruzii
     authors:
       - Aleksandr Samojlovič Martynov
     year: 1924
@@ -292,6 +299,8 @@ titles:
   - title: 'L. Trotzki. Die Geburt der Roten Armee: Reden, Befehle, Aufrufe und Thesen aus dem Gründungsjahr der Roten Armee. Übersetzung aus dem Russischen von Frida Rubiner'
     authors:
       - Lev Davydovič Trockij
+    translators:
+      - Frida Rubiner
     year: 1924
     language: German
     sources:
@@ -473,8 +482,10 @@ titles:
     verified: true
   - title: Das Antlitz des Lebens
     subtitle: Erzählungen
+    original_title: Lico žizni
     authors:
       - Aleksandr Neverov
+    translators:
       - Maria Einstein
     year: 1925
     language: German
@@ -728,6 +739,8 @@ titles:
     subtitle: Die Wert- und Profittheorie der österreichischen Schule
     authors:
       - Nikolaĭ Ivanovich Bukharin
+    translators:
+      - Anna Lifschitz
     year: 1926
     series: Marxistische Bibliothek -- Bd. 2
     language: German
@@ -761,9 +774,12 @@ titles:
       - label: Read or download (HathiTrust)
         url: https://hdl.handle.net/2027/mdp.39015031667341
   - title: Grundriss der Wirtschaftsgeographie
+    original_title: An outline of economic geography
     authors:
       - J. F. Horrabin
       - Karl August Wittfogel
+    translators:
+      - Karl August Witfogel
     year: 1926
     language: German
     pages: 205
@@ -929,6 +945,8 @@ titles:
   - title: Der achtzehnte Brumaire des Louis Bonaparte
     authors:
       - Karl Marx
+    editors:
+      - David Borisovich Goldendach
     year: 1927
     series: Marxistische Bibliothek. Werke des Marxismus-Leninismus
     language: German
@@ -1006,6 +1024,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/009983218
   - title: Die Planwirtschaftsarbeit in der Sowjetunion
     subtitle: Ergebnisse des ersten Jahrzehnts
+    original_title: Planove chozjajstvo v Sovetskom Sojuze
     authors:
       - M. Krischanowski
     year: 1927
@@ -1083,6 +1102,8 @@ titles:
     subtitle: Quellenmaterial zum Marx-Engels'schen Materialismus
     authors:
       - Friedrich Engels
+    editors:
+      - Hermann Duncker
     year: 1927
     series: 'Marxistische Bibliothek: Werke des Marxismus Leninismus'
     language: German
@@ -1234,6 +1255,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991123291509705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Zehn Tage, die die Welt erschütterten
+    original_title: Ten Days that Shook the World
     authors:
       - John Reed
     year: 1927
@@ -1312,6 +1334,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991014446509705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Roman
+    original_title: Bruski
   - title: Die Neunzehn
     subtitle: Roman
     authors:
@@ -1426,6 +1449,8 @@ titles:
   - title: L. N. Tolstoi im Spiegel des Marxismus
     authors:
       - Vladimir Il’ich Lenin
+    translators:
+      - W. M. Fritsche
     year: 1928
     edition: '[Einzige autorisierte Ausg.]'
     series: Marxistische Bibliothek. Werke des Marxismus-Leninismus
@@ -1589,6 +1614,8 @@ titles:
   - title: Allgemeine Rechtslehre und Marxismus, Versuch einer Kritik der juristischen Grundbegriffe
     authors:
       - Evgeniĭ Bronislavovich Pashukanis
+    translators:
+      - Edith Hajós
     year: 1929
     series: Marxistische Bibliothek
     language: German
@@ -1669,6 +1696,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991007236489705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Der stille Don
+    original_title: Tichij Don
     authors:
       - Michail Scholochow
       - Olga Halpern
@@ -1708,6 +1736,10 @@ titles:
     authors:
       - Georgij Valentinovič Plechanov
       - David Borisovič Rjazanov
+    editors:
+      - David Borisovič Râzanov
+    translators:
+      - Karl Schmückle
     year: 1929
     language: German
     sources:
@@ -1727,6 +1759,8 @@ titles:
     subtitle: Ein Versuch der Analyse des sogenannten "Kriegskommunismus."
     authors:
       - L. Kritsman
+    translators:
+      - L. B.
     year: 1929
     series: Marxistische Bibliothek -- Bd. 16
     language: German
@@ -1823,6 +1857,8 @@ titles:
     subtitle: Zur Frage des Verhältnisses der Philosophie zur Revolution
     authors:
       - I. K. Luppol
+    translators:
+      - Sinaida Jachnin
     year: 1929
     series: Marxistische Bibliothek. Werke des Marxismus Leninismus
     language: German
@@ -1899,6 +1935,7 @@ titles:
     verified: true
   - title: Staat und Revolution
     subtitle: Die Staatstheorie des Marxismus und die Aufgaben des Proletariats in der Revolution
+    original_title: Gosudarstvo i revoljucija
     authors:
       - Vladimir Il’ich Lenin
     year: 1929
@@ -1984,6 +2021,7 @@ titles:
     verified: true
   - title: Der Fünfjahrplan der UdSSR
     subtitle: Eine Darstellung seiner Probleme
+    original_title: Pi︠a︡tilentniĭ plan norodnogo khozi︠a︡ĭstva
     authors:
       - Hryhoriy Fedorovych Hrynko (Григорій Федорович Гринько)
     year: 1930
@@ -2050,6 +2088,7 @@ titles:
     verified: true
   - title: Der Imperialismus als höchstes Stadium des Kapitalismus
     subtitle: Gemeinverständliche Studie
+    original_title: Imperializm, kak vysšaja stadija kapitalizma
     series: 'Marxistische Bibliothek: Werke des Marxismus-Leninismus; Band 1, 3. Aufl'
     authors:
       - Vladimir Ilʹič Lenin
@@ -2242,6 +2281,8 @@ titles:
     subtitle: Kriegsgeschichtliche Schriften
     authors:
       - Friedrich Engels
+    editors:
+      - Rudolf Haus
     year: 1931
     series: Marxistische Bibliothek, Werke des Marxismus-Leninismus
     language: German
@@ -2382,7 +2423,9 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991131116299705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Roman
+    original_title: Bruski
   - title: Die proletarische Revolution und der Renegat Kautsky
+    original_title: Proletarskaja revoljucija i renegat Kautskij
     series: Kleine Lenin-Bibliothek; Bd. 2
     authors:
       - Vladimir Ilʹič Lenin
@@ -2572,6 +2615,7 @@ titles:
         url: https://www.sudoc.fr/127128697
     verified: true
   - title: Über den historischen Materialismus
+    original_title: O istoričeskom materializme
     series: Kleine Lenin-Bibliothek; Band 6
     authors:
       - Vladimir Ilʹič Lenin
@@ -2631,6 +2675,10 @@ titles:
     series: Marxistische Bibliothek; Band 23
     authors:
       - Vladimir Ilʹič Lenin
+    editors:
+      - Vladimir Viktorovič Adoratskij
+    translators:
+      - M. Furschtschik
     year: 1932
     language: German
     sources:
@@ -2641,6 +2689,7 @@ titles:
     verified: true
   - title: Ausgewählte Werke
     subtitle: In 12 Bänden
+    original_title: Izbrannye sočinenija v dvenadcatych tomach
     authors:
       - Vladimir Il’ich Lenin
     year: 1932
@@ -2671,6 +2720,8 @@ titles:
     subtitle: Kritik der politischen Ökonomie
     authors:
       - Karl Marx
+    editors:
+      - Friedrich Engels
     year: 1932
     edition: Volksausg. / besorgt von Marx-Engels-Lenin-Institut, Moskau
     language: German
@@ -2720,6 +2771,7 @@ titles:
   - title: Der letzte Udehe
     authors:
       - Aleksandr Aleksandrovič Fadeev
+    translators:
       - Eduard Schiemann
     year: 1932
     language: German
@@ -2734,6 +2786,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1122469063
     verified: true
     subtitle: Roman
+    original_title: Poslednij iz Udége
   - title: Der Produktionsprozess des Kapitals
     series: Das Kapital / Karl Marx; Bd. 1
     authors: []
@@ -2762,6 +2815,8 @@ titles:
     subtitle: Kritik der neuesten deutschen Philosophie... 1845-46
     authors:
       - Karl Marx
+    editors:
+      - V. Adoratskij
     year: 1932
     language: German
     sources:
@@ -2788,6 +2843,8 @@ titles:
     authors:
       - Oskar Erdberg
       - Anna S. Kulischer
+    translators:
+      - Anna S. Kulišer
     year: 1932
     language: German
     pages: 188
@@ -2804,6 +2861,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=402371410
     verified: true
     subtitle: Oskar Erdberg; berechtigte Übersetzung aus dem Russischen von Anna S. Kulischer
+    original_title: Kitajskie novelly
   - title: Die Lage der arbeitenden Klasse in England
     authors:
       - Friedrich Engels
@@ -2979,6 +3037,8 @@ titles:
     subtitle: Kritik der politischen Oekonomie
     authors:
       - Karl Marx
+    editors:
+      - Friedrich Engels
     year: 1933
     language: German
     sources:

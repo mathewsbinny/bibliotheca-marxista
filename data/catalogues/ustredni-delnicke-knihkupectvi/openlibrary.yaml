@@ -5,6 +5,7 @@ publisher: ustredni-delnicke-knihkupectvi
 titles:
   - title: Spiknutí proti kardinálovi
     subtitle: Historický román
+    original_title: Cinq-Mars
     series: Románová knihovna "Záře"
     authors:
       - Alfred <<de>> Vigny
@@ -85,8 +86,9 @@ titles:
   - title: Rusko, jaké je ve skutečnosti
     authors:
       - Gregorio Nofri
-      - František Soldan
       - Fernando Pozzani
+    translators:
+      - František Soldan
     year: 1921
     language: Czech
     sources:
@@ -179,8 +181,9 @@ titles:
     series: Románová knihovna; 59
     authors:
       - Thea von Harbou
-      - Marie Dolejší
       - Emanuel Frinta
+    translators:
+      - Marie Dolejší
     year: 1927
     language: Czech
     sources:
@@ -287,9 +290,10 @@ titles:
     subtitle: Veselý román ze života vojenského
     authors:
       - Johan Fabricius
-      - Josef Mach
       - Karl Krause
       - František Ketzek
+    translators:
+      - Josef Mach
     year: 1933
     language: Czech
     sources:
@@ -345,8 +349,10 @@ titles:
     verified: true
   - title: Dálava
     subtitle: Román
+    original_title: Faraway
     authors:
       - J. B. Priestley
+    translators:
       - Jana Květa
       - K. Krause
     year: 1938

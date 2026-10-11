@@ -2687,6 +2687,7 @@ titles:
         url: https://search.worldcat.org/title/833938505
     verified: true
   - title: Istoriâ russkoj literatury XVIII veka
+    original_title: Istoriâ russkoj literatury XVIII veka
     authors:
       - Dmitrij Dmitrievič Blagoj
       - Gosudarstvennoe učebno-pedagogičeskoe izdatel'stvo (Ministerstvo prosveŝeniâ
@@ -6700,10 +6701,11 @@ titles:
   - title: Mir čuvstennyh veŝej v kartinkah ili Izobraženie i naimenovanie vseh važnejših predmetov v mire i dejstvij v žizni
     authors:
       - Jan Amos Komenský
-      - Û. N. Drejzina
       - Arhip Aleksandrovič Krasnovskij
       - Gosudarstvennoe učebno-pedagogičeskoe izdatel'stvo (Ministerstvo prosveŝeniâ
       - RSFSR)
+    translators:
+      - Û. N. Drejzina
     year: 1957
     language: Russian
     sources:
@@ -10717,6 +10719,8 @@ titles:
     subtitle: Kniga dlia chteniia na angliĭskom iazyke dlia VII klassa. Sostavila i adaptirovala Isaeva, V.G
     authors:
       - V. G. Isaeva
+    editors:
+      - V. G. Isaev
     year: 1964
     language: Russian
     sources:
@@ -10812,6 +10816,9 @@ titles:
   - title: Aleksandr Fadeev v portretah, illûstraciâh, dokumentah, posobie dlâ učitelej. Sostaviteli B. L. Belâev, V. I. Zarahani. Pod obŝej redakciej A. S. Bušmina
     authors:
       - Aleksandr Aleksandrovič Fadeev
+    editors:
+      - V. I. Zarahani
+      - Boris Leonidovič Belâev
     year: 1964
     language: Russian
     sources:
@@ -11926,6 +11933,8 @@ titles:
   - title: Izbrannye trudy
     authors:
       - N. L. Brodskiĭ
+    editors:
+      - Nikolaj K. Gudzij
     year: 1964
     series: Trudy deĭstvitel'nykh chlenov akademii
     language: Russian
@@ -11956,6 +11965,11 @@ titles:
   - title: Izbrannye trudy po teoriï literatury
     authors:
       - A. I. Beletskiĭ
+    editors:
+      - Nikolaj Kallinikovič Gudzij
+      - Nikolai Kallinikovich Gudzii (Николай Каллиникович Гудзий)
+      - Abram Akimovitch Gozenpoud
+      - Abram Akimovich Gozenpud (Абрам Акимович Гозенпуд)
     year: 1964
     language: Russian
     pages: 478
@@ -13698,6 +13712,8 @@ titles:
   - title: Pisateli Francii
     authors:
       - Efim Grigorʹevič Ėtkind
+    editors:
+      - Efim Grigor'evič Ètkind
     year: 1964
     language: Russian
     sources:
@@ -13830,6 +13846,8 @@ titles:
   - title: Povyshenie ėffektivnosti obucheniia v sredneĭ shkole
     authors:
       - Institut psikhologii (Akademiia pedagogicheskikh nauk RSFSR)
+    editors:
+      - T. V. Kudriavtsev
     year: 1964
     series: Pedagogicheskie chteniia
     language: Russian
@@ -14391,6 +14409,9 @@ titles:
     subtitle: Khrestomatiia
     authors:
       - N. M. Gaĭdenkov
+    editors:
+      - Nikolaj Matveevič Gajdenkov
+      - Nikolai Matveevich Gaidenkov (Николай Матвеевич Гайденков)
     year: 1964
     edition: Izd. 3., dop. i perer
     language: Russian
@@ -15064,6 +15085,9 @@ titles:
     subtitle: Sbornik stateĭ
     authors:
       - V. V. Kozhevnikova
+    editors:
+      - V. V. Koževnikova
+      - V. V. Kozhevnikova (В.В. Кожевникова)
     year: 1964
     language: Russian
     pages: 286
@@ -15332,6 +15356,8 @@ titles:
     authors:
       - Anton Semënovič Makarenko
       - Anton Semenovich Makarenko (Антон Семёнович Макаренко)
+    editors:
+      - Lev Ûl'evič Gordin
     year: 1964
     language: Russian
     sources:
@@ -15411,6 +15437,8 @@ titles:
     verified: true
   - title: Tvorčestvo M. A. Šolohova, sbornik statej. Sostavitelʹ P. I. Pavlovskij
     authors: []
+    editors:
+      - P. I. Pavlovskij
     year: 1964
     language: Russian
     sources:
@@ -15715,6 +15743,9 @@ titles:
     subtitle: Rechevoe i umstvennoe vospitanie deteĭ v gruppakh vtorogo goda zhizni
     authors:
       - Institut doshkolʹnogo vospitaniia (Akademiia pedagogicheskikh nauk RSFSR)
+    editors:
+      - Nina Mikhailovna Aksarina
+      - Evgenija Il'inichna Radina
     year: 1964
     language: Russian
     pages: 177
@@ -18810,6 +18841,10 @@ titles:
     authors:
       - Akademiâ Pedagogičeskih Nauk RSfSR
       - Akademiâ nauk SSSR
+    editors:
+      - Sergej Konstantinovič Šambinago
+      - Ûrij Aleksandrovič Polâkov
+      - Alʹbert Timofeevič Kinkulʹkin
     year: 1965
     language: Russian
     sources:
@@ -19096,6 +19131,9 @@ titles:
     subtitle: Vospominanija pedagoga-kraeveda
     authors:
       - Aleksandr Feoktistovič Rodin
+    editors:
+      - Fedor Petrovič Korovkin
+      - Vladimir Bronislavovič Murav'ev
     year: 1965
     language: Russian
     sources:
@@ -19620,12 +19658,14 @@ titles:
     verified: true
   - title: Melovye čerteži k urokam istorii
     subtitle: (Perevod s nemeckogo)
+    original_title: Tafelbilder im Geschichtsunterricht
     authors:
       - Gerhardt Gimpel
       - Florian Osburg
+      - Iosif Zinovʹevič Ozerskij
+    translators:
       - S. V. Grečkoedova
       - Ch. A. Kuleš
-      - Iosif Zinovʹevič Ozerskij
     year: 1965
     language: Russian
     sources:
@@ -21638,6 +21678,7 @@ titles:
     subtitle: Drevnerusskij tekst i perevody
     authors:
       - V. Stelleckij
+    translators:
       - Leonid Ivanovič Timofeev
     year: 1965
     language: Russian
@@ -21647,9 +21688,15 @@ titles:
     verified: true
   - title: Slovo o polku Igoreve
     subtitle: Drevnerusskiǐ tekst i perevody
+    original_title: Slovo o polku Igoreve
     authors:
       - V. I. Stelletskiĭ
       - L. I. Timofeev
+    editors:
+      - V. I. Stelleckij
+    translators:
+      - Vladimir Ivanovič Stelleckij
+      - Vladimir Ivanovich Stelletskii (Владимир Иванович Стеллецкий)
     year: 1965
     language: Russian
     pages: 262
@@ -22261,6 +22308,8 @@ titles:
   - title: Voprosy obucheniia ustnoĭ rechi i chteniiu na inostrannom iazyke v vosʹmiletneĭ shkole
     authors:
       - Institut obshchego i politekhnicheskogo obrazovaniia (Akademiia pedagogicheskikh nauk RSFSR)
+    editors:
+      - A. A. Miroliubov
     year: 1965
     language: Russian
     pages: 245
@@ -25350,6 +25399,8 @@ titles:
   - title: Fizicheskaia geografiia SSSR
     authors:
       - M. I. Davydova
+    editors:
+      - G. K. Tushinskiĭ
     year: 1966
     edition: Izd. 2. Pod red. G. K. Tushinskogo. Utverzhden v kachestve uchebnika dli͡a︡ geogr. i estestvenno-geogr. fakulʹtetov pedagog. in-tov
     language: Russian
@@ -26037,6 +26088,8 @@ titles:
     verified: true
   - title: Ivan Andreevič Krylov v portretah, illûstraciâh, dokumentah [posobie dlâ učitelâ]. Sostavitelʹ A. M. Gordin. Pod redakciej A. V. Desnickogo
     authors: []
+    editors:
+      - Arkadij Moiseevič Gordin
     year: 1966
     language: Russian
     sources:
@@ -26085,6 +26138,10 @@ titles:
     authors:
       - Lûdmila Ivanovna Kuz'mina
       - Irina Vladimirovna Stepanova
+    editors:
+      - Lûdmila Ivanovna Kuzʹmina
+      - Galina Vasilʹevna Stepanova
+      - Grigorij Abramovič Bâlyj
     year: 1966
     language: Russian
     sources:
@@ -26097,6 +26154,9 @@ titles:
     verified: true
   - title: 'Ivan Sergeevič Turgenev v portretah, illûstraciâh, dokumentah. Sostaviteli: L. I. Kuzʹmina, G. V. Stepanova. Pod obŝej redakciej G. A. Bâlogo. Vstupitelʹnaâ statʹâ A. I. Batûto'
     authors: []
+    editors:
+      - L. I. Kuzʹmina
+      - G. V. Stepanova
     year: 1966
     language: Russian
     sources:
@@ -26125,6 +26185,7 @@ titles:
       - Janusz Korczak
       - E. S. Rubenčik
       - Mariâ Fedorovna Šabaeva
+    translators:
       - Kinga Senkevič
     year: 1966
     language: Russian
@@ -26942,6 +27003,7 @@ titles:
     series: Matematičeskoe Prosvešcenie
     authors:
       - Wacław Sierpiński
+    translators:
       - Z. Raczyński
     year: 1966
     language: Russian
@@ -27041,7 +27103,8 @@ titles:
   - title: Obučenie angliskomu jazyku w trudnych uslovijach
     subtitle: Obučenie angliskomu jazyku kak innostrannomu; zametki po sostawleniju učebnikow
     series: Bibliotečka učitelja inostrannogo jazyka
-    authors:
+    authors: []
+    translators:
       - A. S. Jgnat'ewa
     year: 1966
     language: German
@@ -27082,6 +27145,8 @@ titles:
     authors:
       - Nejt G. Dajri
       - Akademija Pedagogičeskich Nauk RSFSR
+    editors:
+      - Naučno-Issledovatel'skij Institut Obščego i Politechničeskogo Obrazovanija
     year: 1966
     language: Russian
     sources:
@@ -28063,6 +28128,9 @@ titles:
     authors:
       - Anatoli Andreevitch Volkov
       - Anatolii Andreevich Volkov (Анатолий Андреевич Волков)
+    editors:
+      - Nikolaï Alekseevitch Trifonov
+      - Nikolai Alekseevich Trifonov (Николай Алексеевич Трифонов)
     year: 1966
     language: Russian
     sources:
@@ -28152,6 +28220,8 @@ titles:
     subtitle: Dooktjabr'skij period
     authors:
       - Anatolij Andreevič Volkov
+    editors:
+      - Nikolaj A. Trifonov
     year: 1966
     language: Russian
     sources:
@@ -28209,6 +28279,9 @@ titles:
       - V. D. Arakin (В. Д. Аракин)
       - I. D. Samojlova
       - E. D. Samoilova (И. Д. Самойлова)
+    editors:
+      - Viktor Vladimirovitch Vinogradov
+      - Viktor Vladimirovich Vinogradov (Виктор Владимирович Виноградов)
     year: 1966
     language: Russian
     sources:
@@ -29175,6 +29248,8 @@ titles:
     authors:
       - Anton Semënovič Makarenko
       - Anton Semenovich Makarenko (Антон Семёнович Макаренко)
+    editors:
+      - Valentin Vasil'evič Kumarin
     year: 1966
     language: Russian
     sources:
@@ -32120,6 +32195,8 @@ titles:
       - Dmitrii Sergeevich Likhachev (Дмитрий Сергеевич Лихачев)
       - Ènguelina Sergueevna Smirnova
       - Engelina Sergeevna Smirnova (Энгелина Сергеевна Смирнова)
+    editors:
+      - Dmitrij Sergeevič Lichačëv
     year: 1967
     language: Russian
     sources:
@@ -32677,6 +32754,8 @@ titles:
   - title: Narodnoe obrazovanie v SSSR, 1917-1967
     authors:
       - M. A. Prokof'ev
+    editors:
+      - Mihail Alekseevič Prokofʹev
     year: 1967
     language: Russian
     pages: 542
@@ -33165,6 +33244,8 @@ titles:
   - title: Osnovy didaktiki
     authors:
       - B. P. Esipov
+    editors:
+      - Boris Petrovič Esipov
     year: 1967
     language: Russian
     pages: 471
@@ -34361,6 +34442,8 @@ titles:
     verified: true
   - title: Sergej Esenin, ûbilejnyj sbornik, Issledovaniâ, memuary, vystupleniâ, pod obŝej redakciej Û. L. Prokuševa
     authors: []
+    editors:
+      - Ûrij Lʹvovič Prokušev
     year: 1967
     language: Russian
     sources:
@@ -34368,9 +34451,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb439401801
     verified: true
   - title: Sistema bystrogo sčeta po Trahtenbergu
+    original_title: The Trachtenberg speed system of Basic mathematics
     authors:
       - Ann Cutler
       - Rudolph Matas McShane
+    translators:
       - P. G. Kaminskij
       - Ja. O. Haskin
     year: 1967
@@ -34693,6 +34778,8 @@ titles:
     verified: true
   - title: Teksty i leksicheskie uprazhneniia po razvitiiu rechi
     authors: []
+    editors:
+      - E. I. Motina
     year: 1967
     language: Russian
     pages: 230
@@ -36251,10 +36338,12 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA81351399
     verified: false
   - title: 250 zadač po élementarnoj teorii čisel
+    original_title: 200 zadan z elementarnej teorii liczb
     series: Matematičeskoe prosveŝenie
     authors:
       - Wacław Sierpiński
       - Vatslav Serpinskii (Вацлав Серпинский)
+    translators:
       - I. G. Melʹnikov
       - E. G. Melnikov (И. Г. Мельников)
     year: 1968
@@ -36281,6 +36370,8 @@ titles:
   - title: A. M. Seliŝev. Izbrannye trudy. Sostavitelʹ i avtor predisloviâ E. Vasilevskaâ
     authors:
       - Afanasij Matveevič Seliŝev
+    editors:
+      - Evgeniâ Alekseevna Vasilevskaâ
     year: 1968
     language: Russian
     sources:
@@ -37205,17 +37296,19 @@ titles:
     series: Voprosy sovetskogo iazykoznaniia
   - title: Igra s beskonečnostʹû
     subtitle: Matematika dlâ nematimatikov
+    original_title: Das Spiel mit dem Unendlichen
     authors:
       - Rózsa Péter
       - R. Peter (Р. Петер)
+      - B. L. Laptev
+      - B. L. Laptev (Б. Л. Лаптев)
+    translators:
       - V. M. Bocu
       - V. M. Botsu (В. М. Боцу)
       - A. Â. Margulis
       - A. I. Margulis (А. Я. Маргулис)
       - A. Š. Mejlihzon
       - A. S. Meilikhzon (А. Ш. Мейлихзон)
-      - B. L. Laptev
-      - B. L. Laptev (Б. Л. Лаптев)
     year: 1968
     language: Russian
     sources:
@@ -37696,6 +37789,8 @@ titles:
   - title: Izbrannye trudy
     authors:
       - A. M. Selishchev
+    editors:
+      - Evgeniia Alekseevna Vasilevskaia
     year: 1968
     language: Russian
     pages: 639
@@ -38018,6 +38113,7 @@ titles:
     subtitle: (O trudnostâh v vospitanii detej doškol'nogo vozrasta)
     authors:
       - Ida Merżan
+    translators:
       - Evgeniâ Il'inična Radina
     year: 1968
     language: Russian
@@ -38137,6 +38233,8 @@ titles:
   - title: Mihail Evgrafovič Saltykov-Ŝedrin v portretah, illûstraciâh, dokumentah. Sostavitelʹ V. N. Baskakov. Pod redakciej E. I. Pokusaeva
     authors:
       - V. N. Baskakov
+    editors:
+      - Evgraf Ivanovič Pokusaev
     year: 1968
     language: Russian
     sources:
@@ -38155,6 +38253,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991128800999705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Množestva, logika, aksiomatičeskie teorii
+    original_title: Sets, logic and axiomatic theories
     series: Matematičeskoe prosveščenie
     authors:
       - Robert R. Stoll
@@ -38610,8 +38709,9 @@ titles:
   - title: Osnovy problemnogo obučeniâ
     authors:
       - Wincenty Okoń
-      - Sergej Fedorovič Žujkov
       - Aleksej Mihajlovič Matûškin
+    translators:
+      - Sergej Fedorovič Žujkov
     year: 1968
     language: Russian
     sources:
@@ -39087,6 +39187,8 @@ titles:
   - title: Problemy stsenicheskoĭ rechi
     subtitle: Metod. posobie dlia prepodavateleĭ teatr. ucheb. zavedeniĭ. [Sbornik]
     authors: []
+    editors:
+      - Irina Petrovna Kozhianinova
     year: 1968
     language: Russian
     pages: 142
@@ -39472,6 +39574,8 @@ titles:
     subtitle: Učebnoe posobie dlja srednej školy
     authors:
       - Sergej Michajlovič Florinskij
+    editors:
+      - Boris I. Bursov
     year: 1968
     language: Russian
     sources:
@@ -40050,6 +40154,8 @@ titles:
     verified: true
   - title: Tri veka russkoj poèzii. Sostavil Nikolaj Bannikov
     authors: []
+    editors:
+      - Nikolaj Vasilʹevič Bannikov
     year: 1968
     language: Russian
     sources:
@@ -40501,6 +40607,10 @@ titles:
     authors:
       - Anton Semënovič Makarenko
       - Anton Semenovich Makarenko (Антон Семёнович Макаренко)
+    editors:
+      - Marija P. Pavlova
+      - Lev Ju Gordin
+      - M. P. Pavlova
     year: 1968
     language: Russian
     sources:
@@ -42028,7 +42138,8 @@ titles:
     verified: true
   - title: Bratec Krolik, Ego Druz'ja I Vragi
     subtitle: Neritjanskie Narodnye Skazki
-    authors:
+    authors: []
+    translators:
       - Lev Vasilʹevič Chvostenko
     year: 1969
     language: English
@@ -43395,6 +43506,7 @@ titles:
     authors:
       - Naum Âkovlevič Vilenkin
       - Naum Iakovlevich Vilenkin (Наум Яковлевич Виленкин)
+    translators:
       - Semen Isaakovič Švarcburd
       - Semen Isaakovich Shvartsburd (Семен Исаакович Шварцбурд)
     year: 1969
@@ -44350,6 +44462,8 @@ titles:
     subtitle: Uchebnik dlia uchashchikhsia bibliotech. tekhnikumov
     authors:
       - Russian S. F. S. R. Glavnoe upravlenie uchebnykh zavedeniĭ i kadrov
+    editors:
+      - V. N. Denisʹev
     year: 1969
     edition: Izd. 2-e, dop.]
     language: Russian
@@ -45376,6 +45490,8 @@ titles:
     verified: true
   - title: Russkaâ klassičeskaâ literatura, razbory i analizy, sostavitelʹ D. Ustûžanin
     authors: []
+    editors:
+      - D. Ustûžin
     year: 1969
     language: Russian
     sources:
@@ -45387,6 +45503,9 @@ titles:
     authors:
       - Sergej Mihajlovič Florinskij
       - Sergei Mikhailovich Florinskii (Сергей Михайлович Флоринский)
+    editors:
+      - Lidia Aleksandrovna Belova
+      - Lidiia Aleksandrovna Belova (Лидия Александровна Белова)
     year: 1969
     language: Russian
     sources:
@@ -45583,6 +45702,8 @@ titles:
       - Aleksandr Grigorʹevič Dementʹev
       - Evgenij Ivanovič Naumov
       - Lev A. Plotkin
+    editors:
+      - V. I. Ėtov
     year: 1969
     language: Russian
     sources:
@@ -45639,6 +45760,8 @@ titles:
     verified: true
   - title: Russkie metodisty-slovesniki v vospominaniâh. Vospominaniâ o vydaûŝihsâ russkih pedagogah XIX-načala XX veka. Sostavitelʹ, avtor vstupitelʹnoj statʹi i primečanij V. S. Baevskij
     authors: []
+    editors:
+      - Vadim Solomonovič Baevskij
     year: 1969
     language: Russian
     sources:
@@ -45805,6 +45928,9 @@ titles:
     subtitle: '[Sbornik izbr. rabot]'
     authors:
       - Aleksandr Borisovich Saltykov
+    editors:
+      - Boris Aleksandrovič Rybakov
+      - Boris Aleksandrovich Rybakov (Борис Александрович Рыбаков)
     year: 1969
     language: Russian
     pages: 295
@@ -48808,6 +48934,9 @@ titles:
   - title: Hrestomatiâ po istorii SSSR, 1861-1917
     subtitle: Posobie dlâ učitelej
     authors: []
+    editors:
+      - Sergej Sergeevič Dmitriev
+      - R. G. Èjmongova
     year: 1970
     language: Russian
     sources:
@@ -48918,6 +49047,8 @@ titles:
   - title: Istoriia russkoĭ literatury deviatnadtsatogo veka
     authors:
       - Moscow (Russia). Moskovskiĭ gosudarstvennyĭ pedagogicheskiĭ institut. Kafedra russkoĭ literatury
+    editors:
+      - S. M. (Sergeĭ Mitrofanovich) Petrov
     year: 1970
     edition: Izd. 3-e
     language: Russian
@@ -48975,6 +49106,8 @@ titles:
     authors:
       - Dmitrij G. Reder
       - Ekaterina A. Čerkasova
+    editors:
+      - Akademija Pedagogičeskich Nauk SSSR
     year: 1970
     language: Russian
     sources:
@@ -49032,6 +49165,9 @@ titles:
   - title: Istorija SSSR
     authors:
       - Ivan A. Fedosov
+    editors:
+      - Akademija Pedagogičeskich Nauk SSSR
+      - Akademija Nauk SSSR
     year: 1970
     language: Russian
     sources:
@@ -49098,6 +49234,13 @@ titles:
   - title: Izbrannye trudy
     authors:
       - V. Chernyshev
+    editors:
+      - Anatoliï Mikhaïlovitch Iordanskiï
+      - Anatolii Mikhailovich Iordanskii (Анатолий Михайлович Иорданский)
+      - Vitalij Grigorʹevič Kostomarov
+      - Vitalii Grigorevich Kostomarov (Виталий Григорьевич Костомаров)
+      - Ivan Fedorovitch Protchenko
+      - Ivan Fedorovich Protchenko (Иван Федорович Протченко)
     year: 1970
     language: Russian
     sources:
@@ -50103,6 +50246,9 @@ titles:
     authors:
       - Filipp Ivanovič Golikov
       - Filipp Ivanovich Golikov (Филипп Иванович Голиков)
+    editors:
+      - Vladimir Borisovic Tel'pychovskij
+      - Lidija Vladimirovna Jarusina
     year: 1970
     language: Russian
     sources:
@@ -50187,6 +50333,9 @@ titles:
     subtitle: '[Sbornik]'
     authors:
       - Vladimir Il’ich Lenin
+    editors:
+      - V. P. Gruzdev
+      - Aleksandr M. Arsen'ev
     year: 1970
     edition: Izd. 2-e
     language: Russian
@@ -50969,6 +51118,8 @@ titles:
     authors:
       - Praskov'ja Andreevna Ševčenko
       - Sergej Michajlovic̆ Florinskij
+    editors:
+      - Gennadij I. Belenʹkij
     year: 1970
     language: Russian
     sources:
@@ -51984,6 +52135,8 @@ titles:
   - title: 'V. I. Černyšev. Izbrannye trudy v 2-h tomah. Sostaviteli: A. M. Iordanskij, V. G. Kostomarov, I. F. Protčenko. Vstupitelʹnaâ statʹâ... V. V. Vinogradova'
     authors:
       - Vasilij Ilʹič Černyšev
+    editors:
+      - Ivan Fedorovič Protčenko
     year: 1970
     language: Russian
     sources:
@@ -52046,6 +52199,8 @@ titles:
     verified: true
   - title: Vladimir Maâkovskij. - 1930. Izbrannoe. Teksty V. V. Maâkovskogo i o nem. Sostavitelʹ S. A. Voronokova
     authors: []
+    editors:
+      - S. A. Voronokova
     year: 1970
     language: Multiple languages
     sources:
@@ -52067,6 +52222,8 @@ titles:
     subtitle: 1889 - 1930
     authors:
       - Vladimir Majakovskij
+    editors:
+      - S. A. Voronokova
     year: 1970
     language: Russian
     sources:
@@ -54545,6 +54702,8 @@ titles:
   - title: Istorija amerikanskoj literatury
     authors:
       - Nikolaj Ivanovič Samochvalov
+    editors:
+      - Nikolaj I. Samochvalov
     year: 1971
     language: Russian
     sources:
@@ -55271,7 +55430,8 @@ titles:
     verified: true
   - title: Matematika
     subtitle: Midlendskij eksperimental'nyj učebnik; Pervod s anglijskogo G.G. Maslovoj
-    authors:
+    authors: []
+    translators:
       - G. G. Maslovaja
     year: 1971
     language: Russian
@@ -55522,6 +55682,9 @@ titles:
   - title: Obshchestvovedenie
     authors:
       - V. S. Gott
+    editors:
+      - Volodymyr Svyrydevych Hott
+      - V. F. Berestnev
     year: 1971
     series: Posobie dlia uchiteleĭ
     language: Russian
@@ -55675,6 +55838,8 @@ titles:
   - title: Otbor deteĭ vo vospomogatelʹnye shkoly
     subtitle: Opyt raboty po komplektovaniiu vspomogat. shkol
     authors: []
+    editors:
+      - Sofʹia Davydovna Zabramnoĭ
     year: 1971
     language: Russian
     pages: 96
@@ -56265,6 +56430,8 @@ titles:
     verified: true
   - title: Russkaâ literatura XX veka, hrestomatiâ, dooktâbrʹskij period. Sostavil N. A. Trifonov. 3-ʹe izdanie
     authors: []
+    editors:
+      - Nikolaj Alekseevič Trifonov
     year: 1971
     language: Russian
     sources:
@@ -56399,6 +56566,9 @@ titles:
     authors:
       - Aleksandr Petrovich Spasibenko
       - N. M. Gaĭdenkov
+    editors:
+      - Dmitrij Sergeevič Lihačev
+      - Dmitrii Sergeevich Likhachev (Дмитрий Сергеевич Лихачев)
     year: 1971
     language: Russian
     pages: 728
@@ -56993,6 +57163,8 @@ titles:
     authors:
       - Anatolij Vasilʹevič Lunačarskij
       - I. M. Terechov
+    editors:
+      - I. M. Terehov
     year: 1971
     language: Russian
     sources:
@@ -58294,6 +58466,8 @@ titles:
       - Aleksandra Vladimirovna Jankovskaja-Bajdina
       - Aleksandra Il'inična Voskresenskaja
       - Sergej P. Redozubov
+    editors:
+      - L. A. Gorbušinoj
     year: 1972
     language: Russian
     sources:
@@ -58719,6 +58893,8 @@ titles:
     verified: true
   - title: Fedor Mihajlovič Dostoevskij, v portretah, illûstraciâh, dokumentah. Pod redakciej... V. S. Nečaevoj. Vstupitelʹnaâ statʹâ L. Rozenblûma
     authors: []
+    editors:
+      - Vera Stepanovna Nečaeva
     year: 1972
     language: Russian
     sources:
@@ -60614,6 +60790,8 @@ titles:
     verified: true
   - title: Russkaâ detskaâ literatura. Pod redakciej F. I. Setina. Rekomendovano... v kačestve učebnogo posobiâ dlâ bibliotečnyh fakulʹtetov institutov kulʹtury
     authors: []
+    editors:
+      - Fedor Ivanovič Setin
     year: 1972
     language: Russian
     sources:
@@ -60635,6 +60813,8 @@ titles:
     subtitle: '[Ucheb. posobie dlia bibl. fak. in-tov kulʹtury]'
     authors:
       - F. I. Setin
+    editors:
+      - Fedor Ivanovich Setin
     year: 1972
     language: Russian
     pages: 367
@@ -60671,6 +60851,10 @@ titles:
       - Klavdija V. Mal'ceva
       - Nikolaj S. Ždanov
       - Muchlisa M. Bakeeva
+    editors:
+      - Antonina Vasilʹenva Ryževolova
+      - Lena Galeevna Sajachova
+      - Vladimir Georgievič Marancman
     year: 1972
     language: Russian
     sources:
@@ -61111,6 +61295,8 @@ titles:
     series: (Biblioteka vospitatelja detskogo sada)
     authors:
       - A. I. Zorina-Tarasova
+    editors:
+      - L. I. Muželevska
     year: 1972
     language: Not recorded
     sources:
@@ -63738,6 +63924,9 @@ titles:
     subtitle: Epocha socializma
     authors:
       - S. A. Seraev
+    editors:
+      - Akademija Pedagogičeskich Nauk SSSR
+      - Akademija Nauk SSSR
     year: 1973
     language: Russian
     sources:
@@ -63863,6 +64052,8 @@ titles:
   - title: Kartografija s osnovami topografii
     authors:
       - Andrej Vojcechovič Gedymin
+    editors:
+      - Andrej V. Gedymin
     year: 1973
     language: Russian
     sources:
@@ -64854,6 +65045,8 @@ titles:
   - title: Printsipy otbora deteĭ vo vspomogatelʹnye shkoly
     authors:
       - Alexander Luria
+    editors:
+      - G. M. Dulʹnev
     year: 1973
     edition: Izd. 3-e, isrp. i dop
     language: Russian
@@ -65140,6 +65333,10 @@ titles:
   - title: Russkaja literatura
     authors:
       - N. I. Gromov
+    editors:
+      - Antonina Vasilʹenva Ryževolova
+      - Lena Galeevna Sajachova
+      - Vladimir Georgievič Marancman
     year: 1973
     language: Russian
     sources:
@@ -66077,6 +66274,8 @@ titles:
     subtitle: Seminarii
     authors:
       - I. T. Ogorodnikov
+    editors:
+      - Ivan T. Ogorodnikov
     year: 1973
     language: Russian
     pages: 144
@@ -66968,6 +67167,8 @@ titles:
       - Ivan Fëdorov
       - G. V. Karpjuk
       - V. P. Bogdanov
+    editors:
+      - G. V. Karpûk
     year: 1974
     language: Church Slavonic
     sources:
@@ -66994,6 +67195,9 @@ titles:
   - title: Azbuka 1574-1974
     authors:
       - Ivan Fedorov
+    editors:
+      - G. V. Karpûk
+      - G. V. Karpiuk (Г. В. Карпюк)
     year: 1974
     language: Russian
     pages: 96
@@ -67765,6 +67969,8 @@ titles:
     subtitle: Posobie dlja studentov pedagogičeskich institutov (na francuzskom jazyke)
     authors:
       - Irina Nikolaevna Timeskova
+    editors:
+      - M. S. Belomlinskij
     year: 1974
     language: French
     sources:
@@ -71234,6 +71440,9 @@ titles:
     verified: true
   - title: Istoriâ russkoj sovetskoj literatury, 1917-1940... učebnoe posobie dlâ studentov pedagogičeskih institutov
     authors: []
+    editors:
+      - Aleksej Ivanovič Metčenko
+      - Sergej Mitrofanovič Petrov
     year: 1975
     language: Russian
     sources:
@@ -73804,6 +74013,8 @@ titles:
     subtitle: Iz opyta raboty škol Rossijskoj Federacii
     authors:
       - Dmitrij Dmitrievič Zuev
+    editors:
+      - Dmitrii D. Zuev
     year: 1975
     language: Russian
     sources:
@@ -74080,6 +74291,7 @@ titles:
     subtitle: Nemeckaâ, ispanskaâ, ital'ânskaâ, anglijskaâ, češskaâ, pol'skaâ, serbskaâ, bolgarskaâ literatury
     authors:
       - Boris Ivanovič Purišev
+    translators:
       - A. Sipovič
     year: 1975
     language: Russian
@@ -78048,6 +78260,8 @@ titles:
       - Anna Georgievna Obraztsova (Анна Георгиевна Образцова)
       - Boris Nikolaevič Aseev
       - Boris Nikolaevich Aseev (Борис Николаевич Асеев)
+    editors:
+      - Boris N. Aseev
     year: 1976
     language: Russian
     sources:
@@ -83215,6 +83429,8 @@ titles:
       - Elizaveta Andreevna Menʹšikova
       - Lija Zakirovna Šakirova
       - Nazir Bekmurzovič Ėkba
+    editors:
+      - K. A. Gadelʹšin
     year: 1977
     language: Russian
     sources:
@@ -85490,6 +85706,9 @@ titles:
   - title: Azbuka. Novaâ azbuka
     authors:
       - Lev Nikolaevič Tolstoj
+    editors:
+      - Vseslav Gavrilovič Goreckij
+      - Gleb Vasilʹevič Karpûk
     year: 1978
     language: Russian
     sources:
@@ -85598,6 +85817,8 @@ titles:
     subtitle: 'Chrestomatija: posobie dlja učitelej'
     authors:
       - Aleksej A. Vagin
+    editors:
+      - A. A. Vagin
     year: 1978
     language: Russian
     sources:
@@ -86479,6 +86700,8 @@ titles:
     authors:
       - M. P. Kašin
       - Naučno-Issledovatel'skij Institut Soderžanija i Metodov Obučenija
+    editors:
+      - M. P. Kashin (М. П. Кашин)
     year: 1978
     language: Russian
     sources:
@@ -87539,6 +87762,10 @@ titles:
       - A. P. Cholina
       - Nina Michajlovna Černyševskaja-Bystrova
       - Nikolaj Gavrilovič Černyševskij
+    editors:
+      - Oleg Alekseevič Pini
+      - A. P. Holina
+      - Nina Mihajlovna Černyševskaâ
     year: 1978
     language: Russian
     sources:
@@ -87555,6 +87782,8 @@ titles:
       - A. P. Kholina (А.П Холина)
       - Nina Mikhaïlovna Tchernychevskaia
       - Nina Mikhailovna Chernyshevskaia (Нина Михайловна Чернышевская)
+    editors:
+      - A. P. Holina
     year: 1978
     language: Russian
     sources:
@@ -88963,6 +89192,8 @@ titles:
     series: Biblioteka učitelja russkogo jazyka
     authors:
       - Lev G. Barlas
+    editors:
+      - Leonid Ju Maksimov
     year: 1978
     language: Russian
     sources:
@@ -92184,6 +92415,8 @@ titles:
   - title: Istorija SSSR
     authors:
       - M. P. Kim
+    editors:
+      - Vladimir Vasil'evič Mavrodin
     year: 1979
     language: Russian
     sources:
@@ -93602,6 +93835,9 @@ titles:
     subtitle: Kommentarii
     authors:
       - S. V. Belov
+    editors:
+      - Dmitrij Sergeevič Lihačev
+      - Dmitrii Sergeevich Likhachev (Дмитрий Сергеевич Лихачев)
     year: 1979
     language: Russian
     sources:
@@ -96222,6 +96458,9 @@ titles:
       - Militsa Vasilevna Nechkina (Милица Васильевна Нечкина)
       - P. S. Lejbengrub
       - P. S. Leibengrub (П. С. Лейбенгруб)
+    editors:
+      - Maksim Pavlovič Kim
+      - Maksim Pavlovich Kim (Максим Павлович Ким)
     year: 1980
     language: Russian
     sources:
@@ -96934,6 +97173,8 @@ titles:
     authors:
       - Marija I. Moro
       - Marija A. Bantova
+    editors:
+      - A. I. Markuševiča
     year: 1980
     language: Russian
     sources:
@@ -100638,6 +100879,8 @@ titles:
     authors:
       - Petr I. Potemkin
       - Maksim P. Kim
+    editors:
+      - M. P. Kim
     year: 1981
     language: Russian
     sources:
@@ -101123,6 +101366,7 @@ titles:
     subtitle: Posobie dlâ vospitatelâ detskogo sada
     authors:
       - Maria Fiedler
+    translators:
       - O. A. Pavlovič
     year: 1981
     language: Russian
@@ -103159,20 +103403,10 @@ titles:
   - title: Zarubežnaâ literatura XX veka
     subtitle: Hrestomatiâ
     authors:
-      - Bella Achmadulina
-      - A. Mihalʹskaâ
       - Galina Nikolaevna Hrapovickaâ
       - Joseph Conrad
-      - Mihail Aleksandrovič Zenkevič
-      - A. Lugovskij
-      - Ûliâ Borisovna Ŝepkina-Mirskaâ
-      - V. Ivanova
-      - Sergej Mitrofanovič Gorodeckij
-      - Osip Borisovič Rumer
-      - B. N. Kaminskaâ
       - Leopold Staff
       - Mihail Borisovič Ladygin
-      - Mariâ Efimovna Abkina
       - Maria Konopnicka
       - Boris Ivanovič Purišev
       - Nina Pavlovna Mihal'skaâ
@@ -103180,6 +103414,17 @@ titles:
       - Jan Kasprowicz
       - Bolesław Prus
       - Vladimir Andreevič Lukov
+    translators:
+      - Bella Achmadulina
+      - A. Mihalʹskaâ
+      - Mihail Aleksandrovič Zenkevič
+      - A. Lugovskij
+      - Ûliâ Borisovna Ŝepkina-Mirskaâ
+      - V. Ivanova
+      - Sergej Mitrofanovič Gorodeckij
+      - Osip Borisovič Rumer
+      - B. N. Kaminskaâ
+      - Mariâ Efimovna Abkina
       - Inna Mihajlovna Levidova
     year: 1981
     language: Russian
@@ -104846,6 +105091,8 @@ titles:
   - title: Istorija SSSR
     authors:
       - I. B. Berchin
+    editors:
+      - M. P. Kim
     year: 1982
     language: Russian
     sources:
@@ -108497,6 +108744,9 @@ titles:
     subtitle: Učebnik dlâ studentov ped. in-tov po spec. n° 2101 "Rus. âzyk i lit."
   - title: Istoriâ russkoj sovetskoj literatury, 40-80e gody
     authors: []
+    editors:
+      - Aleksej Ivanovič Metčenko
+      - Sergej Mitrofanovič Petrov
     year: 1983
     language: Russian
     sources:
@@ -110426,8 +110676,9 @@ titles:
     subtitle: Posobie dlâ vospitatelâ detskogo sada
     authors:
       - Kazimiera Łubkowska
-      - O. A. Pavlovič
       - Irena Zgrychowa
+    translators:
+      - O. A. Pavlovič
     year: 1983
     language: Russian
     sources:
@@ -111350,6 +111601,13 @@ titles:
     subtitle: Учебник для 10 класса средней школы
     authors:
       - Boris Aleksandrovich Vorontsov-veliaminov (Борис Александрович Воронцов-Вельяминов)
+    editors:
+      - A. V. Zasov (А. В. Засов)
+      - L. S. Mordovtseva (Л. С. Мордовцева)
+      - V. E. Kobler (В. И. Коблер)
+      - V. M. Prokofev (В. М. Прокофьев)
+      - N. M. Makhova (Н. М. Махова)
+      - V. V. Novoselova (В. В. Новоселова)
     year: 1983
     edition: Издание пятнадцатое, переработанное
     language: Not recorded
@@ -113509,6 +113767,8 @@ titles:
   - title: Istorija SSSR
     authors:
       - V. D. Esakov
+    editors:
+      - N. D. Kuznecov
     year: 1984
     language: Russian
     sources:
@@ -114649,6 +114909,9 @@ titles:
     subtitle: Sovetskoe gosudarstvennoe i administrativnoe pravo
     authors:
       - A. V. Mitskevich
+    editors:
+      - Aleksej Valentinovič Mickevič
+      - A. V. Mitskevich (А. В. Мицкевич)
     year: 1984
     language: Russian
     pages: 224
@@ -115972,6 +116235,7 @@ titles:
     verified: true
   - title: Veselaja Susanna
     subtitle: Kniga dlja čtenija na nemeck. jazyke
+    original_title: Die lustige Susanne
     series: Čitaem ponemecki
     authors:
       - Lilo Hardel
@@ -123664,6 +123928,8 @@ titles:
     subtitle: Materialy i dokumenty chrestomatija
     authors:
       - Petr Ivanovič Plukš
+    editors:
+      - Petr I. Plukš
     year: 1986
     language: Russian
     sources:
@@ -124427,6 +124693,9 @@ titles:
     subtitle: Izbrannye trudy
     authors:
       - I. I. Sreznevskiĭ
+    editors:
+      - Nikolaj Andrejevič Kondrašov
+      - Nikolai Andreievich Kondrashov (Николай Андрейевич Кондрашов)
     year: 1986
     language: Russian
     pages: 173
@@ -126725,6 +126994,8 @@ titles:
     subtitle: Novaia azbuka
     authors:
       - Leo Tolstoy (Лев Толстой)
+    editors:
+      - Vseslav G. Goreckij
     year: 1987
     edition: Izd. 2., dop
     language: Russian
@@ -127185,9 +127456,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=151251246X
     verified: true
   - title: Il'ič kunakan binėsinin, alaguvdjanasinin annanilin
+    original_title: Detskie i škol'nye gody Ilʹiča
     series: Škol'naja bibkoteka
     authors:
       - Anna Il'inična Ul'janova
+    translators:
       - S. N. Kombagir
     year: 1987
     language: Not recorded
@@ -127374,6 +127647,8 @@ titles:
     subtitle: Vtoraja polovina; učebnogo posobija dlja studentov pedagogičeskich institutov
     authors:
       - Nikolaj N. Skatov
+    editors:
+      - Nikolaj Nikolaevič Skatov
     year: 1987
     language: Russian
     sources:
@@ -127988,6 +128263,8 @@ titles:
       - Viktor K. Furaev
       - Pavel Michajlovič Kuzʹmičev
       - Jurij S. Girenko
+    editors:
+      - Viktor Konstantinovič Furaev
     year: 1987
     language: Russian
     sources:
@@ -128462,6 +128739,7 @@ titles:
     subtitle: Kniga dlja učitelja
     authors:
       - Zdenek Chelus
+    translators:
       - G. A. Kasvin
     year: 1987
     language: Russian
@@ -128581,6 +128859,7 @@ titles:
     verified: true
   - title: Proisjozhdenie Vidov Putiom Estestvennogo Otbora
     subtitle: Kniga Dlia Uchitelia
+    original_title: On the origin of species
     authors:
       - Charles Darwin
     year: 1987
@@ -129089,6 +129368,7 @@ titles:
         url: https://openlibrary.org/books/OL13901431M
     verified: true
   - title: Skazki. Istorii
+    original_title: Eventyr og historier
     series: Škol'naja biblioteka
     authors:
       - Hans Christian Andersen
@@ -135880,10 +136160,12 @@ titles:
         url: https://search.worldcat.org/title/54785121
     verified: true
   - title: Ilʹič nučidui bičini, školadu bičini ajnanisal
+    original_title: Detskie i školʹnye gody Ilʹiča
     series: Školnaja biblioteka
     authors:
       - Anna Ilʹinična Ulʹjanova
       - L. I. Sem
+    translators:
       - S. N. Onenko
     year: 1989
     language: Not recorded
@@ -136169,6 +136451,8 @@ titles:
   - title: Kniga dlja čtenija
     authors:
       - Vseslav G. Goreckij
+    editors:
+      - Sergej Vladimirovič Michalkov
     year: 1989
     language: Russian
     sources:
@@ -136438,6 +136722,7 @@ titles:
     verified: true
   - title: Moi učeniki rabotajut na komp'juterach
     subtitle: Kniga dlja učitelja
+    original_title: My students use computer
     authors:
       - Beverly Hunter
     year: 1989
@@ -136873,6 +137158,7 @@ titles:
     verified: true
   - title: Psihologiâ bessoznatelʹnogo
     subtitle: Sbornik proizvedenij
+    original_title: Psychologie des Unbewußten
     authors:
       - Sigmund Freud
       - Mihail Grigorʹevič Âroševskij
@@ -137086,6 +137372,8 @@ titles:
   - title: Russkij jazyk
     authors:
       - Tamara Grigor'evna Ramzaeva
+    editors:
+      - Leonard Ju Maksimov
     year: 1989
     language: Russian
     sources:
@@ -137528,6 +137816,14 @@ titles:
       - Alekseev Anatolii Stepanovich (Алексеев Анатолий Степанович)
       - Gleizer Grigorii Davydovich (Глейзер Григорий Давыдович)
       - Saakian Samvel Manasovich (Саакян Самвел Манасович)
+    editors:
+      - R. A. Khabib (Р. А. Хабиб)
+      - L. M. Kotova (Л. М. Котова)
+      - O. V. Agapova (О. В. Агапова)
+      - A. A. Buiuklian (Е. А. Буюклян)
+      - A. R. Dashuk (Е. Р. Дашук)
+      - S. S. Iakushkina (С. С. Якушкина)
+      - N. A. Kiseleva (Н. А. Киселева)
     year: 1989
     language: Not recorded
     sources:
@@ -139227,6 +139523,8 @@ titles:
   - title: Kniga dlja čtenija
     authors:
       - Vseslav G. Goreckij
+    editors:
+      - Sergej Vladimirovič Michalkov
     year: 1990
     language: Russian
     sources:
@@ -139864,6 +140162,8 @@ titles:
   - title: Rodnoe slovo
     authors:
       - Goreckij Vseslav Gavrilovič
+    editors:
+      - Sergej Vladimirovič Michalkov
     year: 1990
     language: Russian
     sources:
@@ -139987,6 +140287,8 @@ titles:
     subtitle: Biobibliograficheskiĭ slovarʹ
     authors:
       - Petr Alekseevich Nikolaev
+    editors:
+      - Petr Alekseevitch Nikolaev
     year: 1990
     language: Russian
     isbn: 509003933X
@@ -140147,6 +140449,9 @@ titles:
     authors:
       - Valentina Borisovna Grigorovich
       - Zinaida Mikhailovna Andreeva
+    editors:
+      - Valentina Borisovna Grigorovič
+      - Zinaida Michajlovna Andreeva
     year: 1990
     language: Russian
     sources:
@@ -142525,6 +142830,8 @@ titles:
   - title: Rodnoe slovo
     authors:
       - Goreckij Vseslav Gavrilovič
+    editors:
+      - Sergej Vladimirovič Michalkov
     year: 1991
     language: Russian
     sources:

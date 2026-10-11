@@ -6,6 +6,9 @@ titles:
   - title: Selected Stories of Lu Hsun
     authors:
       - Lu Xun
+    translators:
+      - Yang Hsien-hi
+      - Gladys Yang
     year: 1969
     language: English
     pages: 306
@@ -140,6 +143,9 @@ titles:
     subtitle: A Collection of Short Stories by Chinese Women Writers of the 1920s and 30s
     authors:
       - Ding Ling
+    translators:
+      - Jennifer Anderson
+      - Theresa Munford
     year: 1985
     language: English
     pages: 180
@@ -380,6 +386,10 @@ titles:
   - title: Buddhist Art of the Tibetan Plateau
     authors:
       - Li-chung Liu
+    editors:
+      - Ralph Kiggell
+    translators:
+      - Ralph Kiggell
     year: 1988
     edition: 1st English ed. in North America
     language: English
@@ -584,6 +594,8 @@ titles:
   - title: A Taoist Guide to Longevity
     authors:
       - Chih-chung Pien
+    translators:
+      - Liu Zongren
     year: 1989
     language: English
     pages: 69
@@ -692,6 +704,8 @@ titles:
   - title: Old Well
     authors:
       - I. Cheng
+    translators:
+      - David Kwan
     year: 1989
     language: English
     pages: 154
@@ -719,6 +733,8 @@ titles:
   - title: The Piano Tuner
     authors:
       - Naishan Cheng
+    translators:
+      - Britten Dean
     year: 1989
     language: English
     pages: 176
@@ -841,6 +857,8 @@ titles:
   - title: Chinese Artistic Kites
     authors:
       - Kʻuei-ming Ha
+    translators:
+      - Ralph Kiggell
     year: 1990
     series: The Culture and Art of China Series
     language: English
@@ -896,6 +914,7 @@ titles:
     verified: true
   - title: China on the Edge
     subtitle: The Crisis of Ecology and Development
+    original_title: Shan ao shang de zhongguo
     authors:
       - Po-chʻuan Ho
     year: 1991
@@ -988,6 +1007,8 @@ titles:
     subtitle: Festivals of China
     authors:
       - Carol Stepanchuk
+    editors:
+      - Charles Choy Wong
     year: 1991
     language: English
     pages: 145
@@ -1215,6 +1236,7 @@ titles:
     verified: true
   - title: Ten Years of Madness
     subtitle: Oral Histories of China's Cultural Revolution
+    original_title: Yi bai ge ren de shi nian
     authors:
       - Jicai Feng
     year: 1996
@@ -1422,6 +1444,7 @@ titles:
     verified: true
   - title: Ward Four
     subtitle: A Novel of Wartime China
+    original_title: Di si bing shi
     authors:
       - Bajin
       - Haili Kong
@@ -1529,7 +1552,10 @@ titles:
       - label: Borrow (Internet Archive)
         url: https://archive.org/details/complementaryedu00joec
   - title: The Thirty-Six Strategies of Ancient China
+    original_title: San shi liu ji
     authors: []
+    editors:
+      - Stefan H. Verstappen
     year: 2004
     language: English
     sources:

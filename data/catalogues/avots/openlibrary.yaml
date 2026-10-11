@@ -231,6 +231,8 @@ titles:
     subtitle: = Latyšsko-nemeckij slovar
     authors:
       - V. Bisenieka
+    editors:
+      - Valdis Bisenieks
     year: 1980
     language: Latvian
     sources:
@@ -584,6 +586,8 @@ titles:
     subtitle: 1905-1917
     authors:
       - Sigurds Ziemelis
+    translators:
+      - Èlena Aleksandrovna Matveeva
     year: 1980
     language: Russian
     sources:
@@ -1048,7 +1052,8 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991079210129705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Latvian Committee for Cultural Relations with Countrymen Abroad
-    authors:
+    authors: []
+    translators:
       - Jānis Cērps
     year: 1981
     language: English
@@ -1450,6 +1455,8 @@ titles:
   - title: Rīga
     authors:
       - Aina Goris
+    editors:
+      - Ajna Goris
     year: 1981
     language: Latvian
     sources:
@@ -1752,6 +1759,8 @@ titles:
   - title: Ar Darba Sarkanā Karoga ordeni apbalvotā Pētera Stučkas Latvijas Valsts universitāte
     authors:
       - Pētera Stučkas Latvijas Valsts universitāte
+    editors:
+      - A. Cakare
     year: 1982
     language: Latvian
     pages: 101
@@ -1792,6 +1801,8 @@ titles:
     authors:
       - L. Duma
       - Dzidra Paeglīte
+    editors:
+      - Līga Dūma
     year: 1982
     language: Latvian
     sources:
@@ -2338,6 +2349,8 @@ titles:
   - title: One of the Fifteen
     authors:
       - Z. Eiduss
+    translators:
+      - V. Birnbauma
     year: 1982
     language: English
     pages: 47
@@ -2489,6 +2502,7 @@ titles:
   - title: Septini grūti gadi
     authors:
       - Andrzej Czechowicz
+    translators:
       - Vinifreds Kraučis
     year: 1982
     language: Latvian
@@ -2731,8 +2745,10 @@ titles:
     verified: true
   - title: Divās pasaulēs
     subtitle: Atmiņas
+    original_title: V dvuch mirach
     authors:
       - Justas Paleckis
+    translators:
       - Alfons Sukovskis
     year: 1983
     language: Latvian
@@ -2955,6 +2971,8 @@ titles:
     authors:
       - Cilija Abramovna Šver
       - Borisovskij
+    editors:
+      - C. A. Šver
     year: 1983
     language: Not recorded
     sources:
@@ -3675,6 +3693,8 @@ titles:
   - title: Chronika istorii Kommunističeskoj Partii Latvii
     authors:
       - Margarita F. Biron
+    editors:
+      - Ljubov' J. Zile
     year: 1984
     language: Russian
     sources:
@@ -4755,6 +4775,9 @@ titles:
     subtitle: 'Deutsch-lettisches Wörterbuch: ap 22,000 vārdu'
     authors:
       - I. Celmrauga
+    editors:
+      - Anda Plēsuma
+      - Ausma Straube
     year: 1984
     edition: 4. pārstrādātais un papildinātais izdevums. --
     language: Latvian
@@ -5135,6 +5158,8 @@ titles:
     subtitle: Fotoalbums
     authors:
       - Sofija Vēriņa
+    editors:
+      - Sofija Vērin̦a
     year: 1985
     language: Latvian
     sources:
@@ -5273,6 +5298,12 @@ titles:
   - title: Lielupe
     authors:
       - G. Strautmane
+    editors:
+      - Gunta Strautmane
+      - Aina Goris
+    translators:
+      - Austra Ronis
+      - Maija Gulēna
     year: 1985
     series: Sērija "Uz Jūru"
     language: Latvian, English, Russian
@@ -5325,6 +5356,8 @@ titles:
     subtitle: 'No Latvijas PSR vēstures Muzeja fondiem = Livländische Münzen des 14. - 16. Jahrh.: Aus der Sammlung des Museums der Geschichte der lettischen SSR'
     authors:
       - Museum der Geschichte der lettischen SSR
+    editors:
+      - R. Jozauska
     year: 1985
     language: German
     sources:
@@ -6934,6 +6967,8 @@ titles:
   - title: Venta
     authors:
       - Gunta Strtautmane
+    editors:
+      - Gunta Strautmane
     year: 1986
     language: Latvian
     sources:
@@ -7799,6 +7834,7 @@ titles:
     subtitle: (1899 - 1940); sbornik vospominanij učastnikov podpol'noj revoljucionnoj bor'by v Pardaugave
     authors:
       - Chone Moiseevič Bregman
+    translators:
       - Ė. Matveev
     year: 1987
     language: Russian
@@ -8029,6 +8065,7 @@ titles:
   - title: 13 [Trīspadsmitais] balles pēc Boforta
     authors:
       - Zbigniew Kosiorowski
+    translators:
       - Irēna Birzvalka
     year: 1988
     language: Estonian
@@ -8039,6 +8076,7 @@ titles:
   - title: 13 balles pēs Boforta
     authors:
       - Zbigniew Kosiorowski
+    translators:
       - Irēna Birzvalka
     year: 1988
     language: Latvian
@@ -8373,6 +8411,8 @@ titles:
     subtitle: Ap 40.000 vārdu
     authors:
       - A. Gūtmanis
+    editors:
+      - Abram Gūtmanis
     year: 1988
     language: Russian
     sources:
@@ -8860,6 +8900,8 @@ titles:
     authors:
       - Ojārs Zanders
       - Akademija Nauk Latvijskoj SSR
+    editors:
+      - Mirdza Streipa
     year: 1988
     language: Latvian, German, Russian
     sources:
@@ -9083,6 +9125,9 @@ titles:
     authors:
       - Irēna Birzvalka
       - Maija Sosāre
+    editors:
+      - I. Birzvalka
+      - M. Sosāre
     year: 1989
     language: Not recorded
     sources:
@@ -9315,6 +9360,8 @@ titles:
   - title: Grāmatzīmes
     authors:
       - Pēteris Upītis
+    editors:
+      - Pēteris Zeile
     year: 1989
     language: Latvian
     sources:
@@ -9807,6 +9854,8 @@ titles:
   - title: Par tiesisku Valsti
     authors:
       - V. Skudra
+    editors:
+      - Edgar Andersons
     year: 1989
     language: Latvian
     pages: 137
@@ -9996,9 +10045,10 @@ titles:
     subtitle: Arhitektura Rigi = Riga's architecture
     authors:
       - Jānis Lejnieks
+      - Indriķis Stūrmanis
+    translators:
       - Jānis Celmiņš
       - Irina Spiridonova
-      - Indriķis Stūrmanis
     year: 1989
     language: Latvian
     sources:
@@ -10352,6 +10402,8 @@ titles:
   - title: Dravniecības un biškopības piederumi
     authors:
       - Latvijas Etnogrāfiskais brīvdabas muzejs
+    editors:
+      - Ugis Niedre
     year: 1990
     language: Latvian
     sources:
@@ -10367,6 +10419,7 @@ titles:
     authors:
       - Leonards Birzmalis
       - Inese Grundule
+    translators:
       - Uldis Sosnovskis
     year: 1990
     language: Latvian, Russian, English, German
@@ -10630,6 +10683,7 @@ titles:
     subtitle: Sensacionāli feļetoni
     authors:
       - Jerzy Urban
+    translators:
       - Jāzeps Osmanis
     year: 1990
     language: Latvian
@@ -11027,6 +11081,8 @@ titles:
     authors:
       - I. Klekere
       - Latvijas Valsts Bibliotēka
+    editors:
+      - Inara Klekere
     year: 1991
     language: Latvian
     sources:
@@ -11071,10 +11127,12 @@ titles:
     verified: true
   - title: Fantomass
     subtitle: Romāns
+    original_title: Fantômas
     series: Fantomass / Marsels Alēns; Pjērs Suvestrs
     authors:
       - Marcel Allain
       - Pierre Souvestre
+    translators:
       - E. Feldmanis
     year: 1991
     language: Not recorded
@@ -11171,10 +11229,12 @@ titles:
     subtitle: 1800 - 1914
   - title: Noziedznieka meita
     subtitle: Romāns
+    original_title: La fille de Fantômas
     series: Fantomass / Marsels Alēns; Pjērs Suvestrs
     authors:
       - Marcel Allain
       - Pierre Souvestre
+    translators:
       - Māra Ozoliņa
     year: 1991
     language: Not recorded
@@ -11185,6 +11245,9 @@ titles:
   - title: Pretvorenie opyta
     authors:
       - Lidiia Ginzburg
+    editors:
+      - Nikolaj Mihajlovič Kononov
+      - Nikolai Kononov (Николай Кононов)
     year: 1991
     language: Russian
     pages: 236
@@ -11328,6 +11391,8 @@ titles:
   - title: Tēvzemei
     authors:
       - Krišjānis Valdemārs
+    editors:
+      - Kārlis Lūsis
     year: 1991
     language: Latvian
     pages: 302
@@ -11499,6 +11564,8 @@ titles:
     subtitle: 'Izstāde rundāles pilī = Silber im Kunstgewerbe Lettlands vom 5. bis zum 20. Jahrhundert: Ausstellung im Schloss Rundale'
     authors:
       - Rundāles Pils Muzejs
+    editors:
+      - V. Vilīte
     language: Not recorded
     sources:
       - title: K10plus record 1390544141

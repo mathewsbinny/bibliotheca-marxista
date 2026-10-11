@@ -768,6 +768,7 @@ titles:
     verified: true
   - title: '@Resistencia y sumisión'
     subtitle: Cartas y apuntes desde el cautiverio
+    original_title: Widerstand und Ergebung
     authors:
       - Dietrich Bonhoeffer
     year: 1983
@@ -826,6 +827,8 @@ titles:
   - title: Banana gold
     authors:
       - Carleton Beals
+    translators:
+      - Luciano Cuadra
     year: 1983
     series: Colección Cuarto aniversario
     language: Spanish
@@ -938,8 +941,11 @@ titles:
     edition: '[8a ed.]'
   - title: Don Quijote en burro
     subtitle: 'Sandino y los marines: estudio para la formulación de una política de relaciones exteriores'
+    original_title: Don Quijote on a burro
     authors:
       - Lejeune Cummins
+    translators:
+      - Luciano Cuadra
     year: 1983
     series: Biblioteca popular sandinista -- 18
     language: Spanish
@@ -1551,6 +1557,8 @@ titles:
   - title: El pensamiento vivo
     authors:
       - Augusto César Sandino
+    editors:
+      - Sergio Ramírez
     year: 1984
     series: Colección Pensamiento vivo
     language: Spanish
@@ -2915,6 +2923,7 @@ titles:
         url: https://openlibrary.org/books/OL22928680M
     verified: true
   - title: La confianza
+    original_title: Das Vertrauen
     authors:
       - Anna Seghers
     year: 1986
@@ -3324,6 +3333,8 @@ titles:
   - title: Las armas del futuro
     authors:
       - Sergio Ramírez
+    editors:
+      - Reynaldo González
     year: 1987
     series: Biblioteca popular de cultura universal
     language: Spanish
@@ -4084,6 +4095,7 @@ titles:
     verified: true
   - title: Nicaragua
     subtitle: Sus gentes y paisajes
+    original_title: Nicaragua
     authors:
       - Ephraim G. Squier
       - Luciano Cuadra
@@ -4600,6 +4612,8 @@ titles:
   - title: Cuentos completos
     authors:
       - Rubén Darío
+    editors:
+      - Ernesto Mejía Sánchez
     year: 1993
     language: Spanish
     pages: 436
@@ -4797,6 +4811,8 @@ titles:
     subtitle: Visiones y confesiones
     authors:
       - Manolo Cuadra
+    editors:
+      - Julio Valle-Castillo
     year: 1994
     language: Spanish
     pages: 340
@@ -4849,6 +4865,8 @@ titles:
   - title: Libro de conversaciones sobre libros
     authors:
       - José Coronel Urtecho
+    editors:
+      - Luz Marina Acosta
     year: 1994
     language: Spanish
     pages: 159

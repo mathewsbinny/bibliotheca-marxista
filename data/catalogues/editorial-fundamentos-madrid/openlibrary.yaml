@@ -54,6 +54,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991003384149708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Praxis del cine
+    original_title: Praxis du cinéma
     series: Colección Arte. Serie cine; v. 2
     authors:
       - Noël Burch
@@ -291,6 +292,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb35183607p
     verified: true
   - title: La vida de Klim Samguin
+    original_title: Zhizn' Klima Samguina
     series: Arte; 13-20
     authors:
       - Máximo Gorki
@@ -344,6 +346,7 @@ titles:
         url: https://archive.org/details/los-materialistas-de-la-antiguedad
   - title: Morfología del cuento
     subtitle: Seguida de Las transformaciones de los cuentos maravillosos
+    original_title: Morfologii︠a︡ skazki
     series: Colección Arte; 21
     authors:
       - Vladimir Jakovlevič Propp
@@ -471,6 +474,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=253366151
     verified: true
   - title: Antipsiquiatría
+    original_title: Une antipsychiatrie?
     series: Colección Ciencia. Serie Psicología; v. 14
     authors:
       - Harold Heyward
@@ -622,6 +626,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991028067759708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Heliogábalo o el anarquista coronado
+    original_title: Héliogabale ou l'anarchiste couronné
     series: Colección Arte. Serie Literatura; v. 34
     authors:
       - Antonin Artaud
@@ -642,6 +647,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991057912789708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La economía alemana bajo en nazismo
+    original_title: L'économie allemande sous le nazisme
     series: Colección Ciencia. Serie Economía; v. 25
     authors:
       - Charles Bettelheim
@@ -653,13 +659,15 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991027623679708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La ideologia liberal
+    original_title: L' ideologie liberale
     series: Colecctión Ciencia; 22
     authors:
       - André Vachet
+      - Henri Lefebvre
+    translators:
       - Pablo Fernández Albaladejo
       - Valentina Fernández Vargas
       - Manuel Pérez Ledesma
-      - Henri Lefebvre
     year: 1972
     language: Spanish
     sources:
@@ -685,6 +693,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991038283969708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La rebelión de los objetos
+    original_title: Vladimir Maiakovskiï
     series: Cuadernos prácticos; n. 6
     authors:
       - Vladimir Vladimirovich Maiakovskiï
@@ -850,6 +859,7 @@ titles:
         url: https://lccn.loc.gov/73337165
     verified: true
   - title: Antipsiquiatría
+    original_title: Une antipsychiatrie?
     series: 'Colección Ciencia; 14: Serie Pscología'
     authors:
       - Harold Heyward
@@ -887,8 +897,9 @@ titles:
     series: Cuadernos Prácticos; 9
     authors:
       - Stanisław Ignacy Witkiewicz
-      - Miguel Narros
+    translators:
       - Juan Caño Arecha
+      - Miguel Narros
     year: 1973
     language: Spanish
     sources:
@@ -1065,6 +1076,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991003789249708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La economía alemana bajo el nazismo
+    original_title: L'économie allemande sous le nazisme
     authors:
       - Charles Bettelheim
       - Ignacio Romero Solis
@@ -1093,6 +1105,7 @@ titles:
     series: Colecctión Ciencia; 23
     authors:
       - André! Vachet
+    translators:
       - Pablo Fernández Albaladejo
       - Valentina Fernández Vargas
       - Manuel Pérez Ledesma
@@ -1183,6 +1196,7 @@ titles:
     verified: true
   - title: Maidstone
     subtitle: Seguido de un curso de realización cinematográfica
+    original_title: Maidstone
     series: Colección Arte. Serie Cine; v. 45
     authors:
       - Norman Mailer
@@ -1193,6 +1207,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991057281459708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Manual para una sociologia del lenguaje
+    original_title: Materiaux pour une sociologie du langage
     series: Colección Ciencia; 38
     authors:
       - Marcel Cohen
@@ -1428,6 +1443,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991034902579708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El arte de la guerra
+    original_title: Sunzi bing fa
     series: Colección Ciencia; 45
     authors:
       - Sunzi
@@ -1590,9 +1606,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/001052555
     verified: true
   - title: Las raíces históricas del cuento
+    original_title: Istoričeskie korni volšebnoj skazki
     series: Colección Arte; 50
     authors:
       - Vladimir Iakovlevitch Propp
+    translators:
       - José Martín Arancibia
     year: 1974
     language: Spanish
@@ -1611,9 +1629,12 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991046744039708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Manual para una sociología del lenguaje
+    original_title: Matériaux pour une sociologie du langage
     series: Colección Ciencia; v. 38
     authors:
       - Marcel Cohen
+    translators:
+      - José Martín Arancibia
     year: 1974
     language: Spanish
     sources:
@@ -1634,6 +1655,7 @@ titles:
     verified: true
   - title: Morfología del cuento
     subtitle: Seguida de Las transformaciones de los cuentos maravillosos
+    original_title: Morfologiâ skazki
     series: Arte; 21
     authors:
       - Vladimir Iakovlevich Propp
@@ -1655,6 +1677,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991038037689708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Obras escogidas de Mao Tse-Tung
+    original_title: Mao Zedong xuan ji
     series: Colección Ciencia; 50-53, 100
     authors:
       - Zedong Mao
@@ -1752,6 +1775,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA2465685X
     verified: false
   - title: Aventuras de Barry Lyndon
+    original_title: The memoirs of Barry Lyndon
     series: Colección Espiral; 13
     authors:
       - William Makepeace Thackeray
@@ -1909,6 +1933,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991047399499708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La diseminación
+    original_title: La dissemination
     series: Colección Espiral; 5
     authors:
       - Jacques Derrida
@@ -1920,9 +1945,11 @@ titles:
     verified: true
   - title: La gallina acuática
     subtitle: Tragedia en tres actos
+    original_title: Kurka wodna
     series: Cuadernos Prácticos; 18
     authors:
       - Stanisław Ignacy Witkiewicz
+    translators:
       - Juan Caño Arecha
     year: 1975
     language: Spanish
@@ -2053,6 +2080,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991034592479708606&vid=34BNE_INST:CATALOGO
     verified: true
     subtitle: Seleccion de escritos sacada de "Théâtre public" y "Théâtre réel"
+    original_title: Theatre public u. Theatre réel
     series: Colección arte; 59
   - title: Teoría teatral
     series: 'Colección arte: serie teatro; 3'
@@ -2070,6 +2098,9 @@ titles:
     series: Cuadernos Prácticos; v. 17
     authors:
       - Tadeusz Rozewicz
+    translators:
+      - Violeta Beck
+      - Jorge Segovia Lago
     year: 1975
     language: Spanish
     sources:
@@ -2131,6 +2162,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991030997109708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Como dirigir cine
+    original_title: Directing motion pictures
     series: Serie arte; 69
     authors:
       - Terence St. John Marner
@@ -2173,6 +2205,7 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/dien-bien-phu-vo-nguyen-giap
   - title: El cine y la música
+    original_title: Kompsition für den Film
     series: 'Colección Arte: Serie Cine; 64'
     authors:
       - Theodor W. Adorno
@@ -2185,6 +2218,7 @@ titles:
     verified: true
   - title: El libro rojo
     subtitle: Citas del presidente Mao Tse-Tung
+    original_title: Mao zhu xi yu lu
     series: Cuadernos prácticos; n. 25
     authors:
       - Zedong Mao
@@ -2290,6 +2324,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991056764469708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Janis Joplin (Enterrada viva)
+    original_title: Buried alive
     authors:
       - Myra Friedman
     year: 1976
@@ -2364,6 +2399,9 @@ titles:
     subtitle: 'Drama en un acto 1920 dedicado a Karol Szymanowski; El loco y la monja: obra en tres actos'
     authors:
       - Stanisław Ignacy Witkiewicz
+    translators:
+      - Violeta Beck
+      - Jorge Segovia Lago
     year: 1976
     language: Spanish
     sources:
@@ -2375,6 +2413,7 @@ titles:
         url: https://search.worldcat.org/title/837583300
     verified: true
   - title: La subasta del lote 49
+    original_title: The crying of lot 49
     series: Colección Espiral; 17
     authors:
       - Thomas Pynchon
@@ -2468,6 +2507,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991043742039708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Manual para el examen psicológico del niño
+    original_title: Manuel pour l'examen psychologique de l'enfant
     series: 'Colección Ciencia: Serie psicología; 9-10'
     authors:
       - René Zazzo
@@ -2690,6 +2730,8 @@ titles:
     series: Colección Ciencia; 64
     authors:
       - Paul Froelich
+    translators:
+      - Fernando Montes de Santiago
     year: 1976
     language: Spanish
     sources:
@@ -2840,6 +2882,8 @@ titles:
   - title: El hombre y la mosca
     authors:
       - José Ruibal
+    editors:
+      - Carlos G. Reigosa
     year: 1977
     series: Teatro
     language: Spanish
@@ -2862,6 +2906,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991106393979705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: El origen de la familia, de la propiedad privada y del estado
+    original_title: Der Ursprung der Familie, des Privateigenthums und des Staats
     series: 'Colección Ciencia: Serie Clásicos; 25'
     authors:
       - Friedrich Engels
@@ -2943,6 +2988,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000751784
     verified: true
   - title: Juliette
+    original_title: Juliette
     authors:
       - Marquis de Sade
     year: 1977
@@ -3050,6 +3096,7 @@ titles:
     pages: 141
     isbn: '8424502345'
   - title: La economia alemana bajo el nazismo
+    original_title: L'économie allemande sous le nazisme
     authors:
       - Charles Bettelheim
     year: 1977
@@ -3377,6 +3424,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991096482579705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Fellini por Fellini
+    original_title: Fellini on Fellini
     series: Colección Arte. Serie cine; 76
     authors:
       - Federico Fellini
@@ -3545,6 +3593,7 @@ titles:
     subtitle: (La playa, la caída, Relato, los matadores de hormigas)
   - title: Sèmeiòtikè
     subtitle: Semiótica
+    original_title: Sèmeiòtikè
     series: Espiral; 25-26
     authors:
       - Julia Kristeva
@@ -3724,6 +3773,9 @@ titles:
     authors:
       - Angel Berenguer
       - Joan P. Berenguer
+    editors:
+      - Ángel Berenguer
+      - Joan Berenguer
     year: 1979
     series: Espiral; 32
     language: Spanish
@@ -3756,6 +3808,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991041391849708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Heliogábalo o el anarquista coronado
+    original_title: Héliogabale ou l'anarchiste couronné
     series: 'Colección arte; 34: serie literatura'
     authors:
       - Antonin Artaud
@@ -3770,6 +3823,7 @@ titles:
     series: Colección ciencia; 87
     authors:
       - Pierre Rosanvallon
+    translators:
       - Daniel de Laiglesia
     year: 1979
     language: Spanish
@@ -3778,6 +3832,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991010883799708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Las raíces históricas del cuento
+    original_title: Istoričeskie korni volšebnoj skazki
     series: Arte; 50
     authors:
       - Vladimir Iakovlevitch Propp
@@ -3910,6 +3965,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000097079
     verified: true
   - title: Praxis del cine
+    original_title: Praxis du cinéma
     series: 'Colección Arte: Serie cine; 2'
     authors:
       - Noël Burch
@@ -4089,8 +4145,11 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991003351109708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El teatro de Galdos
+    original_title: The theater of Galdós
     authors:
       - Stanley Finkenthal
+    translators:
+      - Bruno de Jesús
     year: 1980
     series: Colección Arte -- 84. -- Series literatura
     language: Spanish
@@ -4178,6 +4237,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991055470559708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La economía alemana bajo el nazismo
+    original_title: L'économie allemande sous le nazisme
     series: 'Colección Ciencia: Serie Economía; 26'
     authors:
       - Charles Bettelheim
@@ -4282,6 +4342,7 @@ titles:
     verified: true
     subtitle: Lisistrata; Las hermanas de Búfalo Bill
   - title: La organización del trabajo, el derecho a la pereza y la religión del capital
+    original_title: Le droit à la peresse
     series: 'Colección Ciencia: Serie Política; 116'
     authors:
       - Paul Lafargue
@@ -4307,6 +4368,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991056598829708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Las 120 jornadas de Sodoma
+    original_title: Les 120 journées de Sodome
     series: Colección Espiral; 59
     authors:
       - Sade
@@ -4472,6 +4534,7 @@ titles:
     verified: true
     isbn: '8424503139'
   - title: Cómo dirigir cine
+    original_title: Directing motion pictures
     series: Colección Arte; 69. Serie Cine
     authors:
       - Terence St. John Marner
@@ -4561,9 +4624,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991109188769705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: El Cine y la Música
+    original_title: Komposition für den Film
     series: 'Colección Arte: Serie Cine; 64'
     authors:
       - Theodor W. Adorno
+    translators:
       - Fernando Montes
     year: 1981
     language: Spanish
@@ -4572,6 +4637,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1338929151
     verified: true
   - title: El origen de la familia, de la propiedad privad y del Estado
+    original_title: Der Ursprung der Familie, des Privateigenthums und des Staats
     series: 'Colección Ciencia: Serie Clásicos; 2'
     authors:
       - Friedrich Engels
@@ -4582,6 +4648,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991056845369708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El origen de la familia, de la propiedad privada y del Estado
+    original_title: Der Ursprung der Familie, des Privateigenthums und des Staats
     series: 'Colección Ciencia: Serie Clásicos; 2'
     authors:
       - Friedrich Engels
@@ -4679,6 +4746,7 @@ titles:
     series: Cuadernos prácticos; n. 31
     authors:
       - Mark Donskoĭ
+    translators:
       - Manuel Vidal Estévez
     year: 1981
     language: Spanish
@@ -4714,6 +4782,7 @@ titles:
         url: https://search.worldcat.org/title/8104685
     verified: true
   - title: Los escritores frente al cine
+    original_title: Authors on film
     series: Colección Arte; 80
     authors:
       - Harry M. Geduld
@@ -4740,6 +4809,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991094597079705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Manual para el examen psicológico del niño
+    original_title: Manuel pour l'examen psychologique de l'enfant
     series: 'Colección Ciencia: Serie Psicología; 9 y 10'
     authors:
       - René Zazzo
@@ -4873,6 +4943,7 @@ titles:
     verified: true
     subtitle: (Teoría y práctica del Hospital de Día)
   - title: El origen de la familia, de la propiedad privada y del estado
+    original_title: Der Ursprung der Familie, des Privateigenthums und des Staats
     series: 'Colección Ciencia; 25: Serie Clásicos'
     authors:
       - Friedrich Engels
@@ -4976,6 +5047,7 @@ titles:
     verified: true
   - title: Janis Joplin
     subtitle: (Enterrada viva)
+    original_title: Buried alive
     series: Espiral; 22
     authors:
       - Myra Friedman
@@ -5183,6 +5255,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991011584229708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Piense como un gran maestro
+    original_title: Tajny myšleniâ grossmejstera
     series: Club de ajedrez; 10
     authors:
       - Aleksandr Aleksándrovich Kótov
@@ -5207,6 +5280,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991004853359708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Polémica Lévi-Strauss & Vladimir Propp
+    original_title: Polemique Lévi-Strauss & Propp
     series: Colección Arte; 87
     authors:
       - Claude Lévi-Strauss
@@ -5280,6 +5354,7 @@ titles:
     verified: true
   - title: Tú estás loco, Briones
     subtitle: ¿Fuiste a ver a la abuela?; Vade retró
+    original_title: Plays
     series: Colección Espiral; 72
     authors:
       - Fermín Cabal
@@ -5318,6 +5393,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991012164859708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Una noche en la ópera
+    original_title: A night at the opera
     series: Colección arte. Serie cine; 88
     authors:
       - George G. Kaufman
@@ -5514,6 +5590,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991011870779708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Erotismo y destrucción
+    original_title: Erotismo, eversione, merce
     series: Colección Arte; 85
     authors:
       - Pietro Bonfiglioli
@@ -5564,6 +5641,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991014407899708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Finales prácticos de ajedrez
+    original_title: Finales prácticos de ajedrez
     series: Club de ajedrez; 12
     authors:
       - Paul Keres
@@ -5609,6 +5687,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991014274949708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Juegue como un gran maestro
+    original_title: Kak statʹ grossmejsterom
     series: Club de ajedrez; 9
     authors:
       - Aleksandr Aleksándrovich Kótov
@@ -5621,6 +5700,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991011680529708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La fuente sagrada
+    original_title: The sacred fount
     series: Espiral; 79. Ficción
     authors:
       - Henry James
@@ -5733,6 +5813,7 @@ titles:
     verified: true
     series: Colección Ciencia. Serie Política; 136
   - title: Los hermosos vencidos
+    original_title: Beautiful losers
     series: Espiral ficción; 11
     authors:
       - Leonard Cohen
@@ -5777,6 +5858,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991012134169708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Praxis del cine
+    original_title: Praxis du cinéma
     series: Arte; 2
     authors:
       - Noël Burch
@@ -5834,6 +5916,8 @@ titles:
     subtitle: Entrevistas y conferencias
     authors:
       - Dru Dougherty
+    editors:
+      - Eugenio Suárez Galbán
     year: 1983
     series: Espiral. Ensayo
     language: Spanish
@@ -5861,6 +5945,7 @@ titles:
     verified: true
   - title: Van Gogh, el suicidado de la sociedad
     subtitle: Para acabar de una vez con el juicio de Dios; seguido por el teatro de la crueldad; Carta sobre para acabar de una vez con el juicio de Dios
+    original_title: Van Gogh, el suicidado de la sociedad
     series: Colección Arte; 70. Serie Literatura
     authors:
       - Antonin Artaud
@@ -5938,6 +6023,8 @@ titles:
   - title: Coloquio Internacional sobre la Obra de José Lezama Lima
     authors:
       - Coloquio Internacional sobre la Obra de Jose Lezama Lima (1982 Université de Poitiers)
+    editors:
+      - Cristina Vizcaino
     year: 1984
     edition: 1a ed
     series: Espiral
@@ -5990,6 +6077,7 @@ titles:
         url: https://archive.org/details/coloquiointernac0002colo_e2m2
     subtitle: Centro de Investigaciones Latinoamericanas, Universidad de Poitiers, Francia
   - title: Cómo dirigir cine
+    original_title: Directing motion pictures
     series: Colección Arte; 69. Serie cine
     authors:
       - Terence St. John Marner
@@ -6024,6 +6112,7 @@ titles:
     isbn: '8424503848'
   - title: El ajedrez de torneo
     subtitle: (Zürich 1953-Candidatos)
+    original_title: Mezhdunarodnyĭ turnir grossmeĭsterov
     series: Club de ajedrez; 19
     authors:
       - David Ionovich Bronshteïn
@@ -6035,9 +6124,11 @@ titles:
     verified: true
   - title: El corazón de piedra
     subtitle: (Una novela histórica del año 195)
+    original_title: Das steinerne Herz
     series: Colección Espiral; 87
     authors:
       - Arno Schmidt
+    translators:
       - Ela Fernández-Palacios
     year: 1984
     language: Spanish
@@ -6062,6 +6153,8 @@ titles:
   - title: España en César Vallejo
     authors:
       - César Vallejo
+    editors:
+      - Juan Larrea
     year: 1984
     series: Colección Arte
     language: Spanish
@@ -6113,6 +6206,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991002454899705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Fellini por Fellini
+    original_title: Fellini on Fellini
     series: Colección Arte. Serie Cine
     authors:
       - Federico Fellini
@@ -6133,6 +6227,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991017309369708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Fritz Lang en América
+    original_title: Fritz Lang en América
     series: Colección Arte; 28. Serie Cine
     authors:
       - Peter Bogdanovich
@@ -6210,6 +6305,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=039998843
     verified: true
   - title: Introducción a Piaget
+    original_title: Introducción a Piaget
     series: Colección Ciencia. Serie Psicología; 1
     authors:
       - Peter Graham Richmond
@@ -6220,6 +6316,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991055660119708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Justine
+    original_title: Justine
     series: Colección Espiral; 23. FicciÓn
     authors:
       - Sade
@@ -6335,6 +6432,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991012091509708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Manual para el examen psicológico del niño
+    original_title: Manuel pour l'examen psychologique de l'enfant
     series: Colección Ciencia. Serie Psicología; 9, 10
     authors:
       - René Zazzo
@@ -6500,6 +6598,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991016935479708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El juego favorito
+    original_title: El juego favorito
     series: Espiral; 3. Serie Ficción
     authors:
       - Leonard Cohen
@@ -6562,6 +6661,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000812451
     verified: true
   - title: Entrene como un gran maestro
+    original_title: Šachmatnaja škola
     series: Club de ajedrez; 23
     authors:
       - Aleksandr Aleksándrovich Kótov
@@ -6858,6 +6958,7 @@ titles:
     verified: true
   - title: Mi sistema
     subtitle: Método de enseñanza
+    original_title: Mi sistema
     series: Club de ajedrez; 2
     authors:
       - Arón Nimzowitsch
@@ -6896,6 +6997,8 @@ titles:
     authors:
       - Vladimir Iakovlevitch Propp
       - Eleazar Moiseevič Meletinskij
+    translators:
+      - Lourdes Ortiz
     year: 1985
     language: Spanish
     sources:
@@ -6909,6 +7012,7 @@ titles:
         url: https://search.worldcat.org/title/4344765
     verified: true
     subtitle: Seguida de Las transformaciones de los cuentos maravillosos
+    original_title: Morfologija skazki
   - title: Mujer, deseo y embarazo
     series: Colección Ciencia; 141
     authors:
@@ -6943,6 +7047,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991028592059708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Praxis del cine
+    original_title: Praxis du cinéma
     series: Colección Arte. Serie Cine; 2
     authors:
       - Noël Burch
@@ -7269,6 +7374,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991036309049705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: El universo del western
+    original_title: El universo del western
     series: Colección Arte; 61. Serie Cine
     authors:
       - Georges Albert Astre
@@ -7632,6 +7738,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991009437759708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El dominio del movimiento
+    original_title: The mastery of movement
     series: Arte; 101. Serie Teatro
     authors:
       - Rudolf Laban
@@ -7654,6 +7761,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991009475119708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Elia Kazan por Elia Kazan
+    original_title: Elia Kazan por Elia Kazan
     series: Arte; 55
     authors:
       - Elia Kazan
@@ -7785,6 +7893,7 @@ titles:
         url: https://lccn.loc.gov/88144294
     verified: true
   - title: La Marquesa de Gange
+    original_title: Marquise de Gange
     series: Espiral; 119
     authors:
       - Sade
@@ -7884,6 +7993,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991007395029708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Mírame
+    original_title: Look at me
     series: Narrativa contemporánea; 3
     authors:
       - Anita Brookner
@@ -7913,6 +8023,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991038167449705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Seguida de Las transformaciones de los cuentos maravillosos
+    original_title: Morfologiâ skazki
     pages: 238
     isbn: '9788424500047'
   - title: Palestina
@@ -8027,6 +8138,7 @@ titles:
     verified: true
   - title: Viva el poder!
     subtitle: Crítica de la razón de estado
+    original_title: Vive le pouvoir
     series: Serie Textos; 2
     authors: []
     year: 1987
@@ -8036,6 +8148,7 @@ titles:
         url: https://www.sudoc.fr/16092779X
     verified: true
   - title: Águilas blancas sobre Servia
+    original_title: White eagles over Serbia
     series: Narrativa contemporánea; 1
     authors:
       - Lawrence Durrell
@@ -8267,6 +8380,7 @@ titles:
         url: https://search.worldcat.org/title/21877039
     verified: true
   - title: Justine
+    original_title: Justine
     series: Espiral; 23. Ficción
     authors:
       - Sade
@@ -8279,6 +8393,7 @@ titles:
     verified: true
   - title: La batalla de cien años
     subtitle: Historia del psicoanálisis en Francia
+    original_title: La bataille de cent ans
     series: Colección Ciencia; 155-156, 185
     authors:
       - Élisabeth Roudinesco
@@ -8334,6 +8449,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991009471449708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Manual para el examen psicológico del niño
+    original_title: Manuel pour l'examen psychologique de l'enfant
     series: Ciencia; 9-10
     authors:
       - René Zazzo
@@ -8898,6 +9014,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/001837639
     verified: true
   - title: Una anciana maliciosa
+    original_title: A wicked old lady
     series: Narrativa contemporánea; 9
     authors:
       - Ravinder Randhawa
@@ -9069,6 +9186,7 @@ titles:
         url: https://lccn.loc.gov/93175375
     verified: true
   - title: El arte de la guerra
+    original_title: Sunzi bing fa
     series: Ciencia; 45
     authors:
       - Sunzi
@@ -9113,6 +9231,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991018266269708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Fellini por Fellini
+    original_title: Fellini on Fellini
     series: Arte; 76
     authors:
       - Federico Fellini
@@ -9587,8 +9706,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/002465473
     verified: true
   - title: Una morfología de los cuentos de Borges
+    original_title: 'The emperor''s kites : a morphology of Borges tales'
     authors:
       - Mary Lusky Friedman
+    translators:
+      - Raquel Moya
     year: 1990
     series: Espiral hispano-americana -- 12
     language: Spanish
@@ -9644,6 +9766,8 @@ titles:
     authors:
       - Prince
       - Miguel Comamala
+    translators:
+      - Alberto Manzano
     year: 1991
     language: Spanish
     sources:
@@ -9817,6 +9941,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991010671129708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: John Ford
+    original_title: John Ford
     series: Colección Arte; 26
     authors:
       - Peter Bodganovich
@@ -10062,6 +10187,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991011143789708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Canciones
+    original_title: Canciones
     series: Espiral; 104
     authors:
       - Dire Straits (Grupo musical)
@@ -10265,6 +10391,7 @@ titles:
     verified: true
   - title: La guerra del Golfo
     subtitle: 'El impacto: la guerra moderna y el medio ambiente'
+    original_title: On impact
     series: Ciencia; 170
     authors:
       - William M. Arkin
@@ -10277,6 +10404,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991015539189708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La tienda del cuerpo y del alma
+    original_title: The mind and body shop
     series: Narrativa española [i.e.] contemporánea; 12
     authors:
       - Frank Parkin
@@ -10987,10 +11115,12 @@ titles:
         url: https://openlibrary.org/books/OL19443232M
     verified: true
   - title: Decripción de un paisaje
+    original_title: Descripció d'un paisatge
     series: Espiral teatro; 196
     authors:
       - Josep Maria Benet i Jornet
       - Joan de Sagarra
+    translators:
       - Roser Berdagué
       - Pilar Alba
     year: 1994
@@ -11001,6 +11131,7 @@ titles:
     verified: true
   - title: Descripción de un paisaje
     subtitle: Seguida de, Fugaz
+    original_title: Descripció d'un paisatge
     authors:
       - Josep Maria Benet i Jornet
     year: 1994
@@ -11398,6 +11529,7 @@ titles:
     verified: true
   - title: Los niños de la calle en Brasil
     subtitle: 'La guerra de los niños: asesinato de menores en Brasil'
+    original_title: A guerra dos meninos
     series: Ciencia; 189
     authors:
       - Gilberto Dimenstein
@@ -11677,6 +11809,7 @@ titles:
     verified: true
   - title: El movimiento sindical en España
     subtitle: Transición democrática, regionalismo, modernización econoómica
+    original_title: Spaniens Gewerkschaftsbewegung Demokratischer Ubergang, Regionalismus, Okonomische Modernisierung
     authors:
       - Holm-Detlev Köhler
     year: 1995
@@ -12294,6 +12427,7 @@ titles:
     isbn: '8424507207'
     edition: 1. ed
   - title: Canciones
+    original_title: Canciones
     series: Espiral; 96-97
     authors:
       - Bob Dylan
@@ -12549,6 +12683,7 @@ titles:
     series: Espiral; 15
     authors:
       - Novalis
+    translators:
       - Fernando Montes
     year: 1996
     language: Spanish
@@ -12600,6 +12735,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991023750059708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Las 120 jornadas de Sodoma
+    original_title: Les 120 journées de Sodome
     series: Espiral; 59
     authors:
       - Sade
@@ -13040,6 +13176,8 @@ titles:
   - title: El teatro breve de Lidia Falcón
     authors:
       - Lidia Falcón
+    editors:
+      - John P. Gabriele
     year: 1997
     edition: 1. ed
     series: Espiral / Fundamentos
@@ -13246,6 +13384,7 @@ titles:
     verified: true
   - title: Los niños soldados
     subtitle: Un estudio para el Instituto Henry Dunant, Ginebra
+    original_title: Child soldiers
     series: Ciencia; 223
     authors:
       - Ilene Cohn
@@ -14542,6 +14681,7 @@ titles:
       - label: Borrow (Internet Archive)
         url: https://archive.org/details/obrascompletas0008mart
   - title: Piense como un gran maestro
+    original_title: Tajny myšleniâ grossmejstera
     authors:
       - Aleksandr Aleksándrovich Kótov
     year: 1999
@@ -14767,6 +14907,7 @@ titles:
     series: Espiral/Fundamentos; 201
     authors:
       - Edith Piaf
+    translators:
       - Geneviève Naud
     year: 2000
     language: Spanish, French
@@ -15257,6 +15398,7 @@ titles:
         url: https://d-nb.info/967808235
     verified: true
   - title: Tierra madre
+    original_title: Tierramadre
     authors:
       - Gabriella G. Paolucci
     year: 2000
@@ -15554,6 +15696,8 @@ titles:
     subtitle: Teatro de Luis Araújo
     authors:
       - Luis Araújo
+    editors:
+      - John P. Gabriele
     year: 2001
     edition: 1. ed
     series: Espiral -- 247. -- Teatro
@@ -15605,6 +15749,7 @@ titles:
     verified: true
   - title: El movimiento sindical en España
     subtitle: Transición democrática, regionalismo, modernización económica
+    original_title: Spaniens Gewerkschaftsbewegung
     series: Colección ciencia; 196
     authors:
       - Holm-Detlev Köhler
@@ -15783,6 +15928,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/004278051
     verified: true
   - title: Las 120 jornadas de Sodoma
+    original_title: Les 120 journées de Sodome
     series: Espiral; 57
     authors:
       - Sade
@@ -16297,6 +16443,8 @@ titles:
     subtitle: 1965-2000
     authors:
       - Ana María Fagundo
+    editors:
+      - Myriam Álvarez
     year: 2002
     edition: 1. ed
     series: Espiral Hispano americana
@@ -16372,6 +16520,7 @@ titles:
         url: https://www.sudoc.fr/076082679
     verified: true
   - title: Trabajo y el empleo de las mujeres
+    original_title: Travaill et emploi des femmes
     series: Colección ciencia; 255
     authors:
       - Margaret Maruani
@@ -16397,6 +16546,8 @@ titles:
   - title: Baile en Capitanía
     authors:
       - Agustín de Foxá conde de Foxá
+    editors:
+      - Derek Gagen
     year: 2003
     edition: 1. ed
     series: Espiral
@@ -16709,6 +16860,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb392295525
     verified: true
   - title: Los modelos productivos
+    original_title: Les modèles productifs
     series: Cuencas
     authors:
       - Robert Boyer
@@ -16820,6 +16972,8 @@ titles:
     subtitle: 'Dos en un sofá; Cuéntame cómo pasó: las mejores huelgas de nuestra vida'
     authors:
       - Eduardo Ladrón de Guevarra
+    editors:
+      - Emeterio Díez Puertas
     year: 2003
     edition: 1. ed
     series: Colección Arte -- 141. -- Guiones de TV-UCJC
@@ -16983,6 +17137,9 @@ titles:
   - title: Veinticinco años de teatro español, 1973-2000
     authors:
       - Miguel Medina Vicario
+    editors:
+      - María del Carmen Sánchez García
+      - Jerónimo López Mozo
     year: 2003
     edition: 1. ed
     series: Colección Arte
@@ -17051,6 +17208,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991050481209705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: El actor y la diana
+    original_title: The actor and the target
     series: Colección Arte; 146
     authors:
       - Declan Donnellan
@@ -17061,6 +17219,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991059272979708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El arte de la guerra
+    original_title: Sunzi bing fa
     series: Colección Arte; 45
     authors:
       - Sunzi
@@ -17128,6 +17287,7 @@ titles:
     verified: true
   - title: El método del Actors Studio
     subtitle: (Conversaciones con Lee Strasberg)
+    original_title: Strasberg at the Actor's Studio
     series: Colección Arte; 36
     authors:
       - Robert H. Hethmon
@@ -17466,6 +17626,8 @@ titles:
     subtitle: 'Cartas de amor: novela epistolar'
     authors:
       - Gertrudis Gómez de Avellaneda y Arteaga
+    editors:
+      - Emil Volek
     year: 2004
     edition: 1. ed
     series: Espiral Hispano-americana
@@ -17577,6 +17739,8 @@ titles:
   - title: Castelvines y Monteses
     authors:
       - Lope de Vega
+    editors:
+      - Darío Facal
     year: 2005
     series: Clásicos RESAD
     language: Spanish
@@ -17682,6 +17846,9 @@ titles:
   - title: Fiestas gordas del vino y el tocino
     authors:
       - Miguel Romero Esteo
+    editors:
+      - Oscar Cornago Bernal
+      - Luis Vera
     year: 2005
     edition: 1. ed
     series: Serie teatro
@@ -17836,6 +18003,8 @@ titles:
     authors:
       - Serge Salaün
       - Evelyne Ricci
+    editors:
+      - Marie Salgues
     year: 2005
     edition: 1. ed
     series: Espiral hispano americana -- 54
@@ -17888,6 +18057,8 @@ titles:
   - title: La verdad sobre el caso Mendoza
     authors:
       - José V. Saval
+    editors:
+      - José Vicente Saval
     year: 2005
     edition: 1. ed
     series: Espiral hispano-americana -- 56
@@ -18042,6 +18213,9 @@ titles:
   - title: Paraphernalia de la olla podrida, la misericordia y la mucha consolación
     authors:
       - Miguel Romero Esteo
+    editors:
+      - Óscar Cornago Bernal
+      - Luis Véra
     year: 2005
     edition: 1. ed
     series: Biblioteca Romero Esteo -- 296
@@ -18061,6 +18235,9 @@ titles:
   - title: Paraphernalia de la olla podrida, la misericordia y mucha consolación
     authors:
       - Miguel Romero Esteo
+    editors:
+      - Oscar Cornago Bernal
+      - Luis Vera
     year: 2005
     language: Spanish
     sources:
@@ -18075,6 +18252,8 @@ titles:
       - Carlos Marquerie
       - Sara Molina
       - Angélica Liddell
+    editors:
+      - Oscar Cornago Bernal
     year: 2005
     edition: 1. ed
     series: Espiral (Editorial Fundamentos) -- 302
@@ -18455,6 +18634,8 @@ titles:
   - title: El teatro del exilio
     subtitle: Obras en un acto
     authors: []
+    editors:
+      - Ricardo Doménech
     year: 2006
     language: Spanish
     sources:
@@ -18569,6 +18750,8 @@ titles:
   - title: La comedia lacrimosa española
     authors:
       - Fernando Doménech
+    editors:
+      - Fernando Doménech Rico
     year: 2006
     edition: 1 ed
     series: Biblioteca Temática RESAD / Fundamentos -- 310
@@ -18595,6 +18778,7 @@ titles:
     verified: true
   - title: Mi sistema
     subtitle: Método de enseñanza
+    original_title: Mein System
     authors:
       - Arón Nimzowitsch
     year: 2006
@@ -18607,6 +18791,7 @@ titles:
     verified: true
   - title: Morfología del cuento
     subtitle: Seguida de Las transformaciones de los cuentos maravillosos
+    original_title: Morfologiâ skazki
     series: Arte; 21
     authors:
       - Vladimir Iakovlevich Propp
@@ -18682,6 +18867,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb41471011n
     verified: true
   - title: Roberto Rossellini
+    original_title: Roberto Rossellini
     series: Colección Arte; 38
     authors:
       - José Luis Guarner
@@ -18732,6 +18918,8 @@ titles:
   - title: Teatro breve (1992-2004)
     authors:
       - Rafael Gordon
+    editors:
+      - Santiago Trancón
     year: 2006
     edition: 1. ed
     series: Espiral / Fundamentos. Teatro -- 324
@@ -19357,6 +19545,9 @@ titles:
   - title: Pontifical
     authors:
       - Miguel Romero Esteo
+    editors:
+      - Oscar Cornago Bernal
+      - Luis Vera
     year: 2007
     edition: 1. ed
     series: Espiral -- 298. -- Serie teatro
@@ -19449,6 +19640,8 @@ titles:
   - title: Teatro policiaco español
     authors:
       - Ignacio García May
+    editors:
+      - Ignacio Garcia May
     year: 2007
     edition: 1. ed
     series: Biblioteca Temática RESAD
@@ -19526,6 +19719,8 @@ titles:
   - title: Biblioteca Romero Esteo
     authors:
       - Miguel Romero Esteo
+    editors:
+      - Oscar Cornago Bernal
     year: 2008
     language: Spanish
     sources:
@@ -19556,9 +19751,12 @@ titles:
     verified: true
   - title: Destellos y teatro
     subtitle: El trébol de cuatro hojas
+    original_title: Sclipiri si teatru
     series: Espiral; 339
     authors:
       - Eugène Ionesco
+    translators:
+      - Mariano Martín Rodríguez
     year: 2008
     language: Spanish, Romanian
     sources:
@@ -19659,6 +19857,8 @@ titles:
   - title: El vodevil de la pálida, pálida, pálida, pálida rosa
     authors:
       - Miguel Romero Esteo
+    editors:
+      - Oscar Cornago Bernal
     year: 2008
     edition: 1. ed
     series: Espiral -- 352. Teatro
@@ -19722,6 +19922,8 @@ titles:
       - Marta Galán
       - Fernando Renjifo
       - Oscar Cornago Bernal
+    editors:
+      - Óscar Cornago Bernal
     year: 2008
     language: Spanish
     sources:
@@ -19775,6 +19977,8 @@ titles:
     series: Espiral; 301
     authors:
       - Miguel Romero Esteo
+    editors:
+      - Oscar Cornago Bernal
     year: 2008
     language: Spanish
     sources:
@@ -19883,6 +20087,7 @@ titles:
     verified: true
     subtitle: I, primeras ediciones y comentarios (siglos XVIII y XIX)
   - title: Las raíces históricas del cuento
+    original_title: Istoričeskie korni volšebnoj skazki
     series: Colección arte. Serie critica; 50
     authors:
       - Vladimir Jakovlevič Propp
@@ -19947,6 +20152,9 @@ titles:
   - title: Paso doble
     authors:
       - Miguel Romero Esteo
+    editors:
+      - Oscar Cornago Bernal
+      - Luis Vera
     year: 2008
     language: Spanish
     sources:
@@ -19974,6 +20182,9 @@ titles:
   - title: Patética de los pellejos santos y el ánima piadosa
     authors:
       - Miguel Romero Esteo
+    editors:
+      - Oscar Cornago Bernal
+      - Luis Vera
     year: 2008
     language: Spanish
     sources:
@@ -20116,6 +20327,8 @@ titles:
     subtitle: 'Autores clásicos y modernos: homenaje a Ricardo Doménech'
     authors:
       - Ricardo Doménech
+    editors:
+      - Fernando Doménech
     year: 2008
     edition: 1. ed
     series: Colección Arte. Serie Teoría teatral -- 169
@@ -20175,6 +20388,9 @@ titles:
   - title: Tratado de declamación o arte dramático
     authors:
       - Vicente Joaquín Bastús y Carrera
+    editors:
+      - Eduardo Pérez-Rasilla
+      - Guadalupe Soria Tomás
     year: 2008
     edition: 1. ed
     series: Colección Arte / Fundamentos. Serie Teoría teatral -- 167
@@ -20227,6 +20443,9 @@ titles:
   - title: Bricolage
     authors:
       - Miguel Romero Esteo
+    editors:
+      - Óscar Cornago Bernal
+      - Luis Vera
     year: 2009
     edition: 1. ed
     series: Biblioteca Romero Esteo -- 10
@@ -20309,6 +20528,8 @@ titles:
     series: Colección Arte; 175
     authors:
       - Sol Garre
+    editors:
+      - Itziar Pascual
     year: 2009
     language: Spanish
     sources:
@@ -20379,6 +20600,8 @@ titles:
       - Alfonso Ceballos Munõz
       - Ramón Espejo Romero
       - Bernardo Muñoz Martínez
+    editors:
+      - Alfonso Ceballos Muñoz
     year: 2009
     edition: 1. ed
     series: Colección Arte -- 182. -- Serie Teoría teatral
@@ -20412,6 +20635,8 @@ titles:
       - Patricia W. O'Connor
       - Elena Cánovas Vacas
       - Teatro Yeses
+    editors:
+      - Patricia Walter O'Connor
     year: 2009
     language: Spanish
     sources:
@@ -20454,6 +20679,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991019723919708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Francisco Nieva y el teatro posmodernista
+    original_title: Francisco Nieva and postmodernist theatre
     series: Arte; 177
     authors:
       - Francis Komla Aggor
@@ -20466,6 +20692,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1617171387
     verified: true
   - title: Francisco Nieva y el teatro postmodernista
+    original_title: Francisco Nieva and postmodernist theatre
     series: Colección Arte; 177
     authors:
       - Komla Aggor
@@ -20505,6 +20732,8 @@ titles:
   - title: La Gatomaquia
     authors:
       - Pedro Manuel Víllora
+    editors:
+      - Sol Montoya
     year: 2009
     series: Clásicos RESAD
     language: Spanish
@@ -20681,6 +20910,8 @@ titles:
   - title: Morir pensando matar
     authors:
       - Francisco de Rojas Zorrilla
+    editors:
+      - Ernesto Caballero
     year: 2009
     series: Arte / Fundamentos -- Serie Teoría teatral -- 174
     language: Spanish
@@ -20746,6 +20977,9 @@ titles:
   - title: Pizzicato irrisorio y gran pavana de lechuzos
     authors:
       - Miguel Romero Esteo
+    editors:
+      - Óscar Cornago Bernal
+      - Luis Vera
     year: 2009
     edition: Primera edición
     series: Biblioteca Romero Esteo -- 9
@@ -20991,6 +21225,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb424339813
     verified: true
   - title: El niño salvaje
+    original_title: L'enfant sauvage
     series: Arte; 1
     authors:
       - François Truffaut
@@ -21052,6 +21287,8 @@ titles:
       - Ana Isabel Fernández Valbuena
       - María Hernández Esteban
       - Joaquín Álvarez Barrientos
+    editors:
+      - Rossend Arqués
     year: 2010
     language: Spanish
     sources:
@@ -21160,6 +21397,8 @@ titles:
   - title: La crítica teatral completa de Mariano José de Larra
     authors:
       - Mariano José de Larra
+    editors:
+      - Rafael Fuentes Mollá
     year: 2010
     edition: 1. ed
     series: Colección Arte / Fundamentos -- Serie Teoría teatral -- 180
@@ -21207,6 +21446,8 @@ titles:
     subtitle: La Real Escuela Superior de Arte Dramático (1831-1857)
     authors:
       - Guadalupe Soria Tomás
+    editors:
+      - Ángel Martínez Roger
     year: 2010
     edition: 1. ed
     series: Colección Arte -- 187. -- Serie Teoría teatral
@@ -21272,6 +21513,7 @@ titles:
     verified: true
   - title: La verdad no escuchada
     subtitle: Pobreza y derechos humanos
+    original_title: The unhead truth
     series: Colección Ciencia; 321
     authors:
       - Irene Khan
@@ -21284,6 +21526,8 @@ titles:
   - title: La vida es sueño
     authors:
       - Pedro Calderón de la Barca
+    editors:
+      - Pedro Manuel Víllora
     year: 2010
     series: Colección Arte -- Serie Teoría teatral -- 189
     language: Spanish
@@ -21343,6 +21587,8 @@ titles:
     authors:
       - Marián López F. Cao
       - Luisa Posada Kubissa
+    editors:
+      - Marián Cao
     year: 2010
     edition: 1. ed
     series: Colección Ciencia. Serie Género -- 320
@@ -21365,11 +21611,13 @@ titles:
     verified: true
   - title: Prismas oscuros
     subtitle: El ocultismo en el teatro hispánico
+    original_title: Dark prisms
     series: Colección arte; 186
     authors:
       - Robert Lima
-      - Maria Luz Valencia
       - Sabela Núñez
+    translators:
+      - Maria Luz Valencia
     year: 2010
     language: Spanish
     sources:
@@ -21539,6 +21787,8 @@ titles:
     subtitle: Construcciones de la identidad femenina
     authors:
       - Antonia Fernández Valencia
+    editors:
+      - Marián Cao
     year: 2011
     edition: 1a ed
     series: Colección ciencia. Serie género -- 329
@@ -21694,6 +21944,8 @@ titles:
     subtitle: Tres obras de Jerónimo López Mozo
     authors:
       - Jerónimo López Mozo
+    editors:
+      - John P. Gabriele
     year: 2011
     edition: 1. ed
     language: Spanish
@@ -21722,6 +21974,8 @@ titles:
       - Fernando Doménech
       - Guadalupe Soria Tomás
       - David Conte Imbert
+    editors:
+      - David Conte
     year: 2011
     edition: Primera edición
     series: Colección arte. Serie Teoría teatral -- 194
@@ -21766,6 +22020,8 @@ titles:
     subtitle: Novela policiaca escrita por mujeres
     authors:
       - Josefina de Andrés Argente
+    editors:
+      - Rosa García Rayego
     year: 2011
     edition: Primera edición
     series: Colección Ciencia / Editorial Fundamentos. Serie Género -- 326
@@ -22083,11 +22339,13 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb43595559v
     verified: true
   - title: Estética de la destrucción, el teatro irlandés de la era del Celtic Tiger
+    original_title: The beauty queen of Leenane
     series: Espiral/Fundamentos; 389. Serie Teatro
     authors:
-      - Diana I. Luque
       - Martin McDonagh
       - Marina Carr
+    translators:
+      - Diana I. Luque
     year: 2012
     language: Spanish
     sources:
@@ -22257,6 +22515,8 @@ titles:
     subtitle: Política y políticas públicas
     authors:
       - Esther del Campo
+    editors:
+      - María Esther del Campo García
     year: 2012
     edition: 1. ed
     series: Colección Ciencia / Editorial Fundamentos. Política -- 336
@@ -22339,6 +22599,9 @@ titles:
   - title: Tartessos
     authors:
       - Miguel Romero Esteo
+    editors:
+      - Oscar Cornago Bernal
+      - Luis Vera
     year: 2012
     edition: 1. ed
     series: Espiral -- 387
@@ -22440,9 +22703,11 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991043095369708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El arte de la guerra
+    original_title: Sunzi bing fa
     series: Ciencia; 45
     authors:
       - Sunzi
+    translators:
       - Fernando Montes
     year: 2013
     language: Spanish
@@ -22696,9 +22961,10 @@ titles:
   - title: Canciones
     series: Espiral/Fundamentos; “149”-150
     authors:
+      - The Beatles (Grupo musical)
+    translators:
       - Alberto Manzano
       - Miguel Comamala
-      - The Beatles (Grupo musical)
     year: 2014
     language: English, Spanish
     sources:
@@ -22718,9 +22984,11 @@ titles:
     verified: true
   - title: El cuerpo elocuente
     subtitle: La formación física del actor
+    original_title: The articulate body
     series: Ensayos y manuales RESAD; 202
     authors:
       - Anne Dennis
+    translators:
       - Sergio Leal Alcubilla
     year: 2014
     language: Spanish
@@ -22855,6 +23123,8 @@ titles:
     authors:
       - Emeterio Diez Puertas
       - Jaime de Armiñán
+    editors:
+      - Emeterio Díez Puertas
     year: 2014
     language: Spanish
     sources:
@@ -22957,6 +23227,9 @@ titles:
     subtitle: Misterios
     authors:
       - Alfonso Jiménez Romero
+    editors:
+      - Miguel Nieto Nuño
+      - María Teresa Mora Álvarez
     year: 2014
     edition: Primera edición
     series: Espiral. Serie Teatro -- 400
@@ -22981,9 +23254,11 @@ titles:
     verified: true
   - title: Texto en acción
     subtitle: La guía definitiva para que el actor y el director exploren el texto durante los ensayos
+    original_title: Text in action
     series: Ensayos y manuales RESAD; 201
     authors:
       - Cicely Berry
+    translators:
       - Vicente Fuentes
     year: 2014
     language: Spanish
@@ -23055,9 +23330,11 @@ titles:
     verified: true
   - title: Disparates
     subtitle: La marquesa se dispone a ir al teatro, la visita de la infanta, Bromas en la Mancha, Viaje a París en 1947, la esfinge, la Tuta y la Ramoneta
+    original_title: Desbarats
     series: Espiral.; 411
     authors:
       - Llorenç Villalonga
+    translators:
       - Julio Escalada
     year: 2015
     language: Spanish
@@ -23092,6 +23369,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb44486826q
     verified: true
   - title: El actor y la diana
+    original_title: The actor and the target
     series: Ensayos y manuales RESAD; 146
     authors:
       - Declan Donnellan
@@ -23103,6 +23381,7 @@ titles:
     verified: true
   - title: El método del Actors Studio
     subtitle: (Conversaciones con Lee Strasberg)
+    original_title: Strasberg at the Actor's Studio
     series: Colección Arte; 36
     authors:
       - Robert H. Hethmon
@@ -23131,9 +23410,11 @@ titles:
     verified: true
   - title: El último Stanislavsky
     subtitle: Análisis activo de la obra y el papel
+    original_title: Slovo v tvorčestve aktera
     series: Colección Arte; 112
     authors:
       - Mariâ Osipovna Knebelʹ
+    translators:
       - Jorge Saura
     year: 2015
     language: Spanish
@@ -23384,6 +23665,8 @@ titles:
     series: Espiral; 96-97
     authors:
       - Bob Dylan
+    translators:
+      - Alberto Manzano
     year: 2016
     language: Spanish, English
     sources:
@@ -23396,10 +23679,12 @@ titles:
     verified: true
   - title: El perfeccionista
     subtitle: Hacia una poética del trabajo
+    original_title: The complete perfectionist
     series: Espiral hispano-américa; 65
     authors:
       - Juan Ramón Jiménez
       - Christopher Maurer
+    translators:
       - Andrés Soria Olmedo
     year: 2016
     language: Spanish
@@ -23418,6 +23703,7 @@ titles:
     series: Colección Arte; 208
     authors:
       - Vladimir Ivanovich Nemirovich-Danchenko
+    translators:
       - Bibicharifa Jakimziánova
       - Ángel Luis Encinas Moral
       - Jorge Saura
@@ -23440,6 +23726,7 @@ titles:
     verified: true
   - title: Janis Joplin
     subtitle: (Enterrada viva)
+    original_title: Buried alive
     series: Espiral; 22
     authors:
       - Myra Friedman
@@ -23451,10 +23738,12 @@ titles:
     verified: true
   - title: La audición
     subtitle: Una guía pensada para el actor
+    original_title: Auditioning
     series: Colección Arte; 207
     authors:
       - Joann Ratner
       - Sol Garre
+    translators:
       - Jorge Quesada
     year: 2016
     language: Spanish
@@ -23581,6 +23870,8 @@ titles:
     subtitle: Piezas breves
     authors:
       - Tamara Gutiérrez
+    editors:
+      - Real Escuela Superior de Arte Dramático
     year: 2016
     edition: 1. ed
     series: Espiral. Teatro -- 417
@@ -23683,6 +23974,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991000952499708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Autobiografía (o algo parecido)
+    original_title: Gama no aburra
     series: Colección Arte. Serie Cine; 107
     authors:
       - Akira Kurosawa
@@ -23817,6 +24109,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991107730409705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Mis 60 mejores partidas
+    original_title: My 60 memorable games
     series: Club de ajedrez; 27
     authors:
       - Bobby Fischer
@@ -23827,6 +24120,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991009623239708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Praxis del cine
+    original_title: Praxis du cinéma
     series: Colección Arte. Serie Cine; 2
     authors:
       - Noël Burch
@@ -23884,6 +24178,8 @@ titles:
     subtitle: Piezas breves
     authors:
       - Ismael Carreño
+    editors:
+      - Real Escuela Superior de Arte Dramático
     year: 2017
     edition: 1. ed
     series: Espiral (Editorial Fundamentos). Teatro -- 423
@@ -23992,6 +24288,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991038312679705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Fellini por Fellini
+    original_title: Fellini on Fellini
     series: Colección Arte; 76. Serie Cine
     authors:
       - Federico Fellini
@@ -24128,6 +24425,8 @@ titles:
     subtitle: Piezas breves.; Alumnos RESAD, curso 2017-2018
     authors:
       - Aznar Canet. Jorge
+    editors:
+      - Real Escuela Superior de Arte Dramático
     year: 2018
     edition: Primera edición
     series: Espiral/Fundamentos -- 431
@@ -24196,8 +24495,9 @@ titles:
     subtitle: (Obra Completa)
     series: Espiral/Fundamentos; 148
     authors:
-      - Alberto Manzano
       - The Beatles (Grupo musical)
+    translators:
+      - Alberto Manzano
     year: 2019
     language: Spanish, English
     sources:
@@ -24234,9 +24534,11 @@ titles:
     verified: true
   - title: El ajedrez de torneo
     subtitle: Zúrich 1953 - candidatos
+    original_title: Mezhdunarodnyĭ turnir grossmeĭsterov
     series: Club de ajedrez; 19
     authors:
       - David Ionovich Bronshteïn
+    translators:
       - Antonio Gude
     year: 2019
     language: Spanish
@@ -24246,6 +24548,7 @@ titles:
     verified: true
   - title: El método del actors studio
     subtitle: (Conversaciones con Lee Strasberg)
+    original_title: Strasberg at the Actor's Studio
     series: Colección Arte; 36
     authors:
       - Robert H. Hethmon
@@ -24284,6 +24587,8 @@ titles:
       - Ismael Gil Candal
       - Eva Mir
       - Celia Morán
+    editors:
+      - Real Escuela Superior de Arte Dramático
     year: 2019
     edition: 1. ed
     series: Colección Espiral. Serie Teatro -- 433
@@ -24355,6 +24660,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991035450439708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El misterio del movimiento
+    original_title: The mastery of movement
     series: Colección Arte; 222
     authors:
       - Rudolf Laban
@@ -24447,11 +24753,13 @@ titles:
     verified: true
   - title: Morfología del cuento
     subtitle: Seguida de Las transformaciones de los cuentos maravillosos
+    original_title: Morfologiâ skazki
     series: Colección arte; 21
     authors:
       - Vladimir Iakovlevich Propp
-      - Lourdes Ortiz
       - E. M. Meletinskiï
+    translators:
+      - Lourdes Ortiz
     year: 2020
     language: Spanish
     sources:
@@ -24540,6 +24848,8 @@ titles:
   - title: Comedias
     authors:
       - Francisco Bernardo de Quiroþs
+    editors:
+      - Celsa Carmen García Valdés
     year: 2021
     series: Espiral. Teatro -- 435
     language: Spanish
@@ -24573,6 +24883,8 @@ titles:
     authors:
       - Jara Martínez Valderas
       - José Gabriel López Antuñano
+    editors:
+      - José Gabriel Lopez Antuñano
     year: 2021
     language: Spanish
     sources:
@@ -24692,6 +25004,8 @@ titles:
     subtitle: Antología
     authors:
       - Anne Laure Feuillastre
+    editors:
+      - Anne-Laure Feuillastre
     year: 2022
     edition: Primera edición
     series: Colección Espiral. Serie teatro -- 439
@@ -24734,6 +25048,7 @@ titles:
     series: Espiral; 444
     authors:
       - Mihail Sebastian
+    translators:
       - Francisco Javier Bran García
     year: 2022
     language: Spanish
@@ -24855,10 +25170,12 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb47307528d
     verified: true
   - title: Interpretación en el teatro musical
+    original_title: Acting in musical theatre
     series: Colección Arte; 241
     authors:
       - Joe Deer
       - Rocco Dal Vera
+    translators:
       - Pedro Llaudes García
     year: 2024
     language: Spanish
@@ -24883,6 +25200,7 @@ titles:
     series: Colección Arte; 238
     authors:
       - Pablo Iglesias Simón
+    translators:
       - Elba López Oelzer
       - Isabel Hernández
       - Ignacio García May

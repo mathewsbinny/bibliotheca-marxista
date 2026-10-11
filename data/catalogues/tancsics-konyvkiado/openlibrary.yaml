@@ -13,6 +13,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991107789189705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: “A” világ második legmagasabb hegycsúcsa, a K2 meghódítása
+    original_title: La Conquista del K2
     series: Útikalandok; 6
     authors:
       - Ardito Desio
@@ -168,6 +169,8 @@ titles:
   - title: Válogatott irásai
     authors:
       - Mihály Táncsics
+    editors:
+      - László Geréb
     year: 1957
     series: Táncsics könyvtár -- 2
     language: Hungarian
@@ -300,8 +303,11 @@ titles:
     verified: true
   - title: Utitárs a számuzetésben
     subtitle: Jegyzetek egy önéletrajzhoz
+    original_title: Companion in exile
     authors:
       - Ferenc Molnár
+    translators:
+      - Adorján Stella
     year: 1958
     language: Hungarian
     pages: 357
@@ -439,6 +445,9 @@ titles:
     series: Táncsics könyvtár; no. 16
   - title: Magyar múzsa, költészeti antológia... Válogatta és szerkesztette Fodor József és Jankovich Ferenc
     authors: []
+    editors:
+      - József Fodor
+      - Ferenc Jankovich
     year: 1959
     language: Hungarian
     sources:
@@ -536,8 +545,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=44554239X
     verified: true
   - title: Colas Breugnon
+    original_title: Colas Breugnon
     authors:
       - Romain Rolland
+    translators:
+      - Ferenc Jankovich
     year: 1960
     language: Hungarian
     sources:
@@ -561,6 +573,8 @@ titles:
     verified: true
   - title: Fenn és lenn, elbeszelések. Válogatta és szerkesztette Barabás Tibor
     authors: []
+    editors:
+      - Tibor Barabás
     year: 1960
     language: Hungarian
     sources:
@@ -752,6 +766,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=402674324
     verified: true
   - title: Hét-tengeren
+    original_title: Jäine raamat
     series: Útikalandok; 28
     authors:
       - Juhan Smuul
@@ -892,6 +907,9 @@ titles:
     verified: true
   - title: Földmunkás és szegényparaszt-mozgalmak Magyarországon 1848-1948. Szerkesztette Pölöskei Ferenc és Szakács Kálmán. Hunya István előszavával
     authors: []
+    editors:
+      - Ferenc Pölöskei
+      - Kálmán Szakács
     year: 1962
     language: Hungarian
     sources:
@@ -994,6 +1012,7 @@ titles:
     authors:
       - Alina Centkiewiczowa
       - Czesław Jacek Centkiewicz
+    translators:
       - Éva Sebők
     year: 1963
     language: Hungarian
@@ -1529,6 +1548,7 @@ titles:
         url: https://d-nb.info/367389762
     verified: true
   - title: Az óceánok meghódítása
+    original_title: Männer, Planken, Ozeane
     authors:
       - Helmut Hanke
     year: 1965
@@ -1549,6 +1569,7 @@ titles:
   - title: Az őrjöngő Ucayali
     authors:
       - Arkady Fiedler
+    translators:
       - Éva Sebők
     year: 1965
     language: Hungarian
@@ -1585,7 +1606,8 @@ titles:
     verified: true
   - title: Esztergályos szakmai ismeretek
     subtitle: A függelékben a köszörülés, gyalulás, marás és a szakmai számolás alapjai
-    authors:
+    authors: []
+    translators:
       - Róbert Ohmacht
     year: 1965
     language: Hungarian
@@ -1694,6 +1716,7 @@ titles:
   - title: A lengyel szakszervezetek
     authors:
       - Tadeusz Bukaty
+    translators:
       - István Varsányi
     year: 1966
     language: Hungarian
@@ -1818,6 +1841,7 @@ titles:
     subtitle: (A szerzó fényképfelvételeivel)
     authors:
       - Lucjan Wolanowski
+    translators:
       - Edward Mach
       - Romána Gimes
     year: 1966
@@ -1871,11 +1895,14 @@ titles:
         url: https://d-nb.info/578188988
     verified: true
   - title: Nansen útja
+    original_title: Fridtjőf, co z ciebie wyrośnie?
     series: Útikalandok; 58
     authors:
       - Alina Centkiewicz
       - Czesław Centkiewicz
       - Éva Sebők
+    translators:
+      - Grácia Kerényi
     year: 1966
     language: Hungarian
     sources:
@@ -2143,6 +2170,7 @@ titles:
   - title: Századunk gyermeke az elektronika
     authors:
       - Stefan Weinfeld
+    translators:
       - Edé Paulusz
     year: 1967
     language: Hungarian
@@ -2166,6 +2194,7 @@ titles:
     subtitle: Guinea
     authors:
       - Arkady Fiedler
+    translators:
       - Éva Sebők
     year: 1967
     language: Hungarian
@@ -2176,6 +2205,7 @@ titles:
         url: https://search.worldcat.org/title/836183100
     verified: true
   - title: “A” Cicero Akció
+    original_title: Operation Cicero
     authors:
       - L. C. Moyzisch
       - János Aczél
@@ -2302,6 +2332,7 @@ titles:
     authors:
       - Alina Centkiewiczowa
       - Czesław Jacek Centkiewicz
+    translators:
       - Éva Sebők
     year: 1968
     language: Hungarian
@@ -2358,6 +2389,7 @@ titles:
     authors:
       - Zenon Kosidowski
       - István Hahn
+    translators:
       - István Varsányi
     year: 1968
     language: Hungarian
@@ -2390,6 +2422,7 @@ titles:
         url: https://d-nb.info/578188945
     verified: true
   - title: Hét-tengeren
+    original_title: Sail ho! Tramps and ladies. Commodore
     series: Útikalandok; 70
     authors:
       - James Gordon Partridge Bisset
@@ -2568,6 +2601,7 @@ titles:
         url: https://d-nb.info/57500973X
     verified: true
   - title: Afganisztán - fátyol nélkül
+    original_title: Land of the high flags
     series: Útikalandok; 84
     authors:
       - Rosanne Klass
@@ -2908,6 +2942,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1473805937
     verified: true
   - title: Az orchideák bolygója
+    original_title: Der Orchideenkäfig
     authors:
       - Herbert Werner Franke
     year: 1970
@@ -3062,6 +3097,8 @@ titles:
     subtitle: '[Összeállítatta, Vértes Róbert et al.]'
     authors:
       - Magyar Szocialista Munkáspárt. Központi Bizottság. Párttörténeti Intézet
+    editors:
+      - Robert Vértes
     year: 1971
     language: Hungarian
     pages: 283
@@ -3473,6 +3510,8 @@ titles:
     verified: true
   - title: 100 híres regény
     authors: []
+    editors:
+      - András Apostol
     year: 1973
     edition: 3. jav. kiad
     language: Hungarian
@@ -3822,6 +3861,7 @@ titles:
     verified: true
   - title: Ilyen a dzsungel
     subtitle: Válogatás
+    original_title: This is the jungle
     series: Útikalandok; 119
     authors:
       - Kenneth Anderson
@@ -5466,7 +5506,8 @@ titles:
     verified: true
   - title: La situation des femmes travailleuses en Europe
     subtitle: Séminaire régional à Budapest
-    authors:
+    authors: []
+    translators:
       - Erzsebet Görög
     year: 1979
     language: French

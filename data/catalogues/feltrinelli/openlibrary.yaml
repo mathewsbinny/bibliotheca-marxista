@@ -35,10 +35,12 @@ titles:
         url: https://search.worldcat.org/title/34082534
     verified: true
   - title: Alla ricerca dell'anello mancante
+    original_title: Finding the missing link
     series: Universale economica; 204, XXXV
     authors:
       - Robert Broom
       - Franco Graziosi
+    translators:
       - Sergio Borelli
     year: 1955
     language: Italian
@@ -50,6 +52,7 @@ titles:
     subtitle: 6 agosto-30 settembre 1945
     authors:
       - Michihiko Hachiya
+    translators:
       - Francesco Saba Sardi
     year: 1955
     language: Italian
@@ -58,6 +61,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1577301870
     verified: true
   - title: Il film nella battaglia delle idee
+    original_title: Film in the battle of ideas
     authors:
       - John Howard Lawson
     year: 1955
@@ -70,6 +74,7 @@ titles:
     verified: true
     pages: 315
   - title: L' uomo macchina e altri scritti
+    original_title: L' Homme machine
     series: Universale economica; 203
     authors:
       - Julien Offray de La Mettrie
@@ -86,6 +91,9 @@ titles:
     authors:
       - M. Milan
       - F. Vighi
+    editors:
+      - Maurizio Milan
+      - Fausto Vighi
     year: 1955
     language: Italian
     sources:
@@ -99,8 +107,11 @@ titles:
         url: https://search.worldcat.org/title/11547116
     verified: true
   - title: Spagna clandestina
+    original_title: La fin de l'espoir
     authors:
       - Juan Hermanos
+    translators:
+      - Francesco Scotti
     year: 1955
     edition: 1a ed
     language: Italian
@@ -135,6 +146,7 @@ titles:
     verified: true
     subtitle: Documenti e note
   - title: Algeria fuorilegge
+    original_title: L'Algérie hors la loi
     authors:
       - Colette Jeanson
       - Francis Jeanson
@@ -267,6 +279,8 @@ titles:
     subtitle: Bibliografia e storia
     authors:
       - Istituto Giangiacomo Feltrinelli
+    editors:
+      - Fondazione Giangiacomo Feltrinelli
     year: 1956
     series: Bibliografia della stampa periodica operaia e socialista italiana (1860-1926)
     language: Italian
@@ -350,8 +364,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=16572160X
     verified: true
   - title: Introduzione alla Cina
+    original_title: Clefs pour la Chine
     authors:
       - Claude Roy
+    translators:
       - Giovanni Melodia
     year: 1956
     language: Italian
@@ -362,6 +378,8 @@ titles:
   - title: La critica d'arte e altri scritti
     authors:
       - Eugène Delacroix
+    translators:
+      - Raffaele De Grada
     year: 1956
     series: Universale economica -- n. 215
     language: Italian
@@ -378,8 +396,10 @@ titles:
     verified: true
   - title: La scure di Wandsbek
     subtitle: Romanzo
+    original_title: Das Beil von Wandsbek
     authors:
       - Arnold Zweig
+    translators:
       - Francesco Saba Sardi
     year: 1956
     language: Italian
@@ -558,6 +578,8 @@ titles:
     series: Universale economica; 224
     authors:
       - Francesco De Sanctis
+    editors:
+      - Luigi Russo
     year: 1956
     language: Italian
     sources:
@@ -571,6 +593,8 @@ titles:
   - title: Studi e ricerche storiche
     authors:
       - Fondazione Giangiacomo Feltrinelli
+    editors:
+      - Istituto Giangiacomo Feltrinelli
     year: 1956
     language: Italian
     sources:
@@ -586,8 +610,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb336148277
     verified: true
   - title: Thomas Mann e la tragedia dell' arte moderna
+    original_title: Thomas Mann
     authors:
       - Georg Lukács
+    translators:
       - Giorgio Dolfini
     year: 1956
     language: Italian
@@ -654,6 +680,8 @@ titles:
     subtitle: Il socialismo utopistico. Saggio bibliografico
     authors:
       - Giuseppe Del Bo
+    editors:
+      - Giuseppe DelBo
     year: 1957
     series: Bibliografie a cura dell'Istituto Giangiacomo Feltrinelli
     language: Italian
@@ -725,8 +753,10 @@ titles:
         url: https://www.sudoc.fr/096516135
     verified: true
   - title: Contributi alla storia dell'estetica
+    original_title: Beiträge zur Geschichte der Ästhetik
     authors:
       - György Lukács
+    translators:
       - Emilio Picco
     year: 1957
     language: Italian
@@ -743,6 +773,8 @@ titles:
   - title: Dialogo sulle donne, e altri scritti
     authors:
       - Ferdinando Galiani
+    editors:
+      - Cesare Cases
     year: 1957
     edition: 1. ed. italiana
     series: Universale economica
@@ -844,8 +876,10 @@ titles:
     verified: true
   - title: I quaderni del dottor Čechov
     subtitle: Appunti di vita e letteratura
+    original_title: Zapisnye knižki
     authors:
       - Anton Pavlovič Čehov
+    translators:
       - Pietro Antonio Zveteremich
     year: 1957
     language: Italian
@@ -907,8 +941,11 @@ titles:
     subtitle: Racconto
   - title: Il dottor Živago
     subtitle: Romanzo
+    original_title: Doktor Živago
     authors:
       - Boris Leonidovich Pasternak
+    translators:
+      - Pietro A. Zveteremich
     year: 1957
     language: Italian
     pages: 715
@@ -956,6 +993,8 @@ titles:
   - title: Il socialismo utopistico
     authors:
       - Giuseppe Del Bo
+    editors:
+      - Giuseppe DelBo
     year: 1957
     series: Bibliografie -- 1
     language: Italian
@@ -1104,6 +1143,7 @@ titles:
     series: I fatti e le idee; 1
     authors:
       - John Wheeler Wheeler-Bennett
+    translators:
       - Luca Pavolini
     year: 1957
     language: Italian
@@ -1209,8 +1249,10 @@ titles:
     verified: true
   - title: Missione in Spagna
     subtitle: '1933-1939: prova generale della seconda guerra mondiale'
+    original_title: My mission to Spain
     authors:
       - Claude Gernade Bowers
+    translators:
       - Marco Guarnaschelli
     year: 1957
     language: Italian
@@ -1263,6 +1305,8 @@ titles:
     authors:
       - Christopher Hill
       - Carlo De Curis
+    translators:
+      - Carlo de Cugis
       - Giorgio Mori
     year: 1957
     language: Italian
@@ -1273,10 +1317,12 @@ titles:
         url: https://www.sudoc.fr/236324365
     verified: true
   - title: Storia della Germania moderna
+    original_title: Deutsche Geschichte vom Ausgange des Mittelalters
     series: Universale economica; 233
     authors:
       - Franz Mehring
       - Ernesto Ragionieri
+    translators:
       - Fausto Codino
     year: 1957
     language: Italian
@@ -1427,6 +1473,9 @@ titles:
     subtitle: E, nuovi versi
     authors:
       - Boris Leonidovič Pasternak
+    translators:
+      - Sergio d' Angelo
+      - Bruno Carnevali
     year: 1958
     language: Italian
     sources:
@@ -1452,6 +1501,7 @@ titles:
     verified: true
   - title: Bene!
     subtitle: Preceduto dal Poema di Lenin
+    original_title: Chorošo
     series: Universale economica Feltrinelli; 244
     authors:
       - Vladimir Majakovskij
@@ -1558,9 +1608,11 @@ titles:
         url: https://www.sudoc.fr/047456981
     verified: true
   - title: Etica e concezione materialistica della storia
+    original_title: Ethik und materialistische Geschichtsauffassung
     series: Universale economica; 243
     authors:
       - Karl Kautsky
+    translators:
       - Mazzino Montinari
     year: 1958
     language: Italian
@@ -1654,9 +1706,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=178656226X
     verified: true
   - title: Il Baldo
+    original_title: Baldus
     series: '1958'
     authors:
       - Teofilo Folengo
+    editors:
+      - Giampaolo Dossena
     year: 1958
     language: Latin
     sources:
@@ -1711,10 +1766,13 @@ titles:
     verified: true
   - title: Il cinema come industria
     subtitle: Storia economica del film
+    original_title: Der film als Ware
     series: Universale Economica; 245
     authors:
       - Peter Bächlin
       - Libero Solaroli
+    editors:
+      - Libero Solari
     year: 1958
     language: German
     sources:
@@ -1737,8 +1795,10 @@ titles:
     verified: true
   - title: Il dottor Zivago
     subtitle: Romanzo
+    original_title: Doktor Živago
     authors:
       - Boris Leonidovič Pasternak
+    translators:
       - Pietro Antonio Zveteremich
     year: 1958
     language: Italian
@@ -1910,6 +1970,7 @@ titles:
         url: https://search.worldcat.org/title/947811121
     verified: true
   - title: La corteccia cerebrale e gli organi interni
+    original_title: Kora golovnogo mozga i vnutrennie organy
     series: Saggi scientifici; 1
     authors:
       - Konstantin M. Bykov
@@ -2034,8 +2095,10 @@ titles:
         url: https://www.sudoc.fr/021596468
     verified: true
   - title: La storia di Joel Brand
+    original_title: Die Geschichte von Joel Brand
     authors:
       - Alexander Weissberg-Cybulski
+    translators:
       - Gigliola Pasquinelli
     year: 1958
     language: Italian
@@ -2103,6 +2166,7 @@ titles:
         url: https://www.sudoc.fr/261787829
     verified: true
   - title: Memorie di un patriota
+    original_title: Memoirs of Michael Karolyi
     series: Faith without illusion
     authors:
       - Mihály Károlyi
@@ -2145,7 +2209,8 @@ titles:
   - title: Problemi del lavoro in U.R.S.S
     subtitle: Una rassegna della stampa sindacale. (Trad. dal russo di Giuseppe Longo e Eridano Bazzarelli)
     series: (Documenti e discussioni; 7)
-    authors:
+    authors: []
+    translators:
       - Giuseppe Longo
       - Eridano Bazzarelli
     year: 1958
@@ -2227,9 +2292,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/007460368
     verified: true
   - title: Storia dell'arte e della civiltà cinese
+    original_title: La Chine et son art
     series: I fatti e le idee; 11
     authors:
       - René Grousset
+    translators:
       - Rossana Rossanda
     year: 1958
     language: Italian
@@ -2303,6 +2370,12 @@ titles:
   - title: Studi di filologia moderna
     authors:
       - Università di Pisa
+    editors:
+      - Guido Mancini
+      - Arnaldo Pizzorusso
+      - Giovanni Vittorio Amoretti
+      - Giuliano Pellegrini
+      - Silvio Pellegrini
     year: 1958
     language: Italian
     sources:
@@ -2355,6 +2428,7 @@ titles:
         url: https://openlibrary.org/books/OL15521607M
     verified: true
   - title: Talleyrand
+    original_title: Talejran
     authors:
       - Evgueni Viktorovitch Tarle
     year: 1958
@@ -2409,9 +2483,11 @@ titles:
         url: https://search.worldcat.org/title/23801965
     verified: true
   - title: “L'”arte e la civiltà moderna
+    original_title: Art et technique
     series: I fatti e le idee; 20
     authors:
       - Marie Pierre Adrien Francastel
+    translators:
       - Maria Luisa Bernè
     year: 1959
     language: Italian
@@ -2424,6 +2500,8 @@ titles:
     authors:
       - Mario Spagnol
       - Giampaolo Dossena
+    translators:
+      - Luciano Biancardi
     year: 1959
     language: Italian
     pages: 573
@@ -2542,6 +2620,9 @@ titles:
   - title: Critica sociale
     authors:
       - Mario Spinella
+    editors:
+      - Maria Teresa Lanza Carpino
+      - Giuseppe Petronio
     year: 1959
     edition: 1. ed
     series: Collana di periodici italiani e stranieri -- 1
@@ -2625,6 +2706,8 @@ titles:
     subtitle: Carteggi di Napoleone Colajanni, 1878-1898
   - title: Democrazia e socialismo in Italia, carteggi di Napoleone Colajanni, 1878-1898, a cura di Salvatore Massimo Ganci
     authors: []
+    editors:
+      - Salvatore Massimo Ganci
     year: 1959
     language: Italian
     sources:
@@ -2634,6 +2717,7 @@ titles:
   - title: Dissonanze
     authors:
       - Theodor W. Adorno
+    translators:
       - Giacomo Manzoni
     year: 1959
     language: German
@@ -2644,6 +2728,8 @@ titles:
   - title: Dissonanze. A cura di Giacomo Manzoni. Traduzione dal tedesco di Giacomo Manzoni
     authors:
       - Theodor Wiesengrund Adorno
+    translators:
+      - Giacomo Manzoni
     year: 1959
     language: Italian
     sources:
@@ -2760,6 +2846,8 @@ titles:
     edition: '[1. ed.]'
   - title: I Periodici popolari del Risorgimento, [antologia,] a cura di Dina Bertoni Jovine
     authors: []
+    editors:
+      - Dina Bertoni Jovine
     year: 1959
     language: Italian
     sources:
@@ -2882,9 +2970,11 @@ titles:
     verified: true
   - title: Il regno dei demoni
     subtitle: Panorama del Terzo Reich
+    original_title: Das Reich der niederen Damonen
     series: I fatti e le idee; 16
     authors:
       - Ernst Niekisch
+    translators:
       - Francesco Saba Sardi
     year: 1959
     language: Italian
@@ -2933,6 +3023,7 @@ titles:
         url: https://search.worldcat.org/title/43189890
     verified: true
   - title: Interpretazione economica della costituzione degli Stati Uniti d'America
+    original_title: An economic interpretation of the Constitution of the United States
     series: Storici e memoralisti moderni; 1
     authors:
       - Charles A. Beard
@@ -2967,6 +3058,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/006682341
     verified: true
   - title: L'Aleph
+    original_title: El Aleph
     series: Biblioteca di letteratura. I Classici Moderni; 5
     authors:
       - Jorge Luis Borges
@@ -3041,6 +3133,9 @@ titles:
     verified: true
   - title: L'Italia radicale, carteggi di Felice Cavallotti, 1867-1898, a cura di Liliana dalle Nogare e Stefano Merii
     authors: []
+    editors:
+      - Liliana dalle Nogare
+      - Stefano Merli
     year: 1959
     language: Italian
     sources:
@@ -3117,6 +3212,7 @@ titles:
     subtitle: Romanzo
     authors:
       - Kazimierz Brandys
+    translators:
       - Ludovico Tulli
     year: 1959
     language: Italian
@@ -3184,10 +3280,12 @@ titles:
         url: https://catalog.hathitrust.org/Record/102089071
     verified: true
   - title: La questione agraria
+    original_title: Die Agrarfrage
     series: Il pensiero socialista; 2
     authors:
       - Karl Kautsky
       - Giuliano Procacci
+    translators:
       - Giuseppe Garritano
     year: 1959
     language: Italian
@@ -3379,6 +3477,8 @@ titles:
   - title: Opere
     authors:
       - Antonio Labriola
+    editors:
+      - Luigi Dal Pane
     year: 1959
     language: Italian
     sources:
@@ -3401,6 +3501,8 @@ titles:
   - title: Opere, a cura di Luigi Dal Pane
     authors:
       - Antonio Labriola
+    editors:
+      - Luigi Dal Pane
     year: 1959
     language: Italian
     sources:
@@ -3561,6 +3663,8 @@ titles:
   - title: Scritti e appunti su Zeller e su Spinoza (1862-1868)
     authors:
       - Antonio Labriola
+    editors:
+      - Luigi Dal Pane
     year: 1959
     series: His Opere
     language: Italian
@@ -3611,9 +3715,11 @@ titles:
         url: https://www.sudoc.fr/047350873
     verified: true
   - title: Storia della tecnica
+    original_title: Technik, eine Geschichte ihrer Probleme
     series: I fatti e le idee; 19
     authors:
       - Friedrich Klemm
+    translators:
       - Umberto Zangrande
     year: 1959
     language: German
@@ -3670,6 +3776,7 @@ titles:
     subtitle: Lezioni, note, saggi
     authors:
       - Paul Klee
+    translators:
       - Mario Spagnol
       - Francesco Saba Sardi
     year: 1959
@@ -3763,10 +3870,12 @@ titles:
     verified: true
   - title: Al piú tardi in novembre
     subtitle: Romanzo
+    original_title: Spätestens im November
     authors:
       - Hans Erich Nossack
-      - Ludovica Nagel
       - Hand Erich Nossack
+    translators:
+      - Ludovica Nagel
     year: 1960
     language: Italian
     sources:
@@ -4098,6 +4207,8 @@ titles:
     verified: true
   - title: Filosofia della scienza
     authors: []
+    editors:
+      - Ludovico Geymonat
     year: 1960
     language: Italian
     sources:
@@ -4187,8 +4298,10 @@ titles:
     verified: true
   - title: Homo Faber
     subtitle: Resoconto
+    original_title: Homo faber
     authors:
       - Max Frisch
+    translators:
       - Aloisio Rendi
     year: 1960
     language: Italian
@@ -4351,6 +4464,8 @@ titles:
     edition: '[1. ed.]'
   - title: Il Caffè, ossia Brevi e vari discorsi distribuiti in fogli periodici [Ristampa] a cura di Sergio Romagnoli
     authors: []
+    editors:
+      - Sergio Romagnoli
     year: 1960
     language: Italian
     sources:
@@ -4392,6 +4507,8 @@ titles:
     series: Universale economica; 295
     authors:
       - Friedrich Dürrenmatt
+    translators:
+      - Enrico Filippini
     year: 1960
     language: Italian
     sources:
@@ -4540,6 +4657,8 @@ titles:
   - title: Il principe, e Discorsi sopra la prima deca di Tito Livio
     authors:
       - Niccolò Machiavelli
+    editors:
+      - Sergio Bertelli
     year: 1960
     edition: '[1. ed'
     series: His Opere -- 1
@@ -4591,6 +4710,7 @@ titles:
     subtitle: Romanzo
     authors:
       - Stanisław Dygat
+    translators:
       - Ludovico Tulli
     year: 1960
     language: Italian
@@ -4624,9 +4744,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=393343758
     verified: true
   - title: L' universo in movimento
+    original_title: The restless universe
     series: Attualità scientifica; 7
     authors:
       - Max Born
+    translators:
       - Luciana Franzinetti Pecchioli
     year: 1960
     language: Italian
@@ -4688,9 +4810,11 @@ titles:
     verified: true
     subtitle: Francesco Orlando
   - title: L'Oro di Troia
+    original_title: The gold of Troy
     series: I fatti e le idee; 25
     authors:
       - Robert Payne
+    translators:
       - Nella De Paoli
     year: 1960
     language: Italian
@@ -4749,6 +4873,8 @@ titles:
     authors:
       - Ludwik Karol Królikowski
       - Moses Hess
+    editors:
+      - Edmund Silberner
     year: 1960
     language: French
     sources:
@@ -4879,9 +5005,11 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA58752173
     verified: false
   - title: Le civiltà scomparse dell'Africa
+    original_title: African glory
     series: Universale economica Feltrinelli; 237
     authors:
       - J. C. De Graft-Johnson
+    translators:
       - Marco Guarnaschelli
     year: 1960
     language: Italian
@@ -5020,8 +5148,10 @@ titles:
         url: https://www.sudoc.fr/090546075
     verified: true
   - title: Lingua letteraria e pubblico nella tarda antichità latina e nel medioevo
+    original_title: Literatursprache und Publikum in der lateinischen Spätantike und im Mittelalter
     authors:
       - Erich Auerbach
+    translators:
       - Fausto Codino
     year: 1960
     language: Italian, German
@@ -5054,6 +5184,8 @@ titles:
     subtitle: La Federazione nazionale dei lavoratori della terra, 1901-1926
     authors:
       - Federazione nazionale dei lavoratori della terra
+    editors:
+      - Renato Zangheri
     year: 1960
     edition: '[1. ed.]'
     series: Testi e documenti di storia moderna e contemporanea
@@ -5079,6 +5211,8 @@ titles:
     verified: true
   - title: Lotte agrarie in Italia, la Federazione nazionale dei lavoratori della terra, 1901-1926. A cura di Renato Zangheri
     authors: []
+    editors:
+      - Renato Zangheri
     year: 1960
     language: Italian
     sources:
@@ -5101,6 +5235,8 @@ titles:
   - title: Memorie di un fuoruscito
     authors:
       - Gaetano Salvemini
+    editors:
+      - Gaetano Arfé
     year: 1960
     edition: '[1. ed.]'
     series: Universale economica
@@ -5135,6 +5271,8 @@ titles:
     subtitle: Inchiesta sugli immigrati
     authors:
       - Franco Alasia
+    editors:
+      - Danilo Montaldi
     year: 1960
     edition: 1. ed
     series: Documenti e discussioni -- 18
@@ -5208,6 +5346,9 @@ titles:
   - title: Opere
     authors:
       - Niccolò Machiavelli
+    editors:
+      - Sergio Bertelli
+      - Franco Gaeta
     year: 1960
     edition: 1. ed
     series: Biblioteca di classici italiani -- 3, 6, 8, 12, 19
@@ -5238,6 +5379,9 @@ titles:
   - title: Opere complete
     authors:
       - Niccolò Machiavelli
+    editors:
+      - Sergio Bertelli
+      - Franco Gaeta
     year: 1960
     series: Biblioteca di classici italiani, 3
     language: Italian
@@ -5269,6 +5413,7 @@ titles:
     verified: true
   - title: Pedro Páramo
     subtitle: Romanzo
+    original_title: Pedro Páramo
     series: Le comete; 9
     authors:
       - Juan Rulfo
@@ -5515,6 +5660,8 @@ titles:
     series: Universale economica; 224
     authors:
       - Francesco De Sanctis
+    editors:
+      - Luigi Russo
     year: 1960
     language: Italian
     sources:
@@ -5666,6 +5813,7 @@ titles:
     subtitle: 13 racconti
     authors:
       - Wolfdietrich Schnurre
+    translators:
       - Amina Pandolfi
     year: 1960
     language: German
@@ -5725,8 +5873,11 @@ titles:
     series: Saggi di economia e scienze sociali; 2
     authors:
       - W. Bieda
-      - Dario Tosi
       - Vicenzo Vitello
+    editors:
+      - Vincenzo Vitello
+    translators:
+      - Dario Tosi
     year: 1960
     language: Italian
     sources:
@@ -5742,6 +5893,8 @@ titles:
   - title: Vita scritta da lui medesimo
     authors:
       - Pietro Giannone
+    editors:
+      - Sergio Bertelli
     year: 1960
     edition: 1. ed
     series: His Opere -- 1
@@ -5766,6 +5919,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/006656089
     verified: true
   - title: “Gli” Assiri
+    original_title: Assur
     series: Il mondo della figura
     authors:
       - André Parrot
@@ -5848,6 +6002,8 @@ titles:
   - title: Arte della guerra e scritti politici minori
     authors:
       - Niccolò Machiavelli
+    editors:
+      - Sergio Bertelli
     year: 1961
     edition: 1a. ed
     series: Biblioteca di classici italiani -- 8
@@ -6064,6 +6220,7 @@ titles:
     series: Le comete; 17
     authors:
       - Uwe Johnson
+    translators:
       - Enrico Filippini
     year: 1961
     language: Italian
@@ -6074,6 +6231,7 @@ titles:
         url: https://d-nb.info/577812823
     verified: true
     subtitle: Romanzo
+    original_title: Mutmassungen über Jakob
   - title: Conoscenza per errore
     subtitle: Romanzo
     authors:
@@ -6218,6 +6376,7 @@ titles:
     subtitle: Gente di là
     authors:
       - Maria Dąbrowska
+    translators:
       - Carlo Verdiani
     year: 1961
     language: Italian
@@ -6326,6 +6485,8 @@ titles:
   - title: Gerusalemme liberata
     authors:
       - Torquato Tasso
+    editors:
+      - Anna Maria Carini
     year: 1961
     edition: 1. ed
     series: Biblioteca di classici italiani -- 5
@@ -6365,10 +6526,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=032401329
     verified: true
   - title: Gli Algerini in guerra
+    original_title: Les Algériens en guerre
     series: Universale economica; 330
     authors:
       - Philippe Vigneau
       - Dominique Darbois
+    translators:
       - G. D.
     year: 1961
     language: Italian
@@ -6426,6 +6589,8 @@ titles:
   - title: Heinrich Graetz' Briefe an Moses Hess, 1861-1872, herausgegeben von Edmund Silberner
     authors:
       - Hirsch Grätz
+    editors:
+      - Edmund Silberner
     year: 1961
     language: German
     sources:
@@ -6436,6 +6601,8 @@ titles:
     subtitle: Bibliografia e storia
     authors:
       - Istituto Giangiacomo Feltrinelli
+    editors:
+      - Gino Cerrito
     year: 1961
     edition: 1. ed
     series: Bibliografia della stampa periodica operaia e socialista italiana (1860-1926)
@@ -6555,12 +6722,14 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA57137235
     verified: false
   - title: Il capitale finanziario
+    original_title: Das Finanzkapital
     series: Il pensiero socialista; 3
     authors:
       - Rudolf Hilferding
+      - Giulio Pietranera
+    translators:
       - Saverio Vertone
       - Vittorio Sermonti
-      - Giulio Pietranera
     year: 1961
     language: Italian
     sources:
@@ -6773,6 +6942,10 @@ titles:
     subtitle: Un esempio inedito di versione elisabettiana
     authors:
       - James I. King of England
+    editors:
+      - Giuliano Pellegrini
+    translators:
+      - John Florio
     year: 1961
     edition: 1. ed
     series: Università degli Studi di Pisa. Studi di filologia moderna -- 9
@@ -7049,10 +7222,15 @@ titles:
     verified: true
   - title: La prospettiva come "forma simbolica"
     subtitle: E altri scritti
+    original_title: Die Perspektive als "symbolische Form"
     series: I fatti e le idee; 33
     authors:
       - Erwin Panofsky
       - Guido D. Neri
+    editors:
+      - Guido Davide Neri
+    translators:
+      - Enrico Filippini
     year: 1961
     language: Italian
     sources:
@@ -7186,6 +7364,8 @@ titles:
     series: (Testi e documenti di storia moderna e contemporanea; 4)
   - title: La Scapigliatura democratica, carteggi di Arcangelo Ghisleri, 1875-1890, a cura di Pier Carlo Masini
     authors: []
+    editors:
+      - Pier Carlo Masini
     year: 1961
     language: Italian
     sources:
@@ -7408,6 +7588,7 @@ titles:
         url: https://archive.org/details/letterecuradifra0000nicc
     date_note: '1961-01-01'
   - title: Linguaggio verità e logica
+    original_title: Language, truth, and logic
     series: Universale economica; 327
     authors:
       - Alfred Jules Ayer
@@ -7477,9 +7658,11 @@ titles:
         url: https://www.sudoc.fr/090233816
     verified: true
   - title: Marx ieri e oggi
+    original_title: Marx his time and ours
     series: I fatti e le idee; 34
     authors:
       - Rudolf Schlesinger
+    translators:
       - Elena Fasano Guarini
     year: 1961
     language: Italian
@@ -7488,9 +7671,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1748541943
     verified: true
   - title: Memorie per la storia religiosa dei nostri tempi
+    original_title: Mémoires pour servir à l'histoire religieuse de notre temps
     series: Storici e memorialisti moderni; 2
     authors:
       - Alfred Loisy
+    translators:
       - Paolo Vittorelli
     year: 1961
     language: Italian
@@ -7535,6 +7720,8 @@ titles:
   - title: Niccoló Machiavelli. Opere
     authors:
       - Machiavel
+    editors:
+      - Franco Gaeta
     year: 1961
     language: Italian
     sources:
@@ -7585,6 +7772,9 @@ titles:
   - title: Opere
     authors:
       - Luigi Settembrini
+    editors:
+      - Piero Pieri
+      - Carlo Pischedda
     year: 1961
     series: Biblioteca de classici italiani -- 7
     language: Italian
@@ -7883,6 +8073,8 @@ titles:
     subtitle: E Scritti autobiografici
     authors:
       - Luigi Settembrini
+    editors:
+      - Mario Themelly
     year: 1961
     edition: 1. ed
     series: Biblioteca di classici italiani (Milan, Italy) -- 7
@@ -7964,6 +8156,9 @@ titles:
   - title: Scritti di storia moderna e contemporanea
     authors:
       - Gaetano Salvemini
+    editors:
+      - Piero Pieri
+      - Carlo Pischedda
     year: 1961
     series: His Opere -- 2
     language: Italian
@@ -7979,6 +8174,8 @@ titles:
     series: Opere di Gaetano Salvemini; 6
     authors:
       - Gaetano Salvemini
+    editors:
+      - Roberto Vivarelli
     year: 1961
     language: Italian
     sources:
@@ -7995,6 +8192,8 @@ titles:
     authors:
       - Gaetano Salvemini
       - Piero Pieri
+    editors:
+      - Carlo Pischedda
     year: 1961
     series: Opere -- 2
     language: Italian
@@ -8061,8 +8260,10 @@ titles:
     verified: true
   - title: Storia d'Europa
     subtitle: Dalla Rivoluzione francese ai giorni nostri
+    original_title: Europe since Napoleon
     authors:
       - David Thomson
+    translators:
       - Ettore Capriolo
     year: 1961
     language: Italian
@@ -8258,10 +8459,12 @@ titles:
         url: https://catalog.hathitrust.org/Record/006707263
     verified: true
   - title: Vita e morte del dottor Goebbels
+    original_title: 'Doctor Goebbels: his life and death'
     series: Biografie; 10
     authors:
       - Roger Manvell
       - Heinrich Fraenkel
+    translators:
       - Elena Spagnol Vaccari
     year: 1961
     language: Italian
@@ -8356,6 +8559,7 @@ titles:
         url: https://d-nb.info/577710796
     verified: true
   - title: Andorra, commedia in dodici quadri
+    original_title: Andorra
     authors:
       - Max Frisch
     year: 1962
@@ -8375,6 +8579,7 @@ titles:
   - title: Arte e percezione visiva
     authors:
       - Rudolf Arnheim
+    translators:
       - Gillo Dorfles
     year: 1962
     language: German
@@ -8410,6 +8615,8 @@ titles:
   - title: Autobiografia, lettere e altri scritti
     authors:
       - Antonio Genovesi
+    editors:
+      - Gennaro Savarese
     year: 1962
     edition: '[1st ed'
     series: Biblioteca di classici italiani -- 13
@@ -8543,6 +8750,7 @@ titles:
         url: https://search.worldcat.org/title/13183052
     verified: true
   - title: Conversazioni con Stalin
+    original_title: Conversations with Stalin
     authors:
       - Milovan Đilas
     year: 1962
@@ -8658,6 +8866,10 @@ titles:
     subtitle: Quarant'anni di politica italiana
     authors:
       - Giovanni Giolitti
+    editors:
+      - Piero d' Angliolini
+      - Giampiero Carocci
+      - Claudio Pavone
     year: 1962
     edition: 1. ed.]
     series: Testi e documenti di storia moderna e contemporanea -- 6-8
@@ -8879,6 +9091,8 @@ titles:
     verified: true
   - title: Giornali veneziani del Settecento, a cura di Marino Berengo
     authors: []
+    editors:
+      - Marino Berengo
     year: 1962
     language: Italian
     sources:
@@ -8889,6 +9103,7 @@ titles:
     series: I Fatti e le idee; 37
     authors:
       - David T. Cattell
+    translators:
       - Maria Lucioni
     year: 1962
     language: Italian
@@ -9017,6 +9232,8 @@ titles:
     verified: true
   - title: I Giornali giacobini italiani, a cura di Renzo De Felice
     authors: []
+    editors:
+      - Renzo De Felice
     year: 1962
     language: Italian
     sources:
@@ -9247,6 +9464,8 @@ titles:
   - title: Il Mezzogiorno e la democrazia italiana
     authors:
       - Gaetano Salvemini
+    editors:
+      - Elio Apih
     year: 1962
     series: His Opere -- 4
     language: Italian
@@ -9291,9 +9510,11 @@ titles:
         url: https://openlibrary.org/books/OL19643826M
     verified: true
   - title: Il Partito comunista nell'URSS
+    original_title: The Communist party in USSR
     series: I fatti e le idee; 39
     authors:
       - Rudolf Schlesinger
+    translators:
       - Elena Spagnol Vaccari
     year: 1962
     language: Italian
@@ -9305,9 +9526,11 @@ titles:
     verified: true
   - title: Il tamburo di latta
     subtitle: Romanzo
+    original_title: Die Blechtrommel
     series: I narratori di Feltrinelli; 21
     authors:
       - Günter Grass
+    translators:
       - Lia Secci
     year: 1962
     language: Italian
@@ -9324,6 +9547,7 @@ titles:
   - title: Il teatro
     authors:
       - Max Frisch
+    translators:
       - Aloisio Rendi
     year: 1962
     language: German
@@ -9695,8 +9919,11 @@ titles:
     verified: true
   - title: La città del sole
     subtitle: E Scelta d'alcune poesie filosofiche; a cura di Adriano Seroni
+    original_title: Civitas solis
     authors:
       - Tommaso Campanella
+    editors:
+      - Adriano Seroni
     year: 1962
     edition: '[1. ed'
     series: Biblioteca di classici italiani, 10
@@ -9757,6 +9984,7 @@ titles:
     subtitle: Romanzo
     authors:
       - Kazimierz Brandys
+    translators:
       - Ludovico Tulli
     year: 1962
     language: Italian
@@ -9767,8 +9995,10 @@ titles:
         url: https://search.worldcat.org/title/836273276
     verified: true
   - title: La morte di Virgilio
+    original_title: Der Tod des Vergil
     authors:
       - Hermann Broch
+    translators:
       - Aurelio Ciacchi
     year: 1962
     language: German
@@ -9781,6 +10011,7 @@ titles:
   - title: La porta di bronzo
     authors:
       - Tadeusz Breza
+    translators:
       - Vera Verdiani
     year: 1962
     language: Italian
@@ -9795,6 +10026,7 @@ titles:
     series: Universale economica; 405
     authors:
       - Lawrence Durrell
+    translators:
       - Maria Luisa De Luigi
       - Rita Fanoli Baranzini
     year: 1962
@@ -9819,6 +10051,8 @@ titles:
     subtitle: Scritti e testimonianze
     authors:
       - Maurizio Milan
+    editors:
+      - Fausto Vighi
     year: 1962
     edition: 2. ed.]
     series: Universale economica -- no. 201. Serie Documenti, v. 1
@@ -9838,6 +10072,9 @@ titles:
     verified: true
   - title: La Resistenza al fascismo, scritti e testimonianze, a cura di M. Milan e F. Vighi. 2a edizione
     authors: []
+    editors:
+      - Maurizio Milan
+      - Fausto Vighi
     year: 1962
     language: French
     sources:
@@ -9847,6 +10084,8 @@ titles:
   - title: La Resistenza e gli alleati
     authors:
       - Pietro Secchia
+    editors:
+      - Filippo Frassati
     year: 1962
     edition: 1. ed.]
     series: Istituto Giangiacomo Feltrinelli. Testi e documenti di storia moderna e contemporanea -- 9
@@ -9947,6 +10186,8 @@ titles:
     subtitle: Atti del Congresso internazionale di studi storici sul Risorgimento italiano (Palermo 15-20 aprile 1961)
     authors:
       - Congresso internazionale di studi storici sul Risorgimento italiano (1961 Palermo, Italy)
+    editors:
+      - Rosa Guccione Scaglione
     year: 1962
     edition: 1. ed.]
     series: Istituto Giangiacomo Feltrinelli. Studi e ricerche storiche -- 16
@@ -9990,6 +10231,9 @@ titles:
     verified: true
   - title: La Sicilia e l'unità d'Italia, atti del Congresso internazionale di studi storici sul Risorgimento italiano. Palermo, 15-20 aprile 1961... A cura di Salvatore Massimo Ganci e Rosa Guccione Scaglione
     authors: []
+    editors:
+      - Rosa Scaglione Guccione
+      - Salvatore Massimo Ganci
     year: 1962
     language: Italian
     sources:
@@ -10048,6 +10292,7 @@ titles:
     authors:
       - Evgenij Aleksandrovič Evtušenko
       - Evgenii Aleksandrovich Evtushenko (Евгений Александрович Евтушенко)
+    translators:
       - Alfeo Bertin
     year: 1962
     language: Italian
@@ -10192,9 +10437,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991159430509705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Le diaboliche
+    original_title: Les diaboliques
     series: Biblioteca di letteratura. I contemporanei; 14
     authors:
       - Jules Barbey d'Aurevilly
+    translators:
       - Elena Giolitti
     year: 1962
     language: Italian
@@ -10305,6 +10552,8 @@ titles:
   - title: Lettere dall'ergastolo, a cura di Mario Themelly
     authors:
       - Luigi Settembrini
+    editors:
+      - Mario Themelly
     year: 1962
     edition: '[1. ed.]'
     language: Italian
@@ -10350,9 +10599,11 @@ titles:
     verified: true
   - title: Matrimoni a Philippsburg
     subtitle: Romanzo
+    original_title: Ehen in Philippsburg
     series: Il Quadrifoglio; 6
     authors:
       - Martin Walser
+    translators:
       - Elvira Anastasi Pitturru
     year: 1962
     language: Italian
@@ -10366,6 +10617,7 @@ titles:
     series: Storici e memorialisti moderni; 2
     authors:
       - Alfred Loisy
+    translators:
       - Paolo Vittorelli
     year: 1962
     language: Italian
@@ -10649,6 +10901,8 @@ titles:
   - title: Papers of the General Council of the International Workingmen's Association, New York, 1872-1876
     authors:
       - International Workingmen's Association. General Council
+    editors:
+      - Samuel Bernstein
     year: 1962
     language: English
     sources:
@@ -10752,6 +11006,8 @@ titles:
   - title: Poesie
     authors:
       - Giuseppe Giusti
+    editors:
+      - Nunzio Sabbatucci
     year: 1962
     language: Italian
     sources:
@@ -10891,6 +11147,7 @@ titles:
         url: https://www.sudoc.fr/097198277
     verified: true
   - title: Realisti tedeschi del XIX secolo
+    original_title: Deutsche Realisten des XIX Jahrhunderts
     series: Saggi
     authors:
       - György Lukács
@@ -10966,6 +11223,8 @@ titles:
   - title: Scritti di economia, 1835-1850
     authors:
       - Camillo Benso conte di Cavour
+    editors:
+      - Francesco Sirugo
     year: 1962
     edition: '[1. ed.]'
     series: Istituto Giangiacomo Feltrinelli. Testi e documenti di storia moderna e contemporanea
@@ -10992,6 +11251,8 @@ titles:
   - title: Scritti di economia... a cura di Francesco Sirugo
     authors:
       - Camillo Benso Cavour
+    editors:
+      - Francesco Sirugo
     year: 1962
     language: Italian
     sources:
@@ -11003,6 +11264,8 @@ titles:
   - title: Scritti di storia moderna e contemporanea
     authors:
       - Gaetano Salvemini
+    editors:
+      - Franco Venturi
     year: 1962
     language: Italian
     sources:
@@ -11043,9 +11306,11 @@ titles:
     verified: true
   - title: Spirale
     subtitle: Romanzo d'una notte insonne
+    original_title: Spirale
     series: Il Quadrifoglio; 4
     authors:
       - Hans Erich Nossack
+    translators:
       - Fleur Mombelli
     year: 1962
     language: Italian
@@ -11229,6 +11494,7 @@ titles:
     subtitle: A scientific theory of culture and other essays
     authors:
       - Bronisław Malinowski
+    translators:
       - Gianfranco Faina
     year: 1962
     language: Italian
@@ -11448,9 +11714,11 @@ titles:
     verified: true
   - title: Casa Howard
     subtitle: '"Solo connettere"'
+    original_title: Howards End
     series: Universale economica; 435-6
     authors:
       - Edward Morgan Forster
+    translators:
       - Luisa Chiarelli
     year: 1963
     language: Italian
@@ -11493,6 +11761,8 @@ titles:
     subtitle: E altri scritti dal 1900 al 1915
     authors:
       - Gaetano Salvemini
+    editors:
+      - Augusto Torre
     year: 1963
     edition: 1 ed.]
     series: Salvemini, Gaetano, 1873-1957. Opere -- v. 3, t. 1
@@ -11553,6 +11823,8 @@ titles:
     subtitle: Con introduzione di Alberto Caracciolo e a cura di Alberto Merola
     authors:
       - Ferdinando Galiani
+    editors:
+      - Alberto Merola
     year: 1963
     edition: '[1. ed.]'
     series: His Opere, 1
@@ -11777,6 +12049,8 @@ titles:
     verified: true
   - title: Giuseppe Are. I Cattolici e la questione sociale in Italia, 1894-1904
     authors: []
+    editors:
+      - Giuseppe Are
     year: 1963
     language: Italian
     sources:
@@ -12081,6 +12355,8 @@ titles:
   - title: Il Mezzogiorno e la democrazia italiana
     authors:
       - Gaetano Salvemini
+    editors:
+      - Gaetano Arfé
     year: 1963
     language: Italian
     sources:
@@ -12089,9 +12365,11 @@ titles:
     verified: true
   - title: Il nazionalsocialismo
     subtitle: Documenti 1933-1945
+    original_title: Der Nationalsozialismus
     series: Universale economica Feltrinelli; 463
     authors:
       - Walther Hofer
+    translators:
       - Sergio Bologna
     year: 1963
     language: Italian
@@ -12329,6 +12607,7 @@ titles:
         url: https://search.worldcat.org/title/6318229
     verified: true
   - title: La diplomazia sovietica e la guerra civile spagnola
+    original_title: Soviet diplomacy and the Spanish civil war
     series: I fatti e le idee; 43
     authors:
       - David T. Cattell
@@ -12480,8 +12759,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/007348566
     verified: true
   - title: La scultura Italiana
+    original_title: Italian gothic sculpture
     authors:
       - John Wyndham Pope-Hennessy
+    translators:
+      - Luisa Vertova
     year: 1963
     language: Italian
     sources:
@@ -12631,8 +12913,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/002052299
     verified: true
   - title: Le origini del socialismo italiano
+    original_title: 'The Italian socialist movement, I: Origins (1860 - 1882)'
     authors:
       - Richard Hostetter
+    translators:
+      - Fabrizio Onofri
     year: 1963
     language: Italian
     pages: 627
@@ -12731,6 +13016,8 @@ titles:
   - title: Movimento socialista e questione meridionale
     authors:
       - Gaetano Salvemini
+    editors:
+      - Gaetano Arfé
     year: 1963
     series: 'His Opere, 4: Il Mezzogiorno e la democrazia italiana -- v. 2'
     language: Italian
@@ -12848,6 +13135,8 @@ titles:
     subtitle: Album di versi giovanili, la giovane Parca, gli Incanti, poesie varie di ogni epoca
     authors:
       - Paul Valéry
+    translators:
+      - Beniamino Dal Fabbro
     year: 1963
     language: Italian
     sources:
@@ -12856,6 +13145,7 @@ titles:
     verified: true
   - title: Problemi di stile
     subtitle: Fundamenti di una storia dell'arte ornamentale
+    original_title: Stilfragen
     authors:
       - Alois Riegl
     year: 1963
@@ -12975,6 +13265,8 @@ titles:
   - title: Scritti di politica estera di Gaetano Salvemini
     authors:
       - Gaetano Salvemini
+    editors:
+      - Augusto Torre
     year: 1963
     language: Italian
     sources:
@@ -13014,9 +13306,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=657390453
     verified: true
   - title: Storia dello Stato maggiore sovietico
+    original_title: The Soviet High Command
     series: I fatti e le idee; 45
     authors:
       - John Erickson
+    translators:
       - Elena Spagnol Vaccari
     year: 1963
     language: Italian
@@ -13128,8 +13422,11 @@ titles:
     verified: true
   - title: '[La scultura italiana]'
     subtitle: Il Quattrocento
+    original_title: Italian Renaissance sculpture
     authors:
       - Sir John Wyndham Pope-Hennessy
+    translators:
+      - Luisa Vertova
     year: 1964
     language: Italian
     pages: 363
@@ -13196,9 +13493,11 @@ titles:
         url: https://openlibrary.org/books/OL22787550M
     verified: true
   - title: Archeologia
+    original_title: 'Bildende Kunst 1 (Archäologie). - Frankfurt am Main : Fischer Bücherei'
     series: Enciclopedia Feltrinelli Fischer; 7
     authors:
       - Walter- Herwig Schuchhardt
+    translators:
       - Maria Teresa Rubin de Cervin
     year: 1964
     language: Italian
@@ -13210,10 +13509,12 @@ titles:
     verified: true
   - title: Ars nova e Umanesimo
     subtitle: 1300-1540
+    original_title: Ars nova and the Renaissance (1300-1450)
     series: Storia della musica; volume 3
     authors:
       - Anselm Hughes
       - Gerald Abraham
+    translators:
       - Laura Lovisetti Fuà
     year: 1964
     language: Italian
@@ -13222,6 +13523,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991171889425005501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Arte Egea
+    original_title: Naissance de l'art grec
     series: Il Mondo della Figura
     authors:
       - Pierre Demargne
@@ -13235,8 +13537,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991022026419705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Aura
+    original_title: Aura
     authors:
       - Carlos Fuentes
+    translators:
+      - Carmine Di Michele
     year: 1964
     series: I narratori
     language: Italian
@@ -13320,6 +13625,8 @@ titles:
     subtitle: Con introduzione di Goffredo Bellonci
     authors:
       - Ippolito Nievo
+    editors:
+      - Elena Spagnol Vaccari
     year: 1964
     edition: 2. ed
     series: Biblioteca di classici italiani -- 4
@@ -13395,6 +13702,8 @@ titles:
   - title: Dalla guerra mondiale alla dittatura (1916-1925)
     authors:
       - Gaetano Salvemini
+    editors:
+      - Carlo Pischedda
     year: 1964
     edition: 1. ed
     series: 'His Opere, 3: Scritti di politica estera -- v.2'
@@ -13431,6 +13740,8 @@ titles:
     subtitle: Ed altri scritti di filosofia ed economia
     authors:
       - Pietro Verri
+    editors:
+      - Renzo De Felice
     year: 1964
     edition: 1. ed
     series: His Opere; 1
@@ -13452,6 +13763,7 @@ titles:
     series: I Narratori
     authors:
       - Martin Walser
+    translators:
       - Elvira Anastasi Pitturru
     year: 1964
     language: Italian
@@ -13462,6 +13774,7 @@ titles:
         url: https://d-nb.info/578219751
     verified: true
     subtitle: Romanzo
+    original_title: Halbzeit
   - title: Elogio del meccanico
     subtitle: Racconti
     series: I narratori di Feltrinelli; 55
@@ -13504,6 +13817,7 @@ titles:
   - title: Gatto e topo
     authors:
       - Günter Grass
+    translators:
       - Enrico Filippini
     year: 1964
     language: Italian
@@ -13516,6 +13830,7 @@ titles:
         url: https://d-nb.info/577731408
     verified: true
     subtitle: Novella
+    original_title: Katz und Maus
   - title: Gli hegeliani di Napoli
     subtitle: Augusto Vera e la corrente ortodossa
     series: I fatti e le idee; 125
@@ -13598,11 +13913,15 @@ titles:
         url: https://www.sudoc.fr/266739717
     verified: true
   - title: I fiori del male
+    original_title: Les Fleurs du mal /Les épaves
     series: Universale economica; 466
     authors:
       - Charles Baudelaire
-      - Luigi De Nardis
       - Erich Auerbach
+    editors:
+      - Luigi De Nardis
+    translators:
+      - Luigi De Nardis
     year: 1964
     language: Italian
     sources:
@@ -13667,9 +13986,11 @@ titles:
     verified: true
   - title: Il flagello della svastica
     subtitle: Breve storia dei delitti di guerra nazisti
+    original_title: The scourge of the swastika
     series: Universale economica Feltrinelli; 284
     authors:
       - Edward Frederick Langley Russell Russell of Liverpool
+    translators:
       - Luciano Bianciardi
     year: 1964
     language: Italian
@@ -13942,6 +14263,8 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    editors:
+      - Giuseppe Del Bo
     year: 1964
     language: Italian
     sources:
@@ -13964,6 +14287,8 @@ titles:
   - title: La corrispondenza di Marx e Engels con italiani, 1848-1895
     authors:
       - Karl Marx
+    editors:
+      - Giuseppe DelBo
     year: 1964
     series: Instituto Giangiacomo Feltrinelli. Testi e documenti di storia moderna e contempoanea -- 11
     language: Italian
@@ -14005,6 +14330,8 @@ titles:
   - title: La Difficile scelta, il Concilio e la Chiesa tra Giovanni XXIII e Paolo VI. "The Pilgrim". Traduzione dall'americano di Piero Bernardini
     authors:
       - Michael Serafian
+    translators:
+      - Piero Bernardini
     year: 1964
     language: Italian
     sources:
@@ -14079,8 +14406,10 @@ titles:
     verified: true
   - title: La scure di Wandsbek
     subtitle: Romanzo
+    original_title: Das Beil von Wandsbek
     authors:
       - Arnold Zweig
+    translators:
       - Franceso Saba Sardi
     year: 1964
     language: Italian
@@ -14187,6 +14516,8 @@ titles:
     subtitle: A cura di Sergio Bertelli
     authors:
       - Niccolò Machiavelli
+    editors:
+      - Sergio Bertelli
     year: 1964
     edition: '[1. ed.]'
     series: His Opere, 3-5
@@ -14367,6 +14698,8 @@ titles:
   - title: Oeuvres. Opere. [Traduzione, introduzione e note,] a cura di Ivos Margoni
     authors:
       - Arthur Rimbaud
+    editors:
+      - Ivos Margoni
     year: 1964
     language: Multiple languages
     sources:
@@ -14397,6 +14730,8 @@ titles:
   - title: Opere
     authors:
       - Pietro Verri
+    editors:
+      - Ivos Margoni
     year: 1964
     edition: '[1. ed'
     series: Biblioteca di classici italiani
@@ -14538,6 +14873,8 @@ titles:
   - title: Scritti di politica estera
     authors:
       - Gaetano Salvemini
+    editors:
+      - Carlo Pischedda
     year: 1964
     language: Italian
     sources:
@@ -14548,6 +14885,7 @@ titles:
     authors:
       - Jan Kott
       - Mario Praz
+    translators:
       - Vera Verdiani
     year: 1964
     language: Italian
@@ -14561,6 +14899,8 @@ titles:
     series: Enciclopedia Feltrinelli Fischer; 5
     authors:
       - René König
+    editors:
+      - Luciano Gallino
     year: 1964
     language: Italian
     sources:
@@ -14632,6 +14972,8 @@ titles:
   - title: Storia della letteratura italiana
     authors:
       - Francesco De Sanctis
+    editors:
+      - Maria Teresa Lanza Carpino
     year: 1964
     edition: 3. ed., interamente riv
     series: Biblioteca di classici italiani; 17
@@ -14656,6 +14998,8 @@ titles:
   - title: Storia della letteratura italiana nel secolo XIX
     authors:
       - Francesco De Sanctis
+    editors:
+      - Alberto Asor Rosa
     year: 1964
     edition: 2. ed
     language: Italian
@@ -14697,9 +15041,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1133328679
     verified: true
   - title: Vita del Petrarca
+    original_title: Life of Petrarch
     series: Critica e filologia; 2
     authors:
       - Ernest Hatch Wilkins
+    translators:
       - Remo Ceserani
     year: 1964
     language: Italian
@@ -14759,6 +15105,7 @@ titles:
     verified: true
   - title: A come Andromeda
     subtitle: Romanzo
+    original_title: A for Andromeda
     authors:
       - Fred Hoyle
       - John Elliot
@@ -14786,8 +15133,9 @@ titles:
     authors:
       - Giampaolo Dossena
       - Joseph Conrad
-      - Luciano Biancardi
       - Mario Spagnol
+    translators:
+      - Luciano Biancardi
     year: 1965
     language: Italian
     sources:
@@ -14812,6 +15160,8 @@ titles:
     authors:
       - Giulio Cesare Croce
       - Adriano Banchieri
+    editors:
+      - Giampaolo Dossena
     year: 1965
     edition: 1. ed
     series: Universale economica -- [516]
@@ -14868,6 +15218,8 @@ titles:
   - title: Dizionario della Divina commedia
     authors:
       - Giorgio Siebzehner-Vivanti
+    editors:
+      - Michele Messina
     year: 1965
     edition: 1. ed. nell' "Universale economica".
     series: Universale economica
@@ -15054,6 +15406,8 @@ titles:
     subtitle: Con introd. di Carlo Muscetta e
     authors:
       - Giuseppe Gioachino Belli
+    editors:
+      - Maria Teresa Lanza
     year: 1965
     edition: 1. ed
     series: Biblioteca di classici italiani -- 23
@@ -15104,6 +15458,9 @@ titles:
   - title: I Sonetti... Introduzione di Carlo Muscetta e a cura di Maria Teresa Lanza
     authors:
       - Giuseppe Gioachino Belli
+    editors:
+      - Maria Teresa Lanza
+      - Carlo Muscetta
     year: 1965
     language: Italian
     sources:
@@ -15146,6 +15503,7 @@ titles:
     verified: true
   - title: Il cane a sei zampe
     subtitle: Mattei e l'ENI, saggio sul potere
+    original_title: The six-legged dog. Mattei and ENI, a study in power
     series: I fatti e le idee. saggi e biografie; 134
     authors:
       - Dow Votaw
@@ -15176,9 +15534,13 @@ titles:
     verified: true
   - title: Il funzionamento dell' economia socialista
     subtitle: Problemi generali
+    original_title: Ogólne problemy funkcjonowania gospodarki socjalistycznej
     series: I fatti e le idee; 115
     authors:
       - Włodzimierz Brus
+    translators:
+      - Benedetto Bravo
+      - Nazario Nazzari
     year: 1965
     language: Italian
     sources:
@@ -15321,6 +15683,8 @@ titles:
   - title: Il Saggiatore. A cura [e traduzioni dal latino] di Libero Sosio
     authors:
       - Galileo Galilei
+    editors:
+      - Libero Sosio
     year: 1965
     language: Italian
     sources:
@@ -15350,6 +15714,8 @@ titles:
   - title: Il teatro e tutti gli scritti letterari
     authors:
       - Niccolò Machiavelli
+    editors:
+      - Franco Gaeta
     year: 1965
     edition: 1st ed
     series: His Opere, 8
@@ -15374,11 +15740,13 @@ titles:
     subtitle: A cura di Franco Gaeta
   - title: Il vicario
     subtitle: Dramma in 5 atti
+    original_title: Der Stellvertreter
     series: I narratori di Feltrinelli; 5
     authors:
       - Rolf Hochhuth
       - Carlo Bo
       - Erwin Piscator
+    translators:
       - Ippolito Pizzetti
     year: 1965
     language: Italian
@@ -15660,9 +16028,14 @@ titles:
         url: https://openlibrary.org/books/OL14587778M
     verified: true
   - title: Musica
+    original_title: Musik
     series: Enciclopedia Feltrinelli Fischer; 10
     authors:
       - Rudolf Stephan
+    editors:
+      - Luigi Pestalozza
+    translators:
+      - Sergio Bologna
     year: 1965
     language: Italian
     sources:
@@ -15721,9 +16094,11 @@ titles:
     verified: true
   - title: Pio XII e il terzo Reich
     subtitle: Documenti
+    original_title: Pie XII et le IIIe Reich
     series: I fatti e le idee; 135
     authors:
       - Saul Friedländer
+    translators:
       - Gabriella Bernasconi
     year: 1965
     language: Italian
@@ -15795,6 +16170,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb32950143s
     verified: true
   - title: Sentimento e forma
+    original_title: Feeling and form
     series: I fatti e le idee. Saggi e biografie; 132
     authors:
       - Susanne Katherina Knauth Langer
@@ -15817,9 +16193,11 @@ titles:
         url: https://search.worldcat.org/title/23124310
     verified: true
   - title: Storia dell'Europa moderna
+    original_title: Europe since Napoleon
     series: Universale Economica; 503-504-505
     authors:
       - David Thomson
+    translators:
       - Ettore Capriolo
     year: 1965
     language: Italian
@@ -15839,6 +16217,8 @@ titles:
     subtitle: Con introduzione di Luigi Russo e a cura di Maria Teresa Lanza
     authors:
       - Francesco De Sanctis
+    editors:
+      - Maria Teresa Lanza
     year: 1965
     series: Universale economica
     language: Italian
@@ -15876,6 +16256,7 @@ titles:
     series: Universale economica; 514
     authors:
       - Jacques Prévert
+    translators:
       - Ivos Margoni
     year: 1965
     language: Italian
@@ -15964,9 +16345,11 @@ titles:
     verified: true
     edition: '[1. ed.]'
   - title: America e Cina
+    original_title: 'America and China: a new approach to Asia'
     series: I fatti e le idee; 151
     authors:
       - Hsin-hai Chang
+    translators:
       - Vittorio Di Giuro
     year: 1966
     language: Italian
@@ -16023,9 +16406,12 @@ titles:
     verified: false
   - title: Anni di cani
     subtitle: Romanzo
+    original_title: Hundejahre
     series: Universale economica Feltrinelli; 786
     authors:
       - Günter Grass
+    translators:
+      - Enrico Filippini
     year: 1966
     language: Italian
     sources:
@@ -16146,6 +16532,7 @@ titles:
     verified: true
     subtitle: Scritti di G. Amendola [et al.]
   - title: Contributi alla storia dell'estetica
+    original_title: Beiträge zur Geschichte der Aesthetik
     series: SC/10; 5
     authors:
       - Georg Lukács
@@ -16287,6 +16674,7 @@ titles:
         url: https://d-nb.info/1032139609
     verified: true
   - title: Enciclopedia o dizionario ragionato delle scienze, delle arti e dei mestieri (1751-1772)
+    original_title: Encyclopédie ou Dictionnaire raisonné des Sciences, des Arts et des Métiers (1751-1772)
     authors:
       - Alain Pons
     year: 1966
@@ -16447,6 +16835,7 @@ titles:
         url: https://www.sudoc.fr/096568623
     verified: true
   - title: Il Cinquecento e il Barocco
+    original_title: Italian High Renaissance and Baroque sculpture
     series: La scultura italiana
     authors:
       - John Wyndham Pope-Hennessy
@@ -16510,6 +16899,8 @@ titles:
   - title: Il giorno
     authors:
       - Giuseppe Parini
+    editors:
+      - Raffaele Amaturo
     year: 1966
     edition: '[1. ed'
     series: Biblioteca di classici italiani
@@ -16597,6 +16988,8 @@ titles:
     subtitle: Palermo, 1965
     authors:
       - Gruppo 63
+    editors:
+      - Nanni Balestrini
     year: 1966
     edition: 1. ed
     series: Materiali, 7
@@ -16908,9 +17301,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1743666128
     verified: true
   - title: La grande catena dell'essere
+    original_title: The great chain of Being. A study of the history of an idea
     series: I fatti e le idee; 154
     authors:
       - Arthur Oncken Lovejoy
+    translators:
       - Lia Formigari
     year: 1966
     language: Italian
@@ -17017,6 +17412,8 @@ titles:
     authors:
       - Erwin Panofsky
       - Enrico Filippini
+    editors:
+      - Guido D. Neri
     year: 1966
     language: German
     sources:
@@ -17069,6 +17466,7 @@ titles:
     series: SC/10; v. 9
     authors:
       - Alexandre Koyré
+    translators:
       - Libero Sosio
     year: 1966
     language: Italian
@@ -17095,6 +17493,7 @@ titles:
     verified: true
   - title: La scultura italiana
     subtitle: Il Cinquecento e il Barocco
+    original_title: Italian Renaissance sculpture
     authors:
       - John Pope-Hennessy
     year: 1966
@@ -17536,6 +17935,8 @@ titles:
     subtitle: Inchiesta diretta dal prof. Paolo Sylos-Labini
     authors:
       - Milan (Italy). Istituto Giangiacomo Feltrinelli. Centro di studi e ricerche sulla struttura economica italiana
+    editors:
+      - Paolo Sylos Labini
     year: 1966
     edition: '[1. ed'
     language: Italian
@@ -17598,6 +17999,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=46627923X
     verified: true
   - title: Saggi di linguistica generale
+    original_title: Essais de linguistique générale
     series: I fatti e le idee; 153
     authors:
       - Roman Jakobson
@@ -17646,6 +18048,8 @@ titles:
   - title: Scritti di storia medievale
     authors:
       - Gaetano Salvemini
+    editors:
+      - Ernesto Sestan
     year: 1966
     language: Italian
     sources:
@@ -17655,6 +18059,8 @@ titles:
   - title: Scritti sul fascismo
     authors:
       - Gaetano Salvemini
+    editors:
+      - Roberto Vivarelli
     year: 1966
     series: His Opere -- 6
     language: Italian
@@ -17714,8 +18120,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/001734050
     verified: true
   - title: Sotto il cielo di luglio
+    original_title: Jjul' 41 goda
     authors:
       - Grigorij Ja Baklanov
+    translators:
       - Marija V. Olsuf'eva
     year: 1966
     language: Italian
@@ -17799,6 +18207,8 @@ titles:
   - title: Storia Feltrinelli
     subtitle: Collana
     authors: []
+    editors:
+      - Ugoberto Alfassio Grimaldi
     year: 1966
     language: Italian
     sources:
@@ -17943,6 +18353,7 @@ titles:
       - label: Borrow (Internet Archive)
         url: https://archive.org/details/uninvernofreddis0000faus
   - title: “I” colloqui
+    original_title: Colloquia familiaria
     series: Universale economica Feltrinelli; 534
     authors:
       - Desiderius Erasmus
@@ -18186,6 +18597,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA73477744
     verified: true
   - title: Aritmetica generale
+    original_title: Arithmétique générale
     series: Collana di aggiornamento e didassi; 12
     authors:
       - Alfred Doneddu
@@ -19197,6 +19609,7 @@ titles:
   - title: Economia politica del socialismo
     authors:
       - Bronisław Minc
+    translators:
       - Alina Addeo
       - Dario Tosi
     year: 1967
@@ -19339,6 +19752,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=174366513X
     verified: true
   - title: Figure e momenti di storia della critica
+    original_title: Critic and criticism
     series: I Fatti e le idee; 158. Saggi e biografie
     authors:
       - Ronald Salmon Crane
@@ -19741,9 +20155,11 @@ titles:
     verified: true
   - title: Il tunnel
     subtitle: Romanzo
+    original_title: El túnel
     series: I Narratori de Feltrinelli; 116
     authors:
       - Ernesto Sábato
+    translators:
       - Paolo Vita-Finzi
     year: 1967
     language: Italian
@@ -19782,6 +20198,8 @@ titles:
   - title: Istituzioni di algebra astratta
     authors:
       - Lucio Lombardo-Radice
+    editors:
+      - Vassili Corbas
     year: 1967
     edition: 4. ed
     series: Collana de algebra -- 3
@@ -19838,9 +20256,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=13847849X
     verified: true
   - title: Kurt Gerstein o l'ambiguità del bene
+    original_title: Kurt Gerstein ou l'ambiguité du bien
     series: Storia Feltrinelli
     authors:
       - Saul Friedländer
+    translators:
       - Maria Teresa Lanza
     year: 1967
     language: Italian
@@ -20123,6 +20543,8 @@ titles:
   - title: La filosofia della retorica
     authors:
       - Ivor Armstrong Richards
+    translators:
+      - Beniamino Placido
     year: 1967
     series: 'I Fatti e le idee: saggi e biografie -- 166'
     language: Italian
@@ -20425,10 +20847,13 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=644539860
     verified: true
   - title: La vita e le opere di Albrecht Dürer
+    original_title: The life and art of Albrecht Dürer
     series: I Fatti E le Idee; 161
     authors:
       - Erwin Panofsky
       - Albrecht Dürer
+    translators:
+      - Carlo Basso
     year: 1967
     language: Italian
     sources:
@@ -20450,8 +20875,12 @@ titles:
         url: https://d-nb.info/578119269
     verified: true
   - title: Le avanguardie letterarie in Europa
+    original_title: Les avants-gardes littéraires en Europe
     authors:
       - Benjamin Goriely
+    translators:
+      - Danilo Montaldi
+      - Maria Gregorio
     year: 1967
     series: I Fatti e le idee -- 169
     language: Italian
@@ -20589,6 +21018,7 @@ titles:
     verified: true
   - title: Le proces du "bloc des droitiers et des trotskistes" antisoviétique
     subtitle: Devant le Collége militaire de la Cour supréme de l' U.R.S.S
+    original_title: Sudebnyj otčet po delu antisovetskogo prava trockistskogo bloka
     series: Feltrinelli reprint
     authors:
       - Nikolaj Ivanovič Bucharin
@@ -21043,8 +21473,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=644395869
     verified: true
   - title: Nuove dimensioni della scultura
+    original_title: Neue Dimensionen der Plastik
     authors:
       - Udo Kultermann
+    translators:
       - Carlo Mainoldi
     year: 1967
     language: German
@@ -21163,6 +21595,9 @@ titles:
     subtitle: Mart 1919 g
     authors:
       - Communist International. Congress
+    editors:
+      - E. Korotkiĭ
+      - Béla Kun
     year: 1967
     series: Protokoly kongressov Kommunistischeskogo internatsionala
     language: Russian
@@ -21190,6 +21625,8 @@ titles:
   - title: Preludio alla seconda guerra mondiale
     authors:
       - Gaetano Salvemini
+    editors:
+      - Augusto Torre
     year: 1967
     edition: 1. ed
     series: 'His Opere; 3: Scritti di politica estera; v.3'
@@ -21729,6 +22166,8 @@ titles:
     series: Classici italiani. 223.224
     authors:
       - Francesco De Sanctis
+    editors:
+      - Maria Teresa Lanza Carpino
     year: 1967
     language: Italian
     sources:
@@ -21754,11 +22193,16 @@ titles:
         url: https://lccn.loc.gov/74420620
     verified: true
   - title: Storia universale Feltrinelli
+    original_title: Die Mittelmeerwelt im Altertum
     series: Storia Universale Feltrinelli; 7
     authors:
       - Marie-Henriette Alimen
       - Marie-Joseph Steve
       - Libero Sosio
+    editors:
+      - Pierre Grimal
+    translators:
+      - Maria Teresa Rubin de Cervin
     year: 1967
     language: German
     sources:
@@ -22121,6 +22565,7 @@ titles:
     series: Documenti della rivoluzione nell'America latina; 10
     authors:
       - Fabricio Ojeda
+    translators:
       - Maurizia Foladore
     year: 1967
     language: Italian
@@ -22304,6 +22749,8 @@ titles:
     subtitle: Dalla preistoria agli Stati attuali
     authors:
       - Pierre Bertaux
+    translators:
+      - Libero Sosio
     year: 1968
     series: Storia universale feltrinelli -- v. 32
     language: Italian
@@ -22427,6 +22874,7 @@ titles:
     authors:
       - Werner Hofmann
       - Carlo Volpe
+    translators:
       - Mina Bacci
     year: 1968
     language: Italian
@@ -22455,6 +22903,7 @@ titles:
     subtitle: Racconti
     authors:
       - Witold Gombrowicz
+    translators:
       - Riccardo Landau
     year: 1968
     language: Italian
@@ -22522,6 +22971,8 @@ titles:
     series: Opere di Gaetano Salvemini; 9
     authors:
       - Gaetano Salvemini
+    editors:
+      - Elvira Gencarelli
     year: 1968
     language: Italian
     sources:
@@ -22635,6 +23086,7 @@ titles:
     series: I fatti e le idee; 177. Saggi e biografie
     authors:
       - Herbert Marcuse
+    translators:
       - Cristiano Camporesi
     year: 1968
     language: Italian
@@ -22854,6 +23306,9 @@ titles:
     series: Storia universale Feltrinelli; 3
     authors:
       - Elena Cassin
+    editors:
+      - Jean Bottéro
+      - Jean Vercoutter
     year: 1968
     language: Italian
     sources:
@@ -22923,6 +23378,7 @@ titles:
     subtitle: Decadenza di una famiglia
     authors:
       - Thomas Mann
+    translators:
       - Anita Rho
     year: 1968
     language: German
@@ -22974,8 +23430,11 @@ titles:
         url: https://openlibrary.org/books/OL20492340M
     verified: true
   - title: Il marxismo e la linguistica
+    original_title: Marksizm i voprosy jazykoznanija
     authors:
       - Joseph Stalin
+    translators:
+      - Bruno Meriggi
     year: 1968
     edition: 1. ed
     series: Universale economica -- 562
@@ -23086,6 +23545,7 @@ titles:
     verified: true
   - title: Israele e gli Arabi
     subtitle: Il terzo scontro
+    original_title: Israël et les Arabes, le 3e combat
     authors: []
     year: 1968
     language: Italian
@@ -23322,6 +23782,7 @@ titles:
     verified: true
     edition: '[1. ed.]'
   - title: La colonizzazione ispano-portoghese
+    original_title: Die Indianerkulturen Altamerikas und die spanisch-portugiesische Kolonialherrschaft
     series: America centrale e meridionale; 1
     authors:
       - Richard Konetzke
@@ -23584,6 +24045,7 @@ titles:
         url: https://search.worldcat.org/title/56518027
     verified: false
   - title: Le avventure di Phoebe Zeit-Geist
+    original_title: The adventures of Phoebe Zeit-Geist
     authors:
       - Michael O'Donoghue
     year: 1968
@@ -23985,9 +24447,11 @@ titles:
     verified: true
   - title: Soldati
     subtitle: 'Necrologio per Ginevra: tragedia'
+    original_title: Soldaten
     series: I narratori di Feltrinelli; 141
     authors:
       - Rolf Hochhuth
+    translators:
       - Bruna Bianchi
       - Enrico Filippini
     year: 1968
@@ -24057,9 +24521,14 @@ titles:
         url: https://www.sudoc.fr/005594316
     verified: true
   - title: Storia universale Feltrinelli
+    original_title: 'Fischer Weltgeschichte 17 : Indien, Geschichte des Subkontinents von der Induskultur bis zum Beginn der englischen Herrschaft'
     authors:
       - Gustavo Beyhaut
       - Laura Ingrao
+    editors:
+      - Fergus Millar
+    translators:
+      - Maria Attardo Magrini
     year: 1968
     language: German
     sources:
@@ -24110,6 +24579,8 @@ titles:
     subtitle: I Plebei provano la rivolta. Acqua alta. A dieci minuti da Buffalo
     authors:
       - Günter Grass
+    translators:
+      - Enrico Filippini
     year: 1968
     series: I narratori di Feltrinelli collana di grandi autori moderni di tutto il mundo -- 123
     language: Italian
@@ -24304,6 +24775,9 @@ titles:
     subtitle: Dal pacifismo alla scienza dei conflitti
     authors:
       - Franco Fornari
+    translators:
+      - Mimma Noziglia
+      - Claudio Vecchia
     year: 1969
     edition: '[1. ed.]'
     series: I Fatti e le idee; saggi, biografie, 191
@@ -24542,6 +25016,9 @@ titles:
     subtitle: 1922-1928
     authors:
       - Jules Humbert-Droz
+    translators:
+      - Enzo Todeschini
+      - Ettore Desideri
     year: 1969
     series: I Fatti e le idee; saggi, biografie
     language: Italian
@@ -24771,6 +25248,7 @@ titles:
     series: Storia universale Feltrinelli; v. 14-15
     authors:
       - Claude Cahen
+    translators:
       - Lidia Crescini
     year: 1969
     language: Italian
@@ -24781,6 +25259,8 @@ titles:
   - title: L'Italia vista dall'America
     authors:
       - Gaetano Salvemini
+    editors:
+      - Enzo Tagliacozzo
     year: 1969
     series: His Opere, v. 7
     language: Italian
@@ -24886,6 +25366,8 @@ titles:
       - Sāmī Hadāwī
       - Fayez Abdullah Sayegh
       - Asʿad ʿAbd al-Raḥmân
+    editors:
+      - Carlo Pancera
     year: 1969
     language: Italian
     sources:
@@ -24980,6 +25462,8 @@ titles:
   - title: Le prigioni di Stato
     authors:
       - Aldo Braibanti
+    editors:
+      - Virginia Finzi Ghisi
     year: 1969
     language: Italian
     pages: 181
@@ -25074,9 +25558,11 @@ titles:
     verified: true
   - title: Lo scatenamento della seconda guerra mondiale
     subtitle: Uno studio sui rapporti internazionali nell'estate del 1939; con documenti
+    original_title: Entfesselung des zweiten Weltkrieges
     series: Universale economica; 589
     authors:
       - Walther Hofer
+    translators:
       - Piero Bernardini Marzolla
     year: 1969
     language: Italian
@@ -25349,6 +25835,8 @@ titles:
   - title: Scritti di storia moderna e contemporanea
     authors:
       - Gaetano Salvemini
+    editors:
+      - Elio Conti
     year: 1969
     language: Italian
     sources:
@@ -25378,9 +25866,16 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=22371383X
     verified: true
   - title: Storia universale Feltrinelli
+    original_title: Chinesische Kaiserreich
     authors:
       - Claude Cahen
       - Lidia Crescini
+    editors:
+      - Elena Cassin
+      - Jean Bottéro
+      - Jean Vercoutter
+    translators:
+      - Maria Teresa Rubin de Cervin
     year: 1969
     language: German
     sources:
@@ -25523,6 +26018,7 @@ titles:
     series: I narratori di Feltrinelli; 162
     authors:
       - Lawrence Durrell
+    translators:
       - Pier Francesco Paolini
     year: 1969
     language: Italian
@@ -25610,9 +26106,11 @@ titles:
     verified: true
   - title: Biografia
     subtitle: Un gioco scenico
+    original_title: Biografie
     series: I narratori di Feltrinelli
     authors:
       - Max Frisch
+    translators:
       - Maria Gregorio
     year: 1970
     language: Italian
@@ -25634,6 +26132,7 @@ titles:
         url: https://d-nb.info/577711016
     verified: true
   - title: Breve guida all'archeologia
+    original_title: Clefs pour l'archéologie
     series: Universale economica Feltrinelli; 601
     authors:
       - André Parrot
@@ -25756,6 +26255,8 @@ titles:
   - title: Dalla negritudine all'africanismo. A cura di Letizia Paolozzi. Traduzione dal francese di Letizia Paolozzi
     authors:
       - Festival panafricain d'Alger
+    editors:
+      - Letizia Paolozzi
     year: 1970
     language: Italian
     sources:
@@ -25791,6 +26292,7 @@ titles:
   - title: Diario
     authors:
       - Witold Gombrowicz
+    translators:
       - Riccardo Landau
     year: 1970
     language: Italian
@@ -25866,9 +26368,11 @@ titles:
     verified: true
   - title: Grande sertão
     subtitle: Romanzo
+    original_title: Grande Sertão
     series: I narratori di Feltrinelli; 180
     authors:
       - João Guimarães Rosa
+    translators:
       - Edoardo Bizzarri
     year: 1970
     language: Italian
@@ -26232,6 +26736,9 @@ titles:
     authors:
       - Guido Podrecca
       - Gabriele Galantara
+    editors:
+      - Giorgio Candeloro
+      - Edio Vallini
     year: 1970
     language: Italian
     pages: 429
@@ -26256,9 +26763,11 @@ titles:
         url: https://www.sudoc.fr/047776234
     verified: true
   - title: L'Età dell'imperialismo
+    original_title: Das Zeitalter des Imperialismus
     series: Storia universale Feltrinelli; vol. 28
     authors:
       - Wolfgang J. Mommsen
+    translators:
       - Heidi Ascheri
     year: 1970
     language: Italian
@@ -26267,9 +26776,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1780446551
     verified: true
   - title: L'incendio del Reichstag
+    original_title: Le Reichstag brûle!
     series: Storia Feltrinelli
     authors:
       - Edouard Calic
+    translators:
       - Maria Luisa De Luigi Rotondi
     year: 1970
     language: Italian
@@ -26309,11 +26820,13 @@ titles:
         url: https://search.worldcat.org/title/81945470
     verified: true
   - title: La Grecia classica (480 - 330 a. C.)
+    original_title: Grèce classique
     series: Il mondo della figura
     authors:
       - Jean Charbonneaux
       - Roland Martin
       - François Villard
+    translators:
       - Marcello Lenzini
     year: 1970
     language: Italian
@@ -26402,6 +26915,7 @@ titles:
         url: https://archive.org/details/bwb_S0-EBA-004
     verified: false
   - title: Lavoro intellettuale e lavoro manuale nell'antica Grecia
+    original_title: Science and politics in the Ancient world
     series: Universale economica; 605
     authors:
       - Benjamin Farrington
@@ -26456,6 +26970,7 @@ titles:
       - Hans Magnus Enzensberger
       - Karl Markus Michel
       - Peter Schneider
+    translators:
       - Lapo Berti
     year: 1970
     language: German
@@ -26526,9 +27041,11 @@ titles:
     verified: true
   - title: Metafore della visione
     subtitle: E Manuele per riprendere e ridare i film
+    original_title: Metaphors on vision
     series: Materiali; 27
     authors:
       - Stan Brakhage
+    translators:
       - Massimo Bacigalupo
     year: 1970
     language: Italian
@@ -26817,6 +27334,8 @@ titles:
   - title: Scritti di politica estera
     authors:
       - Gaetano Salvemini
+    editors:
+      - Augusto Torre
     year: 1970
     language: Italian
     sources:
@@ -26834,6 +27353,9 @@ titles:
     verified: true
   - title: Sociologia industriale e dell' organizzazione. A cura di Antonio Carbonaro e Angelo Pagani
     authors: []
+    editors:
+      - Angelo Pagani
+      - Antonio Carbonaro
     year: 1970
     language: Italian
     sources:
@@ -26934,6 +27456,8 @@ titles:
   - title: Teoria della forma d della figurazione
     authors:
       - Paul Klee
+    editors:
+      - Jürg Spiller
     year: 1970
     language: German
     sources:
@@ -26944,9 +27468,11 @@ titles:
     verified: true
   - title: Verso una società senza padre
     subtitle: Idee per una psicologia sociale
+    original_title: Auf dem Weg zur vaterlosen Gesellschaft. Ideen zur Sozialpsychologie
     series: I Nuovi testi; 13
     authors:
       - Alexander Mitscherlich
+    translators:
       - Sonia Bueno
     year: 1970
     language: German
@@ -26957,9 +27483,11 @@ titles:
         url: https://www.sudoc.fr/09420862X
     verified: true
   - title: Vita del Petrarca
+    original_title: Life of Petrarch
     series: SC/10; 32
     authors:
       - Ernest Hatch Wilkins
+    translators:
       - Remo Ceserani
     year: 1970
     language: Italian
@@ -27015,8 +27543,9 @@ titles:
   - title: Aristotele
     authors:
       - William David Ross
-      - Altiero Spinelli
       - Claudio Martelli
+    translators:
+      - Altiero Spinelli
     year: 1971
     language: Italian
     sources:
@@ -27167,6 +27696,7 @@ titles:
     verified: true
   - title: Dipendenza e sviluppo in America Latina
     subtitle: Saggio di interpretazione sociologica
+    original_title: Dependencia y desarrollo en America Latina
     series: I nuovi testi; 30
     authors:
       - Fernando Henrique Cardoso
@@ -27242,9 +27772,10 @@ titles:
   - title: Enciclopedia Feltrinelli Fischer
     authors:
       - Giorgio Candeloro
-      - Maria Attardo Magrini
       - Hans Rothfels
       - Waldemar Besson
+    translators:
+      - Maria Attardo Magrini
       - Emanuele Bernasconi
     year: 1971
     language: Italian
@@ -27337,6 +27868,8 @@ titles:
   - title: Gli scritti editi e inediti
     authors:
       - Umberto Boccioni
+    editors:
+      - Zeno Birolli
     year: 1971
     language: Italian
     sources:
@@ -27358,6 +27891,8 @@ titles:
   - title: Gli Scritti editi e inediti. A cura di Zeno Birolli
     authors:
       - Umberto Boccioni
+    editors:
+      - Zeno Birolli
     year: 1971
     language: Italian
     sources:
@@ -27376,9 +27911,11 @@ titles:
         url: https://search.worldcat.org/title/1076893
     verified: true
   - title: Himmler e il suo impero
+    original_title: Himmler et son empire
     series: Storia
     authors:
       - Edouard Calic
+    translators:
       - Emanuele Bernasconi
     year: 1971
     language: Italian
@@ -27856,6 +28393,8 @@ titles:
     subtitle: A cura di Ferdinando Giannessi
     authors:
       - Domenico Luigi Batacchi
+    editors:
+      - Ferdinando Giannessi
     year: 1971
     language: Italian
     pages: 321
@@ -27931,6 +28470,7 @@ titles:
     verified: true
   - title: Lo spazio nel pensiero economico
     subtitle: Dal XVI al XVIII secolo
+    original_title: L' espace dans la pensée économique du XVI au XVIII siècle
     series: I fatti e le idee Saggi e Biografie; 221
     authors:
       - Pierre Dockès
@@ -27953,9 +28493,13 @@ titles:
     verified: true
   - title: Marx e Engels
     subtitle: Dal liberalismo al comunismo
+    original_title: Karl Marx et Friedrich Engels
     series: Saggi
     authors:
       - Auguste Cornu
+    translators:
+      - Francesco Cagnetti
+      - Mazzino Montinari
     year: 1971
     language: Italian
     sources:
@@ -28078,6 +28622,7 @@ titles:
     series: I narratori di Feltrinelli; 195
     authors:
       - Lawrence Durrell
+    translators:
       - Pier Francesco Paolini
     year: 1971
     language: Italian
@@ -28179,6 +28724,7 @@ titles:
     subtitle: Romanzo
     authors:
       - Peter Handke
+    translators:
       - Bruna Bianchi
     year: 1971
     language: German
@@ -28437,6 +28983,7 @@ titles:
     subtitle: Romanzo
     authors:
       - Witold Gombrowicz
+    translators:
       - Riccardo Landau
     year: 1971
     language: Italian
@@ -28513,6 +29060,8 @@ titles:
   - title: Altri inediti e apparati critici
     authors:
       - Umberto Boccioni
+    editors:
+      - Zeno Birolli
     year: 1972
     language: Italian
     pages: 109
@@ -28530,6 +29079,7 @@ titles:
     verified: true
   - title: Anniversari
     subtitle: Dalla vita di Gesine Cresspahl, romanzo
+    original_title: Jahrestage
     series: I narratori; 199
     authors:
       - Uwe Johnson
@@ -28615,6 +29165,7 @@ titles:
     verified: true
   - title: Città e Rivoluzione
     subtitle: Architettura e urbanistica sovietiche degli anni Venti
+    original_title: Ville et Révolution
     series: I fatti e le Idee; 228
     authors:
       - Anatole Kopp
@@ -28627,6 +29178,7 @@ titles:
     verified: true
   - title: Come leggere paperino
     subtitle: Ideogolia e politica nel mondo di Disney
+    original_title: Para leer al Pato Donald
     series: I nuovi testi; 35
     authors:
       - Ariel Dorfman
@@ -28649,10 +29201,12 @@ titles:
     verified: true
   - title: Critica dell' impazienza rivoluzionaria
     subtitle: Discorso sull'anarchismo fratello gemello del riformismo
+    original_title: Zur Kritik der revolutionären Ungeduld
     series: I nuovi testi; 33
     authors:
       - Wolfgang Harich
       - Fritz J. Raddatz
+    translators:
       - Ursula Olmini Soergel
     year: 1972
     language: Italian
@@ -28701,6 +29255,7 @@ titles:
   - title: Diario
     authors:
       - Witold Gombrowicz
+    translators:
       - Riccardo Landau
     year: 1972
     language: Italian
@@ -28789,6 +29344,7 @@ titles:
     verified: true
   - title: I manipolatori della pazzia
     subtitle: Studio comparato dell'inquisizione e del movimento per la salute mentale in America
+    original_title: Manufacture of madness
     series: I fatti e le idee; 226
     authors:
       - Thomas Stephen Szasz
@@ -28852,6 +29408,7 @@ titles:
   - title: Il Bauhaus - Weimar, Dessau, Berlino 1919-1933
     authors:
       - Hans Maria Wingler
+    translators:
       - Libero Sosio
     year: 1972
     language: Italian
@@ -29044,6 +29601,7 @@ titles:
         url: https://www.sudoc.fr/016909720
     verified: true
   - title: L'Islamismo
+    original_title: Der Islam
     series: Storia universale Feltrinelli; 15
     authors:
       - Gustav Edmund Von Grunebaum
@@ -29117,6 +29675,8 @@ titles:
   - title: La dignità cavalleresca nel Comune di Firenze e altri scritti
     authors:
       - Gaetano Salvemini
+    editors:
+      - Ernesto Sestan
     year: 1972
     series: 'His Opere, 1: Scritti di storia medievale -- 2'
     language: Italian
@@ -29286,6 +29846,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb351881421
     verified: true
   - title: La scienza della meccanica nel Medioevo
+    original_title: The science of mechanics in the Middle Ages
     series: Storia della scienza
     authors:
       - Marshall Clagett
@@ -29338,6 +29899,8 @@ titles:
     subtitle: Lezioni di Harvard
     authors:
       - Gaetano Salvemini
+    editors:
+      - Roberto Vivarelli
     year: 1972
     language: Italian
     sources:
@@ -29375,6 +29938,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BB20981696
     verified: false
   - title: Leonardo e gli ingegneri del Rinascimento
+    original_title: Les ingénieurs de la Renaissance
     series: I fatti e le idee; 229
     authors:
       - Bertrand Gille
@@ -29637,6 +30201,8 @@ titles:
   - title: Scritti di storia medievale
     authors:
       - Gaetano Salvemini
+    editors:
+      - Ernesto Sestan
     year: 1972
     language: Italian
     sources:
@@ -29705,6 +30271,7 @@ titles:
         url: https://www.sudoc.fr/047818514
     verified: true
   - title: Sul futuro dell'arte
+    original_title: On the future of art
     series: Materiali; 34
     authors:
       - Arnold Toynbee
@@ -29714,8 +30281,9 @@ titles:
       - James Seawright
       - Jack Burnham
       - Herbert Marcuse
-      - Pier Francesco Paolini
       - Edward F. Fry
+    translators:
+      - Pier Francesco Paolini
     year: 1972
     language: Italian
     sources:
@@ -29840,6 +30408,7 @@ titles:
     series: Universale economica; 674
     authors:
       - Jorge Luis Borges
+    translators:
       - Francesco Tentori Montalto
     year: 1973
     language: Italian
@@ -29894,6 +30463,7 @@ titles:
     series: I narratori; 212
     authors:
       - Peter Handke
+    translators:
       - Bruna Bianchi
     year: 1973
     language: Italian
@@ -29904,6 +30474,7 @@ titles:
         url: https://d-nb.info/1031566538
     verified: true
     subtitle: Romanzo
+    original_title: Der kurze Brief zum langen Abschied
   - title: Capriccio italiano
     subtitle: Romanzo
     series: I narratori di Feltrinelli; 81
@@ -30089,6 +30660,7 @@ titles:
         url: https://www.sudoc.fr/083050868
     verified: true
   - title: 'Due forme di dominio borghese: liberalismo e fascismo'
+    original_title: Formen bürgerlicher Herrschaft
     series: Universale economica Feltrinelli; 667
     authors:
       - Reinhard Kühnl
@@ -30132,9 +30704,11 @@ titles:
     verified: true
   - title: Gatto e topo
     subtitle: Novella
+    original_title: Katz und Maus
     series: Universale economica; 680
     authors:
       - Günter Grass
+    translators:
       - Enrico Filippini
     year: 1973
     language: Not recorded
@@ -30334,9 +30908,11 @@ titles:
         url: https://archive.org/details/bwb_P8-BNX-289
   - title: Il mito della razza nella Germania nazista
     subtitle: Vita di Alfred Rosenberg
+    original_title: 'The myth of the master race: Alfred Rosenberg and Nazi ideology'
     series: Biblioteca di storia contemporanea. Testi e saggi; 2
     authors:
       - Robert Cecil
+    translators:
       - Andrea Diana
     year: 1973
     language: Italian
@@ -30609,9 +31185,12 @@ titles:
     edition: 1. Ed
   - title: La breve estate dell'anarchia
     subtitle: Vita e morte di Buenaventura Durruti
+    original_title: Der kurze Sommer der Anarchie
     series: I narratori di Feltrinelli; 216
     authors:
       - Hans Magnus Enzensberger
+    translators:
+      - Renato Pedio
     year: 1973
     language: Italian
     sources:
@@ -30624,9 +31203,11 @@ titles:
     verified: true
   - title: La civetta cieca
     subtitle: Romanzo
+    original_title: Būf-i kūr
     authors:
       - Ṣādiq Hidāyat
       - Louis Vallery-Radot-Pasteur
+    translators:
       - Marco Guarnaschelli
     year: 1973
     language: Italian
@@ -30698,9 +31279,11 @@ titles:
         url: https://search.worldcat.org/title/22244293
     verified: true
   - title: La morte di Federico García Lorca e la repressione nazionalista di Granada del 1936
+    original_title: La represión nacionalista de Granada en 1936 y la muerte de Federico García Lorca
     series: I fatti e le idee; 255
     authors:
       - Ian Gibson
+    translators:
       - Raffaele Petrillo
     year: 1973
     language: Italian
@@ -30713,6 +31296,8 @@ titles:
     series: SC/10; 11
     authors:
       - Erwin Panofsky
+    editors:
+      - Guido Davide Neri
     year: 1973
     language: Italian
     sources:
@@ -30759,8 +31344,9 @@ titles:
     subtitle: Resoconto etnografico sul corteggiamento sul matrimonio e sulla vita familiare fra gli indigeni delle Isole Trobriand, nella Nuova Guinea Britannica
     authors:
       - Bronisław Malinowski
-      - Edith Campi
       - Havelock Ellis
+    translators:
+      - Edith Campi
     year: 1973
     language: Italian
     sources:
@@ -30772,6 +31358,8 @@ titles:
   - title: Le condizioni della classe lavoratrice in Italia, 1922-1943
     authors:
       - Bruno Buozzi
+    editors:
+      - Annamaria Andreasi
     year: 1973
     language: Italian
     pages: 102
@@ -31288,9 +31876,11 @@ titles:
     verified: true
   - title: Storia della guerriglia
     subtitle: Tattica e strategia della guerra senza fronti
+    original_title: Guerrilla, Krieg ohne Fronten
     series: I nuovi testi; 42
     authors:
       - Werner Hahlweg
+    translators:
       - Maria Attardi Magrini
     year: 1973
     language: Italian
@@ -31303,6 +31893,7 @@ titles:
     authors:
       - L. Martov
       - Fëdor Ilʹič Dan
+    translators:
       - Augusto Comba
     year: 1973
     language: Italian
@@ -31320,11 +31911,13 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=018613039
     verified: true
   - title: Storia universale Feltrinelli
+    original_title: Russland
     authors:
       - Carsten Goehrke
       - Manfred Hellmann
       - Richard Lorenz
       - Peter Scheibert
+    translators:
       - Libero Sosio
     year: 1973
     language: Italian
@@ -31344,9 +31937,11 @@ titles:
         url: https://search.worldcat.org/title/703546307
     verified: true
   - title: Sul materialismo
+    original_title: Sul le matérialisme
     series: I fatti e le idee; 246
     authors:
       - Philippe Sollers
+    translators:
       - Pier Aldo Rovatti
     year: 1973
     language: Italian
@@ -31357,6 +31952,7 @@ titles:
   - title: Sullo sporco
     authors:
       - Christian Enzensberger
+    translators:
       - Renato Pedio
     year: 1973
     language: German
@@ -31387,8 +31983,13 @@ titles:
     verified: true
   - title: Tutti gli scritti
     subtitle: Punto e linea nel piano, articoli teorici, i corsi inediti al Bauhaus
+    original_title: Punkt und Linie zu Fläche
     authors:
       - Wassily Kandinsky
+    editors:
+      - Philippe Sers
+    translators:
+      - Libero Sosio
     year: 1973
     language: Italian
     sources:
@@ -31530,6 +32131,8 @@ titles:
   - title: Arte e fascismo in Italia e in Germania
     authors:
       - Enrico Crispolti
+    translators:
+      - Giorgio Backhaus
     year: 1974
     edition: 1. ed
     series: I Nuovi testi; 63
@@ -31556,6 +32159,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/001472817
     verified: true
     subtitle: 'E gli interventi di: S. Antonielli, R. de Grada, L. de Maria, M. de Micheli, C. Fontana, F. Masini, M. Morandini, M. Rosci, R. Tedeschi'
+    original_title: Thesen zur Aesthetik des Nationalsozialismus
   - title: Austerità, per che cosa?
     authors:
       - Ricciotti Antinolfi
@@ -31821,6 +32425,10 @@ titles:
     subtitle: Gli scritti letterari e tutte le lettere
     authors:
       - Osvaldo Licini
+    editors:
+      - Zeno Birolli
+      - Francesco Bartoli
+      - Gino Baratta
     year: 1974
     edition: 1. ed
     series: 'I Fatti e le idee; 277: Critica d''arte'
@@ -31987,10 +32595,12 @@ titles:
         url: https://www.sudoc.fr/010600280
     verified: true
   - title: Guerra e rivoluzione in Spagna, 1931-1937
+    original_title: Los problemas de la revolución española
     series: I fatti e le idee; 261
     authors:
       - Andrés Nin
       - Gabriele Ranzato
+    translators:
       - G. Ranzato
     year: 1974
     language: Italian
@@ -32229,9 +32839,11 @@ titles:
     verified: true
   - title: Il tamburo di latta
     subtitle: Romanzo
+    original_title: Die Blechtrommel
     series: Universale economica Feltrinelli; 705
     authors:
       - Günter Grass
+    translators:
       - Lia Secci
     year: 1974
     language: Italian
@@ -32456,6 +33068,7 @@ titles:
         url: https://lccn.loc.gov/75550561
     verified: true
   - title: L'Emancipazione della donna e la morale sessuale nella storia socialista
+    original_title: Die Emanzipation der Frau in der sozialistischen Theorie und Praxis
     authors:
       - Mechthild Merfeld
       - Carla Ravaioli
@@ -32467,6 +33080,7 @@ titles:
     verified: true
   - title: L'Internazionale comunista tra Lenin e Stalin
     subtitle: Memorie di un protagonista 1891-1941
+    original_title: Mémoires
     series: I fatti e le idee. Saggi e biografie; 271
     authors:
       - Jules Humbert-Droz
@@ -32477,8 +33091,13 @@ titles:
         url: https://www.sudoc.fr/010858407
     verified: true
   - title: L'Italia qual' è; Politica e magistratura dal 1860 ad oggi in Italia; Fascismo e democrazia / Francesco Saverio Merlino; a cura di Nicola Tranfaglia traduzione dal francese di Mariolina Bertini Bongiovanni
+    original_title: L'Italie telle qu'elle est
     authors:
       - Francesco Saverio Merlino
+    editors:
+      - Nicola Tranfaglia
+    translators:
+      - Mariolina Bertini Bongiovanni
     year: 1974
     language: Italian
     sources:
@@ -32486,10 +33105,12 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb356507707
     verified: true
   - title: L'Italia qualè; Politica e magistratura dal 1860 ad oggi in Italia; Fascismo e democrazia
+    original_title: L'Italie telle qu'elle est
     series: SC/10; 51
     authors:
       - Francesco Saverio Merlino
       - Nicola Tranfaglia
+    translators:
       - Mariolina Bertini Bongiovanni
     year: 1974
     language: Italian
@@ -32541,13 +33162,15 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991119179899705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: La conoscenza del bambino e la psicoanalisi
+    original_title: <<La>> connaissance de l'enfant par la psychanalyse
     series: Biblioteca di psichiatria e di psicologia clinica; 27
     authors:
       - Serge Lebovici
       - Simone Decobert
       - Janine Noël
-      - Laura Schwarz
       - Michel Soulé
+    translators:
+      - Laura Schwarz
     year: 1974
     language: Italian
     sources:
@@ -32655,10 +33278,12 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991031523969708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La teoria dei bisogni in Marx
+    original_title: Bedeutung und Funktion des Begriffs Bedürfnis im Denken von Karl Marx
     series: I fatti e le idee; 269
     authors:
       - Ágnes Heller
       - Pier Aldo Rovatti
+    translators:
       - Anna Maria Morazzoni
     year: 1974
     language: Italian
@@ -32773,9 +33398,11 @@ titles:
         url: https://www.sudoc.fr/054557011
     verified: true
   - title: Lingua letteraria e pubblico nella tarda antichità latina e nel medioevo
+    original_title: Literatursprache und Publikum in der lateinischen Spätantike und im Mittelalter
     series: I fatti e le idee Saggi e biografie;; 273
     authors:
       - Erich Auerbach
+    translators:
       - Fausto Codino
     year: 1974
     language: Italian, German
@@ -32873,6 +33500,8 @@ titles:
     verified: true
   - title: Medicina e potere
     authors: []
+    editors:
+      - Giulio A. Maccacaro
     year: 1974
     language: Not recorded
     sources:
@@ -33024,6 +33653,8 @@ titles:
     subtitle: 'Pensieri scritti, parlati e attuati: Giorgio Strehler; a cura di Sinah Kessler'
     authors:
       - Giorgio Strehler
+    editors:
+      - Sinah Kessler
     year: 1974
     edition: 1. ed
     series: 'I Fatti e le idee; 280: Teatro'
@@ -33048,7 +33679,8 @@ titles:
   - title: Poesia operaia tedesca del '900
     subtitle: Versione e testo a fronte
     series: Universale economica; 683
-    authors:
+    authors: []
+    translators:
       - Maria Teresa Mandalari
     year: 1974
     language: Italian
@@ -33088,6 +33720,8 @@ titles:
   - title: Psicologi e societa
     authors:
       - Convegno nazionale "Psicologia, ruolo dello psicologo e istituzioni" (1973 Padua, Italy)
+    editors:
+      - Franco Ceccarello
     year: 1974
     edition: 1a ed
     series: Nuovi testi -- 53
@@ -33168,6 +33802,8 @@ titles:
     subtitle: Notiziari giornalieri della Guardia nazionale repubblicana, novembre 1943-giugno 1944. Documenti dell'archivio Luigi Micheletti
     authors:
       - Introduzione di Natale Verdina
+    editors:
+      - Luigi Bonomini
     year: 1974
     series: I Fatti e le idee, 268
     language: Italian
@@ -33211,6 +33847,8 @@ titles:
     series: Opere di Gaetano Salvemini; 6
     authors:
       - Gaetano Salvemini
+    editors:
+      - Roberto Vivarelli
     year: 1974
     language: Italian
     sources:
@@ -33256,6 +33894,8 @@ titles:
   - title: Storia del marxismo contemporaneo
     series: Annali / Fondazione Giangiacomo Feltrinelli; 15
     authors: []
+    editors:
+      - Aldo Zanardo
     year: 1974
     language: Italian
     sources:
@@ -33448,6 +34088,8 @@ titles:
     series: I narratori di Feltrinelli; 221
     authors:
       - Ignácio de Loyola Brandão
+    translators:
+      - Antonio Tabucchi
     year: 1974
     language: Italian
     sources:
@@ -33517,6 +34159,8 @@ titles:
     verified: true
   - title: Al vertice
     authors: []
+    editors:
+      - Carlo Rossella
     year: 1975
     language: Italian
     sources:
@@ -33700,9 +34344,11 @@ titles:
     verified: true
   - title: Arte e sinistra in Europa
     subtitle: Dalla Rivoluzione francese al 1968
+    original_title: Social radicalism and the arts
     series: I fatti e le idee; 316
     authors:
       - Donald Drew Egbert
+    translators:
       - Maurizio Vitta
     year: 1975
     language: Italian
@@ -33745,11 +34391,13 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991098457819705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Autobiografia
+    original_title: Ziel und Wert maines Lebens
     series: Universale economica; 717
     authors:
       - Alexandra Mikhaïlovna Kollontaï
       - Iring Fetscher
       - Virginia Visani
+    translators:
       - Carlo Sallustro
     year: 1975
     language: Italian
@@ -34122,8 +34770,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/000695009
     verified: true
   - title: Guida alla semantica
+    original_title: Clefs pour la sémantique
     authors:
       - Georges Mounin
+    translators:
+      - Michelangelo Spada
     year: 1975
     series: Universale economica -- 713
     language: Italian
@@ -34149,6 +34800,8 @@ titles:
     subtitle: I relitti. Supplemento ai Fiori del male
     authors:
       - Charles Baudelaire
+    translators:
+      - Luigi de Nardis
     year: 1975
     series: Universale economica
     language: Italian
@@ -34184,6 +34837,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000689834
     verified: true
   - title: I limiti della città
+    original_title: The limits of the city
     series: I nuovi testi; 94
     authors:
       - Murray Bookchin
@@ -34359,9 +35013,12 @@ titles:
         url: https://lccn.loc.gov/78338458
     verified: true
   - title: 'Il nuovo fascismo: da Salò ad Almirante'
+    original_title: Das movimento sociale italiano MSI Struktur, Programmatik und Ideologie des Neofaschismus in Italien von 1946 bis 1972
     series: Attualità
     authors:
       - Petra Rosenbaum
+    translators:
+      - Maria Attardi Magrini
     year: 1975
     language: Italian
     sources:
@@ -34632,9 +35289,11 @@ titles:
     verified: true
   - title: L'autunno del patriarca
     subtitle: Romanzo
+    original_title: El otoño del patriarca
     series: I Narratori di Feltrinelli; 236
     authors:
       - Gabriel García Márquez
+    translators:
       - Enrico Cicogna
     year: 1975
     language: Italian
@@ -34738,6 +35397,8 @@ titles:
     subtitle: La ristrutturazione davanti all'autonomia operaia
     authors:
       - Lotta continua (Association). Commissione operaia torinese
+    editors:
+      - Enrico Deaglio
     year: 1975
     edition: 1. ed
     series: I Nuovi testi
@@ -34798,8 +35459,9 @@ titles:
     authors:
       - Michael Kaser
       - Carlo Boffito
-      - Enrico Facchini
       - Janusz G. Zieliński
+    translators:
+      - Enrico Facchini
     year: 1975
     language: Italian
     sources:
@@ -34876,6 +35538,7 @@ titles:
     verified: true
   - title: Lavoro produttivo e improduttivo
     subtitle: Come concetti di lotta, come categorie per l'analisi dei rapporti di classe e delle condizioni di riproduzione del capitale
+    original_title: Produktive und unproduktive Arbeit als Kampfbegriffe, als Kategorien zur Analyse der Klassenverhältnisse und der Reproduktionsbedingungen des Kapitals
     series: Opuscoli marxisti; 8
     authors:
       - Elmar Altvater
@@ -35247,6 +35910,9 @@ titles:
     subtitle: Lotte operaie e riforma dello stato capitalistico tra rivoluzione d'Ottobre e New Deal
     authors:
       - S. Bologna
+    editors:
+      - Sergio Bologna
+      - Antonio Negri
     year: 1975
     edition: 3a ed
     series: I fatti e le idee Saggi e biografie -- 225
@@ -35305,6 +35971,8 @@ titles:
     subtitle: Dal partito del mutamento al progetto socialista
     authors:
       - Colloquio Per L'Alternativa. [1è. 1975. Milan.]
+    editors:
+      - Massimo Teodori
     year: 1975
     language: Italian
     sources:
@@ -35337,6 +36005,8 @@ titles:
   - title: Poesie
     authors:
       - François Villon
+    editors:
+      - Luigi De Nardis
     year: 1975
     language: Italian
     sources:
@@ -35348,6 +36018,9 @@ titles:
     authors:
       - Gino Varlecchi
       - Emirene Varlecchi
+    editors:
+      - Sebastiano Timpanaro
+      - Maria Augusta Morelli Timpanaro
     year: 1975
     language: Italian
     sources:
@@ -35461,6 +36134,8 @@ titles:
   - title: Scritti scelti
     authors:
       - Amadeo Bordiga
+    editors:
+      - Franco Livorsi
     year: 1975
     edition: 1. ed
     series: Il Pensiero socialista
@@ -35758,10 +36433,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=19252075X
     verified: true
   - title: Tutti gli scritti
+    original_title: Writings of Piet Mondrian
     authors:
       - Piet Mondrian
       - Harry Holtzman
       - Filiberto Menna
+    translators:
       - Libero Sosio
     year: 1975
     language: Italian
@@ -35791,9 +36468,10 @@ titles:
   - title: (Auto)critica della scienza
     series: I nuovi testi. Scienza e politica; 98
     authors:
-      - Tukeri Capra
       - Alain Jaubert
       - Jean-Marc Lévy-Leblond
+    translators:
+      - Tukeri Capra
     year: 1976
     language: Italian
     sources:
@@ -35900,6 +36578,8 @@ titles:
   - title: Alternativa ed elementi di socialismo nelle comunità locali
     authors:
       - Emilio Renzi
+    editors:
+      - Ernesto Bettinelli
     year: 1976
     edition: 1. ed
     series: Cose italiane
@@ -35919,6 +36599,7 @@ titles:
     verified: true
   - title: Anatomia di una repubblica
     subtitle: Potere e istituzioni in Italia
+    original_title: 'Italy : republic without government'
     authors:
       - P. A. Allum
     year: 1976
@@ -35963,9 +36644,10 @@ titles:
     series: I nuovi testi; 24
     authors:
       - Siegfried Bernfeld
-      - Maria Attardo Magrini
       - Lutz <<von>> Werder
       - Reinhart Wolff
+    translators:
+      - Maria Attardo Magrini
     year: 1976
     language: Italian
     sources:
@@ -36118,9 +36800,11 @@ titles:
     verified: true
   - title: Caos Phaos
     subtitle: Saggi sul Cinema
+    original_title: Chaos Phaos
     series: Materiali; 44
     authors:
       - Gregory J. Markopoulos
+    translators:
       - Nuccio Lodato
     year: 1976
     language: Italian
@@ -36207,10 +36891,12 @@ titles:
         url: https://search.worldcat.org/title/9224776
     verified: true
   - title: Cuore di tenebra
+    original_title: Heart of darkness
     authors:
       - Joseph Conrad
-      - Stanis La Bruna
       - Anna Del Bo Boffino
+    translators:
+      - Stanis La Bruna
     year: 1976
     language: Italian
     sources:
@@ -36731,6 +37417,7 @@ titles:
         url: https://lccn.loc.gov/77451763
     verified: true
   - title: Il colloquio psichiatrico
+    original_title: The psychiatric interview
     series: Biblioteca di psichiatria e di psicologia clinica; 18
     authors:
       - Harry Stack Sullivan
@@ -37121,6 +37808,7 @@ titles:
     authors:
       - Laura Forti
       - Morton Schatzman
+    translators:
       - Andrea Sabbadini
     year: 1976
     language: Italian
@@ -37132,9 +37820,11 @@ titles:
     verified: true
   - title: L'altro movimento operaio
     subtitle: Storia della repressione capitalistica in Germania dal 1880 a oggi
+    original_title: Die andere Arbeiterbewegung und die Entwicklung der kapitalistischen Repression von 1880 bis zur Gegenwart
     series: I fatti e le idee; 339
     authors:
       - Karl Heinz Roth
+    translators:
       - Lapo Berti
     year: 1976
     language: Italian
@@ -37146,9 +37836,11 @@ titles:
     verified: true
   - title: L'anarchia
     subtitle: Storia delle idee e dei movimenti libertari
+    original_title: Anarchism
     series: Universale economica Feltrinelli; 527
     authors:
       - George Woodcock
+    translators:
       - Elena Spagnol Vaccari
     year: 1976
     language: Italian
@@ -37308,6 +38000,7 @@ titles:
       - Gisela Bock
       - Paolo Carpignano
       - Bruno Ramírez
+    translators:
       - Bruno Cartosio
       - Bruno Grappo
       - Lorenza Pampaloni
@@ -37571,6 +38264,7 @@ titles:
     series: Biblioteca di economia; 340
     authors:
       - Samuel Hollander
+    translators:
       - Lorenzo Calabi
     year: 1976
     language: Italian
@@ -37623,6 +38317,8 @@ titles:
     series: Universale economica; 462
     authors:
       - Carlo Porta
+    editors:
+      - Carla Guarisco
     year: 1976
     language: Italian
     sources:
@@ -37742,8 +38438,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=425526372
     verified: true
   - title: Linguistica romanza
+    original_title: Formenlehre
     authors:
       - Heinrich Lausberg
+    translators:
+      - Nicolò Pasero
     year: 1976
     edition: 2d ed
     series: Critica e filologia -- v. 6
@@ -37970,6 +38669,8 @@ titles:
   - title: Novelli
     authors:
       - Gastone Novelli
+    editors:
+      - Zeno Birolli
     year: 1976
     edition: 1. ed
     language: Italian
@@ -37987,8 +38688,11 @@ titles:
         url: https://search.worldcat.org/title/3185907
     verified: true
   - title: Odile
+    original_title: Odile
     authors:
       - Raymond Queneau
+    translators:
+      - Grazia Cherchi
     year: 1976
     language: Italian
     sources:
@@ -38046,6 +38750,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1109184972
     verified: true
   - title: 'Professione: rivoluzionaria'
+    original_title: Revolutionär im Beruf
     series: I Fatti e le idee. Saggi e biografie; 333
     authors:
       - Asja Lacis
@@ -38229,6 +38934,11 @@ titles:
   - title: Scritti 1915-1975
     authors:
       - Ferruccio Parri
+    editors:
+      - Enzo Collotti
+      - Giorgio Rochat
+      - Gabriella Solaro
+      - Paolo Speziale
     year: 1976
     edition: 1. ed
     series: 'I Fatti e le idee; 328: Storia'
@@ -38278,6 +38988,8 @@ titles:
     subtitle: Documenti
     authors:
       - Congresso internazionale di psicanalisi Milan 1975
+    editors:
+      - Armando Verdiglione
     year: 1976
     edition: 1. ed
     series: 'I Fatti e le idee; 326: Psicologia e psicoanalisi'
@@ -38299,6 +39011,7 @@ titles:
     authors:
       - Jan Kott
       - Mario Praz
+    translators:
       - Vera Verdiani
     year: 1976
     language: Italian
@@ -38372,8 +39085,11 @@ titles:
         url: https://www.sudoc.fr/001805495
     verified: true
   - title: Socialismo e filosofia
+    original_title: Philosophy and politics in socialism
     authors:
       - Gajo Petrović
+    editors:
+      - Gabriella Fusi
     year: 1976
     edition: 1. ed. italiana
     series: Opuscoli marxisti; 14
@@ -38713,6 +39429,7 @@ titles:
     verified: true
   - title: Cancrena
     subtitle: 'Venere nera: romanzo'
+    original_title: Gangreen een black venus
     authors:
       - Jef Geeraerts
     year: 1977
@@ -38807,9 +39524,11 @@ titles:
     verified: true
   - title: Dal naturalismo all'espressionismo
     subtitle: Letteratura e società in Austria e in Germania 1880-1918
+    original_title: From naturalism to expressionism German literature and society 1880-1918
     series: Critica letteraria; 383
     authors:
       - Roy Pascal
+    translators:
       - Libero Sosio
     year: 1977
     language: Italian
@@ -38876,9 +39595,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1144393639
     verified: true
   - title: Donne in rivolta nella Russia zarista
+    original_title: Fathers and daughter
     series: Storia Feltrinelli
     authors:
       - Cathy Porter
+    translators:
       - Valentina Berardinone
     year: 1977
     language: Italian
@@ -38914,6 +39635,7 @@ titles:
     verified: true
   - title: Estati felici
     subtitle: Un'infanzia in Sicilia
+    original_title: A Sicilian childhood. The happy summer days
     authors:
       - Fulco
     year: 1977
@@ -38931,10 +39653,12 @@ titles:
         url: https://www.sudoc.fr/108258181
     verified: true
   - title: Fino all'estremo
+    original_title: The end of the tether
     authors:
       - Joseph Conrad
-      - Giovanni Marcellini
       - Tommaso Giglio
+    translators:
+      - Giovanni Marcellini
     year: 1977
     language: Italian
     sources:
@@ -39048,6 +39772,8 @@ titles:
   - title: I Fiori del male
     authors:
       - Charles Baudelaire
+    editors:
+      - Luigi De Nardis
     year: 1977
     language: Italian, French
     sources:
@@ -39056,6 +39782,7 @@ titles:
     verified: true
   - title: Il 1848 a Milano e a Venezia
     subtitle: Con uno scritto sulla condizione delle donne
+    original_title: L' Italie et la révolution italienne de 1848
     series: Universale economica; 745
     authors:
       - Cristina Trivulzio Belgiojoso
@@ -39110,6 +39837,7 @@ titles:
     verified: true
   - title: Il comico del discorso
     subtitle: Un contributo alla teoria generale del comico e del riso
+    original_title: Le comique du discours
     authors:
       - Lucie Olbrechts-Tyteca
     year: 1977
@@ -39142,9 +39870,11 @@ titles:
     verified: true
   - title: Il dibattito sulla questione agraria nella socialdemocrazia tedesca e internazionale
     subtitle: Dal marxismo al revisionismo e al bolscevismo
+    original_title: Die Agrarfrage in der Theorie und Praxis der deutschen und internationalen Sozialdemokratie
     series: Biblioteca di storia contemporanea
     authors:
       - Hans Georg Lehmann
+    translators:
       - Bruno Groppo
     year: 1977
     language: Italian
@@ -39209,6 +39939,7 @@ titles:
         url: https://lccn.loc.gov/77565790
     verified: true
   - title: Il partito comunista sovietico 1917/1976
+    original_title: Communist party membership in the U.S.S.R., 1917-1967
     series: I Fatti e le idee. Saggi e biografie. Biblioteca di storia contemporanea; 371
     authors:
       - Thomas Henry Rigby
@@ -39326,6 +40057,8 @@ titles:
     subtitle: Teoria e tecnica del teatro latinoamericano
     authors:
       - Augusto Boal
+    editors:
+      - Giorgio Ursini Ursič
     year: 1977
     series: Materiali -- 45
     language: Italian
@@ -39444,8 +40177,11 @@ titles:
     verified: true
   - title: L' alleato nemico
     subtitle: La politica dell' occupazione anglo-americana in Italia 1943/1946
+    original_title: Allied occupation policy in Italy, 1943-1946
     authors:
       - David W. Ellwood
+    translators:
+      - Annamaria Tasca
     year: 1977
     series: Le fatti e le idee -- 384
     language: Italian
@@ -39624,6 +40360,8 @@ titles:
     series: Feltrinelli economica. SC/10
     authors:
       - Alberto Caracciolo
+    editors:
+      - Gianni Scalia
     year: 1977
     language: Italian
     sources:
@@ -39881,6 +40619,7 @@ titles:
     series: Materiali marxista; 11
     authors:
       - Alfred Sohn-Rethel
+    translators:
       - Vera Bertolino
       - Francesco Coppellotti
     year: 1977
@@ -40050,6 +40789,7 @@ titles:
     subtitle: Il rigore dell'immaginazione
     authors:
       - Arturo Schwarz
+    translators:
       - Libero Sosio
     year: 1977
     language: Italian
@@ -40091,6 +40831,8 @@ titles:
     subtitle: '[Antologia]'
     authors:
       - M. Austin
+    editors:
+      - Mario Vegetti
     year: 1977
     edition: 1. edizione
     series: 'SC/10: Readings; 5'
@@ -40227,6 +40969,8 @@ titles:
     subtitle: Scritti scelti e lettere
     authors:
       - Edoardo Persico
+    editors:
+      - Riccardo Mariani
     year: 1977
     edition: 1. ed
     series: Architettura
@@ -40250,6 +40994,9 @@ titles:
     subtitle: Lotte operaie e riforma dello stato capitalistico tra rivoluzione d'Ottobre e New Deal
     authors:
       - S. Bologna
+    editors:
+      - Sergio Bologna
+      - Antonio Negri
     year: 1977
     edition: 4. edizione
     series: 'I fatti e le idee, saggi e biografie; 225: Storia'
@@ -40545,6 +41292,8 @@ titles:
   - title: Scritti
     authors:
       - Kazimir Malevich
+    editors:
+      - Andrej B. Nakov
     year: 1977
     language: Italian
     pages: 405
@@ -40694,8 +41443,10 @@ titles:
     series: Storia dell'Italia moderna; 3
     edition: 7. ed con nuova Nota Bibliografica
   - title: Storia universale Feltrinelli
+    original_title: Zeitalter des Imperialismus
     authors:
       - Wolfgang Justin Mommsen
+    translators:
       - Heidi Ascheri
     year: 1977
     language: Italian
@@ -40799,6 +41550,8 @@ titles:
   - title: Un comunista 1895-1930
     authors:
       - Alfonso Leonetti
+    editors:
+      - Ugo Dotti
     year: 1977
     edition: 1. ed. --
     series: I Fatti e le idee -- 359
@@ -40984,9 +41737,11 @@ titles:
     verified: true
   - title: Anni di Cani
     subtitle: Romanzo
+    original_title: Hundejahre
     series: Universale economica Feltrinelli; 786
     authors:
       - Günter Grass
+    translators:
       - E. F.
     year: 1978
     language: Italian
@@ -41258,6 +42013,8 @@ titles:
     subtitle: Interviste e documenti
     authors:
       - Oliviero Tronconi
+    editors:
+      - Antonio De Bonis
     year: 1978
     edition: 1. ed
     series: Cose italiane
@@ -41457,6 +42214,8 @@ titles:
   - title: Ernst Neizvestny
     authors:
       - Ėrnest Neizvestnyĭ
+    editors:
+      - Mario De Micheli
     year: 1978
     edition: 1. ed
     language: Italian
@@ -41627,6 +42386,9 @@ titles:
     authors:
       - Marina Sbisà
       - J. L. Austin
+    translators:
+      - Attilio Favaro
+      - Adelino Cattani
     year: 1978
     edition: 1. ed
     series: SC/10 [i.e. dieci] Readings; 7
@@ -41844,9 +42606,11 @@ titles:
     verified: true
   - title: Il tamburo di latta
     subtitle: Romanzo
+    original_title: Die Blechtrommel
     series: Universale economica Feltrinelli; 705
     authors:
       - Günter Grass
+    translators:
       - Lia Secci
     year: 1978
     language: Italian
@@ -41879,9 +42643,11 @@ titles:
     verified: true
   - title: Istinto e aggressività
     subtitle: Introduzione a un'antropologia sociale marxista
+    original_title: Instinkt, Aggression, Charakter
     series: I fatti e le idee; 407
     authors:
       - Ágnes Heller
+    translators:
       - Laura Boella
     year: 1978
     language: Italian
@@ -42355,9 +43121,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=543794962
     verified: true
   - title: La volontà di sapere
+    original_title: La volonté de savoir
     series: Storia della sessualità
     authors:
       - Michel Foucault
+    translators:
       - Pasquale Pasquino
       - Giovanna Procacci
     year: 1978
@@ -42433,9 +43201,11 @@ titles:
     verified: true
   - title: Lenz
     subtitle: Racconto
+    original_title: Lenz
     series: Universale economica Feltrinelli; 819
     authors:
       - Peter Schneider
+    translators:
       - Renato Pedio
     year: 1978
     language: Italian
@@ -42447,8 +43217,9 @@ titles:
     authors:
       - Róża Luksemburg
       - Feliks Tych
-      - Brucha Norton
       - Lelio Basso
+    translators:
+      - Brucha Norton
     year: 1978
     language: Italian
     sources:
@@ -42682,6 +43453,8 @@ titles:
   - title: Musica della rivoluzione
     authors:
       - Hanns Eisler
+    editors:
+      - Luca Lombardi
     year: 1978
     edition: 1. ed
     series: Musica
@@ -42858,6 +43631,8 @@ titles:
     subtitle: Poésie, 1968-1969
     authors:
       - Giánnīs Rítsos
+    editors:
+      - Nicola Giocetti
     year: 1978
     language: Italian
     sources:
@@ -42880,9 +43655,11 @@ titles:
         url: https://lccn.loc.gov/79365970
     verified: true
   - title: Poesie
+    original_title: Carmina
     series: Universale economics
     authors:
       - Gaius Valerius Catullus
+    translators:
       - Enzio Cetrangolo
     year: 1978
     language: Not recorded
@@ -43045,6 +43822,8 @@ titles:
     authors:
       - Gaetano Salvemini
       - Giorgio Agosti
+    editors:
+      - Alessandro Galante Garrone
     year: 1978
     language: Italian
     sources:
@@ -43057,6 +43836,9 @@ titles:
     subtitle: 1900-1957
     authors:
       - Gaetano Salvemini
+    editors:
+      - Alessandro Galante Garrone
+      - Giorgio Agosti
     year: 1978
     language: Italian
     sources:
@@ -43266,9 +44048,11 @@ titles:
     verified: true
   - title: Storie di ordinaria follia
     subtitle: Erezioni eiaculazioni esibizioni
+    original_title: Erections, ejaculations, exhibitions, and general tales of ordinary madness
     series: Universale economica; 8055
     authors:
       - Charles Bukowski
+    translators:
       - Pier Francesco Paolini
     year: 1978
     language: Italian
@@ -43320,6 +44104,7 @@ titles:
         url: https://www.sudoc.fr/006168760
     verified: true
   - title: Teoria della letteratura
+    original_title: Teorii︠a︡ literatury
     authors:
       - B. V. Tomashevskiĭ
     year: 1978
@@ -43393,6 +44178,8 @@ titles:
   - title: Tutti gli scritti
     authors:
       - Carlo Carrà
+    editors:
+      - Massimo Carrà
     year: 1978
     edition: 1. ed
     language: Italian
@@ -43477,6 +44264,8 @@ titles:
     subtitle: Documenti
     authors:
       - Congresso internazionale di psicanalisi Milan 1977
+    editors:
+      - Armando Verdiglione
     year: 1978
     edition: 1. ed
     series: Psicologia e psicoanalisi
@@ -43559,6 +44348,8 @@ titles:
   - title: Archivio Pietro Secchia, 1945-1973
     authors:
       - Pietro Secchia
+    editors:
+      - Enzo Collotti
     year: 1979
     edition: 1. ed
     series: Annali - Fondazione Giangiacomo Feltrinelli -- anno 19, 1978
@@ -43628,6 +44419,8 @@ titles:
   - title: Bruno Munari
     authors:
       - Bruno Munari
+    editors:
+      - Arturo Carlo Quintavalle
     year: 1979
     series: Media; 3
     language: Italian
@@ -43702,6 +44495,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1419422472
     verified: true
   - title: Contributi alla dottrina dei segni
+    original_title: Contributions to the doctrine of signs
     series: Semiotica e pratica sociale; 3
     authors:
       - Thomas Albert Sebeok
@@ -43873,6 +44667,8 @@ titles:
     subtitle: Inediti, 1945-1960
     authors:
       - Sibilla Aleramo
+    editors:
+      - Alba Morino
     year: 1979
     edition: 5. ed
     series: I Narratori di Feltrinelli -- 255
@@ -43991,6 +44787,7 @@ titles:
     verified: true
   - title: Guardiamo l'universo
     subtitle: La nuova astronomia
+    original_title: La nouvelle astronomie
     authors:
       - Jean-Claude Pecker
     year: 1979
@@ -44273,9 +45070,11 @@ titles:
     verified: true
   - title: Il tamburo di latta
     subtitle: Romanzo
+    original_title: Die Blechtrommel
     series: Universale economica Feltrinelli; 705
     authors:
       - Günter Grass
+    translators:
       - Lia Secci
     year: 1979
     language: Italian
@@ -44304,6 +45103,8 @@ titles:
     subtitle: 'Problemi di semantica modale: scritti'
     authors:
       - Ruth Barcan Marcus
+    editors:
+      - Daniela Silvestrini
     year: 1979
     series: SC/10. Readings
     language: Italian
@@ -44350,6 +45151,8 @@ titles:
   - title: Informazione e potere
     authors:
       - Convegno informazione e potere in Italia (1978 Rome, Italy)
+    editors:
+      - Claudio Martelli
     year: 1979
     edition: 1. ed
     series: Cose italiane
@@ -44502,6 +45305,8 @@ titles:
     subtitle: 'Documenti del Convegno internazionale di psicanalisi: Milano, 23-25 novembre 1978'
     authors:
       - Congresso internazionale di psicanalisi Milan 1978
+    editors:
+      - Armando Verdiglione
     year: 1979
     edition: 1. ed
     series: Psicologia e psicoanalisi
@@ -44525,6 +45330,8 @@ titles:
     subtitle: Raccontata dai suoi protaginisti; 1935 - 1959
     authors:
       - Franca Faldini
+    editors:
+      - Goffredo Fofi
     year: 1979
     language: Italian
     sources:
@@ -44832,6 +45639,7 @@ titles:
     verified: true
   - title: Le Idee biologiche di Harvey
     subtitle: Aspetti scelti e sfondo storico
+    original_title: 'William Harvey''s biological ideas : selected aspects and historical background'
     series: I Fatti e le idee; 426
     authors:
       - Walter Pagel
@@ -44846,6 +45654,7 @@ titles:
     series: Materiali; 52
     authors:
       - Enrique Buenaventura
+    translators:
       - Giorgio Ursini Uršič
       - Patrizia Picamus
     year: 1979
@@ -44893,6 +45702,8 @@ titles:
   - title: Lettere, 1860-1898 / Felice Cavallotti; introduzione e cura di Cristina Vernizzi; prefazione di Alessandro Galante Garrone
     authors:
       - Felice Cavallotti
+    editors:
+      - Cristina Vernizzi
     year: 1979
     language: Italian
     sources:
@@ -44900,6 +45711,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb366710091
     verified: true
   - title: Lingua letteraria e pubblico nella tarda antichità latina e nel medioevo
+    original_title: Literatursprache und Publikum in der lateinischen Spätantike und im Mittelalter
     series: SC/10; 88
     authors:
       - Erich Auerbach
@@ -44959,9 +45771,11 @@ titles:
     verified: true
   - title: Logica del senso
     subtitle: Con una nota dell'autore all'edizione italiana
+    original_title: Logique du sens
     series: I fatti e le idee; 285
     authors:
       - Gilles Deleuze
+    translators:
       - Mario de Stefanis
     year: 1979
     language: Italian
@@ -45504,6 +46318,9 @@ titles:
     verified: true
   - title: SC/10. Scrittori politici italiani
     authors: []
+    editors:
+      - Massimo L. Salvadori
+      - Nicola Tranfaglia
     year: 1979
     language: Not recorded
     sources:
@@ -45513,6 +46330,8 @@ titles:
   - title: Scritti politici di Alcide de Gasperi
     authors:
       - Alcide De Gasperi
+    editors:
+      - Pier Giorgio Zunino
     year: 1979
     series: SC/10. Scrittori politici italiani -- 2
     language: Italian
@@ -45531,6 +46350,8 @@ titles:
     subtitle: Scritti politici, 1878-1932
     authors:
       - Filippo Turati
+    editors:
+      - Franco Livorsi
     year: 1979
     edition: 1. ed
     series: Il Pensiero socialista
@@ -45805,6 +46626,8 @@ titles:
     subtitle: Diario, 1940-1944
     authors:
       - Sibilla Aleramo
+    editors:
+      - Alba Morino
     year: 1979
     edition: 1. ed
     series: I Narratori di Feltrinelli
@@ -45928,6 +46751,7 @@ titles:
     pages: 225
     edition: 1a ed. italiana. --
   - title: “L'”ansia nei bambini sani
+    original_title: Aengste gesunder Kinder
     series: Universale economica Feltrinelli; 890
     authors:
       - Gisela Eberlein
@@ -46072,6 +46896,8 @@ titles:
   - title: Chiedo asilo
     authors:
       - Marco Ferreri
+    editors:
+      - Maurizio Grande
     year: 1980
     edition: 1a ed
     series: Universale economica -- 883
@@ -46112,9 +46938,12 @@ titles:
     verified: true
   - title: Clementi
     subtitle: La vita e la musica
+    original_title: Clementi, his life and music
     series: Biblioteca di storia della musica; v. 2
     authors:
       - Leon Plantinga
+    translators:
+      - Luciano Petazzoni
     year: 1980
     language: Italian
     sources:
@@ -46792,6 +47621,7 @@ titles:
   - title: Il mondo interno dell'esterno dell'interno
     authors:
       - Peter Handke
+    translators:
       - Bruna Bianchi
     year: 1980
     language: German
@@ -46899,6 +47729,7 @@ titles:
     subtitle: Romanzo
     authors:
       - Günter Grass
+    translators:
       - Lia Secci
     year: 1980
     language: German
@@ -47112,10 +47943,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=245634126
     verified: true
   - title: La resa tedesca in Italia
+    original_title: Operation Sunrise
     series: Fatti e le idee; 483
     authors:
       - Elena Aga Rossi
       - Bradley F. Smith
+    translators:
       - Arnaldo Testi
     year: 1980
     language: Italian
@@ -47290,6 +48123,7 @@ titles:
   - title: Lettere perdute e frammenti
     authors:
       - Bruno Schulz
+    translators:
       - Jerzy Ficowski
       - Andrzej Zieliński
     year: 1980
@@ -47340,6 +48174,8 @@ titles:
     subtitle: Atti
     authors:
       - Reggio Emilia. [Italie.] (Provincia). Seminario. [1978-1979. Reggio Emilia]
+    editors:
+      - Paolo Rossi
     year: 1980
     language: Italian
     sources:
@@ -47876,6 +48712,8 @@ titles:
   - title: Salto nel vuoto
     authors:
       - Marco Bellocchio
+    editors:
+      - Massimo Fagioli
     year: 1980
     edition: 1. ed
     series: Universale economica
@@ -47898,6 +48736,8 @@ titles:
   - title: Scritti editi e inediti
     authors:
       - Mario Sironi
+    editors:
+      - Ettore Camesasca
     year: 1980
     edition: 1a ed
     language: Italian
@@ -47921,6 +48761,8 @@ titles:
   - title: Scritti politici
     authors:
       - Francesco Saverio Nitti
+    editors:
+      - Paolo Alatri
     year: 1980
     edition: la ed
     series: Scrittori politici italiana -- 5
@@ -48223,9 +49065,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/000573923
     verified: true
   - title: Storia Universale Feltrinelli
+    original_title: Die Verwandlung der Mittelmeerwelt
     series: Storia Universale Feltrinelli; 9
     authors:
       - Franz Georg Maier
+    translators:
       - Roberto Isenburg
     year: 1980
     language: Italian
@@ -48283,7 +49127,11 @@ titles:
     series: Saggi brevi
     authors:
       - Friedrich Hölderlin
+    editors:
       - Remo Bodei
+    translators:
+      - Remo Bodei
+      - Gigliola Pasquinelli
     year: 1980
     language: Italian
     sources:
@@ -48345,6 +49193,9 @@ titles:
     series: SC/10; 32
     authors:
       - Ernest Hatch Wilkins
+    editors:
+      - Remo Cesarini
+    translators:
       - Remo Ceserani
     year: 1980
     language: Italian
@@ -48355,6 +49206,7 @@ titles:
         url: https://www.sudoc.fr/030864275
     verified: true
     subtitle: E La formazione del "Canzoniere"
+    original_title: Life of Petrarch
   - title: Vita mia
     series: Universale economica; 886
     authors:
@@ -48506,6 +49358,9 @@ titles:
     verified: false
   - title: Biblioteca di psichiatria e di psicologia clinica, dir. da Gaetano Benedetti e Pier Francesco Galli
     authors: []
+    editors:
+      - Gaetano Benedetti
+      - Pier Francesco Galli
     language: Not recorded
     sources:
       - title: BnF catalogue record cb34265096k
@@ -48630,6 +49485,8 @@ titles:
   - title: Claude Pichois. Un Roman méconnu et inachevé de Choderlos de Laclos. Observations du général Laclos sur le roman théâtral de M. Lacretelle Ainé (le Fils naturel). Note préliminaire par Lacretelle
     authors:
       - Pierre-Ambroise-François Choderlos de Laclos
+    editors:
+      - Claude Pichois
     language: French
     sources:
       - title: BnF catalogue record cb32950275p
@@ -48644,6 +49501,9 @@ titles:
     verified: false
   - title: Collana di matematica
     authors: []
+    editors:
+      - Lucio Lombardo-Radice
+      - Edoardo Vesentini
     language: Not recorded
     sources:
       - title: BnF catalogue record cb34265303k
@@ -48712,6 +49572,9 @@ titles:
     verified: false
   - title: Critica e filologia, studi e manuali, a cura di L. Caretti e C. Segre
     authors: []
+    editors:
+      - Lanfranco Caretti
+      - Cesare Segre
     language: Not recorded
     sources:
       - title: BnF catalogue record cb342659126
@@ -48725,9 +49588,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991098446879705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: false
   - title: Cuoreanimale
+    original_title: Herztier
     series: Narratori
     authors:
       - Herta Müller
+    translators:
       - Margherita Carbonaro
     language: Italian
     sources:
@@ -48820,9 +49685,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb454067545
     verified: false
   - title: Faust e Urfaust
+    original_title: Faust , Urfaust
     series: 'Universale economica Feltrinelli; '
     authors:
       - Johann Wolfgang von Goethe
+    translators:
       - Givanni V. Amoretti
     language: Italian
     sources:
@@ -48884,9 +49751,11 @@ titles:
     verified: false
   - title: I giorni e gli anni
     subtitle: Dalla vita di Gesine Creespahl
+    original_title: Jahrestage. Aus del Leben vom Gesine Cresspahl
     series: Le Comete
     authors:
       - Uwe Johnson
+    translators:
       - Nicola Pasqualetti
     language: Italian
     sources:
@@ -49071,9 +49940,11 @@ titles:
         url: https://openlibrary.org/books/OL18914634M
     verified: false
   - title: La rettitudine degli assassini
+    original_title: Die rechtschaffenen Mörder
     series: Narratori
     authors:
       - Ingo Schulze
+    translators:
       - Stefano Zangrando
     language: Italian
     sources:
@@ -49321,6 +50192,9 @@ titles:
     verified: false
   - title: SC. 10. Scienze sociali. Teorie e metodi
     authors: []
+    editors:
+      - Alberto Martinelli
+      - Salvatore Veca
     language: Not recorded
     sources:
       - title: BnF catalogue record cb34279750c
@@ -49328,6 +50202,8 @@ titles:
     verified: false
   - title: SC/10 readings
     authors: []
+    editors:
+      - Salvatore Veca
     language: Italian
     sources:
       - title: K10plus record 1956296220

@@ -118,6 +118,7 @@ titles:
       - Vladimir Ilich Lenin (Владимир Ильич Ленин)
       - Nadežda Konstantinovna Krupskaâ
       - Nadezhda Konstantinovna Krupskaia (Надежда Константиновна Крупская)
+    translators:
       - Val Polìŝuk
       - Val Polishchuk (Вал Поліщук)
     year: 1924
@@ -141,6 +142,7 @@ titles:
     series: Naukovo populârna bìblìoteka
     authors:
       - Michael Faraday
+    translators:
       - Lûbovʹ Nikolaevna Komarova
       - Liubov Nikolaevna Komarova (Любовь Николаевна Комарова)
     year: 1924
@@ -152,6 +154,7 @@ titles:
   - title: Listi z vâznicì
     authors:
       - Rosa Luxemburg
+    translators:
       - M. Gordìêvsʹkij
       - M. Gordiievskii (М. Гордієвський)
     year: 1924
@@ -176,6 +179,7 @@ titles:
     authors:
       - Joseph Staline
       - Iosif Vissarionovich Stalin (Иосиф Виссарионович Сталин)
+    translators:
       - And Rìč
       - And Rich (Анд Річ)
     year: 1924
@@ -312,6 +316,7 @@ titles:
     authors:
       - Moisej Efimovič Ravič-Čerkasskij
       - Moisei Efimovich Ravich-cherkasskii (Моисей Ефимович Равич-Черкасский)
+    translators:
       - T. Kardinalovsʹkaâ
       - T. Kardinalovskaia (Т. Кардиналовськая)
     year: 1925
@@ -333,6 +338,7 @@ titles:
     authors:
       - Ì. M. Vladimirov
       - E. M. Vladimirov (І.М. Владимиров)
+    translators:
       - M. O. Sematko
       - M. O. Sematko (М.О. Сематко)
     year: 1925
@@ -346,10 +352,11 @@ titles:
     authors:
       - Vladimir Ilʹič Lenin
       - Vladimir Ilich Lenin (Владимир Ильич Ленин)
-      - Ìvan Danilovič Dnìprovsʹkij
-      - Ivan Danilovich Dniprovskii (Іван Данилович Дніпровський)
       - Lev Borisovitch Kamenev
       - Lev Borisovich Kamenev (Лев Борисович Каменев)
+    translators:
+      - Ìvan Danilovič Dnìprovsʹkij
+      - Ivan Danilovich Dniprovskii (Іван Данилович Дніпровський)
     year: 1925
     language: Ukrainian
     sources:
@@ -395,6 +402,7 @@ titles:
       - M. Gurvich (М. Гурвич)
       - N. N. Popov
       - N. N. Popov (Н. Н. Попов)
+    translators:
       - P. Dovgopol
       - P. Dovgopol (П. Довгопол)
       - P. Pec
@@ -742,6 +750,7 @@ titles:
   - title: Povstannâ angelìv
     authors:
       - Anatole France
+    translators:
       - Êvg Kasânenko
       - Ievg Kasianenko (Євг Касяненко)
     year: 1926
@@ -1166,6 +1175,9 @@ titles:
     series: Naukovij zbìrnik Harkìvsʹkoï naukovo-doslìdčoï katedri ìstorìï ukraïnsʹkoï kulʹturi; 7
     authors:
       - Ursr
+    editors:
+      - Oleksìj Vasilʹovič Vetuhìv
+      - Oleksii Vasilovich Vetukhiv (Олексій Васильович Ветухів)
     year: 1927
     language: Ukrainian
     sources:
@@ -1283,6 +1295,7 @@ titles:
     authors:
       - B. V. Kozelʹsʹkij
       - B. V. Kozelskii (Б. В. Козельський)
+    translators:
       - K. Senik
       - K. Senik (К. Сеник)
     year: 1927
@@ -1408,9 +1421,10 @@ titles:
     authors:
       - A. Mandrika
       - A. Mandrika (А. Мандрика)
+      - Henri Piéron
+    translators:
       - A. Milâškevič
       - A. Miliashkevich (А. Миляшкевич)
-      - Henri Piéron
     year: 1927
     language: Ukrainian
     sources:
@@ -1624,6 +1638,8 @@ titles:
   - title: Повість Артура Ґордона Піма з Нантукету
     authors:
       - Edgar Allan Poe
+    translators:
+      - Boris Tkachenko (Борис Ткаченко)
     year: 1928
     series: His Vybrani tvory
     language: Ukrainian
@@ -1673,10 +1689,11 @@ titles:
     authors:
       - Georges Plekhanov
       - Georgii Valentinovich Plekhanov (Георгий Валентинович Плеханов)
-      - P. Dovgopol
-      - P. Dovgopol (П. Довгопол)
       - Sergìj Vìkul
       - Sergii Vikul (Сергій Вікул)
+    translators:
+      - P. Dovgopol
+      - P. Dovgopol (П. Довгопол)
     year: 1929
     language: Ukrainian
     sources:

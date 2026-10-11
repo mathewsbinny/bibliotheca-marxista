@@ -52,6 +52,8 @@ titles:
   - title: Casa de las Américas
     authors:
       - Casa de las Américas (La Habana)
+    editors:
+      - Casa de las Américas
     year: 1960
     language: Spanish
     sources:
@@ -168,6 +170,8 @@ titles:
   - title: Nuevos cuentistas cubanos
     authors:
       - Antón Arrufat
+    editors:
+      - Fausto Masó
     year: 1961
     language: Spanish
     pages: 253
@@ -261,6 +265,8 @@ titles:
       - Gloria Parrado
       - Abelardo Estorino
       - Antón Arrufat
+    editors:
+      - Casa de las Américas
     year: 1961
     language: Spanish
     sources:
@@ -854,6 +860,8 @@ titles:
   - title: Memorias póstumas de Blas Cubas
     authors:
       - Machado de Assis
+    translators:
+      - Antonio Alatorre
     year: 1963
     series: Colección Literatura latinoamericana
     language: Spanish
@@ -1153,6 +1161,8 @@ titles:
   - title: Cuentos
     authors:
       - Horacio Quiroga
+    editors:
+      - Antón Arrufat
     year: 1964
     series: Colección Literatura latinoamericana
     language: Spanish
@@ -1193,6 +1203,8 @@ titles:
   - title: 'Cuentos. Seleccion y prologo: Anton Arrufat'
     authors:
       - Julio Cortázar
+    editors:
+      - Antón Arrufat
     year: 1964
     language: Spanish
     sources:
@@ -1206,6 +1218,8 @@ titles:
   - title: Documentos
     authors:
       - Simón Bolívar
+    editors:
+      - Manuel Galich
     year: 1964
     series: Collección Literatura latinoamericana, 15
     language: Spanish
@@ -1947,6 +1961,8 @@ titles:
     subtitle: Selección y prólogo
     authors:
       - Pedro Henríquez Ureña
+    editors:
+      - José Rodríguez Feo
     year: 1965
     series: Colección Literatura latinoamericana
     language: Spanish
@@ -2339,8 +2355,10 @@ titles:
         url: https://search.worldcat.org/title/10380127
     verified: true
   - title: Anales de los Cakchiqueles
+    original_title: Memorial de Sololá
     authors:
       - Manuel Galich
+    translators:
       - Adrián Recinos
     year: 1967
     series: Colección Literatura latinoamericana -- v. 31
@@ -2865,6 +2883,8 @@ titles:
   - title: Poesías
     authors:
       - Rubén Darío
+    editors:
+      - Eliseo Diego
     year: 1967
     series: Colección Literatura latinoamericana
     language: Spanish
@@ -3007,6 +3027,7 @@ titles:
     authors:
       - René Depestre
       - Paul Emile Simon
+    translators:
       - Heberto Padilla
     year: 1967
     language: Spanish
@@ -3209,6 +3230,8 @@ titles:
   - title: Cuentos
     authors:
       - Salarrué
+    editors:
+      - Roque Dalton
     year: 1968
     series: Colección Literatura latinoamericana, 38
     language: Spanish
@@ -3252,6 +3275,8 @@ titles:
   - title: Cuentos, selección y prólogo de Roque Dalton
     authors:
       - Salvador Salazar Arrué
+    editors:
+      - Roque Dalton
     year: 1968
     language: Spanish
     sources:
@@ -3695,6 +3720,8 @@ titles:
   - title: Poesías
     authors:
       - Vicente Huidobro
+    editors:
+      - Enrique Lihn
     year: 1968
     series: Colección Literatura latinoamericana
     language: Spanish
@@ -3714,6 +3741,8 @@ titles:
   - title: Poesías. Selección y prólogo Enrique Lihn
     authors:
       - Vicente Huidobro
+    editors:
+      - Enrique Lihn
     year: 1968
     language: Spanish
     sources:
@@ -4164,6 +4193,7 @@ titles:
     verified: true
   - title: Niño de ingenio
     subtitle: Novela
+    original_title: Menino de engenho
     authors:
       - José Lins do Rêgo
     year: 1969
@@ -4362,6 +4392,8 @@ titles:
     series: Colección literatura latinoamericana; 47
     authors:
       - Aimé Césaire
+    editors:
+      - Enrique Lihn
     year: 1969
     language: Spanish
     sources:
@@ -4559,6 +4591,8 @@ titles:
   - title: Cuentos
     authors:
       - José de la Cuadra
+    editors:
+      - Jorge Enrique Adoum
     year: 1970
     series: Colección Literatura latinoamericana
     language: Spanish
@@ -4943,6 +4977,8 @@ titles:
     verified: true
   - title: Música
     authors: []
+    editors:
+      - Casa de las Americas
     year: 1970
     language: Spanish
     sources:
@@ -5178,6 +5214,8 @@ titles:
   - title: Recopilación de textos sobre José Lezama Lima
     authors:
       - José Lezama Lima
+    editors:
+      - Pedro Simón
     year: 1970
     series: Serie Valoración múltiple
     language: Spanish
@@ -5338,6 +5376,8 @@ titles:
   - title: Cuentos
     authors:
       - Mario Arregui
+    editors:
+      - Antonio Benítez Rojo
     year: 1971
     series: Colección La Honda
     language: Spanish
@@ -5433,6 +5473,7 @@ titles:
         url: https://search.worldcat.org/title/23150211
     verified: true
   - title: Gobernadores del rocío
+    original_title: Gouverneurs de la rosée
     series: Colección literatura latinoamericana; 57
     authors:
       - Jacques Roumain
@@ -5815,11 +5856,13 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991005446459705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Anales de los Cakchiqueles
+    original_title: Anales de los cakchiqueles
     series: Colección literatura latinoamericana; 31
     authors:
       - Francisco Hernández Arana Xajilá
       - Francisco Díaz
       - Manuel Galich
+    translators:
       - Adrián Recinos
     year: 1972
     language: Spanish
@@ -5964,6 +6007,8 @@ titles:
   - title: Ensayos
     authors:
       - Alfonso Reyes
+    editors:
+      - Roberto Fernández Retamar
     year: 1972
     series: Colección Literatura latinoamericana
     language: Spanish
@@ -6870,6 +6915,8 @@ titles:
     subtitle: Tres relatos panameños
     authors:
       - Joaquín Beleño C.
+    editors:
+      - Antonio Benítez Rojo
     year: 1974
     series: Colección La Honda
     language: Spanish
@@ -6950,6 +6997,7 @@ titles:
     subtitle: Premio cuento
     series: Premio cuento
   - title: El Compadre general sol
+    original_title: Compère Général soleil
     series: Colección literatura latinoamericana; 72
     authors:
       - Jacques-Stephen Alexis
@@ -7307,6 +7355,8 @@ titles:
       - Jacques Roumain
       - Pedro Mir
       - Jacques Viau
+    editors:
+      - Roberto Fernández Retamar
     year: 1974
     series: Colección La Honda
     language: Spanish
@@ -7368,6 +7418,8 @@ titles:
   - title: Recopilación de textos sobre Nicolás Guillén
     authors:
       - Nicolás Guillén
+    editors:
+      - Nancy Morejón
     year: 1974
     series: Serie Valoración múltiple
     language: Spanish
@@ -7471,6 +7523,8 @@ titles:
   - title: Cuentos
     authors:
       - Francisco Espínola
+    editors:
+      - Pedro Simón
     year: 1975
     series: Colección La Honda
     language: Spanish
@@ -7712,6 +7766,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=44121150X
     verified: true
   - title: Gabriela, clavo y canela
+    original_title: Gabriela, cravo e canela
     authors:
       - Jorge Leal Amado de Faria
     year: 1975
@@ -7733,6 +7788,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/101019176
     verified: true
   - title: Gabriela, Cravo y Canela
+    original_title: Gabriela, cravo e canela
     authors:
       - Jorge Amado
     year: 1975
@@ -7953,6 +8009,8 @@ titles:
   - title: La Novela de la revolución mexicana
     subtitle: Recopilación de textos
     authors: []
+    editors:
+      - Rogelio Rodríguez Coronel
     year: 1975
     language: Spanish
     sources:
@@ -8078,6 +8136,8 @@ titles:
   - title: Obras
     authors:
       - Aníbal Ponce
+    editors:
+      - Juan Marinello
     year: 1975
     series: Colección Nuestra América
     language: Spanish
@@ -8226,6 +8286,8 @@ titles:
   - title: Poesía
     authors:
       - Efraín Huerta
+    editors:
+      - Emilio Jorge Rodríguez
     year: 1975
     series: Colección La Honda
     language: Spanish
@@ -8265,6 +8327,8 @@ titles:
   - title: Poesías
     authors:
       - Gabriela Mistral
+    editors:
+      - Eliseo Diego
     year: 1975
     edition: 2. ed
     series: Colección Literatura latinoamericana
@@ -8347,6 +8411,8 @@ titles:
     series: Serie Valoración multiple
     authors:
       - Trinidad Pérez Valdés
+    editors:
+      - Trinidad Pérez
     year: 1975
     language: Spanish
     sources:
@@ -8600,6 +8666,8 @@ titles:
   - title: Cuentos
     authors:
       - Alfredo Armas Alfonzo
+    editors:
+      - Adolfo Cruz-Luis
     year: 1976
     series: Colección La Honda
     language: Spanish
@@ -9079,6 +9147,8 @@ titles:
   - title: Obras
     authors:
       - Eugenio María de Hostos
+    editors:
+      - Digna Castañeda Fuertes
     year: 1976
     series: Colección Pensamiento de Nuestra América
     language: Spanish
@@ -9608,6 +9678,8 @@ titles:
     authors:
       - Blanca Acosta
       - Samuel Goldberg
+    editors:
+      - Amelia Sanz
     year: 1977
     series: Colección Literatura latinoamericana
     language: Spanish
@@ -9632,6 +9704,10 @@ titles:
     verified: true
   - title: 'Cuentos del Caribe: Barbados, Guyana; Jamaica, Trinidad-Tobago / selección e introducción Blanca Acosta, Samuel Goldberg e Ileana Sanz; [publ. de la] Casa de las Américas'
     authors: []
+    editors:
+      - Blanca Acosta
+      - Samuel Goldberg
+      - Ileana Sanz
     year: 1977
     language: Spanish
     sources:
@@ -9814,8 +9890,10 @@ titles:
         url: https://openlibrary.org/books/OL19545339M
     verified: true
   - title: Ikael Torass
+    original_title: Ikael Torass
     authors:
       - N. D. Williams
+    translators:
       - Eliseo Diego
     year: 1977
     language: Spanish
@@ -10102,6 +10180,8 @@ titles:
   - title: Poesías
     authors:
       - Raúl González Tuñón
+    editors:
+      - Félix Pita Rodríguez
     year: 1977
     series: Colección Literatura latinoamericana
     language: Spanish
@@ -10176,6 +10256,7 @@ titles:
     verified: true
     pages: 585
   - title: Sena
+    original_title: Scenes de la vie haitienne
     authors:
       - Fernand Hibbert
     year: 1977
@@ -10199,6 +10280,8 @@ titles:
   - title: Teatro
     authors:
       - César Rengifo
+    editors:
+      - Francisco Garzón Céspedes
     year: 1977
     series: Colección La Honda
     language: Spanish
@@ -10417,6 +10500,8 @@ titles:
   - title: Contra viento y marea
     authors:
       - Grupo Areíto
+    editors:
+      - Dominica Diez
     year: 1978
     series: Testimonio
     language: Spanish
@@ -10852,6 +10937,8 @@ titles:
   - title: La obreríada
     authors:
       - Luis Vidales
+    editors:
+      - Isaías Peña
     year: 1978
     series: Colección Literatura latinoamericana -- 90
     language: Spanish
@@ -10946,9 +11033,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991124407869705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Las montañas jubilosas
+    original_title: The hills were joyful together
     series: Colección literatura latinoamericana; 94
     authors:
       - Roger Mais
+    translators:
       - Ester Muñiz
     year: 1978
     language: Spanish
@@ -11133,6 +11222,8 @@ titles:
   - title: Páginas escogidas
     authors:
       - Alfonso Reyes
+    editors:
+      - Fina García Marruz
     year: 1978
     series: Colección Literatura latinoamericana -- 86
     language: Spanish
@@ -11378,6 +11469,8 @@ titles:
     subtitle: Dos obras de creación colectiva
     authors:
       - Libre Teatro Libre
+    editors:
+      - Dominica Diez
     year: 1978
     series: Colección La Honda
     language: Spanish
@@ -11607,8 +11700,11 @@ titles:
         url: https://www.sudoc.fr/134052242
     verified: true
   - title: En el castillo de mi piel
+    original_title: In the castle of my skin
     authors:
       - George Lamming
+    translators:
+      - María Teresa Ortega Sastriques
     year: 1979
     series: Colección Literatura latinoamericana
     language: Spanish
@@ -11690,6 +11786,7 @@ titles:
     verified: true
   - title: Grande serton
     subtitle: Veredas
+    original_title: Grande sertão veredas
     series: Colección literatura latinoamericana; 95
     authors:
       - João Guimarães Rosa
@@ -11797,9 +11894,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=441289878
     verified: true
   - title: Historia del descubrimiento y exploración de Latinoamérica
+    original_title: Istoriia otkrytiia i issledovaniia tsentralnoi i iuzhnoi Ameriki
     series: Coleccion Nuestros países. Serie Rumbos
     authors:
       - Iosif Petrovič Magidovič
+    translators:
+      - Venancio Uribes
     year: 1979
     language: Spanish
     sources:
@@ -11870,6 +11970,8 @@ titles:
   - title: Insularismo e ideología burguesa en Antonio Pedreira
     authors:
       - Juan Flores
+    translators:
+      - Alberto Nicolás
     year: 1979
     language: Spanish
     pages: 95
@@ -12124,6 +12226,8 @@ titles:
   - title: Poesía
     authors:
       - Ernesto Cardenal
+    editors:
+      - Cintio Vitier
     year: 1979
     series: Colección Literatura latinoamericana -- 98
     language: Spanish
@@ -12286,6 +12390,7 @@ titles:
     verified: true
     pages: 273
   - title: Una vida
+    original_title: A kind of living
     authors:
       - Angus Richmond
     year: 1979
@@ -12341,6 +12446,10 @@ titles:
   - title: Viajes a las islas de la América
     authors:
       - Jean Baptiste Labat
+    editors:
+      - Francisco de Oraa
+    translators:
+      - Francisco de Oraá
     year: 1979
     series: Colección Nuestros países; serie Rumbos
     language: Spanish
@@ -12449,8 +12558,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=439243378
     verified: true
   - title: Ciudad muerta
+    original_title: Cidade morta
     authors:
       - Otávio Afonso
+    translators:
       - David Chericián
     year: 1980
     language: Spanish
@@ -12861,6 +12972,8 @@ titles:
   - title: Historia del descubrimiento y exploración de Latinoamérica
     authors:
       - Iosif Petrovich Magidovich
+    translators:
+      - Venancio Uribes
     year: 1980
     series: Colección Nuestros países
     language: Spanish
@@ -13019,6 +13132,8 @@ titles:
   - title: Poesía
     authors:
       - Roque Dalton
+    editors:
+      - Mario Benedetti
     year: 1980
     series: Colección La Honda
     language: Spanish
@@ -13076,6 +13191,8 @@ titles:
   - title: Teatro
     authors:
       - Enrique Buenaventura
+    editors:
+      - Francisco Garzón Céspedes
     year: 1980
     series: Colección La Honda
     language: Spanish
@@ -13107,6 +13224,8 @@ titles:
   - title: Todos los cuentos de Mario Benedetti
     authors:
       - Mario Benedetti
+    editors:
+      - Dominica Diez
     year: 1980
     series: Colección La Honda
     language: Spanish
@@ -13242,6 +13361,7 @@ titles:
         url: https://search.worldcat.org/title/8593737
     verified: true
   - title: Ciudad muerta
+    original_title: Cidade morta
     authors:
       - Otávio Afonso
     year: 1981
@@ -13423,9 +13543,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991082003339705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: El vasto mar de los Sargazos
+    original_title: Wide Sargasso sea
     series: Colección literatura latinoamericana; 106
     authors:
       - Jean Rhys
+    translators:
       - Raqel Costa
     year: 1981
     language: Spanish
@@ -13470,6 +13592,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991053888099705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Granada, el camino hacia la revolución
+    original_title: Grenada, the route to revolution
     authors:
       - W. Richard Jacobs
     year: 1981
@@ -13769,6 +13892,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991057659219708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Nosotros, esclavos de Surinam
+    original_title: Wij slaven van Suriname
     series: Coleccion nuestros paises
     authors:
       - Anton de Kom
@@ -14125,6 +14249,7 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/el_senor_presidente
   - title: En el horizonte está El Dorado
+    original_title: Na gorizonte--Ėl'dorado
     series: Colección Nuestros países
     authors:
       - Svetlana Alekseevna Sozina
@@ -14360,6 +14485,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991154392139705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: La pasión segun G.H
+    original_title: A paixão segundo G.H
     series: Colección literatura latinoamericana; 103
     authors:
       - Clarice Lispector
@@ -14594,6 +14720,7 @@ titles:
     verified: true
     subtitle: A Cycle of Poems to Be Performed with Drums and Steelpans
   - title: Midas negro
+    original_title: Black midas
     series: Colección literatura latinoamericana; 101
     authors:
       - Jan Carew
@@ -14633,6 +14760,8 @@ titles:
   - title: Obras
     authors:
       - José Carlos Mariátegui
+    editors:
+      - Francisco Baeza
     year: 1982
     series: Colección Pensamiento de nuestra América
     language: Spanish
@@ -14684,6 +14813,8 @@ titles:
   - title: Panorama histórico-literario de nuestra América
     authors:
       - Mario Benedetti
+    editors:
+      - America Díaz Acosta
     year: 1982
     series: Colección Nuestros países
     language: Spanish
@@ -14820,6 +14951,8 @@ titles:
   - title: Simón Bolívar, aquel hombre solar
     authors:
       - José Martí
+    editors:
+      - Francisco Pividal
     year: 1982
     series: Colección Textos martianos
     language: Spanish
@@ -14949,6 +15082,8 @@ titles:
   - title: Visión de Belice
     authors:
       - Blanca Acosta
+    editors:
+      - Horacio García Brito
     year: 1982
     series: Colección Nuestros países
     language: Spanish
@@ -15017,6 +15152,9 @@ titles:
   - title: Correspondencia
     authors:
       - Ramón Emeterio Betances
+    editors:
+      - Haroldo Dilla Alfonso
+      - Emilio Godinez
     year: 1983
     language: Spanish
     sources:
@@ -15037,6 +15175,8 @@ titles:
   - title: Cuentos
     authors:
       - Juan Bosch
+    editors:
+      - Francisco Garzón Céspedes
     year: 1983
     series: Colección Literatura latinoamericana -- 111
     language: Spanish
@@ -15162,6 +15302,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/006012029
     verified: true
   - title: El guaraní
+    original_title: O Guarani
     authors:
       - José de Alencar
     year: 1983
@@ -15268,6 +15409,8 @@ titles:
   - title: Los holandeses en el Caribe
     authors:
       - Cornelis Ch Goslinga
+    translators:
+      - Elpidio Pacios
     year: 1983
     series: Colección Nuestros países
     language: Spanish
@@ -15470,6 +15613,8 @@ titles:
     subtitle: Las armas cotidianas
     authors:
       - Paul Laraque
+    translators:
+      - Nancy Morejón
     year: 1983
     language: Spanish
     pages: 178
@@ -15545,6 +15690,8 @@ titles:
   - title: Ramón Emeterio Betances
     authors:
       - Ramón Emeterio Betances
+    editors:
+      - Haroldo Dilla Alfonso
     year: 1983
     series: Colección Pensamiento de nuestra América
     language: Spanish
@@ -15666,6 +15813,8 @@ titles:
   - title: Antología de antologías
     authors:
       - Baldomero Fernández Moreno
+    editors:
+      - César Fernández Moreno
     year: 1984
     series: Colección Literatura latinoamericana
     language: Spanish
@@ -15930,6 +16079,7 @@ titles:
     verified: true
     subtitle: Cuento
   - title: Esclavos que abolieron la esclavitud
+    original_title: Slaves who abolished slavery
     series: Colección Nuestros países
     authors:
       - Richard Hart
@@ -16523,6 +16673,8 @@ titles:
   - title: Contra el agua y el viento
     authors:
       - Juan Almeida Bosque
+    editors:
+      - Dominica Diez
     year: 1985
     series: Testimonio
     language: Spanish
@@ -16594,6 +16746,8 @@ titles:
   - title: El indio de nuestra América
     authors:
       - José Martí
+    editors:
+      - Leonardo Acosta
     year: 1985
     series: Colección Textos martianos
     language: Spanish
@@ -16650,6 +16804,7 @@ titles:
         url: https://d-nb.info/99378125X
     verified: true
     subtitle: Teatro
+    original_title: 'Morte aos brancos : a lenda de Sepé Tiaraju'
   - title: El Juicio de Nicolau II, rey de los Guaraníes y emperador de los mamelucos / César Vieira
     authors:
       - César Vieira
@@ -17068,6 +17223,8 @@ titles:
   - title: Poesía
     authors:
       - Juan Gelman
+    editors:
+      - Víctor Casaus
     year: 1985
     series: Colección Literatura latinoamericana
     language: Spanish
@@ -17087,6 +17244,8 @@ titles:
   - title: Poesía de amor y humor
     authors:
       - Aquiles Nazoa
+    editors:
+      - José Prats Sariol
     year: 1985
     series: Colección La Honda
     language: Spanish
@@ -17359,6 +17518,7 @@ titles:
         url: https://search.worldcat.org/title/17158628
     verified: true
   - title: Discursos escogidos, 1979-1983
+    original_title: Discours
     authors:
       - Maurice Bishop
     year: 1986
@@ -17384,6 +17544,8 @@ titles:
     subtitle: (Forma y decoración)
     authors:
       - Raúl R. Rodríguez Porcell
+    editors:
+      - César Ramos
     year: 1986
     series: Colección Nuestros países
     language: Spanish
@@ -17431,8 +17593,11 @@ titles:
     verified: true
     subtitle: Cuento
   - title: El acuario negro
+    original_title: Aquário negro
     authors:
       - Betto Frei
+    translators:
+      - David Chericián
     year: 1986
     series: Colección La Honda
     language: Spanish
@@ -17492,6 +17657,8 @@ titles:
   - title: Epopeya de las comidas y las bebidas de Chile
     authors:
       - Pablo de Rokha
+    editors:
+      - Carlos Droguett
     year: 1986
     series: Colección Literatura latinoamericana
     language: Spanish
@@ -17815,6 +17982,10 @@ titles:
   - title: Buenos días y adiós a la negritud
     authors:
       - René Dépestre
+    editors:
+      - Clara Hernández
+    translators:
+      - Otelia Gronlier
     year: 1987
     series: Cuadernos Casa -- 29
     language: Spanish
@@ -18138,6 +18309,8 @@ titles:
   - title: La isla de los pájaros y otros cuentos
     authors:
       - Mariano Latorre
+    editors:
+      - Imeldo Alvarez García
     year: 1987
     series: Colección Literatura latinoamericana
     language: Spanish
@@ -18432,6 +18605,8 @@ titles:
   - title: Tres poetas centroamericanos
     authors:
       - Joaquín Pasos
+    editors:
+      - Raúl Hernández Novás
     year: 1987
     series: Colección La Honda
     language: Spanish
@@ -18471,8 +18646,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=160045433X
     verified: true
   - title: Carga pesada
+    original_title: Jorge, um brasileiro
     authors:
       - Oswaldo França Júnior
+    translators:
+      - Sergio Flores
     year: 1988
     series: Colección La Honda
     language: Spanish
@@ -18718,6 +18896,8 @@ titles:
   - title: Páginas escogidas
     authors:
       - Jorge Luis Borges
+    editors:
+      - Roberto Fernández Retamar
     year: 1988
     series: Colección Literatura latinoamericana
     language: Spanish
@@ -18781,6 +18961,8 @@ titles:
   - title: Poesía
     authors:
       - Delmira Agustini
+    editors:
+      - Raúl Hernández Novás
     year: 1988
     series: Colección Literatura latinoamericana
     language: Spanish
@@ -19061,8 +19243,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991094353439705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: La oreja de Van Gogh
+    original_title: A orelha de Van Gogh
     authors:
       - Moacyr Scliar
+    translators:
+      - Julia Calzadilla Nuñez
     year: 1989
     series: Literatura brasileña. Cuento
     language: Spanish
@@ -19174,6 +19359,8 @@ titles:
   - title: Nocturnos del pobre amor
     authors:
       - Idea Vilariño
+    editors:
+      - Yoel Mesa Falcón
     year: 1989
     series: Colección La Honda
     language: Spanish
@@ -19325,6 +19512,8 @@ titles:
   - title: Solo en la compañía
     authors:
       - Manolo Cuadra
+    editors:
+      - Lizandro Chávez-Alfaro
     year: 1989
     series: Colección Literatura latinoamericana
     language: Spanish
@@ -19350,6 +19539,8 @@ titles:
   - title: Verdad y leyenda de Tina Modotti
     authors:
       - Christiane Barckhausen
+    editors:
+      - César Ramos
     year: 1989
     series: Ensayo
     language: Spanish
@@ -19373,6 +19564,8 @@ titles:
   - title: Confabulaciones
     authors:
       - Juan José Arreola
+    editors:
+      - Raúl Hernández Novás
     year: 1990
     series: Colección Literatura latinoamericana
     language: Spanish
@@ -19478,6 +19671,7 @@ titles:
     series: Ensayo
   - title: Las artes plásticas en la América Latina
     subtitle: Del trance a lo transitorio
+    original_title: Artes plásticas na América Latina
     authors:
       - Frederico Morais
     year: 1990
@@ -19562,6 +19756,8 @@ titles:
   - title: Palabras al vuelo
     authors:
       - Pedro Juan Soto
+    editors:
+      - Emilio Jorge Rodríguez
     year: 1990
     series: Colección La Honda
     language: Spanish
@@ -19780,8 +19976,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/004051325
     verified: true
   - title: Remolino de palabras libres
+    original_title: Boucan de mots libres
     authors:
       - Ernest Pépin
+    translators:
       - Nancy Morejón
     year: 1991
     language: Spanish
@@ -19843,8 +20041,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/101128042
     verified: true
   - title: Wadubari
+    original_title: Wadubari
     authors:
       - Marcos A. Pellegrini
+    translators:
+      - Julia Calzadilla Nuñez
     year: 1991
     series: Testimonio
     language: Spanish
@@ -19869,9 +20070,11 @@ titles:
     verified: true
   - title: ¡Adelante, soldados
     subtitle: Atrás!
+    original_title: Avante, soldados, para trás
     series: Novela
     authors:
       - Deonísio da Silva
+    translators:
       - Sergio Flores Pedroso
     year: 1992
     language: Spanish
@@ -20013,6 +20216,8 @@ titles:
   - title: La conquista del amanecer
     authors:
       - Mariano Picón-Salas
+    editors:
+      - José Prats Sariol
     year: 1992
     series: Colección Literatura latinoamericana
     language: Spanish
@@ -20176,6 +20381,8 @@ titles:
     subtitle: Literatura francocaribeña novela
     authors:
       - Raphaël Confiant
+    translators:
+      - Max Figueroa Araujo
     year: 1993
     language: Spanish
     pages: 208
@@ -20598,6 +20805,7 @@ titles:
     series: Literatura brasilenã
     authors:
       - Décio Tadeu Orlandi
+    translators:
       - Sergio Flores
     year: 1995
     language: Spanish
@@ -20645,6 +20853,8 @@ titles:
   - title: Guanahani, mi amor y otros poemas
     authors:
       - Marion Bethel
+    translators:
+      - David Chericián
     year: 1995
     language: Spanish
     sources:
@@ -20746,6 +20956,8 @@ titles:
   - title: Arco iris, la esperanza
     authors:
       - Nicole Cage-Florentiny
+    translators:
+      - Nancy Morejón
     year: 1996
     edition: Ed. bilingüe
     series: Literatura caribeña en francés y creole. Poesía
@@ -20763,6 +20975,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb376475368
     verified: true
     subtitle: Edición bilingüe
+    original_title: Arc-en-ciel, l'espoir
   - title: Crónicas maravillosas
     authors:
       - Tomás Harris
@@ -20850,6 +21063,7 @@ titles:
     verified: true
   - title: Arco iris, la esperanza
     subtitle: Arc-en-ciel, l'espoir
+    original_title: Arc-en-ciel, l'espoir
     series: Literatura caribeña en francés y créole
     authors:
       - Nicole Cage-Florentiny
@@ -21016,8 +21230,11 @@ titles:
     verified: true
   - title: Escenas de amor y muerte en la ficción brasileña
     subtitle: El juego dramático de la relación hombre-mujer en la literatura
+    original_title: Cenas de amor e morte na ficção brasileira
     authors:
       - Lúcia Helena Vianna
+    translators:
+      - Julia Calzadilla Nuñez
     year: 1997
     language: Spanish
     sources:
@@ -21066,6 +21283,8 @@ titles:
     authors:
       - Carmen Alemany Bay
       - José Carlos Rovira
+    editors:
+      - Ramiro Muñoz Haedo
     year: 1997
     series: Colección América Latina
     language: Spanish
@@ -21535,9 +21754,14 @@ titles:
     pages: 188
     isbn: '9592600031'
   - title: Debo del es
+    original_title: Debo do é
     series: Literatura brasileña. Poesía
     authors:
       - Cecy Fernandes de Assis
+    editors:
+      - Clara Hernández Cáceres
+    translators:
+      - Rodolfo Alpízar Castillo
     year: 1999
     language: Spanish
     sources:
@@ -21900,6 +22124,7 @@ titles:
         url: https://www.sudoc.fr/069112649
     verified: true
   - title: Esa tierra
+    original_title: Essa terra
     authors:
       - Antônio Torres
     year: 2000
@@ -21966,6 +22191,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=467358540
     verified: true
   - title: Olga
+    original_title: Olga
     authors:
       - Fernando Morais
     year: 2000
@@ -21999,6 +22225,7 @@ titles:
         url: https://search.worldcat.org/title/47678738
     verified: true
   - title: Poema sucio
+    original_title: Poema sujo
     authors:
       - Ferreira Gullar
     year: 2000
@@ -22201,6 +22428,8 @@ titles:
     subtitle: 'Pedro Alvares Cabral: cómo y con quién comenzamos'
     authors:
       - Walter Galvani
+    translators:
+      - Myriam López Suárez
     year: 2001
     series: Literatura brasileña -- Ensayo histórico-social
     language: Spanish
@@ -22223,8 +22452,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/101502031
     verified: true
   - title: La pantalla roja
+    original_title: L'écran rouge
     authors:
       - Ernest Pépin
+    translators:
+      - Lourdes Arencibia Rodríguez
     year: 2001
     series: Premio Casa de las Américas. Literatura caribeña en francés y creole. Narrativa
     language: Spanish
@@ -22442,6 +22674,8 @@ titles:
   - title: El guardián del hielo
     authors:
       - José Watanabe
+    editors:
+      - Piedad Bonnett
     year: 2002
     language: Spanish
     pages: 88
@@ -22491,7 +22725,8 @@ titles:
   - title: Image 1
     subtitle: Teoría francesa y francófona del lenguaje visual y pictórico
     series: Criterios
-    authors:
+    authors: []
+    translators:
       - Desiderio Navarro
     year: 2002
     language: Spanish
@@ -22518,6 +22753,8 @@ titles:
   - title: Mar de fondo
     authors:
       - Oonya Kempadoo
+    translators:
+      - Osmany Oduardo Guerra
     year: 2002
     language: Spanish
     pages: 209
@@ -22535,6 +22772,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991014904869708606&vid=34BNE_INST:CATALOGO
     verified: true
     subtitle: Novela
+    original_title: Tide running
     series: Colección Arte de nuestra América "Haydee Santamaría"
   - title: Nada detiene a las golondrina
     series: Literatura para niños y jóvenes. Novela
@@ -22777,6 +23015,8 @@ titles:
   - title: Pesar todo
     authors:
       - Juan Gelman
+    editors:
+      - Eduardo Milán
     year: 2003
     language: Spanish
     pages: 438
@@ -22793,6 +23033,8 @@ titles:
     subtitle: Antología
     authors:
       - José Miguel Sardiñas Fernández
+    editors:
+      - Ana María Morales
     year: 2003
     series: La Honda
     language: Spanish
@@ -22821,6 +23063,9 @@ titles:
     authors:
       - Luisa Campuzano
       - Catharina V. de Vallejo
+    editors:
+      - Casa de las Américas
+      - Concordia University
     year: 2003
     series: Cuadernos Casa
     language: Spanish
@@ -22853,6 +23098,8 @@ titles:
     verified: true
   - title: Casa de las Américas
     authors: []
+    editors:
+      - Casa de las Américas
     year: 2004
     language: Spanish
     sources:
@@ -22861,6 +23108,7 @@ titles:
     verified: true
   - title: Ciudadanía en Brasil
     subtitle: El largo camino
+    original_title: Cidadania no Brasil
     authors:
       - José Murilo de Carvalho
     year: 2004
@@ -23032,8 +23280,12 @@ titles:
         url: https://www.sudoc.fr/08988857X
     verified: true
   - title: Ovando
+    original_title: Ovando
     authors:
       - G. Mauvois
+    translators:
+      - Ana María Radaelli
+      - Roger Mauvois
     year: 2004
     series: Literatura caribeña en francés o créole
     language: Spanish
@@ -23131,8 +23383,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991143362539705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: El enigma de Qaf
+    original_title: O enigma de Qaf
     authors:
       - Alberto Mussa
+    translators:
+      - Lourdes Arencibia
     year: 2005
     series: Literatura brasileña. Novela
     language: Spanish
@@ -23427,6 +23682,7 @@ titles:
     verified: true
   - title: La Universidad en el siglo XXI
     subtitle: Para una reforma democrática y emancipadora de la universidad
+    original_title: 'A universidade no século XXI : para uma reforma democrática e emancipatória da universidade'
     authors:
       - Boaventura de Sousa Santos
     year: 2006
@@ -23484,9 +23740,11 @@ titles:
     verified: true
   - title: Sentencias condicionales
     subtitle: Ficciones de expiación
+    original_title: Suspended sentences
     series: Premio Casa de las Américas
     authors:
       - Mark McWatt
+    translators:
       - María Teresa Ortega Sastriques
     year: 2006
     language: Spanish
@@ -23587,6 +23845,7 @@ titles:
         url: https://lccn.loc.gov/2009351009
     verified: true
   - title: Gobernadores del rocío
+    original_title: Gouverneurs de la rosée
     series: Colección Literatura latinoamericana; 57
     authors:
       - Jacques Roumain
@@ -23602,6 +23861,8 @@ titles:
     authors:
       - Ana Cairo Ballester
       - Luis Toledo Sande
+    editors:
+      - Ana Cairo
     year: 2007
     series: Valoración múltiple
     language: Spanish
@@ -23718,6 +23979,7 @@ titles:
         url: https://search.worldcat.org/title/298196522
     verified: true
   - title: Pisando fuera de su propia sombra
+    original_title: Pisando fora da própia sombra
     authors:
       - Ricardo Rezende Figueira
     year: 2007
@@ -23855,6 +24117,7 @@ titles:
     verified: true
     series: Ensayo histórico-social
   - title: El vasto mar de los sargazos
+    original_title: Wide Sargasso Sea
     series: Colección literatura latinoamericana y caribeña; 105
     authors:
       - Jean Rhys
@@ -23970,9 +24233,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=646229605
     verified: true
   - title: Los dioses viajan de noche
+    original_title: Les dieux voyagent la nuit
     series: Premio Casa de las Américas
     authors:
       - Louis-Philippe Dalembert
+    translators:
       - Lourdes Arencibia Rodríguez
     year: 2008
     language: Spanish
@@ -24021,6 +24286,8 @@ titles:
     series: Colección Pensamiento de Nuestra América
     authors:
       - Roberto Zurbano Torres
+    editors:
+      - Roberto Zurbano
     year: 2008
     language: English, French, Portuguese, Spanish
     sources:
@@ -24030,8 +24297,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb42361462d
     verified: true
   - title: Un defecto de color
+    original_title: Um defeito de cor
     authors:
       - Ana Maria Gonçalves
+    translators:
       - Lourdes Arencibia
     year: 2008
     language: Spanish
@@ -24062,6 +24331,10 @@ titles:
     subtitle: Haydeé Santamaría
     authors:
       - Silvia Gil
+    editors:
+      - Silvia L. Gil
+      - Ana Cecilia Ruiz Lim
+      - Chiki Salsamendi
     year: 2009
     language: Spanish
     pages: 225
@@ -24127,9 +24400,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb422173313
     verified: true
   - title: La maravillosa vida breve de Óscar Wao
+    original_title: Brief wondrous life of Oscar Wao
     series: La Honda
     authors:
       - Junot Díaz
+    translators:
       - Achy Obejas
     year: 2009
     language: Spanish
@@ -24193,6 +24468,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991020973349708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Réquiem
+    original_title: Réquiem
     series: Premio Casa de las Américas, 2009
     authors:
       - Lêdo Ivo
@@ -24223,9 +24499,11 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991029973649708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Aprendiz de Homero
+    original_title: Aprendiz de Homero
     series: Literatura brasileña
     authors:
       - Nélida Piñon
+    translators:
       - Montserrat Mira
     year: 2010
     language: Spanish
@@ -24391,6 +24669,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=718303385
     verified: true
   - title: Aprendiz de Homero
+    original_title: Aprendiz de Homero
     authors:
       - Nélida Piñon
     year: 2011
@@ -24473,8 +24752,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=688819850
     verified: true
   - title: En vísperas de los días sabáticos
+    original_title: Approaching sabbaths
     authors:
       - Jennifer Rahim
+    translators:
+      - María Josefa Gómez Álvarez
+      - Gloria Riva Morales
     year: 2011
     language: Spanish
     pages: 236
@@ -24642,9 +24925,11 @@ titles:
     verified: true
   - title: Polvo
     subtitle: Demonios y maldiciones
+    original_title: 'Poeira : demônios e maldições'
     series: Literatura brasileña
     authors:
       - Nelson de Oliveira
+    translators:
       - Ricardo Alberto Pérez
     year: 2011
     language: Spanish
@@ -24656,6 +24941,8 @@ titles:
     subtitle: Antología de la nueva ciencia ficción latinoamericana
     authors:
       - Raúl Aguiar Alvarez
+    editors:
+      - Raúl Aguiar
     year: 2011
     series: La Honda
     language: Spanish
@@ -24677,6 +24964,8 @@ titles:
     subtitle: Poesía contemporánea puertorriqueña
     authors:
       - Aurea María Sotomayor
+    editors:
+      - Áurea María Sotomayor
     year: 2011
     series: La Honda
     language: Spanish
@@ -24748,6 +25037,7 @@ titles:
       - João José Reis
       - Flávio dos Santos Gomes
       - Marcus Joaquim Maciel de Carvalho
+    translators:
       - Rodolfo Alpízar Castillo
     year: 2012
     language: Spanish
@@ -24757,6 +25047,7 @@ titles:
     verified: true
   - title: El problema de la unidad
     subtitle: Política latina y la creación de identidad
+    original_title: The problem with unity
     authors:
       - Cristina Beltrán
     year: 2012
@@ -24872,8 +25163,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1938573536
     verified: true
   - title: La sangre y el mar
+    original_title: Sang et la mer
     authors:
       - Gary Victor
+    translators:
+      - Lourdes Arencibia
     year: 2012
     language: Spanish
     pages: 173
@@ -24959,11 +25253,13 @@ titles:
         url: https://search.worldcat.org/title/851785963
     verified: true
   - title: Sábanas y sueños
+    original_title: Os lençóis e os sonhos
     series: La Honda
     authors:
       - Orlando Senna
-      - Bertha Hernández López
       - María Elena Pérez Herrera
+    translators:
+      - Bertha Hernández López
     year: 2012
     language: Spanish
     sources:
@@ -25017,8 +25313,11 @@ titles:
     verified: true
     series: Premio Casa de las Américas 2013
   - title: Domingos sin Dios
+    original_title: Domingos sem Deus
     authors:
       - Luiz Ruffato
+    translators:
+      - Aurora Fibla
     year: 2013
     series: Literatura brasileña. Novela
     language: Spanish
@@ -25035,10 +25334,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=816607761
     verified: true
   - title: Elogio de la creolidad
+    original_title: Eloge de la créolité
     authors:
       - Jean Bernabé
       - Patrick Chamoiseau
       - Raphaël Confiant
+    translators:
       - Rafael Rodríguez
       - Jesús David Curbelo Rodríguez
       - Adriana López-Labourdette
@@ -25164,8 +25465,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=785515011
     verified: true
   - title: Leche derramada
+    original_title: Leite derramado
     authors:
       - Chico Buarque
+    translators:
       - Rita da Costa
     year: 2013
     language: Spanish
@@ -25481,6 +25784,8 @@ titles:
   - title: Julio Cortázar
     subtitle: Materiales de la revista Casa de las Américas de - sobre Julio Cortázar
     authors: []
+    editors:
+      - Roberto Fernández Retamar
     year: 2014
     language: Spanish
     sources:
@@ -25530,6 +25835,8 @@ titles:
   - title: Materiales de la Revista Casa de las Américas de/sobre Julio Cortázar
     authors:
       - Julio Cortázar
+    editors:
+      - Casa de las Américas
     year: 2014
     language: Spanish
     sources:
@@ -25629,6 +25936,8 @@ titles:
     verified: true
   - title: Anotología de teatro uruguayo en el siglo XXI
     authors: []
+    editors:
+      - Roger Mirza
     year: 2015
     language: Spanish
     sources:
@@ -25637,6 +25946,8 @@ titles:
     verified: true
   - title: Antología de narrativa nueva/joven uruguaya
     authors: []
+    editors:
+      - Ramiro Sanchiz
     year: 2015
     language: Spanish
     sources:
@@ -25717,6 +26028,8 @@ titles:
   - title: El niño congelado
     authors:
       - Mildre Hernández
+    editors:
+      - Maria Elena Pérez Herrera
     year: 2015
     language: Spanish
     pages: 106
@@ -25802,9 +26115,11 @@ titles:
     verified: true
   - title: Marighella
     subtitle: El guerrillero que incendió el mundo
+    original_title: Marighella o guerrilheiro que incendiou o mundo
     series: Literatura brasileña
     authors:
       - Mario Magalhães
+    translators:
       - Rodolfo Alpízar Castillo
     year: 2015
     language: Spanish
@@ -25815,6 +26130,8 @@ titles:
   - title: Materiales de la revista Casa de las Américas de/sobre Mario Benedetti
     authors:
       - Mario Benedetti
+    editors:
+      - Xenia Reloba
     year: 2015
     language: Spanish
     pages: 441
@@ -25835,9 +26152,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=886795346
     verified: true
   - title: Mi vida sin baño
+    original_title: Minha vida sem banho
     series: Literatura brasileña
     authors:
       - Bernardo Ajzenberg
+    translators:
       - Ricardo Alberto Pérez
     year: 2015
     language: Spanish
@@ -25900,9 +26219,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991013093349705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Amrik
+    original_title: Amrik
     series: La Honda
     authors:
       - Ana Miranda
+    translators:
       - Rafael Climent-Espino
     year: 2016
     language: Spanish
@@ -25953,8 +26274,11 @@ titles:
     verified: true
   - title: Devotos y libertinos
     subtitle: Historia de la literatura anticlerical brasileña
+    original_title: Devotos e devassos
     authors:
       - Cristian Santos
+    translators:
+      - Rodolfo Alpízar Castillo
     year: 2016
     series: Premio Casa de las Américas 2016. Literatura brasileña ensayo
     language: Spanish
@@ -25970,8 +26294,11 @@ titles:
     verified: true
   - title: El batallón creol
     subtitle: (Guerra de 1914-1918)
+    original_title: Le bataillon créole
     authors:
       - Raphaël Confiant
+    translators:
+      - Rafael Rodríguez Beltrán
     year: 2016
     language: Spanish
     pages: 288
@@ -25996,9 +26323,11 @@ titles:
     verified: true
   - title: La subordinación racial en Latinoamérica
     subtitle: El papel del estado, el derecho consuetudinario y la nueva respuesta de los derechos civiles
+    original_title: 'Racial subordination in Latin America: The role of the state, customary law and the new civil rights response'
     series: Colección Investigaciones Casa de las Américas
     authors:
       - Tanya Katerí Hernández
+    translators:
       - Carlos F. de Satien Rovira Morales
     year: 2016
     language: Spanish
@@ -26131,8 +26460,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb45732490c
     verified: true
   - title: Cantos lejanos
+    original_title: Outros cantos
     authors:
       - Maria Valéria Rezende
+    translators:
       - Julia Calzadilla Nuñez
     year: 2017
     language: Spanish
@@ -26216,6 +26547,8 @@ titles:
       - Che Guevara
       - Xenia Reloba
       - Fernando Martínez Heredia
+    editors:
+      - Casa de las Américas
     year: 2017
     language: Spanish
     pages: 520
@@ -26299,7 +26632,10 @@ titles:
     verified: true
   - title: Ayiti cheri
     subtitle: 'Poesía haitiana (1800-2015) = Ayiti cheri: poésie haïtienne (1800-2015)'
-    authors:
+    authors: []
+    editors:
+      - Yasmina Tippenhauer
+    translators:
       - Yasmina Tippenhauer
     year: 2018
     language: Spanish
@@ -26358,6 +26694,8 @@ titles:
   - title: Ensayos
     authors:
       - Raúl Hernández Novás
+    editors:
+      - Enrique Saínz
     year: 2018
     series: Serie Valoración múltiple -- 1-
     language: Spanish
@@ -26375,8 +26713,10 @@ titles:
     verified: true
   - title: Erico Verissimo, escritor del mundo
     subtitle: Circulación literaria, cosmopolitismo y relaciones interamericanas
+    original_title: Erico Verissimo, escritor do mundo
     authors:
       - Carlos Cortez Minchillo
+    translators:
       - Rodolfo Alpízar Castillo
     year: 2018
     series: Premio Casa de las Américas. Literatura brasileña ensayo
@@ -26539,8 +26879,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb45796165j
     verified: true
   - title: Tras el rastro de Jaja
+    original_title: Tracing Jaja
     authors:
       - Tony Kellman
+    translators:
+      - Samuel Furé Davis
     year: 2018
     series: Literatura caribeña en inglés o creol. Novela
     language: Spanish
@@ -26556,8 +26899,10 @@ titles:
     verified: true
   - title: Azúcar, tabaco y revolución
     subtitle: La forja del Nueva York cubano
+    original_title: Sugar, cigars, and revolution
     authors:
       - Lisandro Pérez
+    translators:
       - Eloísa Le Riverend Morales
     year: 2019
     language: Spanish
@@ -26627,10 +26972,12 @@ titles:
     verified: true
   - title: Lo que el indio da
     subtitle: Geografías raciales entre México y los Estados Unidos
+    original_title: Indian given
     authors:
       - Maria Josefina Saldaña Portillo
-      - Jesús David Curbelo
       - Susana Haug Morales
+    translators:
+      - Jesús David Curbelo
     year: 2019
     language: Spanish
     sources:
@@ -26732,6 +27079,8 @@ titles:
   - title: No soy un hombre que llora
     authors:
       - Fabienne Kanor
+    translators:
+      - Jesús David Curbelo Rodríguez
     year: 2020
     series: Literatura caribeña en francés y creole. novela
     language: Spanish
@@ -26756,9 +27105,11 @@ titles:
     verified: true
   - title: Paletó y yo
     subtitle: Memorias de mi padre indígena
+    original_title: Paletó e eu
     series: Literatura Brasileña
     authors:
       - Aparecida Vilaça
+    translators:
       - Ingrid Brioso Rieumont
     year: 2020
     language: Spanish
@@ -26770,6 +27121,9 @@ titles:
     subtitle: Ensayos escogidos
     authors:
       - Silviano Santiago
+    editors:
+      - Mary Luz Estupiñán Serrano
+      - Raúl Rodríguez Freire
     year: 2020
     edition: Primera edición
     language: Spanish
@@ -26788,6 +27142,8 @@ titles:
     authors:
       - Abel Enrique Prieto
       - Jaime Gómez Triana
+    editors:
+      - Abel Prieto
     year: 2021
     language: Spanish
     pages: 278
@@ -26821,6 +27177,7 @@ titles:
     authors:
       - Nancy Morejón
       - Juanamaría Cordones Cook
+    translators:
       - Maria Rodriguez-Alcalá
     year: 2021
     language: Spanish, English

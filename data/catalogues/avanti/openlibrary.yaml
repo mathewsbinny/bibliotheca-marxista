@@ -81,6 +81,7 @@ titles:
     verified: true
   - title: Il Programma Socalista
     subtitle: Principi Fondamentali del Socialismo
+    original_title: The Class Struggle (Erfurt Program)
     authors:
       - Karl Kautsky
       - Bruno Schönlank
@@ -137,6 +138,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb30864995z
     verified: true
   - title: Al di sopra della mischia
+    original_title: Au-dessus de la mêlée
     authors:
       - Romain Rolland
     year: 1916
@@ -289,6 +291,7 @@ titles:
   - title: Il Bolscevismo all'opera
     authors:
       - William Thomas Goode
+    translators:
       - Angiolo Lanza
     year: 1920
     language: Italian
@@ -723,6 +726,7 @@ titles:
   - title: La mia infanzia
     authors:
       - Maksim Gorki
+    translators:
       - Kalissia
     year: 1922
     language: Italian
@@ -1833,6 +1837,8 @@ titles:
     subtitle: Riportati alla lezione originale secondo l'autografo e per la prima volta pubblicati integralmente a cura di Aldo Romano
     authors:
       - Carlo Pisacane
+    editors:
+      - Aldo Romano
     year: 1957
     series: His Opere complete
     language: Italian
@@ -2162,7 +2168,8 @@ titles:
     verified: true
   - title: 21 poeti bulgari fucilati
     series: Il gallo; 55
-    authors:
+    authors: []
+    translators:
       - Mario de Micheli
       - L. Pampuri
     year: 1960
@@ -2248,6 +2255,8 @@ titles:
     series: Collana del gallo grande
     authors:
       - Tito Romano
+    editors:
+      - Giorgio Solza
     year: 1960
     language: Italian
     sources:
@@ -2644,6 +2653,8 @@ titles:
   - title: Il Congresso costitutivo della Federazione giovanile socialista
     authors:
       - Federazione giovanile socialista
+    editors:
+      - Federazione Giovanile Socialista Italiana
     year: 1962
     series: Biblioteca Socialista; Collana diretta da Lelio Basso -- 31
     language: Italian
@@ -2673,6 +2684,8 @@ titles:
   - title: Il diciannovismo (1919-1922)
     authors:
       - Pietro Nenni
+    editors:
+      - Gioietta Dallò
     year: 1962
     edition: '[3. ed.]'
     series: Storia del Movimento operaio italiano
@@ -2737,6 +2750,8 @@ titles:
     subtitle: Nei documenti, nei congressi, 1906-1926
     authors:
       - Confederazione generale del lavoro (Italy)
+    editors:
+      - Luciana Marchetti
     year: 1962
     series: Saggi e documentazioni
     language: Italian
@@ -2856,6 +2871,8 @@ titles:
     subtitle: Scapigliatura, positivismo, marxismo
     authors:
       - Filippo Turati
+    editors:
+      - Luigi Cortesi
     year: 1962
     series: Saggi e documentazioni
     language: Italian
@@ -2877,6 +2894,8 @@ titles:
   - title: Turati giovane, scapigliatura, positivismo, marxismo, a cura di Luigi Cortesi
     authors:
       - Filippo Turati
+    editors:
+      - Luigi Cortesi
     year: 1962
     language: Italian
     sources:
@@ -2969,7 +2988,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/001399851
     verified: true
   - title: Dossier dei comunisti cinesi
-    authors:
+    authors: []
+    editors:
+      - Roberto Gabriele
+    translators:
       - Roberto Gabriele
     year: 1963
     series: I dossiers -- 2
@@ -3399,6 +3421,8 @@ titles:
   - title: Vent'anni di fascismo
     authors:
       - Pietro Nenni
+    editors:
+      - Gioietta Dallò
     year: 1964
     series: Sotto le bandiere del marxismo; collana di saggi e documentazioni -- 13
     language: Italian
@@ -3420,6 +3444,8 @@ titles:
   - title: Vent'anni di fascismo. A cura di Gioietta Dallo
     authors:
       - Pietro Nenni
+    editors:
+      - Gioietta Dallo
     year: 1964
     language: Italian
     sources:

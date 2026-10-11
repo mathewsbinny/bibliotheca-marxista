@@ -4085,8 +4085,9 @@ titles:
   - title: Rodnye tropy
     subtitle: 100 stichotvorenij azerbajdžanskich poėtov v perevode Vladimira Portnova
     authors:
-      - Vladimir Portnov
       - Sijavuš Mamedzade
+    translators:
+      - Vladimir Portnov
     year: 1977
     language: Russian
     sources:
@@ -4984,9 +4985,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/007274841
     verified: true
   - title: Iskender-name tom tretij
+    original_title: Iskandarnāma
     series: 'Sobranie sočinenij / Nizami Gjandževi. Sost., komm.: R. M. Aliev; 3'
     authors:
       - Ilyās Ibn-Yūsuf Niẓāmī Ganǧawī
+    translators:
       - Konstantin Abramovič Lipskerov
     year: 1991
     language: Russian
@@ -4998,6 +5001,7 @@ titles:
     series: 'Sobranie sočinenij / Nizami Gjandževi. Sost., komm.: R. M. Aliev; 2'
     authors:
       - Ilyās Ibn-Yūsuf Niẓāmī Ganǧawī
+    translators:
       - Tat'jana Strešneva
       - Vladimir Vasilʹevič Deržavin
     year: 1991
@@ -5010,6 +5014,7 @@ titles:
     series: 'Sobranie sočinenij / Nizami Gjandževi. Sost., komm.: R. M. Aliev; 1'
     authors:
       - Ilyās Ibn-Yūsuf Niẓāmī Ganǧawī
+    translators:
       - Konstantin Abramovič Lipskerov
       - Sergej V. Šervinskij
     year: 1991
@@ -5031,8 +5036,9 @@ titles:
   - title: Sobranie sočinenij v trech tomach
     authors:
       - Ilyās Ibn-Yūsuf Niẓāmī Ganǧawī
-      - Konstantin Abramovič Lipskerov
       - Rüstäm M. Älijev
+    translators:
+      - Konstantin Abramovič Lipskerov
     year: 1991
     language: Russian
     sources:

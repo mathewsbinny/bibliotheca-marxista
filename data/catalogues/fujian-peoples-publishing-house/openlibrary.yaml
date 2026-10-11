@@ -821,6 +821,8 @@ titles:
   - title: Fujian zhi hua yu cai zha
     authors:
       - Fujian Sheng (China). Shou gong ye guan li ju
+    editors:
+      - Min Wu
     year: 1959
     series: Fujian sheng gong yi mei shu cong shu
     language: Chinese
@@ -3127,6 +3129,8 @@ titles:
   - title: Ji lu gu ji xu ba ji yi zhu
     authors:
       - Fujian shi fan da xue. Zhong wen xi
+    editors:
+      - Fu jian shi fan da xue
     year: 1980
     edition: Di 1 ban
     language: Chinese
@@ -3237,6 +3241,8 @@ titles:
   - title: Ming dai she hui jing ji shi liao xuan bian
     authors:
       - Guozhen Xie
+    editors:
+      - Guo zhen Xie
     year: 1980
     edition: Di 1 ban
     series: Ming dai ye shi bi ji zi liao ji lu; 1
@@ -3474,6 +3480,8 @@ titles:
   - title: Taiwan min jian chuan shuo
     authors:
       - Ganniu Xiao
+    editors:
+      - Pingyuan Pan
     year: 1980
     edition: Di 1 ban
     series: Min jian wen xue cong shu
@@ -4535,6 +4543,8 @@ titles:
   - title: Hai yang dong wu gu shi
     authors:
       - Guoying Qiu
+    editors:
+      - Guo ying Qiu
     year: 1981
     edition: Di 1 ban
     series: Min jian wen xue cong shu
@@ -4694,6 +4704,9 @@ titles:
     verified: true
   - title: Ji mei ao yuan ti ke tuo ben
     authors: []
+    editors:
+      - Zhen qun Chen
+      - Li yi Chen
     year: 1981
     language: Chinese
     sources:
@@ -5447,6 +5460,8 @@ titles:
     verified: true
   - title: Xia men feng guang
     authors: []
+    editors:
+      - Yi wan Peng
     year: 1981
     language: Chinese
     sources:
@@ -5490,6 +5505,8 @@ titles:
   - title: Xian wang shi lu jiao zhu
     authors:
       - Bisheng Chen
+    editors:
+      - 碧笙 陳
     year: 1981
     edition: Di 1 ban
     series: Ba Min wen xian cong kan
@@ -6906,6 +6923,9 @@ titles:
     authors:
       - Guozhen Xie
       - Shunhui Zhang
+    editors:
+      - She hui ke xue zhan xian bian ji bu
+      - Zhongguo li shi wen xian yan jiu hui
     year: 1982
     edition: Di 1 ban
     language: Chinese
@@ -8257,6 +8277,9 @@ titles:
   - title: Yu Dafu kang zhan shi wen chao
     authors:
       - Dafu Yu
+    editors:
+      - Sun Wang
+      - Rong Xiong
     year: 1982
     edition: Di 1 ban
     series: Shanghai kang zhan shi qi wen xue cong shu
@@ -8450,6 +8473,8 @@ titles:
     verified: true
   - title: Zhong guo jin dai shi gang
     authors: []
+    editors:
+      - Yan nan Wu
     year: 1982
     language: Chinese
     sources:
@@ -8543,6 +8568,8 @@ titles:
   - title: Zhongguo jin dai shi gang
     authors:
       - Yannan Wu
+    editors:
+      - 雁南 吴
     year: 1982
     edition: Di 1 ban
     language: Chinese
@@ -9943,6 +9970,9 @@ titles:
     verified: true
   - title: Ji mei ao yuan ti ke ta ben
     authors: []
+    editors:
+      - Zhen qun Chen
+      - Li yi Chen
     year: 1983
     language: Chinese
     sources:
@@ -9996,9 +10026,10 @@ titles:
   - title: Jin yuan di guo de bei ju
     authors:
       - Weilian Ainisi
-      - Dexing Liu
       - Lubin Zhang
       - Tao Hong
+    translators:
+      - Dexing Liu
     year: 1983
     language: Chinese
     sources:
@@ -10008,6 +10039,8 @@ titles:
   - title: Jing hai ji shi
     authors:
       - Lang Shi
+    editors:
+      - Duoquan Wang
     year: 1983
     edition: Di 1 ban
     series: Ba Min wen xian cong kan
@@ -10152,6 +10185,8 @@ titles:
   - title: Lin Shu yan jiu zi liao
     authors:
       - Suizhi Xue
+    editors:
+      - Juncai Zhang
     year: 1983
     edition: Di 1 ban
     series: Zhongguo xian dai wen xue shi zi liao hui bian. Yi zhong
@@ -10257,6 +10292,8 @@ titles:
   - title: Mao Dun zhuan ji
     authors:
       - Mao Dun
+    editors:
+      - Jinhai Tang
     year: 1983
     edition: Di 1 ban
     series: Zhongguo dang dai wen xue yan jiu zi liao
@@ -12558,6 +12595,8 @@ titles:
   - title: Jing ji ti zhi gai ge ruo gan li lun wen ti lun ji
     authors:
       - Zhongguo jing ji ti zhi gai ge yan jiu hui
+    editors:
+      - Zhong guo jing ji ti zhi gai ge yan jiu hui
     year: 1984
     edition: Di 1 ban
     language: Chinese
@@ -12589,8 +12628,10 @@ titles:
         url: https://lccn.loc.gov/85199914
     verified: true
   - title: Jun tian zhi de yan jiu
+    original_title: Kindensei no kenkyū
     authors:
       - Toshikazu Hori
+    translators:
       - Guopan Han
     year: 1984
     language: Chinese
@@ -12765,6 +12806,8 @@ titles:
   - title: Min Tai guan xi zu pu zi liao xuan bian
     authors:
       - Weiji Zhuang
+    editors:
+      - Lianmao Wang
     year: 1984
     edition: Di 1 ban
     language: Chinese
@@ -12991,8 +13034,9 @@ titles:
   - title: Quan Zhou Yi Si Lan Jiao Shi Ke
     authors:
       - Dasheng Chen
-      - Enming Chen
       - Fujian Sheng Quanzhou hai wai jiao tong shi bo wu guan
+    translators:
+      - Enming Chen
     year: 1984
     language: English, Arabic, Persian, Chinese
     sources:
@@ -13434,6 +13478,7 @@ titles:
   - title: Xi que dao
     authors:
       - Colin Thiele
+    translators:
       - Qi He
     year: 1984
     language: Chinese
@@ -13639,6 +13684,8 @@ titles:
   - title: Yuan yang hu die pai wen xue zi liao
     authors:
       - Heshi Rui
+    editors:
+      - 芮和师
     year: 1984
     edition: Di 1 ban
     series: Zhongguo xian dai wen xue yun dong, lun zheng, she tuan zi liao cong shu = -- Zhong guo xian dai wen xue yun dong lun zheng she tuan zi liao cong shu
@@ -15349,6 +15396,8 @@ titles:
   - title: Lu Yin xuan ji
     authors:
       - Yin Lu
+    editors:
+      - Hong Qian
     year: 1985
     edition: Di 1 ban
     language: Chinese
@@ -16688,6 +16737,10 @@ titles:
     subtitle: Wen ke zong he ban
     authors:
       - Yongsheng Zhou
+    editors:
+      - Meng qiu Xu
+      - Yong sheng Zhou
+      - Jun feng Hong
     year: 1986
     edition: Di 1 ban
     language: Chinese
@@ -16835,6 +16888,9 @@ titles:
     authors:
       - Ruiyao Zhang
       - Zengrong Lu
+    editors:
+      - 张瑞尧
+      - 卢增荣
     year: 1986
     edition: Di 1 ban
     language: Chinese

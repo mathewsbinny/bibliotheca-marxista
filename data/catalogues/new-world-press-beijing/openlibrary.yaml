@@ -580,7 +580,8 @@ titles:
         url: https://archive.org/details/landandfolkinkiangsi
   - title: Not a Dog
     subtitle: An Ancient Tai Ballad
-    authors:
+    authors: []
+    translators:
       - Rewi Alley
     year: 1962
     language: English
@@ -602,7 +603,10 @@ titles:
     edition: Di 1 ban
   - title: Poems of Revolt
     subtitle: Some Chinese Voices over the Last Century
-    authors:
+    authors: []
+    editors:
+      - Rewi Alley
+    translators:
       - Rewi Alley
     year: 1962
     language: English
@@ -732,6 +736,8 @@ titles:
   - title: The Eighteen Laments
     authors:
       - Cai Wenji
+    translators:
+      - Rewi Alley
     year: 1963
     language: English
     sources:
@@ -747,6 +753,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/102048475
     verified: true
     subtitle: With Illustrations in Colour
+    original_title: Hu jia shi ba pai
     pages: 44
   - title: From Opium War to Liberation
     authors:
@@ -1267,6 +1274,8 @@ titles:
   - title: Peking Opera as a European Sees It
     authors:
       - Marie-Luise Latsch
+    translators:
+      - Dora Bradenberger
     year: 1980
     language: English
     pages: 45
@@ -1557,6 +1566,7 @@ titles:
         url: https://archive.org/details/magicfluteotherc0000unse
     verified: true
   - title: Toward a People's Anthropology
+    original_title: Mai xiang renmin de renleixue
     authors:
       - Fei Xiaotong
     year: 1981
@@ -1587,8 +1597,12 @@ titles:
     pages: 121
     edition: 1st ed
   - title: Two Women of China--Mulberry and Peach
+    original_title: Sang-ch'ing-yü-t'ao-hung
     authors:
       - Hualing Nie
+    translators:
+      - Jane Parish Yang
+      - With Linda Lappin
     year: 1981
     language: English
     pages: 257
@@ -1612,8 +1626,11 @@ titles:
     verified: true
   - title: China's Search for Economic Growth
     subtitle: 'The Chinese Economy Since 1949: Essays'
+    original_title: 'Zhong guo dui jing ji fa zhan di tan suo: Yi jiu si jiu nian yi lai di zhong guo guo min jing ji'
     authors:
       - Xu Dixin
+    translators:
+      - Andrew Watson
     year: 1982
     edition: 1st ed
     series: China Studies Series
@@ -1664,9 +1681,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=115971327
     verified: true
   - title: Folk Poems from China's Minorities
+    original_title: Xiaoshu minzu shige xuan
     authors:
-      - Rewi Alley
       - Fei Xiaotong
+    translators:
+      - Rewi Alley
     year: 1982
     language: English
     sources:
@@ -1732,7 +1751,9 @@ titles:
     verified: true
   - title: Seventh Sister and the Serpent
     subtitle: A Narrative Poem of the Yi People
-    authors:
+    original_title: Qi mei yu she lang
+    authors: []
+    translators:
       - Mark Bender
     year: 1982
     language: English
@@ -1754,7 +1775,8 @@ titles:
     edition: 1st ed
   - title: The Effendi and the Pregnant Pot
     subtitle: Uygur Folktales from China
-    authors:
+    authors: []
+    translators:
       - Primerose Gigliesi
       - Robert C. Friend
     year: 1982
@@ -1833,6 +1855,8 @@ titles:
   - title: 200 Selected Poems
     authors:
       - Bai Juyi
+    translators:
+      - Rewi Alley
     year: 1983
     language: English
     sources:
@@ -1854,6 +1878,8 @@ titles:
     subtitle: '[Pai Chü-i Shih Hsüan (200 Shou)]'
     authors:
       - Bai Juyi
+    translators:
+      - Rewi Alley
     year: 1983
     edition: 1st ed
     language: English
@@ -1974,6 +2000,7 @@ titles:
   - title: Favorite Folktales of China
     authors:
       - John Minford
+    translators:
       - Zhong Jingwen
     year: 1983
     language: English
@@ -1984,8 +2011,9 @@ titles:
   - title: Favourite Folktales of China
     subtitle: = Zhong Guo Min Jian Gu Shi
     authors:
-      - John Minford
       - He Youzhi
+    translators:
+      - John Minford
     year: 1983
     language: English
     sources:
@@ -2050,8 +2078,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1189934965
     verified: true
   - title: New Strategy for China's Economy
+    original_title: Zhongguo jing ji fa zhan di xin zhan lue
     authors:
       - Ma Hong
+    translators:
+      - Yang Lin
     year: 1983
     edition: 1st ed
     series: China Studies Series
@@ -2129,6 +2160,7 @@ titles:
     edition: 1st ed
   - title: The 1911 Revolution
     subtitle: A Retrospective After 70 Years
+    original_title: Hsin-hai ko-ming
     series: China Studies Series
     authors:
       - Hu Sheng
@@ -2206,8 +2238,11 @@ titles:
     verified: true
   - title: Yunnan Travelogue
     subtitle: 100 Days in Southwest China
+    original_title: Yunnan shao shu min zu di qu jian wen
     authors:
       - Zhongxiu
+    translators:
+      - The staff of Women of China
     year: 1983
     edition: 1st ed
     series: China Spotlight Series
@@ -2243,6 +2278,7 @@ titles:
     verified: false
   - title: Beijing Old and New
     subtitle: A Historical Guide to Places of Interest; with Descriptions of Famous Sites Within One Day's Journey of Beijing
+    original_title: Ku chin Pei-ching
     authors:
       - Cho Sha-ch'ên
     year: 1984
@@ -2326,6 +2362,8 @@ titles:
     authors:
       - Hua Junwu
       - W. J. F. Jenner
+    translators:
+      - William John Francis Jenner
     year: 1984
     edition: 1st ed
     language: Chinese
@@ -2413,7 +2451,9 @@ titles:
     verified: true
   - title: Daur Folktales
     subtitle: Selected Myths of the Daur Nationality
-    authors:
+    original_title: Dawoer zu min jian gu shi xuan
+    authors: []
+    translators:
       - Mark Bender
       - Su Huana
     year: 1984
@@ -2434,6 +2474,8 @@ titles:
     subtitle: Travels in the Liangshan Mountains
     authors:
       - Zhongxiu
+    translators:
+      - Wu Lily
     year: 1984
     edition: 1st ed
     series: China Spotlight Series
@@ -2456,8 +2498,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=27839566X
     verified: true
   - title: Highlights of Tibetan History
+    original_title: Tsang tsu shih yao (Zangzu shiyao)
     authors:
       - Wang Fu-jen
+    translators:
+      - Xu Jian
     year: 1984
     edition: 1st ed
     series: China Studies Series
@@ -2487,11 +2532,14 @@ titles:
     verified: true
   - title: In the Mansion of Confucius' Descendants
     subtitle: An Oral History
+    original_title: Kong fu nei zhai yi shi
     series: China Spotlight Series
     authors:
       - Kong Demao
       - Ke Lan
       - Rosemary A. Roberts
+    translators:
+      - Rosemary Roberts
     year: 1984
     language: English
     sources:
@@ -2534,7 +2582,10 @@ titles:
     verified: true
   - title: Light and Shadow Along a Great Road
     subtitle: An Anthology of Modern Chinese Poetry
-    authors:
+    authors: []
+    editors:
+      - Rewi Alley
+    translators:
       - Rewi Alley
     year: 1984
     language: English
@@ -2642,6 +2693,8 @@ titles:
   - title: Autobiography of a Shanghai Businesswoman
     authors:
       - Tʻang Ti-yin
+    translators:
+      - Wu Lily
     year: 1985
     series: China Spotlight Series
     language: English
@@ -2729,6 +2782,8 @@ titles:
   - title: Economic Changes in Rural China
     authors:
       - Luo Hanxian
+    translators:
+      - Wang Huimin
     year: 1985
     edition: 1st ed
     series: China Studies Series
@@ -2763,6 +2818,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000795467
     verified: true
     subtitle: = Zhong Guo Nong Cun de Jing Ji Bian Ge
+    original_title: Zhongguo nong cun de jing ji bian ge
   - title: Economic Changs in Rural China
     authors:
       - Luo Hanxian
@@ -2797,6 +2853,8 @@ titles:
     subtitle: 'Selected Prose Readings = [Mei Jih Han Yü: San Wen Hsüan Tu]'
     authors:
       - Chʻin Chung
+    editors:
+      - Zhong Qin
     year: 1985
     edition: 1st ed
     language: English
@@ -2892,6 +2950,8 @@ titles:
   - title: Questions and Answers About China's Minority Nationalities
     authors:
       - Yin
+    editors:
+      - Ma Yin
     year: 1985
     edition: 1st ed
     language: English
@@ -2964,6 +3024,8 @@ titles:
     subtitle: The Autobiography of a Shanghai Businesswoman
     authors:
       - Tang Diyin
+    translators:
+      - Wu Lily
     year: 1985
     edition: 1st ed
     series: China Spotlight Series
@@ -3008,10 +3070,13 @@ titles:
         url: https://www.gateway-bayern.de/BV050106448
     verified: true
   - title: A Visit to Confucius' Home Town
+    original_title: Kongzi-guli-you
     series: China Spotlight Series
     authors:
       - Cai Xiqin
       - Confucius
+    translators:
+      - Rosemary Roberts
     year: 1986
     language: English
     sources:
@@ -3119,6 +3184,8 @@ titles:
     authors:
       - Si Er
       - Shang Hongkui
+    translators:
+      - Zhao Shuhan
     year: 1986
     edition: 1st ed. --
     language: English
@@ -3149,6 +3216,7 @@ titles:
     verified: true
   - title: Modern China
     subtitle: A Topical History; 1840 - 1983
+    original_title: Zhongguo jindaishi huo
     authors:
       - Su Kaiming
     year: 1986
@@ -3165,6 +3233,8 @@ titles:
     subtitle: Functions, Problems & Prospects
     authors:
       - Fei Hsiao-tʻung
+    editors:
+      - Fei Xiaotong
     year: 1986
     edition: 1st ed
     series: China Studies Series
@@ -3249,6 +3319,8 @@ titles:
     subtitle: A Chinese View
     authors:
       - Wang Zuomin
+    translators:
+      - Duan Liancheng
     year: 1986
     edition: 1st ed
     language: English
@@ -3273,8 +3345,11 @@ titles:
         url: https://archive.org/details/americankaleidos0000zuom
   - title: Treatise on Febrile Diseases Caused by Cold
     subtitle: Shanghan Lun
+    original_title: Shanghan lun
     authors:
       - Zhang Zhongjing
+    translators:
+      - Luo Xiwen
     year: 1986
     edition: 1st ed
     language: English
@@ -3301,6 +3376,8 @@ titles:
     subtitle: 100 Cartoons
     authors:
       - Cong Ding
+    translators:
+      - Ma Mingtong = Ku chʻü chi /Ting Tsʻung
     year: 1986
     edition: 1st ed
     language: Chinese, English
@@ -3474,6 +3551,8 @@ titles:
     subtitle: Brighter Readings in Classical Chinese
     authors:
       - Chin Chung
+    editors:
+      - Zhong Qin
     year: 1987
     edition: 1st ed
     language: English
@@ -3565,6 +3644,7 @@ titles:
         url: https://search.worldcat.org/title/19331886
     verified: true
   - title: Sports and Games in Ancient China
+    original_title: Tiyu shi hua
     authors: []
     year: 1987
     language: English
@@ -3574,8 +3654,11 @@ titles:
     verified: true
   - title: Synopsis of Prescriptions of the Golden Chamber
     subtitle: Jinkui Yaolue Fanglun
+    original_title: Jin gui yao lue fang lun
     authors:
       - Zhang Zhongjing
+    translators:
+      - Luo Xiwen
     year: 1987
     language: English
     pages: 366
@@ -3598,6 +3681,8 @@ titles:
     subtitle: '[Pa-ssu-pa Hua Chuan]'
     authors:
       - Yang Shu-wen
+    editors:
+      - Yang Shuwen
     year: 1987
     edition: 1st ed
     series: Buddhist Thang-ka Art of Tibet
@@ -3659,7 +3744,8 @@ titles:
         url: https://archive.org/details/wuxicitywuxicoun0000tuan
   - title: Zhonghua Juanci Yi Ling Yi Shou
     subtitle: English-Chinese Bilingual Edition = 101 Chinese Lyrics
-    authors:
+    authors: []
+    translators:
       - Chu Dagao
     year: 1987
     language: Chinese, English
@@ -3671,7 +3757,8 @@ titles:
     verified: true
   - title: Zhonghua Jun Ci Yi Ling Yi Shou
     subtitle: 101 Chinese Lyrics
-    authors:
+    authors: []
+    translators:
       - Chu Dagao
     year: 1987
     language: Chinese, English
@@ -3741,6 +3828,7 @@ titles:
     verified: true
   - title: An Age Gone By
     subtitle: Lu Xun's Clan in Decline
+    original_title: Lu xun gu jia de bao luo
     authors:
       - Zhou Jianren
     year: 1988
@@ -3827,8 +3915,11 @@ titles:
     series: Female Fertility in China; 5
   - title: Inside the Red Star
     subtitle: The Memoirs of Marshal Nie Rongzhen
+    original_title: Nie-Rongzhen-huiyi-lu
     authors:
       - Rongzhen Nie
+    translators:
+      - Zhong Renyi
     year: 1988
     edition: 1st ed
     language: English
@@ -3928,6 +4019,8 @@ titles:
   - title: Tibet, the Land and the People
     authors:
       - Tiley Chodag
+    translators:
+      - W. Tailing
     year: 1988
     edition: 1st ed
     language: English
@@ -4095,6 +4188,7 @@ titles:
     subtitle: Selected Cartoons of Hua Junwu (1955-1982) = Hua-Junwu-Manhua-Xuan
     authors:
       - Hua Junwu
+    translators:
       - William J. F. Jenner
     year: 1989
     language: English, Chinese
@@ -4187,6 +4281,9 @@ titles:
   - title: Tales from Dunhuang
     authors:
       - Chen Yu
+    translators:
+      - Artem Lozynsky
+      - Li Guishan
     year: 1989
     language: English
     sources:
@@ -4201,6 +4298,7 @@ titles:
     verified: true
   - title: Underground Art Gallery
     subtitle: China's Brick Paintings, 1,700 Years Old
+    original_title: Wei Jin mu zhuan hua
     authors:
       - Wang Tʻien-i
     year: 1989
@@ -4653,6 +4751,7 @@ titles:
         url: https://www.sudoc.fr/122671058
     verified: true
   - title: Medicinal Herbs
+    original_title: 实用中草药
     authors:
       - Geng Junying
     year: 1991
@@ -4743,6 +4842,7 @@ titles:
   - title: Creation of the Gods
     authors:
       - Xu Zhonglin
+    translators:
       - Gu Zhizhong
     year: 1992
     language: English
@@ -4771,6 +4871,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb39392223p
     verified: true
     subtitle: Vol. I
+    original_title: Feng shen yen i
   - title: Entertainment Guide
     subtitle: = Wenhua Yule Zhinan
     authors:
@@ -4821,6 +4922,9 @@ titles:
     subtitle: 300 Best Excavated Antiques from China
     authors:
       - Yu Bingnan
+    editors:
+      - Yang Yang
+      - Zhongguo-Wenwu-Jiaoliu-Zhongxin
     year: 1992
     language: English
     pages: 331
@@ -4854,6 +4958,7 @@ titles:
   - title: A Cultural Tour Across China
     authors:
       - Qiu Huanxing
+    translators:
       - Huang Harry J.
     year: 1993
     language: English
@@ -4968,8 +5073,12 @@ titles:
         url: https://archive.org/details/religioninchinat0000stoc
   - title: The Bride's Boat
     subtitle: Marriage Customs of China's Fifty-Five Ethnic Minorities
+    original_title: Zhong guo shao shu min zu hun su
     authors:
       - Ye Dabing
+    editors:
+      - Ye Da Bing
+    translators:
       - Mark Bender
       - Shi Kun
     year: 1993
@@ -5146,7 +5255,10 @@ titles:
     verified: true
   - title: I Wish I Were a Wolf
     subtitle: The New Voice in Chinese Women's Literature
-    authors:
+    authors: []
+    editors:
+      - Diana B. Kingsbury
+    translators:
       - Diana B. Kingsbury
     year: 1994
     language: English
@@ -5171,6 +5283,8 @@ titles:
     subtitle: An Anthology of Classical Chinese Poetry
     authors:
       - Xu Yuanchong
+    translators:
+      - Yuan chong Xu
     year: 1994
     language: English, Chinese
     sources:
@@ -5196,6 +5310,8 @@ titles:
     subtitle: An Anthology of Classical Chinese Poetry
     authors:
       - Xu Yuanzhong
+    translators:
+      - Yuan chong Xu
     year: 1994
     language: English, Chinese
     sources:
@@ -5260,6 +5376,8 @@ titles:
   - title: Let's Get Closer
     subtitle: Selected Articles About Women by Chinese and Foreign Authors Published in Women of China Since 1979
     authors: []
+    editors:
+      - Ning Chao
     year: 1995
     edition: 1st ed
     language: English
@@ -5448,6 +5566,8 @@ titles:
     verified: true
   - title: Creation of the Gods
     authors: []
+    translators:
+      - Zhi zhong Gu
     year: 1996
     language: English
     sources:
@@ -5530,8 +5650,10 @@ titles:
     verified: true
   - title: The Essentials of War
     subtitle: 'The Masterpiece of a Strategist in Ancient China = Sun Zi Shi San Pian: Yong Bing Zhi Fa'
+    original_title: Sunzi bing fa
     authors:
       - Sun Wu
+    translators:
       - Zhong Qin
     year: 1996
     language: English, Chinese
@@ -5540,6 +5662,7 @@ titles:
         url: https://www.gateway-bayern.de/BV049433828
     verified: true
   - title: The Invisible Companion
+    original_title: Yinxing banlü
     authors:
       - Zhang Kangkang
       - Daniel Bryant
@@ -5597,6 +5720,8 @@ titles:
     authors:
       - Ren Xingzhou
       - 孫尚清
+    editors:
+      - Sun Shangqing
     year: 1997
     edition: 1st ed
     series: China Market Yearbook -- 1996
@@ -5672,6 +5797,8 @@ titles:
     subtitle: An Illustrated Guide to the Origins of Chinese Characters
     authors:
       - Shi Zhengyu
+    editors:
+      - Meng Fangling
     year: 1997
     edition: 1st ed
     language: English
@@ -5812,8 +5939,9 @@ titles:
   - title: Frescoes and Fables
     subtitle: Mural Stories from the Mogao Grottoes in Dunhuang
     authors:
-      - Li Guishan
       - Naomi McPherson
+    translators:
+      - Li Guishan
     year: 1998
     language: English
     sources:
@@ -5840,6 +5968,8 @@ titles:
   - title: Liang Shanbo and Zhu Yingtai
     authors:
       - Zhao Qingge
+    translators:
+      - Thomas Shou
     year: 1998
     edition: 1st ed
     language: English
@@ -5884,6 +6014,8 @@ titles:
     subtitle: Bai She Zhuan
     authors:
       - Zhao Qingge
+    translators:
+      - Paul White
     year: 1998
     edition: 1st ed
     language: English
@@ -5898,6 +6030,9 @@ titles:
     authors:
       - Yang Yang
       - Zhongguo-Wenwu-Jiaoliu-Zhongxin
+    translators:
+      - David M. Jacobson
+      - Yang Zhi
     year: 1998
     language: English
     sources:
@@ -5937,9 +6072,11 @@ titles:
     verified: true
   - title: Mu Dan Ting
     subtitle: = the Peony Pavilion
+    original_title: Mu dan ting
     series: Zhong Guo Gu Dai Ai Qing Gu Shi
     authors:
       - Chen Meilin
+    translators:
       - Kuang Peihua
       - Cao Shan
     year: 1999
@@ -6071,8 +6208,11 @@ titles:
     verified: true
   - title: Chinese Folk Art
     subtitle: Zhongguo Xiang Tu Yi Shu
+    original_title: Zhong guo xiang tu yi shu
     authors:
       - Yang Xianrang
+    translators:
+      - Diana Kingsbury
     year: 2000
     language: English
     pages: 246
@@ -6176,6 +6316,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=389905127
     verified: true
   - title: The Palace of Eternal Youth
+    original_title: Chang sheng dian
     authors:
       - Hong Sheng
       - Chen Meilin
@@ -6381,6 +6522,7 @@ titles:
     verified: true
   - title: The Moonlight Pavilion
     subtitle: '= Baiyueting: Yin Han Duizhao'
+    original_title: You gui ji
     series: Zhong Guo Gu Dai Ai Qing Gu Shi
     authors:
       - Shi Hui
@@ -6559,6 +6701,7 @@ titles:
     verified: false
   - title: Historic Ensemble of the Potala Palace, Lhasa
     subtitle: Potala Palace, Jokhang Temple, Norbulingka = Bu da la Gong, Da Zhao Si, Luo Bu Lin Ka
+    original_title: Budala gong
     authors:
       - Sangyey Tashi
     year: 2007
@@ -6587,6 +6730,7 @@ titles:
     subtitle: (1598-1902)
     authors:
       - Li Hong
+    translators:
       - Roy Massey
     year: 2007
     language: English
@@ -6650,9 +6794,15 @@ titles:
     verified: true
   - title: The Classical Gardens of Suzhou
     subtitle: Suzhou Gu Dian Yuan Lin
+    original_title: Suzhou, gudian yuanlin
     authors:
       - Feng Chaoxiong
       - Fan Yiguang
+    editors:
+      - Yi Guang Fan
+      - Chao Xiong Feng
+    translators:
+      - Zheng Ming Du
     year: 2007
     edition: 1st ed
     series: World Heritage Sites in China
@@ -6724,6 +6874,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BB06008640
     verified: false
   - title: Cybercitizens and the Internet in China
+    original_title: Zhong guo de hu lian wang yu wang min
     authors:
       - Dong Shaopeng
     year: 2008
@@ -6747,6 +6898,8 @@ titles:
   - title: Fascinating Mural Stories from Dunhuang Grottoes
     authors:
       - Chen Yu
+    translators:
+      - Li Guishan
     year: 2008
     edition: 1st ed
     language: English
@@ -6884,6 +7037,7 @@ titles:
     verified: true
   - title: The Man Who Brought the Olympics to China
     subtitle: The Story of Zhang Boling
+    original_title: Zhongguo Ao Yun xianqu Zhang Boling
     authors:
       - Sun Hailin
     year: 2008
@@ -6915,6 +7069,8 @@ titles:
   - title: World Fortune 500 CEOs Talk About China
     authors:
       - China Daily
+    editors:
+      - Li Shujuan
     year: 2008
     edition: Di 1 ban
     series: China-World Cultural Exchange Series = -- Zhong Wai Wen Hua Jiao Liu Xi Lie
@@ -7073,6 +7229,7 @@ titles:
         url: https://archive.org/details/dreamingbiginchi0000luya
     verified: true
     subtitle: 19 Inspirational Stories from Foreigners Who Have Made It
+    original_title: Laowai-de-Zhongguo-meng
   - title: Growing with China
     subtitle: MNC Executives Talk About China
     authors:
@@ -7238,6 +7395,9 @@ titles:
   - title: Quest for Chinese Culture
     authors:
       - Yu Qiuyu
+    translators:
+      - Ian Clark
+      - Yang Jing = Xun mi Zhonghua / Yu Qiuyu zhu
     year: 2010
     edition: Di 1 ban
     language: English
@@ -7317,8 +7477,10 @@ titles:
         url: https://search.worldcat.org/title/813851188
     verified: true
   - title: Democracy and China
+    original_title: Min zhu Zhongguo yu shi jie
     authors:
       - Liu Jianfei
+    translators:
       - Luo Hongyun
     year: 2011
     language: English
@@ -7345,6 +7507,8 @@ titles:
   - title: Practical Chinese Massage Therapy with Illustrations
     authors:
       - Chang Pan
+    translators:
+      - Li Yachan
     year: 2011
     edition: 1st ed
     language: English
@@ -7359,6 +7523,10 @@ titles:
   - title: Why and How the CPC Works in China
     authors:
       - Xie Chuntao
+    translators:
+      - Li Yi
+      - Zhang Ruiqing
+      - Zhou Gang
     year: 2011
     edition: 1st ed
     language: English, Chinese
@@ -7496,6 +7664,7 @@ titles:
     subtitle: What It Means for China and the Rest of the World
     authors:
       - Ren Xiaosi
+    translators:
       - Wang Chiying
     year: 2013
     language: English
@@ -7518,6 +7687,11 @@ titles:
   - title: The Illustrated Book of Confucius
     authors:
       - Zhou Chuncai
+    editors:
+      - Li Shujuan
+      - Yan Chuanhai
+    translators:
+      - White Paul
     year: 2013
     language: English
     pages: 253
@@ -7547,6 +7721,7 @@ titles:
     subtitle: 'Successful Cases of Nontoxic Treatment = $T01$ULatn%%Zhong Guo Shi Kang Ai: Zhong Yi Zhi Liao Zhong Liu Cheng Gong an Li'
     authors:
       - Xie Wenwei
+    translators:
       - Fang Tingyu
       - Wang Mengqiong
     year: 2014
@@ -7560,6 +7735,8 @@ titles:
     authors:
       - 黄海东
       - Li Yao
+    translators:
+      - Li Yao [
     year: 2014
     edition: First edition
     language: English
@@ -7575,6 +7752,8 @@ titles:
     subtitle: A Guide to China's Traditional Theater and the Art of Its Great Master
     authors:
       - Wu Zuguang
+    editors:
+      - Mei Weidong
     year: 2014
     edition: First Edition
     language: English
@@ -7640,6 +7819,7 @@ titles:
   - title: Early Writings of Zhou Enlai
     authors:
       - Zhou Enlai
+    translators:
       - Tian Hualu
     year: 2015
     language: English
@@ -7650,6 +7830,7 @@ titles:
   - title: I Am from Xinjiang on the Silk Road
     authors:
       - Kurbanjan Samat
+    translators:
       - Wang Chiying
     year: 2015
     edition: First edition
@@ -7666,6 +7847,8 @@ titles:
     subtitle: A Dream Come True
     authors:
       - Xie Guoping
+    translators:
+      - Li Zonghong
     year: 2015
     edition: Di 1 ban
     language: English
@@ -7778,9 +7961,10 @@ titles:
     verified: true
   - title: Memories of the 1937 Nanjing Massacre
     authors:
-      - Zhou Zhengquan
       - '"1937 Nan jing ji yi" she zhi zu'
       - '"1937 Nan jing ji yi" she zhi zu [HerausgeberIn]'
+    translators:
+      - Zhou Zhengquan
     year: 2016
     language: English
     sources:
@@ -7808,8 +7992,10 @@ titles:
     verified: true
   - title: The Belt and Road Initiative
     subtitle: What Will China Offer the World in Its Rise
+    original_title: Yi dai yi lu
     authors:
       - Wang Yiwei
+    translators:
       - Chen Feng
     year: 2016
     language: English
@@ -7832,8 +8018,9 @@ titles:
     edition: First edition
   - title: 中国关键词
     authors:
-      - Gong Jieshi
       - Administration chinoise de publication et de distribution en langues étrangères
+    translators:
+      - Gong Jieshi
     year: 2016
     language: French, Chinese
     sources:
@@ -7950,8 +8137,9 @@ titles:
     verified: true
   - title: 中国关键词：“一带一路”篇, Mots-clés pour comprendre la Chine
     authors:
-      - Gong Jieshi
       - Administration chinoise de publication et de distribution en langues étrangères
+    translators:
+      - Gong Jieshi
     year: 2017
     language: French, Chinese
     sources:
@@ -8005,8 +8193,9 @@ titles:
     verified: false
   - title: Indeks zagadnień kluczowych dla zrozumienia współczesnych Chin
     authors:
-      - Bartosz Płotka
       - Wydawnictwo Adam Marszałek
+    translators:
+      - Bartosz Płotka
     year: 2020
     language: Polish
     sources:
@@ -8318,6 +8507,7 @@ titles:
   - title: '1'
     authors:
       - Dagmar Geisler
+    translators:
       - Kang Pingping
     language: Not recorded
     sources:
@@ -8337,6 +8527,7 @@ titles:
   - title: An dong de gu shi
     authors:
       - Ole Könnecke
+    translators:
       - Ren Qingli
     language: Not recorded
     sources:
@@ -8402,6 +8593,7 @@ titles:
     subtitle: 3 - 7 sui
     authors:
       - Angelika Penner
+    translators:
       - Jin Jun
     language: Not recorded
     sources:
@@ -8529,6 +8721,7 @@ titles:
   - title: Zi wo bao hu yi shi pei yang
     authors:
       - Dagmar Geisler
+    translators:
       - Kang Pingping
     language: Not recorded
     sources:

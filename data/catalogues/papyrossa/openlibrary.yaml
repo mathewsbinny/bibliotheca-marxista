@@ -1281,6 +1281,10 @@ titles:
   - title: Die selbstbewusste Nation und ihre Geschichtsbild
     subtitle: Geschichtslegenden der Neuen Rechten-- Faschismus, Holocaust, Wehrmacht
     authors: []
+    editors:
+      - Ludwig Elm
+      - Johannes Klotz
+      - Ulrich Schneider
     year: 1997
     language: German
     sources:
@@ -1837,6 +1841,8 @@ titles:
     subtitle: Die Walser-Bubis-Debatte
     authors:
       - Johannes Klotz
+    editors:
+      - Gerd Wiegel
     year: 1999
     series: Neue kleine Bibliothek -- 59
     language: German
@@ -2293,6 +2299,7 @@ titles:
     verified: true
   - title: Der Mythos vom guten Krieg
     subtitle: Die USA und der Zweite Weltkrieg
+    original_title: De mythe van de "goede oorlog"
     authors:
       - Jacques R. Pauwels
     year: 2001
@@ -2418,6 +2425,7 @@ titles:
     verified: true
   - title: Originalton Miami
     subtitle: Die USA, Kuba und die Menschenrechte
+    original_title: ¿Disidentes o mercenarios?
     series: Neue Kleine Bibliothek; 69
     authors:
       - Hernando Calvo Ospina
@@ -2520,6 +2528,7 @@ titles:
     verified: true
   - title: Die USA - Anatomie einer Weltmacht
     subtitle: Zwischen Hegemonie und Krise
+    original_title: <<Gli>> Stati Uniti tra dominio e declino
     series: Neue Kleine Bibliothek; 79
     authors:
       - Malcolm Sylvers
@@ -2536,6 +2545,9 @@ titles:
     series: Neue Kleine Bibliothek; 77
     authors:
       - Winfried M. Zenz
+    editors:
+      - Korinna Bächer
+      - Renate Blum-Maurice
     year: 2002
     language: German
     sources:
@@ -3121,6 +3133,10 @@ titles:
     subtitle: Dokumentation des Hearings zu den Kriegsverbrechen der Gebirgsjäger
     authors:
       - Ralph Klein
+    editors:
+      - Regina Mentner
+      - Stephan Stracke
+      - AK Angreifbare Traditionspflege
     year: 2004
     series: Neue kleine Bibliothek
     language: German
@@ -3491,6 +3507,7 @@ titles:
     verified: true
   - title: “Eine” kurze Geschichte der Demokratie
     subtitle: Von Athen bis zur Europäischen Union
+    original_title: La Democrazia
     authors:
       - Luciano Canfora
     year: 2006
@@ -3505,6 +3522,7 @@ titles:
     verified: true
   - title: Alternativen aus dem Rechner
     subtitle: Für sozialistische Planung und direkte Demokratie
+    original_title: Towards a new socialism
     authors:
       - W. Paul Cockshott
       - William Paul Cockshott
@@ -3751,6 +3769,8 @@ titles:
     subtitle: 'Das Schicksal der Armenier im Osmanischen Reich: Darstellung und Dokumente'
     authors:
       - Adrian Klenner
+    editors:
+      - Jörg Berlin
     year: 2006
     series: PapyRossa Hochschulschriften -- 69
     language: German
@@ -3946,6 +3966,7 @@ titles:
     verified: true
   - title: Kampf um die Geschichte
     subtitle: Der historische Revisionismus und seine Mythen - Nolte, Furet und die anderen
+    original_title: Il revisionismo storico
     series: Neue Kleine Bibliothek; 120
     authors:
       - Domenico Losurdo
@@ -4132,6 +4153,7 @@ titles:
     verified: true
   - title: Demokratie oder Bonapartismus
     subtitle: Triumph und Niedergang des allgemeinen Wahlrechts
+    original_title: Democrazia o bonapartismo
     series: Neue Kleine Bibliothek; 128
     authors:
       - Domenico Losurdo
@@ -5303,6 +5325,7 @@ titles:
     authors:
       - Domenico Losurdo
       - Oskar Lafontaine
+    translators:
       - Hermann Kopp
     year: 2011
     language: German
@@ -5473,6 +5496,9 @@ titles:
     subtitle: Wem gehört die Stadt?
     authors:
       - Volker Lösch
+    editors:
+      - Gangolf Stocker
+      - Sabine Leidig
     year: 2011
     series: Neue kleine Bibliothek -- 159
     language: German
@@ -5512,9 +5538,11 @@ titles:
     verified: true
   - title: Alternativen aus dem Rechner
     subtitle: Für sozialistische Planung und direkte Demokratie
+    original_title: Towards a new socialism
     authors:
       - William Paul Cockshott
       - Allin Cottrell
+    translators:
       - Helmut Dunkhase
     year: 2012
     language: German
@@ -5760,6 +5788,7 @@ titles:
     verified: true
   - title: Lichtblicke im Baskenland
     subtitle: Ein interview mit Arnaldo Otegi
+    original_title: El tiempo de las luces
     authors:
       - Arnaldo Otegi
       - Fermin Munarriz
@@ -5895,8 +5924,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=747176469
     verified: true
   - title: Das 20. Jahrhundert begreifen
+    original_title: Il peccato originale del Novecento
     authors:
       - Domenico Losurdo
+    translators:
       - Erdmute Brielmayer
     year: 2013
     language: German
@@ -6059,11 +6090,13 @@ titles:
     verified: true
   - title: Eine kurze Geschichte der Demokratie
     subtitle: Von Athen bis zur Europäischen Union
+    original_title: La democrazia
     series: PapyRossa paperback
     authors:
       - Luciano Canfora
-      - Rita Seuß
       - Oskar Lafontaine
+    translators:
+      - Rita Seuß
     year: 2013
     language: German
     sources:
@@ -6560,6 +6593,7 @@ titles:
     verified: true
   - title: Lichtblicke im Baskenland
     subtitle: Ein Interview mit Arnaldo Otegi
+    original_title: El tiempo de las luces
     authors:
       - Fermín Munarriz
       - Arnaldo Otegi
@@ -7262,9 +7296,11 @@ titles:
     verified: true
   - title: Der Klassenkampf oder Die Wiederkehr des Verdrängten
     subtitle: Eine politische und philosophische Geschichte
+    original_title: <<La>> lotta di classe
     series: Neue kleine Bibliothek; 224
     authors:
       - Domenico Losurdo
+    translators:
       - Daniel Bratanovic
     year: 2016
     language: German
@@ -7371,6 +7407,8 @@ titles:
       - Bahar Aslan
       - Orhan Mangitay
       - Funda Özfirat
+    editors:
+      - Funda Göçer
     year: 2016
     series: Neue kleine Bibliothek -- 228
     language: German
@@ -8213,12 +8251,14 @@ titles:
     verified: true
   - title: Stalin
     subtitle: Geschichte und Kritik einer schwarzen Legende
+    original_title: Stalin
     series: Neue Kleine Bibliothek; 183
     authors:
       - Domenico Losurdo
       - Luciano Canfora
-      - Erdmute Brielmayer
       - Josif Vissarionovič Stalin
+    translators:
+      - Erdmute Brielmayer
     year: 2017
     language: German
     sources:
@@ -8265,9 +8305,11 @@ titles:
     verified: true
   - title: Wenn die Linke fehlt
     subtitle: Gesellschaft des Spektakels, Krise, Krieg
+    original_title: <<La>> sinistra assente
     series: Neue Kleine Bibliothek; 250
     authors:
       - Domenico Losurdo
+    translators:
       - Christa Herterich
     year: 2017
     language: German
@@ -8361,9 +8403,12 @@ titles:
     verified: true
   - title: Der Abschuss
     subtitle: Flug MH17, die Ukraine und der neue Kalte Krieg
+    original_title: Flight MH17, Ukraine and the new Cold War
     series: Neue Kleine Bibliothek; 248
     authors:
       - Kees <<van der>> Pijl
+    translators:
+      - Jochen Mitschka
     year: 2018
     language: German
     sources:
@@ -8480,10 +8525,12 @@ titles:
     verified: true
   - title: Europa, der Westen und die Sklaverei des Kapitals
     subtitle: Ein historischer Essay
+    original_title: La schiavitù del capitale
     authors:
       - Luciano Canfora
-      - Christa Herterich
       - PapyRossa-Verlags-GmbH und Co. KG
+    translators:
+      - Christa Herterich
     year: 2018
     language: German
     sources:
@@ -9317,6 +9364,8 @@ titles:
       - Heinz-Josef Bontrup
       - Ralf Marquardt
       - Peter Pulte
+    editors:
+      - Ralf-M Marquardt
     year: 2019
     language: German
     pages: 454
@@ -9732,6 +9781,8 @@ titles:
     authors:
       - Ulrich Sander
       - Förderverein Steinwache/Internationales Rombergpark-Komitee e. V.
+    editors:
+      - Internationales Rombergparkkomitee
     year: 2020
     edition: 2., erweiterte Auflage 2020
     series: Neue kleine Bibliothek -- 129
@@ -9800,6 +9851,14 @@ titles:
     subtitle: Zur Erinnerung an Herbert Schui
     authors:
       - Artur Brückmann
+    editors:
+      - Justus Henze
+      - Paula Herrschel
+      - Franziska Hildebrandt
+      - Sinah Mielich
+      - Florian Muhl
+      - Norman Paech
+      - Till Petersen
     year: 2020
     language: German
     pages: 201
@@ -9884,6 +9943,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1686117787
     verified: true
   - title: Was COVID-19 mit der ökologischen Krise, dem Raubbau an der Natur und dem Agrobusiness zu tun hat
+    original_title: Big farms make big flu
     authors:
       - Robert G. Wallace
       - Matthias Becker
@@ -9966,10 +10026,12 @@ titles:
     verified: true
   - title: “Eine” kurze Geschichte der Demokratie
     subtitle: Von Athen bis zur Europäischen Union
+    original_title: <<La>> democrazia
     series: PapyRossa Paperback
     authors:
       - Luciano Canfora
       - Oskar Lafontaine
+    translators:
       - Rita Seuß
     year: 2021
     language: German
@@ -10057,6 +10119,10 @@ titles:
     subtitle: Migrantische Stimmen zu Rassismus, rassistischer Gewalt und Gegenwehr
     authors:
       - Kemal Bozay
+    editors:
+      - Serpil Güner
+      - Orhan Mangitay
+      - Funda Göçer
     year: 2021
     series: Neue kleine Bibliothek -- 296
     language: German
@@ -10144,11 +10210,13 @@ titles:
     verified: true
   - title: Der westliche Marxismus
     subtitle: Wie er entstand, verschied und auferstehen könnte
+    original_title: Il marxismo occidentale
     series: Neue kleine Bibliothek; 265
     authors:
       - Domenico Losurdo
-      - Christa Herterich
       - PapyRossa-Verlags-GmbH und Co. KG
+    translators:
+      - Christa Herterich
     year: 2021
     language: German
     sources:
@@ -10416,8 +10484,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1769363017
     verified: true
   - title: Was COVID-19 mit der ökologischen Krise, dem Raubbau an der Natur und dem Agrobusiness zu tun hat
+    original_title: Big farms make big flu
     authors:
       - Robert G. Wallace
+    translators:
       - Matthias Becker
     year: 2021
     language: German
@@ -10495,9 +10565,11 @@ titles:
     verified: true
   - title: Alternativen aus dem Rechner
     subtitle: Für sozialistische Planung und direkte Demokratie
+    original_title: Towards a new socialism
     authors:
       - William Paul Cockshott
       - Allin Cottrell
+    translators:
       - Helmut Dunkhase
     year: 2022
     language: German
@@ -10618,10 +10690,12 @@ titles:
     verified: true
   - title: Eine Welt ohne Krieg
     subtitle: Die Friedensidee von den Verheißungen der Vergangenheit bis zu den Tragödien der Gegenwart
+    original_title: Un mondo senza guerre
     authors:
       - Domenico Losurdo
-      - Christel Buchinger
       - PapyRossa-Verlags-GmbH und Co. KG
+    translators:
+      - Christel Buchinger
     year: 2022
     language: German
     sources:
@@ -10925,8 +10999,10 @@ titles:
     verified: true
   - title: Die Jakarta-Methode
     subtitle: Wie ein mörderisches Programm Washingtons unsere Welt bis heute prägt
+    original_title: The Jakarta method
     authors:
       - Vincent Bevins
+    translators:
       - Glenn Jäger
     year: 2023
     language: German
@@ -11214,9 +11290,11 @@ titles:
     verified: true
   - title: Der Kommunismus
     subtitle: Geschichte, Erbe und Zukunft
+    original_title: La questione comunista
     authors:
       - Domenico Losurdo
       - Giorgio Grimaldi
+    translators:
       - Christel Buchinger
     year: 2024
     language: German
@@ -11276,13 +11354,15 @@ titles:
     verified: true
   - title: Giftiger Nebel
     subtitle: Agent Orange und sein Einsatz in den USA
+    original_title: A bitter fog
     series: Neue kleine Bibliothek; 333
     authors:
       - Carol Van Strum
-      - Britta Neumann
       - Günter Giesenfeld
       - Norman Paech
       - PapyRossa-Verlags-GmbH und Co. KG
+    translators:
+      - Britta Neumann
     year: 2024
     language: German
     sources:
@@ -11361,11 +11441,13 @@ titles:
     verified: true
   - title: Letzte Station
     subtitle: Griechische Gefangene in deutschen Konzentrationslagern
+    original_title: Τελευταίος σταθμός
     authors:
       - Elenē Delēdēmētriu-Tsakmakē
+      - Barbara Distel
+    translators:
       - Brigitte Münch
       - Antonis Tsakmakis
-      - Barbara Distel
     year: 2024
     language: German
     sources:
@@ -11504,11 +11586,13 @@ titles:
     verified: true
   - title: Der untote Faschismus
     subtitle: Mussolini und der fruchtbare Schoß der ›freien Welt‹
+    original_title: Il fascismo non è mai morto
     authors:
       - Luciano Canfora
+      - PapyRossa-Verlags-GmbH und Co. KG
+    translators:
       - Christel Buchinger
       - Thomas Hohnerlein-Buchinger
-      - PapyRossa-Verlags-GmbH und Co. KG
     year: 2025
     language: German
     sources:
@@ -11648,12 +11732,14 @@ titles:
     verified: true
   - title: Secret Power
     subtitle: Der Angriff auf WikiLeaks und Julian Assange
+    original_title: Il potere segreto
     authors:
       - Stefania Maurizi
       - Vincent Bevins
       - Ken Loach
-      - Glenn Jäger
       - PapyRossa-Verlags-GmbH und Co. KG
+    translators:
+      - Glenn Jäger
     year: 2025
     language: German
     sources:
@@ -11780,11 +11866,13 @@ titles:
     verified: true
   - title: Black antifascism
     subtitle: Widerstand in den USA
+    original_title: The Black antifascist tradition
     authors:
       - Jeanelle K. Hope
       - Bill Mullen
-      - Jürgen Heiser
       - PapyRossa-Verlags-GmbH und Co. KG
+    translators:
+      - Jürgen Heiser
     year: 2026
     language: German
     sources:
@@ -11793,10 +11881,12 @@ titles:
     verified: true
   - title: Das stählerne Stachelschwein
     subtitle: Häutungen des Westens
+    original_title: Il porcospino d'acciaio
     authors:
       - Luciano Canfora
-      - Phillip Becher
       - PapyRossa-Verlags-GmbH und Co. KG
+    translators:
+      - Phillip Becher
     year: 2026
     language: German
     sources:
@@ -11957,6 +12047,7 @@ titles:
     verified: true
   - title: Von Henkern und Helden
     subtitle: Faschismus und Widerstand – Eine Sicht aus der Resistenza
+    original_title: Guerre, deportazioni, dittature, eroi
     authors:
       - Guido Lorenzetti
       - Ulrich Schneider

@@ -89,8 +89,11 @@ titles:
     verified: true
   - title: Effondrements
     subtitle: Roman
+    original_title: Întunecare
     authors:
       - Cezar Petresco
+    translators:
+      - Iosif Igiroşianu
     year: 1956
     language: French
     sources:
@@ -141,8 +144,9 @@ titles:
   - title: Je m'adresse a toi Amerique!
     authors:
       - Maria Banuş
-      - Constantin Aurelian
       - Florica Cordescu
+    translators:
+      - Constantin Aurelian
     year: 1956
     language: French
     sources:
@@ -230,6 +234,8 @@ titles:
     verified: true
   - title: Short Stories
     authors: []
+    translators:
+      - W. Staadecker
     year: 1956
     language: English
     sources:
@@ -251,6 +257,7 @@ titles:
   - title: Stormy Petrel
     authors:
       - Petru Dumitriu
+    translators:
       - Eugenia Farca
     year: 1956
     language: English
@@ -281,6 +288,8 @@ titles:
   - title: To You, America, I Speak
     authors:
       - Maria Banuş
+    translators:
+      - Alfred Margul Sperber
     year: 1956
     language: English
     pages: 42
@@ -323,6 +332,7 @@ titles:
     subtitle: Roman
     authors:
       - Valeriu Emil Galan
+    translators:
       - C. Borănesco
     year: 1957
     language: French
@@ -436,6 +446,8 @@ titles:
   - title: L'Etranger,... "Străinul". Traduit du roumain par Ana Vifor. Illustrations de P. Nazarie
     authors:
       - Titus Popovici
+    translators:
+      - Ana Vifor
     year: 1957
     language: French
     sources:
@@ -455,6 +467,8 @@ titles:
   - title: La Révolte, roman. Préface de Ov. S. Crohmǎlniceanu. Traduit du roumain par Valentin Lipatti
     authors:
       - Liviu Rebreanu
+    translators:
+      - Valentin Lipatti
     year: 1957
     language: French
     sources:
@@ -537,6 +551,7 @@ titles:
     subtitle: Skizzen und Novellen
     authors:
       - András Sütő
+    translators:
       - Mariana Şora
     year: 1957
     language: German
@@ -615,10 +630,12 @@ titles:
     verified: true
   - title: The stranger
     subtitle: A novel
+    original_title: Străinul
     authors:
       - Titus Popovici
-      - Lazar Marinescu
       - Pavlin Nazarie
+    translators:
+      - Lazar Marinescu
     year: 1957
     language: Romanian
     sources:
@@ -658,6 +675,8 @@ titles:
   - title: Un Homme parmi des hommes, roman. Un Om intre oameni. Traduit du roumain par Aurel George Boes̡teanu
     authors:
       - Camil Petrescu
+    translators:
+      - Aurel George Boes̡teanu
     year: 1957
     language: French
     sources:
@@ -686,6 +705,8 @@ titles:
   - title: Vie d'Etienne le Grand. Viaţa lui Ştefan cel Mare. Traduit du roumain par Al. Duiliu-Zamfiresco
     authors:
       - Mihail Sadoveanu
+    translators:
+      - Al. Duiliu-Zamfirescu
     year: 1957
     language: French
     sources:
@@ -696,6 +717,8 @@ titles:
     subtitle: A Novel
     authors:
       - Camil Petrescu
+    translators:
+      - E. Farca
     year: 1958
     language: English
     sources:
@@ -747,10 +770,12 @@ titles:
         url: https://openlibrary.org/books/OL18937171M
     verified: true
   - title: Das Leben Stefans des Grossen
+    original_title: Viaţa lui Stefan cel Mare
     authors:
       - Mihail Sadoveanu
-      - Hermine Pilder-Klein
       - Ştefan Balş
+    translators:
+      - Hermine Pilder-Klein
     year: 1958
     language: German
     sources:
@@ -762,9 +787,11 @@ titles:
         url: https://search.worldcat.org/title/29014274
     verified: true
   - title: Das Märchen vom Harap Alb
+    original_title: Povestea lui Harap Alb
     authors:
       - Ion Creangă
       - Anastase Demian
+    translators:
       - Hermine Pilder-Klein
       - Alfred Margul-Sperber
     year: 1958
@@ -857,6 +884,7 @@ titles:
   - title: Histoires au coin du feu
     authors:
       - Mihail Sadoveanu
+    translators:
       - Aurel George Boeşteanu
     year: 1958
     language: French
@@ -881,8 +909,9 @@ titles:
   - title: Maria und ihre Schwälbchen
     authors:
       - Alexandru Toma
-      - Ewald Ruprecht Korn
       - Ioana Olteş-Stănescu
+    translators:
+      - Ewald Ruprecht Korn
     year: 1958
     language: German
     sources:
@@ -892,6 +921,8 @@ titles:
   - title: Nic l'héroïque
     authors:
       - Nina Cassian
+    translators:
+      - C. Borănesco
     year: 1958
     language: French
     pages: 94
@@ -1148,8 +1179,10 @@ titles:
     verified: false
   - title: Umdüsterung
     subtitle: Roman
+    original_title: Întunecare
     authors:
       - Cezar Petrescu
+    translators:
       - Ernst Osorovitz
     language: German
     sources:

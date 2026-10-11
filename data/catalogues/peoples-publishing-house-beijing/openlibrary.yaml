@@ -2283,6 +2283,7 @@ titles:
         url: https://search.worldcat.org/title/33147935
     verified: true
   - title: Zhonghua Renmin Gongheguo lao dong bao xian tiao li
+    original_title: Lao dong bao xian tiao li
     authors:
       - China
     year: 1951
@@ -4127,6 +4128,8 @@ titles:
     subtitle: Principles of Soviet criminal procedure law
     authors:
       - Nikolai Dmitrievich Durmanov
+    translators:
+      - Zhao Hanyu
     year: 1951
     edition: 1. ed
     series: Xin fa xue can kao cong shu
@@ -5024,6 +5027,8 @@ titles:
     verified: true
   - title: Ren min min zhu zheng quan jian she gong zuo
     authors: []
+    editors:
+      - Ren min chu ban she
     year: 1952
     edition: 3 ban
     language: Chinese
@@ -5161,6 +5166,7 @@ titles:
         url: https://search.worldcat.org/title/34531397
     verified: true
   - title: Su lian she hui zhu yi jing ji wen ti
+    original_title: Ekonomicheskie problemy sot soializma v SSSR
     authors:
       - Sidalin
     year: 1952
@@ -5350,7 +5356,8 @@ titles:
     verified: true
   - title: Xiong ya li ren min gong he guo bai pi shu
     subtitle: Guan yu Mei guo zheng fu fan dui Xiong ya li ren min gong he guo de di dui huo dong de wen jian
-    authors:
+    authors: []
+    translators:
       - Qunli
     year: 1952
     language: Chinese
@@ -7232,6 +7239,8 @@ titles:
   - title: Huo bi gai ge
     authors:
       - I. A. Dymshits
+    translators:
+      - Guo Congzhou
     year: 1953
     language: Chinese
     pages: 26
@@ -7455,6 +7464,7 @@ titles:
     verified: true
   - title: Lun guo jia gong ye hua yu Lian gong (bu) dang nei de you qing
     subtitle: 1928 nian 11 yue 19 ri zai lian gong (bu) Zhong yang quan hui shang de yan shuo
+    original_title: Ob industrializacii strany i o pravom uklone v VKP(b)
     authors:
       - Josif Vissarionovič Stalin
     year: 1953
@@ -7598,6 +7608,7 @@ titles:
   - title: Ma ke si zhu yi yu min zu, zhi min di wen ti
     authors:
       - Josif Vissarionovič Stalin
+    translators:
       - Zhang Zhongshi
     year: 1953
     language: Chinese
@@ -8627,6 +8638,8 @@ titles:
     verified: true
   - title: Zhong guo xin min zhu zhu yi ge ming shi. chu gao. xiu ding ben
     authors: []
+    editors:
+      - Hua Hu
     year: 1953
     language: Chinese
     sources:
@@ -8937,8 +8950,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1860872298
     verified: true
   - title: Zong jiao de ben zhi
+    original_title: Das Wesen der Religion
     authors:
       - Ludwig Feuerbach
+    translators:
       - Wang Taiqing
     year: 1953
     language: Chinese
@@ -12253,8 +12268,9 @@ titles:
     subtitle: = Prava i objazannosti raionnogo prokurora i organizacija ego raboty$f1950
     authors:
       - Vasilij G. Lebedinskij
-      - Jia Baolian
       - Wang Zhixiang
+    translators:
+      - Jia Baolian
     year: 1954
     language: Chinese
     sources:
@@ -12386,9 +12402,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1413894623
     verified: true
   - title: Su lian jian cha zhi du shi
+    original_title: Istorija sovetskoj prokuratury v važnejšich dokumentach
     authors:
       - Dmitrij Ivanovič Orlov
       - Vasilij G. Lebedinskij
+    translators:
       - Dang Fengde
     year: 1954
     language: Chinese
@@ -14500,6 +14518,8 @@ titles:
     authors:
       - Georgiǐ Fedorovich Aleksandrov
       - 馬哲
+    translators:
+      - Ma Zhe
     year: 1954
     language: Chinese
     pages: 444
@@ -14884,6 +14904,8 @@ titles:
     verified: true
   - title: Guan yu gen zhi Huang He shui hai he kai fa Huang He shui li de zong he gui hua de bao gao
     authors: []
+    editors:
+      - Ren min chu ban she
     year: 1955
     edition: Di 1 ban
     language: Chinese
@@ -15225,9 +15247,11 @@ titles:
         url: https://openlibrary.org/books/OL18377233M
     verified: true
   - title: Li shi wei wu zhu yi
+    original_title: Istoricheskiĭ materializm
     authors:
       - Institut filosofii (Akademiia nauk SSSR)
       - Fedor Vasilʹevich Konstantinov
+    translators:
       - Liu Pigun
     year: 1955
     language: Chinese
@@ -15716,6 +15740,9 @@ titles:
   - title: Zheng zhi jing ji xue jiao ke shu
     authors:
       - Institut ėkonomiki (Akademiia nauk SSSR)
+    editors:
+      - Sulian-Kexueyuan
+      - Makesi-Engesi-Liening-Sidalin-Zhuzuo-Bianyiju
     year: 1955
     language: Chinese
     sources:
@@ -15733,6 +15760,8 @@ titles:
   - title: Zheng zhi jing ji xue pi pan
     authors:
       - Karl Marx
+    translators:
+      - Xu Jian
     year: 1955
     language: Chinese
     pages: 183
@@ -15862,6 +15891,8 @@ titles:
   - title: Zhongguo
     authors:
       - V. IA Avarin
+    translators:
+      - Chen Zhaolian
     year: 1955
     edition: Di 1 ban
     language: Chinese
@@ -18169,6 +18200,7 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Zhongguo gong chan dang
     year: 1956
     language: Chinese
@@ -18477,6 +18509,8 @@ titles:
   - title: Tai ping tian guo zhi du chu tan
     authors:
       - Li Chun bian
+    editors:
+      - Li Chun
     year: 1956
     language: Chinese
     sources:
@@ -18589,6 +18623,9 @@ titles:
   - title: Wo men jiu jing ju jue shen mo yi chan?
     authors:
       - Vladimir Il’ich Lenin
+    translators:
+      - Cao Baohua
+      - Mao Anqing
     year: 1956
     language: Chinese
     pages: 64
@@ -18812,6 +18849,8 @@ titles:
     verified: true
   - title: Zhong guo gong chan dang di ba ci quan guo dai biao da hui wen jian
     authors: []
+    editors:
+      - Ren min chu ban she
     year: 1956
     language: Chinese
     sources:
@@ -20646,6 +20685,9 @@ titles:
       - Nikita Sergeevich Khrushchev
       - TSK KPSS
       - 中國共產黨. 中央馬克思, 恩格斯, 列寧, 斯大林著作編譯局
+    translators:
+      - Zhong gong zhong yang Makesi
+      - Sidalin zhu zuo bian yi ju
     year: 1956
     language: Chinese
     pages: 134
@@ -21329,6 +21371,8 @@ titles:
   - title: Jin yi xin bian Sunzi bing fa
     authors:
       - 孙武 (Sun Tzu)
+    editors:
+      - Guo Huaruo
     year: 1957
     language: Chinese
     pages: 113
@@ -22159,6 +22203,8 @@ titles:
   - title: Zhen han shi jie de shi tian
     authors:
       - John Reed
+    translators:
+      - Guo Shengming
     year: 1957
     language: Chinese
     pages: 414
@@ -22201,6 +22247,8 @@ titles:
     verified: true
   - title: Zhong gong zhong yang guan yu gai jin nong ye sheng chan he zuo she de zhi shi
     authors: []
+    editors:
+      - Ren min chu ban she
     year: 1957
     language: Chinese
     sources:
@@ -24346,6 +24394,7 @@ titles:
     subtitle: 1848 nian zhi 1955 nian de guo ji she hui zhu yi he gong chan zhu yi yun dong = History of the three internationals
     authors:
       - William Zebulon Foster
+    translators:
       - Li Lu
     year: 1958
     language: Chinese
@@ -28059,6 +28108,8 @@ titles:
     verified: true
   - title: Wo guo fu nü jie fang yun dong de xin jie duan
     authors: []
+    editors:
+      - Ren min chu ban she
     year: 1960
     edition: Di 1 ban
     language: Chinese
@@ -28105,6 +28156,8 @@ titles:
       - Hou Wailu
       - Zhao Jibin
       - Du Guoxiang
+    editors:
+      - Hou Wai lu
     year: 1960
     language: Chinese
     sources:
@@ -28955,6 +29008,8 @@ titles:
   - title: Fei'erbaha yu Deguo gu dian zhe xue de zhong jie
     authors:
       - Friedrich Engels
+    translators:
+      - Zhang Zhongshi
     year: 1961
     edition: '[Di 3 ban]'
     language: Chinese
@@ -29247,6 +29302,9 @@ titles:
   - title: Zhao mei zhan yan
     authors:
       - Fang Dongshu
+    editors:
+      - Wang Zhaoying
+      - 沼楹 汪
     year: 1961
     edition: Beijing di 1 ban
     series: Zhongguo gu dian wen xue li lun pi ping zhuan zhu xuan ji
@@ -29376,6 +29434,8 @@ titles:
   - title: Zi ran bian zheng fa
     authors:
       - Friedrich Engels
+    translators:
+      - Cao Baohua
     year: 1961
     language: Chinese
     pages: 338
@@ -30141,6 +30201,8 @@ titles:
   - title: Makesi En'gesi guan yu li shi wei wu zhu yi de xin
     authors:
       - Karl Marx
+    translators:
+      - Ai Siqi
     year: 1962
     edition: '[Di 3 ban]'
     language: Chinese
@@ -30260,6 +30322,8 @@ titles:
   - title: She hui zhu yi cong kong xiang dao ke xue de fa zhan
     authors:
       - Friedrich Engels
+    translators:
+      - Wu Liping
     year: 1962
     language: Chinese
     pages: 83
@@ -30346,6 +30410,7 @@ titles:
         url: https://search.worldcat.org/title/46823509
     verified: true
   - title: Yi ba qi yi nian gong she shi
+    original_title: Geschichte der Kommune 1871
     authors:
       - Prosper Olivier Lissagaray
     year: 1962
@@ -30553,6 +30618,8 @@ titles:
   - title: Zhongguo shi gao
     authors:
       - Guo Moruo
+    editors:
+      - 沫若 郭
     year: 1962
     language: Chinese
     sources:
@@ -32005,6 +32072,9 @@ titles:
   - title: Liening fan dui xiu zheng zhu yi, ji hui zhu yi de dou zheng
     authors:
       - Shi Zhengyan
+    editors:
+      - Zheng Yanshi
+      - 言實 鄭
     year: 1963
     edition: Di 1 ban
     series: Hong qi cong kan
@@ -32142,6 +32212,8 @@ titles:
     subtitle: 1857-1859 nian
     authors:
       - Karl Marx
+    translators:
+      - Yi Tingzhen
     year: 1963
     language: Chinese
     pages: 260
@@ -32798,6 +32870,8 @@ titles:
     subtitle: Zhong guo zao qi qi meng si xiang shi
   - title: Zhong guo zhe xue shi
     authors: []
+    editors:
+      - Ji yu Ren
     year: 1963
     language: Chinese
     sources:
@@ -34259,9 +34333,12 @@ titles:
         url: https://search.worldcat.org/title/21253771
     verified: true
   - title: Gong chan dang xuan yan
+    original_title: Manifest der Kommunistischen Partei
     authors:
       - Karl Marx
       - Friedrich Engels
+    editors:
+      - Zhong guo gong chan dang
     year: 1964
     language: Chinese
     sources:
@@ -34876,6 +34953,8 @@ titles:
     verified: true
   - title: Wen hua zhan xian shang de yi ge da ge ming
     authors: []
+    editors:
+      - Ren min chu ban she
     year: 1964
     edition: Di 1 ban
     language: Chinese
@@ -35340,6 +35419,7 @@ titles:
   - title: Zi ben lun
     authors:
       - Karl Marx
+    translators:
       - Guo Dali
       - Wang Yanan
     year: 1964
@@ -36889,6 +36969,7 @@ titles:
         url: https://search.worldcat.org/title/502893089
     verified: true
   - title: Gu yong lao dong yu zi ben
+    original_title: Lohnarbeit und Kapital
     authors:
       - Karl Marx
     year: 1965
@@ -37575,6 +37656,8 @@ titles:
   - title: Zhong hua ren min gong he guo di san jie quan guo ren min dai biao da hui di yi ci hui yi zhu yao wen jian
     authors:
       - China
+    editors:
+      - Ren min chu ban she
     year: 1965
     language: Chinese
     sources:
@@ -39776,6 +39859,7 @@ titles:
   - title: Zi ben lun
     authors:
       - Karl Marx
+    translators:
       - Guo Dali
       - Wang Yanan
     year: 1966
@@ -43720,6 +43804,7 @@ titles:
         url: https://search.worldcat.org/title/34446305
     verified: true
   - title: Ge da gang ling pi pan
+    original_title: Kritik des Gothaer Programms
     authors:
       - Karl Marx
       - 中央马克斯恩格斯列宁斯大林著作编译局
@@ -43741,6 +43826,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1059651378
     verified: true
   - title: Gong chan dang xuan yan
+    original_title: Manifest der Kommunistischen Partei
     authors:
       - Makesi
       - Engesi
@@ -43799,6 +43885,8 @@ titles:
   - title: Hong deng ji
     authors:
       - Zhongguo jing ju tuan
+    editors:
+      - Zhong guo jing ju tuan
     year: 1970
     series: Ge ming xian dai jing ju
     language: Chinese
@@ -43966,6 +44054,8 @@ titles:
     authors:
       - Beijing Jing ju tuan
       - 北京京剧团
+    editors:
+      - Bei jing jing ju tuan
     year: 1970
     language: Chinese
     sources:
@@ -44473,6 +44563,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991171054826205501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Gong chan zhu yi yun dong zhong de "zuo pai" you zhi bing
+    original_title: Detskai︠a︡ bolezn "levizny" v kommunizme
     authors:
       - Vladimir Ilʹič Lenin
     year: 1971
@@ -44610,6 +44701,7 @@ titles:
         url: https://search.worldcat.org/title/48552225
     verified: true
   - title: Lao dong zai cong yuan dao ren zhuan bian guo cheng zhong de zuo yong
+    original_title: Anteil der Arbeit an der Menschwerdung des Affen
     authors:
       - Friedrich Engels
     year: 1971
@@ -44684,6 +44776,7 @@ titles:
         url: https://www.sudoc.fr/179039660
     verified: true
   - title: Liening Wei wu zhu yi he jing yan pi pan zhu yi
+    original_title: Materializm i empiriokritit︠s︡izm
     authors:
       - Vladimir Ilʹič Lenin
     year: 1971
@@ -44762,6 +44855,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1487301944
     verified: true
   - title: Makesi “Zheng zhi jing ji xue pi pan” xu yan, dao yan
+    original_title: Zur Kritik der politischen Ökonomie
     authors:
       - Karl Marx
       - Zhongguo gong chan dang
@@ -45038,6 +45132,8 @@ titles:
   - title: Zhi qu Wei hu shan
     authors:
       - Shanghai jing ju tuan. Zhi qu Wei hu shan ju zu
+    editors:
+      - Bei jing jing ju tuan
     year: 1971
     series: Ge ming xian dai jing ju
     language: Chinese
@@ -46110,6 +46206,7 @@ titles:
     verified: true
   - title: Jia ting, si you zhi he guo jia de qi yuan
     subtitle: Jiu Lu yi si Heng Mo er gen de yan jiu cheng guo er zuo
+    original_title: Ursprung der Familie, des Privateigentums und des Staats
     authors:
       - Friedrich Engels
       - Lewis Henry Morgan
@@ -46355,6 +46452,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=721358942
     verified: true
   - title: Ma ke si zhuan
+    original_title: 'Karl Marx: Geschichte seines Lebens'
     authors:
       - Fu Meilin
       - Ping Te
@@ -48607,6 +48705,9 @@ titles:
   - title: Jian ming Zhongguo zhe xue shi
     authors:
       - Li Jinquan
+    editors:
+      - Yang Rongguo
+      - 荣国 杨
     year: 1973
     language: Chinese
     pages: 541
@@ -48783,6 +48884,7 @@ titles:
         url: https://openlibrary.org/books/OL19629170M
     verified: true
   - title: Lun quan wei
+    original_title: Von der Autorität
     authors:
       - Friedrich Engels
     year: 1973
@@ -49402,6 +49504,8 @@ titles:
   - title: Zheng zhi jing ji xue gai lun
     authors:
       - He Xu
+    editors:
+      - Xu He
     year: 1973
     language: Chinese
     pages: 503
@@ -49550,6 +49654,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1413899803
     verified: true
   - title: Zi ben de liu tong guo cheng
+    original_title: Der Cirkulationsprocess des Kapitals
     series: 'Zi ben lun: zheng zhi jing ji xue pi pan / Ma ke si zhu; [en ge si bian]; guo da li, wang ya nan yi; 2'
     authors:
       - Karl Marx
@@ -49561,6 +49666,7 @@ titles:
     verified: true
   - title: Zi ben de sheng chan guo cheng
     subtitle: '2'
+    original_title: Der Produktionsprocess des Kapitals
     series: 'Zi ben lun: zheng zhi jing ji xue pi pan / Ma ke si zhu; [en ge si bian]; guo da li, wang ya nan yi; 1,2'
     authors:
       - Karl Marx
@@ -49574,6 +49680,7 @@ titles:
     verified: true
   - title: Zi ben lun
     subtitle: Zheng zhi jing ji xue pi pan
+    original_title: Das Kapital
     authors:
       - Karl Marx
     year: 1973
@@ -49586,6 +49693,7 @@ titles:
     verified: true
   - title: Zi ben zhu yi sheng chan de zong guo cheng
     subtitle: '2'
+    original_title: Der Gesammtprocess der kapitalistischen Produktion
     series: 'Zi ben lun: zheng zhi jing ji xue pi pan / Ma ke si zhu; [en ge si bian]; guo da li, wang ya nan yi; 3,2'
     authors:
       - Karl Marx
@@ -50994,6 +51102,8 @@ titles:
   - title: Dazhai hong qi
     authors:
       - Jin Wen
+    editors:
+      - Wen Jin
     year: 1974
     language: Chinese
     pages: 279
@@ -51766,6 +51876,7 @@ titles:
         url: https://search.worldcat.org/title/23310716
     verified: true
   - title: Lun zhan dou wei wu zhu yi de yi yi
+    original_title: O znachenii voinstvui︠u︡shchego materializma
     authors:
       - Vladimir Ilʹič Lenin
     year: 1974
@@ -54840,8 +54951,11 @@ titles:
         url: https://lccn.loc.gov/81187759
     verified: true
   - title: Lian gong (bu) dang shi jian ming jiao cheng
+    original_title: Istorija Vsesojuznoj Kommunisticeskoj Partii (Bol'sevikov)$dKratkij kurs
     authors:
       - Zhongguo gong chan dang. Zhong yang Makesi En'gesi Liening Sidalin zhu zuo bian yi ju
+    translators:
+      - Zhong gong zhong yang ma ke si en ge si lie ning si da lin zhu zuo bian yi ju
     year: 1975
     language: Chinese
     pages: 399
@@ -57940,6 +58054,8 @@ titles:
   - title: '"Hong lou meng" yu Qing dai feng jian she hui'
     authors:
       - Shi Daqing
+    editors:
+      - 达青 施
     year: 1976
     edition: Di 1 ban
     series: '"Xue dian li shi" cong shu'
@@ -58458,6 +58574,8 @@ titles:
   - title: Hua Guo feng tong zhi shi wo men dang dang zhi wu kui de ling xiu
     authors:
       - Hua Guofeng
+    editors:
+      - Ren min chu ban she
     year: 1976
     language: Chinese
     sources:
@@ -58588,6 +58706,9 @@ titles:
   - title: Li dai fa jia zhu zuo yi zhu
     authors:
       - Beijing da xue. Zhongguo yu yan wen xue xi
+    editors:
+      - Bei jing da xue
+      - Xue Beijing da
     year: 1976
     edition: Di 1 ban
     language: Chinese
@@ -58884,6 +59005,8 @@ titles:
   - title: Makesi Engesi quan ji mu lu
     subtitle: Di 1 zhi 39 juan
     authors: []
+    editors:
+      - Renmin chubanshe
     year: 1976
     language: Chinese
     sources:
@@ -59594,6 +59717,8 @@ titles:
     verified: true
   - title: Zai wei da de ling xiu he dao shi Mao Ze dong zhu xi ji nian tang dian ji yi shi shang Hua Guo feng zhu xi de jiang hua
     authors: []
+    editors:
+      - Ren min chu ban she
     year: 1976
     language: Chinese
     sources:
@@ -62431,6 +62556,8 @@ titles:
     authors:
       - Huang Hua
       - Vereinte Nationen
+    editors:
+      - Ren min chu ban she
     year: 1977
     language: Chinese
     sources:
@@ -62917,6 +63044,8 @@ titles:
   - title: Re lie huan ying Jian pu zhai zhan you
     subtitle: Bo er Bu te shu ji shuai ling de Min zhu Jian pu zhai dang zheng dai biao tuan fang wen Zhong guo
     authors: []
+    editors:
+      - Ren min chu ban she
     year: 1977
     language: Chinese
     sources:
@@ -63082,6 +63211,8 @@ titles:
   - title: Tong su zheng zhi jing ji xue
     authors:
       - Zhang Yongdong
+    editors:
+      - Gu Baofu
     year: 1977
     edition: Di 1 ban
     language: Chinese
@@ -64900,6 +65031,8 @@ titles:
   - title: Bi xu zhong shi qiao wu gong zuo
     authors:
       - Liao Chengzhi
+    editors:
+      - Ren min chu ban she
     year: 1978
     language: Chinese
     sources:
@@ -65926,6 +66059,8 @@ titles:
   - title: Wei wu bian zheng fa da gang
     authors:
       - Li Da
+    editors:
+      - 李達
     year: 1978
     edition: Di 1 ban
     language: Chinese
@@ -66308,6 +66443,8 @@ titles:
   - title: Zhong guo jin dai zhe xue shi
     authors:
       - Hou Wailu
+    editors:
+      - Huang Xuan min
     year: 1978
     language: Chinese
     sources:
@@ -66525,6 +66662,9 @@ titles:
     authors:
       - Hou Wailu
       - Zhang Qizhi
+    editors:
+      - 外廬 侯
+      - 岂之 张
     year: 1978
     language: Chinese
     pages: 498
@@ -68823,6 +68963,7 @@ titles:
   - title: Makesi 1844 nian jing ji xue - zhe xue shou gao
     authors:
       - Karl Marx
+    translators:
       - Liu Pikun
       - 丕坤 刘
     year: 1979
@@ -69064,6 +69205,8 @@ titles:
   - title: Si wu yun dong ji shi
     authors:
       - Yan Jiaqi
+    editors:
+      - Li Hui guo
     year: 1979
     edition: Di 1 ban
     language: Chinese
@@ -69294,6 +69437,8 @@ titles:
     verified: true
   - title: Zhi shi fen zi shi dang de yi kao li liang
     authors: []
+    editors:
+      - Ren min chu ban she
     year: 1979
     language: Chinese
     sources:
@@ -69322,6 +69467,8 @@ titles:
   - title: Zhong gong dang shi can kao zi liao
     authors:
       - Zhong gong zhong yang dang xiao. Dang shi jiao yan shi
+    editors:
+      - Zhong guo gong chang dang
     year: 1979
     edition: Di 1 ban
     language: Chinese
@@ -69389,6 +69536,8 @@ titles:
   - title: Zhong guo gu dai shi
     authors:
       - Liu Zehua
+    editors:
+      - Liu Ze hua
     year: 1979
     language: Chinese
     sources:
@@ -69489,6 +69638,8 @@ titles:
   - title: Zhong guo shi gang yao
     authors:
       - Bozan Jian
+    editors:
+      - Bo zan Jian
     year: 1979
     language: Chinese
     sources:
@@ -69796,6 +69947,9 @@ titles:
     authors:
       - Fan Wenlan
       - 文澜 范
+    editors:
+      - Cai Meibiao
+      - 美彪 蔡
     year: 1979
     language: Chinese
     sources:
@@ -71695,6 +71849,9 @@ titles:
   - title: Jian ming Qing shi
     authors:
       - Yi Dai
+    editors:
+      - Dai Yi
+      - 逸 戴
     year: 1980
     edition: Di 1 ban
     language: Chinese
@@ -72263,6 +72420,8 @@ titles:
   - title: Zheng zhi jing ji xue ci dian
     authors:
       - Xu Dixin
+    editors:
+      - 滌新 許
     year: 1980
     edition: Di 1 ban
     language: Chinese
@@ -80145,6 +80304,13 @@ titles:
   - title: Li Pingxin shi lun ji
     authors:
       - Li Pingxin
+    editors:
+      - Wu Ze
+      - 泽 吴
+      - Yuan Yingguang
+      - 英光 袁
+      - Gui Zunyi
+      - 遵义 桂
     year: 1983
     edition: Di 1 ban
     series: Zhongguo dang dai shi xue jia cong shu
@@ -83163,6 +83329,8 @@ titles:
   - title: Chen Yun wen xuan
     authors:
       - Chen Yun
+    editors:
+      - Zhong gong zhong yang wen xian bian ji wei yuan hui
     year: 1984
     language: Chinese
     sources:
@@ -83592,6 +83760,8 @@ titles:
   - title: Hui yi Qiubai
     authors:
       - Yang Zhihua
+    editors:
+      - Hong Jiucheng
     year: 1984
     edition: Di 1 ban
     language: Chinese
@@ -84369,6 +84539,10 @@ titles:
       - Hou Wailu
       - Qiu Hansheng
       - Zhang Qizhi
+    editors:
+      - 外廬 侯
+      - 漢生 邱
+      - 岂之 张
     year: 1984
     edition: Di 1 ban
     language: Chinese
@@ -84459,6 +84633,9 @@ titles:
     authors:
       - Qian Jiaju
       - Lu Zufa
+    editors:
+      - 家駒 千
+      - 祖法 卢
     year: 1984
     edition: Di 1 ban
     language: Chinese
@@ -84954,6 +85131,8 @@ titles:
     verified: true
   - title: Zhong guo she hui xing zhi wen ti lun zhan
     authors: []
+    editors:
+      - Gao Jun
     year: 1984
     language: Chinese
     sources:
@@ -86879,6 +87058,9 @@ titles:
     subtitle: Zhongguo gong chan dang di 1 ci dai biao da hui qian hou zi liao xuan bian
     authors:
       - Zhongguo gong chan dang. Quan guo dai biao da hui
+    editors:
+      - Zhong guo she hui ke xue yuan
+      - Zhong guo ge ming bo wu guan
     year: 1985
     edition: Zeng ding di 2 ban
     series: Zhongguo xian dai ge ming shi zi liao cong kan
@@ -87312,6 +87494,8 @@ titles:
     authors:
       - Zhong yang zhong wen xian yan jiu shi
       - 中共中央文献研究室
+    editors:
+      - Zhonggong zhongyang wenxian yanjiushi
     year: 1985
     language: Chinese
     sources:
@@ -88848,6 +89032,8 @@ titles:
     subtitle: Wei Jin Nanbei chao juan
     authors:
       - Zhu Dawei
+    editors:
+      - 朱大渭
     year: 1985
     edition: Di 1 ban
     language: Chinese
@@ -91144,6 +91330,9 @@ titles:
   - title: Fa lü xuan bian
     authors:
       - Zhong guo gong chan dang. Xuan chuan ju
+    editors:
+      - Zhong gong zhong yang xuan chuan bu xuan chuan ju
+      - Si fa bu xuan chuan si
     year: 1986
     edition: Di 1 ban
     language: Chinese
@@ -97250,6 +97439,8 @@ titles:
   - title: Si ying he ge ti jing ji shi yong fa gui da quan
     authors:
       - China
+    editors:
+      - Renmin-Chubanshe
     year: 1988
     language: Chinese
     sources:
@@ -99423,6 +99614,8 @@ titles:
   - title: Zhou Enlai zhuan, 1898-1949
     authors:
       - Jin Chongji
+    editors:
+      - 冲及 金
     year: 1989
     edition: Di 1 ban
     language: Chinese
@@ -100506,6 +100699,9 @@ titles:
     verified: true
   - title: Fa guo tong shi jian bian
     authors: []
+    editors:
+      - Chen Lian zhi
+      - Jun xin Lou
     year: 1990
     language: Chinese
     sources:
@@ -100859,6 +101055,9 @@ titles:
     authors:
       - Zhong yang zhong wen xian yan jiu shi
       - 中共中央文献研究室
+    editors:
+      - Zhong gong zhong yang wen xian yan jiu shi
+      - Zhong yang dang an guan
     year: 1990
     language: Chinese
     sources:

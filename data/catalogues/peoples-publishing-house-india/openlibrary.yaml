@@ -526,6 +526,9 @@ titles:
     subtitle: Reminiscences
     authors:
       - Kalpana Dutt
+    translators:
+      - Arun Bose
+      - Nikhil Chakravarty
     year: 1945
     language: English
     pages: 101
@@ -2290,6 +2293,8 @@ titles:
     subtitle: (The Recruit)
     authors:
       - Baren Basu
+    translators:
+      - Subrata Bannerji
     year: 1954
     edition: '[1st English ed.]'
     language: English, Bengali
@@ -2623,6 +2628,8 @@ titles:
     subtitle: A Symposium
     authors:
       - Mohammad Ashraf
+    editors:
+      - Puran Chandra Joshi
     year: 1957
     language: English
     pages: 355
@@ -2679,6 +2686,7 @@ titles:
   - title: Poems
     authors:
       - Faiẓ Aḥmad Faiẓ
+    translators:
       - Victor G. Kiernan
     year: 1958
     language: English
@@ -2711,6 +2719,8 @@ titles:
   - title: Primeval and Other Stories
     authors:
       - Manik Bandyopadhyay
+    editors:
+      - D. P. Chattopadhyaya
     year: 1958
     language: English
     pages: 128
@@ -3028,6 +3038,9 @@ titles:
   - title: A Handful of Wheat and Other Stories
     authors:
       - Premchand
+    editors:
+      - Prakash Chandra Gupta
+    translators:
       - Prakash Chandra Gupta
     year: 1962
     language: English
@@ -3222,6 +3235,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb33130646j
     verified: true
   - title: 'India: Economic Freedom Versus Imperialism'
+    original_title: Imperializm i èconomičeskaâ samostoâtel'nost' Indii
     authors:
       - V. I. Pavlov
     year: 1963
@@ -3268,6 +3282,8 @@ titles:
     verified: true
   - title: Outside the Contest, a Study of Nonalignment and the Foreign Policies of Some Nonaligned Countries. K. P. Karunakaran, N. Parameshwaran Nair, Devdutt, Urmila Phadmis [Etc.]... Edited by K. P. Karunakaran
     authors: []
+    editors:
+      - Kotta P. Karunakaran
     year: 1963
     language: English
     sources:
@@ -3306,6 +3322,10 @@ titles:
   - title: Structure of the Working Class
     authors:
       - Alekseĭ Matveevich Rumiantsev
+    editors:
+      - Y. A. Ambartsumov
+      - Y. K. Ostrovityanov
+      - L. A. Leontyev
     year: 1963
     language: English
     pages: 325
@@ -3365,6 +3385,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=550960147
     verified: true
   - title: Agrarian Reforms in India
+    original_title: Agrarnye reformy v Indii
     authors:
       - G. G. Kotovskiĭ
     year: 1964
@@ -3693,6 +3714,8 @@ titles:
   - title: Tilak and the Struggle for Indian Freedom
     authors:
       - Institut vostokovedeniia (Akademiia nauk SSSR)
+    editors:
+      - I. M. Reĭsner
     year: 1966
     language: English
     pages: 682
@@ -3826,6 +3849,9 @@ titles:
     subtitle: A Symposium
     authors:
       - Karl Marx
+    editors:
+      - Mohit Sen
+      - M. B. Rao
     year: 1968
     language: English
     pages: 229
@@ -4382,6 +4408,9 @@ titles:
   - title: Lenin and India
     authors:
       - Mohit Sen
+    editors:
+      - G. Adhikari
+      - M. B. Rao
     year: 1970
     language: English
     pages: 236
@@ -4471,6 +4500,8 @@ titles:
   - title: Militant Vanguard of Soviet People
     authors:
       - V. Zaĭchikov
+    translators:
+      - Arthur Shkarovsky-Raffe
     year: 1970
     language: English
     pages: 276
@@ -4657,6 +4688,8 @@ titles:
   - title: The Mahatma
     subtitle: A Marxist Symposium
     authors: []
+    editors:
+      - M. B. Rao
     year: 1970
     language: English
     pages: 136
@@ -5445,6 +5478,8 @@ titles:
     subtitle: Papers of the International Seminar on Imperialism, Independence, and Social Transformation in the Contemporary World
     authors:
       - International Seminar on Imperialism, Independence, and Social Transformation in the Contemporary World Delhi 1972
+    editors:
+      - Baudhayan Chattopadhyay
     year: 1974
     language: English
     sources:
@@ -5464,6 +5499,8 @@ titles:
     subtitle: Historical Probings, in Memory of D. D. Kosambi
     authors:
       - D. D. Kosambi
+    editors:
+      - R. S. Sharma
     year: 1974
     language: English
     pages: 447
@@ -6204,6 +6241,8 @@ titles:
     subtitle: Saga of Kayyoor Martyrs
     authors:
       - Niranjana
+    translators:
+      - Tejaswini Niranjana
     year: 1977
     language: English
     pages: 218
@@ -7025,6 +7064,8 @@ titles:
   - title: Premchand, a Life
     authors:
       - Amrit Rai
+    translators:
+      - Harish Trivedi
     year: 1982
     language: English, Hindi
     pages: 413
@@ -7312,6 +7353,7 @@ titles:
     verified: true
   - title: Kālidāsa
     subtitle: The Human Meaning of His Works
+    original_title: Kālidāsa
     authors:
       - Walter Ruben
     year: 1984
@@ -7845,6 +7887,8 @@ titles:
     authors:
       - R. S. Sharma
       - K. M. Shrimali
+    editors:
+      - Ḵẖalīq Aḥmad Niz̤āmī
     year: 1992
     language: English
     sources:
@@ -7980,8 +8024,11 @@ titles:
     isbn: '8170071879'
   - title: Towards a Common Destiny, a Nationalist Manifesto
     subtitle: English Translation of Musalmanon Ka Roshan Mustaqbil
+    original_title: Mausalmānon kā raushan mustaqbil
     authors:
       - T̤ufail Aḥmad Manglaurī
+    translators:
+      - Ali Ashraf
     year: 1994
     language: English
     sources:

@@ -729,6 +729,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991121204639705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Kommunista kiáltvány
+    original_title: Manifest der Kommunistischen Partei
     authors:
       - Karl Marx
       - Friedrich Engels
@@ -770,6 +771,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991028045769705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Szürke fény
+    original_title: Ditte Menneskebarn
     authors:
       - Martin Andersen Nexø
       - Henrik Hajdu
@@ -940,6 +942,8 @@ titles:
   - title: A magyar jobbágyság története
     authors:
       - Ignác Acsády
+    editors:
+      - Edith Fenyőné Acsády
     year: 1948
     edition: III. centenáriumi kiadás
     language: Hungarian
@@ -1179,8 +1183,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991033092459705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Klim Számgin élete negyven év
+    original_title: Žizn' Klima Samgina
     authors:
       - Maxime Gorki
+    translators:
       - Viola Gergely
     year: 1948
     language: Hungarian
@@ -1325,6 +1331,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=422358576
     verified: true
   - title: Vihar
+    original_title: Burja
     authors:
       - Ilʹja Ėrenburg
       - Sarolta Lányi
@@ -1372,6 +1379,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991151160319705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: “Az” anya
+    original_title: Matʹ
     authors:
       - Maksim Gorʹkij
       - Imre Görög
@@ -1439,6 +1447,8 @@ titles:
   - title: A Francia forradalom, 1789-1799. "La Révolution française, 1789-1799". Fordította Ballenegger Henrik
     authors:
       - Albert Soboul
+    translators:
+      - Henrik Ballenegger
     year: 1949
     language: Hungarian
     sources:
@@ -1712,8 +1722,10 @@ titles:
         url: https://d-nb.info/578102366
     verified: true
   - title: Csendes don
+    original_title: Tihij don
     authors:
       - Mihail Aleksandrovič Šolohov
+    translators:
       - Imre Makai
     year: 1949
     language: Hungarian
@@ -1901,6 +1913,7 @@ titles:
         url: https://search.worldcat.org/title/81505715
     verified: true
   - title: Kína titkai
+    original_title: China geheim
     authors:
       - Egon Erwin Kisch
       - Mária László
@@ -2225,8 +2238,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=373057725
     verified: true
   - title: Virágzó élet
+    original_title: Bruski
     authors:
       - Fedor Ivanovič Panferov
+    translators:
       - Aladár Tamás
     year: 1949
     language: Hungarian
@@ -2319,8 +2334,10 @@ titles:
     verified: true
   - title: A kereszténység eredete
     subtitle: Történélmi tanulmány
+    original_title: Der Ursprung des Christentums
     authors:
       - Karl Kautsky
+    translators:
       - János Faludi
     year: 1950
     language: Hungarian
@@ -2356,7 +2373,8 @@ titles:
         url: https://lccn.loc.gov/55019689
     verified: true
   - title: A lenguel nép forradalmi hagyományai
-    authors:
+    authors: []
+    translators:
       - Andorné Székely
     year: 1950
     language: Hungarian
@@ -2701,6 +2719,7 @@ titles:
   - title: Gyözelmes traktorok
     authors:
       - Witold Zalewski
+    translators:
       - Ferenc Kemény
     year: 1950
     language: Hungarian
@@ -2763,6 +2782,7 @@ titles:
         url: https://lccn.loc.gov/54021702
     verified: true
   - title: Huckleberry Finn kalandjai
+    original_title: <<The>> adventures of Huckleberry Finn
     authors:
       - Mark Twain
       - Frigyes Karinthy
@@ -3149,6 +3169,8 @@ titles:
     verified: true
   - title: A magyar munkásmozgalom kialakulása 1848-1890
     authors: []
+    editors:
+      - Tibor Erényi
     year: 1951
     language: Hungarian
     sources:
@@ -3554,8 +3576,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=412370123
     verified: true
   - title: Mister Attlee Angliája
+    original_title: Inside Mr. Attlee's England
     authors:
       - Ralph Parker
+    translators:
       - György Makai
     year: 1951
     language: Hungarian
@@ -3677,6 +3701,7 @@ titles:
     verified: true
   - title: 2. “bécsi” ülésszaka
     subtitle: A Békevilágtanács; (Ford. Józsa Péter)
+    original_title: 'Novoje Vremja. 1951, Sz. 47: Melléklet'
     authors:
       - Péter Józsa
     year: 1952
@@ -3741,6 +3766,7 @@ titles:
     subtitle: Széljegyzetek a Tatar, Kirchmayer és társai diverzáns és kémcsoport bűnperéhez
     authors:
       - Roman Werfel
+    translators:
       - István Mészáros
     year: 1952
     language: Hungarian
@@ -3973,9 +3999,12 @@ titles:
         url: https://d-nb.info/57788266X
     verified: true
   - title: Hitler tábornokai az amerikai lobogó alatt
+    original_title: Gitlerovskie generaly pod zvezdno-polosatym flagom
     authors:
       - Daniil E. Melʹnikov
       - Peter Józsa
+    translators:
+      - Péter Józsa
     year: 1952
     language: Hungarian
     sources:
@@ -4043,6 +4072,7 @@ titles:
     subtitle: A SzK(b)P Pártföiskoláján tartott elöadas gyorsíroí jegyzete
     authors:
       - Fedor Grigor'evič Zuev
+    translators:
       - Ernő Kerek
     year: 1952
     language: Hungarian
@@ -4241,6 +4271,7 @@ titles:
   - title: Válogatott cikkek és beszédek
     authors:
       - Johann Koplenig
+    translators:
       - Géza Goda
     year: 1952
     language: Hungarian
@@ -4273,6 +4304,8 @@ titles:
   - title: A Gothai program kritikája
     authors:
       - Karl Marx
+    editors:
+      - Ernő Czóber
     year: 1953
     language: Hungarian
     sources:
@@ -4494,6 +4527,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=405151462
     verified: true
     subtitle: '(Hermann Matern: Ernst Thälmann szerepe a munkásosztály forradalmi tömegpártjának megteremtésében. Die Rolle Ernst Thälmanns bei der Schaffung der revolutionären Massenpartei der Arbeiterklasse [ungar.] - Ernst Thälmann: Válasz egy bautzeni fogolytársam leveleire, 1944 január. Antwort auf Briefe eines Kerkergenossen in Bautzen, Januar 1944 [ungar.] Ford.: Nánási György)'
+    original_title: Neues Deutschland. 1950, 21. u. 22. Okt
   - title: Fejezetek a Pápaság Történetéből
     authors:
       - M. M. Sejnman
@@ -4652,7 +4686,8 @@ titles:
         url: https://d-nb.info/57715110X
     verified: true
   - title: 13 amerikai kommunista vádol
-    authors:
+    authors: []
+    translators:
       - Júlia Fraknói
     year: 1954
     language: Hungarian
@@ -4749,7 +4784,8 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=44501752X
     verified: true
   - title: A Lengyel Népköztársaság Alkotmánya
-    authors:
+    authors: []
+    translators:
       - Ferenc Imre Majoros
     year: 1954
     language: Hungarian
@@ -4815,6 +4851,8 @@ titles:
     series: A magyar munkásmozgalom történetének válogatott dokumentumai / a Magyar Szocialista Munkásmozgalom Központi Bizottságának Párttörténeti Intézete; 2
     authors:
       - Magyar Munkásmozgalmi Intézet a mta Történettudományi Intézete
+    editors:
+      - Béla Ivány
     year: 1954
     language: Hungarian
     sources:
@@ -5170,6 +5208,8 @@ titles:
     authors:
       - Rosa Luxemburg
       - Eva Gordon
+    translators:
+      - Éva Gordon
     year: 1954
     language: Hungarian
     sources:
@@ -5204,6 +5244,7 @@ titles:
   - title: Marx-Engels-Lenin-Sztálin művei és a természettudomány fejlődése
     authors:
       - Olʹga Borisovna Lepešinskaja
+    translators:
       - Éva Gál
     year: 1954
     language: Hungarian
@@ -5281,6 +5322,8 @@ titles:
     authors:
       - Fred Oelßner
       - Peter Józsa
+    translators:
+      - Péter Józsa
     year: 1954
     language: Hungarian
     sources:
@@ -5442,6 +5485,9 @@ titles:
     series: A magyar munkásmozgalom történetének válogatott dokumentumai; köt. 3
     authors:
       - Magyar Munkásmozgalmi Intézet a mta Történettudományi Intézete
+    editors:
+      - Béla Ivány
+      - Éva Teleki
     year: 1955
     language: Hungarian
     sources:
@@ -5566,6 +5612,7 @@ titles:
     subtitle: A mi utcánk története
     authors:
       - Jan Petersen
+    translators:
       - Ödön Neményi
       - Flóra Remsei
     year: 1955
@@ -5993,6 +6040,8 @@ titles:
   - title: A Magyar munkásmozgalom a nagy októberi szocialista forradalom győzelmét követő forradalmi fellendülés időszakában
     subtitle: A kommunisták magyarországi pártjának megalakulása, harca a proletárforradalom győzelméért, 1917 november 7 - 1919 március 21
     authors: []
+    editors:
+      - Víg Vilmosné
     year: 1956
     language: Hungarian
     sources:
@@ -6119,6 +6168,7 @@ titles:
   - title: Albrecht Dürer
     authors:
       - Iván Fenyö
+    translators:
       - Ann Biner Tauber
     year: 1956
     language: English
@@ -6275,7 +6325,8 @@ titles:
         url: https://d-nb.info/577566423
     verified: true
   - title: Lengyelország
-    authors:
+    authors: []
+    translators:
       - Mihály Siklósi
     year: 1956
     language: Hungarian
@@ -6297,6 +6348,7 @@ titles:
         url: https://d-nb.info/578099225
     verified: true
   - title: Micimackó kuckója
+    original_title: The house at Pooh corner
     authors:
       - A. A. Milne
       - Frigyes Karinthy
@@ -6365,6 +6417,7 @@ titles:
         url: https://d-nb.info/36632487X
     verified: true
   - title: “A” fény szerelmese
+    original_title: Der Tag ist in die Nacht verliebt
     authors:
       - Werner Steinberg
       - József Endrődi
@@ -6665,6 +6718,7 @@ titles:
     verified: true
   - title: Ha a világon mindenki ilyen volna
     subtitle: Regény
+    original_title: Si tous les gars du monde -
     series: Tarka könyvek
     authors:
       - Jacques Rémy
@@ -6740,6 +6794,9 @@ titles:
   - title: Magyar internacionalisták a Nagy októberi szocialista forradalomban, összeállították és a bevezető tanulmányt írták Györkei Jenő,... és Józsa Antal
     authors:
       - Hadtörténelmi intézet
+    editors:
+      - Antal Jozsa
+      - Jenő Györkei
     year: 1957
     language: Hungarian
     sources:
@@ -6760,6 +6817,9 @@ titles:
   - title: 'Magyar nyelvhelyesség, előadások, gyakorlószövegek, irodalom. A Kiadói Főigazgatóság 1956. február-júniusi nyelvművelő előadássorozatának teljes anyaga. Szerkesztette: Deme László és Köves Béla, az előszót Köpeczi Béla írta, az előadássorozat megnyító szavai Lőrincze Lajostól'
     authors:
       - Magyar Tudományos Akadémia
+    editors:
+      - Béla Köves
+      - László Deme
     year: 1957
     language: Hungarian
     sources:
@@ -6838,6 +6898,7 @@ titles:
         url: https://search.worldcat.org/title/22453932
     verified: true
   - title: Tengeri farkas
+    original_title: <<The>> sea-wolf
     authors:
       - Jack London
       - Zoltán Bartos
@@ -7367,6 +7428,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=490034659
     verified: true
   - title: Halálgyár
+    original_title: Továrna na smrt
     authors:
       - Ota Kraus
       - Erich Kulka
@@ -7380,6 +7442,8 @@ titles:
     authors:
       - Erich Kulka
       - Ota Kraus
+    translators:
+      - László Balassa
     year: 1958
     language: Hungarian
     sources:
@@ -7726,6 +7790,9 @@ titles:
     series: Az MSZMP párttörténeti intézete
     authors:
       - Imréné Gábor
+    editors:
+      - Imréné Orban Ilona Gabór
+      - Párttörténeti Intézet
     year: 1959
     language: Hungarian
     sources:
@@ -7736,6 +7803,8 @@ titles:
     verified: true
   - title: 'A Magyar tanácsköztársaság plakátjai. Összeállította: Gábor Imréné'
     authors: []
+    editors:
+      - Ilona Gábor Imréné
     year: 1959
     language: Hungarian
     sources:
@@ -8185,6 +8254,10 @@ titles:
     verified: true
   - title: 'Magyarország és a Második világháboru, titkos diplomáciai okmányok a háború dózményeihez és történetéhez. Az iratokat összegyűjtötte és a bevezető tanulmányokat írta: Ádám Magda, Juhász Gyula, Kerekes Lajos'
     authors: []
+    editors:
+      - Magda Ádám
+      - Gyula Juhász
+      - Lajos Kerekes
     year: 1959
     language: Hungarian
     sources:
@@ -8355,6 +8428,8 @@ titles:
     verified: true
   - title: Vörös Pest megye
     authors: []
+    editors:
+      - Károly Vigh
     year: 1959
     language: Hungarian
     pages: 147
@@ -8610,6 +8685,7 @@ titles:
   - title: A Wagner-ügy
     authors:
       - Jan Petersen
+    translators:
       - László Baló
     year: 1960
     language: Hungarian
@@ -8620,6 +8696,8 @@ titles:
   - title: Alpári Gyula válogatott írásai
     authors:
       - Gyula Alpári
+    editors:
+      - Magda Aranyossi
     year: 1960
     language: Hungarian
     pages: 499
@@ -8703,6 +8781,9 @@ titles:
   - title: 'Dicső napok: 1919'
     authors:
       - Magyar Szocialista Munkáspárt. Központi Bizottság. Párttörténeti Intézet
+    editors:
+      - Ede Gerelyes
+      - Sándor Tarjányi
     year: 1960
     language: Hungarian
     pages: 226
@@ -9389,6 +9470,8 @@ titles:
   - title: Balázs Béla. Népmözgalom és nemzeti bizottságok 1945-1946. Sajtó alá rendezte és a bevezetést írta Lackó Miklós
     authors:
       - Béla Balázs
+    editors:
+      - Miklós Lackó
     year: 1961
     language: Hungarian
     sources:
@@ -9570,6 +9653,8 @@ titles:
     subtitle: 'Képes röplapok az illegalitás idejéből. Osszeállította és a jegyzeteket írta: Gábor Imréné Orbán Ilona'
     authors:
       - Magyar Szocialista Munkáspárt. Központi Bizottság. Párttörténeti Intézet
+    editors:
+      - Ilona Orbán Gábor
     year: 1961
     language: Hungarian
     pages: 100
@@ -9594,6 +9679,8 @@ titles:
     subtitle: Titkos diplomáciai okmányok a háború előzményeihez és történetéhez
     authors:
       - Magyar Tudományos Akadémia. Történettudományi Intézet
+    editors:
+      - László Zsigmond
     year: 1961
     edition: 2. kiad
     language: Hungarian
@@ -10027,6 +10114,7 @@ titles:
     verified: true
   - title: A XX
     subtitle: Század kapitalizmusa
+    original_title: Tamás Szabó
     authors:
       - Evgenij Samojlovič Varga
     year: 1962
@@ -10293,6 +10381,7 @@ titles:
   - title: Négyen a bunkerben
     authors:
       - Tadeusz Hołuj
+    translators:
       - Mihály Bába
     year: 1962
     language: Hungarian
@@ -10410,6 +10499,7 @@ titles:
     verified: true
   - title: Világtörténet
     subtitle: Tíz kötetben
+    original_title: Vsemirnaja istorija
     authors:
       - Evgenij Mihajlovič Žukov
       - Akademiâ Nauk SSSR (Moskva)
@@ -10681,6 +10771,7 @@ titles:
   - title: Árulás
     authors:
       - Jan Józef Szczepański
+    translators:
       - Mihály Bába
     year: 1963
     language: Hungarian
@@ -10844,6 +10935,9 @@ titles:
     subtitle: 'Az iratokat sajtó alá rendezte, magyarázó szövegekkel és jegyzetekkel ellátta: Szinai Miklós és Szücs László'
     authors:
       - Miklós nagybányai Horthy
+    editors:
+      - Miklós Szinai
+      - László Szűcs
     year: 1963
     edition: 2. kiad
     language: Hungarian
@@ -11381,6 +11475,7 @@ titles:
   - title: A mi világunk vége
     authors:
       - Tadeusz Hołuj
+    translators:
       - István Mészáros
     year: 1964
     language: Hungarian
@@ -11599,6 +11694,7 @@ titles:
         url: https://www.sudoc.fr/076047733
     verified: true
   - title: Baleset
+    original_title: The accident
     authors:
       - Dexter Masters
       - Mária Borbás
@@ -11709,6 +11805,8 @@ titles:
   - title: 'Dokumentumok a magyar forradalmi munkásmozgalom történetéből: a Magyar Szocialista Munkáspárt Központi Bizottságának Párttörténeti Intézete'
     authors:
       - Párttörténeti Intézet
+    editors:
+      - György Borsányi
     year: 1964
     language: Hungarian
     sources:
@@ -12128,6 +12226,7 @@ titles:
     verified: true
     pages: 266
   - title: “Egy” asszony a Spitzbergákon
+    original_title: Nord for det øde hav
     authors:
       - Liv Balstad
     year: 1965
@@ -12579,9 +12678,11 @@ titles:
         url: https://lccn.loc.gov/74256353
     verified: true
   - title: Az Élet nem létezik!
+    original_title: La vie n'existe pas !
     authors:
       - Ernest Kahane
       - Aleksandr Ivanovič Oparin
+    translators:
       - Péter Jozsa
     year: 1965
     language: Hungarian
@@ -13156,6 +13257,8 @@ titles:
   - title: Sok boldogságot Magyarország!
     subtitle: 1945-1965. A könyvet a Pravda és a Népszabadság szerkesztősége készítette
     authors: []
+    editors:
+      - Imréné Rákos
     year: 1965
     language: Hungarian
     pages: 264
@@ -13445,6 +13548,7 @@ titles:
         url: https://search.worldcat.org/title/23566242
     verified: true
   - title: A küldetés
+    original_title: Die Mission
     authors:
       - Hans Habe
       - Gábor Vajda
@@ -14027,6 +14131,8 @@ titles:
   - title: Késöi tudósítások
     authors:
       - L. Madʹiar
+    editors:
+      - Blanka Péchy
     year: 1966
     language: Hungarian
     pages: 237
@@ -14183,6 +14289,8 @@ titles:
     subtitle: Regény
     authors:
       - Jerzy Andrzejewski
+    translators:
+      - Jolán Cservenits
     year: 1966
     language: Hungarian
     sources:
@@ -14429,6 +14537,8 @@ titles:
   - title: Válogatott történelmi írások
     authors:
       - József Révai
+    editors:
+      - Auguszta F. Majlát
     year: 1966
     language: Hungarian
     sources:
@@ -14931,8 +15041,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=506379183
     verified: true
   - title: A szálak Washingtonba vezetnek
+    original_title: Mit Scheckbuch und Pistole
     authors:
       - Peter Bols
+    translators:
       - Erzsébet Fazekas
     year: 1967
     language: Hungarian
@@ -14971,6 +15083,8 @@ titles:
   - title: A Szocializmus politikai gazdaságtana
     subtitle: Tankönyv
     authors: []
+    editors:
+      - Andor Berei
     year: 1967
     language: Hungarian
     pages: 533
@@ -15115,6 +15229,7 @@ titles:
   - title: Általános szociológia
     authors:
       - Zygmunt Bauman
+    translators:
       - Rudolf Andorka
     year: 1967
     language: Hungarian
@@ -15397,6 +15512,8 @@ titles:
     subtitle: Válogatott esztétikai tanulmányok
     authors:
       - Attila Jozsef
+    editors:
+      - László Forgács
     year: 1967
     series: Esztétikai kiskönyvtár
     language: Hungarian
@@ -15825,6 +15942,8 @@ titles:
     subtitle: 'Egy tsz-elnök visszaemlékezései: Sajtó alá rendezte és irodalmilag gondozta Gergely Mihály'
     authors:
       - József Hodek
+    editors:
+      - Mihály Gergely
     year: 1967
     language: Hungarian
     pages: 328
@@ -16057,6 +16176,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991094414049705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Regény
+    original_title: Die Hinterlassenschaft
   - title: A Kapitalizmus politikai gazdaságtana
     subtitle: A Marx Károly Közgazdaságtudományi Egyetem tankönyve
     authors: []
@@ -16380,6 +16500,8 @@ titles:
     subtitle: 'A Marxizmus-Leninizmus esti egyetem tankönyve. [Szerk.: Dóczi József, Frey Andorné és Vilmos József. Írták: Buza Márton, et al.]'
     authors:
       - József Dóczi
+    editors:
+      - Andor Berei
     year: 1968
     language: Hungarian
     pages: 412
@@ -16409,6 +16531,7 @@ titles:
   - title: A szociológia alapjai
     authors:
       - Jan Szczepański
+    translators:
       - György Forintos
     year: 1968
     language: Hungarian
@@ -16507,6 +16630,7 @@ titles:
   - title: A tudomány bölcsője
     authors:
       - Waldemar Voisé
+    translators:
       - Katalin Szokolay
     year: 1968
     language: Hungarian
@@ -17016,6 +17140,8 @@ titles:
     subtitle: A magyar kommunista mozgalom szervezeti fejlődésének 50 éve
     authors:
       - Tibor Erényi
+    editors:
+      - Sándor Rákosi
     year: 1968
     language: Hungarian
     pages: 294
@@ -17319,6 +17445,8 @@ titles:
     subtitle: Csatári Dániel és Esti Béla
     authors:
       - Dániel Csatári
+    editors:
+      - Béla Esti
     year: 1968
     language: Hungarian
     sources:
@@ -17491,6 +17619,8 @@ titles:
   - title: Történelmi materializmus
     subtitle: A marxizmus-leninizmus esti egyetem tankönyve
     authors: []
+    editors:
+      - Gáborné Regős
     year: 1968
     language: Hungarian
     pages: 471
@@ -17564,6 +17694,7 @@ titles:
     verified: true
   - title: Világesemények
     subtitle: 1945-1967
+    original_title: Weltgeschehen 1945-1967 neunzehnhundertfünfundvierzig-neunzehnhundertsiebenundsechzig
     authors:
       - Klaus Bollinger
       - Éva Gál
@@ -17906,6 +18037,8 @@ titles:
     verified: true
   - title: A Magyarországi forradalmak krónikája 1918-1919 közreadja Hetés Tibor
     authors: []
+    editors:
+      - Tibor Hetés
     year: 1969
     language: Not recorded
     sources:
@@ -18150,6 +18283,8 @@ titles:
   - title: A Vatikáni magyar követ jelenti
     subtitle: Dokumentumok a Vatikán és az európai fasiszta államok kapcsolatáról
     authors: []
+    editors:
+      - Zsuzsa B. Lőrincz
     year: 1969
     language: Hungarian
     pages: 374
@@ -18268,6 +18403,7 @@ titles:
     subtitle: (A politika éa az ideológia kérdései a modern világban)
     authors:
       - Jerzy Józef Wiatr
+    translators:
       - Forintos György
     year: 1969
     language: Hungarian
@@ -18601,6 +18737,8 @@ titles:
     subtitle: 'Írta és összeállította: a Nehézipari Minisztérium szerzői munkaközössége'
     authors:
       - Hungary. Nehézipari Minisztérium
+    editors:
+      - Géza Szili
     year: 1969
     series: Gazdasági életünk kiskönyvtára
     language: Hungarian
@@ -18921,6 +19059,8 @@ titles:
   - title: Költészet és forradalom
     authors:
       - Endre Ady
+    editors:
+      - Mária Szabó
     year: 1969
     language: Hungarian
     pages: 366
@@ -19089,6 +19229,7 @@ titles:
   - title: Nietschke ůr kertje
     authors:
       - Kornel Filipowicz
+    translators:
       - Beatrix Murányi
     year: 1969
     language: Hungarian
@@ -19443,6 +19584,9 @@ titles:
     series: Új falu
   - title: A Felszabadulás krónikája, 1944 ösze - 1945 tavasza. Közreadja Karsai Elek és M. Somlyai Magda
     authors: []
+    editors:
+      - Magda Somlyai
+      - Elek Karsai
     year: 1970
     language: Hungarian
     sources:
@@ -19452,6 +19596,8 @@ titles:
   - title: A felszabadulás krónikája; 1944. ősze-1945. tavasza
     authors:
       - Elek Karsai
+    editors:
+      - Magda M. Somlyai
     year: 1970
     language: Hungarian
     pages: 322
@@ -19697,6 +19843,8 @@ titles:
     verified: true
   - title: 'A Mi negyedszázadunk, 1945-1970. A bevezetőt írta és a képeket válogatta: R. Sánta Ilona. A képoldalakat összeállította és a kísérő szöveget írta: Rényi Péter'
     authors: []
+    editors:
+      - Péter Rényi
     year: 1970
     language: Hungarian
     sources:
@@ -19872,6 +20020,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=39354432X
     verified: true
   - title: Az alagút
+    original_title: Der Tunnel
     series: Fantasztikus sorozat
     authors:
       - Bernhard Kellermann
@@ -20033,6 +20182,9 @@ titles:
     subtitle: A kötetet összeállította
     authors:
       - Magyar Szocialista Munkáspárt. Központi Bizottságánák. Párttörténeti Intézet
+    editors:
+      - György Milei
+      - Anton Smutný
     year: 1970
     language: Hungarian
     pages: 233
@@ -20766,6 +20918,8 @@ titles:
   - title: The Royal Palace of Visegrád
     authors:
       - Miklós Héjj
+    translators:
+      - Lili Halápy
     year: 1970
     language: English, Hungarian
     pages: 40
@@ -21348,6 +21502,7 @@ titles:
     subtitle: Visszaemlékezések és reflexiók
     authors:
       - Zenon Kliszko
+    translators:
       - György Forintos
     year: 1971
     language: Hungarian
@@ -22220,6 +22375,8 @@ titles:
     verified: true
   - title: 'Politikai kisszótár. A szócikkek szerzői: Földes István, Makai György, Máté Sándor,... s.t.b. Szerkesztette Fencsik László'
     authors: []
+    editors:
+      - László Fencsik
     year: 1971
     language: Hungarian
     sources:
@@ -22254,8 +22411,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb35165737z
     verified: true
   - title: Shangri-La tigrise
+    original_title: Der Tiger von Shangri-La
     authors:
       - Harry Thürk
+    translators:
       - Pál Borbás
     year: 1971
     language: Hungarian
@@ -22439,6 +22598,7 @@ titles:
     subtitle: Kémkedtek-e az ätomkémek"?"
     authors:
       - Grzegorz Jaszuński
+    translators:
       - Zoltánne Bárkányi
     year: 1972
     language: Hungarian
@@ -22953,6 +23113,9 @@ titles:
   - title: Bethlen István titkos iratai
     authors:
       - István gróf Bethlen
+    editors:
+      - Miklós Szinai
+      - László Szűcs
     year: 1972
     language: Hungarian
     pages: 492
@@ -22982,6 +23145,9 @@ titles:
     series: Magyar országos levéltár
   - title: 'Bethlen István titkos iratai. Az iratokat sajtó alá rendezte, a bevezetőt és a magyarázatokat írta: Szinai Miklós és Szűcs László'
     authors: []
+    editors:
+      - Miklós Szinai
+      - László Szűcs
     year: 1972
     language: Hungarian
     sources:
@@ -23003,6 +23169,9 @@ titles:
     verified: true
   - title: Budapest tarsadalmának és gazdaságának száz éve, 1872 / 73-1972. The Society and economy of Budapest, 1872 / 73-1972. Szerkesztette Bernát Tivadar, Viszkei Mihály
     authors: []
+    editors:
+      - Tivadar Bernát
+      - Mihály Viszkei
     year: 1972
     language: Hungarian
     sources:
@@ -23087,6 +23256,8 @@ titles:
   - title: Esztétikai kislexikon
     authors:
       - Dénes Zoltai
+    editors:
+      - István Szerdahelyi
     year: 1972
     edition: 2. atdolg. bőv. kiad
     language: Hungarian
@@ -23267,6 +23438,8 @@ titles:
     verified: true
   - title: Közgazdasági kislexikon
     authors: []
+    editors:
+      - Józsefné Nagy
     year: 1972
     language: Hungarian
     sources:
@@ -23277,6 +23450,8 @@ titles:
     subtitle: Híradás a Mohács előtti időkről
     authors:
       - István Nemeskürty
+    editors:
+      - Budapest Zrinyi Nyomda
     year: 1972
     language: Hungarian
     pages: 221
@@ -23404,6 +23579,8 @@ titles:
   - title: 'Munkásmozgalom-történeti lexikon. Szerkesztők: Vass Henrik, Bassa Endre, Betlen Oszkár,... etc'
     authors:
       - Párttörténeti intézet
+    editors:
+      - Henrik Vass
     year: 1972
     language: Hungarian
     sources:
@@ -23543,6 +23720,8 @@ titles:
     authors:
       - Anna Tamás
       - Antal Wéber
+    editors:
+      - Anna Tamas
     year: 1972
     language: Hungarian
     pages: 577
@@ -23609,6 +23788,7 @@ titles:
     verified: true
   - title: Találkozó Bernben
     subtitle: Bűnügyi regény
+    original_title: Treffpunkt Bern
     authors:
       - Günter Spranger
       - Vera Nyilas
@@ -23622,6 +23802,8 @@ titles:
     verified: true
   - title: Tanulmányok a nők helyzetéről
     authors: []
+    editors:
+      - Egon Szabady
     year: 1972
     language: Hungarian
     sources:
@@ -23629,6 +23811,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb351912586
     verified: true
   - title: Testünk titkai
+    original_title: The body
     series: Univerzum könyvtár
     authors:
       - Anthony Smith
@@ -23640,8 +23823,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991105576109705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Tiszta szívű gyilkosok
+    original_title: Assassins of pure heart
     authors:
       - Nicholas Halász
+    translators:
+      - Dezső Tandori
     year: 1972
     language: Hungarian
     sources:
@@ -23731,6 +23917,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991091089729705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: “A” Vadnyugat története indián szemmel
+    original_title: Bury my heart at Wounded Knee
     authors:
       - Dee Alexander Brown
       - Dezső Tandori
@@ -23797,6 +23984,8 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    editors:
+      - Budapest Zrínyi Nyomda
     year: 1973
     language: Hungarian
     sources:
@@ -23843,6 +24032,9 @@ titles:
   - title: A Magyar Szocialista Munkáspárt határozatai és dokumentumai, 1956-1962
     authors:
       - Magyar Szocialista Munkáspárt
+    editors:
+      - Henrik Vass
+      - Ágnes Ságvári
     year: 1973
     edition: 2., bőv. kiad
     language: Hungarian
@@ -24047,6 +24239,7 @@ titles:
   - title: A tábornok halála
     authors:
       - Stanisław Strumph-Wojtkiewicz
+    translators:
       - Zoltánne Bárkányi
     year: 1973
     language: Hungarian
@@ -24089,6 +24282,8 @@ titles:
   - title: A tőkés gazdaság története Magyarországon, 1848-1944
     authors:
       - T. Iván Berend
+    editors:
+      - Zsigmond Pál Pach
     year: 1973
     language: Hungarian
     pages: 381
@@ -24433,6 +24628,8 @@ titles:
   - title: Gazdasági életünk idõszerü kérdései
     authors:
       - Éva Ehrlich
+    editors:
+      - Ödön Fáczányi
     year: 1973
     language: Hungarian
     pages: 330
@@ -24687,6 +24884,7 @@ titles:
     subtitle: Emlékezés a Varsói felkelésröl
     authors:
       - Miron Białoszewski
+    translators:
       - Grácia Kerényi
     year: 1973
     language: Hungarian
@@ -24767,6 +24965,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991001726519705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Összes művei
+    original_title: В. И. Ленин Полное Собрание Сочинении
     series: V. I. Lenin Összes művei; 37
     authors:
       - Vladimir Ilʹič Lenin
@@ -24802,6 +25001,8 @@ titles:
   - title: Petőfi
     authors:
       - József Révai
+    editors:
+      - György Bodnár
     year: 1973
     series: Esztétikai kiskönyvtár
     language: Hungarian
@@ -24847,9 +25048,11 @@ titles:
     verified: true
   - title: Singapore
     subtitle: Egy erőd eleste
+    original_title: Singapore
     series: Népszeru Történelem
     authors:
       - Harry Thürk
+    translators:
       - György Dalos
     year: 1973
     language: Hungarian
@@ -24884,6 +25087,8 @@ titles:
     subtitle: Fejezetek Budapest művelődéstörténetéből, 1867-1917 között
     authors:
       - István Békés
+    editors:
+      - Budapest Kossuth Nyomda
     year: 1973
     language: Hungarian
     pages: 357
@@ -24904,6 +25109,7 @@ titles:
   - title: Szervezés és vezetés
     authors:
       - Jan Zieleniewski
+    translators:
       - Judit Hary
     year: 1973
     language: Hungarian
@@ -25010,6 +25216,8 @@ titles:
       - Tamásné Novák
       - Piroska R. Török
       - Fővárosi Szabó Ervin Könyvtár
+    editors:
+      - Fövárosi Szabó Ervin Könyvtár
     year: 1973
     language: Hungarian
     sources:
@@ -25497,6 +25705,7 @@ titles:
   - title: A revizionismus és a mai polgári politikai gazdaságtan
     authors:
       - Andrzej Krawczewski
+    translators:
       - László Udvarhelyi
     year: 1974
     language: Hungarian
@@ -25587,6 +25796,8 @@ titles:
   - title: A szocialista képzőművészet jelképei
     authors:
       - Nóra Aradi
+    editors:
+      - Mária Szabó
     year: 1974
     language: Hungarian
     pages: 283
@@ -25701,6 +25912,7 @@ titles:
   - title: A világ gazdaságföldrajza
     authors:
       - Mieczysław Fleszar
+    translators:
       - Judit Hary
     year: 1974
     language: Hungarian
@@ -25713,6 +25925,7 @@ titles:
   - title: A világ gazdaságtörténete a XIX és a XX században
     authors:
       - Jerzy Ciepielewski
+    translators:
       - Katalin Kovács
     year: 1974
     language: Hungarian
@@ -25723,6 +25936,7 @@ titles:
         url: https://search.worldcat.org/title/838407872
     verified: true
   - title: Angol utopia
+    original_title: The English utopia
     authors:
       - Arthur L. Morton
     year: 1974
@@ -25896,6 +26110,7 @@ titles:
   - title: Fogyasztási modell a szocializmusban
     authors:
       - Maksymilian Pohorille
+    translators:
       - András Szabó
     year: 1974
     language: Hungarian
@@ -26905,6 +27120,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991044725429705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: “A” vaspata
+    original_title: <<The>> iron heel
     authors:
       - Jack London
       - Tivadar Szinnai
@@ -26915,6 +27131,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991066936489705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: “A” világ fővárosai
+    original_title: Stolicy stran mira
     authors:
       - Anikó D. Gergely
     year: 1975
@@ -27169,6 +27386,7 @@ titles:
         url: https://search.worldcat.org/title/7479626
     verified: true
   - title: A magyar kultúra harminc éve, 1945-1975
+    original_title: 30 Jahre ungarische Kulturgeschichte, 1945-1975
     authors:
       - Béla Köpeczi
     year: 1975
@@ -27806,6 +28024,7 @@ titles:
         url: https://www.sudoc.fr/188821864
     verified: true
     subtitle: Jacques de Bonis / France Nouvelle / kérdez, Aczél György válaszol
+    original_title: En direct avec un dirigeant hongrois, György Aczél, entretiens avec Jacques de Bonis
   - title: Egy óra múlva itt vagyok
     authors:
       - József Pintér
@@ -28123,6 +28342,8 @@ titles:
     authors:
       - József Gazsi
       - András Kis
+    editors:
+      - Péter Száva
     year: 1975
     language: Hungarian
     sources:
@@ -28214,6 +28435,8 @@ titles:
     subtitle: Magyarország 1944
     authors:
       - Ödön Gáti
+    editors:
+      - Odön Gáti
     year: 1975
     language: Hungarian
     sources:
@@ -28403,6 +28626,8 @@ titles:
     verified: true
   - title: Nök a történelemben
     authors: []
+    editors:
+      - Piroska Török
     year: 1975
     language: Hungarian
     sources:
@@ -28581,6 +28806,7 @@ titles:
   - title: Szerzetesek, egyházak, társadalom
     authors:
       - Jan Wierusz-Kowalski
+    translators:
       - Dániel Pfeifer
     year: 1975
     language: Hungarian
@@ -28655,6 +28881,7 @@ titles:
         url: https://search.worldcat.org/title/833943271
     verified: true
   - title: Tranzit
+    original_title: Transit
     authors:
       - Anna Seghers
       - László Gyurkó
@@ -29065,9 +29292,12 @@ titles:
     verified: true
   - title: A messzeség titkai
     subtitle: Földünk legkorábbi felfedezései
+    original_title: Geheimnis der Ferne
     series: Univerzum könyvtár
     authors:
       - Walter Krämer
+    translators:
+      - Auer Kálmán
     year: 1976
     language: Hungarian
     sources:
@@ -29273,6 +29503,7 @@ titles:
   - title: A Varsói felkelés 1944
     authors:
       - Lesław M. Bartelski
+    translators:
       - Dániel Pfeifer
     year: 1976
     language: Hungarian
@@ -29905,6 +30136,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991041584529705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Ketten a tűzvonalban
+    original_title: Soldat iz Kazachstana
     series: A győzelem könyvtára
     authors:
       - Ġabit Mahmūtūly Müsírepov
@@ -30642,6 +30874,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991068162879705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: “A” maja papok titkai
+    original_title: Tajna žrecov majja
     authors:
       - V. A. Kuzʺmiščev
       - Kálmán Auer
@@ -30666,9 +30899,10 @@ titles:
     subtitle: A Nagy Október; történelmi áttekintés, dokumentumok, fényképek
     authors:
       - Alʹbert Pavlovič Nenarokov
-      - Edvin Zalai
       - János Erdélyi
       - Budapest Zrínyi Nyomda
+    translators:
+      - Edvin Zalai
     year: 1977
     language: Hungarian
     sources:
@@ -31334,6 +31568,7 @@ titles:
   - title: A Szovjetunió gazdaságtörténete
     authors:
       - Jerzy Ciepielewski
+    translators:
       - Katalin Kovács
     year: 1977
     language: Hungarian
@@ -31392,6 +31627,7 @@ titles:
     verified: true
   - title: A világ csodái
     subtitle: Földünk korai felfedezései
+    original_title: Wunder der Welt
     series: Univerzum könyvtár
     authors:
       - Walter Krämer
@@ -31678,6 +31914,7 @@ titles:
   - title: Fehér sas kék mezőben
     authors:
       - Tadeusz Henryk Rolski
+    translators:
       - Dániel Pfeifer
     year: 1977
     language: Hungarian
@@ -33305,6 +33542,8 @@ titles:
   - title: Az Élet rendkívüli esemény
     subtitle: Interjúk szovjet tudósokkal
     authors: []
+    editors:
+      - Elemér Csák
     year: 1978
     language: Hungarian
     sources:
@@ -33628,6 +33867,7 @@ titles:
   - title: Fehér sas kék mezőben
     authors:
       - Tadeusz Henryk Rolski
+    translators:
       - Dániel Pfeifer
     year: 1978
     language: Hungarian
@@ -33899,6 +34139,8 @@ titles:
   - title: Magyar-brit titkos tárgyalások 1943-ban
     authors:
       - Gyula Juhász
+    translators:
+      - Pál Kallós
     year: 1978
     language: Hungarian
     sources:
@@ -34805,6 +35047,7 @@ titles:
   - title: A Monte Cassinó-i csata
     authors:
       - Melchior Wańkowicz
+    translators:
       - István Kovács
     year: 1979
     language: Hungarian
@@ -35550,6 +35793,7 @@ titles:
   - title: Höség és láz a Távol-Keleten
     authors:
       - Lucjan Wolanowski
+    translators:
       - István Nemere
     year: 1979
     language: Hungarian
@@ -36203,9 +36447,12 @@ titles:
     verified: true
   - title: Új látöhatárok
     subtitle: A nagy felfedezések kora
+    original_title: Neue Horizonte
     series: Univerzum könyvtár
     authors:
       - Walter Krämer
+    translators:
+      - Aner Kálmán
     year: 1979
     language: Hungarian
     sources:
@@ -36239,6 +36486,7 @@ titles:
         url: https://search.worldcat.org/title/52222840
     verified: true
   - title: “A” maja papok titkai
+    original_title: Tajna žrecov majja
     authors:
       - V. A. Kuzʺmiščev
       - Kálmán Auer
@@ -36671,6 +36919,8 @@ titles:
     verified: true
   - title: A Polgári filozófia a XX. Században
     authors: []
+    editors:
+      - István Hermann
     year: 1980
     language: Not recorded
     sources:
@@ -36855,6 +37105,8 @@ titles:
   - title: Az 1970-es évtized a magyar történelemben
     authors:
       - T. Iván Berend
+    editors:
+      - László Kende
     year: 1980
     language: Hungarian
     pages: 273
@@ -37417,6 +37669,7 @@ titles:
     pages: 264
     isbn: '9630915499'
   - title: Mi lesz veled emberke?
+    original_title: Kleiner Mann - was nun?
     series: Új világ
     authors:
       - Hans Fallada
@@ -37834,6 +38087,7 @@ titles:
   - title: A 290 számú auschwitzi fogoly
     authors:
       - Wiesław Kielar
+    translators:
       - Beatrix Murányi
     year: 1981
     language: Hungarian
@@ -38238,6 +38492,7 @@ titles:
   - title: A Vatikán távolról és közelről
     authors:
       - Zdzisław Morawski
+    translators:
       - István Nemere
     year: 1981
     language: Hungarian
@@ -38898,6 +39153,8 @@ titles:
     subtitle: Életrajzi lexikon magyar és külföldi személyiségekrol, kortársainkról
     authors:
       - Péter Hermann
+    editors:
+      - Antal Pásztor
     year: 1981
     language: Hungarian
     sources:
@@ -39170,6 +39427,8 @@ titles:
       - Tibor Baranyai
       - István Bakács
       - László Gyenes
+    editors:
+      - Imre Rákos
     year: 1981
     edition: 4., átdolg. kiad
     language: Hungarian
@@ -39593,6 +39852,7 @@ titles:
     series: Források
     authors:
       - Georges Plekhanov
+    translators:
       - György Fischer
       - Mària Hitseker
     year: 1982
@@ -39952,9 +40212,11 @@ titles:
         url: https://www.sudoc.fr/054924030
     verified: true
   - title: Az erfurti program
+    original_title: Das Erfurter Programm
     series: Források
     authors:
       - Karl Kautsky
+    translators:
       - Zsuzsa Glavina
     year: 1982
     language: Hungarian
@@ -40127,6 +40389,8 @@ titles:
     subtitle: 1930-1945
     authors:
       - Lukács György
+    editors:
+      - László Sziklai
     year: 1982
     language: Hungarian
     pages: 837
@@ -40752,6 +41016,7 @@ titles:
   - title: Napóleon másik fia
     authors:
       - Jadwiga Dackiewicz
+    translators:
       - István Nemere
     year: 1982
     language: Hungarian
@@ -40910,6 +41175,8 @@ titles:
   - title: Társadalomszerkezet és rétegződés
     authors:
       - Tamás Kolosi
+    editors:
+      - Tibor Halay
     year: 1982
     language: Hungarian
     pages: 218
@@ -41319,8 +41586,11 @@ titles:
     verified: true
     isbn: '9630921340'
   - title: A magyar kultúra útjai Jugoszláviában
+    original_title: Građansko nasleđe u socijalističkoj kulturi Mađara u Jugoslaviji i njegovo prevazilaženje
     authors:
       - István Szeli
+    translators:
+      - Valéria Szeli
     year: 1983
     language: Hungarian
     pages: 137
@@ -41343,6 +41613,8 @@ titles:
     subtitle: 1975-1980
     authors:
       - Magyar Szocialista Munkáspárt. Központi Bizottság. Párttörténeti Intézet
+    editors:
+      - Henrik Vass
     year: 1983
     language: Hungarian
     pages: 1240
@@ -41388,6 +41660,8 @@ titles:
   - title: A Művészeti pártosságról
     authors:
       - Endre Bojtár
+    editors:
+      - István Szerdahelyi
     year: 1983
     series: Vélemények/viták
     language: Hungarian
@@ -42546,6 +42820,8 @@ titles:
   - title: Shvoy Kálmán titkos naplója és emlékirata 1918-1945
     authors:
       - Kálmán Shvoy
+    editors:
+      - Mihály Perneki
     year: 1983
     language: Hungarian
     pages: 362
@@ -42584,6 +42860,7 @@ titles:
     verified: true
   - title: Svájc
     subtitle: Múlt és jelen
+    original_title: 'Svejcarija : istorija i sovremennostʹ'
     authors:
       - Georgij Petrovič Dragunov
     year: 1983
@@ -42713,9 +42990,10 @@ titles:
   - title: Tîz nap, amely megrengette a világot
     authors:
       - John Reed
-      - Vera Nyilas
       - Mihály Szakálos
       - Budapest Kossuth Nyomda
+    translators:
+      - Vera Nyilas
     year: 1983
     language: Hungarian
     sources:
@@ -43536,6 +43814,8 @@ titles:
     subtitle: 1944. december 21-22
     authors:
       - Hungary. Ideiglenes Nemzetgyűlés
+    editors:
+      - Imre Cserhalmi
     year: 1984
     language: Hungarian
     pages: 122
@@ -43743,6 +44023,8 @@ titles:
     subtitle: Válogatott beszédek és cikkek, 1975-1983
     authors:
       - József Marjai
+    editors:
+      - István Matkó
     year: 1984
     language: Hungarian
     pages: 241
@@ -44116,6 +44398,9 @@ titles:
   - title: Kunfi Zsigmond válogatott írásai
     authors:
       - Zsigmond Kunfi
+    editors:
+      - Ferenc Mucsi
+      - Ágnes Szabó
     year: 1984
     language: Hungarian
     pages: 412
@@ -45530,6 +45815,9 @@ titles:
   - title: Csongrád
     authors:
       - Mihály Tamási
+    editors:
+      - Gyula Krajkó
+      - Mihály Tamasi
     year: 1985
     series: Magyarország megyéi
     language: Hungarian
@@ -45570,8 +45858,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb41369417c
     verified: true
   - title: Egy marék por
+    original_title: Eine Handvoll Staub
     authors:
       - Lina Haag
+    translators:
       - László Jólesz
     year: 1985
     language: Hungarian
@@ -45686,6 +45976,8 @@ titles:
   - title: Gárdos Mariska
     authors:
       - Mariska Gárdos
+    editors:
+      - János Kende
     year: 1985
     language: Hungarian
     pages: 179
@@ -45803,6 +46095,8 @@ titles:
     subtitle: 1944-46
     authors:
       - Edgár Balogh
+    editors:
+      - J. Béla Kovács
     year: 1985
     language: Hungarian
     pages: 145
@@ -46300,6 +46594,9 @@ titles:
   - title: Tanulmányok a magyar népi demokrácia negyven évéről
     authors:
       - Károly Urbán
+    editors:
+      - János Molnár
+      - Sándor Orbán
     year: 1985
     language: Hungarian
     pages: 284
@@ -47058,6 +47355,8 @@ titles:
     subtitle: Dokumentumok
     authors:
       - István Roska
+    editors:
+      - Hungary
     year: 1986
     language: Hungarian
     pages: 512
@@ -47686,6 +47985,8 @@ titles:
     authors:
       - László Vekerdi
       - Péter Agárdi
+    editors:
+      - Ágnes Kenyeres
     year: 1986
     language: Hungarian
     pages: 785
@@ -47740,6 +48041,8 @@ titles:
     subtitle: Tanulmányok, cikkek, interjúk
     authors:
       - Edgár Balogh
+    editors:
+      - László Sándor
     year: 1986
     language: Hungarian
     pages: 418
@@ -48082,6 +48385,8 @@ titles:
     subtitle: Dokumentum ok, visszaemlékezések
     authors:
       - László Kővágó
+    editors:
+      - Làszló Kővágó
     year: 1986
     language: Hungarian
     pages: 105
@@ -48500,6 +48805,8 @@ titles:
     authors:
       - Margit Földesi
       - M. János Rainer
+    editors:
+      - Sándor Balogh
     year: 1987
     series: Vélemények/viták
     language: Hungarian
@@ -48722,6 +49029,8 @@ titles:
     subtitle: Tanulmányok
     authors:
       - L. Ferenc Lendvai
+    editors:
+      - L. F. Lendvai
     year: 1987
     language: Hungarian
     pages: 379
@@ -48832,6 +49141,7 @@ titles:
   - title: A sasfiók
     authors:
       - Jadwiga Dackiewicz
+    translators:
       - István Nemere
     year: 1987
     language: Hungarian
@@ -49407,6 +49717,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=013756281
     verified: true
   - title: Huszonhárom lépcsőfok a halálba
+    original_title: Dvadcatʹ tri stupeni vniz
     authors:
       - M. K. Kasvinov
     year: 1987
@@ -49943,6 +50254,8 @@ titles:
     verified: true
   - title: Szépen magyarul, szépen emberül
     authors: []
+    editors:
+      - László Bachát
     year: 1987
     language: Hungarian
     pages: 176
@@ -50051,6 +50364,8 @@ titles:
   - title: Szociálpolitika ma és holnap
     authors:
       - Zsuzsa Ferge
+    editors:
+      - Györgyi Várnai
     year: 1987
     language: Hungarian
     pages: 299
@@ -50434,6 +50749,8 @@ titles:
     subtitle: Tanulmányok, cikkek, dokumentumok
     authors:
       - Edgár Balogh
+    editors:
+      - László Sándor
     year: 1988
     language: Hungarian
     pages: 165
@@ -50486,6 +50803,7 @@ titles:
         url: https://lccn.loc.gov/88186509
     verified: true
   - title: A svéd mentőakció, 1944
+    original_title: Kaos i Budapest
     authors:
       - Nina Langlet
     year: 1988
@@ -51391,6 +51709,9 @@ titles:
   - title: Ópusztaszer
     authors:
       - János Berecz
+    editors:
+      - János Koncz
+      - István Sz Simon
     year: 1988
     language: Hungarian
     pages: 224
@@ -51479,6 +51800,8 @@ titles:
   - title: Szakasits Árpád emlékkönyv
     authors:
       - János Botos
+    editors:
+      - Péter Schiffer
     year: 1988
     language: Hungarian
     pages: 309
@@ -51661,6 +51984,7 @@ titles:
   - title: Töprengések a szocializmusról
     authors:
       - Nikolaj Ivanovič Buharin
+    translators:
       - Miklós Kun
     year: 1988
     language: Hungarian
@@ -52108,6 +52432,8 @@ titles:
     authors:
       - Jenő Horváth
       - Gábor Székely
+    editors:
+      - Jenő Horvàth
     year: 1989
     language: Hungarian
     pages: 181
@@ -52303,6 +52629,8 @@ titles:
   - title: Kiútkeresés, 1943
     authors:
       - Zsuzsa L. Nagy
+    editors:
+      - Kornélia Burucs
     year: 1989
     language: Hungarian
     pages: 165
@@ -52890,6 +53218,7 @@ titles:
         url: https://d-nb.info/560863667
     verified: false
   - title: Két kicsi hód
+    original_title: The adventures of Sajo and her beaver people
     authors:
       - Grey Owl
       - Ervin Baktay
@@ -52923,6 +53252,7 @@ titles:
     subtitle: Tudomány, civilizáció, jövő
     authors:
       - Stanisław Lem
+    translators:
       - György Radó
     language: Hungarian
     sources:

@@ -115,6 +115,8 @@ titles:
   - title: Poetry and Prose
     authors:
       - Walt Whitman
+    editors:
+      - Abe Čapek
     year: 1958
     series: Panther Books -- 7
     language: English
@@ -360,6 +362,7 @@ titles:
       - label: Free ebook (Project Gutenberg)
         url: https://www.gutenberg.org/ebooks/768
   - title: A Bit of Blood and Other Stories
+    original_title: Ein Tropfen Blut
     series: Seven Seas Books
     authors:
       - Arnold Zweig
@@ -638,8 +641,12 @@ titles:
     verified: true
   - title: Naked Among Wolves
     subtitle: '[Translated by Edith Anderson]'
+    original_title: Nackt unter Wölfen
     authors:
       - Bruno Apitz
+    translators:
+      - Edith Anderson
+      - Kay Pankey
     year: 1960
     series: Seven Seas Books, 7
     language: English
@@ -669,7 +676,8 @@ titles:
   - title: Old Land, New People
     subtitle: German Short Stories
     series: Seven Seas Books
-    authors:
+    authors: []
+    translators:
       - Joan Becker
     year: 1960
     language: English
@@ -708,9 +716,10 @@ titles:
     series: Seven Seas Books
     authors:
       - Anna Seghers
+      - Valerie Stone
+    translators:
       - Jack Mitchell
       - Renate Mitchel
-      - Valerie Stone
     year: 1960
     language: English
     sources:
@@ -722,6 +731,7 @@ titles:
         url: https://d-nb.info/454638272
     verified: true
     subtitle: Two Novelettes
+    original_title: Aufstand der Fischer von St. Barbara
   - title: Sowing the Wind
     authors:
       - Martha Dodd
@@ -933,8 +943,11 @@ titles:
     series: Seven Seas Books
   - title: Lieutenant Bertram
     subtitle: A Novel of the Nazi Luftwaffe
+    original_title: Leutnant Bertram
     authors:
       - Bodo Uhse
+    translators:
+      - Catherine Hutter
     year: 1961
     series: Seven Seas Books -- 7
     language: English
@@ -946,8 +959,11 @@ titles:
     verified: true
   - title: Our Street
     subtitle: A Chronicle of Only Yesterday
+    original_title: Unsere Strasse
     authors:
       - Jan Petersen
+    translators:
+      - Betty Rensen
     year: 1961
     series: Seven Seas Books -- 7
     language: English
@@ -1030,9 +1046,11 @@ titles:
         url: https://d-nb.info/450762599
     verified: true
   - title: The Firing Squad
+    original_title: Himmelfahrtskommando
     series: Seven Seas Books
     authors:
       - Franz C. Weiskopf
+    translators:
       - James A. Galston
     year: 1961
     language: English
@@ -1057,9 +1075,11 @@ titles:
     verified: true
   - title: City on a Hill
     subtitle: A Quartet in Prose
+    original_title: Zeit der Gemeinsamkeit
     series: Seven Seas Books
     authors:
       - Stephan Hermlin
+    translators:
       - Joan Becker
     year: 1962
     language: English
@@ -1115,10 +1135,11 @@ titles:
     subtitle: '800 Years of German Poetry: Luther, Goethe, Schiller, Hölderlin, Heine, Brecht'
     series: Seven Seas Books
     authors:
-      - Emma Louise Mally
       - Günter Deicke
       - Marianne Dreyfuss
       - Günther Deicke
+    translators:
+      - Emma Louise Mally
     year: 1962
     language: English
     sources:
@@ -1181,6 +1202,10 @@ titles:
   - title: The Death of General Moreau and Other Stories
     authors:
       - Willi Bredel
+    editors:
+      - Lucy Abbott
+    translators:
+      - Joan Becker
     year: 1962
     language: English
     sources:
@@ -1192,6 +1217,7 @@ titles:
         url: https://www.gateway-bayern.de/BV025469580
     verified: true
     subtitle: 'Transl. From the German by Joan Becker. Transl. Ed.: Lucy Abbott'
+    original_title: Der Tod des Generales Moreau
     series: Seven Seas Books
   - title: The Glasenapp Case
     authors:
@@ -1680,8 +1706,11 @@ titles:
     subtitle: As Told to Louis Burnham and Norval Welch
   - title: Divided Heaven
     subtitle: A Novel of Germany Today
+    original_title: Der geteilte Himmel
     authors:
       - Christa Wolf
+    translators:
+      - Joan Becker. (Translation editor)
     year: 1965
     series: Seven Seas Books
     language: English
@@ -1745,6 +1774,8 @@ titles:
     subtitle: A Half-Century of Selected Writings from the Works of Katharine Susannah Prichard
     authors:
       - Katharine Susannah Prichard
+    editors:
+      - Joan Williams
     year: 1965
     series: Seven Seas Books
     language: English
@@ -1806,9 +1837,11 @@ titles:
         url: https://d-nb.info/575414669
     verified: true
   - title: Witch's Son
+    original_title: Der Sohn der Hexe
     series: Seven Seas Books
     authors:
       - Rosemarie Schuder
+    translators:
       - Joan Becker
     year: 1965
     language: English
@@ -1884,8 +1917,11 @@ titles:
         url: https://www.gateway-bayern.de/BV036594065
     verified: true
   - title: Ole Bienkopp
+    original_title: Ole Bienkopp
     authors:
       - Erwin Strittmatter
+    translators:
+      - Renate Mitchell)
     year: 1966
     series: Seven Seas Books
     language: English
@@ -2069,6 +2105,8 @@ titles:
   - title: Naked Among Wolves
     authors:
       - Bruno Apitz
+    translators:
+      - Edith Anderson
     year: 1967
     series: Seven Seas Books
     language: English
@@ -2186,6 +2224,8 @@ titles:
     subtitle: Short Stories from South Africa
     authors:
       - Herbert L. Shore
+    editors:
+      - Megchelina Shore-Bos
     year: 1968
     series: Seven Seas Books
     language: English
@@ -2206,8 +2246,11 @@ titles:
     verified: true
   - title: Deep Waters
     subtitle: Translated by John Peet
+    original_title: Die Tage in W
     authors:
       - Rolf Schneider
+    translators:
+      - John Peet
     year: 1968
     series: Seven Seas Books
     language: English
@@ -2230,6 +2273,8 @@ titles:
     subtitle: A Novel of Germany Today
     authors:
       - Christa Wolf
+    translators:
+      - Joan Becker
     year: 1968
     series: Seven Seas Books, 7
     language: English
@@ -2282,9 +2327,11 @@ titles:
     verified: true
   - title: The Car with the Yellow Star
     subtitle: 14 Days Out of 2 Decades
+    original_title: Das Judenauto
     series: Seven Seas Books
     authors:
       - Franz Fühmann
+    translators:
       - Joan Becker
     year: 1968
     language: English
@@ -2301,8 +2348,11 @@ titles:
     pages: 174
   - title: The Car with Yellow Star
     subtitle: Fourteen Days Out of Two Decades
+    original_title: Das Judenauto
     authors:
       - Franz Fühmann
+    translators:
+      - Joan Becker
     year: 1968
     series: Seven Seas Books
     language: English
@@ -2360,9 +2410,12 @@ titles:
         url: https://www.sudoc.fr/015123138
     verified: true
   - title: Time of the Storks
+    original_title: Zeit der Störche
     series: Seven Seas Books
     authors:
       - Herbert Otto
+    translators:
+      - Eva Wulff
     year: 1968
     language: English
     sources:
@@ -2416,8 +2469,11 @@ titles:
     verified: true
   - title: Conversations in the Night
     subtitle: Three Works
+    original_title: Selected works
     authors:
       - Louis Fürnberg
+    translators:
+      - Joan Becker
     year: 1969
     series: Seven Seas Books
     language: English
@@ -2447,8 +2503,11 @@ titles:
     verified: true
   - title: Ricefield--battlefield
     subtitle: A Visit to North Vietnam
+    original_title: Reisfelder - Schlachtfelder, engl
     authors:
       - Kurt Stern
+    translators:
+      - Eva Wulff
     year: 1969
     series: Seven Seas Books
     language: English
@@ -2522,6 +2581,8 @@ titles:
   - title: Time of the Storks
     authors:
       - Herbert Otto
+    translators:
+      - Eva Wulff
     year: 1969
     series: Seven Seas Books
     language: English
@@ -2572,6 +2633,7 @@ titles:
         url: https://d-nb.info/577531441
     verified: true
   - title: Farewell
+    original_title: Abschied
     authors:
       - Johannes Robert Becher
     year: 1970
@@ -2606,6 +2668,8 @@ titles:
   - title: I Taste Bitterness
     authors:
       - Johannes Bobrowski
+    translators:
+      - Marc Linder
     year: 1970
     language: German
     pages: 164
@@ -2659,6 +2723,8 @@ titles:
   - title: Labyrinth Without Fear
     authors:
       - Joachim Nowotny
+    translators:
+      - John Peet
     year: 1970
     series: Seven Seas Books
     language: English, German
@@ -2723,6 +2789,8 @@ titles:
   - title: The Stolen Republic
     authors:
       - Carl von Ossietzky
+    translators:
+      - John Peet
     year: 1971
     series: Seven Seas Books
     language: English
@@ -2854,9 +2922,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=411283243
     verified: true
   - title: Benito's Blue and Nine Other Stories
+    original_title: Das wirkliche Blau
     series: Seven Seas Books
     authors:
       - Anna Seghers
+    translators:
       - Joan Becker
     year: 1973
     language: English
@@ -2876,9 +2946,11 @@ titles:
     verified: true
     pages: 270
   - title: Buridan's Ass
+    original_title: Buridans Esel
     series: Seven Seas Books
     authors:
       - Günter de Bruyn
+    translators:
       - John Peet
     year: 1973
     language: English
@@ -2896,6 +2968,8 @@ titles:
   - title: Buridans Ass
     authors:
       - Günter de Bruyn
+    translators:
+      - John Peet
     year: 1973
     language: English
     pages: 254
@@ -3002,6 +3076,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=083765646
     verified: true
   - title: Brecht as They Knew Him
+    original_title: Erinnerungen an Brecht
     authors:
       - Hubert Witt
     year: 1974
@@ -3168,6 +3243,8 @@ titles:
   - title: Political Verse and Song from Britain and Ireland
     authors:
       - Mary Ashraf
+    editors:
+      - Phyllis Mary Ashraf
     year: 1975
     series: Seven Seas Books
     language: English
@@ -3379,6 +3456,8 @@ titles:
     subtitle: Essays, Sketches, Memories
     authors:
       - Christa Wolf
+    translators:
+      - Joan Becker
     year: 1977
     series: Seven Seas Books
     language: English
@@ -3492,8 +3571,11 @@ titles:
       - label: Free ebook (Project Gutenberg)
         url: https://www.gutenberg.org/ebooks/48108
   - title: Naked Among Wolves
+    original_title: Nackt unter Wölfen
     authors:
       - Bruno Apitz
+    translators:
+      - Edith Anderson
     year: 1978
     series: Seven Seas Books -- 7
     language: English
@@ -3583,6 +3665,8 @@ titles:
     subtitle: Or, Half a Lifetime
     authors:
       - Franz Fühmann
+    translators:
+      - Leila Vennewitz
     year: 1980
     series: Seven Seas Books
     language: English

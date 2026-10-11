@@ -33,6 +33,7 @@ titles:
     series: Gab es eine Alternative?; v.4
     authors:
       - Vadim Zacharovič Rogovin
+    translators:
       - Hannelore Georgi
       - Harald Schubärth
     year: 1998
@@ -52,6 +53,7 @@ titles:
     series: Gab es eine Alternative?; v.5
     authors:
       - Vadim Zacharovič Rogovin
+    translators:
       - Hannelore Georgi
       - Harald Schubärth
     year: 1998
@@ -67,6 +69,7 @@ titles:
   - title: Gab es eine Alternative?/Die Partei der Hingerichteten
     authors:
       - Vadim Zacharovič Rogovin
+    translators:
       - Hannelore Georgi
       - Harald Schubärth
     year: 1999
@@ -99,6 +102,7 @@ titles:
     series: Gab es eine Alternative?; v.3
     authors:
       - Vadim Zacharovič Rogovin
+    translators:
       - Hannelore Georgi
       - Harald Schubärth
     year: 2000
@@ -114,6 +118,7 @@ titles:
   - title: Gab es eine Alternative?/Vor dem Großen Terror - Stalins Neo-NÖP
     authors:
       - Vadim Zacharovič Rogovin
+    translators:
       - Hannelore Georgi
       - Harald Schubärth
     year: 2000
@@ -148,6 +153,7 @@ titles:
     series: Gab es eine Alternative?; v.6
     authors:
       - Vadim Zacharovič Rogovin
+    translators:
       - Hannelore Georgi
       - Harald Schubärth
     year: 2001
@@ -168,6 +174,7 @@ titles:
     authors:
       - Aleksandr Konstantinovič Voronskij
       - Frederick Choate
+    translators:
       - Ingeborg Schröder
       - Erich Ahrndt
     year: 2004
@@ -192,6 +199,7 @@ titles:
     series: Gab es eine Alternative?; v.2
     authors:
       - Vadim Zacharovič Rogovin
+    translators:
       - Hannelore Georgi
       - Harald Schubärth
     year: 2006
@@ -211,6 +219,7 @@ titles:
     subtitle: Eine Biographie
     authors:
       - Lev Davidovič Trockij
+    translators:
       - Raymond Kuhlmann
     year: 2006
     language: German
@@ -223,6 +232,7 @@ titles:
     series: Trotzki-Bibliothek
     authors:
       - Lev Davidovič Trockij
+    translators:
       - Georg Blumental
     year: 2006
     language: German
@@ -269,6 +279,7 @@ titles:
     series: Gab es eine Alternative?; v.1
     authors:
       - Vadim Zacharovič Rogovin
+    translators:
       - Hannelore Georgi
       - Harald Schubärth
     year: 2010
@@ -308,8 +319,10 @@ titles:
     verified: true
   - title: Stalin
     subtitle: Eine Biographie
+    original_title: Raymond Kuhlmann
     authors:
       - Lev Davidovič Trockij
+    translators:
       - Raymond Kuhlmann
     year: 2010
     language: German
@@ -319,12 +332,14 @@ titles:
     verified: true
   - title: Baumeister der Revolution
     subtitle: Sowjetische Kunst und Architektur 1915-1935
+    original_title: 'Building the revolution: Sovjet art and architecture'
     authors:
       - David Breuer
-      - Peter Sonderhausen
       - Maryanne Stevens
       - Richard Pare
       - CaixaForum
+    translators:
+      - Peter Sonderhausen
     year: 2011
     language: German
     sources:
@@ -344,6 +359,7 @@ titles:
     verified: true
   - title: Die Sowjetmacht
     subtitle: Die Revolution der Bolschewiki 1917
+    original_title: The Bolsheviks come to power
     authors:
       - Alexander Rabinowitch
       - Andrea Rietmann
@@ -355,8 +371,10 @@ titles:
     verified: true
   - title: Ganz normale Bürger
     subtitle: 'Die Opfer Stalins: Fotografien von Memorial, Moskau, der David King Collection, London und Reinhard Schultz, Berlin'
+    original_title: Ordinary citizens
     authors:
       - David King
+    translators:
       - Christine Maria Nemeth
     year: 2012
     language: German
@@ -388,9 +406,11 @@ titles:
     verified: true
   - title: Verteidigung Leo Trotzkis
     subtitle: Zweite, erweiterte Auflage
+    original_title: In defense of Leon Trotsky
     authors:
       - David North
       - Wolfgang Weber
+    translators:
       - Andrea Rietmann
     year: 2012
     language: German
@@ -407,6 +427,7 @@ titles:
     authors:
       - Richard B. Day
       - Daniel Gaido
+    translators:
       - Peter Sondershausen
       - Hannelore Georgi
     year: 2012
@@ -499,6 +520,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1796709794
     verified: true
   - title: Die Russische Revolution und das unvollendete Zwanzigste Jahrhundert
+    original_title: The Russian Revolution and the unfinished twentieth century
     authors:
       - David North
     year: 2015
@@ -592,6 +614,7 @@ titles:
     verified: true
   - title: Die Frankfurter Schule, die Postmoderne und die Politik der Pseudolinken
     subtitle: Eine marxistische Kritik
+    original_title: The Frankfurt school, postmodernism and the politics of the pseudo-left
     authors:
       - David North
     year: 2016
@@ -626,6 +649,7 @@ titles:
     verified: true
   - title: Die Permanente Revolution
     subtitle: Ergebnisse und Perspektiven
+    original_title: Predannaja revoljucija
     series: Trotzki-Bibliothek
     authors:
       - Leo Trotzki
@@ -655,8 +679,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1796709387
     verified: true
   - title: Die Tragödie der chinesischen Revolution
+    original_title: The tragedy of the Chinese revolution
     authors:
       - Harold Robert Isaacs
+    translators:
+      - Gisela Bean
     year: 2016
     language: German
     sources:
@@ -749,6 +776,7 @@ titles:
     authors:
       - David North
       - Wolfgang Weber
+    translators:
       - Andrea Rietmann
     year: 2016
     language: German
@@ -809,6 +837,7 @@ titles:
     subtitle: Februarrevolution
     authors:
       - Lev Davidovič Trockij
+    translators:
       - Alexandra Pfemfert
     year: 2017
     language: German
@@ -842,6 +871,8 @@ titles:
     series: Warum die Russische Revolution studieren; v.1
     authors:
       - Internationales Komitee der Vierten Internationales Komitee der Vierten Internationale
+    editors:
+      - Internationales Komitee der Vierten Internationale
     year: 2017
     language: German
     sources:
@@ -871,8 +902,11 @@ titles:
         url: https://d-nb.info/1147898537
     verified: true
   - title: Zehn Tage, die die Welt erschütterten
+    original_title: Ten days that shook the world
     authors:
       - John Reed
+    translators:
+      - Willi Schulz
     year: 2017
     language: German
     sources:
@@ -909,8 +943,10 @@ titles:
       - label: Full text (marxists.org)
         url: https://www.marxists.org/archive/mehring/1918/marx/index.htm
   - title: V zaščitu Lʹva Trockogo
+    original_title: In defense of Leon Trotsky
     authors:
       - David North
+    translators:
       - Vladimir Volkov
     year: 2018
     language: Russian
@@ -923,6 +959,8 @@ titles:
     series: Warum die Russische Revolution studieren; v.2
     authors:
       - Internationales Komitee der Vierten Internationales Komitee der Vierten Internationale
+    editors:
+      - Internationales Komitee der Vierten Internationale
     year: 2018
     language: German
     sources:
@@ -993,8 +1031,10 @@ titles:
     verified: true
   - title: Das Erbe, das wir verteidigen
     subtitle: Ein Beitrag zur Geschichte der Vierten Internationale
+    original_title: The heritage we defend
     authors:
       - David North
+    translators:
       - Ute Reissner
     year: 2019
     language: German
@@ -1004,8 +1044,10 @@ titles:
     verified: true
   - title: 30 Jahre Krieg
     subtitle: Amerikas Griff nach der Weltherrschaft 1990 – 2020
+    original_title: A quarter century of war
     authors:
       - David North
+    translators:
       - Ute Reissner
     year: 2020
     language: German
@@ -1027,8 +1069,10 @@ titles:
     verified: true
   - title: Agenten
     subtitle: Das FBI und die GPU in der trotzkistischen Bewegung
+    original_title: Agents
     authors:
       - Eric London
+    translators:
       - Ute Reissner
     year: 2020
     language: German
@@ -1107,6 +1151,7 @@ titles:
     verified: true
   - title: Ein Vierteljahrhundert Krieg
     subtitle: Amerikas Griff nach der Weltherrschaft 1990 – 2016
+    original_title: A Quarter Century of War
     authors:
       - David North
     year: 2020
@@ -1119,6 +1164,7 @@ titles:
     series: Gab es eine Alternative?; v.0
     authors:
       - Vadim Zacharovič Rogovin
+    translators:
       - Hannelore Georgi
     year: 2020
     language: German
@@ -1151,6 +1197,7 @@ titles:
     subtitle: Mein Leben, mein Schicksal, meine Epoche - Die Memoiren von Nadeschda A. Joffe
     authors:
       - Nadeschda A. Joffe
+    translators:
       - Iva Srazil
     year: 2020
     language: German
@@ -1176,6 +1223,7 @@ titles:
     subtitle: Die Revolution der Bolschewiki 1917
     authors:
       - Alexander Rabinowitch
+    translators:
       - Andrea Rietmann
     year: 2022
     language: German
@@ -1305,6 +1353,7 @@ titles:
         url: https://d-nb.info/1310057508
     verified: true
   - title: Wohin geht Frankreich?
+    original_title: Kuda idet Francija?
     series: Trotzki-Bibliothek
     authors:
       - Lev Davidovič Trockij
@@ -1322,8 +1371,10 @@ titles:
     verified: true
   - title: Die Logik des Zionismus
     subtitle: Vom nationalistischen Mythos zum Genozid in Gaza
+    original_title: The logic of Zionism
     authors:
       - David North
+    translators:
       - Ute Reissner
     year: 2024
     language: German
@@ -1339,8 +1390,10 @@ titles:
     verified: true
   - title: 'Ein Warnruf: Sozialismus gegen Krieg'
     subtitle: Reden zum 1. Mai 2014-2024
+    original_title: 'Sounding the alarm: socialism against war'
     authors:
       - David North
+    translators:
       - Ute Reissner
     year: 2024
     language: German
@@ -1357,8 +1410,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1906683190
     verified: true
   - title: Leo Trotzki und der Kampf für Sozialismus im 21. Jahrhundert
+    original_title: Leon Trotsky and the struggle for socialism in the twenty-first century
     authors:
       - David North
+    translators:
       - Ute Reissner
     year: 2024
     language: German
@@ -1390,6 +1445,7 @@ titles:
     subtitle: Versuch einer Autobiografie
     authors:
       - Lev Davidovič Trockij
+    translators:
       - Alexandra Pfemfert
     year: 2026
     language: German
@@ -1421,6 +1477,7 @@ titles:
     subtitle: Die ersten fünf Jahre der Kommunistischen Internationale
     authors:
       - Lev Davidovič Trockij
+    translators:
       - Peter Sondershausen
     year: 2027
     language: German

@@ -122,6 +122,7 @@ titles:
     subtitle: (Kannan and Kuyil Pāttu)
     authors:
       - C. Subrahmanya Bharati
+    translators:
       - Auvai Cu Turaicāmi Piḷḷai
     year: 1966
     language: English
@@ -161,8 +162,11 @@ titles:
         url: https://d-nb.info/1006764097
     verified: true
   - title: A Standard Grammar of Modern and Classical Tamil
+    original_title: Grammatika tamilʹskogo i︠a︡zyka
     authors:
       - M. S. Andronov
+    translators:
+      - The author from the original Russian
     year: 1969
     language: English
     sources:
@@ -439,6 +443,8 @@ titles:
     subtitle: From the Beginning to 1000 A.D.
     authors:
       - Es Vaiyāpurip Piḷḷai
+    editors:
+      - Kārttikēcu Civattampi
     year: 1988
     edition: 2nd rev. ed
     language: English
@@ -554,6 +560,8 @@ titles:
     subtitle: Language, Literature, and Society
     authors:
       - K. Karunakaran
+    editors:
+      - Krishnamoorthy Karunakaran
     year: 1992
     edition: 1st ed
     language: English
@@ -816,6 +824,7 @@ titles:
     subtitle: Including 14 Historic Poems on Dr. a. P. J. Abdul Kalam
     authors:
       - Ya. Su Rājaṉ
+    translators:
       - C. V. Karthik Narayanan
     year: 2002
     language: English
@@ -1020,8 +1029,11 @@ titles:
         url: https://lccn.loc.gov/2007389276
     verified: true
   - title: Canal Fish
+    original_title: Vāykkal mīṉkaḷ
     authors:
       - Ve Ir̲aiyan̲pu
+    translators:
+      - Vijay Elangova
     year: 2006
     language: English
     pages: 82
@@ -1077,6 +1089,7 @@ titles:
   - title: One Sixth
     authors:
       - C. Subrahmanya Bharati
+    translators:
       - S. Tōtātri
     year: 2007
     language: English
@@ -1102,6 +1115,7 @@ titles:
   - title: Ripples
     authors:
       - V. Iṟaiyaṉpu
+    translators:
       - Vijay Elangova
     year: 2007
     language: English
@@ -1110,8 +1124,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1395788049
     verified: true
   - title: Sprinkle on the Face
+    original_title: Mukattil teḷitta cāral
     authors:
       - V. Iṟaiyaṉpu
+    translators:
       - Vijay Elangova
     year: 2007
     language: English
@@ -1449,7 +1465,8 @@ titles:
     verified: true
   - title: Thirukkural
     subtitle: Tamil-English
-    authors:
+    authors: []
+    translators:
       - G. U. Pope
     year: 2014
     language: Tamil, English
@@ -1458,8 +1475,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1753372968
     verified: true
   - title: Eshwara Allah Tere Naam
+    original_title: Īsvara Allā tērē nām
     authors:
       - Jeyakāntaṉ
+    translators:
       - K. S. Subramanian
     year: 2015
     language: English
@@ -1516,6 +1535,7 @@ titles:
   - title: Two Major Works of Bharathidasan
     authors:
       - Pāratitācaṉ
+    translators:
       - Aiyasami Taṭciṇāmūrtti
     year: 2019
     language: English, Tamil

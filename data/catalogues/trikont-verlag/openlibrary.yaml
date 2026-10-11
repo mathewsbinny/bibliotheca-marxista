@@ -24,6 +24,7 @@ titles:
     verified: true
   - title: Emigration und Imperialismus
     subtitle: Zur Problematik der Arbeitsemigranten
+    original_title: Emigrazione e imperialismo
     series: Trikont-Bücher
     authors:
       - Paolo Cinanni
@@ -54,6 +55,7 @@ titles:
     subtitle: Botschaft an die Völker der Welt
   - title: Revolution in der Revolution?
     subtitle: Bewaffneter Kampf und politischer Kampf in Lateinamerika
+    original_title: Révolution dans la révolution ?
     authors:
       - Régis Debray
     year: 1967
@@ -75,6 +77,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991101082259705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Bauernrevolution in Süd-Viet-Nam
+    original_title: La révolution paysanne du sud viet nam
     authors:
       - Lê Châu
     year: 1968
@@ -101,6 +104,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991081194609705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Bolivianisches Tagebuch
+    original_title: El diario del Che en Bolivia
     series: Trikont aktuell; 5
     authors:
       - Che Guevara
@@ -162,6 +166,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991170927294005501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Reden - Aufsätze Interviews
+    original_title: contre l'agression Américaine; aus dem Französischen übersetzt von Gisela Erler
   - title: Merde
     subtitle: Karikaturen der Mairevolte, Frankreich, 1968
     authors:
@@ -189,6 +194,8 @@ titles:
       - V. H. Brandes
       - James Forman
       - Joyce Burke
+    editors:
+      - Volkhard Brandes
     year: 1968
     series: Trikont aktuel -- 4
     language: German
@@ -223,12 +230,15 @@ titles:
     verified: true
   - title: Partisanenkrieg, eine Methode/Mensch und Sozialismus auf Cuba
     subtitle: 2 Studien
+    original_title: La guerra de guerrillas/Socialismo y el hombre en Cuba
     authors:
       - Che Guevara
       - Harry "Pombo" Villegas
       - Brian Loveman
       - Davies, Thomas M., Jr
       - Jason Manuel Olazabal
+    translators:
+      - R. Führer
     year: 1968
     series: Trikont aktuell, 2
     language: German
@@ -277,6 +287,8 @@ titles:
     subtitle: Theoretische Zeitschrift d. Exekutivsekretariats der Organisation für die Solidarität der Völker Asiens, Afrikas und Lateinamerikas, OSPAAL
     authors:
       - Organization of Solidarity
+    editors:
+      - Organization of Solidarity of the People of Africa, Asia, and Latin America
     year: 1968
     language: Not recorded
     sources:
@@ -309,8 +321,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=624394956
     verified: true
   - title: Bewaffneter Kampf in Afrika
+    original_title: Lutte armée en Afrique
     authors:
       - Gérard Chaliand
+    translators:
+      - Gisela Schöning
     year: 1969
     language: German
     sources:
@@ -333,6 +348,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991144457259705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Der Aufbau des Sozialismus in China
+    original_title: La construction du socialisme en Chine
     authors:
       - Charles Bettelheim
       - Hélène Marchisio
@@ -411,9 +427,12 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991009450109705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Revolutionäre Alternative
+    original_title: Option revolutionaire au Maroc
     authors:
       - al-Mahdī Bin Barakah
       - Bassam Tibi
+    editors:
+      - Bassām Ṭībī
     year: 1969
     series: Trikont Aktuell -- 7
     language: German
@@ -507,6 +526,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=030157714
     verified: true
   - title: Die Araber in Israel
+    original_title: Les arabes en Israël
     series: Trikont Bücher
     authors:
       - Eli Lobel
@@ -804,6 +824,7 @@ titles:
     verified: true
   - title: Judenfrage & Kapitalismus
     subtitle: Historisch-materialistische Analyse der Rolle der Juden in der Geschichte bis zur Gründung des Staates Israel; Schulungstext zur Wirtschaftsgeschichte Europas
+    original_title: La conception materialiste de la question juive
     authors:
       - Abraham Léon
     year: 1971
@@ -852,6 +873,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991170940061005501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Neuere Beiträge zur Imperialismustheorie
+    original_title: L'homme et la société
     series: Schriften zum Klassenkampf
     authors:
       - Samīr Amīn
@@ -892,6 +914,7 @@ titles:
     isbn: '3920385152'
     edition: 1. Aufl
   - title: Theorie und Praxis sozialistischer Planung
+    original_title: Problèmes théoretiques de la planification
     authors:
       - Charles Bettelheim
     year: 1971
@@ -911,6 +934,9 @@ titles:
     subtitle: Obwohl Heer aus dem Volk kein Heer des Volkes sondern Heer gegen das Volk
     authors:
       - Gauche proletarienne
+    translators:
+      - Hartmut Mehringer
+      - Andrée Valentin
     year: 1971
     edition: 1. Aufl
     series: Schriften zum Klassenkampf -- 11
@@ -1165,9 +1191,11 @@ titles:
     verified: true
   - title: Wir wollen alles
     subtitle: Roman der Fiatkämpfe
+    original_title: Vogliamo tutto
     series: Trikont Texte
     authors:
       - Nanni Balestrini
+    translators:
       - Peter O. Chotjewitz
     year: 1972
     language: German
@@ -1178,6 +1206,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991075998439705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Akkord, Lohn, Qualifikation als Kampfinhalte italienischer Arbeiter
+    original_title: Lotte operaie e organizzazione del lavoro
     series: Schriften zum Klassenkampf; 30
     authors:
       - Marino Regini
@@ -1278,6 +1307,7 @@ titles:
     verified: true
   - title: Faschismus und Diktatur
     subtitle: Die Kommunistische Internationale und der Faschismus
+    original_title: Fascisme et dictature
     series: Trikont-Theorie
     authors:
       - Nikos A. Pulantzas
@@ -1331,6 +1361,9 @@ titles:
     series: Trikont-Texte
     authors:
       - M. Gaglio
+    translators:
+      - Andree Valentin
+      - Toni Auer
     year: 1973
     language: German
     sources:
@@ -1350,6 +1383,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=193784432
     verified: true
   - title: Neuere Beiträge zur Imperialismustheorie
+    original_title: L'homme et la société. Nr. 12 (1969) und Nr. 15 (1970)
     authors:
       - Samīr Amīn
       - Christian Palloix
@@ -1515,6 +1549,7 @@ titles:
     verified: true
   - title: Die Bankräuber aus der Barriera
     subtitle: Die Lebensgeschichte die Revolutionärs Sante Notarnicola, von ihm selbst aufgeschrieben
+    original_title: L’evasione impossibile
     authors:
       - Sante Notarnicola
     year: 1974
@@ -1532,6 +1567,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1624809987
     verified: true
   - title: Die deutsche Wirtschaft unter dem Nationalsozialismus
+    original_title: L'économie allemande sous le nazisme
     series: Trikont-Theorie
     authors:
       - Charles Bettelheim
@@ -1548,6 +1584,7 @@ titles:
     verified: true
   - title: Dynamit
     subtitle: Geschichte des Klassenkampfs in den USA; (1880 - 1930)
+    original_title: Dynamite
     authors:
       - Louis Adamic
       - Thomas Schmid
@@ -1643,6 +1680,7 @@ titles:
     verified: true
   - title: Mein Volk soll Leben
     subtitle: Autobiographie einer palästinensischen Revolutionärin
+    original_title: My people shall live
     series: Reihe Romane, Reportagen, Autobiographien
     authors:
       - Leila Khaled
@@ -1687,6 +1725,7 @@ titles:
     subtitle: Roman der Fiatkämpfe
     authors:
       - Nanni Balestrini
+    translators:
       - Peter O. Chotjewitz
     year: 1974
     language: German
@@ -1708,10 +1747,13 @@ titles:
     verified: true
   - title: Arbeiter gegen den "Kommunismus"
     subtitle: Zur Geschichte des proletarischen Widerstandes in der DDR (1945 - 1958)
+    original_title: La classe ouvrière en Allemagne orientale
     series: Schriften zum Klassenkampf; 43
     authors:
       - Benno Sternberg
       - Heidrun Leschke
+    translators:
+      - Leschke Heidrun
       - Peter Liebl
     year: 1975
     language: German
@@ -1751,6 +1793,9 @@ titles:
     subtitle: Gesammelte Schriften
     authors:
       - Charles Bettelheim
+    translators:
+      - Gisela Schöning
+      - Hartmut Mehringer
     year: 1975
     edition: 1. Aufl
     language: German
@@ -1771,8 +1816,11 @@ titles:
     series: Trikont-Theorie
   - title: Der grosse Basar
     subtitle: Gespräche mit Michel Lévy, Jean-Marc Salmon, Marcel Sell
+    original_title: Le grand bazar
     authors:
       - Daniel Cohn-Bendit
+    editors:
+      - Michel Lévy
     year: 1975
     edition: 1. Aufl
     language: German
@@ -2095,6 +2143,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991055512129705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Hunde wollt ihr ewig sterben!?
+    original_title: Je ne serai plus psychiatre
     series: Trikont; 83
     authors:
       - Gérard Hof
@@ -2148,9 +2197,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=309993520
     verified: true
   - title: Niemand stirbt am Alter
+    original_title: Nobody ever died of old age
     series: Trikont; 82
     authors:
       - Sharon R. Curtin
+    translators:
       - Gerline Kowitzke
     year: 1976
     language: German
@@ -2162,6 +2213,7 @@ titles:
     verified: true
   - title: Nur Stämme werden überleben
     subtitle: Indianische Vorschläge für eine Radikalkur des wildgewordenen Westens
+    original_title: We talk - you listen
     authors:
       - Vine Deloria
       - Gesellschaft für Bedrohte Völker
@@ -2367,6 +2419,7 @@ titles:
     verified: true
   - title: Die Wunden der Freiheit
     subtitle: Selbstzeugnisse, Kommentare u. Dokumente aus d. Kampf d. Indianer gegen d. weisse Eroberung u. heutige Unterdrückung in d. USA, vom Beginn d. Kolonisierung bis 1975
+    original_title: Chronicles of American Indian protest
     series: Trikont; 77
     authors:
       - Dennis Banks
@@ -2615,6 +2668,7 @@ titles:
     authors:
       - Aldo Moro
       - Gino Doni
+    translators:
       - Annette Hofmann
       - Jürgen Humburg
     year: 1978
@@ -2652,6 +2706,7 @@ titles:
     verified: true
   - title: Alternative Technologie
     subtitle: Strategien der technischen Veränderung; Übers. aus d. Engl
+    original_title: Alternative technology and the politics of technical change
     series: Trikont; 89
     authors:
       - David Dickson
@@ -2724,9 +2779,12 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991062072609705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Feminismus und "Terror"
+    original_title: Contre-violence ou la résistance à l'état
     series: Trikont; 110
     authors:
       - Françoise d' Eaubonne
+    translators:
+      - Regina Weiss
     year: 1978
     language: German
     sources:
@@ -2751,6 +2809,7 @@ titles:
     subtitle: Italien, ein neues 68 mit anderen Waffen
     authors:
       - Alberto Benini
+    translators:
       - Thomas Eisenhardt
     year: 1978
     language: German
@@ -2838,6 +2897,7 @@ titles:
     verified: true
   - title: Nur Stämme werden überleben
     subtitle: Indianische Vorschläge für eine Radikalkur des wildgewordenen Westens
+    original_title: We talk - you listen
     authors:
       - Vine Deloria
       - Gesellschaft für Bedrohte Völker
@@ -3010,6 +3070,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1972089536
     verified: true
   - title: Amazonen, Kriegerinnen und Kraftfrauen
+    original_title: Amazones, guerrières et gaillardes
     series: Trikont aktuell; 112
     authors:
       - Pierre Samuel
@@ -3025,6 +3086,7 @@ titles:
     verified: true
   - title: Aradia, die Lehre der Hexen
     subtitle: Mythen, Zaubersprüche, Weisheiten, Bilder
+    original_title: Aradia, the gospel of the witches
     series: Trikont; 113
     authors:
       - Charles Godfrey Leland
@@ -3040,6 +3102,9 @@ titles:
     series: Trikont aktuell; 114
     authors:
       - Rosa von Praunheim
+    editors:
+      - Toni Wiedemann
+      - Otto Frick
     year: 1979
     language: German
     sources:
@@ -3102,6 +3167,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=466299060
     verified: true
   - title: Die Strassenkinder von Bogota
+    original_title: Les gamins de Bogota
     authors:
       - Jacques Meunier
     year: 1979
@@ -3150,9 +3216,11 @@ titles:
     verified: true
   - title: Geronimo
     subtitle: Ein indianischer Krieger erzählt sein Leben
+    original_title: Geronimo
     authors:
       - Geronimo
       - Stephen M. Barrett
+    translators:
       - Heinz Ullmann
     year: 1979
     language: German
@@ -3261,6 +3329,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991146620799705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Sabotage
+    original_title: Il domino e il sabotaggio
     authors:
       - Antonio Negri
     year: 1979
@@ -3346,9 +3415,11 @@ titles:
         url: https://openlibrary.org/books/OL21990177M
     verified: true
   - title: America, India und das Abendland
+    original_title: América India y Occidente
     series: Trikont Dianus
     authors:
       - Fausto Reinaga
+    translators:
       - Otto Weerth
     year: 1980
     language: German
@@ -3381,6 +3452,7 @@ titles:
     series: Trikont-Dianus
     authors:
       - Yann Daniel
+    translators:
       - Angela Wicharz-Lindner
     year: 1980
     language: German
@@ -3413,9 +3485,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=012535885
     verified: true
   - title: Der Peyote Kult
+    original_title: Peyote hunt
     series: Trikont-Dianus
     authors:
       - Barbara G. Myerhoff
+    translators:
       - Heinz Ullmann
     year: 1980
     language: German
@@ -3739,10 +3813,11 @@ titles:
     subtitle: Indianische Texte aus dem Widerstand
     series: Trikont aktuell; 87
     authors:
-      - Rotraud Bernhard
-      - Carl-Ludwig Reichert
       - Claus Biegert
       - Gesellschaft für Bedrohte Völker
+    translators:
+      - Rotraud Bernhard
+      - Carl-Ludwig Reichert
     year: 1982
     language: German
     sources:
@@ -3807,6 +3882,7 @@ titles:
     verified: true
   - title: Nur Stämme werden überleben
     subtitle: Indianische Vorschläge für eine Radikalkur des wildgewordenen Westens
+    original_title: We talk, you listen
     authors:
       - Vine Deloria
       - Gesellschaft für Bedrohte Völker

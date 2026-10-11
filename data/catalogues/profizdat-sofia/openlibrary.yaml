@@ -186,6 +186,7 @@ titles:
   - title: No 16 proizvežda
     authors:
       - Jan Wilczek
+    translators:
       - Vanda Smohovska-Petrova
     year: 1951
     language: Bulgarian
@@ -242,8 +243,10 @@ titles:
     verified: true
   - title: Bibliotekata i nejnite čitateli
     subtitle: (Opitut op rabotata)
+    original_title: Biblioteka i ee čitateli
     authors:
       - T. Voznesenskaja
+    translators:
       - Katja Kojčeva
     year: 1952
     language: Bulgarian
@@ -4005,6 +4008,7 @@ titles:
   - title: Nevčesani misli
     authors:
       - Stanisław Jerzy Lec
+    translators:
       - Vičo Ivanov
     year: 1968
     language: Bulgarian
@@ -5580,6 +5584,8 @@ titles:
   - title: Zheko Dimitrov
     authors:
       - Angel Georgiev
+    editors:
+      - Berta Kalaora
     year: 1971
     language: Bulgarian
     pages: 236
@@ -5697,6 +5703,7 @@ titles:
   - title: Čovekʺt smenja kožata si
     authors:
       - Bruno Jasieński
+    translators:
       - Vasil Karateodorov
     year: 1972
     language: Bulgarian
@@ -5831,6 +5838,8 @@ titles:
     subtitle: '[Stikhotvoreniia]'
     authors:
       - Dimitŭr Metodiev
+    editors:
+      - Lilija Kirova
     year: 1972
     language: Bulgarian
     pages: 387
@@ -6005,6 +6014,7 @@ titles:
     subtitle: Manuel d'économie politique
     authors:
       - Boris Balinov
+    translators:
       - Tsvetanka Kouzmanova
       - Afrodita Georgieva
     year: 1972
@@ -12265,6 +12275,8 @@ titles:
     subtitle: Khudozhestveno-dokumentalni razkazi
     authors:
       - Kosta Strandzhev
+    editors:
+      - Kosta Strandžev
     year: 1980
     language: Bulgarian
     pages: 252
@@ -12684,6 +12696,7 @@ titles:
     authors:
       - Józef Penc
       - Stanisław Szumpich
+    translators:
       - Stefan N. Kortezov
     year: 1980
     language: Bulgarian
@@ -12879,9 +12892,10 @@ titles:
     verified: true
   - title: Sociologiâ na predpriâtieto
     authors:
+      - Stanisław Widerszpil
+    translators:
       - Stefan N. Kortezov
       - Dušan Slávik
-      - Stanisław Widerszpil
     year: 1980
     language: Bulgarian
     sources:
@@ -13797,6 +13811,7 @@ titles:
     subtitle: Roman
     authors:
       - Władysław Stanisław Reymont
+    translators:
       - Magdalena Atanasova
     year: 1981
     language: Bulgarian
@@ -13985,6 +14000,9 @@ titles:
     subtitle: Literaturen sbornik za mladi tvortsi
     authors:
       - Stefan Kolarov
+    editors:
+      - Stefan Lûbemov Kolarov
+      - Stefan Liubemov Kolarov (Стефан Любемов Коларов)
     year: 1981
     language: Bulgarian
     pages: 238
@@ -14159,6 +14177,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb35564883v
     verified: true
   - title: Starobălgarska gramatika
+    original_title: Grammatik der altbulgarischen (altkirchenslavischen) Sprache
     series: Sammlung slavischer Lehr- und Handbücher; 1
     authors:
       - August Leskien
@@ -15076,6 +15095,9 @@ titles:
     subtitle: Literaturen sbornik za mladi tvortsi
     authors:
       - Stefan Kolarov
+    editors:
+      - Stefan Lûbemov Kolarov
+      - Stefan Liubemov Kolarov (Стефан Любемов Коларов)
     year: 1982
     language: Bulgarian
     pages: 317
@@ -15409,6 +15431,7 @@ titles:
     subtitle: Roman
     authors:
       - Sławomir Łubiński
+    translators:
       - Kalina Cvetkova Caneva
     year: 1983
     language: Bulgarian
@@ -16096,6 +16119,9 @@ titles:
     subtitle: Literaturen sbornik za mladi tvortsi
     authors:
       - Stefan Kolarov
+    editors:
+      - Stefan Lûbemov Kolarov
+      - Stefan Liubemov Kolarov (Стефан Любемов Коларов)
     year: 1983
     language: Bulgarian
     pages: 285
@@ -17639,6 +17665,9 @@ titles:
     subtitle: Literaturen sbornik za mladi tvortsi
     authors:
       - Stefan Kolarov
+    editors:
+      - Stefan Lûbemov Kolarov
+      - Stefan Liubemov Kolarov (Стефан Любемов Коларов)
     year: 1984
     language: Bulgarian
     pages: 238
@@ -19820,8 +19849,9 @@ titles:
   - title: Emancipantki
     authors:
       - Bolesław Prus
-      - Silviâ Borisova
       - Katâ G. Mitova-Ânovski
+    translators:
+      - Silviâ Borisova
     year: 1986
     language: Bulgarian
     sources:
@@ -20914,6 +20944,7 @@ titles:
     series: Biblioteka Fakel
     authors:
       - Heinrich Böll
+    translators:
       - Venceslav Konstantinov
     year: 1987
     language: Bulgarian
@@ -22088,6 +22119,7 @@ titles:
     subtitle: Povesti
     authors:
       - Jarosław Iwaszkiewicz
+    translators:
       - Valentin Tomov
     year: 1988
     language: Bulgarian
@@ -24492,6 +24524,8 @@ titles:
     subtitle: Pritča za glupaci
     authors:
       - Dino Dimovski
+    editors:
+      - Natalija Veličkova
     year: 1990
     language: Bulgarian
     sources:

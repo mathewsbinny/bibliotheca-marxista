@@ -29,6 +29,8 @@ titles:
     subtitle: Válogatás az ifhúság számára
     authors:
       - Ferenc Móra
+    editors:
+      - Géza Hegedüs
     year: 1950
     language: Hungarian
     sources:
@@ -190,6 +192,7 @@ titles:
   - title: Papírfigura
     authors:
       - Bohumila Silová
+    translators:
       - Mihály Csulák
     year: 1952
     language: Hungarian
@@ -253,12 +256,14 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=566526638
     verified: true
   - title: A növények beporzása
+    original_title: Tiere als Bestäuber der Pflanzen
     series: A mi világunk
     authors:
       - Walter Rammner
       - Gerhard Winkler
-      - Istvánné Vincze
       - Helmut Dobrowe
+    translators:
+      - Istvánné Vincze
     year: 1953
     language: German
     sources:
@@ -313,6 +318,8 @@ titles:
     subtitle: Elbeszéléseḳ riportok
     authors:
       - Móricz Zsigmond
+    editors:
+      - Endre Illés
     year: 1953
     language: Hungarian
     pages: 344
@@ -579,8 +586,10 @@ titles:
     verified: true
   - title: Az őrs
     subtitle: Regény
+    original_title: Ogniwo
     authors:
       - Janina Broniewska
+    translators:
       - István Mészáros
     year: 1954
     language: Hungarian
@@ -744,6 +753,7 @@ titles:
     verified: true
   - title: “A” rút kis kacsa
     subtitle: Válogatott mesék
+    original_title: <<Den>> grimme ælling
     authors:
       - Hans Christian Andersen
       - István Vas
@@ -975,6 +985,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1879659719
     verified: true
   - title: Don Quijote
+    original_title: El ingenioso hidalgo Don Quixote de la Mancha
     authors:
       - Miguel de Cervantes Saavedra
       - Miklós Radnóti
@@ -1193,6 +1204,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991149566999705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Robinson
+    original_title: Life and strange surprizing adventures of Robinson Crusoe, of York, mariner
     authors:
       - Daniel Defoe
       - Endre Vajda
@@ -1297,6 +1309,7 @@ titles:
     verified: true
   - title: “Az” utolsó Mohikán
     subtitle: Regény
+    original_title: <<The>> last of the Mohicans
     authors:
       - James Fenimore Cooper
       - Ádám Réz
@@ -1654,6 +1667,7 @@ titles:
     verified: true
   - title: Tom Sawyer mint detektiv
     subtitle: 'Tom Sawyer léghajón: két kisregény'
+    original_title: Tom Sawyer detective, as told by Huck Finn
     series: Ifjúsági kiskönyvtár; 16. szám
     authors:
       - Mark Twain
@@ -1701,6 +1715,7 @@ titles:
     verified: true
   - title: “A” világ ura
     subtitle: Regény
+    original_title: Maître du monde
     series: Ifjúsági kiskönyvtár; 18. szám
     authors:
       - Jules Verne
@@ -1907,6 +1922,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=349523975
     verified: true
   - title: Robinson
+    original_title: Robinson Crusoe
     authors:
       - Daniel Defoe
       - Endre Vajda
@@ -1930,6 +1946,7 @@ titles:
     verified: true
   - title: Tamás bátya kunyhója
     subtitle: Regény
+    original_title: Uncle Tom's cabin
     authors:
       - Harriet Beecher Stowe
       - Ádám Réz
@@ -1963,6 +1980,10 @@ titles:
   - title: Válogatott versei
     authors:
       - Mihály Babits
+    editors:
+      - György Mihály Vajda
+    translators:
+      - György Rónay
     year: 1957
     series: Magyar költészet gyöngyszemei
     language: Hungarian
@@ -2150,6 +2171,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/006640141
     verified: true
   - title: Legszebb meséi
+    original_title: Märchen
     authors:
       - Wilhelm Hauff
       - Zoltán Jékely
@@ -2196,6 +2218,7 @@ titles:
     verified: true
   - title: A repülő osztály
     subtitle: Regény
+    original_title: Das fliegende Klassenzimmer
     series: Delfin könyvek
     authors:
       - Erich Kästner
@@ -2253,9 +2276,10 @@ titles:
   - title: Árva Mariska és a manók
     authors:
       - Maria Konopnicka
-      - Éva Sebők
       - Jan Marcin Szancer
       - Wydawnictwo "Nasza Księgarnia"
+    translators:
+      - Éva Sebők
     year: 1961
     language: Hungarian
     sources:
@@ -2279,8 +2303,9 @@ titles:
   - title: Egy hiú kis gida kalandjai
     authors:
       - Jan Marcin Szancer
-      - Éva Sebők
       - Zofia Szancerowa
+    translators:
+      - Éva Sebők
     year: 1961
     language: Hungarian
     sources:
@@ -2293,6 +2318,7 @@ titles:
     authors:
       - Fred Rodrian
       - Erich Gürtzig
+    translators:
       - Anna Gortvai
     year: 1961
     language: Hungarian
@@ -2314,6 +2340,7 @@ titles:
   - title: Magellán - felhő
     authors:
       - Stanisław Lem
+    translators:
       - István Mészáros
     year: 1961
     language: Hungarian
@@ -2466,8 +2493,9 @@ titles:
     authors:
       - Jadwiga Korczakowska
       - Juliusz Makowski
-      - Éva Sebők
       - Wydawnictwo "Nasza Księgarnia"
+    translators:
+      - Éva Sebők
     year: 1963
     language: Hungarian
     sources:
@@ -2490,8 +2518,9 @@ titles:
     authors:
       - Maria Terlikowska
       - Janina Krzemińska
-      - Eszter Tóth
       - Wydawnictwo "Nasza Księgarnia"
+    translators:
+      - Eszter Tóth
     year: 1963
     language: Hungarian
     sources:
@@ -2654,6 +2683,7 @@ titles:
     subtitle: Rövid. magyar kiadás
     authors:
       - Jerzy Broszkiewicz
+    translators:
       - Éva Sebők
     year: 1966
     language: Hungarian
@@ -2676,6 +2706,7 @@ titles:
         url: https://d-nb.info/577181793
     verified: true
   - title: Legszebb meséi
+    original_title: Märchen
     authors:
       - Wilhelm Hauff
       - Zoltán Jékely
@@ -2738,8 +2769,9 @@ titles:
   - title: Egy hiú kis gida kalandjai
     authors:
       - Jan Marcin Szancer
-      - Éva Sebők
       - Zofia Szancerowa
+    translators:
+      - Éva Sebők
     year: 1967
     language: Hungarian
     sources:
@@ -2752,8 +2784,9 @@ titles:
     authors:
       - Czesław Janczarski
       - Zbigniew Rychlicki
-      - Éva Sebők
       - Wydawnictwo "Nasza Księgarnia"
+    translators:
+      - Éva Sebők
     year: 1967
     language: Hungarian
     sources:
@@ -3042,6 +3075,7 @@ titles:
     authors:
       - Éva T. Aszódi
       - Endre Bálint
+    translators:
       - László Balássy
     year: 1969
     language: Hungarian
@@ -3062,6 +3096,7 @@ titles:
     verified: true
   - title: Florentine
     subtitle: Elbeszélés kislányoknak, kisfiúknak, szülöknek, városatyáknak és szatócsoknak
+    original_title: Florentine
     authors:
       - James Krüss
       - Csilla Kárpáty
@@ -3117,6 +3152,8 @@ titles:
     subtitle: Az ifjúsági olvasmányok ajánló jegyzéke
     authors:
       - Ágnes Kepes
+    editors:
+      - Eta Szász
     year: 1969
     language: Hungarian
     pages: 726
@@ -3266,6 +3303,7 @@ titles:
   - title: Hogyan lett a fizika nagyhatalom?
     authors:
       - Albert Einstein
+    translators:
       - Leopold Infeld
       - Kázmér Kiss
     year: 1971
@@ -3594,6 +3632,7 @@ titles:
     subtitle: Egy év a cinkéknél
     authors:
       - Cecylia Lewandowska
+    translators:
       - Magda Vámos
     year: 1972
     language: Hungarian
@@ -3828,6 +3867,7 @@ titles:
     authors:
       - Joanna Kulmowa
       - Janusz Grabiański
+    translators:
       - Éva Sebők
     year: 1973
     language: Polish
@@ -3997,8 +4037,9 @@ titles:
   - title: Egy hiú kis gida kalandjai
     authors:
       - Jan Marcin Szancer
-      - Éva Sebők
       - Zofia Szancerowa
+    translators:
+      - Éva Sebők
     year: 1974
     language: Polish
     sources:
@@ -4169,6 +4210,7 @@ titles:
   - title: Négyszemközt
     authors:
       - Maria Dańkowska
+    translators:
       - Irén Fejér
     year: 1974
     language: Hungarian
@@ -4834,9 +4876,10 @@ titles:
   - title: Mackó maci hintázik
     authors:
       - Helena Bechlerowa
-      - Anna Fazekas
       - Janusz Jurjewicz
       - Wydawnictwo "Nasza Księgarnia"
+    translators:
+      - Anna Fazekas
     year: 1976
     language: Hungarian
     sources:
@@ -4889,8 +4932,9 @@ titles:
       - Wiktor Woroszylski
       - Bohdan Butenko
       - Daniił Charms
-      - Grácia Kerényi
       - Samuil Âkovlevič Maršak
+    translators:
+      - Grácia Kerényi
     year: 1976
     language: Hungarian
     sources:
@@ -5398,6 +5442,7 @@ titles:
       - Włodzimierz Zonn
       - Bohdan Butenko
       - Elwira Milewska-Zonn
+    translators:
       - István Varsányi
     year: 1977
     language: Hungarian
@@ -6071,6 +6116,7 @@ titles:
     authors:
       - Krystyna Boglar
       - Lajos Kondor
+    translators:
       - Jolán Cservenits
     year: 1977
     language: Hungarian
@@ -6321,8 +6367,9 @@ titles:
   - title: Az Elami nyílvessző
     authors:
       - Jerzy Edigey
-      - Mihály Bába
       - Móra Könyvkiadó
+    translators:
+      - Mihály Bába
     year: 1978
     language: Hungarian
     sources:
@@ -6648,8 +6695,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=435365681
     verified: true
   - title: A sehány éves kislány
+    original_title: Bébé année zéro
     authors:
       - Marie-Claude Monchaux
+    translators:
       - György Rónay
     year: 1979
     language: Hungarian
@@ -6692,6 +6741,7 @@ titles:
   - title: Aranykönnyek királysága
     authors:
       - Zenon Kosidowski
+    translators:
       - István Nemere
     year: 1979
     language: Hungarian
@@ -6723,9 +6773,10 @@ titles:
   - title: Az Orinoco folyónál
     authors:
       - Arkady Fiedler
-      - István Nemere
       - Sándor Benkő
       - Móra Könyvkiadó
+    translators:
+      - István Nemere
     year: 1979
     language: Hungarian
     sources:
@@ -6839,10 +6890,12 @@ titles:
         url: https://lccn.loc.gov/92135995
     verified: true
   - title: Ha a nap éjjel sütne
+    original_title: Kolory
     authors:
       - Joanna Kulmowa
-      - Éva Sebők
       - Dóra Keresztes
+    translators:
+      - Éva Sebők
     year: 1979
     language: Hungarian
     sources:
@@ -6976,6 +7029,8 @@ titles:
     authors:
       - Ákos Tordon
       - Emma Heinzelmann
+    editors:
+      - Budapest Pénzjegynyomda
     year: 1979
     language: Hungarian
     sources:
@@ -7219,6 +7274,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=615475604
     verified: true
   - title: Alice tükörországban
+    original_title: Alice in wonderland
     authors:
       - Lewis Carroll
     year: 1980
@@ -7335,10 +7391,12 @@ titles:
     verified: true
   - title: Ezüstherceg
     subtitle: Történelmi regény
+    original_title: Knâz' serebrânnyj
     authors:
       - Alekseï Konstantinovitch Tolstoï
-      - Vilmos Ircsik
       - Sergueï Eisenstein
+    translators:
+      - Vilmos Ircsik
     year: 1980
     language: Hungarian
     sources:
@@ -7377,10 +7435,12 @@ titles:
         url: https://d-nb.info/996254218
     verified: true
   - title: Hú úr kalandjai
+    original_title: Herra Huu
     authors:
       - Hannu Mäkelä
-      - Gyözö Fehérvári
       - Zsuzsa Szenes
+    translators:
+      - Gyözö Fehérvári
     year: 1980
     language: Hungarian
     sources:
@@ -7399,10 +7459,12 @@ titles:
     verified: true
   - title: Jangu és Gurigu
     subtitle: Vagy miért félnek a jaguárok a tűztől
+    original_title: Walya and Gurigoo
     authors:
       - François Raoul-Duval
-      - Iván Gáti
       - Agnès Molnar
+    translators:
+      - Iván Gáti
     year: 1980
     language: Hungarian
     sources:
@@ -7458,10 +7520,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=439104750
     verified: true
   - title: Locspocs
+    original_title: Ruffen på nye eventyr
     authors:
       - Tor Åge Bringsværd
-      - Katalin Kozák
       - Thore Hansen
+    translators:
+      - Katalin Kozák
     year: 1980
     language: Hungarian
     sources:
@@ -7482,8 +7546,9 @@ titles:
   - title: Majka
     authors:
       - Mira Jaworczakowa
-      - Jolán Cservenits
       - Hanna Krajnik
+    translators:
+      - Jolán Cservenits
     year: 1980
     language: Hungarian
     sources:
@@ -7535,10 +7600,12 @@ titles:
         url: https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991052708402805066&vid=48OMNIS_NLOP:48OMNIS_NLOP
     verified: true
   - title: Negyvennégy pici pinty
+    original_title: Čto èto bylo?
     authors:
       - Daniil Ivanovič Harms
-      - Zsuzsa Rab
       - László Réber
+    translators:
+      - Zsuzsa Rab
     year: 1980
     language: Hungarian
     sources:
@@ -7625,6 +7692,7 @@ titles:
   - title: A tamtamdobtól az űrtáviratig
     authors:
       - Juliusz Jerzy Herlinger
+    translators:
       - Irén Fejér
     year: 1981
     language: Hungarian
@@ -8332,10 +8400,12 @@ titles:
         url: https://www.sudoc.fr/272681822
     verified: true
   - title: Lassie kölyke
+    original_title: Le fils de Lassie
     authors:
       - Hélène Commin
-      - Gabriella Jászay
       - Péter Balogh
+    translators:
+      - Gabriella Jászay
     year: 1982
     language: Hungarian
     sources:
@@ -8353,6 +8423,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BB14176061
     verified: false
   - title: Május 35 avagy Konrád a Csendes-óceánhoz lovagol
+    original_title: Der 35. [fünfunddreißigste] Mai
     authors:
       - Erich Kästner
       - Horst Lemke
@@ -8395,6 +8466,7 @@ titles:
   - title: Nem könnyü kutyának lenni
     authors:
       - Elżbieta Burakowska
+    translators:
       - Jolán Cservenits
     year: 1982
     language: Hungarian
@@ -8530,6 +8602,7 @@ titles:
     authors:
       - Tadeusz Pszczołowski
       - Miklós Dolnik
+    translators:
       - Klára Simándi
     year: 1982
     language: Hungarian
@@ -8832,6 +8905,7 @@ titles:
   - title: Kiselefántok, majmocskák ...
     authors:
       - Piotr Korda
+    translators:
       - Irén Fejér
     year: 1983
     language: Hungarian
@@ -8858,10 +8932,12 @@ titles:
         url: https://lccn.loc.gov/84216643
     verified: true
   - title: Mamika
+    original_title: Oma
     authors:
       - Peter Härtling
-      - Elga Sárközy
       - Gyula Mayer
+    translators:
+      - Elga Sárközy
     year: 1983
     language: Hungarian
     sources:
@@ -8980,9 +9056,6 @@ titles:
     authors:
       - Éva Aszódi
       - Arpad Szabados
-      - Ferenc Pákozdy
-      - Sándor Weöres
-      - Éva Sebők
       - Janina Porazińska
       - Julian Tuwim
       - Maria Czerkawska
@@ -8990,6 +9063,10 @@ titles:
       - Władysław Broniewski
       - Mieczysław Jastrun
       - Maria Konopnicka
+    translators:
+      - Ferenc Pákozdy
+      - Sándor Weöres
+      - Éva Sebők
     year: 1983
     language: Hungarian
     sources:
@@ -9057,12 +9134,14 @@ titles:
     verified: true
   - title: A kölestolvaj
     subtitle: Bechstein legszebb meséi
+    original_title: Ludwig Bechstein's Märchenbuch
     authors:
       - Ludwig Bechstein
+      - Magda Marton
+    translators:
       - Zsuzsa Rab
       - Balázs Lengyel
       - György Rónay
-      - Magda Marton
     year: 1984
     language: Hungarian
     sources:
@@ -9135,6 +9214,8 @@ titles:
   - title: A Varjúkirály
     authors:
       - Kornél Döbrentei
+    editors:
+      - Imre Katona
     year: 1984
     series: Hetedhét Magyarország
     language: Hungarian
@@ -9426,10 +9507,12 @@ titles:
         url: https://lccn.loc.gov/85192338
     verified: true
   - title: Levél a Kóbor-szigetekről
+    original_title: Lettre des îles Baladar
     authors:
       - Jacques Prévert
-      - József Vinkó
       - André François
+    translators:
+      - József Vinkó
     year: 1984
     language: Hungarian
     sources:
@@ -9539,6 +9622,7 @@ titles:
   - title: Órarend randevúval
     authors:
       - Christine Nöstlinger
+    translators:
       - Elga Sárközy
     year: 1984
     language: Hungarian
@@ -9601,6 +9685,7 @@ titles:
     subtitle: Regény
     authors:
       - Henryk Sienkiewicz
+    translators:
       - István Mészáros
     year: 1984
     language: Hungarian
@@ -9698,11 +9783,13 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=526053070
     verified: true
   - title: A császár új ruhája
+    original_title: Kejserens nye klæder
     series: Iciri-piciri könyvek
     authors:
       - Hans Christian Andersen
-      - Zsuzsa Rab
       - Tamás Kovács
+    translators:
+      - Zsuzsa Rab
     year: 1985
     language: Hungarian
     sources:
@@ -9711,10 +9798,12 @@ titles:
     verified: true
   - title: A Csodamalom
     subtitle: Mesék a Kalevalából
+    original_title: Kalevala
     authors:
       - Ákos Koczogh
-      - István Rácz
       - József Karalyos
+    translators:
+      - István Rácz
     year: 1985
     language: Hungarian
     sources:
@@ -9743,9 +9832,11 @@ titles:
         url: https://www.sudoc.fr/272610313
     verified: true
   - title: A kis Nicolas
+    original_title: Le petit Nicolas
     authors:
       - René Goscinny
       - Jean-Jacques Sempé
+    translators:
       - László Farkas
     year: 1985
     language: Hungarian
@@ -9796,8 +9887,9 @@ titles:
   - title: A szív nélküli óriás
     subtitle: Norvég mesék
     authors:
-      - Katalin Damokos
       - Antal Lendvai
+    translators:
+      - Katalin Damokos
     year: 1985
     language: Hungarian
     sources:
@@ -9900,10 +9992,12 @@ titles:
         url: https://search.worldcat.org/title/23900530
     verified: true
   - title: Bambi
+    original_title: Bambi
     authors:
       - Felix Salten
-      - László Fenyő
       - Mirko Hanák
+    translators:
+      - László Fenyő
     year: 1985
     language: Hungarian
     sources:
@@ -10177,11 +10271,13 @@ titles:
         url: https://www.sudoc.fr/273574760
     verified: true
   - title: Konzerv Konrád
+    original_title: Konrad oder das Kind aus der Konservenbüchse
     series: Piknik; 2
     authors:
       - Christine Nöstlinger
-      - Ambrus Bor
       - Dóra Maurer
+    translators:
+      - Ambrus Bor
     year: 1985
     language: Hungarian
     sources:
@@ -10189,6 +10285,7 @@ titles:
         url: https://www.sudoc.fr/272435791
     verified: true
   - title: Krabat a Fekete Malomban
+    original_title: Krabat
     authors:
       - Otfried Preußler
       - Tünde Farkas
@@ -10200,11 +10297,13 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=777061279
     verified: true
   - title: Krokodilt kérek, Kornél bácsi!
+    original_title: Onkel Walter, kauf ein Krokodil
     series: Csiperke könyvek
     authors:
       - Fred Rodrian
-      - Éva Janikovszky
       - Manfred Bofinger
+    translators:
+      - Éva Janikovszky
     year: 1985
     language: Hungarian
     sources:
@@ -10476,11 +10575,13 @@ titles:
         url: https://www.sudoc.fr/273470337
     verified: true
   - title: A boldogság neve Jónás
+    original_title: 'Štěstí má jméno Jonáš... - Praha : Albatros, 1977'
     series: Piknik könyvek; 9
     authors:
       - Eliška Horelová
-      - Margit Prókai
       - Adolf Born
+    translators:
+      - Margit Prókai
     year: 1986
     language: Hungarian
     sources:
@@ -10499,8 +10600,10 @@ titles:
         url: https://www.sudoc.fr/272691879
     verified: true
   - title: A három testőr
+    original_title: Les trois mousquetaires
     authors:
       - Alexandre Dumas
+    translators:
       - Zoltàn Majtényi
     year: 1986
     language: Hungarian
@@ -10509,9 +10612,11 @@ titles:
         url: https://www.sudoc.fr/272412902
     verified: true
   - title: A kis Nicolas nyaral
+    original_title: Les Vacances du petit Nicolas
     authors:
       - René Goscinny
       - Jean-Jacques Sempé
+    translators:
       - László Farkas
     year: 1986
     language: Hungarian
@@ -10727,10 +10832,12 @@ titles:
     verified: true
     subtitle: Kérdések könyve
   - title: Egy vadászsólyom története
+    original_title: Hvatkij moj
     authors:
       - Musa Murataliev
-      - László Zahemszky
       - Lajos Csáky
+    translators:
+      - László Zahemszky
     year: 1986
     language: Hungarian
     sources:
@@ -10763,6 +10870,7 @@ titles:
   - title: Első(szülött)(em)! Másod(szülött)(em)!! Harmad(szülött)(em)!!!
     authors:
       - Bohdan Butenko
+    translators:
       - Endre Bojtár
     year: 1986
     language: Hungarian
@@ -10773,10 +10881,12 @@ titles:
         url: https://search.worldcat.org/title/830266171
     verified: true
   - title: Fejrezge Alfonz kétbalkezes vidám viszontagságai
+    original_title: Alfons Zitterbacke
     authors:
       - Gerhard Holtz-Baumert
-      - Márton Kalász
       - Peter Kos
+    translators:
+      - Márton Kalász
     year: 1986
     language: Hungarian
     sources:
@@ -10836,9 +10946,10 @@ titles:
     authors:
       - Jacob Grimm
       - Wilhelm Grimm
-      - György Rónay
       - Tamásné Varga
       - Emy Róna
+    translators:
+      - György Rónay
     year: 1986
     language: Hungarian
     sources:
@@ -10846,8 +10957,10 @@ titles:
         url: https://www.sudoc.fr/272895725
     verified: true
   - title: Gumi Tarzan
+    original_title: Gummi-Tarzan
     authors:
       - Ole Lund Kirkegaard
+    translators:
       - Tivadar Dani
     year: 1986
     language: Hungarian
@@ -11002,11 +11115,13 @@ titles:
         url: https://search.worldcat.org/title/30055673
     verified: true
   - title: Levelek Tokióból
+    original_title: Watashi no Anne Frank
     series: Piknik könyvek; 10
     authors:
       - Miyoko Matsutani
-      - Anna Székács
       - Osamu Tsukasa
+    translators:
+      - Anna Székács
     year: 1986
     language: Hungarian
     sources:
@@ -11054,6 +11169,8 @@ titles:
   - title: Magyarok az európai antifasiszta ellenállási mozgalmakban
     authors:
       - Irta Filyó Mihály
+    editors:
+      - Mihály Filyó
     year: 1986
     language: Hungarian
     sources:
@@ -11100,6 +11217,7 @@ titles:
     subtitle: Meseregény
     authors:
       - Michael Ende
+    translators:
       - Márton Kalász
     year: 1986
     language: Hungarian
@@ -11200,8 +11318,9 @@ titles:
     subtitle: Regény
     authors:
       - Małgorzata Musierowicz
-      - Mihály Bába
       - István Hegedűs
+    translators:
+      - Mihály Bába
     year: 1987
     language: Hungarian
     sources:
@@ -11211,11 +11330,13 @@ titles:
         url: https://search.worldcat.org/title/830157476
     verified: true
   - title: A két Lotti
+    original_title: Das doppelte Lottchen
     authors:
       - Erich Kästner
+      - Walter Trier
+    translators:
       - Eszter Tóth
       - Sándor Török
-      - Walter Trier
     year: 1987
     language: Hungarian
     sources:
@@ -11256,10 +11377,12 @@ titles:
         url: https://www.sudoc.fr/272866288
     verified: true
   - title: A rendíthetetlen ólomkatona
+    original_title: Den standhaftige Tinsoldat
     authors:
       - Hans Christian Andersen
-      - Zsuzsa Rab
       - Tamás Szecskö
+    translators:
+      - Zsuzsa Rab
     year: 1987
     language: Hungarian
     sources:
@@ -11313,10 +11436,12 @@ titles:
         url: https://www.sudoc.fr/272474568
     verified: true
   - title: Ádám és Éva naplója
+    original_title: Extracts from Adam's diary
     authors:
       - Mark Twain
-      - Tibor Thaly
       - Jean Effel
+    translators:
+      - Tibor Thaly
     year: 1987
     language: Hungarian
     sources:
@@ -11375,9 +11500,11 @@ titles:
         url: https://lccn.loc.gov/99185582
     verified: true
   - title: Az ezeregynap legszebb meséi
+    original_title: Alf laylaẗ wa-laylaẗ
     authors:
-      - Endre Vázsonyi
       - Ferenc Barczánfalvi
+    translators:
+      - Endre Vázsonyi
     year: 1987
     language: Hungarian
     sources:
@@ -11432,6 +11559,7 @@ titles:
     authors:
       - Gisela Karau
       - Anne Geelhaar
+    translators:
       - Attila Csokonai
     year: 1987
     language: Hungarian, German
@@ -11621,10 +11749,12 @@ titles:
         url: https://www.sudoc.fr/272433586
     verified: true
   - title: Karin, a gonosz tündér
+    original_title: Sagor för barn och vuxna
     authors:
       - Stig Claesson
-      - István Tótfalusi
       - Lajos Kondor
+    translators:
+      - István Tótfalusi
     year: 1987
     language: Hungarian
     sources:
@@ -11663,10 +11793,11 @@ titles:
   - title: Különös történetek
     authors:
       - Joseph Conrad
+      - Edgar Allan Poe
+    translators:
       - Judit Timár
       - Péter Kuczka
       - Piroska F. Nagy
-      - Edgar Allan Poe
       - Lajos Bálint
       - Győző Ferencz
     year: 1987
@@ -11752,6 +11883,7 @@ titles:
   - title: Paca úr Akadémiája
     authors:
       - Jan Brzechwa
+    translators:
       - Éva Sebők
     year: 1987
     language: Hungarian
@@ -11858,6 +11990,7 @@ titles:
   - title: A szerencsét hozó almásderes
     authors:
       - Karl May
+    translators:
       - Sándor Benkó
     year: 1988
     language: Hungarian
@@ -11923,8 +12056,10 @@ titles:
         url: https://lccn.loc.gov/92131652
     verified: true
   - title: Emil és a három iker
+    original_title: Emil und die drei Zwillinge
     authors:
       - Erich Kästner
+    translators:
       - Mária Borbás
     year: 1988
     language: Hungarian
@@ -11947,6 +12082,7 @@ titles:
     authors:
       - Konrad Fiałkowski
       - Adam Hollanek
+    translators:
       - István Nemere
     year: 1988
     language: Hungarian
@@ -12021,6 +12157,7 @@ titles:
   - title: Toni, te drága!
     authors:
       - Dagmar Chidolue
+    translators:
       - Antal Árkos
     year: 1988
     language: Hungarian
@@ -12091,6 +12228,7 @@ titles:
   - title: Fütyülünk az uborkakirályra
     authors:
       - Christine Nöstlinger
+    translators:
       - Éva Rónaszegi
     year: 1989
     language: Hungarian
@@ -12179,6 +12317,7 @@ titles:
   - title: Százlábúnak hívják
     authors:
       - Krystyna Boglar
+    translators:
       - Romána Gimes
     year: 1989
     language: Hungarian
@@ -12229,6 +12368,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=771558643
     verified: true
   - title: Yappie Looks Round in Budapest
+    original_title: Vakkangs szétnéz Budapesten
     authors:
       - István Csukás
       - Eva Gaál
@@ -12255,6 +12395,7 @@ titles:
   - title: A teremtés utolsó napja
     authors:
       - Wolfgang Jeschke
+    translators:
       - Dezső Kemény
     year: 1990
     language: Hungarian
@@ -12304,6 +12445,7 @@ titles:
   - title: Gombos Jim és Lukács, a masiniszta
     authors:
       - Michael Ende
+    translators:
       - Rika Tapodi
     year: 1990
     language: Hungarian
@@ -12432,6 +12574,7 @@ titles:
     verified: false
   - title: Karácsonyi ének prózában
     subtitle: Vagyis karácsonyi kisértet-história
+    original_title: <<A>> Christmas carol in prose
     authors:
       - Charles Dickens
       - Marcell Benedek
@@ -12448,9 +12591,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=584539460
     verified: false
   - title: Krabat
+    original_title: Krabat
     series: Móra klassz; 5
     authors:
       - Otfried Preußler
+    translators:
       - Tünde Farkas
     language: Hungarian
     sources:
@@ -12483,6 +12628,7 @@ titles:
     verified: false
   - title: Tom Sawyer kalandjai
     subtitle: Huckleberry Finn
+    original_title: <<The>> adventures of Tom Sawyer
     authors:
       - Mark Twain
       - Frigyes Karinthy

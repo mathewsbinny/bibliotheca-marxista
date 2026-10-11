@@ -361,6 +361,7 @@ titles:
     series: Fan yi cong shu
     authors:
       - Ke er nei chu ke
+    translators:
       - San Xiao
     year: 1944
     language: Chinese
@@ -792,6 +793,8 @@ titles:
     verified: true
   - title: Xin shi qi de lu biao
     authors: []
+    editors:
+      - Xin hua shu dian
     year: 1945
     language: Chinese
     sources:
@@ -2552,6 +2555,8 @@ titles:
   - title: Cong qi qi dao ba yi wu
     authors:
       - Shihan Li
+    editors:
+      - Huashe Xin
     year: 1949
     edition: 3 ban zeng ding ben
     language: Chinese
@@ -3204,6 +3209,7 @@ titles:
   - title: Jie ke si la fu zhan hou gong ye fa zhan yu liang nian ji hua
     authors:
       - Josef Goldmann
+    translators:
       - Peiming Chen
     year: 1949
     language: Chinese
@@ -3893,6 +3899,8 @@ titles:
   - title: Nong ye jian she wen ti
     authors:
       - Jie fang she
+    editors:
+      - Fangshe Jie
     year: 1949
     language: Chinese
     pages: 70
@@ -3998,6 +4006,8 @@ titles:
     series: 中国人民文艺丛书
     authors:
       - Xuan Shi
+    editors:
+      - Zhangjing Ruan
     year: 1949
     language: Chinese
     sources:
@@ -4456,6 +4466,7 @@ titles:
   - title: Xian dai wai jiao de zu zhi xing shi
     authors:
       - Ke er cha nuo fu si ji
+    translators:
       - Da Liang
       - Li Hao
     year: 1949
@@ -4721,6 +4732,7 @@ titles:
     series: Min guo ji cui
     authors:
       - Leonid V. Solovʹev
+    translators:
       - Ren Jin
     year: 1949
     language: Chinese
@@ -4855,6 +4867,8 @@ titles:
   - title: Zheng feng wen xian
     authors:
       - Jie fang she (China)
+    editors:
+      - Jie fang she
     year: 1949
     language: Chinese
     pages: 277
@@ -9861,6 +9875,8 @@ titles:
   - title: Jin dai shi jiao cheng
     authors:
       - Akademija Nauk SSSR
+    translators:
+      - Kezhan Du
     year: 1950
     language: Chinese
     sources:
@@ -10168,6 +10184,8 @@ titles:
   - title: Liu Qiao tuan yuan
     authors:
       - Qixiang Han
+    translators:
+      - Minfu Gao
     year: 1950
     edition: Zeng ding 3 ban
     series: Zhongguo ren min wen yi cong shu
@@ -11726,6 +11744,8 @@ titles:
   - title: Xiao xue jiao shi de xue xi ji qi ling dao
     authors:
       - Jiao yu zi liao cong kan she
+    editors:
+      - Jiaoyu-Ziliao-Congkan-She
     year: 1950
     series: Jiao yu zi liao cong kan
     language: Chinese

@@ -132,6 +132,7 @@ titles:
   - title: Jak korzystać z książki
     authors:
       - Aleksandr Petrovič Primakovskij
+    translators:
       - Franciszek Szymanowski
     year: 1953
     language: Polish
@@ -453,6 +454,7 @@ titles:
         url: https://search.worldcat.org/title/68174023
     verified: true
   - title: Drewniany różaniec
+    original_title: Der hölzerne Rosenkranz <poln.>
     series: Zlota biblioteka
     authors:
       - Natalia Rolleczek
@@ -660,11 +662,13 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=40321355X
     verified: true
   - title: Opowieść o prawdziwym człowieku
+    original_title: Povest' o nastoâŝem čeloveke
     authors:
       - Boris Nikolaevič Polevoj
+      - Nikolaj Nikolaevič Žukov
+    translators:
       - Jerzy Wyszomirski
       - Gabriela Pauszer-Klonowska
-      - Nikolaj Nikolaevič Žukov
     year: 1954
     language: Polish
     sources:
@@ -826,6 +830,8 @@ titles:
   - title: Warszawa naszej młodości
     authors:
       - Helena Boguszewska
+    editors:
+      - Adam Mauersberger
     year: 1954
     language: Polish
     pages: 276
@@ -851,6 +857,10 @@ titles:
     subtitle: Wiersze dawne i nowe
     authors:
       - Julian Tuwim
+    editors:
+      - Jerzy Ostrowski
+      - Tomasz Jodełka
+      - Jan Józef Lipski
     year: 1954
     language: Polish
     pages: 232
@@ -1883,6 +1893,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=60759196X
     verified: true
   - title: Kro̕lewicz i zebrak
+    original_title: The prince and the pauper
     authors:
       - Mark Twain
       - Tadeusz Jan Dehnei
@@ -2189,8 +2200,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/009094016
     verified: true
   - title: Przygody Hucka
+    original_title: Adventures of Huckleberry Finn
     authors:
       - Mark Twain
+    translators:
+      - Krystyna Tarnowska
     year: 1956
     language: Polish
     sources:
@@ -2357,9 +2371,11 @@ titles:
         url: https://search.worldcat.org/title/26050411
     verified: true
   - title: W jaskiniach Pierre Saint-Martin
+    original_title: Le Gouffre de la Pierre-Saint-Martin
     series: Naokoło Świata
     authors:
       - Haroun Tazieff
+    translators:
       - Rafał Unrug
     year: 1956
     language: Polish
@@ -2390,8 +2406,10 @@ titles:
         url: https://search.worldcat.org/title/68174126
     verified: true
   - title: Włóczęgi Północy
+    original_title: Nomads of the North
     authors:
       - James Oliver Curwood
+    translators:
       - Jerzy Marlicz
     year: 1956
     language: Polish
@@ -3383,6 +3401,7 @@ titles:
     authors:
       - Roald Amundsen
       - Fridtjof Nansen
+    translators:
       - Bronisław Wojciechowski
     year: 1957
     language: Polish
@@ -4220,6 +4239,8 @@ titles:
   - title: Warszawskie opowiadnia
     authors:
       - Ephraim Kaganowski
+    translators:
+      - Stanisław Wygodzki
     year: 1958
     language: Polish
     pages: 267
@@ -4458,6 +4479,7 @@ titles:
   - title: Charlie Chan prowadzi śledztwo
     authors:
       - Earl Derr Biggers
+    translators:
       - Marek B. Zaleski
     year: 1959
     language: Polish
@@ -4509,6 +4531,8 @@ titles:
     subtitle: Czyli wspomnienia o scenach, scenkach; nadscenkach
     authors:
       - Kazimierz Rudzki
+    editors:
+      - Kazimierza Rudzki
     year: 1959
     language: Polish
     pages: 510
@@ -5390,6 +5414,7 @@ titles:
   - title: Za kurtyną
     authors:
       - Earl Derr Biggers
+    translators:
       - Izabella Kulczycka-Dąmbska
     year: 1959
     language: Polish
@@ -5594,6 +5619,9 @@ titles:
   - title: Dziennik Dawida Sierakowiaka
     authors:
       - Dawid Sierakowiak
+    editors:
+      - Adolf Rudnicki
+      - Lucjan Dobroszycki
     year: 1960
     series: Biblioteczka Niezapominajki
     language: Polish
@@ -5799,6 +5827,9 @@ titles:
     verified: true
   - title: Magazyn iskier. Redakcja Waldemar Mościcki, Stefan Staniszewski
     authors: []
+    editors:
+      - Waldemar Mościcki
+      - Stefan Staniszewski
     year: 1960
     language: Polish
     sources:
@@ -6361,6 +6392,7 @@ titles:
         url: https://www.sudoc.fr/052922855
     verified: true
   - title: Swastyka nad Gdańskiem
+    original_title: Hakenkreuz über Danzig
     authors:
       - Rudolf Gamm
     year: 1960
@@ -7574,6 +7606,7 @@ titles:
     subtitle: Mimo wszystko pogodna powieść o naszym życiu
     authors:
       - Hugo Hartung
+    translators:
       - Anna Maria Linke
     year: 1961
     language: Polish
@@ -8249,8 +8282,9 @@ titles:
     subtitle: 1825 rok.; cykl poezji
     authors:
       - Mykola P. Bažan
-      - Anatol Stern
       - Antoni Uniechowski
+    translators:
+      - Anatol Stern
     year: 1962
     language: Polish
     sources:
@@ -8554,6 +8588,8 @@ titles:
     subtitle: Ze wspomnień nauczyciela. Tekst oprac. Adolf Gozdawa-Reutt
     authors:
       - Kazimierz Elwertowski
+    editors:
+      - Adolf Gozdawa-Reutt
     year: 1962
     language: Polish
     pages: 286
@@ -9028,6 +9064,8 @@ titles:
     subtitle: Zbiór szkiców i biograficnych wspomnień
     authors:
       - Romana Toruńczyk
+    editors:
+      - Władysław Góra
     year: 1963
     language: Polish
     pages: 427
@@ -9429,6 +9467,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/007373480
     verified: true
   - title: Ostatni krolowie Thule
+    original_title: Les derniers rois de Thulé
     series: Naokoło Świata
     authors:
       - Jean Malaurie
@@ -9834,6 +9873,8 @@ titles:
   - title: Własne podwórko
     authors:
       - Zarzewie
+    editors:
+      - Jerzy Olbrycht
     year: 1963
     series: Biblioteka "Zarzewia"
     language: Polish
@@ -11127,6 +11168,11 @@ titles:
     subtitle: W Nowym Jorku nad Wschodnia̧ rzeka̧; Mała encyklopedia ONZ
     authors:
       - Edmund Jan Osmańczyk
+    editors:
+      - Franciszek Król
+      - Mieczysław Teodorczyk
+      - Jan Zygmanowski
+      - Stanisław Żakowski
     year: 1965
     edition: Wyd. 2 uzup
     language: Polish
@@ -11522,6 +11568,7 @@ titles:
   - title: Młode pokolenie zachodu
     authors:
       - Ernst Fischer
+    translators:
       - Roman Werfel
     year: 1965
     language: Polish
@@ -11550,9 +11597,10 @@ titles:
     subtitle: Powieść fantastyczno-naukowa
     authors:
       - Ariadna Gromowa
-      - Adam Galis
       - Viktor Noevič Komarov
       - Mieczysław Majewski
+    translators:
+      - Adam Galis
     year: 1965
     language: Polish
     sources:
@@ -12347,6 +12395,7 @@ titles:
         url: https://openlibrary.org/books/OL19435933M
     verified: true
   - title: Znak żółwia
+    original_title: Znak żółwia
     authors:
       - Eugeniusz Paukszta
     year: 1965
@@ -12416,8 +12465,9 @@ titles:
   - title: 30 nowel Jacka Londona
     authors:
       - Jack London
-      - Tadeusz Jan Dehnel
       - Kazimierz Piotrowski
+    translators:
+      - Tadeusz Jan Dehnel
     year: 1966
     language: Polish
     sources:
@@ -12516,6 +12566,7 @@ titles:
     authors:
       - Elena Viktorovna Saparina
       - Aksel' Ivanovič Berg
+    translators:
       - Jerzy Pułaczewski
     year: 1966
     language: Polish
@@ -12660,6 +12711,7 @@ titles:
     authors:
       - Nodar Dumbadze
       - Anna Pomianowska
+    translators:
       - Jerzy Pomianowski
     year: 1966
     language: Polish
@@ -13041,9 +13093,11 @@ titles:
         url: https://search.worldcat.org/title/802084302
     verified: true
   - title: Noli me tangere
+    original_title: Noli me tangere
     authors:
       - José Rizal
       - Wiesław Majchrzak
+    translators:
       - Zofia Wasitowa
     year: 1966
     language: Polish
@@ -13092,8 +13146,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/008871742
     verified: true
   - title: Opowieść o prawdziwym człowieku
+    original_title: Povestʼ̊ o nastoâŝem čeloveke
     authors:
       - Boris Nikolaevič Polevoj
+    translators:
       - Jerzy Wyszomirski
     year: 1966
     language: Polish
@@ -13249,6 +13305,8 @@ titles:
     subtitle: W sprawie orędzia biskupów polskich do biskupów niemieckich
     authors:
       - Konstanty Grzybowski
+    editors:
+      - Michał Gardowski
     year: 1966
     language: Polish
     sources:
@@ -13361,6 +13419,7 @@ titles:
     authors:
       - Mark Twain
       - Jan Lenica
+    translators:
       - Krystyna Tarnowska
     year: 1966
     language: Polish
@@ -13525,6 +13584,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/009048405
     verified: true
   - title: Trzy diamenty
+    original_title: Trzy diamenty
     authors:
       - Janusz Meissner
     year: 1966
@@ -13616,6 +13676,7 @@ titles:
   - title: Wyspa skarbów
     authors:
       - Robert Louis Stevenson
+    translators:
       - Józef Birkenmajer
     year: 1966
     language: Polish
@@ -14399,8 +14460,10 @@ titles:
         url: https://search.worldcat.org/title/830882983
     verified: true
   - title: Moja lwia rodzina
+    original_title: Born free
     authors:
       - Joy Adamson
+    translators:
       - Józef Giebułtowicz
     year: 1967
     language: Polish
@@ -14679,8 +14742,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991077163049705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Prządki księżycowe
+    original_title: Moonspinners
     authors:
       - Mary Stewart
+    translators:
       - Maria Kłos-Gwizdalska
     year: 1967
     language: Polish
@@ -15168,6 +15233,7 @@ titles:
   - title: Aku-Aku
     authors:
       - Thor Heyerdahl
+    translators:
       - Józef Giebułtowicz
     year: 1968
     language: Polish
@@ -15180,9 +15246,11 @@ titles:
         url: https://search.worldcat.org/title/750988948
     verified: true
     subtitle: Tajemnica Wyspy Wielkanocnej
+    original_title: Aku-aku
   - title: Bar Świat
     authors:
       - Bohumil Hrabal
+    translators:
       - Cecylia Dmochowska
     year: 1968
     language: Polish
@@ -15195,6 +15263,7 @@ titles:
   - title: Biwak na Borneo
     authors:
       - Pierre Pfeffer
+    translators:
       - Zbigniew Stolarek
     year: 1968
     language: Polish
@@ -15342,8 +15411,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991160495899705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Diament Mohuna
+    original_title: Moonfleet
     authors:
       - John Meade Falkner
+    translators:
       - Andrzej Nowicki
     year: 1968
     language: Polish
@@ -15376,10 +15447,12 @@ titles:
     verified: true
   - title: Droga na Zachód
     subtitle: Powieść
+    original_title: Way West
     authors:
       - A. B. Guthrie
-      - Tadeusz Jan Dehnel
       - Stanisław Töpfer
+    translators:
+      - Tadeusz Jan Dehnel
     year: 1968
     language: Polish
     sources:
@@ -15389,6 +15462,7 @@ titles:
         url: https://search.worldcat.org/title/830875959
     verified: true
   - title: Eden
+    original_title: Eden
     authors:
       - Stanisław Lem
     year: 1968
@@ -15664,6 +15738,7 @@ titles:
   - title: Łowcy asteroidów
     authors:
       - Carlos Rasch
+    translators:
       - Marian Warszałłowicz
     year: 1968
     language: Polish
@@ -15688,6 +15763,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991021436389705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Mały Bizon
+    original_title: Mały Bizon
     authors:
       - Arkady Fiedler
       - Mieczysław Majewski
@@ -15702,6 +15778,9 @@ titles:
   - title: Mąż i źona
     authors:
       - Mirosława Parzyńska
+    editors:
+      - Miroslawa Parzyńska
+      - Joanna Horodecka
     year: 1968
     language: Polish
     pages: 289
@@ -15813,6 +15892,7 @@ titles:
   - title: Morderstwo na safari
     authors:
       - Elspeth Joscelin Grant Huxley
+    translators:
       - Jerzy Ros
     year: 1968
     language: Polish
@@ -16504,6 +16584,8 @@ titles:
   - title: W pół drogi do ksie̜życa
     authors:
       - Vasiliĭ Pavlovich Aksenov
+    translators:
+      - Ziemowit Fedecki
     year: 1968
     edition: Wyd. 1
     language: Polish
@@ -16521,6 +16603,7 @@ titles:
   - title: Wakacje Krosza
     authors:
       - Anatolij Naumovič Rybakov
+    translators:
       - Marta Tywonek
     year: 1968
     language: Polish
@@ -16626,6 +16709,7 @@ titles:
   - title: Wyprawa Kon-Tiki
     authors:
       - Thor Heyerdahl
+    translators:
       - Jerzy Pański
     year: 1968
     language: Polish
@@ -16752,6 +16836,7 @@ titles:
   - title: Znajoma pani Maigret
     authors:
       - Georges Simenon
+    translators:
       - Irena Szymańska
     year: 1968
     language: Polish
@@ -16864,6 +16949,7 @@ titles:
         url: https://search.worldcat.org/title/830842062
     verified: true
   - title: Czas zatrzymuje się dla umarłych
+    original_title: Czas zatrzymuje się dla umarłych
     authors:
       - Artur Morena
     year: 1969
@@ -17004,6 +17090,7 @@ titles:
   - title: Inspektorze, na pomoc!
     authors:
       - Rumer Godden
+    translators:
       - Jadwiga Olędzka
     year: 1969
     language: Polish
@@ -17099,8 +17186,10 @@ titles:
         url: https://search.worldcat.org/title/11816980
     verified: true
   - title: Koniec wieczności
+    original_title: End of eternity
     authors:
       - Isaac Asimov
+    translators:
       - Adam Kaska
     year: 1969
     language: Polish
@@ -17162,6 +17251,7 @@ titles:
   - title: Labirynt
     authors:
       - Pavel Aleksandrovič Šestakov
+    translators:
       - Ignacy Szenfeld
     year: 1969
     language: Polish
@@ -17173,6 +17263,7 @@ titles:
     verified: true
   - title: Laureaci nagrody Nobla
     subtitle: Chemia, fizyka, medycyna
+    original_title: Die Nobelpreisträger der Chemie
     authors:
       - Wulf von Bonin
       - Erich Bagge
@@ -17238,6 +17329,8 @@ titles:
   - title: Maigret i trup młodej kobiety
     authors:
       - Georges Simenon
+    translators:
+      - Leszek Kossobudzki
     year: 1969
     edition: Wyd. 1
     language: Polish
@@ -17253,6 +17346,7 @@ titles:
   - title: Martin Eden
     authors:
       - Jack London
+    translators:
       - Zygmunt Glinka
     year: 1969
     language: Polish
@@ -17296,6 +17390,8 @@ titles:
   - title: Miłość Safini
     authors:
       - Światosław Działowicz
+    editors:
+      - Wydawnictwo Iskry
     year: 1969
     language: Polish
     sources:
@@ -17461,6 +17557,7 @@ titles:
         url: https://search.worldcat.org/title/823719361
     verified: true
   - title: Okrutny biegun
+    original_title: Okrutny biegun
     authors:
       - Alina Centkiewicz
     year: 1969
@@ -17477,8 +17574,10 @@ titles:
         url: https://search.worldcat.org/title/830888565
     verified: true
   - title: Opowieść o prawdziwym człowieku
+    original_title: Povestʹ o nastoâŝem čeloveke
     authors:
       - Boris Nikolaevič Polevoj
+    translators:
       - Jerzy Wyszomirski
     year: 1969
     language: Polish
@@ -17505,6 +17604,7 @@ titles:
   - title: Ostatni Mohikanin
     authors:
       - James Fenimore Cooper
+    translators:
       - Tadeusz Evert
     year: 1969
     language: Polish
@@ -17580,8 +17680,9 @@ titles:
   - title: Podróż do Matecumbe
     authors:
       - Robert Lewis Taylor
-      - Krystyna Tarnowska
       - Stanisław Töpfer
+    translators:
+      - Krystyna Tarnowska
     year: 1969
     language: Polish
     sources:
@@ -17593,6 +17694,7 @@ titles:
   - title: Podróż do milczącego świata
     authors:
       - Hans Wolf Rackl
+    translators:
       - Edda Werfel
     year: 1969
     language: Polish
@@ -17788,8 +17890,11 @@ titles:
         url: https://search.worldcat.org/title/215808142
     verified: true
   - title: Promień na ścianie
+    original_title: Solnce na stene
     authors:
       - Vilʹjam Fedorovič Kozlov
+    translators:
+      - Danuta Wawiłow
     year: 1969
     language: Polish
     sources:
@@ -17804,6 +17909,8 @@ titles:
     authors:
       - Waldemar Babinicz
       - Tadeusz Drewnowski
+    editors:
+      - Maciej Krasicki
     year: 1969
     edition: '[Wyd. 1.]'
     language: Polish
@@ -17823,6 +17930,9 @@ titles:
     subtitle: Ankiete zainicjowali i do druku podali
   - title: Przemiany Polaków... [Waldemar Babinicz, Andrzej Braun, Józef Chałasiński, Marcin Czerwiński, Witold Doroszewski etc.] Ankiete̡ zainicjowali i do druku podali Tadeusz Drewnowski i Maciej Krasicki
     authors: []
+    editors:
+      - Maciej Krasicki
+      - Tadeusz Drewnowski
     year: 1969
     language: Polish
     sources:
@@ -17884,6 +17994,7 @@ titles:
     subtitle: Wrażenia z podróży
     authors:
       - Artur Lundkvist
+    translators:
       - Zygmunt Łanowski
     year: 1969
     language: Polish
@@ -17896,6 +18007,7 @@ titles:
   - title: Róże pani Cherington
     authors:
       - Craig Rice
+    translators:
       - Maria Skibniewska
     year: 1969
     language: Polish
@@ -18014,6 +18126,7 @@ titles:
   - title: Sześć tygodni w Reno
     authors:
       - Patrick Quentin
+    translators:
       - Irena Doleżal-Nowicka
     year: 1969
     language: Polish
@@ -18195,8 +18308,10 @@ titles:
         url: https://search.worldcat.org/title/823771616
     verified: true
   - title: Wicehrabia de Bragelonne
+    original_title: Vicomte de Bragelonne
     authors:
       - Alexandre Dumas
+    translators:
       - Hanna Szumańska-Grossowa
     year: 1969
     language: Polish
@@ -18226,10 +18341,12 @@ titles:
         url: https://search.worldcat.org/title/823731515
     verified: true
   - title: Wirgińczyk, jeździec z równin
+    original_title: Virginian
     authors:
       - Owen Wister
-      - Janina Sujkowska
       - Stanisław Töpfer
+    translators:
+      - Janina Sujkowska
     year: 1969
     language: Polish
     sources:
@@ -18289,6 +18406,7 @@ titles:
         url: https://search.worldcat.org/title/805220741
     verified: true
   - title: Wyspa Robinsona
+    original_title: Wyspa Robinsona
     authors:
       - Arkady Fiedler
       - Stanisław Rozwadowski
@@ -18304,6 +18422,8 @@ titles:
     subtitle: Eksperymenty biologiczne
     authors:
       - Erich Grosse
+    translators:
+      - Mieczysław Kowalski
     year: 1969
     language: Polish
     sources:
@@ -18361,6 +18481,7 @@ titles:
         url: https://d-nb.info/577631667
     verified: true
   - title: Zbrodniarz, który ukradł zbrodnię
+    original_title: Zbrodniarz, który ukradł zbrodnię
     authors:
       - Krzysztof Kąkolewski
     year: 1969
@@ -18410,6 +18531,7 @@ titles:
   - title: '"Iskier" przewodnik po stolicach świata'
     authors:
       - Józef Barbag
+    translators:
       - Joachim Koczy
     year: 1970
     language: Polish
@@ -18542,8 +18664,9 @@ titles:
   - title: Bagaż nie z tej ziemi
     authors:
       - Robert Louis Stevenson
-      - Henryk Krzeczkowski
       - Lloyd Osbourne
+    translators:
+      - Henryk Krzeczkowski
     year: 1970
     language: Polish
     sources:
@@ -18555,8 +18678,9 @@ titles:
   - title: Bardzo straszna historia czyli Powieść detektywistyczna, którą napisał Alik Detkin
     authors:
       - Anatolij Aleksin
-      - Irena Piotrowska
       - Maria Uszacka
+    translators:
+      - Irena Piotrowska
     year: 1970
     language: Polish
     sources:
@@ -18568,6 +18692,7 @@ titles:
   - title: Bellew Zawierucha
     authors:
       - Jack London
+    translators:
       - Kazimierz Piotrowski
     year: 1970
     language: Polish
@@ -18578,8 +18703,10 @@ titles:
         url: https://search.worldcat.org/title/830858545
     verified: true
   - title: Brat milczącego wilka
+    original_title: Brat mlčanlivého Vlka
     authors:
       - Klára Jarunková
+    translators:
       - Cecylia Dmochowska
     year: 1970
     language: Polish
@@ -18603,6 +18730,7 @@ titles:
   - title: Chłopiec w lesie i inne opowiadania
     authors:
       - Èduard Ûr'evič Šim
+    translators:
       - Zofia Dudzińska
       - Aleksander Minkowski
     year: 1970
@@ -18634,9 +18762,11 @@ titles:
         url: https://search.worldcat.org/title/830853719
     verified: true
   - title: Czerwony Korsarz
+    original_title: Red Rover
     authors:
       - James Fenimore Cooper
       - Zygmunt Grabowski
+    translators:
       - Kazimierz Piotrowski
     year: 1970
     language: Polish
@@ -18769,6 +18899,7 @@ titles:
   - title: Gdy się ma 17 lat
     authors:
       - Vâčeslav Maksimovič Šugaev
+    translators:
       - Marta Tywonek
     year: 1970
     language: Polish
@@ -18798,6 +18929,7 @@ titles:
   - title: Gipsy Moth okrąża świat
     authors:
       - Francis Chichester
+    translators:
       - Tadeusz Borysiewicz
     year: 1970
     language: Polish
@@ -18820,6 +18952,9 @@ titles:
     subtitle: Zebrał i oprac
     authors:
       - Andrzej Bonasewicz
+    editors:
+      - Mieczysław Kowalczyk
+      - Jerzy Malarski
     year: 1970
     language: Polish
     pages: 126
@@ -18865,6 +19000,7 @@ titles:
     subtitle: Miniatury literackie
   - title: Hobbit
     subtitle: Czyli tam i z powrotem
+    original_title: Hobbit
     authors:
       - J. R. R. Tolkien
     year: 1970
@@ -18973,6 +19109,8 @@ titles:
     subtitle: Almanach fantastyczno-naukowy
     authors:
       - Lech Jęczmyk
+    editors:
+      - Lech Jeczmyk
     year: 1970
     language: Polish
     sources:
@@ -19131,8 +19269,10 @@ titles:
         url: https://search.worldcat.org/title/830861970
     verified: true
   - title: Młoda Gwardia
+    original_title: Molodaâ gvardiâ
     authors:
       - Aleksander Fadiejew
+    translators:
       - Leopold Lewin
     year: 1970
     language: Polish
@@ -19182,8 +19322,10 @@ titles:
         url: https://search.worldcat.org/title/805358157
     verified: true
   - title: Nad poziomem morza
+    original_title: Nad urovnem morâ
     authors:
       - Vladimir Alekseevič Čivilihin
+    translators:
       - Jerzy Litwiniuk
     year: 1970
     language: Polish
@@ -19196,6 +19338,7 @@ titles:
   - title: Napad z bronią w ręku
     authors:
       - Rolf Boldrewood
+    translators:
       - Wacław Niepokólczycki
     year: 1970
     language: Polish
@@ -19254,6 +19397,7 @@ titles:
   - title: Niepokoje komisarza Maigreta
     authors:
       - Georges Simenon
+    translators:
       - Teresa Jackowska
     year: 1970
     language: Polish
@@ -19264,6 +19408,7 @@ titles:
         url: https://search.worldcat.org/title/749550718
     verified: true
   - title: Nieznany ksia̜że̜ Poniatowski
+    original_title: Nieznany książę Poniatowski
     authors:
       - Marian Brandys
     year: 1970
@@ -19287,6 +19432,8 @@ titles:
   - title: O chlebie myślę
     authors:
       - Związek Młodzieży Wiejskiej
+    editors:
+      - Janusz Sowa
     year: 1970
     edition: '[Wyd. 1.]'
     language: Polish
@@ -19328,6 +19475,7 @@ titles:
     authors:
       - Mary Stewart
       - Ewa Salamon
+    translators:
       - Zofia Sroczyńska
     year: 1970
     language: Polish
@@ -19340,6 +19488,7 @@ titles:
   - title: Ojciec i córka czyli Pożegnanie złudzeń
     authors:
       - Imre Szász
+    translators:
       - Jan Zimierski
     year: 1970
     language: Polish
@@ -19399,8 +19548,10 @@ titles:
         url: https://search.worldcat.org/title/751464613
     verified: true
   - title: Opowieść o prawdziwym człowieku
+    original_title: Povestʹ o nastoâŝem čeloveke
     authors:
       - Boris Nikolaevič Polevoj
+    translators:
       - Jerzy Wyszomirski
     year: 1970
     language: Polish
@@ -19411,6 +19562,7 @@ titles:
         url: https://search.worldcat.org/title/830862287
     verified: true
   - title: Opowiesci biblijne
+    original_title: Opowieści biblijne
     authors:
       - Zenon Kosidowski
     year: 1970
@@ -19424,6 +19576,7 @@ titles:
         url: https://search.worldcat.org/title/69596945
     verified: true
   - title: Orinoko
+    original_title: Orinoko
     authors:
       - Arkady Fiedler
       - Stanisław Rozwadowski
@@ -19450,6 +19603,8 @@ titles:
     authors:
       - Daniil Aleksandrovič Granin
       - Henryka Broniatowska
+    translators:
+      - Henryka Broniewska
     year: 1970
     language: Polish
     sources:
@@ -19461,6 +19616,7 @@ titles:
         url: https://search.worldcat.org/title/803997279
     verified: true
   - title: Pilot Gwiaździstego Znaku
+    original_title: Pilot Gwiaździstego Znaku
     authors:
       - Janusz Meissner
     year: 1970
@@ -19521,6 +19677,7 @@ titles:
         url: https://search.worldcat.org/title/69478003
     verified: true
   - title: Pod czarną banderą
+    original_title: Pod czarną banderą
     authors:
       - Jacek Machowski
     year: 1970
@@ -19545,6 +19702,8 @@ titles:
   - title: Pogański ksiąźę silny wielce
     authors:
       - Janusz Roszko
+    editors:
+      - Barbara Woleńska
     year: 1970
     edition: '[Wyd. 1.]'
     language: Polish
@@ -19608,10 +19767,12 @@ titles:
         url: https://search.worldcat.org/title/749830663
     verified: true
   - title: Poniedziałek zaczyna się w sobotę
+    original_title: Ponedel'nik načinaetsâ v subbotu
     authors:
       - Arkadij Strugacki
-      - Irena Piotrowska
       - Boris Strugacki
+    translators:
+      - Irena Piotrowska
     year: 1970
     language: Polish
     sources:
@@ -19652,6 +19813,8 @@ titles:
   - title: Prawo południa
     authors:
       - Albert Hurny
+    translators:
+      - Maria Kłos-Gwizdalska
     year: 1970
     language: Polish
     sources:
@@ -19727,6 +19890,7 @@ titles:
   - title: Siedemnastolatka
     authors:
       - Anton Ingolič
+    translators:
       - Halina Kalita
     year: 1970
     language: Polish
@@ -19841,6 +20005,7 @@ titles:
   - title: Sprawa Bellamy'ego
     authors:
       - Frances Noyes Hart
+    translators:
       - Aleksander Bogdański
     year: 1970
     language: Polish
@@ -19956,8 +20121,10 @@ titles:
         url: https://search.worldcat.org/title/804095523
     verified: true
   - title: Szerszeń
+    original_title: Gadfly
     authors:
       - Ethel Lilian Voynich
+    translators:
       - Maria Feldmanowa
     year: 1970
     language: Polish
@@ -20006,6 +20173,7 @@ titles:
   - title: Tajemnicze zjawiska psychiki człowieka
     authors:
       - Leonid Leonidovič Vasil'ev
+    translators:
       - Jerzy Stobiński
       - Leszek Stobiński
     year: 1970
@@ -20099,6 +20267,7 @@ titles:
   - title: Trudna decyzja panny Pym
     authors:
       - Josephine Tey
+    translators:
       - Zofia Uhrynowska-Hanasz
     year: 1970
     language: Polish
@@ -20111,6 +20280,7 @@ titles:
   - title: Trzej muszkieterowie
     authors:
       - Alexandre Dumas
+    translators:
       - Joanna Guze
     year: 1970
     language: Polish
@@ -20332,6 +20502,7 @@ titles:
   - title: Wydry pana Gavina
     authors:
       - Gavin Maxwell
+    translators:
       - Maria Boduszyńska-Borowikowa
     year: 1970
     language: Polish
@@ -20400,6 +20571,7 @@ titles:
   - title: Znak jeźdźca
     authors:
       - Ludvík Souček
+    translators:
       - Andrzej Czcibor-Piotrowski
     year: 1970
     language: Polish
@@ -20502,6 +20674,7 @@ titles:
   - title: Chłopięce lata Beduina
     authors:
       - Isaak Diqs
+    translators:
       - Lech Jęczmyk
     year: 1971
     language: Polish
@@ -20719,6 +20892,7 @@ titles:
   - title: Gorące wodospady
     authors:
       - Lennart Meri
+    translators:
       - Franciszek Król
     year: 1971
     language: Polish
@@ -20760,6 +20934,9 @@ titles:
     subtitle: Referat, przemówienia dokumenty 23-25 luty 1970 r
     authors:
       - Związek Młodzieży Wiejskiej
+    editors:
+      - Janusz Sowa
+      - Stanisław Wiechno
     year: 1971
     language: Polish
     pages: 420
@@ -21047,6 +21224,7 @@ titles:
   - title: Nazajutrz po śmierci
     authors:
       - Nicholas Blake
+    translators:
       - Zbigniew Obniski
     year: 1971
     language: Polish
@@ -21513,6 +21691,7 @@ titles:
         url: https://search.worldcat.org/title/216508868
     verified: true
   - title: Umarli rzucają cień
+    original_title: Umarli rzucają cień
     authors:
       - Andrzej Wydrzyński
     year: 1971
@@ -21578,6 +21757,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991058000179705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Wielkie przygody małego ancykrysta
+    original_title: Wielkie przygody małego ancykrysta
     authors:
       - Józef Morton
     year: 1971
@@ -21657,8 +21837,9 @@ titles:
     subtitle: Budujemy i eksperymentujemy
     authors:
       - Hans Backe
-      - Leszek Gaszyński
       - Lothar König
+    translators:
+      - Leszek Gaszyński
     year: 1971
     language: Polish
     sources:
@@ -21857,8 +22038,10 @@ titles:
         url: https://search.worldcat.org/title/804332331
     verified: true
   - title: Arno i Daniela
+    original_title: DerSchimmel mit den blauen Augen
     authors:
       - Werner Steinberg
+    translators:
       - Zofa Rybicka
     year: 1972
     language: Polish
@@ -22144,6 +22327,7 @@ titles:
   - title: Dobry wieczór lato, dobry wieczór miłość
     authors:
       - Endre Fejes
+    translators:
       - Hanna Linsenman-Kwaśniewska
     year: 1972
     language: Polish
@@ -22285,6 +22469,7 @@ titles:
     subtitle: Opowieść poufna
     authors:
       - Mihail Ivanovič Baryšev
+    translators:
       - Wacława Komarnicka
     year: 1972
     language: Polish
@@ -22393,6 +22578,7 @@ titles:
   - title: Intrygantki
     authors:
       - Iva Herciková
+    translators:
       - Jadwiga Bułakowska
     year: 1972
     language: Polish
@@ -22439,6 +22625,7 @@ titles:
   - title: Jezioro Słoneczne
     authors:
       - Ludvík Souček
+    translators:
       - Andrzej Czcibor-Piotrowski
     year: 1972
     language: Polish
@@ -22506,8 +22693,10 @@ titles:
         url: https://search.worldcat.org/title/830861219
     verified: true
   - title: Koledzy
+    original_title: Kollegi
     authors:
       - Wasilij Aksionow
+    translators:
       - Janina Dziarnowska
       - Jerzy Litwiniuk
     year: 1972
@@ -22571,8 +22760,9 @@ titles:
   - title: Królewicz i żebrak
     authors:
       - Mark Twain
-      - Tadeusz Jan Dehnel
       - Mieczysław Majewski
+    translators:
+      - Tadeusz Jan Dehnel
     year: 1972
     language: Polish
     sources:
@@ -22718,8 +22908,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/001231028
     verified: true
   - title: Martin Eden
+    original_title: Martin Eden
     authors:
       - Jack London
+    translators:
       - Zygmunt Glinka
     year: 1972
     language: Polish
@@ -22741,6 +22933,7 @@ titles:
   - title: Misja międzyplanetarna
     authors:
       - Alfred Elton Van Vogt
+    translators:
       - Zofia Kierszys
     year: 1972
     language: Polish
@@ -22813,6 +23006,7 @@ titles:
     authors:
       - James Oliver Curwood
       - Andrzej Jurkiewicz
+    translators:
       - Jerzy Marlicz
     year: 1972
     language: Polish
@@ -22946,6 +23140,7 @@ titles:
   - title: Oczekiwanie
     authors:
       - Fedor Koluncev
+    translators:
       - Witolda Jurkiewicz
     year: 1972
     language: Polish
@@ -22977,6 +23172,7 @@ titles:
   - title: Opowieść o prawdziwym człowieku
     authors:
       - Boris Nikolaevič Polevoj
+    translators:
       - Jerzy Wyszomirski
     year: 1972
     language: Polish
@@ -22987,8 +23183,11 @@ titles:
         url: https://search.worldcat.org/title/830857751
     verified: true
   - title: Opowieści biblijne
+    original_title: Opowieści biblijne
     authors:
       - Zenon Kosidowski
+    editors:
+      - Jan Zygmanowski
     year: 1972
     language: Polish
     sources:
@@ -23020,6 +23219,7 @@ titles:
   - title: Osaczona
     authors:
       - Josephine Bell
+    translators:
       - Irena Laskiewicz
     year: 1972
     language: Polish
@@ -23032,8 +23232,9 @@ titles:
   - title: Ostatni Mohikanin
     authors:
       - James Fenimore Cooper
-      - Tadeusz Evert
       - Janusz Stanny
+    translators:
+      - Tadeusz Evert
     year: 1972
     language: Polish
     sources:
@@ -23043,8 +23244,11 @@ titles:
         url: https://search.worldcat.org/title/830845342
     verified: true
   - title: Pierścionek z kocim oczkiem
+    original_title: L'oeil de chat
     authors:
       - Claude Aveline
+    translators:
+      - Romana Szczepkowska
     year: 1972
     language: Polish
     sources:
@@ -23082,8 +23286,10 @@ titles:
         url: https://search.worldcat.org/title/17196294
     verified: true
   - title: Pilot
+    original_title: Pilot
     authors:
       - James Fenimore Cooper
+    translators:
       - Włodzimierz Lewik
       - Jerzy Bohdan Rychliński
     year: 1972
@@ -23158,8 +23364,10 @@ titles:
         url: https://search.worldcat.org/title/750121269
     verified: true
   - title: Przygody Sherlocka Holmesa
+    original_title: Adventures of Sherlock Holmes
     authors:
       - Arthur Conan Doyle
+    translators:
       - Irena Doleżal-Nowicka
     year: 1972
     language: Polish
@@ -23170,8 +23378,10 @@ titles:
         url: https://search.worldcat.org/title/830843365
     verified: true
   - title: Przygody Tomka Sawyera
+    original_title: Adventures of Tom Sawyer
     authors:
       - Mark Twain
+    translators:
       - Kazimierz Piotrowski
     year: 1972
     language: Polish
@@ -23208,6 +23418,7 @@ titles:
     subtitle: Wrażenia z podróży
     authors:
       - Artur Lundkvist
+    translators:
       - Zygmunt Łanowski
     year: 1972
     language: Polish
@@ -23218,8 +23429,10 @@ titles:
         url: https://search.worldcat.org/title/830888577
     verified: true
   - title: Samotni żeglarze
+    original_title: Navigateurs solitaires
     authors:
       - Jean Merrien
+    translators:
       - Tadeusz Borysiewicz
     year: 1972
     language: Polish
@@ -23340,6 +23553,7 @@ titles:
   - title: Szczęściarz i pechowcy
     authors:
       - Leonid Andreevič Zaval'nûk
+    translators:
       - Zofia Dudzińska
     year: 1972
     language: Polish
@@ -23381,6 +23595,7 @@ titles:
   - title: Tak tu cicho o zmierzchu
     authors:
       - Boris L'vovič Vasil'ev
+    translators:
       - Henryka Broniatowska
     year: 1972
     language: Polish
@@ -23393,6 +23608,7 @@ titles:
   - title: Taniec dwu motyli
     authors:
       - Vlasta Váňová
+    translators:
       - Cecylia Dmochowska
     year: 1972
     language: Polish
@@ -23611,6 +23827,7 @@ titles:
   - title: Wyprawa Kon-Tiki
     authors:
       - Thor Heyerdahl
+    translators:
       - Jerzy Pański
     year: 1972
     language: Polish
@@ -23624,8 +23841,9 @@ titles:
     subtitle: Budujemy i eksperymentujemy
     authors:
       - Lothar König
-      - Marian Hanasz
       - Wiktor Chojnacki
+    translators:
+      - Marian Hanasz
     year: 1972
     language: Polish
     sources:
@@ -23714,6 +23932,7 @@ titles:
         url: https://search.worldcat.org/title/215339640
     verified: true
   - title: Zbrodniarz, który ukradł zbrodnię
+    original_title: Zbrodniarz, który ukradł zbrodnię
     authors:
       - Krzysztof Kąkolewski
     year: 1972
@@ -23739,6 +23958,7 @@ titles:
     authors:
       - Jack London
       - Mieczysław Majewski
+    translators:
       - Eleonora Romanowicz-Podoska
     year: 1972
     language: Polish
@@ -23773,6 +23993,8 @@ titles:
     subtitle: Poradnik programowo-metodyczny dla aktywu szkolnego ZMS
     authors:
       - ZMS (Organization)
+    editors:
+      - Henryk Jankowski
     year: 1972
     edition: Wyd. 1.]
     language: Polish
@@ -23836,6 +24058,7 @@ titles:
     authors:
       - Anatolij Andreevič Gromyko
       - Longin Pastusiak
+    translators:
       - Katarzyna Witwicka
     year: 1973
     language: Polish
@@ -23860,9 +24083,10 @@ titles:
   - title: 32 współczesne opowiadania amerykańskie
     authors:
       - Krzysztof Zarzecki
+      - Mieczysław Majewski
+    translators:
       - Krystyna Tarnowska
       - Zofia Kierszys
-      - Mieczysław Majewski
     year: 1973
     language: Polish
     sources:
@@ -23906,6 +24130,7 @@ titles:
         url: https://search.worldcat.org/title/21272997
     verified: true
   - title: Awantura o Basie
+    original_title: Awantura o Basię
     authors:
       - Kornel Makuszyński
     year: 1973
@@ -23927,6 +24152,8 @@ titles:
   - title: Bezimienni
     authors:
       - Jadwiga Drogulska
+    editors:
+      - Danuta Łukawska
     year: 1973
     edition: Wyd. 1. --
     series: Autentyk
@@ -23959,6 +24186,10 @@ titles:
   - title: Bieg Czasu
     authors:
       - Konstanty Paustowski
+    translators:
+      - Nadzieja Drucka
+      - Stefan Flukowski
+      - Jerzy Jędrzejewicz
     year: 1973
     language: Polish
     sources:
@@ -23971,8 +24202,10 @@ titles:
     verified: true
     subtitle: Opowiadania
   - title: Bracia Rico
+    original_title: Frères Rico
     authors:
       - Georges Simenon
+    translators:
       - Irena Szymańska
     year: 1973
     language: Polish
@@ -23983,8 +24216,10 @@ titles:
         url: https://search.worldcat.org/title/831177594
     verified: true
   - title: Brat milczącego wilka
+    original_title: Brat mlčanlivého Vlka
     authors:
       - Klára Jarunková
+    translators:
       - Cecylia Dmochowska
     year: 1973
     language: Polish
@@ -24019,8 +24254,10 @@ titles:
         url: https://search.worldcat.org/title/316550359
     verified: true
   - title: Czarny chłopak
+    original_title: Enfant noir
     authors:
       - Laye Camara
+    translators:
       - Zbigniew Stolarek
     year: 1973
     language: Polish
@@ -24044,6 +24281,7 @@ titles:
   - title: Człowiek w labiryncie
     authors:
       - Robert Silverberg
+    translators:
       - Zofia Kierszys
     year: 1973
     language: Polish
@@ -24096,6 +24334,7 @@ titles:
   - title: Dojdę tam - warto
     authors:
       - John Donovan
+    translators:
       - Jadwiga Olędzka
     year: 1973
     language: Polish
@@ -24199,6 +24438,7 @@ titles:
   - title: Gagatek
     authors:
       - Nodar Dumbadze
+    translators:
       - Jerzy Pomianowski
     year: 1973
     language: Polish
@@ -24220,6 +24460,7 @@ titles:
         url: https://search.worldcat.org/title/831178213
     verified: true
   - title: Gdy słońce było bogiem
+    original_title: Gdy słońce było bogiem
     authors:
       - Zenon Kosidowski
     year: 1973
@@ -24234,6 +24475,7 @@ titles:
     subtitle: Szkic biograficzny
     authors:
       - Kamen Kalčev
+    translators:
       - Adam Koseski
     year: 1973
     language: Polish
@@ -24246,6 +24488,7 @@ titles:
   - title: Historia ludzkiego szaleństwa
     authors:
       - István Ráth-Végh
+    translators:
       - Ryszard Bańkowicz
     year: 1973
     language: Polish
@@ -24350,6 +24593,7 @@ titles:
   - title: Jak najwięcej grobów
     authors:
       - Margery Allingham
+    translators:
       - Irena Doleżal-Nowicka
       - Zofia Kierszys
     year: 1973
@@ -24363,6 +24607,8 @@ titles:
   - title: Jedź ostrożnie!
     authors:
       - F. Gert Pohle
+    translators:
+      - Adam Wydmański
     year: 1973
     language: Polish
     sources:
@@ -24401,9 +24647,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/006706010
     verified: true
   - title: Jeździec bez głowy
+    original_title: The headless horseman
     authors:
       - Mayne Reid
       - Stanisław Töpfer
+    translators:
       - Zygmunt Glinka
     year: 1973
     language: Polish
@@ -24451,6 +24699,7 @@ titles:
   - title: Kastet z dębowym listkiem
     authors:
       - Dmitrij Tarasenkov
+    translators:
       - Zofia Dudzińska
     year: 1973
     language: Polish
@@ -24603,6 +24852,7 @@ titles:
     authors:
       - Jean-Pierre Hallet
       - Alex Pelle
+    translators:
       - Tadeusz Szafar
     year: 1973
     language: Polish
@@ -24615,6 +24865,9 @@ titles:
   - title: Księżycowa dolina
     authors:
       - Jack London
+    translators:
+      - Włodzimierz Lewik
+      - Krystyna Tarnowska
     year: 1973
     language: Polish
     sources:
@@ -24659,6 +24912,8 @@ titles:
   - title: Kto, kiedy, dlaczego o wojsku i obronności kraju
     authors:
       - Edward Zóltowski
+    editors:
+      - Mirosław Gryguc
     year: 1973
     language: Polish
     sources:
@@ -24833,6 +25088,8 @@ titles:
     subtitle: Materiały Konferencji Historyków Ruchu Młodzieżowego, Lublin 16-17 grudnia 1969
     authors:
       - Konferencja Historyków Ruchu Młodzieżowego (3rd 1969 Lublin)
+    editors:
+      - Marian Malinowski
     year: 1973
     edition: '[Wyd. 1.]'
     language: Polish
@@ -24991,6 +25248,7 @@ titles:
     subtitle: Opowiadania
     authors:
       - Danuta Wawilow
+    translators:
       - Zofia Dudzińska
       - Danuta Wawiłow
     year: 1973
@@ -25078,8 +25336,9 @@ titles:
   - title: Ostatni Mohikanin
     authors:
       - James Fenimore Cooper
-      - Tadeusz Evert
       - Janusz Stanny
+    translators:
+      - Tadeusz Evert
     year: 1973
     language: Polish
     sources:
@@ -25231,6 +25490,7 @@ titles:
     authors:
       - James Fenimore Cooper
       - Andrzej Heidrich
+    translators:
       - Aleksander Krajewski
     year: 1973
     language: Polish
@@ -25340,8 +25600,9 @@ titles:
   - title: Przygody Hucka
     authors:
       - Mark Twain
-      - Krystyna Tarnowska
       - Janusz Wysocki
+    translators:
+      - Krystyna Tarnowska
     year: 1973
     language: Polish
     sources:
@@ -25351,10 +25612,12 @@ titles:
         url: https://search.worldcat.org/title/830767717
     verified: true
   - title: Przygody Tomka Sawyera
+    original_title: Adventures of Tom Sawyer
     authors:
       - Mark Twain
-      - Kazimierz Piotrowski
       - Janusz Wysocki
+    translators:
+      - Kazimierz Piotrowski
     year: 1973
     language: Polish
     sources:
@@ -25434,9 +25697,11 @@ titles:
         url: https://search.worldcat.org/title/803419881
     verified: true
   - title: Samotny biały żagiel
+    original_title: Beleet parus odinokij
     authors:
       - Valentin Petrovič Kataev
       - Adam Galis
+    translators:
       - Melania Kierczyńska
     year: 1973
     language: Polish
@@ -25530,6 +25795,7 @@ titles:
     subtitle: Nieśmieszne igraszki
   - title: Siedem polskich grzechów głównych Wyd. 5
     subtitle: Nieśmieszne igraszki
+    original_title: Siedem polskich grzechów głównych
     authors:
       - Zbigniew Załuski
     year: 1973
@@ -25541,8 +25807,10 @@ titles:
         url: https://search.worldcat.org/title/830835220
     verified: true
   - title: Sławetna XII b
+    original_title: Vzrušenie
     authors:
       - Ján Sedlák
+    translators:
       - Edward Madany
     year: 1973
     language: Polish
@@ -25632,6 +25900,7 @@ titles:
         url: https://search.worldcat.org/title/831181250
     verified: true
   - title: Sprawa zabójstwa
+    original_title: Otel' "U Pogibšego Al'pinista"
     authors:
       - Arkadij Strugacki
       - Irena Lewandowska
@@ -25679,6 +25948,7 @@ titles:
   - title: Szal
     authors:
       - Francis Durbridge
+    translators:
       - Kazimierz Piotrowski
     year: 1973
     language: Polish
@@ -25691,6 +25961,7 @@ titles:
   - title: Tajemnica komisarza Maigret
     authors:
       - Georges Simenon
+    translators:
       - Maria Wisłowska
     year: 1973
     language: Polish
@@ -25736,6 +26007,7 @@ titles:
   - title: Troje na prerii
     authors:
       - Charles Portis
+    translators:
       - Zofia Uhrynowska-Hanasz
     year: 1973
     language: Polish
@@ -25746,6 +26018,7 @@ titles:
         url: https://search.worldcat.org/title/831169765
     verified: true
   - title: Umarli rzucaja cien
+    original_title: Umarli rzucają cień
     authors:
       - Andrzej Wydrzynski
     year: 1973
@@ -25762,6 +26035,7 @@ titles:
     subtitle: Poemat
     authors:
       - Jewgienij Jewtuszenko
+    translators:
       - Witold Dąbrowski
     year: 1973
     language: Polish
@@ -25928,8 +26202,9 @@ titles:
   - title: Wielkie miasto Białystok
     authors:
       - Sokrat Janowicz
-      - T. Dżugaj
       - Jerzy Litwiniuk
+    translators:
+      - T. Dżugaj
     year: 1973
     language: Polish
     sources:
@@ -25979,6 +26254,7 @@ titles:
         url: https://search.worldcat.org/title/802116968
     verified: true
   - title: Żądło Genowefy
+    original_title: Żądło Genowefy
     authors:
       - Janusz Meissner
     year: 1973
@@ -26094,6 +26370,7 @@ titles:
         url: https://search.worldcat.org/title/830837927
     verified: true
   - title: Zatrzymaj zegar o jedenastej
+    original_title: Zatrzymaj zegar o jedenastej
     authors:
       - Barbara Nawrocka-Dońska
     year: 1973
@@ -26127,6 +26404,7 @@ titles:
         url: https://search.worldcat.org/title/830675989
     verified: true
   - title: Złowiłem życie
+    original_title: Złowiłem życie
     series: Łowcy Sensacji
     authors:
       - Wacław Korabiewicz
@@ -26180,9 +26458,11 @@ titles:
         url: https://search.worldcat.org/title/830737017
     verified: true
   - title: 714 wzywa pomocy
+    original_title: Flight into danger
     authors:
       - John Castle
       - Arthur Hailey
+    translators:
       - Jan Zakrzewski
     year: 1974
     language: Polish
@@ -26248,10 +26528,12 @@ titles:
         url: https://search.worldcat.org/title/749818940
     verified: true
   - title: Bagaż nie z tej ziemi
+    original_title: The wrong box
     authors:
       - Robert Louis Stevenson
-      - Henryk Krzeczkowski
       - Lloyd Osbourne
+    translators:
+      - Henryk Krzeczkowski
     year: 1974
     language: Polish
     sources:
@@ -26285,6 +26567,7 @@ titles:
   - title: Co i jak ...
     authors:
       - Vadim Grigor'evič Frolov
+    translators:
       - Zofia Dudzińska
     year: 1974
     language: Polish
@@ -26342,8 +26625,10 @@ titles:
         url: https://search.worldcat.org/title/830823008
     verified: true
   - title: Dobry wieczór lato, dobry wieczór miłość
+    original_title: Jó estét nyár, jó estét szerelem
     authors:
       - Endre Fejes
+    translators:
       - Hanna Linsenman-Kwaśniewska
     year: 1974
     language: Polish
@@ -26406,6 +26691,8 @@ titles:
   - title: Duchy na dachu
     authors:
       - Ryszard Marek Groński
+    editors:
+      - Antoni Marianowicz
     year: 1974
     language: Polish
     sources:
@@ -26465,6 +26752,7 @@ titles:
     series: Naokoło Świata
     authors:
       - Thor Heyerdahl
+    translators:
       - Zygmunt Łanowski
     year: 1974
     language: Polish
@@ -26605,8 +26893,9 @@ titles:
   - title: Ikona z koniem
     authors:
       - Branko Ćopić
-      - Magdalena Petryńska
       - Józef Wilkoń
+    translators:
+      - Magdalena Petryńska
     year: 1974
     language: Polish
     sources:
@@ -26735,8 +27024,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=409900028
     verified: true
   - title: Kara
+    original_title: Trest
     authors:
       - Iva Hercíková
+    translators:
       - Jadwiga Bułakowska
     year: 1974
     language: Polish
@@ -26901,6 +27192,7 @@ titles:
         url: https://search.worldcat.org/title/830681360
     verified: true
   - title: Lato leśnych ludzi
+    original_title: Lato leśnych ludzi
     authors:
       - Maria Rodziewiczówna
       - Józef Czerwiński
@@ -26949,6 +27241,7 @@ titles:
   - title: Lwy mają apetyt
     authors:
       - Peter Dickinson
+    translators:
       - Zofia Kierszys
     year: 1974
     language: Polish
@@ -27092,10 +27385,12 @@ titles:
         url: https://search.worldcat.org/title/216598323
     verified: true
   - title: Niż nad Irlandią
+    original_title: Lågtryck över Irland
     authors:
       - Jan Olof Olsson
-      - Zygmunt Łanowski
       - Margareta Sjögren
+    translators:
+      - Zygmunt Łanowski
     year: 1974
     language: Polish
     sources:
@@ -27182,6 +27477,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=40299860X
     verified: true
   - title: Okrutny biegun
+    original_title: Okrutny biegun
     authors:
       - Alina Centkiewiczowie
       - Czesaw Centkiewiczowie
@@ -27198,8 +27494,9 @@ titles:
   - title: Opowiadania z dzikiego zachodu
     authors:
       - Krzysztof Zarzecki
-      - Zofia Kierszys
       - Mieczysław Majewski
+    translators:
+      - Zofia Kierszys
       - Irena Doleżal-Nowicka
     year: 1974
     language: Polish
@@ -27229,6 +27526,7 @@ titles:
   - title: Opowieść z południa
     authors:
       - Jack London
+    translators:
       - Tadeusz Jan Dehnel
     year: 1974
     language: Polish
@@ -27299,8 +27597,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1077758219
     verified: true
   - title: Pasiasty karawan
+    original_title: The zebra-striped hearse, 1962
     authors:
       - Ross MacDonald
+    translators:
       - Jadwiga Olędzka
     year: 1974
     language: Polish
@@ -27311,6 +27611,7 @@ titles:
         url: https://search.worldcat.org/title/749764734
     verified: true
   - title: Pies Baskerville'ów
+    original_title: Hound of the Baskervilles
     authors:
       - Arthur Conan Doyle
     year: 1974
@@ -27324,8 +27625,9 @@ titles:
   - title: Piknik na skraju drogi
     authors:
       - Arkadij Strugacki
-      - Irena Lewandowska
       - Boris Strugacki
+    translators:
+      - Irena Lewandowska
     year: 1974
     language: Polish
     sources:
@@ -27349,8 +27651,9 @@ titles:
   - title: Pionierowie
     authors:
       - James Fenimore Cooper
-      - Tadeusz Evert
       - Andrzej Heidrich
+    translators:
+      - Tadeusz Evert
       - Włodzimierz Lewik
     year: 1974
     language: Polish
@@ -27361,9 +27664,11 @@ titles:
         url: https://search.worldcat.org/title/830748443
     verified: true
   - title: Porwany za młodu
+    original_title: Kidnapped
     authors:
       - Robert Louis Stevenson
       - Janusz Wysocki
+    translators:
       - Jan Meysztowicz
     year: 1974
     language: Polish
@@ -27438,6 +27743,7 @@ titles:
     authors:
       - James Fenimore Cooper
       - Andrzej Heidrich
+    translators:
       - Aldona Szpakowska
       - Włodzimierz Lewik
     year: 1974
@@ -27450,7 +27756,8 @@ titles:
     verified: true
   - title: Przepisy gry w hokeja na lodzie
     subtitle: Wydanie 1972-75
-    authors:
+    authors: []
+    translators:
       - Zygmunt Prymiński
     year: 1974
     language: Polish
@@ -27491,6 +27798,7 @@ titles:
   - title: Przyjaciele
     authors:
       - Władimir Wojnowicz
+    translators:
       - Irena Piotrowska
     year: 1974
     language: Polish
@@ -27568,6 +27876,8 @@ titles:
     subtitle: Opowiadania pisarzy polskich
     authors:
       - Zygmunt Bartkiewicz
+    editors:
+      - Hanna Lebecka
     year: 1974
     edition: Wyd. 1
     language: Polish
@@ -27599,6 +27909,7 @@ titles:
   - title: Roześmiana wyspa
     authors:
       - Gerasim Aleksandrovič Uspenskij
+    translators:
       - Franciszek Król
     year: 1974
     language: Polish
@@ -27649,8 +27960,10 @@ titles:
         url: https://search.worldcat.org/title/830697807
     verified: true
   - title: Rude siostry
+    original_title: Hermanas coloradas
     authors:
       - Francisco García Pavón
+    translators:
       - Kalina Wojciechowska
     year: 1974
     language: Polish
@@ -27663,6 +27976,7 @@ titles:
   - title: Ryk tygrysa
     authors:
       - Krishna Dharma
+    translators:
       - Zofia Sroczyńska
     year: 1974
     language: Polish
@@ -27785,6 +28099,8 @@ titles:
   - title: Spiskowcy w teatrze "Principal"
     authors:
       - Ramón Solís
+    translators:
+      - Zofia Szleyen
     year: 1974
     language: Polish
     sources:
@@ -27799,8 +28115,9 @@ titles:
     subtitle: Wybór z dzieł
     authors:
       - Danilo Dolci
-      - Aleksander Konicki
       - Franciszek Król
+    translators:
+      - Aleksander Konicki
     year: 1974
     language: Polish
     sources:
@@ -27909,6 +28226,7 @@ titles:
     authors:
       - James Fenimore Cooper
       - Andrzej Heidrich
+    translators:
       - Włodzimierz Lewik
       - Bronisław Zieliński
     year: 1974
@@ -27921,11 +28239,13 @@ titles:
     verified: true
   - title: Trudno być bogiem
     subtitle: Drugi najazd Marsjan
+    original_title: Trudno byt' bogom
     authors:
       - Arkadij Strugacki
-      - Irena Piotrowska
       - Boris Strugacki
       - Arkadij Natanovič Strugackij
+    translators:
+      - Irena Piotrowska
     year: 1974
     language: Polish
     sources:
@@ -27937,6 +28257,7 @@ titles:
   - title: Trzecia miłość
     authors:
       - Vladimir Leont'evič Kiselev
+    translators:
       - Witold Dąbrowski
     year: 1974
     language: Polish
@@ -27949,6 +28270,7 @@ titles:
   - title: Trzy dni w Dagezanie
     authors:
       - Pavel Aleksandrovič Šestakov
+    translators:
       - Irena Piotrowska
     year: 1974
     language: Polish
@@ -28112,11 +28434,13 @@ titles:
         url: https://search.worldcat.org/title/749814968
     verified: true
     subtitle: Defilada; Kowal; Wieczór wszystkich lamp; Przed świtem
+    original_title: We mgle wrześniowej
   - title: Wesołe przygody Robin Hooda
     authors:
       - Howard Pyle
-      - Jerzy Krzysztoń
       - Janusz Wysocki
+    translators:
+      - Jerzy Krzysztoń
     year: 1974
     language: Polish
     sources:
@@ -28154,6 +28478,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991099402889705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Wielkie przygody małego ancykrysta
+    original_title: Wielkie przygody małego ancykrysta
     authors:
       - Józef Morton
     year: 1974
@@ -28220,8 +28545,10 @@ titles:
         url: https://search.worldcat.org/title/830771846
     verified: true
   - title: Wycięczka do Krakowa
+    original_title: Reise nach Krakau
     authors:
       - Jurij Brězan
+    translators:
       - Leszek Rejniewicz
     year: 1974
     language: Polish
@@ -28238,6 +28565,7 @@ titles:
   - title: Wyspa skarbów
     authors:
       - Robert Louis Stevenson
+    translators:
       - Józef Birkenmajer
     year: 1974
     language: Polish
@@ -28271,6 +28599,7 @@ titles:
     subtitle: Eksperymenty fizyczne
     authors:
       - Hans Backe
+    translators:
       - Izabela Godlewska
     year: 1974
     language: Polish
@@ -28313,6 +28642,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=516363239
     verified: true
   - title: Zdobywamy Amazonkę
+    original_title: Zdobywamy Amazonkę
     authors:
       - Arkady Fiedler
     year: 1974
@@ -28327,6 +28657,7 @@ titles:
     authors:
       - Jack London
       - Mieczysław Majewski
+    translators:
       - Eleonora Romanowicz-Podoska
     year: 1974
     language: Polish
@@ -28359,6 +28690,7 @@ titles:
   - title: Zielony orzech
     authors:
       - Boris Palotai
+    translators:
       - Krystyna Pisarska
     year: 1974
     language: Polish
@@ -28382,6 +28714,7 @@ titles:
   - title: 180 000 kilometrów przygody
     authors:
       - Tony Halik
+    translators:
       - Zofia Wasitowa
     year: 1975
     language: Polish
@@ -28450,8 +28783,9 @@ titles:
   - title: Bardzo straszna historia czyli Powieść detektywistyczna, którą napisał Alik Detkin
     authors:
       - Anatolij Aleksin
-      - Irena Piotrowska
       - Maria Uszacka
+    translators:
+      - Irena Piotrowska
     year: 1975
     language: Polish
     sources:
@@ -28482,8 +28816,9 @@ titles:
   - title: Biały Kieł
     authors:
       - Jack London
-      - Anna Przedpełska-Trzeciakowska
       - Janusz Wysocki
+    translators:
+      - Anna Przedpełska-Trzeciakowska
     year: 1975
     language: Polish
     sources:
@@ -28536,6 +28871,7 @@ titles:
   - title: Bramkarz Republiki
     authors:
       - Lev Abramovič Kassil'
+    translators:
       - Zygmunt Stoberski
     year: 1975
     language: Polish
@@ -28559,6 +28895,7 @@ titles:
   - title: Chłopiec z pięcioma "nie" czyli Spowiedź prostodusznego
     authors:
       - Vadim Sergeevič Šefner
+    translators:
       - Zofia Dudzińska
     year: 1975
     language: Polish
@@ -28655,8 +28992,10 @@ titles:
     verified: true
     series: Koniec świata szwoleżerów; 1
   - title: Czerwony Korsarz
+    original_title: Red rover
     authors:
       - James Fenimore Cooper
+    translators:
       - Kazimierz Piotrowski
     year: 1975
     language: Polish
@@ -28735,8 +29074,10 @@ titles:
         url: https://search.worldcat.org/title/749781007
     verified: true
   - title: Dzień tryfidów
+    original_title: Day of the triffids
     authors:
       - John Wyndham
+    translators:
       - Wacława Komarnicka
     year: 1975
     language: Polish
@@ -28748,7 +29089,8 @@ titles:
     verified: true
   - title: Eureka
     subtitle: Pomysły, poszukiwania, rozwiązania
-    authors:
+    authors: []
+    translators:
       - Alicja Karpowicz
     year: 1975
     language: Polish
@@ -28818,8 +29160,9 @@ titles:
     authors:
       - Geronimo
       - S. M. Barrett
-      - Krzysztof Zarzecki
       - Frederick W. Turner
+    translators:
+      - Krzysztof Zarzecki
     year: 1975
     language: Polish
     sources:
@@ -28831,6 +29174,9 @@ titles:
   - title: Harry Brent
     authors:
       - Francis Durbridge
+    editors:
+      - Kazimierz Piotrowski
+    translators:
       - Kazimierz Piotrowski
     year: 1975
     language: Polish
@@ -28854,8 +29200,10 @@ titles:
         url: https://search.worldcat.org/title/76284728
     verified: true
   - title: Jedynaczka
+    original_title: Jediná
     authors:
       - Klára Jarunková
+    translators:
       - Cecylia Dmochowska
     year: 1975
     language: Polish
@@ -28883,6 +29231,7 @@ titles:
     authors:
       - Robert Louis Stevenson
       - Janusz Wysocki
+    translators:
       - Jan Meysztowicz
     year: 1975
     language: Polish
@@ -28895,6 +29244,7 @@ titles:
   - title: Kobieta szpieg
     authors:
       - D. Pastor Petit
+    translators:
       - Jerzy Bojarski
     year: 1975
     language: Polish
@@ -28921,6 +29271,7 @@ titles:
     authors:
       - Arkadij Strugacki
       - Boris Strugacki
+    translators:
       - Irena Lewandowska
     year: 1975
     language: Polish
@@ -28977,6 +29328,7 @@ titles:
   - title: Kryptonim Eureka
     authors:
       - Viktor Georgievič Egorov
+    translators:
       - Wiesława Karaczewska
     year: 1975
     language: Polish
@@ -29020,6 +29372,7 @@ titles:
   - title: Kulista tajemnica
     authors:
       - Vadim Sergeevič Šefner
+    translators:
       - Zofia Dudzińska
     year: 1975
     language: Polish
@@ -29047,6 +29400,7 @@ titles:
   - title: Listy do Jaśka
     authors:
       - Ludmila Freiová
+    translators:
       - Emilia Witwicka
     year: 1975
     language: Polish
@@ -29094,6 +29448,7 @@ titles:
   - title: Ludzie Północy
     authors:
       - Ûrij Borisovič Simčenko
+    translators:
       - Franciszek Król
     year: 1975
     language: Polish
@@ -29142,8 +29497,9 @@ titles:
   - title: Młoda gwardia
     authors:
       - Aleksander Fadiejew
-      - Leopold Lewin
       - Państwowe Wydawnictwo "Iskry" (Warszawa)
+    translators:
+      - Leopold Lewin
     year: 1975
     language: Polish
     sources:
@@ -29156,6 +29512,7 @@ titles:
     authors:
       - Bernard Gorsky
       - Tadeusz Borysiewicz
+    translators:
       - Zbigniew Stolarek
     year: 1975
     language: Polish
@@ -29168,6 +29525,7 @@ titles:
   - title: Moja lwia rodzina
     authors:
       - Joy Adamson
+    translators:
       - Józef Giebułtowicz
     year: 1975
     language: Polish
@@ -29322,8 +29680,9 @@ titles:
   - title: Nic dobrego
     authors:
       - Duncan R. Wallace
-      - Zofia Sroczyńska
       - Richard Todd
+    translators:
+      - Zofia Sroczyńska
     year: 1975
     language: Polish
     sources:
@@ -29391,6 +29750,7 @@ titles:
     authors:
       - Alfred Assollant
       - Janusz Grabiański
+    translators:
       - Jane Zielonko
     year: 1975
     language: Polish
@@ -29401,8 +29761,10 @@ titles:
         url: https://search.worldcat.org/title/812706985
     verified: true
   - title: Non stop
+    original_title: Non-stop
     authors:
       - Brian Wilson Aldiss
+    translators:
       - Marek Wagner
     year: 1975
     language: Polish
@@ -29415,6 +29777,7 @@ titles:
   - title: Nowele
     authors:
       - Jack London
+    translators:
       - Włodzimierz Lewik
     year: 1975
     language: Polish
@@ -29427,6 +29790,7 @@ titles:
   - title: O tych, co nie wrócili
     authors:
       - Bagiš Ovsepân
+    translators:
       - Witold Dąbrowski
     year: 1975
     language: Polish
@@ -29493,6 +29857,7 @@ titles:
     authors:
       - Boris Nikolaevič Polevoj
       - Paweł Lasik
+    translators:
       - Jerzy Wyszomirski
     year: 1975
     language: Polish
@@ -29617,6 +29982,7 @@ titles:
     authors:
       - Robert Lewis Taylor
       - Mieczysław Majewski
+    translators:
       - Krystyna Tarnowska
     year: 1975
     language: Polish
@@ -29656,8 +30022,10 @@ titles:
         url: https://search.worldcat.org/title/830570601
     verified: true
   - title: Powrót brata
+    original_title: Vozvraŝenie brata
     authors:
       - Vladimir I'lič Amlinskij
+    translators:
       - Tadeusz Gosk
     year: 1975
     language: Polish
@@ -29740,6 +30108,7 @@ titles:
   - title: Przygody Tomka Sawyera
     authors:
       - Mark Twain
+    translators:
       - Kazimierz Piotrowski
     year: 1975
     language: Polish
@@ -29813,11 +30182,13 @@ titles:
         url: https://catalog.hathitrust.org/Record/001230605
     verified: true
   - title: Samotny biały żagiel
+    original_title: Beleet parus odinokij
     authors:
       - Valentin Petrovič Kataev
       - Andrzej Drawicz
-      - Melania Kierczyńska
       - Zofia Konarska
+    translators:
+      - Melania Kierczyńska
     year: 1975
     language: Polish
     sources:
@@ -29941,6 +30312,7 @@ titles:
     authors:
       - Sergio Villegas
       - I. Krasicki
+    translators:
       - Brygida Jodkowska
     year: 1975
     language: Polish
@@ -29954,6 +30326,7 @@ titles:
     subtitle: Artykuły i reportaże 1920-1956
     authors:
       - Ernest Hemingway
+    translators:
       - Bronisław Zieliński
     year: 1975
     language: Polish
@@ -29979,8 +30352,9 @@ titles:
   - title: Szerszeń
     authors:
       - Ethel Lilian Voynich
-      - Maria Feldmanowa
       - Maciej Urbaniec
+    translators:
+      - Maria Feldmanowa
     year: 1975
     language: Polish
     sources:
@@ -30014,6 +30388,7 @@ titles:
   - title: Tajemnica plemienia Ku
     authors:
       - Peter Dickinson
+    translators:
       - Aldona Szpakowska
     year: 1975
     language: Polish
@@ -30071,10 +30446,12 @@ titles:
         url: https://catalog.hathitrust.org/Record/007871956
     verified: true
   - title: Trzej muszkieterowie
+    original_title: Trois mousquetaires
     authors:
       - Alexandre Dumas
-      - Joanna Guze
       - Janusz Wysocki
+    translators:
+      - Joanna Guze
     year: 1975
     language: Polish
     sources:
@@ -30128,6 +30505,8 @@ titles:
     subtitle: Antologia polskich opowiadań współczesnych
     authors:
       - Maria Błaszczykowa
+    editors:
+      - Ewa Kieruzalska
     year: 1975
     edition: Wyd. 1
     language: Polish
@@ -30188,9 +30567,12 @@ titles:
     verified: true
   - title: Z chemia̜ za pan brat
     subtitle: Eksperymenty chemiczne
+    original_title: Chemie selbst erlebt
     authors:
       - Erich Grosse
       - Christian Weissmantel
+    translators:
+      - Bohdan Szczyciński
       - Ryszard Pakuła
     year: 1975
     language: Polish
@@ -30203,8 +30585,10 @@ titles:
         url: https://search.worldcat.org/title/830526784
     verified: true
   - title: Zatrzymać wiatr
+    original_title: Shoot an arrow to stop the wind
     authors:
       - Colin Stuart
+    translators:
       - Maria Skibniewska
     year: 1975
     language: Polish
@@ -30229,6 +30613,7 @@ titles:
     authors:
       - Jack London
       - Mieczysław Majewski
+    translators:
       - Eleonora Romanowicz-Podoska
     year: 1975
     language: Polish
@@ -30239,8 +30624,10 @@ titles:
         url: https://search.worldcat.org/title/750823588
     verified: true
   - title: Zwariowana łódka czyli Żałosna historia Radosnej Przygody
+    original_title: Boat who wouldn't float
     authors:
       - Farley Mowat
+    translators:
       - Ewa Krasińska
     year: 1975
     language: Polish
@@ -30283,6 +30670,7 @@ titles:
   - title: A w dole Swanecja
     authors:
       - Aleksandr Aleksandrovič Kuznecov
+    translators:
       - Danuta Rymsza-Zalewska
     year: 1976
     language: Polish
@@ -30350,6 +30738,7 @@ titles:
   - title: Australijski dramat
     authors:
       - Alan Moorehead
+    translators:
       - Andrzej Nowicki
     year: 1976
     language: Polish
@@ -30360,6 +30749,7 @@ titles:
         url: https://search.worldcat.org/title/69584439
     verified: true
   - title: Baśnie udokumentowane
+    original_title: Baśnie udokumentowane
     authors:
       - Krzysztof Kąkolewski
     year: 1976
@@ -30471,6 +30861,7 @@ titles:
         url: https://search.worldcat.org/title/3840062
     verified: true
   - title: Bramy Lipska
+    original_title: Bramy Lipska
     authors:
       - Jan Dobraczyński
     year: 1976
@@ -30544,6 +30935,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/006062796
     verified: true
   - title: Córeczka
+    original_title: Córeczka
     authors:
       - Wojciech Żukrowski
     year: 1976
@@ -30650,6 +31042,7 @@ titles:
   - title: Dolina Ludzi Milczących
     authors:
       - James Oliver Curwood
+    translators:
       - Jerzy Marlicz
     year: 1976
     language: Polish
@@ -30662,6 +31055,7 @@ titles:
   - title: Druga miłość
     authors:
       - Iva Herciková
+    translators:
       - Jadwiga Bułakowska
     year: 1976
     language: Polish
@@ -30672,11 +31066,13 @@ titles:
         url: https://search.worldcat.org/title/830577165
     verified: true
   - title: Dwanaście krzeseł
+    original_title: Dvenadcat' stul'ev
     authors:
       - Il'â Arnol'dovič Il'f
+      - Evgenij Petrov
+    translators:
       - Tadeusz Żeromski
       - Jan Brzechwa
-      - Evgenij Petrov
     year: 1976
     language: Polish
     sources:
@@ -31046,6 +31442,7 @@ titles:
         url: https://search.worldcat.org/title/812688689
     verified: true
   - title: Karolino nie przeszkadzaj
+    original_title: Karolino, nie przeszkadzaj
     authors:
       - Barbara Krzysztoń
     year: 1976
@@ -31070,6 +31467,8 @@ titles:
     authors:
       - Krystyna Goldbergowa
       - Zbigniew Stolarek
+    editors:
+      - Kathy E. Goldberg
     year: 1976
     edition: Wyd. 1
     series: Biblioteka literatury XXX-lecia
@@ -31178,8 +31577,9 @@ titles:
   - title: Królewicz i żebrak
     authors:
       - Mark Twain
-      - Tadeusz Jan Dehnel
       - Mieczysław Majewski
+    translators:
+      - Tadeusz Jan Dehnel
     year: 1976
     language: Polish
     sources:
@@ -31204,6 +31604,7 @@ titles:
     subtitle: Historia, doświadczenia, problemy
     authors:
       - Igor' Mihajlovič Il'inskij
+    translators:
       - Sylwester Szafarz
     year: 1976
     language: Polish
@@ -31241,6 +31642,8 @@ titles:
     authors:
       - Hildegard Schumacher
       - Siegfried Schumacher
+    translators:
+      - Mieczysław Dutkiewicz
     year: 1976
     language: Polish
     sources:
@@ -31254,6 +31657,7 @@ titles:
   - title: Lewe pieniądze
     authors:
       - Ross MacDonald
+    translators:
       - Krzysztof Zarzecki
     year: 1976
     language: Polish
@@ -31266,8 +31670,9 @@ titles:
   - title: Ludzie jak ludzie
     authors:
       - Kir Bułyczow
-      - Bolesław Baranowski
       - Tadeusz Gosk
+    translators:
+      - Bolesław Baranowski
     year: 1976
     language: Polish
     sources:
@@ -31372,8 +31777,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/000299047
     verified: true
   - title: Martin Eden
+    original_title: Martin Eden
     authors:
       - Jack London
+    translators:
       - Zygmunt Glinka
     year: 1976
     language: Polish
@@ -31408,6 +31815,7 @@ titles:
   - title: Młodzieżowy izolacjonizm narzędziem antykomunizmu
     authors:
       - Ûrij Viktorovič Eremin
+    translators:
       - Tadeusz Gosik
     year: 1976
     language: Polish
@@ -31427,9 +31835,11 @@ titles:
         url: https://d-nb.info/368877108
     verified: true
   - title: Mój ślub z księżniczką
+    original_title: Meine Hochzeit mit der Prinzessin
     authors:
       - Peter Abraham
       - Juliusz Puchalski
+    translators:
       - Zofia Rybicka
     year: 1976
     language: Polish
@@ -31537,6 +31947,8 @@ titles:
   - title: Od palanta do belcanta
     authors:
       - Mieczysław Fogg
+    editors:
+      - Zbigniew K. Rogowski
     year: 1976
     edition: Wyd. 2. uzup
     language: Polish
@@ -31667,6 +32079,7 @@ titles:
   - title: Otwórz, to ja ...
     authors:
       - Lilâna Mihajlova
+    translators:
       - Marzenna Szlenk-Iliewa
     year: 1976
     language: Polish
@@ -31750,6 +32163,7 @@ titles:
   - title: Przygody Bena Gunna
     authors:
       - R. F. Delderfield
+    translators:
       - Krystyna Tarnowska
     year: 1976
     language: Polish
@@ -31784,6 +32198,7 @@ titles:
   - title: Reportaże z pierwszej linii
     authors:
       - Anatolij Baranov
+    translators:
       - Janina Walicka
     year: 1976
     language: Polish
@@ -31818,8 +32233,9 @@ titles:
   - title: Ruch młodzieżowy w świecie
     authors:
       - Gennadij Ivanovič Ânaev
-      - Tadeusz Gosk
       - Aleksandr Andreevič Polikanov
+    translators:
+      - Tadeusz Gosk
     year: 1976
     language: Polish
     sources:
@@ -31863,6 +32279,7 @@ titles:
   - title: Sławetna XII B
     authors:
       - Ján Sedlák
+    translators:
       - Edward Madany
     year: 1976
     language: Polish
@@ -31962,6 +32379,7 @@ titles:
         url: https://search.worldcat.org/title/316443330
     verified: true
   - title: Stawka większa niż życie
+    original_title: Stawka większa niż życie
     authors:
       - Andrzej Zbych
     year: 1976
@@ -31975,8 +32393,10 @@ titles:
         url: https://search.worldcat.org/title/750932862
     verified: true
   - title: Studium w szkarłacie
+    original_title: Study in scarlet
     authors:
       - Arthur Conan Doyle
+    translators:
       - Tadeusz Evert
     year: 1976
     language: Polish
@@ -32028,6 +32448,7 @@ titles:
   - title: Szwecja jest daleko
     authors:
       - János Újhelyi
+    translators:
       - Krystyna Pisarska
     year: 1976
     language: Polish
@@ -32276,6 +32697,7 @@ titles:
   - title: Wiatr w żagle
     authors:
       - Ûrij Vasil'ev
+    translators:
       - Irena Piotrowska
     year: 1976
     language: Polish
@@ -32322,8 +32744,10 @@ titles:
         url: https://search.worldcat.org/title/750664579
     verified: true
   - title: Włóczęgi Północy
+    original_title: Nomads of the North
     authors:
       - James Oliver Curwood
+    translators:
       - Jerzy Marlicz
     year: 1976
     language: Polish
@@ -32334,6 +32758,7 @@ titles:
         url: https://search.worldcat.org/title/802671347
     verified: true
   - title: Wojna trojańska
+    original_title: Wojna trojańska
     authors:
       - Jan Parandowski
     year: 1976
@@ -32422,6 +32847,7 @@ titles:
     subtitle: Eksperymenty biologiczne
     authors:
       - Erich Grosse
+    translators:
       - Mieczysław Kowalski
       - Zuzanna Stromenger
       - Romuald Żyłka
@@ -32436,6 +32862,7 @@ titles:
   - title: Za kurtyną
     authors:
       - Earl Derr Biggers
+    translators:
       - Izabella Kulczycka-Dąmbska
     year: 1976
     language: Polish
@@ -32582,8 +33009,10 @@ titles:
         url: https://search.worldcat.org/title/823666073
     verified: true
   - title: Bellew Zawierucha
+    original_title: Smoke Bellew
     authors:
       - Jack London
+    translators:
       - Kazimierz Piotrowski
     year: 1977
     language: Polish
@@ -32610,6 +33039,7 @@ titles:
   - title: Charlie Chan prowadzi śledztwo
     authors:
       - Earl Derr Biggers
+    translators:
       - Jan Zakrzewski
     year: 1977
     language: Polish
@@ -32620,6 +33050,7 @@ titles:
         url: https://search.worldcat.org/title/830308917
     verified: true
   - title: Ciudad Trujillo
+    original_title: Ostatnia noc w Ciudad Trujillo
     authors:
       - Andrzej Wydrzyński
     year: 1977
@@ -32635,8 +33066,11 @@ titles:
         url: https://search.worldcat.org/title/830299877
     verified: true
   - title: Co to jest fantastyka naukowa
+    original_title: Čto takoe fantastika?
     authors:
       - IU. I. Kagarlitskiĭ
+    translators:
+      - Krzysztof W. Malinowski
     year: 1977
     edition: Wyd. 1. --
     language: Polish
@@ -32693,6 +33127,7 @@ titles:
   - title: Dalekie szlaki
     authors:
       - Siergiej Sniegow
+    translators:
       - Tadeusz Gosk
     year: 1977
     language: Polish
@@ -32762,8 +33197,10 @@ titles:
     verified: true
   - title: Dwunastu
     subtitle: Dvenadcat'
+    original_title: Dvenadcat'
     authors:
       - Aleksandr Błok
+    translators:
       - Józef Waczków
     year: 1977
     language: Polish
@@ -32778,6 +33215,7 @@ titles:
   - title: Działa Nawarony
     authors:
       - Alistair MacLean
+    translators:
       - Adam Kaska
     year: 1977
     language: Polish
@@ -32811,8 +33249,9 @@ titles:
   - title: Dziewczyna taka jak ty
     authors:
       - Eva Schmidtová-Hartmannová
-      - Edward Madany
       - Państwowe Wydawnictwo "Iskry" (Warszawa)
+    translators:
+      - Edward Madany
     year: 1977
     language: Polish
     sources:
@@ -32940,8 +33379,10 @@ titles:
         url: https://search.worldcat.org/title/830309297
     verified: true
   - title: Inspektorze, na pomoc!
+    original_title: Greengage summer
     authors:
       - Rumer Godden
+    translators:
       - Jadwiga Olędzka
     year: 1977
     language: Polish
@@ -32954,6 +33395,7 @@ titles:
   - title: Jak hartowała się stal
     authors:
       - Nikolaj Alekseevič Ostrovskij
+    translators:
       - Wacław Rogowicz
     year: 1977
     language: Polish
@@ -33015,6 +33457,7 @@ titles:
         url: https://search.worldcat.org/title/830296851
     verified: true
   - title: Kanada pachnąca żywicą
+    original_title: Kanada pachnąca żywicą
     authors:
       - Arkady Fiedler
     year: 1977
@@ -33083,6 +33526,7 @@ titles:
   - title: Królewicz i żebrak
     authors:
       - Mark Twain
+    translators:
       - Tadeusz Jan Dehnel
     year: 1977
     language: Polish
@@ -33310,9 +33754,11 @@ titles:
         url: https://search.worldcat.org/title/830328836
     verified: true
   - title: Najdziksze serca
+    original_title: Isobel
     authors:
       - James Oliver Curwood
       - Andrzej Jurkiewicz
+    translators:
       - Jerzy Marlicz
     year: 1977
     language: Polish
@@ -33548,6 +33994,7 @@ titles:
   - title: Ostatni Mohikanin
     authors:
       - James Fenimore Cooper
+    translators:
       - Tadeusz Evert
     year: 1977
     language: Polish
@@ -33748,8 +34195,10 @@ titles:
         url: https://search.worldcat.org/title/751019379
     verified: true
   - title: Przygody Tomka Sawyera
+    original_title: Adventures of Tom Sawyer
     authors:
       - Mark Twain
+    translators:
       - Kazimierz Piotrowski
     year: 1977
     language: Polish
@@ -33840,6 +34289,7 @@ titles:
   - title: Sprawa Bellamy'ego
     authors:
       - Frances Noyes Hart
+    translators:
       - Aleksander Bogdański
     year: 1977
     language: Polish
@@ -33987,6 +34437,7 @@ titles:
   - title: Tajemnica Abigél
     authors:
       - Magda Szabó
+    translators:
       - Alicja Mazurkiewicz
     year: 1977
     language: Polish
@@ -34044,6 +34495,7 @@ titles:
   - title: Tam piaski śpiewają
     authors:
       - Josephine Tey
+    translators:
       - Krzysztof W. Malinowski
     year: 1977
     language: Polish
@@ -34215,6 +34667,7 @@ titles:
   - title: Wirgińczyk
     authors:
       - Owen Wister
+    translators:
       - Janina Sujkowska
     year: 1977
     language: Polish
@@ -34249,6 +34702,7 @@ titles:
   - title: Wojna światów
     authors:
       - H. G. Wells
+    translators:
       - Henryk Józefowicz
     year: 1977
     language: Polish
@@ -34299,8 +34753,10 @@ titles:
         url: https://search.worldcat.org/title/751000142
     verified: true
   - title: Wyspa zaginionych okrętów
+    original_title: Ostrov pogibših korablej
     authors:
       - Aleksandr Romanovič Belâev
+    translators:
       - Adam Galis
     year: 1977
     language: Polish
@@ -34344,6 +34800,7 @@ titles:
     authors:
       - Jack London
       - Mieczysław Majewski
+    translators:
       - Eleonora Romanowicz-Podoska
     year: 1977
     language: Polish
@@ -34400,9 +34857,10 @@ titles:
   - title: Żuraw w garści
     authors:
       - Kir Bułyczow
-      - Tadeusz Gosk
       - Ûlij Gusman
       - Âroslav Kiryllovič Golovanov
+    translators:
+      - Tadeusz Gosk
     year: 1977
     language: Polish
     sources:
@@ -34452,6 +34910,7 @@ titles:
     verified: true
   - title: Afrykańska Księga Rodzaju
     subtitle: Mity i legendy ludów Afryki Zachodniej
+    original_title: Afrykańska księga rodzaju
     authors:
       - Stanisław Piłaszewicz
     year: 1978
@@ -34473,6 +34932,7 @@ titles:
   - title: Aksamitne pazurki
     authors:
       - Erle Stanley Gardner
+    translators:
       - Krzysztof Zarzecki
     year: 1978
     language: Polish
@@ -34485,6 +34945,7 @@ titles:
   - title: Ammassalik czyli Cywilizacja obowiązkowa
     authors:
       - Robert Gessain
+    translators:
       - Zbigniew Stolarek
     year: 1978
     language: Polish
@@ -34553,6 +35014,7 @@ titles:
   - title: Bartłomiej Farrar
     authors:
       - Josephine Tey
+    translators:
       - Jadwiga Olędzka
     year: 1978
     language: Polish
@@ -34601,6 +35063,7 @@ titles:
   - title: Biały Kieł
     authors:
       - Jack London
+    translators:
       - Anna Przedpełska-Trzeciakowska
     year: 1978
     language: Polish
@@ -34611,8 +35074,10 @@ titles:
         url: https://search.worldcat.org/title/830320574
     verified: true
   - title: Biegnąca po falach
+    original_title: Beguŝaâ po volnam
     authors:
       - Aleksandr Grin
+    translators:
       - Irena Piotrowska
     year: 1978
     language: Polish
@@ -34688,8 +35153,10 @@ titles:
     verified: true
   - title: Chiny
     subtitle: Karty przeszłości
+    original_title: Kitaj
     authors:
       - Vasilij Âkovlevič Sidihmenov
+    translators:
       - Aleksander Bogdański
     year: 1978
     language: Polish
@@ -34737,10 +35204,12 @@ titles:
         url: https://lccn.loc.gov/78393681
     verified: true
   - title: Czarny anioł
+    original_title: Johannes Angelos
     authors:
       - Mika Waltari
-      - Zygmunt Łanowski
       - Józef Wilkoń
+    translators:
+      - Zygmunt Łanowski
     year: 1978
     language: Polish
     sources:
@@ -34817,8 +35286,10 @@ titles:
         url: https://search.worldcat.org/title/830329072
     verified: true
   - title: Czy można mnie pokochać?
+    original_title: Macskát visszafelé simogatják
     authors:
       - G. Szabó Judit
+    translators:
       - Krystyna Pisarska
     year: 1978
     language: Polish
@@ -34867,6 +35338,7 @@ titles:
   - title: Dziennik pokładowy czyli O przygodach Buddy, Fai i Szeryfa
     authors:
       - Jan Ryska
+    translators:
       - Antoni Kroh
     year: 1978
     language: Polish
@@ -34917,8 +35389,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/008013762
     verified: true
   - title: Fatu Hiva
+    original_title: Fatu Hiva
     authors:
       - Thor Heyerdahl
+    translators:
       - Bronisław Zieliński
     year: 1978
     language: Polish
@@ -35014,6 +35488,7 @@ titles:
   - title: Intrygantki
     authors:
       - Iva Herciková
+    translators:
       - Jadwiga Bułakowska
     year: 1978
     language: Polish
@@ -35093,10 +35568,12 @@ titles:
         url: https://search.worldcat.org/title/830322985
     verified: true
   - title: Kawaler de Lagardere
+    original_title: Bossu
     authors:
       - Paul Féval
-      - Halina Popławska
       - Janusz Wysocki
+    translators:
+      - Halina Popławska
     year: 1978
     language: Polish
     sources:
@@ -35129,6 +35606,7 @@ titles:
   - title: Kłamstwo
     authors:
       - Albert Lichanow
+    translators:
       - Wiesława Karaczewska
     year: 1978
     language: Polish
@@ -35171,6 +35649,7 @@ titles:
   - title: Koledzy
     authors:
       - Wasilij Aksionow
+    translators:
       - Janina Dziarnowska
     year: 1978
     language: Polish
@@ -35199,6 +35678,7 @@ titles:
   - title: Kowboje oceanu
     authors:
       - Arthur C. Clarke
+    translators:
       - Lech Jęczmyk
     year: 1978
     language: Polish
@@ -35310,6 +35790,8 @@ titles:
   - title: Listopady
     authors:
       - Władysław Broniewski
+    editors:
+      - Bohdan Drozdowski
     year: 1978
     edition: Wyd. 1
     language: Polish
@@ -35537,8 +36019,9 @@ titles:
   - title: Nastusia
     authors:
       - Inna Hristenko
-      - Gabriela Pauszer-Klonowska
       - Krystyna Ziołowska
+    translators:
+      - Gabriela Pauszer-Klonowska
     year: 1978
     language: Polish
     sources:
@@ -35588,6 +36071,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000756766
     verified: true
   - title: Niebo w płomieniach
+    original_title: Niebo w płomieniach
     authors:
       - Jan Parandowski
     year: 1978
@@ -35786,6 +36270,7 @@ titles:
   - title: Opowieść o prawdziwym człowieku
     authors:
       - Boris Nikolaevič Polevoj
+    translators:
       - Jerzy Wyszomirski
     year: 1978
     language: Polish
@@ -35796,6 +36281,7 @@ titles:
         url: https://search.worldcat.org/title/750455356
     verified: true
   - title: Opowieści biblijne
+    original_title: Opowieści biblijne
     authors:
       - Zenon Kosidowski
     year: 1978
@@ -35840,6 +36326,8 @@ titles:
   - title: Ostatnia przeszkoda
     authors:
       - Sieglinde Dick
+    translators:
+      - Mieczysław Dutkiewicz
     year: 1978
     language: Polish
     sources:
@@ -36056,9 +36544,11 @@ titles:
         url: https://search.worldcat.org/title/804277749
     verified: true
   - title: Przewodnik po życiu i miłości nastolatków
+    original_title: '"A young person''s guide to live and love"'
     authors:
       - Benjamin Spock
       - Kazimierz Jankowski
+    translators:
       - Janina Hera
     year: 1978
     language: Polish
@@ -36071,6 +36561,7 @@ titles:
   - title: Przez śniegi i wody Kanady
     authors:
       - Roger Frison-Roche
+    translators:
       - Zbigniew Stolarek
     year: 1978
     language: Polish
@@ -36081,8 +36572,10 @@ titles:
         url: https://search.worldcat.org/title/69316601
     verified: true
   - title: Przygody Sherlocka Holmesa
+    original_title: Adventures of Sherlock Holmes
     authors:
       - Arthur Conan Doyle
+    translators:
       - Tadeusz Evert
       - Jan Meysztowicz
     year: 1978
@@ -36160,6 +36653,7 @@ titles:
     authors:
       - Valentin Petrovič Kataev
       - Alicja Wołodźko-Butkiewicz
+    translators:
       - Melania Kierczyńska
     year: 1978
     language: Polish
@@ -36244,6 +36738,7 @@ titles:
   - title: Siedemnastolatek
     authors:
       - Booth Tarkington
+    translators:
       - Wacława Komarnicka
     year: 1978
     language: Polish
@@ -36256,6 +36751,7 @@ titles:
   - title: Siostra smutku
     authors:
       - Vadim Sergeevič Šefner
+    translators:
       - Tadeusz Gosk
     year: 1978
     language: Polish
@@ -36505,8 +37001,10 @@ titles:
         url: https://search.worldcat.org/title/750632738
     verified: true
   - title: Szara wilczyca
+    original_title: Kazan the wolf-dog
     authors:
       - James Oliver Curwood
+    translators:
       - Jerzy Marlicz
     year: 1978
     language: Polish
@@ -36518,8 +37016,10 @@ titles:
     verified: true
   - title: Szpieg
     subtitle: Opowieść o Ziemi Niczyjej
+    original_title: Spy
     authors:
       - James Fenimore Cooper
+    translators:
       - Helena Janina Pajzderska
     year: 1978
     language: Polish
@@ -36935,8 +37435,11 @@ titles:
         url: https://search.worldcat.org/title/830322544
     verified: true
   - title: Z tamtej strony dolara
+    original_title: The far side of the dollar
     authors:
       - Ross Macdonald
+    translators:
+      - Kalina Wojciechowska
     year: 1978
     series: Klub srebrnego klucza
     language: Polish
@@ -37022,6 +37525,7 @@ titles:
   - title: Zielone piekło w Gujanie
     authors:
       - Raymond Maufrais
+    translators:
       - Zbigniew Stolarek
     year: 1978
     language: Polish
@@ -37034,6 +37538,7 @@ titles:
   - title: Znajomi z pociągu
     authors:
       - Patricia Highsmith
+    translators:
       - Anna Bronaczowa
     year: 1978
     language: Polish
@@ -37187,6 +37692,7 @@ titles:
         url: https://search.worldcat.org/title/751151619
     verified: true
   - title: Bez apelacji
+    original_title: Pieta na szkle
     authors:
       - Ryszard Wójcik
     year: 1979
@@ -37210,6 +37716,7 @@ titles:
   - title: Biała cisza i inne opowiadania z Północy
     authors:
       - Jack London
+    translators:
       - Tadeusz Jan Dehnel
       - Włodzimierz Lewik
     year: 1979
@@ -37285,6 +37792,7 @@ titles:
   - title: Chińska papuga
     authors:
       - Earl Derr Biggers
+    translators:
       - Izabella Kulczycka-Dąmbska
     year: 1979
     language: Polish
@@ -37424,10 +37932,11 @@ titles:
   - title: Czas i słowo
     authors:
       - Boris Dmitrievič Pankin
+      - Boris Nikolaevič Polevoj
+    translators:
       - Mirosław Czertowicz
       - Elżbieta Banasiuk
       - Michał Wołodźko
-      - Boris Nikolaevič Polevoj
     year: 1979
     language: Polish
     sources:
@@ -37500,6 +38009,7 @@ titles:
   - title: Dzikie lata
     authors:
       - Milan Brujić
+    translators:
       - Ewa Getter-Lisowska
     year: 1979
     language: Polish
@@ -37512,6 +38022,8 @@ titles:
   - title: Dżokej Gerlinda
     authors:
       - Sieglinde Dick
+    translators:
+      - Daniela Ralińska
     year: 1979
     language: Polish
     sources:
@@ -37525,6 +38037,8 @@ titles:
   - title: Ekspedycja Mikro
     authors:
       - Alexander Kröger
+    translators:
+      - Mieczysław Dutkiewicz
     year: 1979
     language: Polish
     sources:
@@ -38120,8 +38634,10 @@ titles:
         url: https://search.worldcat.org/title/830265972
     verified: true
   - title: Niezwykłe choć prawdziwe przygody kapitana Korkorana
+    original_title: Aventures merveilleuses, mais authentiques du capitaine Corcoran
     authors:
       - Alfred Assollant
+    translators:
       - Jane Zielonko
     year: 1979
     language: Polish
@@ -38232,6 +38748,7 @@ titles:
   - title: Okrążenie
     authors:
       - Grigorij Tûtûnnik
+    translators:
       - Aleksander Bogdański
     year: 1979
     language: Polish
@@ -38316,6 +38833,7 @@ titles:
   - title: Opowieści o zwierzętach
     authors:
       - Gerald Durrell
+    translators:
       - Krystyna Szerer
     year: 1979
     language: Polish
@@ -38403,6 +38921,7 @@ titles:
   - title: Pierwsza krew
     authors:
       - Jack Schaefer
+    translators:
       - Wacław Niepokólczycki
     year: 1979
     language: Polish
@@ -38413,8 +38932,10 @@ titles:
         url: https://search.worldcat.org/title/802969164
     verified: true
   - title: Planeta 412 bis
+    original_title: Planeta dlja kontakta "Mir priključennij"
     authors:
       - Jewgienij Gulakowski
+    translators:
       - Tadeusz Gosk
     year: 1979
     language: Polish
@@ -38493,8 +39014,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/000094972
     verified: true
   - title: Poza Ziemią
+    original_title: Vne zemli
     authors:
       - Konstantin Tsiolkovsky
+    translators:
+      - Andrzej Bień
     year: 1979
     edition: Wyd. 1
     language: Polish
@@ -38607,8 +39131,10 @@ titles:
         url: https://search.worldcat.org/title/830282062
     verified: true
   - title: Przygody Tomka Sawyera
+    original_title: Adventures of Tom Sawyer
     authors:
       - Mark Twain
+    translators:
       - Kazimierz Piotrowski
     year: 1979
     language: Polish
@@ -38704,6 +39230,8 @@ titles:
   - title: Ruchomy cel
     authors:
       - Ross Macdonald
+    translators:
+      - Zofia Zinserling
     year: 1979
     series: Klub Srebrnego klucza
     language: Polish
@@ -38722,6 +39250,7 @@ titles:
   - title: Saara, dziewczyna z Vastamäki
     authors:
       - Ines Lappalainen
+    translators:
       - Cecylia Lewandowska
     year: 1979
     language: Polish
@@ -38732,6 +39261,7 @@ titles:
         url: https://search.worldcat.org/title/830295158
     verified: true
   - title: Samson i Dalila
+    original_title: Samson i Dalila
     authors:
       - Jan Dobraczyński
     year: 1979
@@ -38849,6 +39379,7 @@ titles:
   - title: Sny szybkie
     authors:
       - Zinovij Ûr'evič Ûr'ev
+    translators:
       - Henryk Józefowicz
     year: 1979
     language: Polish
@@ -38935,6 +39466,7 @@ titles:
     authors:
       - Ernest Hemingway
       - Krzysztof Zarzecki
+    translators:
       - Bronisław Zieliński
     year: 1979
     language: Polish
@@ -39166,6 +39698,7 @@ titles:
   - title: Władca skalnej doliny
     authors:
       - James Oliver Curwood
+    translators:
       - Jerzy Marlicz
     year: 1979
     language: Polish
@@ -39193,6 +39726,8 @@ titles:
   - title: Wspomnienia ZWM--owców
     authors:
       - Janina Balcerzak
+    editors:
+      - Ryszard Zelwiański
     year: 1979
     edition: Wyd. 1
     language: Polish
@@ -39238,6 +39773,7 @@ titles:
     authors:
       - V. Zarečnyj
       - Leszek Gabriel
+    translators:
       - Henryk Sławecki
     year: 1979
     language: Polish
@@ -39324,8 +39860,10 @@ titles:
         url: https://search.worldcat.org/title/830206496
     verified: true
   - title: Zamknięty krąg
+    original_title: D. A. draws a circle
     authors:
       - Erle Stanley Gardner
+    translators:
       - Wacław Niepokólczycki
     year: 1979
     language: Polish
@@ -39358,6 +39896,7 @@ titles:
   - title: Zew krwi
     authors:
       - Jack London
+    translators:
       - Ewa Kieruzalska-Gewartowska
       - Eleonora Romanowicz-Podoska
     year: 1979
@@ -39440,8 +39979,9 @@ titles:
   - title: 19 współczesnych opowiadań nigeryjskich
     authors:
       - Chinua Achebe
-      - Anna Esden-Tempska
       - Maryla Topczewska-Metelska
+    translators:
+      - Anna Esden-Tempska
     year: 1980
     language: Polish
     sources:
@@ -39537,6 +40077,7 @@ titles:
   - title: Co i jak?
     authors:
       - Vadim Grigor'evič Frolov
+    translators:
       - Zofia Dudzińska
     year: 1980
     language: Polish
@@ -39651,6 +40192,8 @@ titles:
   - title: Dzikie wino
     authors:
       - Konstanty Ildefons Gałczyński
+    editors:
+      - Kira Gałczyńska
     year: 1980
     edition: Wyd. 1. --
     language: Polish
@@ -39709,6 +40252,7 @@ titles:
   - title: Fajka komisarza Maigret
     authors:
       - Georges Simenon
+    translators:
       - Renata Opęchowska
     year: 1980
     language: Polish
@@ -39755,6 +40299,7 @@ titles:
   - title: Indyjska wiosna Uny
     authors:
       - Rumer Godden
+    translators:
       - Jadwiga Olędzka
     year: 1980
     language: Polish
@@ -39848,6 +40393,7 @@ titles:
   - title: Jezioro Królewskie
     authors:
       - Mihail Ivanovič Baryšev
+    translators:
       - Eugeniusz Piotr Melech
     year: 1980
     language: Polish
@@ -40051,6 +40597,8 @@ titles:
   - title: Losy nie wymyślone
     authors:
       - Krystyna Goldbergowa
+    editors:
+      - Krystyna Goldbergerowa
     year: 1980
     language: Polish
     pages: 427
@@ -40222,6 +40770,7 @@ titles:
     authors:
       - Maurice Dolbier
       - Janusz Wysocki
+    translators:
       - Zofia Uhrynowska-Hanasz
     year: 1980
     language: Polish
@@ -40311,8 +40860,9 @@ titles:
   - title: Opowieść o prawdziwym człowieku
     authors:
       - Boris Nikolaevič Polevoj
-      - Jerzy Wyszomirski
       - Nikolaj Nikolaevič Žukov
+    translators:
+      - Jerzy Wyszomirski
     year: 1980
     language: Polish
     sources:
@@ -40322,6 +40872,7 @@ titles:
         url: https://search.worldcat.org/title/830202664
     verified: true
   - title: Opowieści ewangelistów
+    original_title: Opowieści ewangelistów
     authors:
       - Zenon Kosidowski
     year: 1980
@@ -40446,10 +40997,12 @@ titles:
     verified: true
   - title: Pierwsze trzy minuty
     subtitle: Współczesny obraz początku Wszechświata
+    original_title: '"The first three minutes : a modern view of the origin of the universe" 1977'
     authors:
       - Steven Weinberg
-      - Aleksander Blum
       - Marek Demiański
+    translators:
+      - Aleksander Blum
     year: 1980
     language: Polish
     sources:
@@ -40461,6 +41014,9 @@ titles:
   - title: Planeta małp
     authors:
       - Pierre Boulle
+    translators:
+      - Krystyna Pruska
+      - Krzysztof Pruski
     year: 1980
     language: Polish
     sources:
@@ -40639,8 +41195,10 @@ titles:
         url: https://search.worldcat.org/title/830251135
     verified: true
   - title: Przygody Hodży Nasreddina
+    original_title: Vozmutitel' spokojstviâ
     authors:
       - Leonid Sołowiow
+    translators:
       - Izabella Zabłudowska
     year: 1980
     language: Polish
@@ -40651,8 +41209,10 @@ titles:
         url: https://search.worldcat.org/title/749807994
     verified: true
   - title: Przygody Sherlocka Holmesa
+    original_title: Adventures of Sherlock Holmes
     authors:
       - Arthur Conan Doyle
+    translators:
       - Jan Meysztowicz
       - Tadeusz Evert
       - Irena Doleżal-Nowicka
@@ -40688,6 +41248,7 @@ titles:
     series: Naokoło Świata
     authors:
       - Arne Falk-Rønne
+    translators:
       - Maria Bero
     year: 1980
     language: Polish
@@ -40811,6 +41372,7 @@ titles:
     verified: true
   - title: Rozdziobią nas kruki, wrony
     subtitle: Zmierzch; Echa leśne
+    original_title: Rozdziobią nas kruki, wrony
     authors:
       - Stefan Żeromski
       - Jan Zygmunt Jakubowski
@@ -40840,6 +41402,7 @@ titles:
     authors:
       - J. R. R. Tolkien
       - Pauline Baynes
+    translators:
       - Maria Skibniewska
     year: 1980
     language: Polish
@@ -40852,6 +41415,7 @@ titles:
   - title: Saara z Vastamäki w mieście
     authors:
       - Ines Lappalainen
+    translators:
       - Cecylia Lewandowska
     year: 1980
     language: Polish
@@ -40890,6 +41454,7 @@ titles:
   - title: Sen we mgle
     authors:
       - Ûrij Sergeevič Rythèu
+    translators:
       - Ewa Rojewska-Olejarczuk
     year: 1980
     language: Polish
@@ -40927,6 +41492,7 @@ titles:
     verified: true
   - title: Siłaczka
     subtitle: Nagi bruk
+    original_title: Siłaczka
     authors:
       - Stefan Żeromski
       - Jan Zygmunt Jakubowski
@@ -40941,6 +41507,7 @@ titles:
   - title: Słodka choroba
     authors:
       - Patricia Highsmith
+    translators:
       - Urszula Gutowska
     year: 1980
     language: Polish
@@ -40999,6 +41566,8 @@ titles:
   - title: Sprawa Galtona
     authors:
       - Ross Macdonald
+    translators:
+      - Wacław Niepokólczycki
     year: 1980
     series: Klub srebrnego klucza
     language: Polish
@@ -41059,6 +41628,7 @@ titles:
   - title: Straszliwy archipelag i inne opowiadania z Południa
     authors:
       - Jack London
+    translators:
       - Tadeusz Jan Dehnel
     year: 1980
     language: Polish
@@ -41072,6 +41642,8 @@ titles:
     subtitle: Antologia
     authors:
       - Ryszard Matuszewski
+    editors:
+      - Grażyna Konecka
     year: 1980
     language: Polish
     pages: 270
@@ -41141,6 +41713,8 @@ titles:
   - title: Tajemnica komisarza Maigret
     authors:
       - Georges Simenon
+    translators:
+      - Maria Wisłowska
     year: 1980
     edition: Wyd. 2
     series: Klub Srebrnego Klucza
@@ -41454,6 +42028,7 @@ titles:
   - title: Wszystkie strony świata
     authors:
       - Ursula K. Le Guin
+    translators:
       - Lech Jęczmyk
       - Zofia Uhrynowska-Hanasz
     year: 1980
@@ -41599,6 +42174,7 @@ titles:
   - title: Zielone wzgórza Afryki
     authors:
       - Ernest Hemingway
+    translators:
       - Bronisław Zieliński
     year: 1980
     language: Polish
@@ -41671,6 +42247,7 @@ titles:
     authors:
       - John Castle
       - Arthur Hailey
+    translators:
       - Jan Zakrzewski
     year: 1981
     language: Polish
@@ -41724,6 +42301,7 @@ titles:
   - title: Biały kieł
     authors:
       - Jack London
+    translators:
       - Anna Przedpełska-Trzeciakowska
     year: 1981
     language: Polish
@@ -41754,6 +42332,7 @@ titles:
   - title: Borgis
     authors:
       - Miklós Vámos
+    translators:
       - Krystyna Pisarska
     year: 1981
     language: Polish
@@ -41802,9 +42381,11 @@ titles:
         url: https://d-nb.info/368943062
     verified: true
   - title: Cierpienie młodego Wertera
+    original_title: Die Leiden des jungen Werthers. Tekst według wydania PIW, 1975
     authors:
       - Johann Wolfgang von Goethe
       - Stefan H. Kaszyński
+    translators:
       - Leopold Staff
     year: 1981
     language: Polish
@@ -42054,8 +42635,9 @@ titles:
   - title: Jest taki chłopak
     authors:
       - Wasilij Szukszyn
-      - Irena Piotrowska
       - Jerzy Rozwadowski
+    translators:
+      - Irena Piotrowska
     year: 1981
     language: Polish
     sources:
@@ -42273,6 +42855,7 @@ titles:
     authors:
       - Joseph Conrad
       - Zdzisław Najder
+    translators:
       - Aniela Zagórska
     year: 1981
     language: Polish
@@ -42288,6 +42871,7 @@ titles:
   - title: Łowcy wilków
     authors:
       - James Oliver Curwood
+    translators:
       - Jerzy Marlicz
     year: 1981
     language: Polish
@@ -42314,6 +42898,7 @@ titles:
   - title: Maigret i trup młodej kobiety
     authors:
       - Georges Simenon
+    translators:
       - Leszek Kossobudzki
     year: 1981
     language: Polish
@@ -42324,8 +42909,10 @@ titles:
         url: https://search.worldcat.org/title/830204763
     verified: true
   - title: Martin Eden
+    original_title: Martin Eden
     authors:
       - Jack London
+    translators:
       - Zygmunt Glinka
     year: 1981
     language: Polish
@@ -42416,6 +43003,7 @@ titles:
   - title: Miłość życia
     authors:
       - Jack London
+    translators:
       - Zygmunt Glinka
       - Kazimierz Piotrowski
     year: 1981
@@ -42495,6 +43083,7 @@ titles:
   - title: Nazywają mnie Ninna
     authors:
       - Anna-Greta Winberg
+    translators:
       - Małgorzata Wojciechowska
     year: 1981
     language: Polish
@@ -42576,6 +43165,7 @@ titles:
   - title: Nieprawdopodobnie bujne życie
     authors:
       - Vadim Grigor'evič Frolov
+    translators:
       - Urszula Gutowska
     year: 1981
     language: Polish
@@ -42608,8 +43198,9 @@ titles:
   - title: Nietutejsza
     authors:
       - Liljana Michajlova
-      - Hanna Karpińska
       - Anna Małgorzata Wunderlich
+    translators:
+      - Hanna Karpińska
     year: 1981
     language: Polish
     sources:
@@ -42632,6 +43223,8 @@ titles:
   - title: Noc majowa
     authors:
       - Julian Przyboś
+    editors:
+      - Bohdan Drozdowski
     year: 1981
     language: Polish
     pages: 131
@@ -42704,12 +43297,16 @@ titles:
   - title: Opowieści z dreszczykiem
     authors:
       - Hawthorne N.
-      - Irena Malanowska
       - Edward Bulwer Lytton Lytton
-      - Aldona Szpakowska
-      - Zofia Uhrynowska-Hanasz
       - Nathaniel Hawthorne
       - William Wymark Jacobs
+    editors:
+      - Ambrose Bierce
+      - Frank B. Stockton
+    translators:
+      - Irena Malanowska
+      - Aldona Szpakowska
+      - Zofia Uhrynowska-Hanasz
     year: 1981
     language: Polish
     sources:
@@ -42730,6 +43327,7 @@ titles:
     subtitle: Indiańska historia amerykańskiego Zachodu
     authors:
       - Dee Alexander Brown
+    translators:
       - Małgorzata Brenner
       - James D. Brenner
       - Ewa Jarzębska
@@ -42744,6 +43342,7 @@ titles:
   - title: Podróż barką
     authors:
       - Derrick Harry Clarke
+    translators:
       - Ewa König-Krasińska
       - Wacław Zagrodzki
     year: 1981
@@ -42881,6 +43480,7 @@ titles:
   - title: Przygody Hodży Nasreddina
     authors:
       - Leonid Sołowiow
+    translators:
       - Izabella Zabłudowska
     year: 1981
     language: Polish
@@ -42893,6 +43493,7 @@ titles:
   - title: Przygody Hucka
     authors:
       - Mark Twain
+    translators:
       - Krystyna Tarnowska
     year: 1981
     language: Polish
@@ -43223,6 +43824,7 @@ titles:
   - title: W ewidencji nie figuruje
     authors:
       - Boris L'vovič Vasil'ev
+    translators:
       - Aleksander Bogdański
     year: 1981
     language: Polish
@@ -43256,6 +43858,7 @@ titles:
   - title: Wiara w człowieka
     authors:
       - Jack London
+    translators:
       - Tadeusz Jan Dehnel
       - Tadeusz Evert
       - Kazimierz Piotrowski
@@ -43348,6 +43951,8 @@ titles:
   - title: Wyprawa Do Gwiazd
     authors:
       - Alfred Elton van Vogt
+    translators:
+      - Marek Marszał
     year: 1981
     language: English
     isbn: '8320703964'
@@ -43360,8 +43965,10 @@ titles:
         url: https://search.worldcat.org/title/69514628
     verified: true
   - title: Wyspa skarbów
+    original_title: Treasure island
     authors:
       - Robert Louis Stevenson
+    translators:
       - Andrzej Konarek
       - Krystyna Tarnowska
     year: 1981
@@ -43555,6 +44162,7 @@ titles:
   - title: Druga planeta słońca Ogg
     authors:
       - Péter Lengyel
+    translators:
       - Tomasz Kulisiewicz
     year: 1982
     language: Polish
@@ -43688,6 +44296,7 @@ titles:
   - title: Grubaska czyli Kości zostały rzucone
     authors:
       - Stanislav Rudolf
+    translators:
       - Antoni Kroh
     year: 1982
     language: Polish
@@ -43699,8 +44308,10 @@ titles:
     verified: true
   - title: Hrabina filantropka
     subtitle: Ryzykowna gra; Utalentowany mąż
+    original_title: The charitable countess, The bigger game, The talented husband
     authors:
       - Leslie Charteris
+    translators:
       - Irena Doleżal-Nowicka
       - Aleksander Bogdański
     year: 1982
@@ -43784,8 +44395,11 @@ titles:
         url: https://search.worldcat.org/title/69374305
     verified: true
   - title: Krolewicz i zebrak
+    original_title: Prince and the pauper
     authors:
       - Mark Twain
+    translators:
+      - Tadeusz Jan Dehnel
     year: 1982
     language: Polish
     sources:
@@ -43834,6 +44448,7 @@ titles:
     verified: true
   - title: Latarnik
     subtitle: Bartek zwycięzca
+    original_title: Latarnik
     authors:
       - Henryk Sienkiewicz
     year: 1982
@@ -43875,6 +44490,7 @@ titles:
   - title: Lodowy sfinks
     authors:
       - Nina Aleksandrovna Vel'mina
+    translators:
       - Franciszek Król
     year: 1982
     language: Polish
@@ -43903,6 +44519,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991085675689705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Madagaskar, okrutny czarodziej
+    original_title: Madagaskar - okrutny czarodziej
     authors:
       - Arkady Fiedler
     year: 1982
@@ -43938,8 +44555,11 @@ titles:
         url: https://search.worldcat.org/title/69603512
     verified: true
   - title: Moja siostra Tilli
+    original_title: Meine Schwester Tilli
     authors:
       - Hans Weber
+    translators:
+      - Brygida Jodkowska
     year: 1982
     language: Polish
     sources:
@@ -43953,11 +44573,12 @@ titles:
   - title: Morderstwo per procura
     authors:
       - Matthias MacDonnell Bodkin
-      - Jadwiga Olędzka
       - Hesketh Vernon Hesketh Prichard
+      - Emmuska Orczy
+    translators:
+      - Jadwiga Olędzka
       - Aldona Szpakowska
       - Ewa Życieńska
-      - Emmuska Orczy
     year: 1982
     language: Polish
     sources:
@@ -44149,6 +44770,8 @@ titles:
     authors:
       - Pablo Neruda
       - Jan Bokiewicz
+    translators:
+      - Zofia Szleyen
     year: 1982
     language: Polish
     sources:
@@ -44340,10 +44963,12 @@ titles:
         url: https://search.worldcat.org/title/830308788
     verified: true
   - title: Przygody Tomka Sawyera
+    original_title: Adventures of Tom Sawyer
     authors:
       - Mark Twain
-      - Kazimierz Piotrowski
       - Przemysław Woźniak
+    translators:
+      - Kazimierz Piotrowski
     year: 1982
     language: Polish
     sources:
@@ -44412,6 +45037,7 @@ titles:
     subtitle: Zarys dziejów
   - title: Rozdziobia̜ nas kruki, wrony
     subtitle: I inne opowiadania
+    original_title: Rozdziobią nas kruki, wrony
     authors:
       - Stefan Żeromski
     year: 1982
@@ -44538,6 +45164,7 @@ titles:
     verified: true
   - title: Siłaczka
     subtitle: Nagi bruk
+    original_title: Siłaczka
     authors:
       - Stefan Żeromski
       - Danuta Knysz-Tomaszewska
@@ -44552,6 +45179,7 @@ titles:
   - title: Skarby Sezamu
     authors:
       - Jack London
+    translators:
       - Tadeusz Jan Dehnel
       - Kazimierz Piotrowski
       - Bronisław Zieliński
@@ -44589,6 +45217,8 @@ titles:
     subtitle: Antologia
     authors:
       - Katarzyna Madoń-Mitzner
+    editors:
+      - Piotr Mitzner
     year: 1982
     language: Polish
     sources:
@@ -44640,6 +45270,7 @@ titles:
   - title: Święty w Nowym Jorku
     authors:
       - Leslie Charteris
+    translators:
       - Magdalena Zawanowska
     year: 1982
     language: Polish
@@ -44673,6 +45304,7 @@ titles:
     verified: true
     series: Biblioteka Stańczyka
   - title: Szkice węglem czyli epopeja pod tytułem Co się działo w Baraniej Głowie
+    original_title: Szkice węglem
     authors:
       - Henryk Sienkiewicz
     year: 1982
@@ -44751,6 +45383,7 @@ titles:
     subtitle: Opowiadania
     authors:
       - Anatolij Aleksin
+    translators:
       - Monika Dutkowska
     year: 1982
     language: Polish
@@ -44763,6 +45396,7 @@ titles:
   - title: Tylko dla orłów
     authors:
       - Alistair MacLean
+    translators:
       - Małgorzata Grabowska
       - Andrzej Grabowski
     year: 1982
@@ -44776,8 +45410,9 @@ titles:
   - title: Ulica rzeczna
     authors:
       - Meja Mwangi
-      - Maryla Topczewska-Metelska
       - Państwowe Wydawnictwo "Iskry" (Warszawa)
+    translators:
+      - Maryla Topczewska-Metelska
     year: 1982
     language: Polish
     sources:
@@ -44858,6 +45493,7 @@ titles:
   - title: Wendeta dla Świętego
     authors:
       - Leslie Charteris
+    translators:
       - Janina Carlson
       - Kalina Wojciechowska
     year: 1982
@@ -44873,6 +45509,7 @@ titles:
       - James Oliver Curwood
       - Zbigniew Karaszewski
       - Andrzej Koskowski
+    translators:
       - Jerzy Marlicz
     year: 1982
     language: Polish
@@ -44928,6 +45565,7 @@ titles:
     authors:
       - Aleksandr Ivanovič Abramov
       - Sergej Aleksandrovič Abramov
+    translators:
       - Sławomir Kędzierski
     year: 1982
     language: Polish
@@ -44942,6 +45580,7 @@ titles:
       - Elizabeth Thomasina Smith
       - Clifford Ashdown
       - Joseph Smith Fletcher
+    translators:
       - Zofia Zinserling
       - Hanna Olędzka
     year: 1982
@@ -45009,6 +45648,7 @@ titles:
   - title: Zadanie
     authors:
       - Péter Zsoldos
+    translators:
       - Tomasz Kulisiewicz
     year: 1982
     language: Polish
@@ -45032,6 +45672,7 @@ titles:
   - title: Zielone piekło
     authors:
       - Raymond Maufrais
+    translators:
       - Zbigniew Stolarek
     year: 1982
     language: Polish
@@ -45044,11 +45685,12 @@ titles:
   - title: Złoty pantofelek
     authors:
       - Anna Katharine Green
-      - Aldona Szpakowska
       - Hulbert Footner
+      - Emmuska Orczy
+    translators:
+      - Aldona Szpakowska
       - Hanna Olędzka
       - Jadwiga Olędzka
-      - Emmuska Orczy
     year: 1982
     language: Polish
     sources:
@@ -45094,6 +45736,7 @@ titles:
   - title: 90 minut
     authors:
       - Antal Végh
+    translators:
       - Tadeusz Olszański
     year: 1983
     language: Polish
@@ -45144,6 +45787,7 @@ titles:
     subtitle: Opowiadania
     authors:
       - Guy de Maupassant
+    translators:
       - Róża Czekańska-Heymanowa
       - Krystyna Dolatowska
       - Adolf Sowiński
@@ -45169,6 +45813,7 @@ titles:
   - title: Ci dziwni dorośli
     authors:
       - Arkadij Mironovič Minčkovskij
+    translators:
       - Wiesława Karaczewska
     year: 1983
     language: Polish
@@ -45179,8 +45824,10 @@ titles:
         url: https://search.worldcat.org/title/804944102
     verified: true
   - title: Cieplarnia
+    original_title: Hothouse
     authors:
       - Brian Wilson Aldiss
+    translators:
       - Marek Marszał
     year: 1983
     language: Polish
@@ -45202,8 +45849,10 @@ titles:
         url: https://search.worldcat.org/title/749847100
     verified: true
   - title: Czarny tulipan
+    original_title: La tulipe noire
     authors:
       - Alexandre Dumas
+    translators:
       - Janina Karczmarewicz-Fedorowska
     year: 1983
     language: French
@@ -45244,6 +45893,7 @@ titles:
   - title: Dobry wieczór, lato, dobry wieczór, miłość
     authors:
       - Endre Fejes
+    translators:
       - Hanna Linsenman-Kwaśniewska
     year: 1983
     language: Polish
@@ -45324,10 +45974,11 @@ titles:
   - title: Dziennik jednego roku
     authors:
       - Vladimir Vladimirovič Lebedev
-      - Michał B. Jagiełło
-      - Irena Lewandowska
       - Ûrij Borisovič Simčenko
       - Aleksandr Stepanovič Starostin
+    translators:
+      - Michał B. Jagiełło
+      - Irena Lewandowska
     year: 1983
     language: Polish
     sources:
@@ -45366,6 +46017,7 @@ titles:
   - title: Ewa i Templariusz
     authors:
       - Christa Grasmeyer
+    translators:
       - Karol Czejarek
     year: 1983
     language: Polish
@@ -45390,6 +46042,7 @@ titles:
   - title: Fundacja Simona Templara
     authors:
       - Leslie Charteris
+    translators:
       - Aleksander Bogdański
     year: 1983
     language: Polish
@@ -45552,6 +46205,7 @@ titles:
     subtitle: Opowiadania
     authors:
       - Peter Cheyney
+    translators:
       - Robert Stiller
     year: 1983
     language: Polish
@@ -45585,6 +46239,7 @@ titles:
     verified: true
   - title: Kościół w Skaryszewie
     subtitle: Stara cegielnia
+    original_title: Kościół w Skaryszewie
     authors:
       - Jarosław Iwaszkiewicz
     year: 1983
@@ -45600,6 +46255,7 @@ titles:
   - title: Kosmiczny kalejdoskop
     authors:
       - Bob Shaw
+    translators:
       - Zofia Uhrynowska-Hanasz
     year: 1983
     language: Polish
@@ -45624,8 +46280,9 @@ titles:
   - title: Księga Wschodu
     authors:
       - Hatif Janabi
-      - Janusz Danecki
       - Piotr Jaworowski
+    translators:
+      - Janusz Danecki
     year: 1983
     language: Polish
     sources:
@@ -45661,10 +46318,12 @@ titles:
         url: https://catalog.hathitrust.org/Record/000282143
     verified: true
   - title: Lemuria - klucz do przeszłości?
+    original_title: Адрес — Лемурия?
     series: Raporty z granic poznania
     authors:
       - Aleksandr Mihajlovič Kondratov
       - Włodzimierz Mizerski
+    translators:
       - Robert Marcin Sadowski
     year: 1983
     language: Polish
@@ -45703,8 +46362,10 @@ titles:
         url: https://search.worldcat.org/title/69284881
     verified: true
   - title: Miasto na Górze
+    original_title: Gorod Naverhu
     authors:
       - Kir Bułyczow
+    translators:
       - Tadeusz Gosk
     year: 1983
     language: Polish
@@ -45822,6 +46483,7 @@ titles:
     authors:
       - Amos Tutuola
       - Maciej Buszewicz
+    translators:
       - Ernestyna Skurjat
     year: 1983
     language: Polish
@@ -45868,8 +46530,6 @@ titles:
     verified: true
   - title: Nie czytać o zmierzchu!
     authors:
-      - Jadwiga Olędzka
-      - Zofia Zinserling
       - Saki
       - Joseph Sheridan Le Fanu
       - M. R. James
@@ -45879,6 +46539,9 @@ titles:
       - Robert Ervin Howard
       - Rosa M. Gilbert
       - Elizabeth Gaskell
+    translators:
+      - Jadwiga Olędzka
+      - Zofia Zinserling
     year: 1983
     language: Polish
     sources:
@@ -45919,6 +46582,7 @@ titles:
     verified: true
     series: (100 lat polskiego ruch ̱robotniczego)
   - title: Niemcy
+    original_title: Niemcy
     authors:
       - Leon Kruczkowski
       - Jadwiga Kaczyńska
@@ -45976,7 +46640,8 @@ titles:
         url: https://search.worldcat.org/title/750774368
     verified: true
   - title: Opowiadania z Dzikiego Zachodu
-    authors:
+    authors: []
+    translators:
       - Irena Doleżal-Nowicka
     year: 1983
     language: Polish
@@ -46032,8 +46697,9 @@ titles:
   - title: Ostatni Mohikanin
     authors:
       - James Fenimore Cooper
-      - Tadeusz Evert
       - Przemysław Woźniak
+    translators:
+      - Tadeusz Evert
     year: 1983
     language: Polish
     sources:
@@ -46123,6 +46789,7 @@ titles:
         url: https://search.worldcat.org/title/11000867
     verified: true
     subtitle: Z papierów po Michale Kaniowskim
+    original_title: Płomienie
     series: Prometeusz
   - title: Po tamtej stronie chmur
     authors:
@@ -46139,6 +46806,8 @@ titles:
     authors:
       - Jan Z. Brudnicki
       - Jan Witan
+    editors:
+      - Jan Zdzisław Brudnicki
     year: 1983
     edition: Wyd. 1
     language: Polish
@@ -46185,8 +46854,9 @@ titles:
   - title: Pozostać sobą
     authors:
       - Valerij Nikolaevič Brumel'
-      - Michał B. Jagiełło
       - Aleksandr Alekseevič Lapšin
+    translators:
+      - Michał B. Jagiełło
     year: 1983
     language: Polish
     sources:
@@ -46249,6 +46919,8 @@ titles:
   - title: Przygody Hucka
     authors:
       - Mark Twain
+    translators:
+      - Krystyna Tarnowska
     year: 1983
     language: Polish
     sources:
@@ -46262,6 +46934,7 @@ titles:
   - title: Retrogenetyka i inne opowiadania
     authors:
       - Kir Bułyczow
+    translators:
       - Tadeusz Gosk
     year: 1983
     language: Polish
@@ -46325,8 +46998,10 @@ titles:
         url: https://search.worldcat.org/title/297706135
     verified: true
   - title: Siostrzyczka
+    original_title: The little sister
     authors:
       - Raymond Chandler
+    translators:
       - Piotr Kamiński
     year: 1983
     language: Polish
@@ -46435,8 +47110,9 @@ titles:
     subtitle: Opowiadania
     authors:
       - Nikołaj Gogol
-      - Julian Tuwim
       - Alicja Wołodźko-Butkiewicz
+    translators:
+      - Julian Tuwim
       - Jerzy Wyszomirski
     year: 1983
     language: Polish
@@ -46504,6 +47180,7 @@ titles:
   - title: Trójkąt Bermudzki - zagadka rozwiązana
     authors:
       - Lawrence David Kusche
+    translators:
       - Robert Marcin Sadowski
     year: 1983
     language: Polish
@@ -46514,8 +47191,10 @@ titles:
         url: https://search.worldcat.org/title/830221326
     verified: true
   - title: Trzej muszkieterowie
+    original_title: Trois mousquetaires
     authors:
       - Alexandre Dumas
+    translators:
       - Joanna Guze
     year: 1983
     language: Polish
@@ -46528,8 +47207,9 @@ titles:
   - title: Trzy siostry
     authors:
       - Anton Czechow
-      - Natalia Gałczyńska
       - Alicja Wołodźko-Butkiewicz
+    translators:
+      - Natalia Gałczyńska
     year: 1983
     language: Polish
     sources:
@@ -46550,6 +47230,7 @@ titles:
         url: https://search.worldcat.org/title/69371464
     verified: true
   - title: Umarli rzucają cień
+    original_title: Umarli rzucają cień
     authors:
       - Andrzej Wydrzyński
     year: 1983
@@ -46629,6 +47310,7 @@ titles:
   - title: Zewsząd bardzo daleko
     authors:
       - Ursula K. Le Guin
+    translators:
       - Monika Dutkowska
     year: 1983
     language: Polish
@@ -46641,6 +47323,7 @@ titles:
   - title: Żołnierz i chłopiec
     authors:
       - Anatolij Ignat'evič Pristavkin
+    translators:
       - Urszula Gutowska
     year: 1983
     language: Polish
@@ -46653,8 +47336,9 @@ titles:
   - title: Żuk w mrowisku
     authors:
       - Arkadij Strugacki
-      - Irena Lewandowska
       - Boris Strugacki
+    translators:
+      - Irena Lewandowska
     year: 1983
     language: Polish
     sources:
@@ -46699,9 +47383,10 @@ titles:
   - title: 24 współczesne opowiadania południowoafrykańskie
     authors:
       - Dennis Brutus
-      - Ewa Grabowska
       - Ernestyna Skurjat
       - Maryla Topczewska-Metelska
+    translators:
+      - Ewa Grabowska
     year: 1984
     language: Polish
     sources:
@@ -46773,6 +47458,7 @@ titles:
     subtitle: Bellew Zawierucha
     authors:
       - Jack London
+    translators:
       - Kazimierz Piotrowski
       - Anna Przedpełska-Trzeciakowska
     year: 1984
@@ -46853,6 +47539,7 @@ titles:
   - title: Desant na Merkurego
     authors:
       - Dmitrij Aleksandrovič Bilenkin
+    translators:
       - Sławomir Kędzierski
     year: 1984
     language: Polish
@@ -46896,6 +47583,8 @@ titles:
   - title: Dwie
     authors:
       - Jerzy Ignaciuk
+    editors:
+      - Anna Kowalik
     year: 1984
     edition: Wyd. 1
     language: Polish
@@ -46968,6 +47657,7 @@ titles:
   - title: Guslar - Neapol
     authors:
       - Kir Bułyczow
+    translators:
       - Tadeusz Gosk
       - Anita Tyszkowska
     year: 1984
@@ -47009,6 +47699,7 @@ titles:
         url: https://search.worldcat.org/title/830180218
     verified: true
   - title: Król życia
+    original_title: Król życia
     authors:
       - Jan Parandowski
     year: 1984
@@ -47024,6 +47715,7 @@ titles:
   - title: Lamparty północy
     authors:
       - James McClure
+    translators:
       - Wacław Niepokólczycki
     year: 1984
     language: Polish
@@ -47036,6 +47728,7 @@ titles:
   - title: Listy z laboratorium
     authors:
       - Kir Bułyczow
+    translators:
       - Tadeusz Gosk
     year: 1984
     language: Polish
@@ -47057,8 +47750,10 @@ titles:
         url: https://search.worldcat.org/title/69476385
     verified: true
   - title: Martin Eden
+    original_title: Martin Eden
     authors:
       - Jack London
+    translators:
       - Zygmunt Glinka
     year: 1984
     language: Polish
@@ -47092,8 +47787,9 @@ titles:
     subtitle: Rękopis odnaleziony w zagadkowych okolicznościach
     authors:
       - Arkadij Strugacki
-      - Irena Lewandowska
       - Boris Strugacki
+    translators:
+      - Irena Lewandowska
     year: 1984
     language: Polish
     sources:
@@ -47139,6 +47835,7 @@ titles:
   - title: Muzungu
     authors:
       - Daniel Topolski
+    translators:
       - Barbara Budzianowska-Budrecka
     year: 1984
     language: Polish
@@ -47162,6 +47859,7 @@ titles:
     authors:
       - Erskine Caldwell
       - Kazimierz Piotrowski
+    translators:
       - Juliusz Kydryński
     year: 1984
     language: Polish
@@ -47267,6 +47965,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BB16813596
     verified: true
     subtitle: Ikar; Staroświecki sklep; Wiewiórka
+    original_title: Panny z Wilka
   - title: Paradyzja
     authors:
       - Janusz A. Zajdel
@@ -47319,6 +48018,8 @@ titles:
     subtitle: Maria Konopnicka
     authors:
       - Maria Konopnicka
+    editors:
+      - Halina Tchórzewska-Kabata
     year: 1984
     edition: Wyd. 1
     language: Polish
@@ -47343,6 +48044,8 @@ titles:
   - title: Podróż do Jarosławia
     authors:
       - Rolf Schneider
+    translators:
+      - Leszek Rejniewicz
     year: 1984
     language: Polish
     sources:
@@ -47354,6 +48057,7 @@ titles:
         url: https://search.worldcat.org/title/69367529
     verified: true
   - title: Pokolenie
+    original_title: Pokolenie
     authors:
       - Bohdan Czeszko
       - Wacław Sadkowski
@@ -47382,6 +48086,7 @@ titles:
   - title: Porwany za młodu
     authors:
       - Robert Louis Stevenson
+    translators:
       - Jan Meysztowicz
     year: 1984
     language: Polish
@@ -47414,6 +48119,7 @@ titles:
   - title: Przerwana wspinaczka
     authors:
       - Anton Ingolič
+    translators:
       - Halina Kalita
     year: 1984
     language: Polish
@@ -47426,10 +48132,11 @@ titles:
   - title: Przygody Sherlocka Holmesa
     authors:
       - Arthur Conan Doyle
+      - Marek Wydmuch
+    translators:
       - Irena Doleżal-Nowicka
       - Tadeusz Evert
       - Jan Meysztowicz
-      - Marek Wydmuch
     year: 1984
     language: Polish
     sources:
@@ -47439,8 +48146,11 @@ titles:
         url: https://search.worldcat.org/title/830239848
     verified: true
   - title: Przygody Tomka Sawyera
+    original_title: Adventures of Tom Sawyer
     authors:
       - Mark Twain
+    translators:
+      - Kazimierz Piotrowski
     year: 1984
     language: Polish
     sources:
@@ -47464,6 +48174,7 @@ titles:
         url: https://openlibrary.org/books/OL24712410M
     verified: true
   - title: Ryby śpiewają w Ukajali
+    original_title: Ryby śpiewają w Ukajali
     authors:
       - Arkady Fiedler
     year: 1984
@@ -47484,6 +48195,7 @@ titles:
     authors:
       - Ludwik Kos-Rabcewicz Zubkowski
       - William Edward Greening
+    translators:
       - Józef Radzicki
     year: 1984
     language: Polish
@@ -47580,6 +48292,7 @@ titles:
   - title: Strzały z arki Noego czyli Omyłki i manowce mojego przyjaciela Wensloffa
     authors:
       - Peter Abraham
+    translators:
       - Zofia Rybicka
     year: 1984
     language: Polish
@@ -47682,6 +48395,7 @@ titles:
   - title: Tragedia w Starvel
     authors:
       - Freeman Wills Crofts
+    translators:
       - Krystyna Jurasz-Dąmbska
       - Urszula Łada-Zabłocka
     year: 1984
@@ -47695,6 +48409,7 @@ titles:
   - title: Trawa
     authors:
       - Constantin Cubleşan
+    translators:
       - Janina Cotelnic
       - Mihai Cotelnic
     year: 1984
@@ -47727,6 +48442,7 @@ titles:
   - title: Tumitak z podziemnych korytarzy
     authors:
       - Charles R. Tanner
+    translators:
       - Wiktor Bukato
     year: 1984
     language: Polish
@@ -47760,8 +48476,10 @@ titles:
         url: https://search.worldcat.org/title/830204757
     verified: true
   - title: Wesołe przygody Robin Hooda
+    original_title: Merry adventures of Robin Hood
     authors:
       - Howard Pyle
+    translators:
       - Jerzy Krzysztoń
     year: 1984
     language: Polish
@@ -47775,6 +48493,8 @@ titles:
     authors:
       - Edward Szymański
       - Ewa Mironkin
+    editors:
+      - Łukasz Szymański
     year: 1984
     edition: Wyd. 1
     language: Polish
@@ -47856,8 +48576,10 @@ titles:
         url: https://search.worldcat.org/title/69616480
     verified: true
   - title: Zielone wzgórza Afryki
+    original_title: Green hills of Africa
     authors:
       - Ernest Hemingway
+    translators:
       - Bronisław Zieliński
     year: 1984
     language: Polish
@@ -47868,9 +48590,11 @@ titles:
         url: https://search.worldcat.org/title/750845553
     verified: true
   - title: Antygona
+    original_title: Antigonī
     authors:
       - Sofokles
       - Zygmunt Kubiak
+    translators:
       - Kazimierz Morawski
     year: 1985
     language: Polish
@@ -47900,8 +48624,10 @@ titles:
         url: https://search.worldcat.org/title/830183823
     verified: true
   - title: Athabaska
+    original_title: Athabasca
     authors:
       - Alistair MacLean
+    translators:
       - Andrzej Grabowski
       - Małgorzata Grabowska
     year: 1985
@@ -48034,6 +48760,7 @@ titles:
   - title: Cudza pamięć
     authors:
       - Kir Bułyczow
+    translators:
       - Tadeusz Gosk
       - Anita Tyszkowska
     year: 1985
@@ -48047,6 +48774,7 @@ titles:
   - title: Czarny Olbrzym
     authors:
       - Dmitrij Aleksandrovič Bilenkin
+    translators:
       - Tadeusz Gosk
     year: 1985
     language: Polish
@@ -48057,8 +48785,10 @@ titles:
         url: https://search.worldcat.org/title/749282471
     verified: true
   - title: Czerwony korsarz
+    original_title: Red rover
     authors:
       - James Fenimore Cooper
+    translators:
       - Kazimierz Piotrowski
     year: 1985
     language: Polish
@@ -48096,6 +48826,7 @@ titles:
   - title: De profundis
     authors:
       - Henry Kuttner
+    translators:
       - Teresa Lechowska
       - Zofia Zinserling
     year: 1985
@@ -48107,8 +48838,10 @@ titles:
         url: https://search.worldcat.org/title/749319139
     verified: true
   - title: Diuna
+    original_title: Dune
     authors:
       - Frank Herbert
+    translators:
       - Marek Marszał
     year: 1985
     language: Polish
@@ -48121,6 +48854,7 @@ titles:
   - title: Doktor Jekyll i pan Hyde
     authors:
       - Robert Louis Stevenson
+    translators:
       - Tadeusz Jan Dehnel
     year: 1985
     language: Polish
@@ -48133,6 +48867,7 @@ titles:
   - title: Domek z kart
     authors:
       - Cyril M. Kornbluth
+    translators:
       - Sławomir Kędzierski
     year: 1985
     language: Polish
@@ -48206,6 +48941,7 @@ titles:
     subtitle: W poszukiwaniu naszych początków
     authors:
       - Thor Heyerdahl
+    translators:
       - Bronisław Zieliński
     year: 1985
     language: Polish
@@ -48218,6 +48954,7 @@ titles:
   - title: Fajtłapa
     authors:
       - Dmitrij Mihajlovič Holendro
+    translators:
       - Aleksander Bogdański
     year: 1985
     language: Polish
@@ -48320,6 +49057,7 @@ titles:
     authors:
       - J. R. R. Tolkien
       - Maciej Buszewicz
+    translators:
       - Maria Skibniewska
     year: 1985
     language: Polish
@@ -48452,6 +49190,7 @@ titles:
   - title: Klucz do nieba
     authors:
       - Theodore Sturgeon
+    translators:
       - Wiktor Bukato
     year: 1985
     language: Polish
@@ -48464,6 +49203,7 @@ titles:
   - title: Księżycowa dolina
     authors:
       - Jack London
+    translators:
       - Krystyna Tarnowska
     year: 1985
     language: Polish
@@ -48476,6 +49216,7 @@ titles:
   - title: Kto zastąpi człowieka?
     authors:
       - Brian Wilson Aldiss
+    translators:
       - Lech Jęczmyk
     year: 1985
     language: Polish
@@ -48488,8 +49229,9 @@ titles:
   - title: Łapanie życia
     authors:
       - György Moldova
-      - Jacek Maziarski
       - Tadeusz Olszański
+    translators:
+      - Jacek Maziarski
     year: 1985
     language: Polish
     sources:
@@ -48518,8 +49260,10 @@ titles:
     verified: true
   - title: Lord Peter ogląda zwłoki
     subtitle: Opowiadania
+    original_title: Lord Peter views the body
     authors:
       - Dorothy L. Sayers
+    translators:
       - Robert Stiller
     year: 1985
     language: Polish
@@ -48532,6 +49276,7 @@ titles:
   - title: Lotofagi
     authors:
       - Stanley G. Weinbaum
+    translators:
       - Wiktor Bukato
       - Zbigniew Jonszta
     year: 1985
@@ -48599,6 +49344,7 @@ titles:
   - title: Na północ od Moskwy
     authors:
       - Aleksandr Aleksandrovič Kuznecov
+    translators:
       - Adam Pomorski
     year: 1985
     language: Polish
@@ -48659,6 +49405,7 @@ titles:
   - title: Nie drażnić czarownika
     authors:
       - Kir Bułyczow
+    translators:
       - Tadeusz Gosk
       - Anita Tyszkowska
     year: 1985
@@ -48703,6 +49450,7 @@ titles:
   - title: Nowele
     authors:
       - Jack London
+    translators:
       - Tadeusz Jan Dehnel
     year: 1985
     language: Polish
@@ -48734,6 +49482,7 @@ titles:
   - title: Odyseja marsjańska
     authors:
       - Stanley G. Weinbaum
+    translators:
       - Wiktor Bukato
     year: 1985
     language: Polish
@@ -48763,8 +49512,10 @@ titles:
     verified: true
   - title: Pierwszy nauczyciel
     subtitle: Żurawie przyleciały wcześnie
+    original_title: Pervyj učitel'
     authors:
       - Čingiz Ajtmatov
+    translators:
       - Marta Okołów-Podhorska
       - Krystyna Latoniowa
     year: 1985
@@ -48925,6 +49676,7 @@ titles:
   - title: Powrót donikąd
     authors:
       - Eddy C. Bertin
+    translators:
       - Ryszard Turczyn
     year: 1985
     language: Polish
@@ -48972,6 +49724,7 @@ titles:
   - title: Przygody Hucka
     authors:
       - Mark Twain
+    translators:
       - Krystyna Tarnowska
     year: 1985
     language: Polish
@@ -49002,6 +49755,8 @@ titles:
   - title: Róbmy swoje
     authors:
       - Wojciech Młynarski
+    editors:
+      - Zofia Skorupińska
     year: 1985
     edition: Wyd. 1. --
     series: Biblioteka Stańczyka
@@ -49104,6 +49859,7 @@ titles:
   - title: Sezon ogórkowy
     authors:
       - Cyril M. Kornbluth
+    translators:
       - Wiktor Bukato
     year: 1985
     language: Polish
@@ -49132,6 +49888,7 @@ titles:
         url: https://search.worldcat.org/title/830183163
     verified: true
   - title: Śluby panieńskie
+    original_title: Śluby panieńskie
     authors:
       - Aleksander Fredro
       - Stefan Treugutt
@@ -49164,6 +49921,8 @@ titles:
   - title: Spojrzenie
     authors:
       - Krzysztof Kamil Baczyński
+    editors:
+      - Aniela Kmita-Piorunowa
     year: 1985
     edition: Wyd. 1
     language: Polish
@@ -49244,6 +50003,7 @@ titles:
   - title: Świat należy do mnie
     authors:
       - Henry Kuttner
+    translators:
       - Wiktor Bukato
     year: 1985
     language: Polish
@@ -49256,6 +50016,7 @@ titles:
   - title: Światło w lesie
     authors:
       - Conrad Richter
+    translators:
       - Krystyna Tarnowska
     year: 1985
     language: Polish
@@ -49268,6 +50029,7 @@ titles:
   - title: Szerszeń
     authors:
       - Ethel Lilian Voynich
+    translators:
       - Maria Feldmanowa
     year: 1985
     language: Polish
@@ -49309,6 +50071,7 @@ titles:
   - title: Tajemnica Hog's Back
     authors:
       - Freeman Wills Crofts
+    translators:
       - Jadwiga Olędzka
     year: 1985
     language: Polish
@@ -49321,6 +50084,7 @@ titles:
   - title: Tumitak na powierzchni Ziemi
     authors:
       - Charles R. Tanner
+    translators:
       - Wiktor Bukato
     year: 1985
     language: Polish
@@ -49551,6 +50315,7 @@ titles:
     verified: true
   - title: Wniebowstąpienie
     subtitle: Ucieczka z Jasnej Polany; Regina, Regina Borkowska
+    original_title: Wniebowstąpienie
     authors:
       - Adolf Rudnicki
     year: 1985
@@ -49564,6 +50329,7 @@ titles:
   - title: Wróć po swego Stora
     authors:
       - Ol'ga Nikolaevna Larionova
+    translators:
       - Tadeusz Gosk
       - Anita Tyszkowska
     year: 1985
@@ -49701,8 +50467,10 @@ titles:
     verified: true
   - title: Zostań lwie
     subtitle: Za wszystko na świecie śmierć
+    original_title: Pust' on ostanets'â s nami
     authors:
       - Maksud Ibragimbekov
+    translators:
       - Wiesława Karaczewska
     year: 1985
     language: Polish
@@ -49781,6 +50549,7 @@ titles:
     authors:
       - Tony Beamish
       - Julian Huxley
+    translators:
       - Bronisław Zieliński
     year: 1986
     language: Polish
@@ -49881,6 +50650,7 @@ titles:
   - title: Co u pana słychać?
     authors:
       - Krzysztof Kąkolewski
+    translators:
       - Artur Woźnica
       - Elżbieta Kasper
     year: 1986
@@ -49942,6 +50712,7 @@ titles:
   - title: Człowiek Plus
     authors:
       - Frederik Pohl
+    translators:
       - Marek Marszał
     year: 1986
     language: Polish
@@ -49955,6 +50726,7 @@ titles:
     subtitle: Jedenaście sensacyjnych opowiadań z zaskakującą pointą
     authors:
       - Frederick Forsyth
+    translators:
       - Stefan Wilkosz
     year: 1986
     language: Polish
@@ -49996,6 +50768,7 @@ titles:
   - title: Dolina Grozy
     authors:
       - Robert Ervin Howard
+    translators:
       - Piotr W. Cholewa
     year: 1986
     language: Polish
@@ -50120,6 +50893,7 @@ titles:
   - title: Heroje czyli Klechdy greckie o bohaterach
     authors:
       - Charles Kingsley
+    translators:
       - Wacław Berent
     year: 1986
     language: Polish
@@ -50219,6 +50993,7 @@ titles:
   - title: Kanion
     authors:
       - Jack Schaefer
+    translators:
       - Krystyna Tarnowska
     year: 1986
     language: Polish
@@ -50231,6 +51006,7 @@ titles:
   - title: Katriona
     authors:
       - Robert Louis Stevenson
+    translators:
       - Jan Meysztowicz
     year: 1986
     language: Polish
@@ -50243,6 +51019,7 @@ titles:
   - title: Klucz do Zapory
     authors:
       - Theodore Sturgeon
+    translators:
       - Teresa Lechowska
     year: 1986
     language: Polish
@@ -50272,6 +51049,7 @@ titles:
   - title: Kraksa
     authors:
       - Anna Dániel
+    translators:
       - Krystyna Pisarska
     year: 1986
     language: Polish
@@ -50295,9 +51073,10 @@ titles:
   - title: Królewicz i żebrak
     authors:
       - Mark Twain
-      - Tadeusz Jan Dehnel
       - Ewa Kieruzalska-Gewartowska
       - Antoni Uniechowski
+    translators:
+      - Tadeusz Jan Dehnel
     year: 1986
     language: Polish
     sources:
@@ -50309,6 +51088,7 @@ titles:
   - title: Kroniki marsjańskie
     authors:
       - Ray Bradbury
+    translators:
       - Adam Kaska
     year: 1986
     language: Polish
@@ -50369,6 +51149,7 @@ titles:
   - title: Lampa w mroku
     authors:
       - Frances Murray
+    translators:
       - Ryszarda Grzybowska
     year: 1986
     language: Polish
@@ -50380,6 +51161,7 @@ titles:
     verified: true
   - title: Latarnik
     subtitle: Bartek Zwycięzca
+    original_title: Latarnik
     authors:
       - Henryk Sienkiewicz
       - Tomasz Jodełka-Burzecki
@@ -50508,8 +51290,10 @@ titles:
         url: https://search.worldcat.org/title/830217196
     verified: true
   - title: Nazywam się Archer
+    original_title: Name is Archer
     authors:
       - Ross MacDonald
+    translators:
       - Kazimierz Piotrowski
     year: 1986
     language: Polish
@@ -50535,6 +51319,7 @@ titles:
   - title: Nie taki straszny wilk
     authors:
       - Farley Mowat
+    translators:
       - Robert Stiller
     year: 1986
     language: Polish
@@ -50547,6 +51332,7 @@ titles:
   - title: Nieprzyjemność w klubie Bellona
     authors:
       - Dorothy L. Sayers
+    translators:
       - Zofia Zinserling
     year: 1986
     language: Polish
@@ -50719,8 +51505,9 @@ titles:
   - title: Płomień Assurbanipala
     authors:
       - Robert Ervin Howard
-      - Piotr W. Cholewa
       - H. P. Lovecraft
+    translators:
+      - Piotr W. Cholewa
     year: 1986
     language: Polish
     sources:
@@ -50837,8 +51624,9 @@ titles:
     authors:
       - José Ignacio López Soria
       - Stefan Bratkowski
-      - Teresa Marzyńska
       - Bolesław Orłowski
+    translators:
+      - Teresa Marzyńska
     year: 1986
     language: Polish
     sources:
@@ -50885,6 +51673,7 @@ titles:
   - title: Potrzebne mi twoje ciało
     authors:
       - Zvonimir Furtinger
+    translators:
       - Elżbieta Kwaśniewska
     year: 1986
     language: Polish
@@ -50908,6 +51697,7 @@ titles:
   - title: Powrót Uruzmaga
     authors:
       - Nafi Džusojty
+    translators:
       - Tadeusz Butkiewicz
     year: 1986
     language: Polish
@@ -50964,9 +51754,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1898226865
     verified: true
   - title: Rok ogrodnika
+    original_title: Zahradnikův rok
     authors:
       - Karel Čapek
       - Josef Čapek
+    translators:
       - Halina Janaszek-Ivaničková
     year: 1986
     language: Polish
@@ -50977,6 +51769,7 @@ titles:
         url: https://search.worldcat.org/title/830216853
     verified: true
   - title: Rozdziobią nas kruki, wrony i inne opowiadania
+    original_title: Rozdziobią nas kruki, wrony
     authors:
       - Stefan Żeromski
       - Danuta Knysz-Tomaszewska
@@ -50992,6 +51785,8 @@ titles:
     subtitle: 1933 - 1941; ksia̜zka nie tylko o przeszlości
     authors:
       - Lev A. Bezymenskij
+    translators:
+      - Andrzej Szymański
     year: 1986
     language: Polish
     sources:
@@ -51011,6 +51806,7 @@ titles:
   - title: Sądny dzień w Ibali
     authors:
       - Timothy Mofolorunso Aluko
+    translators:
       - Ernestyna Skurjat
     year: 1986
     language: Polish
@@ -51058,6 +51854,7 @@ titles:
     verified: true
   - title: Siłaczka
     subtitle: Nagi bruk
+    original_title: Siłaczka
     authors:
       - Stefan Żeromski
       - Danuta Knysz-Tomaszewska
@@ -51100,6 +51897,7 @@ titles:
         url: https://search.worldcat.org/title/830217082
     verified: true
   - title: Słowo o Jakubie Szeli
+    original_title: Słowo o Jakubie Szeli
     authors:
       - Bruno Jasieński
     year: 1986
@@ -51254,8 +52052,10 @@ titles:
     verified: true
   - title: Syn Słońca
     subtitle: Jerry z Wysp
+    original_title: Son of the sun
     authors:
       - Jack London
+    translators:
       - Tadeusz Jan Dehnel
       - Bronisław Zieliński
     year: 1986
@@ -51268,8 +52068,10 @@ titles:
     verified: true
   - title: Szkarłatne żagle
     subtitle: Opowiadania fantastyczne
+    original_title: Alye parusa
     authors:
       - Aleksandr Grin
+    translators:
       - Aleksander Bogdański
     year: 1986
     language: Polish
@@ -51428,6 +52230,8 @@ titles:
   - title: Tristan i Don Juan, czyli, Odcienie miłości mężczyzny w kulturze europejskiej
     authors:
       - Kazimierz Pospiszyl
+    editors:
+      - Ewa Smulikowska-Rowińska
     year: 1986
     edition: Wyd. 1
     language: Polish
@@ -51494,6 +52298,8 @@ titles:
     subtitle: Opowieść
     authors:
       - Władysław B. Pawlak
+    editors:
+      - Maria Błaszczykowa
     year: 1986
     edition: Wyd. 1. --
     language: Polish
@@ -51598,6 +52404,7 @@ titles:
   - title: Wehikuł czasu
     authors:
       - H. G. Wells
+    translators:
       - Feliks Wermiński
     year: 1986
     language: Polish
@@ -51632,6 +52439,7 @@ titles:
   - title: Władca skalnej doliny
     authors:
       - James Oliver Curwood
+    translators:
       - Jerzy Marlicz
     year: 1986
     language: Polish
@@ -51644,6 +52452,7 @@ titles:
   - title: Wszystkie dźwięki tęczy
     authors:
       - Norman Spinrad
+    translators:
       - Krystyna Korwin-Mikke
       - Robert J. Szmidt
     year: 1986
@@ -51692,6 +52501,7 @@ titles:
     authors:
       - Robert Louis Stevenson
       - Kazimierz Hałajkiewicz
+    translators:
       - Krystyna Tarnowska
       - Andrzej Konarek
     year: 1986
@@ -51706,6 +52516,7 @@ titles:
     subtitle: Opowiadania
     authors:
       - Dorothy L. Sayers
+    translators:
       - Robert Stiller
     year: 1986
     language: Polish
@@ -51768,6 +52579,7 @@ titles:
     authors:
       - James White
       - Wiktor Bukato
+    translators:
       - Blanka Kuczborska
     year: 1986
     language: Polish
@@ -51780,6 +52592,7 @@ titles:
   - title: Zew krwi
     authors:
       - Jack London
+    translators:
       - Eleonora Romanowicz-Podoska
     year: 1986
     language: Polish
@@ -51865,6 +52678,7 @@ titles:
   - title: Argonauci Dalekiej Północy
     authors:
       - Oleg Mihajlovič Kuvaev
+    translators:
       - Eugeniusz Piotr Melech
     year: 1987
     language: Polish
@@ -51956,6 +52770,7 @@ titles:
   - title: Bogowie Bal-Sagoth
     authors:
       - Robert Ervin Howard
+    translators:
       - Piotr W. Cholewa
     year: 1987
     language: Polish
@@ -51979,6 +52794,7 @@ titles:
   - title: Chłopcy z Bogoty
     authors:
       - Jacques Meunier
+    translators:
       - Sylwia Anna Bekier
     year: 1987
     language: Polish
@@ -52000,6 +52816,7 @@ titles:
         url: https://openlibrary.org/books/OL24672586M
     verified: true
   - title: Cudzoziemka
+    original_title: Cudzoziemka
     authors:
       - Maria Kuncewiczowa
     year: 1987
@@ -52015,6 +52832,7 @@ titles:
   - title: Czarna Strzała
     authors:
       - Robert Louis Stevenson
+    translators:
       - Tadeusz Jan Dehnel
     year: 1987
     language: Polish
@@ -52027,6 +52845,7 @@ titles:
   - title: Cztery palce
     authors:
       - Robert Hans van Gulik
+    translators:
       - Ryszard Turczyn
     year: 1987
     language: Polish
@@ -52060,6 +52879,7 @@ titles:
   - title: Diabeł i Daniel Webster
     authors:
       - Stephen Vincent Benét
+    translators:
       - Hanna Olędzka
       - Anna Szuman
       - Tadeusz Wyżyński
@@ -52109,6 +52929,7 @@ titles:
   - title: Dwaj detektywi
     authors:
       - Dashiell Hammett
+    translators:
       - Krzysztof Zarzecki
     year: 1987
     language: Polish
@@ -52121,6 +52942,7 @@ titles:
   - title: Dwie martwe Chinki
     authors:
       - Dashiell Hammett
+    translators:
       - Ariadna Demkowska-Bohdziewicz
     year: 1987
     language: Polish
@@ -52147,6 +52969,7 @@ titles:
     authors:
       - William Faulkner
       - Lech Budrecki
+    translators:
       - Kalina Wojciechowska
     year: 1987
     language: Polish
@@ -52159,8 +52982,9 @@ titles:
   - title: Everest, najtrudniejsza droga
     authors:
       - Chris Bonington
-      - Wojciech Adamiecki
       - John Hunt
+    translators:
+      - Wojciech Adamiecki
     year: 1987
     language: Polish
     sources:
@@ -52172,6 +52996,7 @@ titles:
   - title: Feralny krążek
     authors:
       - Mark Twain
+    translators:
       - Krystyna Tarnowska
     year: 1987
     language: Polish
@@ -52184,6 +53009,7 @@ titles:
   - title: Fuks na torze
     authors:
       - Rumer Godden
+    translators:
       - Jadwiga Olędzka
     year: 1987
     language: Polish
@@ -52196,10 +53022,11 @@ titles:
   - title: Galaktyka
     subtitle: Radziecka fantastyka naukowa
     authors:
-      - Bolesław Baranowski
       - Kir Bułyczow
       - Tadeusz Gosk
       - Sławomir Kędzierski
+    translators:
+      - Bolesław Baranowski
     year: 1987
     language: Polish
     sources:
@@ -52215,6 +53042,7 @@ titles:
   - title: Geniusze w krótkich spodenkach
     authors:
       - Slavko Pregl
+    translators:
       - Anna Bochman
     year: 1987
     language: Polish
@@ -52310,6 +53138,7 @@ titles:
   - title: Kat poszedł na urlop
     authors:
       - Dorothy L. Sayers
+    translators:
       - Robert Stiller
     year: 1987
     language: Polish
@@ -52365,6 +53194,7 @@ titles:
     authors:
       - Poul Anderson
       - Tadeusz Łuczejko
+    translators:
       - Darosław J. Toruń
     year: 1987
     language: Polish
@@ -52377,8 +53207,9 @@ titles:
   - title: Księżyc łowcy
     authors:
       - Poul Anderson
-      - Wiktor Bukato
       - Tadeusz Łuczejko
+    translators:
+      - Wiktor Bukato
     year: 1987
     language: Polish
     sources:
@@ -52390,6 +53221,7 @@ titles:
   - title: Lep na muchy
     authors:
       - Dashiell Hammett
+    translators:
       - Maja Gottesman
     year: 1987
     language: Polish
@@ -52455,6 +53287,7 @@ titles:
   - title: Miejsce początku
     authors:
       - Ursula K. Le Guin
+    translators:
       - Monika Dutkowska
     year: 1987
     language: Polish
@@ -52465,10 +53298,12 @@ titles:
         url: https://search.worldcat.org/title/69510891
     verified: true
   - title: Mikael
+    original_title: Mikael Karvajalka
     authors:
       - Mika Waltari
-      - Zygmunt Łanowski
       - Stanisław Töpfer
+    translators:
+      - Zygmunt Łanowski
     year: 1987
     language: Polish
     sources:
@@ -52484,6 +53319,7 @@ titles:
   - title: Milion nowych dni
     authors:
       - Bob Shaw
+    translators:
       - Małgorzata Grabowska
     year: 1987
     language: Polish
@@ -52516,9 +53352,10 @@ titles:
   - title: My, dzieci z dworca ZOO
     authors:
       - Christiane F.
-      - Ryszard Turczyn
       - Horst Rieck
       - Kai Hermann
+    translators:
+      - Ryszard Turczyn
     year: 1987
     language: Polish
     sources:
@@ -52551,8 +53388,9 @@ titles:
   - title: Nie będzie rozejmu z władcami
     authors:
       - Poul Anderson
-      - Wiktor Bukato
       - Tadeusz Łuczejko
+    translators:
+      - Wiktor Bukato
     year: 1987
     language: Polish
     sources:
@@ -52649,6 +53487,7 @@ titles:
   - title: Niepokonany i inne opowiadania
     authors:
       - Ernest Hemingway
+    translators:
       - Mira Michałowska
       - Jan Zakrzewski
       - Bronisław Zieliński
@@ -52663,6 +53502,7 @@ titles:
   - title: Nietknięta ziemia
     authors:
       - Georgij Ušakov
+    translators:
       - Łukasz Szymański
     year: 1987
     language: Polish
@@ -52975,6 +53815,7 @@ titles:
   - title: Port lotniczy
     authors:
       - Arthur Hailey
+    translators:
       - Małgorzata Grabowska
       - Andrzej Grabowski
     year: 1987
@@ -53045,6 +53886,7 @@ titles:
   - title: Prywatna wojna szeregowca Jacoba
     authors:
       - Joe W. Haldeman
+    translators:
       - Jacek Manicki
       - Emma Popik
     year: 1987
@@ -53056,11 +53898,13 @@ titles:
         url: https://search.worldcat.org/title/749157010
     verified: true
   - title: Przenicowany świat
+    original_title: Obitaemyj ostrov
     authors:
       - Arkadij Strugacki
-      - Tadeusz Gosk
       - Boris Strugacki
       - Marek Oramus
+    translators:
+      - Tadeusz Gosk
     year: 1987
     language: Polish
     sources:
@@ -53072,8 +53916,9 @@ titles:
   - title: Psychodrama
     authors:
       - Poul Anderson
-      - Wiktor Bukato
       - Tadeusz Łuczejko
+    translators:
+      - Wiktor Bukato
     year: 1987
     language: Polish
     sources:
@@ -53125,6 +53970,7 @@ titles:
   - title: Rozprawa precedensowa
     authors:
       - Zvonimir Furtinger
+    translators:
       - Elżbieta Kwaśniewska
     year: 1987
     language: Polish
@@ -53153,6 +53999,7 @@ titles:
         url: https://search.worldcat.org/title/830204120
     verified: true
   - title: Samson i Dalila
+    original_title: Samson i Dalila
     authors:
       - Jan Dobraczyński
     year: 1987
@@ -53191,6 +54038,7 @@ titles:
   - title: Słuchacze
     authors:
       - James E. Gunn
+    translators:
       - Marek Marszał
     year: 1987
     language: Polish
@@ -53262,6 +54110,7 @@ titles:
   - title: Spojrzenie króla
     authors:
       - Laye Camara
+    translators:
       - Jadwiga Jarnuszkiewicz
       - Janusz Krzywicki
     year: 1987
@@ -53284,10 +54133,12 @@ titles:
         url: https://search.worldcat.org/title/749491033
     verified: true
   - title: Stary człowiek i morze
+    original_title: The old man and the sea
     authors:
       - Ernest Hemingway
-      - Bronisław Zieliński
       - Lech Budrecki
+    translators:
+      - Bronisław Zieliński
     year: 1987
     language: Polish
     sources:
@@ -53323,6 +54174,7 @@ titles:
     subtitle: Romantyczna historia przypadków, nieostrożności, bezsensownych skrajności i niemożliwości
     authors:
       - Vadim Sergeevič Šefner
+    translators:
       - Tadeusz Gosk
       - Anita Tyszkowska
     year: 1987
@@ -53334,8 +54186,10 @@ titles:
         url: https://search.worldcat.org/title/749231597
     verified: true
   - title: Szerszeń
+    original_title: Gadfly
     authors:
       - Ethel Lilian Voynich
+    translators:
       - Maria Feldmanowa
     year: 1987
     language: Polish
@@ -53396,8 +54250,9 @@ titles:
   - title: Tajemnice Paryża
     authors:
       - Eugène Sue
-      - Zofia Wasitowa
       - Maciej Żurowski
+    translators:
+      - Zofia Wasitowa
     year: 1987
     language: Polish
     sources:
@@ -53505,6 +54360,7 @@ titles:
   - title: Trzej muszkieterowie
     authors:
       - Alexandre Dumas
+    translators:
       - Joanna Guze
     year: 1987
     language: Polish
@@ -53538,6 +54394,7 @@ titles:
   - title: Umierać tylko w ostateczności
     authors:
       - Bogomil Rajnov
+    translators:
       - Hanna Karpińska
     year: 1987
     language: Polish
@@ -53637,6 +54494,7 @@ titles:
   - title: Wirgińczyk, jeździec z równin
     authors:
       - Owen Wister
+    translators:
       - Janina Sujkowska
     year: 1987
     language: Polish
@@ -53647,8 +54505,10 @@ titles:
         url: https://search.worldcat.org/title/830207563
     verified: true
   - title: Wojna światów
+    original_title: War of the worlds
     authors:
       - H. G. Wells
+    translators:
       - Henryk Józefowicz
     year: 1987
     language: Polish
@@ -53699,6 +54559,7 @@ titles:
   - title: Wronie pisklę
     authors:
       - Juri Tuulik
+    translators:
       - Ewa Rojewska-Olejarczuk
     year: 1987
     language: Polish
@@ -53740,10 +54601,11 @@ titles:
     subtitle: Wybór bajek Krasickiego, Kryłowa i La Fontiane'a
     authors:
       - Ignacy Krasicki
-      - Jadwiga Dackiewicz
       - Iwan Kryłow
       - Jean de La Fontaine
       - Janusz Stanny
+    translators:
+      - Jadwiga Dackiewicz
     year: 1987
     language: Polish
     sources:
@@ -53776,6 +54638,7 @@ titles:
   - title: Zaginiony legion
     authors:
       - Rudyard Kipling
+    translators:
       - Józef Birkenmayer
       - Marek Marszał
     year: 1987
@@ -53813,6 +54676,7 @@ titles:
   - title: Zielone wzgórza Afryki
     authors:
       - Ernest Hemingway
+    translators:
       - Bronisław Zieliński
     year: 1987
     language: Polish
@@ -53916,6 +54780,7 @@ titles:
     authors:
       - Erle Stanley Gardner
       - Marek Wydmuch
+    translators:
       - Krzysztof Zarzecki
     year: 1988
     language: Polish
@@ -53980,6 +54845,7 @@ titles:
   - title: Bezdźwięczny głos jednej klaszczacej dłoni
     authors:
       - Lies Groening
+    translators:
       - Ryszard Turczyn
     year: 1988
     language: Polish
@@ -54022,6 +54888,7 @@ titles:
   - title: Buszujący w zbożu
     authors:
       - J. D. Salinger
+    translators:
       - Maria Skibniewska
     year: 1988
     language: Polish
@@ -54050,6 +54917,8 @@ titles:
   - title: Czas marzeń
     authors:
       - Jo Pestum
+    translators:
+      - Ryszard Wojnakowski
     year: 1988
     language: Polish
     sources:
@@ -54095,8 +54964,10 @@ titles:
         url: https://search.worldcat.org/title/750012746
     verified: true
   - title: Dwojaki sens przygody Samby Diallo
+    original_title: Aventure ambiguë
     authors:
       - Cheikh Hamidou Kane
+    translators:
       - Ewa Fiszer
     year: 1988
     language: Polish
@@ -54107,10 +54978,12 @@ titles:
         url: https://search.worldcat.org/title/69624392
     verified: true
   - title: Dzieci Arbatu
+    original_title: Deti Arbata
     authors:
       - Anatoli Naumovitch Rybakov
-      - Michał B. Jagiełło
       - Zofia Gadzinianka
+    translators:
+      - Michał B. Jagiełło
     year: 1988
     language: Polish
     sources:
@@ -54122,8 +54995,10 @@ titles:
         url: https://search.worldcat.org/title/830082539
     verified: true
   - title: Dziewczyna o srebrnych oczach
+    original_title: The house in Turk Street ; The girl with the silver eyes
     authors:
       - Dashiell Hammett
+    translators:
       - Maja Gottesman
     year: 1988
     language: Polish
@@ -54249,6 +55124,8 @@ titles:
   - title: Gryźć trawe
     authors:
       - Toni Schumacher
+    translators:
+      - Ryszard Turczyn
     year: 1988
     language: Polish
     sources:
@@ -54262,6 +55139,7 @@ titles:
   - title: H. M. S. "Ulisses"
     authors:
       - Alistair MacLean
+    translators:
       - Leonid Teliga
     year: 1988
     language: English
@@ -54272,9 +55150,11 @@ titles:
         url: https://search.worldcat.org/title/830083996
     verified: true
   - title: Hobbit czyli Tam i z powrotem
+    original_title: The Hobbit, or There and back again
     authors:
       - J. R. R. Tolkien
       - Maciej Buszewicz
+    translators:
       - Maria Skibniewska
     year: 1988
     language: Polish
@@ -54285,8 +55165,10 @@ titles:
         url: https://search.worldcat.org/title/176932770
     verified: true
   - title: Hrabia Monte Christo
+    original_title: Comte de Monte-Cristo
     authors:
       - Alexandre Dumas
+    translators:
       - Julian Rogoziński
     year: 1988
     language: French
@@ -54354,6 +55236,7 @@ titles:
   - title: Kaj znów sie̜ śmieje
     authors:
       - Hartmut Gagelmann
+    translators:
       - Ryszard Turczyn
     year: 1988
     language: Polish
@@ -54377,8 +55260,10 @@ titles:
         url: https://search.worldcat.org/title/436228165
     verified: true
   - title: Kawaler de Lagardère
+    original_title: Le bossu ou Le Petit Parisien
     authors:
       - Paul Féval
+    translators:
       - Halina Popławska
     year: 1988
     language: Polish
@@ -54449,6 +55334,7 @@ titles:
   - title: Kradzież
     authors:
       - Wiktor Astafiew
+    translators:
       - Eugeniusz Piotr Melech
     year: 1988
     language: Polish
@@ -54461,8 +55347,9 @@ titles:
   - title: Królewicz i żebrak
     authors:
       - Mark Twain
-      - Tadeusz Jan Dehnel
       - Antoni Uniechowski
+    translators:
+      - Tadeusz Jan Dehnel
     year: 1988
     language: Polish
     sources:
@@ -54542,6 +55429,7 @@ titles:
   - title: Ludzie Czarnego Kręgu
     authors:
       - Robert Ervin Howard
+    translators:
       - Zbigniew A. Królicki
     year: 1988
     language: Polish
@@ -54552,8 +55440,10 @@ titles:
         url: https://search.worldcat.org/title/749320217
     verified: true
   - title: Miłość życia
+    original_title: Love of life
     authors:
       - Jack London
+    translators:
       - Zygmunt Glinka
       - Kazimierz Piotrowski
     year: 1988
@@ -54579,6 +55469,7 @@ titles:
   - title: Nad rzekami Babilonu
     authors:
       - Stephen Vincent Benét
+    translators:
       - Marek S. Nowowiejski
     year: 1988
     language: Polish
@@ -54591,6 +55482,7 @@ titles:
   - title: Napad z bronią w ręku
     authors:
       - Rolf Boldrewood
+    translators:
       - Wacław Niepokólczycki
     year: 1988
     language: Polish
@@ -54603,6 +55495,7 @@ titles:
   - title: Narkotyki i człowiek
     authors:
       - Stevan P. Petrovič
+    translators:
       - Małgorzata Fibur
     year: 1988
     language: Polish
@@ -54686,6 +55579,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/006704930
     verified: true
   - title: Nieznany książę Poniatowski
+    original_title: Nieznany książę Poniatowski
     authors:
       - Marian Brandys
     year: 1988
@@ -54823,6 +55717,7 @@ titles:
     subtitle: Idiotyczna sprawa
     authors:
       - Dashiell Hammett
+    translators:
       - Wacław Niepokólczycki
       - Krzysztof Zarzecki
     year: 1988
@@ -54836,6 +55731,7 @@ titles:
   - title: Ostatni Mohikanin
     authors:
       - James Fenimore Cooper
+    translators:
       - Tadeusz Evert
     year: 1988
     language: Polish
@@ -54846,8 +55742,12 @@ titles:
         url: https://search.worldcat.org/title/750782198
     verified: true
   - title: Papierowi ludzie
+    original_title: The Paper Man
     authors:
       - William Golding
+    translators:
+      - Małgorzata Golewska
+      - Leszek Stafiej
     year: 1988
     edition: Wyd. 1
     language: Polish
@@ -54869,8 +55769,10 @@ titles:
         url: https://search.worldcat.org/title/830084118
     verified: true
   - title: Papierowy człowiek
+    original_title: Thin man
     authors:
       - Dashiell Hammett
+    translators:
       - Krzysztof Zarzecki
     year: 1988
     language: Polish
@@ -54883,8 +55785,9 @@ titles:
   - title: Pielgrzymka na Ziemię
     authors:
       - Robert Sheckley
-      - Danuta Górska
       - Lech Jęczmyk
+    translators:
+      - Danuta Górska
     year: 1988
     language: Polish
     sources:
@@ -54965,6 +55868,7 @@ titles:
   - title: Pożegnanie z Afryką
     authors:
       - Karen Blixen
+    translators:
       - Józef Giebułtowicz
     year: 1988
     language: Polish
@@ -54991,6 +55895,7 @@ titles:
   - title: Przemiany
     authors:
       - Liv Ullmann
+    translators:
       - Agnieszka Kreczmar
     year: 1988
     language: Polish
@@ -55003,6 +55908,7 @@ titles:
   - title: Przygody Hucka
     authors:
       - Mark Twain
+    translators:
       - Krystyna Tarnowska
     year: 1988
     language: Polish
@@ -55013,8 +55919,10 @@ titles:
         url: https://search.worldcat.org/title/233518446
     verified: true
   - title: Przygody Tomka Sawyera
+    original_title: Adventures of Tom Sawyer
     authors:
       - Mark Twain
+    translators:
       - Kazimierz Piotrowski
     year: 1988
     language: Polish
@@ -55060,8 +55968,11 @@ titles:
     verified: true
   - title: Sędzia i jego ćpun
     subtitle: Przełożył Marek Wydmuch
+    original_title: Der richter und sein fixer. -- Polish translation of a German mystery novel set in Thailand
     authors:
       - Detlef Wolff
+    translators:
+      - Marek Wydmuch
     year: 1988
     language: Polish
     sources:
@@ -55095,6 +56006,8 @@ titles:
   - title: Słowo i ciało
     authors:
       - Julian Tuwim
+    editors:
+      - Tadeusz Januszewski
     year: 1988
     edition: Wyd. 1
     language: Polish
@@ -55139,6 +56052,7 @@ titles:
     authors:
       - Dashiell Hammett
       - Krzysztof Zarzecki
+    translators:
       - Wacław Niepokólczycki
     year: 1988
     language: Polish
@@ -55165,6 +56079,8 @@ titles:
   - title: St. Ives, czyli przygody francuskiego jen̕ca w Anglii
     authors:
       - Robert Louis Stevenson
+    translators:
+      - Tadeusz Jan Dehnel
     year: 1988
     edition: Wyd. 2
     language: Polish
@@ -55206,6 +56122,7 @@ titles:
   - title: Szczęśliwa Arabia
     authors:
       - Claudie Fayein
+    translators:
       - Julia Matuszewska
     year: 1988
     language: Polish
@@ -55267,6 +56184,8 @@ titles:
   - title: Tańczący koliber
     authors:
       - Maria Pawlikowska-Jasnorzewska
+    editors:
+      - Maria Józefacka
     year: 1988
     edition: Wyd. 1
     language: Polish
@@ -55353,8 +56272,10 @@ titles:
         url: https://openlibrary.org/books/OL22061178M
     verified: true
   - title: Wesołe przygody Robin Hooda
+    original_title: Merry adventures of Robin Hood
     authors:
       - Howard Pyle
+    translators:
       - Jerzy Krzysztoń
     year: 1988
     language: Polish
@@ -55462,8 +56383,9 @@ titles:
   - title: Złota Podkowa
     authors:
       - Dashiell Hammett
-      - Wacław Niepokólczycki
       - Krzysztof Zarzecki
+    translators:
+      - Wacław Niepokólczycki
     year: 1988
     language: Polish
     sources:
@@ -55475,8 +56397,9 @@ titles:
   - title: Żuk w mrowisku
     authors:
       - Arkadij Strugacki
-      - Irena Lewandowska
       - Boris Strugacki
+    translators:
+      - Irena Lewandowska
     year: 1988
     language: Polish
     sources:
@@ -55551,6 +56474,7 @@ titles:
   - title: Bar Świat
     authors:
       - Bohumil Hrabal
+    translators:
       - Cecylia Dmochowska
     year: 1989
     language: Polish
@@ -55629,8 +56553,9 @@ titles:
   - title: Czarny anioł
     authors:
       - Mika Waltari
-      - Zygmunt Łanowski
       - Zygmunt Zaradkiewicz
+    translators:
+      - Zygmunt Łanowski
     year: 1989
     language: Polish
     sources:
@@ -55701,6 +56626,7 @@ titles:
   - title: Długa podróż "Ikara"
     authors:
       - Lûben Dilov
+    translators:
       - Krystyna Migdalska
     year: 1989
     language: Polish
@@ -55724,6 +56650,7 @@ titles:
   - title: Działa Nawarony
     authors:
       - Alistair MacLean
+    translators:
       - Adam Kaska
     year: 1989
     language: Polish
@@ -55779,6 +56706,7 @@ titles:
     subtitle: Karabiny Avalonu
     authors:
       - Roger Zelazny
+    translators:
       - Piotr W. Cholewa
       - Blanka Kuczborska
     year: 1989
@@ -55810,8 +56738,9 @@ titles:
   - title: Fale tłumią wiatr
     authors:
       - Arkadij Strugacki
-      - Irena Lewandowska
       - Boris Strugacki
+    translators:
+      - Irena Lewandowska
     year: 1989
     language: Polish
     sources:
@@ -55823,6 +56752,7 @@ titles:
   - title: Gdzie byłeś Adamie?
     authors:
       - Heinrich Böll
+    translators:
       - Wanda Kragen
     year: 1989
     language: Polish
@@ -55837,6 +56767,7 @@ titles:
   - title: Góra Killdeer
     authors:
       - Dee Alexander Brown
+    translators:
       - Ewa Krasnowolska
     year: 1989
     language: Polish
@@ -55849,6 +56780,10 @@ titles:
   - title: Gwiazda
     authors:
       - Arthur Charles Clarke
+    editors:
+      - Wiktor Bukato
+    translators:
+      - Marek Cegieła
     year: 1989
     language: Polish
     isbn: '8320711746'
@@ -55936,8 +56871,10 @@ titles:
     verified: true
   - title: Jak sokół wodę z kamienia
     subtitle: Jak sokil vody na kameni
+    original_title: Âk sokìl vody na kameni
     authors:
       - Petro Murianka
+    translators:
       - Barbara Dohnalik
     year: 1989
     language: Polish
@@ -55988,8 +56925,12 @@ titles:
         url: https://search.worldcat.org/title/830082100
     verified: true
   - title: Jeden Dzien Iwana Denisowicza
+    original_title: Odin den' Ivana Denisoviča
     authors:
       - Aleksander Solzenicyn
+    translators:
+      - Irena Lewandowska
+      - Witold Dąbrowski
     year: 1989
     language: Polish
     pages: 109
@@ -56021,6 +56962,7 @@ titles:
   - title: Krążenie krwi ...
     authors:
       - Brian Wilson Aldiss
+    translators:
       - Robert Marcin Sadowski
     year: 1989
     language: Polish
@@ -56127,6 +57069,7 @@ titles:
   - title: Love story czyli O miłości
     authors:
       - Erich Segal
+    translators:
       - Anna Przedpełska-Trzeciakowska
     year: 1989
     language: Polish
@@ -56161,6 +57104,7 @@ titles:
   - title: Mój syn mordercą?
     authors:
       - Patrick Quentin
+    translators:
       - Irena Szymańska
     year: 1989
     language: Polish
@@ -56281,6 +57225,7 @@ titles:
   - title: Ocean Lodowaty
     authors:
       - Per Olof Sundman
+    translators:
       - Halina Thylwe
     year: 1989
     language: Polish
@@ -56498,9 +57443,11 @@ titles:
         url: https://search.worldcat.org/title/830079411
     verified: true
   - title: Psie serce
+    original_title: Sobačʹe serdce
     authors:
       - Michaił Bułhakow
       - Paweł Malko
+    translators:
       - Irena Lewandowska
     year: 1989
     language: Polish
@@ -56550,6 +57497,7 @@ titles:
   - title: Róże pani Cherington
     authors:
       - Craig Rice
+    translators:
       - Maria Skibniewska
     year: 1989
     language: Polish
@@ -56563,6 +57511,7 @@ titles:
     subtitle: Książka nie tylko o przeszłości
     authors:
       - Lev Aleksandrovič Bezymenskij
+    translators:
       - Andrzej Szymański
     year: 1989
     language: Polish
@@ -56599,6 +57548,7 @@ titles:
     authors:
       - J. R. R. Tolkien
       - Pauline Baynes
+    translators:
       - Maria Skibniewska
     year: 1989
     language: Polish
@@ -56706,8 +57656,10 @@ titles:
         url: https://search.worldcat.org/title/751296143
     verified: true
   - title: Sucha biała pora
+    original_title: Dry white season
     authors:
       - André P. Brink
+    translators:
       - Tomasz Wyżyński
     year: 1989
     language: Polish
@@ -56720,6 +57672,7 @@ titles:
   - title: Świat się rozpada
     authors:
       - Chinua Achebe
+    translators:
       - Małgorzata Żbikowska
     year: 1989
     language: Polish
@@ -56767,6 +57720,7 @@ titles:
   - title: Tylko dla orłów
     authors:
       - Alistair MacLean
+    translators:
       - Małgorzata Grabowska
       - Andrzej Grabowski
     year: 1989
@@ -56846,8 +57800,10 @@ titles:
     verified: true
   - title: Wiejski tragik
     subtitle: Powrót do domu
+    original_title: Külatraagik
     authors:
       - Juri Tuulik
+    translators:
       - Monika Dutkowska
     year: 1989
     language: Polish
@@ -56860,6 +57816,7 @@ titles:
   - title: Wilk morski
     authors:
       - Jack London
+    translators:
       - Jerzy Bohdan Rychliński
     year: 1989
     language: Polish
@@ -56870,8 +57827,10 @@ titles:
         url: https://search.worldcat.org/title/830079055
     verified: true
   - title: Wiosna Helikonii
+    original_title: Helliconia spring
     authors:
       - Brian Wilson Aldiss
+    translators:
       - Marek Marszał
     year: 1989
     language: Polish
@@ -56884,6 +57843,7 @@ titles:
   - title: Włóczęgi Północy
     authors:
       - James Oliver Curwood
+    translators:
       - Jerzy Marlicz
     year: 1989
     language: Polish
@@ -57051,6 +58011,7 @@ titles:
   - title: Athabaska
     authors:
       - Alistair MacLean
+    translators:
       - Małgorzata Grabowska
       - Andrzej Grabowski
     year: 1990
@@ -57064,6 +58025,7 @@ titles:
   - title: Carrie
     authors:
       - Stephen King
+    translators:
       - Danuta Górska
     year: 1990
     language: Polish
@@ -57076,6 +58038,7 @@ titles:
   - title: Charlie Chan prowadzi śledztwo
     authors:
       - Earl Derr Biggers
+    translators:
       - Jan Zakrzewski
     year: 1990
     language: Polish
@@ -57088,6 +58051,7 @@ titles:
   - title: Chińska papuga
     authors:
       - Earl Derr Biggers
+    translators:
       - Izabella Kulczycka-Dąmbska
     year: 1990
     language: Polish
@@ -57123,6 +58087,7 @@ titles:
   - title: Czarny tulipan
     authors:
       - Alexandre Dumas
+    translators:
       - Janina Karczmarewicz-Fedorowska
     year: 1990
     language: Polish
@@ -57171,8 +58136,10 @@ titles:
     verified: true
     subtitle: Biochemiczne niebo dawnych Meksykanów
   - title: Czerwony Korsarz
+    original_title: Red rover
     authors:
       - James Fenimore Cooper
+    translators:
       - Kazimierz Piotrowski
     year: 1990
     language: Polish
@@ -57200,6 +58167,7 @@ titles:
   - title: Działa Nawarony
     authors:
       - Alistair MacLean
+    translators:
       - Adam Kaska
     year: 1990
     language: Polish
@@ -57254,6 +58222,7 @@ titles:
   - title: Hrabia Monte Christo
     authors:
       - Alexandre Dumas
+    translators:
       - Julian Rogoziński
     year: 1990
     language: Polish
@@ -57266,6 +58235,7 @@ titles:
   - title: Jasność
     authors:
       - Stephen King
+    translators:
       - Zofia Zinserling
     year: 1990
     language: Polish
@@ -57367,8 +58337,10 @@ titles:
         url: https://search.worldcat.org/title/830078648
     verified: true
   - title: Martin Eden
+    original_title: Martin Eden
     authors:
       - Jack London
+    translators:
       - Zygmunt Glinka
     year: 1990
     language: Polish
@@ -57386,6 +58358,7 @@ titles:
   - title: Mięso
     authors:
       - Rainer Erler
+    translators:
       - Ryszard Turczyn
     year: 1990
     language: Polish
@@ -57433,9 +58406,14 @@ titles:
         url: https://search.worldcat.org/title/749276448
     verified: true
   - title: My, dzieci z dworca Zoo
+    original_title: Wir Kinder vom Bahnhof Zoo
     authors:
       - Christiane F.
       - Kai Hermann
+    editors:
+      - Horst Rieck
+    translators:
+      - Ryszard Turczyn
     year: 1990
     language: Polish
     sources:
@@ -57496,10 +58474,12 @@ titles:
     verified: true
   - title: Pamiętniki cesarzowej Katarzyny II
     subtitle: Przez nią samą spisane
+    original_title: Mémoires de l'impératrice Catherine II
     authors:
       - Katharina
-      - Eugenia Siemaszkiewicz
       - Władysław Serczyk
+    translators:
+      - Eugenia Siemaszkiewicz
     year: 1990
     language: Polish
     sources:
@@ -57511,8 +58491,10 @@ titles:
         url: https://search.worldcat.org/title/830077882
     verified: true
   - title: Pewniak
+    original_title: Dead cert
     authors:
       - Dick Francis
+    translators:
       - Ewa Życieńska
     year: 1990
     language: Polish
@@ -57526,6 +58508,7 @@ titles:
     subtitle: Drogi miłości
     authors:
       - Poul Anderson
+    translators:
       - Wiktor Bukato
       - Darosław J. Toruń
     year: 1990
@@ -57539,6 +58522,7 @@ titles:
   - title: Pionierowie
     authors:
       - James Fenimore Cooper
+    translators:
       - Tadeusz Evert
       - Włodzimierz Lewik
     year: 1990
@@ -57591,8 +58575,9 @@ titles:
   - title: Pod gołym niebem
     authors:
       - Mark Twain
-      - Krystyna Tarnowska
       - Zygmunt Zaradkiewicz
+    translators:
+      - Krystyna Tarnowska
     year: 1990
     language: Polish
     sources:
@@ -57605,6 +58590,8 @@ titles:
     authors:
       - Maria Krzeptowska-Jasinek
       - Józef Krzeptowski-Jasinek
+    editors:
+      - Agata Bleja
     year: 1990
     edition: Wyd. 1
     language: Polish
@@ -57658,6 +58645,7 @@ titles:
   - title: Rachatłukum
     authors:
       - Jan Wolkers
+    translators:
       - Andrzej Dąbrówka
     year: 1990
     language: Polish
@@ -57703,6 +58691,7 @@ titles:
   - title: Samolot i perły
     authors:
       - Jean-Claude Brouillet
+    translators:
       - Maria Braunstein
     year: 1990
     language: Polish
@@ -57715,6 +58704,7 @@ titles:
   - title: Siedemnastolatek
     authors:
       - Booth Tarkington
+    translators:
       - Wacława Komarnicka
     year: 1990
     language: Polish
@@ -57770,6 +58760,7 @@ titles:
   - title: Szewska pasja
     authors:
       - McBain
+    translators:
       - Andrzej Grabowski
     year: 1990
     language: Polish
@@ -57783,6 +58774,7 @@ titles:
     subtitle: Opowieść o Ziemi Niczyjej
     authors:
       - James Fenimore Cooper
+    translators:
       - Helena Janina Pajzderska
     year: 1990
     language: Polish
@@ -57820,6 +58812,7 @@ titles:
   - title: Trzej muszkieterowie
     authors:
       - Alexandre Dumas
+    translators:
       - Joanna Guze
     year: 1990
     language: Polish
@@ -57832,6 +58825,7 @@ titles:
   - title: Trzydziesty piąty i później
     authors:
       - Anatoli Naumovitch Rybakov
+    translators:
       - Michał B. Jagiełło
       - Zofia Gadzinianka
     year: 1990
@@ -57859,8 +58853,10 @@ titles:
         url: https://search.worldcat.org/title/750838046
     verified: true
   - title: W 20 lat później
+    original_title: Vingt ans après
     authors:
       - Alexandre Dumas
+    translators:
       - Stefan Flukowski
       - Hanna Szumańska-Grossowa
     year: 1990
@@ -57912,6 +58908,7 @@ titles:
   - title: Wicehrabia de Bragelonne
     authors:
       - Alexandre Dumas
+    translators:
       - Maria Traczewska
     year: 1990
     language: Polish
@@ -57932,8 +58929,9 @@ titles:
   - title: Wiersze
     authors:
       - Lina Kostenko
-      - Leszek Engelking
       - Aleksander Ziemny
+    translators:
+      - Leszek Engelking
     year: 1990
     language: Polish
     sources:
@@ -57963,8 +58961,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/006700142
     verified: true
   - title: Witaj, smutku
+    original_title: Bonjour tristesse
     authors:
       - Françoise Sagan
+    translators:
       - Anna Gostyńska
       - Jadwiga Olędzka
     year: 1990

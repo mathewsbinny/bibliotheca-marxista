@@ -26,12 +26,14 @@ titles:
     verified: true
   - title: Čužoe lico
     subtitle: Roman
+    original_title: Tanin no kao
     series: Mastera sovremennoj prozy
     authors:
       - Kōbō Abe
-      - Vladimir Sergeevič Grivnin
       - Nikolaj Trofimovič Fedorenko
       - Aleksej Nikolaevič Slovesnyj
+    translators:
+      - Vladimir Sergeevič Grivnin
     year: 1982
     language: Russian
     sources:
@@ -42,6 +44,7 @@ titles:
     subtitle: Roman
     authors:
       - Bhīṣma Sāhanī
+    translators:
       - V. Černyšev
     year: 1982
     language: Russian
@@ -93,6 +96,8 @@ titles:
   - title: Fly Away, Seagull, Fly Away
     authors:
       - Viktoras Miliūnas
+    translators:
+      - Glenys Ann Kozlov
     year: 1982
     language: English
     pages: 80
@@ -159,10 +164,11 @@ titles:
     series: Mastera sovremennoj prozy
     authors:
       - António Alves Redol
-      - Nikolaj Vsevolodovič Kotrelëv
       - Stepan Petrovic̆ Mamontov
-      - Liliana Brevern
       - Natalija Alekseevna Matjaš
+    translators:
+      - Nikolaj Vsevolodovič Kotrelëv
+      - Liliana Brevern
       - Aleksandra Markovna Koss
       - Sergej Borisovič Belov
       - L. Šipka
@@ -208,6 +214,7 @@ titles:
         url: https://search.worldcat.org/title/686766349
     verified: true
   - title: La madre
+    original_title: Mat'
     authors:
       - Máximo Gorki
       - A. Herráiz
@@ -222,6 +229,8 @@ titles:
   - title: Lions and Sailing Ships
     authors:
       - S. Sakharnov
+    translators:
+      - Glenys Ann Kozlov
     year: 1982
     language: English
     pages: 53
@@ -237,6 +246,7 @@ titles:
       - label: Read or download (Mir Titles)
         url: https://mirtitles.org/2024/07/05/lions-and-sailing-ships-by-s-sakharnov/
   - title: Little Arthur's Sun
+    original_title: Arturikino solnce
     authors:
       - Kh Gyulnazaryan
     year: 1982
@@ -341,6 +351,7 @@ titles:
     verified: true
   - title: Neželatelʹnye reportaži
     subtitle: Sbornik
+    original_title: Unerwünschte Reportagen
     authors:
       - Günter Wallraff
       - Vladimir I. Steženskij
@@ -354,12 +365,13 @@ titles:
     subtitle: (Osnovy grammatologii)
     authors:
       - Ignace J. Gelb
+      - Igorʹ Mihajlovič Dʹâkonov
+      - Igor Mikhailovich Diakonov (Игорь Михайлович Дьяконов)
+    translators:
       - L. S. Gorbovickaâ
       - L. S. Gorbovitskaia (Л. С. Горбовицкая)
       - I. M. Dunaevskaâ
       - E. M. Dunaevskaia (И. М. Дунаевская)
-      - Igorʹ Mihajlovič Dʹâkonov
-      - Igor Mikhailovich Diakonov (Игорь Михайлович Дьяконов)
     year: 1982
     language: Russian
     sources:
@@ -378,6 +390,7 @@ titles:
     verified: true
   - title: Opyt izučenija pisʹma
     subtitle: Osnovy grammatologii
+    original_title: Study of writing
     authors:
       - Ignace J. Gelb
       - Igor' Mihajlovič D'âkonov
@@ -490,8 +503,13 @@ titles:
       - Jerzy Edigey
       - Kazimierz Korkozowicz
       - Wiktor Choriew
-      - Vera Sergeevna Selivanova
       - Joanna Chmielewska
+    editors:
+      - Vera Sergeevna Selivanova
+    translators:
+      - I. Cholodova
+      - Vladimir Ivanovič Kiselev
+      - Vera Sergeevna Selivanova
     year: 1982
     language: Russian
     sources:
@@ -503,6 +521,7 @@ titles:
         url: https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991038106519705066&vid=48OMNIS_NLOP:48OMNIS_NLOP
     verified: true
   - title: Spiral'
+    original_title: Spirale
     series: Mastera sovremennoj prozy
     authors:
       - Hans Erich Nossack
@@ -535,6 +554,7 @@ titles:
       - Jurij D. Levin
       - Leonid Arinštejn
       - Ksenija Nikolaevna Atarova
+    translators:
       - Samuil Maršak
       - Vladimir Vladimirovič Rogov
       - Osip-Julian Ivanovič Senkovskij
@@ -604,6 +624,8 @@ titles:
   - title: The Adventures of Sipsik
     authors:
       - Eno Raud
+    translators:
+      - Raissa Bobrova
     year: 1982
     language: English
     pages: 33
@@ -616,6 +638,8 @@ titles:
   - title: The Dog in His Pocket
     authors:
       - Heljo Mänd
+    translators:
+      - Fainna Glagoleva
     year: 1982
     language: English
     pages: 30
@@ -639,6 +663,8 @@ titles:
   - title: The Little Magicians of the Large House
     authors:
       - Vasiliĭ Golyshkin
+    translators:
+      - Jan Butler
     year: 1982
     language: English
     pages: 32
@@ -679,8 +705,11 @@ titles:
     verified: true
   - title: The Sacred Lyre
     subtitle: Essays on the Life and Work of Alexander Pushkin
+    original_title: Duša v zavetnoj lire
     authors:
       - D. D. Blagoi
+    translators:
+      - Alex Miller)
     year: 1982
     language: English
     pages: 421
@@ -709,8 +738,11 @@ titles:
     verified: true
   - title: Tourist Attractions in the USSR
     subtitle: A Guide
+    original_title: Turistskie centry v SSSR
     authors:
       - Vladimir Braginskiĭ
+    translators:
+      - Glenys Ann Kozlov
     year: 1982
     language: English
     pages: 254
@@ -746,6 +778,7 @@ titles:
     series: Biblioteka mongolʹskoj literatury
     authors:
       - Donrovyn Namdag
+    translators:
       - Aleksandr Rinčinovič Damba-Rinčine
     year: 1982
     language: Russian
@@ -864,8 +897,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=18507023X
     verified: true
   - title: A Book of the Blockade
+    original_title: Blokadnaja kniga
     authors:
       - Ales' Adamovich
+    translators:
+      - Hilda Perham)
     year: 1983
     language: English
     pages: 496
@@ -917,6 +953,8 @@ titles:
   - title: A Purple Bird
     authors:
       - Yuri Koval
+    translators:
+      - Fainna Solasko
     year: 1983
     language: English
     pages: 54
@@ -951,6 +989,7 @@ titles:
     verified: true
   - title: A toska vse silʹnej
     subtitle: Roman
+    original_title: Zunehmendes Heimweh
     authors:
       - Silvio Blatter
       - S. Fridljand
@@ -1004,6 +1043,8 @@ titles:
     subtitle: A Guide
     authors:
       - I. Maliar
+    translators:
+      - Ainy Lehto
     year: 1983
     language: English
     pages: 62
@@ -1029,6 +1070,7 @@ titles:
       - S. B. ǅimbinov
       - Oleg Aljakrinskij
       - Sergej Borisovič Belov
+    translators:
       - Margarita Iosifovna Aliger
       - Elizbar Ananiašvili
       - Innokentij Annenskij
@@ -1068,6 +1110,7 @@ titles:
     subtitle: 'Baletmejster, otrazivšij v svoem tvorčestve idealy i bor''bu veka = August Bournonville: balletmesteren som genspejlede at århundredes idealer og konflikter'
     authors:
       - Allan Fridericia
+    translators:
       - Nina Ilʹinična Krymova
     year: 1983
     language: Russian
@@ -1077,6 +1120,7 @@ titles:
     verified: true
   - title: Avgust Burnonvilʹ
     subtitle: Baletmejster, otrazivšij v svoem tvorčestve idealy i bor'bu veka
+    original_title: August Bournonville
     authors:
       - Allan Fridericia
     year: 1983
@@ -1118,6 +1162,8 @@ titles:
   - title: Bread and Dew
     authors:
       - Grigore Vieru
+    translators:
+      - James Riordan
     year: 1983
     language: English
     pages: 39
@@ -1142,6 +1188,8 @@ titles:
   - title: Danko's Burning Heart
     authors:
       - Maksim Gorky (Максим Горький)
+    translators:
+      - Margaret Wettlin
     year: 1983
     language: English
     pages: 20
@@ -1153,6 +1201,7 @@ titles:
       - label: Read or download (Internet Archive)
         url: https://archive.org/details/maxim-gorky-dankos-burning-heart-raduga-1983
   - title: Dar ne daetsja besplatno
+    original_title: Gåvan är inte gratis
     authors:
       - Nicolai Gedda
       - Aino Sellermark-Gedda
@@ -1173,6 +1222,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1602460604
     verified: true
   - title: De la hoguera al reactor
+    original_title: Ot kostra lo reaktora
     authors:
       - Alekseï Aleksandrovich Krylov
     year: 1983
@@ -1184,6 +1234,7 @@ titles:
   - title: Derevo
     authors:
       - Francisco Sionil José
+    translators:
       - Igor' V. Podberezskij
     year: 1983
     language: Russian
@@ -1226,8 +1277,10 @@ titles:
     verified: true
   - title: Drugaja polovina mira, ili utrennie besedy s Pauloj
     subtitle: Roman
+    original_title: Die andere Hälfte der Welt oder Frühstücksgespräche mit Paula
     authors:
       - Angelika Mechtel
+    translators:
       - Nina Fëdorova
     year: 1983
     language: Russian
@@ -1240,6 +1293,8 @@ titles:
   - title: Dunno Takes Music Lessons
     authors:
       - Nikolay Nosov (Николай Носов)
+    translators:
+      - Margaret Wettlin
     year: 1983
     series: Dunno's Adventures
     language: English
@@ -1261,6 +1316,7 @@ titles:
     authors:
       - M. Davidzon
       - V. Jurlov
+    translators:
       - Doris Bradbury
     year: 1983
     language: English
@@ -1320,6 +1376,8 @@ titles:
   - title: Everyone Likes to Draw
     authors:
       - V. Legkobit
+    translators:
+      - Fainna Solasko
     year: 1983
     language: English
     pages: 15
@@ -1341,6 +1399,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991131496509705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Fierce, Fine World
+    original_title: V prekrasnom i i︠a︡rostnom mire
     series: Russian and Soviet Story
     authors:
       - Andreĭ Platonovich Platonov
@@ -1368,6 +1427,9 @@ titles:
     verified: true
   - title: Five of the Best Soviet Plays of the 1970s
     authors: []
+    translators:
+      - Maya Gordeyeva
+      - Mike Davidow
     year: 1983
     language: English
     pages: 415
@@ -1395,6 +1457,8 @@ titles:
   - title: From the Bonfire to the Reactor
     authors:
       - A. Krylov
+    translators:
+      - Doris Bradbury
     year: 1983
     language: English
     pages: 80
@@ -1411,6 +1475,8 @@ titles:
     series: Soviet Writers Today
     authors:
       - Solomon Smolianitskiĭ
+    translators:
+      - Olga Shartse
     year: 1983
     language: English
     sources:
@@ -1436,6 +1502,7 @@ titles:
     verified: true
   - title: Gintaro Krašto Poezija
     subtitle: 'Iš XVIII-XX Amžiu Lietuviu Poezijos = the Amber Lyre: 18th-20th Century Lithuanian Poetry'
+    original_title: Gintaro krašto poezija
     authors:
       - Justinas Marcinkevičius
     year: 1983
@@ -1464,6 +1531,8 @@ titles:
   - title: How Dunno Became an Artist
     authors:
       - Nikolay Nosov (Николай Носов)
+    translators:
+      - Margaret Wettlin
     year: 1983
     series: Dunno's Adventures
     language: English
@@ -1568,6 +1637,7 @@ titles:
     subtitle: = Selected Poems
     authors:
       - Rasul Gamzatovič Gamzatov
+    translators:
       - Peter Tempest
     year: 1983
     language: Russian, English
@@ -1578,6 +1648,7 @@ titles:
   - title: Jak radzą sobie zwierzęta
     authors:
       - Evgenij Ivanovič Čarušin
+    translators:
       - Barbara Górna
     year: 1983
     language: Polish
@@ -1632,9 +1703,11 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991009697039708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Karʹeristy (i drugie) pesy
+    original_title: Törtetők
     authors:
       - Endre Illés
       - B. Gejger
+    translators:
       - Ju Gusev
     year: 1983
     language: Not recorded
@@ -1644,6 +1717,7 @@ titles:
     verified: true
   - title: Komu otdast golos sen'or Kayo?
     subtitle: 'Roman; Sviatye bezgreshnye: roman'
+    original_title: El disputado voto del señor Cayo
     authors:
       - Miguel Delibes
     year: 1983
@@ -1684,6 +1758,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=438221028
     verified: true
   - title: Lenin on Language
+    original_title: V.I. Lenin O iazyke
     authors:
       - Vladimir Ilʹič Lenin
     year: 1983
@@ -1788,6 +1863,8 @@ titles:
   - title: Multi-coloured Fins
     authors:
       - Victor Datskevich
+    translators:
+      - Natalie Ward
     year: 1983
     language: English
     pages: 32
@@ -1803,6 +1880,8 @@ titles:
     subtitle: A Guide
     authors:
       - I. Baikova
+    translators:
+      - Frances Longman
     year: 1983
     language: English
     pages: 196
@@ -1819,6 +1898,8 @@ titles:
   - title: My Life and My Dressage Horses
     authors:
       - Elena Petushkova
+    translators:
+      - Vivienne Burdon
     year: 1983
     language: English
     pages: 136
@@ -1834,6 +1915,8 @@ titles:
     subtitle: Excerpts from Diaries and Memoirs
     authors:
       - Boris Prorokov
+    translators:
+      - S. A. Wakefield
     year: 1983
     language: English, Russian
     pages: 366
@@ -1847,8 +1930,12 @@ titles:
     verified: true
   - title: Myth, Philosophy, Avant-Gardism
     subtitle: Philosophic Myth-Making and the Literary Avant-Gardism
+    original_title: Mif, filosofija, avangard
     authors:
       - IUriĭ Davydov
+    translators:
+      - Laura Beraha
+      - Alex Miller
     year: 1983
     language: English
     pages: 295
@@ -1872,6 +1959,8 @@ titles:
     subtitle: A Novella, Stories
     authors:
       - Chinġiz Ḣăsăn oghlu Ḣu̇sei̐nov
+    translators:
+      - Holly Smith
     year: 1983
     language: English
     pages: 213
@@ -1889,6 +1978,8 @@ titles:
     subtitle: Unity of Purpose
     authors:
       - G. I. Lomidze
+    translators:
+      - Nina Belenkaya
     year: 1983
     language: English
     pages: 346
@@ -1908,6 +1999,7 @@ titles:
     subtitle: Roman
     authors:
       - Michał Rusinek
+    translators:
       - G. Aksenova
       - A. Granat
     year: 1983
@@ -1922,6 +2014,7 @@ titles:
     subtitle: Roman
     authors:
       - Michał Rusinek
+    translators:
       - Susanna Georgievna Mar
       - A. Granat
     year: 1983
@@ -1937,11 +2030,12 @@ titles:
       - Jack Conroy
       - Lars Lawrence
       - Moris Mendelʹson
+      - Nina Nikolaevna Fedorova
+    translators:
       - Natalʹja Oskarovna Kamionskaja
       - Marija Viktorovna Kovalenskaja
       - Julija Ivanovna Žukova
       - Michail Maksovič Zinde
-      - Nina Nikolaevna Fedorova
     year: 1983
     language: Russian
     sources:
@@ -1973,6 +2067,13 @@ titles:
     subtitle: A Book of Tales
     authors:
       - Oleg Korovin
+    translators:
+      - Irina Zheleznova
+      - James Riordan
+      - Kathleen Cook
+      - Avril Pyman
+      - Olga Shartse
+      - Tatyana Butkova
     year: 1983
     language: English
     sources:
@@ -2023,6 +2124,7 @@ titles:
   - title: Pesočnye časy
     authors:
       - Wiesław Górnicki
+    translators:
       - Boris Fedorovič Staheev
     year: 1983
     language: Russian
@@ -2047,9 +2149,12 @@ titles:
     verified: true
   - title: Petrozavodsk and Kizhi
     subtitle: A Guide
+    original_title: Petrozavodsk i Kiži
     series: Publishers Guidebook
     authors:
       - Aleksandr I. Frolov
+    translators:
+      - Inna Myodova
     year: 1983
     language: English
     sources:
@@ -2191,8 +2296,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991142122719705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Rachmaninov
+    original_title: Rachmaninov
     authors:
       - Nikolaĭ Bazhanov
+    translators:
+      - Andrew Bromfield
     year: 1983
     language: English
     pages: 342
@@ -2224,6 +2332,8 @@ titles:
   - title: Rostik and Kesha
     authors:
       - Irina Tokmakova
+    translators:
+      - Raissa Bobrova
     year: 1983
     language: English
     pages: 45
@@ -2254,8 +2364,12 @@ titles:
     verified: true
   - title: Russian Folk-Style Figurines
     subtitle: A Collector's Notes
+    original_title: Russkaja narodnaja igruška
     authors:
       - G. A. Blinov
+    translators:
+      - Natalia Belskaya
+      - Tatyana Butkova)
     year: 1983
     language: English
     pages: 162
@@ -2336,6 +2450,7 @@ titles:
     authors:
       - John Cheever
       - Aleksandr Sergeevič Muljarčik
+    translators:
       - Tatʹjana Lʹvovna Rovinskaja
       - Vilʹjam Ionovič Rovinskij
       - Raisa Efimovna Oblonskaja
@@ -2378,6 +2493,7 @@ titles:
     authors:
       - Anna Bukowska
       - Tamara Vladimirovna Balašova
+    translators:
       - Andrej Ermonskij
     year: 1983
     language: Russian
@@ -2388,9 +2504,11 @@ titles:
         url: https://search.worldcat.org/title/995444063
     verified: true
   - title: Sokrat
+    original_title: Sokrates
     authors:
       - Josef Toman
       - Miroslava Tomanová
+    translators:
       - N. Aroseva
     year: 1983
     language: Russian
@@ -2400,8 +2518,11 @@ titles:
     verified: true
   - title: Soviet Literature
     subtitle: Yesterday, Today and Tomorrow
+    original_title: Sovetskaja literatura včera, segodnja, zavtra
     authors:
       - Yuri Kuz'menko
+    translators:
+      - Jan Butler
     year: 1983
     language: English
     sources:
@@ -2434,9 +2555,14 @@ titles:
     subtitle: Zaveŝanie samoubijcy
     authors:
       - Jerzy Edigey
-      - Vera Sergeevna Selivanova
       - Joanna Chmielewska
       - Kazimierz Korkozowicz
+    editors:
+      - Vera Sergeevna Selivanova
+    translators:
+      - Vera Sergeevna Selivanova
+      - I. Cholodova
+      - Vladimir Ivanovič Kiselev
     year: 1983
     language: Russian
     sources:
@@ -2509,6 +2635,8 @@ titles:
   - title: Stories for Children
     authors:
       - Konstantin Dmitrievich Ushinskiǐ
+    translators:
+      - Eve Manning
     year: 1983
     language: English
     pages: 32
@@ -2535,6 +2663,8 @@ titles:
     subtitle: A Guide
     authors:
       - Vladimir Tiurikov
+    translators:
+      - Alexander Timofeyev
     year: 1983
     language: English
     pages: 95
@@ -2618,6 +2748,8 @@ titles:
     subtitle: A Novel
     authors:
       - Yurii Bondarev
+    translators:
+      - Monica Whyte
     year: 1983
     language: English
     sources:
@@ -2657,6 +2789,8 @@ titles:
   - title: The Forward Returns to the Game
     authors:
       - Zoia Mironova
+    translators:
+      - Peter Greenwood
     year: 1983
     language: English
     pages: 365
@@ -2683,6 +2817,8 @@ titles:
   - title: The Lay of Tsar Ivan Vassilyevich, His Young Oprichnik, and the Stouthearted Merchant Kalashnikov
     authors:
       - Mikhail IUrʹevich Lermontov (Михаил Юрьевич Лермонтов)
+    translators:
+      - Irina Zheleznova
     year: 1983
     language: English
     pages: 24
@@ -2695,8 +2831,11 @@ titles:
         url: https://d-nb.info/993490603
     verified: true
   - title: The Life Story of a Naughty Boy from Bukhara
+    original_title: Žizneopisanie stroptivogo Buchara
     authors:
       - Timur Pulatov
+    translators:
+      - Dudley Hagen
     year: 1983
     language: English
     pages: 357
@@ -2717,6 +2856,8 @@ titles:
     subtitle: Stories and Fairy Tales
     authors:
       - N. Pavlova
+    translators:
+      - James Riordan
     year: 1983
     language: English
     pages: 94
@@ -2732,6 +2873,8 @@ titles:
   - title: The Mites of Flower Town
     authors:
       - Nikolay Nosov (Николай Носов)
+    translators:
+      - Magaret Wettlin
     year: 1983
     series: Dunno's Adventures
     language: English
@@ -2747,6 +2890,8 @@ titles:
   - title: The Nightingale Echo
     subtitle: New Soviet Stories
     authors: []
+    translators:
+      - K. M. Cook
     year: 1983
     language: English
     pages: 407
@@ -2766,6 +2911,8 @@ titles:
     subtitle: A Novel
     authors:
       - Leonid Leonov
+    translators:
+      - Liv Tudge
     year: 1983
     series: The Working Class in Soviet Literature
     language: English
@@ -2810,6 +2957,8 @@ titles:
   - title: The Ruffled Sparrow
     authors:
       - Konstantin Georgiyevich Paustovsky (Константи́н Гео́ргиевич Паусто́вский)
+    translators:
+      - Fainna Solasko
     year: 1983
     language: English
     pages: 14
@@ -2847,6 +2996,8 @@ titles:
     series: The Working Class in Soviet Literature
     authors:
       - Vadim Kozhevnikov
+    translators:
+      - Jan Butler
     year: 1983
     language: English
     sources:
@@ -2863,6 +3014,8 @@ titles:
   - title: The Stoletov Dossier
     authors:
       - Vil' V. Lipatov
+    translators:
+      - Alex Miller
     year: 1983
     language: English
     sources:
@@ -2880,6 +3033,8 @@ titles:
     pages: 442
   - title: The System of Physical Education in the USSR
     authors: []
+    translators:
+      - A. Zdornykh
     year: 1983
     language: English
     sources:
@@ -2927,6 +3082,7 @@ titles:
     subtitle: Przewodnik
     authors:
       - Vladimir Iosifovič Braginskij
+    translators:
       - Barbara Górna
       - Jerzy Limon
     year: 1983
@@ -2940,6 +3096,8 @@ titles:
   - title: Two Toreadors from Vasukovka Village
     authors:
       - Vsevolod Nestaĭko
+    translators:
+      - Fainna Glagoleva
     year: 1983
     language: English
     pages: 310
@@ -2953,6 +3111,8 @@ titles:
     subtitle: National Soviet Literatures
     authors:
       - Georgiĭ Iosifovich Lomidze
+    translators:
+      - Nina Belenkaya
     year: 1983
     language: English
     pages: 346
@@ -2968,8 +3128,10 @@ titles:
     verified: true
   - title: Uroki tancev
     subtitle: Roman
+    original_title: Tanzstunden eines jungen Mannes
     authors:
       - Rolf Floss
+    translators:
       - E. Michelevič
     year: 1983
     language: Russian
@@ -3000,6 +3162,8 @@ titles:
     subtitle: A Guide
     authors:
       - Dina Kislik
+    translators:
+      - Percy Ludwick
     year: 1983
     language: English
     pages: 188
@@ -3043,8 +3207,11 @@ titles:
     verified: true
   - title: Vladimir
     subtitle: A Guide
+    original_title: Vladimir putevoditelʹ
     authors:
       - Sergei Gordeyev
+    translators:
+      - Sheena Wakefield
     year: 1983
     language: English
     sources:
@@ -3096,6 +3263,8 @@ titles:
     subtitle: 'Tales of New People: A Novel'
     authors:
       - Nikolay Gavrilovich Chernyshevsky
+    translators:
+      - Laura Beraha
     year: 1983
     language: English
     pages: 485
@@ -3132,6 +3301,8 @@ titles:
     verified: true
   - title: Wonderful Moment of Victory
     authors: []
+    translators:
+      - Albert Zdornykh
     year: 1983
     language: English
     pages: 158
@@ -3143,8 +3314,10 @@ titles:
     verified: true
   - title: Zapiski pinčrannera
     subtitle: Roman
+    original_title: Pinchi rannā chōsho
     authors:
       - Kenzaburō Ōe
+    translators:
       - Vladimir S. Grivnin
     year: 1983
     language: Russian
@@ -3154,6 +3327,7 @@ titles:
     verified: true
   - title: Živaâ literatura
     subtitle: Dva pokoleniâ frankoâzyčnyh pisatelej Belgii
+    original_title: Lettres vivantes deux générations d'écrivains français en Belgique 1945-1975 / sous la dir. de Adrien Jans
     authors:
       - Leonid Grigor'evič Andreev
       - Adrien Jans
@@ -3235,6 +3409,8 @@ titles:
     subtitle: Childhood Years of Bagrov Grandson
     authors:
       - Sergei Timofeevich Aksakov
+    translators:
+      - Olga Shartse
     year: 1984
     language: English
     pages: 504
@@ -3257,6 +3433,8 @@ titles:
     subtitle: Stories About Lenin
     authors:
       - Sergei Antonov
+    translators:
+      - Tracy Kuehn
     year: 1984
     language: English
     pages: 267
@@ -3383,6 +3561,8 @@ titles:
   - title: Bear's House
     authors:
       - Eno Raud
+    translators:
+      - Diana Miller
     year: 1984
     language: English
     pages: 45
@@ -3393,8 +3573,11 @@ titles:
         url: https://lccn.loc.gov/85116920
     verified: true
   - title: Beloe i krasnoe
+    original_title: Białe i czerwone
     authors:
       - Zdzisław Romanowski
+    translators:
+      - M. Archipova
     year: 1984
     language: Russian
     sources:
@@ -3409,6 +3592,7 @@ titles:
     verified: true
   - title: Bolʹšoj čelovek, lovkij čelovek
     subtitle: Roman
+    original_title: A big man, a fast man / B. Appel, and The Camerons / R. Crichton
     series: Biblioteka literatury SŠA
     authors:
       - Benjamin Appel
@@ -3514,6 +3698,8 @@ titles:
   - title: Collected Works in Eight Volumes
     authors:
       - Mikhail Aleksandrovich Sholokhov
+    translators:
+      - Robert Daglish
     year: 1984
     language: English
     sources:
@@ -3543,8 +3729,11 @@ titles:
     verified: true
   - title: Demanding Literature
     subtitle: 'Soviet Literature of the 70s and Early 80s: Literary and Critical Essays'
+    original_title: Sovetskaâ literatura 70-80 godov"
     authors:
       - Boris Dmitrievich Pankin
+    translators:
+      - Ruth English
     year: 1984
     language: English
     pages: 359
@@ -3583,6 +3772,7 @@ titles:
   - title: Dzieciaki i zwierzaki
     authors:
       - Ol'ga Vasil'evna Perovskaâ
+    translators:
       - Barbara Górna
     year: 1984
     language: Polish
@@ -3617,12 +3807,14 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991127488649705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Fìlà alààyè
+    original_title: Zhivai︠a︡ shli︠a︡pa
     authors:
       - Nikolaj Nikolaevič Nosov
       - Ífàn Semiónọ̀f
-      - Àdìsá Ògúnfọlákàn
       - Michka Sachnine
       - Alain Ricard
+    translators:
+      - Àdìsá Ògúnfọlákàn
     year: 1984
     language: Not recorded
     sources:
@@ -3635,6 +3827,8 @@ titles:
     authors:
       - Boris Prokhorov
       - Boris Vladimirovich Manushin
+    translators:
+      - Tracy Kuehn
     year: 1984
     language: English
     sources:
@@ -3656,6 +3850,7 @@ titles:
     pages: 123
   - title: Genri Filding
     subtitle: Biografija
+    original_title: Henry Fielding, a biography
     authors:
       - Pat Rogers
       - V. Charitonov
@@ -3690,6 +3885,8 @@ titles:
   - title: Grandpa's Glasses
     authors:
       - G. IUrmin
+    translators:
+      - Fainna Solasko
     year: 1984
     language: English
     pages: 19
@@ -3702,6 +3899,8 @@ titles:
   - title: How Dunno Became a Poet
     authors:
       - Nikolay Nosov (Николай Носов)
+    translators:
+      - Margaret Wettlin
     year: 1984
     series: Dunno's Adventures
     language: English
@@ -3718,6 +3917,8 @@ titles:
   - title: How Dunno Took a Ride in a Soda-Water Car
     authors:
       - Nikolay Nosov (Николай Носов)
+    translators:
+      - Margaret Wettlin
     year: 1984
     series: Dunno's Adventures
     language: English
@@ -3736,6 +3937,8 @@ titles:
   - title: How People Discovered the Shape of the Earth
     authors:
       - A. N. Tomilin
+    translators:
+      - Diana Miller
     year: 1984
     language: English
     pages: 79
@@ -3766,6 +3969,8 @@ titles:
   - title: I Won't Apologize
     authors:
       - Sofʹia Prokofʹeva
+    translators:
+      - Raissa Bobrova
     year: 1984
     language: English
     pages: 46
@@ -3783,8 +3988,9 @@ titles:
     series: Mastera sovremennoj prozy
     authors:
       - Ólafur Jóhann Sigurðsson
-      - Svetlana Ivanovna Nedeljaeva-Steponavičene
       - Nina Nikolaevna Fedorova
+    translators:
+      - Svetlana Ivanovna Nedeljaeva-Steponavičene
       - Aėlita Chodareva
       - Valerij Pavlovič Berkov
       - D. Kiselev
@@ -3814,6 +4020,9 @@ titles:
     subtitle: Poėziia, dramaturgiia, proza
     authors:
       - Harry Martinson
+    editors:
+      - E. Rudenko
+      - A. Rudenko (Е. Руденко)
     year: 1984
     language: Russian
     pages: 585
@@ -3878,11 +4087,13 @@ titles:
     verified: true
   - title: Kak dela, molodoj čelovek?
     subtitle: Izbrannye povesti i rasskazy
+    original_title: Gyerektükör
     authors:
       - Sándor Tóth
       - Vladimir Aleksandrovič Elʹcov-Vasilʹev
-      - E. Ternovska
       - Ju Gusev
+    translators:
+      - E. Ternovska
     year: 1984
     language: Not recorded
     sources:
@@ -3907,12 +4118,13 @@ titles:
       - John Updike
       - Joyce Carol Oates
       - Aleksej Matveevič Zverev
+      - Irina Pavlovna Archangelʹskaja
+      - A. M. Korch
+    translators:
       - Viktor Aleksandrovič Chinkis
       - Evgenija Davydovna Kalašnikova
       - Nora Jakovlevna Galʹ
       - Raisa Efimovna Oblonskaja
-      - Irina Pavlovna Archangelʹskaja
-      - A. M. Korch
     year: 1984
     language: Russian
     sources:
@@ -3936,6 +4148,8 @@ titles:
     subtitle: A Guide
     authors:
       - M. Khazin
+    translators:
+      - Aini Lehto
     year: 1984
     language: English
     pages: 110
@@ -3957,6 +4171,9 @@ titles:
     subtitle: Roman
     authors:
       - Wacław Biliński
+    translators:
+      - Wiktor Choriew
+      - Mihail Vasil'evič Ignatov
     year: 1984
     language: Russian
     sources:
@@ -3993,8 +4210,10 @@ titles:
     verified: true
   - title: Korona i nabedrennaja povjazka
     subtitle: Roman
+    original_title: Crown and the loincloth
     authors:
       - Chaman Lal Nahal
+    translators:
       - L. Bespalovoj
     year: 1984
     language: Russian
@@ -4005,6 +4224,8 @@ titles:
   - title: Lenin and the Stove Mender and Other Stories
     authors:
       - Mikhail Zoshchenko
+    translators:
+      - James Riordan
     year: 1984
     language: English
     pages: 38
@@ -4021,6 +4242,7 @@ titles:
         url: https://archive.org/details/mikhail-zoshchenko-lenin-and-the-stove-mender-and-other-stories-raduga-1989
   - title: Leningrad
     subtitle: A Guide
+    original_title: Leningrad, putevoditelʹ
     authors:
       - Pavel Jakovlevič Kann
       - B. Manušin
@@ -4078,6 +4300,8 @@ titles:
   - title: Man and Animals
     authors:
       - Yury Dmitriev (Юрий Дмитриев)
+    translators:
+      - Raissa Bobrova
     year: 1984
     language: English
     pages: 310
@@ -4101,12 +4325,13 @@ titles:
       - Muriel Spark
       - Georgij Andreevič Andžaparidze
       - N. N. Kristalʹnaja
+      - Aleksandr Vasilʹevič Sapožnikov
+    translators:
       - V. S. Muravʹev
       - Aleksej Michajlovič Michalev
       - Vladimir Andreevič Skorodenko
       - Vladimir Aleksandrovič Charitonov
       - Vladimir E. Orel
-      - Aleksandr Vasilʹevič Sapožnikov
     year: 1984
     language: Russian
     sources:
@@ -4116,8 +4341,9 @@ titles:
   - title: Mergen and His Friends
     subtitle: A Nanai Folk Tale
     authors:
-      - Jim Riordan
       - Gennady Pavlishin
+    translators:
+      - Jim Riordan
     year: 1984
     language: English
     sources:
@@ -4144,6 +4370,8 @@ titles:
     subtitle: '(The Architectural Silhouettesof the City): A Guide'
     authors:
       - Yurii Aleksandrov
+    translators:
+      - Glenys Ann Kozlov
     year: 1984
     language: English
     sources:
@@ -4180,6 +4408,8 @@ titles:
     series: Raduga Publishers Guidebook
     authors:
       - Irina Veremeeva
+    translators:
+      - Anatoly Belenko
     year: 1984
     language: English
     sources:
@@ -4243,8 +4473,11 @@ titles:
         url: https://openlibrary.org/books/OL57939765M
     verified: true
   - title: Nikolai Gogol and the West European Novel
+    original_title: Nikolaj Gogol' i problemy zapadnoevropejskogo romana
     authors:
       - Anna Elistratova
+    translators:
+      - Christopher English
     year: 1984
     language: English
     pages: 261
@@ -4301,6 +4534,8 @@ titles:
     subtitle: A Guide
     authors:
       - M. M. Dunaev
+    translators:
+      - Doris Bradbury
     year: 1984
     series: Guidebook
     language: English
@@ -4320,6 +4555,7 @@ titles:
   - title: O czym opowiedział teleskop
     authors:
       - Pavel Vladimirovič Klušancev
+    translators:
       - Anna Krejdlin
     year: 1984
     language: Polish
@@ -4341,6 +4577,7 @@ titles:
         url: https://d-nb.info/368926176
     verified: true
   - title: O muzykalʹnom teatre
+    original_title: Schriften zum Musiktheater
     authors:
       - Walter Felsenstein
     year: 1984
@@ -4350,6 +4587,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1042271666
     verified: true
   - title: O pesnjach pod doždem
+    original_title: Vom Singen im Regen
     authors:
       - Michael Hanisch
     year: 1984
@@ -4395,6 +4633,8 @@ titles:
   - title: Odessa, a Guide
     authors:
       - G. Kononova
+    translators:
+      - Elena Goun
     year: 1984
     language: English
     pages: 191
@@ -4482,6 +4722,8 @@ titles:
     series: The Working Class in Soviet Literature
     authors:
       - Aleksandr Malyshkin
+    translators:
+      - Alex Miller
     year: 1984
     language: English
     sources:
@@ -4554,9 +4796,10 @@ titles:
   - title: Pole kostej
     authors:
       - Anthony Powell
-      - O. Soroki
       - M. Gordyševskaja
       - N. Kristalʹnaja
+    translators:
+      - O. Soroki
     year: 1984
     language: Russian
     sources:
@@ -4568,6 +4811,7 @@ titles:
     authors:
       - Zbigniew Domino
       - Mihail Vasil'evič Ignatov
+    translators:
       - Vitalij Anatol'evič Svetlov
     year: 1984
     language: Russian
@@ -4580,6 +4824,8 @@ titles:
   - title: Pora po domam, rebjata
     authors:
       - Zbigniew Domino
+    translators:
+      - Vitalij Anatol'evič Svetlov
     year: 1984
     language: Russian
     sources:
@@ -4610,8 +4856,9 @@ titles:
     authors:
       - Nikolaj Nikolaevič Nosov
       - Aleksej Mihajlovič Laptev
-      - Janina Lewandowska
       - Izdatel'stvo "Raduga"
+    translators:
+      - Janina Lewandowska
     year: 1984
     language: Polish
     sources:
@@ -4622,8 +4869,11 @@ titles:
     verified: true
   - title: Pskov
     subtitle: A Guide
+    original_title: 'Pskov: putevoditelʹ'
     authors:
       - Elena Morozkina
+    translators:
+      - Doris Bradbury
     year: 1984
     language: English
     pages: 192
@@ -4674,6 +4924,8 @@ titles:
     subtitle: A Novel in Four Books
     authors:
       - Mikhail Aleksandrovich Sholokhov
+    translators:
+      - Robert Daglish
     year: 1984
     series: Collected Works in Eight Volumes / MikhailSholokhov -- v. 2-5
     language: English
@@ -4824,6 +5076,8 @@ titles:
     series: Collected Works in Eight Volumes
     authors:
       - Mikhail Aleksandrovich Sholokhov
+    translators:
+      - Robert Daglish
     year: 1984
     language: English
     sources:
@@ -4839,8 +5093,11 @@ titles:
     pages: 445
   - title: Socialist literatures
     subtitle: Problems of development
+    original_title: Problemy razvitija socialističeskich literatur
     authors:
       - Dmitry Fedorovič Markov
+    translators:
+      - Catherine Judelson
     year: 1984
     language: Russian
     sources:
@@ -5028,6 +5285,8 @@ titles:
     subtitle: Perevod s nemeckogo
     authors:
       - Vladimir Denisovič Sedel'nik
+    editors:
+      - Vladimir D. Sedelʹnik
     year: 1984
     language: Russian
     sources:
@@ -5040,6 +5299,7 @@ titles:
     verified: true
   - title: Stanovlenie džaza
     subtitle: Populjarnyj istoričeskij očerk
+    original_title: The making of jazz
     authors:
       - James Lincoln Collier
       - Aleksandr Medvedev
@@ -5074,6 +5334,7 @@ titles:
     verified: true
   - title: Teatr dlja ljudej
     subtitle: Mysli zapisannye, vyskazannye i osuščestvlennye
+    original_title: Per un teatro umano
     authors:
       - Giorgio Strehler
       - Svetlana Bušueva
@@ -5144,6 +5405,8 @@ titles:
     subtitle: A Guide
     authors:
       - Lidiia Genzha
+    translators:
+      - Nikolai Kurnakov
     year: 1984
     language: English
     pages: 104
@@ -5176,6 +5439,8 @@ titles:
   - title: The Magic Tree
     authors:
       - Nikolay Fyodorovich Osipov
+    translators:
+      - Galina Kmetyuk
     year: 1984
     language: English
     pages: 84
@@ -5209,6 +5474,8 @@ titles:
     subtitle: A Novel
     authors:
       - Ilya Erenburg (Илья́ Григо́рьевич Эренбу́рг)
+    translators:
+      - Liv Tudge
     year: 1984
     language: English
     sources:
@@ -5232,6 +5499,8 @@ titles:
     subtitle: A Novel
     authors:
       - Yurii Bondarev
+    translators:
+      - Keith Hammond
     year: 1984
     series: Soviet Authors Library
     language: English
@@ -5251,6 +5520,8 @@ titles:
   - title: The Singing Feather
     authors:
       - Vasiliĭ Aleksandrovich Sukhomlinskiĭ
+    translators:
+      - James Riordan
     year: 1984
     language: English
     pages: 27
@@ -5262,8 +5533,11 @@ titles:
     verified: true
   - title: The Singing Rabbit
     subtitle: Eskimo Folk Tales
+    original_title: Poi︠u︡shchiĭ zaĭchik
     authors:
       - G. A. Menovshchikov
+    translators:
+      - Anatoly Bilenko
     year: 1984
     language: English
     pages: 12
@@ -5300,6 +5574,8 @@ titles:
   - title: The Twelve Months
     subtitle: Fairy Tales by Soviet Writers
     authors: []
+    translators:
+      - James Riordan
     year: 1984
     language: English
     pages: 140
@@ -5317,6 +5593,8 @@ titles:
     series: Collected Works in Eight Volumes
     authors:
       - Mikhail Aleksandrovich Sholokhov
+    translators:
+      - Robert Daglish
     year: 1984
     language: English
     sources:
@@ -5332,11 +5610,13 @@ titles:
     pages: 293
   - title: Tolʹko dlja mužčin
     subtitle: Roman
+    original_title: Samo za măže
     authors:
       - Bogomil N. Rajnov
       - A. Zverev
-      - Aleksej Sobkovič
       - I. Marčenko
+    translators:
+      - Aleksej Sobkovič
     year: 1984
     language: Russian
     sources:
@@ -5371,6 +5651,7 @@ titles:
   - title: Varšavskaâ Sirena
     authors:
       - Halina Auderska
+    translators:
       - Evgenij Viktorovič Nevâkin
       - L. Vasil'ev
     year: 1984
@@ -5384,6 +5665,7 @@ titles:
   - title: Varšavskaja sirena
     authors:
       - Halina Auderska
+    translators:
       - Lina Vasileva
       - Evgenij Viktorovič Nevjakin
     year: 1984
@@ -5419,6 +5701,8 @@ titles:
     subtitle: A Novel in Two Books
     authors:
       - Mikhail Aleksandrovich Sholokhov
+    translators:
+      - Robert Daglish
     year: 1984
     series: Collected Works in Eight Volumes / Mikhail Sholokhov
     language: English
@@ -5439,6 +5723,8 @@ titles:
     subtitle: A Poem
     authors:
       - Vladimir Mayakovsky
+    translators:
+      - Dorian Rottenberg
     year: 1984
     language: English
     pages: 123
@@ -5454,14 +5740,15 @@ titles:
     series: Mastera sovremennoj prozy. Franciâ
     authors:
       - Marguerite Yourcenar
-      - M. Vaksmaher
-      - M. Vaksmakher (М. Ваксмахер)
-      - Û. Âhnina
-      - I. Iakhnina (Ю. Яхнина)
       - Û. Davydov
       - I. Davydov (Ю. Давыдов)
       - M. Dobrodeeva
       - M. Dobrodeeva (М. Добродеева)
+    translators:
+      - M. Vaksmaher
+      - M. Vaksmakher (М. Ваксмахер)
+      - Û. Âhnina
+      - I. Iakhnina (Ю. Яхнина)
     year: 1984
     language: Russian
     sources:
@@ -5489,10 +5776,11 @@ titles:
       - Marija Vladimirovna Dobrodeeva
       - Ju Davydov
       - M. Finogenova
-      - Moris Nikolaevič Vaksmacher
-      - Juliana Jakovlevna Jachnina
       - G. S. Knabe
       - V. Rabinovic
+    translators:
+      - Moris Nikolaevič Vaksmacher
+      - Juliana Jakovlevna Jachnina
     year: 1984
     language: Russian
     sources:
@@ -5528,6 +5816,8 @@ titles:
     subtitle: Travel Accounts and Diaries
     authors:
       - L. Tripolsky
+    translators:
+      - Tracy Kuehn
     year: 1984
     language: English
     sources:
@@ -5569,6 +5859,8 @@ titles:
     authors:
       - Jurij V. Idaškin
       - Jurij Bondarev
+    translators:
+      - Christopher English
     year: 1984
     language: English
     sources:
@@ -5608,13 +5900,15 @@ titles:
     verified: true
   - title: Žizn' Šillera
     subtitle: = Schillers Leben
+    original_title: Schillers Leben
     authors:
       - Peter Lahnstein
+      - T. Cholodova
+      - Aleksandr A. Gugnin
+    translators:
       - Valentina A. Bolotnikova
       - K. Starcev
       - S. Tarchanova
-      - T. Cholodova
-      - Aleksandr A. Gugnin
     year: 1984
     language: Russian
     sources:
@@ -5636,7 +5930,8 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=432749004
     verified: true
   - title: Zov zemli
-    authors:
+    authors: []
+    translators:
       - V. Černyšev
     year: 1984
     language: Russian
@@ -5668,6 +5963,7 @@ titles:
     verified: false
   - title: 62. Model' dlia sborki
     subtitle: Roman; Rasskazy
+    original_title: 62, modelo para armar
     authors:
       - Julio Cortázar
       - Inna Artashesovna Terterian
@@ -5689,6 +5985,8 @@ titles:
   - title: A Hero of Our Time
     authors:
       - Mikhail IUrʹevich Lermontov (Михаил Юрьевич Лермонтов)
+    translators:
+      - Martin Parker
     year: 1985
     series: Raduga Russian Classics Series
     language: English
@@ -5699,6 +5997,8 @@ titles:
   - title: A Selection
     authors:
       - M. Prishvin
+    translators:
+      - Olga Shartse
     year: 1985
     series: Russian and Soviet Story
     language: English
@@ -5856,6 +6156,7 @@ titles:
     verified: true
   - title: Bumazhnye soldatiki
     subtitle: Roman
+    original_title: Els exércits de Paluzie
     authors:
       - Manuel de Seabra
     year: 1985
@@ -5880,6 +6181,8 @@ titles:
     subtitle: A Novel
     authors:
       - Fedor Gladkov
+    translators:
+      - Liv Tadge
     year: 1985
     series: The Working Class in Soviet Literature
     language: English
@@ -5891,6 +6194,8 @@ titles:
   - title: Chik and His Friends
     authors:
       - Faziĺ Iskander (Фазиль Абдулович Искандер)
+    translators:
+      - J. C. Butler
     year: 1985
     language: English
     pages: 197
@@ -5914,6 +6219,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=01367272X
     verified: true
   - title: Cómo fue de pequeño tu papá
+    original_title: Kak papa byl malen'kim
     authors:
       - Aleksandr Borisovich Raskin
     year: 1985
@@ -5924,8 +6230,11 @@ titles:
     verified: true
   - title: Crime and Punishment
     subtitle: A Novel in Six Parts with an Epilogue
+    original_title: Преступлéние и наказáние / Prestupleniye i nakazaniye
     authors:
       - Fiódor Dostoievski
+    translators:
+      - Julius Katzer
     year: 1985
     series: Russian Classics
     language: English
@@ -5943,6 +6252,8 @@ titles:
     subtitle: 'Novel: V 2-kh Kn'
     authors:
       - Ch Amiredzhibi
+    translators:
+      - Antonina W. Bouis
     year: 1985
     language: English
     sources:
@@ -5974,6 +6285,7 @@ titles:
         url: https://d-nb.info/131503140X
     verified: true
   - title: Dnevnik Mikelandželo neistovogo
+    original_title: Diario di Michelangelo il pazzo
     authors:
       - Rolando Cristofanelli
     year: 1985
@@ -6010,6 +6322,8 @@ titles:
   - title: Fifty Russian Artists
     authors:
       - A. F. Dmitrenko
+    translators:
+      - Angus Roxburg
     year: 1985
     language: English
     pages: 247
@@ -6041,6 +6355,7 @@ titles:
     verified: true
   - title: Gamlet
     subtitle: Izbrannye perevody
+    original_title: Hamlet
     authors:
       - William Shakespeare
     year: 1985
@@ -6059,8 +6374,11 @@ titles:
     verified: true
     pages: 640
   - title: Granny Hamro's Fairy-Tales
+    original_title: Glinjanye skazki babuški Chamro
     authors:
       - Gennadiĭ Blinov
+    translators:
+      - Anatole Belenko
     year: 1985
     language: English
     pages: 19
@@ -6077,6 +6395,8 @@ titles:
     subtitle: A Novel
     authors:
       - Nodar Dumbaże
+    translators:
+      - Raissa Bobrova
     year: 1985
     language: English
     pages: 173
@@ -6093,6 +6413,8 @@ titles:
     subtitle: The Little Soldier
     authors:
       - Oleg Tikhomirov
+    translators:
+      - Miriam Katz
     year: 1985
     language: English
     pages: 156
@@ -6160,8 +6482,9 @@ titles:
     authors:
       - Karl Aron
       - Eryk Beniaminson
-      - Barbara Górna
       - Boris Kyštymov
+    translators:
+      - Barbara Górna
     year: 1985
     language: Polish
     sources:
@@ -6186,8 +6509,11 @@ titles:
     verified: true
   - title: Kiev
     subtitle: A Guide
+    original_title: Kiev
     authors:
       - G. IU Levitskiĭ
+    translators:
+      - N. Kurnakov
     year: 1985
     language: English
     pages: 94
@@ -6268,6 +6594,8 @@ titles:
   - title: Krišjānis Barons, the Man and His Work
     authors:
       - S. Viese
+    translators:
+      - Tāmāra Zalīte)
     year: 1985
     language: English
     pages: 170
@@ -6308,8 +6636,9 @@ titles:
     subtitle: Stichi zarubežnych poetov
     series: Mastera poėtičeskogo perevoda; Vyp. 31
     authors:
-      - Sergej V. Šervinskij
       - E. Vitkovskogo
+    translators:
+      - Sergej V. Šervinskij
     year: 1985
     language: Russian
     sources:
@@ -6357,6 +6686,7 @@ titles:
     verified: true
   - title: Lorens Olivʹe
     subtitle: = Laurence Olivier
+    original_title: Laurence Olivier
     authors:
       - John Cottrell
     year: 1985
@@ -6427,6 +6757,8 @@ titles:
   - title: Maxim Gorky and the Literary Quests of the Twentieth Century
     authors:
       - A. I. Ovcharenko
+    translators:
+      - Joy Jennings
     year: 1985
     language: English
     pages: 315
@@ -6482,10 +6814,11 @@ titles:
       - Willa Cather
       - Carson McCullers
       - Majja Pavlovna Tuguševa
+      - Irina Pavlovna Archangelʹskaja
+    translators:
       - Irina Michajlovna Razumovskaja
       - Svetlana Petrovna Samostrelova-Smirnickaja
       - Elena Michajlovna Golyševa
-      - Irina Pavlovna Archangelʹskaja
     year: 1985
     language: Russian
     sources:
@@ -6495,6 +6828,8 @@ titles:
   - title: My profession
     authors:
       - S. V. Obraztsov
+    translators:
+      - Doris Bradbury
     year: 1985
     language: Russian
     pages: 324
@@ -6521,11 +6856,12 @@ titles:
   - title: Na polnom skaku
     authors:
       - Martin Walser
-      - Albert Karelski
-      - Vladimir I. Steženskij
       - Irina Mlecina
       - E. Prikazčikova
       - N. Fedorov
+    translators:
+      - Albert Karelski
+      - Vladimir I. Steženskij
     year: 1985
     language: Russian
     sources:
@@ -6537,10 +6873,13 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991085022199705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: 'Pisʹmo lordu Listu: povesti'
+    original_title: Brief an Lord Liszt
   - title: Na polnom skaku. Pisʹmo lordu Listu
     subtitle: Povesti
+    original_title: Ein fliehendes Pferd
     authors:
       - Martin Walser
+    translators:
       - I. Mlečinoj
     year: 1985
     language: Russian
@@ -6602,6 +6941,7 @@ titles:
       - Tennessee Williams
       - Georgij P. Zlobin
       - Irina Pavlovna Archangelʹskaja
+    translators:
       - Majja Michajlovna Koreneva
       - Elena Michajlovna Golyševa
       - Vladimir Aleksandrovič Charitonov
@@ -6633,6 +6973,7 @@ titles:
     verified: true
   - title: Password 'Victory'
     subtitle: 'The 1941-1945 Great Patriotic War: Recollections, Stories, Reports'
+    original_title: 'Parolʹ: Pobeda!'
     authors:
       - Vladimir Sevruk
     year: 1985
@@ -6646,8 +6987,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991137611819705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Pčelinyj pastyrʹ
+    original_title: Le berger des abeilles
     authors:
       - Armand Lanoux
+    translators:
       - Elena Lûbimova
       - Elena Liubimova (Елена Любимова)
       - Nikolaj Mihajlovič Lûbimov
@@ -6688,6 +7031,7 @@ titles:
     subtitle: Roman
     authors:
       - Michał Choromański
+    translators:
       - Gil'da V. Jazykova
       - Ksenia Starosielska
     year: 1985
@@ -6700,6 +7044,7 @@ titles:
     subtitle: Roman
     authors:
       - Michał Choromański
+    translators:
       - Gil'da Vladimirovna Âzykova
       - Ksenia Starosielska
     year: 1985
@@ -6781,6 +7126,7 @@ titles:
     verified: true
   - title: Portret uvažaemogo čeloveka
     subtitle: 'Roman; Deržite vora: povestʹ; Rasskazy'
+    original_title: Porträt eines angesehenen Mannes; Einen Dieb fangen; Geschichten vom Tag
     authors:
       - Otto Steiger
     year: 1985
@@ -6791,6 +7137,7 @@ titles:
     verified: true
   - title: Portret uvažemogo čeloveka
     subtitle: 'Roman; Deržite vora: povestʹ: rasskazy'
+    original_title: Porträt eines angesehenen Mannes; Einen Dieb fangen; Geschichten vom Tag
     authors:
       - Otto Steiger
       - D. Gorfinkelja
@@ -6814,6 +7161,7 @@ titles:
   - title: Pticy letât na zapad
     authors:
       - Edward Kurowski
+    translators:
       - Ûrij Semënovič Tarskij
     year: 1985
     language: Russian
@@ -6826,6 +7174,7 @@ titles:
   - title: Pticy letjat na zapad
     authors:
       - Edward Kurowski
+    translators:
       - Ju Tarskij
     year: 1985
     language: Russian
@@ -6836,6 +7185,7 @@ titles:
         url: https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991038026939705066&vid=48OMNIS_NLOP:48OMNIS_NLOP
     verified: true
     subtitle: Roman
+    original_title: Ptaki leca na zachód
   - title: Raspiatyĭ dʹiavol
     subtitle: Roman
     authors:
@@ -6860,6 +7210,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=279870663
     verified: true
   - title: Relatos de un naturalista
+    original_title: Rasskazy naturalista
     authors:
       - Piotr Aleksandrovich Manteïfel'
     year: 1985
@@ -6970,6 +7321,8 @@ titles:
   - title: Sketches from My Life
     authors:
       - Nataliia Ilʹinichna Sats
+    translators:
+      - Sergei Syrovatkin
     year: 1985
     language: English
     pages: 435
@@ -7105,6 +7458,7 @@ titles:
     subtitle: 'Roman; Labirynt: roman'
     authors:
       - Tadeusz Breza
+    translators:
       - Andrej Ermonskij
       - Ûliâ Borisovna Ŝepkina-Mirskaâ
     year: 1985
@@ -7138,6 +7492,7 @@ titles:
     verified: true
   - title: Strastnaâ nedelâ
     subtitle: Roman
+    original_title: La semaine sainte
     series: Mastera sovremennoj prozy. Franciâ
     authors:
       - Louis Aragon
@@ -7150,6 +7505,7 @@ titles:
         url: https://www.sudoc.fr/096166924
     verified: true
   - title: Strastnaja nedelja
+    original_title: La semaine sainte
     series: Mastera sovremennoj prozy
     authors:
       - Louis Aragon
@@ -7161,11 +7517,13 @@ titles:
     verified: true
   - title: Syn Vallenroda
     subtitle: Roman
+    original_title: Syn Wallenroda
     authors:
       - Janusz Krasiński
+      - Izdatel'stvo "Raduga"
+    translators:
       - M. Vasil'eva
       - L. Volgina
-      - Izdatel'stvo "Raduga"
     year: 1985
     language: Russian
     sources:
@@ -7210,6 +7568,8 @@ titles:
     subtitle: A Novel in Two Books
     authors:
       - Fiódor Dostoievski
+    translators:
+      - Julius Katzer
     year: 1985
     edition: Rev. ed
     series: Russian Classics
@@ -7262,9 +7622,12 @@ titles:
     verified: true
   - title: The Ostankino Palace-Museum
     subtitle: A Guide
+    original_title: Ostankinskiĭ dvoret︠s︡-muzeĭ
     series: Guidebook
     authors:
       - Aleksandr Fedorovič Červjakov
+    translators:
+      - C. Rosenberger
     year: 1985
     language: English
     sources:
@@ -7283,8 +7646,13 @@ titles:
     isbn: '5050000742'
   - title: The Palaces and Parks in Pushkin
     subtitle: A Guide
+    original_title: Dvorcy-Muzei i parki Puškina
     authors:
       - Lyudmila Lapina
+    editors:
+      - Alexander Kafyrov
+    translators:
+      - Glenys Ann Rampley
     year: 1985
     language: English
     sources:
@@ -7311,6 +7679,8 @@ titles:
     subtitle: A Guide and Reference Book
     authors:
       - Lidiya Dubinskaya
+    translators:
+      - James Riordan
     year: 1985
     language: English
     pages: 349
@@ -7333,6 +7703,8 @@ titles:
     subtitle: A Novel
     authors:
       - IUriĭ Krymov
+    translators:
+      - R. Dixon
     year: 1985
     series: The Working Class in Soviet Literature
     language: English
@@ -7350,6 +7722,7 @@ titles:
     verified: true
   - title: The Three Kingdoms
     subtitle: Russian Folk Tales from Alexander Afanasiev's Collection
+    original_title: Narodnye russkie skazkie
     authors:
       - A. N. Afanasʹev
     year: 1985
@@ -7372,6 +7745,8 @@ titles:
     subtitle: A Story About the Artist Efim Chestnyakov
     authors:
       - Lev Kuzʹmin
+    translators:
+      - Tracy Kuehn
     year: 1985
     language: English
     pages: 87
@@ -7429,6 +7804,7 @@ titles:
   - title: Vernis' v Sorrento? ...
     authors:
       - Anna German
+    translators:
       - Renata Bello
     year: 1985
     language: Russian
@@ -7464,6 +7840,7 @@ titles:
     verified: true
   - title: Viajes sin pasaje o Viajeros asombrosos
     subtitle: Historias verídicas, con prólogo y epílogos igual de verídicos, con doce adivinanzas, pequeñas sugerencias y respuestas definitivas al final del libro
+    original_title: Bez bileta po belu svetu
     authors:
       - Nikolaï Osipov
     year: 1985
@@ -7487,8 +7864,10 @@ titles:
     verified: true
   - title: Vremja smerti
     subtitle: Roman
+    original_title: Vreme smrti
     authors:
       - Dobrica Ćosić
+    translators:
       - Aleksandr Romanenko
     year: 1985
     language: Russian
@@ -7533,6 +7912,8 @@ titles:
     authors:
       - Aleksandr A. Gugnin
       - Evgenij Bovkun
+    editors:
+      - Aleksandr Aleksandrovič Gugnin
     year: 1985
     language: Russian
     sources:
@@ -7559,6 +7940,7 @@ titles:
       - Aleksandr Aleksandrovich Gugnin (Александр Александрович Гугнин)
       - Irina Mihajlovna Semenko
       - Irina Mikhailovna Semenko (Ирина Михайловна Семенко)
+    translators:
       - Vasilij Andreevič Žukovskij
       - Vasilii Andreevich Zhukovskii (Василий Андреевич Жуковский)
     year: 1985
@@ -7569,8 +7951,9 @@ titles:
     verified: true
   - title: Zarubežnaja poėzija v perevodach V. A. Žukovskogo
     authors:
-      - Vasilij Andreevič Žukovskij
       - Aleksandr Aleksandrovič Gugnin
+    translators:
+      - Vasilij Andreevič Žukovskij
     year: 1985
     language: Russian
     sources:
@@ -7649,8 +8032,11 @@ titles:
     verified: false
   - title: A Book About Stars and Planets
     subtitle: To Be Read to Children
+    original_title: Malysham o zvezdakh i planetakh
     authors:
       - E. P. Levitan
+    translators:
+      - Sergei Sosinsky
     year: 1986
     language: English
     pages: 124
@@ -7695,6 +8081,7 @@ titles:
         url: https://lccn.loc.gov/87461088
     verified: true
   - title: Accidente
+    original_title: Avariia
     series: Aventuras de Nosabenada; 10
     authors:
       - Nikolaï Nikolaevich Nosov
@@ -7721,8 +8108,11 @@ titles:
     verified: true
   - title: Ancient Russian Cities
     subtitle: A Travel Guide to the Historical and Architectural Monuments and Fine Art Museums
+    original_title: Drevnie goroda Rossii
     authors:
       - A. Milovsky
+    translators:
+      - Holly Smith
     year: 1986
     language: English
     sources:
@@ -7748,8 +8138,11 @@ titles:
     isbn: '5050000734'
     series: Guidebook
   - title: Anna Karenina
+    original_title: Anna Karenina
     authors:
       - Leo Tolstoy (Лев Толстой)
+    translators:
+      - Margaret Wettlin
     year: 1986
     series: Russian Classics
     language: English
@@ -7780,8 +8173,10 @@ titles:
     verified: true
   - title: Az-Zejni Barakjat
     subtitle: Roman
+    original_title: Az-Zaini barakāt
     authors:
       - Ǧamāl al- Ġīṭānī
+    translators:
       - T. Kuz'mina
     year: 1986
     language: Not recorded
@@ -7791,8 +8186,11 @@ titles:
     verified: true
   - title: Barankin's Fantasy World
     subtitle: Two Stories
+    original_title: Fantazii Barankina
     authors:
       - Valery Medvedev
+    translators:
+      - Kathleen Cook
     year: 1986
     language: English
     pages: 270
@@ -7855,9 +8253,14 @@ titles:
     verified: true
   - title: Brams, Vagner, Verdi
     subtitle: Tri mastera, tri mira
+    original_title: Brahms, Wagner, Verdi
     authors:
       - Hans Gál
       - Igor Bełza
+    translators:
+      - D. B. Aleksandrov
+      - Aleksandr Viktorovič Mihajlov
+      - S. V. Rožnovskij
     year: 1986
     language: Russian
     sources:
@@ -7872,6 +8275,7 @@ titles:
     verified: true
   - title: Bukhara
     subtitle: Reminiscences
+    original_title: Ëddoshtḣo
     authors:
       - Sadriddin Aĭnī
     year: 1986
@@ -7915,6 +8319,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991009531989708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Chief Vasily
+    original_title: Vas'ka-Vasilick
     authors:
       - Tat'iana Efimchenko-Evlajova
       - Vasiliï Shul'zhenko
@@ -7937,6 +8342,8 @@ titles:
   - title: December Days
     authors:
       - Vera Morozova
+    translators:
+      - Cynthia Rosenberger
     year: 1986
     language: English
     pages: 165
@@ -7947,6 +8354,7 @@ titles:
     verified: true
   - title: Ėdvard Grig
     subtitle: Čelovek i chudožnik
+    original_title: Edvard Grieg
     authors:
       - Finn Benestad
       - Dag Schjelderup-Ebbe
@@ -7959,6 +8367,7 @@ titles:
   - title: El bosque de los Dioses
     authors:
       - Balys Sruoga
+    translators:
       - Ionas Diokas
     year: 1986
     language: Spanish
@@ -7967,6 +8376,7 @@ titles:
         url: https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991038427549705066&vid=48OMNIS_NLOP:48OMNIS_NLOP
     verified: true
   - title: En un lugar nuevo
+    original_title: Ha hobom mecte
     series: Aventuras de Nosabenada; 11
     authors:
       - Nikolaï Nikolaevich Nosov
@@ -8011,6 +8421,9 @@ titles:
     subtitle: The Baltic Republics
     authors:
       - Robert Babloian
+    translators:
+      - Robert Babloyan
+      - Mirlena Shumskaya
     year: 1986
     language: English
     pages: 142
@@ -8070,9 +8483,11 @@ titles:
     verified: true
   - title: Gory slagajutsja iz pesčinok
     subtitle: Avtorizovannyj perevod s vengerskogo
+    original_title: Morzsahegyek
     series: Sovremennaja zarubežnaja povestʹ
     authors:
       - Sarolta Raffai
+    translators:
       - V. Sereda
     year: 1986
     language: Not recorded
@@ -8148,6 +8563,8 @@ titles:
     subtitle: A Fairy Tale
     authors:
       - Vsevolod Nestaĭko
+    translators:
+      - Anatoly Belenko
     year: 1986
     language: English
     pages: 94
@@ -8164,6 +8581,8 @@ titles:
     subtitle: A Guide
     authors:
       - Mark Sergeev
+    translators:
+      - Jan Butler
     year: 1986
     language: English, Russian
     pages: 71
@@ -8254,6 +8673,16 @@ titles:
   - title: Izbrannoe
     authors:
       - Thomas Moore
+    editors:
+      - Inna Artašesovna Terterjan
+    translators:
+      - Natalija Alekseevna Matjaš
+      - Natalʹja Leonidovna Trauberg
+      - S. Imbert
+      - Nina Pavlovna Snetkova
+      - Chuan Kobo
+      - Marina Igorevna Kienja
+      - V. Fedorov
     year: 1986
     language: Russian
     pages: 541
@@ -8305,6 +8734,7 @@ titles:
     authors:
       - Nikolaj Nikolaevič Nosov
       - Boris M. Kalaušin
+    translators:
       - Janina Lewandowska
     year: 1986
     language: Polish
@@ -8316,15 +8746,17 @@ titles:
     verified: true
   - title: Javlenie
     subtitle: Roman
+    original_title: Aparição
     series: $T01$ULatn%%Mastera sovremennoj prozy
     authors:
       - Vergílio Ferreira
-      - Nikolaj Vsevolodovič Kotrelëv
       - Vladimir Davidovič Dneprov
       - Irina Michajlovna Zaslavskaja
+      - Darʹja Kuznecova
+    translators:
+      - Nikolaj Vsevolodovič Kotrelëv
       - Liliana Brevern
       - V. Fedorov
-      - Darʹja Kuznecova
     year: 1986
     language: Russian
     sources:
@@ -8365,6 +8797,7 @@ titles:
     authors:
       - Piotr Jerszow
       - Nikolaj Mihajlovič Kočergin
+    translators:
       - Igor Sikirycki
     year: 1986
     language: Polish
@@ -8387,8 +8820,10 @@ titles:
     verified: true
   - title: Kristina Choflener
     subtitle: Roman iz literatur. nasledija
+    original_title: Rausch der Verwandlung
     authors:
       - Stefan Zweig
+    translators:
       - Nikolaj Nikolaevič Bunin
     year: 1986
     language: Russian
@@ -8422,10 +8857,12 @@ titles:
     verified: true
   - title: La Poule noire ou le monde souterrain
     subtitle: Histoire merveilleuse
+    original_title: Černaâ kurica ili podzemnye žiteli
     authors:
       - Antonij Pogorelʹskij
-      - Colette Stoïanov
       - Gueorgui Youdine
+    translators:
+      - Colette Stoïanov
     year: 1986
     language: French
     sources:
@@ -8434,8 +8871,10 @@ titles:
     verified: true
   - title: Lavka
     subtitle: Roman
+    original_title: Der Laden
     authors:
       - Erwin Strittmatter
+    translators:
       - S. Fridljand
     year: 1986
     language: Russian
@@ -8491,6 +8930,8 @@ titles:
     authors:
       - Ekaterina Vasilʹevna Starikova
       - Leonid Leonov
+    translators:
+      - Joy Jennings
     year: 1986
     language: English
     sources:
@@ -8508,8 +8949,9 @@ titles:
     authors:
       - Nikolaj Nikolaevič Nosov
       - Boris M. Kalaušin
-      - Janina Lewandowska
       - Izdatel'stvo "Raduga"
+    translators:
+      - Janina Lewandowska
     year: 1986
     language: Polish
     sources:
@@ -8533,6 +8975,8 @@ titles:
     authors:
       - M. Shukhat
       - G. A. Kozlova
+    translators:
+      - Glenys Ann Kozlov
     year: 1986
     language: English
     sources:
@@ -8559,6 +9003,8 @@ titles:
     subtitle: 'Poems = Mig Vechnosti: Poèma'
     authors:
       - Egor Aleksandrovich Isaev
+    translators:
+      - Walter May
     year: 1986
     language: English
     pages: 413
@@ -8589,6 +9035,8 @@ titles:
   - title: My First ABC Book
     authors:
       - O. Urina
+    translators:
+      - The Author
     year: 1986
     language: English
     pages: 30
@@ -8605,6 +9053,7 @@ titles:
     subtitle: Roman; per. s v'etnam
     authors:
       - Nguyễn Mạnh Tuấn
+    translators:
       - N. Nikulina
     year: 1986
     language: Not recorded
@@ -8640,6 +9089,7 @@ titles:
     authors:
       - Nikolaj Nikolaevič Nosov
       - Boris M. Kalaušin
+    translators:
       - Janina Lewandowska
     year: 1986
     language: Polish
@@ -8672,9 +9122,11 @@ titles:
     verified: true
   - title: Otnyne i vovek
     subtitle: Roman
+    original_title: From here to Eternity
     series: Biblioteka literatury SŠA
     authors:
       - James Jones
+    translators:
       - Aleksej Michajlovič Michalev
     year: 1986
     language: Russian
@@ -8686,6 +9138,8 @@ titles:
     subtitle: 'Palaces and Parks: A Guide'
     authors:
       - V. V. Znamenov
+    translators:
+      - Kathleen Cook
     year: 1986
     language: English
     pages: 163
@@ -8740,6 +9194,7 @@ titles:
     verified: true
   - title: Pobeditelju dostanetsja vsjo
     subtitle: Roman
+    original_title: Der Sieger nimmt alles
     authors:
       - Dieter Wellershoff
       - Michail Rudnickij
@@ -8818,8 +9273,10 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991017694599708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Rimskaja kupal'nja
+    original_title: Rimska banja
     authors:
       - Stanislav Stratiev
+    translators:
       - N. Glen
     year: 1986
     language: Russian
@@ -8851,6 +9308,8 @@ titles:
     subtitle: A Poem
     authors:
       - Aleksandr Sergeyevich Pushkin (Александр Сергеевич Пушкин)
+    translators:
+      - Irina Zheleznova
     year: 1986
     language: English
     isbn: '5050006740'
@@ -8908,6 +9367,8 @@ titles:
   - title: Selected Works
     authors:
       - Vladimir Mayakovsky
+    translators:
+      - Dorian Rottenberg
     year: 1986
     language: English
     pages: 279
@@ -8962,6 +9423,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=873452828
     verified: true
   - title: Summer Showers
+    original_title: Letnij liven'
     authors:
       - Irina P. Tokmakova
       - Raissa Bobrova
@@ -8976,8 +9438,11 @@ titles:
       - label: Read or download (Mir Titles)
         url: https://mirtitles.org/2023/04/05/summer-showers-by-irina-tokmakova/
   - title: The ABC of Chess
+    original_title: Šachmatnaja azbuka
     authors:
       - V. Grishin
+    translators:
+      - Vivienne Burdon
     year: 1986
     language: English
     pages: 87
@@ -9013,6 +9478,8 @@ titles:
   - title: The Bridge
     authors:
       - IAmilʹ Mustafin
+    translators:
+      - Gay Cook
     year: 1986
     language: English
     pages: 341
@@ -9025,6 +9492,8 @@ titles:
   - title: The Central Lenin Museum
     subtitle: A Guide
     authors: []
+    translators:
+      - Vyacheslav Semyonov
     year: 1986
     language: English
     pages: 157
@@ -9088,6 +9557,8 @@ titles:
     subtitle: A Guide
     authors:
       - Lidiia Genzha
+    translators:
+      - Nikolai Kurnakov
     year: 1986
     edition: Rev. ed
     language: English, Russian
@@ -9141,6 +9612,8 @@ titles:
   - title: The Nataliia Sats Children's Musical Theatre
     authors:
       - V. Viktorov
+    translators:
+      - Miriam Morton
     year: 1986
     language: English, Russian
     pages: 141
@@ -9189,6 +9662,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991009532139708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: The Swans Flew by and Other Stories
+    original_title: Proletai lebedi
     authors:
       - Fedor Abramov
     year: 1986
@@ -9226,8 +9700,11 @@ titles:
     verified: true
   - title: The Thieving Magpie
     subtitle: A Story
+    original_title: Soroka-Vorovka
     authors:
       - Aleksandr Herzen
+    translators:
+      - Avril Pyman
     year: 1986
     language: English
     isbn: '5050006627'
@@ -9252,6 +9729,8 @@ titles:
   - title: The White Deer
     subtitle: A Latvian Folk Tale
     authors: []
+    translators:
+      - Fainna Solasko
     year: 1986
     language: English
     pages: 20
@@ -9284,6 +9763,8 @@ titles:
     subtitle: A Novel
     authors:
       - Vsevolod Anisimovich Kochetov
+    translators:
+      - Robert Daglish
     year: 1986
     language: English
     pages: 437
@@ -9348,11 +9829,13 @@ titles:
     verified: true
   - title: Udivlenie lunatikov na ischode noci
     subtitle: Roman
+    original_title: Das Staunen der Schlafwandler am Ende der Nacht
     authors:
       - Otto F. Walter
-      - E. Vil'mont
       - Vladimir D. Sedel'nik
       - E. Prikazčikova
+    translators:
+      - E. Vil'mont
     year: 1986
     language: Russian
     sources:
@@ -9384,8 +9867,10 @@ titles:
     verified: true
   - title: V šest' večera v Astorii
     subtitle: Roman
+    original_title: V šest večer v Astorii
     authors:
       - Zdeněk Pluhař
+    translators:
       - N. Aroseva
     year: 1986
     language: Russian
@@ -9439,6 +9924,7 @@ titles:
   - title: V zasitu kultury
     authors:
       - Heinrich Mann
+    translators:
       - G. Znamenskoj
     year: 1986
     language: Russian
@@ -9449,6 +9935,8 @@ titles:
   - title: Vasilʹ Bykov
     authors:
       - L. Lazarev
+    translators:
+      - Amanda Calvert
     year: 1986
     series: Soviet Writers Today
     language: English, Russian
@@ -9463,8 +9951,11 @@ titles:
         url: https://lccn.loc.gov/86135396
     verified: true
   - title: Vasily Shukshin
+    original_title: Vasilij Šukšin Stat'i
     authors:
       - Ė. Efimov
+    translators:
+      - Avril Pyman
     year: 1986
     series: World of Art Cinema
     language: English
@@ -9551,10 +10042,14 @@ titles:
     verified: true
   - title: Vojna s salamandrami
     subtitle: Roman
+    original_title: Dům o tisíci patrech
     series: Biblioteka fantastiki; 20
     authors:
       - Karel Čapek
       - Jan Weiss
+    editors:
+      - L. Novogrudskaja
+      - N. Fedorova
     year: 1986
     language: Russian
     sources:
@@ -9567,8 +10062,10 @@ titles:
     verified: true
   - title: Vozvraščenie gesjati tysjač
     subtitle: Romany
+    original_title: Onbinlerin dönüs̜ü
     authors:
       - Samim Kocagöz
+    translators:
       - Samim Kodžagëz
     year: 1986
     language: Not recorded
@@ -9671,8 +10168,11 @@ titles:
     verified: true
   - title: Adventures on Captains' Island
     subtitle: A Fairy Tale
+    original_title: Ostrov kapitanov
     authors:
       - Sofʹí`a Prokofʹeva
+    translators:
+      - James Riordan
     year: 1987
     language: English
     pages: 148
@@ -9734,6 +10234,7 @@ titles:
         url: https://d-nb.info/36898589X
     verified: true
     subtitle: Roman
+    original_title: Die Aula
   - title: Always a Woman
     subtitle: Stories by Women Writers
     authors:
@@ -9771,6 +10272,7 @@ titles:
     verified: true
   - title: Baku
     subtitle: A Guide
+    original_title: Baku
     authors:
       - Ėmilʹ Agaev
     year: 1987
@@ -9836,6 +10338,8 @@ titles:
   - title: Chinghiz Aitmatov
     authors:
       - Vasiliĭ Vasilʹevich doktor filologicheskikh nauk Novikov
+    translators:
+      - Alexander Yeremin
     year: 1987
     series: Soviet Writers Today
     language: English
@@ -9868,6 +10372,7 @@ titles:
       - label: Borrow (Internet Archive)
         url: https://archive.org/details/chinghizaitmatov00novi
     subtitle: Translated from the russian = Čingiz Ajtmatov
+    original_title: Čingiz Ajtmatov. O literaturnom masterstve
     isbn: '5050011825'
   - title: Chingiz Aĭtmatov
     subtitle: Ch. Aitmatov on Craftsmanship
@@ -9897,6 +10402,9 @@ titles:
     subtitle: 'Volume One: Stories 1880-1885'
     authors:
       - A. Checkhov (Антон Павлович Чехов)
+    translators:
+      - Alex Miller
+      - Ivy Litvinov
     year: 1987
     language: English
     isbn: '5050011493'
@@ -9936,9 +10444,12 @@ titles:
         url: https://archive.org/details/collectedworksin0000chek
     verified: false
   - title: Čužoj drug
+    original_title: Der fremde Freund
     series: Sovremennaja zarubeznaja novesm
     authors:
       - Christoph Hein
+    translators:
+      - B. Chlebnikova
     year: 1987
     language: Russian
     sources:
@@ -9948,6 +10459,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1543218601
     verified: true
   - title: Dead Souls
+    original_title: Miortvye dushi
     authors:
       - Nikolái Gógol
       - Christopher English
@@ -9983,8 +10495,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1009749641
     verified: true
   - title: Domination in 2,545 Endgame Studies
+    original_title: Šachmatnye ėtjudydominacija
     authors:
       - Genrich M. Kasparjan
+    translators:
       - A. Krivoviaz
     year: 1987
     language: English
@@ -10001,6 +10515,8 @@ titles:
     subtitle: A Novel
     authors:
       - Aleksandr Sergeyevich Pushkin (Александр Сергеевич Пушкин)
+    translators:
+      - Ivy Litvinov
     year: 1987
     language: English
     pages: 92
@@ -10016,6 +10532,7 @@ titles:
     verified: true
   - title: Ė. T. A. Gofmann
     subtitle: Žiznʹ i tvorčestvo, pisʹma, vyskazyvanija. dokumenty
+    original_title: E. T. A. Hoffmann
     authors:
       - E. T. A. Hoffmann
       - Klaus Günzel
@@ -10045,8 +10562,11 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991041880509708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Engineer Garin and His Death Ray
+    original_title: Guiperboloid inzhenera Garina
     authors:
       - Aleksey Konstantinovich Tolstoy
+    translators:
+      - George Hanna
     year: 1987
     edition: Revised
     language: English
@@ -10067,6 +10587,8 @@ titles:
   - title: Engineer Garin and His Deathray
     authors:
       - Alexei Tolstoy
+    translators:
+      - George Hanna
     year: 1987
     language: English
     isbn: '5050011760'
@@ -10076,8 +10598,11 @@ titles:
     verified: true
   - title: Evangelie ot Iudy
     subtitle: 'Apokrif: roman'
+    original_title: Według Judasza
     authors:
       - Henryk Panas
+    translators:
+      - Irina Nikolaevna Koltaševa
     year: 1987
     language: Russian
     pages: 245
@@ -10095,6 +10620,7 @@ titles:
     subtitle: Apokrif
     authors:
       - Henryk Panas
+    translators:
       - Irina Nikolaevna Koltaševa
     year: 1987
     language: Russian
@@ -10103,6 +10629,7 @@ titles:
         url: https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991038034999705066&vid=48OMNIS_NLOP:48OMNIS_NLOP
     verified: true
   - title: Federiko i ego mir
+    original_title: Federico y su mundo
     authors:
       - Francisco García Lorca
       - N. V. Malychinoj
@@ -10131,8 +10658,12 @@ titles:
         url: https://mirtitles.org/2023/12/18/fiabe-dei-popoli-dellurss-repubbliche-della-georgia-dellarmenia-e-dellazerbajgian/
   - title: Fifty Years in Films
     subtitle: Selected Works
+    original_title: 'Izbrannye raboty : 50 let v kino'
     authors:
       - L. V. Kuleshov
+    translators:
+      - Dmitri Agrachev
+      - Nina Belenkaya
     year: 1987
     language: English
     pages: 286
@@ -10184,6 +10715,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=318602369
     verified: true
   - title: Frente Blanca
+    original_title: Belolobyï
     authors:
       - Anton Pavlovich Chejov
       - Svetozar Aleksandrovich Ostrov
@@ -10212,6 +10744,7 @@ titles:
     subtitle: Žiznʹ i tvorčestvo
     authors:
       - Karl Otto Conrady
+    translators:
       - N. Bernovskoj
     year: 1987
     language: Russian
@@ -10228,6 +10761,8 @@ titles:
   - title: Hill of Tulips
     authors:
       - Latif Maḣmudov
+    translators:
+      - Tracy Kuehn
     year: 1987
     language: English
     pages: 196
@@ -10243,6 +10778,8 @@ titles:
   - title: How Doono Made a Balloon
     authors:
       - Nikolay Nosov (Николай Носов)
+    translators:
+      - Margaret Wettlin
     year: 1987
     series: Dunno's Adventures
     language: English
@@ -10255,6 +10792,7 @@ titles:
     verified: true
   - title: I podzhiog étot dom
     subtitle: Roman
+    original_title: Set this house on fire
     series: Biblioteka literatury SShA
     authors:
       - William Styron
@@ -10362,6 +10900,8 @@ titles:
     series: Biblioteka literatury GDR
     authors:
       - Jurij Brězan
+    editors:
+      - B. Chlebnikova
     year: 1987
     language: Russian
     sources:
@@ -10425,6 +10965,7 @@ titles:
     authors:
       - Nikolaj Nikolaevič Nosov
       - Boris M. Kalaušin
+    translators:
       - Janina Lewandowska
     year: 1987
     language: Polish
@@ -10438,6 +10979,7 @@ titles:
     authors:
       - Nikolaj Nikolaevič Nosov
       - Boris M. Kalaušin
+    translators:
       - Janina Lewandowska
     year: 1987
     language: Polish
@@ -10451,6 +10993,7 @@ titles:
     authors:
       - Nikolaj Nikolaevič Nosov
       - Boris M. Kalaušin
+    translators:
       - Janina Lewandowska
     year: 1987
     language: Polish
@@ -10464,6 +11007,9 @@ titles:
     subtitle: Povesti i rasskazy
     authors:
       - Ryszard Kłyś
+    translators:
+      - Viktor Maksimovič Borisov
+      - S. Popkova
     year: 1987
     language: Russian
     pages: 186
@@ -10480,6 +11026,7 @@ titles:
   - title: Kamen' na kamen'
     authors:
       - Wiesław Myśliwski
+    translators:
       - Ksenia Starosielska
     year: 1987
     language: Russian
@@ -10495,6 +11042,7 @@ titles:
     authors:
       - Nikolaj Nikolaevič Nosov
       - Boris M. Kalaušin
+    translators:
       - Janina Lewandowska
     year: 1987
     language: Polish
@@ -10518,6 +11066,7 @@ titles:
     verified: true
   - title: Kino Indii
     subtitle: Prošloe i nastoâŝee
+    original_title: Indian cinema past and present
     authors:
       - Firoze Rangoonwalla
       - M. L. Salganik
@@ -10554,6 +11103,8 @@ titles:
     subtitle: Being the Tale of Cross-Eyed Lefty of Tula and the Steel Flea
     authors:
       - Nikolai Semenovich Leskov
+    translators:
+      - George H.
     year: 1987
     language: English
     pages: 59
@@ -10572,6 +11123,7 @@ titles:
     verified: true
   - title: Lev Kuleshov
     subtitle: 'Selected Works: Fifty Years in Films'
+    original_title: 'Izbrannye rabota : 50 let v kino'
     authors:
       - L. V. Kulešov
       - Ekaterina Khokhlova
@@ -10585,6 +11137,9 @@ titles:
     subtitle: Selected Works
     authors:
       - L. V. Kuleshov
+    translators:
+      - Dmitri Agrachev
+      - Nina Belenkaya
     year: 1987
     language: English
     pages: 287
@@ -10599,6 +11154,7 @@ titles:
     subtitle: Poems
     authors:
       - Ivan Savelʹev
+    translators:
       - Walter May
     year: 1987
     language: English
@@ -10627,6 +11183,25 @@ titles:
     authors:
       - Jarosław Iwaszkiewicz
       - N. Podol'ska
+    translators:
+      - Natal'ja Jakovlevna Podol'skaja
+      - Gil'da V. Jazykova
+      - Gil'da A. Gudimova
+      - V. Perel'man
+      - Evgenij Viktorovič Nevjakin
+      - Èva R. Vasilevskaja
+      - Evgenija Michajlovna Lysenko
+      - Boris Fedorovič Stacheev
+      - Sergej Ivanovič Larin
+      - Stella Dimitrievna Tonkonogova
+      - Mihail Haimovič Landman
+      - V. Vladimirova
+      - A. Krejdlina
+      - Mihail Vasil'evič Ignatov
+      - Aleksandr Aleksandrovič Kremenskij
+      - L. Buchov
+      - Viktor Vasil'evič Borisov
+      - O. Medvedeva
     year: 1987
     language: Russian
     sources:
@@ -10649,6 +11224,7 @@ titles:
     subtitle: Stat'i, esse
     authors:
       - Jarosław Iwaszkiewicz
+    translators:
       - Nataliâ Âkovlevna Podol'skaâ
     year: 1987
     language: Russian
@@ -10672,6 +11248,7 @@ titles:
     verified: true
   - title: Lvov
     subtitle: A Guide
+    original_title: L'vov
     authors:
       - Linda Alekseeva
       - Grigory Ostrovsky
@@ -10735,6 +11312,8 @@ titles:
   - title: Maths with Mummy
     authors:
       - V. Zhitomirskiĭ
+    translators:
+      - Diana Miller
     year: 1987
     language: English
     pages: 198
@@ -10754,6 +11333,8 @@ titles:
     subtitle: A Book for Inquiring Minds
     authors:
       - Anatoliĭ Markusha
+    translators:
+      - Graham Whittaker
     year: 1987
     language: English
     pages: 206
@@ -10771,6 +11352,7 @@ titles:
         url: https://mirtitles.org/2018/05/09/miracles-on-wheels-markusha/
   - title: Mock Faustus, or the Corrected Complementd Cooking-Book
     subtitle: A Novel
+    original_title: Fal'sivyj Faust
     authors:
       - Marǧeris Zariņs
       - Raissa Bobrova
@@ -10785,6 +11367,8 @@ titles:
     subtitle: A Novel
     authors:
       - Marg̓eris Zariņš
+    translators:
+      - Raissa Bobrova
     year: 1987
     language: English
     pages: 301
@@ -10811,8 +11395,11 @@ titles:
     verified: true
   - title: Morozov Makes a Choice
     subtitle: A Novel
+    original_title: Varianty Morozova
     authors:
       - Sviatoslav Rybas
+    translators:
+      - Alex Miller
     year: 1987
     language: English
     pages: 376
@@ -10833,6 +11420,7 @@ titles:
     authors:
       - Nikolaj Nikolaevič Nosov
       - Boris M. Kalaušin
+    translators:
       - Janina Lewandowska
     year: 1987
     language: Polish
@@ -10846,6 +11434,7 @@ titles:
     authors:
       - Nikolaj Nikolaevič Nosov
       - Boris M. Kalaušin
+    translators:
       - Janina Lewandowska
     year: 1987
     language: Polish
@@ -10870,6 +11459,8 @@ titles:
     subtitle: A Collection of Soviet Short Stories
     authors:
       - M. Kizilov
+    translators:
+      - Andrew Bromfield
     year: 1987
     language: English
     pages: 517
@@ -10887,6 +11478,9 @@ titles:
   - title: Ničejnaja zemlja
     authors:
       - Gernot Wolfgruber
+    translators:
+      - Ju Ginzburga
+      - G. Kosaruk
     year: 1987
     language: Russian
     sources:
@@ -10896,10 +11490,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=154325330X
     verified: true
     subtitle: Roman; perevod s nemeckogo
+    original_title: Niemandsland
   - title: Nowe znajome
     authors:
       - Nikolaj Nikolaevič Nosov
       - Boris M. Kalaušin
+    translators:
       - Janina Lewandowska
     year: 1987
     language: Polish
@@ -10931,8 +11527,10 @@ titles:
     verified: true
   - title: Ostanovka v puti
     subtitle: Roman
+    original_title: Der Aufenthalt
     authors:
       - Hermann Kant
+    translators:
       - I. Karinceva
     year: 1987
     language: Russian
@@ -10967,6 +11565,8 @@ titles:
   - title: Pavlosk, a Guide
     authors:
       - Valeria Belanina
+    translators:
+      - Kathleen Cook-Horujy
     year: 1987
     language: English
     pages: 87
@@ -10982,6 +11582,7 @@ titles:
     verified: true
   - title: Pavlovsk
     subtitle: A Guide
+    original_title: Pavlovsk
     series: Guidebook
     authors:
       - Valerija Afanasʹevna Belanina
@@ -11013,6 +11614,7 @@ titles:
     verified: true
   - title: Pevez i akkompaniator
     subtitle: 'Vospominanija, razmyšlenija o muzyke: perevod s anglijskogo'
+    original_title: Singer and accompanist
     authors:
       - Gerald Moore
       - Aleksej Vasilʹevič Parin
@@ -11025,6 +11627,7 @@ titles:
   - title: Pierwsze polowanie
     authors:
       - Vitalij Valentinovič Bianki
+    translators:
       - Maria M. Juraszek
     year: 1987
     language: Polish
@@ -11150,6 +11753,7 @@ titles:
     authors:
       - Nikolaj Nikolaevič Nosov
       - Boris M. Kalaušin
+    translators:
       - Janina Lewandowska
     year: 1987
     language: Polish
@@ -11221,6 +11825,9 @@ titles:
     subtitle: Fifty Years in Films
     authors:
       - L. V. Kuleshov
+    translators:
+      - Dmitri Agrachev
+      - Nina Belenkaya
     year: 1987
     language: English
     pages: 286
@@ -11268,6 +11875,7 @@ titles:
     subtitle: 'Roman; Magellanovo oblako: roman'
     authors:
       - Stanisław Lem
+    translators:
       - L. Âkovlev
       - Galina A. Gudimova
       - V. Perel'man
@@ -11295,6 +11903,10 @@ titles:
     series: Biblioteka fantastiki v 24 tomach; tom 19
     authors:
       - Stanisław Lem
+    translators:
+      - Lev Jakovlev
+      - V. Perel'man
+      - Galina A. Gudimova
     year: 1987
     language: Russian
     sources:
@@ -11439,8 +12051,10 @@ titles:
     pages: 259
     isbn: '5050011736'
   - title: The Aesthetics of Dostoyevsky
+    original_title: Ėstetika Dostoevskogo
     authors:
       - Nadežda V. Kašina
+    translators:
       - Julius Katser
     year: 1987
     language: English
@@ -11459,6 +12073,8 @@ titles:
   - title: The Blind Musician
     authors:
       - Vladimir Galaktionovich Korolenko
+    translators:
+      - Helen Altschuler
     year: 1987
     language: English
     pages: 134
@@ -11524,6 +12140,8 @@ titles:
   - title: The Golden Goblet
     authors:
       - Kaium Tangrygulyev
+    translators:
+      - Cynthia Rosenberger
     year: 1987
     language: English
     pages: 110
@@ -11556,6 +12174,8 @@ titles:
     subtitle: Craft and Craftsmen of the USSR
     authors:
       - Aleksandr Sergeevich Milovskiĭ
+    translators:
+      - Jan Butler
     year: 1987
     language: English
     pages: 253
@@ -11592,6 +12212,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/003107692
     verified: true
   - title: The Story of the Great Pomor
+    original_title: Povest o velikom pomore
     authors:
       - Nikolai Aleksandrovich Ravich
     year: 1987
@@ -11604,6 +12225,8 @@ titles:
     subtitle: A Novel for Children
     authors:
       - IUriĭ Karlovich Olesha
+    translators:
+      - Fainna Glagoleva
     year: 1987
     language: English
     pages: 173
@@ -11627,6 +12250,7 @@ titles:
     verified: true
   - title: The Young Guard
     subtitle: A Novel
+    original_title: Molodaia gvardiia
     authors:
       - Aleksandr Fadeev
       - Violet Dutt
@@ -11643,6 +12267,8 @@ titles:
     subtitle: Stories about the Russian Far North
     authors:
       - Urii Kazakov
+    editors:
+      - Vancetti Čukreev
     year: 1987
     language: Russian
     pages: 334
@@ -11695,6 +12321,8 @@ titles:
     subtitle: A Guide
     authors:
       - Dmitry Pop
+    translators:
+      - Glenis Ann Rampley
     year: 1987
     language: English
     isbn: '5050011868'
@@ -11714,6 +12342,7 @@ titles:
     verified: true
     pages: 125
   - title: Vasil Bykov
+    original_title: Vasilʹ Bykov
     authors:
       - Lazar' L'vovich Lazarev
       - Vasil' Bykau
@@ -11733,12 +12362,14 @@ titles:
     verified: true
   - title: Vinterspel't
     subtitle: Roman
+    original_title: Der Vater eines Mörders
     series: Mastera sovremennoj prozy
     authors:
       - Alfred Andersch
       - Nina S. Litvinec
-      - Irina Mlecina
       - Vissarion G. Alekseev
+    translators:
+      - Irina Mlecina
       - Evgenija A. Kaceva
     year: 1987
     language: Russian
@@ -11750,6 +12381,7 @@ titles:
     subtitle: Roman
     authors:
       - Alfred Andersch
+    translators:
       - Irina V. Mlečina
     year: 1987
     language: Russian
@@ -11761,6 +12393,7 @@ titles:
     subtitle: Pât' detektivnyh romanov
     authors:
       - Jerzy Edigey
+    translators:
       - Vladimir Ivanovič Kiselev
       - Boris Fedorovič Stacheev
       - Nikolaj Leonidovič Plisko
@@ -11778,6 +12411,7 @@ titles:
     authors:
       - Nikolaj Nikolaevič Nosov
       - Boris M. Kalaušin
+    translators:
       - Janina Lewandowska
     year: 1987
     language: Polish
@@ -11788,8 +12422,11 @@ titles:
         url: https://search.worldcat.org/title/894989120
     verified: true
   - title: Why Water Is Wet
+    original_title: Pochemu voda mokria
     authors:
       - Maĭlen Konstantinovskiĭ
+    translators:
+      - K. M. Cook-Horujy
     year: 1987
     language: English
     pages: 43
@@ -11838,8 +12475,11 @@ titles:
     verified: true
   - title: Yaroslavl
     subtitle: A Guide
+    original_title: I︠A︡roslavlʹ
     authors:
       - Feliks Razumovskii
+    editors:
+      - A. Bouianovskaya
     year: 1987
     language: English
     isbn: '5050011876'
@@ -11863,6 +12503,7 @@ titles:
     series: Guidebook
   - title: Year After Year
     subtitle: Selections from "Sovietish Heimland" Monthly
+    original_title: God za godom
     series: Yiddish Writers Almanac; 1
     authors:
       - Aron Vergelis
@@ -11883,11 +12524,13 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991041882049708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Žizn' Ban Goga
+    original_title: La vie de Van Gog
     authors:
       - Henri Perruchot
+      - Vincent van Gogh
+    translators:
       - S. Tarchanova
       - Ju Jachnina
-      - Vincent van Gogh
     year: 1987
     language: Russian
     sources:
@@ -11946,6 +12589,8 @@ titles:
   - title: A Picture Book of Astronomy
     authors:
       - Boris Levin
+    translators:
+      - Tracy Kuehn
     year: 1988
     language: English
     pages: 36
@@ -11964,6 +12609,8 @@ titles:
   - title: A Walk About Town
     authors:
       - Nikolay Nosov (Николай Носов)
+    translators:
+      - Margaret Wettlin
     year: 1988
     series: Dunno's Adventures
     language: English
@@ -11998,6 +12645,10 @@ titles:
     subtitle: A Collection of Articles
     authors:
       - T. B. Liubimova
+    editors:
+      - Avner Ja Zis'
+    translators:
+      - Sergei Syrovatkin
     year: 1988
     language: English
     pages: 310
@@ -12038,6 +12689,8 @@ titles:
       - Isaac Asimov
       - Robert Sheckley
       - Harry Harrison
+      - Vladimir L. Gopman
+    translators:
       - Lev Lʹvovič Ždanov
       - Irina Gavrilovna Gurova
       - Margarita Nikolaevna Kovaleva
@@ -12055,7 +12708,6 @@ titles:
       - Zinaida Anatolʹevna Bobyrʹ
       - Tat'jana Alekseevna Ozërskaja
       - Igorʹ Georgievič Počitalin
-      - Vladimir L. Gopman
     year: 1988
     language: Russian
     sources:
@@ -12064,6 +12716,7 @@ titles:
     verified: true
   - title: An Unwritten Story by Somerset Maugham
     subtitle: Novellas
+    original_title: Nenapisannyĭ rasskaz Somerseta Moėma
     authors:
       - Yurij Markovich Nagibin
     year: 1988
@@ -12113,6 +12766,8 @@ titles:
     subtitle: Kniga stikhov
     authors:
       - IUriĭ Voronov
+    editors:
+      - Heinz Kahlau
     year: 1988
     language: Russian
     pages: 261
@@ -12142,6 +12797,8 @@ titles:
   - title: Cardboard Clock Square
     authors:
       - Leonid IAkhnin
+    translators:
+      - Fainna Glagoleva
     year: 1988
     language: English
     pages: 78
@@ -12154,6 +12811,7 @@ titles:
       - label: Read or download (Mir Titles)
         url: https://mirtitles.org/2021/06/03/cardboard-clock-square-yakhnin/
   - title: Carstvo zemnoe - roman. Vek prosveščenija - roman. Koncert barokko - povest'. Arfa i ten' - povest'
+    original_title: El reino de este mundo
     series: Mastera sovremennoj prozy
     authors:
       - Alejo Carpentier
@@ -12177,6 +12835,7 @@ titles:
     verified: true
   - title: Chelovecheskaia komediia
     subtitle: 'Roman; izbrannye rasskazy; Vot prishel, vot ushel sam znaesh kto: iz avtobiografii'
+    original_title: Human comedy
     authors:
       - Aram Saroyan
     year: 1988
@@ -12206,6 +12865,7 @@ titles:
         url: https://mirtitles.org/2026/04/07/childhood-adolescence-youth-by-leo-tolstoy/
   - title: Chraniteli
     subtitle: Povestʹ
+    original_title: The fellowship of the ring
     series: Vlastelin kolec / Džon Ronalʹd Ruėl Tolkien; letopisʹ 1
     authors:
       - J. R. R. Tolkien
@@ -12219,6 +12879,8 @@ titles:
   - title: Envy
     authors:
       - IUriĭ Karlovich Olesha
+    translators:
+      - J. C. Butler
     year: 1988
     language: English
     sources:
@@ -12242,6 +12904,7 @@ titles:
     subtitle: Sovremennaja marokkanskaja proza
     authors:
       - Daniil Mikul'skij
+    translators:
       - Boris Čukov
     year: 1988
     language: Russian
@@ -12261,6 +12924,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=355681137
     verified: true
   - title: Everyone Likes to Draw
+    original_title: Kto kčto risuet
     authors:
       - Vjačeslav Legkobit
       - Fainna Solasko
@@ -12290,6 +12954,8 @@ titles:
     subtitle: A Novel
     authors:
       - Ivan Sergeevich Turgenev
+    translators:
+      - Bernard Isaacs
     year: 1988
     series: Russian Classics
     language: English
@@ -12333,7 +12999,8 @@ titles:
         url: https://openlibrary.org/books/OL24678261M
     verified: true
   - title: G. M. Encensberger, Ch. Domin, Ch. Piontek, V. Bechler, G. Grass, N. Born, K. Mekkelʹ
-    authors:
+    authors: []
+    translators:
       - Evgenij Vladimirovič Vitkovskij
     year: 1988
     language: Russian
@@ -12356,6 +13023,8 @@ titles:
     subtitle: (His Career in Chess)
     authors:
       - M. M. IUdovich
+    translators:
+      - Oleg Zilbert
     year: 1988
     language: English
     pages: 202
@@ -12397,6 +13066,8 @@ titles:
     series: Biblioteka mongol'skoj literatury
     authors:
       - Gennadij B. Jaroslavcev
+    translators:
+      - P. Jurkoveckij
     year: 1988
     language: Not recorded
     sources:
@@ -12458,6 +13129,8 @@ titles:
     series: Mastera sovremennoj prozy FRG
     authors:
       - Heinrich Böll
+    editors:
+      - Pavel Maksimovič Toper
     year: 1988
     language: Russian
     sources:
@@ -12628,6 +13301,7 @@ titles:
     subtitle: 'Drakon v gerbe: istoričeskij roman-hronika'
     authors:
       - Halina Auderska
+    translators:
       - Gil'da Vladimirovna Âzykova
       - Viktor Maksimovič Borisov
     year: 1988
@@ -12681,6 +13355,8 @@ titles:
   - title: Lenin and Literature
     authors:
       - IUriĭ Andreevich Lukin
+    translators:
+      - Lev Lyapin
     year: 1988
     language: English
     pages: 170
@@ -12717,6 +13393,8 @@ titles:
   - title: Lev Tolstoy
     authors:
       - Viktor Borisovič Šklovskij
+    translators:
+      - Olga Shartse
     year: 1988
     language: English
     pages: 668
@@ -12740,8 +13418,11 @@ titles:
         url: https://www.sudoc.fr/006539297
     verified: true
   - title: Light Breathing and Other Stories
+    original_title: Legkoe dychanie i drugie rasskazy
     authors:
       - Ivan Bunin (Иван Алексеевич Бунин)
+    translators:
+      - Olga Shartse
     year: 1988
     series: Russian Classics
     language: English
@@ -12789,6 +13470,7 @@ titles:
         url: https://d-nb.info/984128301
     verified: true
   - title: Märchen aus dem Baltikum
+    original_title: Skazki narodov Pribaltiki
     series: Märchen der Völker der Sowjetunion
     authors:
       - Michail Anikst
@@ -12801,6 +13483,8 @@ titles:
   - title: Masha and the Bear
     authors:
       - E. Rachëv
+    translators:
+      - Irina Zheleznova
     year: 1988
     language: English
     pages: 16
@@ -12823,6 +13507,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=580038181
     verified: true
   - title: Mi general
+    original_title: Moi general
     authors:
       - Al'bert Anatol'evich Lijanov
     year: 1988
@@ -12835,6 +13520,8 @@ titles:
     subtitle: A Guide
     authors:
       - Lidiia Dubinskaia
+    translators:
+      - Galina Glagoleva
     year: 1988
     edition: Rev. ed. --
     language: English
@@ -12886,6 +13573,7 @@ titles:
   - title: Nepohožij
     authors:
       - Aleksander Minkowski
+    translators:
       - E. G. Milevskaâ
       - Aleksej Oreškin
     year: 1988
@@ -12900,6 +13588,7 @@ titles:
     subtitle: Roman
     authors:
       - Seweryna Szmaglewska
+    translators:
       - Èlena Gessen
     year: 1988
     language: Russian
@@ -12911,6 +13600,7 @@ titles:
     subtitle: Roman
     authors:
       - Seweryna Szmaglewska
+    translators:
       - Èstera Gessen
     year: 1988
     language: Russian
@@ -12956,6 +13646,8 @@ titles:
   - title: Notes of a Nature Photographer
     authors:
       - A. G. Rogozhkin
+    translators:
+      - Raissa Bobrova
     year: 1988
     language: English
     pages: 174
@@ -12991,6 +13683,8 @@ titles:
   - title: Outer Space or Bust!
     authors:
       - Gennadiĭ Chernenko
+    translators:
+      - Sergei Sosinsky
     year: 1988
     language: English
     pages: 98
@@ -13040,6 +13734,7 @@ titles:
     verified: true
   - title: Pis'ma sestidesjatiletnego zizneljubca
     subtitle: Roman; klad.; povest'
+    original_title: Cartas de amor de un sexagenario voluptuoso
     authors:
       - Miguel Delibes
       - V. Vinogradova
@@ -13051,6 +13746,7 @@ titles:
     verified: true
   - title: Pis'ma shestidesiatiletnego zhizneliubtsa
     subtitle: 'Roman; Klad: povest'''
+    original_title: Cartas de amor de un sexagenario voluptuoso
     authors:
       - Miguel Delibes
     year: 1988
@@ -13071,6 +13767,8 @@ titles:
   - title: Poems
     authors:
       - Anna Akhmatova
+    translators:
+      - Eduard Zaryansky
     year: 1988
     language: English
     pages: 268
@@ -13142,6 +13840,8 @@ titles:
     subtitle: A Novel and Stories of the 1840's
     authors:
       - Fiódor Dostoievski
+    translators:
+      - Olga Shartse
     year: 1988
     series: Selected Works / Fyodor Dostoyevsky
     language: English
@@ -13205,6 +13905,8 @@ titles:
     subtitle: A Novel in Two Volumes
     authors:
       - Mikhail Aleksandrovich Sholokhov
+    translators:
+      - Robert Daglish
     year: 1988
     language: English
     pages: 751
@@ -13279,8 +13981,9 @@ titles:
     authors:
       - Nikolaj Nikolaevič Nosov
       - Boris M. Kalaušin
-      - Janina Lewandowska
       - Izdatel'stvo "Raduga"
+    translators:
+      - Janina Lewandowska
     year: 1988
     language: Polish
     sources:
@@ -13292,6 +13995,8 @@ titles:
   - title: Russian Architecture of the Soviet Period
     authors:
       - Andreĭ Vladimirovich Ikonnikov
+    translators:
+      - Lev Lyapin
     year: 1988
     language: English
     pages: 396
@@ -13322,6 +14027,8 @@ titles:
   - title: Sannikov Land
     authors:
       - V. A. Obruchev
+    translators:
+      - David Skvirsky
     year: 1988
     series: Adventure & Fantasy
     language: English
@@ -13405,8 +14112,10 @@ titles:
     verified: true
   - title: Sobiratel'nica kamnej
     subtitle: Roman
+    original_title: Die Steinesammlerin
     authors:
       - Gert Heidenreich
+    translators:
       - E. Markovič
     year: 1988
     language: Russian
@@ -13501,6 +14210,8 @@ titles:
   - title: Tales by Uncle Trivim
     authors:
       - Georgĭ Orlov
+    translators:
+      - J. C.
     year: 1988
     language: English
     pages: 79
@@ -13517,6 +14228,8 @@ titles:
     subtitle: A Novel
     authors:
       - Anatoliĭ Andreevich Ananʹev
+    translators:
+      - Alex Miller
     year: 1988
     language: English
     pages: 286
@@ -13533,12 +14246,14 @@ titles:
     verified: true
   - title: Tévié le laitier
     subtitle: Et autres récits
+    original_title: Tev'e-moločnik
     authors:
       - Cholem Aleichem
-      - Colette Stoïanov
-      - Dora Sanadzé
       - Anatolij Lʹvovič Kaplan
       - Pavel Nikiporetz
+    translators:
+      - Colette Stoïanov
+      - Dora Sanadzé
     year: 1988
     language: French
     sources:
@@ -13548,6 +14263,8 @@ titles:
   - title: Tevye the Dairyman and Other Stories
     authors:
       - Sholem Aleichem
+    translators:
+      - Miriam Katz
     year: 1988
     language: English
     pages: 413
@@ -13563,6 +14280,8 @@ titles:
   - title: The ANT AND THE PIGEON
     authors:
       - Leo Tolstoy (Лев Толстой)
+    translators:
+      - K. M. Cook-Horujy
     year: 1988
     language: English
     pages: 158
@@ -13595,6 +14314,8 @@ titles:
   - title: The Chariot of Time
     authors:
       - IUriĭ Medvedev
+    translators:
+      - Robert King
     year: 1988
     series: Adventure & Fantasy
     language: English
@@ -13614,6 +14335,8 @@ titles:
     subtitle: A Story of First Love
     authors:
       - Ruvim Freierman
+    translators:
+      - Irina Zheleznova
     year: 1988
     language: English
     pages: 142
@@ -13629,6 +14352,8 @@ titles:
   - title: The Dog Family
     authors:
       - Igorʹ Akimushkin
+    translators:
+      - Tracy Kuehn
     year: 1988
     language: English
     pages: 24
@@ -13644,6 +14369,9 @@ titles:
   - title: The Hermit and the Rose
     authors:
       - Boris Vladimirovich Zakhoder
+    translators:
+      - Avril Pyman
+      - K. M. Cook-Horujy
     year: 1988
     language: English
     pages: 78
@@ -13679,6 +14407,8 @@ titles:
   - title: The Little Humpbacked Horse
     authors:
       - P. P. Ershov
+    translators:
+      - Louis Zellikoff
     year: 1988
     edition: '[2d rev. ed.]'
     language: English
@@ -13696,6 +14426,7 @@ titles:
         url: https://archive.org/details/littlehumpbacked00ersh
     verified: true
   - title: The Little Scarlet Flower
+    original_title: Alen'kij cvetoček
     authors:
       - Julija N. Ustinova
       - James Riordan
@@ -13767,6 +14498,8 @@ titles:
   - title: The Tiger Hunters
     authors:
       - Anatoliĭ Buĭlov
+    translators:
+      - Alex Miller
     year: 1988
     language: English, Russian
     pages: 299
@@ -13783,6 +14516,8 @@ titles:
     subtitle: A Fairy-Tale from Daghestan
     authors:
       - Atkaĭ
+    translators:
+      - Walter May
     year: 1988
     language: English
     pages: 23
@@ -13801,6 +14536,8 @@ titles:
   - title: The White Stork in the Sky
     subtitle: Stories
     authors: []
+    translators:
+      - Sergei Sosinsky
     year: 1988
     language: English
     pages: 85
@@ -13827,6 +14564,8 @@ titles:
   - title: The World Chess Crown Challenge, Kasparov vs Karpov, Seville 87
     authors:
       - David Bronstein
+    translators:
+      - Oleg Zilbert
     year: 1988
     language: English
     pages: 158
@@ -13842,6 +14581,8 @@ titles:
   - title: Valentin Rasputin
     authors:
       - N. N. Kotenko
+    translators:
+      - Holly Smith
     year: 1988
     series: Soviet Writers Today
     language: English
@@ -13888,9 +14629,10 @@ titles:
   - title: Vernis' v Sorrento? ...
     authors:
       - Anna German
-      - Renata Bello
       - N. Oskolkova
       - L. Spadoni
+    translators:
+      - Renata Bello
     year: 1988
     language: Russian
     sources:
@@ -13913,6 +14655,7 @@ titles:
         url: https://search.worldcat.org/title/23977454
     verified: true
   - title: Vlastelin kolec
+    original_title: The lord of the rings
     authors:
       - J. R. R. Tolkien
     year: 1988
@@ -13924,6 +14667,7 @@ titles:
   - title: Vnezapnaja smert' igroka
     authors:
       - Jerzy Edigey
+    translators:
       - Boris Fedorovič Stacheev
     year: 1988
     language: Russian
@@ -13933,10 +14677,12 @@ titles:
     verified: true
   - title: Vospominaniâ Adriana
     subtitle: Roman
+    original_title: Mémoires d'Hadrien
     authors:
       - Marguerite Yourcenar
-      - M. Vaksmaher
       - Û. Davydov
+    translators:
+      - M. Vaksmaher
     year: 1988
     language: Russian
     sources:
@@ -13947,6 +14693,7 @@ titles:
     authors:
       - Nikolaj Nikolaevič Nosov
       - Boris M. Kalaušin
+    translators:
       - Janina Lewandowska
     year: 1988
     language: Polish
@@ -14024,6 +14771,7 @@ titles:
     authors:
       - Nikolaj Nikolaevič Nosov
       - Boris M. Kalaušin
+    translators:
       - Janina Lewandowska
     year: 1988
     language: Polish
@@ -14034,6 +14782,7 @@ titles:
         url: https://search.worldcat.org/title/909204052
     verified: true
   - title: Žizn' Brechta
+    original_title: Leben Brechts
     authors:
       - Ernst Schumacher
       - E. Ljubarovoj
@@ -14049,6 +14798,7 @@ titles:
     subtitle: Sbornik
     authors:
       - Ryszard Liskowacki
+    translators:
       - Mihail Vasil'evič Ignatov
     year: 1988
     language: Russian
@@ -14061,6 +14811,7 @@ titles:
   - title: Žizn' večnaja
     authors:
       - Ryszard Liskowacki
+    translators:
       - Michail Fedorovič Zubkov
       - V. Bergel'son
       - Ljudmila Petruševskaja
@@ -14110,8 +14861,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1890478393
     verified: true
   - title: Воспоминания Адриана
+    original_title: Mémoires d'Hadrien
     authors:
       - Marguerite Yourcenar
+    translators:
+      - Moris Vaksmakher (Морис Ваксмахер)
     year: 1988
     language: Russian
     pages: 288
@@ -14150,6 +14904,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA1942897X
     verified: false
   - title: Собирательница камней
+    original_title: Die Steinesammlerin
     authors:
       - Gert Heidenreich
     year: 1988
@@ -14189,6 +14944,11 @@ titles:
     subtitle: A Textbook
     authors:
       - Lev Aleksandrovich Dmitriev
+    editors:
+      - Dmitrij Sergeevič Lihačev
+      - Lev Aleksandrovič Dmitriev
+    translators:
+      - K. M. Cook-Horujy
     year: 1989
     language: English
     pages: 606
@@ -14223,6 +14983,8 @@ titles:
   - title: A Purple Bird
     authors:
       - IUrĭ Koval'
+    translators:
+      - Fainna Solasko
     year: 1989
     language: English
     pages: 53
@@ -14248,6 +15010,8 @@ titles:
   - title: Alpine Ballad
     authors:
       - Vasilʹ Bykaŭ
+    translators:
+      - George Hanna
     year: 1989
     language: English
     pages: 230
@@ -14292,6 +15056,8 @@ titles:
   - title: Ambassador Without Credentials
     authors:
       - Sergeĭ Snegov
+    translators:
+      - Alex Miller
     year: 1989
     series: Adventure & Fantasy
     language: English
@@ -14326,6 +15092,8 @@ titles:
     subtitle: Man Honours His Friends and Helpers
     authors:
       - Yury Dmitriev (Юрий Дмитриев)
+    translators:
+      - Raissa Bobrova
     year: 1989
     language: English
     pages: 314
@@ -14339,6 +15107,7 @@ titles:
     subtitle: Roman
     authors:
       - Sławomir Łubiński
+    translators:
       - Èlena Gessen
     year: 1989
     language: Russian
@@ -14352,6 +15121,7 @@ titles:
     subtitle: Roman
     authors:
       - Sławomir Łubiński
+    translators:
       - Èstera Gessen
     year: 1989
     language: Russian
@@ -14363,6 +15133,7 @@ titles:
     verified: true
   - title: Brat'ja
     subtitle: Roman
+    original_title: Die Brüder
     authors:
       - Dieter Lattmann
     year: 1989
@@ -14373,6 +15144,7 @@ titles:
     verified: true
   - title: Brat'ja Grimm
     subtitle: Ocerk žizni i tvorčestva
+    original_title: Die Brüder Grimm
     authors:
       - Herbert Scurla
     year: 1989
@@ -14421,6 +15193,8 @@ titles:
     subtitle: A Russian Folk Tale
     authors:
       - Bulatov
+    translators:
+      - K. M. Cook-Horujy
     year: 1989
     language: English
     pages: 24
@@ -14445,6 +15219,7 @@ titles:
     subtitle: Političeskij detektiv
     authors:
       - Wiesław Górnicki
+    translators:
       - Boris Fedorovič Staheev
     year: 1989
     language: Russian
@@ -14456,8 +15231,10 @@ titles:
     verified: true
   - title: Čas netopyrja
     subtitle: Političeskij detektiv; perevod s pol'skogo
+    original_title: Czas nietoperza
     authors:
       - Robert F. Stratton
+    translators:
       - B. Stacheev
     year: 1989
     language: Russian
@@ -14469,6 +15246,7 @@ titles:
     verified: true
   - title: Crimen y castigo
     subtitle: Novela en seis partes con epílogo
+    original_title: Prestuplenie i nakazanie
     series: Clásicos rusos
     authors:
       - Fiódor Dostoievski
@@ -14482,6 +15260,7 @@ titles:
     subtitle: 'Całe zdanie nieboszczyka: roman'
     authors:
       - Joanna Chmielewska
+    translators:
       - Vera Sergeevna Selivanova
     year: 1989
     language: Russian
@@ -14543,6 +15322,7 @@ titles:
     verified: true
   - title: Émali i kamei
     subtitle: Sbornik
+    original_title: Émaux et camées
     authors:
       - Théophile Gautier
       - Gueorguiï Konstantinovich Kosikov
@@ -14578,6 +15358,8 @@ titles:
   - title: Forest Seasons
     authors:
       - I. S. Sokolov-Mikitov
+    translators:
+      - Olga Shartse
     year: 1989
     language: English
     pages: 94
@@ -14627,6 +15409,7 @@ titles:
     verified: true
   - title: Gorod chudes
     subtitle: Roman
+    original_title: La ciudad de los prodigios
     authors:
       - Eduardo Mendoza
       - Nina Pavlovna Snetkova
@@ -14650,6 +15433,7 @@ titles:
     verified: true
   - title: Istoriia odnoï zhenshchiny
     subtitle: Roman
+    original_title: Una mujer
     series: Sovremennaia ispanskaia literatura
     authors:
       - Juana Trullás
@@ -14679,6 +15463,8 @@ titles:
     authors:
       - Max Aub
       - Sergej Ivanovic Zmeëv
+    editors:
+      - Aleksandr Aleksandrovič Gugnin
     year: 1989
     language: Russian
     sources:
@@ -14715,6 +15501,8 @@ titles:
     subtitle: A Novel
     authors:
       - V. Yan
+    translators:
+      - Linda Noble
     year: 1989
     language: English
     pages: 359
@@ -14781,6 +15569,7 @@ titles:
     subtitle: Roman
     authors:
       - Roman Bratny
+    translators:
       - Andrej Ermonskij
       - Mihail Vasil'evič Ignatov
     year: 1989
@@ -14795,9 +15584,10 @@ titles:
     subtitle: Roman
     authors:
       - Roman Bratny
+      - Majâ Ivanovna Koneva
+    translators:
       - Mihail Vasil'evič Ignatov
       - Andrej N. Ermonskij
-      - Majâ Ivanovna Koneva
     year: 1989
     language: Russian
     sources:
@@ -14808,6 +15598,7 @@ titles:
     authors:
       - Nikolaj Nikolaevič Nosov
       - Boris M. Kalaušin
+    translators:
       - Janina Lewandowska
     year: 1989
     language: Polish
@@ -14819,8 +15610,10 @@ titles:
     verified: true
   - title: Lavina
     subtitle: Roman
+    original_title: Die Lawine
     authors:
       - Max von der Grün
+    translators:
       - V. Stešenskogo
     year: 1989
     language: Russian
@@ -14834,6 +15627,8 @@ titles:
     subtitle: Stories
     authors:
       - Vasiliĭ Livanov
+    translators:
+      - Cynthia Rosenberger
     year: 1989
     language: English
     pages: 358
@@ -14851,8 +15646,9 @@ titles:
   - title: Leśne obrazki
     authors:
       - Ivan Sergeevič Sokolov-Mikitov
-      - Maria Dolińska
       - Georgij Nikol'skij
+    translators:
+      - Maria Dolińska
     year: 1989
     language: Polish
     sources:
@@ -14886,6 +15682,7 @@ titles:
     verified: true
   - title: Mir na Vostoke
     subtitle: Kogda gasnut ogni
+    original_title: Der Friede im Osten
     series: Novyj mir
     authors:
       - Erik Neutsch
@@ -14922,6 +15719,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=276711769
     verified: true
   - title: Moi pervye sorok let
+    original_title: My first forty years
     authors:
       - Plácido Domingo
       - Aleksej Vasilʹevič Parin
@@ -14935,8 +15733,10 @@ titles:
     verified: true
   - title: Molčanie
     subtitle: Romany
+    original_title: Chinmoku
     authors:
       - Shūsaku Endō
+    translators:
       - I. L. L'vova
     year: 1989
     language: Not recorded
@@ -14968,6 +15768,8 @@ titles:
   - title: Mother Pumpkin and Her Remarkable Gourd Family
     authors:
       - Nadezhda Nadezhdina
+    translators:
+      - Tracy Kuehn
     year: 1989
     language: English
     pages: 31
@@ -15039,6 +15841,7 @@ titles:
     subtitle: 'Skaz: rasskazy'
     authors:
       - Wojciech Żukrowski
+    translators:
       - Irina Nikolaevna Koltaševa
       - Viktor Maksimovič Borisov
       - E. Nevkin
@@ -15052,8 +15855,10 @@ titles:
     verified: true
   - title: Nad kukuškinym gnezdom
     subtitle: Roman
+    original_title: One flew over the cuckoo's nest
     authors:
       - Ken Kesey
+    translators:
       - Viktor Petrovič Golyšev
     year: 1989
     language: Russian
@@ -15063,8 +15868,10 @@ titles:
     verified: true
   - title: Neron
     subtitle: Istoričeskij roman
+    original_title: Neron
     authors:
       - Aleksander Krawczuk
+    translators:
       - Sergej Ivanovič Larin
     year: 1989
     language: Russian
@@ -15112,8 +15919,11 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA07994550
     verified: false
   - title: Notes from the Dead House
+    original_title: Zapiski iz mertvogo doma
     authors:
       - Fiódor Dostoievski
+    translators:
+      - Elena Cook
     year: 1989
     series: Selected Works / Fyodor Dostoyevsky
     language: English
@@ -15129,6 +15939,7 @@ titles:
     verified: true
   - title: Novoe blagodenstvie
     subtitle: Roman
+    original_title: Neue Herrlichkeit
     authors:
       - Günter de Bruyn
       - E. Kacevoj
@@ -15142,6 +15953,7 @@ titles:
     subtitle: Roman
     authors:
       - Günter de Bruyn
+    translators:
       - Evgenija Aleksandrovna Kaceva
     year: 1989
     language: Russian
@@ -15153,6 +15965,8 @@ titles:
     subtitle: A Novel
     authors:
       - Ivan Sergeevich Turgenev
+    translators:
+      - Stepan Apresyan
     year: 1989
     series: Russian Classics
     language: English
@@ -15220,6 +16034,7 @@ titles:
     subtitle: 'Očerki, statʹi, ėsse: Perevod s vengerskogo'
     authors:
       - Ž. Gerenčer
+    translators:
       - E. Malychina
     year: 1989
     language: Not recorded
@@ -15229,9 +16044,11 @@ titles:
     verified: true
   - title: Podari sebe den' kanikul
     subtitle: Rasskazy
+    original_title: Dăruiește-ți o zi de vacanță
     authors:
       - Gabriela Adameșteanu
       - Gabriela Adameshtianu (Габриэла Адамештяну)
+    translators:
       - Tatʹâna Èduardovna Ivanova
       - Tatiana Eduardovna Ivanova (Татьяна Эдуардовна Иванова)
     year: 1989
@@ -15242,8 +16059,10 @@ titles:
     verified: true
   - title: Pomniš lit ty?
     subtitle: Žiznʹ Imre Kalʹmana
+    original_title: Grüß' mir die süßen, die reizenden Frauen
     authors:
       - Vera Kálmán
+    translators:
       - Tatʹjana Iosifovna Voronkina
     year: 1989
     language: Russian
@@ -15291,13 +16110,14 @@ titles:
       - Inna Artašesovna Terterjan
       - Boris Vladimirovič Dubin
       - L. I. Borisevič
+      - V. A. Markevič
+    translators:
       - Evgenija M. Lysenko
       - Margarita I. Bylinkina
       - Valentina Sergeevna Kulagina-Jarceva
       - A. Fridman
       - Ljudmila Petrovna Sinjanskaja
       - Jurij Nikolaevič Stefanov
-      - V. A. Markevič
     year: 1989
     language: Russian
     sources:
@@ -15308,6 +16128,7 @@ titles:
     authors:
       - Nikolaj Nikolaevič Nosov
       - Aleksej Mihajlovič Laptev
+    translators:
       - Janina Lewandowska
     year: 1989
     language: Polish
@@ -15354,8 +16175,9 @@ titles:
         url: https://mirtitles.org/2021/11/20/rat-a-tat-tat-by-nikolai-nosov/
   - title: Russische Zaubermärchen
     authors:
-      - Rita Schick
       - Nikolaj M. Kočergin
+    translators:
+      - Rita Schick
     year: 1989
     language: Not recorded
     sources:
@@ -15493,6 +16315,7 @@ titles:
     verified: true
   - title: Sovremennyj švejcarskij detektiv
     subtitle: Fridrich Glauzer. Fridrich Djurrenmatt. Markus P. Nester; perevod s nemeckogo
+    original_title: Matto regiert
     series: Sovremennyj zarubežnyj detektiv
     authors:
       - V. Sedel'nik
@@ -15532,6 +16355,7 @@ titles:
     verified: true
   - title: Tatarskaja pustynja
     subtitle: Roman
+    original_title: Il deserto dei tartari
     series: Mastera sovremennoj prozy
     authors:
       - Dino Buzzati
@@ -15556,6 +16380,8 @@ titles:
     subtitle: A Novel
     authors:
       - Vasiliĭ Belov
+    translators:
+      - P. O. Gromm
     year: 1989
     language: English
     pages: 203
@@ -15580,6 +16406,8 @@ titles:
     subtitle: A Novel
     authors:
       - IUriĭ Pavlovich German
+    translators:
+      - Olga Shartse
     year: 1989
     language: English
     pages: 341
@@ -15593,6 +16421,8 @@ titles:
   - title: The Destruction of Faena
     authors:
       - Aleksandr Petrovich Kazantsev
+    translators:
+      - Alex Miller
     year: 1989
     series: Adventure & Fantasy
     language: English
@@ -15608,8 +16438,12 @@ titles:
     verified: true
   - title: The Government Inspector
     subtitle: Comedy in Five Acts
+    original_title: Revizor
     authors:
       - Nikolaĭ Vasilʹevich Gogolʹ
+    translators:
+      - Christopher English
+      - Gordon McDougall
     year: 1989
     series: Russian Classics
     language: English
@@ -15633,6 +16467,8 @@ titles:
   - title: The Hour Is Come
     authors:
       - Victor Chernyak
+    translators:
+      - Linda Noble
     year: 1989
     language: English
     pages: 434
@@ -15650,8 +16486,11 @@ titles:
     isbn: '5050024528'
   - title: The Idiot
     subtitle: A Novel in Two Books
+    original_title: Идиот / Idiot
     authors:
       - Fiódor Dostoievski
+    translators:
+      - Julius Katzer
     year: 1989
     series: Selected Works / Fyodor Dostoyevsky
     language: English
@@ -15681,6 +16520,7 @@ titles:
         url: https://lccn.loc.gov/90168798
     verified: true
   - title: The Insulted and Humiliated
+    original_title: Unizhennye i oskorblennye
     authors:
       - Fiódor Dostoievski
     year: 1989
@@ -15702,6 +16542,8 @@ titles:
     subtitle: A Novel
     authors:
       - Konstantin Simonow (Константин Михайлович Симонов)
+    translators:
+      - Alex Miller
     year: 1989
     language: English
     pages: 520
@@ -15789,6 +16631,8 @@ titles:
   - title: The Silver Horse-Shoe
     authors:
       - Jăvad Tărjemanov
+    translators:
+      - Graham Whittaker
     year: 1989
     language: English
     pages: 365
@@ -15804,9 +16648,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=018385826
     verified: true
     subtitle: Na Anglijskom Jazyke
+    original_title: Serebrjanaja podkova
   - title: The Sun Sat Down to Sew a Shirt
     subtitle: 'Lithuanian Rhymes = Shilo Solnyshko Rubashku: Litovskie Narodnye Pesenki'
     authors: []
+    translators:
+      - Fainna Solasko
     year: 1989
     language: English
     sources:
@@ -15819,6 +16666,9 @@ titles:
     subtitle: Stories
     authors:
       - Faziĺ Iskander (Фазиль Абдулович Искандер)
+    translators:
+      - Robert Daglish
+      - K. M. Cook-Horujy
     year: 1989
     language: English
     pages: 213
@@ -15871,6 +16721,8 @@ titles:
     verified: true
   - title: Tower of Birds
     authors: []
+    translators:
+      - Holly Smith
     year: 1989
     series: Adventure & Fantasy
     language: English
@@ -15904,8 +16756,10 @@ titles:
         url: https://archive.org/details/v.-kaverin-two-captains-raduga-1989
   - title: Ucebnyj plac
     subtitle: Roman
+    original_title: Exerzierplatz
     authors:
       - Siegfried Lenz
+    translators:
       - I. Karincevoij
       - V. Kurella
     year: 1989
@@ -15927,6 +16781,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=37118567X
     verified: true
   - title: Von der Feuerstätte bis zum Reaktor
+    original_title: Ot kostra do reaktora
     authors:
       - Aleksej Krylov
       - Andrej Platonovič Platonov
@@ -15939,6 +16794,7 @@ titles:
     verified: true
   - title: Vverch po lestnice, veduščej vniz
     subtitle: 'Roman: ėsse'
+    original_title: Up the down staircase
     authors:
       - Bel Kaufman
       - F. Lurʹe
@@ -15970,6 +16826,7 @@ titles:
     authors:
       - Nikolaj Nikolaevič Nosov
       - Boris M. Kalaušin
+    translators:
       - Janina Lewandowska
     year: 1989
     language: Polish
@@ -15983,6 +16840,10 @@ titles:
     subtitle: Ten' karlika, ten' ispolina
     authors:
       - Władysław Lech Terlecki
+    translators:
+      - Andrej N. Ermonskij
+      - Gil'da A. Gudimova
+      - V. Perel'man
     year: 1989
     language: Russian
     sources:
@@ -15995,9 +16856,11 @@ titles:
     verified: true
   - title: Zagadka Prometeja
     subtitle: 'Roman: Perevod s vengerskogo'
+    original_title: A Prométheusz-rejtély
     series: Novyj mir
     authors:
       - Lajos Mesterházi
+    translators:
       - Elena Malychina
     year: 1989
     language: Not recorded
@@ -16031,6 +16894,9 @@ titles:
   - title: Дама в очках и с ружьем в автомобиле
     authors:
       - Sébastien Japrisot
+    translators:
+      - Valerii Orlov (Валерий Орлов)
+      - Kira Arkadevna Severova (Кира Аркадьевна Северова)
     year: 1989
     language: Russian
     isbn: '5050025885'
@@ -16161,6 +17027,8 @@ titles:
   - title: Cells, Cells, and More Cells
     authors:
       - P. Katin
+    translators:
+      - Tracy Kuehn
     year: 1990
     series: Discovery
     language: English
@@ -16176,6 +17044,7 @@ titles:
       - label: Read or download (Mir Titles)
         url: https://mirtitles.org/2016/04/04/cells-cells-and-more-cells-p-katin/
   - title: Chelovek, kotoryï byl pojozh na Oresta, i druguie istorii
+    original_title: Un hombre que se parecía a Orestes
     authors:
       - Álvaro Cunqueiro
     year: 1990
@@ -16187,6 +17056,8 @@ titles:
   - title: Dersu Uzala
     authors:
       - Vladimir Klavdievich Arsen'ev
+    translators:
+      - Victor Shneerson
     year: 1990
     series: Adventure & Fantasy
     language: English
@@ -16229,6 +17100,7 @@ titles:
     verified: true
   - title: Dve tverdryni
     subtitle: Povestʹ
+    original_title: The two towers
     series: Vlastelin kolec / Džon Ronalʹd Ruėl Tolkien; letopisʹ 2
     authors:
       - J. R. R. Tolkien
@@ -16312,11 +17184,13 @@ titles:
     verified: true
   - title: Letnij etjud
     subtitle: Povest'
+    original_title: Sommerstück
     series: Sovremennaja zarubeznaja povest'
     authors:
       - Christa Wolf
       - Aleksandr A. Gugnin
       - R. P. Grezkaja
+    translators:
       - N. Fedorov
     year: 1990
     language: Russian
@@ -16356,8 +17230,10 @@ titles:
         url: https://d-nb.info/920467466
     verified: true
     subtitle: Perevods nemeckogo
+    original_title: Aus meiner Sicht
   - title: Molčanie morja
     subtitle: Povestʹ
+    original_title: Le silence de la mer
     series: Mastera sovremennoj prozy
     authors:
       - Vercors
@@ -16391,6 +17267,7 @@ titles:
     verified: true
   - title: Nevinovnye
     subtitle: Roman v odinnadcati novellach
+    original_title: Die Schuldlosen
     series: Mastera sovremennoj prozy
     authors:
       - Hermann Broch
@@ -16445,6 +17322,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=466980035
     verified: true
   - title: O gueroiaj i moguilaj
+    original_title: Sobre héroes y tumbas
     authors:
       - Ernesto Sabato
       - Evgueniia Mijaïlovna Lysenko
@@ -16459,6 +17337,7 @@ titles:
     authors:
       - József Lengyel
       - Elena Ivanovna Malychina
+    translators:
       - Ju Gusev
     year: 1990
     language: Not recorded
@@ -16469,10 +17348,11 @@ titles:
   - title: Pât porosât
     authors:
       - Agatha Christie
+      - Joanna Chmielewska
+    translators:
       - N. Emel'ânnikova
       - Irina Nikolaevna Koltaševa
       - Vera Sergeevna Selivanova
-      - Joanna Chmielewska
     year: 1990
     language: Russian
     sources:
@@ -16544,6 +17424,7 @@ titles:
     authors:
       - Agatha Christie
       - Joanna Chmielewska
+    translators:
       - N. Emel'jannikova
       - Vera Sergeevna Selivanova
       - Irina Nikolaevna Koltaševa
@@ -16556,6 +17437,8 @@ titles:
   - title: Poems
     authors:
       - Boris Leonidovich Pasternak
+    editors:
+      - Evgueni Borisovitch Pasternak
     year: 1990
     language: English
     sources:
@@ -16577,12 +17460,13 @@ titles:
   - title: Pol'skie poety
     subtitle: Anna Svirščinskaja, Tadeuš Ruževič, Miron Bjaloševskij, Andžej Bursa, Edvard Stachura
     authors:
-      - Andrej Borisovič Bazilevskij
       - Edward Stachura
       - Andrzej Bursa
       - Miron Białoszewski
       - Tadeusz Różewicz
       - Anna Świrszczyńska
+    translators:
+      - Andrej Borisovič Bazilevskij
       - Tat'âna Aleksandrovna Bek
       - A. Chaburgaev
       - M. Globačev
@@ -16733,6 +17617,8 @@ titles:
   - title: Saturn Is Almost Invisible
     authors:
       - Vasiliĭ Ardamatskiĭ
+    translators:
+      - Fainna Solasko
     year: 1990
     series: Adventure & Fantasy
     language: English
@@ -16907,6 +17793,9 @@ titles:
   - title: The Heart of a Dog and Other Stories
     authors:
       - Mikhail Bulgakov (Михаил Афанасьевич Булгаков)
+    translators:
+      - Kathleen Cook-Horujy
+      - Avril Pyman
     year: 1990
     language: English
     pages: 310
@@ -16926,8 +17815,11 @@ titles:
         url: https://archive.org/details/MikhailBulgakovTheHeartOfADogAndOtherStories
   - title: The Karamazov Brothers
     subtitle: A Novelin Four Parts with an Epilogue
+    original_title: Bratʹi︠a︡ Karamazovy
     authors:
       - Fiódor Dostoievski
+    translators:
+      - Julius Katzer. Vol.1
     year: 1990
     series: Selected Works, Fyodor Dostoyevsky
     language: English
@@ -16965,6 +17857,8 @@ titles:
     subtitle: A Novel
     authors:
       - Nodar Dumbaże
+    translators:
+      - Andrew Bromfield
     year: 1990
     language: English
     pages: 222
@@ -16991,6 +17885,8 @@ titles:
   - title: The Open Book
     authors:
       - V. Kaverin
+    translators:
+      - Brian Pearce
     year: 1990
     language: English
     pages: 539
@@ -17007,6 +17903,8 @@ titles:
   - title: Three Novellas About Love
     authors:
       - Ivan Sergeevich Turgenev
+    translators:
+      - Tatiana Litvinov
     year: 1990
     edition: Rev. ed
     series: Russian Classics
@@ -17046,6 +17944,7 @@ titles:
   - title: Varšavskaâ Sirena
     authors:
       - Halina Auderska
+    translators:
       - Evgenij Viktorovič Nevâkin
       - L. Vasil'ev
     year: 1990
@@ -17060,6 +17959,9 @@ titles:
     subtitle: Roman
     authors:
       - Halina Auderska
+    translators:
+      - Lina Vasileva
+      - Evgenij Viktorovič Nevjakin
     year: 1990
     language: Russian
     sources:
@@ -17072,6 +17974,7 @@ titles:
     subtitle: Rasskazy
     authors:
       - Jan Rybowicz
+    translators:
       - Andrej Borisovič Bazilevskij
       - V. Bergel'son
       - Grigorij Grigor'evič Lepilin
@@ -17115,6 +18018,8 @@ titles:
     subtitle: Fairy Tales
     authors:
       - Evgeniĭ Kliuev
+    translators:
+      - K. M. Cook-Horujy
     year: 1990
     language: English
     pages: 134
@@ -17147,6 +18052,8 @@ titles:
       - Evgenii Borisovich Pasternak (Евгений Борисович Пастернак)
       - E. K. Nesterova
       - A. K. Nesterova (Е. К. Нестерова)
+    translators:
+      - Boris Pasternak
     year: 1990
     language: Russian
     sources:
@@ -17191,12 +18098,14 @@ titles:
     verified: true
   - title: Zmeinoe derovo
     subtitle: Roman
+    original_title: Der Schlangenbaum
     authors:
       - Uwe Timm
-      - Vladimir D. Sedel'nik
       - Aleksandr S. Dmitriev
       - M. Semcenkova
       - E. Zarjanskij
+    translators:
+      - Vladimir D. Sedel'nik
     year: 1990
     language: Russian
     sources:
@@ -17240,6 +18149,7 @@ titles:
     verified: false
   - title: Две твердыни
     subtitle: Летопись вторая из эпопеи "Властелин колец"
+    original_title: The Two Towers
     authors:
       - John Ronald Reuel Tolkien
     year: 1990
@@ -17279,6 +18189,10 @@ titles:
     authors:
       - Agatha Christie
       - Joanna Chmielewska
+    translators:
+      - N. Emeliannikova (Н. Емельянникова)
+      - E. Koltasheva (И. Колташева)
+      - V. Selivanova (В. Селиванова)
     year: 1990
     language: Russian
     pages: 398
@@ -17291,6 +18205,7 @@ titles:
     verified: true
   - title: A teper' pora umirat'
     subtitle: Roman
+    original_title: Ahora es preciso morir
     series: Sovremennaia ispanskaia literatura
     authors:
       - Jesús Pardo
@@ -17303,6 +18218,7 @@ titles:
     verified: true
   - title: Anna Achmatova
     subtitle: Poėtičeskoe stranstvie; dnevniki, vospominanija, pis'ma A. Achmatovoj
+    original_title: Anna Akhmatova
     authors:
       - Amanda Haight
       - Anna Achmatova
@@ -17318,10 +18234,15 @@ titles:
     authors:
       - Amanda Haight
       - Amanda Kheit (Аманда Хейт)
-      - M. Timenčik
-      - M. Timenchik (М. Тименчик)
       - Anatolij Genrihovič Najman
       - A. Naiman (А. Найман)
+    editors:
+      - Vadim Alekseevič Černyh
+      - Èduard Grigorʹevič Babaev
+      - Èmma Grigorʹevna Gerštejn
+    translators:
+      - M. Timenčik
+      - M. Timenchik (М. Тименчик)
     year: 1991
     language: Russian
     sources:
@@ -17367,8 +18288,10 @@ titles:
         url: https://mirtitles.org/2023/12/19/barankins-fantasy-world-by-valery-medvedev/
   - title: Bettina fon Arnim
     subtitle: 'Romantizm, revoljucija, utopija: biografija'
+    original_title: Bettine von Arnim
     authors:
       - Ingeborg Drewitz
+    translators:
       - S. Tarchanovoj
     year: 1991
     language: Russian
@@ -17384,6 +18307,9 @@ titles:
     subtitle: Stories from Village Evenings Near Dikanka and Mirgorod
     authors:
       - Nikolaĭ Vasilʹevich Gogolʹ
+    translators:
+      - Christopher English
+      - Angus Roxburgh
     year: 1991
     series: Russian Classics
     language: English
@@ -17401,6 +18327,7 @@ titles:
     verified: true
   - title: Étrusskaia ulybka
     subtitle: Roman
+    original_title: La sonrisa etrusca
     authors:
       - José Luis Sampedro
       - Natal'ia Leonidovna Trauberg
@@ -17436,6 +18363,8 @@ titles:
   - title: Izbrannoe
     authors:
       - Volker Braun
+    editors:
+      - Aleksandr Aleksandrovič Gugnin
     year: 1991
     language: Russian
     sources:
@@ -17447,9 +18376,11 @@ titles:
     subtitle: Perevod s nemeckogo
   - title: Letnij etjud
     subtitle: Povest'
+    original_title: Sommerstück
     series: Sovremennaja zarubežnaja povest'
     authors:
       - Christa Wolf
+    translators:
       - H. Fedorov
     year: 1991
     language: Russian
@@ -17477,6 +18408,7 @@ titles:
     subtitle: Roman
     authors:
       - Stanisława Fleszarowa-Muskat
+    translators:
       - V. Kiselev
     year: 1991
     language: Russian
@@ -17490,6 +18422,7 @@ titles:
     verified: true
   - title: Na povorote
     subtitle: Zhizneopisanie
+    original_title: Wendepunkt
     authors:
       - Klaus Mann
     year: 1991
@@ -17503,8 +18436,10 @@ titles:
         url: https://d-nb.info/1319379850
     verified: true
   - title: Na povorote. Žizneopisanie
+    original_title: Der Wendepunkt
     authors:
       - Klaus Mann
+    translators:
       - G. Kagana
     year: 1991
     language: Russian
@@ -17514,9 +18449,12 @@ titles:
     verified: true
   - title: O muzyke
     subtitle: Perevod s anglijskogo
+    original_title: Landowska on music
     authors:
       - Wanda Landowska
       - Denise Restout
+    translators:
+      - Aleksandr Evgen'evič Majkapar
     year: 1991
     language: Russian
     sources:
@@ -17567,6 +18505,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=71997139X
     verified: true
   - title: Peter the Great
+    original_title: Piotr Pervyï
     authors:
       - Alekseï Nikolaevich Tolstoï
     year: 1991
@@ -17578,6 +18517,7 @@ titles:
   - title: Plennik Evropy
     authors:
       - Juliusz Dankowski
+    translators:
       - E. Milevskaja
     year: 1991
     language: Russian
@@ -17595,6 +18535,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991127597849705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Povesti
+    original_title: Montauk
     authors:
       - Max Frisch
       - E. Kacevoj
@@ -17657,8 +18598,10 @@ titles:
     verified: true
   - title: Smert' Chorna; Akkompaniator
     subtitle: Roman
+    original_title: Horns Ende
     authors:
       - Christoph Hein
+    translators:
       - Borica Chlebnikova
     year: 1991
     language: German
@@ -17680,6 +18623,8 @@ titles:
   - title: The Imitator
     authors:
       - Sergeĭ Esin
+    translators:
+      - Anthony Moss
     year: 1991
     language: English
     pages: 182
@@ -17747,11 +18692,12 @@ titles:
     authors:
       - Stefan Zweig
       - G. A. Andrazaparidze
-      - Gennadij E. Kagan
       - Dmitrij Vladimirovič Zatonskij
       - Konstantin Fedin
       - G. Sevcenko
       - I. J. Golik
+    translators:
+      - Gennadij E. Kagan
     year: 1991
     language: Russian
     sources:
@@ -17765,6 +18711,7 @@ titles:
         url: https://d-nb.info/930690710
     verified: true
     subtitle: Perevod s nemeckogo
+    original_title: Die Welt von gestern
   - title: Vsia zhiznʹ--nadezhda
     authors:
       - Mikhail Ivanovich Kasatkin
@@ -17795,6 +18742,7 @@ titles:
   - title: 'Vybor Sofii: roman'
     authors:
       - William Styron
+    translators:
       - Tat'âna Alekseevna Kudrâvceva
     year: 1991
     language: Russian
@@ -17806,6 +18754,8 @@ titles:
     subtitle: A Novel
     authors:
       - Yevgeny Ivanovich Zamyatin (Евгений Иванович Замятин)
+    translators:
+      - Alex Miller
     year: 1991
     language: English
     pages: 124
@@ -17861,8 +18811,11 @@ titles:
     verified: false
   - title: Этрусская улыбка
     subtitle: Роман
+    original_title: La sonrisa etrusca
     authors:
       - José Luis Sampedro
+    translators:
+      - Natali Trauberg (Натальи Трауберг)
     year: 1991
     language: Russian
     pages: 336
@@ -17898,6 +18851,7 @@ titles:
     authors:
       - Edmund Niziurski
       - A. A. Bakulevskij
+    translators:
       - Nikolaj Ivanovič Dubov
     year: 1992
     language: Russian
@@ -17925,8 +18879,10 @@ titles:
     verified: true
   - title: Parfjumer
     subtitle: Istorija odnogo ubijcy; roman
+    original_title: Das Parfüm
     authors:
       - Patrick Süskind
+    translators:
       - Ėlla Vengerova
     year: 1992
     language: Russian
@@ -17970,6 +18926,7 @@ titles:
     verified: true
   - title: Sergej Rachmaninov
     subtitle: Vospominanija zapisannye Oskarom fon Rizemanom; [poslesl., perev., komment. V. N. Čemberdži]; red. O. A. Sacharova
+    original_title: Rachmaninoff's recollections
     authors:
       - Sergej Vasilʹevič Rachmaninov
       - Oskar <<von>> Riesemann
@@ -18061,6 +19018,7 @@ titles:
     verified: true
   - title: Vozvraščenʹe Gosudarja
     subtitle: Povestʹ
+    original_title: The return of the king
     series: Vlastelin kolec / Džon Ronalʹd Ruėl Tolkien; letopisʹ 3
     authors:
       - J. R. R. Tolkien
@@ -18094,6 +19052,7 @@ titles:
     verified: false
   - title: Žiznʹ Sëra
     subtitle: Perevod s francuzskogo
+    original_title: La vie de Seurat
     authors:
       - Henri Perruchot
     year: 1992
@@ -18266,8 +19225,9 @@ titles:
     subtitle: Roman
     authors:
       - Leopold Tyrmand
-      - N. Fedorova
       - V. Tichomirov
+    translators:
+      - N. Fedorova
     year: 1993
     language: Russian
     sources:
@@ -18309,8 +19269,9 @@ titles:
       - Timofej Maksimovič Belozërov
       - Vladimir Grigorʹevič Suteev
       - Ágnes Bálint
-      - Hilde Angarowa
       - Timofej Beloserev
+    translators:
+      - Hilde Angarowa
     year: 1994
     language: German
     sources:
@@ -18343,6 +19304,7 @@ titles:
     subtitle: Roman
     authors:
       - Aleksander Krawczuk
+    translators:
       - Margarita Bartosik
     year: 1994
     language: Russian
@@ -18358,10 +19320,13 @@ titles:
     verified: true
   - title: Marina Cvetaeva
     subtitle: Mif i dejstvitel'nost'
+    original_title: 'Marina Zvetajewa : Mythos und Wahreit'
     series: Literaturnye portrety
     authors:
       - Maria Razumovsky
       - Marina Cvetaeva
+    translators:
+      - Ekaterina Nikolaevna Sajn-Vitgenštejn
     year: 1994
     language: Russian
     sources:
@@ -18399,6 +19364,7 @@ titles:
     subtitle: Roman
     authors:
       - Witold Gombrowicz
+    translators:
       - S. N. Makarcev
     year: 1994
     language: Russian
@@ -18411,6 +19377,7 @@ titles:
   - title: 'Pornografija: roman'
     authors:
       - Witold Gombrowicz
+    translators:
       - S. N. Makarcev
     year: 1994
     language: Russian
@@ -18526,6 +19493,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991100876449705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Время любить
+    original_title: Le Temps d'aimer
     authors:
       - Philippe Heriat
     year: 1994
@@ -18558,6 +19526,7 @@ titles:
     subtitle: 'Chronika ljubovnych proisšestvij; Malyj Apokalipsis: romany'
     authors:
       - Tadeusz Konwicki
+    translators:
       - Andrej N. Ermonskij
       - Mihail Vasil'evič Ignatov
       - Ksenia Starosielska
@@ -18571,6 +19540,7 @@ titles:
     subtitle: Hronika lûbovnyh proisšestvij; Malyj Apokalipsis
     authors:
       - Tadeusz Konwicki
+    translators:
       - Andrej Ermonskij
       - Mihail Vasil'evič Ignatov
       - Ksenia Starosielska
@@ -18781,6 +19751,7 @@ titles:
     subtitle: Russkaja Narodnaja Skazka; Na Russkom I Anglijskom Jazykach = Cockerel with the Crimson Comb
     authors:
       - Aleksej N. Tolstoj
+    translators:
       - Irina Šelesnova
     year: 1997
     language: English, Russian
@@ -18837,6 +19808,8 @@ titles:
     subtitle: Stichotvorenija
     authors:
       - Rainer Maria Rilke
+    translators:
+      - Vjaåeslava Kuprijanova
     year: 1998
     language: German
     pages: 319
@@ -18858,6 +19831,7 @@ titles:
     authors:
       - Aleksander Krawczuk
       - E. Zarjanskij
+    translators:
       - Margarita Bartosik
     year: 1998
     language: Russian
@@ -19412,6 +20386,7 @@ titles:
   - title: Fifty Russian Artists
     authors:
       - Anatolij F. Dmitrenko
+    translators:
       - Angus Roxburg
     year: 2000
     language: English
@@ -19660,6 +20635,7 @@ titles:
     subtitle: Sbornik
     authors:
       - Natal'ja T. Pachsar'jan
+    translators:
       - Vasilij Andreevič Žukovskij
     year: 2001
     language: Russian
@@ -19692,6 +20668,8 @@ titles:
     subtitle: Memuarnaia proza kniazhny Meshcherskoĭ
     authors:
       - E. A. kniazhna Meshcherskaia
+    editors:
+      - Gennadij A. Nečaev
     year: 2001
     series: Skvozʹ prizmu vremeni
     language: Russian
@@ -20039,8 +21017,9 @@ titles:
     verified: true
   - title: Zarubežnaja Poėzija v Perevodach Borisa Pasternaka
     authors:
-      - Boris Leonidovič Pasternak
       - Evgenij Borisovič Pasternak
+    translators:
+      - Boris Leonidovič Pasternak
     year: 2001
     language: Russian, Polish, Czech, Hungarian, German, English, French, Spanish
     sources:
@@ -20061,9 +21040,11 @@ titles:
         url: https://search.worldcat.org/title/48646722
     verified: true
   - title: Anja v Strane cudec
+    original_title: Alice's adventures in Wonderland
     authors:
       - Lewis Carroll
       - John Tenniel
+    translators:
       - Vladimir Nabokov
     year: 2002
     language: German
@@ -20082,6 +21063,7 @@ titles:
         url: https://d-nb.info/967331811
     verified: true
   - title: Illjustrirovannaja istorija iskusstva
+    original_title: The illustrated history of art
     authors:
       - Judith Clark
     year: 2002
@@ -20104,6 +21086,7 @@ titles:
         url: https://d-nb.info/967650887
     verified: true
   - title: Le avventure di Pinocchio
+    original_title: Les avventure di Pinocchio
     authors:
       - E. Kazakevič
       - G. Zor'ko
@@ -20318,6 +21301,8 @@ titles:
     subtitle: Sbornik
     authors:
       - François Villon
+    editors:
+      - Georgij Konstantinovič Kosikov
     year: 2002
     language: Russian
     sources:
@@ -20426,6 +21411,8 @@ titles:
     authors:
       - Johann Wolfgang von Goethe
       - O. I. Tarasova
+    translators:
+      - Ol'ga Tarasova
     year: 2003
     language: Russian, German
     sources:
@@ -20637,6 +21624,7 @@ titles:
     subtitle: Sbornik
     authors:
       - Rainer Maria Rilke
+    translators:
       - Vjačeslav Kuprijanov
     year: 2003
     language: German, Russian
@@ -21748,6 +22736,7 @@ titles:
     subtitle: Stihotvoreniâ
     authors:
       - Zofia Walas
+    translators:
       - Aleksander Chochłow
     year: 2018
     language: Russian

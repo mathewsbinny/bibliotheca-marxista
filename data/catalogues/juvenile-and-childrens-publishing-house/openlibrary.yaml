@@ -1026,6 +1026,8 @@ titles:
     verified: true
   - title: Fa guo min jian gu shi
     authors: []
+    translators:
+      - Da chun Yan
     year: 1956
     language: Chinese
     sources:
@@ -8446,6 +8448,8 @@ titles:
     verified: true
   - title: Er tong wen xue yan jiu
     authors: []
+    editors:
+      - Yi zhu He
     year: 1979
     language: Chinese
     sources:
@@ -9887,6 +9891,8 @@ titles:
     subtitle: 第五辑
     authors:
       - 贺宜
+    editors:
+      - Yi zhu He
     year: 1980
     language: Chinese
     sources:
@@ -10347,6 +10353,8 @@ titles:
       - Bing xin
       - Bo chui Chen
       - Sheng tao Ye
+    editors:
+      - Su su
     year: 1980
     language: Chinese
     sources:
@@ -11633,6 +11641,7 @@ titles:
     authors:
       - Miguel de Cervantes Saavedra
       - William Makepeace Thackeray
+    translators:
       - Bochui Chen
     year: 1981
     language: Chinese
@@ -11692,6 +11701,7 @@ titles:
   - title: Ke lei luo fu yu yan
     authors:
       - Ivan Andreevič Krylov
+    translators:
       - Hai Meng
     year: 1981
     language: Chinese
@@ -13324,8 +13334,10 @@ titles:
         url: https://lccn.loc.gov/83138906
     verified: true
   - title: Huang dao qin mo
+    original_title: Fingal's ghost
     authors:
       - Kai Fidler
+    translators:
       - Renyi Zhou
     year: 1982
     language: Chinese
@@ -13384,7 +13396,8 @@ titles:
   - title: Jin se de pi mao
     subtitle: Nan si la fu pian
     series: Shi jie min jian gu shi cong shu
-    authors:
+    authors: []
+    translators:
       - Yushan Huang
     year: 1982
     language: Chinese
@@ -13416,8 +13429,10 @@ titles:
         url: https://lccn.loc.gov/83132365
     verified: true
   - title: Ku er liu lang ji
+    original_title: Sans famille
     authors:
       - Hector Malot
+    translators:
       - Xing Fu
     year: 1982
     language: Chinese
@@ -13599,9 +13614,11 @@ titles:
         url: https://lccn.loc.gov/86835742
     verified: true
   - title: Shou yi duo li de de mou xian gu shi
+    original_title: The story of Dr. Dolittle
     series: Waiguo ertong wenxue congshu
     authors:
       - Hugh Lofting
+    translators:
       - Bochui Chen
     year: 1982
     language: Chinese
@@ -13741,6 +13758,7 @@ titles:
     series: Wai guo er tong wen xue cong shu
     authors:
       - Dmitrij N. Mamin-Sibirjak
+    translators:
       - Yiqing Huang
     year: 1982
     language: Chinese
@@ -13751,8 +13769,9 @@ titles:
   - title: Xiao xue yu li xian ji
     authors:
       - Ulaf Kuseron
-      - Zhen Hu
       - Wu Kushelong
+    translators:
+      - Zhen Hu
     year: 1982
     language: Chinese
     sources:
@@ -16077,6 +16096,8 @@ titles:
   - title: Mao Dun he er tong wen xue
     authors:
       - Mao Dun
+    editors:
+      - Hai zhu Kong
     year: 1984
     edition: Di 1 ban
     language: Chinese
@@ -16213,11 +16234,13 @@ titles:
         url: https://lccn.loc.gov/85243521
     verified: true
   - title: Xiao Xiadi
+    original_title: Heidi
     series: Wai guo er tong wen xue cong shu
     authors:
       - Johanna Spyri
-      - Bochui Chen
       - Taiweisi
+    translators:
+      - Bochui Chen
     year: 1984
     language: Chinese
     sources:
@@ -17562,6 +17585,8 @@ titles:
     subtitle: Sheng wu, sheng li wei sheng
     authors:
       - Guozhong Wang
+    editors:
+      - Yisheng Mao
     year: 1986
     edition: Di 1 ban
     language: Chinese
@@ -20336,6 +20361,7 @@ titles:
   - title: E yu ai shang chang jing lu xi lie
     authors:
       - Daniela Kulot
+    translators:
       - Su Chen Fang
     language: Not recorded
     sources:

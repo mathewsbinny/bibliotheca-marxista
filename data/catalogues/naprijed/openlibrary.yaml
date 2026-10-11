@@ -256,8 +256,9 @@ titles:
     series: Mala politička biblioteka; 12
     authors:
       - Petr Nikolaevich Pospelov
-      - Tatjana Šeremet
       - N. Baltiski
+    translators:
+      - Tatjana Šeremet
     year: 1946
     language: Croatian
     sources:
@@ -734,6 +735,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991062002589705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Bistri vitez Don Quijote od Manche
+    original_title: Don Quijote de la Mancha
     authors:
       - Miguel de Cervantes Saavedra
       - Iso Velikanovic
@@ -830,6 +832,10 @@ titles:
   - title: Frano Šimunović
     authors:
       - Frano Šimunović
+    editors:
+      - Vera Kružić Uchytil
+    translators:
+      - Sonia Wild Bićanić
     year: 1958
     language: Croatian
     pages: 32
@@ -1069,6 +1075,7 @@ titles:
     subtitle: Rodenje zapada
     authors:
       - Egmont Colerus
+    translators:
       - Ljubiša Radošević
     year: 1958
     language: German
@@ -1134,6 +1141,8 @@ titles:
   - title: Proljeće u februaru
     authors:
       - Ivan Bratko
+    translators:
+      - Gustav Krklec
     year: 1958
     language: Croatian
     pages: 215
@@ -1195,6 +1204,10 @@ titles:
   - title: Zlatko Prica
     authors:
       - Zlatko Prica
+    editors:
+      - Dragovan Šepić
+    translators:
+      - Sonia Wild Bićanić
     year: 1958
     series: Mala likovna biblioteka
     language: Croatian
@@ -1410,6 +1423,7 @@ titles:
   - title: Historija seksualnosti
     authors:
       - Richard Lewinsohn
+    translators:
       - Dragutin Perković
     year: 1959
     language: German
@@ -1527,6 +1541,8 @@ titles:
   - title: Mirko Virius
     authors:
       - Mirko Virius
+    editors:
+      - Dimitrije Bašičević
     year: 1959
     series: Mala likovna biblioteka
     language: Croatian
@@ -1607,6 +1623,8 @@ titles:
     authors:
       - Grgo Gamulin
       - Oton Postružnik
+    translators:
+      - Sonia Wild Bićanić
     year: 1959
     language: Croatian
     sources:
@@ -1673,6 +1691,8 @@ titles:
     subtitle: Antologija
     authors:
       - Vladimir Nazor
+    editors:
+      - Vladimir Popović
     year: 1959
     language: Croatian
     pages: 182
@@ -1716,6 +1736,8 @@ titles:
   - title: Proza
     authors:
       - Vladimir Nazor
+    editors:
+      - Vladimir Popović
     year: 1959
     language: Croatian
     pages: 311
@@ -2121,6 +2143,8 @@ titles:
     subtitle: Zbornik o stogodišnjici, 1860-1960
     authors:
       - Slavko Batušić
+    editors:
+      - Duško Roksandić
     year: 1960
     language: Croatian
     pages: 325
@@ -2141,6 +2165,9 @@ titles:
   - title: Hrvatsko narodno kazalište 1894-1969
     authors:
       - Hrvatsko narodno kazalište
+    editors:
+      - Duško Roksandić
+      - Slavko Batušić
     year: 1960
     language: Croatian
     sources:
@@ -2202,6 +2229,8 @@ titles:
   - title: Krešimir Kovačević. Hrvatski kompozitori i njihova djela
     authors:
       - Krešimir Kovačević
+    translators:
+      - Karl Kunc
     year: 1960
     language: Romanian
     sources:
@@ -2222,6 +2251,8 @@ titles:
   - title: Ljubo Babić
     authors:
       - Ljubo Babić
+    editors:
+      - Vinko Zlamalik
     year: 1960
     series: Mala likovna biblioteka
     language: Croatian
@@ -2269,9 +2300,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/006615697
     verified: true
   - title: Oblomov
+    original_title: 'Orig.T.: ] Oblomov'
     series: Svjetski klasici 18. i 19. stoljeća
     authors:
       - Ivan Aleksandrovič Gončarov
+    translators:
       - Iso Velikanović
     year: 1960
     language: Not recorded
@@ -2456,6 +2489,7 @@ titles:
         url: https://d-nb.info/578053004
     verified: true
   - title: Wilhelma Meister
+    original_title: Wilhelm Meisters Lehrjahre
     series: Svjetski Klasici XVIII. i XIX. Stoljeća
     authors:
       - Johann Wolfgang von Goethe
@@ -2569,6 +2603,7 @@ titles:
   - title: Bodensko jezero
     authors:
       - Stanisław Dygat
+    translators:
       - Julije Benešić
     year: 1961
     language: Croatian
@@ -2692,6 +2727,7 @@ titles:
   - title: Historija seksualnosti
     authors:
       - Richard Lewinsohn
+    translators:
       - Dragutin Perković
     year: 1961
     language: German
@@ -3092,6 +3128,7 @@ titles:
     authors:
       - Adam Czartkowski
       - Zofia Jeżewska
+    translators:
       - Đorđe Šaula
     year: 1961
     language: Croatian
@@ -3333,6 +3370,7 @@ titles:
   - title: Buddenbrookovi
     authors:
       - Thomas Mann
+    translators:
       - Iva Adum
     year: 1963
     language: German
@@ -3441,8 +3479,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=427404061
     verified: true
   - title: Flandrijska cesta
+    original_title: La route des Flandres
     authors:
       - Claude Simon
+    translators:
       - Ivan C̆aberica
     year: 1963
     language: Croatian
@@ -3655,6 +3695,10 @@ titles:
     subtitle: '[Translated by Dorian Cooke, Djura Ninčić, and Zvonimir Petnički. Edited by Tihomir Stanojević]'
     authors:
       - Josip Broz Tito
+    translators:
+      - Dorian Cooke
+      - Djura Ninčić
+      - Zvonimir Petnički
     year: 1963
     language: English
     pages: 459
@@ -3696,9 +3740,11 @@ titles:
     verified: true
     pages: 378
   - title: Sjaj i Bijeda Nijemaca
+    original_title: Glanz und Elend der Deutschen
     series: Biblioteca svjetski pisci
     authors:
       - Ernst Glaeser
+    translators:
       - Mignon Mihaljević
     year: 1963
     language: Croatian
@@ -4024,6 +4070,9 @@ titles:
   - title: Krležin zbornik
     authors:
       - Zagreb (Croatia). Univerzitet. Institut za nauku o književnosti
+    editors:
+      - Ivo Frangeš
+      - Aleksandar Flaker
     year: 1964
     series: Its [Izdanja]
     language: Croatian
@@ -4050,8 +4099,10 @@ titles:
     verified: true
     subtitle: 'Uredili: Ivo Frangeš, Aleksandar Flaker'
   - title: Mlađi brat
+    original_title: Der jüngere Bruder
     authors:
       - Hans Erich Nossack
+    translators:
       - Slako Grebešić
     year: 1964
     language: Croatian
@@ -4226,6 +4277,7 @@ titles:
         url: https://openlibrary.org/books/OL15224063M
     verified: true
   - title: Slike s putovanja
+    original_title: Reisebilder
     series: Svjetski klasici 18. i 19. stoljeća
     authors:
       - Heinrich Heine
@@ -4252,6 +4304,7 @@ titles:
   - title: Start Edmunda Sulime
     authors:
       - Zygmunt Nowakowski
+    translators:
       - Julije Benešić
     year: 1964
     language: Croatian
@@ -4341,6 +4394,7 @@ titles:
   - title: Zrelo doba kralja Henrika Četvrtog
     authors:
       - Heinrich Mann
+    translators:
       - Josip Ritig
     year: 1964
     language: German
@@ -4430,8 +4484,9 @@ titles:
   - title: Evropska kriza i prvi svjetski rat
     authors:
       - Pierre Renouvin
-      - Nikola Berus
       - Miroslav Brandt
+    translators:
+      - Nikola Berus
     year: 1965
     language: Croatian
     sources:
@@ -4516,8 +4571,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/001238978
     verified: true
   - title: Kad se zemlja trese
+    original_title: Quand la terre tremble
     authors:
       - Haroun Tazieff
+    translators:
       - Nikola Berus
     year: 1965
     language: Croatian
@@ -4870,6 +4927,7 @@ titles:
     subtitle: Roman o pomladivanju
     authors:
       - Richard Lewinsohn
+    translators:
       - Milan Slani
     year: 1966
     language: German
@@ -5139,6 +5197,7 @@ titles:
     subtitle: 10 velikih sudskih slučajeva iz historije zločina
     authors:
       - Hans Habe
+    translators:
       - Marija Eker-Manolić
     year: 1966
     language: German
@@ -5353,6 +5412,7 @@ titles:
   - title: Opaki
     authors:
       - Leopold Tyrmand
+    translators:
       - Boris Hutinec
       - Milan Moguš
     year: 1966
@@ -5794,6 +5854,7 @@ titles:
   - title: Historija seksualnosti
     authors:
       - Richard Lewinsohn
+    translators:
       - Dragutin Perković
     year: 1967
     language: German
@@ -5845,6 +5906,8 @@ titles:
     subtitle: Izabrane pjesme (1917-1967)
     authors:
       - Gustav Krklec
+    editors:
+      - Branislav Glumac
     year: 1967
     series: Jugoslavenski pisci
     language: Croatian
@@ -6252,6 +6315,7 @@ titles:
     authors:
       - Jean Fourastié
       - Claude Vimont
+    translators:
       - Vlasta Urbić
       - Vesna Kolarić
     year: 1968
@@ -6406,6 +6470,8 @@ titles:
   - title: Leksikon filozofa
     authors:
       - Danko Grlić
+    editors:
+      - Branko Bošnjak
     year: 1968
     edition: <Opremio Zolton Gabor>.
     language: Croatian
@@ -6750,6 +6816,8 @@ titles:
   - title: Hrvatsko narodno kazalište 1894-1969, enciklopedijsko izdanje. Glavni i odgovorni urednik Pavao Cindrić
     authors:
       - Hrvatsko narodno kazalište
+    editors:
+      - Pavao Cindrić
     year: 1969
     language: Croatian
     sources:
@@ -7084,6 +7152,7 @@ titles:
     subtitle: Reiseführer
     authors:
       - Miljenko Foretić
+    translators:
       - Tamara Marčetić
     year: 1970
     language: German
@@ -7252,9 +7321,10 @@ titles:
   - title: 'Povijest i klasna svijest. Studija o marksističkoj dialektici. [Geschichte und Klassenbowusstsein.] Prevoli: Milan Kangra, Danilo Pejović. Red. Branko Bošnjak'
     authors:
       - György Lukács
+      - Branko Bošnjak
+    translators:
       - Milan Kangra
       - Danilo Pejović
-      - Branko Bošnjak
     year: 1970
     language: Croatian
     sources:
@@ -7318,6 +7388,7 @@ titles:
   - title: Zagreb und Umgebung
     authors:
       - Ivan Raos
+    translators:
       - Tamara Marčetić
     year: 1970
     language: German
@@ -7332,6 +7403,8 @@ titles:
     subtitle: From Trogir to Dubrovnik
     authors:
       - Ivan Katušić
+    translators:
+      - 'Nikolina Bičanić. <Geographical maps: Ivan Gradišar'
     year: 1971
     language: English
     pages: 127
@@ -7346,6 +7419,8 @@ titles:
   - title: A Guide to Istria
     authors:
       - Dragovan Šepić
+    translators:
+      - 'Marko Pavičić. [Geographical maps: Ivan Gradišar'
     year: 1971
     language: English
     pages: 256
@@ -7363,6 +7438,8 @@ titles:
     subtitle: The Zadar and Šibenik Areas
     authors:
       - Ivan Raos
+    translators:
+      - Marko Pavičić
     year: 1971
     language: English
     pages: 126
@@ -7853,6 +7930,7 @@ titles:
     verified: true
   - title: Filozofija i revolucija
     subtitle: Modeli za jednu interpretaciju Marxa. S izvornim tekstovima. Nasl. orig. Philosophie und Revolution. Modelle für eine Marx-Interpretation. Mit Quellentexten
+    original_title: Philosophie und Revolution
     authors:
       - Gajo Petrović
     year: 1973
@@ -7956,6 +8034,7 @@ titles:
         url: https://d-nb.info/577872001
     verified: true
   - title: Šifra Tricycle
+    original_title: Tricycle
     authors:
       - Duško Popov
       - Konstantin Miles
@@ -7966,9 +8045,12 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991083540089705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Sretna smrt
+    original_title: La Mort heureuse
     series: Biblioteka Nobelovci
     authors:
       - Albert Camus
+    translators:
+      - Ivo Klarić
     year: 1973
     language: Croatian
     sources:
@@ -7994,6 +8076,10 @@ titles:
   - title: Izabrani spisi
     authors:
       - Rosa Luxemburg
+    translators:
+      - Ljubomir Tadić
+      - Roland Knopfmacher
+      - Hrvoje Šarinić
     year: 1974
     series: Biblioteka Naprijed
     language: Croatian
@@ -8114,6 +8200,8 @@ titles:
   - title: Bajka o vratima
     authors:
       - Danijel Dragojević
+    editors:
+      - Milano Amilcare Pizzi
     year: 1975
     series: Biblioteka Zelena žirafa
     language: Croatian
@@ -8405,6 +8493,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1075868858
     verified: true
   - title: Modrice na duši
+    original_title: Des bleus à l'âme
     authors:
       - Françoise Sagan
       - Ana Gusić
@@ -8731,6 +8820,8 @@ titles:
   - title: Sabrane pjesme
     authors:
       - Josip Pupačić
+    editors:
+      - Miroslav Vaupotić
     year: 1978
     series: Jugoslavenski pisci
     language: Croatian
@@ -8934,6 +9025,7 @@ titles:
   - title: Buddenbrookovi
     authors:
       - Thomas Mann
+    translators:
       - Iva Adum
     year: 1980
     language: German
@@ -8952,8 +9044,10 @@ titles:
     verified: true
   - title: Covjek za sebe
     subtitle: Istrazivanje o psihologiji etike
+    original_title: Man for himself
     authors:
       - Erich Fromm
+    translators:
       - Hrvoje Lisinski
     year: 1980
     language: Not recorded
@@ -8974,6 +9068,8 @@ titles:
     series: Filozofska biblioteka
     authors:
       - Gottfried Wilhelm Leibniz
+    editors:
+      - Milan Kangrga
     year: 1980
     language: German
     sources:
@@ -8984,8 +9080,11 @@ titles:
     verified: true
   - title: Kriza psihoanalize
     subtitle: Analitička socijalna psihologija i društvena teorija
+    original_title: Die Krise der Psychoanalyse
     authors:
       - Erich Fromm
+    translators:
+      - Stanislav Tuskar
     year: 1980
     language: German
     sources:
@@ -8995,6 +9094,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1340239302
     verified: true
   - title: Moj prvi rečnik u slikama
+    original_title: L'imagier du Père Castor
     authors:
       - Vida Žvan
     year: 1980
@@ -9013,8 +9113,10 @@ titles:
     verified: true
   - title: S onu stranu okova iluzije
     subtitle: Moj susret s Marxom i Freudom
+    original_title: 'Jenseits der Illusion : die Bedeutung von Marx und Freud'
     authors:
       - Erich Fromm
+    translators:
       - Stanislav Tuskar
     year: 1980
     language: Not recorded
@@ -9046,8 +9148,10 @@ titles:
         url: https://openlibrary.org/books/OL14241206M
     verified: true
   - title: Velicina i granice Frojdove misli
+    original_title: Sigmund Freuds Psychoanalyse
     authors:
       - Erich Fromm
+    translators:
       - Vlasta Vizek-Vidovic
     year: 1980
     language: Not recorded
@@ -9117,6 +9221,7 @@ titles:
   - title: Klasna struktura u društvenoj svijesti
     authors:
       - Stanisław Ossowski
+    translators:
       - Vladimir Lay
     year: 1981
     language: Croatian
@@ -9214,6 +9319,7 @@ titles:
   - title: Muž za mamu
     authors:
       - Christine Nöstlinger
+    translators:
       - Vera Čičin-Šain
     year: 1982
     language: German
@@ -9426,8 +9532,11 @@ titles:
         url: https://d-nb.info/369011643
     verified: true
   - title: Anatomija ljudske destruktivnosti
+    original_title: The anatomy of human destructioness
     authors:
       - Erich Fromm
+    translators:
+      - Gvozden Flego
     year: 1984
     language: German
     sources:
@@ -9470,8 +9579,10 @@ titles:
         url: https://d-nb.info/368935981
     verified: true
   - title: Dogma o Kristu. Bit cete kao Bog. Psihoanaliza i religija
+    original_title: Das Christusdogma. Ihr werdet sein wie Gott. Psychoanalyse und Religion
     authors:
       - Erich Fromm
+    translators:
       - Simo Vulinovic-Zlatan
     year: 1984
     language: Not recorded
@@ -9534,6 +9645,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000456940
     verified: true
   - title: Psihologija i alkemija
+    original_title: Psychologie und Alchemie
     series: Posebna izdanja / Naprijed
     authors:
       - C. G. Jung
@@ -9549,6 +9661,7 @@ titles:
     series: Biblioteka "Odabrani ljubavni romani"
     authors:
       - Johann Wolfgang von Goethe
+    translators:
       - Dragutin Perković
     year: 1984
     language: German
@@ -9689,6 +9802,7 @@ titles:
     verified: true
   - title: Novo tumačenje snova
     subtitle: Vježbe zapažanja u području snivanja i primerji za praktičnu primjenu jednog novog razumijevanja snova
+    original_title: Es träumte mir vergangene Nacht
     series: Biblioteka Psiha
     authors:
       - Medard Boss
@@ -10164,8 +10278,10 @@ titles:
         url: https://lccn.loc.gov/88167098
     verified: true
   - title: Fenomenologija duha
+    original_title: Phänomenologie des Geistes
     authors:
       - Georg Wilhelm Friedrich Hegel
+    translators:
       - Milan Kangrga
     year: 1987
     language: Croatian
@@ -10333,6 +10449,8 @@ titles:
     subtitle: Roman
     authors:
       - Augustin Stipčević
+    editors:
+      - Milan Mirić
     year: 1987
     series: Jugoslavenski pisci
     language: Croatian
@@ -10422,6 +10540,8 @@ titles:
     subtitle: Roman
     authors:
       - Milan Rakovac
+    editors:
+      - Milan Mirić
     year: 1987
     series: Jugoslavenski pisci
     language: Croatian
@@ -10700,6 +10820,8 @@ titles:
     subtitle: Izbor iz ruske proze dvadesetih godina
     authors:
       - Aleksandar Flaker
+    editors:
+      - Radovan Radovinović
     year: 1988
     edition: 2., obnovljeno izd
     series: Posebno izdanje
@@ -10764,6 +10886,8 @@ titles:
   - title: Izabrane pjesme
     authors:
       - Dubravko Horvatić
+    editors:
+      - Antun Šoljan
     year: 1988
     series: Djela hrvatskih pisaca
     language: Croatian
@@ -11149,6 +11273,8 @@ titles:
   - title: Sabrana djela Dragutina Tadijanovića
     authors:
       - Dragutin Tadijanović
+    editors:
+      - Milan Mirić
     year: 1988
     series: Djela hrvatskih pisaca
     language: Croatian
@@ -11509,6 +11635,8 @@ titles:
   - title: Odabrana djela u četiri knjige
     authors:
       - Milan Kangrga
+    editors:
+      - Milan Mirić
     year: 1989
     language: Croatian
     isbn: '8634902307'
@@ -11668,6 +11796,8 @@ titles:
     series: Djela hrvatskih pisaca
     authors:
       - Dragutin Tadijanović
+    editors:
+      - Milan Mirić
     year: 1989
     language: Croatian
     sources:
@@ -11818,6 +11948,8 @@ titles:
   - title: Dragulji i strasti
     authors:
       - Janko Matko
+    editors:
+      - Milan Mirić
     year: 1990
     edition: 6. izd
     series: Pučki romani
@@ -11876,6 +12008,8 @@ titles:
   - title: Izabrane pjesme
     authors:
       - Olinko Delorko
+    editors:
+      - Nedjeljko Mihanović
     year: 1990
     series: Djela hrvatskih pisaca
     language: Croatian
@@ -11913,6 +12047,7 @@ titles:
   - title: Kritika pratičkog uma
     authors:
       - Immanuel Kant
+    translators:
       - Viktor D. Sonnenfeld
     year: 1990
     language: Croatian
@@ -12091,6 +12226,8 @@ titles:
   - title: Tajna
     authors:
       - Janko Matko
+    editors:
+      - Milan Mirić
     year: 1990
     edition: 6. izd
     series: Pučki romani
@@ -12128,6 +12265,8 @@ titles:
   - title: Žrtva
     authors:
       - Janko Matko
+    editors:
+      - Milan Mirić
     year: 1990
     edition: 6. izd
     series: Pučki romani
@@ -12146,6 +12285,8 @@ titles:
     subtitle: Povijest razlike i nove rasprave
     authors:
       - Manfred Riedel
+    editors:
+      - Zoran Pokrovac
     year: 1991
     series: Biblioteka "Ekonomsko-politički problemi"
     language: Croatian
@@ -12166,6 +12307,8 @@ titles:
   - title: Hrvatska u izborima '90
     authors:
       - Ivan Grdes̆ić
+    editors:
+      - Ivan Grdešić
     year: 1991
     series: Biblioteka "Ekonomsko-politički problemi"
     language: Croatian
@@ -12302,6 +12445,7 @@ titles:
     subtitle: Traktati i propovijedi
     authors:
       - Eckhart
+    translators:
       - Ante Šoljić
     year: 1991
     language: Croatian
@@ -12363,6 +12507,7 @@ titles:
         url: https://search.worldcat.org/title/26968238
     verified: true
   - title: Specifičnosti inflacije u Jugoslaviji
+    original_title: Posebnosti inflacije v Jugoslaviji
     authors:
       - Egon Žižmond
     year: 1991
@@ -12401,6 +12546,8 @@ titles:
   - title: Žalostinke
     authors:
       - Ante Stamać
+    editors:
+      - Milan Mirić
     year: 1991
     series: Jugoslavenski pisci
     language: Croatian
@@ -12513,6 +12660,8 @@ titles:
     subtitle: U šest knijga
     authors:
       - Predrag Vranicki
+    editors:
+      - Milan Mirić
     language: Serbian
     sources:
       - title: K10plus record 1400168279

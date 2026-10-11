@@ -1770,6 +1770,8 @@ titles:
     subtitle: Guangxi min bing ge ming dou zheng gu shi ji
     authors:
       - China. Zhongguo ren min jie fang jun. Guangxi jun qu. Zheng zhi bu
+    editors:
+      - Guang xi jun qu zheng zhi bu
     year: 1977
     edition: Di 1 ban
     language: Chinese
@@ -5105,6 +5107,11 @@ titles:
   - title: Hong lou meng zhu jie
     authors:
       - Hsüeh-chʻin Tsʻao
+    editors:
+      - Debiao Mao
+      - 德彪 毛
+      - Junting Zhu
+      - 俊亭 朱
     year: 1981
     edition: Di 1 ban
     language: Chinese
@@ -7684,6 +7691,8 @@ titles:
   - title: Zhuang zu li shi ren wu zhuan
     authors:
       - Guangxi min zu xue yuan. Min zu yan jiu shi
+    editors:
+      - Guangxi min zu xue yuan
     year: 1982
     edition: Di 1 ban
     series: Guangxi li shi ren wu cong shu
@@ -7707,6 +7716,8 @@ titles:
     authors:
       - Guanpin Nong
       - Tingwei Cao
+    editors:
+      - 廷伟 曹
     year: 1982
     edition: Di 1 ban
     series: Guangxi ge zu min jian wen xue cong shu
@@ -10544,6 +10555,7 @@ titles:
         url: https://lccn.loc.gov/85170588
     verified: true
   - title: Yin bing xie
+    original_title: Hans Brinker or the silver skates
     authors:
       - Mary Mapes Dodge
       - Gan Xu
@@ -11055,6 +11067,8 @@ titles:
   - title: Chang yong zhe xue ming ci ci dian
     authors:
       - Ming Huang
+    editors:
+      - 鸣 黃
     year: 1985
     edition: Di 1 ban
     language: Chinese
@@ -11997,6 +12011,8 @@ titles:
   - title: '"Ru lin wai shi" shang xi'
     authors:
       - Shiliang Lin
+    editors:
+      - Chaoran Liang
     year: 1986
     edition: Di 1 ban
     series: Zhongguo gu dian wen xue zuo pin xuan xi cong shu
@@ -15828,6 +15844,8 @@ titles:
   - title: Hong lou meng ren wu ci dian
     authors:
       - Zhongming Zhou
+    editors:
+      - Shi Baoyi
     year: 1989
     edition: Di 1 ban
     language: Chinese
@@ -16058,6 +16076,8 @@ titles:
   - title: You Hua Ren Ti Yi Shu da Zhan Zuo Pin Ji
     subtitle: Works of the Chinese Nude Oils Exhibition
     authors: []
+    translators:
+      - Lin Liuyuan
     year: 1989
     language: Chinese, English
     pages: 138
@@ -16101,8 +16121,9 @@ titles:
   - title: Zhong Guo Xian Dai Yi Shu Zhan
     subtitle: = China/Avant-Garde
     authors:
-      - Hanru Hou
       - Zhongguo-Meishuguan
+    translators:
+      - Hanru Hou
     year: 1989
     language: Chinese, English
     sources:

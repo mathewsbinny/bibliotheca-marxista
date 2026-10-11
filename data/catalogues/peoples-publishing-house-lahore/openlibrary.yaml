@@ -6,6 +6,7 @@ titles:
   - title: Poems
     authors:
       - Faiẓ Aḥmad Faiẓ
+    translators:
       - Victor Gordon Kiernan
     year: 1962
     language: English, Urdu
@@ -28,6 +29,8 @@ titles:
     subtitle: Edited by Syed Razi Wasti
     authors:
       - Syed Ameer Ali
+    editors:
+      - Syed Razi Wasti
     year: 1968
     edition: '[1st ed.]'
     language: English
@@ -71,6 +74,8 @@ titles:
     subtitle: An Ethnic History
     authors:
       - IUriĭ Vladimirovich Gankovskiĭ
+    translators:
+      - Igor Gavrilov
     year: 1971
     language: English
     pages: 246
@@ -205,8 +210,9 @@ titles:
     subtitle: Economic Development in the 16th-18th Centuries, Outline History of Crafts and Trade
     authors:
       - Aleksandr Ivanovič Čičerov
-      - Donald Danemanis
       - Denis Matringe
+    translators:
+      - Donald Danemanis
     year: 1976
     language: English
     sources:

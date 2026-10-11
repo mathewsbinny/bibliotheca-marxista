@@ -136,9 +136,11 @@ titles:
         url: https://search.worldcat.org/title/217165609
     verified: true
   - title: Foierubahha ron
+    original_title: Ludwig Feuerbach und der Ausgang der klassischen deutschen Philosophie
     series: Yuibutsuron shinsho; 4
     authors:
       - Friedrich Engels
+    translators:
       - Takashi Ide
     year: 1949
     language: Japanese
@@ -892,6 +894,8 @@ titles:
   - title: Amerika seijishi gaisetsu
     authors:
       - William Z. Foster
+    translators:
+      - Kentarō Yamabe
     year: 1954
     language: Japanese
     pages: 980
@@ -2035,6 +2039,8 @@ titles:
   - title: Chōsen kindai shi
     authors:
       - Yi Chyŏng-wŏn
+    translators:
+      - Kimio Kawakubo
     year: 1956
     series: Kokumin bunko -- 432
     language: Japanese
@@ -3601,6 +3607,8 @@ titles:
   - title: Nihon kindaishi
     authors:
       - Institut vostokovedenija
+    translators:
+      - Motoi Hayashi
     year: 1960
     language: Japanese
     sources:
@@ -4052,9 +4060,11 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BN07475894
     verified: false
   - title: Kokka to kakumei
+    original_title: Gosudarstvo i revolyutsiya
     series: Kokumin bunko; 102
     authors:
       - Vladimir Ilʹič Lenin
+    translators:
       - Rēnin-Zenshū-Kankō-iinkai
     year: 1965
     language: Japanese
@@ -4213,6 +4223,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/002356452
     verified: true
   - title: Keizaigaku hihan
+    original_title: Zur Kritik der politischen Ökonomie
     series: Kokumin bunko; 4
     authors:
       - Karl Marx
@@ -4458,6 +4469,7 @@ titles:
   - title: Bunka, bungaku, geijutsuron
     authors:
       - Vladimir Ilʹič Lenin
+    translators:
       - Korehito Kurahara
       - Katsuyuki Takahashi
     year: 1968
@@ -4616,6 +4628,7 @@ titles:
   - title: Bunka, bungaku, geijutsuron
     authors:
       - Vladimir Ilʹič Lenin
+    translators:
       - Korehito Kurahara
       - Katsuyuki Takahashi
     year: 1969
@@ -5319,9 +5332,11 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BN01224337
     verified: false
   - title: Chinrōdō to shihon
+    original_title: Lohnarbeit und Kapital
     series: Kokumin bunko; 22
     authors:
       - Karl Marx
+    translators:
       - Yōichi Murata
     year: 1971
     language: Japanese
@@ -5685,9 +5700,11 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BN04857067
     verified: false
   - title: Foierubahha ron
+    original_title: Ludwig Feuerbach und der Ausgang der klassischen deutschen Philosophie
     series: Kokumin bunko; 14
     authors:
       - Friedrich Engels
+    translators:
       - Satoru Fujikawa
     year: 1972
     language: Japanese
@@ -6214,8 +6231,10 @@ titles:
     verified: true
   - title: Jōyo kachi gakusetsushi
     subtitle: '"Shihonron" dai4kan'
+    original_title: Theorien über den Mehrwert
     authors:
       - Karl Marx
+    translators:
       - Marukusu Engerusu Zenshū Kankō Iinkai
     year: 1974
     language: Japanese
@@ -8617,6 +8636,7 @@ titles:
   - title: Marukusu shihonron sōkōshū
     authors:
       - Karl Marx
+    translators:
       - Shihonron Sōkoōshū Hon'yaku Iinkai
     year: 1978
     language: Japanese
@@ -9194,9 +9214,11 @@ titles:
         url: https://openlibrary.org/books/OL19041246M
     verified: true
   - title: Foierubahha ron
+    original_title: Ludwig Feuerbach und der Ausgang der klassischen deutschen Philosophie
     series: Kokumin bunko; 14
     authors:
       - Friedrich Engels
+    translators:
       - Satoru Fujikawa
     year: 1979
     language: Japanese
@@ -10687,9 +10709,11 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BN00542483
     verified: false
   - title: 1857-58nen no keizaigaku sōkō
+    original_title: Ökonomische Manuskripte 1857-58
     series: Marukusu shihonron sōkōshū; 1-2
     authors:
       - Karl Marx
+    translators:
       - Shihonron Sōkoōshū Hon'yaku Iinkai
     year: 1981
     language: Japanese
@@ -11038,6 +11062,8 @@ titles:
   - title: Nihon fashizumu
     authors:
       - Nihon Gendaishi Kenkyūkai
+    editors:
+      - Nihon gendai kenkyūkai
     year: 1981
     language: Japanese
     sources:
@@ -13080,6 +13106,8 @@ titles:
   - title: Waron senshū
     authors:
       - Henri Wallon
+    translators:
+      - Kanji Hatano
     year: 1983
     language: Japanese
     sources:
@@ -13804,6 +13832,10 @@ titles:
       - Seiichirō Hayakawa
       - Yōnosuke Ogoshi
       - Toshio Aida
+    editors:
+      - 征一郎 早川
+      - 洋之助 小越
+      - 利雄 相田
     year: 1984
     series: Hōsei Daigaku Ōhara Shakai Mondai Kenkyūjo sōsho -- dai 2-satsu
     language: Japanese
@@ -14084,6 +14116,8 @@ titles:
   - title: Nihon no rōdō kumiai undō
     authors:
       - Kenjirō Nakabayashi
+    editors:
+      - Nihon-no-Rōdō-Kumiai-Undō-Henshū-Iinkai
     year: 1984
     language: Japanese
     sources:
@@ -14233,6 +14267,10 @@ titles:
       - Shirō Akazawa
       - Kenzō Kitagawa
       - Masaomi Yui
+    editors:
+      - 史朗 赤沢
+      - 賢三 北河
+      - 正臣 由井
     year: 1984
     series: Shiryō Nihon gendaishi -- 12
     language: Japanese
@@ -15875,8 +15913,11 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BN02181808
     verified: false
   - title: Amerika no Nihon, gannen, 1945-1946
+    original_title: 'America''s Japan : the first year 1945-46'
     authors:
       - Grant Kohn Goodman
+    translators:
+      - Hideo Kobayashi
     year: 1986
     language: Japanese
     pages: 178
@@ -16017,6 +16058,8 @@ titles:
   - title: ME "gōrika" to rōdō kumiai
     authors:
       - Tokita Yoshihisa
+    editors:
+      - Yoshihisa Tokita
     year: 1986
     language: Japanese
     pages: 334
@@ -20283,6 +20326,7 @@ titles:
     authors:
       - Akira Yamagiwa
       - Masanori Nakamura
+    translators:
       - Ryōnosuke Okada
     year: 1990
     language: Japanese
@@ -21218,6 +21262,7 @@ titles:
     subtitle: '= Literaturwissenschaftliche Germanistik: zur Geschichte ihrer Probleme und Begriffe'
     authors:
       - Rainer Rosenberg
+    translators:
       - Mutsumi Hayashi
     year: 1991
     language: Japanese
@@ -21406,8 +21451,10 @@ titles:
     verified: true
   - title: Kodomotachi wa naitaka
     subtitle: Nachizumu to igaku
+    original_title: Der SS-Arzt und die Kinder vom Bullenhuser Damm
     authors:
       - Günther Schwarberg
+    translators:
       - Masato Ishii
     year: 1991
     language: Japanese

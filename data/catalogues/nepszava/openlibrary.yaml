@@ -145,6 +145,7 @@ titles:
     verified: true
   - title: “A” francia forradalom
     subtitle: A francia közállapotok és események népszerü ismertetése 1789-től 1804-ig
+    original_title: Französische Revolution
     authors:
       - Wilhelm Blos
     year: 1909
@@ -308,9 +309,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=408193824
     verified: true
   - title: “A” szociális forradalom
+    original_title: <<Die>> soziale Revolution
     series: Munkáskönyvtár; Füzet 1
     authors:
       - Karl Kautsky
+    translators:
       - Ernő Garami
     year: 1918
     language: Hungarian
@@ -380,8 +383,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991083313449705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Pontius Pilatus
+    original_title: Le Procurateur de Judée
     authors:
       - Anatole France
+    translators:
+      - Zsigmond Kunfi
     year: 1918
     language: Hungarian
     sources:
@@ -405,6 +411,7 @@ titles:
     verified: true
   - title: Az összeomlás
     subtitle: Az 1870/71 francia-német háboru regénye
+    original_title: La débâcle
     authors:
       - Émile Zola
     year: 1919
@@ -460,6 +467,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991130760209705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Novellák
+    original_title: L'aube
   - title: A Szakszervezeti hare a háboru után. Komoly szó, komoly idöben. Fordittota
     subtitle: Acs Tamás
     authors:
@@ -471,8 +479,11 @@ titles:
         url: https://www.sudoc.fr/095550410
     verified: true
   - title: Jó polgári koszt, írta Emile Zola. Francia eredetiből fordította Bartha László
+    original_title: Pot-Bouille
     authors:
       - Émile Zola
+    translators:
+      - László Bartha
     year: 1920
     language: Hungarian
     sources:
@@ -924,6 +935,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1356661122
     verified: false
   - title: Háromgarasos regény
+    original_title: Dreigroschenroman
     authors:
       - Bertolt Brecht
       - János Erdődy
@@ -948,6 +960,7 @@ titles:
     verified: false
   - title: Róma
     subtitle: Regény
+    original_title: Rome
     series: Három város
     authors:
       - Émile Zola

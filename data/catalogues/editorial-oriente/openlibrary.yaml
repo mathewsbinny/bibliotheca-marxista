@@ -801,6 +801,7 @@ titles:
         url: https://search.worldcat.org/title/9721722
     verified: true
   - title: El mexicano
+    original_title: The Mexican
     authors:
       - Jack London
       - Isauro Antonio Salas
@@ -1236,6 +1237,8 @@ titles:
   - title: Sierra Maestra en la clandestinidad
     authors:
       - Manuel García Rodríguez
+    editors:
+      - Manuel García y Rodríguez
     year: 1981
     language: Spanish
     pages: 121
@@ -2041,6 +2044,8 @@ titles:
     subtitle: El heroico levantamiento de la ciudad de Santiago de Cuba
     authors:
       - Yolanda Portuondo
+    editors:
+      - Yolanda Portuondo López
     year: 1986
     language: Spanish
     pages: 328
@@ -2189,6 +2194,8 @@ titles:
     authors:
       - Ministerio de Cultura
       - Dirección de Artistas Aficionados
+    editors:
+      - Kuba
     year: 1986
     language: Spanish
     pages: 131
@@ -3787,6 +3794,8 @@ titles:
   - title: 8 narraciones policiales
     authors:
       - Lino Novás Calvo
+    editors:
+      - José M. Fernández Pequeño
     year: 1995
     language: Spanish
     pages: 218
@@ -3876,6 +3885,7 @@ titles:
         url: https://openlibrary.org/books/OL19748125M
     verified: true
   - title: La isla de Cuba
+    original_title: L'Île de Cuba$dSantiago, Puerte Principe, Matanzas et La Havane
     authors:
       - Hippolyte Piron
       - Olga Portuondo Zúñiga
@@ -3929,6 +3939,8 @@ titles:
   - title: Narraciones policiales
     authors:
       - Lino Novás Calvo
+    editors:
+      - José M. Fernández Pequeño
     year: 1995
     language: Spanish
     pages: 218
@@ -4887,6 +4899,8 @@ titles:
   - title: Coordenadas del cine cubano
     authors:
       - Reynaldo Gonzalez
+    editors:
+      - Reynaldo González
     year: 2001
     language: Spanish
     isbn: '9591103239'
@@ -5264,6 +5278,7 @@ titles:
     verified: true
   - title: La isla de Cuba
     subtitle: Primera parte
+    original_title: L'Ile de Cuba
     authors:
       - J. B. Rosemond de Beauvallon
     year: 2002
@@ -5465,6 +5480,7 @@ titles:
     verified: true
   - title: Viaje a La Habana, a las costas, al interior, a Santiago
     subtitle: Sociedad, costumbres, paisajes, episodios
+    original_title: Voyage a La Havane, sur les côtes, dans l'intérieur, a Santiago
     series: La isla de Cuba / J.B. Rosemond de Beauvallon; Primera parte
     authors:
       - Jean-Baptiste Rosemond de Beauvallon
@@ -6200,6 +6216,8 @@ titles:
     subtitle: Santiago de Cuba, 26 de noviembre al 1. de diciembre del 2001
     authors:
       - Congreso Nacional de Historia (Cuba) (16th 2001 Santiago de Cuba, Cuba)
+    editors:
+      - Natividad Alfaro Pena
     year: 2004
     language: Spanish
     pages: 243
@@ -6757,8 +6775,11 @@ titles:
         url: https://search.worldcat.org/title/76786959
     verified: true
   - title: Santiago de Cuba antes de la guerra
+    original_title: Cuba before the war
     authors:
       - Caroline L. Wallace
+    editors:
+      - Olga Portuondo Zúñiga
     year: 2005
     series: Mariposa
     language: Spanish
@@ -8849,6 +8870,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1614068453
     verified: true
   - title: Haití, paisaje y sociedad
+    original_title: 'Haïti : paysage et société'
     authors:
       - André-Marcel d' Ans
       - Consuelo Martínez Muñoz
@@ -9239,8 +9261,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=748761004
     verified: true
   - title: Historias y memorias desancladas
+    original_title: Histórias e memórias desancoradas
     authors:
       - António Antunes Fonseca
+    translators:
       - Rosa Díaz Chío
     year: 2012
     language: Spanish
@@ -9392,6 +9416,8 @@ titles:
     subtitle: Cartas de aquí y de allá (1905-1921)
     authors:
       - Regino Eladio Boti y Barreiro
+    editors:
+      - Regino Rodríguez Boti
     year: 2012
     language: Spanish
     pages: 306
@@ -9792,6 +9818,8 @@ titles:
   - title: Selección poética
     authors:
       - César Dávila Andrade
+    editors:
+      - Jorge Dávila Vázquez
     year: 2013
     language: Spanish
     pages: 263
@@ -10009,6 +10037,8 @@ titles:
     subtitle: Cartas
     authors:
       - Ernesto Lecuona
+    editors:
+      - Ramón Fajardo
     year: 2014
     language: Spanish
     isbn: '9789591108784'
@@ -10673,9 +10703,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=876671229
     verified: true
   - title: Antonio Maceo, el Titán de Bronce
+    original_title: Antonio Maceo, the "Bronze Titan" of Cuba's struggle for independence
     series: Colección Bronce
     authors:
       - Philip Sheldon Foner
+    translators:
       - Hebert Pérez Concepción
     year: 2016
     language: Spanish
@@ -10889,8 +10921,10 @@ titles:
     verified: true
   - title: Rasta y resistencia
     subtitle: De Marcus Garvey a Walter Rodney
+    original_title: Rasta and resistance
     authors:
       - Horace Campbell
+    translators:
       - Samuel Furé Davis
     year: 2016
     language: Spanish
@@ -11022,6 +11056,8 @@ titles:
     subtitle: 'Compositores e intérpretes: ponencias del Coloquio Internacional Boleros de Oro'
     authors:
       - Coloquio Internacional Boleros de Oro (1999-2014 Havana, Cuba)
+    editors:
+      - Alicia Valdés Cantero
     year: 2017
     series: Colección Diálogo
     language: Spanish
@@ -11152,6 +11188,8 @@ titles:
   - title: Si tú mueres primero...
     authors:
       - Aminta Buenaño Rugel
+    editors:
+      - Asela Suárez
     year: 2017
     edition: Primera edición cubana
     series: Mariposa narrativa
@@ -11384,8 +11422,11 @@ titles:
     verified: true
   - title: Relaciones Cuba-Estados Unidos
     subtitle: ¿Qué ha cambiado?
+    original_title: 'Cuba-U.S. relations : Obama and beyond'
     authors:
       - Arnold August
+    translators:
+      - Aida Bahr
     year: 2018
     language: Spanish
     pages: 303
@@ -11476,6 +11517,8 @@ titles:
     subtitle: Tercera entrega
     authors:
       - Mirta Yáñez
+    editors:
+      - Teresa Melo
     year: 2019
     series: Mariposa. Estudios
     language: Spanish

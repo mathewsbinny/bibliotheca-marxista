@@ -222,11 +222,13 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb33107818x
     verified: true
   - title: La nouvelle économique
+    original_title: Novaâ ékonomika
     authors:
       - Evgenij Alekseevič Preobraženskij
-      - Bernard Joly
       - Pierre Naville
       - Ernest Mandel
+    translators:
+      - Bernard Joly
     year: 1966
     language: French
     sources:
@@ -252,7 +254,8 @@ titles:
     verified: true
     subtitle: Michelle Perrot et Annie Kriegel
   - title: Pologne - Hongrie 1956 ou "Le Printemps en octobre"
-    authors:
+    authors: []
+    translators:
       - Pierre Broué
     year: 1966
     language: French
@@ -284,6 +287,7 @@ titles:
         url: https://openlibrary.org/books/OL17391593M
     verified: true
   - title: L'Économie politique du rentier, la théorie de la valeur et du profit de l'école autrichienne, (critique de l'economie marginaliste)
+    original_title: Političeskaâ èkonomiâ rantʹe
     authors:
       - Nikolaĭ Ivanovich Bukharin
     year: 1967
@@ -343,6 +347,8 @@ titles:
   - title: La Révolution d'Octobre et le mouvement ouvrier européen
     authors:
       - Marc Ferro
+    editors:
+      - Victor Fay
     year: 1967
     language: French
     pages: 231
@@ -369,6 +375,8 @@ titles:
     subtitle: Marc Ferro [u.a.] Prép. et présenté par Victor Fay
   - title: La Révolution d'Octobre et le mouvement ouvrier européen Marc Ferro, Victor Fay, Pierre Broué, Annie Kriegel, ... [etc.] Préparé et présenté par Victor Fay
     authors: []
+    editors:
+      - Victor Fay
     year: 1967
     language: French
     pages: 231
@@ -475,6 +483,8 @@ titles:
   - title: La Conception matérialiste de la question juive
     authors:
       - Abraham Léon
+    editors:
+      - Maxime Rodinson
     year: 1968
     edition: '[Nouvelle] édition revue et préfacée par Maxime Rodinson. Préface originale de E. Germain. Textes complémentaires [traduits] de Isaac Deutscher et Léon Trotsky'
     language: French
@@ -502,6 +512,8 @@ titles:
   - title: La Conception matérialiste de la question juive. [Nouvelle] édition revue et préfacée par Maxime Rodinson. Préface originale de E. [Ernest] Germain. Textes complémentaires [traduits] de Isaac Deutscher et Léon Trotsky
     authors:
       - Abraham Léon
+    editors:
+      - Maxime Rodinson
     year: 1968
     language: French
     sources:
@@ -533,10 +545,11 @@ titles:
     authors:
       - Otto Bauer
       - Yvon Bourdet
+      - Paul Felix Lazarsfeld
+    translators:
       - Jacqueline Bois
       - Fernand Caussy
       - Claudie Weill
-      - Paul Felix Lazarsfeld
     year: 1968
     language: French
     sources:
@@ -553,6 +566,8 @@ titles:
   - title: Otto Bauer et la révolution, textes choisis, présentés et annotés par Yvon Bourdet
     authors:
       - Otto Bauer
+    editors:
+      - Yvon Bourdet
     year: 1968
     series: Serie Praxis
     language: French
@@ -570,6 +585,8 @@ titles:
   - title: Otto Bauer et la révolution, textes choisis, présentés et annotés par Yvon Bourdet. Traduction de Jacqueline Bois, Bracke, F. Caussy et Claudie Weil
     authors:
       - Otto Bauer
+    editors:
+      - Yvon Bourdet
     year: 1968
     language: French
     sources:
@@ -675,6 +692,8 @@ titles:
   - title: Pannekoek et les conseils ouvriers
     authors:
       - Anton Pannekoek
+    editors:
+      - Serge Bricianer
     year: 1969
     series: Série Praxis
     language: French
@@ -757,6 +776,8 @@ titles:
   - title: La théorie générale du droit et le marxisme
     authors:
       - Evgeniĭ Bronislavovich Pashukanis
+    editors:
+      - Jean-Marie Vincent
     year: 1970
     language: French
     sources:
@@ -853,6 +874,7 @@ titles:
       - Franz Jakubowski
       - Lev Davidovič Trockij
       - Boris Fraenkel
+    translators:
       - Jean-Marie Brohm
     year: 1971
     language: French
@@ -863,9 +885,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1168443784
     verified: true
     subtitle: En appendice, article de L. Trotsky
+    original_title: Der Ideologische Überbau in der materialistischen Gechichtsauffassung
   - title: Les voies de la révolution russe
     authors:
       - Karl Berngardovič Radek
+    translators:
+      - Jean-Marie Brohm
     year: 1971
     language: French
     sources:
@@ -910,6 +935,9 @@ titles:
     subtitle: Textes politiques du mouvement ouvrier et du parti ouvrier révolutionnaire
     authors:
       - Guillermo Lora
+    translators:
+      - François Chesnais
+      - Catherine Chesnais
     year: 1972
     language: French
     pages: 286
@@ -937,6 +965,7 @@ titles:
     verified: true
   - title: Défense du marxisme
     subtitle: URSS, marxisme et bureaucratie
+    original_title: In defense of marxism, against the petty-bourgeois opposition
     authors:
       - Lev Davidovič Trockij
       - Jean-Jacques Marie
@@ -974,8 +1003,11 @@ titles:
     verified: false
   - title: L' insurrection des Asturies
     subtitle: Quinze jours de révolution socialiste. Traduction et présentation de Georges Garnier. Lettre introd. de Ramón Gonzalez Peña. Préf. de Joaquín Maurin. Épilogue de Julian Gorkin, avec une communication de l'auteur
+    original_title: La Insurrección de Asturias (quince dias de revolución socialista). Carta-introducción de Ramon González Pen̂a, prólogo de Joaquin Maurin, epílogo de Julian G. Gorkin
     authors:
       - Manuel Grossi Mier
+    translators:
+      - Georges Garnier
     year: 1972
     language: French
     pages: 238
@@ -1021,11 +1053,13 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb373551549
     verified: true
   - title: La nouvelle économique
+    original_title: Novaia Ekonomika
     authors:
       - Evgenij Alekseevič Preobraženskij
       - Pierre Naville
-      - Bernard Joly
       - Ernest Mandel
+    translators:
+      - Bernard Joly
     year: 1972
     language: French
     sources:
@@ -1035,8 +1069,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb37355152m
     verified: true
   - title: Les Superstructures idéologiques dans la conception matérialiste de l'histoire ...
+    original_title: Der Ideologische Überbau in der materialistischen Gechichtsauffassung
     authors:
       - Franz Jakubowski
+    translators:
+      - Jean-Marie Brohm
     year: 1972
     language: French
     pages: 222
@@ -1051,10 +1088,12 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991151941979705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Les voies de la révolution russe
+    original_title: Wege der ryssischen Revolution
     authors:
       - Karl Radek
-      - Jean-Marie Brohm
       - Fritz Belleville
+    translators:
+      - Jean-Marie Brohm
     year: 1972
     language: French
     sources:
@@ -1086,6 +1125,7 @@ titles:
     subtitle: Août 1968-juin 1969, [extraits de] "Reportér" et "Politika"
     authors:
       - Pierre Broué
+    translators:
       - Annie Bardet
       - Karel Koštál
       - Helena Baudesson Weinfurtová
@@ -1124,6 +1164,11 @@ titles:
     series: Les congrès de l'Internationale communiste; 1
     authors:
       - Internationale
+    editors:
+      - Pierre Broué
+    translators:
+      - Jean-Marie Brohm
+      - Jacques Mas
     year: 1974
     language: French
     sources:
@@ -1147,9 +1192,10 @@ titles:
     series: Documents pour l'histoire de la Troisième Internationale
     authors:
       - Pierre Broué
+      - Internationale
+    translators:
       - Jean-Marie Brohm
       - Jacques Mas
-      - Internationale
     year: 1974
     language: French
     sources:
@@ -1173,8 +1219,11 @@ titles:
         url: https://www.sudoc.fr/045840814
     verified: true
   - title: Notes sur Gramsci
+    original_title: Note au Gramsci
     authors:
       - Alfonso Leonetti
+    translators:
+      - Robert Maggiori
     year: 1974
     language: French
     sources:
@@ -1190,8 +1239,12 @@ titles:
     pages: 230
   - title: Critique de l'économie nationale
     subtitle: Sur le livre d. F. List, le système national de l'économie politique = Zweite Elberfelder Rede 1845
+    original_title: Ueber Friedrich Lists Buch "Das nationale System der politischen Oekonomie" Karl Marx Zweite Elberfelder Rede Friedrich Engels
     authors:
       - Karl Marx
+    translators:
+      - Jean-Marie Brohm
+      - Andreas Streiff
     year: 1975
     language: German
     sources:
@@ -1265,6 +1318,7 @@ titles:
     verified: true
   - title: Défense du marxisme
     subtitle: U.R.S.S., marxisme et bureaucratie
+    original_title: In defense of marxism
     authors:
       - Lev Davidovič Trockij
       - Pierre Naville
@@ -1279,8 +1333,14 @@ titles:
     verified: true
   - title: Économique de la période de transition
     subtitle: Théorie générale des processus de transformation
+    original_title: Èkonomika perehodnogo perioda
     authors:
       - Nikolaĭ Ivanovich Bukharin
+    editors:
+      - Vladimir Ilʹič Lenin
+    translators:
+      - Ewa Bérard
+      - Jean-Marie Brohm
     year: 1976
     language: French
     pages: 206
@@ -1354,6 +1414,8 @@ titles:
   - title: La théorie générale du droit et le marxisme
     authors:
       - Evgeny B. Pasukanis
+    translators:
+      - Jean-Marie Brohm
     year: 1976
     language: French
     sources:
@@ -1367,8 +1429,9 @@ titles:
     authors:
       - Franz Jakubowski
       - Lev Davidovič Trockij
-      - Jean-Marie Brohm
       - Boris Fraenkel
+    translators:
+      - Jean-Marie Brohm
     year: 1976
     language: French
     sources:
@@ -1380,6 +1443,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb34697490d
     verified: true
     subtitle: En appendice, article de L. Trotsky
+    original_title: Der Ideologische Überbau in der materialistischen Geschichtsauffassung
   - title: Matériaux pour l'histoire du mouvement communiste en France
     subtitle: La lutte des classes en France, 1927-1929
     series: Matériaux pour l'histoire du mouvement communiste en France; 1
@@ -1424,11 +1488,13 @@ titles:
     verified: true
   - title: L'impérialisme et l'accumulation du capital
     subtitle: Rapport au Ve Congrès de l'I.C. Internationale communiste
+    original_title: Imperializm i nakoplenie kapitala
     authors:
       - Nikolaj Ivanovič Buharin
-      - Jean-Marie Brohm
       - Maurice Andreu
       - Pierre Naville
+    translators:
+      - Jean-Marie Brohm
     year: 1977
     language: French
     sources:
@@ -1442,6 +1508,10 @@ titles:
   - title: Pannekoek et les conseils ouvriers
     authors:
       - Anton Pannekoek
+    editors:
+      - Serge Bricianer
+    translators:
+      - Serge Bricianer
     year: 1977
     series: Série Praxis
     language: French
@@ -1552,6 +1622,10 @@ titles:
   - title: Du premier au deuxième congrès de l'Internationale communiste, mars 1919-juillet 1920
     authors:
       - Pierre Broué
+    translators:
+      - Jacqueline Bois
+      - Jean-Marie Brohm
+      - Andreas Streiff
     year: 1979
     series: Documents pour l'histoire de la Troisième Internationale
     language: French
@@ -1603,10 +1677,11 @@ titles:
     series: Documents pour l'histoire de la Troisième Internationale
     authors:
       - Pierre Broué
+      - Internationale
+    translators:
       - Jacqueline Bois
       - Jean-Marie Brohm
       - Andreas Streiff
-      - Internationale
     year: 1979
     language: French
     sources:
@@ -1657,6 +1732,9 @@ titles:
   - title: Œuvres
     authors:
       - Lev Davydovič Trockij
+    editors:
+      - Pierre Broué
+      - Michel Dreyfus
     year: 1979
     language: French
     sources:
@@ -1718,10 +1796,12 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb36255558g
     verified: true
   - title: La baisse du taux de profit
+    original_title: The failing rate of profit
     authors:
       - Joseph M. Gillman
-      - Maurice Fhima
       - Maurice Andreu
+    translators:
+      - Maurice Fhima
     year: 1980
     language: French
     sources:
@@ -1735,6 +1815,8 @@ titles:
   - title: La Conception matérialiste de la question juive
     authors:
       - Abraham Léon
+    editors:
+      - Maxime Rodinson
     year: 1980
     language: French
     sources:
@@ -1894,6 +1976,7 @@ titles:
     verified: true
   - title: Edouard Vaillant
     subtitle: 'La création de l''unité socialiste en France: la politique de l''action totale'
+    original_title: Edouard Vaillant and the French socialist movement, the tactics of total action
     authors:
       - Jolyon Howorth
     year: 1982
@@ -2038,6 +2121,8 @@ titles:
     subtitle: Accueil et luttes des exilés allemands en France (1933-1939)
     authors:
       - Gilbert Badia
+    editors:
+      - Etudes et Documentation Internationales
     year: 1984
     language: French
     pages: 411
@@ -2286,8 +2371,10 @@ titles:
     verified: true
   - title: La crise mondiale
     subtitle: Théorie et pratique
+    original_title: Value and crisis
     authors:
       - Makoto Itô
+    translators:
       - Claude Meillassoux
     year: 1987
     language: French
@@ -2298,13 +2385,17 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb349763068
     verified: true
   - title: La question des nationalités et la social-démocratie
+    original_title: Die Nationalitätenfrage und die Sozialdemokratie
     series: Histoires et émancipations
     authors:
       - Otto Bauer
+      - Alain Le Guyader
+    editors:
+      - Claudie Weill
+    translators:
       - Claudie Weill
       - Nicole Brune-Perrin
       - Johannès Brune
-      - Alain Le Guyader
     year: 1987
     language: French
     sources:
@@ -2374,6 +2465,8 @@ titles:
       - Marie-José Chombart de Lauwe
       - Yves Jouffa
       - Madeleine Rebérioux
+    editors:
+      - Ligue française pour la défense des droits de l'homme et du citoyen
     year: 1987
     language: French
     sources:
@@ -2500,6 +2593,8 @@ titles:
     subtitle: Luttes et défaites du Tiers Monde
     authors:
       - Jean Ziegler
+    editors:
+      - Laurence Lomme
     year: 1989
     language: French
     pages: 251
@@ -2644,6 +2739,9 @@ titles:
   - title: La Liberté de l'information en France
     authors:
       - France) Ligue des droits de l'homme (Paris
+    editors:
+      - Saïd Essoulami
+      - Bernard Wallon
     year: 1990
     language: French
     pages: 122
@@ -2661,9 +2759,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991025902599705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Le capitalisme d'Etat en URSS de Staline à Gorbatchev
+    original_title: State capitalism in Russia
     authors:
       - Tony Cliff
       - Chris Harman
+    translators:
       - Jacques Fournier
     year: 1990
     language: French

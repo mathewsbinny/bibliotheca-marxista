@@ -89,6 +89,8 @@ titles:
   - title: Learning Through Language
     subtitle: Produced for the Ministry of Education by the Subject Panel of the Institute of Education
     authors: []
+    editors:
+      - R. H. Isaacs
     year: 1968
     language: English
     pages: 209
@@ -288,6 +290,7 @@ titles:
         url: https://www.sudoc.fr/096744189
     verified: true
   - title: Tufani
+    original_title: The Tempest
     authors:
       - William Shakespeare
     year: 1969
@@ -822,6 +825,7 @@ titles:
         url: https://lccn.loc.gov/73980210
     verified: true
   - title: Mnafiki
+    original_title: Tartuffe
     series: Michezo ya kuigiza; 4
     authors:
       - Molière
@@ -999,6 +1003,8 @@ titles:
   - title: Harakati ya Kitabaka Katika Afrika
     authors:
       - Kwame Nkrumah
+    translators:
+      - M. W. K. Chiume
     year: 1974
     language: Swahili
     sources:
@@ -1072,8 +1078,9 @@ titles:
   - title: Sacred hope
     authors:
       - António Agostinho Neto
-      - Marga Holness
       - Arusha Tanzania Litho
+    translators:
+      - Marga Holness
     year: 1974
     language: German
     sources:
@@ -1423,6 +1430,8 @@ titles:
     subtitle: A Socio-Economic Study
     authors:
       - Mário de Andrade
+    translators:
+      - Marga Holness
     year: 1975
     language: English
     pages: 128
@@ -2447,6 +2456,8 @@ titles:
   - title: A Taste of Heaven
     authors:
       - F. Topan
+    translators:
+      - Martin Mkombo
     year: 1980
     series: Plays in English; 1
     language: English
@@ -2889,10 +2900,12 @@ titles:
         url: https://lccn.loc.gov/83151656
     verified: true
   - title: Chale za kikabila
+    original_title: 'Voltaïque : la noire de ..'
     authors:
       - Ousmane Sembène
-      - Cecil R. Magembe
       - Alain Ricard
+    translators:
+      - Cecil R. Magembe
     year: 1981
     language: Swahili
     sources:
@@ -3190,6 +3203,8 @@ titles:
     verified: true
   - title: The Debate
     authors: []
+    editors:
+      - Yashpal Tandon
     year: 1982
     language: English
     pages: 310
@@ -3847,6 +3862,9 @@ titles:
     subtitle: 'Life in a Patriarchal Society: Field Research Among the Parakuyo, Tanzania'
     authors:
       - Ulrike von Mitzlaff
+    translators:
+      - Cornelia Groethuysen
+      - Thom Dibdin
     year: 1994
     language: English
     pages: 166

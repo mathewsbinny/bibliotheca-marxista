@@ -188,6 +188,8 @@ titles:
   - title: Heronj të heshtur
     authors:
       - Vangjel Kule
+    editors:
+      - Polikron Tamburi
     year: 1974
     language: Albanian
     sources:
@@ -262,6 +264,8 @@ titles:
     subtitle: Piktura murale e mesjetës në Shqipëri
     authors:
       - Refik Veseli
+    editors:
+      - Dhorka Dhamo
     year: 1974
     language: Albanian, French
     pages: 63
@@ -491,6 +495,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1152044109
     verified: true
   - title: Albenia madre
+    original_title: Nënë Shqipëri
     authors:
       - Dritëro Agolli
     year: 1975
@@ -728,6 +733,7 @@ titles:
         url: https://www.sudoc.fr/063577909
     verified: true
   - title: Poesie
+    original_title: Poezi
     authors:
       - Dritëro Agolli
     year: 1975
@@ -2248,6 +2254,7 @@ titles:
     verified: true
   - title: Mutter Albanien
     subtitle: (Ein Gedicht)
+    original_title: Nënë Shqipëri
     authors:
       - Dritëro Agolli
       - Robert Schwartz
@@ -5377,6 +5384,7 @@ titles:
     verified: true
   - title: Before the Dawn
     subtitle: A Novel
+    original_title: Para agimit
     authors:
       - Shevqet Musaraj
     year: 1981
@@ -5732,6 +5740,7 @@ titles:
         url: https://lccn.loc.gov/84136176
     verified: true
   - title: Poésies
+    original_title: Poezi
     authors:
       - Ismail Kadare
     year: 1981
@@ -6301,6 +6310,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=519282833
     verified: true
   - title: History of the Party of Labour of Albania
+    original_title: Historia e Partisë së Punës të Shqipërisë
     authors:
       - Instituti i Studimeve Marksiste-Leniniste
     year: 1982
@@ -6477,6 +6487,8 @@ titles:
   - title: Naim Frashëri, jeta dhe vepra
     authors:
       - Dhimitër S. Shuteriqi
+    editors:
+      - Helena Gushi-Kadare
     year: 1982
     language: Albanian
     pages: 230
@@ -7646,6 +7658,7 @@ titles:
     verified: true
   - title: Skanderbeg
     subtitle: Historischer Roman
+    original_title: Skënderbeu
     authors:
       - Sabri Godo
     year: 1983
@@ -8016,6 +8029,7 @@ titles:
     verified: true
   - title: Betrachtungen uber den Nahen und Mittleren Osten, 1958-1983
     subtitle: Aus dem politischen Tagebuch
+    original_title: Shënime për Lindjen e Mesme
     authors:
       - Enver Hoxha
     year: 1984
@@ -8245,6 +8259,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=520250125
     verified: true
   - title: L'enseignement en République populaire socialiste d'Albanie
+    original_title: Arsimi në Republikën popullore socialiste të Shqipërisë
     authors:
       - Sotir Temo
     year: 1984
@@ -9575,6 +9590,9 @@ titles:
     subtitle: Shqip--frëngjisht--rusisht
     authors:
       - Andrea Nathanaili
+    editors:
+      - Lirak Dodbiba
+      - Sofika Morcka
     year: 1986
     series: Terminologjia tekniko-shkencore
     language: Albanian
@@ -9900,6 +9918,7 @@ titles:
         url: https://lccn.loc.gov/87139420
     verified: true
   - title: The People's Revolution in Albania and the Question of State Power
+    original_title: Revolucioni popullor në Shqipëri dhe pushteti politik
     authors:
       - Luan Omari
     year: 1986
@@ -9912,6 +9931,7 @@ titles:
     verified: true
   - title: The Superpowers, 1959-1984
     subtitle: Extracts from the Political Diary
+    original_title: Superfuqitë, 1959-1984
     authors:
       - Enver Hoxha
     year: 1986
@@ -10688,6 +10708,8 @@ titles:
   - title: A Lyrical Tale in Winter
     authors:
       - Teodor Lac̦o
+    translators:
+      - Ronald Taylor
     year: 1988
     language: English
     pages: 200
@@ -10714,8 +10736,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=27583736X
     verified: true
   - title: Autobiographie du peuple en vers
+    original_title: Autobiografia e popullit në vargje
     authors:
       - Ismail Kadare
+    translators:
       - Edmond Tupja
     year: 1988
     language: French
@@ -10970,6 +10994,7 @@ titles:
     verified: true
   - title: Tschufos Abenteuer
     subtitle: Roman
+    original_title: Aventurat e çufos
     authors:
       - Gaqo Bushaka
       - Marko Safo
@@ -10984,6 +11009,8 @@ titles:
     subtitle: A Novelette
     authors:
       - Naum R. Prifti
+    translators:
+      - Peter Prifti
     year: 1988
     language: English
     pages: 131
@@ -11164,6 +11191,7 @@ titles:
         url: https://lccn.loc.gov/90211014
     verified: true
   - title: La familia y su estructura en la RPS de Albania
+    original_title: Familja socialiste dhe struktura e saj
     authors:
       - Zana Alia
     year: 1989
@@ -11275,6 +11303,8 @@ titles:
     subtitle: Përmbledhje të viteve 1978, 1979 dhe 1980
     authors:
       - Albania. Gjykata e Lartë
+    editors:
+      - Ilda Kekezi
     year: 1989
     language: Albanian
     pages: 518
@@ -11340,6 +11370,9 @@ titles:
   - title: Abdyl Frashëri (1839-1892)
     authors:
       - Kristo Frashëri
+    translators:
+      - Edmond Tupja
+      - Rajmonda Vuçini
     year: 1990
     language: French
     sources:
@@ -11357,6 +11390,8 @@ titles:
   - title: Autoktonia e shqiptarëve në studimet gjermane
     authors:
       - Nelson Çabej
+    editors:
+      - Nelson R. Çabej
     year: 1990
     language: Albanian
     pages: 191
@@ -11587,7 +11622,8 @@ titles:
         url: https://lccn.loc.gov/2003360984
     verified: true
   - title: Récits
-    authors:
+    authors: []
+    translators:
       - Vedat Kokona
       - Jusuf Vrioni
     year: 1990
@@ -11707,8 +11743,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=276892518
     verified: true
   - title: Free Verse
+    original_title: Vargjet e lira
     authors:
       - Migjeni
+    translators:
+      - Robert Elsie
     year: 1991
     language: English
     pages: 117

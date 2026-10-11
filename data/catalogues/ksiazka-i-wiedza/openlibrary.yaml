@@ -58,6 +58,8 @@ titles:
     authors:
       - Bolesław Prus
       - Zygmunt Marian Szweykowski
+    editors:
+      - Zygmunt Szweykowski
     year: 1948
     language: Polish
     sources:
@@ -91,6 +93,8 @@ titles:
   - title: Pisma zebrane
     authors:
       - Eliza Orzeszkowa
+    editors:
+      - Julian Krzyżanowski
     year: 1948
     language: Polish
     sources:
@@ -116,6 +120,7 @@ titles:
     authors:
       - Georgij Valentinovič Plechanov
       - Jerzy Plechanow
+    translators:
       - Romana Granas
     year: 1948
     language: Polish
@@ -268,6 +273,7 @@ titles:
     authors:
       - Aleksander Puszkin
       - Władysław Daszewski
+    translators:
       - Julian Tuwim
     year: 1949
     language: Polish
@@ -354,6 +360,7 @@ titles:
         url: https://search.worldcat.org/title/783740780
     verified: true
   - title: Dalekie lata
+    original_title: Dalekie gody
     authors:
       - Konstantin Georgievič Paustovskij
       - Jerzy Jędrzejewicz
@@ -668,6 +675,9 @@ titles:
   - title: Kultura okresu pozytywizmu
     authors:
       - Instytut Badań Literackich (Polska Akademia Nauk)
+    editors:
+      - Maria Janion
+      - Jan Kott
     year: 1949
     language: Polish
     sources:
@@ -832,6 +842,7 @@ titles:
   - title: Matka
     authors:
       - Maksim Gorki
+    translators:
       - Halina Górska
     year: 1949
     language: Polish
@@ -959,6 +970,8 @@ titles:
   - title: Nowele, opowiadania, fragmenty
     authors:
       - Bolesław Prus
+    editors:
+      - Zygmunt Szweykowski
     year: 1949
     series: His Pisma pod red Zygmunta Szweykowskiego -- t. 22-26
     language: Polish
@@ -1140,6 +1153,7 @@ titles:
   - title: Opowiadania
     authors:
       - Konstantin Georgievič Paustovskij
+    translators:
       - Nadzieja Drucka
     year: 1949
     language: Polish
@@ -1295,6 +1309,8 @@ titles:
   - title: Pierwsze opowiadania
     authors:
       - Bolesław Prus
+    editors:
+      - Zygmunt Szweykowski
     year: 1949
     edition: Wydanie drugie
     series: Biblioteka pisarzy polskich i obcych -- 32
@@ -1395,6 +1411,8 @@ titles:
     subtitle: Powieść
     authors:
       - Bolesław Prus
+    editors:
+      - Zygmunt Szweykowski
     year: 1949
     edition: Wyd. 4
     language: Polish
@@ -1704,6 +1722,8 @@ titles:
   - title: Salon i ulica
     authors:
       - Józef Dzierzkowski
+    editors:
+      - Janina Rosnowska
     year: 1949
     series: Biblioteka pisarzy polskich i obcych -- 45
     language: Polish
@@ -2033,6 +2053,8 @@ titles:
   - title: Wybór poezji
     authors:
       - Julian Przyboś
+    editors:
+      - Mieczysław Jastrun
     year: 1949
     language: Polish
     pages: 111
@@ -2264,9 +2286,10 @@ titles:
   - title: Baśnie
     authors:
       - J. Ch Andersen
-      - Stefania Beylin
       - Anna Milska
       - J. Szancer
+    translators:
+      - Stefania Beylin
     year: 1950
     language: Polish
     sources:
@@ -2342,6 +2365,7 @@ titles:
   - title: Burza
     authors:
       - Ilja Erenburg
+    translators:
       - Stanisław Strumph-Wojtkiewicz
     year: 1950
     language: Polish
@@ -2605,8 +2629,9 @@ titles:
   - title: Dubrowski
     authors:
       - Aleksandr Sergeevič Puškin
-      - Seweryn Pollak
       - W. Waśkoski
+    translators:
+      - Seweryn Pollak
     year: 1950
     language: Polish
     sources:
@@ -2625,6 +2650,7 @@ titles:
         url: https://search.worldcat.org/title/8243587
     verified: true
   - title: Dziadek do orzechów
+    original_title: Nußknacker und Mausekönig
     authors:
       - E. T. A. Hoffmann
       - Krystyna Kuliczkowska
@@ -2774,8 +2800,10 @@ titles:
         url: https://www.sudoc.fr/150187521
     verified: true
   - title: Historia starożytnego Rzymu
+    original_title: Istoriâ drevnego Rima
     authors:
       - Nikolaj Aleksandrovič Maškin
+    translators:
       - Władysław Głuchowski
     year: 1950
     language: Polish
@@ -2847,7 +2875,8 @@ titles:
         url: https://search.worldcat.org/title/7214520
     verified: true
   - title: Jezykoznawstwo radzieckie na nowych drogach rozwoju
-    authors:
+    authors: []
+    translators:
       - Jan Tokarski
     year: 1950
     language: Polish
@@ -3696,6 +3725,8 @@ titles:
   - title: Pisma wybrane
     authors:
       - Adolf Dygasiński
+    editors:
+      - Bogdan Horodyski
     year: 1950
     language: Polish
     sources:
@@ -3937,6 +3968,9 @@ titles:
   - title: Słownik polsko-rosyjski
     authors:
       - Iosif Hananovič Dvoreckij
+    editors:
+      - N. I. Grekov
+      - Mariâ Francevna Rozvadovskaâ
     year: 1950
     language: Polish
     sources:
@@ -4041,6 +4075,7 @@ titles:
   - title: Stiepan Kolczugin
     authors:
       - Wasilij Grossman
+    translators:
       - Józef Brodzki
     year: 1950
     language: Polish
@@ -4052,9 +4087,11 @@ titles:
     verified: true
   - title: Syn rybaka
     subtitle: Powieść z życia łotewskiego
+    original_title: Zvejnieka dēls
     authors:
       - Vilis Lācis
       - Jan Lenica
+    translators:
       - W. Olde
     year: 1950
     language: Polish
@@ -4100,6 +4137,7 @@ titles:
   - title: Tai-Yang sie̜ budzi
     authors:
       - Friedrich Wolf
+    translators:
       - Jan Perz
       - Wacław Śniady
     year: 1950
@@ -4373,6 +4411,7 @@ titles:
   - title: Wszystko dla pań
     authors:
       - Émile Zola
+    translators:
       - Zdana Matuszewicz
     year: 1950
     language: Polish
@@ -4437,6 +4476,9 @@ titles:
   - title: Wybór wierszy
     authors:
       - Wacław Potocki
+    editors:
+      - Kazimierz Czachowski
+      - Kazimierz Budzyk
     year: 1950
     edition: Wyd. 2., popr
     series: Biblioteka pisarzy polskich i obcych -- 29
@@ -4546,6 +4588,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1889407658
     verified: true
   - title: Ze wapomnień Stachanowca
+    original_title: Zametki stakhanovt︠s︡a
     series: Biblioteka przodowników pracy; nr 53
     authors:
       - Illarion IAnkin
@@ -4571,6 +4614,7 @@ titles:
     authors:
       - Andrej Pavlovič Šmankevič
       - Zbigniew Piotrowski
+    translators:
       - Eugenia Toeplitz
     year: 1950
     language: Polish
@@ -5074,6 +5118,8 @@ titles:
   - title: Historia na dwie ksiȩgi podzielona
     authors:
       - Ignacy Krasicki
+    editors:
+      - Jerzy Ziomek
     year: 1951
     series: Biblioteka pisarzy polskich i obeych
     language: Polish
@@ -5289,6 +5335,9 @@ titles:
     subtitle: Wspomnienia z pola walki
     authors:
       - KC PZPR. Wydział Historii Partii
+    editors:
+      - Józef Kowalczyk
+      - Zakład Historii Partii
     year: 1951
     language: Polish
     pages: 354
@@ -5400,6 +5449,8 @@ titles:
     subtitle: Żegnaj Francjo
     authors:
       - Nina Rydzewska
+    editors:
+      - Janina Rosnowska
     year: 1951
     language: Polish
     pages: 212
@@ -5619,6 +5670,8 @@ titles:
   - title: Na ratunek
     authors:
       - Stefania Sempołowska
+    editors:
+      - Teresa Teslarowa
     year: 1951
     edition: Wydanie 7]
     language: Polish
@@ -5811,6 +5864,8 @@ titles:
     subtitle: Opracowała i wstępem opatrzyła Ewa Warzenica
     authors:
       - Józef Ignacy Kraszewski
+    editors:
+      - Ewa Warzenica
     year: 1951
     series: Biblioteka pisarzy polskich i obcych
     language: Polish
@@ -5913,6 +5968,8 @@ titles:
   - title: Pisma wybrane
     authors:
       - Maria Konopnicka
+    editors:
+      - Bogdan Horodyski
     year: 1951
     language: Polish
     sources:
@@ -6008,10 +6065,12 @@ titles:
     verified: true
   - title: Podróż z Petersburga do Moskwy
     subtitle: (Wybor)
+    original_title: Putesestvie iz Peterburga v Moskvu
     series: Biblioteka pisarzy polskich i obcych; 57
     authors:
       - Aleksandr Nikolaevič Radiščev
       - Wiktor Jakubowski
+    translators:
       - Seweryn Pollak
     year: 1951
     language: Polish
@@ -6087,6 +6146,8 @@ titles:
     subtitle: Opracował Mieczysław Jastrun, przejrzał tekst i chronologie ustalił Juliusz W. Gomulicki
     authors:
       - Cyprian Norwid
+    editors:
+      - Mieczysław Jastrun
     year: 1951
     edition: Wydanie 2., rozszerzone i poprawione]
     series: Biblioteka pisarzy polskich i obcych -- 28
@@ -6103,8 +6164,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991045102139705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Poganka
+    original_title: Poganka
     authors:
       - Narcyza Żmichowska
+    editors:
+      - Maria Olszaniecka
     year: 1951
     series: Biblioteka pisarzy polskich i obcych -- 58
     language: Polish
@@ -6531,6 +6595,8 @@ titles:
   - title: Walka klas
     authors:
       - Stanisław Kowalewski
+    editors:
+      - Anna Jakimowicz
     year: 1951
     language: Polish
     pages: 125
@@ -6590,6 +6656,8 @@ titles:
   - title: Wielki Proletariat
     authors:
       - KC PZPR. Wydział Historii Partii
+    editors:
+      - Tadeusz Daniszewski
     year: 1951
     series: Wydział Historii Partii KC PZPR. Materiały i dokumenty z historii ruchu robotniczego w Polsce -- zesz. I
     language: Polish
@@ -6733,6 +6801,8 @@ titles:
   - title: Wybór pism
     authors:
       - Bolesław Prus
+    editors:
+      - Henryk Markiewicz
     year: 1951
     language: Polish
     pages: 984
@@ -6830,6 +6900,8 @@ titles:
   - title: Ziemia wyzwolona
     authors:
       - Władysław Rymkiewicz
+    editors:
+      - Janina Rosnowska
     year: 1951
     language: Polish
     pages: 124
@@ -6912,9 +6984,11 @@ titles:
         url: https://www.sudoc.fr/22792987X
     verified: true
   - title: Dialektyka przyrody
+    original_title: Dialektik der Natur
     series: Biblioteka Klasyków Marksizmu-Leninizmu
     authors:
       - Friedrich Engels
+    translators:
       - Tadeusz Zabłudowski
     year: 1952
     language: Polish
@@ -6931,6 +7005,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1423909143
     verified: true
   - title: Donia Perfecta
+    original_title: Doña Perfecta
     authors:
       - Benito Pérez Galdós
     year: 1952
@@ -7084,6 +7159,8 @@ titles:
   - title: Historia starozytnej Grecji
     authors:
       - Vladimir Sergeevich Siergeev
+    translators:
+      - A. Karniejew
     year: 1952
     language: Polish
     pages: 606
@@ -7499,6 +7576,8 @@ titles:
   - title: Pisma wybrane
     authors:
       - Martin Andersen Nexø
+    editors:
+      - Tadeusz Daniszewski
     year: 1952
     language: Polish
     pages: 213
@@ -7620,8 +7699,10 @@ titles:
     verified: true
     series: Wydzial Historii Partii KC PZPR
   - title: Połtawa
+    original_title: Poltava
     authors:
       - Aleksandr Sergeevič Puškin
+    translators:
       - Mieczysław Jastrun
     year: 1952
     language: Polish
@@ -7677,9 +7758,11 @@ titles:
         url: https://www.sudoc.fr/154229660
     verified: true
   - title: Profesor Unrat
+    original_title: Professor Unrat oder Das Ende eines Tyrannen
     authors:
       - Heinrich Mann
       - Marcel Reich-Ranicki
+    translators:
       - Maria Wisłowska
     year: 1952
     language: Polish
@@ -7689,6 +7772,7 @@ titles:
     verified: true
   - title: Przemyslny hidalgo Don Kichot z ManczyTexto impreso
     subtitle: Powiesc
+    original_title: Don Quijote de la Mancha
     authors:
       - Miguel de Cervantes Saavedra
       - Edward Boyé
@@ -7709,8 +7793,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1524234575
     verified: true
   - title: Samotny biały żagiel
+    original_title: Beleet parus odinokij
     authors:
       - Valentin Petrovitch Kataev
+    translators:
       - Melania Kierczyńska
     year: 1952
     language: Polish
@@ -7794,6 +7880,8 @@ titles:
   - title: Szkice we̜glem i inne nowele
     authors:
       - Henryk Sienkiewicz
+    editors:
+      - Władysława Wasilewska
     year: 1952
     series: Biblioteka pisarzy polskich i obcych -- 67
     language: Polish
@@ -7879,6 +7967,9 @@ titles:
     subtitle: (Materialy i dokumentry) Styczeń 1942 r. - Grudzień 1948 r
     authors:
       - KC PZPR. Wydział Historii Partii
+    editors:
+      - Heléna Kozłowska
+      - Zakład Historii Partii
     year: 1952
     language: Polish
     pages: 644
@@ -8050,6 +8141,8 @@ titles:
     subtitle: Oprac. i wstepem zaopatrzyla C. Bobińska
     authors:
       - Stanisław Staszic
+    editors:
+      - Maria Żmigrodzka
     year: 1952
     language: Polish
     pages: 120
@@ -8091,6 +8184,8 @@ titles:
   - title: Wybór poezji
     authors:
       - Jan Kochanowski
+    editors:
+      - Mieczysław Jastrun
     year: 1952
     series: Biblioteka pisarzy polskich i obcych, 55
     language: Polish
@@ -8618,6 +8713,8 @@ titles:
     subtitle: Stenogram procesu odbytego przed Wojskowym Sądem Rejonowym w Warszawie w dniach 14. IX.-21. IX. 1953 r
     authors:
       - Czesław Mieczysław Bp Kaczmarek
+    editors:
+      - Jan Siemianowski
     year: 1953
     edition: '[Wyd. 1'
     language: Polish
@@ -8644,6 +8741,8 @@ titles:
   - title: Proces księdza Lelity i innych agentów wywiadu amerykańskiego ...
     authors:
       - Jozef Lelito
+    editors:
+      - Jan Siemianowski
     year: 1953
     language: Polish
     pages: 294
@@ -8747,6 +8846,7 @@ titles:
     authors:
       - J. Rogalski
       - Gheorghe Gheorghiu-Dej
+    translators:
       - J. Oszarowski
       - J. Gelbart
     year: 1953
@@ -9558,6 +9658,10 @@ titles:
   - title: Uchwały i rezolucje
     authors:
       - Komunistyczna Partia Polski
+    editors:
+      - Tadeusz Daniszewski
+      - Józef Kowalski
+      - Józef Kowalczyk
     year: 1954
     language: Polish
     sources:
@@ -9617,6 +9721,8 @@ titles:
   - title: Wieś w liczbach w Polsce burżuazyjno-obszarniczej i w Polsce Ludowej
     authors:
       - Poland) Instytut Ekonomiki Rolnej (Warsaw
+    editors:
+      - Jerzy Tepicht
     year: 1954
     edition: Wjd. 3
     language: Polish
@@ -9666,6 +9772,10 @@ titles:
     subtitle: Szlakiem rewolucyjnej publicystyki KPP
     authors:
       - Salomon Jaszuński
+    editors:
+      - Stanisław Ryszard Dobrowolski
+    translators:
+      - Władysław Broniewski
     year: 1954
     edition: Wyd. 1
     language: Polish
@@ -9711,6 +9821,9 @@ titles:
   - title: Wybor pism politycznych
     authors:
       - Joachim Lelewel
+    editors:
+      - Władysław Bortnowski
+      - Jerzy Danielewicz
     year: 1954
     language: Polish
     pages: 318
@@ -9835,6 +9948,8 @@ titles:
   - title: Husyci na Pomorzu i w Wielkopolsce
     authors:
       - Josef Macek
+    editors:
+      - Ewa Maleczyńska
     year: 1955
     edition: Wyd. 1. --
     language: Polish
@@ -9994,6 +10109,9 @@ titles:
   - title: Księgi Referendarii Koronnej z drugiej połowy XVIII wieku
     authors:
       - Poland. Sąd Referendarski Koronny
+    editors:
+      - Antonina Keckowa
+      - Antoni Błoński
     year: 1955
     edition: '[Wyd. 1'
     series: Materiały do dziejów wsi polskiej
@@ -10192,8 +10310,11 @@ titles:
     verified: true
   - title: Początki socjalistycznego ruchu robotniczego w Królestwie Polskim, lata 1876-1879
     subtitle: Przyczynek do badań historycznych
+    original_title: Načalo socialističeskogo rabočego dviženija v byvžej Pol'še
     authors:
       - I. Volkovicher
+    translators:
+      - I. Halbersztadt
     year: 1955
     language: Polish
     pages: 214
@@ -10499,6 +10620,8 @@ titles:
   - title: Tymczasowy Komitet Rewolucyjny Polski
     authors:
       - Tymczasowy Komitet Rewolucyjny Polski
+    editors:
+      - Aleksander Litwin
     year: 1955
     edition: Wyd. 1
     language: Polish
@@ -11307,6 +11430,9 @@ titles:
   - title: Z dziejów polskiej myśli filozoficznej i społecznej
     authors:
       - Leszek Kołakowski
+    editors:
+      - Bronislaw Baczko
+      - Nina Assorodobra
     year: 1956
     language: Polish
     sources:
@@ -11370,6 +11496,7 @@ titles:
         url: https://www.sudoc.fr/128893206
     verified: true
   - title: Zeszyty filozoficzne
+    original_title: Filosofskie tetradi
     authors:
       - Vladimir Ilʹič Lenin
     year: 1956
@@ -11870,6 +11997,8 @@ titles:
   - title: Materiały archiwalne do historii stosunków polsko-radzieckich
     authors:
       - Instytut Historii (Polska Akademia Nauk)
+    editors:
+      - Natalia Gąsiorowska
     year: 1957
     edition: Wyd. 1
     language: Polish
@@ -12240,6 +12369,9 @@ titles:
     subtitle: Materiały i dokumenty
     authors:
       - SDKPiL
+    editors:
+      - H. Buczek
+      - Feliks Tych
     year: 1957
     edition: '[Wyd. 1'
     language: Polish
@@ -12290,6 +12422,8 @@ titles:
     subtitle: Wyniki badań ankietowych gospodarstw indywidualnych
     authors:
       - Poland) Instytut Ekonomiki Rolnej (Warsaw
+    editors:
+      - Jerzy Tepicht
     year: 1957
     edition: Wyd. 1
     language: Polish
@@ -12544,6 +12678,8 @@ titles:
   - title: Źródła do dziejów rewolucji 1905-1907 w okręgu łódzkim
     authors:
       - Natalia Gąsiorowska-Grabowska
+    editors:
+      - Natalia Gąsiorowska
     year: 1957
     language: Polish
     sources:
@@ -13426,6 +13562,8 @@ titles:
       - A. Holowka
       - Komunistyczna Partia Polski
       - Lvov. Okregowy Sad Karny
+    editors:
+      - A. Wajntraub
     year: 1958
     language: Polish
     pages: 561
@@ -13481,6 +13619,7 @@ titles:
     authors:
       - Karl Marx
       - Marek Fritzhand
+    translators:
       - Konstanty Jażdżewski
       - Tadeusz Zabłudowski
     year: 1958
@@ -13564,6 +13703,8 @@ titles:
   - title: Sprawa Audina. Wstęp Laurent Schwartz. Tłumaczyła E. Międzyrzecka
     authors:
       - Pierre Vidal-Naquet
+    translators:
+      - E. Mie̡dzyrzecka
     year: 1958
     language: Polish
     sources:
@@ -13612,6 +13753,8 @@ titles:
     subtitle: Wyboru dokonał Krzysztof Dunin-Wąsowicz
     authors:
       - Adam Próchnik
+    editors:
+      - Krzysztof Dunin-Wąsowicz
     year: 1958
     series: His Pisma
     language: Polish
@@ -13848,6 +13991,8 @@ titles:
   - title: Z dziejów wielkiej emigracji w Anglii
     authors:
       - Peter Brock
+    translators:
+      - A. Ślósarczyk
     year: 1958
     edition: Wyd. 1-e
     language: Polish
@@ -13866,6 +14011,8 @@ titles:
     subtitle: Kwartalnik poświęcony dziejom ruchu robotniczego
     authors:
       - Instytut historii ruchu robotniczego
+    editors:
+      - Feliks Tych
     year: 1958
     language: Polish
     sources:
@@ -14130,10 +14277,12 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991030084069705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Etyka w świetle materialistycznego pojmowania historii
+    original_title: Ethik und materialistische Geschichtsauffassung
     authors:
       - Karl Kautsky
-      - Adolf Warski
       - Marek Fritzhand
+    translators:
+      - Adolf Warski
     year: 1959
     language: Polish
     sources:
@@ -14187,6 +14336,7 @@ titles:
     edition: '[Wyd. 1.]. --'
   - title: Gestapo
     subtitle: Narzędzie tyranii
+    original_title: Gestapo
     authors:
       - Edward Crankshaw
     year: 1959
@@ -14635,6 +14785,8 @@ titles:
     subtitle: Rezolucje, odezwy, instrukcje i okólniki Komitetu Centralnego
     authors:
       - Polska Partia Robotnicza. KC
+    editors:
+      - W. Góra
     year: 1959
     edition: Wyd. 1
     language: Polish
@@ -14845,6 +14997,8 @@ titles:
   - title: Termidorianie. Dyrektoriat. Georges Lefebvre. Les Thermidoriens. Le Directoire. Tłumaczyła W. Bieńkowska
     authors:
       - Georges Lefebvre
+    translators:
+      - Wiera Anisimow-Bienkowska
     year: 1959
     language: Polish
     sources:
@@ -15311,6 +15465,7 @@ titles:
         url: https://lccn.loc.gov/62044067
     verified: true
   - title: Cybernetyka i społeczeństwo
+    original_title: Cybernetics and society
     authors:
       - Norbert Wiener
     year: 1960
@@ -15376,6 +15531,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1180305078
     verified: true
   - title: Dos ṭog-bukh fun Daṿid Rubinoṿiṭsh
+    original_title: Pamiętnik Dawida Rubinowicza
     authors:
       - Dawid Rubinowicz
     year: 1960
@@ -15405,6 +15561,7 @@ titles:
     authors:
       - Evgenij Viktorovič Tarle
       - Vladimir Mihajlovič Hvostov
+    translators:
       - Wacław Zawadzki
       - Zofia Korczak
     year: 1960
@@ -15651,8 +15808,10 @@ titles:
     verified: true
   - title: Legenda o Lessingu
     subtitle: Przyczynek do historii i krytyki pruskiego despotyzmu i klasycznej literatury
+    original_title: Die Lessing-Legende
     authors:
       - Franz Mehring
+    translators:
       - Kazimierz Błeszyński
     year: 1960
     language: Polish
@@ -15661,9 +15820,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1423793560
     verified: true
   - title: Listy do Augusta Bebla
+    original_title: Briefe an Bebel
     authors:
       - Friedrich Engels
       - August Bebel
+    translators:
       - Erwin Wolf
     year: 1960
     language: Polish
@@ -15714,6 +15875,8 @@ titles:
     subtitle: Zbiór materialów
     authors:
       - Karl Marx
+    editors:
+      - Helena Michnik
     year: 1960
     language: Polish
     pages: 495
@@ -16289,6 +16452,7 @@ titles:
         url: https://lccn.loc.gov/60035367
     verified: true
   - title: Rzym i wczesne chrześcijaństwo
+    original_title: Rim i rannee christianstvo
     authors:
       - Robert Ju Vipper
     year: 1960
@@ -16535,6 +16699,7 @@ titles:
   - title: Wybrane pisma filozoficzne
     authors:
       - Józef Dietzgen
+    translators:
       - Zygmunt Bogucki
     year: 1960
     language: Polish
@@ -16636,8 +16801,10 @@ titles:
     verified: true
   - title: Antoni Czechow
     subtitle: Jego życie i twórczość
+    original_title: L' histoire d'Anton Tchekov
     authors:
       - Elsa Triolet
+    translators:
       - Zofia Szczuka-Chorzelska
     year: 1961
     language: Polish
@@ -16730,6 +16897,8 @@ titles:
   - title: Dokumenty i materiały do historii stosunków polsko-radzieckich
     authors:
       - Natalia Gąsiorowska-Grabowska
+    editors:
+      - Weronika Gostyńska
     year: 1961
     edition: Wyd. 1
     language: Polish
@@ -16782,8 +16951,9 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
-      - Salomon Filmus
       - Eugenia Wolicka
+    translators:
+      - Salomon Filmus
     year: 1961
     language: Polish
     sources:
@@ -16812,6 +16982,7 @@ titles:
   - title: Historia filozofii
     authors:
       - Georgij Fedorovič Aleksandrov
+    translators:
       - Roman Korab-Żebryk
       - Bogdan Kupis
       - Aleksander Neyman
@@ -17052,10 +17223,12 @@ titles:
         url: https://search.worldcat.org/title/27950609
     verified: true
   - title: Nauki humanistyczne a filozofia
+    original_title: Sciences humaines et philosophie
     authors:
       - Lucien Goldmann
-      - E. Jerzyńska
       - Krzysztof Pomian
+    translators:
+      - E. Jerzyńska
     year: 1961
     language: Polish
     sources:
@@ -17346,6 +17519,7 @@ titles:
       - Iosif Mihajlovič Kulišer
       - Marian Małowist
       - Bronisław Geremek
+    translators:
       - Władysław Manteuffel
     year: 1961
     language: Polish
@@ -17394,6 +17568,8 @@ titles:
     subtitle: Materialy i dokumenty
     authors:
       - PPS-Lewica
+    editors:
+      - Feliks Tych
     year: 1961
     edition: Wyd. 1
     language: Polish
@@ -17445,6 +17621,8 @@ titles:
     subtitle: Wybór artykułów
     authors:
       - Polska Partia Robotnicza
+    editors:
+      - Marian Malinowski
     year: 1961
     edition: Wyd. 1
     language: Polish
@@ -17501,8 +17679,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991123812429705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Rosja we mgle
+    original_title: Russia in the Shadows
     authors:
       - H. G. Wells
+    translators:
       - Joseph Brodsky
     year: 1961
     language: Polish
@@ -17568,9 +17748,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1420414399
     verified: true
   - title: Socjologia religii
+    original_title: Sociology of religion
     series: Seria religioznawcza
     authors:
       - Joachim Wach
+    translators:
       - Zygmunt Poniatowski
       - Bogusław Wolniewicz
     year: 1961
@@ -17584,8 +17766,10 @@ titles:
         url: https://www.sudoc.fr/15415184X
     verified: true
   - title: Spisek monachijski
+    original_title: Munich conspiracy
     authors:
       - Andrew Rothstein
+    translators:
       - Tadeusz Szafar
     year: 1961
     language: Polish
@@ -17958,6 +18142,8 @@ titles:
     subtitle: Materiały Sesji Leninowskiej
     authors:
       - Poland). Sesja Leninowska Wyższa Szkoła Nauk Społecznych (Warsaw
+    editors:
+      - N. Zachariasz
     year: 1961
     language: Polish
     pages: 302
@@ -18281,6 +18467,7 @@ titles:
       - Karl Marx
       - Stefan Bergman
       - Friedrich Engels
+    translators:
       - Salomon Filmus
     year: 1962
     language: Polish
@@ -18408,6 +18595,7 @@ titles:
   - title: Historia filozofii
     authors:
       - Georgij Fedorovič Aleksandrov
+    translators:
       - Stanisław Nowakowski
     year: 1962
     language: Polish
@@ -18431,6 +18619,8 @@ titles:
     subtitle: Węzłowe zagadnienia
     authors:
       - Karol Grünberg
+    editors:
+      - Jan Kancewicz
     year: 1962
     edition: '[Wyd. 1'
     language: Polish
@@ -18448,8 +18638,11 @@ titles:
   - title: Historia powszechna w dziesięciu tomach
     authors:
       - Ûrij Pavlovič Francev
-      - Władysław Głuchowski
       - Evgenij Mihajlovič Žukov
+    editors:
+      - Evgenij M. Žukov
+    translators:
+      - Władysław Głuchowski
     year: 1962
     language: Polish
     sources:
@@ -18651,6 +18844,7 @@ titles:
   - title: Nieznane listy, notatki, przemówienia Lenina z lat 1917-1922
     authors:
       - Vladimir Ilʹič Lenin
+    translators:
       - Romana Granas
     year: 1962
     language: Polish
@@ -18956,8 +19150,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991067691579705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Podstawy psychologii ogólnej
+    original_title: Osnovy obej psihologii
     authors:
       - Sergej L. Rubinštejn
+    translators:
       - Zofia Danielska
     year: 1962
     language: Polish
@@ -19071,6 +19267,8 @@ titles:
     subtitle: Materiały I Dokumenty
     authors:
       - PPS-Lewica
+    editors:
+      - Feliks Tych
     year: 1962
     language: English
     sources:
@@ -19213,6 +19411,9 @@ titles:
     subtitle: Materiały i dokumenty
     authors:
       - KC PZPR. Zakład Historii Partii
+    editors:
+      - Hanna Buczek
+      - Zbigniew Szczygielski
     year: 1962
     edition: Wyd. 1.]
     language: Polish
@@ -19295,6 +19496,7 @@ titles:
     verified: true
   - title: Społeczna psychologia przemysłu
     subtitle: Stosunki między ludźmi w fabrykach
+    original_title: Social psychology of industry
     series: Biblioteka Nauki o Pracy
     authors:
       - J. A. C. Brown
@@ -19512,6 +19714,8 @@ titles:
     subtitle: Wyboru dokonał, przepisy i bibliografie opracował Michał Szulkin
     authors:
       - Henryk Dembiński
+    editors:
+      - Michał Szulkin
     year: 1962
     edition: '[Wyd. 1'
     language: Polish
@@ -19781,8 +19985,9 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
-      - Salomon Filmus
       - Eugenia Wolicka
+    translators:
+      - Salomon Filmus
     year: 1963
     language: Polish
     sources:
@@ -19933,6 +20138,7 @@ titles:
   - title: Historia socjaldemokracji niemieckiej
     authors:
       - Franz Mehring
+    translators:
       - Edda Werfel
     year: 1963
     language: Polish
@@ -20086,9 +20292,12 @@ titles:
         url: https://catalog.hathitrust.org/Record/001853465
     verified: true
   - title: Materialistyczne pojmowanie dziejów
+    original_title: Die materialistische Geschichtsauffassung
     series: Biblioteka myśli socjalistycznej
     authors:
       - Karl Kautsky
+    translators:
+      - Kazimierz Błeszyński
     year: 1963
     language: Polish
     sources:
@@ -20292,6 +20501,7 @@ titles:
     authors:
       - Moses Hess
       - Auguste Cornu
+    translators:
       - Maria Kurecka
     year: 1963
     language: Polish
@@ -20486,10 +20696,11 @@ titles:
       - Jurij Gagarin
       - Kosmonauta X.
       - Jerzy Kępkiewicz
-      - Waldemar Kiwilszo
       - Andrzej Marks
-      - Regina Winiewska
       - Valentina Vladimirovna Tereškova
+    translators:
+      - Waldemar Kiwilszo
+      - Regina Winiewska
     year: 1963
     language: Polish
     sources:
@@ -20596,6 +20807,8 @@ titles:
   - title: Studia nad prawem i stosunkami agrarnymi Królestwa Polskiego, 1831-1864
     authors:
       - Stanisław Śreniowski
+    editors:
+      - Witolda Kuli
     year: 1963
     edition: Wyd. 1
     language: Polish
@@ -20728,6 +20941,9 @@ titles:
   - title: Wspomnienia warszawskich peperowców, 1939-1944
     authors:
       - Polska Zjednoczona Partia Robotnicza. Komitet Warszawski. Referat Historii Partii
+    editors:
+      - Hedda Bartoszek
+      - Bronisława Jurkowska
     year: 1963
     edition: Wyd. 1
     series: Biblioteczka warszawska
@@ -21132,8 +21348,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1943814422
     verified: true
   - title: Doña Barbara
+    original_title: Doña Bárbara
     authors:
       - Rómulo Gallegos
+    translators:
       - Kalina Wojciechowska
     year: 1964
     language: Polish
@@ -21175,6 +21393,7 @@ titles:
       - Karl Marx
       - Maria Bilewicz
       - Friedrich Engels
+    translators:
       - Salomon Filmus
     year: 1964
     language: Polish
@@ -21210,6 +21429,8 @@ titles:
   - title: Francja i Polska w latach 1789-1794
     authors:
       - Adam Próchnik
+    editors:
+      - Krzysztof Dunin-Wąsowicz
     year: 1964
     edition: Wyd. 1
     series: Pisma / Adam Próchnik
@@ -21310,6 +21531,7 @@ titles:
     authors:
       - Sergej L'vovič Utčenko
       - M. Žukov
+    translators:
       - Władysław Głuchowski
     year: 1964
     language: Polish
@@ -21322,6 +21544,7 @@ titles:
   - title: Historia socjaldemokracji niemieckiej
     authors:
       - Franz Mehring
+    translators:
       - Krzysztof Radziwiłł
     year: 1964
     language: Polish
@@ -21718,6 +21941,10 @@ titles:
     subtitle: Dokumenty a materiały
     authors:
       - Henryk Katz
+    editors:
+      - Jerzy W. Borejsza
+      - M. Watle
+      - Irena Koberdowa
     year: 1964
     edition: '[Wyd. 1.]'
     language: Polish
@@ -22614,6 +22841,8 @@ titles:
     series: Antologia pamięci 1939-1945; 1
     authors:
       - Witolda W. Witkowskiego
+    editors:
+      - Lesław Marian Bartelski
     year: 1965
     language: Polish
     sources:
@@ -22747,6 +22976,8 @@ titles:
   - title: Demokracja polska na emigracji
     authors:
       - Wiktor Heltman
+    editors:
+      - Helena Rzadkowska
     year: 1965
     language: Polish
     sources:
@@ -22869,8 +23100,9 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
-      - Salomon Filmus
       - Jerzy Płudowski
+    translators:
+      - Salomon Filmus
     year: 1965
     language: Polish
     sources:
@@ -22949,6 +23181,8 @@ titles:
     subtitle: Wybór pism
     authors:
       - Andrzej Walicki
+    translators:
+      - Janina Łada-Walicka
     year: 1965
     edition: '[Wyd. 1]'
     series: Biblioteka myśli socjalistycznej
@@ -23061,6 +23295,7 @@ titles:
   - title: Historia socjaldemokracji niemieckiej
     authors:
       - Franz Mehring
+    translators:
       - Krzysztof Radziwiłł
     year: 1965
     language: Polish
@@ -23151,6 +23386,7 @@ titles:
         url: https://search.worldcat.org/title/11538346
     verified: true
   - title: Ite, missa est!
+    original_title: Ite, missa est!
     authors:
       - Jonas Ragauskas
     year: 1965
@@ -23330,6 +23566,7 @@ titles:
     verified: true
   - title: Następnym razem pożar
     subtitle: Wybór esejów
+    original_title: The Fire Next Time, etc
     authors:
       - James Baldwin
       - Daniel Passent
@@ -23928,8 +24165,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/007936004
     verified: true
   - title: Romantyczność
+    original_title: Romantika
     authors:
       - Nâzım Hikmet
+    translators:
       - Aleksander Olecki
     year: 1965
     language: Polish
@@ -24042,6 +24281,7 @@ titles:
   - title: Stary król
     authors:
       - Fernando Benitez
+    translators:
       - Maria Sten
     year: 1965
     language: Polish
@@ -24185,6 +24425,8 @@ titles:
   - title: Takie byly poczatki
     authors:
       - Komunistyczna Partia Polski. Komitet Centralny. Wydzial Historii Partii
+    editors:
+      - Władysław Góra
     year: 1965
     language: Polish
     pages: 845
@@ -24709,6 +24951,7 @@ titles:
   - title: Czechosłowacja
     authors:
       - Vladimir Forst
+    translators:
       - Maurycy Kamieniecki
     year: 1966
     language: Polish
@@ -24734,9 +24977,11 @@ titles:
         url: https://www.sudoc.fr/130810444
     verified: true
   - title: Człowiek i technika
+    original_title: Čelovek i tehnika
     series: Biblioteka Nauki o Pracy
     authors:
       - Boris Fedorovič Lomov
+    translators:
       - Zofia Kapuścińska
     year: 1966
     language: Polish
@@ -24873,8 +25118,9 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
-      - Salomon Filmus
       - Eugenia Wolicka
+    translators:
+      - Salomon Filmus
     year: 1966
     language: Polish
     sources:
@@ -24993,6 +25239,7 @@ titles:
   - title: Historia Komunistycznej Partii Hiszpanii
     authors:
       - Dolores Ibárruri
+    translators:
       - Oskar Perlinow
       - Janina Perlinow
     year: 1966
@@ -25003,10 +25250,11 @@ titles:
     verified: true
   - title: Historia powszechna w dziesięciu tomach
     authors:
-      - Stefan Gnich
       - N. Sodorova
-      - Edwarda Tureniec
       - M. Žukov
+    translators:
+      - Stefan Gnich
+      - Edwarda Tureniec
     year: 1966
     language: Polish
     sources:
@@ -25258,6 +25506,7 @@ titles:
     series: Biblioteka Myśli Socjalistycznej
     authors:
       - Antonio Labriola
+    translators:
       - Tadeusz Jakubowicz
     year: 1966
     language: Polish
@@ -25319,6 +25568,7 @@ titles:
   - title: Listy z Ziemi
     authors:
       - Mark Twain
+    translators:
       - Juliusz Kydryński
     year: 1966
     language: Polish
@@ -25412,9 +25662,11 @@ titles:
     verified: true
   - title: Maszyna i człowiek
     subtitle: Problem człowieka w cywilizacji maszynowej
+    original_title: Machine et humanisme
     series: Biblioteka Nauki o Pracy
     authors:
       - Georges Friedmann
+    translators:
       - Wanda Kotyńska
     year: 1966
     language: Polish
@@ -25624,6 +25876,8 @@ titles:
     subtitle: Address Delivered to the Seym at an Extraordinary Session (July 21, 1966)
     authors:
       - Wladyslaw Gomulka
+    translators:
+      - Doris Ronowicz
     year: 1966
     language: English
     sources:
@@ -25671,6 +25925,7 @@ titles:
   - title: 'Oswald: zabójca czy kozioł ofiarny?'
     authors:
       - Joachim Joesten
+    translators:
       - Ewa Danecka
     year: 1966
     language: Polish
@@ -25706,6 +25961,7 @@ titles:
   - title: Pierwsi Filozofowie
     authors:
       - George Derwent Thomson
+    translators:
       - Antoni Dębnicki
     year: 1966
     language: English
@@ -25973,6 +26229,7 @@ titles:
     verified: true
   - title: Przeciwko fałszowaniu historii II wojny światowej
     subtitle: Zbiór artykułów
+    original_title: Protiv falʹsifikat︠s︡ii istorii Vtoroĭ Mirovoĭ voĭny Polish
     authors:
       - Wilhelm Mensz
     year: 1966
@@ -26041,6 +26298,7 @@ titles:
     subtitle: Rozprawa doktorska wraz z aneksem i pracami przygotowawczymi
     authors:
       - Karl Marx
+    translators:
       - Irena Krońska
     year: 1966
     language: Polish
@@ -26222,6 +26480,7 @@ titles:
         url: https://www.sudoc.fr/152868208
     verified: true
   - title: Szkice z psychologii religii
+    original_title: Sane society
     series: Seria Religioznawcza
     authors:
       - Erich Fromm
@@ -26233,6 +26492,7 @@ titles:
     verified: true
   - title: Tausend Jahre Polens
     subtitle: Rede auf der feierlichen Sondersitzung des Sejms (21.7.1966)
+    original_title: 1000 lat Polski
     authors:
       - Władysław Gomułka
     year: 1966
@@ -26629,6 +26889,8 @@ titles:
       - Mieczysław Bandurka
       - Mieczysław Kołodziejczak
       - Jan Trela
+    editors:
+      - Mieczysław Kołodziejczyk
     year: 1966
     edition: '[Wyd. 1'
     series: Materiały do historii miast, przemysłu i klasy robotniczej w okręgu łódzkim -- t.3
@@ -26696,6 +26958,9 @@ titles:
   - title: 1944-1947 w walce o utrwalenie władzy ludowej w Polsce
     authors:
       - Władysław Góra
+    editors:
+      - Jan Czapla
+      - Ryszard Halaba
     year: 1967
     language: Polish
     sources:
@@ -26943,9 +27208,10 @@ titles:
   - title: Dzieła
     authors:
       - Karl Marx
-      - Salomon Filmus
       - Jerzy Płudowski
       - Friedrich Engels
+    translators:
+      - Salomon Filmus
     year: 1967
     language: Polish
     sources:
@@ -27035,6 +27301,8 @@ titles:
   - title: Gospodarka Polski miedzywojennej, 1918-1939
     authors:
       - Zbigniew LANDAU
+    editors:
+      - Zakład Najnowszej Historii Gospodarczej Polski
     year: 1967
     language: Polish
     sources:
@@ -27095,8 +27363,9 @@ titles:
   - title: Historia powszechna w dziesięciu tomach
     authors:
       - Moisei Mendelevič Smirin
-      - Władysław Głuchowski
       - M. Žukov
+    translators:
+      - Władysław Głuchowski
     year: 1967
     language: Polish
     sources:
@@ -27239,6 +27508,7 @@ titles:
     verified: true
   - title: IX Zjazd Komunistycznej Partii (bolszewików) Rosji
     subtitle: 'Marzec-kwiecień 1920: protokoły'
+    original_title: 'Devjatyj sʹʹezd RKP(b) : protokoly'
     authors:
       - Irena Borensztejn
       - Rossijskaja kommunističeskaja partija (bol'ševikov)
@@ -27387,6 +27657,9 @@ titles:
     subtitle: Biografie
     authors:
       - KC PZPR. Zakład Historii Partii
+    editors:
+      - Leonard Dubacki
+      - Helena Kozłowska-Dębicka
     year: 1967
     edition: Wyd. 1
     language: Polish
@@ -27771,6 +28044,7 @@ titles:
         url: https://www.sudoc.fr/13495775X
     verified: true
   - title: Oszukana
+    original_title: Die Betrogene
     authors:
       - Thomas Mann
       - Andrzej Dołęgowski
@@ -28090,9 +28364,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991011262629705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Praca w okruchach
+    original_title: Le travail en miettes
     series: Biblioteka Nauki o Pracy
     authors:
       - Georges Friedmann
+    translators:
       - Irena Tarłowska
     year: 1967
     language: Polish
@@ -29193,6 +29469,7 @@ titles:
         url: https://www.sudoc.fr/190784067
     verified: true
   - title: Chłopiec na lotnym trapezie
+    original_title: The daring young man on the flying trapeze
     series: Koliber
     authors:
       - William Saroyan
@@ -29265,6 +29542,8 @@ titles:
   - title: Dokumenty Komunistycznej Partii Polski, 1935-1938
     authors:
       - Komunistyczna Partia Polski
+    editors:
+      - Seweryn Ajzner
     year: 1968
     edition: Wyd. 1
     language: Polish
@@ -29360,8 +29639,9 @@ titles:
   - title: Dzieła
     authors:
       - Karl Marx
-      - Stefan Bergman
       - Friedrich Engels
+    translators:
+      - Stefan Bergman
       - Henryk Krzeczkowski
     year: 1968
     language: Polish
@@ -29463,10 +29743,12 @@ titles:
         url: https://openlibrary.org/books/OL19052994M
     verified: true
   - title: Gwarancje harmonii i wolności
+    original_title: Garantien der Harmonie und Freiheit
     series: Biblioteka Myśli Socjalistycznej
     authors:
       - Wilhelm Weitling
       - Marek Jan Siemek
+    translators:
       - Edda Werfel
     year: 1968
     language: Polish
@@ -29509,9 +29791,10 @@ titles:
     verified: true
   - title: Historia powszechna w dziesięciu tomach
     authors:
-      - Ryszard Winter-Rudnicki
       - M. Žukov
       - Jānis Zutis
+    translators:
+      - Ryszard Winter-Rudnicki
     year: 1968
     language: Polish
     sources:
@@ -29559,6 +29842,10 @@ titles:
     subtitle: Protokoły, obrad i uchwały
     authors:
       - Komunistyczna Partia Polski. Zjazd, 2d, Bolʹshevo, Russia, 1923
+    editors:
+      - Gereon Iwański
+      - Henryk Malinowski
+      - Franciszka Świetlikowa
     year: 1968
     language: Polish
     pages: 693
@@ -29577,8 +29864,9 @@ titles:
   - title: Israel und die Bundesrepublik
     authors:
       - Tadeusz Walichnowski
-      - Urszula Wilska
       - Marian Wojciechowski
+    translators:
+      - Urszula Wilska
     year: 1968
     language: German
     sources:
@@ -29775,6 +30063,8 @@ titles:
     series: Bibliokteka myśli socjalistycznej
     authors:
       - Rosa Luxemburg
+    editors:
+      - Feliks Tych
     year: 1968
     language: Polish
     sources:
@@ -29813,6 +30103,7 @@ titles:
     verified: true
   - title: Mario i czarodziej
     subtitle: Opowiadania
+    original_title: Mario und der Zauberer
     authors:
       - Thomas Mann
       - Leopold Staff
@@ -30500,6 +30791,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991047238819705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Raport Sekretarza Generalnego ONZ o skutkach ewentualnego użycia broni jądrowej oraz o zagadnieniach bezpieczeństwa i konsekwencjach ekonomicznych, wynikają dla państw z posiadania i dalszego udoskonalania tej broni
+    original_title: Report of the Secretary-General on the effects of the possible use of nuclear weapons and on the security and economic implications for states of the acquisition and further development of these weapons
     authors:
       - Henryka Bielicka
     year: 1968
@@ -30598,6 +30890,7 @@ titles:
         url: https://search.worldcat.org/title/213606254
     verified: true
   - title: Serce na dłoni
+    original_title: Sèrca na dalonì
     authors:
       - Ìvan P. Šamâkìn
       - Leon Susid
@@ -31218,6 +31511,7 @@ titles:
     subtitle: Od Freuda do Fromma
     authors:
       - Harry Kohlsaat Wells
+    translators:
       - Jerzy Prokopiuk
     year: 1968
     language: Polish
@@ -31287,8 +31581,10 @@ titles:
     verified: false
   - title: Autobiografia
     subtitle: Dzieje moich poszukiwań prawdy
+    original_title: Satyanā prayogo athavā ātmakathā
     authors:
       - Mohandas Karamchand Gandhi
+    translators:
       - Józef Brodzki
     year: 1969
     language: Polish
@@ -31456,9 +31752,10 @@ titles:
     authors:
       - Karl Marx
       - Izabela Strumińska
+      - Friedrich Engels
+    translators:
       - Kazimierz Błeszyński
       - Jerzy Dewitz
-      - Friedrich Engels
     year: 1969
     language: Polish
     sources:
@@ -31545,11 +31842,13 @@ titles:
         url: https://www.sudoc.fr/094262039
     verified: true
   - title: Historia Francji
+    original_title: Histoire de la France pour tous les français
     authors:
       - Édouard Perroy
       - Roger Doucet
       - Aleksander Gieysztor
       - André Latreille
+    translators:
       - Hanna Łochocka
     year: 1969
     language: Polish
@@ -31735,12 +32034,14 @@ titles:
     verified: true
   - title: Księga podróży Ewliji Czelebiego
     subtitle: Wybór
+    original_title: Sejahtnamesi
     authors:
       - Evliya Çelebi
+      - Jan Reychman
+    translators:
       - Zygmunt Abrahamowicz
       - Aleksander Dubiński
       - Stanisława Płaskowicka-Rymkiewicz
-      - Jan Reychman
     year: 1969
     language: Polish
     sources:
@@ -32971,6 +33272,8 @@ titles:
     subtitle: Socjologiczne problemy stolicy i aglomeracji
     authors:
       - Polska Akademia Nauk. Zakład Socjologii Miasta
+    editors:
+      - Stefan Nowakowski
     year: 1969
     language: Polish
     pages: 410
@@ -33037,6 +33340,10 @@ titles:
     subtitle: 'Wyboru i oprac. dokonał komitet w składzie: Wanda Chodorowska, Zdzisław Lubowicz & Mieczysław Róg-Świostek'
     authors:
       - Wanda Chodorowska
+    editors:
+      - Zdzisław Lubowicz
+      - Mieczysław Róg-Świostek
+      - Bożena Wiloch
     year: 1969
     edition: Wyd.1
     language: Polish
@@ -33437,9 +33744,10 @@ titles:
   - title: Dzieła
     authors:
       - Karl Marx
+      - Friedrich Engels
+    translators:
       - Krzysztof Wolicki
       - Maria Bilewicz
-      - Friedrich Engels
     year: 1970
     language: Polish
     sources:
@@ -33592,9 +33900,10 @@ titles:
     verified: true
   - title: Historia powszechna w dziesięciu tomach
     authors:
-      - Leonard Borkowicz
       - Nikolaj Aleksandrovič Smirnov
       - M. Žukov
+    translators:
+      - Leonard Borkowicz
     year: 1970
     language: Polish
     sources:
@@ -34231,8 +34540,11 @@ titles:
         url: https://search.worldcat.org/title/216323177
     verified: true
   - title: Poland, 1944-1969; Facts and Figures
+    original_title: Polska, 1944-1969
     authors:
       - Natalia Świdzińska
+    translators:
+      - Eugene Lepa
     year: 1970
     language: English
     sources:
@@ -34936,6 +35248,8 @@ titles:
     verified: true
   - title: Z problemów polityki naukowej
     authors: []
+    editors:
+      - Janina Fijołek
     year: 1970
     language: Polish
     pages: 144
@@ -35337,6 +35651,7 @@ titles:
         url: https://openlibrary.org/books/OL20649693M
     verified: true
   - title: Grek Zorba
+    original_title: Bios kai politeia tu Alexē Zormpa
     authors:
       - Nikos Kazantzakīs
       - Nikos Chadzinikolau
@@ -35708,6 +36023,8 @@ titles:
     verified: true
   - title: Matki i córki
     authors: []
+    editors:
+      - Bożena Wiloch
     year: 1971
     edition: '[Wyd. 1.]'
     language: Polish
@@ -35723,6 +36040,8 @@ titles:
   - title: Mój nowy dom
     subtitle: Wspomnienia
     authors: []
+    editors:
+      - Bożena Wiloch
     year: 1971
     language: Polish
     pages: 241
@@ -36328,6 +36647,7 @@ titles:
   - title: Prawo Parkinsona albo w pogoni za postępem
     authors:
       - C. Northcote Parkinson
+    translators:
       - Juliusz Kydryński
     year: 1971
     language: Polish
@@ -37059,6 +37379,12 @@ titles:
   - title: Wybór publicystyki
     authors:
       - Adam Próchnik
+    editors:
+      - Henryk Jabloński
+      - Zbigniew Marciniak
+      - Marian Marek Drozdowski
+      - Krzysztof Dunin-Wąsowicz
+      - Janusz Żarnowski
     year: 1971
     edition: Wyd. 1
     series: His Pisma
@@ -37461,9 +37787,10 @@ titles:
   - title: Dzieła
     authors:
       - Karl Marx
-      - Antoni Bal
       - Stefan Bergman
       - Friedrich Engels
+    translators:
+      - Antoni Bal
     year: 1972
     language: Polish
     sources:
@@ -37711,6 +38038,7 @@ titles:
   - title: Historia filozofii
     authors:
       - Georgij Fedorovič Aleksandrov
+    translators:
       - Stanisław Macheta
     year: 1972
     language: Polish
@@ -37734,8 +38062,9 @@ titles:
     authors:
       - A. A. Gubera
       - M. Žukov
-      - Władysław Głuchowski
       - Aleksandr Andreevič Guber
+    translators:
+      - Władysław Głuchowski
       - Teresa Kulikowska
       - Bolesław Kulikowski
     year: 1972
@@ -38314,6 +38643,8 @@ titles:
   - title: Ordynacja wyborcza do Sejmu Polskiej Rzeczypospolitej Ludowej
     authors:
       - Poland
+    editors:
+      - W. Górecka
     year: 1972
     edition: '[Wyd. 1.]'
     language: Polish
@@ -38431,6 +38762,8 @@ titles:
     subtitle: Dokumenty i materiały
     authors:
       - Stanisław Macheta
+    editors:
+      - Marian Zychowski
     year: 1972
     edition: Wyd. 2., popr. i uaktualnione
     language: Polish
@@ -39626,6 +39959,7 @@ titles:
       - Karl Marx
       - Izabela Strumińska
       - Friedrich Engels
+    translators:
       - Henryk Holder
     year: 1973
     language: Polish
@@ -39748,9 +40082,10 @@ titles:
   - title: Historia dyplomacji 1871-1914
     authors:
       - Vladimir Mihajlovič Hvostov
+      - Andrej Andreevič Gromyko
+    translators:
       - Michał Olkiewicz
       - Maria Borowska
-      - Andrej Andreevič Gromyko
       - Stefan Gnich
     year: 1973
     language: Polish
@@ -39763,11 +40098,12 @@ titles:
   - title: Historia dyplomacji 1914-1939
     authors:
       - W. M. [i in Chwastow
-      - Stanisław Ludkiewicz
-      - Jerzy Borowicz
       - Vladimir Mihajlovič Hvostov
       - Henryk Altman
       - Andrej Andreevič Gromyko
+    translators:
+      - Stanisław Ludkiewicz
+      - Jerzy Borowicz
     year: 1973
     language: Polish
     sources:
@@ -39779,9 +40115,10 @@ titles:
   - title: Historia dyplomacji do 1871 r
     authors:
       - Vladimir Mihajlovič Hvostov
+      - Sergej Vladimirovič Bahrušin
+    translators:
       - Władysław Głuchowski
       - Kazimierz Krąkowski
-      - Sergej Vladimirovič Bahrušin
     year: 1973
     language: Polish
     sources:
@@ -39806,6 +40143,7 @@ titles:
       - I. I. Minca
       - M. Žukov
       - Isaak Izrailevič Minc
+    translators:
       - Ryszard Winter-Rudnicki
     year: 1973
     language: Polish
@@ -40138,6 +40476,8 @@ titles:
   - title: Maturzyści mają głos ...
     subtitle: Zanim przystąpią do gry
     authors: []
+    editors:
+      - Teresa Abraszewska
     year: 1973
     edition: Wyd. 1
     language: Polish
@@ -40405,6 +40745,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1074678192
     verified: true
   - title: O przedmiocie i metodzie estetyki
+    original_title: O przedmiocie i metodzie estetyki
     authors:
       - Stefan Morawski
     year: 1973
@@ -40695,6 +41036,8 @@ titles:
   - title: Polska myśl filozoficzna i społeczna
     authors:
       - Andrzej Walicki
+    editors:
+      - Jósef Bańka
     year: 1973
     language: Polish
     sources:
@@ -40979,6 +41322,8 @@ titles:
     subtitle: Skreślony w dziesięć lat po wypadkach na tułactwie we Francji
     authors:
       - Walenty Zwierkowski
+    editors:
+      - Władysław Lewandowski
     year: 1973
     edition: '[Wyd. 1.]'
     language: Polish
@@ -41865,9 +42210,10 @@ titles:
   - title: Dzieła
     authors:
       - Karl Marx
-      - Krzysztof Wolicki
       - Friedrich Engels
       - Bronisław Migdalski
+    translators:
+      - Krzysztof Wolicki
     year: 1974
     language: Polish
     sources:
@@ -41877,8 +42223,11 @@ titles:
         url: https://search.worldcat.org/title/830231640
     verified: true
   - title: Education in Poland
+    original_title: 25 lat oświaty i szkolnictwa w Polsce Ludowej
     authors:
       - Andrzej Świecki
+    translators:
+      - Bogusław Jankowski
     year: 1974
     edition: 2d ed., rev. and enl
     language: English
@@ -42022,9 +42371,10 @@ titles:
     verified: true
   - title: Historia powszechna w dziesięciu tomach
     authors:
-      - Stanisław Macheta
       - Lev Izrailevič Zubok
       - M. Žukov
+    translators:
+      - Stanisław Macheta
     year: 1974
     language: Polish
     sources:
@@ -42054,6 +42404,8 @@ titles:
     subtitle: Wybór tekdtów
     authors:
       - Romana Rudzińskiego
+    editors:
+      - Roman Rudziński
     year: 1974
     language: Polish
     sources:
@@ -42090,6 +42442,8 @@ titles:
     subtitle: Praca zbiorowa
     authors:
       - Paweł Bożyk
+    editors:
+      - Pawel Bożyk
     year: 1974
     edition: Wyd. 2., zmienione
     language: Polish
@@ -42325,6 +42679,8 @@ titles:
   - title: Marceli Nowotko, "Marian," "Stary." 1893-1942
     subtitle: Artykuły biograficzne, wspomnienia, dokumenty
     authors: []
+    editors:
+      - Henryk Szafrański
     year: 1974
     edition: Wyd. 1
     language: Polish
@@ -42363,6 +42719,7 @@ titles:
     subtitle: Zarys historyczny
     authors:
       - Aleksandr Ivanovič Sobolev
+    translators:
       - Maria Wolska
     year: 1974
     language: Polish
@@ -43411,6 +43768,8 @@ titles:
     verified: true
   - title: Współczesna Skandynawia
     authors: []
+    editors:
+      - Ludwika Szumna
     year: 1974
     edition: Wyd. 1
     language: Polish
@@ -43933,6 +44292,8 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
+      - Jerzy Nowacki
     year: 1975
     language: Polish
     sources:
@@ -44019,6 +44380,8 @@ titles:
   - title: Encyklopedia organizacji międzynarodowych
     authors:
       - Andrzej Abraszewski
+    editors:
+      - Zbigniew Doliwa-Klepacki
     year: 1975
     edition: Wyd. 1
     language: Polish
@@ -45058,11 +45421,13 @@ titles:
         url: https://openlibrary.org/books/OL20716288M
     verified: true
   - title: Religie w przeszłości i w dobie współczesnej
+    original_title: Religionerna i historia och nutid
     authors:
       - Helmer Ringgren
       - ̇Åke V. Ström
-      - Bogdan Kupis
       - Józef Keller
+    translators:
+      - Bogdan Kupis
     year: 1975
     language: Polish
     sources:
@@ -46074,8 +46439,9 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
-      - Henryk Holder
       - Adam Ponikowski
+    translators:
+      - Henryk Holder
     year: 1976
     language: Polish
     sources:
@@ -46678,6 +47044,8 @@ titles:
   - title: Międzynarodowy ruch robotniczy
     authors:
       - Warsaw. Wyższa Szkoła Nauk Społecznynch. Instytut Ruchu Robotniczego
+    editors:
+      - Janusz Wojciech Gołębiowski
     year: 1976
     edition: Wyd. 1
     language: Polish
@@ -46740,6 +47108,7 @@ titles:
       - Vladimir Ivanovič Glunin
       - Walery Namiotkiewicz
       - Mihail Iosifovič Sladkovskij
+    translators:
       - Jerzy Urkowski
     year: 1976
     language: Polish
@@ -47591,6 +47960,8 @@ titles:
     subtitle: Podstawowe dokumenty i materiały
     authors:
       - KC PZPR. Plenum
+    editors:
+      - Polska Zjednoczona Partia Robotnicza
     year: 1976
     language: Polish
     pages: 125
@@ -48195,6 +48566,8 @@ titles:
     authors:
       - IA. G. Temkin
       - Krystyna Lidzbarska
+    editors:
+      - Ja. G. Temkin
     year: 1977
     edition: Wyd. 1
     language: Polish
@@ -48435,6 +48808,9 @@ titles:
     subtitle: Od schyłku epoki kolonialnej do czasów współczesnych
     authors:
       - Tadeusz Łepkowski
+    editors:
+      - Marcin Kula
+      - Jan Szemiński
     year: 1977
     edition: Wyd. 1
     language: Polish
@@ -48462,6 +48838,7 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Julian Maliniak
     year: 1977
     language: Polish
@@ -48480,6 +48857,7 @@ titles:
         url: https://search.worldcat.org/title/830213917
     verified: true
   - title: Dziennik z rejonu specjalnego Chin z lat 1942-1945
+    original_title: Osobyj rajon Kitaâ
     authors:
       - Petr Parfenovich Vladimirov
     year: 1977
@@ -48893,6 +49271,7 @@ titles:
     verified: true
   - title: Leninizm a kwestia narodowa w świecie współczesnym
     subtitle: Praca zbiorowa
+    original_title: Leninizm i nacionalʹnyj vopros v sovremennych uslovijach
     authors:
       - Petr Nikolaevič Fedoseev
     year: 1977
@@ -50072,6 +50451,8 @@ titles:
     subtitle: Praca zbiorowa
     authors:
       - Antoni Błoński
+    editors:
+      - Władysław Pałucki
     year: 1977
     edition: Wyd. 1
     series: Prace Mazowieckiego Ośrodka Badań Naukowych; Nr 24
@@ -50504,6 +50885,7 @@ titles:
   - title: Czekając na miłość
     authors:
       - Edna O'Brien
+    translators:
       - Maria Zborowska
     year: 1978
     language: Polish
@@ -50613,6 +50995,7 @@ titles:
   - title: Dziewczyna o zielonych oczach
     authors:
       - Edna O'Brien
+    translators:
       - Maria Zborowska
     year: 1978
     language: Polish
@@ -50623,8 +51006,10 @@ titles:
         url: https://search.worldcat.org/title/750703311
     verified: true
   - title: Efektywność propagandy komunistycznej
+    original_title: Effektiwnost' kommunisticzeskoj propagandy
     authors:
       - Pëtr Vladimirovič Pozdnjakov
+    translators:
       - Adela Suchodolska
     year: 1978
     language: Polish
@@ -50806,9 +51191,11 @@ titles:
     verified: true
   - title: Greta Minde
     subtitle: Wedlug kroniki staromarchijskiej kroniki
+    original_title: Grete Minde
     series: Koliber; 48
     authors:
       - Theodor Fontane
+    translators:
       - Adam Krzemiński
     year: 1978
     language: Polish, German
@@ -51158,8 +51545,10 @@ titles:
     verified: true
   - title: Marksizm-leninizm nauką wiecznie żywą i twórczą
     subtitle: (Odpowiedź krytykom)
+    original_title: '"Zivoe i dejstvennoe ucenie marksizma-leninizma : (otvet kritikam)" 1978'
     authors:
       - Boris Nikolaevič Ponomarëv
+    translators:
       - Krzysztof Smerd
     year: 1978
     language: Polish
@@ -51796,7 +52185,8 @@ titles:
     verified: true
   - title: Polska - ZSRR
     subtitle: Internacjonalistyczna współpraca - historia i współczesność
-    authors:
+    authors: []
+    translators:
       - Józef Paszta
       - Leokadia Kossy-Towarnicka
       - Róża Tołsikowa
@@ -52327,8 +52717,10 @@ titles:
         url: https://lccn.loc.gov/nuc87447794
     verified: true
   - title: Tymczasowe życie
+    original_title: Temporary life
     authors:
       - David Storey
+    translators:
       - Maria Zborowska
     year: 1978
     language: Polish
@@ -52736,6 +53128,7 @@ titles:
     authors:
       - Miroslav Ivanov
       - Jerzy Tomaszewski
+    translators:
       - Piotr Godlewski
     year: 1978
     language: Polish
@@ -52769,6 +53162,7 @@ titles:
     series: Koliber; 49
     authors:
       - Ûrij Valentinovič Trifonov
+    translators:
       - Janina Dziarnowska
     year: 1978
     language: Polish
@@ -52796,6 +53190,7 @@ titles:
   - title: Zezwalam na start
     authors:
       - Vladimir Vladimirovič Kunin
+    translators:
       - Tadeusz Gosk
     year: 1978
     language: Polish
@@ -53298,6 +53693,7 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Czesław Grabowski
       - Felicja Romaniukowa
       - Władysław Sadowski
@@ -53323,8 +53719,10 @@ titles:
         url: https://d-nb.info/984383956
     verified: true
   - title: Dziennik z Północy
+    original_title: Severnyj dnevnik
     authors:
       - Jurij Kazakow
+    translators:
       - Waldemar Kiwilszo
     year: 1979
     language: Polish
@@ -53341,6 +53739,7 @@ titles:
   - title: Ekonomia polityczna a ideologia
     authors:
       - Géza Ripp
+    translators:
       - Jadwiga Dudziak
     year: 1979
     language: Polish
@@ -53389,8 +53788,9 @@ titles:
   - title: Historia dialektyki marksistowskiej
     subtitle: Etap leninowski
     authors:
-      - Sławomir Jędrzejewski
       - Georgij Alekseevič Kursanov
+    translators:
+      - Sławomir Jędrzejewski
     year: 1979
     language: Polish
     sources:
@@ -53404,6 +53804,7 @@ titles:
   - title: Historia nowożytna Chin
     authors:
       - Sergej Leonidovič Tihvinskij
+    translators:
       - Maria Wolska
     year: 1979
     language: Polish
@@ -53766,6 +54167,7 @@ titles:
   - title: Masażysta cudotwórca
     authors:
       - V. S. Naipaul
+    translators:
       - Maria Zborowska
     year: 1979
     language: Polish
@@ -53778,6 +54180,7 @@ titles:
   - title: Mechanizm polityczny Chin
     authors:
       - Leonid Moiseevič Gudošnikov
+    translators:
       - Henryk Widłaszewski
     year: 1979
     language: Polish
@@ -53790,6 +54193,7 @@ titles:
   - title: Metody ekonomiczne w planowaniu i zarządzaniu
     authors:
       - Aleksandr Vasil'evič Bačurin
+    translators:
       - Irena Nomańczukowa
     year: 1979
     language: Polish
@@ -54085,6 +54489,8 @@ titles:
     authors:
       - J. Błuszkowski
       - Czesław Mojsiewicz
+    editors:
+      - Jan Błuszkowski
     year: 1979
     language: Polish
     pages: 296
@@ -54138,6 +54544,8 @@ titles:
     subtitle: 1890-1895
     authors:
       - Edward Abramowski
+    editors:
+      - Józef Kulas
     year: 1979
     edition: Wyd. 1
     series: Biblioteka rewolucyjnego nurtu polskiej myśli społecznej
@@ -54164,6 +54572,8 @@ titles:
   - title: Pisma społeczne i polityczne
     authors:
       - Edward Dembowski
+    editors:
+      - Jerzy Ładyka
     year: 1979
     edition: Wyd. 1
     series: Biblioteka rewolucyjnego nurtu polskiej myśli społecznej
@@ -54188,6 +54598,7 @@ titles:
   - title: Plan Petera czyli Ratujmy świat
     authors:
       - Laurence J. Peter
+    translators:
       - Julita Wroniak-Mirkowicz
     year: 1979
     language: Polish
@@ -54475,9 +54886,11 @@ titles:
         url: https://www.sudoc.fr/124490662
     verified: true
   - title: Romantycy
+    original_title: Romantiki
     series: Koliber; 56
     authors:
       - Konstantin Georgievič Paustovskij
+    translators:
       - Jerzy Jędrzejewicz
     year: 1979
     language: Polish
@@ -54547,6 +54960,7 @@ titles:
     series: Krytyka Burżuazyjnej Ideologii i Rewizjonizmu
     authors:
       - Sergej Ivanovič Popov
+    translators:
       - Janina Maria Skrzypkowa
     year: 1979
     language: Polish
@@ -54591,8 +55005,9 @@ titles:
   - title: Stosunki radziecko-chińskie 1945-1978
     authors:
       - Oleg Borisovič Borisov
-      - Władysław Głuchowski
       - Boris Trofimovič Koloskov
+    translators:
+      - Władysław Głuchowski
       - Wilhelm Mensz
     year: 1979
     language: Polish
@@ -54792,6 +55207,7 @@ titles:
     authors:
       - Joe J. Heydecker
       - Johannes Leeb
+    translators:
       - Marek Zeller
     year: 1979
     language: Polish
@@ -54844,6 +55260,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1357514778
     verified: true
   - title: W kręgu Enigmy
+    original_title: W kręgu Enigmy
     authors:
       - Władysław Kozaczuk
     year: 1979
@@ -54952,6 +55369,8 @@ titles:
   - title: Wybór pism krytycznych
     authors:
       - Ignacy Fik
+    editors:
+      - Andrzej Chruszczyński
     year: 1979
     edition: Wyd. 2
     language: Polish
@@ -55226,6 +55645,7 @@ titles:
     subtitle: Biografia polityczna sekretarza generalnego Komunistycznej Partii Hiszpanii José Diaza 1895-1942
     authors:
       - Marklen Tihonovič Meŝerâkov
+    translators:
       - Zofia Polubiec
     year: 1980
     language: Polish
@@ -55236,6 +55656,7 @@ titles:
         url: https://search.worldcat.org/title/749676377
     verified: true
   - title: Chłopi
+    original_title: Chłopi
     authors:
       - Władysław Stanisław Reymont
       - Tomasz Jodełka-Burzecki
@@ -55389,6 +55810,7 @@ titles:
   - title: Dialektyka rozwoju struktury społeczeństwa radzieckiego
     authors:
       - Vadim Sergeevič Semënov
+    translators:
       - Stanisław J. Bogusz
     year: 1980
     language: Polish
@@ -55418,6 +55840,7 @@ titles:
   - title: Dwa długie dni
     authors:
       - Nikolaj Âkovlevič Moskvin
+    translators:
       - Witold Dąbrowski
     year: 1980
     language: Polish
@@ -55493,6 +55916,7 @@ titles:
     authors:
       - Friedrich Engels
       - Leonid Fedorovič Il'ičev
+    translators:
       - Henryk Widłaszewski
       - Halina Zelnik
     year: 1980
@@ -55550,6 +55974,7 @@ titles:
     subtitle: Z notatnika sekretarza osobistego
     authors:
       - Nedelčo Gančovski
+    translators:
       - Maria Więckowska
       - Adam Koseski
     year: 1980
@@ -55563,9 +55988,10 @@ titles:
   - title: Historia dyplomacji
     authors:
       - A. S. Anikin
-      - Józef Górski
       - Mihail Averkievič Harlamov
       - W. S. Semonov
+    translators:
+      - Józef Górski
     year: 1980
     language: Polish
     sources:
@@ -55589,7 +56015,8 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1943246882
     verified: true
   - title: Historia nowożytna krajów Azji i Afryki
-    authors:
+    authors: []
+    translators:
       - Jerzy Borowicz
     year: 1980
     language: Polish
@@ -55600,8 +56027,10 @@ titles:
         url: https://search.worldcat.org/title/749591318
     verified: true
   - title: Historia pewnej podróży
+    original_title: Istoriâ odnogo putešestviâ
     authors:
       - Vadim Leonidovič Andreev
+    translators:
       - Stanisław Nikoniuk
     year: 1980
     language: Polish
@@ -55722,8 +56151,9 @@ titles:
     verified: true
   - title: Jedność klasy robotniczej i walka ideologiczna
     authors:
-      - Wojciech Kowalczyk
       - Jerzy Wajszczuk
+    translators:
+      - Wojciech Kowalczyk
       - Mirosława Wierzbicka
     year: 1980
     language: Polish
@@ -55749,8 +56179,9 @@ titles:
     series: Koliber; 58
     authors:
       - Katherine Mansfield
-      - Bolesława Kopelówna
       - '"Książka i Wiedza" (Warszawa)'
+    translators:
+      - Bolesława Kopelówna
     year: 1980
     language: Polish
     sources:
@@ -55792,6 +56223,7 @@ titles:
   - title: Kapitanowie z szalonej rzeki
     authors:
       - Bohuslav Chňoupek
+    translators:
       - Grzegorz Łatuszyński
     year: 1980
     language: Polish
@@ -55836,6 +56268,8 @@ titles:
     authors:
       - Augustyn Wajda
       - Elisabeth Bessau
+    translators:
+      - Brygida Jodkowska
     year: 1980
     edition: Wyd. 1
     language: Polish
@@ -55925,8 +56359,10 @@ titles:
         url: https://search.worldcat.org/title/7576531
     verified: true
   - title: Kryzys u Carfittów
+    original_title: Carfitt crisis and two other stories
     authors:
       - John Boynton Priestley
+    translators:
       - Maria Zborowska
     year: 1980
     language: Polish
@@ -55939,6 +56375,7 @@ titles:
   - title: Lawina
     authors:
       - Miloš Krno
+    translators:
       - Urszula Dzierżawska-Bukowska
     year: 1980
     language: Polish
@@ -55949,6 +56386,7 @@ titles:
         url: https://search.worldcat.org/title/749876914
     verified: true
   - title: Ludzie bezdomni
+    original_title: Ludzie bezdomni
     authors:
       - Stefan Żeromski
     year: 1980
@@ -56081,9 +56519,11 @@ titles:
         url: https://search.worldcat.org/title/69474017
     verified: true
   - title: Niepokoje wychowanka Törlessa
+    original_title: Verwirrungen des Zöglings Törless
     series: Koliber; 59
     authors:
       - Robert Musil
+    translators:
       - Wanda Kragen
     year: 1980
     language: Polish
@@ -56353,6 +56793,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991088838559705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Pisma
+    original_title: Pasierbowie
     authors:
       - Jerzy Putrament
     year: 1980
@@ -56374,6 +56815,8 @@ titles:
   - title: Pisma społeczne i polityczne
     authors:
       - Stanisław Gabriel Worcell
+    editors:
+      - Piotr Marciniak
     year: 1980
     edition: Wyd. 1
     series: Biblioteka rewolucyjnego nurtu polskiej myśli społecznej
@@ -56416,6 +56859,7 @@ titles:
   - title: Pod płonącą banderą
     authors:
       - C. Northcote Parkinson
+    translators:
       - Jadwiga Milnikiel
     year: 1980
     language: Polish
@@ -56428,6 +56872,7 @@ titles:
   - title: Podstawy filozofii marksistowsko-leninowskiej
     authors:
       - Fedor Vasil'evič Konstantinov
+    translators:
       - Henryk Widłaszewski
     year: 1980
     language: Polish
@@ -56500,6 +56945,7 @@ titles:
         url: https://search.worldcat.org/title/830252483
     verified: true
   - title: Polish and international workers' movement. Studies and materials
+    original_title: Z Pola Walki, 1968-1977
     authors:
       - Stanislaw Kalabinski
       - Zenobiusz Kozik
@@ -56600,6 +57046,8 @@ titles:
     subtitle: Wybór pism
     authors:
       - Henryk Kamieński
+    editors:
+      - Stanisław Filipowicz
     year: 1980
     edition: Wyd. 1
     series: Biblioteka rewolucyjnego nurtu polskiej myśli społecznej
@@ -56625,6 +57073,8 @@ titles:
     subtitle: Przywileje, pomoc, ochrona
     authors:
       - Janusz Piotrowski
+    editors:
+      - Elżbieta Konecka
     year: 1980
     edition: Wyd. 1
     language: Polish
@@ -56655,9 +57105,11 @@ titles:
         url: https://search.worldcat.org/title/830248307
     verified: true
   - title: Przebudzenie
+    original_title: Awakening
     series: Koliber; 63
     authors:
       - Kate Chopin
+    translators:
       - Ariadna Demkowska-Bohdziewicz
     year: 1980
     language: Polish
@@ -56670,8 +57122,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1944588590
     verified: true
   - title: Przelotny czas
+    original_title: Skoryj poezd
     authors:
       - Vladimir Mirnev
+    translators:
       - Halina Klemińska
     year: 1980
     language: Polish
@@ -56804,6 +57258,7 @@ titles:
   - title: RWPG [Rada Wzajemnej Pomocy Gospodarczej] - 30 lat współpracy
     authors:
       - Viktor Silin
+    translators:
       - Władysława Czech-Matuszewska
     year: 1980
     language: Polish
@@ -56860,8 +57315,10 @@ titles:
         url: https://search.worldcat.org/title/750799945
     verified: true
   - title: Socjalistyczne perspektywy ludzkości
+    original_title: Socialističeskaâ sud'ba čelovečestva
     authors:
       - Georgij Hosroevič Šahnazarov
+    translators:
       - Janina Maria Skrzypkowa
       - Krzysztof Smerd
     year: 1980
@@ -57034,6 +57491,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/006665314
     verified: true
   - title: Traktat o naturze ludzkiej
+    original_title: Traktat o naturze ludzkiej
     authors:
       - Tadeusz M. Jaroszewski
     year: 1980
@@ -57065,8 +57523,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1511242345
     verified: true
   - title: Trochę śpiewu i tańca
+    original_title: Bit of singing and dancing
     authors:
       - Susan Hill
+    translators:
       - Maria Zborowska
     year: 1980
     language: Polish
@@ -57247,6 +57707,7 @@ titles:
   - title: Wśliznę się do twego namiotu
     authors:
       - Peter De Vries
+    translators:
       - Zofia Kierszys
     year: 1980
     language: Polish
@@ -57336,6 +57797,7 @@ titles:
   - title: Wyznanie
     authors:
       - Ûrij Lûdvigovič Lâsota
+    translators:
       - Ewa Leszczyńska
       - Jan Tetter
     year: 1980
@@ -57349,10 +57811,11 @@ titles:
   - title: Wyższość socjalizmu jako systemu społecznego
     subtitle: Praca zbiorowa
     authors:
-      - Stanisława Wieczorek
       - Stefan Angelov
       - Pavel Artemovič Ignatovskij
       - Tadeusz Maciej Jaroszewski
+    translators:
+      - Stanisława Wieczorek
       - Henryk Widłaszewski
       - Roman Sroczyński
     year: 1980
@@ -57573,6 +58036,7 @@ titles:
   - title: Artykuły i przemówienia 1960-1975
     authors:
       - Lê Duâ'n
+    translators:
       - Maria Jawornicka
       - Józef Rzeszut
       - Jacek Węgrzyn
@@ -57585,8 +58049,10 @@ titles:
         url: https://search.worldcat.org/title/749837993
     verified: true
   - title: Atlasy i kariatydy
+    original_title: Atlanty ì karyâtydy
     authors:
       - Ìvan Pâtrovìč Šamâkìn
+    translators:
       - Marta Tywonek
     year: 1981
     language: Polish
@@ -57601,6 +58067,7 @@ titles:
     series: Koliber; 64
     authors:
       - Anton Czechow
+    translators:
       - Maria Dąbrowska
       - Jarosław Iwaszkiewicz
       - Jerzy Wyszomirski
@@ -57640,8 +58107,10 @@ titles:
     verified: true
   - title: Burzliwy żywot Baska Zalacaina
     subtitle: Opisanie życia i przygód Martina Zalacaina z Urbii
+    original_title: Zalacain el aventurero
     authors:
       - Pío Baroja
+    translators:
       - Piotr Niklewicz
     year: 1981
     language: Polish
@@ -57691,8 +58160,10 @@ titles:
         url: https://search.worldcat.org/title/11572316
     verified: true
   - title: Chytrus
+    original_title: Loup-cervier
     authors:
       - Guy Croussy
+    translators:
       - Ewa Fiszer
     year: 1981
     language: Polish
@@ -57753,9 +58224,11 @@ titles:
     verified: true
   - title: Dom pani Tellier
     subtitle: Opowiadania
+    original_title: Maison Tellier
     series: Koliber; 66
     authors:
       - Guy de Maupassant
+    translators:
       - Adolf Sowiński
     year: 1981
     language: Polish
@@ -57813,6 +58286,7 @@ titles:
   - title: Dwa miesiące na wsi czyli Małżeństwo po imeretyńsku
     authors:
       - Aleksandr Luarsabovič Èbanoidze
+    translators:
       - Małgorzata Rajewska-Ehlers
     year: 1981
     language: Polish
@@ -57840,6 +58314,7 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Julian Maliniak
     year: 1981
     language: Polish
@@ -57895,6 +58370,7 @@ titles:
     subtitle: Paradoksy hedonizmu
     authors:
       - Ivan Povarkov
+    translators:
       - Edward Rutkowski
     year: 1981
     language: Polish
@@ -57908,6 +58384,8 @@ titles:
     subtitle: Wybór pism
     authors:
       - Piotr Ściegienny
+    editors:
+      - Adam Sikora
     year: 1981
     series: Biblioteka rewolucyjnego nurtu polskiej myśli społecznej
     language: Polish
@@ -57921,6 +58399,7 @@ titles:
         url: https://search.worldcat.org/title/830202804
     verified: true
   - title: Faraon
+    original_title: Faraon
     authors:
       - Bolesław Prus
       - Alina Nofer-Ładyka
@@ -57938,8 +58417,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1944475451
     verified: true
   - title: Filozoficzne zagadnienia prawa
+    original_title: Filosofskie problemy prava
     authors:
       - Džangir Ali-Abasovič Kerimov
+    translators:
       - Halina Kurzątkowska
       - Kazimiera Michałowska
     year: 1981
@@ -58446,6 +58927,7 @@ titles:
     authors:
       - Oleg Nikolaevič Znamenskij
       - Valerij Aleksandrovič Šiškin
+    translators:
       - Anna Sobczak
     year: 1981
     language: Polish
@@ -58476,12 +58958,14 @@ titles:
         url: https://search.worldcat.org/title/830199728
     verified: true
   - title: Listy młodego Engelsa 1838-1845
+    original_title: Briefe des jungen Engels
     authors:
       - Friedrich Engels
+      - B. Krylov
+    translators:
       - Antoni Bal
       - Mirosław Skwieciński
       - Krzysztof Wolicki
-      - B. Krylov
     year: 1981
     language: Polish
     sources:
@@ -58495,6 +58979,7 @@ titles:
   - title: Losy narodowości
     authors:
       - Ahed Gadžimuradovič Agaev
+    translators:
       - Zdzisław Gąsiorowski
     year: 1981
     language: Polish
@@ -58776,6 +59261,8 @@ titles:
     subtitle: 'LRB, CSRS, NRD, PRL, SRR, WRL, ZSRR: dokumenty 1955-1980'
     authors:
       - Warsaw Treaty Organization
+    editors:
+      - Marian Dmochowski
     year: 1981
     language: Polish
     pages: 344
@@ -58857,6 +59344,7 @@ titles:
         url: https://lccn.loc.gov/81198126
     verified: true
   - title: Pisma
+    original_title: Puszcza
     authors:
       - Jerzy Putrament
     year: 1981
@@ -58872,6 +59360,7 @@ titles:
   - title: Piwiarnia "Pod Klepsydrą"
     authors:
       - Irina Romanovna Guro
+    translators:
       - Wiera Bieńkowska
     year: 1981
     language: Polish
@@ -58977,8 +59466,10 @@ titles:
         url: https://search.worldcat.org/title/233508736
     verified: true
   - title: Polityka zagraniczna Stanów Zjednoczonych w latach sześćdziesiątych i siedemdziesiątych
+    original_title: Vnešnââ politika SŠA
     authors:
       - Anatolij Andreevič Gromyko
+    translators:
       - Tadeusz Kaczmarek
     year: 1981
     language: Polish
@@ -59171,9 +59662,10 @@ titles:
   - title: Religia i ja
     authors:
       - Tadeusz Kotarbiński
-      - Amelia Kurlandzka
       - Leopold Infeld
       - Bertrand Russell
+    translators:
+      - Amelia Kurlandzka
     year: 1981
     language: Polish
     sources:
@@ -59196,8 +59688,9 @@ titles:
   - title: Rozwój gospodarczy europejskich krajów socjalistycznych
     authors:
       - Miroslav Brdek
-      - Piotr Godlewski
       - Václav Průcha
+    translators:
+      - Piotr Godlewski
       - Henryk Szwedo
     year: 1981
     language: Polish
@@ -59209,6 +59702,7 @@ titles:
     verified: true
   - title: Rzym a wspólnota faszystowska
     subtitle: O penetracji faszyzmu włoskiego w Europie Środkowej, Południowej i Wschodniej
+    original_title: Rzym a wspólnota faszystowska
     authors:
       - Jerzy W. Borejsza
     year: 1981
@@ -59288,8 +59782,9 @@ titles:
     subtitle: Wielkie koncerny naftowe i świat przez nie stworzony
     authors:
       - Anthony Sampson
-      - Jan Zygmunt Bielski
       - Karol Szyndzielorz
+    translators:
+      - Jan Zygmunt Bielski
     year: 1981
     language: Polish
     sources:
@@ -59354,6 +59849,7 @@ titles:
     subtitle: Praca zbiorowa
     authors:
       - Vladislav Aleksandrovič Lektorskij
+    translators:
       - Henryk Widłaszewski
     year: 1981
     language: Polish
@@ -59453,6 +59949,7 @@ titles:
     authors:
       - Igor Aleksandrovič Geevskij
       - Viktor Smelov
+    translators:
       - Andrzej Feliks Żmuda
     year: 1981
     language: Polish
@@ -59465,6 +59962,7 @@ titles:
   - title: To dziwne życie...
     authors:
       - Daniił Granin
+    translators:
       - Henryka Broniatowska
     year: 1981
     language: Polish
@@ -59678,6 +60176,7 @@ titles:
         url: https://search.worldcat.org/title/830303164
     verified: true
   - title: Wierna rzeka
+    original_title: Wierna rzeka
     authors:
       - Stefan Żeromski
     year: 1981
@@ -59884,7 +60383,8 @@ titles:
     verified: true
   - title: Z historii rozwoju klasycznej burżuazyjnej filozofii niemieckiej
     subtitle: Kant, Fichte, Schelling, Hegel, Feuerbach
-    authors:
+    authors: []
+    translators:
       - Krystyna Krzemień-Ojak
     year: 1981
     language: Polish
@@ -60077,8 +60577,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/006663465
     verified: true
   - title: Aniuta
+    original_title: Anûta
     authors:
       - Boris Nikolaevič Polevoj
+    translators:
       - Barbara Miecznicka-Wcisły
     year: 1982
     language: Polish
@@ -60091,6 +60593,7 @@ titles:
   - title: Basen
     authors:
       - Tamaz Čiladze
+    translators:
       - Zofia Łapicka
     year: 1982
     language: Polish
@@ -60138,6 +60641,7 @@ titles:
   - title: Cichy Don
     authors:
       - Michaił Szołochow
+    translators:
       - Wacław Rogowicz
       - Andrzej Stawar
     year: 1982
@@ -60175,8 +60679,9 @@ titles:
     verified: true
   - title: Co to jest "socjalizm demokratyczny"
     authors:
-      - Ryszard Czerwiński
       - Petr Nikolaevič Fedoseev
+    translators:
+      - Ryszard Czerwiński
       - Stefan Gajda
     year: 1982
     language: Polish
@@ -60266,6 +60771,7 @@ titles:
   - title: Czas spełnienia
     authors:
       - Romualdas Lankauskas
+    translators:
       - Anastazja Stoberska
     year: 1982
     language: Polish
@@ -60317,8 +60823,9 @@ titles:
   - title: Demokracja dla nielicznych
     authors:
       - Michael Parenti
-      - Ewa Woydyłło
       - Longin Pastusiak
+    translators:
+      - Ewa Woydyłło
     year: 1982
     language: Polish
     sources:
@@ -60388,8 +60895,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/000276921
     verified: true
   - title: Dubler
+    original_title: Understudy
     authors:
       - Elia Kazan
+    translators:
       - Jan Aleksandrowicz
     year: 1982
     language: Polish
@@ -60480,8 +60989,10 @@ titles:
         url: https://search.worldcat.org/title/21647529
     verified: true
   - title: Effi Briest
+    original_title: Effi Briest
     authors:
       - Theodor Fontane
+    translators:
       - Izabella Czermakowa
     year: 1982
     language: Polish
@@ -60515,6 +61026,7 @@ titles:
   - title: Fale nocy i inne opowiadania
     authors:
       - Harry Mark Petrakis
+    translators:
       - Tomasz Mirkowicz
     year: 1982
     language: Polish
@@ -60525,6 +61037,7 @@ titles:
         url: https://search.worldcat.org/title/749161459
     verified: true
   - title: Faraon
+    original_title: Faraon
     authors:
       - Bolesław Prus
       - Alina Nofer-Ładyka
@@ -60538,8 +61051,10 @@ titles:
         url: https://search.worldcat.org/title/830301764
     verified: true
   - title: Gajowy
+    original_title: Gamekeeper
     authors:
       - Barry Hines
+    translators:
       - Jan Aleksandrowicz
     year: 1982
     language: Polish
@@ -60633,6 +61148,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1614471886
     verified: true
   - title: Granica
+    original_title: Granica
     authors:
       - Zofia Nałkowska
       - Hanna Kirchner
@@ -60659,8 +61175,10 @@ titles:
         url: https://search.worldcat.org/title/830310966
     verified: true
   - title: Hamida z zaułka Midakk
+    original_title: Zuqaq al-Midaqq
     authors:
       - Nadżib Mahfuz
+    translators:
       - Jolanta Kozłowska
     year: 1982
     language: Polish
@@ -60673,10 +61191,13 @@ titles:
   - title: Historia dyplomacji
     series: Historia dyplomacji; t. 4
     authors:
-      - Anna Bracławska
       - Semen Aleksandrovič Gonionskij
       - Józef Kukułka
       - Andrej Andreevič Gromyko
+    editors:
+      - S. A. Gonionski
+    translators:
+      - Anna Bracławska
       - Nonna Zamojska
     year: 1982
     language: Polish
@@ -60732,8 +61253,10 @@ titles:
         url: https://search.worldcat.org/title/69488007
     verified: true
   - title: Imiona
+    original_title: Names
     authors:
       - Navarre Scott Momaday
+    translators:
       - Jadwiga Milnikiel
     year: 1982
     language: Polish
@@ -60876,6 +61399,8 @@ titles:
   - title: Kontrrewolucja piórem i bronią, 1956
     authors:
       - János Berecz
+    translators:
+      - Marek Kłoczko
     year: 1982
     language: Polish
     pages: 276
@@ -60933,8 +61458,10 @@ titles:
         url: https://lccn.loc.gov/83131483
     verified: true
   - title: Kronika Wapshotów
+    original_title: Wapshot chronicle
     authors:
       - John Cheever
+    translators:
       - Henryk Krzeczkowski
     year: 1982
     language: Polish
@@ -61053,11 +61580,13 @@ titles:
         url: https://search.worldcat.org/title/11029378
     verified: true
   - title: Ludwik Feuerbach i zmierzch klasycznej filozofii niemieckiej
+    original_title: Ludwig Feuerbach und der Ausgang der klassischen deutschen Philosophie
     series: Popularna biblioteka klasyków marksizmu-leninizmu
     authors:
       - Friedrich Engels
-      - Stanisław Kozyr-Kowalski
       - Karl Marx
+    translators:
+      - Stanisław Kozyr-Kowalski
     year: 1982
     language: Polish
     sources:
@@ -61069,6 +61598,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991093364679705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Ludzie bezdomni
+    original_title: Ludzie bezdomni
     authors:
       - Stefan Żeromski
       - Danuta Zawiślan
@@ -61421,6 +61951,7 @@ titles:
     authors:
       - Todor Živkov
       - Adam Koseski
+    translators:
       - Maria Więckowska
     year: 1982
     language: Polish
@@ -61459,6 +61990,8 @@ titles:
     subtitle: Zbiór artykułów pod red. Władysława Góry i Ryszarda Halaby
     authors:
       - Władysław Góra
+    editors:
+      - Ryszard Halaba
     year: 1982
     edition: Wyd. 1
     language: Polish
@@ -61582,6 +62115,7 @@ titles:
     verified: true
   - title: Pan Tadeusz czyli Ostatni Zajazd na Litwie
     subtitle: Historia szlachecka z roku 1811 i 1812 we dwunastu księgach wierszem
+    original_title: Pan Tadeusz
     authors:
       - Adam Mickiewicz
       - Michał Elwiro Andriolli
@@ -61947,6 +62481,8 @@ titles:
   - title: Przemówienia, artykuły, wywiady, 1957-1968
     authors:
       - Adam Rapacki
+    editors:
+      - Longin Pastusiak
     year: 1982
     edition: Wyd. 1
     language: Polish
@@ -61990,8 +62526,9 @@ titles:
   - title: Przygody dobrego wojaka Szwejka podczas wojny światowej
     authors:
       - Jaroslav Hašek
-      - Paweł Hulka-Laskowski
       - Edward Madany
+    translators:
+      - Paweł Hulka-Laskowski
     year: 1982
     language: Polish
     sources:
@@ -62001,8 +62538,10 @@ titles:
         url: https://search.worldcat.org/title/830199704
     verified: true
   - title: Przyszedłem dać wam wolność
+    original_title: Â prišel dat' vam volû
     authors:
       - Wasilij Szukszyn
+    translators:
       - Janina Dziarnowska
     year: 1982
     language: Polish
@@ -62048,6 +62587,7 @@ titles:
   - title: Rewolucja i kontrrewolucja w Niemczech
     authors:
       - Friedrich Engels
+    translators:
       - Stanisław Rainko
     year: 1982
     language: Polish
@@ -62059,11 +62599,13 @@ titles:
     verified: true
   - title: Rockefellerowie
     subtitle: Amerykańska dynastia
+    original_title: Rockefellers
     authors:
       - Peter Collier
-      - Stanisław Kryczyński
       - Maksymilian Berezowski
       - David Horowitz
+    translators:
+      - Stanisław Kryczyński
     year: 1982
     language: Polish
     sources:
@@ -62109,6 +62651,7 @@ titles:
     authors:
       - Georges Perec
       - Anna Bukowska
+    translators:
       - Anna Tatarkiewicz
     year: 1982
     language: Polish
@@ -62132,9 +62675,11 @@ titles:
     verified: true
   - title: Samotność długodystansowca
     subtitle: Opowiadania
+    original_title: The loneliness of the long-distance runner
     series: Koliber; 69
     authors:
       - Alan Sillitoe
+    translators:
       - Jadwiga Milnikiel
       - Maria Skibniewska
     year: 1982
@@ -62150,6 +62695,7 @@ titles:
   - title: Saville
     authors:
       - David Storey
+    translators:
       - Maria Zborowska
     year: 1982
     language: Polish
@@ -62203,8 +62749,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=478258070
     verified: true
   - title: Skandal u Wapshotów
+    original_title: Wapshot scandal
     authors:
       - John Cheever
+    translators:
       - Henryk Krzeczkowski
     year: 1982
     language: Polish
@@ -62234,8 +62782,9 @@ titles:
     subtitle: Praca zbiorowa
     authors:
       - Boris Nikolaevič Ladygin
-      - Irena Nomańczukowa
       - N. Zotova
+    translators:
+      - Irena Nomańczukowa
     year: 1982
     language: Polish
     sources:
@@ -62248,6 +62797,7 @@ titles:
     subtitle: Teoria i praktyka stosunków międzynarodowych nowego typu
     authors:
       - Stefan Angelov
+    translators:
       - Teresa Bujnowska
     year: 1982
     language: Polish
@@ -62292,6 +62842,7 @@ titles:
   - title: Sprawa Hrabaka
     authors:
       - Erih Koš
+    translators:
       - Magdalena Petryńska
     year: 1982
     language: Polish
@@ -62413,9 +62964,11 @@ titles:
     verified: true
   - title: Szczęście rodzinne
     subtitle: Opowiadania
+    original_title: Semejnoe sčast'e
     series: Koliber; 73
     authors:
       - Lew Tołstoj
+    translators:
       - Eleonora Słobodnikowa
     year: 1982
     language: Polish
@@ -62430,6 +62983,7 @@ titles:
   - title: Trochę mojego życia
     authors:
       - Luis Corvalán
+    translators:
       - Alicja Zalewska-Noworyta
     year: 1982
     language: Polish
@@ -62536,6 +63090,8 @@ titles:
     subtitle: Wybór pism
     authors:
       - Stefan Rudniański
+    editors:
+      - Wiktor Osajda
     year: 1982
     edition: Wyd. 1
     series: Biblioteka rewolucyjnego nurtu polskiej myśli społecznej
@@ -62645,6 +63201,7 @@ titles:
     series: Koliber; 68
     authors:
       - F. Scott Fitzgerald
+    translators:
       - Ariadna Demkowska-Bohdziewicz
     year: 1982
     language: Polish
@@ -62673,6 +63230,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=254017959
     verified: true
   - title: Wojna domowa we Francji
+    original_title: Bürgerkrieg in Frankreich
     authors:
       - Karl Marx
       - Jan Baszkiewicz
@@ -62700,6 +63258,7 @@ titles:
   - title: Wspomnienia
     authors:
       - Leonid Breżniew
+    translators:
       - Waldemar Kiwilszo
     year: 1982
     language: Polish
@@ -62712,6 +63271,8 @@ titles:
   - title: Wybór pism socjologicznych
     authors:
       - Stefan Czarnowski
+    editors:
+      - Janusz Sztumski
     year: 1982
     edition: Wyd. 1
     language: Polish
@@ -62792,8 +63353,9 @@ titles:
   - title: XVI Zjazd Komunistycznej Partii Czechosłowacji
     subtitle: Podstawowe dokumenty
     authors:
-      - Marek Opiłowski
       - Komunistická Strana Československa
+    translators:
+      - Marek Opiłowski
     year: 1982
     language: Polish
     sources:
@@ -62823,6 +63385,7 @@ titles:
   - title: Z zagadnień metodologii realizmu socjalistycznego
     authors:
       - Igor' Nikolaevič Lisakovskij
+    translators:
       - Jerzy Kozibąk
     year: 1982
     language: Polish
@@ -62835,6 +63398,7 @@ titles:
   - title: Zachować swój świat
     authors:
       - Nadine Gordimer
+    translators:
       - Jadwiga Milnikiel
     year: 1982
     language: Polish
@@ -62871,6 +63435,7 @@ titles:
   - title: Zatrzymaj się, spójrz za siebie
     authors:
       - Leonid Aronovič Žuhovickij
+    translators:
       - Barbara Reszko
       - Grażyna Strumiłło-Miłosz
     year: 1982
@@ -62882,8 +63447,10 @@ titles:
         url: https://search.worldcat.org/title/749830924
     verified: true
   - title: Zbrodnia Sylwestra Bonnard
+    original_title: Crime de Sylvestre Bonnard
     authors:
       - Anatole France
+    translators:
       - Jan Sten
     year: 1982
     language: Polish
@@ -62896,6 +63463,7 @@ titles:
   - title: Zdarzenie w Nikolsku
     authors:
       - Vladimir Viktorovič Orlov
+    translators:
       - Helena Zatorska
     year: 1982
     language: Polish
@@ -62909,6 +63477,7 @@ titles:
     series: Koliber; 76
     authors:
       - Erskine Caldwell
+    translators:
       - Krzysztof Zarzecki
     year: 1982
     language: Polish
@@ -62923,6 +63492,7 @@ titles:
   - title: Żołnierskie szczęście
     authors:
       - Valentina Vasil'evna Čudakova
+    translators:
       - Wiera Bieńkowska
     year: 1982
     language: Polish
@@ -63015,6 +63585,7 @@ titles:
   - title: Akta konsula
     authors:
       - Paul Theroux
+    translators:
       - Maria Zborowska
     year: 1983
     language: Polish
@@ -63037,8 +63608,10 @@ titles:
         url: https://search.worldcat.org/title/830242335
     verified: true
   - title: Algebra i harmonia
+    original_title: Algebra i garmoniâ
     authors:
       - Ûrij Âkovlevič Barabaš
+    translators:
       - Edward Rutkowski
     year: 1983
     language: Polish
@@ -63049,8 +63622,10 @@ titles:
         url: https://search.worldcat.org/title/749924374
     verified: true
   - title: Attaukaj - porywacz kobiet
+    original_title: Attaukaj - pohititel' ženŝin
     authors:
       - Al'bert Valeevič Miftahutdinov
+    translators:
       - Józef Dancygier
     year: 1983
     language: Polish
@@ -63063,6 +63638,7 @@ titles:
   - title: Azja w planach Pekinu
     authors:
       - S. G. Ûrkov
+    translators:
       - Henryk Widłaszewski
     year: 1983
     language: Polish
@@ -63096,6 +63672,7 @@ titles:
   - title: Biały pejzaż
     authors:
       - Daniel Boulanger
+    translators:
       - Danuta Knysz-Tomaszewska
     year: 1983
     language: Polish
@@ -63302,6 +63879,7 @@ titles:
     series: Koliber; 78
     authors:
       - Erskine Caldwell
+    translators:
       - Kazimierz Piotrowski
     year: 1983
     language: Polish
@@ -63348,8 +63926,10 @@ titles:
         url: https://search.worldcat.org/title/830242361
     verified: true
   - title: Droga przez mękę
+    original_title: Hoždenie po mukam
     authors:
       - Aleksiej Tołstoj
+    translators:
       - Władysław Broniewski
     year: 1983
     language: Polish
@@ -63602,6 +64182,7 @@ titles:
   - title: Gwałt na kulturze
     authors:
       - Carlos Paris
+    translators:
       - Magda Iwińska
       - Anna Jancewicz
     year: 1983
@@ -63638,6 +64219,8 @@ titles:
   - title: Historia i rewolucja
     authors:
       - Kazimierz Kelles-Krauz
+    editors:
+      - Stanisław Filipowicz
     year: 1983
     edition: Wyd. 1
     series: Biblioteka rewolucyjnego nurtu polskiej myśli społecznej
@@ -63670,7 +64253,8 @@ titles:
         url: https://search.worldcat.org/title/830242591
     verified: true
   - title: Historia ZSRR w dwóch tomach
-    authors:
+    authors: []
+    translators:
       - Tadeusz Kaczmarek
     year: 1983
     language: Polish
@@ -63797,11 +64381,13 @@ titles:
         url: https://catalog.hathitrust.org/Record/006756643
     verified: true
   - title: Jak żyć w małym mieszkaniu
+    original_title: How to live in a flat
     authors:
       - Heath Robinson
       - Kenneth Robert Gordon Browne
-      - Jan Aleksandrowicz
       - Szymon Kobyliński
+    translators:
+      - Jan Aleksandrowicz
     year: 1983
     language: Polish
     sources:
@@ -63813,6 +64399,7 @@ titles:
   - title: Jedność miejsca - noc
     authors:
       - Alba De Céspedes
+    translators:
       - Ewa Fiszer
     year: 1983
     language: Polish
@@ -63970,6 +64557,7 @@ titles:
   - title: Kramer kontra Kramer
     authors:
       - Avery Corman
+    translators:
       - Maria Zborowska
     year: 1983
     language: Polish
@@ -63982,6 +64570,7 @@ titles:
   - title: Kroniki włoskie
     authors:
       - Stendhal
+    translators:
       - Tadeusz Żeleński
     year: 1983
     language: Polish
@@ -64045,6 +64634,7 @@ titles:
   - title: Mafia
     authors:
       - Gábor Gellért
+    translators:
       - Magdalena Schweinitz-Kulisiewicz
     year: 1983
     language: Polish
@@ -64057,6 +64647,7 @@ titles:
   - title: Malarz szyldów
     authors:
       - Razipuram Krishnaswami Narayan
+    translators:
       - Wacław Niepokólczycki
     year: 1983
     language: Polish
@@ -64188,6 +64779,7 @@ titles:
   - title: Moralność i wiara
     authors:
       - Kai Nielsen
+    translators:
       - Zenobia Skwirczyńska-Masny
     year: 1983
     language: Polish
@@ -64284,6 +64876,7 @@ titles:
     subtitle: Zarys historyczny
     authors:
       - Heinz Heitzer
+    translators:
       - Edeltrauta Janik
     year: 1983
     language: Polish
@@ -64295,8 +64888,10 @@ titles:
     verified: true
   - title: Nowa organizacja pracy fizycznej
     subtitle: Wzbogacenie zadań i grupy autonomiczne
+    original_title: Nouveau travail manuel
     authors:
       - Daniel Boeri
+    translators:
       - Stanisława Wieczorek
     year: 1983
     language: Polish
@@ -64392,6 +64987,10 @@ titles:
   - title: O socjalistyczną Bułgarię
     authors:
       - Georgi Dimitrov
+    translators:
+      - Franciszek Korwin-Szymanowski
+      - Maria Więckowska
+      - Adam Koseski
     year: 1983
     language: Polish
     pages: 337
@@ -64430,6 +65029,7 @@ titles:
     subtitle: Japonia w latach wojny
     authors:
       - Robert Guillain
+    translators:
       - Adam Galica
     year: 1983
     language: Polish
@@ -64537,6 +65137,7 @@ titles:
   - title: Opowieści małżeńskie
     authors:
       - Edith Wharton
+    translators:
       - Ariadna Demkowska-Bohdziewicz
     year: 1983
     language: Polish
@@ -64753,6 +65354,7 @@ titles:
         url: https://search.worldcat.org/title/835923869
     verified: true
   - title: Pół wieku
+    original_title: Pół wieku
     authors:
       - Jerzy Putrament
     year: 1983
@@ -64817,6 +65419,8 @@ titles:
     subtitle: 'Dziesięć wieków związków politycznych, kulturalnych i gospodarczych = Pologne--France: dix siècles de relations politiques, culturelles et économiques'
     authors:
       - Jan Tomicki
+    editors:
+      - Andrzej Tomczak
     year: 1983
     edition: Wyd. 1
     language: Polish
@@ -64875,6 +65479,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000164892
     verified: true
   - title: Popioły
+    original_title: Popioły
     authors:
       - Stefan Żeromski
     year: 1983
@@ -65176,6 +65781,7 @@ titles:
   - title: Przygody dobrego wojaka Szwejka podczas wojny światowej
     authors:
       - Jaroslav Hašek
+    translators:
       - Paweł Hulka-Laskowski
     year: 1983
     language: Polish
@@ -65428,6 +66034,7 @@ titles:
       - Paddy Chayefsky
       - Sam Hedrin
       - Krzysztof Teodor Toeplitz
+    translators:
       - Maria Zborowska
     year: 1983
     language: Polish
@@ -65632,6 +66239,7 @@ titles:
   - title: Stary
     authors:
       - Ûrij Valentinovič Trifonov
+    translators:
       - Janina Dziarnowska
     year: 1983
     language: Polish
@@ -65714,6 +66322,7 @@ titles:
   - title: Szkice z filozofii i jej historii
     authors:
       - Igor' Sergeevič Narskij
+    translators:
       - Andrzej Boczkowski
     year: 1983
     language: Polish
@@ -65726,6 +66335,7 @@ titles:
   - title: Szlachetna krew
     authors:
       - Ilgiz Kaszafutdinow
+    translators:
       - Adam Pomorski
     year: 1983
     language: Polish
@@ -65739,6 +66349,7 @@ titles:
     subtitle: Z kroniki kosmicznej
     authors:
       - Pëtr Il'ič Klimuk
+    translators:
       - Stanisław Nikoniuk
     year: 1983
     language: Polish
@@ -65751,6 +66362,7 @@ titles:
   - title: Szumią dęby, szumią
     authors:
       - Vladimir Antonovič Krivcov
+    translators:
       - Ewa Leszczyńska
       - Jan Tetter
     year: 1983
@@ -65774,6 +66386,7 @@ titles:
         url: https://search.worldcat.org/title/830242614
     verified: true
   - title: Teoria ekonomiczna ustroju feudalnego
+    original_title: Teoria ekonomiczna ustroju feudalnego
     authors:
       - Witold Kula
     year: 1983
@@ -65828,6 +66441,7 @@ titles:
     subtitle: Opowiadania
     authors:
       - Vladimir Fedorovič Tendrâkov
+    translators:
       - Ziemowit Fedecki
     year: 1983
     language: Polish
@@ -65838,6 +66452,7 @@ titles:
         url: https://search.worldcat.org/title/749473232
     verified: true
   - title: Trudny dialog
+    original_title: Trudny dialog
     authors:
       - Mieczysław F. Rakowski
     year: 1983
@@ -65997,6 +66612,7 @@ titles:
   - title: W biały dzień
     authors:
       - Mihail Ûr'evič Lohvickij
+    translators:
       - Zofia Łapicka
     year: 1983
     language: Polish
@@ -66020,6 +66636,7 @@ titles:
         url: https://search.worldcat.org/title/830242390
     verified: true
   - title: W kręgu Hitlera
+    original_title: W kręgu Hitlera
     authors:
       - Marian Podkowiński
     year: 1983
@@ -66149,7 +66766,8 @@ titles:
     verified: true
   - title: Węgry
     subtitle: Dokumenty i materiały lipiec 1956 - czerwiec 1957
-    authors:
+    authors: []
+    translators:
       - Alicja Małobęcka
       - Eszter Ławnik-Esztényi
     year: 1983
@@ -66174,6 +66792,7 @@ titles:
   - title: Wolna tresura
     authors:
       - Georgij Vital'evič Semenov
+    translators:
       - Aleksander Bogdański
     year: 1983
     language: Polish
@@ -66500,8 +67119,10 @@ titles:
         url: https://search.worldcat.org/title/830242015
     verified: true
   - title: ...Oddajesz na zawsze
+    original_title: ...Otdaeš' navsegda
     authors:
       - Mihail Gerčik
+    translators:
       - Alicja Żukowska
     year: 1984
     language: Polish
@@ -66547,8 +67168,10 @@ titles:
         url: https://search.worldcat.org/title/830244335
     verified: true
   - title: Biały Bim Czarne Ucho
+    original_title: Belyj Bim Černoe uho
     authors:
       - Gavriil Nikolaevič Troepol'skij
+    translators:
       - Wiera Bieńkowska
     year: 1984
     language: Polish
@@ -66612,6 +67235,7 @@ titles:
   - title: Chiński syndrom
     authors:
       - Burton Wohl
+    translators:
       - Maria Zborowska
     year: 1984
     language: Polish
@@ -66624,6 +67248,7 @@ titles:
   - title: Cholera; Srebrne wesele pułkownika Matowa
     authors:
       - Lûdmil Stoânov
+    translators:
       - Liliana Bardijewska
       - Helena Madany
     year: 1984
@@ -66635,8 +67260,10 @@ titles:
         url: https://search.worldcat.org/title/749844034
     verified: true
   - title: Cichy Don
+    original_title: Tihij Don
     authors:
       - Michaił Szołochow
+    translators:
       - Wacław Rogowicz
       - Andrzej Stawar
     year: 1984
@@ -66686,6 +67313,7 @@ titles:
   - title: Cienka czerwona linia
     authors:
       - James Jones
+    translators:
       - Bronisław Zieliński
     year: 1984
     language: Polish
@@ -66710,6 +67338,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=718801741
     verified: true
   - title: Czarny romans
+    original_title: Czarny romans
     authors:
       - Władysław Terlecki
     year: 1984
@@ -66780,6 +67409,7 @@ titles:
   - title: Dewiza Woosterów
     authors:
       - Pelham Grenville Wodehouse
+    translators:
       - Hanna Rowińska
     year: 1984
     language: Polish
@@ -66816,8 +67446,10 @@ titles:
         url: https://search.worldcat.org/title/750878938
     verified: true
   - title: Droga przez mękę
+    original_title: Hoždenie po mukam
     authors:
       - Aleksiej Tołstoj
+    translators:
       - Władysław Broniewski
       - Wacław Rogowicz
     year: 1984
@@ -66883,8 +67515,9 @@ titles:
   - title: Dzieła
     authors:
       - Karl Marx
-      - Julian Maliniak
       - Friedrich Engels
+    translators:
+      - Julian Maliniak
       - Edmund Lipiński
     year: 1984
     language: Polish
@@ -66895,6 +67528,7 @@ titles:
         url: https://search.worldcat.org/title/830204794
     verified: true
   - title: Dzieła wszystkie
+    original_title: Razvitie kapitalizma v Rossii
     authors:
       - Włodzimierz Lenin
     year: 1984
@@ -66923,6 +67557,7 @@ titles:
   - title: Egzamin dojrzałości
     authors:
       - Nikołaj Patoliczew
+    translators:
       - Helena Zatorska
     year: 1984
     language: Polish
@@ -67002,8 +67637,10 @@ titles:
         url: https://search.worldcat.org/title/16887218
     verified: true
   - title: Eugenia Grandet
+    original_title: Eugénie Grandet
     authors:
       - Honoré de Balzac
+    translators:
       - Tadeusz Żeleński
     year: 1984
     language: Polish
@@ -67036,8 +67673,10 @@ titles:
         url: https://search.worldcat.org/title/830250106
     verified: true
   - title: Głupia bajka
+    original_title: Glupaâ skazka
     authors:
       - Evgenij Panteleevič Dubrovin
+    translators:
       - Barbara Miecznicka-Wcisły
     year: 1984
     language: Polish
@@ -67072,6 +67711,7 @@ titles:
     isbn: '8305113981'
     edition: Wyd. 1
   - title: Granica
+    original_title: Granica
     authors:
       - Zofia Nałkowska
       - Hanna Kirchner
@@ -67130,6 +67770,7 @@ titles:
     series: Koliber; 80
     authors:
       - Eugène Dabit
+    translators:
       - Danuta Knysz-Tomaszewska
     year: 1984
     language: Polish
@@ -67142,8 +67783,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1944588353
     verified: true
   - title: Imię twoje
+    original_title: Imâ tvoe
     authors:
       - Petr Lukič Proskurin
+    translators:
       - Janina Dziarnowska
       - Marta Tywonek
     year: 1984
@@ -67158,6 +67801,7 @@ titles:
     authors:
       - Todor Dimitrov Pavlov
       - Tadeusz Maciej Jaroszewski
+    translators:
       - Zygmunt K. Tarłowski
     year: 1984
     language: Polish
@@ -67170,6 +67814,7 @@ titles:
   - title: Jak hartowała się stal
     authors:
       - Nikolaj Alekseevič Ostrovskij
+    translators:
       - Wacław Rogowicz
     year: 1984
     language: Polish
@@ -67311,6 +67956,7 @@ titles:
   - title: Koncesja opatrzności
     authors:
       - Guy Croussy
+    translators:
       - Ewa Fiszer
     year: 1984
     language: Polish
@@ -67346,6 +67992,7 @@ titles:
   - title: Kontynuacja i odnawianie się
     authors:
       - György Aczél
+    translators:
       - Tomasz Kulisiewicz
     year: 1984
     language: Polish
@@ -67485,6 +68132,7 @@ titles:
   - title: Mafia
     authors:
       - Gábor Gellért
+    translators:
       - Magdalena Schweinitz-Kulisiewicz
     year: 1984
     language: Polish
@@ -67519,6 +68167,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991090595599705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Materializm a empiriokrytycyzm
+    original_title: Materializm i èmpiriokriticizm
     authors:
       - Włodzimierz Lenin
     year: 1984
@@ -67687,6 +68336,7 @@ titles:
   - title: Niespodzianki
     authors:
       - Roald Dahl
+    translators:
       - Ariadna Demkowska-Bohdziewicz
     year: 1984
     language: Polish
@@ -67710,6 +68360,7 @@ titles:
   - title: Nieznany
     authors:
       - Mihail Ûr'evič Lohvickij
+    translators:
       - Ewa Niepokólczycka
     year: 1984
     language: Polish
@@ -67781,6 +68432,8 @@ titles:
     subtitle: Artykuły i przemówienia
     authors:
       - Władysław Gomułka
+    editors:
+      - Mieczysław Tomala
     year: 1984
     edition: Wyd. 3., popr. i uzup
     language: Polish
@@ -68031,6 +68684,8 @@ titles:
   - title: Pamiętnik
     authors:
       - Maria Bohuszewiczówna
+    editors:
+      - Dionizja Wawrzykowska-Wierciochowa
     year: 1984
     edition: Wyd. 1
     language: Polish
@@ -68060,6 +68715,7 @@ titles:
         url: https://www.gutenberg.org/ebooks/31536
   - title: Pan Tadeusz, czyli, ostatni zajazd na Litwie
     subtitle: 'Historia szlachecka z roku 1811 i 1812: we dwunastu księgach wierszem'
+    original_title: Pan Tadeusz
     authors:
       - Adam Mickiewicz
     year: 1984
@@ -68098,8 +68754,10 @@ titles:
         url: https://search.worldcat.org/title/830232611
     verified: true
   - title: Piotr Pierwszy
+    original_title: Petr Pervyj
     authors:
       - Aleksiej Tołstoj
+    translators:
       - Andrzej Stawar
     year: 1984
     language: Polish
@@ -68129,8 +68787,10 @@ titles:
         url: https://search.worldcat.org/title/750986410
     verified: true
   - title: Planowanie socjalistyczne a kapitalistyczne programowanie
+    original_title: Socjalističeskoe planirovanie i kapitaličeskoe programmirovanie
     authors:
       - Ûrij Mihajlovič Švyrkov
+    translators:
       - Irena Nomańczukowa
     year: 1984
     language: Polish
@@ -68450,6 +69110,7 @@ titles:
   - title: Problemy pracy aparatu partyjnego i państwowego
     authors:
       - Konstantin Ustinovič Černenko
+    translators:
       - Urszula Drożdż
       - Krystyna Jaśkiewicz
     year: 1984
@@ -68582,6 +69243,7 @@ titles:
   - title: Przepych kolibra
     authors:
       - Peter De Vries
+    translators:
       - Julita Wroniak-Mirkowicz
     year: 1984
     language: Polish
@@ -68602,6 +69264,7 @@ titles:
     verified: true
   - title: Ptasi gościniec
     subtitle: Babie lato
+    original_title: Ptasi gościniec
     authors:
       - Halina Auderska
     year: 1984
@@ -68674,6 +69337,7 @@ titles:
       - Razipuram Krishnaswami Narayan
       - Maria Krzysztof Byrski
       - Mieczysław Wasilewski
+    translators:
       - Kalina Wojciechowska
     year: 1984
     language: Polish
@@ -68757,10 +69421,11 @@ titles:
   - title: Religia i ja
     series: Światopoglądy
     authors:
-      - Amelia Kurlandzka
       - Tadeusz Kotarbiński
       - Leopold Infeld
       - Bertrand Russell
+    translators:
+      - Amelia Kurlandzka
     year: 1984
     language: Polish
     sources:
@@ -68917,8 +69582,9 @@ titles:
   - title: Słowa i rzeczy czyli Nie pozbawiona analizy krytyka filozofii lingwistycznej
     authors:
       - Ernest Gellner
-      - Teresa Hołówka
       - Bertrand Russell
+    translators:
+      - Teresa Hołówka
     year: 1984
     language: Polish
     sources:
@@ -69004,8 +69670,10 @@ titles:
         url: https://search.worldcat.org/title/749449714
     verified: true
   - title: Sprzedane lata
+    original_title: Parduotos vasaros
     authors:
       - Juozas Baltušis
+    translators:
       - Zofia Łapicka
     year: 1984
     language: Polish
@@ -69052,6 +69720,7 @@ titles:
   - title: Synowa
     authors:
       - Georgi Karaslavov
+    translators:
       - Zofia Wolnik
     year: 1984
     language: Polish
@@ -69150,6 +69819,7 @@ titles:
   - title: Trylogia o Miriam
     authors:
       - Aimée Beekman
+    translators:
       - Aleksander Bogdański
     year: 1984
     language: Polish
@@ -69229,6 +69899,7 @@ titles:
   - title: Urbanizacja w krajach socjalistycznych
     authors:
       - Jiří Musil
+    translators:
       - Květa Król
     year: 1984
     language: Polish
@@ -69525,6 +70196,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000673218
     verified: true
   - title: Wolność odmówiona?
+    original_title: Mity i rzeczywistość literacka
     authors:
       - Jan Górec-Rosiński
     year: 1984
@@ -69855,6 +70527,7 @@ titles:
     subtitle: Opowiadania
     authors:
       - Nadine Gordimer
+    translators:
       - Agnieszka Glinczanka
       - Blanka Kuczborska
       - Piotr Niklewicz
@@ -70142,8 +70815,10 @@ titles:
         url: https://search.worldcat.org/title/749797879
     verified: true
   - title: Blisko domu
+    original_title: Close to home
     authors:
       - Erskine Caldwell
+    translators:
       - Kazimierz Piotrowski
     year: 1985
     language: Polish
@@ -70156,9 +70831,10 @@ titles:
   - title: Brzydkie kaczątko i inne baśnie
     authors:
       - Hans Christian Andersen
+      - Anna Malanowska
+    translators:
       - Stefania Beylin
       - Jarosław Iwaszkiewicz
-      - Anna Malanowska
       - Stanisław Sawicki
     year: 1985
     language: Polish
@@ -70195,6 +70871,7 @@ titles:
   - title: Cena węgla
     authors:
       - Barry Hines
+    translators:
       - Robert Ginalski
     year: 1985
     language: Polish
@@ -70216,6 +70893,7 @@ titles:
         url: https://search.worldcat.org/title/830183392
     verified: true
   - title: Cham
+    original_title: Cham
     authors:
       - Eliza Orzeszkowa
     year: 1985
@@ -70233,10 +70911,12 @@ titles:
         url: https://search.worldcat.org/title/835911528
     verified: true
   - title: Chatka Puchatka
+    original_title: House at Pooh Corner
     authors:
       - A. A. Milne
-      - Irena Tuwim
       - Ernest H. Shepard
+    translators:
+      - Irena Tuwim
     year: 1985
     language: Polish
     sources:
@@ -70291,6 +70971,7 @@ titles:
     subtitle: Wielka przygoda młodości
     authors:
       - Henryk Kabat
+    translators:
       - Andrzej Gradziuk
       - Jadwiga Grabowska
       - Betty Przybylska
@@ -70444,6 +71125,7 @@ titles:
     authors:
       - Tat'jana Makarova
       - Gennadij Dmitrievič Pavlišyn
+    translators:
       - Danuta Wawiłow
     year: 1985
     language: Polish
@@ -70538,6 +71220,7 @@ titles:
   - title: Historia Manon Lescaut i kawalera des Grieux
     authors:
       - Antoine François Prévost
+    translators:
       - Tadeusz Żeleński
     year: 1985
     language: Polish
@@ -70550,6 +71233,8 @@ titles:
   - title: Historia polskiego ruchu robotniczego
     authors:
       - Marian Orzechowski
+    editors:
+      - Ryszard Kołodziejczyk
     year: 1985
     edition: Wyd. 1
     language: Polish
@@ -70655,6 +71340,7 @@ titles:
     authors:
       - Aleksiej Tołstoj
       - Evgenij Mihajlovič Račev
+    translators:
       - Irena Tuwim
     year: 1985
     language: Polish
@@ -70749,6 +71435,7 @@ titles:
   - title: Król szczurów
     authors:
       - James Clavell
+    translators:
       - Małgorzata Grabowska
       - Andrzej Grabowski
     year: 1985
@@ -70762,8 +71449,9 @@ titles:
   - title: Królowa Śniegu i inne baśnie
     authors:
       - Hans Christian Andersen
-      - Stefania Beylin
       - Anna Malanowska
+    translators:
+      - Stefania Beylin
       - Stanisław Sawicki
     year: 1985
     language: Polish
@@ -70776,6 +71464,7 @@ titles:
   - title: Krople deszczu
     authors:
       - Paul Kuusberg
+    translators:
       - Zofia Łapicka
     year: 1985
     language: Polish
@@ -70786,8 +71475,10 @@ titles:
         url: https://search.worldcat.org/title/749815520
     verified: true
   - title: Księżna de Clèves
+    original_title: Princesse de Clèves
     authors:
       - Marie-Madeleine Pioche de La Vergne La Fayette
+    translators:
       - Tadeusz Żeleński
     year: 1985
     language: Polish
@@ -70812,6 +71503,7 @@ titles:
     authors:
       - A. A. Milne
       - Ernest H. Shepard
+    translators:
       - Irena Tuwim
     year: 1985
     language: Polish
@@ -70905,8 +71597,10 @@ titles:
         url: https://search.worldcat.org/title/995365924
     verified: true
   - title: Los człowieka
+    original_title: Sudʹba čeloveka
     authors:
       - Michaił Szołochow
+    translators:
       - Irena Piotrowska
     year: 1985
     language: Polish
@@ -70928,6 +71622,7 @@ titles:
         url: https://search.worldcat.org/title/750785871
     verified: true
   - title: Ludzie bezdomni
+    original_title: Ludzie bezdomni
     authors:
       - Stefan Żeromski
       - Danuta Zawiślan
@@ -70947,6 +71642,7 @@ titles:
   - title: Lustro
     authors:
       - Daniel Boulanger
+    translators:
       - Ewa Fiszer
     year: 1985
     language: Polish
@@ -70957,8 +71653,10 @@ titles:
         url: https://search.worldcat.org/title/750036370
     verified: true
   - title: Matka
+    original_title: Mat'
     authors:
       - Maksim Gorki
+    translators:
       - Halina Górska
     year: 1985
     language: Polish
@@ -71105,6 +71803,7 @@ titles:
   - title: Nowa rzeczywistość i walka idei
     authors:
       - Vladimir Dmitrievič Granov
+    translators:
       - Wiesława Olbrych
       - Danuta Stolarek
     year: 1985
@@ -71223,6 +71922,7 @@ titles:
   - title: Obiecała mi matka lekki sen
     authors:
       - András Sütö
+    translators:
       - Hanna Kuźniarska
     year: 1985
     language: Polish
@@ -71272,8 +71972,10 @@ titles:
         url: https://search.worldcat.org/title/749702132
     verified: true
   - title: Opowieść o prawdziwym człowieku
+    original_title: Povestʹ o nastoâŝem čeloveke
     authors:
       - Boris Nikolaevič Polevoj
+    translators:
       - Jerzy Wyszomirski
     year: 1985
     language: Polish
@@ -71333,6 +72035,7 @@ titles:
     verified: true
   - title: Pan Tadeusz czyli Ostatni Zajazd na Litwie
     subtitle: Historia szlachecka z roku 1811 i 1812 we dwunastu księgach wierszem
+    original_title: Pan Tadeusz
     authors:
       - Adam Mickiewicz
       - Michał Elwiro Andriolli
@@ -71390,8 +72093,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/006067929
     verified: true
   - title: Piotr Pierwszy
+    original_title: Petr Pervyj
     authors:
       - Aleksiej Tołstoj
+    translators:
       - Andrzej Stawar
     year: 1985
     language: Polish
@@ -71416,6 +72121,7 @@ titles:
     subtitle: Opowiadania
     authors:
       - Aleksiej Tołstoj
+    translators:
       - Alla Sarahanova
     year: 1985
     language: Polish
@@ -71465,6 +72171,7 @@ titles:
         url: https://search.worldcat.org/title/830183814
     verified: true
   - title: Pół wieku
+    original_title: Pół wieku
     authors:
       - Jerzy Putrament
     year: 1985
@@ -71609,8 +72316,11 @@ titles:
         url: https://search.worldcat.org/title/830185392
     verified: true
   - title: Potępienie Paganiniego
+    original_title: Osuždenie Paganini
     authors:
       - Anatoliĭ Vinogradov
+    translators:
+      - Włodzimierz Słobodnik
     year: 1985
     edition: Wyd. 8
     language: Polish
@@ -71760,8 +72470,10 @@ titles:
         url: https://search.worldcat.org/title/830181252
     verified: true
   - title: Profesorowie
+    original_title: Profesoři
     authors:
       - Ota Dub
+    translators:
       - Edward Madany
     year: 1985
     language: Polish
@@ -71820,10 +72532,12 @@ titles:
         url: https://search.worldcat.org/title/835913696
     verified: true
   - title: Przygody dobrego wojaka Szwejka podczas wojny światowej
+    original_title: Osudy dobrého vojáka Švejka za světové války
     authors:
       - Jaroslav Hašek
-      - Paweł Hulka-Laskowski
       - Czesław Madany
+    translators:
+      - Paweł Hulka-Laskowski
     year: 1985
     language: Polish
     sources:
@@ -71981,6 +72695,7 @@ titles:
   - title: Raz, dwa, trzy ...
     authors:
       - Aleksej Mihajlovič Laptev
+    translators:
       - Natalia Usenko
       - Danuta Wawiłow
     year: 1985
@@ -72100,6 +72815,7 @@ titles:
     subtitle: Opowiadania
     authors:
       - Anton Straszimirow
+    translators:
       - Krystyna Migdalska
     year: 1985
     language: Polish
@@ -72543,8 +73259,10 @@ titles:
         url: https://search.worldcat.org/title/830193300
     verified: true
   - title: Wielki Gatsby
+    original_title: Great Gatsby
     authors:
       - F. Scott Fitzgerald
+    translators:
       - Ariadna Demkowska-Bohdziewicz
     year: 1985
     language: Polish
@@ -72580,6 +73298,8 @@ titles:
     subtitle: Wybor pism
     authors:
       - Oskar Lange
+    editors:
+      - Mirosław Chałubiński
     year: 1985
     series: Biblioteka polskiej myśli marksistowskiej
     language: Polish
@@ -72697,6 +73417,7 @@ titles:
   - title: Wyścig z czasem
     authors:
       - C. Northcote Parkinson
+    translators:
       - Andrzej Grabowski
     year: 1985
     language: Polish
@@ -72999,6 +73720,7 @@ titles:
   - title: Życie biurowe
     authors:
       - Keith Waterhouse
+    translators:
       - Zofia Kierszys
     year: 1985
     language: Polish
@@ -73010,6 +73732,7 @@ titles:
     verified: true
   - title: Życie na niby
     subtitle: Szkice z lat 1939-1945
+    original_title: Życie na niby
     authors:
       - Kazimierz Wyka
     year: 1985
@@ -73132,8 +73855,10 @@ titles:
     verified: true
   - title: Białe noce
     subtitle: Opowiadania
+    original_title: Belye noči
     authors:
       - Fiodor Dostojewski
+    translators:
       - Gabriel Karski
       - Władysław Broniewski
     year: 1986
@@ -73210,6 +73935,7 @@ titles:
     subtitle: 'Zarys dziejów: praca zbiorowa'
     authors:
       - Ilčo Ivanov Dimitrov
+    translators:
       - Adam Koseski
       - Maria Więckowska
     year: 1986
@@ -73254,9 +73980,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/002120267
     verified: true
   - title: Cierpienia młodego Wertera
+    original_title: Leiden des jungen Werthers
     authors:
       - Johann Wolfgang von Goethe
       - Stefan H. Kaszyński
+    translators:
       - Leopold Staff
     year: 1986
     language: Polish
@@ -73300,6 +74028,8 @@ titles:
     subtitle: Wybór pism
     authors:
       - Ludwik Krzywicki
+    editors:
+      - Janusz Sztumski
     year: 1986
     edition: Wyd. 1
     series: Biblioteka polskiej myśli marksistowskiej
@@ -73349,6 +74079,7 @@ titles:
   - title: Czy zna pan Maronne?
     authors:
       - Daniel Boulanger
+    translators:
       - Ewa Fiszer
     year: 1986
     language: Polish
@@ -73412,6 +74143,10 @@ titles:
   - title: Dokumenty programowe polskiego ruchu robotniczego 1878-1984
     authors:
       - Jędrzej Tucholski
+    editors:
+      - Józef Jakubowski
+      - Aleksander Kochański
+      - Witold Kowalski
     year: 1986
     edition: Wyd. 1
     language: Polish
@@ -73453,8 +74188,10 @@ titles:
         url: https://search.worldcat.org/title/835864394
     verified: true
   - title: Dusza morska
+    original_title: Morskaâ duša
     authors:
       - Leonid Sergeevič Sobolev
+    translators:
       - Aleksander Achmatowicz
     year: 1986
     language: Polish
@@ -73510,6 +74247,7 @@ titles:
   - title: Dzień dłuższy niż stulecie
     authors:
       - Čingiz Ajtmatov
+    translators:
       - Aleksander Bogdański
     year: 1986
     language: Polish
@@ -73576,6 +74314,7 @@ titles:
   - title: Fiasko futurologii
     authors:
       - Georgij Hosroevič Šahnazarov
+    translators:
       - Tadeusz Hanuszek
     year: 1986
     language: Polish
@@ -73638,6 +74377,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/102085305
     verified: true
   - title: Granica
+    original_title: Granica
     authors:
       - Zofia Nałkowska
       - Hanna Kirchner
@@ -73652,6 +74392,7 @@ titles:
   - title: Grek Zorba
     authors:
       - Nikos Kazantzakis
+    translators:
       - Nikos Chadzinikolau
     year: 1986
     language: Polish
@@ -73683,8 +74424,9 @@ titles:
   - title: Historia dyplomacji
     authors:
       - Viktor Nikolaevič Beleckij
-      - Stanisław W. Dobrowolski
       - Andrej Andreevič Gromyko
+    translators:
+      - Stanisław W. Dobrowolski
       - Józef Górski
     year: 1986
     language: Polish
@@ -73832,8 +74574,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1846499364
     verified: true
   - title: Kobieta do zjedzenia
+    original_title: Edible woman
     authors:
       - Margaret Atwood
+    translators:
       - Małgorzata Golewska
     year: 1986
     language: Polish
@@ -74110,6 +74854,7 @@ titles:
   - title: Neokonserwatyzm i nowa prawica
     authors:
       - Béla Köpeczi
+    translators:
       - Eszter Ławnik-Esztényi
     year: 1986
     language: Polish
@@ -74318,6 +75063,7 @@ titles:
     authors:
       - Igor Eršov
       - Ksenja Eršova
+    translators:
       - Danuta Wawiłow
     year: 1986
     language: Polish
@@ -74330,6 +75076,7 @@ titles:
   - title: Opowieść sprzedawcy odpustów
     authors:
       - John Wain
+    translators:
       - Mira Michałowska
     year: 1986
     language: Polish
@@ -74405,6 +75152,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000842686
     verified: true
   - title: Pamiętnik pani Hanki
+    original_title: Pamiętnik pani Hanki
     authors:
       - Tadeusz Dołęga-Mostowicz
       - Bożena Kowalewska
@@ -74422,6 +75170,7 @@ titles:
     verified: true
   - title: Pan Tadeusz czyli Ostatni zajazd na Litwie
     subtitle: Historia szlachecka z roku 1811 i 1812 we dwunastu księgach wierszem
+    original_title: Pan Tadeusz
     authors:
       - Adam Mickiewicz
       - Michał Elwiro Andriolli
@@ -74462,8 +75211,10 @@ titles:
         url: https://search.worldcat.org/title/69339963
     verified: true
   - title: Papież Joanna
+    original_title: Papissa Iōanna
     authors:
       - Emmanuel D. Roides
+    translators:
       - Lefteris Mavroidis
       - Krystyna Usarek
     year: 1986
@@ -74487,8 +75238,10 @@ titles:
         url: https://search.worldcat.org/title/835897598
     verified: true
   - title: Piotr Pierwszy
+    original_title: Petr Pervyj
     authors:
       - Aleksiej Tołstoj
+    translators:
       - Andrzej Stawar
     year: 1986
     language: Polish
@@ -74501,6 +75254,7 @@ titles:
   - title: Podróże doktora Dolittle
     authors:
       - Hugh Lofting
+    translators:
       - Janina Mortkowiczowa
     year: 1986
     language: Polish
@@ -74615,6 +75369,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991018313929705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Pół wieku
+    original_title: Pół wieku
     authors:
       - Jerzy Putrament
     year: 1986
@@ -74864,8 +75619,9 @@ titles:
     authors:
       - Karl Marx
       - Maria Adamska
-      - Zygmunt Bogucki
       - Celina Bobińska
+    translators:
+      - Zygmunt Bogucki
     year: 1986
     language: Polish
     sources:
@@ -74951,6 +75707,7 @@ titles:
     subtitle: (Tragedia udokumentowana)
     authors:
       - Valentin Savvič Pikul'
+    translators:
       - Aleksander Achmatowicz
     year: 1986
     language: Polish
@@ -75302,8 +76059,10 @@ titles:
     verified: true
   - title: Szczyt lata
     subtitle: Próba powieści publicystycznej
+    original_title: Makuška leta
     authors:
       - Nikolaj Pavlovič Voronov
+    translators:
       - Wiesława Zagórska
     year: 1986
     language: Polish
@@ -75342,8 +76101,10 @@ titles:
         url: https://search.worldcat.org/title/835863477
     verified: true
   - title: Tak gorzko płakałeś przez sen
+    original_title: Vo sne ty gor'ko plakal
     authors:
       - Jurij Kazakow
+    translators:
       - Barbara Miecznicka-Wcisły
       - Ewa Niepokólczycka
     year: 1986
@@ -75435,9 +76196,11 @@ titles:
     verified: true
   - title: Trzech grubasów
     subtitle: Opowieść dla dzieci
+    original_title: Tri tolstâka
     authors:
       - Ûrij Karlovič Oleša
       - Boris M. Kalaušin
+    translators:
       - Ryszard Nowakowski
     year: 1986
     language: Polish
@@ -75535,6 +76298,7 @@ titles:
   - title: W drodze do raju
     authors:
       - Rudol'f Ivanovič Ârancev
+    translators:
       - Zofia Łapicka
     year: 1986
     language: Polish
@@ -75545,6 +76309,7 @@ titles:
         url: https://search.worldcat.org/title/749335827
     verified: true
   - title: W kręgu Enigmy
+    original_title: W kręgu Enigmy
     authors:
       - Władysław Kozaczuk
       - Marian Rejewski
@@ -75574,6 +76339,7 @@ titles:
         url: https://search.worldcat.org/title/835852403
     verified: true
   - title: Wampir
+    original_title: Wampir
     authors:
       - Władysław Stanisław Reymont
     year: 1986
@@ -75636,6 +76402,7 @@ titles:
   - title: Wianek
     authors:
       - Sigrid Undset
+    translators:
       - Wanda Kragen
     year: 1986
     language: Polish
@@ -75660,8 +76427,9 @@ titles:
     subtitle: Niezwykła biografia Armanda Hammera
     authors:
       - Bob Considine
-      - Krystyna Morow
       - Galina Sullivan
+    translators:
+      - Krystyna Morow
     year: 1986
     language: Polish
     sources:
@@ -76039,8 +76807,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1437053254
     verified: true
   - title: Zarys krytyki ekonomii politycznej
+    original_title: Grundrisse der Kritik der politischen Ökonomie
     authors:
       - Karl Marx
+    translators:
       - Zygmunt Jan Wyrozembski
     year: 1986
     language: Polish
@@ -76073,8 +76843,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/101906685
     verified: true
   - title: Zmartwychwstanie
+    original_title: Voskresenie
     authors:
       - Lew Tołstoj
+    translators:
       - Wacław Rogowicz
     year: 1986
     language: Polish
@@ -76106,6 +76878,7 @@ titles:
   - title: Żywa woda
     authors:
       - Vladimir Nikolaevič Krupin
+    translators:
       - Wiesława Karaczewska
     year: 1986
     language: Polish
@@ -76153,6 +76926,7 @@ titles:
   - title: Anna Karenina
     authors:
       - Lew Tołstoj
+    translators:
       - Kazimiera Iłłakowiczówna
     year: 1987
     language: Polish
@@ -76177,8 +76951,9 @@ titles:
   - title: Bajki
     authors:
       - Aleksander Puszkin
-      - Jan Brzechwa
       - Stanislav Romanovič Kovalev
+    translators:
+      - Jan Brzechwa
     year: 1987
     language: Polish
     sources:
@@ -76310,9 +77085,11 @@ titles:
         url: https://search.worldcat.org/title/834841480
     verified: true
   - title: Chatka Puchatka
+    original_title: House at Pooh Corner
     authors:
       - A. A. Milne
       - Ernest H. Shepard
+    translators:
       - Irena Tuwim
     year: 1987
     language: Polish
@@ -76360,6 +77137,7 @@ titles:
     authors:
       - Hugh Lofting
       - Maryla Mikiewicz-Poreyko
+    translators:
       - Janina Mortkowiczowa
     year: 1987
     language: Polish
@@ -76372,6 +77150,7 @@ titles:
   - title: Czas wesela
     authors:
       - Vladimir Vladimirovič Ličutin
+    translators:
       - Ewa Niepokólczycka
     year: 1987
     language: Polish
@@ -76449,6 +77228,7 @@ titles:
   - title: Dnie i noce miłości i wojny
     authors:
       - Eduardo H. Galeano
+    translators:
       - Maria Dembowska
     year: 1987
     language: Polish
@@ -76461,8 +77241,9 @@ titles:
   - title: Doktor Dolittle i jego zwierzęta
     authors:
       - Hugh Lofting
-      - Wanda Kragen
       - Maryla Mikiewicz-Poreyko
+    translators:
+      - Wanda Kragen
     year: 1987
     language: Polish
     sources:
@@ -76544,8 +77325,10 @@ titles:
         url: https://search.worldcat.org/title/69294136
     verified: true
   - title: Dzieje Tristana i Izoldy
+    original_title: Roman de Tristan et Iseut
     authors:
       - Joseph Bédier
+    translators:
       - Tadeusz Żeleński
     year: 1987
     language: Polish
@@ -76605,6 +77388,7 @@ titles:
   - title: Dziesięć dni, które wstrząsnęły światem
     authors:
       - John Reed
+    translators:
       - Wiktor Grosz
     year: 1987
     language: Polish
@@ -76631,6 +77415,7 @@ titles:
     subtitle: Przygody istoty pozaziemskiej na Ziemi
     authors:
       - William Kotzwinkle
+    translators:
       - Maria Zborowska
     year: 1987
     language: Polish
@@ -76678,8 +77463,10 @@ titles:
         url: https://search.worldcat.org/title/834082162
     verified: true
   - title: Eugenia Grandet
+    original_title: Eugénie Grandet
     authors:
       - Honoré de Balzac
+    translators:
       - Tadeusz Żeleński
     year: 1987
     language: Polish
@@ -76703,6 +77490,7 @@ titles:
   - title: Gawędziarz
     authors:
       - Alan Sillitoe
+    translators:
       - Tomasz Mirkowicz
     year: 1987
     language: Polish
@@ -76798,8 +77586,9 @@ titles:
   - title: Jules i Jim
     authors:
       - Henri-Pierre Roché
-      - Agnieszka Daniłowicz-Grudzińska
       - Danuta Knysz-Tomaszewska
+    translators:
+      - Agnieszka Daniłowicz-Grudzińska
     year: 1987
     language: Polish
     sources:
@@ -76842,8 +77631,11 @@ titles:
     verified: true
   - title: Kłamałem, aby żyć
     subtitle: Pamiętnik roku niewoli
+    original_title: Kłamałem, aby żyć
     authors:
       - Aleksander Janta
+    editors:
+      - Witold Stankiewicz
     year: 1987
     edition: Wyd. 2
     language: Polish
@@ -76941,8 +77733,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/006794720
     verified: true
   - title: Komu bije dzwon
+    original_title: For whom the bell tolls
     authors:
       - Ernest Hemingway
+    translators:
       - Bronisław Zieliński
     year: 1987
     language: Polish
@@ -76992,6 +77786,7 @@ titles:
   - title: Król szczurów
     authors:
       - James Clavell
+    translators:
       - Małgorzata Grabowska
       - Andrzej Grabowski
     year: 1987
@@ -77005,8 +77800,9 @@ titles:
   - title: Królowa Śniegu i inne baśnie
     authors:
       - Hans Christian Andersen
-      - Stefania Beylin
       - Anna Malanowska
+    translators:
+      - Stefania Beylin
       - Stanisław Sawicki
     year: 1987
     language: Polish
@@ -77037,8 +77833,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/006704855
     verified: true
   - title: Krystyna córka Lavransa
+    original_title: Kransen
     authors:
       - Sigrid Undset
+    translators:
       - Wanda Kragen
     year: 1987
     language: Polish
@@ -77085,8 +77883,10 @@ titles:
         url: https://search.worldcat.org/title/749400938
     verified: true
   - title: Kubuś Fatalista i jego pan
+    original_title: Jacques le Fataliste et son Maître
     authors:
       - Denis Diderot
+    translators:
       - Tadeusz Żeleński
     year: 1987
     language: Polish
@@ -77097,9 +77897,11 @@ titles:
         url: https://search.worldcat.org/title/750866665
     verified: true
   - title: Kubuś Puchatek
+    original_title: Winnie the Pooh
     authors:
       - A. A. Milne
       - Ernest H. Shepard
+    translators:
       - Irena Tuwim
     year: 1987
     language: Polish
@@ -77135,6 +77937,7 @@ titles:
   - title: Listy z Ziemi
     authors:
       - Mark Twain
+    translators:
       - Juliusz Kydryński
     year: 1987
     language: Polish
@@ -77145,9 +77948,11 @@ titles:
         url: https://search.worldcat.org/title/749328779
     verified: true
   - title: Los człowieka
+    original_title: Sudʹba čeloveka
     series: Koliber; 91
     authors:
       - Michaił Szołochow
+    translators:
       - Irena Piotrowska
     year: 1987
     language: Polish
@@ -77163,6 +77968,7 @@ titles:
     authors:
       - Samuil Âkovlevič Maršak
       - Evgenij Ivanovič Čarušin
+    translators:
       - Danuta Wawiłow
     year: 1987
     language: Polish
@@ -77315,6 +78121,7 @@ titles:
     subtitle: (Autobiografia)
     authors:
       - Razipuram Krishnaswami Narayan
+    translators:
       - Zdzisław Reszelewski
     year: 1987
     language: Polish
@@ -77509,6 +78316,7 @@ titles:
   - title: Odblask ognia
     authors:
       - Ûrij Valentinovič Trifonov
+    translators:
       - Janina Dziarnowska
     year: 1987
     language: Polish
@@ -77619,8 +78427,11 @@ titles:
     isbn: '8305112918'
     edition: Wyd. 1
   - title: Pamiętnik Dawida Rubinowicza
+    original_title: Pamiętnik Dawida Rubinowicza
     authors:
       - Dawid Rubinowicz
+    editors:
+      - Zygmunt Hoffman
     year: 1987
     edition: Wyd. 2
     language: Polish
@@ -77639,6 +78450,7 @@ titles:
     verified: true
   - title: Pan Tadeusz czyli Ostatni zajazd na Litwie
     subtitle: Historia szlachecka z roku 1811 i 1812 we dwunastu księgach wierszem
+    original_title: Pan Tadeusz
     authors:
       - Adam Mickiewicz
       - Michał Elwiro Andriolli
@@ -77653,6 +78465,7 @@ titles:
   - title: Pejzaż
     authors:
       - Daniił Granin
+    translators:
       - Henryka Broniatowska
     year: 1987
     language: Polish
@@ -77980,6 +78793,8 @@ titles:
     subtitle: Uchwalony przez X Zjazd PZPR w lipcu 1986 r
     authors:
       - Polska Zjednoczona Partia Robotnicza. Zjazd
+    editors:
+      - Izabela Kwasiborska
     year: 1987
     language: Polish
     pages: 207
@@ -78133,6 +78948,7 @@ titles:
   - title: Przyszedłem dać wam wolność
     authors:
       - Wasilij Szukszyn
+    translators:
       - Janina Dziarnowska
     year: 1987
     language: Polish
@@ -78144,9 +78960,10 @@ titles:
     verified: true
   - title: Raporty Ludwiga Fischera gubernatora Dystryktu Warszawskiego 1939-1944
     authors:
+      - Krzysztof Dunin-Wąsowicz
+    translators:
       - Maryla Borkowicz
       - Władysław Czepulis
-      - Krzysztof Dunin-Wąsowicz
       - Jan Kosim
     year: 1987
     language: Polish
@@ -78252,8 +79069,10 @@ titles:
         url: https://search.worldcat.org/title/834723725
     verified: true
   - title: Saga rodu Forsyte'ów
+    original_title: Man of property
     authors:
       - John Galsworthy
+    translators:
       - Róża Centnerszwerowa
     year: 1987
     language: Polish
@@ -78284,6 +79103,8 @@ titles:
   - title: Skrzydlata dywizja
     authors:
       - Eugeniusz Banaszczyk
+    editors:
+      - Rada Ochrony Pomników Walki i Męczeństwa (Poland)
     year: 1987
     language: Polish
     sources:
@@ -78318,6 +79139,7 @@ titles:
     series: Koliber; 100
     authors:
       - Lew Tołstoj
+    translators:
       - Eleonora Słobodnikowa
       - Maria Leśniewska
     year: 1987
@@ -78333,6 +79155,7 @@ titles:
   - title: Sorge
     authors:
       - Robert Guillain
+    translators:
       - Adam Galica
     year: 1987
     language: Polish
@@ -78497,8 +79320,9 @@ titles:
     subtitle: Bajki hiszpańskie
     authors:
       - Carmen Ruíz Bravo-Villasante
-      - Marceli Minc
       - Małgorzata Piotrowska-Drab
+    translators:
+      - Marceli Minc
     year: 1987
     language: Polish
     sources:
@@ -78604,6 +79428,7 @@ titles:
   - title: Waszyngton za zamkniętymi drzwiami
     authors:
       - John Ehrlichman
+    translators:
       - Barbara Hollender
     year: 1987
     language: Polish
@@ -78697,8 +79522,10 @@ titles:
         url: https://search.worldcat.org/title/835861953
     verified: true
   - title: Wynurzenie
+    original_title: Surfacing
     authors:
       - Margaret Atwood
+    translators:
       - Jolanta Plakwicz
       - Teresa Poniatowska
     year: 1987
@@ -78712,6 +79539,7 @@ titles:
   - title: Wyspa Pingwinów
     authors:
       - Anatole France
+    translators:
       - Jan Sten
     year: 1987
     language: Polish
@@ -78778,8 +79606,9 @@ titles:
     subtitle: 1917-1977
     authors:
       - Ivan Ivanovič Kostûško
-      - Euzebiusz Basiński
       - Ludwik Bazylow
+    translators:
+      - Euzebiusz Basiński
     year: 1987
     language: Polish
     sources:
@@ -78840,6 +79669,7 @@ titles:
   - title: Zawodowy antykomunizm
     authors:
       - Èrnst Genri
+    translators:
       - Wiesława Olbrych
       - Mirosława Wierzbicka
     year: 1987
@@ -78865,6 +79695,7 @@ titles:
     subtitle: Opowiadania
     authors:
       - Boris Pilniak
+    translators:
       - Janina Dziarnowska
     year: 1988
     language: Polish
@@ -78971,6 +79802,7 @@ titles:
     subtitle: Opowiadania
     authors:
       - Susan Hill
+    translators:
       - Ewa Fiszer
       - Danuta Kozicka
       - Małgorzata Targowska-Grabińska
@@ -79030,6 +79862,7 @@ titles:
   - title: Biała małpa
     authors:
       - John Galsworthy
+    translators:
       - Zofia Lasocka
     year: 1988
     language: Polish
@@ -79040,8 +79873,10 @@ titles:
         url: https://search.worldcat.org/title/835033102
     verified: true
   - title: Blisko domu
+    original_title: Close to home
     authors:
       - Erskine Caldwell
+    translators:
       - Kazimierz Piotrowski
     year: 1988
     language: Polish
@@ -79054,6 +79889,7 @@ titles:
   - title: Borgiowie
     authors:
       - Roberto Gervaso
+    translators:
       - Janina Perlin
     year: 1988
     language: Polish
@@ -79066,9 +79902,10 @@ titles:
   - title: Brzydkie kaczątko i inne baśnie
     authors:
       - Hans Christian Andersen
+      - Anna Malanowska
+    translators:
       - Stefania Beylin
       - Jarosław Iwaszkiewicz
-      - Anna Malanowska
       - Stanisław Sawicki
     year: 1988
     language: Polish
@@ -79080,8 +79917,10 @@ titles:
     verified: true
   - title: Buddenbrookowie
     subtitle: Dzieje upadku rodziny
+    original_title: Buddenbrooks
     authors:
       - Thomas Mann
+    translators:
       - Zofia Kania
       - Ewa Librowiczowa
     year: 1988
@@ -79099,8 +79938,9 @@ titles:
   - title: Calineczka i inne baśnie
     authors:
       - Hans Christian Andersen
-      - Stefania Beylin
       - Anna Malanowska
+    translators:
+      - Stefania Beylin
       - Stanisław Sawicki
     year: 1988
     language: Polish
@@ -79114,6 +79954,7 @@ titles:
     authors:
       - A. A. Milne
       - Ernest H. Shepard
+    translators:
       - Irena Tuwim
     year: 1988
     language: Polish
@@ -79127,6 +79968,7 @@ titles:
     subtitle: Wybór prac z lat 1956-1987
     authors:
       - Xiaoping Deng
+    translators:
       - Zdzisław Góralczyk
     year: 1988
     language: Polish
@@ -79151,6 +79993,7 @@ titles:
     authors:
       - Hugh Lofting
       - Maryla Mikiewicz-Poreyko
+    translators:
       - Janina Mortkowiczowa
     year: 1988
     language: Polish
@@ -79174,6 +80017,8 @@ titles:
   - title: Czerwone i czarne
     authors:
       - Stendhal
+    translators:
+      - Tadeusz Żeleński
     year: 1988
     edition: Wyd. 15
     language: Polish
@@ -79261,8 +80106,9 @@ titles:
   - title: Doktor Dolittle i jego zwierzęta
     authors:
       - Hugh Lofting
-      - Wanda Kragen
       - Maryla Mikiewicz-Poreyko
+    translators:
+      - Wanda Kragen
     year: 1988
     language: Polish
     sources:
@@ -79343,6 +80189,8 @@ titles:
   - title: Ekonomia polityczna kapitalizmu
     authors:
       - Józef Nowicki
+    translators:
+      - Janina Dziembowska
     year: 1988
     edition: Wyd. 1
     language: Polish
@@ -79564,8 +80412,10 @@ titles:
     verified: true
   - title: Kolęda
     subtitle: Świerszcz za kominem
+    original_title: Christmas carol
     authors:
       - Charles Dickens
+    translators:
       - Krystyna Tarnowska
     year: 1988
     language: Polish
@@ -79605,8 +80455,9 @@ titles:
   - title: Konik Garbusek
     authors:
       - Piotr Jerszow
-      - Igor Sikirycki
       - Jan Marcin Szancer
+    translators:
+      - Igor Sikirycki
     year: 1988
     language: Polish
     sources:
@@ -79619,6 +80470,8 @@ titles:
     subtitle: Wybór aktów prawnych z zakresu prawa konstytucyjnego
     authors:
       - Poland
+    editors:
+      - Janusz Mordwiłko
     year: 1988
     edition: Wyd. 1
     language: Polish
@@ -79684,6 +80537,7 @@ titles:
   - title: Krystyna córka Lavransa
     authors:
       - Sigrid Undset
+    translators:
       - Wanda Kragen
     year: 1988
     language: Polish
@@ -79715,6 +80569,7 @@ titles:
   - title: Księga dżungli
     authors:
       - Rudyard Kipling
+    translators:
       - Józef Birkenmajer
     year: 1988
     language: Polish
@@ -79725,9 +80580,11 @@ titles:
         url: https://search.worldcat.org/title/835013507
     verified: true
   - title: Lampart
+    original_title: Gattopardo
     authors:
       - Giuseppe Tomasi di Lampedusa
       - Domenico Caccamo
+    translators:
       - Zofia Ernst
     year: 1988
     language: Polish
@@ -79740,6 +80597,7 @@ titles:
   - title: Lata dzieciństwa
     authors:
       - Jona Oberski
+    translators:
       - Zofia Klimaszewska
     year: 1988
     language: Polish
@@ -79779,6 +80637,7 @@ titles:
   - title: Marnotrawne dziecko
     authors:
       - David Storey
+    translators:
       - Maria Zborowska
     year: 1988
     language: Polish
@@ -79791,8 +80650,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991071818939705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Martin Eden
+    original_title: Martin Eden
     authors:
       - Jack London
+    translators:
       - Zygmunt Glinka
     year: 1988
     language: Polish
@@ -79870,6 +80731,7 @@ titles:
     subtitle: Łabędzi śpiew
     authors:
       - John Galsworthy
+    translators:
       - Tadeusz Jakubowicz
       - Wanda Kragen
     year: 1988
@@ -79884,6 +80746,7 @@ titles:
     subtitle: Srebrna łyżka
     authors:
       - John Galsworthy
+    translators:
       - Tadeusz Jakubowicz
       - Krystyna Czerwijowska
     year: 1988
@@ -79946,8 +80809,10 @@ titles:
         url: https://search.worldcat.org/title/835018789
     verified: true
   - title: Na giełdzie Forsyte'ów
+    original_title: On Forsyte 'change
     authors:
       - John Galsworthy
+    translators:
       - Tadeusz Jakubowicz
     year: 1988
     language: Polish
@@ -79959,6 +80824,7 @@ titles:
     verified: true
   - title: Na wsi wesele
     subtitle: Opowiadania
+    original_title: Na wsi wesele
     authors:
       - Maria Dąbrowska
     year: 1988
@@ -80229,6 +81095,7 @@ titles:
     subtitle: Japonia w latach wojny
     authors:
       - Robert Guillain
+    translators:
       - Adam Galica
     year: 1988
     language: Polish
@@ -80283,8 +81150,9 @@ titles:
   - title: Opowieści tajemnicze
     authors:
       - Iwan Turgieniew
-      - Maria Brzozowska
       - Antoni Semczuk
+    translators:
+      - Maria Brzozowska
     year: 1988
     language: Polish
     sources:
@@ -80331,6 +81199,7 @@ titles:
   - title: Ostatni z wielkich
     authors:
       - F. Scott Fitzgerald
+    translators:
       - Ariadna Demkowska-Bohdziewicz
     year: 1988
     language: Polish
@@ -80355,6 +81224,7 @@ titles:
     verified: true
   - title: Pan Tadeusz czyli Ostatni zajazd na Litwie
     subtitle: Historia szlachecka z roku 1811 i 1812 we dwunastu księgach wierszem
+    original_title: Pan Tadeusz
     authors:
       - Adam Mickiewicz
       - Michał Elwiro Andriolli
@@ -80485,6 +81355,7 @@ titles:
     authors:
       - Hugh Lofting
       - Maryla Mikiewicz-Poreyko
+    translators:
       - Janina Mortkowiczowa
     year: 1988
     language: Polish
@@ -80771,6 +81642,7 @@ titles:
   - title: Próba wprowadzenia do filozofii marksistowskiej
     authors:
       - Lucien Sève
+    translators:
       - Maciej Druto
     year: 1988
     language: Polish
@@ -80943,6 +81815,7 @@ titles:
   - title: Pustelnia parmeńska
     authors:
       - Stendhal
+    translators:
       - Tadeusz Żeleński
     year: 1988
     language: Polish
@@ -81083,8 +81956,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991060627229705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Rozhasały się konie na polu
+    original_title: I razygralis' že koni v pole
     authors:
       - Wasilij Szukszyn
+    translators:
       - Irena Bajkowska
     year: 1988
     language: Polish
@@ -81110,6 +81985,7 @@ titles:
   - title: Saga rodu Forsyte'ów
     authors:
       - John Galsworthy
+    translators:
       - Józef Birkenmajer
     year: 1988
     language: Polish
@@ -81140,6 +82016,8 @@ titles:
   - title: Satyry
     authors:
       - Ignacy Krasicki
+    editors:
+      - Feliks Przyłubski
     year: 1988
     edition: Wyd. 2
     language: Polish
@@ -81513,8 +82391,10 @@ titles:
         url: https://search.worldcat.org/title/69320359
     verified: true
   - title: Trzech panów w łódce, nie licząc psa
+    original_title: Three men in a boat
     authors:
       - Jerome K. Jerome
+    translators:
       - Kazimierz Piotrowski
     year: 1988
     language: Polish
@@ -81718,8 +82598,9 @@ titles:
   - title: Wilcza śpiewka
     authors:
       - Boris Vladimirovič Zahoder
-      - Natalia Usenko
       - Viktor Čižikov
+    translators:
+      - Natalia Usenko
     year: 1988
     language: Polish
     sources:
@@ -81771,6 +82652,7 @@ titles:
   - title: Wprowadzenie do filozofii
     authors:
       - Kai Nielsen
+    translators:
       - Zbigniew Szawarski
     year: 1988
     language: Polish
@@ -81825,6 +82707,8 @@ titles:
   - title: Wybór artykułów i przemówień
     authors:
       - Stanisław Dubois
+    editors:
+      - Zbigniew Szczygielski
     year: 1988
     edition: Wyd. 1
     series: Biblioteka polskiej myśli marksistowskiej
@@ -81899,6 +82783,7 @@ titles:
   - title: Wyspa skarbów
     authors:
       - Robert Louis Stevenson
+    translators:
       - Józef Birkenmajer
     year: 1988
     language: Polish
@@ -81911,8 +82796,9 @@ titles:
   - title: XIII Zjazd Bułgarskiej Partii Komunistycznej
     subtitle: '2-5 kwietnia 1986: podstawowe dokumenty'
     authors:
-      - Maria Więckowska
       - B"lgarska Komunističeska Partiâ
+    translators:
+      - Maria Więckowska
     year: 1988
     language: Polish
     sources:
@@ -82003,6 +82889,7 @@ titles:
   - title: Zakonnica
     authors:
       - Denis Diderot
+    translators:
       - Wacław Rogowicz
     year: 1988
     language: Polish
@@ -82072,6 +82959,7 @@ titles:
   - title: Źródło Egnar
     authors:
       - Mkrtič Armen
+    translators:
       - Aleksander Bogdański
     year: 1988
     language: Polish
@@ -82186,9 +83074,10 @@ titles:
   - title: Bajki
     authors:
       - Iwan Kryłow
-      - Stefan Baryczka
       - Bohdan Galster
       - Marek Płoza-Doliński
+    translators:
+      - Stefan Baryczka
     year: 1989
     language: Polish
     sources:
@@ -82202,6 +83091,7 @@ titles:
   - title: Bezsenność
     authors:
       - Aleksandr Aleksandrovič Kron
+    translators:
       - Waldemar Kiwilszo
     year: 1989
     language: Polish
@@ -82216,6 +83106,7 @@ titles:
   - title: Borgiowie
     authors:
       - Roberto Gervaso
+    translators:
       - Janina Perlin
     year: 1989
     language: Polish
@@ -82268,6 +83159,7 @@ titles:
   - title: Carmen
     authors:
       - Prosper Mérimée
+    translators:
       - Tadeusz Żeleński
     year: 1989
     language: Polish
@@ -82283,6 +83175,7 @@ titles:
   - title: Centennial
     authors:
       - James A. Michener
+    translators:
       - Jan Aleksandrowicz
     year: 1989
     language: Polish
@@ -82298,6 +83191,7 @@ titles:
     authors:
       - A. A. Milne
       - Ernest H. Shepard
+    translators:
       - Irena Tuwim
     year: 1989
     language: Polish
@@ -82309,8 +83203,10 @@ titles:
     verified: true
   - title: Córka kapitana
     subtitle: Dama pikowa
+    original_title: Kapitanskaâ dočka
     authors:
       - Aleksander Puszkin
+    translators:
       - Seweryn Pollak
       - Tadeusz Stępniewski
     year: 1989
@@ -82401,6 +83297,7 @@ titles:
   - title: Człowiek, który wstrząsnął Trzecią Rzeszą
     authors:
       - Branko Kitanović
+    translators:
       - Anna Kucińska
     year: 1989
     language: Polish
@@ -82466,8 +83363,10 @@ titles:
     verified: true
   - title: Dawid Copperfield
     subtitle: Powieść
+    original_title: The personal history and experience of David Copperfield the younger
     authors:
       - Charles Dickens
+    translators:
       - Karolina Beylin
     year: 1989
     language: Polish
@@ -82537,11 +83436,13 @@ titles:
         url: https://search.worldcat.org/title/189712608
     verified: true
   - title: Dziadek do Orzechów
+    original_title: Nussknacker und Mäusekönig
     authors:
       - E. T. A. Hoffmann
-      - Józef Kramsztyk
       - Krystyna Kuliczkowska
       - Jan Marcin Szancer
+    translators:
+      - Józef Kramsztyk
     year: 1989
     language: Polish
     sources:
@@ -82606,8 +83507,9 @@ titles:
   - title: Dzieła
     authors:
       - Karl Marx
-      - Antoni Bal
       - Friedrich Engels
+    translators:
+      - Antoni Bal
       - Krzysztof Wolicki
     year: 1989
     language: Polish
@@ -82709,6 +83611,7 @@ titles:
   - title: Gospodarz stadniny
     authors:
       - István Gáll
+    translators:
       - Magdalena Schweinitz-Kulisiewicz
     year: 1989
     language: Polish
@@ -82719,8 +83622,11 @@ titles:
         url: https://search.worldcat.org/title/749397207
     verified: true
   - title: Grek Zorba
+    original_title: Vios ke Politia tou Alexi Zorba
     authors:
       - Nikos Kazantzakis
+    translators:
+      - Nikos Chadzinikolau
     year: 1989
     language: Polish
     isbn: '8305115380'
@@ -82735,6 +83641,7 @@ titles:
   - title: Hiszpańskie czary
     authors:
       - Michel Del Castillo
+    translators:
       - Danuta Knysz-Tomaszewska
     year: 1989
     language: Polish
@@ -82795,6 +83702,7 @@ titles:
   - title: Indira Gandhi
     authors:
       - György Kalmár
+    translators:
       - Tomasz Kulisiewicz
     year: 1989
     language: Polish
@@ -83029,6 +83937,7 @@ titles:
   - title: Król szczurów
     authors:
       - James Clavell
+    translators:
       - Małgorzata Grabowska
       - Andrzej Grabowski
     year: 1989
@@ -83040,6 +83949,7 @@ titles:
         url: https://search.worldcat.org/title/749615363
     verified: true
   - title: Krzyżacy
+    original_title: Krzyżacy
     authors:
       - Henryk Sienkiewicz
     year: 1989
@@ -83076,6 +83986,7 @@ titles:
     authors:
       - A. A. Milne
       - Ernest H. Shepard
+    translators:
       - Irena Tuwim
     year: 1989
     language: Polish
@@ -83114,6 +84025,7 @@ titles:
   - title: Łzy i modlitwy głupców
     authors:
       - Grigorij Kanowicz
+    translators:
       - Aleksander Bogdański
     year: 1989
     language: Polish
@@ -83149,8 +84061,9 @@ titles:
     subtitle: Studium hipnozy
     authors:
       - Léon Chertok
-      - Anna Suchańska
       - Kazimierz Obuchowski
+    translators:
+      - Anna Suchańska
     year: 1989
     language: Polish
     sources:
@@ -83307,6 +84220,8 @@ titles:
   - title: Obrachunki Fredrowskie
     authors:
       - Tadeusz Żeleński
+    editors:
+      - Henryk Markiewicz
     year: 1989
     language: Polish
     pages: 285
@@ -83383,8 +84298,10 @@ titles:
         url: https://search.worldcat.org/title/834740791
     verified: true
   - title: Opętanie
+    original_title: Diable au corps
     authors:
       - Raymond Radiguet
+    translators:
       - Krystyna Dolatowska
     year: 1989
     language: Polish
@@ -83455,10 +84372,12 @@ titles:
     verified: true
   - title: Pinokio
     subtitle: Przygody drewnianego pajaca
+    original_title: Avventure di Pinocchio
     authors:
       - Carlo Collodi
-      - Zofia Jachimecka
       - Jan Marcin Szancer
+    translators:
+      - Zofia Jachimecka
     year: 1989
     language: Polish
     sources:
@@ -83481,9 +84400,11 @@ titles:
         url: https://search.worldcat.org/title/834082166
     verified: true
   - title: Poczta doktora Dolittle
+    original_title: Doctor Dolittle's post office
     authors:
       - Hugh Lofting
       - Maryla Mikiewicz-Poreyko
+    translators:
       - Janina Mortkowiczowa
     year: 1989
     language: Polish
@@ -83692,8 +84613,10 @@ titles:
         url: https://search.worldcat.org/title/751137408
     verified: true
   - title: Pustelnia parmeńska
+    original_title: La chartreuse de Parme
     authors:
       - Stendhal
+    translators:
       - Tadeusz Żeleński
     year: 1989
     language: Polish
@@ -83973,8 +84896,9 @@ titles:
   - title: Straszna noc i inne opowiadania
     authors:
       - Anton Czechow
-      - Irena Bajkowska
       - René Śliwowski
+    translators:
+      - Irena Bajkowska
     year: 1989
     language: Polish
     sources:
@@ -84028,6 +84952,7 @@ titles:
   - title: Szklany klosz
     authors:
       - Sylvia Plath
+    translators:
       - Mira Michałowska
     year: 1989
     language: Polish
@@ -84040,8 +84965,9 @@ titles:
   - title: Tragedia Komunistycznej Partii Polski
     authors:
       - Henryk Cimek
-      - Jolanta Darczewska
       - Jarema Maciszewski
+    translators:
+      - Jolanta Darczewska
       - Krzysztof Smerd
     year: 1989
     language: Polish
@@ -84110,8 +85036,10 @@ titles:
         url: https://search.worldcat.org/title/749778713
     verified: true
   - title: Wędrujące kontynenty - fantazja czy rzeczywistość?
+    original_title: Sud'ba fantastičeskoj gipotezy
     authors:
       - Igor' Il'ič Duèl'
+    translators:
       - Włodzimierz Mizerski
     year: 1989
     language: Polish
@@ -84136,6 +85064,7 @@ titles:
   - title: Więzy ciała
     authors:
       - David Herbert Lawrence
+    translators:
       - Julita Wroniak-Mirkowicz
     year: 1989
     language: Polish
@@ -84222,8 +85151,9 @@ titles:
   - title: Z diamentów wieniec
     authors:
       - Valentin Petrovič Kataev
-      - Kira Gałczyńska
       - Jadwiga Szymak-Reiferowa
+    translators:
+      - Kira Gałczyńska
     year: 1989
     language: Polish
     sources:
@@ -84321,11 +85251,13 @@ titles:
         url: https://search.worldcat.org/title/749201000
     verified: true
   - title: Żywot Łazika z Tormesu
+    original_title: La vida de Lazarillo de Tormes y de sus fortunas y adversidades. Nazwy autorki ilustracji i tłumacza na stronie redakcyjnej
     authors:
-      - Maurycy Mann
-      - Marceli Minc
       - Izabella Petrenko-Laube
       - Elżbieta Skłodowska
+    translators:
+      - Maurycy Mann
+      - Marceli Minc
     year: 1989
     language: Polish
     sources:
@@ -84335,13 +85267,15 @@ titles:
         url: https://search.worldcat.org/title/803067454
     verified: true
   - title: Baśnie
+    original_title: Eventyr og historier
     authors:
       - Hans Christian Andersen
+      - Jan Marcin Szancer
+      - Anna Milska
+    translators:
       - Stefania Beylin
       - Jarosław Iwaszkiewicz
       - Stanisław Sawicki
-      - Jan Marcin Szancer
-      - Anna Milska
     year: 1990
     language: Polish
     sources:
@@ -84351,8 +85285,11 @@ titles:
         url: https://search.worldcat.org/title/834079377
     verified: true
   - title: Chatka Puchatka
+    original_title: House at Pooh Corner
     authors:
       - Alan Alexander Milne
+    translators:
+      - Irena Tuwim
     year: 1990
     language: Polish
     pages: 150
@@ -84367,6 +85304,7 @@ titles:
   - title: Cienka czerwona linia
     authors:
       - James Jones
+    translators:
       - Bronisław Zieliński
     year: 1990
     language: Polish
@@ -84417,12 +85355,14 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=161074411X
     verified: true
   - title: Iacocca - autobiografia
+    original_title: Iacocca
     authors:
       - Lee Iacocca
+      - William Novak
+    translators:
       - Paweł Cichawa
       - Hanna Hartwig
       - Leon Karewicz
-      - William Novak
     year: 1990
     language: Polish
     sources:
@@ -84511,6 +85451,7 @@ titles:
   - title: Kraina Chichów
     authors:
       - Jonathan Carroll
+    translators:
       - Jolanta Kozak
     year: 1990
     language: Polish
@@ -84521,9 +85462,11 @@ titles:
         url: https://search.worldcat.org/title/69538634
     verified: true
   - title: Kubuś Puchatek
+    original_title: Winnie the Pooh
     authors:
       - A. A. Milne
       - Ernest H. Shepard
+    translators:
       - Irena Tuwim
     year: 1990
     language: Polish
@@ -84546,6 +85489,7 @@ titles:
   - title: Na południe od Jawy
     authors:
       - Alistair MacLean
+    translators:
       - Halina Cieplińska
     year: 1990
     language: Polish
@@ -84568,10 +85512,12 @@ titles:
     verified: true
   - title: Pinokio
     subtitle: Przygody drewnianego pajaca
+    original_title: Avventure di Pinocchio
     authors:
       - Carlo Collodi
-      - Zofia Jachimecka
       - Jan Marcin Szancer
+    translators:
+      - Zofia Jachimecka
     year: 1990
     language: Polish
     sources:
@@ -84672,6 +85618,7 @@ titles:
   - title: Wielki Gatsby
     authors:
       - F. Scott Fitzgerald
+    translators:
       - Ariadna Demkowska-Bohdziewicz
     year: 1990
     language: Polish
@@ -84803,6 +85750,7 @@ titles:
   - title: Historia gospodarcza z ZSRR
     authors:
       - P. Laszczenko
+    translators:
       - Aleksander Neyman
     language: Polish
     sources:
@@ -84898,6 +85846,8 @@ titles:
     subtitle: 1918-1919; materiały i dokumenty
     authors:
       - Zakład Historii Partii
+    editors:
+      - Buczek,, Hanna
     language: Polish
     sources:
       - title: K10plus record 1087432650

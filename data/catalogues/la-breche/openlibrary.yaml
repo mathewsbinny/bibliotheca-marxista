@@ -65,8 +65,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb34360514r
     verified: true
   - title: Conférences sur la Libération des femmes
+    original_title: 'Erzählungen über Wege der Liebe im frühen Sowjet-Russland : Frauen zwischen Ehe und Revolution'
     authors:
       - Aleksandra Mikhaǐlovna Kollontaǰ
+    translators:
+      - Barbara Spielman
     year: 1978
     language: German
     sources:
@@ -169,6 +172,8 @@ titles:
     authors:
       - Rosa Luxemburg
       - Lev Davidovič Trockij
+    editors:
+      - Michael Löwy
     year: 1978
     language: French
     sources:
@@ -238,9 +243,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=031927696
     verified: true
   - title: Les femmes dans la révolution chinoise
+    original_title: Women in China
     series: Petite collection La Brèche; 2
     authors:
       - Katie Curtin
+    translators:
       - Claire Véronique
     year: 1978
     language: French
@@ -281,6 +288,8 @@ titles:
     series: Les congrès de la IVe Internationale; 1
     authors:
       - Internationale
+    editors:
+      - Rodolphe Prager
     year: 1978
     language: French
     sources:
@@ -314,8 +323,10 @@ titles:
     verified: true
   - title: Révolution et contre-révolution en Espagne
     subtitle: 1936-1938
+    original_title: Revolution and counter-revolution in Spain
     authors:
       - Felix Morrow
+    translators:
       - Denise Avenas
     year: 1978
     language: French
@@ -510,11 +521,13 @@ titles:
     verified: true
   - title: Le socialisme emprisonné
     subtitle: Une alternative socialiste à la normalisation
+    original_title: Československo a socialismus
     series: Stock 2
     authors:
       - Petr Uhl
-      - Antonin Bȧšta
       - Jean-Yves Potel
+    translators:
+      - Antonin Bȧšta
     year: 1980
     language: French
     sources:
@@ -737,8 +750,13 @@ titles:
         url: https://lccn.loc.gov/83186382
     verified: true
   - title: La pensée vivante de Sandino
+    original_title: El pensamiento vivo de Sandino
     authors:
       - Augusto César Sandino
+    translators:
+      - Louisette Benat
+      - Cécile Drouet
+      - Mario Zequeira
     year: 1984
     language: French
     pages: 411
@@ -856,6 +874,7 @@ titles:
     verified: true
   - title: Et notre drapeau est rouge
     subtitle: Du Spartakusbund à la IVe Internationale
+    original_title: Und unsere Fahn' ist rot
     series: Les Nôtres
     authors:
       - Oskar Hippe
@@ -983,9 +1002,11 @@ titles:
     verified: true
   - title: Travail des femmes, pouvoir des hommes
     subtitle: Aux origines de l'oppression des femmes
+    original_title: Women's work, men's property
     authors:
       - Nicole Chevillard
       - Sébastien Leconte
+    translators:
       - Hélène Rismondo
     year: 1987
     language: French
@@ -1103,8 +1124,9 @@ titles:
     series: Les Nôtres
     authors:
       - Fanxi Wang
-      - Martine Bonadona
       - Gregor Benton
+    translators:
+      - Martine Bonadona
     year: 1988
     language: French
     sources:
@@ -1280,6 +1302,7 @@ titles:
     authors:
       - Georges Sorel
       - Larry Portis
+    translators:
       - Martine Echard
       - Christiane Passevant
     year: 1989
@@ -1293,6 +1316,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991127231309705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Présentation et textes choisis
+    original_title: Georges Sorel
   - title: L' empreinte
     authors:
       - Serge Livrozet
@@ -1338,6 +1362,8 @@ titles:
     authors:
       - Livio Maitan
       - Vierte Internationale
+    editors:
+      - Rodolphe Prager
     year: 1989
     language: German
     sources:
@@ -1420,6 +1446,7 @@ titles:
       - Orlando Núñez Soto
       - Roger Burbach
       - Michael Löwy
+    translators:
       - Robert March
     year: 1989
     language: French
@@ -1447,6 +1474,7 @@ titles:
   - title: La montagne est un peu plus qu'une immense steppe verte
     authors:
       - Omar Cabezas Lacayo
+    translators:
       - Louisette Benat
     year: 1990
     language: French
@@ -1478,6 +1506,8 @@ titles:
     subtitle: Un révolutionnaire dans la Grèce du XXe siècle
     authors:
       - A. Stinas
+    translators:
+      - Olivier Houdart
     year: 1990
     language: French
     pages: 369
@@ -1606,6 +1636,10 @@ titles:
   - title: Contribution à l'histoire de l'URSS
     authors:
       - Victor Fay
+    editors:
+      - Paule Fay
+      - Claude Geraud
+      - Paul Parisot
     year: 1994
     language: French
     pages: 406
@@ -1687,6 +1721,8 @@ titles:
     subtitle: Le cas libanais
     authors:
       - مهدي عامل
+    translators:
+      - Marwan Mansour El- Khoury
     year: 1996
     language: French
     pages: 287
@@ -1734,8 +1770,11 @@ titles:
     verified: false
   - title: Pour une histoire de la IVe Internationale
     subtitle: Le témoignage d'un communiste critique
+    original_title: Per una storia della Quarta Internazionale
     authors:
       - Livio Maitan
+    translators:
+      - Corrado Delfini
     language: French
     sources:
       - title: BnF catalogue record cb469009997

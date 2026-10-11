@@ -524,8 +524,11 @@ titles:
     verified: true
   - title: Movements and Messages
     subtitle: Media and Radical Politics in Quebec
+    original_title: Libérer la communication
     authors:
       - Marc Raboy
+    translators:
+      - David Homel
     year: 1984
     language: English
     pages: 165
@@ -600,6 +603,8 @@ titles:
   - title: Canadian Multinationals
     authors:
       - Jorge E. Niosi
+    translators:
+      - Robert Chodos
     year: 1985
     language: English
     sources:
@@ -766,6 +771,8 @@ titles:
     subtitle: Social movements and political activism in Quebec
     authors:
       - Marc Raboy
+    translators:
+      - Robert Chodos
     year: 1986
     language: English, French
     sources:
@@ -1100,6 +1107,9 @@ titles:
   - title: Intifada
     subtitle: The Palestinian Uprising Against Israeli Occupation
     authors: []
+    editors:
+      - Zachary Lockman
+      - Joel Beinin
     year: 1989
     language: English
     sources:
@@ -1154,6 +1164,8 @@ titles:
     subtitle: Selected Writings
     authors:
       - Raymond Williams
+    editors:
+      - Alan O'Connor
     year: 1989
     language: English
     sources:
@@ -2214,6 +2226,8 @@ titles:
     subtitle: Les Cathédrales Industrielles du Nord
     authors:
       - Charlie Angus
+    translators:
+      - Marguerite Andersen
     year: 1998
     language: English, French
     pages: 91
@@ -3074,6 +3088,8 @@ titles:
     authors:
       - Adrienne Lynn Shadd
       - Carl James
+    editors:
+      - Carl E. James
     year: 2001
     language: English
     sources:
@@ -3428,6 +3444,13 @@ titles:
     subtitle: Exchanges Across War Zones
     authors:
       - Wenona Mary Giles
+    editors:
+      - Malathi de Alwis
+      - Edith S. Klein
+      - Neluka Silva
+      - Maja Korac
+      - Djurdja Knežević
+      - Žarana Papić
     year: 2003
     language: English
     pages: 238
@@ -3963,6 +3986,8 @@ titles:
       - Liisa L. North
       - Timothy David Clark
       - Viviana Patroni
+    editors:
+      - Liisa North
     year: 2006
     language: English
     sources:
@@ -4777,6 +4802,10 @@ titles:
     subtitle: Critical Race Feminism for the 21st Century
     authors:
       - Sherene Razack
+    editors:
+      - Sherene H. Razack
+      - Malinda Smith
+      - Sunera Thobani
     year: 2010
     language: English
     pages: 228
@@ -4997,6 +5026,8 @@ titles:
     authors:
       - David Wachsmuth
       - Tom Malleson
+    editors:
+      - Tom Malleso
     year: 2011
     language: English
     pages: 230
@@ -5130,6 +5161,8 @@ titles:
     subtitle: A History of Language and Politics in Canada and Quebec
     authors:
       - Marcel Martel
+    translators:
+      - Patricia Dumas
     year: 2012
     language: English
     pages: 300
@@ -5254,8 +5287,9 @@ titles:
   - title: In Defiance
     authors:
       - Gabriel Nadeau-Dubois
-      - Lazer Lederhendler
       - Naomi Klein
+    translators:
+      - Lazer Lederhendler
     year: 2013
     language: English
     sources:
@@ -5282,6 +5316,8 @@ titles:
     subtitle: How to Stop the Tax Cut Scam and Save Canada
     authors:
       - Richard Swift
+    editors:
+      - Richard Canadians for Tax Fairness Swift
     year: 2013
     language: English
     pages: 160
@@ -5330,8 +5366,11 @@ titles:
     verified: true
   - title: Who's Afraid of the Black Blocs
     subtitle: Anarchy in Action Around the World
+    original_title: Les black blocs
     authors:
       - Francis Dupuis-Déri
+    translators:
+      - Lazer Lederhendler
     year: 2013
     language: English
     pages: 215
@@ -5697,6 +5736,8 @@ titles:
       - Michael Dawson
       - Lara Campbell
       - Catherine Gidney
+    editors:
+      - Catherine Anne Gidney
     year: 2015
     language: English
     pages: 313
@@ -5832,6 +5873,8 @@ titles:
     authors:
       - Martine Delvaux
       - Susanne De Lotbinière-Harwood
+    translators:
+      - Susanne de Lotbinière-Harwood
     year: 2016
     language: English
     sources:
@@ -6152,8 +6195,10 @@ titles:
     verified: true
   - title: Mediocracy
     subtitle: The Politics of the Extreme Centre
+    original_title: La médiocratie
     authors:
       - Alain Deneault
+    translators:
       - Catherine Browne
     year: 2018
     language: English
@@ -6258,9 +6303,12 @@ titles:
     verified: true
   - title: Who Are You and Why Are You Here?
     subtitle: Tales of International Development
+    original_title: '"Qui a dit que nous avions besoin de vous?'
     authors:
       - Jacques Claessens
       - Nigel Spencer
+    translators:
+      - Nigel G. Spencer
     year: 2018
     language: English
     sources:
@@ -6398,9 +6446,11 @@ titles:
     verified: true
   - title: No Representation Without Consultation
     subtitle: A Citizens' Guide to Participatory Democracy
+    original_title: Die Konsultative
     authors:
       - Patrizia Nanz
       - Claus Leggewie
+    translators:
       - Damian Harrison
       - Stephen Roche
     year: 2019
@@ -6509,9 +6559,13 @@ titles:
     verified: true
   - title: Being & Swine
     subtitle: The End of Nature (as We Knew It)
+    original_title: Schwein und Zeit
     series: Social Science, Politics
     authors:
       - Fahim Amir
+    translators:
+      - Geoffrey C. Howes
+      - Corvin Russell
     year: 2020
     language: English
     sources:
@@ -7103,6 +7157,7 @@ titles:
     verified: true
   - title: Ecology for the 99%
     subtitle: Twenty Capitalist Myths Debunked
+    original_title: Pour une écologie du 99%
     authors:
       - Édéric Legault
       - Arnaud Theurillat-Cloutier
@@ -7290,11 +7345,13 @@ titles:
     verified: true
   - title: The Crisis of Social Reproduction
     subtitle: Silvia Federici and Mariarosa Dalla Costa in Conversation with Louise Toupin
+    original_title: La crise de la reproduction sociale
     series: Provocations
     authors:
       - Silvia Federici
       - Mariarosa Dalla Costa
       - Louise Toupin
+    translators:
       - Käthe Roth
     year: 2025
     language: English
@@ -7359,6 +7416,7 @@ titles:
     verified: true
   - title: Working for Nothing
     subtitle: A Wages for Housework Anthology
+    original_title: 'Wages for housework: la campagne du salaire au travail ménager: une anthologie'
     authors:
       - Louise Toupin
     year: 2026

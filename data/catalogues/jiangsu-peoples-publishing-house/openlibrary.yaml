@@ -750,6 +750,10 @@ titles:
     subtitle: Xu ji
     authors:
       - Yusheng Dai
+    editors:
+      - 玉昇 戴
+      - Quan Zhang
+      - 銓 張
     year: 1957
     language: Chinese
     pages: 91
@@ -8334,6 +8338,8 @@ titles:
     authors:
       - Zhongguo she hui ke xue yuan
       - 中囯社会科学院
+    editors:
+      - Kao gu yan jiu suo
     year: 1981
     language: Chinese
     sources:
@@ -8402,6 +8408,8 @@ titles:
     authors:
       - Shijun Wang
       - Zhong guo she hui ke xue yuan
+    editors:
+      - Shi jun Wang
     year: 1981
     language: Chinese
     sources:
@@ -10294,8 +10302,10 @@ titles:
         url: https://lccn.loc.gov/83130581
     verified: true
   - title: Da du cai zhe
+    original_title: Giperboloid inzenera garina
     authors:
       - Aleksej Tolstoj
+    translators:
       - Zhongliang Wang
     year: 1982
     language: Chinese
@@ -10395,6 +10405,7 @@ titles:
         url: https://lccn.loc.gov/83127670
     verified: true
   - title: Gao lao tou
+    original_title: Le père Goriot
     authors:
       - Honoré de Balzac
       - Liping Ding
@@ -10466,9 +10477,11 @@ titles:
         url: https://lccn.loc.gov/83137616
     verified: true
   - title: Gui huo yu huo yan
+    original_title: Irrlicht und Feuer
     authors:
       - Max von der Grün
       - Su Dai
+    translators:
       - Yi Zheng
     year: 1982
     language: Chinese
@@ -10719,6 +10732,8 @@ titles:
   - title: Li Zhun zhuan ji
     authors:
       - Zhongkang Bu
+    editors:
+      - Zhong kang Bu
     year: 1982
     edition: Di 1 ban
     series: Zhongguo dang dai wen xue yan jiu zi liao
@@ -12620,6 +12635,8 @@ titles:
   - title: Jiang nan zao chuan chang chang shi, 1865-1949.5
     authors:
       - Shanghai she hui ke xue yuan. Jing ji yan jiu suo
+    editors:
+      - Shang hai she hui ke xue yuan
     year: 1983
     edition: Di 1 ban
     language: Chinese
@@ -15344,6 +15361,7 @@ titles:
         url: https://openlibrary.org/books/OL21259315M
     verified: true
   - title: Hai nie shu qing shi xuan ji
+    original_title: Lyrische Gedichte
     authors:
       - Heinrich Heine
       - Zhi Feng
@@ -15983,6 +16001,9 @@ titles:
       - Mingyi Zhao
       - Bin Bo
       - Jingdong Xu
+    editors:
+      - 柏彬
+      - 徐景东
     year: 1984
     edition: Di 1 ban
     series: Zhongguo dang dai wen xue yan jiu zi liao cong shu
@@ -17973,6 +17994,7 @@ titles:
     subtitle: Zhong guo nong min de sheng huo = Peasant life in China
     authors:
       - Xiaotong Fei
+    translators:
       - Kejing Dai
     year: 1986
     language: Chinese
@@ -19623,6 +19645,7 @@ titles:
     series: Hai wai zhong guo yan jiu cong shu
     authors:
       - Zike Mo
+    translators:
       - Shian Yan
     year: 1990
     language: Chinese
@@ -20032,6 +20055,8 @@ titles:
     verified: false
   - title: Hai wai zhong guo yan jiu cong shu
     authors: []
+    editors:
+      - Dong Liu
     language: Chinese
     sources:
       - title: BnF catalogue record cb40941815b

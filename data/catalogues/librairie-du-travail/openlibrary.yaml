@@ -408,9 +408,10 @@ titles:
     subtitle: Diplomatie d'avant-guerre et de guerre d'après les documents des archives russes
     authors:
       - Aleksandr Petrovič Izvolśkij
-      - René Marchand
       - Voltaire Radi
       - Jacques Seebacher
+    translators:
+      - René Marchand
     year: 1922
     language: French
     sources:
@@ -1241,6 +1242,8 @@ titles:
   - title: Les problèmes de la guerre civile
     authors:
       - Leon Trotsky
+    translators:
+      - Marcel Body
     year: 1926
     series: Faits et documents -- no. 5
     language: French
@@ -1538,6 +1541,8 @@ titles:
   - title: Histoire de la Commune de 1871
     authors:
       - Prosper Olivier Lissagaray
+    editors:
+      - Amédée Dunois
     year: 1929
     edition: Nouv. éd. précédés d'une notice sur Lissagaray par Amédée Dunois
     language: French
@@ -1932,6 +1937,8 @@ titles:
   - title: Lettres de la prison
     authors:
       - Rosa Luxemburg
+    translators:
+      - Alix Guillain
     year: 1933
     language: French
     sources:
@@ -2170,6 +2177,8 @@ titles:
     subtitle: 'Contribution à l''explication économique de l''impérialismo: [Vol.] I.'
     authors:
       - Rosa Luxemburg
+    translators:
+      - Marcel Ollivier
     year: 1935
     series: Historie et éducation prolétariennes -- 8
     language: French
@@ -2263,6 +2272,8 @@ titles:
     subtitle: Suivi d'études et fragments
     authors:
       - Claude Naville
+    editors:
+      - Pierre Naville
     year: 1936
     language: French
     pages: 145

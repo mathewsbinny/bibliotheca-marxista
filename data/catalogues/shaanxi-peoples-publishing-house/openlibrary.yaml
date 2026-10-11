@@ -195,6 +195,7 @@ titles:
     subtitle: (Di tu)
     authors:
       - Takeo Hiraoka
+    translators:
       - Lisan Yang
     year: 1957
     language: Chinese
@@ -205,6 +206,8 @@ titles:
   - title: Chang'an yu Luoyang
     authors:
       - Takeo Hiraoka
+    translators:
+      - Lisan Yang
     year: 1957
     language: Chinese
     pages: 86
@@ -221,6 +224,7 @@ titles:
         url: https://www.sudoc.fr/133237818
     verified: true
     subtitle: (Di tu)
+    original_title: Chōan to Rakuyō
   - title: Da Wang Qiang
     subtitle: Qin qiang
     authors:
@@ -1350,6 +1354,8 @@ titles:
   - title: Nan ni wan
     authors:
       - Wu Yinxian
+    editors:
+      - Yinxian Wu
     year: 1975
     language: Chinese
     sources:
@@ -2200,6 +2206,8 @@ titles:
     verified: true
   - title: Zhen jiu jing wai qi xue tu pu
     authors: []
+    editors:
+      - Jin kai Hao
     year: 1979
     language: Chinese
     sources:
@@ -3306,6 +3314,8 @@ titles:
   - title: Zhong gong dang shi ren wu zhuan
     authors:
       - Hua Hu
+    editors:
+      - 华 胡
     year: 1980
     language: Chinese
     pages: 50
@@ -6330,6 +6340,8 @@ titles:
   - title: Yong Hua Shan shi xuan
     authors:
       - Zhengmin Chi
+    editors:
+      - Zhengmin Xi
     year: 1982
     edition: Di 1 ban
     language: Chinese
@@ -7664,6 +7676,8 @@ titles:
   - title: Tang shi yan jiu hui lun wen ji
     authors:
       - Zhongguo Tang shi yan jiu hui
+    editors:
+      - Erkang Feng
     year: 1983
     edition: Di 1 ban
     language: Chinese
@@ -8044,6 +8058,8 @@ titles:
   - title: Zhongguo gu dai wen lun xuan zhu
     authors:
       - Beijing shi fan da xue. Zhong wen xi. Wen yi li lun jiao yan shi
+    editors:
+      - Beijing shi fan da xue
     year: 1983
     edition: Di 1 ban
     language: Chinese
@@ -8876,7 +8892,8 @@ titles:
         url: https://lccn.loc.gov/85114328
     verified: true
   - title: Jian du gai shu
-    authors:
+    authors: []
+    translators:
       - Jianming Lin
     year: 1984
     edition: Di 1 ban
@@ -9277,6 +9294,8 @@ titles:
   - title: Quan guo Tang shi tao lun hui lun wen xuan
     authors:
       - Quan guo Tang shi tao lun hui (1st 1982 Xi'an, Shaanxi Sheng, China)
+    editors:
+      - Songlin Huo
     year: 1984
     edition: Di 1 ban
     language: Chinese
@@ -9496,6 +9515,8 @@ titles:
     subtitle: Han Ying Dui Zhao
     authors:
       - Yuanchong Xu
+    translators:
+      - Xu Yuan-zhong
     year: 1984
     edition: Di 1 ban
     language: Chinese, English
@@ -10524,8 +10545,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1414139101
     verified: true
   - title: '"Da Tang Xiyu ji" jin yi'
+    original_title: Da Tang Xiyu ji
     authors:
       - Xuanzang
+    translators:
+      - Xianlin Ji
+      - 季羡林
     year: 1985
     edition: Di 1 ban
     language: Chinese
@@ -11302,6 +11327,8 @@ titles:
   - title: Tu Fu, One Hundred and Fifty Poems
     authors:
       - Tu Fu
+    translators:
+      - Wu Juntao = Du Fu shi Ying yi yi bai wu shi shou / Wu Juntao yi
     year: 1985
     edition: Di 1 ban
     language: English, Chinese
@@ -11340,6 +11367,7 @@ titles:
         url: https://lccn.loc.gov/86135422
     verified: true
   - title: Wa lu a jia zu de ma ge li te
+    original_title: Marguerite de Valois
     authors:
       - Alexandre Dumas
       - Yang Jia Min
@@ -11641,6 +11669,9 @@ titles:
       - Guangxin Zhang
       - Shuzhen Yang
       - Ji Wang
+    editors:
+      - 广信 张
+      - 树祯 杨
     year: 1985
     edition: Di 1 ban
     language: Chinese
@@ -12357,6 +12388,8 @@ titles:
   - title: Han Tang wen shi man lun
     authors:
       - Shanxi ren min chu ban she (Xi'an, Shaanxi Sheng, China). Wen yi bian ji bu
+    editors:
+      - Shanxi ren min chu ban she (Xi'an, Shaanxi Sheng, China)
     year: 1986
     edition: Di 1 ban
     language: Chinese
@@ -12779,6 +12812,9 @@ titles:
     subtitle: 1949-1984
     authors:
       - China) Shanxi Sheng kao gu xue hui (Xi'an Shi
+    editors:
+      - Kuansheng Jing
+      - 井宽胜
     year: 1986
     edition: Di 1 ban
     language: Chinese
@@ -15916,7 +15952,8 @@ titles:
         url: https://search.worldcat.org/title/22821598
     verified: true
   - title: De guo shu qing shi xuan
-    authors:
+    authors: []
+    translators:
       - Zhengxiang Gu
       - Chunqi Qian
     year: 1988
@@ -16269,6 +16306,8 @@ titles:
     verified: true
   - title: Zhong gong dang shi ren wu zhuan
     authors: []
+    editors:
+      - Hua Hu
     year: 1988
     language: Chinese
     sources:
@@ -17170,6 +17209,8 @@ titles:
     verified: true
   - title: Zhong gong dang shi ren wu zhuan
     authors: []
+    editors:
+      - Hua Hu
     year: 1989
     language: Chinese
     sources:

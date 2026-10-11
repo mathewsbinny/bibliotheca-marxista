@@ -480,6 +480,7 @@ titles:
   - title: Yorha ilgi
     authors:
       - Ji won Bag
+    translators:
       - Sang-ho Yi
     year: 1955
     language: Korean
@@ -823,10 +824,11 @@ titles:
     authors:
       - Yang-ho Hong
       - 良浩 洪
-      - Pyŏng-do Kang
-      - 병도 강
       - Hyŏn-pong Kim
       - 현봉 김
+    translators:
+      - Pyŏng-do Kang
+      - 병도 강
     year: 1956
     language: Korean
     sources:
@@ -844,7 +846,8 @@ titles:
         url: https://www.sudoc.fr/273258419
     verified: true
   - title: Pyŏnghak chinam
-    authors:
+    authors: []
+    translators:
       - Chin-sun Ch'oe
       - 진순 최
     year: 1956
@@ -1213,6 +1216,8 @@ titles:
   - title: Chosŏnsa kaeyo
     authors:
       - Kim Il-sŏng Chonghap Taehak. Chosŏnsa Kangjwa
+    editors:
+      - Kim Il-sŏng Chonghap Taehak
     year: 1957
     language: Korean
     pages: 721
@@ -1313,6 +1318,8 @@ titles:
   - title: Yŏrha ilgi
     authors:
       - Chi-wŏn Pak
+    translators:
+      - Sang-ho Yi
     year: 1957
     language: Korean
     sources:

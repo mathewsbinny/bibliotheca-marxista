@@ -311,6 +311,7 @@ titles:
         url: https://search.worldcat.org/title/56903527
     verified: true
   - title: Un paso adelante, dos pasos atrás (una crisis en nuestro partido)
+    original_title: Shag vpered, dva shago nazat
     authors:
       - Vladimir Ilʹich Lenin
       - Moscow
@@ -384,6 +385,7 @@ titles:
   - title: Napoleón
     authors:
       - Evguenii Viktorovich Tarlé
+    translators:
       - Delia Ingenieros
     year: 1943
     language: Spanish
@@ -523,6 +525,8 @@ titles:
     verified: true
   - title: Biblioteca de ensayistas
     authors: []
+    editors:
+      - Héctor Pablo Agosti
     language: Spanish
     sources:
       - title: BnF catalogue record cb33265635w

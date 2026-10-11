@@ -316,6 +316,8 @@ titles:
     subtitle: Tradizione e innovazione nella matematica del Seicento
     authors:
       - Marco Panza
+    editors:
+      - Clara Silvia Roero
     year: 1995
     series: Seminari di scienze. Nuova serie -- 8
     language: Italian
@@ -566,6 +568,8 @@ titles:
   - title: Vico nel mondo anglosassone
     authors:
       - Donald Phillip Verene
+    editors:
+      - Marcello Simonetta
     year: 1995
     language: Italian
     sources:
@@ -573,8 +577,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb37183056h
     verified: true
   - title: Arte e mito
+    original_title: Kunst und Mythos
     authors:
       - Ernesto Grassi
+    editors:
+      - Carlo Gentili
     year: 1996
     edition: Ed. riv. ed ampliata dall'autore
     series: Studia humanitatis -- 1
@@ -701,6 +708,8 @@ titles:
   - title: Itinerari danteschi
     authors:
       - Dante Alighieri
+    editors:
+      - Vittorio Russo
     year: 1996
     series: Libera scena
     language: Italian
@@ -924,6 +933,8 @@ titles:
     authors:
       - Ernesto Grassi
       - Massimo Marassi
+    editors:
+      - Emilio Hidalgo-Serna
     year: 1996
     series: Studia humanitatis
     language: Italian
@@ -992,6 +1003,7 @@ titles:
     verified: true
   - title: Themis
     subtitle: Uno studio sulle origini sociali della religione greca
+    original_title: 'Themis: a study of the social origins of Greek religion'
     series: Il pensiero e la storia; 18
     authors:
       - Jane Ellen Harrison
@@ -1521,6 +1533,7 @@ titles:
     verified: true
   - title: Parthenope für die Zukunft Europas
     subtitle: Geist und Wirken des Istituto Italiano per gli Studi Filosofici
+    original_title: Venti anni di ricerca e di formazione umanistica e scientifica, 1975-1995
     authors: []
     year: 1997
     language: German
@@ -1741,6 +1754,8 @@ titles:
   - title: Attualità e prospettive del "Principio speranza" l'opera fondamentale e il pensiero di Ernst Bloch
     subtitle: Atti del Convegno di Genova, 27-28 febbraio 1995, promosso dal Dipartimento di filosofia dell'Università di Genova e dall'Istituto italiano per gli studi filosofici
     authors: []
+    editors:
+      - Gerardo Cunico
     year: 1998
     language: Italian
     sources:
@@ -1851,6 +1866,8 @@ titles:
   - title: Il coraggio dell'innocenza
     authors:
       - Eugenio Colorni
+    editors:
+      - Luca Meldolesi
     year: 1998
     language: Italian
     sources:
@@ -1972,6 +1989,8 @@ titles:
     subtitle: Atti del convegno svoltosi a S. Margherita Ligure il 2 e il 3 maggio 1996
     authors:
       - Alessandro Di Chiara
+    editors:
+      - Vittorio De Cesare
     year: 1998
     series: Il pensiero e la storia
     language: Italian
@@ -2064,6 +2083,8 @@ titles:
     subtitle: 'Da Goethe a Nietzsche: per Luciano Zagari'
     authors:
       - Emilia Fiandra
+    editors:
+      - Gabriella Catalano
     year: 1998
     series: Il pensiero e la storia
     language: Italian
@@ -2646,6 +2667,10 @@ titles:
     subtitle: Atti del Convegno di Ischia, 1995
     authors:
       - Convegno di Ischia (1995 Ischia, Italy)
+    editors:
+      - Lilla Maria Crisafulli
+      - Annalisa Goldoni
+      - Romolo Runcini
     year: 1999
     series: Il pensiero e la storia / Istituto italianoper gli studi filosofici -- 58
     language: Italian
@@ -2738,8 +2763,11 @@ titles:
     verified: true
   - title: Retorica come filosofia
     subtitle: La tradizione umanistica
+    original_title: Rhetoric as philosophy the humanist tradition
     authors:
       - Ernesto Grassi
+    editors:
+      - Massimo Marassi
     year: 1999
     series: Studia humanitatis. Testi -- 3
     language: Italian
@@ -2758,6 +2786,8 @@ titles:
   - title: Ristretto del De origine juris civilis di Gianvincenzo Gravina
     authors:
       - Marchese Scipione Maffei
+    editors:
+      - Giulio De Martino
     year: 1999
     series: '"I settecento" / Istituto suor Orsola Benincasa'
     language: Italian
@@ -2846,11 +2876,13 @@ titles:
     verified: true
   - title: Viaggiare ed errare
     subtitle: Un confronto con il Sudamerica
+    original_title: 'Reisen ohne anzukommen : eine Konfrontation mit Südamerika'
     series: Studia humanitatis; 2
     authors:
       - Ernesto Grassi
-      - Cristina De Santis
       - Massimo Marassi
+    translators:
+      - Cristina De Santis
     year: 1999
     language: Italian
     sources:
@@ -2942,6 +2974,8 @@ titles:
     subtitle: 1946-1984
     authors:
       - Emilio Villa
+    editors:
+      - Aniello De Luca
     year: 2000
     series: Serie di estetica e critica d'arte
     language: Italian
@@ -2964,6 +2998,7 @@ titles:
     series: Testimonianze; 20
     authors:
       - Imre Toth
+    translators:
       - Bianca Maria D'Ippolito
     year: 2000
     language: Italian
@@ -3075,6 +3110,8 @@ titles:
     verified: true
   - title: Il dibattito etico e politico in Grecia tra il V e IV secolo
     authors: []
+    editors:
+      - Maurizio Migliori
     year: 2000
     language: Italian
     sources:
@@ -3139,6 +3176,8 @@ titles:
     authors:
       - Giovanni Pugliese Carratelli
       - Theodor Sträter
+    editors:
+      - Istituto italiano per gli studi filosofici
     year: 2000
     language: Italian
     sources:
@@ -3523,6 +3562,8 @@ titles:
     subtitle: 'Social Defence, Corruption, and the Protection of Public Administration and the Independence of Justice: Updated Documents of the XIIIth International Congress on Social Defence, Lecce, Italy, 1996'
     authors:
       - Congrès international de défense sociale (13th 1996 Lecce, Italy)
+    editors:
+      - Paolo Bernasconi
     year: 2000
     series: Seminari Giuridici
     language: English
@@ -3758,6 +3799,8 @@ titles:
   - title: Hegel e l'antichità classica
     authors:
       - Klaus Düsing
+    editors:
+      - Salvatore Giammusso
     year: 2001
     series: Studi sul pensiero di Hegel / Istituto italiano per gli studi filosofici -- 6
     language: Italian
@@ -4189,6 +4232,9 @@ titles:
     subtitle: Giambattista Vico y la cultura europea
     authors:
       - Emilio Hidalgo-Serna
+    editors:
+      - Massimo Marassi
+      - José Victor Sevilla Segura
     year: 2001
     series: Studia humanitatis -- 4
     language: Spanish
@@ -4293,6 +4339,8 @@ titles:
     subtitle: La memoria e il sacro
     authors:
       - Stephan Otto
+    editors:
+      - Vincenzo Vitiello
     year: 2001
     series: Passato e presente -- 15
     language: Italian
@@ -4415,11 +4463,13 @@ titles:
     verified: true
   - title: De ratione dicendi
     subtitle: La retorica
+    original_title: De ratione dicendi
     series: Studia humanitatis; 4
     authors:
       - Juan Luis Vives
-      - Emilio Mattioli
       - Emilio Hidalgo-Serna
+    translators:
+      - Emilio Mattioli
     year: 2002
     language: Latin, Italian
     sources:
@@ -4810,6 +4860,9 @@ titles:
     subtitle: 'Un incontro di culture tra Oriente e Occidente: atti del convegno di Urbino, 8-9 giugno 2001'
     authors:
       - Convegno "Cinquant'anni di storia della Repubblica popolare cinese" (2001 Urbino, Italy)
+    editors:
+      - Domenico Losurdo
+      - Stefano G. Azzarà
     year: 2003
     series: Il Pensiero e la storia -- 102
     language: Italian
@@ -5010,6 +5063,8 @@ titles:
     series: Pensiero e la storia; 104
     authors:
       - Gheorghe Lencan Stoica
+    translators:
+      - Claudio Tommasi
     year: 2003
     language: Italian
     sources:
@@ -5026,6 +5081,8 @@ titles:
     subtitle: '[Atti del Convegno: Napoli, 13-14 maggio 1999, Palazzo Serra di Cassano]'
     authors:
       - Massimo Verdicchio
+    editors:
+      - Luciano Basile
     year: 2003
     series: Seminari di scienze -- 18
     language: Italian
@@ -5413,6 +5470,8 @@ titles:
     subtitle: Del lusso
     authors:
       - Carlo Antonio Broggia
+    editors:
+      - Rosario Patalano
     year: 2004
     series: Teoria e politica economica nel pensiero degli economisti campani -- 2
     language: Italian
@@ -5472,6 +5531,8 @@ titles:
     subtitle: 28 settembre-1 ottobre 1943
     authors:
       - Corrado Barbagallo
+    editors:
+      - Sergio Muzzupappa
     year: 2004
     series: Archivio storico del movimento operaio -- 4
     language: Italian
@@ -5546,6 +5607,8 @@ titles:
     subtitle: 'Atti del Convegno internazionale: Napoli, 11-12 novembre 1999'
     authors:
       - Gigliola Rocca
+    editors:
+      - Giulia Papoff
     year: 2004
     series: Il pensiero e la storia / Istituto italiano per gli studi filosofici -- 109
     language: Italian
@@ -5828,6 +5891,8 @@ titles:
     authors:
       - Heidi Urbahn de Jauregui
       - Peter Hacks
+    editors:
+      - Hans Heinz Holz
     year: 2005
     language: German
     sources:
@@ -5842,6 +5907,8 @@ titles:
   - title: Scritti di storia e politica
     authors:
       - Gaetano Arfé
+    editors:
+      - Giuseppe Aragno
     year: 2005
     series: Il pensiero e la storia / Istituto italiano per gli studi filosofici -- 119
     language: Italian
@@ -6084,9 +6151,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1876380152
     verified: true
   - title: Democrazia e rivoluzione
+    original_title: Démocratie et révolution
     authors:
       - Georges Labica
       - Andrea Catone
+    translators:
       - Luca Salza
     year: 2007
     language: Italian
@@ -6234,6 +6303,7 @@ titles:
     series: Testimonianze
     authors:
       - Tadashi Ogawa
+    translators:
       - Flavia Monceri
     year: 2007
     language: Italian
@@ -6694,6 +6764,8 @@ titles:
   - title: Unterwegs zu Marx
     authors:
       - Doğan Göçmen
+    editors:
+      - Hans Heinz Holz
     year: 2008
     series: Topos -- Heft 30
     language: German
@@ -6815,6 +6887,7 @@ titles:
         url: https://d-nb.info/996101160
     verified: true
   - title: Essais sur la conception matérialiste de l'histoire
+    original_title: La concezione materialistica della storia
     series: La pensée et l'histoire; 1
     authors:
       - Antonio Labriola
@@ -7228,6 +7301,9 @@ titles:
   - title: Da Marx al post-operaismo
     subtitle: Soggettività e pensiero emergente
     authors: []
+    editors:
+      - Giovanni Sgro'
+      - Irene Viparelli
     year: 2018
     language: Italian
     sources:
@@ -7268,6 +7344,8 @@ titles:
     subtitle: Risultati del processo di produzione immediato
     authors:
       - Karl Marx
+    translators:
+      - Giovanni Sgro'
     year: 2018
     language: Italian
     sources:
@@ -7421,6 +7499,8 @@ titles:
   - title: Traiettorie operaiste nel lungo '68 italiano
     authors:
       - Traiettorie dell'operaismo nel lungo '68 italiano (Conference) (2018 Università di Napoli "Federico II")
+    editors:
+      - Fabrizio Carlino
     year: 2020
     language: Italian
     pages: 189
@@ -7554,10 +7634,12 @@ titles:
     verified: true
   - title: El comienzo del pensamiento moderno
     subtitle: Diez artículos de los años 1940 a 1943
+    original_title: Der Beginn des modernen Denkens
     series: Studia humanitatis; volume 15
     authors:
       - Ernesto Grassi
       - Massimo Marassi
+    translators:
       - Jorge Navarro Pérez
     year: 2023
     language: Spanish
@@ -7587,6 +7669,7 @@ titles:
       - Ernesto Grassi
       - Thure von Uexküll
       - Jéssica Sánchez Espillaque
+    translators:
       - Jorge Navarro Pérez
     year: 2023
     language: Spanish
@@ -7681,6 +7764,8 @@ titles:
     subtitle: Geist und Wirken des Istituto Italiano per gli Studi Filosofici; Bücher, Dokumente Bilder 1975 - 1995; Wien, 15. April - 5. Mai 1997
     authors:
       - Istituto italiano per gli studi filosofici
+    editors:
+      - Österreichische Nationalbibliothek
     language: Italian
     sources:
       - title: K10plus record 1151653403

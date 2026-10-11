@@ -85,6 +85,8 @@ titles:
     subtitle: Russian Folk Dance Company Directed by Nadezhda Nadezhdina
     authors:
       - Alexandra Chizhova
+    translators:
+      - R. Flaxman
     year: 1963
     language: English
     sources:
@@ -963,6 +965,8 @@ titles:
     subtitle: Russian folk dance company directed by Nadezhda Nadezhdina
     authors:
       - Aleksandra Chizhova
+    translators:
+      - R. Flaxman
     year: 1965
     language: Not recorded
     sources:
@@ -2217,6 +2221,7 @@ titles:
         url: https://www.sudoc.fr/126840008
     verified: true
   - title: The Soviet Red Cross
+    original_title: Sovetskiĭ Krasnyĭ krest
     authors:
       - G. A. Miterev
     year: 1965
@@ -3015,6 +3020,7 @@ titles:
         url: https://lccn.loc.gov/67004276
     verified: true
   - title: Documents of Moscow 1966 All-Union Conference of Evangelical Christian-Baptists
+    original_title: Vsesojuznyj sʺezd evangelistov-baptistov, christian v Moskve
     authors:
       - A. V. Karev
     year: 1966
@@ -3060,6 +3066,7 @@ titles:
         url: https://search.worldcat.org/title/217929052
     verified: true
     subtitle: Article in "Pravda," November 27, 1966
+    original_title: K sobytii︠a︡m v Kitae
   - title: For Peace and Security
     subtitle: Materials on the Meeting of the Political Consultative Committee of the Warsaw Treaty Countries, Bucharest, July 4-6, 1966
     authors:
@@ -3427,6 +3434,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/007335547
     verified: true
   - title: Le Vietnam en lutte
+    original_title: Borjuščijsja Vʹetnam
     authors:
       - Ivan M. Ščedrov
       - A. Stoukov
@@ -3462,6 +3470,7 @@ titles:
         url: https://www.sudoc.fr/128147628
     verified: true
   - title: 'Lenin: Ways of Settling the Nationality Problem'
+    original_title: Lenin o putjah rešenija nacionl' nogo voprosa
     authors:
       - B. I. Zhuchkov
     year: 1966
@@ -3514,6 +3523,7 @@ titles:
     verified: true
   - title: Les femmes en U. R. S. S
     subtitle: (Dans la famille, au travail, dans la société)
+    original_title: Ženščina v SSSR
     authors:
       - Nadežda Tatarinova
     year: 1966
@@ -3935,6 +3945,7 @@ titles:
         url: https://search.worldcat.org/title/217511132
     verified: true
   - title: Soviet Economic Reform and Ist Critics
+    original_title: Sovetskaja ėkonomičeskaja reforma i ee kritiki
     authors:
       - Vladimir G. Smoljanskij
     year: 1966
@@ -4512,8 +4523,10 @@ titles:
     verified: true
   - title: Visa pour l'U.R.S.S
     subtitle: De la Baltique à Sakhaline
+    original_title: Visa v SSSR
     authors:
       - Boris Sergeevič Burkov
+    translators:
       - Goracij Arkad'evič Velle
     year: 1966
     language: French
@@ -4972,6 +4985,7 @@ titles:
     verified: true
   - title: Fiftieth Anniversary of the Great October Socialist Revolution
     subtitle: Theses of the Central Committee of the CPSU
+    original_title: Pi︠a︡tʹdesi︠a︡t let Velikoĭ Okti︠a︡brʹskoĭ sot︠s︡ialisticheskoĭ revoli︠u︡t︠s︡ii
     authors:
       - TSK KPSS
     year: 1967
@@ -5358,6 +5372,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=252432266
     verified: true
   - title: Le Leninisme et la révolution
+    original_title: Leninizm i revoljucija
     series: Deux mondes, deux idéologies
     authors:
       - Jurij Andreevič Krasin
@@ -5388,6 +5403,7 @@ titles:
         url: https://www.sudoc.fr/127072403
     verified: true
     subtitle: The Institute of the International Labour Movement
+    original_title: Avangard revoli︠u︡t︠s︡ionnykh sil
   - title: Lenin on State and Democracy
     authors:
       - Aleksandr G. Spirkin
@@ -5460,6 +5476,7 @@ titles:
         url: https://www.sudoc.fr/095533435
     verified: true
   - title: Man and the Frigid Zones
+    original_title: Čelovek i polârnyj kraj
     authors:
       - B. Polâkov
     year: 1967
@@ -5796,6 +5813,7 @@ titles:
     verified: true
   - title: On Preparations for the Fiftieth Anniversary of the Great October Socialist Revolution
     subtitle: Decision of the CC CPSU, January 4, 1967
+    original_title: K pjatidesjatiletiju Velikogo Oktjabrja
     authors:
       - TSK KPSS
     year: 1967
@@ -6009,6 +6027,7 @@ titles:
         url: https://search.worldcat.org/title/1115775
     verified: true
   - title: Soviet Industry
+    original_title: Promyshlennostʹ v SSSR
     authors:
       - E. Efimov
     year: 1967
@@ -6127,6 +6146,7 @@ titles:
     verified: true
     series: USSR 1917-1967; 12
   - title: Ten Years of Space Exploration, 1957-1967
+    original_title: Desi︠a︡tʹ let kosmicheskikh issledovaniĭ
     authors:
       - Agentstvo pechati "Novosti."
     year: 1967
@@ -6448,6 +6468,29 @@ titles:
     subtitle: Questions and Answers
     authors:
       - Agentstvo pechati "Novosti."
+    editors:
+      - I. Agranovsky
+      - A. Antonov
+      - V. Ardatovsky
+      - S. Beglov
+      - V. Bukhanov
+      - N. Bukhtiarov
+      - A. Filipchuk
+      - S. Gushchev
+      - V. Komolov
+      - M. Levin
+      - A. Makarov
+      - K. Mikhailov
+      - G. Moiseyev
+      - M. Postolovsky
+      - V. Rogov
+      - E. Rozental
+      - E. Sazonova
+      - M. Sukhanov
+      - Yu. Suchkov
+      - N. Tarasov
+      - M. Tsunts
+      - V. Turajev
     year: 1967
     language: English
     pages: 509
@@ -6493,6 +6536,7 @@ titles:
     verified: true
   - title: USSR Foreign Trade
     subtitle: Past, Present and Future
+    original_title: 'Sovet︠s︡kai︠a︡ vneshni︠a︡i︠a︡ torgovli︠a︡: proshloe, nastoi︠a︡shchee i budushchee'
     authors:
       - Nikolaĭ Semenovich Patolichev
     year: 1967
@@ -6692,6 +6736,7 @@ titles:
         url: https://lccn.loc.gov/70258090
     verified: true
   - title: Youth of the Soviet Land
+    original_title: Molodež' strany sovetov
     authors:
       - A. Arkhipenko
     year: 1967
@@ -6759,6 +6804,7 @@ titles:
     verified: true
   - title: Across the Soviet Union by Car
     subtitle: A Guide Book for Foreign Tourists
+    original_title: Na avtomobile po Sovetskomu Sojuzu
     authors:
       - Leonid Zadvornyĭ
     year: 1968
@@ -6795,6 +6841,7 @@ titles:
         url: https://search.worldcat.org/title/217344604
     verified: true
     subtitle: Report
+    original_title: Pod rukovodstvom KPSS po leninskomu puti-k kommunizmu
   - title: Art for the Millions
     subtitle: Amateur Art in the Soviet Union
     authors:
@@ -6827,6 +6874,8 @@ titles:
     subtitle: Russian Folk Dance Company Directed by Nadezhda Nadezhdina
     authors:
       - Aleksandra Chizhova
+    translators:
+      - R. Flaxman
     year: 1968
     language: English
     sources:
@@ -6914,6 +6963,7 @@ titles:
     verified: true
   - title: Defence of Socialism
     subtitle: Supreme Internationalist Duty
+    original_title: Zashchita sot︠s︡ializma--vysshiĭ internat︠s︡ionalʹnyĭ dolg
     authors: []
     year: 1968
     language: English
@@ -7023,6 +7073,7 @@ titles:
     verified: true
   - title: From Brest to Moscow
     subtitle: Guide for Motorists Driving from Brest (via Minsk, Smolensk) to Moscow
+    original_title: Ot Bresta do Moskvy
     authors:
       - V. Popadeĭkin
     year: 1968
@@ -7074,6 +7125,7 @@ titles:
     verified: true
   - title: From Vyborg to Moscow by Car
     subtitle: A Guide-Book for Motorists Travelling Along the Vyborg-Leningrad-Moscow-Route
+    original_title: Ot Vyborga do Moskvy na avtomobile
     series: Novosti Press Agency Publishing House
     authors:
       - Victor Louis
@@ -7820,6 +7872,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=117220248
     verified: true
     subtitle: Iosif I. Makovsky and Spartak Makovsky
+    original_title: Ėstafeta pokolenij
   - title: Sons Take over I. Brainin
     authors:
       - I. B. Braĭnin
@@ -7874,6 +7927,7 @@ titles:
         url: https://www.sudoc.fr/152284044
     verified: true
   - title: Soviet Merchant Marine
+    original_title: Morskoĭ torgovyĭ flot SSR English
     authors:
       - Aleksandr Vasilʹevich Voronkov
     year: 1968
@@ -7894,6 +7948,7 @@ titles:
     series: Novosti Press Agency Publishing House
   - title: Soviet Society
     subtitle: '(Economic and Social Structure): A Historical Survey'
+    original_title: Sovetskoe obshchestvo
     authors:
       - L. A. Grigorian
     year: 1968
@@ -7967,6 +8022,7 @@ titles:
         url: https://search.worldcat.org/title/218352176
     verified: true
   - title: Subjugation or Cooperation
+    original_title: Podčinenie ili sotrudničestvo
     authors:
       - Aleksandr Bykov
     year: 1968
@@ -8260,6 +8316,8 @@ titles:
     authors:
       - S. Kotlobye
       - L. Tetskaya
+    translators:
+      - A. Shkarovsky
     year: 1968
     language: English
     sources:
@@ -9078,6 +9136,7 @@ titles:
         url: https://lccn.loc.gov/73162970
     verified: true
   - title: L' énergie nucléaire et la sécurité internationale
+    original_title: Jadernaja ėnergija i bezopasnost' čelovečestva
     authors:
       - Aleksandr Nikolaevič Kaljadin
     year: 1969
@@ -9158,6 +9217,7 @@ titles:
       - label: Read or download (Internet Archive)
         url: https://archive.org/details/leninproblemsofl00unse
   - title: Lenin and Revolution in the East
+    original_title: Lenin i revoljucionnaja bor'ba narodov Vostoka
     authors:
       - Boboǆan G. Gafurov
       - Nodari A. Simonija
@@ -9192,6 +9252,7 @@ titles:
         url: https://lccn.loc.gov/70569040
     verified: true
   - title: Lenin on Proletarian Internationalism
+    original_title: Lenin o proletarskom internat︠s︡ionalizme
     series: Novosti Press Agency Pub. House
     authors:
       - N. N. Surovtseva
@@ -9229,6 +9290,7 @@ titles:
         url: https://lccn.loc.gov/70492338
     verified: true
   - title: Lenin on the socialist state
+    original_title: Lenin o socialističeskom gosudarstve
     authors: []
     year: 1969
     language: German
@@ -9254,6 +9316,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/007357878
     verified: true
   - title: Lenin on Work Under Socialism and Communism
+    original_title: V.I. Lenin o trude pri sot︠s︡ializme i kommunizme
     authors:
       - E. L. Manevich
     year: 1969
@@ -9668,6 +9731,7 @@ titles:
         url: https://lccn.loc.gov/75496105
     verified: true
   - title: On the National Question and Proletarian Internationalism
+    original_title: O nacionalʹnoj politike i proletarskom internacionalizme
     authors:
       - Vladimir Il’ich Lenin
     year: 1969
@@ -10098,6 +10162,7 @@ titles:
     verified: true
     pages: 71
   - title: These Are Thy Children, Hellas!
+    original_title: Ėto deti tvoi, Ėllada
     authors:
       - Oleg Dobrovolʹskij
       - Kostas Sarafidis
@@ -10425,6 +10490,7 @@ titles:
         url: https://lccn.loc.gov/72187036
     verified: true
   - title: Women in the USSR, at Home, at Work, in Society
+    original_title: Ženŝiny v SSSR
     authors:
       - Nadezhda Ivanovna Tatarinova
     year: 1969
@@ -10547,6 +10613,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1607094444
     verified: true
   - title: Africa Fights for Independence
+    original_title: Afrika, bor'ba za nezavisimostʹ
     authors:
       - Vasily Grigoryevich Solodovnikov (Васи́лий Григо́рьевич Солодо́вников)
     year: 1970
@@ -10579,6 +10646,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991115151409705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Anarchism, Trotskyism, Maoism
+    original_title: Anarchizm, trockizm, maoizm
     authors:
       - Boris M. Lejbzon
     year: 1970
@@ -10869,6 +10937,7 @@ titles:
     verified: true
   - title: Immediate Tasks of Agricultural Development
     subtitle: Report at the Plenary Meeting of the CPSU Central Comitee on July 2, 1970
+    original_title: Očerednye zadači razvitija selʹskogo chozjajstva
     authors:
       - Leonid Ilʹič Brežnev
     year: 1970
@@ -11014,6 +11083,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991086172079705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Le militarisme, fondement du Maoisme
+    original_title: Militarizm - osnava maoizma
     authors:
       - Anatolij Michajlovič Maluchin
     year: 1970
@@ -11069,6 +11139,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=282019804
     verified: true
   - title: Lenin and Ideological Problems of the National-Liberation Movement
+    original_title: Nat︠s︡ionalʹno-osvoboditelʹnoe dvizhenie
     authors:
       - A. D. Litman
     year: 1970
@@ -11164,6 +11235,7 @@ titles:
         url: https://openlibrary.org/books/OL18701467M
     verified: true
   - title: Lenin and the Trade Unions
+    original_title: Lenin o profsoi︠u︡zakh, English
     authors:
       - Vasiliĭ Il'ich Prokhorov
     year: 1970
@@ -11194,8 +11266,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991154353049705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Lenin as Head of Government
+    original_title: Lenin vo glave sovetskogo pravitel'stva
     authors:
       - Vladimir Zinov'evich Drobizhev
+    translators:
+      - Arthur Shkarovsky
     year: 1970
     language: English
     pages: 181
@@ -11365,6 +11440,7 @@ titles:
     series: Novosti Press Agency Publishing House
   - title: Lenin's Cause Lives on and Triumphs
     subtitle: Report at a Joint Celebration Meeting of the CPSU CC, the Supreme Soviet of the USSR and the Supreme Soviet of the RSFSR on April 21, 1970, to Mark the Centenary of the Birth of Vladimir Ilyich Lenin
+    original_title: Delo Lenina zhivet i pobezhdaet
     authors:
       - Leonid Ilʹich Brezhnev
     year: 1970
@@ -11421,6 +11497,7 @@ titles:
     verified: true
   - title: Lénine et les problèmes de la lutte de libération
     subtitle: Cycle de causeries de vulgarisation
+    original_title: Lenin i sovremennye problemy nacionalʹno-osvoboditelʹnogo dvizenija
     authors: []
     year: 1970
     language: French
@@ -11438,6 +11515,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991153185119705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Lénine sur l'internationalisme prolétarien
+    original_title: Lenin o proletarskom internacionalizme
     authors:
       - N. N. Surovceva
     year: 1970
@@ -11673,6 +11751,7 @@ titles:
       - label: Read or download (Internet Archive)
         url: https://archive.org/details/marxism-and-revisionism
   - title: Marxisme et révisionisme
+    original_title: Marksizm i revizionizm
     authors:
       - Vladimir Ilʹič Lenin
       - Vladimir Lenin
@@ -11858,6 +11937,7 @@ titles:
       - label: Full text (marxists.org)
         url: https://www.marxists.org/archive/lenin/works/1923/jan/06.htm
   - title: On Defence of the Socialist Motherland
+    original_title: O zaščite socialističeskogo otečestva
     authors:
       - Vladimir Il’ich Lenin
     year: 1970
@@ -11903,6 +11983,7 @@ titles:
       - label: Read or download (Internet Archive)
         url: https://archive.org/details/leninonsocialistdemocracy
   - title: On the Alliance of the Working Class and the Peasantry
+    original_title: O sojuze rabočego klassa i krestʹjaistva
     authors:
       - Vladimir Il’ich Lenin
     year: 1970
@@ -13048,6 +13129,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991008260529705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Erster bemannter Weltraumflug
+    original_title: Pervye
   - title: Die Europaeische Sicherheit
     subtitle: Das Problem Nr. 1
     authors: []
@@ -13372,6 +13454,7 @@ titles:
         url: https://search.worldcat.org/title/217940490
     verified: true
   - title: Kiev; Travel Guide
+    original_title: Kyïv
     authors:
       - L. A. Daien
     year: 1971
@@ -13649,6 +13732,8 @@ titles:
     subtitle: Travel Notes
     authors:
       - Arn Ṿergelis
+    translators:
+      - Mariam Katz
     year: 1971
     language: English
     pages: 208
@@ -13750,6 +13835,8 @@ titles:
   - title: Re-reading Dostoyevsky
     authors:
       - ÍÙrii Fedorovich Karíàkin
+    translators:
+      - S. Chulaki
     year: 1971
     language: German
     pages: 248
@@ -13952,6 +14039,7 @@ titles:
     verified: true
   - title: The 24th CPSU Congress
     subtitle: 'Socialism in Action: An Account of the 24th Congress of the Communist Party of the Soviet Union'
+    original_title: 'XXIV sʺezd KPSS: Socializm v dejstvii'
     authors:
       - Rostislav Okulov
     year: 1971
@@ -14486,6 +14574,10 @@ titles:
     subtitle: Scholar, Humanitarian, Freedom Fighter
     authors:
       - Angela Y. Davis
+    editors:
+      - L. O. Golden
+      - M. I. Kotov
+      - G. B. Starushenko
     year: 1971
     language: English
     pages: 135
@@ -15147,6 +15239,7 @@ titles:
         url: https://lccn.loc.gov/72197237
     verified: true
   - title: How the National Question Was Solved in the USSR
+    original_title: Kak reshalsia v SSSR natsionalʹ nyi vopros
     authors:
       - Aleksandr Izrailevič Zevelev
     year: 1972
@@ -15234,6 +15327,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991049744219705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Islam in the USSR
+    original_title: Islam v SSSR
     authors:
       - Abdulla Vakhabov
     year: 1972
@@ -15852,6 +15946,8 @@ titles:
     subtitle: Social Mechanisms and Ideology
     authors:
       - Nikolai Novikov
+    translators:
+      - B. Lunkov
     year: 1972
     language: English
     pages: 199
@@ -16434,6 +16530,7 @@ titles:
     edition: 2nd ed
   - title: The Developing Countries
     subtitle: Work for Peace
+    original_title: Razvivai︠u︡shchiesi︠a︡ strany v borʹbe za mir
     authors:
       - Inna Mkrtychevna Tatarovskaia
     year: 1972
@@ -16580,6 +16677,7 @@ titles:
         url: https://lccn.loc.gov/73167903
     verified: true
   - title: 'The Nationalities Question: How It Was Solved in the USSR'
+    original_title: Kak reshalsia v SSSR natsionalʹnyi vopros
     authors:
       - A. I. Zevelev
     year: 1972
@@ -17634,6 +17732,7 @@ titles:
         url: https://search.worldcat.org/title/12976498
     verified: true
   - title: Developing Countries, Problems of Foreign Economic Relations
+    original_title: Vnešneekonomičeskie problemy razvivajuščichsja stran
     authors:
       - Gennadiĭ A. Krasnov
       - Andreĭ I. Chekhutov
@@ -17666,6 +17765,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=083116893
     verified: true
   - title: Development of Rocketry and Space Technology in the USSR
+    original_title: Razvitie raketostroenija i kosmonavtiki v SSSR
     authors:
       - Valentin Petrovich Glushko
     year: 1973
@@ -17780,6 +17880,7 @@ titles:
     verified: true
   - title: For a Just, Democratic Peace, for the Security of Nations and International Co-operation
     subtitle: Speech at the World Congress of Peace Forces, October 26, 1973
+    original_title: Za spravedlivyi demokraticeskij mir, za bezopasnost' narodov i mezdun sotrudnicestvo
     authors:
       - Leonid Ilʹich Brezhnev
     year: 1973
@@ -18015,6 +18116,7 @@ titles:
     verified: true
   - title: Le cinquantenaire de l'Union des Républiques Socialistes Soviétiques
     subtitle: L.I. Brejnev
+    original_title: O pjatidesjatiletii sojuza sovetskich socialističeskich respublik
     authors:
       - Leonid Ilʹič Brežnev
     year: 1973
@@ -18370,6 +18472,7 @@ titles:
         url: https://openlibrary.org/books/OL20194183M
     verified: true
   - title: Pékin et la lutte du peuple vietnamien
+    original_title: Pekin i borʹba vʹetnamskogo naroda
     authors:
       - E. Markhinin
     year: 1973
@@ -19055,6 +19158,7 @@ titles:
         url: https://www.sudoc.fr/054685958
     verified: true
   - title: The United States and Its Role in the Middle East Conflict
+    original_title: SŠA i bližnevostočnyj konflikt
     authors:
       - R. Rostov
     year: 1973
@@ -19461,8 +19565,11 @@ titles:
         url: https://lccn.loc.gov/75309657
     verified: true
   - title: V. I. Lenin on Women's Role in Society
+    original_title: V. I. Lenin o roli ženščiny v obščestve
     authors:
       - Vladimir Il’ich Lenin
+    editors:
+      - V. Bilshai
     year: 1973
     language: English
     pages: 68
@@ -19623,6 +19730,7 @@ titles:
     verified: true
   - title: Workers' Control over Production
     subtitle: Past and Present
+    original_title: Rabočij kontrol' nad proizvodstvom
     authors:
       - V. A. Vinogradov
     year: 1973
@@ -20190,6 +20298,7 @@ titles:
     verified: true
   - title: In the Thick of Battle
     subtitle: Political Orientation Work in the Soviet Army During the Second World War
+    original_title: V ogne sraženij
     authors:
       - L. A. Bublik
     year: 1974
@@ -20250,6 +20359,7 @@ titles:
     subtitle: Encyclopédie
     authors:
       - Boris Grigorʹevič Kuznecov
+    translators:
       - Michel Rouzé
       - Jean-Claude Le Guillou
     year: 1974
@@ -20568,6 +20678,7 @@ titles:
     verified: true
   - title: 'Our Course: Peace and Socialism'
     subtitle: A Collection of Speeches by Leonid Brezhnev, General Secretary of the CPSU Central Committee; (January-December 1973)
+    original_title: Naš kurs - mir i socializm
     authors:
       - Leonid Ilʹič Brežnev
     year: 1974
@@ -20617,6 +20728,7 @@ titles:
     verified: true
     pages: 151
   - title: Peking's Class Betrayal
+    original_title: Klassovoe otstupničestvo Pekina
     authors:
       - G. Apalin
     year: 1974
@@ -20767,6 +20879,7 @@ titles:
         url: https://lccn.loc.gov/75330202
     verified: true
   - title: Socialist-Oriented Development and National Democracy
+    original_title: Socialističeskaja orientacija i nacional'nyj demokratija
     authors:
       - Nodari Simoniya
     year: 1974
@@ -20908,6 +21021,7 @@ titles:
     verified: true
   - title: Soviet-Chinese Friendly Ties
     subtitle: 'A Historical Review: The Work of the Chinese-Soviet Friendship Society over the Years 1949-59'
+    original_title: K Istorii Druzzestvennych Svjazej Mezzdunarodami Kitaja I Sssr
     authors:
       - Oleg Borisov
     year: 1974
@@ -21008,6 +21122,9 @@ titles:
     subtitle: On the Work of the First Session of the International Commission of Inquiry into the Crimes of the Military Junta in Chile
     authors:
       - International Commission of Enquiry into the Crimes of the Military Junta in Chile
+    editors:
+      - Genrikh Borovik
+      - Karen Khachaturov
     year: 1974
     language: English
     pages: 119
@@ -21035,6 +21152,7 @@ titles:
         url: https://d-nb.info/369020820
     verified: true
   - title: The Five-Year Plan Alters the Map
+    original_title: Puteshestvie po karte pi︠a︡tiletki
     authors:
       - Sergeĭ A. Bogatko
     year: 1974
@@ -21889,6 +22007,7 @@ titles:
     verified: true
   - title: What Is Communism?
     subtitle: (Questions and Answers)
+    original_title: Chto takoe kommunizm?
     authors: []
     year: 1974
     language: English
@@ -22359,8 +22478,10 @@ titles:
     verified: true
   - title: Geography of the USSR
     subtitle: An Introductory Survey
+    original_title: Geografiâ SSSR. Kratkij očerk
     authors:
       - James Stothert Gregory
+    translators:
       - David George Fry
     year: 1975
     language: English
@@ -22370,6 +22491,8 @@ titles:
     verified: true
   - title: Heroes of the War
     authors: []
+    translators:
+      - Anatole Kryzhanski
     year: 1975
     language: English
     pages: 72
@@ -22813,6 +22936,7 @@ titles:
     verified: true
     series: Novosti Press Agency Publishing House
   - title: Mes amis de Birobidjan
+    original_title: Moi znakomye iz Birobidžana
     authors:
       - E. Bougaïenko
       - A. E. Bugaenko (Е. И. Бугаенко)
@@ -22845,6 +22969,7 @@ titles:
     verified: true
   - title: Mikhaïl Kalinine
     subtitle: (Centième anniversaire de sa naissance)
+    original_title: Michail Kalinin
     authors:
       - Andrej Dementʹev
       - Aleksej Pʹjanov
@@ -23238,6 +23363,7 @@ titles:
         url: https://search.worldcat.org/title/215079541
     verified: true
   - title: Socialist Economic Integration and World Economic Relations
+    original_title: Socialističeskaja ėkonomičeskaja integracija v sisteme mirochozjajstvennych otnošenij
     authors:
       - L. Krasnov
     year: 1975
@@ -23470,6 +23596,7 @@ titles:
     series: Novosti Press Agency Publishing House
   - title: The American Tradition, What Remains?
     subtitle: From the War for Independence to Neocolonialism
+    original_title: 'SŠA: poprannye tradicii'
     authors:
       - B. I. Marushkin
     year: 1975
@@ -23771,6 +23898,7 @@ titles:
     verified: true
   - title: The Myth of Western Democracy
     subtitle: A Collection of Articles
+    original_title: V labirintach zapadnoj demokratii
     authors: []
     year: 1975
     language: English
@@ -23939,6 +24067,8 @@ titles:
     verified: true
   - title: The Soyuz-Apollo Project
     authors: []
+    translators:
+      - B. Belitzky
     year: 1975
     language: English
     pages: 32
@@ -23964,6 +24094,8 @@ titles:
     subtitle: Trotskyism Against International Detente
     authors:
       - Mikhaïl Basmanov
+    translators:
+      - A. Illarionov
     year: 1975
     language: English
     sources:
@@ -24832,6 +24964,7 @@ titles:
     verified: true
   - title: Facts on Cultural Exchange
     subtitle: Interviews Conducted by Literaturnaya Gazeta's Special Correspondents with a. P. Alexandrov ... [Et Al.]
+    original_title: Pravda o kulʹturnom obmene
     authors:
       - A. P. Aleksandrov
     year: 1976
@@ -24847,6 +24980,7 @@ titles:
     verified: true
   - title: For Peace, Security, Cooperation, and Social Progress in Europe
     subtitle: On the Results of the Conference of the Communist and Workers' Parties of Europe, Berlin, June 29-30, 1976
+    original_title: Za mir, bezopasnost' sotroudnitschestvo i sotsial'nyï progress v Europe
     authors:
       - Konferenz der Kommunistischen und Arbeiterparteien Europas (1976 Berlin, Germany)
     year: 1976
@@ -24953,6 +25087,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/001891197
     verified: true
     subtitle: March 1, 1976
+    original_title: Osnovnye napravlenii︠a︡ razvitii︠a︡ narodnogo khozi︠a︡ĭstva SSSR na 1976-1980 gody
     pages: 79
   - title: Health Protection
     subtitle: Questions and Answers
@@ -25016,6 +25151,8 @@ titles:
   - title: How It Looks from Moscow
     authors:
       - Valentin Sergeevich Zorin
+    translators:
+      - John Williams
     year: 1976
     language: English
     pages: 183
@@ -25117,6 +25254,7 @@ titles:
   - title: La Science au XXe siècle
     authors:
       - Boris Grigorʹevič Kuznecov
+    translators:
       - Michel Rouzé
       - Jean-Claude Le Guillou
     year: 1976
@@ -25163,6 +25301,7 @@ titles:
     verified: true
   - title: Le pays des Soviets aujourd'hui et demain
     subtitle: Relation du 25e congrès du Parti communiste de l'Union soviétique
+    original_title: Strana Sovetov segodnia, zavtra
     authors:
       - Boris Krotkov
       - Parti communiste de l'Union soviétique
@@ -25194,6 +25333,7 @@ titles:
         url: https://search.worldcat.org/title/214640740
     verified: true
   - title: Lenin's Plan for Building Socialism in the USSR, 1917-1925
+    original_title: Leninskij plan postroenija socializma v SSSR
     authors:
       - Aleksandr Leontʹevich Ugriumov
     year: 1976
@@ -25270,6 +25410,7 @@ titles:
     verified: true
   - title: Les Amis ont la parole
     subtitle: Messages de salutations
+    original_title: XXV "Dvadtsat' piatyi" s'ezd KPSS. Slovo drouzeï
     authors:
       - Parti communiste de l'Union soviétique
     year: 1976
@@ -25293,6 +25434,7 @@ titles:
         url: https://www.sudoc.fr/054598486
     verified: true
     subtitle: 1er mars 1976
+    original_title: Osnovnye napravleniia razvitiia narodnogo khoziaïstva SSSR na 1976-1980 gg
   - title: My kommunisty
     subtitle: = Nous sommes communistes = Wir Kommunisten
     authors:
@@ -25439,6 +25581,7 @@ titles:
     verified: true
   - title: Pour la paix, la sécurité, la coopération et le progrès social en Europe
     subtitle: Bilan
+    original_title: Za mir, bezopasnost', sotroudnitchestvo i sotsial'nyï progress v Evrope
     authors:
       - Conférence Des Partis Communistes Et Ouvriers D'Europe. [1976. Berlin, R. D. A.]
     year: 1976
@@ -25459,6 +25602,7 @@ titles:
         url: https://www.sudoc.fr/293141479
     verified: true
   - title: Rapport d'activité du Comité central du P.C.U.S. et tâches immédiates du parti en politique intérieure et extérieure
+    original_title: Otčet Centralʹnogo komiteta KPSS i očerednye zadači partii v oblasti vnutrennej i vnešnej ékonomiki
     authors:
       - Leonid Ilʹič Brežnev
       - Parti communiste de l'Union soviétique
@@ -25483,6 +25627,7 @@ titles:
         url: https://lccn.loc.gov/85114149
     verified: true
   - title: Report of the CPSU Central Committee and the Immediate Tasks of the Party in Home and Foreign Policy
+    original_title: Otčet Centralʹnogo komiteta KPSS i očerednye zadači partii v oblasti vnutrennej i vnešnej politiki
     authors:
       - Leonid Ilʹich Brezhnev
     year: 1976
@@ -26304,6 +26449,7 @@ titles:
     verified: true
   - title: XXVe Congrès du parti communiste de l'Union Soviétique
     subtitle: Documents et résolutions
+    original_title: XXv dvatsat piatyï] s'ezd KPSS [Kommounistitcheskoï Partii Sovetskogo Soiouza
     authors: []
     year: 1976
     language: French
@@ -26437,6 +26583,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=083225641
     verified: true
     subtitle: = "Voennoplennye" v Čili
+    original_title: Prisioneros de guerra en Chile
   - title: Church and Religion in the USSR
     authors:
       - V. A. Kuroedov
@@ -26703,6 +26850,7 @@ titles:
         url: https://www.sudoc.fr/054842972
     verified: true
   - title: How the National Question Was Solved in the USSR
+    original_title: Kak reshalsia v SSSR natsionalʹ nyi vopros
     authors:
       - A. I. Zevelev
     year: 1977
@@ -26980,6 +27128,7 @@ titles:
     verified: true
   - title: On the Draft Constitution (Fundamental Law) of the Union of Soviet Socialist Republics and the Results of the Nationwide Discussion of the Draft
     subtitle: Report and Closing Speech at the Seventh (Special) Session of the Supreme Soviet of the USSR, Ninth Convocation, October 4-7, 1977
+    original_title: O proekte Konstitut︠s︡ii (Osnovnogo zakona) Soi︠u︡za Sovetskikh Sotsialisticheskikh Respublik i itogakh ego vsenarodnogo obsuzhdenii︠a︡
     authors:
       - Leonid Ilʹich Brezhnev
     year: 1977
@@ -27465,6 +27614,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1572228644
     verified: true
   - title: The Developing Countries from the Standpoint of Marxist Political Economy
+    original_title: Marksistskaja politėkonomija i razvivajuščiesja strany
     authors:
       - Yuri N. Popov
     year: 1977
@@ -27485,6 +27635,7 @@ titles:
     series: ABC Political Science
   - title: The Great October Revolution and Mankind's Progress
     subtitle: Report at a Jubilee Meeting of the Central Committee of the CPSU, the Supreme Soviet of the USSR, and the Supreme Soviet of the RSFSR to Mark the Sixtieth Anniversary of the Great October Socialist Revolution, November 2, 1977
+    original_title: Velikij oktjabrʹ i progress čelovečestva
     authors:
       - Leonid Ilʹich Brezhnev
     year: 1977
@@ -27613,6 +27764,8 @@ titles:
     subtitle: Past and Present
     authors:
       - A. Demidov
+    translators:
+      - Guy Daniels
     year: 1977
     edition: 1st ed
     language: English
@@ -28026,6 +28179,7 @@ titles:
         url: https://www.sudoc.fr/11134395X
     verified: true
     subtitle: Report by the Minister of Defence of the USSR at the Meeting Marking the 60th Anniversary of the Soviet Army and Navy, Moscow, February 22, 1978
+    original_title: Shestʹdesi︠a︡t let na strazhe zavoevaniĭ Velikogo Okti︠a︡bri︠a︡
   - title: A Look into the Future
     authors:
       - G. Kh Shakhnazarov
@@ -28098,6 +28252,7 @@ titles:
     verified: true
   - title: Arrêter la course aux armements! Prévenir la guerre nucléaire! Passer au désarmement!
     subtitle: Extraits de discours et interventions
+    original_title: Obuzdatʹ gonku vooruženij!
     authors:
       - Leonid Ilʹič Brežnev
     year: 1978
@@ -28170,6 +28325,7 @@ titles:
         url: https://www.sudoc.fr/054910757
     verified: true
   - title: Comment l'industrie lourde a été créée en U.R.S.S
+    original_title: Kak sozdavalas' USSSR tiajelaïa indoustriïa
     series: L' Expérience soviétique
     authors:
       - Aleksandr Gouber
@@ -28182,6 +28338,7 @@ titles:
         url: https://www.sudoc.fr/054583276
     verified: true
   - title: Comment on élabore les lois en URSS
+    original_title: Kak rozdaûsâ zakony
     series: La démocratie soviétique
     authors:
       - Ûrij Vsvevolodovič Naumkin
@@ -28259,6 +28416,7 @@ titles:
     verified: true
   - title: Detente
     subtitle: The only way
+    original_title: 'Razrjadka: drugogo puti net'
     series: The Soviet viewpoint
     authors:
       - Mikhail Golubnichij
@@ -28735,6 +28893,7 @@ titles:
     verified: true
   - title: Lenin
     subtitle: On the Proletarian Party of a New Type
+    original_title: O proletarskoj partii novogo tipa
     series: The Great Legacy of Marxism-Leninism
     authors:
       - Vladimir Ilʹič Lenin
@@ -28838,6 +28997,7 @@ titles:
     verified: true
   - title: Maoism
     subtitle: Slogans and Practice
+    original_title: 'Maoizm: lozungi i praktika'
     authors:
       - Vladimir Glebov
     year: 1978
@@ -28906,6 +29066,7 @@ titles:
         url: https://search.worldcat.org/title/25017101
     verified: true
   - title: Novosti Press Agency ... Yearbook the USSR
+    original_title: Ezhegodnik SSSR
     authors:
       - Agentstvo pechati "Novosti."
     year: 1978
@@ -29507,6 +29668,7 @@ titles:
         url: https://lccn.loc.gov/85175343
     verified: true
     subtitle: April 25, 1978
+    original_title: Reč' Sʺezd Vsesojuznogo leninskogo kommunističeskogo sojuza molodeži
   - title: 'Speech... at the UN General Assembly''s Special Session on Disarmament.On Practical Ways to End the Arms Race: Proposals of the Soviet Union'
     authors:
       - A. A. Gromyko
@@ -29727,6 +29889,7 @@ titles:
     verified: true
   - title: To Stop the Arms Race; to Prevent Nuclear War; to Start Disarmament
     subtitle: Excerpts from Speeches
+    original_title: Discours
     authors:
       - Leonid Ilʹich Brezhnev
     year: 1978
@@ -30264,6 +30427,8 @@ titles:
     subtitle: Soviet Initiatives
     authors:
       - Sergei Batsanov
+    editors:
+      - Sergej B. Batsanov
     year: 1979
     edition: 2nd ed., rev
     language: English
@@ -30516,6 +30681,7 @@ titles:
     verified: true
   - title: Le Sport soviétique
     subtitle: Questions et réponses
+    original_title: Sovetskij sport v voprosah i otvetah
     authors:
       - Serguéi Popov
       - Alexéi Srebnitski
@@ -30526,6 +30692,7 @@ titles:
         url: https://www.sudoc.fr/114250073
     verified: true
   - title: Lenin on Labour Under Socialism
+    original_title: Lenin o trude pri socializme
     authors:
       - Vladimir Il’ich Lenin
     year: 1979
@@ -30630,6 +30797,7 @@ titles:
     subtitle: How the Problem Is Tackled in the Soviet Union
     series: Soviet Democracy at Work
   - title: Muslims in the USSR
+    original_title: Musulʹmane v SSSR
     authors:
       - Abdulla Vachabov
     year: 1979
@@ -30659,6 +30827,7 @@ titles:
     pages: 68
   - title: Nonalignment
     subtitle: Its Friends and Foes
+    original_title: 'Neprisoedinenie : druz''ja i protivniki'
     authors:
       - N. A. Simoniia
     year: 1979
@@ -31390,6 +31559,7 @@ titles:
     verified: true
   - title: Young People in the USSR
     subtitle: Answers to Questions
+    original_title: Sovetskai︠a︡ Molodezhʹ
     authors:
       - G. I. Reznichenko
     year: 1979
@@ -31951,6 +32121,7 @@ titles:
         url: https://openlibrary.org/books/OL18501997M
     verified: true
   - title: Lenin Through the Eyes of Lunacharsky
+    original_title: Kakim byl Lenin?·
     authors:
       - Anatolij Vasilevič Lunačarskij
     year: 1980
@@ -32272,6 +32443,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1425803946
     verified: true
   - title: Peking and Chinese "Emigration"
+    original_title: Peking kitajskaja emigracija
     authors:
       - V. I. Vanin
     year: 1980
@@ -32343,6 +32515,7 @@ titles:
     verified: true
   - title: Proletarian Internationalism
     subtitle: Our Banner, Our Strength!
+    original_title: Proletarskij internacionalizm - naše znamja, naša sila!
     authors: []
     year: 1980
     language: English
@@ -32451,6 +32624,7 @@ titles:
         url: https://d-nb.info/997310022
     verified: true
   - title: Soviet Five Year Plans
+    original_title: Sovetskie pi︠a︡tiletki
     authors:
       - Leonid Danilov
     year: 1980
@@ -32729,6 +32903,7 @@ titles:
     verified: true
   - title: The Truth About Afghanistan
     subtitle: Documents, Facts, Eyewitness Reports
+    original_title: Pravda ob Afganistane
     authors:
       - Jurij Volkov
     year: 1980
@@ -32792,9 +32967,11 @@ titles:
         url: https://openlibrary.org/books/OL15237299M
     verified: true
   - title: Un coup d'oeil de Moscou
+    original_title: Vzglâd iz Moskvy
     authors:
       - Valentin Sergeevič Zorin
       - Valentin Sergeevich Zorin (Валентин Сергеевич Зорин)
+    translators:
       - I. Bajkov
       - E. Baikov (И. Байков)
     year: 1980
@@ -33009,6 +33186,8 @@ titles:
   - title: A True Tale of Two Wars
     authors:
       - A. A. Sharipov
+    translators:
+      - Vladimir Krivoshchokov
     year: 1981
     language: English
     pages: 131
@@ -33022,6 +33201,7 @@ titles:
     verified: true
   - title: Against the Arms Race and the Threat of War
     subtitle: An Article Published in Pravda on July 25, 1981
+    original_title: Pravda (Moscow, Russia)
     authors:
       - Dmitriĭ Fedorovich Ustinov
     year: 1981
@@ -33149,6 +33329,8 @@ titles:
     subtitle: A Soviet View on the Export of Revolution and Export of Counter-revolution
     authors:
       - Anatoli Yesipov
+    translators:
+      - Arkadi Illarionov
     year: 1981
     edition: Express ed
     language: English
@@ -33174,8 +33356,11 @@ titles:
     verified: true
   - title: China's Frontiers
     subtitle: From Traditional Expansionism to Hegemonism Today
+    original_title: Granicy Kitaja
     authors:
       - Vladimir Yasenev
+    translators:
+      - Gulhamid Sobratee
     year: 1981
     language: English
     pages: 133
@@ -33205,6 +33390,11 @@ titles:
   - title: Crime Prevention and Law
     authors:
       - Khiil Sheĭnin
+    editors:
+      - Boris Sergeevič Nikiforov
+      - Peter Tempest
+    translators:
+      - Sergei Chulaki
     year: 1981
     series: Soviet Democracy at Work
     language: English
@@ -33340,6 +33530,8 @@ titles:
   - title: For a Collective and Just Solution of the Middle East Problem
     authors:
       - Vladimir Konstantinovich Katin
+    translators:
+      - Arkadi Illarionov
     year: 1981
     edition: Express ed
     language: English
@@ -33354,6 +33546,8 @@ titles:
     subtitle: Economic Integration of Socialist Community Countries
     authors:
       - Nikolaĭ Vasilʹevich Faddeev
+    translators:
+      - Vladimir Krivoshchekov
     year: 1981
     language: English
     pages: 93
@@ -33378,6 +33572,8 @@ titles:
   - title: Georgia
     authors:
       - Teĭmuraz Mamaladze
+    translators:
+      - Yelena Gorodetskaya
     year: 1981
     series: Socialist Republics of the Soviet Union
     language: English
@@ -33421,6 +33617,8 @@ titles:
   - title: Hegemonists and Imperialists in the Persian Gulf
     authors:
       - Grigoriĭ Lʹvovich Bondarevskiĭ
+    translators:
+      - Yuri Vinogradov
     year: 1981
     language: English
     pages: 139
@@ -33457,6 +33655,8 @@ titles:
   - title: How the USSR Began to Manage the Economy
     authors:
       - Vladimir Zinovʹevich Drobizhev
+    translators:
+      - Vladimir Krivoshchokov
     year: 1981
     series: True Story of the Russian Revolution and the Building of Socialism
     language: English
@@ -33507,9 +33707,10 @@ titles:
   - title: International Terrorism
     subtitle: 'Facts and Fiction: Documents, Press Reports and Comments: A Survey'
     authors:
-      - Valentin Kochetkov
       - Viacheslav Ivanovich Simakov
       - Peter Tempest
+    translators:
+      - Valentin Kochetkov
     year: 1981
     series: 'Political Extremism and Radicalism: Far-Right and Left Political Groups in the U.S., Europe, and Australia in the Twentieth Century'
     language: English
@@ -33632,6 +33833,7 @@ titles:
     verified: true
     pages: 109
   - title: Lenin on the Proletarian Party of a New Type
+    original_title: O proletarskoj partii novogo tipa
     authors:
       - Vladimir Il’ich Lenin
     year: 1981
@@ -33650,6 +33852,8 @@ titles:
     subtitle: Selected Articles, Speeches, Talks, Reminiscences
     authors:
       - Anatoly Vasilievich Lunacharsky
+    editors:
+      - I. A. Lunačarskaja
     year: 1981
     language: English
     pages: 195
@@ -33696,6 +33900,7 @@ titles:
       - label: Read or download (Internet Archive)
         url: https://archive.org/details/leninversustrotskyandhisfollowers
   - title: Lénine et le progrès social
+    original_title: Lenin i social'iyj progress
     authors:
       - Vadim Valentinovič Zagladin
     year: 1981
@@ -33786,8 +33991,13 @@ titles:
         url: https://lccn.loc.gov/81170882
     verified: true
   - title: Mineral Resources to Serve People's Needs
+    original_title: Nedra zemli--na sluzhbu narodu
     authors:
       - Rudolph Balandin
+    editors:
+      - Michelle MacGrath
+    translators:
+      - Valentin Kochetkov
     year: 1981
     language: English
     pages: 58
@@ -33929,6 +34139,8 @@ titles:
   - title: Partnership of Equals
     authors:
       - IUriĭ Siniakov
+    translators:
+      - Valentin Kochetkov
     year: 1981
     language: English
     pages: 74
@@ -34050,6 +34262,8 @@ titles:
   - title: Reminiscences
     authors:
       - Leonid Ilʹich Brezhnev
+    translators:
+      - Robert Daglish
     year: 1981
     language: English
     sources:
@@ -34214,6 +34428,8 @@ titles:
     subtitle: Questions and Answers
     authors:
       - S. P. Gridin
+    translators:
+      - Lyudmila Tetskaya
     year: 1981
     series: Soviet Democracy at Work
     language: English
@@ -34297,6 +34513,8 @@ titles:
   - title: The CPSU, Society, Human Rights
     authors:
       - K. U. Chernenko
+    translators:
+      - Valentin Kochetkov
     year: 1981
     language: English
     pages: 206
@@ -34309,6 +34527,7 @@ titles:
         url: https://openlibrary.org/books/OL13801601M
     verified: true
   - title: The Dragon Gains Strength
+    original_title: Drakon nabiraet silu
     authors:
       - Viktor Samarin
     year: 1981
@@ -34329,6 +34548,8 @@ titles:
   - title: The Inter-nationalism of the Soviet Working Class
     authors:
       - Nina Sergeevna Petrova
+    translators:
+      - Maria Danilyants
     year: 1981
     series: Discussing Advanced Socialism
     language: English, Russian
@@ -34357,6 +34578,8 @@ titles:
     subtitle: Problems and Prospects
     authors:
       - K. N. Brutents
+    translators:
+      - Valentin Kochetkov
     year: 1981
     language: English
     pages: 151
@@ -34408,6 +34631,8 @@ titles:
     subtitle: A Brief History of Relations
     authors:
       - Raisa Mirovitskaia
+    translators:
+      - Sergei Chulaki
     year: 1981
     language: English
     pages: 93
@@ -34427,6 +34652,8 @@ titles:
     subtitle: The 26th CPSU Congress Declares, Our Main Aims - Prosperity at Home, and Peace in the World
     authors:
       - Boris Krotkov
+    translators:
+      - Balentin Kochetko
     year: 1981
     language: English
     pages: 83
@@ -34446,6 +34673,8 @@ titles:
     subtitle: The International Situation and Soviet Peace Initiatives
     authors:
       - V. I. Kuznetsov
+    translators:
+      - Vladimir Krivoshchekov
     year: 1981
     language: English
     pages: 75
@@ -34464,6 +34693,7 @@ titles:
     edition: 2nd enl. ed
   - title: The Truth About Afghanistan
     subtitle: Documents, Facts, Eyewitness Reports
+    original_title: Pravda ob Afganistane
     authors:
       - A. Ashitkov
     year: 1981
@@ -34591,6 +34821,8 @@ titles:
   - title: Truth About Nuclear War
     subtitle: World Scientists Speak
     authors: []
+    translators:
+      - Valentin Kochetkov
     year: 1981
     series: 'Express Edition: A Cool Look at Hot News'
     language: English
@@ -34625,6 +34857,8 @@ titles:
   - title: Ukraine
     authors:
       - Vladimir Serobaba
+    translators:
+      - Vladimir Krivoshchekov
     year: 1981
     series: Socialist Republics of the Soviet Union
     language: English
@@ -34681,6 +34915,8 @@ titles:
     subtitle: Through the Eyes of Friends and Foes
     authors:
       - L. M. Eremeev
+    translators:
+      - Gulhammid Sobratee
     year: 1981
     language: English
     pages: 121
@@ -34759,8 +34995,13 @@ titles:
         url: https://openlibrary.org/books/OL17716717M
     verified: true
   - title: What Prominent Chinese Democrats and Communists Have Said About the Soviet Union
+    original_title: Vidnye kitaĭskie demokraty i kommunisty o Sovetskom Soi︠u︡ze
     authors:
       - Andreĭ Mefodievich Ledovskiĭ
+    editors:
+      - Peter Tempest
+    translators:
+      - Maria Danilyants
     year: 1981
     language: English
     pages: 95
@@ -34779,6 +35020,8 @@ titles:
   - title: What the Papers Say About Love
     authors:
       - Leonid Zhukovitskii
+    translators:
+      - Michelle MacGrath
     year: 1981
     series: The Soviet Way of Life
     language: English
@@ -34799,6 +35042,10 @@ titles:
     subtitle: How Differences Arose Between China's Maoist Leaders and the USSR and Other Socialistcountries
     authors:
       - Oleg Ivanov
+    editors:
+      - Peter Tempest
+    translators:
+      - Maria Danilyants
     year: 1981
     language: English
     sources:
@@ -34819,6 +35066,8 @@ titles:
   - title: Who Profits from Telling Lies About the Soviet Union?
     authors:
       - Albert Belyayev
+    translators:
+      - Gulhammid Sobratee
     year: 1981
     language: English
     pages: 76
@@ -34887,6 +35136,8 @@ titles:
     subtitle: The Siege of Leningrad
     authors:
       - Nikolai Voronkov
+    translators:
+      - Arkadi Illarionov
     year: 1982
     language: English
     sources:
@@ -34926,6 +35177,8 @@ titles:
     subtitle: Views of Soviet Experts from the Institute of Africa
     authors:
       - Anatoliĭ Andreevich Gromyko
+    translators:
+      - Sergei Chulaki
     year: 1982
     language: English, Russian
     pages: 120
@@ -34971,6 +35224,8 @@ titles:
   - title: By the Will of the Peoples
     authors:
       - IUriĭ Aleksandrovich Poliakov
+    translators:
+      - Valentin Kochetkov
     year: 1982
     language: English
     pages: 59
@@ -34994,6 +35249,8 @@ titles:
   - title: Byelorussia
     authors:
       - Anatolii Stuk
+    translators:
+      - Sergei Chulaki
     year: 1982
     series: Socialistrepublics of the Soviet Union
     language: English
@@ -35010,6 +35267,7 @@ titles:
     pages: 79
   - title: Chemical Weapons
     subtitle: 'A Gas Chamber for Humankind: Documents and Comments'
+    original_title: Chhimičeskoe oružie
     authors:
       - Lev Fyodorov
       - Yuri Shvedkov
@@ -35104,6 +35362,8 @@ titles:
     subtitle: Who Is for, Who Is Against
     authors:
       - Gennadiĭ Gerasimov
+    translators:
+      - Natalia Korolyova
     year: 1982
     language: English
     pages: 83
@@ -35275,6 +35535,8 @@ titles:
   - title: Glimpses of Lenin
     authors:
       - Yegor Yakovlev
+    translators:
+      - A. Kryzhanski
     year: 1982
     language: English
     pages: 94
@@ -35318,6 +35580,7 @@ titles:
     verified: true
   - title: How the USSR Is Working for Disarmament at the UN
     subtitle: Selected Documents
+    original_title: Borʹba SSSR v Oon za razoruzhenie
     authors:
       - Sergei Batsanov
     year: 1982
@@ -35384,6 +35647,8 @@ titles:
   - title: It's a Different Way of Life
     authors:
       - Nikolai.* Yefimov
+    translators:
+      - Valentin Kochetkov
     year: 1982
     language: English
     pages: 83
@@ -35413,8 +35678,11 @@ titles:
     verified: true
   - title: Jews in the USSR
     subtitle: Figures, Facts, Comment
+    original_title: Evrei v SSSR
     authors:
       - Avtandil Rukhadze
+    translators:
+      - Vladimir Krivoshchekov
     year: 1982
     edition: 2nd rev. ed
     language: English
@@ -35459,8 +35727,11 @@ titles:
     verified: true
     series: '[Soviet Booklets]'
   - title: Kirghizia
+    original_title: Kirgizija
     authors:
       - Tendik Askarov
+    translators:
+      - Maria Danilyants
     year: 1982
     series: Socialist Republics of the Soviet Union
     language: English
@@ -35490,7 +35761,8 @@ titles:
     verified: true
   - title: L'urss
     subtitle: Le Pays et les Hommes
-    authors:
+    authors: []
+    translators:
       - Franck Trannoy
     year: 1982
     language: French, Czech, German, English
@@ -35531,6 +35803,8 @@ titles:
   - title: Lenin on Students in Revolution
     authors:
       - N. Ya Olesich
+    translators:
+      - Vladimir Krivoshchekov
     year: 1982
     language: English
     sources:
@@ -35624,6 +35898,8 @@ titles:
   - title: Moldavia
     authors:
       - Fyodor Angeli
+    translators:
+      - Valentin Kochetkov
     year: 1982
     language: English
     sources:
@@ -35650,6 +35926,8 @@ titles:
   - title: Mythical "Threat" and the Real Danger to Peace
     authors:
       - Dmitri Volkogonov
+    translators:
+      - Boris Lunkov
     year: 1982
     language: English
     pages: 40
@@ -35702,6 +35980,8 @@ titles:
   - title: One Hundred Nationalities - One People
     authors:
       - Eduard Aleksandrovich Bagramov
+    translators:
+      - Vladimir Krivoshchyokov
     year: 1982
     series: The True Story of the Russian Revolution and the Building of Socialism
     language: English
@@ -35917,6 +36197,8 @@ titles:
     subtitle: Answering Questions Onthe Economic Theory of Socialism
     authors:
       - Nikolaĭ Dmitrievich Kolesov
+    translators:
+      - Gulhammid Sobratee
     year: 1982
     series: ABCpolitical Science
     language: English
@@ -35949,8 +36231,13 @@ titles:
     verified: true
   - title: Political Terms
     subtitle: A Short Guide
+    original_title: Kratkii slovar politicheskikh terminov
     authors:
       - Boris Putrin
+    editors:
+      - Selena Kotlobai
+    translators:
+      - Valentin Kochetkov
     year: 1982
     series: ABC Political Science
     language: English
@@ -36054,6 +36341,7 @@ titles:
     verified: true
   - title: Report at a Jubilee Meeting of the Central Committee of the CPSU, the Supreme Soviet of the USSR, and the Supreme Soviet of the RSFSR to Mark the Sixtieth Anniversary of the Formation of the Union of Soviet Socialist Republics
     subtitle: December 21, 1982
+    original_title: Šestidesjataja godovščina obrazovanija Sojuza sovetskich socialističeskich respublik
     authors:
       - Jurij Vladimirovič Andropov
       - Kommunističeskaja Partija Sovetskogo Sojuza
@@ -36067,6 +36355,10 @@ titles:
   - title: Russian Federation
     authors:
       - Georgii Kublitskii
+    editors:
+      - Daphne Skillen
+    translators:
+      - Arkady Illarionov
     year: 1982
     series: Socialist Republics of the Soviet Union
     language: English
@@ -36149,6 +36441,8 @@ titles:
     subtitle: Problems of the South of Africa
     authors:
       - Anatolii Andreevich Gromyko
+    translators:
+      - Sergei Chulaki
     year: 1982
     language: English
     pages: 50
@@ -36233,9 +36527,11 @@ titles:
         url: https://lccn.loc.gov/83128104
     verified: true
   - title: Soviet Experience in Building a Federal State
+    original_title: Sovetskai︠a︡ Federat︠s︡ii︠a︡--print︠s︡ipy i praktika
     authors:
-      - Sergei Chulaki
       - Peter Tempest
+    translators:
+      - Sergei Chulaki
     year: 1982
     language: English
     sources:
@@ -36297,8 +36593,9 @@ titles:
     authors:
       - Aleksandr Nikolaevich Zharkov
       - Ûrij Andreevič Korolev
-      - Gulhammid Sobratee
       - Peter Tempest
+    translators:
+      - Gulhammid Sobratee
     year: 1982
     language: English
     sources:
@@ -36324,6 +36621,8 @@ titles:
   - title: Stop Terrorism!
     authors:
       - Ernst Genri
+    translators:
+      - Gulhammid Sobratee
     year: 1982
     language: English
     pages: 200
@@ -36429,6 +36728,7 @@ titles:
     verified: true
   - title: The Existing Parity Must Not Be Destroyed
     subtitle: USSR Ministerof Defense, Marshal of the Soviet Union, Dmitri Ustinov Replies to Questions Put by a TASS Correspondent, Pravda, December 7, 1982
+    original_title: Ne narushatʹ ustanovivshijsja paritet
     authors:
       - Union of Soviet Socialist Republics. Ministerstvo Oborony
     year: 1982
@@ -36485,6 +36785,8 @@ titles:
     verified: true
   - title: The Soviet Union--facts, Problems, Appraisals, 1982
     authors: []
+    translators:
+      - Arkadi Illarionov
     year: 1982
     language: English
     pages: 133
@@ -36501,6 +36803,7 @@ titles:
     subtitle: Speeches at the Seventh Congress of Soviet Writers, Moscow, June 30-July 4, 1981
     authors:
       - Peter Tempest
+    translators:
       - Valentin Kochetkov
     year: 1982
     language: English
@@ -36574,6 +36877,7 @@ titles:
     verified: true
   - title: To Uphold the Ideals of Helsinki
     subtitle: 'Security and Cooperation: Collection of Speeches and Articles'
+    original_title: Otstojatʹ idealy Chelʹsinki - bezopasnostʹ i sotrudničestvo
     authors:
       - Leonid Ilʹich Brezhnev
     year: 1982
@@ -36602,6 +36906,8 @@ titles:
   - title: TOKAMAK--towards Thermonuclear Energy
     authors:
       - Zh. M. Melʹnikova
+    translators:
+      - Valentin Kochetkov
     year: 1982
     series: The Soviet Union Today and Tomorrow
     language: English
@@ -36630,6 +36936,8 @@ titles:
   - title: Trade for Peace and Good Relations
     authors:
       - V. N. Azov
+    translators:
+      - Arkadi Illarionov
     year: 1982
     language: English
     pages: 93
@@ -36651,6 +36959,8 @@ titles:
   - title: Turkmenia
     authors:
       - Rakhim Ėsenov
+    translators:
+      - Tamara Mats
     year: 1982
     series: Socialist Republics of the Soviet Union
     language: English
@@ -36746,6 +37056,10 @@ titles:
   - title: Uzbekistan
     authors:
       - Yuri Rybin
+    editors:
+      - Peter Tempest
+    translators:
+      - Valentin Kochetkov
     year: 1982
     series: Socialist Republics of TheSoviet Union
     language: English
@@ -36805,6 +37119,8 @@ titles:
   - title: War and Peace in the Nuclear Age
     authors:
       - Gennadiĭ Ivanovich Gerasimov
+    translators:
+      - Arkadi Illarionov
     year: 1982
     series: A Cool Look at Hot News
     language: English
@@ -36861,6 +37177,8 @@ titles:
     series: '[Soviet Booklets]'
   - title: What Makes a Hero
     authors: []
+    translators:
+      - Sergei Chulaki
     year: 1982
     series: Soviet Way of Life
     language: English
@@ -36927,6 +37245,8 @@ titles:
     subtitle: A Possibility or a Dream
     authors:
       - F. M. Burlatskiĭ
+    translators:
+      - Gulhammid Sobratee
     year: 1982
     series: '[Soviet Booklets]'
     language: English
@@ -36973,6 +37293,8 @@ titles:
     subtitle: Americans Write to Y.V. Andropov
     authors:
       - IU. V. Andropov
+    editors:
+      - Youri Vladimirovich Andropov
     year: 1983
     language: English
     pages: 14
@@ -37022,6 +37344,8 @@ titles:
     subtitle: The Arms Trade in the World Today
     authors:
       - Tom Emelʹianov
+    translators:
+      - Gulhamid Sobratee
     year: 1983
     language: English
     pages: 68
@@ -37065,6 +37389,8 @@ titles:
     subtitle: Growth Prospects
     authors:
       - P. A. Paskarʹ
+    translators:
+      - Andrei Ogorodnev
     year: 1983
     language: English
     pages: 44
@@ -37131,6 +37457,8 @@ titles:
   - title: Are We Born Happy?
     authors:
       - Leonid Aronovich Zhukhovitskiĭ
+    translators:
+      - Arkadi Illarionov
     year: 1983
     language: English
     pages: 80
@@ -37157,6 +37485,8 @@ titles:
   - title: Armed Forces in the World Today
     authors:
       - Dmitriĭ Antonovich Volkogonov
+    translators:
+      - Vladimir Krivoshchekov
     year: 1983
     language: English
     pages: 60
@@ -37194,6 +37524,8 @@ titles:
   - title: Behind the Doors of the White House
     authors:
       - Ėrnst Genri
+    translators:
+      - Peter Tempest
     year: 1983
     language: English
     pages: 117
@@ -37210,6 +37542,8 @@ titles:
   - title: Beirut in Flames
     authors:
       - Alexander Smirnov
+    translators:
+      - Sergei Chulaki
     year: 1983
     language: English
     pages: 95
@@ -37218,6 +37552,7 @@ titles:
         url: https://openlibrary.org/books/OL24700713M
     verified: true
   - title: Cannon Shell and the Parthenon
+    original_title: Jadro i parfenon
     authors:
       - Aleksandr Borisovič Pumpjanskij
     year: 1983
@@ -37245,6 +37580,8 @@ titles:
     subtitle: A Storm Zone
     authors:
       - Vladimir Dolgov
+    translators:
+      - Gulhamid Sobratee
     year: 1983
     language: English
     pages: 78
@@ -37267,6 +37604,8 @@ titles:
   - title: CIA's Secret War
     authors:
       - N. N. IAkovlev
+    translators:
+      - Arkadi Illarionov
     year: 1983
     language: English
     pages: 119
@@ -37322,6 +37661,8 @@ titles:
   - title: Development of the Agrarian Sector in the USSR
     authors:
       - Klavdiĭ Mikhaĭlovich Bogoliubov
+    translators:
+      - Valentin Kochetkov
     year: 1983
     series: The Soviet Experience
     language: English
@@ -37363,6 +37704,8 @@ titles:
     subtitle: Problems of Economic Restructuring
     authors:
       - Yuri Ivanovich Bobrakov
+    translators:
+      - Valentin Kochetkov
     year: 1983
     language: English
     pages: 71
@@ -37430,6 +37773,8 @@ titles:
   - title: Genoa Conference and the Search for Peace Today
     authors:
       - Sheena Wakefield
+    translators:
+      - Valentin Kochetkov
     year: 1983
     language: English
     pages: 103
@@ -37449,6 +37794,7 @@ titles:
     series: '[Soviet Booklets]'
   - title: Grenada
     subtitle: US Terrorism in Action; Documents, Facts, Comments
+    original_title: Grenada, terrorizm SShA v deĭstvii
     authors:
       - IUriĭ Gvozdev
       - IUriĭ Aleksandrov
@@ -37495,6 +37841,8 @@ titles:
   - title: Ground Troops
     authors:
       - V. I. Malinin
+    translators:
+      - Igor Okov
     year: 1983
     series: USSR Armed Forces
     language: English
@@ -37523,6 +37871,8 @@ titles:
   - title: Hegemonism and US-Style "Partnership"
     authors:
       - Alim-Khan
+    translators:
+      - Andrei Ogorodnev
     year: 1983
     series: '[Soviet Booklets]'
     language: English
@@ -37608,6 +37958,8 @@ titles:
   - title: How Would Disarmament Affect Each of Us?
     authors:
       - Elena Knorre
+    translators:
+      - Lyudmila Tetskaya
     year: 1983
     language: English
     pages: 44
@@ -37680,6 +38032,8 @@ titles:
   - title: Is There a Labour Shortage in the USSR?
     authors:
       - Sofʹia Knizhnik
+    translators:
+      - Valentin Kochetkov
     year: 1983
     language: English
     pages: 118
@@ -37780,6 +38134,7 @@ titles:
     subtitle: Réalisations, problèmes, perspectives
     authors:
       - Nikolaï Aleksandrovitch Tikhonov
+    translators:
       - Igor Baïkov
     year: 1983
     language: French
@@ -38068,6 +38423,7 @@ titles:
     verified: true
   - title: Places Dear to the Heart
     subtitle: Sketches About the Life of Jewish People in the USSR
+    original_title: Po rodnym mestam
     authors: []
     year: 1983
     language: English
@@ -38103,6 +38459,7 @@ titles:
     verified: true
     pages: 29
   - title: Press Conference
+    original_title: Press-konferentsiya dlya Sovetskich i inostrannych žurnalistov člena Politbjuro ck KPCC .
     authors:
       - Andreĭ Andreevich Gromyko
     year: 1983
@@ -38141,6 +38498,7 @@ titles:
         url: https://d-nb.info/369161351
     verified: true
   - title: Report at the Session of the USSR Supreme Soviet, June 16, 1983
+    original_title: O meždunarodnom položenii i vnešnej politike Sovetskogo Sojuza
     authors:
       - A. A. Gromyko
     year: 1983
@@ -38159,6 +38517,7 @@ titles:
     verified: true
     pages: 29
   - title: Responsibility for the Future of Our Planet
+    original_title: Otvetstvennostʹ za buduščee planety
     authors:
       - Vsesoiuznaia konferentsiia uchenykh za izbavlenie chelovechestva ot ugrozy iadernoi voĭny, za razoruzhenie i mir (1983 Moscow, R. S. F. S. R.)
     year: 1983
@@ -38340,6 +38699,8 @@ titles:
     subtitle: Questions and Answers
     authors:
       - V. T. Lisovskii
+    translators:
+      - Sergei Chulaki
     year: 1983
     language: English
     pages: 71
@@ -38363,6 +38724,8 @@ titles:
     subtitle: The United Nations Decade for Women, 1976-1985
     authors:
       - N. Vishneva-Sarafanova
+    translators:
+      - Peter Tempest
     year: 1983
     language: English
     pages: 64
@@ -38417,6 +38780,8 @@ titles:
   - title: Spitsbergen, Archipelago of Goodneighbourliness
     authors:
       - Alexei Rylnikov
+    translators:
+      - Lyudmila Tetskaya
     year: 1983
     language: English
     pages: 39
@@ -38476,6 +38841,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991003228889705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: 'General Secretary of the CPSU Central Committee, Chairman of the Presidium of the USSR Supreme Soviet: September 28, 1983'
+    original_title: Zajavlenie
   - title: Statement by Y.V. Andropov ... September 28, 1983
     authors:
       - Yu. V. Andropov
@@ -38490,6 +38856,8 @@ titles:
     subtitle: Sketches of Enterprising People in the USSR
     authors:
       - Aleksandr Nezhnyĭ
+    translators:
+      - Nikolai Shebeko
     year: 1983
     language: English
     pages: 111
@@ -38526,6 +38894,8 @@ titles:
   - title: The CPSU in Developed Socialist Society
     authors:
       - V. Gorov
+    translators:
+      - Andrei Ogorodnev
     year: 1983
     series: The True Story of the Russian Revolution and the Building of Socialism
     language: English
@@ -38559,6 +38929,8 @@ titles:
   - title: The Legal Status of Foreign Citizens in the USSR
     authors:
       - Nikolaĭ Vladimirovich Mironov
+    translators:
+      - Vladimir Krivoshchekov
     year: 1983
     language: English
     pages: 60
@@ -38617,6 +38989,10 @@ titles:
     subtitle: 20 Years of Struggle for Unity and Independence of Africa
     authors:
       - Yuri Zhuravlev
+    editors:
+      - Peter Tempest
+    translators:
+      - M. Nikolsky
     year: 1983
     language: English
     pages: 53
@@ -38649,6 +39025,8 @@ titles:
   - title: The Politics and Ideology of German Fascism
     authors:
       - Aleksandr Solomonovich Blank
+    translators:
+      - Gulhammid Sobratee
     year: 1983
     language: English
     pages: 98
@@ -38664,6 +39042,7 @@ titles:
     verified: true
   - title: The Race Against Reason
     subtitle: Falsification of Soviet Military Policy
+    original_title: Gonka protiv razuma
     authors: []
     year: 1983
     language: English
@@ -38683,6 +39062,7 @@ titles:
     series: '[Soviet Booklets]'
   - title: The Soviet Union
     subtitle: Facts, Problems, Appraisals
+    original_title: Sovetskiĭ soi︠u︡z - fakty, problemy, ot︠s︡enki
     authors: []
     year: 1983
     language: English
@@ -38716,6 +39096,8 @@ titles:
   - title: The Training of Personnel for Industry
     authors:
       - Mai Volkov
+    translators:
+      - Andrei Ogorodnev
     year: 1983
     series: Soviet Experience
     language: English
@@ -38778,6 +39160,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991017851819705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Statementsand Interviews by Y.V. Andropov ... August-November 1983
+    original_title: Sochanitʹ mir dlja nynešnich i grjaduščich pokolenij
   - title: Together We Shall Prevail
     subtitle: Problems and Prospects of Today's Peace Movement
     authors:
@@ -38791,6 +39174,7 @@ titles:
     verified: true
   - title: Truth About Intermediate Range Nuclear Missiles
     subtitle: 'Answers to the Authors of the USIA Booklet "Intermediate-range Nuclear Forces: Questions and Answers"'
+    original_title: Pravda o jadernom oružii srednej dalʹnosti
     authors:
       - V. I. Kuznetsov
     year: 1983
@@ -38823,6 +39207,8 @@ titles:
   - title: USSR
     subtitle: 100 Questions and Answers
     authors: []
+    translators:
+      - Arkadi Illarionov
     year: 1983
     language: English
     sources:
@@ -38870,6 +39256,8 @@ titles:
     subtitle: Good-Neighbourliness and Fraternal Friendship
     authors:
       - L. B. Teplinskiĭ
+    translators:
+      - Sergei Chulaki
     year: 1983
     language: English
     pages: 71
@@ -38898,6 +39286,8 @@ titles:
     subtitle: Pages from a Life of Struggle
     authors:
       - Yurii Aksyutin
+    translators:
+      - Andrei Ogorodnev
     year: 1983
     series: Soviet Booklets
     language: English
@@ -39059,6 +39449,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991150747089705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: 'Statement: November 24, 1983'
+    original_title: Kto i počemu sorval peregovory v Ženeve?
     series: '[Soviet Booklets]'
   - title: Whose Interests Does "Psychological Warfare" Serve
     authors:
@@ -39075,6 +39466,8 @@ titles:
   - title: Why the Arms Race Continues
     authors:
       - L. F. Fedorov
+    translators:
+      - Sergei Chulaki
     year: 1983
     language: English
     pages: 62
@@ -39094,6 +39487,8 @@ titles:
   - title: Why the Bolsheviks Won
     authors:
       - Yuri Vasiliev
+    translators:
+      - Valentin Kochetkov
     year: 1983
     language: English
     pages: 113
@@ -39144,6 +39539,8 @@ titles:
     subtitle: Where and How Have George Orwell's Forecasts Come True?
     authors:
       - Me lor Georgievich Sturua
+    translators:
+      - Peter Tempest
     year: 1984
     language: English
     pages: 24
@@ -39261,6 +39658,8 @@ titles:
   - title: Big Business Against Nature
     authors:
       - G. S. Khozin
+    translators:
+      - Gulhamid Sobratee
     year: 1984
     language: English
     sources:
@@ -39277,6 +39676,9 @@ titles:
   - title: Capital Promotes Imperialist Expansion
     authors:
       - Andrei Gromyko
+    translators:
+      - Vladimir Krivoshchekov
+      - Translation edited by Peter Tempest
     year: 1984
     language: English
     pages: 229
@@ -39296,6 +39698,8 @@ titles:
     subtitle: Old Ways and New
     authors:
       - A. P. Malʹsagov
+    translators:
+      - Peter Tempest
     year: 1984
     language: English
     pages: 130
@@ -39318,6 +39722,8 @@ titles:
     subtitle: New Prospects on the Top-Level Economic Conference of the CMEA Member States
     authors:
       - Yu. A. Konstantinov
+    translators:
+      - Lenina Ilyitskaya
     year: 1984
     language: English
     pages: 46
@@ -39384,6 +39790,8 @@ titles:
   - title: Council for Mutual Economic Assistance (35th Anniversary)
     authors:
       - IUriĭ Siniakov
+    translators:
+      - Lyudmila Tetskaya
     year: 1984
     language: English
     pages: 54
@@ -39454,6 +39862,8 @@ titles:
   - title: Dialectics of the Coexistence of Two Social Systems
     authors:
       - M. M. Rozentalʹ
+    translators:
+      - Boris Lunkov
     year: 1984
     language: English
     pages: 69
@@ -39476,6 +39886,8 @@ titles:
     subtitle: A Vital Task for Socialist-Oriented Countries
     authors:
       - IU. N. Popov
+    translators:
+      - Valentin Kochetkov
     year: 1984
     series: Soviet Experience
     language: English
@@ -39490,6 +39902,8 @@ titles:
     subtitle: On the Criminal Policy of Israel's Zionist Regime
     authors:
       - Georgiĭ Fedorov
+    translators:
+      - Vyacheslav Semyonov
     year: 1984
     language: English
     pages: 60
@@ -39509,6 +39923,8 @@ titles:
   - title: Enslavers and Enslaved
     authors:
       - Viktor Samarin
+    translators:
+      - Sergei Chulaki
     year: 1984
     language: English
     pages: 45
@@ -39521,6 +39937,8 @@ titles:
   - title: Foreign Students in the USSR
     authors:
       - Dmitriĭ Bilibin
+    translators:
+      - Sheena Wakefield
     year: 1984
     language: English
     pages: 71
@@ -39533,6 +39951,8 @@ titles:
   - title: Gambling on Fear
     authors:
       - Evgeniĭ Lugovoĭ
+    translators:
+      - Valentin Kochetkov
     year: 1984
     language: English, Russian
     pages: 93
@@ -39548,6 +39968,8 @@ titles:
     subtitle: Whither Soviet - U.S. Relations?
     authors:
       - Gennadiĭ Gerasimov
+    translators:
+      - Natalia Mazitova
     year: 1984
     language: English
     pages: 56
@@ -39610,6 +40032,8 @@ titles:
   - title: Human Rights American Style
     authors:
       - Vladimir Viktorovich Bolʹshakov
+    translators:
+      - Gulhamid Sobratee
     year: 1984
     language: English
     pages: 54
@@ -39652,6 +40076,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991152733689705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Ideological Struggle and Questions of Peace
+    original_title: Ideologicheskai︠a︡ borʹba i voprosy mira
     authors:
       - Leonid Mitrofanovich Zamiatin
     year: 1984
@@ -39690,6 +40115,8 @@ titles:
   - title: Information Imperialism
     authors:
       - IU. (IUriĭ) Kashlev
+    translators:
+      - Valentin Kochetkov
     year: 1984
     language: English, Russian
     pages: 75
@@ -39818,6 +40245,8 @@ titles:
   - title: Leading a Full Life Regardless
     authors:
       - Ilʹia Lʹvovich Gitlits
+    translators:
+      - Lyudmila Tetskaya
     year: 1984
     language: English
     pages: 79
@@ -39860,8 +40289,13 @@ titles:
         url: https://d-nb.info/99652634X
     verified: true
   - title: Memoirs of a Russian Worker
+    original_title: Rysk arbetares memoarer
     authors:
       - Arvid Rundberg
+    editors:
+      - Sheena Wakefield
+    translators:
+      - Sergei Chulaki
     year: 1984
     series: '[Soviet Booklets]'
     language: English
@@ -39885,6 +40319,8 @@ titles:
     subtitle: Life & Work
     authors:
       - Galina Evgenʹevna Pavlova
+    translators:
+      - Vladimir Krivoshchekov
     year: 1984
     language: English
     pages: 76
@@ -39942,6 +40378,8 @@ titles:
   - title: Muslims in the USSR
     authors:
       - Leon Emin
+    translators:
+      - Arkadi Illarionov
     year: 1984
     language: English
     pages: 55
@@ -40152,6 +40590,7 @@ titles:
     verified: true
   - title: Safeguard Peace and Ensure the People's Well-Being
     subtitle: 'Speech at a Meeting with Voters of the Kuibyshev Constituency in Moscow on March 2, 1984: Speech at the Extraordinary Plenary Meeting of the CPSU Central Committee on February 13, 1984'
+    original_title: Bereč' mir, Zabotit'sja o blage naroda
     authors:
       - K. U. Chernenko
     year: 1984
@@ -40225,6 +40664,8 @@ titles:
   - title: Socialism, Not Capitalism
     authors:
       - M. K. Bunkina
+    translators:
+      - Andrei Ogorodnev
     year: 1984
     series: Political Science
     language: English
@@ -40253,6 +40694,9 @@ titles:
     subtitle: Questions and Answers
     authors:
       - Alʹbert Pin
+    editors:
+      - V. Chirikov
+      - N. Zholkver
     year: 1984
     language: English
     pages: 118
@@ -40274,6 +40718,8 @@ titles:
   - title: Soviet Power and Islam
     authors:
       - Shaukat Burkhanov
+    translators:
+      - Gulhamid Sobratee
     year: 1984
     language: English
     pages: 46
@@ -40290,6 +40736,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=152860835
     verified: true
     subtitle: Government's Experience in Cooperating with the Muslim Clergy
+    original_title: Sovetskaii︠a︡ vlastʹ i islam
   - title: SSCB'de Müslümanlar
     authors:
       - Leon Emin
@@ -40331,6 +40778,8 @@ titles:
   - title: Stockholm, Two Approaches to Confidence-Building
     authors:
       - E. Kamenskiĭ
+    translators:
+      - Arkady Illarionov
     year: 1984
     language: English
     pages: 47
@@ -40357,6 +40806,8 @@ titles:
   - title: Tankmen
     authors:
       - F. D. Sverdlov
+    translators:
+      - Igor Kochubei
     year: 1984
     series: USSR Armed Forces
     language: English
@@ -40383,6 +40834,10 @@ titles:
   - title: The Catholic Church in the USSR
     authors:
       - Igorʹ Aleksandrovich Troianovskiĭ
+    editors:
+      - Sheena Wakefield
+    translators:
+      - Mikhail Nikolsky
     year: 1984
     language: English
     pages: 59
@@ -40455,6 +40910,8 @@ titles:
     subtitle: 40 Years After the Yalta and Potsdam Conferences, 1945
     authors:
       - Vadim Nekrasov
+    translators:
+      - Gulhammid Sobratee
     year: 1984
     language: English
     pages: 87
@@ -40475,6 +40932,8 @@ titles:
   - title: The Soviet Peace Programme in Action
     authors:
       - V. Zagladin
+    translators:
+      - Olga Tabachnikova
     year: 1984
     language: English
     sources:
@@ -40488,8 +40947,11 @@ titles:
     pages: 158
   - title: The Soviet People
     subtitle: 'Portrait Sketches: About the Origins, Ways, Customs and Traditions of Peoples'
+    original_title: Sovetskij narod
     authors:
       - Georgii Kublitskii
+    translators:
+      - Lyudmila Tetskaya
     year: 1984
     language: English
     sources:
@@ -40537,6 +40999,10 @@ titles:
   - title: The Tragedy of the Palestinian People
     authors:
       - E. Dmitriev
+    editors:
+      - Peter Tempest
+    translators:
+      - Andrei Ogorodnev
     year: 1984
     language: English
     pages: 80
@@ -40641,6 +41107,7 @@ titles:
     verified: true
   - title: To Perfect Developed Socialism and Fight for World Peace
     subtitle: A Collection of Speeches and Statements March-April 1984
+    original_title: Sovershenstvovanie razvitogo sot︠s︡ializma i borʹba za mir na planete
     authors:
       - K. U. Chernenko
     year: 1984
@@ -40669,6 +41136,8 @@ titles:
     subtitle: Whose Interests Does It Serve?
     authors:
       - Nikolaĭ Vasetskiĭ
+    translators:
+      - Vyacheslav Semyonov
     year: 1984
     language: English, Russian
     pages: 76
@@ -40692,6 +41161,7 @@ titles:
     verified: true
   - title: USSR
     subtitle: On the Threshold of 1984
+    original_title: 'SSSR: Vstupaja v 1984'
     authors:
       - Yuri Andropov
     year: 1984
@@ -40777,6 +41247,8 @@ titles:
   - title: War Heroes
     authors:
       - Akram Agzamovich Sharipov
+    translators:
+      - Arkadi Illarionov
     year: 1984
     language: English
     pages: 85
@@ -40817,6 +41289,8 @@ titles:
   - title: What I Saw in Moscow and Leningrad
     authors:
       - Fritz Immele
+    translators:
+      - Mikhail Nikolsky
     year: 1984
     series: USSR Through the Eyes of Foreign Visitors
     language: English
@@ -40871,6 +41345,7 @@ titles:
     verified: true
   - title: Who Is Violating International Agreements?
     subtitle: The Testimony of US Politicians, Scientists, and Experts on Disarmament
+    original_title: Kto narušaet meždunarodnye soglašenija?
     authors:
       - A. V. Kortunov
     year: 1984
@@ -40902,8 +41377,11 @@ titles:
         url: https://openlibrary.org/books/OL14190801M
     verified: true
   - title: Zionism Counts on Terror
+    original_title: Sionism--stavka na terror
     authors:
       - Sergeĭ Sedov
+    translators:
+      - Yuri Sviridov
     year: 1984
     language: English
     pages: 79
@@ -40938,6 +41416,8 @@ titles:
   - title: '"New Religions" and the Battle of Ideas'
     authors:
       - Pavel Semenovich Gurevich
+    translators:
+      - Sergei Chulaki
     year: 1985
     series: Two Different Worlds, Two Different Ideologies
     language: English
@@ -41006,8 +41486,11 @@ titles:
     verified: true
   - title: An Effective Instrument of Peace
     subtitle: 40th Anniversary of the United Nations
+    original_title: Dejstvennyj instrument mira
     authors:
       - Vladimir Fedorovich Petrovsky
+    translators:
+      - Yevgeni Khazanov
     year: 1985
     language: English
     pages: 77
@@ -41029,6 +41512,8 @@ titles:
     subtitle: The Path of Struggle and Labour
     authors:
       - V. G. Dmitrenko
+    translators:
+      - Gulhamid Sobratee
     year: 1985
     language: English
     pages: 60
@@ -41040,6 +41525,7 @@ titles:
     verified: true
   - title: Ce que nous recherchons dans l'art
     subtitle: Conversations avec des écrivains, artistes
+    original_title: Za chto my boremsi︠a︡ v iskusstve
     authors:
       - V. E. Sankov
     year: 1985
@@ -41289,6 +41775,7 @@ titles:
     verified: true
   - title: Fidélité à l'esprit d'Helsinki
     subtitle: Pour le 10e anniversaire de la Conférence européenne
+    original_title: Sledovat duhu Helsinki
     authors:
       - Jurij Borisovic Kaslev
     year: 1985
@@ -41336,6 +41823,8 @@ titles:
   - title: For the Well-Being of All
     subtitle: Implementation of the Soviet Food Programme
     authors: []
+    translators:
+      - Lenina Ilyitskaya
     year: 1985
     language: English
     pages: 87
@@ -41427,6 +41916,8 @@ titles:
   - title: How I Discovered Religion in Russia
     authors:
       - Aldo Quinto Lazzari
+    translators:
+      - Gulhammid Sobratee
     year: 1985
     series: USSR Through the Eyes of Foreign Visitors
     language: English
@@ -41463,6 +41954,7 @@ titles:
     verified: true
   - title: Immortal Exploit of the Soviet People
     subtitle: Speech at the Commemorative Meeting to Mark the 40th Anniversary of the Soviet People's Victory in the Great Patriotic War 1941-1945, Moscow, May 8, 1985
+    original_title: Bessmertnyj podvig sovetskogo naroda
     authors:
       - Mikhail Sergeevich Gorbachev
     year: 1985
@@ -41613,6 +42105,7 @@ titles:
         url: https://archive.org/details/leninaboutyounge0000leni
     verified: true
   - title: Les Souris blanches et la liberté de l'individu
+    original_title: O belyh myšah i svobode ličnosti
     authors:
       - Edward Arab-Ogly
     year: 1985
@@ -41654,6 +42147,8 @@ titles:
   - title: Looking Forward to the 12th World Youth Festival
     authors:
       - Vladimir Aleksandrovich Aksenov
+    translators:
+      - Andrei ogorodnev
     year: 1985
     language: English
     pages: 37
@@ -41708,6 +42203,7 @@ titles:
         url: https://openlibrary.org/books/OL22024343M
     verified: true
   - title: Mikhail Gorbachev's Answers to Questions Put by Time Magazine
+    original_title: Otvety M. S. Gorbačeva amerikanskomu žurnalu "Tajm"
     authors:
       - Mikhail Sergeevich Gorbachev
     year: 1985
@@ -41814,6 +42310,8 @@ titles:
     subtitle: Professional Killer
     authors:
       - V. L. Koldobskiĭ
+    translators:
+      - Arkadi Illarionov
     year: 1985
     language: English
     pages: 77
@@ -42039,6 +42537,8 @@ titles:
   - title: Revolution in Women's Life
     authors:
       - E. D. Emelʹianova
+    translators:
+      - Sergei Chulaki
     year: 1985
     language: English
     pages: 55
@@ -42097,6 +42597,8 @@ titles:
   - title: Social Security in the USSR
     authors:
       - Aleksandŭr Dedul
+    translators:
+      - Arkadi Illarionov
     year: 1985
     language: English
     pages: 58
@@ -42122,6 +42624,8 @@ titles:
     subtitle: View of a Soviet Scholar
     authors:
       - IUriĭ Popov
+    translators:
+      - Lyudmila Tetskaya
     year: 1985
     series: ABC Political Science
     language: English
@@ -42404,6 +42908,8 @@ titles:
     subtitle: For the 40th Anniversary of the August Revolution in Vietnam
     authors:
       - A. Serov
+    translators:
+      - Boris Lunkov
     year: 1985
     language: English
     pages: 85
@@ -42471,6 +42977,8 @@ titles:
     subtitle: Notes by a Soviet War Correspondent
     authors:
       - Daniil Fedorovich Kraminov
+    translators:
+      - Sergei Chulaki
     year: 1985
     language: English
     pages: 119
@@ -42513,6 +43021,8 @@ titles:
     subtitle: Social and Psychological Aspects of Unemployment
     authors:
       - Mark Isaakovich Lapitskiǐ
+    translators:
+      - Andrei Ogorodnev
     year: 1985
     language: English
     pages: 54
@@ -42560,6 +43070,9 @@ titles:
     subtitle: Its Origins and Development
     authors:
       - S. D. Belenkov
+    translators:
+      - Andrei Ogorodnev
+      - Translation edited by George Wood
     year: 1985
     language: English
     pages: 79
@@ -42624,6 +43137,8 @@ titles:
   - title: To Ensure Security in the Mediterranean
     authors:
       - Ė. V. Kovalev
+    translators:
+      - Mikhail Nikolsky
     year: 1985
     language: English
     pages: 71
@@ -42641,6 +43156,8 @@ titles:
     subtitle: On the 10th Anniversary of the All-European Conference
     authors:
       - Yu. B. Kashlev
+    translators:
+      - Oleg Svetlov
     year: 1985
     language: English
     pages: 92
@@ -42669,6 +43186,9 @@ titles:
   - title: US Nuclear Shadow over Asia
     authors:
       - Vladimir Lukin
+    translators:
+      - Mikhail Nikolsky
+      - Translation edited by George Wood
     year: 1985
     language: English
     sources:
@@ -42712,6 +43232,8 @@ titles:
     subtitle: Through the Eyes of Friends and Foes
     authors:
       - L. M. Eremeev
+    translators:
+      - Gulhammid Sobratee
     year: 1985
     language: English
     pages: 111
@@ -42922,6 +43444,8 @@ titles:
   - title: Afghanistan Chooses a New Road
     authors:
       - Eugenia Jaunarena
+    translators:
+      - Boris Lunkov
     year: 1986
     language: English
     pages: 92
@@ -42938,8 +43462,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1752314069
     verified: true
     subtitle: '= Afghanistan Vybiraet Novyj Put: (Na Anglijskom Jazyke)'
+    original_title: Afganistan vybiraet novyj putʹ
   - title: Afghanistan today
     authors: []
+    translators:
+      - Arkadi Aksyonov
     year: 1986
     language: Multiple languages, Russian
     pages: 93
@@ -42973,6 +43500,8 @@ titles:
     subtitle: CIA & Co. on the Outcome of the Antonov Trial
     authors:
       - Ė. V. Kovalev
+    translators:
+      - Vladimir Krivoshchekov
     year: 1986
     language: English
     pages: 80
@@ -42985,6 +43514,8 @@ titles:
   - title: Byelorussia
     authors:
       - M. Shimanskiĭ
+    translators:
+      - Gulhamid Sobratee
     year: 1986
     series: Socialist Republics of the Soviet Union
     language: English
@@ -43038,10 +43569,12 @@ titles:
         url: https://openlibrary.org/books/OL13875723M
     verified: true
   - title: Countering Information Imperialism
+    original_title: Protiv informacionnogo imperializma
     authors:
       - Julij Magari
-      - Boris Lunkov
       - Agentstvo Pečati Novosti
+    translators:
+      - Boris Lunkov
     year: 1986
     language: English
     sources:
@@ -43082,7 +43615,8 @@ titles:
     verified: true
   - title: Droits de l'homme
     subtitle: Les pactes internationaux et la législation soviétique
-    authors:
+    authors: []
+    translators:
       - Stanislav Dovganiouk
     year: 1986
     language: French
@@ -43174,6 +43708,7 @@ titles:
         url: https://openlibrary.org/books/OL19352190M
     verified: true
   - title: Fraternal Alliance
+    original_title: Bratskii soiuz
     authors:
       - Aleksandr Vasilʹevich Proskurin
     year: 1986
@@ -43275,6 +43810,9 @@ titles:
       - Viktor Mikhaĭlovich Chkhikvadze
       - E. A. Lukasheva
       - Institut gosudarstva i prava (Akademiia nauk SSSR)
+    translators:
+      - Andrei Ogorodnev
+      - Translation edited by Vladimir Padunov
     year: 1986
     language: English
     pages: 118
@@ -43383,6 +43921,8 @@ titles:
   - title: Make the Economy Responsive to Innovations
     authors:
       - Abel Gezevich Aganbegian
+    translators:
+      - Boris Lunkov
     year: 1986
     series: Expert Opinion
     language: English
@@ -43411,6 +43951,9 @@ titles:
     subtitle: '"Nuclear Winter" and the Problem of a "Permissible Threshold"'
     authors:
       - N. N. Moiseev
+    translators:
+      - Boris Lunkov
+      - Translation edited by Selena Kotlobai
     year: 1986
     language: English
     pages: 92
@@ -43527,6 +44070,8 @@ titles:
   - title: Muslims in the USSR
     authors:
       - Leon Emin
+    translators:
+      - Boris Lunkov
     year: 1986
     language: English
     pages: 32
@@ -43540,6 +44085,8 @@ titles:
     subtitle: Realities and Problems
     authors:
       - Markiana Osmova
+    translators:
+      - Boris Lunkov
     year: 1986
     series: Socialism and the Global Problems of Today
     language: English
@@ -43618,6 +44165,8 @@ titles:
     subtitle: On the Results of the 27th CPSU Congress
     authors:
       - V. V. Zagladin
+    translators:
+      - Oleg Svetlov
     year: 1986
     language: English
     pages: 93
@@ -43654,6 +44203,8 @@ titles:
   - title: People's Well-Being in Socialist Society
     authors:
       - Viktor Petrovich Klavdienko
+    translators:
+      - Arkadi Illarionov
     year: 1986
     language: English
     pages: 72
@@ -43765,6 +44316,8 @@ titles:
   - title: Possessing Energy Resources Is Not Enough
     authors:
       - Anatoliĭ Petrovich Aleksandrov
+    translators:
+      - Arkady Illarionov
     year: 1986
     series: Expert Opinion
     language: English
@@ -43794,6 +44347,7 @@ titles:
         url: https://openlibrary.org/books/OL14382342M
     verified: true
   - title: Putešestvie v Sovetskij Sojuz
+    original_title: Journey to the Soviet Union
     authors:
       - Samantha Leanne Smith
     year: 1986
@@ -43815,6 +44369,7 @@ titles:
         url: https://search.worldcat.org/title/17197762
     verified: true
   - title: Razoruzanje-ideal socijalizma
+    original_title: Razoruzhenie
     authors:
       - B. P. Krasulin
     year: 1986
@@ -43862,6 +44417,8 @@ titles:
   - title: Science Will Help Speed Production
     authors:
       - Guriĭ Ivanovich Marchuk
+    translators:
+      - Vladimir Krivoshchekov
     year: 1986
     series: Expert Opinion
     language: English
@@ -43883,6 +44440,8 @@ titles:
     subtitle: The U.S. Threat of Space Militarization
     authors:
       - Gennadiĭ Gerasimov
+    translators:
+      - Natalia Mazitova
     year: 1986
     language: English
     pages: 70
@@ -43977,6 +44536,7 @@ titles:
     verified: true
   - title: Stability and Security, a Common Concern
     subtitle: 'Visit of General Secretary of the CPSU Central Committee, Mikhail Gorbachev to India, Novembre 25-28, 1986: Documents and Materials'
+    original_title: Stabil'nostʹ i bezopasnostʹ- zabota obščaja
     authors:
       - Mijaíl Sergueevich Gorbachiov
     year: 1986
@@ -44063,6 +44623,9 @@ titles:
     subtitle: 'Stellar Delusions: The US Threat of Space Militarisation'
     authors:
       - Gennadii Gerasimov
+    translators:
+      - Natalia Mazitova
+      - Translation edited by Linda Noble
     year: 1986
     language: English
     sources:
@@ -44118,6 +44681,8 @@ titles:
   - title: The Bondage of Debt
     authors:
       - V. M. Davydov
+    translators:
+      - Bois Lunkov
     year: 1986
     language: English
     pages: 62
@@ -44330,6 +44895,7 @@ titles:
     verified: true
   - title: The Results and Lessons of Reykjavik
     subtitle: Summit Meeting in the Icelandic Capital October 11-12, 1986
+    original_title: Itogi i uroki Rejkʹjavika
     authors:
       - Mikhail Sergeevich Gorbachev
     year: 1986
@@ -44368,6 +44934,7 @@ titles:
     verified: true
   - title: The Soviet Course
     subtitle: 'Peace and Renovation: The 27th CPSU Congress on the Foreign and Domestic Policy of the USSR'
+    original_title: 'SSSR: Kursom mira i obnovlenija'
     authors:
       - Vladimir Konstantinovich Katin
     year: 1986
@@ -44400,6 +44967,8 @@ titles:
     subtitle: Questions and Answers
     authors:
       - R. Davydkov
+    editors:
+      - D. Fomin
     year: 1986
     language: English
     pages: 109
@@ -44591,6 +45160,8 @@ titles:
   - title: Washington, a Policy of Eroding Treaties and Agreements
     authors:
       - V. N. Chernyshev
+    translators:
+      - Boris Lunkov
     year: 1986
     language: English
     pages: 62
@@ -44622,6 +45193,8 @@ titles:
   - title: We Count on Machine Building
     authors:
       - K. V. Frolov
+    translators:
+      - Vladimir Krivoshchekov
     year: 1986
     series: Expert Opinion
     language: English
@@ -44676,6 +45249,8 @@ titles:
   - title: '"Pros" and "Cons" of Individual Labour'
     authors:
       - Miroslav Nikolaevich Kondratʹev
+    translators:
+      - Leonid Khodyrev
     year: 1987
     series: Perestroika in the Mirror of the Law
     language: English
@@ -44700,6 +45275,8 @@ titles:
     subtitle: Ideals and Reality
     authors:
       - Konstantin Nikolaev
+    translators:
+      - Oleg Svetlov
     year: 1987
     language: English
     pages: 96
@@ -44825,8 +45402,13 @@ titles:
         url: https://www.sudoc.fr/220595755
     verified: true
   - title: Armenia
+    original_title: Armenija
     authors:
       - Gevorg Oganesian
+    editors:
+      - Juliette Shapland
+    translators:
+      - Mikhail Nikolsky
     year: 1987
     series: Socialist Republics of the Soviet Union
     language: English
@@ -44882,6 +45464,7 @@ titles:
         url: https://www.sudoc.fr/120003287
     verified: true
   - title: Books Promote an Understanding of the Restructuring Process
+    original_title: Kniga uskorjaet osmyslenie perestrojki
     authors:
       - Mikhail Fedorovich Nenashev
     year: 1987
@@ -44993,6 +45576,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991117225129705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Adopted at the Seventh (Special) Session of the Supreme Soviet of the USSR, Ninth Convocation, on October 7, 1977
+    original_title: Konstitut︠s︡ii︠a︡ (osnovnoĭ zakon)--Soi︠u︡za Sovetskikh Sot︠s︡ialisticheskikh Respublik
   - title: Čto možet sdelat' Evropa?
     subtitle: Sovetsko-zapadnogermanskaja diskussija v Moskve; Perevod
     authors: []
@@ -45067,6 +45651,7 @@ titles:
         url: https://openlibrary.org/books/OL18920624M
     verified: true
   - title: Disarmament and Security... Yearbook
+    original_title: Razoruženie i bezopasnost'
     authors:
       - Institute of World Economy and International Relations
     year: 1987
@@ -45176,6 +45761,8 @@ titles:
     series: Socialist Republics of the Soviet Union
     authors:
       - Ressi Kaera
+    translators:
+      - Oleg Svetlov
     year: 1987
     language: Russian
     sources:
@@ -45234,6 +45821,8 @@ titles:
   - title: Fighting Bureaucracy, an Internal Enemy
     authors:
       - Leonid Dmitrievich Sobolev
+    translators:
+      - Andrei Ogorodnev
     year: 1987
     series: 'Perestroika: What''s New in Legislation'
     language: English
@@ -45252,6 +45841,8 @@ titles:
     subtitle: Winter Olympic Sports in the Soviet Union
     authors:
       - L. A. Lebedev
+    translators:
+      - Arcadi Illarionov
     year: 1987
     language: English
     pages: 52
@@ -45338,6 +45929,8 @@ titles:
     verified: true
   - title: Georgia
     authors: []
+    translators:
+      - Arkadi Illarionov
     year: 1987
     series: Socialist Republics of the Soviet Union
     language: English
@@ -45462,6 +46055,8 @@ titles:
   - title: Human Rights
     subtitle: A View of the Problem
     authors: []
+    translators:
+      - Boris Lunkov
     year: 1987
     language: English
     pages: 27
@@ -45490,6 +46085,8 @@ titles:
     subtitle: Chronicle of a Tragedy
     authors:
       - Valerian Tarkhanovsky
+    translators:
+      - Boris Lunkov
     year: 1987
     language: English
     pages: 15000
@@ -45622,6 +46219,8 @@ titles:
   - title: Latvia
     authors:
       - Monika Zile
+    translators:
+      - Oleg Svetlov
     year: 1987
     language: English
     sources:
@@ -45711,6 +46310,8 @@ titles:
   - title: Lithuania
     authors:
       - Petras Griškevičius
+    translators:
+      - Mikhail Nikolsky
     year: 1987
     series: Socialist Republics of the Soviet Union
     language: English
@@ -45847,6 +46448,7 @@ titles:
         url: https://lccn.loc.gov/2009498131
     verified: true
   - title: Modern Socialism Must First and Foremost Know Itself
+    original_title: Sovremennyi sotsializm dolzhen poznat v pervuiu ochered samogo sebia
     authors:
       - A. N. IAkovlev
     year: 1987
@@ -45873,6 +46475,8 @@ titles:
   - title: Moldavia
     authors:
       - Georgiĭ Vsevolodovich Stoĭlik
+    translators:
+      - Vladimir Krivoshchekov
     year: 1987
     series: Socialist Republics of the Soviet Union
     language: English
@@ -45974,6 +46578,7 @@ titles:
     verified: true
   - title: October and Perestroika
     subtitle: The Revolution Continues
+    original_title: 'Oktiabrʹ i perestroika: revoliutsiia prodolzhaetsia'
     authors:
       - Mikhail Sergeevich Gorbachev
     year: 1987
@@ -46341,6 +46946,7 @@ titles:
         url: https://search.worldcat.org/title/20691498
     verified: true
     subtitle: Muscovites Approve Wider Openness
+    original_title: Pribavljatʹ oboroty perestrojki
   - title: Restructuring, a Vital Concern of the People
     subtitle: Speech at the 18th Congress of the Trade Unions of the USSR, February 25, 1987
     authors:
@@ -46419,6 +47025,8 @@ titles:
   - title: Seventy Years of Soviet Government
     authors:
       - Vladimir Semenovich Gurevich
+    translators:
+      - Boris Lunkov
     year: 1987
     language: English
     pages: 94
@@ -46581,7 +47189,8 @@ titles:
   - title: Sur l'ouvrage de V.I. Lénine
     subtitle: L'etat et la révolution
     series: Etudier le Marxisme-Léninisme
-    authors:
+    authors: []
+    translators:
       - Igor Baïkov
     year: 1987
     language: Spanish
@@ -46601,6 +47210,8 @@ titles:
   - title: Tajikistan
     authors:
       - Muḣammad Osimī
+    translators:
+      - Andrei Ogorodnev
     year: 1987
     series: Socialist Republics of the Soviet Union
     language: English
@@ -46761,6 +47372,7 @@ titles:
     verified: true
   - title: The Lessons of Chernobyl Are Important for All
     subtitle: Learning from the Past for the Sake of the Future
+    original_title: Uroki Černobylja važny dlja vsech
     authors:
       - Valeri Alekseevich Legasov
     year: 1987
@@ -46792,6 +47404,8 @@ titles:
   - title: The Party in the Political System of Socialist Society (a Treatise)
     authors:
       - Anatoliĭ Pavlovich Butenko
+    translators:
+      - Gulhamid Sobratee
     year: 1987
     language: English
     pages: 77
@@ -46908,6 +47522,7 @@ titles:
         url: https://openlibrary.org/books/OL18538109M
     verified: true
   - title: Triangle of Contradictions
+    original_title: Treugolʹnik protivorečij
     authors:
       - S. M. Menʹshikov
     year: 1987
@@ -46926,8 +47541,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=114323305
     verified: true
   - title: Turkmenia
+    original_title: Turkmeniia
     authors:
       - Bally Yazkuliyev
+    translators:
+      - Yelena Gorodetskaya
     year: 1987
     series: Socialist Republics of the Soviet Union
     language: English
@@ -46971,6 +47589,8 @@ titles:
   - title: Ukraine
     authors:
       - Vladimir Serobaba
+    translators:
+      - Oleg Svetlov
     year: 1987
     series: Socialist Republics of the Soviet Union
     language: English
@@ -47073,6 +47693,8 @@ titles:
     verified: true
   - title: Uzbekistan
     authors: []
+    translators:
+      - Gulhammid Sobratee
     year: 1987
     series: Socialist Republics of the Soviet Union
     language: English
@@ -47135,8 +47757,11 @@ titles:
         url: https://openlibrary.org/books/OL17784670M
     verified: true
   - title: We Choose Life!
+    original_title: Izberem žiznʹ
     authors:
       - Filaret Metropolitan of Minsk and Hrodna
+    translators:
+      - Boris Lunkov
     year: 1987
     language: English
     pages: 70
@@ -47192,6 +47817,8 @@ titles:
     subtitle: Marxism Versus Sociological Pessimism and Its Neo-Marxist Version
     authors:
       - Yuri Ostrovityanov
+    translators:
+      - Boris Lunkov
     year: 1987
     series: Two Different Worlds, Two Different Ideologies
     language: English
@@ -47346,6 +47973,8 @@ titles:
   - title: A Millenium of Russian Orthodoxy
     authors:
       - Valerii Lobachev
+    translators:
+      - Mikhail Nikolsky)
     year: 1988
     language: English
     sources:
@@ -47357,6 +47986,8 @@ titles:
   - title: A Millennium of Russian Orthodoxy
     authors:
       - Valeriĭ Konstantinovich Lobachev
+    translators:
+      - Mikhail Nikolsky
     year: 1988
     language: English
     pages: 116
@@ -47450,6 +48081,8 @@ titles:
     subtitle: (How the Problem of Homeless Children Was Solved in the USSR)
     authors:
       - Nadezhda Azhgikhina
+    translators:
+      - Boris Lunkov
     year: 1988
     language: English
     pages: 67
@@ -47467,6 +48100,7 @@ titles:
     verified: true
   - title: Almanach de l'agence de presse Novosti ST 87
     subtitle: Sciences et techniques Soviétiques
+    original_title: Alʹmanach APN. Sovetskaja nauka i technika - 87
     authors: []
     year: 1988
     language: French
@@ -47543,6 +48177,7 @@ titles:
         url: https://www.sudoc.fr/148827608
     verified: true
   - title: Boris Piotrovski
+    original_title: Boris Piotrovskiï
     authors:
       - Iuriï Lazarevich Alianskiï
     year: 1988
@@ -47607,6 +48242,8 @@ titles:
   - title: Broadening the Horizons of Creative Search
     subtitle: The October Revolution and Perestroika
     authors: []
+    translators:
+      - Boris Lunkov
     year: 1988
     language: English
     pages: 42
@@ -47697,6 +48334,7 @@ titles:
     verified: true
   - title: Democratization--the Essence of Perestroika, the Essence of Socialism
     subtitle: A Meeting at the CPSU Central Committee with the Heads of the Mass Media, Ideological Institutions and Artistic Union, January 8, 1988
+    original_title: Demokratizacija - sutʹ perestrojki, sutʹ socializma
     authors:
       - Mikhail Sergeevich Gorbachev
     year: 1988
@@ -47774,6 +48412,7 @@ titles:
     verified: true
   - title: Documents of the Meeting of the Political Consultative Committee of the Warsaw Treaty Member States
     subtitle: Warsaw, July 15-16, 1988
+    original_title: Dokumenty soveščanija Političeskogo Konsul'tativnogo Komiteta Gosudarstv-Učastnikov Varšavskogo Dogovora
     authors:
       - Warsaw Treaty Organization. Political Consultative Committee. Meeting
     year: 1988
@@ -47892,6 +48531,7 @@ titles:
     verified: true
   - title: Gerichtsreform
     subtitle: Ein Gebot der Perestroika
+    original_title: Sudebnaja reforma - trebovanie perestrojki
     series: Meinung eines Prominenten
     authors:
       - Vladimir Ivanovič Terebilov
@@ -48109,6 +48749,8 @@ titles:
     subtitle: Prominent Soviet Philosophers at a Round-Table Discussion
     authors:
       - Juliette Shapland
+    translators:
+      - Boris Lunkov
     year: 1988
     language: English
     sources:
@@ -48351,6 +48993,7 @@ titles:
     subtitle: Les grands noms de la culture soviétique
     authors:
       - Anatolij Mironovič Smelânskij
+    translators:
       - Irina Kotomkina
     year: 1988
     language: French
@@ -48361,6 +49004,8 @@ titles:
   - title: Oleg Yefremov
     authors:
       - A. M. Smelianskiĭ
+    translators:
+      - Mikhail Nikolsky
     year: 1988
     series: Masters of Soviet Art
     language: English
@@ -48499,6 +49144,7 @@ titles:
     verified: true
   - title: Regional Conflicts - Universal Danger
     subtitle: Soviet Viewpoint
+    original_title: Konflikty - regional'nye, opasnost' - vseobščaja
     authors:
       - V. I. Katamidze
     year: 1988
@@ -48652,10 +49298,12 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991010057379708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: 'Southern Africa: The Essence of the Conflict'
+    original_title: 'Jug Afriki: suscestvo konflikta'
     authors:
       - Vladimir Borisovic Kokorev
       - Anatolij Il'ic Reznikovskij
       - Thomas Crane
+    translators:
       - Irina Svecova
     year: 1988
     language: English
@@ -48667,6 +49315,8 @@ titles:
     subtitle: Questions and Answers
     authors:
       - Valentin Petrovich Glushko
+    translators:
+      - Vladimir Krivoshchekov
     year: 1988
     language: English
     pages: 141
@@ -48796,6 +49446,7 @@ titles:
     verified: true
   - title: Sur la réalisation des décisions du XXVIIe Congrès du P.C.U.S. et l'approfondissement de la restructuration
     subtitle: Rapport du Secrétaire général du C.C. du P.C.U.S. à la XIXe Conférence du Parti communiste de l'Union Soviétique, le 28 juin 1988
+    original_title: O hode realizacii rešenij XXVII sʺezda KPSS i zadačah po uglubleniû perestrojki
     authors:
       - Mihail Sergeevič Gorbačëv
       - Conférence du Parti communiste de l'Union Soviétique
@@ -48840,6 +49491,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991160158609705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Sergei Losev
+    original_title: TASS daet samye nadežnye novosti
   - title: Tehran
     subtitle: 'Lessons of History: On the 45th Anniversary of the Tehran Conference'
     authors:
@@ -48897,6 +49549,7 @@ titles:
         url: https://openlibrary.org/books/OL18502581M
     verified: true
   - title: The Battle of Kursk, 1943
+    original_title: Kurskaja bitva
     authors:
       - Boris G. Solovév
     year: 1988
@@ -48926,6 +49579,7 @@ titles:
     verified: true
   - title: The Changing America
     subtitle: Travel Notes
+    original_title: 'Menjajuščajasja Amerika : putevye zametki'
     authors:
       - Sergeĭ Ivanʹko
     year: 1988
@@ -48952,6 +49606,8 @@ titles:
     subtitle: Thirty Years of the Cuban Revolution
     authors:
       - Marina Vasilʹeva
+    translators:
+      - Leonid Khodyrev
     year: 1988
     language: English
     pages: 79
@@ -49007,6 +49663,7 @@ titles:
     pages: 60
     isbn: '0902040000'
   - title: The Military Doctrine of the Warsaw Treaty Has a Defensive Character
+    original_title: Voennaja doktrina Varšavskogo Dogovora nosit oboronitelʹnyj charakter
     authors:
       - Viktor Georgievich Kulikov
     year: 1988
@@ -49207,6 +49864,7 @@ titles:
     verified: true
   - title: To Restore the Image of Socialism Through Democratization
     subtitle: A Meeting at the CPSU Central Committee with the Heads of the Mass Media, Ideological Institutions and Artistic Unions, May 7, 1988
+    original_title: Čerez demokratizaciju - k novomu obliku socializma
     authors:
       - Mikhail Sergeevich Gorbachev
       - TSK KPSS
@@ -49708,6 +50366,8 @@ titles:
     isbn: '0802000000'
   - title: A Key Stage of Perestroika
     authors: []
+    translators:
+      - Andrei Ogorodnev
     year: 1989
     series: Press Conferences and Briefings
     language: English
@@ -49751,6 +50411,7 @@ titles:
         url: https://archive.org/details/addressbymikhail00gorb
     verified: true
   - title: Afghanistan in Our Lives
+    original_title: Afganistan v našej sudʹbe
     authors:
       - German Belousov
     year: 1989
@@ -49868,6 +50529,8 @@ titles:
     isbn: '0902010600'
   - title: Cooperatives, Work and Initiative
     authors: []
+    translators:
+      - Margarita Latsinova
     year: 1989
     series: Perestroika, What's New in Legislation
     language: English
@@ -49998,6 +50661,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA40328873
     verified: false
   - title: Ecology
+    original_title: Ekologiia
     series: This Is the USSR
     authors:
       - Aleksandr A. Arbatov
@@ -50070,6 +50734,7 @@ titles:
     verified: true
     isbn: '0800000000'
   - title: Freiwillige Gesellschaften
+    original_title: Dobrovolʹnye obščestva
     series: Das ist die UDSSR
     authors:
       - Aron Isaakovič Šiglik
@@ -50081,6 +50746,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991004149499705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: From the ABC's to Higher Mathematics
+    original_title: Ot bukvarja k integralu
     series: Soviet Experience
     authors:
       - V. D. Esakov
@@ -50095,6 +50761,8 @@ titles:
     subtitle: The Development of the Soviet Union's Foreign Economic Relations Is a Major Factor for the Dynamic and Peaceful Development of International Relations
     authors:
       - Vladimir Kamentsev
+    translators:
+      - Leonid Khodyrev
     year: 1989
     series: Press Conferences and Briefings
     language: English
@@ -50128,6 +50796,7 @@ titles:
     authors:
       - I. A. Žukova
       - E. A. Zhukova (И.А. Жукова)
+    translators:
       - A. Bagaev
       - A. Bagaev (А. Багаев)
     year: 1989
@@ -50151,6 +50820,8 @@ titles:
   - title: Inter-ethnic Relations
     subtitle: Problems and Prospects
     authors: []
+    translators:
+      - Oleg Svetlov
     year: 1989
     language: English
     pages: 27
@@ -50162,6 +50833,10 @@ titles:
     subtitle: (On the Concept of the Balance of Interests)
     authors:
       - S. M. Rogov
+    editors:
+      - Thomas Crane
+    translators:
+      - Andrei Ogorodnev
     year: 1989
     language: English
     pages: 93
@@ -50222,6 +50897,7 @@ titles:
     series: La Bibliothèque de Spoutnik
     authors:
       - Youri Trofimov
+    translators:
       - Maria Vichnevskaia
     year: 1989
     language: French
@@ -50231,6 +50907,7 @@ titles:
     verified: true
   - title: La justice en U.R.S.S
     subtitle: (Essai de vulgarisation)
+    original_title: Pravosudie v SSSR
     authors:
       - Igorʹ Petrovič Vološin
     year: 1989
@@ -50374,6 +51051,8 @@ titles:
   - title: Mikhail Ulyanov
     authors:
       - I. Vishnevskaia
+    translators:
+      - Leonid Khodyrev
     year: 1989
     series: Soviet Cultural Figures
     language: English
@@ -50390,6 +51069,8 @@ titles:
   - title: Moscow, a Guide
     authors:
       - IA. M. Belitskiĭ
+    translators:
+      - Lyudmila Tetskaya
     year: 1989
     language: English
     pages: 314
@@ -50438,6 +51119,8 @@ titles:
     subtitle: Nikolai Bukharin, Alexei Rykov, Grigori Zinovyev, Lev Kamenev, Grigori Sokolnikov, Martemyan Ryutin
     authors:
       - Lev Voskresensky
+    translators:
+      - Igor Kochubei
     year: 1989
     series: Writing on the Restructuring
     language: English
@@ -50457,6 +51140,7 @@ titles:
     verified: true
   - title: Natalia Satz
     subtitle: Manager and Head Director of the Moscow State Academic Children's Musical Theatre, President of the Soviet Centre
+    original_title: Nataliia Sats
     series: From a Woman's Viewpoint
     authors:
       - Natalia Satz
@@ -50469,6 +51153,7 @@ titles:
     verified: true
   - title: Nationalities and Perestroika
     subtitle: A Dialogue Between Maskhud Dzhunusov, a Scholar, and Frida Markova, a Journalist
+    original_title: Nacija i perestrojka
     authors:
       - Maskhud S. Dzhunusov
     year: 1989
@@ -50539,6 +51224,8 @@ titles:
     authors:
       - Alekseĭ Serov
       - Arkadiĭ Illarionov
+    translators:
+      - Arkadi Illarionov
     year: 1989
     language: English
     sources:
@@ -50725,6 +51412,8 @@ titles:
   - title: Perestroika as Seen by a Writer
     authors:
       - Ivan Afanasʹevich Vasilʹev
+    translators:
+      - Natalia Shevyrina
     year: 1989
     language: English
     pages: 38
@@ -50736,6 +51425,8 @@ titles:
   - title: Perestroika as Seen by an Economist
     authors:
       - Ruslan Hasbulatov
+    translators:
+      - Boris Lunkov
     year: 1989
     language: English
     pages: 43
@@ -50792,6 +51483,8 @@ titles:
   - title: Perestroika, as Seen by a Mathematician
     authors:
       - N. N. Moiseev
+    translators:
+      - Arkady Illarionov
     year: 1989
     language: English
     pages: 28
@@ -50839,6 +51532,7 @@ titles:
     verified: true
   - title: Politics and Power
     subtitle: Military and Political Questions of International Security
+    original_title: Politika i sila
     authors:
       - D. M. Proėktor
     year: 1989
@@ -50914,6 +51608,7 @@ titles:
       - label: Read or download (Internet Archive)
         url: https://archive.org/details/gorbyrestructuringparty1989
   - title: Siberia in the 20th Century
+    original_title: Sibirʹ v panorame XX veka
     authors:
       - Veniamin Vasilʹevich Alekseev
     year: 1989
@@ -50946,6 +51641,8 @@ titles:
     subtitle: An Appraisal of Prospects
     authors:
       - Gennadiĭ Lisichkin
+    translators:
+      - Gleb Uspensky
     year: 1989
     language: English
     pages: 78
@@ -50993,6 +51690,8 @@ titles:
     subtitle: The Restructuring to Soviet Agriculture as Seen by a Bulgarian Journalist
     authors:
       - Plamen Iliev
+    translators:
+      - Oleg Svetlov
     year: 1989
     series: Seriia "Press-klub Perestroika"
     language: English
@@ -51057,6 +51756,8 @@ titles:
     verified: true
   - title: The Country and Its Peoples
     authors: []
+    translators:
+      - Gulhamid Sobratee
     year: 1989
     series: Writing on Perestroika = Seriia "Publitsistika Perestroĭki"
     language: English
@@ -51148,6 +51849,8 @@ titles:
     subtitle: (Basic Insight)
     authors:
       - Igor Voloshin
+    translators:
+      - Natalya Shevyrina
     year: 1989
     language: English
     pages: 68
@@ -51172,6 +51875,8 @@ titles:
     subtitle: Basic insight
     authors:
       - Igor Voloshin
+    translators:
+      - Natalya Shevyrina
     year: 1989
     language: Russian
     pages: 68
@@ -51265,6 +51970,7 @@ titles:
     edition: Rev. ed
   - title: The Problem of Compromise in Politics as Seen by Lenin in the First Post-revolutionary Years (1918-1921)
     subtitle: Reflections of a Journalist
+    original_title: Postanovka leninym problemy kompromissa v politike v pervye poslerevoljucionnye gody (1918-1921)
     authors:
       - Aleksandr Aleksandrovich Lebedev
     year: 1989
@@ -51278,6 +51984,8 @@ titles:
     verified: true
   - title: The Russian Orthodox Church Before and After Its 1000th Anniversary
     authors: []
+    translators:
+      - Oleg Svetlov
     year: 1989
     series: The Sputnik Library
     language: English
@@ -51310,6 +52018,8 @@ titles:
   - title: The Soviet Economy, a Look into the Future
     authors:
       - Leonid Korenev
+    translators:
+      - Boris Lunkov
     year: 1989
     language: English
     pages: 15
@@ -51359,6 +52069,8 @@ titles:
   - title: The Wonders and Problems of Lake Baikal
     authors:
       - Mark Sergeev
+    translators:
+      - Sergei Sumin
     year: 1989
     language: English
     pages: 75
@@ -51396,6 +52108,8 @@ titles:
   - title: Time for Practical Work
     authors:
       - A. N. IAkovlev
+    translators:
+      - Boris Strakhov
     year: 1989
     language: English
     pages: 29
@@ -51420,6 +52134,7 @@ titles:
         url: https://search.worldcat.org/title/19795505
     verified: true
   - title: To Restructure and Humanize International Relations
+    original_title: K perestrojke, gumanizacii mezdunarodnych otnosenij
     authors:
       - V. V. Zagladin
     year: 1989
@@ -51474,6 +52189,8 @@ titles:
     subtitle: Report
     authors:
       - Gennadi Yagodin
+    translators:
+      - Mikhail Nikolsky
     year: 1989
     language: English
     pages: 30
@@ -51561,6 +52278,8 @@ titles:
     subtitle: = Opening day in Moscow
     authors:
       - Viktor Egoryčev
+    editors:
+      - Elena = Alexeyeva Alekseeva
     year: 1989
     language: Russian
     sources:
@@ -51616,6 +52335,7 @@ titles:
     verified: true
   - title: Visit of Mikhail Gorbachev to Italy
     subtitle: 'November 29--December 1, 1989: Documents and Materials'
+    original_title: Vizit M.S. Gorbačeva v Italiju
     authors:
       - Mikhail Sergeevich Gorbachev
     year: 1989
@@ -52074,6 +52794,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1019306785
     verified: true
   - title: Bericht über die Ergebnisse des Treffens mit dem Präsidenten der USA und die Resultate der Tagung des Politischen Beratenden Ausschusses der Teilnehmerstaaten des Warschauer Vertrages auf der dritten Tagung des Obersten Sowjets der UdSSR, Moskau, Kreml, 12. Juni 1990
+    original_title: Vystuplenie M.S. Gorbačeva na tretʹej sessii verchnogo soveta SSSR .
     authors:
       - Michail Gorbačev
     year: 1990
@@ -52086,6 +52807,7 @@ titles:
     verified: true
   - title: Besuch Michail Gorbatschows in Spanien
     subtitle: '26.-28.Oktober 1990: Dokumente und Materialien'
+    original_title: Vizit M.S. Gorbačeva v Ispaniju
     series: Dokumente und Materialien
     authors:
       - Mijaíl Sergueevich Gorbachiov
@@ -52110,6 +52832,7 @@ titles:
     verified: true
   - title: Besuch von Michail Gorbatschow in Kanada
     subtitle: 29. - 30. Mai 1990; Dokumente und Materialien
+    original_title: Vizit M.S. Gorbačeva v Kanadu
     series: Dokumente und Materialien
     authors:
       - Michail Gorbačev
@@ -52322,6 +53045,7 @@ titles:
         url: https://d-nb.info/901457361
     verified: true
   - title: Die Partei auf dem Erneuerungsweg
+    original_title: Partija na puti obnovdenija
     series: Publizistik der Umgestaltung
     authors: []
     year: 1990
@@ -52468,6 +53192,8 @@ titles:
   - title: Elem Klimov and Larisa Shepitko
     authors:
       - A. R. Romanenko
+    translators:
+      - Natalia Shevyrina
     year: 1990
     series: Soviet Cultural Figures
     language: English
@@ -52484,6 +53210,7 @@ titles:
     subtitle: Les grands noms de la culture soviétique
     authors:
       - Aélita Romanenko
+    translators:
       - Irina Kotomkina
     year: 1990
     language: French
@@ -52516,6 +53243,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991039661479705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Meister der sowjetischen Kultur
+    original_title: Ėlim Klimov i Larisa Šepitʹko
   - title: Elena Obraztsova
     authors:
       - Rena Sheiko
@@ -52594,6 +53322,7 @@ titles:
         url: https://openlibrary.org/books/OL16995300M
     verified: true
   - title: Europe on the Eve of the Second World War
+    original_title: 'Evropa: kanun Vtoroj Mirovoj Vojny'
     authors:
       - Vilnis Janovič Sipols
     year: 1990
@@ -52742,6 +53471,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991063598889705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Hô Chi Minh
+    original_title: Cho Ši Min
     series: Patriote, Combattant, Humaniste
     authors:
       - Evgenij Vasilʹevič Kobelev
@@ -52843,6 +53573,7 @@ titles:
     subtitle: Réflexion à propos des dernières saisons théâtrales
     authors:
       - Anatolij Mironovič Smelânskij
+    translators:
       - Natalia Peressada
     year: 1990
     language: French
@@ -52873,6 +53604,7 @@ titles:
     verified: true
   - title: Lénine
     subtitle: Chronique biographique
+    original_title: Vladimir Ilʹič Lenin
     authors:
       - Vladimir Ilʹič Lenin
       - Vassili Zverev
@@ -52884,6 +53616,7 @@ titles:
     verified: true
   - title: Leningrad
     subtitle: Reiseführer
+    original_title: Leningrad
     series: Unterwegs in der UdSSR
     authors:
       - Alla Beljakova
@@ -53010,6 +53743,8 @@ titles:
   - title: Moskovskie novosti, 1989
     authors:
       - Egor IAkovlev
+    editors:
+      - Egor Iakovlev
     year: 1990
     edition: Faksimilʹnoe izd
     language: Russian
@@ -53323,6 +54058,7 @@ titles:
         url: https://search.worldcat.org/title/32513173
     verified: true
   - title: Perestroika as Seen by a Writer
+    original_title: Perestroǐka glazami pisateli︠a︡
     authors:
       - Vyacheslav Kondratyev
     year: 1990
@@ -53336,6 +54072,7 @@ titles:
   - title: Perestroika aus der Sicht eines Schriftstellers
     authors:
       - Vjačeslav L. Kondratʹev
+    translators:
       - Leonid Karin
     year: 1990
     language: German
@@ -53348,6 +54085,8 @@ titles:
   - title: Perestroika Through the Eyes of a People's Deputy
     authors:
       - Sergeĭ Borisovich Stankevich
+    translators:
+      - Natalia Shevyrina
     year: 1990
     language: English
     pages: 47
@@ -53690,6 +54429,7 @@ titles:
         url: https://openlibrary.org/books/OL20164245M
     verified: true
   - title: Stadtführer Moskau
+    original_title: Moskva
     authors:
       - Jakov Mironovič Belickij
     year: 1990
@@ -53711,6 +54451,8 @@ titles:
   - title: Stories About the Hermitage
     authors:
       - Alla Belyakova
+    translators:
+      - Margarita Latsinova
     year: 1990
     series: Museums in the USSR
     language: English
@@ -53763,6 +54505,7 @@ titles:
         url: https://openlibrary.org/books/OL20164190M
     verified: true
   - title: The Atom Bomb on the Black Market?
+    original_title: Atomnaja bomba na černom rynke
     authors:
       - Aleksandr Efremovich Efremov
     year: 1990
@@ -53814,6 +54557,8 @@ titles:
   - title: The End of Ideology?
     authors:
       - Konstantin Nikolaev
+    translators:
+      - Boris Lunkov
     year: 1990
     language: English
     pages: 117
@@ -53872,6 +54617,8 @@ titles:
     verified: true
   - title: The Party on the Road to Renewal
     authors: []
+    translators:
+      - Arkady Illarionov
     year: 1990
     series: Writing on Perestroika
     language: English
@@ -53940,6 +54687,8 @@ titles:
     subtitle: At the Crossroads of Perestroika
     authors:
       - Leonid Korenev
+    translators:
+      - M. Latsinova
     year: 1990
     language: English
     sources:
@@ -53968,6 +54717,8 @@ titles:
   - title: The Turning Point
     authors:
       - O. R. Latsis
+    translators:
+      - Sergei Sumin
     year: 1990
     series: Pages of History
     language: English
@@ -54012,6 +54763,8 @@ titles:
     subtitle: Culture and Society
     authors:
       - Nikolaĭ Samvelian
+    translators:
+      - Boris Lunkov
     year: 1990
     language: English
     pages: 70
@@ -54614,6 +55367,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=256845689
     verified: true
   - title: Carskaâ Rossiâ nakanune revolûcii
+    original_title: Russie des tsars pendant la grande guerre
     series: Golosa istorii
     authors:
       - Maurice Paléologue
@@ -54753,6 +55507,7 @@ titles:
     verified: true
   - title: Fašizm
     subtitle: Totalitarnoe gosudarstvo
+    original_title: Fašizmʺt
     authors:
       - Želju Želev
     year: 1991
@@ -54823,6 +55578,8 @@ titles:
     subtitle: Sbornik stateĭ o russkoĭ revoliutsii
     authors:
       - S. A. Askolʹdov
+    editors:
+      - A. S. Izgoev
     year: 1991
     language: Russian
     pages: 339
@@ -56071,6 +56828,7 @@ titles:
         url: https://www.sudoc.fr/15229791X
     verified: false
   - title: Nature, Our Common Habitat
+    original_title: Priroda­ nash obshchii dom
     authors:
       - Gennadii Vasilev
     language: English

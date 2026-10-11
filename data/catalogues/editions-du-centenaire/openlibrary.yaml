@@ -82,6 +82,7 @@ titles:
     subtitle: Choix de poèmes et essais
     authors:
       - Xun Lu
+    translators:
       - Michelle Loi
       - Martine Vallette-Hémery
     year: 1973
@@ -96,6 +97,7 @@ titles:
     verified: true
   - title: A propos de la déviation social-démocrate dans notre parti
     subtitle: Rapport présenté à la XVe conférence du P.C. (b) de l'U.R.S.S. le 1er novembre 1926
+    original_title: O sotsial-demokratitcheskom ouklone v nacheï partii
     authors:
       - Joseph Staline
     year: 1974
@@ -111,6 +113,7 @@ titles:
         url: https://www.sudoc.fr/054644038
     verified: true
   - title: Confucius, le sage des classes réactionnaires
+    original_title: Fan tong kiai ki ti king jen K'ong tseu
     authors:
       - Yang Jong Kouo
     year: 1974
@@ -168,6 +171,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb34553202s
     verified: true
   - title: Anarchisme ou socialisme ?
+    original_title: Anarkhizm ili sotsializm
     authors:
       - Iosif Vissarionovič Stalin
     year: 1975
@@ -280,6 +284,8 @@ titles:
     subtitle: Recueil de textes de 1965 à 1971
     authors:
       - Jacques Jurquet
+    editors:
+      - Camille Granot
     year: 1976
     language: French
     sources:
@@ -331,6 +337,8 @@ titles:
   - title: La Tanzanie
     authors:
       - Fei Hsüeh
+    translators:
+      - Michelle Loi
     year: 1976
     series: Collection Tiers monde en lutte
     language: French
@@ -363,6 +371,7 @@ titles:
     pages: 233
   - title: Économie rurale en Chine
     subtitle: De la réforme agraire aux communes populaires
+    original_title: Wo kouo nong ye tö chö houei tchou yi tao
     series: Collection pour l'étude des jeunes
     authors:
       - Xing Su
@@ -401,6 +410,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991070403439705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Précis historique de l'économie des grands pays capitalistes
+    original_title: Tchou yao tseu pen tchou yi kouo kia king tsi kien che
   - title: La Chine telle que l'ont vue dix syndicalistes
     authors: []
     year: 1977
@@ -447,6 +457,7 @@ titles:
     verified: true
   - title: Chou En-lai
     subtitle: Une vie au service du peuple et de la révolution
+    original_title: Zhou zong li de gu shi
     authors:
       - Nianbao Shao
     year: 1978
@@ -465,6 +476,7 @@ titles:
     verified: true
   - title: Histoire de la Chine moderne
     subtitle: 1840-1919
+    original_title: Tchong-kouo kin tai kien che
     series: Collection pour l'étude des jeunes
     authors:
       - Éditions du peuple de Changhai
@@ -490,8 +502,10 @@ titles:
         url: https://openlibrary.org/books/OL19043630M
     verified: true
   - title: Histoire du mouvement communiste international, 1848-1917
+    original_title: Kouo tsi kong tch'an tchou yi yun tong kien che
     series: Petite bibliothèque chinoise
-    authors:
+    authors: []
+    translators:
       - Danielle Bergeron
     year: 1978
     language: French
@@ -518,6 +532,7 @@ titles:
         url: https://www.sudoc.fr/019500742
     verified: true
     subtitle: Souvenirs biographiques (1937-1975)
+    original_title: Hua zhu sci de gu shi
   - title: Le marxisme et la question nationale
     subtitle: Janvier 1913
     authors:
@@ -550,6 +565,7 @@ titles:
     verified: true
   - title: U.R.S.S., la dégénérescence
     subtitle: Du socialisme au social-impérialisme
+    original_title: Sou-lien che tsen t'ouei pien wei chö houei ti kouo tchou yi kouo kia tö
     authors: []
     year: 1978
     language: French
@@ -558,8 +574,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb34603418v
     verified: true
   - title: Histoire du mouvement communiste international, 1848-1917
+    original_title: Kouo tsi kong tch'an tchou yi yun tong kien che
     series: Petite bibliothèque chinoise
-    authors:
+    authors: []
+    translators:
       - Danielle Bergeron
     year: 1979
     language: French
@@ -571,6 +589,7 @@ titles:
     verified: true
   - title: Houa Kouo-feng
     subtitle: Successeur de Mao Tsé-toung
+    original_title: Houa tchou si tö kou che
     series: Petite bibliothèque chinoise
     authors:
       - Ho Tso
@@ -583,6 +602,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb34624361c
     verified: true
   - title: L'Homme à la recherche de ses origines
+    original_title: Jen tsen mo yan jen che tseu ki tö k:':i yuan
     authors: []
     year: 1979
     language: French
@@ -638,6 +658,7 @@ titles:
     verified: true
     subtitle: 1847-1920
   - title: Lexique politique de la Chine contemporaine
+    original_title: '"Mao Tsö-tong siuan tsi" tö wou kiun, ts:'':eu yu kien che'
     authors: []
     year: 1979
     series: Petite bibliothèque chinoise
@@ -662,6 +683,7 @@ titles:
     verified: true
   - title: Munich 1938
     subtitle: De la capitulation à la guerre
+    original_title: Mou-ni-hei yin meou ho souei tsing tcheng ts'eu
     authors: []
     year: 1979
     language: French
@@ -670,6 +692,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb34625198d
     verified: true
   - title: Démocratie nouvelle et socialisme
+    original_title: Xin minzhuzhuyi lun qianshuo
     series: Petite bibliothèque chinoise
     authors:
       - Zhongshan (Sun Yatsen) university
@@ -693,6 +716,7 @@ titles:
     verified: true
     pages: 103
   - title: Matérialisme dialectique et matérialisme historique
+    original_title: Bianzheng weiwuzhuyi lishi weiwuzhuyi
     authors:
       - Siqi Ai
     year: 1980
@@ -757,6 +781,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb416341533
     verified: true
   - title: Introduction à la calligraphie chinoise
+    original_title: Shufa jishu zhishi
     authors: []
     year: 1983
     language: French

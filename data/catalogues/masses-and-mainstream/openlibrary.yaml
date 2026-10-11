@@ -163,6 +163,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000585223
     verified: true
   - title: Let the Rail Splitter Awake, and Other Poems
+    original_title: Que despierte el Leñador
     authors:
       - Pablo Neruda
     year: 1951
@@ -183,6 +184,9 @@ titles:
   - title: Masses & Mainstream Volume 4, Number 2
     subtitle: Negro History Week 1951 A Special Number
     authors: []
+    editors:
+      - Herbert Aptheker
+      - Lloyd L. Brown
     year: 1951
     language: Not recorded
     pages: 96
@@ -264,6 +268,9 @@ titles:
     authors:
       - W. E. B. Dubois
       - Herbert Aptheker
+    editors:
+      - Samuel Sillen
+      - Lloyd L. Brown
     year: 1952
     edition: Negro History Week A Special Number
     language: Not recorded
@@ -435,6 +442,8 @@ titles:
   - title: Poems
     authors:
       - Nâzım Hikmet
+    translators:
+      - ʻAlī Yūnus
     year: 1954
     language: English
     pages: 64
@@ -451,6 +460,8 @@ titles:
   - title: Poems by Nazim Hikmet
     authors:
       - Nâzım Hikmet
+    translators:
+      - Ali Yunus
     year: 1954
     language: English
     pages: 64

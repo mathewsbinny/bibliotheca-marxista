@@ -151,6 +151,8 @@ titles:
     subtitle: Conto
     authors:
       - Baltasar Lopes
+    translators:
+      - Avner Camus Perez
     year: 1986
     language: French
     sources:
@@ -291,10 +293,12 @@ titles:
     verified: true
   - title: Le carnet
     subtitle: Conto
+    original_title: A caderneta
     authors:
       - Baltasar Lopes
-      - Avner Perez
       - Jean-Michel Massa
+    translators:
+      - Avner Perez
     year: 1986
     language: French
     sources:
@@ -403,8 +407,11 @@ titles:
     verified: true
   - title: Ilha da Boa Vista, Cabo Verde
     subtitle: 'Aspectos históricos, sociais, ecológicos e económicos: tentativa de análise'
+    original_title: Beitrag zur Geschichtsschreibung der Kapverden-Insel Boa Vista
     authors:
       - Josef E. Kasper
+    translators:
+      - Luís Romano de Madeira Melo
     year: 1987
     series: Estudos e ensaios
     language: Portuguese

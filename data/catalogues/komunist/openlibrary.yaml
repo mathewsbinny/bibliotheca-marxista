@@ -485,10 +485,11 @@ titles:
     series: Questions actuelles du socialisme
     authors:
       - Stipe Dužević
-      - Sava Milhailovič
-      - Zarko Stupar
       - Augustine Mijovič
       - Plénum du Comité central de la Ligue des communistes yougoslaves
+    translators:
+      - Sava Milhailovič
+      - Zarko Stupar
     year: 1964
     language: French
     sources:
@@ -1342,6 +1343,8 @@ titles:
   - title: Osnovi prijema i pripremanja pripravnika, evidencije staža i radnih mesta sa beneficiranim stažom u poljoprivredi, prehrambenoj i duvanskoj industriji
     authors:
       - Sindikat radnika poljoprivrede, prehrambene i duvanske industrije Jugoslavije. Centralni odbor
+    editors:
+      - Nenad Stojnić
     year: 1968
     series: Biblioteka Sindikata radnika poljoprivrede, prehrambene i duvanske industrije Jugoslavije
     language: Croatian
@@ -1628,6 +1631,9 @@ titles:
     subtitle: 'Svečena sednica na Sobranieto na SRM po povod 25-godišninata na ASNOM: razgovor na Josip Broz Tito so političkiot aktiv na Makedonija'
     authors:
       - Nešo Markoski
+    editors:
+      - Nešo Markovski
+      - Nesho Markovski (Нешо Марковски)
     year: 1969
     language: Macedonian
     pages: 113
@@ -1859,6 +1865,8 @@ titles:
       - Josip Broz Tito
       - Milija Komatina
       - Savo Kržavac
+    editors:
+      - Đuro Đurašković
     year: 1969
     language: Croatian
     pages: 409
@@ -1902,6 +1910,10 @@ titles:
     verified: true
   - title: 'Naš put, pola veka revolucionarne borbe Saveza komunista Jugoslavije. Autori: Josip Broz Tito, Srećko Bijelić, Josip Derđa, Veselin Ðuranović, Kiro Hadži Vasilev, Edvard Kardelj, Stane Kavčič, Miladin Korać, Pero Morača, Bogdan Oreščanin, Bogdan Osolnik, Najdan Pašić, Miroslav Pečujlić, Latinka Perović, Milentije Popović, Radoslav Ratković, Budislav Šoškić, Mijalko Todorović, Miko Tripalo, Veljo Vlahović Urednici: Ðuro Ðurašković, Milija Komatina, Savo Kržavac'
     authors: []
+    editors:
+      - Duro Durašković
+      - Savo Kržavac
+      - Milija Komatina
     year: 1969
     language: Serbian
     sources:
@@ -1949,6 +1961,8 @@ titles:
   - title: Peta sednica Predsedništva Saveza komunista Jugoslavije
     authors:
       - Savez komunista Jugoslavije
+    editors:
+      - Savo Martinović
     year: 1969
     series: Dokumenti SKJ
     language: Croatian
@@ -2231,6 +2245,8 @@ titles:
   - title: Treća sednica Predsedništva Saveza komunista Jugoslavije
     authors:
       - Savez komunista Jugoslavije
+    editors:
+      - Đuro Đurašković
     year: 1969
     series: Dokumenti SKJ
     language: Croatian
@@ -2259,6 +2275,8 @@ titles:
     subtitle: Štirinajsta seja Centralnega komiteja Zveze komunistov Slovenije
     authors:
       - Zveza komunistov Slovenije. Centralni komite
+    editors:
+      - Matija Murko
     year: 1970
     series: Tema dneva, 3
     language: Slovenian
@@ -2447,6 +2465,8 @@ titles:
     verified: true
   - title: Lenjin i naš revolucionarni pokret
     authors: []
+    editors:
+      - Ilija Komatina
     year: 1970
     series: Aktuelne teme
     language: Croatian
@@ -2471,6 +2491,8 @@ titles:
     verified: true
   - title: Lenjin i njegova misao na našem tlu
     authors: []
+    editors:
+      - Slobodan Radonjić
     year: 1970
     series: Aktuelne teme
     language: Croatian
@@ -2632,6 +2654,8 @@ titles:
     subtitle: Stališča Zveze komunistov Slovenije o razvoju kmetijstva in podeželja
     authors:
       - Zveza komunistov Slovenije
+    editors:
+      - Sonja Tramšek
     year: 1970
     series: Tema dneva
     language: Slovenian
@@ -3133,6 +3157,9 @@ titles:
     subtitle: Proslava na dan borca, 4. julija, na gradu v Brestanici-dokumenti
     authors:
       - Franc Šetinc
+    editors:
+      - Pavle Žaucer
+      - Zdenko Marinček
     year: 1971
     language: Slovenian
     pages: 75
@@ -3360,6 +3387,8 @@ titles:
   - title: Savetovanje o idejnoj situaciji i ideološkom radu u SKJ
     authors:
       - Savetovanje o idejnoj situaciji i ideološkom radu u SKJ
+    editors:
+      - Vera Popovic
     year: 1972
     language: Croatian
     pages: 375
@@ -3938,6 +3967,7 @@ titles:
     verified: true
   - title: Razvoj slovenačkog nacionalnog pitanja
     subtitle: = Nasl. orig. Razvoj slovenskega narodnega vprašanja
+    original_title: Razvoj slovenskega narodnega vprašanja
     series: Marksizam i savremenost; kolo 3, knj. 1
     authors:
       - Edvard Kardelj
@@ -4075,6 +4105,8 @@ titles:
   - title: 7. Kongres Zveze komunistov Slovenije
     authors:
       - Zveza komunistov Slovenije. Kongres, 7th, Ljubljana, 1974
+    editors:
+      - Franček Brglez
     year: 1974
     language: Slovenian
     pages: 862
@@ -4099,6 +4131,8 @@ titles:
     subtitle: Dokumenti
     authors:
       - Savez komunista Jugoslavije. Kongres
+    editors:
+      - Emil Rojc
     year: 1974
     language: Croatian
     pages: 571
@@ -4687,8 +4721,12 @@ titles:
     verified: false
   - title: Le Dixième congrès de la Ligue des communistes de Yougoslavie
     subtitle: Belgrade, du 27 au 30 mai 1974
+    original_title: Deseti Kongres Saveza Komunista Jugoslavije
     authors:
       - Savez komunista Jugoslavije
+    editors:
+      - Stipe Dužević
+      - Dragutin Šolajić
     year: 1975
     language: Not recorded
     sources:
@@ -4930,6 +4968,7 @@ titles:
     subtitle: (7.-26. avgust 1945)
     authors:
       - Slobodan Nešović
+    translators:
       - Primož Šafar
     year: 1975
     language: Slovenian
@@ -4999,6 +5038,7 @@ titles:
     verified: true
   - title: Crisis
     subtitle: Anatomy of Contemporary Crises and (a) Theory of Crises in the Neo-imperialist Stage of Capitalism
+    original_title: Kriza
     series: Socialist Thought and Practice
     authors:
       - Rikard Štajner
@@ -5273,6 +5313,7 @@ titles:
         url: https://openlibrary.org/books/OL20754393M
     verified: true
   - title: Social Consciousness and Reality
+    original_title: Svijest i stvarni život
     authors:
       - Veljko Vlahović
     year: 1976
@@ -5490,6 +5531,7 @@ titles:
   - title: Izabrani govori i članci
     authors:
       - Edward Gierek
+    translators:
       - Milorad Dragović
     year: 1977
     language: Serbian
@@ -5782,6 +5824,8 @@ titles:
   - title: Prešernova Zdravljica v letu 1937
     authors:
       - Boris Paternu
+    editors:
+      - Franček Brglez
     year: 1977
     language: Slovenian
     pages: 56
@@ -5950,6 +5994,7 @@ titles:
     verified: true
   - title: The Struggle and the Development of the CPY Between the Two Wars
     subtitle: Lectures in Kumrovec
+    original_title: Borba i razvoj KPJ između dva rata
     authors:
       - Josip Broz Tito
     year: 1977
@@ -6016,6 +6061,8 @@ titles:
     subtitle: Ob stoletnici rojstva Ivana Cankarja
     authors:
       - Ivan Cankar
+    editors:
+      - Janko Liška
     year: 1977
     language: Slovenian
     pages: 473
@@ -6041,6 +6088,7 @@ titles:
         url: https://www.sudoc.fr/055013511
     verified: true
   - title: Vsenarodnaâ oborona - strategiâ mira
+    original_title: Општенародна одбрана - стратегиjа мира
     series: SMP
     authors:
       - Nikola Ljubičić
@@ -6250,6 +6298,7 @@ titles:
         url: https://lccn.loc.gov/80515863
     verified: true
   - title: Les voies de la démocratie dans la société socialiste
+    original_title: Pravci razvoja političkog sistema socijalističkog samoupravljanja
     series: Questions actuelles du socialisme / QAS
     authors:
       - Edvard Kardelj
@@ -6558,6 +6607,7 @@ titles:
     authors:
       - Josip Broz Tito
       - Pero Damjanović
+    translators:
       - Panče Mihajlov
     year: 1978
     language: Macedonian
@@ -6953,8 +7003,9 @@ titles:
   - title: Sobrani dela
     authors:
       - Josip Broz Tito
-      - Boris Blagoeski
       - Pero Damjanović
+    translators:
+      - Boris Blagoeski
     year: 1979
     language: Macedonian
     sources:
@@ -7186,6 +7237,8 @@ titles:
   - title: Izbrana dela
     authors:
       - Miha Marinko
+    editors:
+      - Roman Zupan
     year: 1980
     language: Slovenian
     sources:
@@ -7475,6 +7528,7 @@ titles:
     authors:
       - Josip Broz Tito
       - Pero Damjanović
+    translators:
       - Kiril Konecki
     year: 1980
     language: Macedonian
@@ -7613,6 +7667,7 @@ titles:
         url: https://search.worldcat.org/title/15431105
     verified: true
   - title: Borbata za slobodna Jugoslavija
+    original_title: Borba za slobodnu Jugoslaviju
     authors:
       - Veljko Vlahović
     year: 1981
@@ -7726,6 +7781,7 @@ titles:
         url: https://search.worldcat.org/title/8106955
     verified: true
   - title: Kulturata i sovremenite opštestveni dviženja
+    original_title: Kultura i savremena društvena Kretanja
     authors:
       - Veljko Vlahović
     year: 1981
@@ -8411,6 +8467,7 @@ titles:
     verified: true
   - title: Marksizmot i Sovremenoto Opštestvo
     subtitle: Zbornik na trudovi
+    original_title: Marksizam i savremeno društvo
     authors:
       - Miroslav Pečujlić
       - Miroslav Pechuјliћ (Мирослав Печујлић)
@@ -8683,6 +8740,7 @@ titles:
     authors:
       - Josip Broz Tito
       - Pero Damjanović
+    translators:
       - Vlado Popovski
     year: 1982
     language: Macedonian
@@ -10068,6 +10126,7 @@ titles:
     authors:
       - Janko Pleterski
       - Јanko Pleterski (Јанко Плетерски)
+    translators:
       - Panče Mihajlov
       - Panche Mikhaјlov (Панче Михајлов)
     year: 1985
@@ -11833,6 +11892,7 @@ titles:
     verified: true
   - title: Revolucija protiv crkve
     subtitle: Od razuma do najvišeg bića
+    original_title: La Révolution contre l'Église
     authors:
       - Michel Vovelle
       - Serge Bonin

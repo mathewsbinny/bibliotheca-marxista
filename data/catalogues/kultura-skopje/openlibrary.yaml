@@ -245,6 +245,7 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Korubin Blagoja
     year: 1952
     language: German
@@ -299,6 +300,7 @@ titles:
   - title: Izbor od Iliǰada i Odiseǰa
     authors:
       - Homère
+    translators:
       - Mihail D. Petrus̆evski
       - Mikhail D. Petrushevski (Михаил Д. Петрушевски)
     year: 1953
@@ -420,6 +422,8 @@ titles:
   - title: I. Andriḱ. Mostot na Drina na Drini đuprija. Prevel od srpskohrvatski Blagoja Korubin
     authors:
       - Ivo Andrić
+    translators:
+      - Blagoja Korubin
     year: 1956
     language: Macedonian
     sources:
@@ -443,6 +447,8 @@ titles:
   - title: Kiril Pejčinoviḱ. Slovo za praznicite. Redakcija i predgovor Blaže Koneski
     authors:
       - Cyril Peïtchinovitch
+    editors:
+      - Blaje Koneski
     year: 1956
     language: Macedonian
     sources:
@@ -1813,6 +1819,7 @@ titles:
   - title: La Macédoine pirine
     authors:
       - Dimitar Mitrev
+    translators:
       - Milena Janković
     year: 1962
     language: French
@@ -1825,6 +1832,7 @@ titles:
   - title: La Macédoine pirine. Pirinska Makedonija. Trad. de serbo-croate Milena Jankovic
     authors:
       - Dimitar Mitrev
+    translators:
       - Milena Jankovic
     year: 1962
     language: French
@@ -2126,6 +2134,8 @@ titles:
     verified: true
   - title: Goce Delčev vo spomenite na sovremenicite. Izbor, redakcija i komentari Hristo Andonov-Poljanski
     authors: []
+    editors:
+      - Hristo Andonov Poljanski
     year: 1963
     language: Macedonian
     sources:
@@ -2658,6 +2668,7 @@ titles:
     authors:
       - Boris Leonidovič Pasternak
       - Boris Leonidovich Pasternak (Борис Леонидович Пастернак)
+    translators:
       - Milan Ǵurčinov
       - Milan Ѓurchinov (Милан Ѓурчинов)
     year: 1964
@@ -2690,9 +2701,11 @@ titles:
         url: https://openlibrary.org/books/OL20234289M
     verified: true
   - title: Stranecot
+    original_title: L'étranger
     series: Biblioteka sovremena proza
     authors:
       - Albert Camus
+    translators:
       - Branko Pendovski
       - Branko Pendovski (Бранко Пендовски)
     year: 1964
@@ -3621,8 +3634,11 @@ titles:
     verified: true
   - title: Starecot i moreto
     subtitle: '[Prevel od angliski Dušan Crvenkovski]'
+    original_title: The Old Man and the Sea
     authors:
       - Ernest Hemingway
+    translators:
+      - Dušan Crvenkovski
     year: 1966
     series: Biblioteka Savremena proza
     language: Macedonian
@@ -3645,6 +3661,14 @@ titles:
   - title: Stihovi i proza
     authors:
       - Kočo Racin
+    editors:
+      - Aleksandar Spasov
+      - Aleksandar Spasov (Александар Спасов)
+    translators:
+      - J̌ovan Boškovski
+      - Јovan Boshkovski (Јован Бошковски)
+      - Todor Dimitrovski
+      - Todor Dimitrovski (Тодор Димитровски)
     year: 1966
     edition: 3. izd
     language: Macedonian
@@ -3685,6 +3709,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb43933231m
     verified: true
   - title: Divite lebedi
+    original_title: De vilde svaner
     authors:
       - Hans Christian Andersen
       - Dušsan Crvenkovski
@@ -3884,6 +3909,9 @@ titles:
     subtitle: Epski pesni za Marka krale
     authors:
       - Jovan Boškovski
+    editors:
+      - Dimitar Kondovski
+      - Dimitar Kondovski (Димитар Кондовски)
     year: 1967
     series: Biblioteka "Detska radost"
     language: Macedonian
@@ -4154,6 +4182,8 @@ titles:
     subtitle: Zbornik
     authors:
       - Dušan Crvenkovski
+    editors:
+      - Jordan Bražanski
     year: 1967
     series: Sovremena opštestvena misla
     language: Macedonian
@@ -4444,6 +4474,7 @@ titles:
     subtitle: (Doklad na torzestvennom zasedanii Central'nogo Komiteta SKM)
     authors:
       - Krste Crvenkovski
+    translators:
       - Boris Markov
     year: 1968
     language: Russian
@@ -4617,6 +4648,7 @@ titles:
   - title: Le 25ème [vingt cinquième] anniversaire de la fondation du Parti communiste de Macédoine. (Rapport présenté à la séance solennelle du Comité central du P.C.M.) Trad. du macédonien par Božidar Nastev
     authors:
       - Krste Crvenkovski
+    translators:
       - Božidar Nastev
     year: 1968
     language: French
@@ -4627,6 +4659,8 @@ titles:
   - title: Le macédonien dans l'evolution des langues litteraires slaves
     authors:
       - Blaže Koneski
+    translators:
+      - Božidar Nastev
     year: 1968
     language: French
     sources:
@@ -4638,6 +4672,7 @@ titles:
   - title: Makedonskij âzyk v razvitii slavânskih literaturnyh âzykov
     authors:
       - Blaže Koneski
+    translators:
       - Tamara Gnuni
     year: 1968
     language: Russian
@@ -4772,6 +4807,8 @@ titles:
     subtitle: Izbor
     authors:
       - Vasko Popa
+    editors:
+      - Dušan Crenkovski
     year: 1968
     series: Sovremena lirika
     language: Macedonian
@@ -5019,6 +5056,9 @@ titles:
   - title: The Macedonian Language in the Development of the Slavonic Literary Languages
     authors:
       - Blaže Koneski
+    translators:
+      - Ivanka Kovilovska-Poposka
+      - Graham W. Reid
     year: 1968
     language: English
     pages: 39
@@ -5484,6 +5524,9 @@ titles:
     subtitle: (Bugarski stavovi za makedonskoto prašanje) Statii, govori, dokumenti
     authors:
       - Vanga Čašule
+    editors:
+      - Vanǵa Čašule
+      - Vanѓa Chashule (Ванѓа Чашуле)
     year: 1970
     language: Macedonian
     pages: 482
@@ -5665,6 +5708,7 @@ titles:
     subtitle: 1893-1945
     authors:
       - Aleksandar T. Hristov
+    translators:
       - Naum Grizo
     year: 1971
     language: French
@@ -5852,8 +5896,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=517567075
     verified: true
   - title: The Creation of Macedonian Statehood (1893-1945)
+    original_title: Sozdavan̂e na makedonskata država
     authors:
       - Alexander Hristov
+    translators:
+      - Bernard Meares
     year: 1971
     language: English
     sources:
@@ -5884,6 +5931,7 @@ titles:
     verified: true
   - title: From Recognition to Repudiation
     subtitle: Bulgarian Attitudes on the Macedonian Question, Articles, Speeches, Documents
+    original_title: Od priznavanje do negiranje (bugarski stavovi za makedonskoto prašanje)
     authors:
       - Vanǵa Čašule
     year: 1972
@@ -5920,6 +5968,8 @@ titles:
     authors:
       - Goce Delčev
       - Hristo Andonov-Poljanski
+    editors:
+      - Hristo Andonov Poljanski
     year: 1972
     language: Macedonian
     sources:
@@ -5952,6 +6002,8 @@ titles:
     verified: true
   - title: K. [Kočo] Racin vo spomenite na sovremenicite
     authors: []
+    editors:
+      - Pero Korobar
     year: 1972
     language: Macedonian
     sources:
@@ -6017,6 +6069,9 @@ titles:
   - title: Makedonskiot roman
     authors:
       - Petar T. Boškovski
+    editors:
+      - Slobodan Mickoviḱ
+      - Georgi Stardelov
     year: 1972
     language: Macedonian
     pages: 251
@@ -6099,6 +6154,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=42852835X
     verified: true
   - title: The Creation of Macedonian Statehood (1893-1945)
+    original_title: Sozdavan̂e na makedonskata država
     authors:
       - Aleksandar T. Hristov
     year: 1972
@@ -6276,6 +6332,7 @@ titles:
     authors:
       - Jacob Grimm
       - Wilhelm Grimm
+    translators:
       - Ilija Korubinoski
     year: 1973
     language: German
@@ -6297,6 +6354,7 @@ titles:
   - title: Život vo boi
     authors:
       - Michał Rusinek
+    translators:
       - Petre Nakovski
     year: 1973
     language: Macedonian
@@ -6446,6 +6504,7 @@ titles:
   - title: Resimlerde dünya
     authors:
       - Hasan Mercan
+    translators:
       - Ilhami Emin
     year: 1974
     language: Turkish, Macedonian
@@ -6893,6 +6952,8 @@ titles:
     subtitle: Kade e zelenoto / Nedz̆ati Zekerija
     authors:
       - Necati Zekeriya
+    translators:
+      - Alahettin Tahir
     year: 1975
     series: Biblioteka 'Detska radost'
     language: Macedonian, Turkish
@@ -7014,6 +7075,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=386939187
     verified: true
   - title: Gradinata so slezova boja
+    original_title: Bašta sljezove boje
     authors:
       - Branko Ćopić
       - Todor Dimitrovski
@@ -7219,6 +7281,7 @@ titles:
   - title: Kukla
     authors:
       - Bolesław Prus
+    translators:
       - Petre Nakovski
     year: 1976
     language: Macedonian
@@ -7446,6 +7509,8 @@ titles:
   - title: Antologija na francuskata poezija
     subtitle: Od nejzinite početoci do XX vek
     authors: []
+    editors:
+      - Ǵorǵi Stalev
     year: 1977
     language: Macedonian
     sources:
@@ -7468,6 +7533,8 @@ titles:
     subtitle: Studii, ogledi, kritiki za makedonskata literatura vo XIX i XX vek
     authors:
       - Aleksandar Spasov
+    editors:
+      - Vlada Uroševiḱ
     year: 1977
     language: Macedonian
     pages: 396
@@ -7500,6 +7567,7 @@ titles:
     authors:
       - Momčilo-Moma Stefanoviḱ
       - Momchilo-moma Stefanoviќ (Момчило-Мома Стефановиќ)
+    translators:
       - Iliǰa Korubin
       - Iliјa Korubin (Илија Корубин)
     year: 1977
@@ -7720,6 +7788,9 @@ titles:
   - title: Varijacii za Lorka
     authors:
       - Necati Zekeriya
+    translators:
+      - Alaetin Tahir
+      - Alaetin Takhir (Алаетин Тахир)
     year: 1977
     series: Sovremena makedonska poezija
     language: Macedonian
@@ -8258,6 +8329,8 @@ titles:
     subtitle: Antologija na makedonskata poezija
     authors:
       - Duško Nanevski
+    editors:
+      - Dushko Nanevski (Душко Наневски)
     year: 1979
     language: Macedonian
     pages: 223
@@ -8978,6 +9051,7 @@ titles:
       - David Atlagiќ (Давид Атлагиќ)
       - Rastko Terziovski
       - Rastko Terziovski (Растко Терзиовски)
+    translators:
       - Boris Blagoevski
       - Boris Blagoevski (Борис Благоевски)
     year: 1981
@@ -9099,6 +9173,8 @@ titles:
     subtitle: Progresivnata opštestvena javnost vo Bugarija i Pirinska Makedonija za makedonskoto nacionalno prašanje - dokumenti, studii, rezolucii, apeli i publicistički prilozi, 1896-1956
     authors:
       - Pero Korobar
+    editors:
+      - Orde Ivanovski
     year: 1981
     language: Macedonian
     pages: 526
@@ -9166,6 +9242,7 @@ titles:
       - Budislav Shoshkiќ (Будислав Шошкиќ)
       - Miliǰa Komatina
       - Miliјa Komatina (Милија Коматина)
+    translators:
       - Vlado Popovski
       - Vlado Popovski (Владо Поповски)
     year: 1981
@@ -9308,6 +9385,7 @@ titles:
       - Budislav Shoshkiќ (Будислав Шошкиќ)
       - Miliǰa Komatina
       - Miliјa Komatina (Милија Коматина)
+    translators:
       - Vlado Popovski
       - Vlado Popovski (Владо Поповски)
     year: 1981
@@ -9320,6 +9398,8 @@ titles:
     subtitle: Jubilejno izdanie po povod na 40-godišninata od smrtta na poetot-borec
     authors:
       - Kole Nedelkovski
+    editors:
+      - Todor Dimitrovski
     year: 1981
     language: Macedonian
     sources:
@@ -9350,6 +9430,7 @@ titles:
       - Budislav Shoshkiќ (Будислав Шошкиќ)
       - Miliǰa Komatina
       - Miliјa Komatina (Милија Коматина)
+    translators:
       - Slavko Zdravkovski
       - Slavko Zdravkovski (Славко Здравковски)
     year: 1981
@@ -9363,6 +9444,7 @@ titles:
     authors:
       - Veljko Vlahović
       - Veљko Vlakhoviћ (Вељко Влаховић)
+    translators:
       - Slavko Zdravkovski
       - Slavko Zdravkovski (Славко Здравковски)
     year: 1981
@@ -9380,6 +9462,7 @@ titles:
       - Vlaјko Begoviќ (Влајко Беговиќ)
       - Milovan Bosiḱ
       - Milovan Bosiќ (Милован Босиќ)
+    translators:
       - Mira J̌anovska
       - Mira Јanovska (Мира Јановска)
     year: 1981
@@ -9483,6 +9566,7 @@ titles:
       - Budislav Shoshkiќ (Будислав Шошкиќ)
       - Miliǰa Komatina
       - Miliјa Komatina (Милија Коматина)
+    translators:
       - Mihailo J̌anušev
       - Mikhailo Јanushev (Михаило Јанушев)
     year: 1981
@@ -9518,6 +9602,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991064152679705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Cveḱin̂ata na zloto
+    original_title: Les fleurs du mal
     authors:
       - Charles Baudelaire
       - Vlada Uroševiḱ
@@ -9533,6 +9618,7 @@ titles:
     authors:
       - Adem Gaǰtani
       - Adem Gaјtani (Адем Гајтани)
+    translators:
       - Mateǰa Matevski
       - Mateјa Matevski (Матеја Матевски)
     year: 1982
@@ -9546,6 +9632,8 @@ titles:
   - title: Makedonskoto prašanje na stranicite od "Rizospastis" meǵu dvete vojni
     authors:
       - Josif Popovski
+    editors:
+      - Јosif Popovski (Јосиф Поповски)
     year: 1982
     series: Sovremena opštestvena misla
     language: Macedonian
@@ -9992,6 +10080,8 @@ titles:
   - title: Odbrani dela
     authors:
       - Angel Dinev
+    editors:
+      - Vladimir Kartov
     year: 1983
     language: Macedonian
     sources:
@@ -10118,6 +10208,8 @@ titles:
   - title: Racin vo seḱavanjata na sovremenicite
     authors:
       - Pero Korobar
+    editors:
+      - Pero A. Korobar
     year: 1983
     edition: 2. dopolneto izd
     language: Macedonian
@@ -10205,6 +10297,8 @@ titles:
     authors:
       - Pero Korobar
       - Orde Ivanoski
+    translators:
+      - Filip Korženski
     year: 1983
     language: English
     pages: 277
@@ -10390,6 +10484,8 @@ titles:
     subtitle: Studii i ogledi
     authors:
       - Radomir V. Ivanović
+    translators:
+      - Borislav Naumovski
     year: 1984
     language: Macedonian
     pages: 309
@@ -10595,6 +10691,8 @@ titles:
     authors:
       - Hristo Andonov-Poljanski
       - Institut za nacionalna istoriǰa
+    editors:
+      - Hristo Andonov Poljanski
     year: 1985
     language: English
     sources:
@@ -10654,9 +10752,11 @@ titles:
         url: https://openlibrary.org/books/OL17156817M
     verified: true
   - title: Mara
+    original_title: Mara
     series: Izbor vo 5 toma; 2
     authors:
       - Stojan Hristov
+    translators:
       - Aleksandar D̂ukeski
       - Aleksandar Џukeski (Александар Џукески)
     year: 1985
@@ -11493,6 +11593,8 @@ titles:
     subtitle: Očuduvanje na znacite
     authors:
       - Katica Ḱulavkova
+    editors:
+      - Dimitar Baševski
     year: 1989
     series: Sovremena makedonska proza
     language: Macedonian
@@ -11940,6 +12042,8 @@ titles:
     subtitle: Izbor
     authors:
       - Gane Todorovski
+    editors:
+      - Dimitar Baševski
     year: 1990
     series: Makedonska ljubovna lirika
     language: Macedonian
@@ -12000,6 +12104,8 @@ titles:
     subtitle: Izbor
     authors:
       - Petre M. Andreevski
+    editors:
+      - Dimitar Baševski
     year: 1990
     series: Makedonska ljubovna lirika
     language: Macedonian
@@ -12033,6 +12139,8 @@ titles:
   - title: Drami
     authors:
       - Kole Čašule
+    editors:
+      - Dimitar Baševski
     year: 1990
     edition: Jubilejno izd
     language: Macedonian
@@ -12167,6 +12275,8 @@ titles:
   - title: Makedonska ljubovna lirika vo 10 knigi
     authors:
       - Sande Stojčevski
+    editors:
+      - Bele Smilevski
     year: 1990
     language: Macedonian
     sources:
@@ -12237,6 +12347,8 @@ titles:
   - title: Mesto meǵu živite
     authors:
       - Srbo Ivanovski
+    editors:
+      - Dimitar Baševski
     year: 1990
     series: Sovremena makedonska proza
     language: Macedonian
@@ -12291,6 +12403,9 @@ titles:
   - title: Nebo na tišinata
     authors:
       - Aco Šopov
+    editors:
+      - Vele Smilevski
+      - Dimitar Baševski
     year: 1990
     series: Makedonska ljubovna lirika
     language: Macedonian
@@ -12341,6 +12456,8 @@ titles:
     subtitle: Raskazi
     authors:
       - Dimitar Solev
+    editors:
+      - Dimitar Baševski
     year: 1990
     series: Sovremena makedonska proza
     language: Macedonian
@@ -12490,6 +12607,8 @@ titles:
   - title: Proza
     authors:
       - Kole Čašule
+    editors:
+      - Dimitar Baševski
     year: 1990
     edition: Jubilejno izd
     language: Macedonian
@@ -12580,6 +12699,8 @@ titles:
     subtitle: Izbor
     authors:
       - Slavko Janevski
+    editors:
+      - Dimitar Baševski
     year: 1990
     series: Makedonska ljubovna lirika
     language: Macedonian
@@ -12633,6 +12754,8 @@ titles:
   - title: Voden znak
     authors:
       - Jadranka Vladova
+    editors:
+      - Dimitar Baševski
     year: 1990
     series: Sovremena makedonska proza
     language: Macedonian
@@ -12654,6 +12777,8 @@ titles:
     subtitle: Izbor
     authors:
       - Blaže Koneski
+    editors:
+      - Dimitar Baševski
     year: 1990
     series: Makedonska ljubovna lirika
     language: Macedonian
@@ -12673,6 +12798,8 @@ titles:
     subtitle: Izbor
     authors:
       - Radovan Pavlovski
+    editors:
+      - Dimitar Baševski
     year: 1990
     series: Makedonska ljubovna lirika
     language: Macedonian
@@ -12728,6 +12855,8 @@ titles:
   - title: Aldebaran
     authors:
       - Vlada Uroševiḱ
+    editors:
+      - Dimitar Baševski
     year: 1991
     series: Sovremena makedonska proza
     language: Macedonian
@@ -12909,6 +13038,7 @@ titles:
   - title: Razgovori so dželatot
     authors:
       - Kazimierz Moczarski
+    translators:
       - Grigori Popovski
     year: 1991
     language: Macedonian
@@ -12944,6 +13074,8 @@ titles:
   - title: Sozdatelot i starata emigrantka-prodavačka na južni plodovi
     authors:
       - Mile Nedelkoski
+    editors:
+      - Dimitar Baševski
     year: 1991
     series: Sovremena makedonska proza
     language: Macedonian

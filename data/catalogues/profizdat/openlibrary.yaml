@@ -748,6 +748,8 @@ titles:
   - title: Ėkonomika i planirovanie sotsialisticheskoĭ promyshlennosti
     authors:
       - L. I. Itin
+    editors:
+      - A. M. IAkhnich
     year: 1934
     language: Russian
     pages: 418
@@ -2447,6 +2449,8 @@ titles:
     authors:
       - F. Romanov
       - Fedor Nikitich Samoĭlov
+    editors:
+      - F. N. Samoĭlov
     year: 1939
     language: Russian
     pages: 140
@@ -4805,6 +4809,8 @@ titles:
   - title: Mingečaur
     authors:
       - Ävez Sadyg
+    translators:
+      - B. Vadeckij
     year: 1951
     language: Russian
     sources:
@@ -6819,6 +6825,8 @@ titles:
     subtitle: Dopushcheno v kachestve ucheb. posobiia dlia shkol profdvizheniia
     authors:
       - Moscow (Russia). Vysshaia shkola professionalʹnogo dvizheniia. Kafedra istorii profdvizheniia
+    editors:
+      - A. M. (Anna Mikhaĭlovna) Pankratova
     year: 1954
     language: Russian
     sources:
@@ -8137,7 +8145,8 @@ titles:
     verified: true
   - title: Britanskij Tred-Ûnionizm
     subtitle: Pâtʹ očerkov Instituta političeskogo i ékonomičeskogo planirovaniâ
-    authors:
+    authors: []
+    translators:
       - L. Âkovlev
       - L. Iakovlev (Л. Яковлев)
     year: 1956
@@ -9711,6 +9720,8 @@ titles:
     subtitle: Putevoditelʹ
     authors:
       - S. D. Vasilʹev
+    editors:
+      - S. D. Vasil'ev
     year: 1958
     language: Russian
     pages: 261
@@ -11320,6 +11331,8 @@ titles:
   - title: Rabota s detʹmi v profsoiuznykh domakh kulʹtury
     authors:
       - Józsefné Baráth
+    translators:
+      - K. Kliuchnikov
     year: 1959
     language: Russian
     pages: 30
@@ -12220,6 +12233,8 @@ titles:
   - title: Fifteen Million New Apartments
     authors:
       - Mefodiĭ Ivanovich Terentʹev
+    translators:
+      - S. Smith
     year: 1960
     language: English
     pages: 106
@@ -12325,6 +12340,7 @@ titles:
   - title: Istorija profsojuznogo dviženija v Albanii
     authors:
       - Kristaq Misha
+    translators:
       - R. Koči
     year: 1960
     language: Russian
@@ -14667,6 +14683,7 @@ titles:
         url: https://openlibrary.org/books/OL18562008M
     verified: true
   - title: Soviet Trade Unions and Wages
+    original_title: Rabota sovetskikh profsoi︠u︡zov v oblasti zarabotnoĭ platy
     authors:
       - P. Petrov
     year: 1961
@@ -14698,6 +14715,8 @@ titles:
   - title: State Institutions Workers' Union of the U.S.S.R.
     authors:
       - G. Petelin
+    translators:
+      - L. Gavurina
     year: 1961
     language: English
     sources:
@@ -14751,6 +14770,8 @@ titles:
   - title: The Rights of the Factory (Office) Trade-Union Committee in the U.S.S.R.
     authors:
       - Vasiliĭ Ivanovich Nikitinskiĭ
+    translators:
+      - Lev Feonov
     year: 1961
     language: English
     pages: 52
@@ -15816,6 +15837,8 @@ titles:
     subtitle: Sbornik rukovodiashchikh materialov; po sostoianiiu na 1 noiabria 1961 g
     authors:
       - Vsesoiuznyĭ tsentralʹnyĭ sovet professionalʹnykh soiuzov
+    editors:
+      - Konstantin Ivanovich Borisov
     year: 1962
     language: Russian
     pages: 270
@@ -17356,6 +17379,7 @@ titles:
     authors:
       - K. Kralʹ
       - K. Venerova
+    translators:
       - V. Petrov
       - V. Petrov (В. Петров)
     year: 1963
@@ -17390,11 +17414,13 @@ titles:
         url: https://catalog.hathitrust.org/Record/001431461
     verified: true
   - title: Kratkaja ėncyklopedija meždunarodnogo profsojuznogo dviženija
+    original_title: ABC mezinárodního odborového hnutí
     authors:
       - Karel Král
       - Květa Venerová
-      - Vladimir Petrov
       - Vladimira Petrova
+    translators:
+      - Vladimir Petrov
     year: 1963
     language: Russian
     sources:
@@ -19597,6 +19623,8 @@ titles:
     subtitle: Dopshcheno v kachestve ucheb. posobiia dlia studentov shkol profdvizheniia
     authors:
       - Vysshaia shkola profdvizheniia (Vsesoiuznyĭ tsentralʹnyĭ sovet professionalʹnykh soiuzov). Kafedra profsoiuznogo stroitelʹstva
+    editors:
+      - P. S. (Petr Sergeevich) Petrov
     year: 1964
     edition: 2., dop. i perer. izd
     language: Russian
@@ -21180,6 +21208,10 @@ titles:
   - title: Nauchnaia organizatsiia truda na rabochikh mestakh
     subtitle: Opyt kollektivov Uralkhimmashzavoda i drugikh predpriiatiĭ Srednege Urala
     authors: []
+    editors:
+      - Melko Georgievich Begidzhanov
+      - Vasiliĭ Pavlovich Zhukov
+      - A. G. Losev
     year: 1965
     language: Russian
     pages: 198
@@ -21957,6 +21989,8 @@ titles:
       - Ivan Ivanovič Belonosov
       - Zinovij Konstantinovič Zvezdin
       - M. I. Hlusov
+    editors:
+      - Zinovij K. Zvezdin
     year: 1965
     language: Russian
     sources:
@@ -22720,6 +22754,9 @@ titles:
     authors:
       - Tadeusz Hołuj
       - E. V. Pilišek
+    translators:
+      - Ekaterina Vladimirovna Pilišek
+      - O. Û. Râžskij
     year: 1966
     language: Russian
     sources:
@@ -23086,6 +23123,9 @@ titles:
     subtitle: Posobie dlia obucheniia profsoiuznogo aktiva
     authors:
       - E. M. Gershanov
+    editors:
+      - Nikolaj Grigorʹevič Aleksandrov
+      - N. G. Aleksandrov (Н. Г. Александров)
     year: 1966
     language: Russian
     pages: 239
@@ -23758,6 +23798,9 @@ titles:
     subtitle: Sbornik ofitsialʹnykh dokumentov
     authors:
       - Soviet Union
+    editors:
+      - Korshunov IUriĭ Nikolaevich
+      - Viacheslav Nikolaevich Churin
     year: 1966
     language: Russian
     sources:
@@ -25359,6 +25402,8 @@ titles:
     series: Bibliotečka profsojuznogo aktivista; 36 = 192
     authors:
       - Ivan M. Vladyčenko
+    editors:
+      - S. M. Semenov
     year: 1967
     language: Russian
     sources:
@@ -26560,6 +26605,8 @@ titles:
   - title: Rezervy rosta proizvoditelʹnosti truda
     authors:
       - M. G. Nazarov
+    editors:
+      - Mikhail Georgievich Nazarov
     year: 1968
     language: Russian
     pages: 159
@@ -31504,8 +31551,9 @@ titles:
     series: Biblioteka rabočego roman
     authors:
       - Pavlo A. Zahrebel'nyj
-      - Izida Novosel'ceva
       - A. E. Cvetkov
+    translators:
+      - Izida Novosel'ceva
     year: 1972
     language: Russian
     sources:
@@ -33198,6 +33246,8 @@ titles:
   - title: Socialističeskoe sorevnovanie v promyšlennosti SSSR
     authors:
       - G. P. Elekseev
+    editors:
+      - Grigorij Petrovič Alekseev
     year: 1973
     language: Russian
     sources:
@@ -34481,6 +34531,7 @@ titles:
     authors:
       - Panas Nogin
       - Panas Nogin (Панас Ногин)
+    translators:
       - Lûdmila Ivanovna Kedrina
       - Liudmila Ivanovna Kedrina (Людмила Ивановна Кедрина)
     year: 1974
@@ -36913,7 +36964,8 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=434939080
     verified: true
   - title: Profsoûzy GDR za naučno-tehničeskij progress
-    authors:
+    authors: []
+    translators:
       - A. I. Kulagin
       - A. E. Kulagin (А.И. Кулагин)
     year: 1975
@@ -37225,6 +37277,8 @@ titles:
       - E. Grebenshchikov (И. Гребенщиков)
       - Vladimir Grigorʹevič Kozarov
       - Vladimir Grigorevich Kozarov (Владимир Григорьевич Козаров)
+    editors:
+      - V. Kožarov
     year: 1975
     language: Russian
     sources:
@@ -37609,6 +37663,7 @@ titles:
         url: https://openlibrary.org/books/OL13969410M
     verified: true
   - title: The WFTU and the Soviet Trade Unions
+    original_title: V F P i sovetskie profsoi︠u︡zy
     authors:
       - P. T. Pimenov
     year: 1975
@@ -37782,6 +37837,7 @@ titles:
     verified: true
   - title: Uragan
     subtitle: Roman
+    original_title: Uragan
     authors:
       - Dzhonrid Abdullakhanov
     year: 1975
@@ -38875,6 +38931,7 @@ titles:
     series: Biblioteka rabočego romana
     authors:
       - Zejnolla Ķabdolov
+    translators:
       - Ol'ga Saraktaš
     year: 1976
     language: Russian
@@ -39168,6 +39225,7 @@ titles:
       - Kosta Andreev (Коста Андреев)
       - Sybotin Genov
       - Sybotin Genov (Сыботин Генов)
+    translators:
       - R. P. Grišina
       - R. P. Grishina (Р. П. Гришина)
     year: 1976
@@ -45020,6 +45078,7 @@ titles:
     series: Biblioteka rabočego romana
     authors:
       - Pavlo Arhipovič Zagrebel'nyj
+    translators:
       - Izida Novosel'ceva
     year: 1978
     language: Russian
@@ -53618,8 +53677,10 @@ titles:
     verified: true
   - title: God so Štroblom
     subtitle: Roman
+    original_title: Das Jahr mit Strobl
     authors:
       - Monika Lätzsch
+    translators:
       - Evgenij Faktorovin
     year: 1983
     language: Russian
@@ -54118,6 +54179,9 @@ titles:
     subtitle: Novgorod, Staraia Russa, Pskov, Staryĭ Izborsk
     authors:
       - B. Emelʹianov
+    editors:
+      - B. V. Emelʹânov
+      - B. V. Emelianov (Б. В. Емельянов)
     year: 1983
     series: Sto puteĭ, sto dorog
     language: Russian
@@ -54789,9 +54853,11 @@ titles:
     verified: true
   - title: Syn litejščika
     subtitle: Roman
+    original_title: Degrez ŭġli
     series: Biblioteka rabočego romana
     authors:
       - Mirmuḥsin
+    translators:
       - Ėmil' Amit
     year: 1983
     language: Russian
@@ -54878,6 +54944,8 @@ titles:
   - title: Turizm v SSSR
     authors:
       - E. Simonov
+    editors:
+      - Vilenin Viktorovič Novospasskij
     year: 1983
     language: Russian
     pages: 228
@@ -56341,6 +56409,8 @@ titles:
     subtitle: Spravochnik
     authors:
       - V. V. Kleptsov
+    editors:
+      - V. V. Klepcov
     year: 1984
     language: Russian
     pages: 591
@@ -57255,6 +57325,8 @@ titles:
     subtitle: Moskva i Podmoskovʹe, Penzenskiĭ kraĭ, Leningrad i okrestnosti, Kavkaz
     authors:
       - O. V. Miller
+    editors:
+      - Olʹga Valentinovna Miller
     year: 1985
     series: Sto puteĭ, sto dorog
     language: Russian
@@ -58530,6 +58602,8 @@ titles:
   - title: KPSS o profsojuzach
     authors:
       - L. P. Kopylovoj
+    editors:
+      - L. P. Kopylova
     year: 1986
     language: Russian
     sources:
@@ -59292,6 +59366,7 @@ titles:
   - title: Trud i krasota
     authors:
       - Barbara Jaroszewska
+    translators:
       - V. F. Kobelâckij
     year: 1986
     language: Russian
@@ -59317,6 +59392,7 @@ titles:
     authors:
       - Ahmet Hamievič Bokov
       - Akhmet Khamievich Bokov (Ахмет Хамиевич Боков)
+    translators:
       - Nikolaj Rodičev
       - Nikolai Rodichev (Николай Родичев)
     year: 1986
@@ -59709,6 +59785,7 @@ titles:
     subtitle: Roman
     authors:
       - L'uboš Jurík
+    translators:
       - T. Bol'šakova
     year: 1987
     language: Russian
@@ -60482,6 +60559,8 @@ titles:
     subtitle: Roman
     authors:
       - Sero Khanzadyan
+    translators:
+      - G. Martirosjan
     year: 1987
     language: Russian
     pages: 254
@@ -62552,6 +62631,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA11428455
     verified: false
   - title: '1. Mai: Kampftraditionen und Gegenwart'
+    original_title: 'Pervomaj: tradicii borʹby i sovremennostʹ'
     authors:
       - Vladimir Nikolaevič Lizun
     year: 1989
@@ -62676,6 +62756,7 @@ titles:
     verified: true
   - title: Geistige Interessen der Werktätigen
     subtitle: Probleme, Experimente, neue Ansätze
+    original_title: Duchovnye interesy trudjaščichsja
     authors:
       - Stanislav Ivanovič Kramarenko
     year: 1989
@@ -62796,6 +62877,9 @@ titles:
     subtitle: Sbornik ocherkov o rabochikh-initsiatorakh trudovykh pochinov
     authors:
       - Liudmila Solomonovna Rogachevskaia
+    editors:
+      - L. S. Rogačevskaâ
+      - L. S. Rogachevskaia (Л.С Рогачевская)
     year: 1989
     language: Russian
     pages: 237
@@ -62841,6 +62925,8 @@ titles:
     authors:
       - V. P. Arzamastsev
       - O. V. Miller
+    editors:
+      - O. V. Miller (О. В. Миллер)
     year: 1989
     edition: 2-e, dop. izd
     series: Sto puteĭ, sto dorog
@@ -63189,6 +63275,7 @@ titles:
   - title: Vnimanie, roditeli - narkomaniâ!
     authors:
       - Stanisław Górski
+    translators:
       - V. F. Kobelâckij
     year: 1989
     language: Russian
@@ -64741,6 +64828,8 @@ titles:
     subtitle: Pisʹma iz Afgana
     authors:
       - Petr Tkachenko
+    editors:
+      - Petr I. Tkačenko
     year: 1991
     series: Sovremennik v pisʹmakh, dokumentakh, svidetelʹstvakh
     language: Russian
@@ -64759,6 +64848,7 @@ titles:
   - title: Eros na Olimpe
     authors:
       - Jan Parandowski
+    translators:
       - S. P. Popov
     year: 1991
     language: Russian
@@ -64769,6 +64859,7 @@ titles:
   - title: Èros na Olympe
     authors:
       - Jan Parandowski
+    translators:
       - S. P. Popov
     year: 1991
     language: Russian
@@ -64902,6 +64993,7 @@ titles:
     authors:
       - Wanda Kobyłecka
       - Andrzej Jaczewski
+    translators:
       - V. L. Vasil'eva
     year: 1991
     language: Russian
@@ -65343,6 +65435,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA13828840
     verified: false
   - title: 'Живи и дай умереть: приключения агента 007; Операция "Гром"'
+    original_title: Live and let die and Thunderball
     authors:
       - Ian Fleming
     year: 1991

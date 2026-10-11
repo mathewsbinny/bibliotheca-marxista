@@ -16,6 +16,7 @@ titles:
     series: Marxistische bibliotheek; dl. 11
     authors:
       - Joseph Staline
+    translators:
       - William Carl Siewertsz van Reesema
     year: 1934
     language: Dutch
@@ -57,6 +58,7 @@ titles:
     series: Marxistische bibliotheek; 16
     authors:
       - Friedrich Engels
+    translators:
       - William Carl Siewertsz van Reesema
     year: 1936
     language: Dutch
@@ -177,6 +179,8 @@ titles:
     subtitle: Uit Nederlands verleden
     authors:
       - Peter VanNoorden
+    editors:
+      - P. van Noorden
     year: 1937
     language: Dutch
     sources:
@@ -488,9 +492,11 @@ titles:
     verified: true
   - title: Paria
     subtitle: Een dag uit het leven van een "onaanraakbare"
+    original_title: Untouchable
     series: Pegasus roman reeks; no. 9
     authors:
       - Mulk Raj Anand
+    translators:
       - Ina Prins-Willekes MacDonald
     year: 1949
     language: Dutch
@@ -758,6 +764,8 @@ titles:
       - Theun de Vries
       - Hans Ludwig C. Jaffé
       - Jaromír Šíp
+    editors:
+      - Jaromír Síp
     year: 1956
     language: Dutch
     pages: 77
@@ -809,6 +817,7 @@ titles:
   - title: De dreigende planeet
     authors:
       - Stanisław Lem
+    translators:
       - J. van Wiessel
     year: 1957
     language: Dutch
@@ -1011,6 +1020,8 @@ titles:
     subtitle: België's kolonialisme in de Congo
     authors:
       - Mark Twain
+    translators:
+      - Eva Tas
     year: 1961
     language: Dutch
     pages: 86
@@ -1050,6 +1061,7 @@ titles:
     subtitle: Roman
     authors:
       - Bruno Apitz
+    translators:
       - Henk Nijman
     year: 1961
     language: Dutch
@@ -1159,6 +1171,7 @@ titles:
     verified: true
   - title: Gabriela, passie en politiek
     subtitle: Roman over Brazilië
+    original_title: Gabriela, cravo e canela
     authors:
       - Jorge Amado
     year: 1962
@@ -1181,6 +1194,7 @@ titles:
         url: https://search.worldcat.org/title/36521365
     verified: true
   - title: Storm over Dakar
+    original_title: Les bouts de bois de dieu
     authors:
       - Ousmane Sembène
     year: 1962
@@ -1214,8 +1228,9 @@ titles:
     subtitle: Gedichten van Jevgeni Jevtoesjenko, Robert Rozjdjestvenski, Andrej Voznesenski, Jevgeni Vinokoerov, Nikolaj Starsjinov
     authors:
       - Evgenij Evtušenko
-      - Marko Fondse
       - Theun de Vries
+    translators:
+      - Marko Fondse
     year: 1963
     language: Dutch
     sources:
@@ -1237,8 +1252,10 @@ titles:
       - label: Free ebook (Project Gutenberg)
         url: https://www.gutenberg.org/ebooks/78853
   - title: Het Laatste Schot
+    original_title: Semester der verlorenen Zeit
     authors:
       - Joeri Brězan
+    translators:
       - I. E. Prins Willekes-Macdonald
     year: 1963
     language: Dutch
@@ -1290,6 +1307,7 @@ titles:
     verified: true
   - title: De heimelijke oorlog
     subtitle: De Verenigde Staten in Vietnam en Laos
+    original_title: The furtive war
     series: N T Reeks
     authors:
       - Wilfred G. Burchett
@@ -1322,6 +1340,7 @@ titles:
     subtitle: Roman
     authors:
       - Dieter Noll
+    translators:
       - Theun de Vries
     year: 1965
     language: Dutch
@@ -1415,6 +1434,7 @@ titles:
     subtitle: West-Duitslands streven naar atoombewapening
     authors:
       - Jerzy Kowalewski
+    translators:
       - J. Ende
     year: 1965
     language: Dutch
@@ -1702,6 +1722,8 @@ titles:
     subtitle: Poëet en Amsterdammer
     authors:
       - J. A. N. Knuttel
+    editors:
+      - Joost B. de Klerk
     year: 1968
     edition: '[2d. druk. Herz. door Theun de Vries en J. B. de Klerk]'
     language: Dutch
@@ -3675,8 +3697,10 @@ titles:
     verified: true
   - title: Polen
     subtitle: Achtergronden van een crisis
+    original_title: 'Poland: a crisis for socialism'
     authors:
       - Martin R. Myant
+    translators:
       - Paul Syrier
     year: 1982
     language: Dutch
@@ -3773,6 +3797,7 @@ titles:
   - title: Het Koning David-report “niederländ.”
     authors:
       - Stefan Heym
+    translators:
       - Hans de Vries
     year: 1984
     language: German

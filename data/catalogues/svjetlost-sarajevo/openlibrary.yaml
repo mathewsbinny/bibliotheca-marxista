@@ -749,6 +749,8 @@ titles:
   - title: Putopis kroz Bosnu, Srbiju, Bugarsku i Rumeliju 1530
     authors:
       - Benedikt Kuripešić
+    translators:
+      - Đorđe Pejanović
     year: 1950
     edition: 1. izd.]
     language: Croatian
@@ -857,6 +859,9 @@ titles:
     verified: true
   - title: Зборник савремене босанско-херцеговачке прозе
     authors: []
+    editors:
+      - Ilija Kecmanović
+      - Salko Nazečić
     year: 1950
     language: Serbian
     sources:
@@ -1132,8 +1137,10 @@ titles:
     verified: true
   - title: Plač prašume
     subtitle: Peruanske novele
+    original_title: Cuentos peruanos
     authors:
       - Ventura García Calderón
+    translators:
       - Joan Popović
     year: 1951
     language: Serbian
@@ -1214,6 +1221,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991014650399705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Trgovački drumovi i rudnici Srbije i Bosne u srednjem vijeku
+    original_title: 'Die Handelsstrassen und Bergwerke von Serbien und Bosnien während des Mittelalters : historisch-geographische Studien'
     authors:
       - Konstantin Jireček
     year: 1951
@@ -1598,6 +1606,8 @@ titles:
     subtitle: Knjiga i brošura, 1945-1951
     authors:
       - Sarajevo (Bosnia and Herzegovina). Narodna biblioteka Narodne Republike Bosne i Hercegovine
+    editors:
+      - Đorđe Pejanović
     year: 1953
     language: Croatian
     pages: 271
@@ -1706,6 +1716,7 @@ titles:
         url: https://www.sudoc.fr/101029640
     verified: true
   - title: Kako je umirala Čehoslovačka sloboda
+    original_title: Kdo byl vinen?
     authors:
       - Bohumil Laušman
       - Smilja Kršić
@@ -1825,6 +1836,7 @@ titles:
     verified: true
   - title: Turska vlast u Crnoj Gori u XVI i XVII veku
     subtitle: Prilog jednom nerešenom pitanju iz naše istorije
+    original_title: Kakva je bila Turska vlast u Crnoj Gori u XVI i XVII veku
     authors:
       - Branislav Đurđev
     year: 1953
@@ -1862,6 +1874,8 @@ titles:
     series: Jugoslovenska književnost
     authors:
       - Safet Burina
+    editors:
+      - Safet Burina (Сафет Бурина)
     year: 1954
     language: Macedonian
     sources:
@@ -1908,6 +1922,8 @@ titles:
     authors:
       - Đorđe Pejanović
       - Narodna Biblioteka Narodne Republike Bosne i Hercegovine
+    editors:
+      - Ðorđe Pejanović
     year: 1954
     language: Croatian
     sources:
@@ -1949,6 +1965,10 @@ titles:
   - title: Dela
     authors:
       - Masleša. Veselin
+    editors:
+      - Vladislav Milenković
+      - Nusret Seferović
+      - Jelena Masleša
     year: 1954
     series: Jugoslovenski pisci
     language: Croatian
@@ -2070,6 +2090,8 @@ titles:
   - title: Izbor sastava
     authors:
       - Dositej Obradović
+    editors:
+      - Milivoï Pavlovitch
     year: 1954
     language: Serbian
     sources:
@@ -2188,8 +2210,11 @@ titles:
     verified: true
   - title: Radnici na drumu
     subtitle: Roman
+    original_title: Les hommes de la route
     authors:
       - André Chamson
+    translators:
+      - Milan R. Popović
     year: 1954
     language: Croatian
     sources:
@@ -2283,6 +2308,8 @@ titles:
   - title: Djela
     authors:
       - Hasan Kikić
+    editors:
+      - Nikola Milićević
     year: 1955
     language: Not recorded
     sources:
@@ -2417,8 +2444,10 @@ titles:
     verified: true
   - title: Musa Dag
     subtitle: Roman
+    original_title: Die vierzig Tage des Musa Dagh
     authors:
       - Franz Werfel
+    translators:
       - Stevan Milović
     year: 1955
     language: Not recorded
@@ -2670,6 +2699,8 @@ titles:
       - Veselin Masleša
       - Vladislav Milenković
       - Nusret Seferović
+    editors:
+      - Jelena Masleša
     year: 1956
     language: Croatian
     sources:
@@ -2755,6 +2786,8 @@ titles:
     subtitle: Predgovor
     authors:
       - Grga Martić
+    editors:
+      - Ilija Kecmanović
     year: 1956
     series: Pisci bosne i Hercegovine
     language: Croatian
@@ -2785,6 +2818,8 @@ titles:
   - title: Izvesni osmeh, roman. "Un Certain sourire", prevela Zorica Mišković
     authors:
       - Françoise Sagan
+    translators:
+      - Zorica Mišković
     year: 1956
     language: Croatian
     sources:
@@ -2793,6 +2828,7 @@ titles:
     verified: true
   - title: Klerambo
     subtitle: Roman
+    original_title: Clerambault
     authors:
       - Romain Rolland
     year: 1956
@@ -2967,6 +3003,7 @@ titles:
         url: https://search.worldcat.org/title/25647377
     verified: true
   - title: Servantes
+    original_title: Cervantes
     authors:
       - Bruno Frank
     year: 1956
@@ -3053,6 +3090,8 @@ titles:
     verified: true
   - title: Časopis za književnu i umjetničku kritiku
     authors: []
+    editors:
+      - Midhat Begić
     year: 1957
     language: Not recorded
     sources:
@@ -3178,6 +3217,8 @@ titles:
     subtitle: Odlomci o jugoslovenskim zemljama
     authors:
       - Evliya Çelebi
+    editors:
+      - Hazim Šabanović
     year: 1957
     language: Croatian
     sources:
@@ -3769,9 +3810,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991098918169705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Budala u Hristu Emanuel Kvint
+    original_title: Der Narr in Christo Emanuel Quint
     series: Feniks
     authors:
       - Gerhart Hauptmann
+    translators:
       - Boško Petrović
     year: 1959
     language: Not recorded
@@ -3833,6 +3876,8 @@ titles:
     authors:
       - Dragol̂ub M. Pavlović
       - Dragoљub Pavloviћ (Драгољуб Павловић)
+    editors:
+      - Dragoljub Pavlović
     year: 1959
     language: Serbian
     sources:
@@ -4207,6 +4252,7 @@ titles:
         url: https://search.worldcat.org/title/25515884
     verified: true
   - title: Bijeli očnjak
+    original_title: White fang
     series: Biblioteka Mladi dani
     authors:
       - Jack London
@@ -4302,6 +4348,7 @@ titles:
     authors:
       - Joseph Conrad
       - Opowiadania i nowele psychologiczne
+    translators:
       - Luka Semenović
       - Albin Vilhar
     year: 1960
@@ -4377,6 +4424,8 @@ titles:
     authors:
       - Ivan Gundulić
       - Dragoljub Pavlović
+    editors:
+      - Vido Latković
     year: 1960
     edition: 2. izd
     series: Školska biblioteka
@@ -4546,6 +4595,8 @@ titles:
     verified: true
   - title: Partizani u anegdotama. Izbor i redakcija Sait Orahovac
     authors: []
+    editors:
+      - Sait Orahovac
     year: 1960
     language: Croatian
     sources:
@@ -4612,8 +4663,10 @@ titles:
         url: https://search.worldcat.org/title/25634845
     verified: true
   - title: Povratak Kazanove
+    original_title: Casanovas Heimfahrt
     authors:
       - Arthur Schnitzler
+    translators:
       - Zlatko Gorjan
     year: 1960
     language: Serbian
@@ -4645,6 +4698,7 @@ titles:
         url: https://search.worldcat.org/title/43247204
     verified: true
   - title: Prosjakinja sa Pondezara
+    original_title: Die Bettlerin vom Pont des Arts
     series: Biblioteka Džepna knjiga; 169
     authors:
       - Wilhelm Hauff
@@ -4764,6 +4818,8 @@ titles:
   - title: Vrt detinjstva
     subtitle: Antologija dečje pozije srpske i hrvatske
     authors: []
+    editors:
+      - Borislav Pavić
     year: 1960
     language: Serbian
     sources:
@@ -4943,6 +4999,7 @@ titles:
   - title: Jevrejski rat
     authors:
       - Lion Feuchtwanger
+    translators:
       - Amalija Milović
     year: 1961
     language: German
@@ -5042,6 +5099,7 @@ titles:
   - title: Pepeo i dijamant
     authors:
       - Jerzy Andrzejewski
+    translators:
       - Petar Vujičić
     year: 1961
     language: Serbian
@@ -5167,6 +5225,7 @@ titles:
   - title: Sinovi
     authors:
       - Lion Feuchtwanger
+    translators:
       - Amalija Milović
     year: 1961
     language: German
@@ -5183,6 +5242,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991089372169705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Stepski kralj Lir
+    original_title: Povesti i rasskazy
     series: Biblioteka Džepna knjiga; 224
     authors:
       - Ivan Sergeevič Turgenev
@@ -5211,6 +5271,7 @@ titles:
   - title: Zemlja obećana
     authors:
       - Lion Feuchtwanger
+    translators:
       - Amalija Milović
     year: 1961
     language: German
@@ -5346,6 +5407,7 @@ titles:
   - title: Nepoznati iz bara "Kalipso"
     authors:
       - Adam Bahdaj
+    translators:
       - Petar Vujičić
     year: 1962
     language: Not recorded
@@ -5356,9 +5418,11 @@ titles:
         url: https://search.worldcat.org/title/831132133
     verified: true
   - title: Patnje mladoga Vertera
+    original_title: Die Leiden des jungen Werthers
     series: Biblioteka izabranih djela
     authors:
       - Johann Wolfgang von Goethe
+    translators:
       - Ivan V. Lalić
     year: 1962
     language: Not recorded
@@ -5404,6 +5468,7 @@ titles:
   - title: Tajna zelenog pečata
     authors:
       - Hanna Ożogowska
+    translators:
       - Maria Krukowska
     year: 1962
     language: Croatian
@@ -5554,9 +5619,10 @@ titles:
     authors:
       - France Prešeren
       - Stanko Janež
+      - Milica Boric
+    translators:
       - Milan Rakočević
       - Trifun Dukić
-      - Milica Boric
     year: 1963
     language: Slovenian, Croatian, Serbian
     sources:
@@ -5610,6 +5676,8 @@ titles:
     series: Školska biblioteka
     authors:
       - Držić, Marin, 1508 (ca.)-1567
+    editors:
+      - Milica Borić
     year: 1963
     language: Croatian
     sources:
@@ -5666,6 +5734,7 @@ titles:
     authors:
       - Henryk Sienkiewicz
       - Nada Stanić
+    translators:
       - Đorđe Živanović
     year: 1963
     language: Serbian
@@ -5911,6 +5980,8 @@ titles:
     series: Biblioteka "Džepna knjiga"; 286
     authors:
       - Ćamil Sijarić
+    editors:
+      - Risto Trifković
     year: 1964
     language: Croatian
     sources:
@@ -6390,6 +6461,7 @@ titles:
   - title: Devojka i golubovi
     authors:
       - Jarosław Iwaszkiewicz
+    translators:
       - Petar Vujičić
     year: 1965
     language: Serbian
@@ -6814,6 +6886,8 @@ titles:
     verified: true
   - title: Sarajevski atentat 28. VI. 1914
     authors: []
+    editors:
+      - Vojislav Bogićević
     year: 1965
     language: Serbian
     sources:
@@ -7813,6 +7887,8 @@ titles:
   - title: Prepiska Silvija S. Kranjčevića
     authors:
       - Silvije Strahimir Kranjčević
+    editors:
+      - Ilija Kecmanović
     year: 1966
     edition: '2. deo. <Naslovna strana: Željko Marjanović>'
     language: Croatian
@@ -8164,6 +8240,8 @@ titles:
   - title: Sve će to narod pozlatiti
     authors:
       - Laza K. Lazarević
+    editors:
+      - Fadil Bukić
     year: 1966
     series: Školska lektira
     language: Croatian
@@ -8495,6 +8573,7 @@ titles:
     subtitle: Roman
     authors:
       - Stefan Żeromski
+    translators:
       - Đorđe Živanović
     year: 1967
     language: Serbian
@@ -8748,6 +8827,8 @@ titles:
     series: Srpski i hrvatski pisci XX veka; 29
     authors:
       - Miloš Crnjanski
+    editors:
+      - Petar Džadžić
     year: 1967
     language: Serbian
     sources:
@@ -8974,6 +9055,10 @@ titles:
     subtitle: Odlomci o júgoslavenskim zemljama
     authors:
       - Evliya Çelebi
+    editors:
+      - Hazim Šabanović
+    translators:
+      - Hazim Šabanović
     year: 1967
     language: Croatian
     pages: 682
@@ -9085,6 +9170,8 @@ titles:
   - title: Sabrana djela
     authors:
       - Petar Kočić
+    editors:
+      - Todor Kruševac
     year: 1967
     series: Biblioteka Kulturno nasljeđe
     language: Croatian
@@ -9214,6 +9301,8 @@ titles:
   - title: Sabrana djela. Priredio Miodrag Bogićević
     authors:
       - Isak Samokovlija
+    editors:
+      - Miodrag Bogićević
     year: 1967
     language: Not recorded
     sources:
@@ -9612,6 +9701,8 @@ titles:
   - title: Izabrana djela
     authors:
       - Marko Marković
+    editors:
+      - Muris Idrizović
     year: 1968
     series: Biblioteka Kulturno nasljeđe
     language: Croatian
@@ -9860,6 +9951,8 @@ titles:
   - title: Muslimani srpskohrvatskog jezika
     authors:
       - Salim Ćerić
+    editors:
+      - Milica Grabovac
     year: 1968
     language: Croatian
     pages: 246
@@ -10050,6 +10143,8 @@ titles:
   - title: Sabrana djela
     authors:
       - Zija Dizdarević
+    editors:
+      - Rizo Ramić
     year: 1968
     series: Biblioteka "Kulturno nasljeđe"
     language: Croatian
@@ -10520,6 +10615,9 @@ titles:
   - title: Izabrana djela
     authors:
       - Zvonimir Šubić
+    editors:
+      - Rizo Ramić
+      - Miroslav Vaupotić
     year: 1969
     series: Biblioteka Kulturno nasljeđe
     language: Croatian
@@ -10848,6 +10946,8 @@ titles:
   - title: Osnovi privrednog prava i pravni poslovi u privredi
     authors:
       - Aziz Sultanović
+    editors:
+      - Muris Idrizović
     year: 1969
     series: Univerzitetski udžbenici
     language: Croatian
@@ -11209,6 +11309,8 @@ titles:
   - title: Djevojka crvene kose
     authors:
       - Meša Selimović
+    editors:
+      - Risto Trifković
     year: 1970
     series: Biblioteka Savremenici
     language: Croatian
@@ -12227,6 +12329,8 @@ titles:
   - title: Izabrana djela
     authors:
       - Safvet-beg Bašagić
+    editors:
+      - Muhsin Rizvić
     year: 1971
     series: Biblioteka Kulturno nasljeđe Bosne i Hercegovine
     language: Croatian
@@ -12828,6 +12932,8 @@ titles:
     subtitle: Antologija novije poezije u BiH
     authors:
       - Husein comp Tahmiščić
+    editors:
+      - Husein Tahmiščić
     year: 1971
     language: Croatian
     pages: 280
@@ -13284,6 +13390,8 @@ titles:
   - title: Izabrana djela
     authors:
       - Aleksa Šantić
+    editors:
+      - Branko Milanović
     year: 1972
     series: Biblioteka Kulturno nasljeđe
     language: Serbian
@@ -14461,6 +14569,8 @@ titles:
     series: Biblioteka kulturno nasljeđe
     authors:
       - Hazim Šabanović
+    editors:
+      - Ahmed S. Aličić
     year: 1973
     language: Croatian
     sources:
@@ -14733,6 +14843,8 @@ titles:
   - title: Razvojne tendencije naše porodice - s posebnim osvrtom na sudsku brakorazvodnu praksu
     authors:
       - Alija Silajdžić
+    editors:
+      - Milica Grabovac
     year: 1973
     language: Not recorded
     pages: 361
@@ -14749,6 +14861,8 @@ titles:
   - title: Sabrana djela
     authors:
       - Ivan Frano Jukić
+    editors:
+      - Boris Ćorić
     year: 1973
     series: Biblioteka Kulturno nasljede
     language: Croatian
@@ -14952,8 +15066,11 @@ titles:
     verified: true
   - title: Uvod u bibliografiju
     subtitle: Teorijski osnovi bibliografije, istorija bibliografije, pregled bibliografija, bibliografija u Jugoslaviji
+    original_title: Uvod v bibliografijo
     authors:
       - Janez Logar
+    translators:
+      - Muris Idrizović
     year: 1973
     language: Macedonian
     sources:
@@ -15465,6 +15582,8 @@ titles:
   - title: Antologija francuske poezije
     subtitle: Narcis govori, romantizam i simbolizam
     authors: []
+    editors:
+      - Kolja Mićević
     year: 1975
     language: Serbian
     sources:
@@ -16616,6 +16735,8 @@ titles:
   - title: Eseji i kritike
     authors:
       - Ivo Andrić
+    editors:
+      - Ljubo Jandrić
     year: 1976
     language: Croatian
     pages: 354
@@ -16654,6 +16775,8 @@ titles:
     verified: true
   - title: Francuska književnost
     authors: []
+    editors:
+      - Branko Džakula
     year: 1976
     language: Not recorded
     sources:
@@ -17399,6 +17522,8 @@ titles:
   - title: Sabrana djela
     authors:
       - Hamza Humo
+    editors:
+      - Muhsin Rizvić
     year: 1976
     series: Biblioeka Kulturno nasljeđe Bosne i Hercegovine
     language: Serbian
@@ -19310,6 +19435,8 @@ titles:
     verified: false
   - title: Francuska književnost
     authors: []
+    editors:
+      - Branko Džakula
     year: 1978
     language: Not recorded
     sources:
@@ -19488,6 +19615,8 @@ titles:
   - title: Kritičari o Ziji Dizdareviću
     authors:
       - Aleksandar Ljiljak
+    editors:
+      - Minka Memija
     year: 1978
     language: Croatian
     pages: 156
@@ -20006,6 +20135,7 @@ titles:
     series: Nastavna biblioteka; 85
     authors:
       - Mustafa Tanovic
+    translators:
       - Petar Stefanovic
     year: 1978
     language: Not recorded
@@ -20560,9 +20690,11 @@ titles:
         url: https://search.worldcat.org/title/6745266
     verified: true
   - title: Politička mjerenja doba pošasti predmartovski period
+    original_title: Politische Messungen - Pestzeit Vormärz
     series: Biblioteka Etos; 2
     authors:
       - Ernst Bloch
+    translators:
       - Miloje Đorđević
     year: 1979
     language: Serbian
@@ -20714,6 +20846,8 @@ titles:
   - title: Sabrana djela
     authors:
       - Jovan Kršić
+    editors:
+      - Vojislav Maksimović
     year: 1979
     series: Biblioteka kulturno nasljeđe Bosne i Hercegovine
     language: Serbian
@@ -20742,6 +20876,8 @@ titles:
   - title: Sabrana djela Jovana Kršića
     authors:
       - Jovan Kršić
+    editors:
+      - Vojisłav Maksimović
     year: 1979
     language: Serbian
     sources:
@@ -20759,6 +20895,7 @@ titles:
   - title: Sada je i tebi kraj
     authors:
       - Jerzy Andrzejewski
+    translators:
       - Petar Vujičić
     year: 1979
     language: Serbian
@@ -21418,6 +21555,7 @@ titles:
   - title: Između kopna i mora
     authors:
       - Joseph Conrad
+    translators:
       - Samir Busovača
       - Zoran Mutić
       - Milica Babić
@@ -21632,8 +21770,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/000143450
     verified: true
   - title: Lord Džim
+    original_title: Lord Jim
     authors:
       - Joseph Conrad
+    translators:
       - Samir Busovača
       - Branka Bokonjić
     year: 1980
@@ -21709,8 +21849,10 @@ titles:
     verified: true
   - title: Nostromo
     subtitle: Priča sa morske obale
+    original_title: Nostromo
     authors:
       - Joseph Conrad
+    translators:
       - Ivo Slavnić
     year: 1980
     language: Not recorded
@@ -21750,8 +21892,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1080504680
     verified: true
   - title: Očima Zapada
+    original_title: Under Western eyes
     authors:
       - Joseph Conrad
+    translators:
       - Zulejha Riđanović
     year: 1980
     language: Not recorded
@@ -21821,8 +21965,10 @@ titles:
     verified: true
   - title: Pobjeda
     subtitle: Jedna otočka priča
+    original_title: Victory
     authors:
       - Joseph Conrad
+    translators:
       - Ivo Šoljan
     year: 1980
     language: Not recorded
@@ -22057,6 +22203,7 @@ titles:
     subtitle: Na granici sjenke; Srce tame
     authors:
       - Joseph Conrad
+    translators:
       - Zvonimir Radeljković
       - Bogdan Rakić
       - Svetozar Koljević
@@ -22068,8 +22215,10 @@ titles:
     verified: true
   - title: Tajni agent
     subtitle: Jednostavna pripovijest
+    original_title: The secret agent
     authors:
       - Joseph Conrad
+    translators:
       - Gordana Đurić
     year: 1980
     language: Not recorded
@@ -22080,6 +22229,8 @@ titles:
   - title: Tito
     subtitle: 1892-1980
     authors: []
+    editors:
+      - Luka Pavlović
     year: 1980
     language: Croatian
     sources:
@@ -22531,6 +22682,8 @@ titles:
   - title: Kritičari o Branku Ćopiću
     authors:
       - Muris Idrizović
+    editors:
+      - Mirza Idrizović
     year: 1981
     language: Croatian
     pages: 253
@@ -22924,6 +23077,7 @@ titles:
   - title: U sudnici moga oca
     authors:
       - Isaac Bashevis Singer
+    translators:
       - David Albahari
     year: 1981
     language: Not recorded
@@ -23184,6 +23338,9 @@ titles:
   - title: Jugoslovenska misao i socijalizam
     authors:
       - Enver Redžić
+    editors:
+      - Mirza Filipović
+      - Idriz Fazlić
     year: 1982
     language: Croatian
     pages: 324
@@ -23372,6 +23529,7 @@ titles:
   - title: Priče evanđelista
     authors:
       - Zenon Kosidowski
+    translators:
       - Zofia Maliszewska
     year: 1982
     language: Serbian
@@ -23684,6 +23842,7 @@ titles:
     verified: true
   - title: Tonio Kreger
     subtitle: Fiorenca
+    original_title: Tonio Kröger ; Fiorenza
     series: Biblioteka izabranih djela
     authors:
       - Thomas Mann
@@ -23697,6 +23856,7 @@ titles:
     series: Lingvistika; 8
     authors:
       - Jiří Levý
+    translators:
       - Bogdan L. Dabić
     year: 1982
     language: Croatian
@@ -24258,12 +24418,14 @@ titles:
     verified: true
   - title: Spoznaja i znanje
     subtitle: Sistemska procesna teorija spoznaje i znanja
+    original_title: Systems processing theory of cognition and knowledge
     series: Biblioteka pedagoško-andragoške i psihološke literature Kreativnost
     authors:
       - Arthur R. Delong
+      - Musa Rehić
+    translators:
       - Vinka Šoljan
       - Ivo Šoljan
-      - Musa Rehić
     year: 1983
     language: Not recorded
     sources:
@@ -24447,6 +24609,8 @@ titles:
   - title: Dosije Hrabak; Na autobuskoj stanici
     authors:
       - Erih Koš
+    editors:
+      - Alija Isaković
     year: 1984
     series: Savremena književnost naroda i narodnosti BiH u 50 knjiga
     language: Serbian
@@ -24468,6 +24632,8 @@ titles:
   - title: Doživljaji Nikoletine Bursaća; Bašta sljezove boje
     authors:
       - Branko Ćopić
+    editors:
+      - Alija Isaković
     year: 1984
     series: Savremena književnost naroda i narodnosti BiH u 50 knjiga -- 8
     language: Serbian
@@ -24714,6 +24880,8 @@ titles:
       - Ljubomir Cvijetić
       - Vladimir Pavlović
       - Dragoljub Jeknić
+    editors:
+      - Alija Isaković
     year: 1984
     series: Savremena književnost naroda i narodnosti BiH u 50 knjiga -- knj. 36
     language: Croatian
@@ -24760,6 +24928,8 @@ titles:
   - title: Ja, Danilo; Uhode
     authors:
       - Derviš Sušić
+    editors:
+      - Alija Isaković
     year: 1984
     series: Savremena književnost naroda i narodnosti BiH u 50 knjiga
     language: Other
@@ -24801,6 +24971,8 @@ titles:
   - title: Kamen i pepeo
     authors:
       - Milan Mučibabić
+    editors:
+      - Alija Isaković
     year: 1984
     series: Savremena književnost naroda i narodnosti BiH u 50 knjiga -- knj. 27
     language: Croatian
@@ -24824,6 +24996,8 @@ titles:
   - title: Kameni spavač
     authors:
       - Mak Dizdar
+    editors:
+      - Alija Isaković
     year: 1984
     series: Savremena književnost naroda i narodnosti BiH u 50 knjiga
     language: Croatian
@@ -24885,6 +25059,8 @@ titles:
   - title: Kozara razvalina
     authors:
       - Mladen Oljača
+    editors:
+      - Alija Isaković
     year: 1984
     series: Savremena književnost naroda i narodnosti BiH u 50 knjiga
     language: Serbian
@@ -25100,6 +25276,8 @@ titles:
   - title: Nosač Samuel
     authors:
       - Isak Samokovlija
+    editors:
+      - Alija Isaković
     year: 1984
     series: Savremena književnost naroda i narodnosti BiH u 50 knjiga
     language: Serbian
@@ -25162,6 +25340,8 @@ titles:
   - title: Pjesme i zapisi
     authors:
       - Veselko Koroman
+    editors:
+      - Alija Isaković
     year: 1984
     series: Savremena književnost naroda i narodnosti BiH u 50 knjiga
     language: Croatian
@@ -25202,6 +25382,8 @@ titles:
   - title: Poezija
     authors:
       - Svetislav Mandić
+    editors:
+      - Dara Sekulić
     year: 1984
     series: Savremena književnost naroda i narodnosti BiH u 50 knjiga
     language: Serbian
@@ -25301,6 +25483,8 @@ titles:
   - title: Pripovijetke
     authors:
       - Ćamil Sijarić
+    editors:
+      - Alija Isaković
     year: 1984
     series: Savremena književnost naroda i narodnosti BiH u 50 knjiga
     language: Serbian
@@ -25342,6 +25526,8 @@ titles:
   - title: Prolom
     authors:
       - Branko Ćopić
+    editors:
+      - Alija Isaković
     year: 1984
     series: Savremena književnost naroda i narodnosti BiH u 50 knjiga
     language: Serbian
@@ -25409,6 +25595,8 @@ titles:
   - title: Ručni rad bogova
     authors:
       - Tomislav Obradović
+    editors:
+      - Alija Isaković
     year: 1984
     series: Savremena književnost naroda i narodnosti BiH u 50 knjiga
     language: Croatian
@@ -25510,6 +25698,8 @@ titles:
   - title: Savremena književnost naroda i narodnosti BiH u književnoj kritici
     authors:
       - Ivan Lovrenović
+    editors:
+      - Alija Isaković
     year: 1984
     series: Savremena književnost naroda i narodnosti BiH u 50 knjiga
     language: Croatian
@@ -25544,6 +25734,8 @@ titles:
   - title: Smrt Alojza Krizmana
     authors:
       - Nenad Radanović
+    editors:
+      - Alija Isaković
     year: 1984
     series: Savremena književnost naroda i narodnosti BiH u 50 knjiga
     language: Croatian
@@ -25669,6 +25861,9 @@ titles:
   - title: Tvrđava
     authors:
       - Meša Selimović
+    editors:
+      - Kasim Prohić
+      - Kasim Prokhiћ (Касим Прохић)
     year: 1984
     series: Savremena književnost naroda i narodnosti BiH u 50 knjiga
     language: Serbian
@@ -25713,6 +25908,8 @@ titles:
   - title: Voz za svanuće
     authors:
       - Risto Trifković
+    editors:
+      - Alija Isaković
     year: 1984
     series: Savremena književnost naroda i narodnosti BiH u 50 knjiga -- 16
     language: Serbian
@@ -25776,6 +25973,8 @@ titles:
   - title: Žeđ
     authors:
       - Neđo Parežanin
+    editors:
+      - Alija Isaković
     year: 1984
     series: Savremena književnost naroda i narodnosti BiH u 50 knjiga
     language: Serbian
@@ -25878,6 +26077,9 @@ titles:
   - title: Derviš i smrt
     authors:
       - Meša Selimović
+    editors:
+      - Kasim Prohić
+      - Alija Isaković
     year: 1985
     series: 'Savremena književnost naroda: narodnosti BiH u 50 knjiga -- 17'
     language: Serbian
@@ -25954,6 +26156,9 @@ titles:
     series: 'Savremena književnost naroda i narodnosti BiH: u 50 knjiga / odgovorni urednici: Alija Isaković ..; Knj. 29'
     authors:
       - Anđelko Vuletić
+    editors:
+      - Kasim Prohić
+      - Alija Isaković
     year: 1985
     language: Croatian
     sources:
@@ -25990,6 +26195,8 @@ titles:
   - title: Grumen sunca
     authors:
       - Zaim Topčić
+    editors:
+      - Alija Isaković
     year: 1985
     series: Savramena književnost naroda i narodnosti BiH u 50 knjiga -- knj. 25
     language: Croatian
@@ -26040,6 +26247,8 @@ titles:
       - Ivan Kordić
       - Stevan Tontić
       - Milan Nenadić
+    editors:
+      - Alija Isaković
     year: 1985
     language: Serbian
     sources:
@@ -26073,6 +26282,8 @@ titles:
   - title: Izabrane pjesme
     authors:
       - Ljubomir Cvijetić
+    editors:
+      - Alija Isaković
     year: 1985
     series: Savremena književnost naroda i narodnosti BiH u 50 knjiga -- knj. 36
     language: Croatian
@@ -26117,6 +26328,9 @@ titles:
   - title: Jasenovac
     authors:
       - Ljubo Jandrić
+    editors:
+      - Zdenko Lešić
+      - Alija Isaković
     year: 1985
     series: Savremena knjinevnost naroda i narodnosti BiH u 50 knjiga -- knj. 44
     language: Serbian
@@ -26177,6 +26391,8 @@ titles:
       - Jovan Lubardić
       - Ranko Risojević
       - Josip Osti
+    editors:
+      - Alija Isaković
     year: 1985
     language: Croatian
     sources:
@@ -26244,6 +26460,8 @@ titles:
   - title: Lirika nevremena
     authors:
       - Ilija Jokovljević
+    editors:
+      - Alija Isaković
     year: 1985
     series: Savremena književnost naroda i narodnosti BiH u 50 knjiga -- knj. 28
     language: Serbian
@@ -26286,6 +26504,8 @@ titles:
     subtitle: Izbor iz poezije i proze / Vladimir Čerkez
     authors:
       - Risto Tošović
+    editors:
+      - Alija Isaković
     year: 1985
     series: Savremena književnost naroda i narodnosti BiH u 50 knjiga -- knj. 22
     language: Croatian
@@ -26378,6 +26598,8 @@ titles:
   - title: Pjesme
     authors:
       - Mubera Pašić
+    editors:
+      - Alija Isaković
     year: 1985
     series: Savramena književnost naroda i narodnosti BiH u 50 knjiga -- knj. 43
     language: Croatian
@@ -26427,6 +26649,8 @@ titles:
   - title: Poezija
     authors:
       - Izet Sarajlić
+    editors:
+      - Alija Isaković
     year: 1985
     series: Savremena književnost naroda i narodnosti BiH u 50 knjiga -- knj. 23
     language: Serbian
@@ -26510,6 +26734,8 @@ titles:
     authors:
       - Ivan Lovrenović
       - Stjepan Čuić
+    editors:
+      - Alija Isaković
     year: 1985
     language: Croatian
     sources:
@@ -26611,6 +26837,7 @@ titles:
   - title: Strasti i druge pripovijetke
     authors:
       - Isaac Bashevis Singer
+    translators:
       - Ivo Šoljan
       - Vinka Šoljan
     year: 1985
@@ -26709,6 +26936,8 @@ titles:
   - title: Zavodišta
     authors:
       - Vojislav Maksimović
+    editors:
+      - Alija Isaković
     year: 1985
     series: Savremena književnost naroda i narodnosti BiH u 50 knjiga -- knj. 41
     language: Croatian
@@ -26907,6 +27136,8 @@ titles:
     series: Biblioteka kulturno nasljeđe Bosne i Hercegovine
     authors:
       - Safvet-beg Bašagić
+    editors:
+      - Jelena Berberović
     year: 1986
     language: Croatian
     sources:
@@ -27200,6 +27431,7 @@ titles:
         url: https://openlibrary.org/books/OL15151271M
     verified: true
   - title: The Pasha's Concubine and Other Tales
+    original_title: Mara milosnica i druge priče
     authors:
       - Ivo Andrić
     year: 1986
@@ -27275,6 +27507,7 @@ titles:
   - title: Zdruzgotina
     authors:
       - Jerzy Andrzejewski
+    translators:
       - Petar Vujičić
     year: 1986
     language: Serbian
@@ -27349,9 +27582,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=157893421
     verified: true
   - title: Der Derwisch und der Tod
+    original_title: Derviš i smrt
     series: Džepna knjiga - Taschenbuch
     authors:
       - Meša Selimović
+    translators:
+      - Werner Creutziger
     year: 1987
     language: German
     sources:
@@ -27362,6 +27598,7 @@ titles:
     verified: true
   - title: Die geliebte des Veli pascha
     subtitle: Erzählungen
+    original_title: Mara milosnica i druge pripovijetke
     authors:
       - Ivo Andrić
     year: 1987
@@ -27383,10 +27620,12 @@ titles:
         url: https://catalog.hathitrust.org/Record/002443645
     verified: true
   - title: Die Kunstschätze Bosniens und der Herzegowina
+    original_title: Umjetničko blago Bosne i Hercegovine
     authors:
       - Đuro Basler
       - Mirza Filipović
       - Sulejman Balić
+    translators:
       - Renate Hansen-Kokoruš
     year: 1987
     language: German
@@ -27401,6 +27640,8 @@ titles:
   - title: Djela
     authors:
       - Midhat Begić
+    editors:
+      - Hanifa Kapidžić-Osmanagić
     year: 1987
     language: Not recorded
     sources:
@@ -27529,6 +27770,8 @@ titles:
       - Osman-Aziz
       - Ivan A. Milićević
       - Osman Nuri Hadžić
+    editors:
+      - Alija Isaković
     year: 1987
     series: Biblioteka Kulturno naslijeđe Bosne i Hercegovine
     language: Croatian
@@ -27771,6 +28014,8 @@ titles:
   - title: Pobednički krug
     authors:
       - Duško Trifunović
+    editors:
+      - Ivan Lovrenović
     year: 1987
     series: Biblioteka Savremenici
     language: Serbian
@@ -27858,6 +28103,7 @@ titles:
     verified: true
   - title: Quand je serai grand comme la fourmi
     subtitle: = Wenn ich so gross bin wie die Ameise
+    original_title: Kad budem velik kao mrav
     series: Livre de poche
     authors:
       - Anđelko Vuletić
@@ -27999,8 +28245,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991139511039705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: The Art Treasures of Bosnia and Herzegovina
+    original_title: Umjetničko blago Bosne i Hercegovine
     authors:
       - Đuro Basler
+    editors:
+      - Mirza Filipović
     year: 1987
     language: English
     pages: 176
@@ -28031,9 +28280,12 @@ titles:
         url: https://lccn.loc.gov/90871147
     verified: true
   - title: Trunkener Sommer
+    original_title: Grozdanin kikot
     series: Džepna knjiga - Taschenbuch
     authors:
       - Hamza Humo
+    translators:
+      - Manfred Jähnichen
     year: 1987
     language: German
     sources:
@@ -28234,6 +28486,9 @@ titles:
   - title: Djela
     authors:
       - Kasim Prohić
+    editors:
+      - Dubravko Jelčić
+      - Nedjeljko Mihanović
     year: 1988
     language: Croatian
     sources:
@@ -28335,6 +28590,7 @@ titles:
   - title: Gospodin Kogito
     authors:
       - Zbigniew Herbert
+    translators:
       - Petar Vujičić
     year: 1988
     language: Serbian
@@ -28572,6 +28828,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1651419469
     verified: true
   - title: Neka mi ime bude gantnbajn
+    original_title: Mein Name sei Gantenbein
     series: Biblioteka Feniks
     authors:
       - Max Frisch
@@ -28634,6 +28891,7 @@ titles:
   - title: Priče jevanđelista
     authors:
       - Zenon Kosidowski
+    translators:
       - Zofia Maliszewska
     year: 1988
     language: Serbian
@@ -28745,6 +29003,7 @@ titles:
   - title: Rob
     authors:
       - Isaac Bashevis Singer
+    translators:
       - Andrija Grosberger
     year: 1988
     language: Not recorded
@@ -29201,6 +29460,7 @@ titles:
         url: https://www.sudoc.fr/046724575
     verified: true
   - title: Ivo Andrić u Berlinu 1939-41
+    original_title: Ivo Andrić in Berlin 1939 - 1941
     authors:
       - Želimir B. Juričić
     year: 1989
@@ -29252,6 +29512,8 @@ titles:
   - title: Izbor iz poezije
     authors:
       - Mehmed Mejlija Guranija
+    editors:
+      - Lamija Hadžiosmanović
     year: 1989
     series: Biblioteka Kulturno naslijeđe Bosne i Hercegovine
     language: Croatian
@@ -29846,6 +30108,8 @@ titles:
   - title: Srpske narodne pjesme iz Bosne i Hercegovine
     authors:
       - Bogoljub Petranović
+    editors:
+      - Novak Kilibarda
     year: 1989
     series: Biblioteka Kulturno nasljeđe Bosne i Hercegovine
     language: Serbian
@@ -30108,6 +30372,8 @@ titles:
   - title: Čas anatomije
     authors:
       - Danilo Kiš
+    editors:
+      - Ivan Lovrenović
     year: 1990
     series: Biblioteka Izabrana djela (Sarajevo, Bosnia and Hercegovina)
     language: Croatian
@@ -30407,6 +30673,8 @@ titles:
   - title: Gubilište
     authors:
       - Mirko Kovač
+    editors:
+      - Ivan Lovrenović
     year: 1990
     series: Izabrana proza Mirka Kovača -- t. 1
     language: Croatian
@@ -30430,6 +30698,7 @@ titles:
     series: Biblioteka Raskršća
     authors:
       - Vladimir Jakovljevič Prop
+    translators:
       - Vida Flaker
     year: 1990
     language: Serbian
@@ -30440,6 +30709,8 @@ titles:
   - title: Homo poeticus
     authors:
       - Danilo Kiš
+    editors:
+      - Ivan Lovrenović
     year: 1990
     series: Biblioteka Izabrana djela (Sarajevo, Bosnia and Hercegovina)
     language: Croatian
@@ -30467,8 +30738,11 @@ titles:
     verified: true
   - title: Hornov kraj
     subtitle: Roman
+    original_title: Horns Ende
     authors:
       - Christoph Hein
+    translators:
+      - Djordjo Vasic
     year: 1990
     language: Croatian
     sources:
@@ -30523,6 +30797,8 @@ titles:
   - title: Izabrana proza Mirka Kovača
     authors:
       - Mirko Kovač
+    editors:
+      - Ivan Lovrenović
     year: 1990
     language: Serbian
     sources:
@@ -30542,6 +30818,8 @@ titles:
   - title: Izabrani spisi
     authors:
       - Vasa Pelagić
+    editors:
+      - Vojislav Maksimović
     year: 1990
     series: Biblioteka Izdanci
     language: Croatian
@@ -30576,9 +30854,10 @@ titles:
   - title: Jugoslawien
     subtitle: Landschaft und Kultur; ein Bilderbuch
     authors:
+      - Vilko Zuber
+    translators:
       - Metka Simošić
       - Edeltraude Zadnikar
-      - Vilko Zuber
     year: 1990
     language: German
     sources:
@@ -30586,9 +30865,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=160371930X
     verified: true
   - title: Kasandra
+    original_title: Kassandra
     series: Biblioteka Feniks
     authors:
       - Christa Wolf
+    translators:
+      - Drago Tesovic
     year: 1990
     language: Croatian
     sources:
@@ -31056,6 +31338,8 @@ titles:
   - title: Nebeski zaručnici
     authors:
       - Mirko Kovač
+    editors:
+      - Ivan Lovrenović
     year: 1990
     series: Izabrana proza Mirka Kovača
     language: Croatian
@@ -31238,6 +31522,8 @@ titles:
     series: Biblioteka izabranih djela
     authors:
       - Oskar Davičo
+    editors:
+      - Miodrag Bogićević
     year: 1990
     language: Serbian
     sources:
@@ -31333,6 +31619,8 @@ titles:
     series: Biblioteka Izbrana djela
     authors:
       - Danilo Kiš
+    editors:
+      - Ivan Lovrenović
     year: 1990
     language: Croatian
     sources:
@@ -31443,9 +31731,10 @@ titles:
   - title: Preobražaj
     authors:
       - Franz Kafka
+      - Ranko Sladojević
+    translators:
       - Zlatko Gorjan
       - Zlatko Matetić
-      - Ranko Sladojević
     year: 1990
     language: Croatian
     sources:
@@ -31455,6 +31744,7 @@ titles:
   - title: Priče jevanđelista
     authors:
       - Zenon Kosidowski
+    translators:
       - Zofia Maliszewska
     year: 1990
     language: Serbian
@@ -31531,6 +31821,8 @@ titles:
   - title: Rane Luke Meštrevića
     authors:
       - Mirko Kovač
+    editors:
+      - Ivan Lovrenović
     year: 1990
     series: Izabrana proza Mirka Kovača
     language: Croatian
@@ -31629,6 +31921,8 @@ titles:
   - title: Ruganje s dušom
     authors:
       - Mirko Kovač
+    editors:
+      - Ivan Lovrenović
     year: 1990
     series: Izabrana proza Mirka Kovača -- t. 3
     language: Croatian
@@ -31685,6 +31979,9 @@ titles:
   - title: Sabrana djela
     authors:
       - Dimitrije Mitrinović
+    editors:
+      - Predrag Palavestra
+      - Predrag Palavestra (Предраг Палавестра)
     year: 1990
     series: Biblioteka Kulturno naslijeđe Bosne i Hercegovine
     language: Serbian
@@ -31717,6 +32014,8 @@ titles:
   - title: Šekspir naš savremenik
     authors:
       - Jan Kott
+    translators:
+      - Petar Vujičić
     year: 1990
     series: Biblioteka raskršća
     language: Croatian
@@ -31803,6 +32102,7 @@ titles:
   - title: Svjetska povijest i događanje spasa
     authors:
       - Karl Löwith
+    translators:
       - Mario Vukić
     year: 1990
     language: Croatian
@@ -31935,6 +32235,8 @@ titles:
   - title: Uvod u drugi život
     authors:
       - Mirko Kovač
+    editors:
+      - Ivan Lovrenović
     year: 1990
     series: Izabrana proza Mirka Kovača
     language: Croatian
@@ -32008,6 +32310,8 @@ titles:
   - title: Vrata od utrobe
     authors:
       - Mirko Kovač
+    editors:
+      - Ivan Lovrenović
     year: 1990
     series: Izabrana proza Mirka Kovača -- t. 4
     language: Croatian
@@ -32069,6 +32373,8 @@ titles:
     subtitle: Roman
     authors:
       - Radovan Ždrale
+    editors:
+      - Ivan Lovrenović
     year: 1990
     series: Savremeni jugoslavenski roman
     language: Croatian
@@ -32088,6 +32394,10 @@ titles:
     verified: true
   - title: Yougoslavie
     authors: []
+    editors:
+      - Gavrilo Grahovac
+    translators:
+      - Mirjana Dizdarevic
     year: 1990
     language: French
     sources:
@@ -32163,6 +32473,8 @@ titles:
   - title: Život, literatura
     authors:
       - Danilo Kiš
+    editors:
+      - Ivan Lovrenović
     year: 1990
     series: Biblioteka Izabrana djela (Sarajevo, Bosnia and Hercegovina)
     language: Croatian
@@ -32284,6 +32596,8 @@ titles:
     subtitle: Povest o preporodu
     authors:
       - Berislav Kosier
+    editors:
+      - Ivan Lovrenović
     year: 1991
     series: Savremeni jugoslavenski roman
     language: Croatian
@@ -32847,6 +33161,8 @@ titles:
   - title: Sabrana djela
     authors:
       - Dimitrije Mitrinović
+    editors:
+      - Predrag Palavestra
     year: 1991
     series: Biblioteka Kulturno nasljeđe Bosne i Hercegovine
     language: Serbian
@@ -32933,6 +33249,8 @@ titles:
     series: Muslimanska Književnost XX Vijeka; XIX
     authors:
       - Muhamed Kondžić
+    translators:
+      - Enes Duraković
     year: 1991
     language: Croatian
     sources:
@@ -32945,6 +33263,8 @@ titles:
     subtitle: Pripovijetke
     authors:
       - Ćamil Sijarić
+    editors:
+      - Svetozar Koljević
     year: 1991
     language: Not recorded
     sources:
@@ -32955,6 +33275,7 @@ titles:
     series: Muslimanska književnost XX vijeka; knj.XVII
     authors:
       - Muhamed Kondžić
+    translators:
       - Enes Duraković
     year: 1991
     language: Not recorded
@@ -32988,6 +33309,8 @@ titles:
     subtitle: Roman
     authors:
       - Živojin Pavlović
+    editors:
+      - Ivan Lovrenović
     year: 1991
     series: Savremeni jugoslavenski roman
     language: Croatian

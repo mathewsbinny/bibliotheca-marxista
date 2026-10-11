@@ -532,6 +532,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=411008935
     verified: true
   - title: Gëci i Berlihingenit
+    original_title: Götz von Berlichingen mit der eisernen Hand
     authors:
       - Johann Wolfgang von Goethe
       - Skënder Luarasi
@@ -542,8 +543,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=591625466
     verified: true
   - title: Gëci i Berlihingent
+    original_title: Götz von Berlichingen
     authors:
       - Johann Wolfgang von Goethe
+    translators:
       - Skënder Luarasi
     year: 1959
     language: Not recorded
@@ -951,6 +954,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=422600881
     verified: true
   - title: Lenini dhe femijet
+    original_title: Lenin i deti
     authors:
       - Vladimir Dmitrievič Bonč-Bruevič
       - Nasho V. Jorgaqi
@@ -1506,6 +1510,8 @@ titles:
   - title: Veprat
     authors:
       - Migjeni
+    editors:
+      - Skënder Luarasi
     year: 1961
     language: Albanian
     pages: 263
@@ -1577,8 +1583,10 @@ titles:
     subtitle: Artikuj të gazetës Zëri i popullit
   - title: Emilia Galoti
     subtitle: Tragjedi ne 5 akte
+    original_title: Emilia Galotti
     authors:
       - Gotthold Ephraim Lessing
+    translators:
       - Skender Luarasi
     year: 1962
     language: Albanian
@@ -2856,6 +2864,7 @@ titles:
     verified: true
   - title: Le marais
     subtitle: Roman
+    original_title: Këneta
     authors:
       - Fatmir Gjata
     year: 1965
@@ -2948,6 +2957,8 @@ titles:
   - title: The Lute and the Rifle
     authors:
       - Dhimitër S. Shuteriqi
+    translators:
+      - Ali Cungu
     year: 1965
     language: English
     pages: 310
@@ -3006,6 +3017,8 @@ titles:
   - title: Andon Zako Çajupi
     authors:
       - Andon Zako Çajupi
+    editors:
+      - Razi Brahimi
     year: 1966
     series: Poezia shqipe
     language: Albanian
@@ -3746,8 +3759,10 @@ titles:
     verified: true
   - title: Konstandini dhe Morsinia
     subtitle: (Një histori nga koha e Skanderbeut)
+    original_title: The captain of the Janizairies
     authors:
       - James M. Ludlow
+    translators:
       - Vedat Kokona
     year: 1967
     language: Albanian
@@ -4217,6 +4232,7 @@ titles:
     verified: true
   - title: Automne d'orage
     subtitle: Roman
+    original_title: Nje vjeshte me stuhi
     authors:
       - Ali Abdihoxha
     year: 1968
@@ -4511,6 +4527,7 @@ titles:
     verified: true
   - title: Le general de l'armée morte
     subtitle: Roman
+    original_title: Gjenerali i Ushtrisë së vdekur
     authors:
       - Ismail Kadare
     year: 1968
@@ -4790,6 +4807,8 @@ titles:
   - title: The Wedding. [Dasma.] Rendered into English by Ali Cungu
     authors:
       - Ismail Kadare
+    translators:
+      - Ali Cungu
     year: 1968
     language: English
     sources:
@@ -5050,6 +5069,7 @@ titles:
     subtitle: Roman
     authors:
       - Hans Fallada
+    translators:
       - Klio Evangjeli
     year: 1969
     language: German
@@ -5205,6 +5225,8 @@ titles:
     verified: true
   - title: Kënga e aksioneve, vargje të nxënësve të politeknikumit «7 Nëndori». Mbledhur dhe redaktuar nga Luan Rexhepi
     authors: []
+    editors:
+      - Luan Rexhepi
     year: 1969
     language: Not recorded
     sources:
@@ -6888,6 +6910,9 @@ titles:
     verified: true
   - title: 'Në ditët e zjarrta të luftës, nëpër faqet e shtypit të luftës nacionalçlirimtare. Mbledhur nga: Vasil Gjylameti, Halim Stolia. Redaktuar nga: Pandeli Koçi'
     authors: []
+    editors:
+      - Vasil Gjylameti
+      - Halim Stolia
     year: 1971
     language: Not recorded
     sources:
@@ -7302,6 +7327,8 @@ titles:
   - title: Zef Serembe
     authors:
       - Zef Serembe
+    editors:
+      - Razi Brahimi
     year: 1971
     series: Poezia shqipe
     language: Albanian
@@ -7835,6 +7862,7 @@ titles:
   - title: Komedi
     authors:
       - Molière
+    translators:
       - Enver Fico
     year: 1973
     language: Multiple languages
@@ -11463,6 +11491,7 @@ titles:
     verified: true
   - title: Çelin lulet
     subtitle: Vjersha
+    original_title: ArticleTitre original
     series: Biblioteka e fatosit
     authors:
       - Milianov Kallupi
@@ -11547,8 +11576,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1169122647
     verified: true
   - title: Dramat në prozë
+    original_title: Die Räuber
     authors:
       - Friedrich Schiller
+    translators:
       - Skënder Luarasi
     year: 1977
     language: Albanian
@@ -13005,8 +13036,12 @@ titles:
         url: https://lccn.loc.gov/89870358
     verified: true
   - title: Sojliu mendjemprehtë Don Kishoti i Mançës
+    original_title: Don Quixote
     authors:
       - Miguel de Cervantes Saavedra
+    translators:
+      - Fan Stylian Noli
+      - Petro Zheji
     year: 1977
     edition: Botimi 2
     language: Albanian
@@ -14690,6 +14725,8 @@ titles:
     subtitle: 1504-1944
     authors:
       - Nasho V. Jorgaqi
+    editors:
+      - Nasho Jorgaqi
     year: 1979
     language: Albanian
     pages: 507
@@ -15897,6 +15934,7 @@ titles:
   - title: Nën rrotë
     authors:
       - Hermann Hesse
+    translators:
       - Afrim Koçi
     year: 1980
     language: German
@@ -16183,6 +16221,8 @@ titles:
   - title: Vepra letrare
     authors:
       - Nonda Bulka
+    editors:
+      - Rozeta Uçi
     year: 1980
     language: Albanian
     sources:
@@ -16286,6 +16326,7 @@ titles:
     subtitle: Roman
     authors:
       - Max von der Grün
+    translators:
       - Afrim Koçi
     year: 1981
     language: Albanian
@@ -16800,6 +16841,8 @@ titles:
   - title: Tradita dhe risi letrare
     authors:
       - Jorgo Bulo
+    editors:
+      - Ramazan Vozga
     year: 1981
     language: Albanian
     pages: 355
@@ -16862,6 +16905,8 @@ titles:
   - title: Vepra letrare
     authors:
       - Ismail Kadare
+    editors:
+      - Rozeta Uçi
     year: 1981
     language: Albanian
     pages: 12
@@ -17004,6 +17049,7 @@ titles:
     series: Biblioteka e yllkave
     authors:
       - Ilianë Rëls
+    translators:
       - Pranvera Faslliu
     year: 1982
     language: Albanian
@@ -17329,6 +17375,7 @@ titles:
     subtitle: Roman
     authors:
       - Hans Fallada
+    translators:
       - Robert Schwartz
     year: 1982
     language: German
@@ -18133,6 +18180,8 @@ titles:
   - title: Vepra letrare
     authors:
       - Ali Abdihoxha
+    editors:
+      - Dilaver Dilaveri
     year: 1983
     language: Albanian
     sources:
@@ -18434,8 +18483,9 @@ titles:
     subtitle: Poezi
     authors:
       - Paul Éluard
-      - Dritëro Agolli
       - Piro Misha
+    translators:
+      - Dritëro Agolli
     year: 1984
     language: Albanian
     sources:
@@ -20893,8 +20943,9 @@ titles:
   - title: Biseda me Gëten
     authors:
       - Johann Peter Eckermann
-      - Afrim Koçi
       - Johann Wolfgang von Goethe
+    translators:
+      - Afrim Koçi
     year: 1987
     language: German
     sources:
@@ -21306,8 +21357,10 @@ titles:
     verified: true
   - title: Shpartallimi
     subtitle: Roman
+    original_title: Ladébâcle
     authors:
       - Émile Zola
+    translators:
       - Klio Evangjeli
     year: 1987
     language: Albanian
@@ -21374,6 +21427,8 @@ titles:
     subtitle: Skenderbeu i pafan
     authors:
       - Ismail Kadare
+    editors:
+      - Rozeta Uçi
     year: 1987
     series: Biblioteka e traditës
     language: Albanian
@@ -21638,6 +21693,7 @@ titles:
     subtitle: Roman i nje karriere
     authors:
       - Klaus Mann
+    translators:
       - Afrim Koçi
     year: 1988
     language: German
@@ -21812,6 +21868,8 @@ titles:
   - title: Vepra
     authors:
       - Migjeni
+    editors:
+      - Moikom Zeqo
     year: 1988
     language: Albanian
     pages: 380
@@ -22083,8 +22141,10 @@ titles:
     verified: true
   - title: Kyçi i botës
     subtitle: Roman
+    original_title: Le passe-monde
     authors:
       - Michel Grimaud
+    translators:
       - Mira Meksi
     year: 1989
     language: Albanian
@@ -22332,6 +22392,8 @@ titles:
   - title: Vepra
     authors:
       - Migjeni
+    editors:
+      - Moikom Zeqo
     year: 1989
     edition: Botimi i dytë.
     series: Biblioteka e traditës
@@ -22419,6 +22481,8 @@ titles:
     subtitle: Roman
     authors:
       - Nasi Lera
+    editors:
+      - Natasha Dulaku
     year: 1990
     language: Albanian
     pages: 244
@@ -22477,6 +22541,8 @@ titles:
     subtitle: Roman
     authors:
       - Ismail Kadare
+    editors:
+      - Piro Misha
     year: 1990
     language: Albanian
     pages: 230
@@ -22497,6 +22563,8 @@ titles:
   - title: Ftesë në studio
     authors:
       - Ismail Kadare
+    editors:
+      - Ilirian Zhupa
     year: 1990
     language: Albanian
     pages: 327
@@ -22604,6 +22672,8 @@ titles:
     subtitle: Roman
     authors:
       - Sabri Godo
+    editors:
+      - Adriatik Kallulli
     year: 1990
     language: Albanian
     pages: 493
@@ -22716,6 +22786,8 @@ titles:
     subtitle: Poezi
     authors:
       - Hysni Milloshi
+    editors:
+      - Isuf Nelaj
     year: 1990
     language: Albanian
     pages: 105
@@ -22735,6 +22807,8 @@ titles:
     subtitle: Roman
     authors:
       - Kiço Blushi
+    editors:
+      - Irena Dono
     year: 1990
     language: Albanian
     pages: 250
@@ -22767,6 +22841,8 @@ titles:
     subtitle: Poezi
     authors:
       - Agim Isaku
+    editors:
+      - Bardhyl Londo
     year: 1990
     language: Albanian
     pages: 116
@@ -22927,6 +23003,8 @@ titles:
     subtitle: Roman
     authors:
       - Teodor Laço
+    editors:
+      - Natasha Dulaku
     year: 1990
     language: Albanian
     pages: 329
@@ -22946,6 +23024,8 @@ titles:
     subtitle: Novelë e tregime
     authors:
       - Skënder Drini
+    editors:
+      - Tatjana Haxhimihali
     year: 1990
     language: Albanian
     pages: 377
@@ -23020,6 +23100,8 @@ titles:
   - title: Vepra letrare
     authors:
       - Lasgush Poradeci
+    editors:
+      - Nasho Jorgaqi
     year: 1990
     language: Albanian
     pages: 524
@@ -23075,6 +23157,8 @@ titles:
     subtitle: Vjersha dhe këngë
     authors:
       - Gjokë Beci
+    editors:
+      - Foto Malo
     year: 1990
     language: Albanian
     pages: 96
@@ -23123,6 +23207,8 @@ titles:
     subtitle: Roman
     authors:
       - Dritëro Agolli
+    editors:
+      - Fatos Kongoli
     year: 1991
     language: Albanian
     pages: 326
@@ -23172,6 +23258,8 @@ titles:
     subtitle: Tregime e novela
     authors:
       - Ismail Kadare
+    editors:
+      - Besnik Mustafaj
     year: 1991
     language: Albanian
     pages: 363
@@ -23262,6 +23350,8 @@ titles:
     subtitle: Poemë, tregime, novela
     authors:
       - Koço Kosta
+    editors:
+      - Adriatik Kallulli
     year: 1991
     language: Albanian
     sources:
@@ -23321,6 +23411,8 @@ titles:
   - title: Vepra letrare
     authors:
       - Petro Marko
+    editors:
+      - Dhori Qiriazi
     year: 1991
     language: Albanian
     sources:

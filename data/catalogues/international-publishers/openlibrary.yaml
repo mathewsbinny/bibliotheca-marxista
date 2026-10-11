@@ -29,6 +29,8 @@ titles:
   - title: Chains
     authors:
       - Henri Barbusse
+    translators:
+      - Stephen Haden Guest
     year: 1925
     language: English
     sources:
@@ -42,6 +44,8 @@ titles:
   - title: December the Fourteenth
     authors:
       - Dmitry Sergeyevich Merezhkovsky
+    translators:
+      - Nathalie A. Duddington
     year: 1925
     language: English
     pages: 319
@@ -60,6 +64,9 @@ titles:
     subtitle: Stories of New Russia
     authors:
       - Lidiia Nikolaevna Seĭfullina
+    translators:
+      - Louis S. Friedland
+      - Iosif R. Pirozhnikov
     year: 1925
     language: English
     pages: 318
@@ -192,6 +199,8 @@ titles:
   - title: Literature and Revolution
     authors:
       - Leon Trotsky
+    translators:
+      - Rose Strunsky
     year: 1925
     language: English, Russian
     pages: 255
@@ -355,6 +364,8 @@ titles:
   - title: The Tyranny of Time, Einstein or Bergson?
     authors:
       - Charles Nordmann
+    translators:
+      - E. E. (Edmund Edward) Fournier d'Albe
     year: 1925
     language: English
     pages: 216
@@ -522,6 +533,8 @@ titles:
   - title: Jacob's Well
     authors:
       - Pierre Benoît
+    translators:
+      - Angelo S. Rappoport
     year: 1926
     language: English
     pages: 288
@@ -579,6 +592,8 @@ titles:
   - title: Mrs. Socrates
     authors:
       - Fritz Mauthner
+    translators:
+      - Jacob W. Hartmann
     year: 1926
     language: English
     pages: 254
@@ -611,6 +626,8 @@ titles:
   - title: Selected Essays
     authors:
       - Karl Marx
+    translators:
+      - H. J. Stenning
     year: 1926
     language: English
     pages: 207
@@ -697,6 +714,8 @@ titles:
     subtitle: Translated from the German by Eden & Cedar Paul
     authors:
       - Karl Marx
+    translators:
+      - Cedar Paul
     year: 1926
     language: English
     pages: 190
@@ -740,6 +759,7 @@ titles:
       - label: Free ebook (Project Gutenberg)
         url: https://www.gutenberg.org/ebooks/13715
   - title: The Peasant War in Germany
+    original_title: Der Deutsche Bauernkrieg
     authors:
       - Friedrich Engels
       - David Borisovič Rjazanov
@@ -915,6 +935,8 @@ titles:
     subtitle: Critical Notes Concerning a Reactionary Philosophy
     authors:
       - Vladimir Il’ich Lenin
+    translators:
+      - David Kvitko
     year: 1927
     language: English
     pages: 368
@@ -993,6 +1015,8 @@ titles:
   - title: Memoirs of a Revolutionist
     authors:
       - Vera Figner
+    translators:
+      - Camilla Chapin Daniels
     year: 1927
     language: English
     links:
@@ -1012,6 +1036,8 @@ titles:
   - title: Modern Russian Composers
     authors:
       - Leonid Sabaneev
+    translators:
+      - Judah A. Joffe
     year: 1927
     language: English
     pages: 253
@@ -1070,8 +1096,10 @@ titles:
         url: https://hdl.handle.net/2027/mdp.39015027388068
   - title: Russian Poetry
     subtitle: An Anthology
-    authors:
+    authors: []
+    translators:
       - Babette Deutsch
+      - Avrahm Yarmolinsky
     year: 1927
     language: English
     pages: 254
@@ -1285,6 +1313,8 @@ titles:
     subtitle: With a Historical Introduction
     authors:
       - Karl Kautsky
+    translators:
+      - H. J. Stenning
     year: 1927
     language: English
     pages: 250
@@ -1400,8 +1430,11 @@ titles:
       - Valentin Nikolaevitch Astrov
       - Aleksandr Nikolaevitch Slepkov
       - J. Thomas
-      - Freda Utley
       - Sylvia Beach
+    editors:
+      - Valentin Astrov
+    translators:
+      - Freda Utley
     year: 1928
     language: English
     sources:
@@ -1486,6 +1519,8 @@ titles:
   - title: History of the First International
     authors:
       - IU. M. Steklov
+    translators:
+      - Eden Paul
     year: 1928
     language: English
     pages: 463
@@ -1531,6 +1566,9 @@ titles:
     subtitle: Translated and Edited by W. Horsley Gantt
     authors:
       - Ivan Petrovich Pavlov
+    translators:
+      - William Andrew Horsley Gantt
+      - G. Volborth
     year: 1928
     language: English
     sources:
@@ -1562,6 +1600,8 @@ titles:
   - title: Leninism
     authors:
       - Joseph Stalin
+    translators:
+      - Cedar Paul
     year: 1928
     language: English
     pages: 472
@@ -1764,7 +1804,10 @@ titles:
     verified: true
   - title: Azure Cities
     subtitle: Stories of New Russia
-    authors:
+    authors: []
+    editors:
+      - Joshua Kunitz
+    translators:
       - J. J. Robbins
     year: 1929
     language: English
@@ -1854,6 +1897,8 @@ titles:
     subtitle: A Critique of Political Economy; the Process of Capitalist Production
     authors:
       - Karl Marx
+    translators:
+      - Eden Paul
     year: 1929
     language: English
     pages: 927
@@ -1873,6 +1918,8 @@ titles:
   - title: Cement
     authors:
       - Fedor Gladkov
+    translators:
+      - A. S. Arthur
     year: 1929
     language: English
     pages: 311
@@ -2079,6 +2126,8 @@ titles:
   - title: Selections from Lenin
     authors:
       - Vladimir Ilʹich Lenin
+    translators:
+      - J. Fineberg
     year: 1929
     language: English
     sources:
@@ -2114,6 +2163,8 @@ titles:
   - title: Social Struggles and Thought (1750-1860)
     authors:
       - Max Beer
+    translators:
+      - H. J.
     year: 1929
     language: English
     pages: 218
@@ -2145,6 +2196,8 @@ titles:
     authors:
       - Max Beer
       - H. J. Stenning
+    translators:
+      - H. J.
     year: 1929
     language: English
     pages: 215
@@ -2207,6 +2260,8 @@ titles:
   - title: The Life and Teaching of Karl Marx
     authors:
       - Max Beer
+    translators:
+      - T. C. Partington
     year: 1929
     language: English
     pages: 158
@@ -2233,6 +2288,8 @@ titles:
   - title: The Nineteen
     authors:
       - Aleksandr Fadeev
+    translators:
+      - Richard Denis Charques
     year: 1929
     language: English
     links:
@@ -2329,6 +2386,8 @@ titles:
     subtitle: A Story of Peasant Life in Soviet Russia
     authors:
       - Fedor Ivanovich Panferov
+    translators:
+      - Z. Mitrov
     year: 1930
     language: English
     pages: 300
@@ -2370,6 +2429,9 @@ titles:
   - title: Herr Eugen Dühring's Revolution in Science (Anti-Dühring)
     authors:
       - Friedrich Engels
+    translators:
+      - Emile Burns
+      - C. P. Dutt
     year: 1930
     language: English
     pages: 359
@@ -2408,6 +2470,8 @@ titles:
   - title: Memories of Lenin
     authors:
       - N. K. Krupskaya
+    translators:
+      - E. Verney. Vol.2
     year: 1930
     language: English
     sources:
@@ -2463,6 +2527,8 @@ titles:
   - title: Short Stories from China
     authors:
       - Ming-ting Cze
+    translators:
+      - Cze Ming-ting
     year: 1930
     language: English
     pages: 96
@@ -2794,6 +2860,8 @@ titles:
     subtitle: The 5-year Plan in Soviet Agriculture
     authors:
       - IA. A. IAkovlev
+    translators:
+      - Anna Louise Strong
     year: 1931
     language: English
     pages: 128
@@ -2825,8 +2893,10 @@ titles:
     verified: true
   - title: Russian Poetry
     subtitle: An Anthology
-    authors:
+    authors: []
+    translators:
       - Babette Deutsch
+      - Avrahm Yarmolinsky
     year: 1931
     edition: New and rev. ed
     language: English
@@ -3089,6 +3159,8 @@ titles:
     subtitle: An Introduction to the Objective Study of Personality
     authors:
       - Vladimir Mikhaĭlovich Bekhterev
+    translators:
+      - Emma Murphy
     year: 1932
     language: English
     pages: 467
@@ -3546,6 +3618,7 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/the-revolutionary-crisis-is-maturing
   - title: The Rise and Fall of the Second International
+    original_title: Internationale und ihre erbe, 1889-1929
     authors:
       - J. Lenz
     year: 1932
@@ -3763,6 +3836,8 @@ titles:
     subtitle: A Play in Eight Scenes
     authors:
       - Vsevolod Viacheslavovich Ivanov
+    translators:
+      - W. L. Gibson-Cowan
     year: 1933
     language: English
     pages: 59
@@ -3780,6 +3855,8 @@ titles:
     subtitle: By M.N. Pokrovsky
     authors:
       - Mikhail Nikolaevich Pokrovskiǐ
+    translators:
+      - D. S. Mirsky
     year: 1933
     language: English
     sources:
@@ -3821,6 +3898,8 @@ titles:
   - title: Critique of the Gotha Programme
     authors:
       - Karl Marx
+    editors:
+      - E. Czobel
     year: 1933
     series: Marxist Library -- v. 11
     language: English
@@ -5143,6 +5222,7 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/hugo-huppert-men-of-siberia-sketchbook-from-the-kuzbas-cpsfw-1950
   - title: Militarism and Fascism in Japan
+    original_title: Voenno-fashīstskoe dvīzhenīe v I︠A︡ponii
     authors:
       - O. Tanīn
     year: 1934
@@ -5191,6 +5271,8 @@ titles:
   - title: Outline History of the Communist Party of the Soviet Union
     authors:
       - Nikolai Nikolaevich Popov
+    editors:
+      - A. Fineberg
     year: 1934
     language: English
     sources:
@@ -5442,6 +5524,8 @@ titles:
   - title: The Class Struggles in France (1848-50)
     authors:
       - Karl Marx
+    editors:
+      - C. P. (Clemens Palme) Dutt
     year: 1934
     series: Marxist Library -- v. 24
     language: English
@@ -5844,6 +5928,8 @@ titles:
   - title: American Writers' Congress
     authors:
       - American Writers' Congress. (1st 1935 New York)
+    editors:
+      - Henry Hart
     year: 1935
     language: English
     pages: 192
@@ -5938,6 +6024,8 @@ titles:
   - title: Dimitroff's Letters from Prison
     authors:
       - Georgi Dimitrov
+    translators:
+      - Dona Torr
     year: 1935
     language: English
     pages: 156
@@ -5958,8 +6046,10 @@ titles:
     subtitle: Compiled with Explanatory Notes by Alfred Kurella
   - title: Eddie and the Gipsy
     subtitle: A Story for Boys and Girls
+    original_title: Ede und Unku
     authors:
       - Alex Wedding
+    translators:
       - Charles Ashleigh
     year: 1935
     language: English
@@ -6035,6 +6125,8 @@ titles:
     subtitle: German Experience Since the "June Days"
     authors:
       - R. Braʼun
+    translators:
+      - Michael Davidson
     year: 1935
     language: English
     pages: 133
@@ -6089,6 +6181,8 @@ titles:
     subtitle: '[Anti-Dühring]'
     authors:
       - Friedrich Engels
+    editors:
+      - C. P. Dutt
     year: 1935
     series: Marxist Library -- v. 18
     language: English
@@ -6109,6 +6203,8 @@ titles:
   - title: I Love
     authors:
       - Aleksandr Evstīgneevīch Avdeenko
+    translators:
+      - Anthony Wixley
     year: 1935
     language: English
     pages: 283
@@ -6123,6 +6219,8 @@ titles:
   - title: I Love, a Novel
     authors:
       - Aleksandr Avdeenko
+    translators:
+      - Anthony Wixley
     year: 1935
     language: English, Russian
     pages: 283
@@ -6310,6 +6408,8 @@ titles:
     subtitle: A Collection of Articles by v. I. Lenin
     authors:
       - Vladimir Il’ich Lenin
+    editors:
+      - J. Fineberg
     year: 1935
     series: Marxist Library. [20]
     language: English
@@ -6331,6 +6431,8 @@ titles:
     series: Marxist-Leninist Library
     authors:
       - Joseph Stalin
+    editors:
+      - A. Fineberg
     year: 1935
     language: English
     sources:
@@ -6370,6 +6472,8 @@ titles:
   - title: Memoirs of a Barber
     authors:
       - Giovanni Germanetto
+    translators:
+      - Edmund Stevens
     year: 1935
     language: English
     pages: 360
@@ -6474,6 +6578,8 @@ titles:
     subtitle: Reports and Speeches at the First Soviet Writers' Congress
     authors:
       - Vsesoiuznyĭ sʺezd sovetskikh pisateleĭ (1st 1934 Moscow, R. S. F. S. R.)
+    editors:
+      - H. G. Scott
     year: 1935
     language: English
     pages: 278
@@ -6562,6 +6668,8 @@ titles:
   - title: Selected Works
     authors:
       - Vladimir Il’ich Lenin
+    editors:
+      - J. Fineberg
     year: 1935
     language: English
     sources:
@@ -6607,6 +6715,8 @@ titles:
     subtitle: With the Essay on "the Mark"
     authors:
       - Friedrich Engels
+    translators:
+      - Edward Aveling
     year: 1935
     language: English
     pages: 93
@@ -6647,6 +6757,8 @@ titles:
   - title: Soviet Union, 1935
     authors:
       - Joseph Stalin
+    editors:
+      - A. Fineberg
     year: 1935
     language: English
     pages: 440
@@ -6662,6 +6774,9 @@ titles:
     subtitle: A New World Seen Through One Man
     authors:
       - Henri Barbusse
+    translators:
+      - Vyvyan Holland
+      - With 16 illustrations
     year: 1935
     language: English
     sources:
@@ -6801,6 +6916,8 @@ titles:
   - title: The Eighteenth Brumaire of Louis Bonaparte
     authors:
       - Karl Marx
+    editors:
+      - C. P. Dutt
     year: 1935
     series: 'Marxist Library: Works of Marxism-Leninism. Vol. XXXV'
     language: English
@@ -6869,6 +6986,8 @@ titles:
   - title: The Housing Question
     authors:
       - Friedrich Engels
+    editors:
+      - C. P. (Clemens Palme) Dutt
     year: 1935
     series: Marxist Library -- v. 23
     language: English
@@ -6981,6 +7100,8 @@ titles:
   - title: The Scientific Study of Soviet Mineral Resources
     authors:
       - A. E. Fersman
+    editors:
+      - C. P. (Clemens Palme) Dutt
     year: 1935
     language: English
     pages: 149
@@ -7084,6 +7205,8 @@ titles:
   - title: Value, price, and Profit
     authors:
       - Karl Marx
+    editors:
+      - Eleanor Marx Aveling
     year: 1935
     language: German
     sources:
@@ -7221,6 +7344,8 @@ titles:
       - V. I. Veĭts
       - World Power Conference. U.S.S.R. National Committee
       - Ėnergeticheskiĭ institut im. G.M. Krzhizhanovskogo
+    translators:
+      - Leonard E. Mins
     year: 1936
     language: English
     pages: 496
@@ -7265,6 +7390,8 @@ titles:
   - title: France To-day and the People's Front
     authors:
       - Maurice Thorez
+    translators:
+      - Emile Burns
     year: 1936
     language: English
     pages: 255
@@ -7402,6 +7529,8 @@ titles:
   - title: Man Changes His Skin
     authors:
       - Bruno Jasieński
+    translators:
+      - H. G. Scott
     year: 1936
     language: English
     pages: 895
@@ -7478,6 +7607,8 @@ titles:
   - title: Selected Works ...
     authors:
       - Karl Marx
+    editors:
+      - V. V. (Vladimir Viktorovich) Adoratskiĭ
     year: 1936
     language: English
     links:
@@ -8035,6 +8166,8 @@ titles:
     authors:
       - Maksim Gorkii (Максим Горький)
       - Ben Blake
+    translators:
+      - Anthony Wixley
     year: 1937
     language: English
     pages: 427
@@ -8485,6 +8618,8 @@ titles:
   - title: Selections from His Writings Thomas Paine. With an Introduction by James S. Allen
     authors:
       - Thomas Paine
+    editors:
+      - James Stewart Allen
     year: 1937
     language: English
     sources:
@@ -8638,6 +8773,8 @@ titles:
   - title: The Last Plays of Maxim Gorki
     authors:
       - Maksim Gorky
+    translators:
+      - W. L. Gibson-Cowan
     year: 1937
     language: English
     pages: 40
@@ -8651,6 +8788,8 @@ titles:
     subtitle: Translated from the Russian by Alec Brown
     authors:
       - Nikolay Ostrovsky
+    translators:
+      - Alec Brown
     year: 1937
     language: English
     pages: 440
@@ -8801,6 +8940,8 @@ titles:
     subtitle: Selected Works
     authors:
       - Vladimir Il’ich Lenin
+    translators:
+      - The Marx-Engels-Lenin Institute
     year: 1937
     language: English
     pages: 12
@@ -8912,6 +9053,8 @@ titles:
   - title: Biology and Marxism
     authors:
       - Marcel Prenant
+    translators:
+      - C. Desmond Greaves
     year: 1938
     language: English
     pages: 223
@@ -8991,6 +9134,8 @@ titles:
   - title: Critique of the Gotha Programme
     authors:
       - Karl Marx
+    editors:
+      - C. P. Dutt
     year: 1938
     language: English
     pages: 116
@@ -9037,6 +9182,9 @@ titles:
     subtitle: Selected Writings
     authors:
       - Denis Diderot
+    translators:
+      - Jean Stewart
+      - Jonathan Kemp
     year: 1938
     language: English
     pages: 358
@@ -9110,6 +9258,8 @@ titles:
   - title: Life of Lenin
     authors:
       - Platon Mikhaĭlovich Kerzhentsev
+    translators:
+      - Margaret McMackin
     year: 1938
     language: English
     pages: 336
@@ -9205,6 +9355,9 @@ titles:
   - title: Son of the People
     authors:
       - Maurice Thorez
+    translators:
+      - Douglas Garman
+      - With an introd. by Harry Pollitt
     year: 1938
     language: English
     pages: 237
@@ -9597,6 +9750,8 @@ titles:
   - title: Communism, Science and Culture
     authors:
       - Jacques Duclos
+    translators:
+      - Herbert Rosen
     year: 1939
     language: English, French
     pages: 46
@@ -9761,8 +9916,13 @@ titles:
         url: https://catalog.hathitrust.org/Record/000567758
     verified: true
   - title: Herr Eugen Dühring's Revolution in Science (Anti-Dühring)
+    original_title: Herrn Eugen Dührings Umwälzung der Wissenschaft
     authors:
       - Friedrich Engels
+    editors:
+      - C. P. Dutt
+    translators:
+      - Emile Burns
     year: 1939
     language: English
     pages: 365
@@ -9812,6 +9972,10 @@ titles:
     subtitle: A Play in Four Acts by v. Bill-Belotserkovsky. Translated by Anthony Wixley
     authors:
       - Vladimir Naumovich Bill'-Belotserkovskiǐ
+    editors:
+      - Ben Blake
+    translators:
+      - Anthony Wixley
     year: 1939
     language: English
     pages: 88
@@ -10017,6 +10181,9 @@ titles:
   - title: The Knight in the Tiger's Skin
     authors:
       - Rustaveli, Shota, active 12th century-13th century
+    translators:
+      - Marjory Scott Wardrop
+      - Revised by E.
     year: 1939
     language: English
     sources:
@@ -10056,6 +10223,8 @@ titles:
   - title: 'Two Systems: Socialist Economy and Capitalist Economy'
     authors:
       - Eugène Varga
+    translators:
+      - Robert Page Arnot
     year: 1939
     language: English
     pages: 268
@@ -10568,6 +10737,8 @@ titles:
   - title: The Civil War in the United States
     authors:
       - Karl Marx
+    editors:
+      - Richard Enmale
     year: 1940
     edition: 2d ed
     series: 'Marxist Library: Works of Marxism - Leninism -- v. 30'
@@ -10968,6 +11139,8 @@ titles:
   - title: Lectures on Conditioned Reflexes ...
     authors:
       - Ivan Petrovich Pavlov
+    translators:
+      - William Andrew Horsley Gantt
     year: 1941
     language: English
     sources:
@@ -11225,6 +11398,7 @@ titles:
       - Karl Marx
       - Friedrich Engels
       - V. V. Adoratskiĭ
+    translators:
       - Dona Torr
     year: 1942
     series: Marxist Library -- v. 29
@@ -11784,7 +11958,8 @@ titles:
     verified: true
     series: 'Political Extremism and Radicalism: Far-Right and Left Political Groups in the U.S., Europe, and Australia in the Twentieth Century'
   - title: A Basis for the Theory of Medicine
-    authors:
+    authors: []
+    translators:
       - C. P. Dutt
     year: 1943
     language: English
@@ -11807,6 +11982,7 @@ titles:
         url: https://www.gateway-bayern.de/BV021003830
     verified: true
     subtitle: By A[leksej] D[mitrievič] Speransky. Translated and Edited by C[lemens] P[alme] Dutt. With the Collaboration of A[natolij] A[natolevič] Subkov
+    original_title: Ėlementy postroenija teorii mediciny
     pages: 452
   - title: A Basis for the Theory of Medicine, by A.D. Speransky ... Translated and Edited by C.P. Dutt ... with the Collaboration of A.A. Subkov
     authors:
@@ -11851,8 +12027,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/000332261
     verified: true
   - title: Biology and Marxism
+    original_title: Biologie et marxisme
     authors:
       - Marcel Prenant
+    translators:
+      - Charles Desmond Greaves
     year: 1943
     language: English
     pages: 223
@@ -11936,6 +12115,11 @@ titles:
     subtitle: Selected Writings
     authors:
       - Denis Diderot
+    editors:
+      - Jonathan Kemp
+    translators:
+      - Jean Stewart
+      - Jonathan Kemp
     year: 1943
     language: English
     pages: 358
@@ -12078,6 +12262,10 @@ titles:
   - title: Selected Works
     authors:
       - Vladimir Il’ich Lenin
+    editors:
+      - J. Fineberg
+    translators:
+      - J. Fineberg
     year: 1943
     language: English
     pages: 12
@@ -12532,7 +12720,9 @@ titles:
     authors:
       - Emily G. Kazakʹevich
       - Vladimir D. Kazakevich
+    translators:
       - Emily G. Kazakévich
+      - With the collaboration of Vladimir D. Kazakévich
     year: 1944
     language: English
     pages: 48
@@ -12551,6 +12741,8 @@ titles:
   - title: Selections from His Writings. Edited with an Introduction by Philip S. Foner
     authors:
       - Abraham Lincoln
+    editors:
+      - Philip Sheldon Foner
     year: 1944
     language: English
     sources:
@@ -12859,6 +13051,8 @@ titles:
   - title: Frederick Douglass, Selections from His Writings
     authors:
       - Frederick Douglass
+    editors:
+      - Philip Sheldon Foner
     year: 1945
     language: English
     pages: 95
@@ -12894,6 +13088,8 @@ titles:
   - title: 'Germany: Economic and Labour Conditions Under Fascism'
     authors:
       - Jürgen Kuczynski
+    editors:
+      - Albert Norden
     year: 1945
     language: English
     pages: 234
@@ -13024,6 +13220,9 @@ titles:
     subtitle: Some Problems of Teaching the Subject
     authors:
       - Emily G. Kazakevich
+    translators:
+      - Emily G. Kazakévich
+      - With the collaboration of Vladimir D. Kazakévich
     year: 1945
     language: English
     pages: 48
@@ -13058,6 +13257,8 @@ titles:
   - title: Selections from His Writings. Edited, with an Introduction, by Philip S. Foner
     authors:
       - Frederick Douglass
+    editors:
+      - Philip Sheldon Foner
     year: 1945
     language: English
     sources:
@@ -13076,6 +13277,8 @@ titles:
   - title: Socialism, Utopian and Scientific
     authors:
       - Friedrich Engels
+    translators:
+      - Edward Aveling
     year: 1945
     language: English
     pages: 47
@@ -13226,6 +13429,8 @@ titles:
     subtitle: Selections from His Poetry and Prose
     authors:
       - William Cullen Bryant
+    editors:
+      - Samuel Sillen
     year: 1945
     language: English
     pages: 94
@@ -13255,6 +13460,8 @@ titles:
   - title: Capitalism and Agriculture
     authors:
       - Vladimir Il’ich Lenin
+    translators:
+      - Alexander Trachtenberg
     year: 1946
     series: Little Lenin Library -- 30
     language: English
@@ -13357,8 +13564,11 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA73061225
     verified: true
   - title: Marx's Capital
+    original_title: Kapital Marksa
     authors:
       - A. Leontiev
+    translators:
+      - Emily G. Kazakʹevich
     year: 1946
     language: English
     pages: 160
@@ -13467,6 +13677,8 @@ titles:
     subtitle: Selections from His Writings
     authors:
       - Samuel Adams
+    editors:
+      - Elizabeth Lawson
     year: 1946
     language: English
     pages: 96
@@ -13758,9 +13970,18 @@ titles:
     authors:
       - Karl Marx
       - Edward B. Aveling
-      - Samuel Moore
       - Friedrich Engels
       - Dona Torr
+    translators:
+      - Samuel Moore
+      - Edward Aveling
+      - Frederick Engels. A reprint entirely reset page for page from the stereotyped edition of 1889
+      - With a supplement including changes made by Engels in the fourth German edition
+      - Engels' prefaces to the fourth
+      - Third German editions
+      - With Notes
+      - Marx's preface to the French edition
+      - Notes on the English edition
     year: 1947
     language: English
     pages: 886
@@ -14060,6 +14281,7 @@ titles:
       - Karl Marx
       - Friedrich Engels
       - Roy Pascal
+    translators:
       - W. Lough
       - C. P. Magill
     year: 1947
@@ -14214,8 +14436,11 @@ titles:
     verified: true
   - title: Giant at the Crossroads
     subtitle: The Story of Ancient Civilization
+    original_title: Kak čelovek stal velikanom
     authors:
       - M. Ilʹin
+    translators:
+      - Beatrice Kincead
     year: 1948
     language: English
     pages: 224
@@ -14665,6 +14890,8 @@ titles:
   - title: Handbook of Philosophy
     authors:
       - Mark Moiseevich Rozentalʹ
+    editors:
+      - Howard Selsam
     year: 1949
     language: English
     pages: 128
@@ -14820,6 +15047,8 @@ titles:
     subtitle: The Middle Ages and the Renaissance
     authors:
       - M. Ilʹin
+    translators:
+      - Beatrice Kinkead
     year: 1949
     language: English
     pages: 223
@@ -15201,6 +15430,8 @@ titles:
   - title: The Life and Writings of Frederick Douglass
     authors:
       - Frederick Douglass
+    editors:
+      - Philip Sheldon Foner
     year: 1950
     language: English
     sources:
@@ -15362,6 +15593,7 @@ titles:
     verified: true
     pages: 48
   - title: Marxism and Linguistics
+    original_title: Marksizm i voprosy i︠a︡zykoznanii︠a︡. English
     authors:
       - Joseph Stalin
     year: 1951
@@ -15412,6 +15644,8 @@ titles:
   - title: The Eighteenth Brumaire of Louis Bonaparte
     authors:
       - Karl Marx
+    editors:
+      - C. P. (Clemens Palme) Dutt
     year: 1951
     series: 'Marxist Library: Works of Marxism--Leninism -- Vol. XXXV'
     language: English
@@ -15629,6 +15863,8 @@ titles:
   - title: The Life and Writings of Frederick Douglass
     authors:
       - Frederick Douglass
+    editors:
+      - Philip Sheldon Foner
     year: 1952
     language: English
     sources:
@@ -15670,6 +15906,8 @@ titles:
     subtitle: Selections
     authors:
       - Karl Marx
+    translators:
+      - G. A.
     year: 1952
     language: English
     pages: 432
@@ -15883,6 +16121,8 @@ titles:
     subtitle: The Wonderful Story of Danielle Casanova
     authors:
       - Simone Téry
+    translators:
+      - Helen Simon Travis
     year: 1953
     language: English
     pages: 126
@@ -15955,6 +16195,8 @@ titles:
     subtitle: A Selection
     authors:
       - Karl Marx
+    translators:
+      - Leonard E. Mins
     year: 1953
     language: English
     pages: 312
@@ -15975,6 +16217,8 @@ titles:
     subtitle: A Selection
     authors:
       - Karl Marx
+    translators:
+      - Leonard E. Mins
     year: 1953
     language: English
     pages: 312
@@ -16728,6 +16972,8 @@ titles:
     subtitle: Selected Writings
     authors:
       - John Reed
+    editors:
+      - John Stuart
     year: 1955
     language: English
     pages: 224
@@ -16796,6 +17042,8 @@ titles:
   - title: The Life and Writings of Frederick Douglass
     authors:
       - Frederick Douglass
+    editors:
+      - Philip Sheldon Foner
     year: 1955
     language: English
     sources:
@@ -16858,6 +17106,8 @@ titles:
     subtitle: Selections from His Poetry and Prose
     authors:
       - Walt Whitman
+    editors:
+      - Samuel Sillen
     year: 1955
     edition: '[100th anniversary Leaves of grass ed.]'
     language: English
@@ -16916,6 +17166,8 @@ titles:
   - title: Letters from Prison
     authors:
       - Eugene Dennis
+    editors:
+      - Peggy Dennis
     year: 1956
     language: English
     pages: 157
@@ -17773,6 +18025,9 @@ titles:
   - title: Dialectics of Nature
     authors:
       - Friedrich Engels
+    editors:
+      - Clemens Palme Dutt
+      - John Burdon Sanderson Haldane
     year: 1960
     language: English
     pages: 383
@@ -18544,6 +18799,9 @@ titles:
   - title: A Star to Steer By
     authors:
       - Hugh Mulzac
+    editors:
+      - Louis E. Burnham
+      - Norval Welch
     year: 1963
     language: English
     pages: 256
@@ -18616,6 +18874,8 @@ titles:
   - title: Dialectics of Nature
     authors:
       - Friedrich Engels
+    translators:
+      - C. P. (Clemens Palme) Dutt
     year: 1963
     series: New World Paperbacks, NW-5
     language: English
@@ -18639,6 +18899,11 @@ titles:
     subtitle: Selected Writings
     authors:
       - Denis Diderot
+    translators:
+      - Jean Stewart
+      - Jonathan Kemp. Edited
+      - With An Introd
+      - Jonathan Kemp
     year: 1963
     edition: '[2d ed.]'
     series: New World Paperbacks, NW-37
@@ -18746,9 +19011,10 @@ titles:
     subtitle: Twenty-Five Years of Objective Study of the Higher Nervous Activity (Behavior) of Animals
     authors:
       - Ivan Petrovič Pavlov
-      - William Andrew Horsley Gantt
       - Georg W. Volborth
       - Walter Bradford Cannon
+    translators:
+      - William Andrew Horsley Gantt
     year: 1963
     language: English
     sources:
@@ -18788,6 +19054,8 @@ titles:
   - title: 'Letters to Americans: 1848-1895: A Selection'
     authors:
       - Karl Marx
+    translators:
+      - Leonard E. Mins
     year: 1963
     series: New World Paperbacks, NW-4
     language: English
@@ -19291,6 +19559,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/006241965
     verified: true
   - title: Cause, Principle, and Unity
+    original_title: De la causa, principio e uno
     authors:
       - Giordano Bruno
     year: 1964
@@ -19310,8 +19579,13 @@ titles:
         url: https://catalog.hathitrust.org/Record/001381840
     verified: true
   - title: Economic and Philosophic Manuscripts of 1844
+    original_title: Sélections
     authors:
       - Karl Marx
+    editors:
+      - Dirk Jan Struik
+    translators:
+      - Martin Milligan
     year: 1964
     edition: '[1st American ed.]'
     language: English
@@ -19941,6 +20215,10 @@ titles:
   - title: Pre-capitalist Economic Formations
     authors:
       - Karl Marx
+    editors:
+      - Eric John Hobsbawm
+    translators:
+      - Jack Cohen
     year: 1965
     edition: '[1st U.S. ed.]'
     language: English
@@ -20238,6 +20516,10 @@ titles:
   - title: Herr Eugen Dühring's Revolution in Science (Anti-Dühring)
     authors:
       - Friedrich Engels
+    editors:
+      - Clemens Palme Dutt
+    translators:
+      - Emile Burns
     year: 1966
     language: English
     pages: 365
@@ -20573,8 +20855,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991105907269705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: The Peasant War in Germany
+    original_title: Deutsche Bauernkrieg
     authors:
       - Friedrich Engels
+    translators:
+      - Moissaye J. Olgin
     year: 1966
     edition: New ed.]
     series: New World Paperbacks, NW-152-7
@@ -20616,6 +20901,7 @@ titles:
     verified: true
   - title: They Shall Not Pass
     subtitle: The Autobiography of La Pasionaria
+    original_title: El único camino
     authors:
       - Dolores Ibárruri
     year: 1966
@@ -20778,6 +21064,8 @@ titles:
     subtitle: A Critique of Political Economy
     authors:
       - Karl Marx
+    editors:
+      - Friedrich Engels
     year: 1967
     series: New World Paperbacks, NW-66
     language: English
@@ -20871,6 +21159,7 @@ titles:
     authors:
       - Karl Marx
       - Dirk Jan Struik
+    translators:
       - Martin Milligan
     year: 1967
     language: English
@@ -21027,6 +21316,8 @@ titles:
     subtitle: The Evolution of His Thought
     authors:
       - Roger Garaudy
+    translators:
+      - Nan Apotheker
     year: 1967
     language: English
     pages: 223
@@ -21569,6 +21860,7 @@ titles:
       - label: Read or download (Internet Archive)
         url: https://archive.org/details/san_0975
   - title: Episodes of the Revolutionary War
+    original_title: Pasajes de la Guerra Revolucionaria
     authors:
       - Che Guevara
     year: 1968
@@ -21673,6 +21965,8 @@ titles:
     subtitle: A Collection of Writings from Karl Marx to the Present on Armed Struggles for Liberation and for Socialism
     authors:
       - William J. Pomeroy
+    editors:
+      - William Joseph Pomeroy
     year: 1968
     edition: '[1st ed.]'
     language: English
@@ -22067,6 +22361,10 @@ titles:
     subtitle: A Study of Bismarck's Policy of Blood and Iron
     authors:
       - Friedrich Engels
+    editors:
+      - Ernst Wangermann
+    translators:
+      - Jack Cohen
     year: 1968
     edition: '[1st ed.]'
     language: English
@@ -22433,6 +22731,8 @@ titles:
   - title: Economic and Philosophic Manuscripts of 1884
     authors:
       - Karl Marx
+    translators:
+      - Martin Milligan
     year: 1969
     language: English
     pages: 255
@@ -22650,8 +22950,11 @@ titles:
     series: New World Paperbacks, NW-S-18
   - title: Philosophy of World Revolution
     subtitle: A Contribution to an Anthology of Theories of Revolution
+    original_title: 'Philosophie der Weltrevolution : Beitrag zu einer Anthologie der Revolutionstheorien'
     authors:
       - Franz Marek
+    translators:
+      - Daphne Simon
     year: 1969
     language: English
     pages: 141
@@ -23077,6 +23380,7 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/what-is-to-be-done
     subtitle: Burning Questions of Our Movement
+    original_title: Chto delatʹ?
     series: New World Paperbacks, NW-107
   - title: With Eisenstein in Hollywood
     subtitle: A Chapter of Autobiography
@@ -23143,6 +23447,8 @@ titles:
   - title: A Contribution to the Critique of Political Economy
     authors:
       - Karl Marx
+    translators:
+      - S. W. Ryazanskaya
     year: 1970
     language: English
     pages: 263
@@ -23483,6 +23789,8 @@ titles:
   - title: 'Ho Chi Minh: Selected Articles and Speeches, 1920-1967'
     authors:
       - Hồ Chí Minh
+    editors:
+      - Jack Woddis
     year: 1970
     edition: '[1st U.S. ed.]'
     series: Little New World Paperbacks, LNW-20
@@ -23669,8 +23977,14 @@ titles:
         url: https://archive.org/details/in.ernet.dli.2015.131161
   - title: Modern Korea
     subtitle: The Socialist North, Revolutionary Perspectives in the South, and Unification
+    original_title: Gendai Chōsen no kihon mondai
     authors:
       - Pyǒng-sik Kim
+    editors:
+      - Victor Perlo
+    translators:
+      - Takeshi Haga
+      - Victor Perlo
     year: 1970
     edition: '[1st ed.]'
     language: English
@@ -23747,6 +24061,8 @@ titles:
   - title: Reminiscences of Lenin
     authors:
       - Nadezhda Konstantinovna Krupskaiā
+    translators:
+      - Bernard Isaacs
     year: 1970
     edition: 1st U.S. ed.]
     language: English
@@ -23875,6 +24191,8 @@ titles:
   - title: The German Ideology
     authors:
       - Karl Marx
+    editors:
+      - Christopher John Arthur
     year: 1970
     series: New World Paperbacks, NW-143
     language: English
@@ -23953,6 +24271,8 @@ titles:
   - title: The Peasant War in Germany
     authors:
       - Friedrich Engels
+    translators:
+      - Missaye J. Olgin
     year: 1970
     edition: New ed
     series: New World Paperbacks, NW-56
@@ -24026,6 +24346,8 @@ titles:
   - title: We Charge Genocide
     authors:
       - William L. Patterson
+    editors:
+      - William Lorenzo Patterson
     year: 1970
     edition: New ed
     language: English
@@ -24509,6 +24831,9 @@ titles:
   - title: Selections from the Prison Notebooks of Antonio Gramsci
     authors:
       - Antonio Gramsci
+    translators:
+      - Quintin Hoare
+      - Geoffrey Nowell Smith
     year: 1971
     language: English
     pages: 483
@@ -25144,6 +25469,8 @@ titles:
   - title: Ireland and the Irish Question
     authors:
       - Karl Marx
+    editors:
+      - R. Dixon
     year: 1972
     edition: '[1st ed.]'
     series: New World Paperbacks
@@ -25217,6 +25544,8 @@ titles:
     subtitle: A Literary Anthology
     authors:
       - Michael Gold
+    editors:
+      - Michael Folsom
     year: 1972
     language: English
     pages: 322
@@ -25373,6 +25702,12 @@ titles:
   - title: Selections from the Prison Notebooks of Antonio Gramsci
     authors:
       - Antonio Gramsci
+    editors:
+      - Quintin Hoare
+      - Geoffrey Nowell-Smith
+    translators:
+      - Quintin Hoare
+      - Geoffrey Nowell Smith
     year: 1972
     edition: '[1st ed.]'
     language: English
@@ -25546,8 +25881,13 @@ titles:
         url: https://lccn.loc.gov/72085711
     verified: true
   - title: The Origin of the Family, Private Property, and the State, in the Light of the Researches of Lewis H. Morgan
+    original_title: Der Ursprung der Familie
     authors:
       - Friedrich Engels
+    editors:
+      - Eleanor Burke Leacock
+    translators:
+      - Alick West)
     year: 1972
     edition: '[1st ed.]'
     language: English
@@ -25587,8 +25927,11 @@ titles:
     verified: true
   - title: The Revolution of 1848-49
     subtitle: Articles from the Neue Rheinische Zeitung
+    original_title: Revolution von 1848
     authors:
       - Karl Marx
+    translators:
+      - S. Ryazanskaya
     year: 1972
     language: English
     pages: 302
@@ -26392,6 +26735,8 @@ titles:
   - title: Lenin on the Jewish Question
     authors:
       - Vladimir Il’ich Lenin
+    editors:
+      - Hyman Lumer
     year: 1974
     edition: '[1st ed.]'
     language: English
@@ -26733,6 +27078,8 @@ titles:
     subtitle: Selections from His Poetry and Prose
     authors:
       - Walt Whitman
+    editors:
+      - Samuel Sillen
     year: 1974
     language: English
     sources:
@@ -26974,6 +27321,8 @@ titles:
     subtitle: A Collection of Writings
     authors:
       - Karl Marx
+    editors:
+      - R. Dixon
     year: 1975
     edition: 1st ed
     series: New World Paperbacks
@@ -26995,6 +27344,7 @@ titles:
     verified: true
   - title: Karl Marx, Frederick Engels
     subtitle: Collected Works
+    original_title: Works1975
     authors:
       - Karl Marx
       - Friedrich Engels
@@ -27338,6 +27688,8 @@ titles:
     subtitle: Volume III, the Civil War
     authors:
       - Frederick Douglass
+    editors:
+      - Philip Sheldon Foner
     year: 1975
     language: English
     pages: 448
@@ -27535,6 +27887,10 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
+      - Clemens Palme Dutt
+      - W. Lough
+      - Charles Philip Magill
     year: 1976
     language: English
     sources:
@@ -27615,6 +27971,8 @@ titles:
     subtitle: (Anti-Dühring)
     authors:
       - Friedrich Engels
+    translators:
+      - Emile Burns
     year: 1976
     series: New World Paperbacks, NW-8
     language: English, German
@@ -27662,6 +28020,7 @@ titles:
         url: https://lccn.loc.gov/76002654
     verified: true
   - title: Lectures on Fascism
+    original_title: Lezioni sul fascismo. English
     authors:
       - Palmiro Togliatti
     year: 1976
@@ -27820,6 +28179,8 @@ titles:
   - title: The Civil War in the United States
     authors:
       - Karl Marx
+    editors:
+      - Richard Enmale
     year: 1976
     language: English
     pages: 325
@@ -28102,6 +28463,8 @@ titles:
     subtitle: 'Selections from Political Writings, 1910-1920: With Additional Texts by Bordiga and Tasca'
     authors:
       - Antonio Gramsci
+    translators:
+      - John Mathews
     year: 1977
     language: English
     pages: 393
@@ -28259,6 +28622,7 @@ titles:
       - Amadeo Bordiga
       - Angelo Tasca
       - Quintin Hoare
+    translators:
       - John Mathews
     year: 1977
     language: English
@@ -28548,6 +28912,8 @@ titles:
   - title: Selections from Political Writings (1921-1926)
     authors:
       - Antonio Gramsci
+    translators:
+      - Quintin Hoare
     year: 1978
     language: English
     pages: 516
@@ -28641,6 +29007,8 @@ titles:
     subtitle: Pre-Marxian Political Economy
     authors:
       - Andreĭ Vladimirovich Anikin
+    translators:
+      - K. M. Cook
     year: 1979
     edition: 1st paperback ed
     series: New World Paperbacks, NW-503
@@ -28661,6 +29029,10 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
+      - Clemens Palme Dutt
+      - Rodney Livingstone
+      - Christopher Upward
     year: 1979
     language: English
     sources:
@@ -28871,6 +29243,8 @@ titles:
     subtitle: Studies in U.S. History
     authors:
       - Herbert Aptheker
+    editors:
+      - Bettina Aptheker
     year: 1979
     edition: 1st ed
     language: English
@@ -28945,6 +29319,7 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Richard Dixon
       - Henry Felix Mins
       - Salo Ryazanskaya
@@ -28988,6 +29363,8 @@ titles:
   - title: History of the Commune of 1871
     authors:
       - Prosper Olivier Lissagaray
+    translators:
+      - Eleanor Marx Aveling
     year: 1980
     language: English
     pages: 500
@@ -29015,6 +29392,7 @@ titles:
         url: https://www.sudoc.fr/010070877
     verified: true
   - title: Los trabajadores y su papel esencial en las luchas del pueblo contra los monopolios
+    original_title: Labor up-front in the people's fight against the crisis
     authors:
       - Gus Hall
     year: 1980
@@ -29122,6 +29500,7 @@ titles:
     verified: true
   - title: The Emigration Dialectic
     subtitle: Puerto Rico and the USA
+    original_title: Puerto Rico y Estados Unidos
     authors:
       - Manuel Maldonado-Denis
     year: 1980
@@ -29177,6 +29556,7 @@ titles:
     series: New World Paperbacks, NW-133
     authors:
       - Antonio Gramsci
+    translators:
       - Louis Marks
     year: 1980
     language: English
@@ -29209,6 +29589,8 @@ titles:
   - title: The Riddle of the Self
     authors:
       - F. T. Mikhaĭlov
+    translators:
+      - Robert Daglish
     year: 1980
     edition: 1st U.S. ed
     language: English
@@ -29245,6 +29627,7 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Rodney Livingstone
     year: 1981
     language: English
@@ -29287,6 +29670,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb37448041c
     verified: true
   - title: Human Rights in Soviet Society
+    original_title: SSSR-KPSS, sot︠s︡ialisticheskoe obshchestvo, prava cheloveka
     authors:
       - K. U. Chernenko
     year: 1981
@@ -29606,6 +29990,7 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Peter Ross
       - Betty Ross
     year: 1982
@@ -29639,6 +30024,7 @@ titles:
         url: https://search.worldcat.org/title/8195679
     verified: true
     subtitle: By S. N. Nadel
+    original_title: Sovremennyj kapitalizm i srednie sloi, engl
   - title: Contemporary Capitalism and Themiddle Classes
     authors:
       - S. N. Nadel
@@ -29842,6 +30228,7 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Peter Ross
       - Betty Ross
     year: 1983
@@ -29882,6 +30269,7 @@ titles:
       - label: Borrow (Internet Archive)
         url: https://archive.org/details/cubaat25continui0000gree
   - title: Gold - The Yellow Devil
+    original_title: Želtyj d'javol
     authors:
       - Andrej V. Anikin
       - K. M. Cook
@@ -30048,6 +30436,8 @@ titles:
   - title: Clara Zetkin, Selected Writings
     authors:
       - Klara Zetkin
+    editors:
+      - Philip Sheldon Foner
     year: 1984
     edition: 1st ed
     language: English
@@ -30306,6 +30696,7 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Peter Ross
       - Betty Ross
     year: 1985
@@ -30604,6 +30995,7 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Ernst Wangermann
     year: 1986
     language: English
@@ -30960,6 +31352,7 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Christopher Upward
       - John Peet
     year: 1987
@@ -31162,6 +31555,7 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - John Peet
       - Michael Slattery
       - Sergei Syrovatkin
@@ -31346,6 +31740,7 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Rodney Livingstone
     year: 1989
     language: English
@@ -31706,6 +32101,8 @@ titles:
   - title: Brief History of Russia
     authors:
       - Mikhail Nikolaevich Pokrovskiǐ
+    translators:
+      - D. S. Mirsky
     year: 1991
     language: English
     links:
@@ -31723,6 +32120,8 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
+      - Ben Fowkes
     year: 1991
     language: English
     sources:
@@ -32156,9 +32555,11 @@ titles:
         url: https://search.worldcat.org/title/27010421
     verified: true
   - title: Economic and Philosophic Manuscripts of 1844
+    original_title: Ökonomisch-philosophische Manuskripte
     authors:
       - Karl Marx
       - Dirk Jan Struik
+    translators:
       - Martin Milligan
     year: 1993
     language: English
@@ -32242,6 +32643,7 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Ben Fowkes
     year: 1994
     language: English
@@ -32796,11 +33198,13 @@ titles:
         url: https://archive.org/details/choicedoctorsexp00sloa
   - title: Capital
     subtitle: 'A Critique of Political Economy: Volume I'
+    original_title: Kapital
     authors:
       - Karl Marx
+      - Friedrich Engels
+    translators:
       - Samuel Moore
       - Edward B. Aveling
-      - Friedrich Engels
     year: 2003
     language: English
     sources:
@@ -32862,6 +33266,7 @@ titles:
       - label: Full text (marxists.org)
         url: https://www.marxists.org/archive/marx/works/cw/index.htm
   - title: Manifesto of the Communist Party
+    original_title: Manifest der Kommunistischen Partei
     authors:
       - Karl Marx
       - Friedrich Engels
@@ -33010,6 +33415,7 @@ titles:
         url: https://lccn.loc.gov/47003647
     verified: true
   - title: Selections from the "Prison Notebooks" of Antonio Gramsci
+    original_title: Quaderni del carcere
     authors:
       - Antonio Gramsci
       - Quintin Hoare

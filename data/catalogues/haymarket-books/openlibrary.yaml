@@ -287,6 +287,7 @@ titles:
     verified: true
   - title: A People's History of Iraq
     subtitle: The Iraqi Communist Party, Workers' Movements and the Left, 1924-2004
+    original_title: Wathbah
     authors:
       - Ilario Salucci
     year: 2005
@@ -330,6 +331,8 @@ titles:
   - title: Literature and Revolution
     authors:
       - Leon Trotsky
+    translators:
+      - Rose Strunsky
     year: 2005
     language: English
     pages: 331
@@ -409,8 +412,11 @@ titles:
     verified: false
   - title: The Communist Manifesto
     subtitle: A Road Map to History's Most Important Political Document
+    original_title: Kommunistisches Manifest
     authors:
       - Karl Marx
+    editors:
+      - Philip Gasper
     year: 2005
     language: English
     isbn: '9781931859257'
@@ -445,8 +451,11 @@ titles:
     date_note: October 2005
   - title: The Dispossessed
     subtitle: Chronicles of the Desterrados of Colombia
+    original_title: Desterrados
     authors:
       - Alfredo Molano
+    translators:
+      - Daniel Bland
     year: 2005
     language: English
     sources:
@@ -494,6 +503,7 @@ titles:
         url: https://archive.org/details/meekmilitantreli0000sieg
     verified: true
   - title: The Theory of Revolution in the Young Marx
+    original_title: Théorie de la révolution chez le jeune Marx
     series: Historical Materialism Book Series
     authors:
       - Michael Löwy
@@ -520,9 +530,11 @@ titles:
     verified: false
   - title: The World Social Forum
     subtitle: Strategies of Resistance
+    original_title: 'Fórum Social Mundial : a história de uma invenção politica'
     authors:
       - José Corrêa Leite
       - Carolina Gil
+    translators:
       - Traci Romine
     year: 2005
     language: English
@@ -717,6 +729,8 @@ titles:
     subtitle: Pramoedya Ananta Toer in Conversation with Andre Vltchek and Rossie Indira
     authors:
       - Pramoedya Ananta Toer
+    editors:
+      - Nagesh Rao
     year: 2006
     language: English
     pages: 166
@@ -751,6 +765,10 @@ titles:
     subtitle: The Remarkable Story of a Journalist Kidnapped in Iraq, Rescued by an Italian Secret Service Agent, and Shot by U.s. Forces
     authors:
       - Giuliana Sgrena
+    editors:
+      - William Keach
+    translators:
+      - Lesley Freeman Riva
     year: 2006
     date_note: October 2006
     edition: North American Ed edition
@@ -771,6 +789,10 @@ titles:
   - title: German Revolution, 1917-1923 (Historical Materialism Book)
     authors:
       - Pierre Broué
+    editors:
+      - Ian H. Birchall
+    translators:
+      - John Archer
     year: 2006
     language: English
     pages: 991
@@ -851,6 +873,9 @@ titles:
     subtitle: A Dennis Brutus Reader
     authors:
       - Dennis Brutus
+    editors:
+      - Aisha Karim
+      - Lee Sustar
     year: 2006
     language: English
     pages: 414
@@ -935,9 +960,15 @@ titles:
       - label: Full text (marxists.org)
         url: https://www.marxists.org/archive/marx/works/1848/communist-manifesto/index.htm
   - title: The German Revolution, 1917 - 1923
+    original_title: Révolution en Allemagne, 1917 - 1923
     series: Historical Materialism Book Series; 5
     authors:
       - Pierre Broué
+    editors:
+      - Johnston Birchall
+      - Brian Pearce
+    translators:
+      - John Archer
     year: 2006
     language: English
     sources:
@@ -1059,6 +1090,8 @@ titles:
     subtitle: Reform or Revolution and the Mass Strike
     authors:
       - Rosa Luxemburg
+    editors:
+      - Helen Scott
     year: 2007
     language: English
     pages: 280
@@ -1174,6 +1207,8 @@ titles:
     authors:
       - Lavaca Collective
       - Naomi Klein
+    translators:
+      - Katherine Kohlstedt
     year: 2007
     language: English
     pages: 243
@@ -1225,6 +1260,9 @@ titles:
   - title: The Women Incendiaries
     authors:
       - Edith Thomas
+    translators:
+      - James Atkinson
+      - Starr Atkinson
     year: 2007
     language: English
     pages: 274
@@ -1354,8 +1392,11 @@ titles:
         url: https://search.worldcat.org/title/154704777
     verified: false
   - title: History of the Russian Revolution
+    original_title: Istorii︠a︡ russkoĭ revoli︠u︡t︠s︡ii
     authors:
       - Leon Trotsky
+    translators:
+      - Max Eastman
     year: 2008
     language: English
     pages: 969
@@ -1384,6 +1425,7 @@ titles:
       - label: Full text (marxists.org)
         url: https://www.marxists.org/archive/trotsky/1930/hrr/index.htm
   - title: Intervenciones
+    original_title: Interventions
     authors:
       - Noam Chomsky
       - Josefina Anaya
@@ -1552,6 +1594,8 @@ titles:
     subtitle: Reform or Revolution & the Mass Strike
     authors:
       - Rosa Luxemburg
+    editors:
+      - Helen Scott
     year: 2008
     language: English
     isbn: '9781931859363'
@@ -1584,6 +1628,8 @@ titles:
   - title: The Revolution and the Civil War in Spain
     authors:
       - Pierre Broué
+    translators:
+      - Tony White
     year: 2008
     language: English
     isbn: '9781931859516'
@@ -1705,8 +1751,11 @@ titles:
         url: https://www.sudoc.fr/202755738
     verified: true
   - title: A Marxist Philosophy of Language
+    original_title: Philosophie marxiste du langage
     authors:
       - Jean-Jacques Lecercle
+    translators:
+      - Gregory Elliott
     year: 2009
     series: Historical Materialism Book Series
     language: English
@@ -1726,6 +1775,9 @@ titles:
     subtitle: Selected Writings, 1953-1974
     authors:
       - Alasdair Chalmers MacIntyre
+    editors:
+      - Paul Blackledge
+      - Neil Davidson
     year: 2009
     series: Historical Materialism Book Series
     language: English
@@ -1787,6 +1839,8 @@ titles:
   - title: Breaking the Sound Barrier
     authors:
       - Amy Goodman
+    editors:
+      - Denis Moynihan
     year: 2009
     language: English
     pages: 377
@@ -1930,8 +1984,11 @@ titles:
         url: https://openlibrary.org/books/OL23668697M
     verified: true
   - title: Diary of Bergen-Belsen
+    original_title: Vielleicht war das alles erst der Anfang
     authors:
       - Hanna Lévy-Hass
+    translators:
+      - Sophie Hand
     year: 2009
     language: English
     pages: 166
@@ -1998,6 +2055,8 @@ titles:
     subtitle: Philosophical, Economic, and Political Dimensions
     authors:
       - Jacques Bidet
+    translators:
+      - David Fernbach
     year: 2009
     series: Historical Materialism Book Series
     language: English
@@ -2165,8 +2224,11 @@ titles:
     verified: true
   - title: Impersonal Power
     subtitle: History and Theory of the Bourgeois State
+    original_title: Subjektlose Gewalt
     authors:
       - Heide Gerstenberger
+    translators:
+      - David Fernbach
     year: 2009
     series: Historical Materialism Book Series
     language: English
@@ -2362,6 +2424,7 @@ titles:
     verified: true
   - title: Nadie es ilegal
     subtitle: Combatiendo el racismo y la violencia de Estado en la frontera Estados Unidos-México
+    original_title: 'No one is illegal : fighting racism and State violence on the U.S.-Mexico border'
     authors:
       - Justin Akers Chacón
       - Mike Davis
@@ -2895,6 +2958,8 @@ titles:
     subtitle: Reflections on Israel's War Against the Palestinians
     authors:
       - Ilan Pappé
+    editors:
+      - Frank Barat
     year: 2010
     language: English
     isbn: '9781608460977'
@@ -3092,6 +3157,8 @@ titles:
     subtitle: Writings from Russia, 1919/1921
     authors:
       - Victor Serge
+    translators:
+      - Ian Birchall
     year: 2010
     language: English
     isbn: '9781608460830'
@@ -3343,6 +3410,10 @@ titles:
     subtitle: Y 20 mitos más sobre la inmigración
     authors:
       - Aviva Chomsky
+    translators:
+      - Ana Echevarría-Morales
+      - Georgina Mithieux
+      - Alfredo Prieto González
     year: 2011
     language: Spanish
     pages: 201
@@ -3820,6 +3891,10 @@ titles:
     subtitle: Workers' Councils from the Commune to the Present
     authors:
       - Immanuel Ness
+    editors:
+      - Dario Azzellini
+    translators:
+      - Marco Gomez
     year: 2011
     language: English
     pages: 443
@@ -4199,8 +4274,11 @@ titles:
     verified: false
   - title: Witness to the German Revolution
     subtitle: Writings from Germany, 1923
+    original_title: Sammlung
     authors:
       - Victor Serge
+    translators:
+      - Ian Birchall
     year: 2011
     language: English
     pages: 240
@@ -4552,7 +4630,8 @@ titles:
   - title: Discovering Imperialism
     subtitle: Social Democracy to World War I
     series: Historical Materialism Book Series
-    authors:
+    authors: []
+    translators:
       - Richard B. Day
       - Daniel F. Gaido
     year: 2012
@@ -5362,8 +5441,11 @@ titles:
     subtitle: Proceedings of the Fourth Congress of the Communist International, 1922
     series: Historical Materialism Book Series; 34
     authors:
-      - John Riddell
       - Kommunistische Internationale
+    editors:
+      - John Riddell
+    translators:
+      - John Riddell
     year: 2012
     language: English
     sources:
@@ -5911,6 +5993,8 @@ titles:
     verified: false
   - title: Marx's Concept of Alternatives to Capitalism
     authors: []
+    editors:
+      - Peter Hudis
     year: 2013
     language: English
     sources:
@@ -6568,6 +6652,7 @@ titles:
     isbn: '9781608464302'
   - title: Beyond Marx
     subtitle: Theorising the Global Labour Relations of the Twenty-First Century
+    original_title: Über Marx hinaus
     series: Historical Materialism Book Series
     authors:
       - Marcel van der Linden
@@ -7589,7 +7674,8 @@ titles:
   - title: The German Left and the Weimar Republic
     subtitle: A Selection of Documents
     series: Historical Materialism Book Series
-    authors:
+    authors: []
+    translators:
       - Ben Fowkes
     year: 2014
     language: English
@@ -7728,6 +7814,7 @@ titles:
     verified: true
   - title: Time in Marx
     subtitle: The Categories of Time in Marx's Capital$dthe Categories of Time in Marx's "Capital"
+    original_title: Temps dans l'analyse économique
     series: Historical Materialism Book Series
     authors:
       - Stavros Tombazos
@@ -7825,9 +7912,11 @@ titles:
         url: https://search.worldcat.org/title/822959888
     verified: false
   - title: War and Revolution in Catalonia, 1936-1939
+    original_title: Guerra civil espanyola a Catalunya (1936-1939)
     series: Historical Materialism Book Series
     authors:
       - Pelai Pagès
+    translators:
       - Patrick L. Gallagher
     year: 2014
     language: English
@@ -8200,6 +8289,8 @@ titles:
     authors:
       - Susan Spronk
       - Jeffery R. Webber
+    editors:
+      - Susan J. Spronk
     year: 2015
     language: English
     pages: 385
@@ -8309,6 +8400,7 @@ titles:
     verified: false
   - title: Ecosocialism
     subtitle: A Radical Alternative to Capitalist Catastrophe
+    original_title: Écosocialisme
     authors:
       - Michael Löwy
     year: 2015
@@ -8413,9 +8505,12 @@ titles:
     pages: 333
     isbn: '9781608464777'
   - title: Global Political Economy and the Modern State System
+    original_title: Geopolitik
     series: Historical Materialism Book Series
     authors:
       - Tobias Ten Brink
+    translators:
+      - Jeff Bale
     year: 2015
     language: English
     sources:
@@ -8563,8 +8658,11 @@ titles:
     pages: 336
     isbn: '9781608464753'
   - title: Marx's Economic Manuscripts of 1864-1865
+    original_title: Ökonomisch-philosophische Manuskripte
     authors:
       - Karl Marx
+    editors:
+      - Fred Moseley
     year: 2015
     language: English
     sources:
@@ -8677,9 +8775,11 @@ titles:
     verified: false
   - title: Philosophy After Marx
     subtitle: 100 Years of Misreadings and the Normative Turn in Political Philosophy
+    original_title: Philosophie nach Marx
     series: Historical Materialism Book Series
     authors:
       - Christoph Henning
+    translators:
       - Max Henninger
     year: 2015
     language: English
@@ -8793,6 +8893,7 @@ titles:
         url: https://openlibrary.org/books/OL37397258M
     verified: false
   - title: Reading Gramsci
+    original_title: Leyendo a Gramsci
     authors:
       - Francisco Fernández Buey
     year: 2015
@@ -9020,7 +9121,8 @@ titles:
         url: https://archive.org/details/dialecticsofreli0000unse
   - title: The German Left and the Weimar Republic
     subtitle: A Selection of Documents
-    authors:
+    authors: []
+    translators:
       - Ben Fowkes
     year: 2015
     series: Historical Materialism Book Series
@@ -9038,6 +9140,9 @@ titles:
   - title: The Letters of Joe Hill
     authors:
       - Joe Hill
+    editors:
+      - Philip Sheldon Foner
+      - Alexis Buss
     year: 2015
     edition: Centenary anniversary edition; expanded edition
     language: English
@@ -9128,11 +9233,13 @@ titles:
     verified: true
   - title: The Preobrazhensky Papers
     subtitle: Archival Documents and Materials
+    original_title: E.A. Preobrazhenskiĭ
     series: Historical Materialism Book Series
     authors:
-      - Richard B. Day
       - Mikhail Mikhaĭlovich Gorinov
       - Evgenij Alekseevič Preobraženskij
+    translators:
+      - Richard B. Day
     year: 2015
     language: English
     sources:
@@ -9409,8 +9516,10 @@ titles:
         url: https://openlibrary.org/books/OL36308679M
     verified: false
   - title: Year One of the Russian Revolution
+    original_title: An premier de la Révolution russe
     authors:
       - Victor Serge
+    translators:
       - Peter Sedgwick
     year: 2015
     language: English
@@ -9455,10 +9564,12 @@ titles:
     pages: 222
     isbn: '9781608466399'
   - title: '1905'
+    original_title: Tysi︠a︡cha devi︠a︡tʹsot pi︠a︡tyĭ
     authors:
       - Leon Trotsky
-      - Anya Bostock
       - Ralph Schoenman
+    translators:
+      - Anya Bostock
     year: 2016
     language: English
     sources:
@@ -9627,6 +9738,9 @@ titles:
     subtitle: Essays on the Global Economic Meltdown 2010-2014
     authors:
       - Richard D. Wolff
+    editors:
+      - Michael L. Palmieri
+      - Dante Dallavalle
     year: 2016
     language: English
     pages: 325
@@ -9673,6 +9787,9 @@ titles:
       - Hao Ren
       - Zhongjin Li
       - Eli D. Friedman
+    editors:
+      - Ren Hao
+      - Eli Friedman
     year: 2016
     language: English
     pages: 224
@@ -10305,9 +10422,11 @@ titles:
     pages: 336
     isbn: '9781608465200'
   - title: Reading Gramsci
+    original_title: Leyendo a Gramsci
     series: Historical Materialism Book Series
     authors:
       - Francisco Fernández Buey
+    translators:
       - Nicholas Gray
     year: 2016
     language: English
@@ -10829,6 +10948,9 @@ titles:
       - Marlène Gerber
       - Loretta J. Ross
       - Elena Gutiérrez Lima
+    editors:
+      - Jael Miriam Silliman
+      - Marlene Gerber Fried
     year: 2016
     language: English
     sources:
@@ -11017,9 +11139,11 @@ titles:
     verified: true
   - title: A Failed Parricide
     subtitle: Hegel and the Young Marx
+    original_title: Un parricidio mancato
     series: Historical Materialism Book Series
     authors:
       - Roberto Finelli
+    translators:
       - Peter D. Thomas
       - Nicola Iannelli Popham
     year: 2017
@@ -11203,6 +11327,12 @@ titles:
     subtitle: Studies of Economic Theory Before and After Marx
     authors:
       - Henryk Grossmann
+    editors:
+      - D. Richard Kuhn
+    translators:
+      - Ian Birchall
+      - D. Richard Kuhn
+      - Einde O'Callaghan
     year: 2017
     language: English
     pages: 294
@@ -11343,6 +11473,7 @@ titles:
     series: Studies in Critical Social Sciences
     authors:
       - Bartłomiej Błesznowski
+    translators:
       - Michelle Granas
     year: 2017
     language: English
@@ -11532,6 +11663,8 @@ titles:
   - title: History of the Russian Revolution
     authors:
       - Leon Trotsky
+    translators:
+      - Max Eastman
     year: 2017
     language: English
     pages: 969
@@ -11761,6 +11894,8 @@ titles:
   - title: Lessons of October
     authors:
       - Leon Trotsky
+    translators:
+      - John G. Wright
     year: 2017
     language: English
     sources:
@@ -11815,6 +11950,8 @@ titles:
   - title: Los hombres me explican cosas
     authors:
       - Rebecca Solnit
+    translators:
+      - Paula Martín Ponz
     year: 2017
     language: Spanish
     pages: 144
@@ -11913,9 +12050,12 @@ titles:
     date_note: Oct 17, 2017
   - title: Marx Worldwide
     subtitle: On the Development of the International Discourse on Marx Since 1965
+    original_title: 'Marx global : Zur Entwicklung des internationalen Marx-Diskurses seit 1965'
     series: Historical Materialism Book Series
     authors:
       - Jan Hoff
+    translators:
+      - Nicholas Gray
     year: 2017
     language: English
     sources:
@@ -13298,6 +13438,8 @@ titles:
       - Scott McLemee
       - Paul Le Blanc
       - C. L. R. James
+    editors:
+      - Paul LeBlanc
     year: 2018
     language: English
     sources:
@@ -13328,6 +13470,8 @@ titles:
     subtitle: Selected Works of Michael Kidron
     authors:
       - Michael Kidron
+    editors:
+      - Richard Kuper
     year: 2018
     language: English
     sources:
@@ -13485,6 +13629,8 @@ titles:
     subtitle: Building 21st Century Socialism from Below
     authors:
       - Dario Azzellini
+    translators:
+      - Ned Sublette
     year: 2018
     series: Historical Materialism Book Series
     language: English
@@ -13516,6 +13662,8 @@ titles:
     authors:
       - Deidre O'Neill
       - Mike Wayne
+    editors:
+      - Deirdre O'Neill
     year: 2018
     language: English
     sources:
@@ -13881,7 +14029,8 @@ titles:
     verified: true
   - title: Leaflets of the Russian Revolution
     subtitle: Socialist Organizing in 1917
-    authors:
+    authors: []
+    translators:
       - Barbara C. Allen
     year: 2018
     language: English
@@ -13919,8 +14068,11 @@ titles:
     verified: false
   - title: Marx's Theory of the Genesis of Money
     subtitle: How, Why, and Through What Is a Commodity Money?
+    original_title: Kachi keitairon to kōkan kateiron
     authors:
       - Samezō Kuruma
+    translators:
+      - Michael Schauerte
     year: 2018
     language: English
     sources:
@@ -14054,6 +14206,7 @@ titles:
     authors:
       - Karl Heinz Roth
       - Marcel van der Linden
+    translators:
       - Ben Lewis
     year: 2018
     language: English
@@ -14382,6 +14535,10 @@ titles:
     subtitle: Workers' Resistance to Factory Relocations in China
     authors:
       - Shigang Fan
+    editors:
+      - Henry Moss
+    translators:
+      - Henry Moss
     year: 2018
     language: English
     pages: 190
@@ -14502,10 +14659,12 @@ titles:
         url: https://www.sudoc.fr/290720265
     verified: true
   - title: The Conspiracy of Modern Art
+    original_title: The conspiracy of modern art
     series: Historical Materialism Book Series; Volume 137
     authors:
       - Luiz Renato Martins
       - Steve Edwards
+    translators:
       - Renato Rezende
     year: 2018
     language: English
@@ -14519,6 +14678,7 @@ titles:
     isbn: '9781608469277'
   - title: The Debt System
     subtitle: A History of Sovereign Debts and Their Repudiation
+    original_title: <<Le>> système dette
     authors:
       - Éric Toussaint
     year: 2018
@@ -14648,8 +14808,9 @@ titles:
     authors:
       - Luiz Renato Martins
       - Juan Grigera
-      - Renato Rezende
       - Alex Potts
+    translators:
+      - Renato Rezende
     year: 2018
     language: English
     sources:
@@ -14722,6 +14883,7 @@ titles:
   - title: The Red International of Labour Unions (RILU) 1920-1937
     authors:
       - Reiner Tosstorff
+    translators:
       - Ben Fowkes
     year: 2018
     language: English
@@ -14746,6 +14908,11 @@ titles:
   - title: The Types of Economic Policies Under Capitalism
     authors:
       - Kōzō Uno
+    editors:
+      - John R. Bell
+    translators:
+      - Thomas T. Sekine
+      - John R. Bell
     year: 2018
     series: Historical Materialism Book Series
     language: English
@@ -15786,10 +15953,12 @@ titles:
     verified: false
   - title: Marxism and Sociology
     subtitle: A Selection of Writings by Kazimierz Kelles-Krauz
+    original_title: 'Kazmierz Kelles-Krauz : Marksizm a socjologia.Wybór pism'
     series: Studies in Critical Social Sciences Book Series
     authors:
       - Kazimierz Kelles-Krauz
       - Helena Chmielewska-Szlajfer
+    translators:
       - Jonathan Weber
     year: 2019
     language: English
@@ -16343,6 +16512,7 @@ titles:
     verified: false
   - title: The Debt System
     subtitle: A History of Sovereign Debts and Their Repudiation
+    original_title: <<Le>> système dette
     authors:
       - Éric Toussaint
     year: 2019
@@ -16379,6 +16549,7 @@ titles:
     series: Historical Materialism Book Series; 140
     authors:
       - Jean-Numa Ducange
+    translators:
       - David Broder
     year: 2019
     language: English
@@ -16405,9 +16576,11 @@ titles:
     verified: false
   - title: The Jewish Question
     subtitle: History of a Marxist Debate
+    original_title: Marxistes et la question juive
     series: Historical Materialism Book Series
     authors:
       - Enzo Traverso
+    translators:
       - Bernard Gibbons
     year: 2019
     language: English
@@ -17082,6 +17255,8 @@ titles:
     authors:
       - Astra Taylor
       - Inc Recorded Books
+    editors:
+      - Debt Collective
     year: 2020
     language: English
     sources:
@@ -17456,6 +17631,8 @@ titles:
       - Felicia Chavez
       - José Olivarez
       - Willie Perdomo
+    editors:
+      - Felicia Rose Chavez
     year: 2020
     language: English
     sources:
@@ -18073,6 +18250,7 @@ titles:
     isbn: '9781642591880'
   - title: The Marxist Conception of the State
     subtitle: A Contribution to the Differentiation of the Sociological and the Juristic Method
+    original_title: Die Staatsauffassung des Marxismus
     series: Historical Materialism Book Series; Volume 192
     authors:
       - Max Adler
@@ -18397,6 +18575,7 @@ titles:
     isbn: '9781642590210'
   - title: Yiddish Revolutionaries in Migration
     subtitle: The Transnational History of the Jewish Labour Bund
+    original_title: Neue Welten in der Neuen Welt
     authors:
       - Frank Wolff
       - Loren Balhorn
@@ -18511,6 +18690,7 @@ titles:
     authors:
       - Mahdī ʿĀmil
       - Hicham Safieddine
+    translators:
       - Angela Giordani
     year: 2021
     language: English
@@ -19001,9 +19181,12 @@ titles:
     verified: false
   - title: Gramsci's Laboratory
     subtitle: Philosophy, History and Politics
+    original_title: O laboratório de Gramsci
     series: Historical Materialism Book Series
     authors:
       - Alvaro Bianchi
+    translators:
+      - Sean Purdy
     year: 2021
     language: English
     sources:
@@ -19294,10 +19477,12 @@ titles:
     isbn: '9781642596533'
   - title: Nietzsche, the Aristocratic Rebel
     subtitle: Intellectual Biography and Critical Balance-Sheet
+    original_title: Nietzsche, il ribelle aristocratico
     series: Historical Materialism Book Series
     authors:
       - Domenico Losurdo
       - Harrison Fluss
+    translators:
       - Gregor Benton
     year: 2021
     language: English
@@ -19602,6 +19787,9 @@ titles:
     series: Historical Materialism Book Series
     authors:
       - Evgenij Samojlovič Varga
+    editors:
+      - André Mommen
+    translators:
       - André Mommen
     year: 2021
     language: English
@@ -19729,10 +19917,14 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BC10317872
     verified: false
   - title: The Austrian Revolution
+    original_title: Die österreichische Revolution
     authors:
       - Otto Bauer
-      - Eric Canepa
       - Walter Baier
+    editors:
+      - Eric Canepa
+    translators:
+      - Eric Canepa
     year: 2021
     language: English
     sources:
@@ -20055,9 +20247,11 @@ titles:
     verified: false
   - title: Yiddish Revolutionaries in Migration
     subtitle: The Transnational History of the Jewish Labour Bund
+    original_title: Neue Welten in der Neuen Welt
     series: Historical Materialism Book Series
     authors:
       - Frank Wolff
+    translators:
       - Loren Balhorn
       - Jan-Peter Herrmann
     year: 2021
@@ -20927,6 +21121,9 @@ titles:
     series: Historical Materialism Book Series; 3
     authors:
       - Henryk Grossmann
+    editors:
+      - Rick Kuhn
+    translators:
       - Rick Kuhn
       - Jairus Banaji
     year: 2022
@@ -21084,6 +21281,7 @@ titles:
     authors:
       - Christoph Jünke
       - Leo Kofler
+    translators:
       - Nathaniel Thomas
     year: 2022
     language: English
@@ -21130,9 +21328,13 @@ titles:
     verified: false
   - title: Marx in Paris, 1871
     subtitle: Jenny's "Blue Notebook"
+    original_title: Marx à Paris, 1871
     authors:
       - Michael Löwy
       - Olivier Besancenot
+    editors:
+      - David Walters
+    translators:
       - Todd Chretien
     year: 2022
     language: English
@@ -21592,6 +21794,8 @@ titles:
     subtitle: Crafting a Writer's Life in Prison
     authors:
       - Caits Meissner
+    editors:
+      - PEN America
     year: 2022
     language: English
     pages: 273
@@ -21651,7 +21855,8 @@ titles:
   - title: The Workers' Opposition in the Russian Communist Party
     subtitle: Documents, 1919-30
     series: Historical Materialism Book Series
-    authors:
+    authors: []
+    translators:
       - Barbara C. Allen
     year: 2022
     language: English
@@ -21693,6 +21898,7 @@ titles:
     series: Historical Materialism
     authors:
       - A. Bogdanov
+    translators:
       - David G. Rowley
     year: 2022
     language: English
@@ -22238,6 +22444,7 @@ titles:
     series: Studies in Critical Social Sciences
     authors:
       - Claudio J. Katz
+    translators:
       - Stanley Malinowitz
     year: 2023
     language: English
@@ -22250,12 +22457,14 @@ titles:
     isbn: '9781642598131'
   - title: Digital Fissures
     subtitle: Bodies, Genders, Technologies
+    original_title: Smagliature digitali
     series: Studies in Critical Social Sciences
     authors:
       - Carlotta Cossutta
       - Valentina Greco
       - Arianna Rubi Mainardi
       - Stefania Voli
+    translators:
       - Julia Heim
       - Sole Anatrone
     year: 2023
@@ -22443,6 +22652,8 @@ titles:
     subtitle: Facing the Challenges of Our Time
     authors:
       - Noam Chomsky
+    editors:
+      - Chronis Polychroniou
     year: 2023
     language: English
     sources:
@@ -22862,9 +23073,11 @@ titles:
     verified: false
   - title: Reform and Political Crisis in Brazil
     subtitle: Class Conflicts in Workers' Party Governments and the Rise of Bolsonaro Neo-fascism
+    original_title: Reforma e crise política no Brasil
     series: SSCS Series, Studies in Critical Social Sciences
     authors:
       - Armando Boito Júnior
+    translators:
       - Angela Tesheiner
       - Lenita Maria Rimoli Pisetta
     year: 2023
@@ -23131,9 +23344,11 @@ titles:
     verified: true
   - title: The Charisma of World Revolution
     subtitle: Revolutionary Internationalism in Early Soviet Society, 1917-1927
+    original_title: Das Charisma der Weltrevolution
     series: Historical Materialism Book Series
     authors:
       - Gleb J. Albert
+    translators:
       - Zachary Murphy King
     year: 2023
     language: English
@@ -23162,9 +23377,11 @@ titles:
     isbn: '9781642598087'
   - title: The Game of Contradictions
     subtitle: The Philosophy of Friedrich Engels and Nineteenth-Century Science
+    original_title: Motsatsernas spel
     series: Historical Materialism Book Series
     authors:
       - Sven-Erik Liedman
+    translators:
       - Jeffrey N. Skinner
     year: 2023
     language: English
@@ -23194,9 +23411,11 @@ titles:
     isbn: '9798888900604'
   - title: The Men with the Pink Triangle
     subtitle: The True, Life-and-death Story of Homosexuals in the Nazi Death Camps
+    original_title: Männer mit dem rosa Winkel
     authors:
       - Heinz Heger
       - Sarah Schulman
+    translators:
       - David Fernbach
     year: 2023
     language: English
@@ -23523,6 +23742,9 @@ titles:
     subtitle: Selected Writings, 1942–1998
     authors:
       - Chaolin Zheng
+    editors:
+      - Gregor Benton
+      - John Sexton
     year: 2023
     language: English
     sources:
@@ -23653,12 +23875,14 @@ titles:
     verified: false
   - title: Against Erasure
     subtitle: A Photographic Memory of Palestine Before the Nakba
+    original_title: Contra el olvido
     authors:
       - Teresa Aranguren
       - Sandra Barrilaro
+      - Mohammed El-Kurd
+    translators:
       - Róisín Davis
       - Hugo Rayón Aranguren
-      - Mohammed El-Kurd
     year: 2024
     language: English
     sources:
@@ -23788,6 +24012,9 @@ titles:
     authors:
       - Community Justice Exchange
       - Inter criminalization
+    editors:
+      - Interrupting Criminalization
+      - Critical resistance
     year: 2024
     language: English
     sources:
@@ -24642,6 +24869,8 @@ titles:
       - Edward Abramowski
       - Bartłomiej Błesznowski
       - Cezary Rudnicki
+    translators:
+      - Michelle Granas
     year: 2024
     language: English
     sources:
@@ -24886,6 +25115,7 @@ titles:
       - Aleksandr Vladimirovič Buzgalin
       - Ljudmila Alekseevna Bulavka-Buzgalina
       - Andrej Ivanovič Kolganov
+    translators:
       - Renfrey Clarke
     year: 2024
     language: English
@@ -25101,9 +25331,12 @@ titles:
     subtitle: Proceedings of the First Latin American Communist Conference, June 1929
     series: Historical Materialism Book Series
     authors:
-      - Marc Becker
       - Victor Jeifets
       - Lazarʹ Solomonovič Chejfec
+    editors:
+      - Marc Becker
+    translators:
+      - Marc Becker
     year: 2024
     language: English
     sources:
@@ -25134,6 +25367,9 @@ titles:
     series: Studies in Critical Social Sciences
     authors:
       - Thiago Aguiar
+    editors:
+      - Sean Purdy
+    translators:
       - Eduardo Carniel
       - Sean Purdy
     year: 2024
@@ -25399,6 +25635,7 @@ titles:
     authors:
       - Henryk Grossmann
       - Rick Kuhn
+    translators:
       - Dominika Balwin
     year: 2024
     language: English
@@ -25701,6 +25938,7 @@ titles:
     series: Historical Materialism Book Series
     authors:
       - Isaak I. Rubin
+    translators:
       - Richard B. Day
     year: 2025
     language: English
@@ -26504,6 +26742,7 @@ titles:
     subtitle: At the Origin of Male Domination
     authors:
       - Christophe Darmangeat
+    translators:
       - Christina Nguyen Huu Grosjean
     year: 2025
     language: English
@@ -27270,6 +27509,7 @@ titles:
     series: Historical Materialism
     authors:
       - Michail Bajtalskij
+    translators:
       - Marilyn Vogt-Downey
     year: 2026
     language: English

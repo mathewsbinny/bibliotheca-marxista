@@ -88,6 +88,7 @@ titles:
   - title: Hinir tólf
     authors:
       - Alexander Block
+    translators:
       - Magnús Ásgeirsson
     year: 1936
     language: Icelandic
@@ -423,6 +424,8 @@ titles:
     subtitle: Ævintýri og helgisögur frá miðöldum
     authors:
       - Einar Ól. Sveinsson
+    editors:
+      - Einar Ólafur Sveinsson
     year: 1944
     language: Icelandic
     pages: 304
@@ -550,7 +553,8 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=307640604
     verified: true
   - title: Annarlegar tungur
-    authors:
+    authors: []
+    translators:
       - Jóhannes Úr Kötlum
     year: 1948
     language: Icelandic
@@ -885,6 +889,8 @@ titles:
   - title: Kvæði og ritgerðir
     authors:
       - Jóhann Jónsson
+    editors:
+      - Halldór Laxness
     year: 1952
     language: Icelandic
     sources:
@@ -2228,6 +2234,8 @@ titles:
   - title: Ritgerðir, 1924-1959
     authors:
       - Þórbergur Þórðarson
+    editors:
+      - Sigfús Daðason
     year: 1960
     language: Icelandic
     sources:
@@ -3049,6 +3057,8 @@ titles:
   - title: Vinaspegill
     authors:
       - Jóhannes úr Kötlum
+    editors:
+      - Kristinn E. Andrésson
     year: 1965
     language: Icelandic
     sources:
@@ -3120,6 +3130,7 @@ titles:
   - title: Jóhann Sigurjónsson
     authors:
       - Helge Toldberg
+    translators:
       - Gísli Ásmundsson
     year: 1966
     language: Icelandic
@@ -3816,6 +3827,8 @@ titles:
   - title: Bókmenntagreinar
     authors:
       - Bjarni Benediktsson frá Hofteigi
+    editors:
+      - Einar Bragi
     year: 1971
     language: Icelandic
     pages: 390
@@ -3923,7 +3936,8 @@ titles:
     verified: true
   - title: Hin græaena eik
     subtitle: Ljóðaþýðingar
-    authors:
+    authors: []
+    translators:
       - Geir Kristjánsson
     year: 1971
     language: Icelandic
@@ -4129,8 +4143,11 @@ titles:
     verified: true
   - title: Hljómleikar í hvítu húsi
     subtitle: Ljóđ
+    original_title: Konsert i eit kvitt hus
     authors:
       - Knut Ødegård
+    translators:
+      - Einar Bragi
     year: 1973
     language: Icelandic
     sources:

@@ -808,6 +808,8 @@ titles:
     authors:
       - Lán Mào
       - 蘭茂
+    editors:
+      - Dian nan ben cao zheng li zu
     year: 1975
     language: Chinese
     sources:
@@ -931,6 +933,8 @@ titles:
   - title: Dian nan ben cao
     authors:
       - Mao Lan
+    editors:
+      - Dian nan ben cao zheng li zu
     year: 1977
     language: Chinese
     sources:
@@ -1105,6 +1109,8 @@ titles:
   - title: Dian nan ben cao
     authors:
       - Mao Lan
+    editors:
+      - Dian nan ben cao zheng li zu
     year: 1978
     language: Chinese
     sources:
@@ -1255,8 +1261,9 @@ titles:
   - title: Song pa min he Ga xi na
     subtitle: Dai zu min jian xu shi chang shi
     authors:
-      - Guipei Chen
       - Jianyao Li
+    translators:
+      - Guipei Chen
     year: 1978
     language: Chinese
     sources:
@@ -2048,10 +2055,11 @@ titles:
   - title: Mian gui hua
     subtitle: Tai zu min jian xu shi chang shi
     authors:
-      - Yongning Si
-      - 永宁 思
       - Shouxuan Feng
       - 寿軒 冯
+    translators:
+      - Yongning Si
+      - 永宁 思
     year: 1979
     language: Chinese
     sources:
@@ -2060,6 +2068,7 @@ titles:
     verified: true
   - title: Mu pa mi pa
     subtitle: Lahu zu min jian shi shi
+    original_title: Mudphal milphal
     authors:
       - Huihao Liu
       - 刘辉豪
@@ -2785,6 +2794,8 @@ titles:
   - title: Bai yi zhuan jiao zhu
     authors:
       - Gu xun Qian
+    editors:
+      - Ying liang Jiang
     year: 1980
     language: Chinese
     sources:
@@ -3362,6 +3373,8 @@ titles:
     subtitle: Dai zu min jian xu shi chang shi
     authors:
       - Zixian Li
+    editors:
+      - 子贤 李
     year: 1980
     edition: Di 1 ban
     language: Chinese
@@ -3775,6 +3788,7 @@ titles:
     series: Qing gong mi wen cong shu
     authors:
       - Der Ling
+    translators:
       - Shou'ou Qin
       - 秦 瘦鸥
     year: 1980
@@ -4888,6 +4902,9 @@ titles:
   - title: Dai zu wu dao
     authors:
       - Liu Jinwu
+    editors:
+      - Jinwu Liu
+      - 刘金吾
     year: 1981
     edition: Di 1 ban
     language: Chinese
@@ -6079,6 +6096,8 @@ titles:
   - title: Zhongguo shan chuan ming sheng chuan shuo gu shi
     authors:
       - Li Ba
+    editors:
+      - Lu Zhong
     year: 1981
     edition: Di 1 ban
     language: Chinese
@@ -6590,7 +6609,8 @@ titles:
     verified: false
   - title: Ai su he ai xi de gu shi
     subtitle: Dai zu min jian you mo gu shi
-    authors:
+    authors: []
+    translators:
       - Jun Wu
       - Wenpian Yan
     year: 1982
@@ -7142,8 +7162,10 @@ titles:
         url: https://lccn.loc.gov/83173522
     verified: true
   - title: Shen qi dong
+    original_title: Dipnye pescery
     authors:
       - Jevgenij Dubrovin
+    translators:
       - Yinhuan Li
     year: 1982
     language: Chinese
@@ -7184,7 +7206,8 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1439935416
     verified: true
   - title: Tian fang ye tan
-    authors:
+    authors: []
+    translators:
       - Qijiang Ding
     year: 1982
     language: Chinese
@@ -7234,8 +7257,10 @@ titles:
     verified: true
   - title: Wei jun zi qi chong bai zhe
     subtitle: Zhai zi yi ge wu ming shi de hui yi lu
+    original_title: Selo Stepancikovo i ego obitateli
     authors:
       - Fëdor Michajlovič Dostoevskij
+    translators:
       - Zhonglun Zang
     year: 1982
     language: Chinese
@@ -7960,6 +7985,10 @@ titles:
       - Wenxun Zhang
       - Fusan Zhang
       - Guangyu Fu
+    editors:
+      - 文勛 张
+      - 福三 张
+      - 光宇 傅
     year: 1983
     edition: Xiu ding ban
     language: Chinese
@@ -8083,6 +8112,10 @@ titles:
   - title: Dian chi chuan shuo
     authors:
       - Kuanhong Zhong
+    editors:
+      - 钟宽洪
+      - Guoxiang Wang
+      - 王国祥
     year: 1983
     edition: Di 1 ban
     language: Chinese
@@ -8540,6 +8573,8 @@ titles:
   - title: Shao shu min zu min jian wen xue gai lun
     authors:
       - Zixian Li
+    editors:
+      - Yichu Zhu
     year: 1983
     edition: Di 1 ban
     language: Chinese
@@ -8874,6 +8909,8 @@ titles:
   - title: Yunnan jian shi
     authors:
       - Yao
+    editors:
+      - Yao Ma
     year: 1983
     edition: Di 1 ban
     series: Yunnan cong shu
@@ -9959,6 +9996,9 @@ titles:
       - Guo yu Yang
       - Feiqin Chen
       - Wei Wang
+    editors:
+      - Guoyu Yang
+      - 国宇 杨
     year: 1984
     edition: Di 1 ban
     language: Chinese
@@ -9979,6 +10019,11 @@ titles:
     authors:
       - Xiangkui Niu
       - Jingxiu Zhao
+    editors:
+      - Niu xiang kui
+      - 牛相奎
+      - Zhao jing xiu
+      - 赵净修
     year: 1984
     edition: Di 1 ban
     series: Yunnan min zu min jian chang shi cong shu
@@ -10540,8 +10585,19 @@ titles:
     verified: true
   - title: You sao
     subtitle: Zhuang zu min jian xu shi shi
-    authors:
+    authors: []
+    editors:
+      - Derong Liu
+      - 刘德荣
+      - Hongxin Zhang
+      - 张鸿鑫
+    translators:
       - Decai Wang
+      - 王德才
+      - Zhaowen Wang
+      - 王兆文
+      - Tingxiang Shen
+      - 沈廷相
     year: 1984
     edition: Di 1 ban
     language: Chinese
@@ -12409,6 +12465,12 @@ titles:
   - title: Yunnan Qujing Diqu zhong zhi liu shi--zao ni pen shi di ceng ji gu sheng wu
     authors:
       - Runsen Fang
+    editors:
+      - 润森 方
+      - Nengren Jiang
+      - 能人 江
+      - Jiancai Fan
+      - 健才 范
     year: 1985
     edition: Di 1 ban
     language: Chinese
@@ -13892,6 +13954,8 @@ titles:
   - title: Zhongguo li dai xiao shuo ci dian
     authors:
       - Zhongyi Hou
+    editors:
+      - 忠义 侯
     year: 1986
     edition: Di 1 ban
     language: Chinese

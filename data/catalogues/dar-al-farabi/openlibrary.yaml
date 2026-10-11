@@ -1551,6 +1551,9 @@ titles:
     subtitle: Shiʻr
     authors:
       - Aḥmad Fuʾād Najm
+    editors:
+      - Ṭāhir Aḥmad Makkī
+      - الطاهر أحمد مكي
     year: 1978
     edition: al-Ṭabʻah 2. --
     language: Arabic
@@ -1885,6 +1888,7 @@ titles:
   - title: Al-Aʻmāl al-šiʻriyyaẗ al-kāmilaẗ
     authors:
       - Nâzım Hikmet
+    translators:
       - Fāḍil Luqmān
       - فاضل لقمان
     year: 1979
@@ -5245,6 +5249,7 @@ titles:
   - title: Al-Ḥurūb al-ṣalībiyyaẗ kamā raʾāhā al-ʿarab
     authors:
       - Amin Maalouf
+    translators:
       - ʿAfīf Dimašqiyyaẗ
     year: 1989
     language: Arabic
@@ -6360,6 +6365,7 @@ titles:
         url: https://search.worldcat.org/title/25766485
     verified: true
   - title: Samarqand
+    original_title: Samarcande
     authors:
       - Amin Maalouf
       - ʻAfīf Dimashqīyah
@@ -6504,9 +6510,11 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA52996696
     verified: false
   - title: Al-ḥurūb al-ṣalībīyat kamā raʾāhā al-ʿarab
+    original_title: Les croisades vues par les Arabes
     authors:
       - Amin Maalouf
       - أمين معلوف
+    translators:
       - ʿAfīf Dimašqiyyaẗ
       - عفيف دمشقية
     year: 1993
@@ -6541,8 +6549,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb37500740c
     verified: true
   - title: Ḥadāʾiqu al-nūr
+    original_title: Les jardins de lumières
     authors:
       - Amin Maalouf
+    translators:
       - ʿAfīf Dimašqiyya
     year: 1993
     language: Arabic
@@ -6599,9 +6609,12 @@ titles:
     verified: true
   - title: الحروب الصليبية
     subtitle: كما رآها العرب
+    original_title: Les Croisades vues par les Arabes
     authors:
       - Amin Maalouf
+    translators:
       - ʻAfīf Dimashqīyah
+      - عفيف دمشقية
     year: 1993
     edition: al-Ṭabʻah 2
     language: Arabic
@@ -6614,8 +6627,10 @@ titles:
         url: https://search.worldcat.org/title/319945310
     verified: true
   - title: حدائق النور
+    original_title: Les jardins de lumière
     authors:
       - Amin Maalouf
+    translators:
       - ʻAfīf Dimashqīyah
     year: 1993
     edition: al-Ṭabʻah 1
@@ -6688,8 +6703,10 @@ titles:
         url: https://openlibrary.org/books/OL15096633M
     verified: true
   - title: Liyūn al-Ifrīqī
+    original_title: Léon, l'Africain
     authors:
       - Amin Maalouf
+    translators:
       - ʻAfīf Dimashqīyah
     year: 1994
     language: Arabic
@@ -6703,6 +6720,7 @@ titles:
   - title: Liyūn al-ʾifrīqī
     authors:
       - Amin Maalouf
+    translators:
       - ʿAfīf Dimašqiyyaẗ
     year: 1994
     language: Arabic
@@ -6790,6 +6808,7 @@ titles:
   - title: Samarqand
     authors:
       - Amin Maalouf
+    translators:
       - ʿAfīf Dimašqiyyaẗ
     year: 1994
     language: Arabic
@@ -7217,8 +7236,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/003301061
     verified: true
   - title: Liyūn al-ifrīqī
+    original_title: Léon l'Africain
     authors:
       - Amin Maalouf
+    translators:
       - ʿAfīf Dimašqiyya
     year: 1997
     language: Arabic
@@ -7355,9 +7376,11 @@ titles:
         url: https://search.worldcat.org/title/219065512
     verified: true
   - title: Samarqand
+    original_title: Samarcande
     authors:
       - Amin Maalouf
       - أمين معلوف
+    translators:
       - ʿAfīf Dimašqiyyaẗ
       - عفيف دمشقية
     year: 1997
@@ -7511,8 +7534,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb38998619w
     verified: true
   - title: Aš-Šarīk al-ḫafī
+    original_title: The secret sharer
     authors:
       - Joseph Conrad
+    translators:
       - Iskandar Ḥabaš
     year: 1998
     language: Arabic
@@ -7682,6 +7707,8 @@ titles:
   - title: Fī al-mūsīqá al-Lubnāniyyaẗ al-ʿarabiyyaẗ wa al-masraḥ al-ġināʾī al-Raḥbānī
     authors:
       - Nizār Muruwwaẗ
+    editors:
+      - Muḥammad Ibrāhīm Dakrūb
     year: 1998
     language: Arabic
     sources:
@@ -8827,6 +8854,7 @@ titles:
   - title: At-Taʿarrī
     authors:
       - Sławomir Mrożek
+    translators:
       - ʿIṣām Maḥfūẓ
     year: 2000
     language: Arabic
@@ -9405,6 +9433,8 @@ titles:
     subtitle: Dirāsaẗ fī al-fikr al-ʿarabī al-islāmī
     authors:
       - Arthur Sadiev
+    translators:
+      - Tawfīq Sallūm
     year: 2001
     language: Arabic
     sources:
@@ -9578,6 +9608,7 @@ titles:
     verified: true
   - title: Riḥlaẗ Bāldāsār
     subtitle: Riwāyaẗ
+    original_title: Périple de Baldassare
     authors:
       - Amin Maalouf
       - أمين معلوف
@@ -9608,8 +9639,10 @@ titles:
     verified: true
   - title: Ṣaẖrat Ṭāniūs
     subtitle: Riwāyat
+    original_title: Le rocher de Tanios
     authors:
       - Amin Maalouf
+    translators:
       - Nahla Baydoun
     year: 2001
     language: Arabic
@@ -9749,8 +9782,11 @@ titles:
     verified: true
   - title: موانئ المشرق
     subtitle: رواية
+    original_title: Les Échelles du Levant
     authors:
       - Amin Maalouf
+    translators:
+      - نهلة بيضون
     year: 2001
     language: Arabic
     pages: 232
@@ -9773,8 +9809,11 @@ titles:
     verified: true
   - title: Al Ḥubb ʿan buʿd
     subtitle: Masraḥiyyaẗ ġināʾiyyaẗ
+    original_title: 'L''amour de loin : livret'
     authors:
       - Amin Maalouf
+    translators:
+      - Nahlaẗ Bayḍūn
     year: 2002
     language: Arabic
     sources:
@@ -9920,8 +9959,10 @@ titles:
     verified: true
   - title: Alf wa-ʿām min al-ḥanīn
     subtitle: Riwāyaẗ
+    original_title: Les 1001 années de la nostalgie
     authors:
       - Rachid Boudjedra
+    translators:
       - مرزاق بقطاش
       - Mirzāq baqṭāš
     year: 2002
@@ -10445,8 +10486,11 @@ titles:
         url: https://search.worldcat.org/title/496277795
     verified: true
   - title: الحب عن بعد
+    original_title: L'Amour de loin
     authors:
       - Amin Maalouf
+    translators:
+      - Nahlah Bayḍūn
     year: 2002
     language: Arabic
     pages: 95
@@ -11283,8 +11327,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/005019522
     verified: true
   - title: Bidayāt
+    original_title: Origines
     authors:
       - Amin Maalouf
+    translators:
+      - Nahlaẗ Georges Bayḍūn
     year: 2004
     edition: al-Ṭabʻah 1
     language: Arabic
@@ -12497,10 +12544,12 @@ titles:
         url: https://search.worldcat.org/title/72805917
     verified: true
   - title: Al-Umm Adrīyānā
+    original_title: Adriana mater
     authors:
       - Amin Maalouf
       - معلوف ، أمين
       - نهلة بيضون
+    translators:
       - Nahlah Bayḍūn
     year: 2006
     language: Arabic
@@ -13450,9 +13499,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/005815163
     verified: true
   - title: Ašbāḥ al-ǧaḥīm
+    original_title: Les sirènes de Bagdad
     authors:
       - Yasmina Khadra
       - ياسمينة خضراء
+    translators:
       - Muḥammad Sārī
       - محمد ساري
     year: 2007
@@ -14701,6 +14752,8 @@ titles:
   - title: Dīwān al-šiʿr al-lubnānī al-muʿāṣir
     subtitle: Muẖtārāt
     authors: []
+    editors:
+      - Hamzaẗ ʿAbbūd
     year: 2008
     language: Arabic
     sources:
@@ -14860,10 +14913,12 @@ titles:
     verified: true
   - title: Mawāniʼ al-Mashriq
     subtitle: Riwāyah
+    original_title: Echelles du Levant
     authors:
       - Amin Maalouf
       - معلوف ، أمين
       - نهلة بيضون
+    translators:
       - Nahlah Bayḍūn
     year: 2008
     language: Arabic
@@ -16635,6 +16690,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/006839217
     verified: true
   - title: اختلال العالم
+    original_title: Le Dérèglement du monde
     authors:
       - Amin Maalouf
     year: 2009
@@ -17238,9 +17294,11 @@ titles:
     verified: true
   - title: AlḤurūb al-Ṣalībiyyaẗ kamā rāhā al-ʻArab
     subtitle: Riwāyah
+    original_title: Les croisades vues par les Arabes
     authors:
       - Amin Maalouf
       - معلوف ، أمين
+    translators:
       - ʿAfīf Dimašqiyyaẗ
       - عفيف دمشقية
     year: 2010
@@ -18412,8 +18470,10 @@ titles:
     verified: true
   - title: Banāt Allāh
     subtitle: Riwāyaẗ
+    original_title: Les filles d'Allah
     authors:
       - Nedim Gürsel
+    translators:
       - Jean Descat
       - Mīšāl Karam
       - ميشال كرم
@@ -18455,8 +18515,9 @@ titles:
   - title: Diyāliktīk al-ṭabīʻah
     authors:
       - Frīdrīk Injilz
-      - Tawfīq Sallūm
       - Al Manhal FZLLC
+    translators:
+      - Tawfīq Sallūm
     year: 2011
     language: Arabic
     sources:
@@ -18816,6 +18877,7 @@ titles:
         url: https://search.worldcat.org/title/698955121
     verified: true
   - title: Tārīkh Awrūbā wa-lainā̕ usṭūrat al-gharb
+    original_title: L'Europe et le mythe de l'Occident
     authors:
       - قرم، جورج
       - ذبيان، رلى
@@ -20150,6 +20212,8 @@ titles:
     subtitle: Kalimāt ḥayyah
     authors:
       - Ḥusayn Murūwah
+    editors:
+      - Qāsim Barakāt
     year: 2012
     edition: al-Ṭabʻah al-ūlá
     language: Arabic
@@ -20483,8 +20547,11 @@ titles:
         url: https://search.worldcat.org/title/804094954
     verified: true
   - title: Māḏā faʿalta bi-aṭfālika yā abī?
+    original_title: Qu'as-tu fait de tes mômes, papa ?
     authors:
       - Ezza Agha Malak
+    translators:
+      - Kīttī Sālim
     year: 2012
     language: Arabic
     sources:
@@ -21217,6 +21284,7 @@ titles:
     verified: true
   - title: “At-”Tāʾihūn
     subtitle: Riwāya
+    original_title: Les désorientés
     authors:
       - Amin Maalouf
     year: 2013
@@ -21394,6 +21462,7 @@ titles:
       - وديع جويده
       - Mārtin Fān Baruwinsan
       - مارتن فان بروينسن
+    translators:
       - Ġāzī Birrū
       - غازي برو
     year: 2013
@@ -21451,8 +21520,10 @@ titles:
     verified: true
   - title: Al-Kurd wa-al-siyāsaẗ al-ḫāriǧiyyaẗ al-amīrkiyyaẗ
     subtitle: Al-ʿalāqāt al-duwaliyyaẗ fī al-šarq al-awsaṭ munḏu 1945
+    original_title: The Kurds and US foreign policy
     authors:
       - Marianna Charountaki
+    translators:
       - Ḫalīl al- Ǧayūsī
       - خليل ال جيوسي
     year: 2013
@@ -21545,9 +21616,11 @@ titles:
     verified: true
   - title: Al-Tāʼihūn
     subtitle: Riwāyah
+    original_title: Désorientés
     authors:
       - Amin Maalouf
       - أمين معلوف
+    translators:
       - Nahla Baydoun
       - نهلة بيضون
     year: 2013
@@ -21648,6 +21721,8 @@ titles:
   - title: Āṯār al-ḥiqab fī Lāḏiqiyyaẗ al-ʿArab
     authors:
       - Ilyās Ṣāliḥ al- Lāḏiqī
+    editors:
+      - Ilyās Ǧuraiǧ
     year: 2013
     language: Arabic
     sources:
@@ -22662,8 +22737,11 @@ titles:
     verified: true
   - title: التائهون
     subtitle: Riwāyah
+    original_title: Les désorientés
     authors:
       - Amin Maalouf
+    translators:
+      - Nahlah Bayḍūn
     year: 2013
     edition: al-Ṭabʻah 1
     language: Arabic
@@ -23659,6 +23737,8 @@ titles:
     subtitle: Riwāyah
     authors:
       - Amin Maalouf
+    translators:
+      - ʻAfīf Dimashqīyah
     year: 2014
     edition: al-Ṭabʻah al-rābiʻah
     language: Arabic
@@ -23781,6 +23861,9 @@ titles:
   - title: ʻĀdil Ṣabbāḥ, 1924-2008, mudhakkirāt wa-shahādāt
     authors:
       - ʻĀdil Ṣabbāḥ
+    editors:
+      - Kāmil Jābir
+      - ʻAlī Ḥusayn Mazraʻānī
     year: 2014
     edition: al-Ṭabʻah al-ūlá
     language: Arabic
@@ -24127,6 +24210,8 @@ titles:
     subtitle: Taḥlīl ẓāhiraẗ tawẓīf al-dīn fī al-siyāsaẗ al-duwaliyyaẗ
     authors:
       - Georges Corm
+    translators:
+      - Salām Diyāb
     year: 2014
     language: Arabic
     sources:
@@ -25026,6 +25111,11 @@ titles:
     subtitle: Aʻmāl al-Nadwah al-Tidhkārīyah al-Dirāsīyah ḥawla Asad Rustum, al-Jāmiʻah al-Amrīkīyah fī Bayrūt, 20 Ādhār 2010
     authors:
       - Nadwah al-Tidhkārīyah al-Dirāsīyah ḥawla Asad Rustam (2010 Beirut, Lebanon)
+    editors:
+      - Lamyā Rustum Shahādah
+      - Suʻād Sālim
+      - Māhir Zuhayr Jarrār
+      - Nader El-Bizri
     year: 2015
     edition: al-Ṭabʻah al-ūlá
     language: Arabic
@@ -25259,6 +25349,8 @@ titles:
   - title: Iqtidāʾ al-ġāfil bi-ihtidāʾ al-ʿāqil
     authors:
       - Muḥammad ibn Aḥmad ibn ʿAlī al- Qasṭallānī
+    editors:
+      - Aḥmad Ǧumʿaẗ ʿAbd al-Ḥamīd
     year: 2015
     language: Arabic
     sources:
@@ -25479,8 +25571,11 @@ titles:
         url: https://lccn.loc.gov/2014350671
     verified: true
   - title: Qāmūs Bayrūt
+    original_title: Dictionnaire de Beyrouth
     authors:
       - Michel Fani
+    translators:
+      - Dyānā Ḥ. Ḥarb
     year: 2015
     language: Arabic
     sources:
@@ -26599,6 +26694,8 @@ titles:
   - title: Bārīs kamā yarāhā al-ʿArab
     subtitle: 13 kātiban wa-kātibaẗ yarwūn sīratahum fī ʿāṣimaẗ al-Faransīyīn
     authors: []
+    editors:
+      - Fayṣal Ǧallūl
     year: 2016
     language: Arabic
     sources:
@@ -26657,6 +26754,9 @@ titles:
   - title: Ḥallāl al-ʻuqad fī bayān aḥkām al-muʻtaqad wa-huwa Qudwat al-Muhtadīn ilá maqāsid al-dīn
     authors:
       - Sulaymān ibn ʿAbd al-Qawī al- Ṭūfī
+    editors:
+      - Lejla Demiri
+      - Islām Dayiẗ
     year: 2016
     language: Arabic
     sources:
@@ -27740,6 +27840,8 @@ titles:
   - title: Akam Al-marjan Fi Ahkam Al-jann
     authors:
       - Muḥammad ibn ʻAbd Allāh Shiblī
+    editors:
+      - Idwārd Badīn
     year: 2017
     series: Bibliotheca Islamica -- Band 57
     language: Arabic, English
@@ -27975,6 +28077,8 @@ titles:
   - title: Al-rasāʾil al-Dimašqiyyaẗ
     authors:
       - Fayṣal Ǧallūl
+    editors:
+      - Sāmī Kulayb
     year: 2017
     language: Arabic
     sources:
@@ -28788,8 +28892,11 @@ titles:
         url: https://search.worldcat.org/title/992561307
     verified: true
   - title: مقعد على ضفاف السين - أربعة قرون من تاريخ فرنسا
+    original_title: Un fauteuil sur la Seine
     authors:
       - Amin Maalouf
+    translators:
+      - Nahlah Bayḍūn
     year: 2017
     edition: al-Ṭabʻah 1
     language: Arabic
@@ -29081,6 +29188,9 @@ titles:
   - title: Al-Qaḍiyyaẗ al-filasṭīniyyaẗ fī miʾawīyatihā al-ṯāniyaẗ min Sāykis-Bīkū ... ilá al-Rabīʿ al-ʿArabī
     subtitle: 25 kātiban ʿArabīyan yaqraʾūn masārāt Filasṭīn wa-maṣīraha
     authors: []
+    editors:
+      - Fayṣal Ǧallūl
+      - Rašād Abū Šāwar
     year: 2018
     language: Arabic
     sources:
@@ -29284,8 +29394,10 @@ titles:
         url: https://search.worldcat.org/title/1022264544
     verified: true
   - title: Azhar ash-sharr
+    original_title: Les fleurs du mal
     authors:
       - Charles Baudelaire
+    translators:
       - Muhammad Aytani
     year: 2018
     language: Arabic
@@ -30855,8 +30967,10 @@ titles:
         url: https://search.worldcat.org/title/1143348001
     verified: true
   - title: Gharq al-ḥaḍārāt
+    original_title: Le naufrage des civilisations
     authors:
       - Amin Maalouf
+    translators:
       - Nahla Baydoun
     year: 2019
     language: Arabic
@@ -31528,6 +31642,7 @@ titles:
         url: https://search.worldcat.org/title/1123216347
     verified: true
   - title: غرق الحضارات
+    original_title: Naufrage des civilisations
     authors:
       - Amin Maalouf
     year: 2019
@@ -31937,6 +32052,9 @@ titles:
     subtitle: Bi-ḥasab naṣṣ al-ṭabʿaẗ al-ʾūlá (1905) fī ǧarīdaẗ "al-Muhāǧir"
     authors:
       - Jibran Khalil Jibran
+    editors:
+      - Rāmī Šullamī
+      - Nidaa Abou Mrad
     year: 2020
     language: Arabic
     sources:
@@ -31981,6 +32099,7 @@ titles:
       - Efim Anatolevich Rezvan (Ефим Анатольевич Резван)
       - Vitaliĭ Viacheslavovich Naumkin
       - Vitalii Viacheslavovich Naumkin (Виталий Вячеславович Наумкин)
+    translators:
       - Salīm Tūmā
     year: 2020
     language: Arabic
@@ -32165,6 +32284,9 @@ titles:
   - title: Aiyām Kamāl-ad-Dīn Al-Ḥāʼik
     subtitle: Ḥalab Fī Awāḫir Al-qarn Al-ʿāšir
     authors: []
+    editors:
+      - Boris Liebrenz
+      - Kristina L. Richardson
     year: 2021
     language: English, Arabic
     sources:
@@ -32615,8 +32737,11 @@ titles:
     verified: true
   - title: إخـوتـنـا الـغـربـاء
     subtitle: Riwāyah
+    original_title: Nos frères inattendus
     authors:
       - Amin Maalouf
+    translators:
+      - Nahlah Bayḍūn
     year: 2021
     edition: al-Ṭab‘ah al-ūlá.
     language: Arabic
@@ -33114,6 +33239,8 @@ titles:
   - title: Kitāb ḥall muškilāt al-Šuḏūr
     authors:
       - Ibn Arfaʿ Raʾs
+    editors:
+      - Juliane Müller
     year: 2023
     language: Arabic
     sources:
@@ -33191,6 +33318,8 @@ titles:
   - title: Ǧawāhir al-akhbār wa-mulaḥ al-ashʻār
     authors:
       - al-Ḥasan ibn Muḥammad Muʾtaman al-Dīn Ibn Abī ʿAqāmaẗ al-Yamanī
+    editors:
+      - Nuhā ʿAbd al-Razzāq al-Ḥifanāwī
     year: 2024
     language: Arabic
     sources:
@@ -33222,6 +33351,9 @@ titles:
     series: An-Našarāt Al-islāmīya = Bibliotheca Islamica; Volume 50
     authors:
       - Aḥmad ibn ʿAbd al-Laṭīf ibn Muḥammad al- Barbīr
+    editors:
+      - Max Robert Shmookler
+      - Ḍiyāʾ al- Aswad
     year: 2024
     language: Arabic
     sources:

@@ -371,6 +371,7 @@ titles:
       - Trần Quảng Sinh
       - Mạt Nhược Quách
       - Ngụy Nguy
+    translators:
       - Thành Châu
       - Văn Hồng
     year: 1964
@@ -1160,6 +1161,7 @@ titles:
   - title: Ngày phán xử cuối cùng
     authors:
       - Blaga Dimitorova
+    translators:
       - Giang Hồng
     year: 1973
     language: Vietnamese
@@ -1705,6 +1707,7 @@ titles:
     verified: true
   - title: Không có gì ngoài cả cuộc đời
     subtitle: Tập truyện về Các Mác và Phri-đrích En-Ghen
+    original_title: Nichego, krome vsei zhizni
     authors:
       - Vladimir Bushin
     year: 1978
@@ -2281,6 +2284,7 @@ titles:
   - title: Mật mã sự sống
     authors:
       - Anatôli Sơvácxơ
+    translators:
       - Nguyễn Quang Thái
       - Phạm Văn Hiền
     year: 1982
@@ -2311,6 +2315,7 @@ titles:
   - title: Viện sĩ I.V. Cuốcsatốp
     authors:
       - P. T. Astasencốp
+    translators:
       - Nguyễn Tùng Lâm
       - Võ Trung Hiếu
     year: 1982
@@ -2419,8 +2424,10 @@ titles:
     verified: true
   - title: Mùa xuân của một thiên tài
     subtitle: Tiểu thuyết
+    original_title: Pismoto na Engels do redaktsiiata na bulgarskoto spisanie "Sotsialdemokrat"
     authors:
       - Stefan I. Prodev
+    translators:
       - Tr`ân Khuyến
       - Cẩm Tiêu
     year: 1983
@@ -2466,7 +2473,8 @@ titles:
         url: https://www.sudoc.fr/11278786X
     verified: true
   - title: Tình bạn vĩ đại và cãm động
-    authors:
+    authors: []
+    translators:
       - L. Vit-Gốp
       - L. Xu Khô Tin
       - Nguyễn Ngọc Bằng
@@ -2480,8 +2488,9 @@ titles:
   - title: Tính yêu và bão táp
     authors:
       - Karl Marx
-      - Trần-Đuong
       - Văn Cao
+    translators:
+      - Trần-Đuong
     year: 1983
     language: German
     sources:
@@ -2490,8 +2499,10 @@ titles:
     verified: true
   - title: Trăng lên
     subtitle: Tiẻ̂u thuyé̂t
+    original_title: Voskhod luny
     authors:
       - Olim Qūshoqov
+    translators:
       - Phước Thuần
       - Minh Chi
     year: 1983
@@ -2514,8 +2525,10 @@ titles:
     verified: true
   - title: Tuỏ̂i trẻ Các Mác
     subtitle: Tiẻ̂u thuyé̂t
+    original_title: Neutomimyĭ putnik
     authors:
       - Elena IAkovlenva Il'ina
+    translators:
       - Trần Khuyến
       - Nhữ Thành
       - Cao Xuân Hạo
@@ -2910,6 +2923,7 @@ titles:
   - title: Đồng chí Hồ Chí Minh
     authors:
       - E. V. Kobelev
+    translators:
       - Nguyễn Minh Châu
     year: 1985
     language: Vietnamese
@@ -3017,6 +3031,8 @@ titles:
       - Văn Lang
       - Nguyêñ Anh
       - Quỳnh Cư
+    editors:
+      - Nguyễn Anh
     year: 1985
     language: Vietnamese
     sources:

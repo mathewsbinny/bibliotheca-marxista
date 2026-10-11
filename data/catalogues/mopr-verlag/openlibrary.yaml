@@ -237,6 +237,8 @@ titles:
     subtitle: Ein Leitf
     authors:
       - Peter Maslowski
+    editors:
+      - Rote Hilfe Deutschlands
     year: 1927
     language: German
     sources:
@@ -1031,6 +1033,7 @@ titles:
     series: Erinnerungen eines Arbeiterrevolutionärs / A. Schapowalow; Bd. 1
     authors:
       - Aleksandr S. Šapovalov
+    translators:
       - Maria Einstein
     year: 1930
     language: German
@@ -1049,6 +1052,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=311810632
     verified: true
     subtitle: Erinnerungen eines Arbeiterrevolutinärs
+    original_title: Po doroge k marksizmu
   - title: Aufzeichnungen eines Bolschewikis
     subtitle: Erinnerungen aus den Jahren 1896-1917
     series: Internationale Memoiren; Band 2
@@ -1064,6 +1068,7 @@ titles:
     verified: true
   - title: Aufzeichnungen eines Bolschewiks
     subtitle: Erinnergn aus d. Jahren 1896-1917
+    original_title: Sapiski Bolschevika
     series: Internationale Memoiren; 2
     authors:
       - Osip Aronovič Pjatnickij
@@ -1111,10 +1116,12 @@ titles:
     verified: true
   - title: Dreizehn Frauen fliehen
     subtitle: Eine abenteuerliche Flucht aus d. Zarenkerker
+    original_title: Novinskoje asvoboždenie
     authors:
       - Ekaterina D. Nikitina
-      - Olga Halpern
       - Horst Fröhlich
+    translators:
+      - Olga Halpern
     year: 1930
     language: Russian
     sources:
@@ -1325,9 +1332,12 @@ titles:
     verified: true
     series: Rote Reihe; Heft 5
   - title: Mit Lenin in Sibirien
+    original_title: Po doroge k marksizmu
     series: Rote Reihe; Heft 1
     authors:
       - Aleksandr S. Šapovalov
+    translators:
+      - Maria Einstein
     year: 1931
     language: German
     sources:
@@ -1455,6 +1465,8 @@ titles:
   - title: Illegal durch Italien
     authors:
       - Dino Montanara
+    translators:
+      - Lisa Dome
     year: 1932
     series: Rote Reihe -- 3
     language: German
@@ -1489,6 +1501,7 @@ titles:
     series: Bibliothek Stein / Freie Universität Berlin, Universitätsbibliothek; 51
     authors:
       - Aleksandr S. Šapovalov
+    translators:
       - Maria Einstein
     year: 1932
     language: German
@@ -1499,6 +1512,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=447520431
     verified: true
     subtitle: Šapovalov, A[leksandr Sidorovič]; A. Schapowalow; (Aus d. Russ. v. Maria Einstein)
+    original_title: Na puti marksizmu
   - title: Protiv imperialisticheskoĭ voĭny
     authors:
       - IAkov TS Mirov

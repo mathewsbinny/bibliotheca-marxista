@@ -347,8 +347,10 @@ titles:
         url: https://search.worldcat.org/title/51930207
     verified: true
   - title: Marudororu no uta
+    original_title: Les chants de Maldoror
     authors:
       - Lautréamont
+    translators:
       - Isamu Kurita
     year: 1961
     language: Japanese
@@ -1493,8 +1495,10 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BN09767416
     verified: false
   - title: Hōrō no onna petenshi kurāshe
+    original_title: Die Landstörtzerin Courasche
     authors:
       - Hans Jakob Christoffel von Grimmelshausen
+    translators:
       - Yoshiki Nakada
     year: 1967
     language: Japanese
@@ -1504,9 +1508,11 @@ titles:
     verified: true
   - title: Kikyūnori Janottso
     subtitle: = Des Luftschiffers Gianozzo Seebuch / Jean Paul Friedrich Richter
+    original_title: Des Luftschiffers Giannozzo Seebuch
     series: Koten bunko; 10
     authors:
       - Jean Paul
+    translators:
       - Hiyoshi Furumi
     year: 1967
     language: Japanese
@@ -2094,6 +2100,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=156994296X
     verified: true
   - title: Kishibe naki nagare
+    original_title: Fluss ohne Ufer
     authors:
       - Hans Henny Jahnn
     year: 1969
@@ -2855,8 +2862,10 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BN01940619
     verified: false
   - title: Ika
+    original_title: Verfremdungen I
     authors:
       - Ernst Bloch
+    translators:
       - Keiji Kataoka
       - Suehiro Tanemura
       - Mitsuyuki Funato
@@ -3642,6 +3651,7 @@ titles:
   - title: Roza Rukusenburuku zenshu
     authors:
       - Róża Luksemburg
+    translators:
       - Osamu Nomura
     year: 1974
     language: Japanese
@@ -4040,8 +4050,10 @@ titles:
         url: https://search.worldcat.org/title/23309888
     verified: true
   - title: Namari no yoru
+    original_title: Die Nacht aus Blei
     authors:
       - Hans Henny Jahnn
+    translators:
       - Boku Sakuma
     year: 1976
     language: Japanese
@@ -4062,6 +4074,7 @@ titles:
   - title: Roza Rukusenburuku zenshu
     authors:
       - Róża Luksemburg
+    translators:
       - Osamu Nomura
     year: 1976
     language: Japanese
@@ -5222,6 +5235,8 @@ titles:
     authors:
       - Mitsukuni Tokugawa
       - Kyōji Ishii
+    editors:
+      - 恭二 石井
     year: 1979
     series: Zoku Nihon koten zenshū
     language: Japanese
@@ -5736,6 +5751,9 @@ titles:
   - title: Kojidan
     authors:
       - Akikane Minamoto
+    editors:
+      - Yasuharu Kobayashi
+      - 保治 小林
     year: 1981
     series: Koten bunko -- 60, 62
     language: Japanese
@@ -5934,6 +5952,9 @@ titles:
   - title: Sanbō ekotoba
     authors:
       - Tamenori Minamoto
+    editors:
+      - Takao Eguchi
+      - 孝夫 江口
     year: 1982
     series: Koten bunko
     language: Japanese
@@ -6781,9 +6802,11 @@ titles:
     verified: false
   - title: Nīche-ni-tsuite
     subtitle: Kōun-eno-ishi
+    original_title: Sur Nietzsche
     series: Mushingaku-taizen / G. Bataiyu
     authors:
       - Georges Bataille
+    translators:
       - Takeshi Sakai
     year: 1996
     language: Japanese

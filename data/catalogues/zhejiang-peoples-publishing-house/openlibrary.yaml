@@ -800,6 +800,8 @@ titles:
   - title: Lu Fangweng shi ci xuan
     authors:
       - You Lu
+    editors:
+      - Ji, Feng, pseud
     year: 1958
     language: Chinese
     pages: 223
@@ -1493,6 +1495,8 @@ titles:
   - title: Lu Xun shi ge ju
     authors:
       - Lu Xun
+    editors:
+      - Zhenfu Zhou
     year: 1969
     language: Chinese
     pages: 4202
@@ -4346,6 +4350,8 @@ titles:
   - title: Meng Liang lu
     authors:
       - Zimu Wu
+    editors:
+      - Yiping Pan
     year: 1980
     edition: Di 1 ban
     language: Chinese
@@ -4698,6 +4704,8 @@ titles:
     authors:
       - Bufan Dai
       - 不凡 戴
+    editors:
+      - Yaolin Liu
     year: 1980
     language: Chinese
     sources:
@@ -5996,6 +6004,8 @@ titles:
   - title: Xi Hu bi cong
     authors:
       - 陆鉴三
+    editors:
+      - Jiansan Lu
     year: 1981
     edition: Di 1 ban
     series: Xi Hu wen yi cong shu
@@ -6162,6 +6172,8 @@ titles:
   - title: Yu Qian quan zhuan
     authors:
       - Gaoliang Sun
+    editors:
+      - Daoming Su
     year: 1981
     edition: Di 1 ban
     language: Chinese
@@ -6945,8 +6957,10 @@ titles:
     verified: true
   - title: A er sha ke de mi mi
     subtitle: Bi yang..xiao shuo xuan
+    original_title: Povesti i prasskazy
     authors:
       - Vitalij V. Bianki
+    translators:
       - Nianju Chen
     year: 1982
     language: Chinese
@@ -7494,6 +7508,8 @@ titles:
     subtitle: Zhongguo xian shi zhu yi zuo jia Mao Dun
     authors:
       - Hiromi Matsui
+    translators:
+      - Peng Gao
     year: 1982
     edition: Di 1 ban
     language: Chinese
@@ -7593,6 +7609,7 @@ titles:
   - title: Ma er zi zhong duan pian xiao shuo xuan
     authors:
       - Albert Maltz
+    translators:
       - Mang Ye
     year: 1982
     language: Chinese
@@ -8686,6 +8703,8 @@ titles:
   - title: Zhongguo xian dai si xiang shi zi liao jian bian
     authors:
       - Shangsi Cai
+    editors:
+      - Weizheng Zhu
     year: 1982
     edition: Di 1 ban
     language: Chinese
@@ -9506,6 +9525,8 @@ titles:
   - title: Gu Han yu fu yin xu ci he gu ding jie gou
     authors:
       - Chengyu Hong
+    editors:
+      - Shoukang Zhang
     year: 1983
     edition: Di 1 ban
     language: Chinese
@@ -9662,6 +9683,8 @@ titles:
     authors:
       - Peng Zhu
       - 朱彭
+    editors:
+      - Yiping Pan
     year: 1983
     language: Chinese
     sources:
@@ -9918,6 +9941,8 @@ titles:
     authors:
       - Zi Zhu
       - Yuan Xu
+    editors:
+      - Changyan Leng
     year: 1983
     edition: Di 1 ban
     language: Chinese
@@ -11372,6 +11397,8 @@ titles:
   - title: Gu wen zi xue
     authors:
       - Liangfu Jiang
+    editors:
+      - Kunwu Jiang
     year: 1984
     edition: Di 1 ban
     language: Chinese
@@ -13493,6 +13520,8 @@ titles:
   - title: Zeng xiang quan tu San guo yan yi
     authors:
       - Luo Guanzhong
+    editors:
+      - Zonggang Mao
     year: 1985
     edition: Di 1 ban
     language: Chinese
@@ -14205,6 +14234,8 @@ titles:
   - title: 1949-1984 fa xue lun wen mu lu ji
     authors:
       - Zhaohong Tong
+    editors:
+      - Xuemei Lü
     year: 1986
     edition: Di 1 ban
     language: Chinese
@@ -14341,7 +14372,8 @@ titles:
     verified: true
   - title: Dang dai wen hua ren lei xue gai yao
     series: Xian dai she hui xue bi jiao yan jiu cong shu
-    authors:
+    authors: []
+    translators:
       - Bei Chen
     year: 1986
     language: Chinese
@@ -14811,6 +14843,8 @@ titles:
   - title: Qing ren wen ji di li lei hui bian
     authors:
       - Qixiang Tan
+    editors:
+      - 其骧 谭
     year: 1986
     edition: Di 1 ban
     language: Chinese
@@ -18151,6 +18185,7 @@ titles:
         url: https://archive.org/details/aiqingshigangbix0000unse
     verified: true
   - title: Dong fang min zu de si wei fang shi
+    original_title: 'Ways of thinking of Eastern peoples: India, China, Tibet, Japan. It was originally published in Japanese with title: Tōyōjin no shii hōhō'
     series: Shi jie wen hua cong shu
     authors:
       - Hajime Nakamura

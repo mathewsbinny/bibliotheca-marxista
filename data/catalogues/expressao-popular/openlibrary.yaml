@@ -233,6 +233,7 @@ titles:
   - title: Os mortos permanecem jovens
     authors:
       - Anna Seghers
+    translators:
       - Maria Werneck de Castro
     year: 2003
     language: Portuguese
@@ -310,6 +311,8 @@ titles:
   - title: 'Che Guevara: política'
     authors:
       - Che Guevara
+    editors:
+      - Eder Sader
     year: 2004
     language: Portuguese
     pages: 301
@@ -325,6 +328,7 @@ titles:
         url: https://search.worldcat.org/title/61694293
     verified: true
   - title: Em defesa de um mundo sustentável sem transgênicos
+    original_title: The case for a GM-free sustainable world
     authors:
       - Mae-Wan Ho
       - Joe Cummins
@@ -777,6 +781,8 @@ titles:
     subtitle: Relações e contradições entre urbano e rural
     authors:
       - Maria Encarnação Beltrão Sposito
+    editors:
+      - Arthur Magon Whitacker
     year: 2006
     edition: 1a. ed
     series: Geografia em movimento
@@ -1143,6 +1149,9 @@ titles:
     series: Geografia em movimento
     authors:
       - Bernardo Mançano Fernandes
+    editors:
+      - Marta Inez Medeiros Marques
+      - Júlio César Suzuki
     year: 2007
     language: Portuguese
     sources:
@@ -1416,6 +1425,9 @@ titles:
     subtitle: Sociedade e meio ambiente
     authors:
       - Encuentro de Geógrafos de América Latina (10th 2005 São Paulo, Brazil)
+    editors:
+      - Jurandyr Luciano Sanches Ross
+      - Ailton Luchiari
     year: 2008
     edition: 1a. ed
     series: Coleção Edição e distribuição cooperativa -- Série por uma geografia latino-americana
@@ -1715,6 +1727,8 @@ titles:
     authors:
       - João Pedro Stédile
       - Mónica Baltodano
+    editors:
+      - Mónica Baltodano M.
     year: 2008
     edition: 1. ed
     language: Portuguese
@@ -1997,7 +2011,8 @@ titles:
     verified: true
   - title: Rosa Luxemburgo
     subtitle: Textos escolhidos
-    authors:
+    authors: []
+    translators:
       - Isabel Loureiro
     year: 2009
     language: Portuguese
@@ -2824,8 +2839,10 @@ titles:
     verified: true
   - title: Plantas doentes pelo uso de agrotóxicos
     subtitle: 'Novas bases de uma prevenção contra doenças e parasitas: a teoria da trofobiose'
+    original_title: Les plantes malades des pesticides
     authors:
       - Francis Chaboussou
+    translators:
       - Maria Jóse Guazzelli
     year: 2012
     language: Portuguese
@@ -2883,6 +2900,7 @@ titles:
     verified: true
   - title: Amílcar Cabral e a crítica ao colonialismo
     subtitle: Entre harmonia e contradição
+    original_title: 'Tra armonia e contraddizione: dall''ideologia coloniale portoghese alla critica di Amílcar Cabral'
     authors:
       - Patrícia Villen
     year: 2013
@@ -3017,6 +3035,8 @@ titles:
   - title: MST, universidade e pesquisa
     authors:
       - Seminário Nacional "O MST e a Pesquisa" (3rd 2014 Guararema, São Paulo, Brazil)
+    editors:
+      - Paulo Alentejano
     year: 2014
     edition: 1a edição
     language: Portuguese
@@ -3058,6 +3078,7 @@ titles:
     verified: true
   - title: A memória biocultural
     subtitle: A importância ecológica das sabedorias tradicionais
+    original_title: La memória biocultural
     authors:
       - Víctor Manuel Toledo
       - Narciso Barrera-Bassols
@@ -3148,6 +3169,11 @@ titles:
     subtitle: (Seleção)
     authors:
       - Lima Barreto
+    editors:
+      - Cláudia de Arruda Campos
+      - Enid Yatsuda Frederico
+      - Walnice Nogueira Galvão
+      - Zenir Campos Reis
     year: 2016
     edition: 1a edição
     language: Portuguese
@@ -3239,6 +3265,7 @@ titles:
         url: https://search.worldcat.org/title/988601344
     verified: true
   - title: Neoliberalismo, neodesenvolvimentismo, socialismo
+    original_title: Neoliberalismo neodesarrollismo socialismo
     authors:
       - Claudio J. Katz
     year: 2016
@@ -3650,8 +3677,10 @@ titles:
     verified: true
   - title: Subimperialismo e dependência na América Latina
     subtitle: O pensamento de Ruy Mauro Marini
+    original_title: Dependencia y subimperialismo en America Latina
     authors:
       - Adrián Sotelo Valencia
+    translators:
       - Eduardo Perondi
     year: 2019
     language: Portuguese
@@ -3784,6 +3813,7 @@ titles:
     authors:
       - Friedrich Engels
       - Karl Marx
+    translators:
       - Lívia Cotrim
     year: 2020
     language: Portuguese
@@ -4006,6 +4036,9 @@ titles:
     subtitle: Antologia
     authors:
       - Luís Gama
+    editors:
+      - Enid Yatsuda Frederico
+      - Cláudia de Arruda Campos
     year: 2021
     edition: 1a edição
     language: Portuguese
@@ -4240,11 +4273,13 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1851381554
     verified: true
   - title: O capitalismo clandestino e a financeirização dos territórios e da natureza
+    original_title: Rogue capitalism and the financialization of territories and nature
     authors:
       - Philip Seufert
       - Roman Herre
       - Sofía Monsalve
       - Shamali Guttal
+    translators:
       - FIAN Brasil
     year: 2023
     language: Portuguese
@@ -4295,6 +4330,7 @@ titles:
     verified: true
   - title: Balas de Washington
     subtitle: Uma história da CIA, golpes e assassinatos
+    original_title: 'Capa de: Balas de Washington Balas de Washington: Historias de la CIA, intervención y golpes de Estado'
     authors:
       - Vijay Prashad
     year: 2024
@@ -4318,6 +4354,8 @@ titles:
   - title: Contribuições para a história do cristianismo primitivo
     authors:
       - Friedrich Engels
+    translators:
+      - Laura Lafargue
     year: 2024
     language: Portuguese
     pages: 72
@@ -4363,6 +4401,9 @@ titles:
   - title: 'Ruy Mauro Marini: “Dialética da dependência” e outros escritos'
     authors:
       - Ruy Mauro Marini
+    editors:
+      - João Pedro Stedile
+      - Roberta Traspadini
     year: 2024
     language: Portuguese
     pages: 360
@@ -4417,8 +4458,13 @@ titles:
     verified: true
   - title: Fundamentos da análise social
     subtitle: A realidade social e seu conhecimento
+    original_title: 'Fundamentos del análisis social : la realidad social y su conocimiento'
     authors:
       - Jaime Osorio
+    translators:
+      - Fabio Maldonado
+      - Eduardo Perondi
+      - Gabriel Oliveira de Carvalho Senra
     year: 2025
     language: Portuguese
     sources:
@@ -4443,6 +4489,7 @@ titles:
       - Ruy Mauro Marini
       - Rodrigo Castelo
       - Fernando Correa Prado
+    translators:
       - Elisabeth Zorgetz
     year: 2025
     language: Portuguese

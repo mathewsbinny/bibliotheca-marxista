@@ -41,6 +41,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991037912129708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Adolescencia, sexo y cultura en Samoa
+    original_title: Coming of age in Samoa
     series: Ediciones de Bolsillo. Ciencias Humanas. Antropología; 197
     authors:
       - Margaret Mead
@@ -200,6 +201,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991037912419708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El text lliure
+    original_title: El text lliure
     series: Col·lecció B.E.M. Biblioteca de l'Escola Moderna; v. 8
     authors:
       - Célestin Freinet
@@ -260,6 +262,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991057058249708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Hegel según Hegel
+    original_title: Hegel según Hegel
     series: Ediciones de Bolsillo. Ciencias Humanas. Filosofía; v. 228
     authors:
       - François Châtelet
@@ -414,6 +417,7 @@ titles:
     verified: true
     pages: 273
   - title: Las enfermedades escolares
+    original_title: Las enfermedades escolares
     series: Biblioteca de la Escuela Moderna; v. 5
     authors:
       - Célestin Freinet
@@ -426,6 +430,7 @@ titles:
     verified: true
   - title: Las invariantes pedagógicas
     subtitle: Guía práctica de la escuela moderna
+    original_title: Las invariantes pedagógicas
     series: Biblioteca de la Escuela Moderna; v. 2
     authors:
       - Célestin Freinet
@@ -439,6 +444,8 @@ titles:
     subtitle: Teoria y critica de la novela española
     authors:
       - Leopoldo Alas
+    editors:
+      - Sergio Beser
     year: 1972
     series: 'Ediciones de Bolsillo. Literatura: ensayo, 221'
     language: Spanish
@@ -803,6 +810,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991045250579708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Cosa de niños
+    original_title: Kindergeschichten
     series: Maby Dick. Biblioteca de Bolsillo Junior; v. 20
     authors:
       - Peter Bichsel
@@ -872,9 +880,11 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991045636799708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El coraje de existir
+    original_title: The courage to be
     series: Ediciones de Bolsillo; 286
     authors:
       - Paul Tillich
+    translators:
       - José Luis Lana
     year: 1973
     language: Spanish
@@ -893,6 +903,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991036514389708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El fichero escolar
+    original_title: Fichier scolaire documentaire
     series: Biblioteca de la Escuela Moderna; v. 15
     authors:
       - Roland Belperron
@@ -1007,6 +1018,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991034653549708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Els plans de treball
+    original_title: Els plans de treball
     series: Biblioteca de l'Escola Moderna; v. 13
     authors:
       - Célestin Freinet
@@ -1067,6 +1079,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991040536759708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Hegel según Hegel
+    original_title: Hegel según Hegel
     series: Ediciones de Bolsillo. Ciencias Humanas. Filosofía; v. 228
     authors:
       - François Châtelet
@@ -1077,6 +1090,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991033337179708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Historia social del movimiento obrero europeo
+    original_title: Sozialgeschichte der europäischen Arbeiterbewegung
     series: Ediciones de Bolsillo; v. 7
     authors:
       - Wolfgang Abendroth
@@ -1198,9 +1212,10 @@ titles:
   - title: La historia de las historias
     series: Moby Dick biblioteca de bolsillo junior; 41
     authors:
-      - Jaume Tió Casacuberta
       - Bardagí
       - Wassily Kandinsky
+    translators:
+      - Jaume Tió Casacuberta
     year: 1973
     language: Spanish
     sources:
@@ -1210,6 +1225,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991042131229708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La lectura en la escuela por medio de la imprenta
+    original_title: Lecture par l'imprimerie à l'école
     series: Biblioteca de la Escuela Moderna; v. 14
     authors:
       - Lucienne Balesse
@@ -1222,6 +1238,7 @@ titles:
     verified: true
   - title: La lógica de lo viviente
     subtitle: Una historia de la herencia
+    original_title: La logique du vivant
     series: Colección "Papel 451"; v. 21
     authors:
       - François Jacob
@@ -1264,6 +1281,7 @@ titles:
     verified: true
   - title: La sexualidad femenina
     subtitle: Nuevas aportaciones psicoanalíticas
+    original_title: La sexualité féminine
     series: Colección Papel 451; v. 13
     authors:
       - Janine Chasseguet-Smirgel
@@ -1356,8 +1374,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991082526399705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Los Anarquistas Espanoles
+    original_title: Anarchistes d'Espagne
     authors:
       - Jean Becarud
+    translators:
+      - Gerard Jacas
     year: 1973
     edition: 2a ed
     series: Ediciones de Bolsillo -- 120
@@ -1427,10 +1448,12 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991048046939708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Metodología de las ciencias sociales
+    original_title: Le vocabulaire des sciences sociales
     series: Papel 451; 15
     authors:
       - Raymond Boudon
       - Paul Felix Lazarsfeld
+    translators:
       - Jaume Melendres
     year: 1973
     language: Spanish
@@ -1455,6 +1478,7 @@ titles:
         url: https://search.worldcat.org/title/77217995
     verified: true
   - title: Mis universidades
+    original_title: Mis universidades
     series: Ediciones de Bolsillo; v. 299
     authors:
       - Máximo Gorki
@@ -1544,6 +1568,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991002570229708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Sobre la sexualidad
+    original_title: Encyclopédie de la vie sexuelle
     series: Ediciones de Bolsillo. Ciencias Humanas. Ensayo; v. 262
     authors:
       - Jacqueline Kahn-Nathan
@@ -1651,6 +1676,8 @@ titles:
     subtitle: 'Natural de Almudévar, hijo de mujer, ojos de vista clara y padre de la agudeza: sabia naturaleza su maestra'
     authors:
       - Braulio Foz
+    editors:
+      - Francisco Ynduráin
     year: 1973
     edition: 5. ed
     series: Ediciones de bolsillo; 247
@@ -2012,6 +2039,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991037911069708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El diario escolar
+    original_title: El diario escolar
     series: Biblioteca de la Escuela Moderna; v. 17
     authors:
       - Célestin Freinet
@@ -2168,6 +2196,8 @@ titles:
     series: Ediciones de Bolsillo; 100
     authors:
       - Bogdan Suchodolski
+    translators:
+      - Melitón Bustamante Ortiz
     year: 1974
     language: Spanish
     sources:
@@ -2179,8 +2209,11 @@ titles:
         url: https://search.worldcat.org/title/891252000
     verified: true
   - title: Garcia Lorca
+    original_title: García Lorca
     authors:
       - Edwin Honig
+    translators:
+      - Ignacio Arvizu Despujol
     year: 1974
     edition: 1. ed
     series: Ediciones de bolsillo -- 376
@@ -2263,6 +2296,7 @@ titles:
     verified: true
   - title: Guillem Tell
     subtitle: Una historia exemplar
+    original_title: Wilhelm Tell für die Schule
     series: Col·lecció el Nus Gordiá; v. 17
     authors:
       - Max Frisch
@@ -2286,9 +2320,11 @@ titles:
         url: https://d-nb.info/1028552246
     verified: true
   - title: 'Guillem Tell: una història exemplar'
+    original_title: Wilhelm Tell für die Schule
     series: El nus gordià; 17
     authors:
       - Max Frisch
+    translators:
       - Jaume Tió
     year: 1974
     language: Spanish
@@ -2510,6 +2546,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991001613799708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La orquesta roja
+    original_title: L'orchestre rouge
     series: Laia / Paperback; 3
     authors:
       - Gilles Perrault
@@ -2576,6 +2613,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991037909059708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Las palabras y la historia
+    original_title: Words from history
     authors:
       - Isaac Asimov
     year: 1974
@@ -2585,6 +2623,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991026663449708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Las palabras y los mitos
+    original_title: Words from the myths
     series: Ediciones de Bolsillo; v. 345
     authors:
       - Isaac Asimov
@@ -2746,6 +2785,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991037909369708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Obras
+    original_title: Oeuvres de Mounier
     authors:
       - Emmanuel Mounier
       - Alfonso Comín
@@ -3020,8 +3060,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991016913869705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: San Juan de la Cruz
+    original_title: St. John of the Cross
     authors:
       - Gerald Brenan
+    translators:
+      - Jaume Reig
     year: 1974
     language: Spanish
     pages: 207
@@ -3073,6 +3116,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991031983189708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Sobre la sexualidad
+    original_title: Encyclopédie de la vie sexuelle
     series: Ediciones de Bolsillo; v. 262
     authors:
       - Jacqueline Kahn-Nathan
@@ -3149,6 +3193,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991045174179708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: 25 peixos de mar
+    original_title: 24 poissons de mer
     series: BT Biblioteca de treball; 2
     authors:
       - G. Lambert
@@ -3182,6 +3227,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb351919553
     verified: true
   - title: Adolescencia, sexo y cultura en Samoa
+    original_title: Coming of age in Samoa
     series: Ediciones de Bolsillo Ciencias Humanas. Antropología; v. 197
     authors:
       - Margaret Mead
@@ -3387,10 +3433,12 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991057286459708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El estructuralismo como método
+    original_title: Le structuralisme
     series: Ediciones de bolsillo; 131
     authors:
       - Louis Millet
       - Madeleine Varin D'Ainvelle
+    translators:
       - Pere Vilanova
     year: 1975
     language: Spanish
@@ -3451,6 +3499,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991057299849708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El text lliure
+    original_title: El text lliure
     series: Col·leció Bem. Biblioteca de L'Escola Moderna; v. 8
     authors:
       - Célestin Freinet
@@ -3461,6 +3510,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991037912019708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El texto libre
+    original_title: El texto libre
     series: Biblioteca de la Escuela Moderna; v. 8
     authors:
       - Célestin Freinet
@@ -3548,6 +3598,7 @@ titles:
     series: Ediciones de Bolsillo; 351
     authors:
       - Louis Althusser
+    translators:
       - Albert Roies Qui
     year: 1975
     language: Spanish
@@ -3612,6 +3663,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991046146669708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Historia social del movimiento obrero europeo
+    original_title: Sozialgeschichte der europäischen Arbeiterbewegung
     series: Historia; 7
     authors:
       - Wolfgang Abendroth
@@ -3624,6 +3676,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991010881819708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Irlanda, qué en fas, dels teus fills?
+    original_title: Irisches Tagebuch
     series: 'Les eines; 14: Serie narrativa'
     authors:
       - Heinrich Böll
@@ -3752,6 +3805,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1113507845
     verified: true
   - title: La formació de la infància i de la joventut
+    original_title: La formació de la infància i de la joventut
     series: Biblioteca de l'Escola Moderna; v. 3
     authors:
       - Célestin Freinet
@@ -4679,6 +4733,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991033088569708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Des del futur
+    original_title: The edge of tomorrow
     series: 'Les Eines: Serie Narrativa; 16'
     authors:
       - Howard Fast
@@ -4984,6 +5039,7 @@ titles:
   - title: Fundamentos de pedagogía socialista
     authors:
       - Bogdan Suchodolski
+    translators:
       - Melitón Bustamante Ortiz
     year: 1976
     language: Spanish
@@ -5157,6 +5213,8 @@ titles:
   - title: La ciutat cremada
     authors:
       - Antoni Ribas
+    translators:
+      - Maria Antònia Oliver
     year: 1976
     edition: 1. ed
     series: Les Eines; 17
@@ -6143,9 +6201,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/000752374
     verified: true
   - title: Cristianos por el socialismo
+    original_title: Chrétiens pour le socialisme
     series: Ediciones de Bolsillo; 495
     authors:
       - Giulio Girardi
+    translators:
       - Lluís Riera
     year: 1977
     language: Spanish
@@ -6275,6 +6335,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991035165889708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El fichero escolar
+    original_title: Fichier scolaire documentaire
     series: Biblioteca de la Escuela Moderna; 15
     authors:
       - Roland Belperron
@@ -6382,6 +6443,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991057534249708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El petit príncep
+    original_title: Le petit prince
     authors:
       - Antoine de Saint-Exupéry
       - Joan Xancó
@@ -6757,6 +6819,7 @@ titles:
     subtitle: (De la filosofía del hombre y la civilización a los nuevos fundamentos pedagógicos de la época de las revoluciones)
     authors:
       - Bogdan Suchodolski
+    translators:
       - Melitón Bustamante Ortiz
     year: 1977
     language: Spanish
@@ -6955,6 +7018,7 @@ titles:
     verified: true
   - title: La fortaleza vacía
     subtitle: El autismo infantil y el nacimiento del si mismo
+    original_title: The empty fortress
     series: Papel 451; 11
     authors:
       - Bruno Bettelheim
@@ -6987,6 +7051,7 @@ titles:
     verified: true
   - title: La lógica de lo viviente
     subtitle: Una historia de la herencia
+    original_title: La logique du vivant
     series: 'Colección Papel 451; 21: Biologia'
     authors:
       - François Jacob
@@ -7127,6 +7192,7 @@ titles:
     verified: true
   - title: La reproducción
     subtitle: Elementos para una reoria del sistema de enseñanza
+    original_title: La reproduction
     series: Papel 451; 39
     authors:
       - Pierre Bourdieu
@@ -7150,6 +7216,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991037911849708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La sexualidad femenina
+    original_title: La sexualité féminine
     series: 'Ediciones de Bolsillo; 507: Ciencias humanas: Psiquiatria'
     authors:
       - Janine Chasseguet-Smirgel
@@ -7316,10 +7383,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=223838152
     verified: true
   - title: Los anarquistas españoles
+    original_title: Anarchistes en Espagne
     series: Ediciones de bolsillo; 120
     authors:
       - Jean Bécarud
       - Gilles Lapouge
+    translators:
       - Gerard Jacas
     year: 1977
     language: Spanish
@@ -7450,10 +7519,12 @@ titles:
         url: https://search.worldcat.org/title/4084541
     verified: true
   - title: Metodología de las ciencias sociales
+    original_title: L'analyse empirique de la causalité
     series: Papel 451; 24
     authors:
       - Raymond Boudon
       - Paul Felix Lazarsfeld
+    translators:
       - Jaume Melendres
     year: 1977
     language: Spanish
@@ -7914,6 +7985,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991055667259708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Teoria marxista de las sociedades precapitalistas
+    original_title: Sur les sociétés précapitalistes
     series: Ediciones de Bolsillo. 135
     authors:
       - Maurice Godelier
@@ -8248,6 +8320,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991058366019708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Diario de la CIA
+    original_title: Inside the company, CIA diary
     series: Laia paperback; 37
     authors:
       - Philip Agee
@@ -8340,6 +8413,9 @@ titles:
     subtitle: Barcelona, Valencia, Madrid y París, en julio de 1937
     authors:
       - Congrès international des écrivains pour la défense de la culture
+    editors:
+      - Luis Mario Schneider
+      - Manuel Aznar Soler
     year: 1978
     language: Spanish
     sources:
@@ -8372,6 +8448,7 @@ titles:
         url: https://lccn.loc.gov/78384513
     verified: true
   - title: El método natural de lectura
+    original_title: El método natural de lectura
     series: Biblioteca de la escuela moderna; 19
     authors:
       - Célestin Freinet
@@ -8383,9 +8460,11 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991010122149708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El silencio del mar
+    original_title: Le silence de la mer et autres récits
     series: 'Ediciones de bolsillo; 533: Literatura: Narrativa'
     authors:
       - Vercors
+    translators:
       - Cristina Peri Rossi
     year: 1978
     language: Spanish
@@ -8515,6 +8594,8 @@ titles:
     series: Laia B. Historia; 21
     authors:
       - Manuel Aznar Soler
+    editors:
+      - Luis Mario Schneider
     year: 1978
     language: Spanish
     sources:
@@ -8926,6 +9007,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991017042639705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Las enfermedades escolares
+    original_title: Las enfermedades escolares
     series: Biblioteca de la escuela moderna; 5
     authors:
       - Célestin Freinet
@@ -9225,6 +9307,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991011408279708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Sobre la sexualidad
+    original_title: Encyclopédie de la vie sexuelle
     series: Ediciones de Bolsillo; 262
     authors:
       - Jacqueline Kahn-Nathan
@@ -9344,6 +9427,8 @@ titles:
     subtitle: Discursos, entrevistas y artículos
     authors:
       - Zelmar Michelini
+    editors:
+      - Mario Jaunarena
     year: 1978
     edition: 1. ed
     series: Laia paperback; 39
@@ -9432,6 +9517,8 @@ titles:
   - title: Aproximación a la historia de Andalucía
     authors:
       - Juan Antonio Lacomba
+    editors:
+      - Juan Antonio Lacomba Abellán
     year: 1979
     edition: 1. ed
     series: 'Laia B; 30: Historia'
@@ -9496,8 +9583,9 @@ titles:
     subtitle: 26 cuentos infantiles
     authors:
       - Günter Herburger
-      - Víctor Canicio
       - Daniel Herburger
+    translators:
+      - Víctor Canicio
     year: 1979
     language: Spanish
     sources:
@@ -9509,6 +9597,7 @@ titles:
         url: https://d-nb.info/1047454939
     verified: true
   - title: Benvinguda al Consell d'administració
+    original_title: Begrüßung des Aufsichtsrates
     series: Les eines; 54
     authors:
       - Peter Handke
@@ -9663,9 +9752,11 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991010874529708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Diario irlandés
+    original_title: Irisches Tagebuch
     series: Laia literaria; 1
     authors:
       - Heinrich Böll
+    translators:
       - Víctor Canicio
     year: 1979
     language: Spanish
@@ -9736,6 +9827,8 @@ titles:
     subtitle: 'I: Joan Maragall, Guerau de Liost, Carner, Foix, Riba, Salvat-Papasseit, Pere Quart, Bartra, M. Torres, Vinyoli, Brossa, Andres Estelles, Tria de Miquel Desclot'
     authors:
       - Joan Maragall
+    editors:
+      - Miquel Desclot
     year: 1979
     series: Les Eines de Butxaca -- no. 2
     language: Catalan
@@ -10059,6 +10152,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991037910909708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Els plans de treball
+    original_title: Els plans de treball
     series: Biblioteca de l'escola moderna; 13
     authors:
       - Célestin Freinet
@@ -10070,6 +10164,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991037911809708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Escritos de pediatría y psicoanálisis
+    original_title: Collected papers
     series: 'Papel 451; 48: Psiquiatría'
     authors:
       - D. W. Winnicott
@@ -10094,6 +10189,7 @@ titles:
     subtitle: Una historia ejemplar
     authors:
       - Max Frisch
+    translators:
       - Laura Berenguer
     year: 1979
     language: German
@@ -10102,9 +10198,11 @@ titles:
         url: https://d-nb.info/1028552602
     verified: true
   - title: Guillermo Tell, una historia ejemplar
+    original_title: Wilhelm Tell für die Schule
     series: Laia/paperback; 43
     authors:
       - Max Frisch
+    translators:
       - Laura Berenguer
     year: 1979
     language: Spanish
@@ -10171,6 +10269,8 @@ titles:
       - Manuel Aznar Soler
       - Luis-Mario Schneider
       - Congreso internacional de escritores antifascistas
+    editors:
+      - Luis Mario Schneider
     year: 1979
     language: Spanish
     sources:
@@ -10261,6 +10361,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991037911269708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: L'etern Adam
+    original_title: L'éternel Adam
     series: El nus; 24
     authors:
       - Jules Verne
@@ -10452,6 +10553,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991037908989708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La lectura en la escuela por medio de la imprenta
+    original_title: Lecture par l'imprimerie à l'école
     series: Biblioteca de la Escuela moderna; 14
     authors:
       - Lucienne Balesse
@@ -10613,6 +10715,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991037909239708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Las palabras y los mitos
+    original_title: Words from the myths
     series: Ediciones de Bolsillo; 345
     authors:
       - Isaac Asimov
@@ -10776,6 +10879,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991036537499708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Metodología de las ciencias sociales
+    original_title: L' analyse empirique de la causalité
     series: 'Sociología: Papel 451; 15 y 25'
     authors:
       - Raymond Boudon
@@ -10802,6 +10906,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991038743939708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Modernizar la escuela
+    original_title: Modernizar la escuela
     series: Biblioteca de la escuela moderna; 1
     authors:
       - Célestin Freinet
@@ -11606,6 +11711,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000130715
     verified: true
   - title: El petit princep
+    original_title: Le petit prince
     authors:
       - Antoine de Saint-Exupéry
       - Joan Xancó
@@ -11665,6 +11771,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991011407759708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Elidor
+    original_title: Elidor
     series: El nus; 12
     authors:
       - Alan Garner
@@ -11744,6 +11851,7 @@ titles:
     series: Laia B; 100
     authors:
       - Bogdan Suchodolski
+    translators:
       - Melitón Bustamante Ortiz
     year: 1980
     language: Spanish
@@ -11848,10 +11956,12 @@ titles:
     verified: true
   - title: Juan Pablo Wojtyla
     subtitle: (Crónica insólita de un Papa)
+    original_title: Juan Pablo Wojtyla
     series: 'Laia Paperback; 51: Documento'
     authors:
       - Stéfano De Andreis
       - Marcella Leone
+    translators:
       - Marta Vassallo
     year: 1980
     language: Spanish
@@ -12300,6 +12410,8 @@ titles:
   - title: Mi voz comprometida (1936-1939)
     authors:
       - Juan Gil-Albert
+    editors:
+      - Manuel Aznar Soler
     year: 1980
     edition: 1. ed
     series: Laia literatura
@@ -12599,6 +12711,7 @@ titles:
     verified: true
   - title: San Juan de la Cruz
     subtitle: Biografia
+    original_title: St. John of the Cross
     series: Laia; 13
     authors:
       - Gerald Brenan
@@ -12885,6 +12998,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991057520289708606&vid=34BNE_INST:CATALOGO
     verified: true
     subtitle: Critó; Eutifrò; Protágores
+    original_title: Apología de Sócrates
   - title: Apologia de Sòcrates; Critó; Eutifró; Protàgores
     authors:
       - Plato
@@ -12943,6 +13057,7 @@ titles:
     verified: true
   - title: Breviloqui sobre el principat tirànic damunt les coses divines i humanes
     subtitle: I en especial damunt els súbdit de l'imperi usurpat pels anomenats suprems pontífexs
+    original_title: Breviloquium de principatu tyrannico super divina et humana
     series: Textos filosòfics; 5
     authors:
       - William of Ockham
@@ -13109,6 +13224,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991047119559708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Diario irlandés
+    original_title: Irisches Tagebuch
     series: Laia Literaria; 1
     authors:
       - Heinrich Böll
@@ -13198,6 +13314,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991024692699708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El bitllet d'un milió de lliures
+    original_title: The £ 1,000,000 bank-note
     series: El nus; 33
     authors:
       - Mark Twain
@@ -13256,6 +13373,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991037908819708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El fichero escolar
+    original_title: Fichier scolaire documentaire
     series: Biblioteca de la Escuela Moderna; 15
     authors:
       - Roland Belperron
@@ -13330,6 +13448,7 @@ titles:
   - title: El peso del mundo
     authors:
       - Peter Handke
+    translators:
       - Víctor Canicio
     year: 1981
     language: German
@@ -13338,6 +13457,7 @@ titles:
         url: https://d-nb.info/103153654X
     verified: true
   - title: El petit príncep
+    original_title: Le petit prince
     series: El Nus; 35
     authors:
       - Antoine de Saint-Exupéry
@@ -13828,6 +13948,7 @@ titles:
     verified: true
   - title: La fortaleza vacía
     subtitle: El autismo infantil y el nacimiento del sí mismo
+    original_title: The empty fortress
     series: 'Papel 451; 11: Psiquiatría'
     authors:
       - Bruno Bettelheim
@@ -13840,6 +13961,7 @@ titles:
     verified: true
   - title: La reproducción
     subtitle: Elementos para una teoría de enseñanza
+    original_title: La reproduction
     series: Papel 451; 39
     authors:
       - Pierre Bourdieu
@@ -13864,6 +13986,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991029747149708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Las palabras y la historia
+    original_title: Words from history
     authors:
       - Isaac Asimov
     year: 1981
@@ -13879,6 +14002,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991026663479708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Las palabras y los mitos
+    original_title: Words from the myths
     series: Laia B; 19
     authors:
       - Isaac Asimov
@@ -13893,8 +14017,9 @@ titles:
     series: La Barca; 4
     authors:
       - Günter Herburger
-      - Jordi Moners i Sinyol
       - Daniel Herburger
+    translators:
+      - Jordi Moners i Sinyol
     year: 1981
     language: Catalan
     sources:
@@ -13981,9 +14106,11 @@ titles:
     verified: true
   - title: Max Weber
     subtitle: Sociedad, política e historia
+    original_title: 'Max Weber : Gesellschaft, Politik und Geschichte'
     series: Estudios alemanes
     authors:
       - Wolfgang J. Mommsen
+    translators:
       - Ernesto Garzón Valdés
     year: 1981
     language: Spanish
@@ -14141,11 +14268,13 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991037910389708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Psicologia
+    original_title: De anima
     series: Textos filosòfics; 4
     authors:
       - Aristoteles
-      - Joan Leita i Graell
       - Eusebio Colomer
+    translators:
+      - Joan Leita i Graell
     year: 1981
     language: Catalan
     sources:
@@ -14237,6 +14366,8 @@ titles:
   - title: Teatro
     authors:
       - Rafael Dieste
+    editors:
+      - Manuel Aznar Soler
     year: 1981
     edition: 1a ed
     series: Literatura. Teatro
@@ -14488,11 +14619,14 @@ titles:
         url: https://openlibrary.org/books/OL20488787M
     verified: true
   - title: Apología de Ramón Sibiuda
+    original_title: Apologie de Raimond Sebond
     series: Textos filosòfics; 6
     authors:
       - Michel de Montaigne
       - Jaume Casals Pons
       - Pere Lluís Font
+    translators:
+      - Jaume Casals
     year: 1982
     language: Catalan
     sources:
@@ -14515,6 +14649,7 @@ titles:
     verified: true
   - title: Apologia de Sócrates
     subtitle: Critó; Eutifró; Protágores
+    original_title: Apología de Sócrates
     series: Col·lecció Textos filosòfics; 2
     authors:
       - Platón
@@ -14714,6 +14849,9 @@ titles:
   - title: Costums i tradicions catalanes
     authors:
       - Aureli Capmany
+    editors:
+      - Maria Aurèlia Capmany
+      - Bienve Moya
     year: 1982
     language: Catalan
     pages: 158
@@ -14729,9 +14867,11 @@ titles:
     verified: true
   - title: Cuando los niños hacen la escuela
     subtitle: 'Insieme: un diario de clase'
+    original_title: Insieme
     series: Cuadernos de Pedagogía; 13
     authors:
       - Mario Lodi
+    translators:
       - Miquel Adrover
     year: 1982
     language: Spanish
@@ -14783,6 +14923,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991034834699705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Diàlegs amb Leucó
+    original_title: Dialoghi con Leucò
     series: Les eines; 76
     authors:
       - Cesare Pavese
@@ -14806,11 +14947,13 @@ titles:
     verified: true
   - title: Discurs sobre l'esperit positiu
     subtitle: Precedit de les dues primeres lliçons del curs de filosofia positiva
+    original_title: Cours de philosophie positive. Discourse préliminaire sur l'esprit positif
     series: Textos filosófics; 8
     authors:
       - Auguste Comte
-      - Jaume Melendres
       - Joan Rovira
+    translators:
+      - Jaume Melendres
     year: 1982
     language: Catalan
     sources:
@@ -15101,9 +15244,11 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991015240279708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Filosofía pragmática
+    original_title: Pragmatische Philosophie
     series: Estudios alemanes
     authors:
       - Hans Lenk
+    translators:
       - Ernesto Garzón Valdés
     year: 1982
     language: Spanish
@@ -15115,6 +15260,7 @@ titles:
     verified: true
   - title: Fonología general
     subtitle: Revisión critica de las nuevas corrientes fonológicas
+    original_title: Fonología general
     authors:
       - Žarko Muljačić
     year: 1982
@@ -15219,8 +15365,11 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991006666879708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Introducción al estudio de la novela
+    original_title: Introduction to the study of the novel
     authors:
       - Jacques Souvage
+    translators:
+      - Alejandro Pérez Vidal
     year: 1982
     edition: 1a. ed
     series: Colección Papel 451 -- 53
@@ -15237,11 +15386,13 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991051916059708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Investigació sobre l'enteniment humà
+    original_title: An enquiry concerning human understanding
     series: Textos filosòfics; 16
     authors:
       - David Hume
-      - Josep Maria Sala Valldaura
       - Victoria Camps
+    translators:
+      - Josep Maria Sala Valldaura
     year: 1982
     language: Catalan
     sources:
@@ -15304,6 +15455,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991145170539705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: L'etern Adam
+    original_title: L'éternel Adam
     series: El nus; 24
     authors:
       - Jules Verne
@@ -15444,6 +15596,7 @@ titles:
     verified: true
   - title: La miseria de la teología
     subtitle: Polémica crítica con Hans Küng
+    original_title: Das Elend der Theologie
     authors:
       - Hans Albert
       - Ernesto Garzón Valdés
@@ -15454,6 +15607,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991020840899708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La piscina de los ahogados
+    original_title: The drowning pool
     series: Colección Los Extraordinarios
     authors:
       - Ross Macdonald
@@ -15516,9 +15670,11 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991011662559708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La vivales
+    original_title: La luronne
     series: Laia Literatura; 30
     authors:
       - Charlotte Wagner
+    translators:
       - Víctor Mora
     year: 1982
     language: Spanish
@@ -15758,6 +15914,8 @@ titles:
   - title: Poeta en La Habana
     authors:
       - Roberto Fernández Retamar
+    editors:
+      - José María Valverde
     year: 1982
     edition: 1a ed
     series: Laia/literatura
@@ -15783,8 +15941,9 @@ titles:
   - title: Por Polonia
     subtitle: Entre la renovación política y el desmoronamiento del Estado
     authors:
-      - Josep M. Colomer
       - Pere Vilanova
+    translators:
+      - Josep M. Colomer
     year: 1982
     language: Spanish
     sources:
@@ -15813,8 +15972,9 @@ titles:
     series: Textos filosófics; 15
     authors:
       - George Edward Moore
-      - Núria Roig
       - Joaquim Clotet
+    translators:
+      - Núria Roig
     year: 1982
     language: Catalan
     sources:
@@ -15891,9 +16051,11 @@ titles:
         url: https://search.worldcat.org/title/9658468
     verified: true
   - title: Soliloquis
+    original_title: Soliloques
     series: Textos filosoficos; 10
     authors:
       - Augustin
+    translators:
       - Joan Pegueroles
     year: 1982
     language: Catalan
@@ -16080,6 +16242,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/006681819
     verified: true
   - title: Bienvenida al Consejo de Administración
+    original_title: Begrüßung des Aufsichtsrates
     authors:
       - Peter Handke
     year: 1983
@@ -16105,9 +16268,11 @@ titles:
         url: https://search.worldcat.org/title/11417374
     verified: true
   - title: Cartes sobre l'educació estètica de l'home
+    original_title: Über die ästhetische Erziehung des Menschen in einer Reihe von Briefen
     series: Textos filosófics; 22
     authors:
       - Friedrich Schiller
+    translators:
       - Jordi Llovet
     year: 1983
     language: Catalan
@@ -16118,6 +16283,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991011808389708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Consideraciones acerca del pecado, el dolor, la esperanza y el camino verdadero
+    original_title: Consideraciones acerca del pecado, el dolor, la esperanza y el camino verdadero
     series: Laia literatura
     authors:
       - Franz Kafka
@@ -16131,6 +16297,7 @@ titles:
   - title: Consideraciones acerca del pecado, el dolor, la esperanza y el damino verdadero
     authors:
       - Franz Kafka
+    translators:
       - Adrián Neuss
     year: 1983
     language: German
@@ -16208,6 +16375,7 @@ titles:
     authors:
       - Jean-Jacques Rousseau
       - Christian Delacampagne
+    translators:
       - Josep Maria Sala Valldaura
     year: 1983
     language: Catalan
@@ -16257,6 +16425,7 @@ titles:
         url: https://search.worldcat.org/title/10125582
     verified: true
   - title: El blanco móvil
+    original_title: The moving target
     series: Colección Los Extraordinarios
     authors:
       - Ross Macdonald
@@ -16394,10 +16563,13 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991088426349705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Encara una filosofia de la història
+    original_title: Auch eine Philosophie der Geschichte zur Bildung der Menschheit
     series: Textos filosòfics; 19
     authors:
       - Johann Gottfried von Herder
       - Louis Sala-Molins
+    translators:
+      - Joan Leita
     year: 1983
     language: Catalan
     sources:
@@ -16409,12 +16581,14 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991000816639708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Enquiridió
+    original_title: Enquiridión
     series: Textos filosòfics; 27
     authors:
       - Épictète
-      - Joan Leita
       - José Montserrat Torrents
       - Marc Aurèle
+    translators:
+      - Joan Leita
     year: 1983
     language: Catalan
     sources:
@@ -16603,6 +16777,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000408029
     verified: true
   - title: Investigacions filosòfiques
+    original_title: Philosophische Untersuchungen
     series: Col·lecció Textos filosòfics; 26
     authors:
       - Ludwig Wittgenstein
@@ -16623,6 +16798,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991014301369708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Joan Salvador Gavina
+    original_title: Jonathan Livingston Seagull
     series: El Nus; 36
     authors:
       - Richard Bach
@@ -16673,6 +16849,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991055639899708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: L'home màquina
+    original_title: Homme-machine
     series: Textos filosófics; 17
     authors:
       - Julien Offray de La Mettrie
@@ -16790,6 +16967,7 @@ titles:
     series: Laia Literatura
     authors:
       - Nicolas Born
+    translators:
       - Isabel García Wetzler
     year: 1983
     language: Spanish
@@ -16816,6 +16994,8 @@ titles:
     authors:
       - Montserrat Moreno
       - del Imipae Equipo
+    editors:
+      - Montserrat Moreno Marimón
     year: 1983
     series: Cuadernos de pedagogía
     language: Spanish
@@ -16880,6 +17060,8 @@ titles:
   - title: La Venus mecánica
     authors:
       - José Díaz Fernández
+    editors:
+      - José Manuel López de Abiada
     year: 1983
     edition: 1. ed
     series: Laia/literatura
@@ -16968,8 +17150,11 @@ titles:
     verified: true
   - title: Memòries d'Adrià
     subtitle: Seguit de Quadern de notes de les "Memòries d'Adrià"
+    original_title: Mémoires d'Hadrien
     authors:
       - Marguerite Yourcenar
+    translators:
+      - Jaume Creus
     year: 1983
     edition: 1a ed
     series: Col·lecció El Mirall
@@ -17026,6 +17211,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991064220329705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Negra y consentida
+    original_title: Negra i consentida
     series: Colecció el Mirall
     authors:
       - Ofèlia Dracs
@@ -17212,6 +17398,7 @@ titles:
     series: Laia literatura
     authors:
       - Gerald Brenan
+    translators:
       - Jaume Reig
     year: 1983
     language: Spanish
@@ -17222,6 +17409,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=040238288
     verified: true
     subtitle: Biografía
+    original_title: 'St John of the Cross : his life and poetry'
   - title: Septem coquiorum convivium
     subtitle: El banquete de los siete cocineros
     authors:
@@ -17256,6 +17444,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991007288789708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Sic transit Gloria Swanson
+    original_title: Sic transit Gloria Swanson
     series: Laia literatura
     authors:
       - Emili Teixidor
@@ -17378,6 +17567,8 @@ titles:
   - title: Testimonios y homenajes
     authors:
       - Rafael Dieste
+    editors:
+      - Manuel Aznar Soler
     year: 1983
     edition: 1a ed
     series: Laia B
@@ -17536,6 +17727,7 @@ titles:
     verified: true
     subtitle: Conversa
   - title: Benvinguda al Consell d'administració
+    original_title: Begrüßung des Aufsichtsrates
     authors:
       - Peter Handke
       - Feliu Formosa
@@ -17887,6 +18079,7 @@ titles:
     verified: true
   - title: El peso del mundo
     subtitle: Un diario (noviembre 1975-marzo 1977)
+    original_title: Das Gewicht der Welt
     series: Laia literatura
     authors:
       - Peter Handke
@@ -17966,6 +18159,7 @@ titles:
         url: https://search.worldcat.org/title/12008983
     verified: true
   - title: El texto libre
+    original_title: El texto libre
     series: Biblioteca de la escuela moderna
     authors:
       - Célestin Freinet
@@ -17976,9 +18170,12 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991014574459708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El venedor ambulant
+    original_title: Der Hausierer
     series: Col·lecció El Mirall
     authors:
       - Peter Handke
+    translators:
+      - Joan Leita
     year: 1984
     language: Catalan
     sources:
@@ -18079,10 +18276,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=340035072
     verified: true
   - title: Esbós d'un quadre històric dels progressos de l'esperit humà
+    original_title: Esquisse d'un tableau historique des progrès de l'esprit humain
     series: Textos filosòfics; 31
     authors:
       - Jean-Antoine-Nicolas de Caritat Condorcet
       - Arnau Puig
+    translators:
       - Josep Ibañez Olivares
     year: 1984
     language: Catalan
@@ -18121,10 +18320,13 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991011833209708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Fonamentació de la metafísica dels costums
+    original_title: Grundlegung zur Metaphysik der Sitten
     series: Textos filosofics; 33
     authors:
       - Immanuel Kant
       - Pere Lluís Font
+    translators:
+      - Joan Leita
     year: 1984
     language: Catalan
     sources:
@@ -18249,6 +18451,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991069762019705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Joan Salvador Gavina
+    original_title: Jonathan Livingston Seagull
     series: El Nus; 36
     authors:
       - Richard Bach
@@ -18553,6 +18756,8 @@ titles:
   - title: La revolta del terrat i altres contes
     authors:
       - Pere Calders
+    editors:
+      - Miquel Desclot
     year: 1984
     edition: 1a ed
     series: Les Eines de butxaca
@@ -18604,6 +18809,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991018610679708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Le temps, aquest gran escultor
+    original_title: Le temps, ce grand sculpteur
     authors:
       - Marguerite Yourcenar
       - Avel·lí Artís-Gener
@@ -18775,6 +18981,7 @@ titles:
     verified: true
   - title: Memòries d'Adrià
     subtitle: Seguit de Quadern de notes de les "Memories d'Adrià"
+    original_title: Mémoires d'Hadrien
     series: El Mirall i el temps
     authors:
       - Marguerite Yourcenar
@@ -18786,6 +18993,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991011931019708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Merodeando con aviesa intención
+    original_title: Loitering with intent
     series: Laia literatura
     authors:
       - Muriel Spark
@@ -18974,6 +19182,7 @@ titles:
     verified: true
     subtitle: Conversa
   - title: Sherlock Holmes i el seu exèrcit d'irregulars
+    original_title: Case of the Baker Street irregular
     series: El nus; 39
     authors:
       - Robert Newman
@@ -19058,6 +19267,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991014645689708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Un viaje inútil o De la política como educación sentimental
+    original_title: Un viaggio inutile
     authors:
       - Rossana Rossanda
     year: 1984
@@ -19180,6 +19390,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000387250
     verified: true
   - title: Antología
+    original_title: Antología
     series: Laia literatura
     authors:
       - Fernando Pessoa
@@ -19555,6 +19766,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991059766859705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: El único problema
+    original_title: The only problem
     series: Laia literatura
     authors:
       - Muriel Spark
@@ -19645,10 +19857,12 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991030848909705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Fenomenologia de l'esperit
+    original_title: Phänomenologie des Geistes
     series: Textos filosofics; 35
     authors:
       - Georg Wilhelm Friedrich Hegel
       - Ramon Valls i Plana
+    translators:
       - Joan Leita
     year: 1985
     language: Catalan
@@ -19694,6 +19908,7 @@ titles:
     verified: true
     subtitle: Finalista del premi joaquim Ruyra 1984
   - title: Guía de la Biblia
+    original_title: Asimov's guide to the bible
     authors:
       - Isaac Asimov
     year: 1985
@@ -19853,9 +20068,13 @@ titles:
     verified: true
     subtitle: Conversa
   - title: L'Arc utopia-matèria i altres escrits
+    original_title: Der Bogen Utopie-Materie
     series: Textos filosòfics; 37
     authors:
       - Ernst Bloch
+    editors:
+      - Josep M. Udina i Cobo
+    translators:
       - Josep Udina i Cobo
     year: 1985
     language: Catalan
@@ -19880,6 +20099,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991002743219708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: L'Únic i la seva propietat
+    original_title: Der Einzige und sein Eigentum
     series: Textos filosófics; 38
     authors:
       - Max Stirner
@@ -20039,10 +20259,12 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991012024689708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La Lògica de la investigació científica
+    original_title: Logik der Forschung
     series: Textos filosóficos; 36
     authors:
       - Karl Raimund Popper
       - Magí Cadevall i Soler
+    translators:
       - Ronald Puppo
     year: 1985
     language: Catalan
@@ -20133,6 +20355,8 @@ titles:
     series: El Mirall i el temps
     authors:
       - Elias Canetti
+    translators:
+      - Marisa Presas
     year: 1985
     language: French
     sources:
@@ -20271,6 +20495,7 @@ titles:
     subtitle: Conversa
   - title: Margaret Mead
     subtitle: El pensamiento de una época
+    original_title: Margaret Mead, a voice for the century
     authors:
       - Robert Cassidy
     year: 1985
@@ -20281,6 +20506,7 @@ titles:
     verified: true
   - title: Memòries d'Ádrià
     subtitle: Seguit de Quadern de notes de les "Memòires d'Ádrià"
+    original_title: Mémoires d'Hadrien
     series: El Mirall i el temps
     authors:
       - Marguerite Yourcenar
@@ -20459,6 +20685,9 @@ titles:
   - title: 'Porque nunca se sabe: una indagacíon crítica de los espacios, tiempos y actitudes del poder a través de las respuestas de F. Châtelet, F. Savater, N. Chomsky, E. Subirats... [et al.]; [compilación] J. A. González Sainz, Ignacio de Llorens [y traducciones de] Carlos-Peregrín Otero [y] J. A. González Sainz'
     authors:
       - François Châtelet
+    editors:
+      - Ignacio de Llorens
+      - José Ángel González Sainz
     year: 1985
     language: Spanish
     sources:
@@ -20517,6 +20746,7 @@ titles:
     isbn: '8472221776'
     edition: 1a ed
   - title: Raimon, la alquimia de la locura
+    original_title: Raimon o el seny fantàstic
     series: Laia
     authors:
       - Luis Racionero
@@ -20565,6 +20795,7 @@ titles:
     verified: true
   - title: Retòrica
     subtitle: Poètica
+    original_title: Retórica
     authors:
       - Aristòtil
     year: 1985
@@ -20762,6 +20993,7 @@ titles:
         url: https://openlibrary.org/books/OL24728847M
     verified: true
   - title: Camins que no duen enlloc
+    original_title: Those who walk away
     authors:
       - Patricia Highsmith
       - Carme Geronès
@@ -20863,6 +21095,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991013340439708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: De la guia dels perplexos i altres escrits
+    original_title: Dalālat al-ḥā'irīn
     series: Textos filosòfics; 41
     authors:
       - Maimónides
@@ -20880,9 +21113,13 @@ titles:
     pages: 346
     isbn: '8476680457'
   - title: De la natura
+    original_title: De la nature
     series: Textos filosofics; 40
     authors:
       - Lucrèce
+    editors:
+      - Miguel Dolç
+    translators:
       - Miquel Dolç
     year: 1986
     language: Spanish
@@ -20916,9 +21153,11 @@ titles:
     verified: true
   - title: De lo tuyo a lo mioara
     subtitle: 32 cuentos con final casi feliz
+    original_title: De teves a meves
     series: Laia literatura
     authors:
       - Pere Calders
+    translators:
       - Basilio Losada
     year: 1986
     language: Spanish
@@ -20961,6 +21200,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991001167739708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Des del futur
+    original_title: The edge of tomorrow
     series: El Nus; 56
     authors:
       - Howard Fast
@@ -21122,6 +21362,7 @@ titles:
     series: El mirall i el temps
     authors:
       - Claude Simon
+    translators:
       - Jaume Fuster
     year: 1986
     language: French
@@ -21322,6 +21563,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991013942349708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Gatos muy distinguidos
+    original_title: Particularly cats
     series: Laia literatura
     authors:
       - Doris May Lessing
@@ -21336,6 +21578,7 @@ titles:
     subtitle: Ensayos y conferencias; tr. alem. Jorge M. Seña
     authors:
       - Günther Patzig
+    translators:
       - Jorge M. Seña
     year: 1986
     language: Spanish
@@ -21498,6 +21741,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991006501379708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Kernok, el pirata
+    original_title: Kernok, le pirate
     series: El Nus; 57
     authors:
       - Eugène Sue
@@ -21529,6 +21773,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991018652079708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: L'erotisme
+    original_title: L'erotismo
     authors:
       - Francesco Alberoni
     year: 1986
@@ -21559,9 +21804,11 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991051428269708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: L'Home revoltat
+    original_title: L'homme révolté
     series: L'Entrellat
     authors:
       - Albert Camus
+    translators:
       - Joan Fuster
       - Josep Palàcios
     year: 1986
@@ -21585,6 +21832,7 @@ titles:
     verified: true
   - title: La animación de grupos
     subtitle: De tiempo libre y de vacaciones
+    original_title: L'animació de grups d'esplai i de vacances
     series: Cuadernos de pedagogía; 23. Serie Pedagogía
     authors:
       - Joaquim Franch
@@ -21791,6 +22039,7 @@ titles:
     series: Papel 451; 69
     authors:
       - Henri Laborit
+    translators:
       - Ramir Gual
     year: 1986
     language: Spanish
@@ -21813,6 +22062,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991013732929708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La piscina de los ahogados
+    original_title: The drowning pool
     series: Alfa; 7
     authors:
       - Ross Macdonald
@@ -22032,6 +22282,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991013790329708606&vid=34BNE_INST:CATALOGO
     verified: true
     subtitle: Trad. de amaya unzurrunzaga
+    original_title: Història de mort
   - title: Momento de difuntos
     series: Colección Los extraordinarios
     authors:
@@ -22217,6 +22468,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991012941769708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Por una escuela del pueblo
+    original_title: Por una escuela del pueblo
     series: Cuadernos de pedagogía; 27
     authors:
       - Célestin Freinet
@@ -22313,6 +22565,7 @@ titles:
         url: https://search.worldcat.org/title/17976746
     verified: true
   - title: Raimon, la alquimia de la locura
+    original_title: Raimon, la alquimia de la locura
     authors:
       - Luis Racionero
     year: 1986
@@ -22358,9 +22611,11 @@ titles:
         url: https://search.worldcat.org/title/17673932
     verified: true
   - title: Silogismos de la amargura
+    original_title: Syllogismes de L'amertume
     series: El Barco de Papel
     authors:
       - Emile M. Cioran
+    translators:
       - Rafael Panizo
     year: 1986
     language: Spanish
@@ -22372,6 +22627,7 @@ titles:
     verified: true
   - title: Sin nada que contar a nuestros hijos
     subtitle: Conversaciones
+    original_title: Weil die Stadt so fremd geworden ist
     authors:
       - Heinrich Böll
       - Marisa Presas
@@ -22498,6 +22754,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991001109239705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: UN Buen Día Para Morir
+    original_title: Un buen día para morir
     series: Los Extraordinarios
     authors:
       - Jim Harrison
@@ -22530,6 +22787,7 @@ titles:
     verified: true
     pages: 148
   - title: Una dulce venganza
+    original_title: Murder's out of tune
     authors:
       - Sara Woods
       - Carlos Milla Soler
@@ -22558,6 +22816,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991118478279705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: A cops de punyal
+    original_title: I Pugnalatori
     series: (El mirall i el temps)
     authors:
       - Leonardo Sciascia
@@ -22689,6 +22948,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991007850839708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Autonomies, federalisme i autodeterminació
+    original_title: Nacionalidades y nacionalismos en España
     authors:
       - Jordi Solé-Tura
     year: 1987
@@ -22712,6 +22972,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991007267079708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Colina abajo
+    original_title: Down from the hill
     authors:
       - Alan Sillitoe
       - Carlos Milla Soler
@@ -22795,6 +23056,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991007416429708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Desafía al diablo
+    original_title: Defy the devil
     authors:
       - Sara Woods
       - Carlos Milla Soler
@@ -22835,6 +23097,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991016549259705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Dos veces mejor que una
+    original_title: Plutôt deux fois qu'une
     authors:
       - Pascal Lainé
       - Jordi Marfà
@@ -22904,6 +23167,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991055246959708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El aprendiz de emigrante
+    original_title: From the Clyde to Sandy Hook
     authors:
       - Robert Louis Stevenson
       - Eduardo Jordá
@@ -22914,6 +23178,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991007478879708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El Blanco móvil
+    original_title: The moving target
     authors:
       - Ross Macdonald
       - María Victoria Suárez
@@ -22924,6 +23189,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991007474869708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El coche fúnebre a rayas
+    original_title: The zebra-striped hearse
     authors:
       - Ross Macdonald
       - Diana Allegrini
@@ -23048,6 +23314,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991006879049708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El petit nàufrag del Cynthia
+    original_title: L'épave du Cynthia
     series: El nus; 63
     authors:
       - Jules Verne
@@ -23116,6 +23383,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991143594629705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: El único problema
+    original_title: The only problem
     authors:
       - Muriel Spark
       - Carlos Milla Soler
@@ -23210,6 +23478,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991055117969708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Fuera perros
+    original_title: Dehors les chiens
     authors:
       - Jacques Folch-Ribas
       - Jordi Marfà
@@ -23466,6 +23735,7 @@ titles:
     verified: true
   - title: La fortaleza vacía
     subtitle: El autismo infantil y el nacimiento del sí mismo
+    original_title: The empty fortress
     authors:
       - Bruno Bettelheim
     year: 1987
@@ -23476,10 +23746,12 @@ titles:
     verified: true
   - title: La ideologia alemanya
     subtitle: '2'
+    original_title: Deutsche Ideologie
     series: Textos filosofics; 45
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Jordi Moners i Sinyol
     year: 1987
     language: Catalan
@@ -23492,6 +23764,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991055252659708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La mueca de marfil
+    original_title: The ivory grin
     authors:
       - Ross Macdonald
       - Mario Giacchino
@@ -23535,6 +23808,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991007722549708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La rubia exaltada
+    original_title: Up-tight blonde
     authors:
       - Carter Brown
       - Carlos Milla Soler
@@ -23545,6 +23819,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991055206799708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La última mujer en su vida
+    original_title: The last woman in his life
     authors:
       - Ellery Queen
       - S. G. Fernández Corugedo
@@ -23739,11 +24014,13 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991006962339708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Novum organum
+    original_title: Novum organum
     series: Textos filosòfics; 46
     authors:
       - Francis Bacon
-      - Ramir Gual
       - Miguel Ángel Granada
+    translators:
+      - Ramir Gual
     year: 1987
     language: Catalan
     sources:
@@ -24145,6 +24422,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991009187419708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Abans que ens coneguéssim
+    original_title: Before she met me
     authors:
       - Julian Barnes
       - David Balagué
@@ -24156,6 +24434,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991008705919708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Alejandra
+    original_title: Alessandra
     authors:
       - Stefano Terra
     year: 1988
@@ -24165,6 +24444,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991008882229708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Amor desconocido
+    original_title: Love unknown
     authors:
       - A. N. Wilson
       - Eduardo Jordá
@@ -24188,6 +24468,7 @@ titles:
     verified: true
   - title: Apologia de Sòcrates
     subtitle: Critó; Eutifró; Protàgores
+    original_title: Apología de Sócrates
     series: Textos filosòfics; 2
     authors:
       - Platón
@@ -24251,6 +24532,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991003270849708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Bretanya, Esmeraldina
+    original_title: Bretaña, Esmeraldina
     authors:
       - X. L. Méndez Ferrín
       - Xavier Rodríguez Baixeras
@@ -24261,6 +24543,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991008832419708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Calipso mortal
+    original_title: Calypso
     authors:
       - McBain
       - Gerardo di Masso
@@ -24309,6 +24592,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991091024509705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Cobra Verde
+    original_title: Cobra Verde
     authors:
       - Werner Herzog
       - Marisa Presas
@@ -24495,8 +24779,10 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991008565029708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El fracàs
+    original_title: Fiasko
     authors:
       - Stanislaw Lem
+    translators:
       - Joan Ayala
     year: 1988
     language: Catalan
@@ -24524,6 +24810,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991008093059708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El Príncep
+    original_title: Il principe
     series: Textos filosòfics; 11
     authors:
       - Niccolò Machiavelli
@@ -24577,6 +24864,7 @@ titles:
         url: https://d-nb.info/1032213418
     verified: true
   - title: El teatre de la memòria
+    original_title: Teatro della memoria
     authors:
       - Leonardo Sciascia
       - Lluís Riera
@@ -24587,11 +24875,13 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991007972329708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Elogi de la filosofia i altres assaigs
+    original_title: Éloge de la philosophie et autres essais
     series: Textos filosòfics; 51
     authors:
       - Maurice Merleau-Ponty
-      - Montserrat Ingla
       - María del Carmen López Sáenz
+    translators:
+      - Montserrat Ingla
     year: 1988
     language: Catalan
     sources:
@@ -24612,6 +24902,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991031578329708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Els Oncles de Sicília
+    original_title: Gli zii di Sicilia
     authors:
       - Leonardo Sciascia
       - Rolando del Guerra
@@ -24625,7 +24916,8 @@ titles:
   - title: Els sofistes
     subtitle: Fragments i testimonis
     series: Textos filosòfics; 48
-    authors:
+    authors: []
+    translators:
       - Antoni Piqué Angordans
     year: 1988
     language: Catalan
@@ -24695,6 +24987,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991051744079705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Estado de sitio
+    original_title: État d'urgence
     authors:
       - Jean-François Vilar
       - Jordi Marfà
@@ -24705,6 +24998,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991008346879708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Fuera perros
+    original_title: Dehors les chiens
     authors:
       - Jacques Folch-Ribas
       - Jordi Marfà
@@ -24788,6 +25082,7 @@ titles:
         url: https://www.sudoc.fr/115270531
     verified: true
   - title: L'amant sense domicili fix
+    original_title: Amante senza fissa dimora
     authors:
       - Carlo Fruttero
       - Lluís Riera
@@ -24811,6 +25106,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991008014629708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La ceniza y el rayo
+    original_title: Cendre et la foudre
     authors:
       - Frédérick Tristan
       - J. V. Tenas
@@ -24904,6 +25200,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/010142054
     verified: true
   - title: La Isla Bernard
+    original_title: Barrier Island
     authors:
       - John D. MacDonald
       - Esteve Riambau
@@ -24917,6 +25214,7 @@ titles:
     verified: true
     isbn: '8476682131'
   - title: La luna del reno
+    original_title: Reindeer moon
     authors:
       - Elizabeth Marshall Thomas
       - Eduardo Jordá
@@ -24927,6 +25225,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991009399499708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La Marca del crimen
+    original_title: Color of murder
     authors:
       - Julian Symons
       - Gerardo di Masso
@@ -25014,6 +25313,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991008310039708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Lluvia plateada
+    original_title: Lonely silver rain
     authors:
       - John D. MacDonald
       - Carlos Milla Soler
@@ -25066,6 +25366,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991066538809705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Memento de difuntos
+    original_title: Història de mort
     authors:
       - Andreu Martín
     year: 1988
@@ -25103,6 +25404,7 @@ titles:
         url: https://www.sudoc.fr/11527006X
     verified: true
   - title: Merodeando con aviesa intención
+    original_title: Loitering with intent
     authors:
       - Muriel Spark
       - Carlos Milla Soler
@@ -25122,6 +25424,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991008095269708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Mira'm
+    original_title: Look at me
     authors:
       - Anita Brookner
       - David Balagué
@@ -25156,6 +25459,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991086861939705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Negra y consentida
+    original_title: Negra i consentida
     authors:
       - Ofèlia Dracs
     year: 1988
@@ -25291,6 +25595,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991008160759708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Relámpago
+    original_title: Lightning
     authors:
       - McBain
       - Carlos Milla Soler
@@ -25323,6 +25628,7 @@ titles:
         url: https://openlibrary.org/books/OL18982715M
     verified: true
   - title: Semiòtica i filosofia del llenguatge
+    original_title: Semiotica e filosofia del linguaggio
     authors:
       - Umberto Eco
       - Ramir Gual
@@ -25336,9 +25642,11 @@ titles:
     verified: true
   - title: Si hubieras hablado, Desdémona
     subtitle: Discursos no pronunciados de mujeres enojadas
+    original_title: Wenn du geredet hättest, Desdemona
     series: Laia/Literatura
     authors:
       - Christine Brückner
+    translators:
       - Marisa Presas
     year: 1988
     language: Spanish
@@ -25445,6 +25753,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991009198669708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Tractat sobre els principis
+    original_title: De principiis
     series: Textos filosòfics; 49
     authors:
       - Orígenes
@@ -25456,6 +25765,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991008810979708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Un buen día para morir
+    original_title: Good day to die
     authors:
       - Jim Harrison
       - Galvarino Plaza
@@ -25483,6 +25793,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991008451659708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Una ciudad solitaria
+    original_title: City solitary
     authors:
       - Nicolas Freeling
       - Carlos Milla Soler
@@ -25539,6 +25850,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991008274239708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Vides dels filòsofs
+    original_title: Vidas de los filósofos
     series: Textos filosòfics; 50
     authors:
       - Diógenes Laercio
@@ -25615,6 +25927,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991010496869708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Amores y amantes
+    original_title: Amori
     authors:
       - Enzo Biagi
       - Mercè Ubach
@@ -25652,6 +25965,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=469784725
     verified: true
   - title: Baby Blues
+    original_title: Baby Blues
     authors:
       - Pascal Basset-Chercot
       - Silvia Komet
@@ -25683,6 +25997,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991123457839705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Boulevard Elvis Presley
+    original_title: Elvis Presley Boulevard
     authors:
       - Mark Winegardner
       - Eduardo Jordá
@@ -25732,6 +26047,7 @@ titles:
     verified: true
   - title: Cómo ser lector
     subtitle: Leer es comprender
+    original_title: La manière d'être lecteur
     series: Cuadernos de pedagogía; 42
     authors:
       - Jean Foucambert
@@ -25788,6 +26104,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991009707119708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: De consolatione philosophae
+    original_title: De consolatione philosophiae
     series: Textos filosòfics; 53
     authors:
       - Anicio Manlio Torcuato Severino Boecio
@@ -25829,6 +26146,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991009398269708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El context
+    original_title: Il contesto
     authors:
       - Leonardo Sciascia
       - Xavier Borràs
@@ -25849,6 +26167,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991009545799708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El gran desliz
+    original_title: Dérapage
     authors:
       - Gilles Perrault
       - J. V. Tenas
@@ -25887,6 +26206,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991009341379708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Els nous llibertins
+    original_title: Altri libertini
     authors:
       - Pier Vittorio Tondelli
       - Mercè Ubach
@@ -25980,6 +26300,7 @@ titles:
         url: https://d-nb.info/972520414
     verified: true
   - title: Genios reunidos en París
+    original_title: Geniuses together
     authors:
       - Humphrey Carpenter
     year: 1989
@@ -26008,6 +26329,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991010507899708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Infierno en el paraíso
+    original_title: The turquoise lament
     authors:
       - John D. MacDonald
       - Gerardo di Masso
@@ -26268,6 +26590,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=465910238
     verified: true
   - title: La llama de una vela
+    original_title: Flamme d'une chandelle
     authors:
       - Gaston Bachelard
       - Hugo Gola
@@ -26288,6 +26611,7 @@ titles:
     verified: true
   - title: La meravellosa història de Peter Schlèmihl
     subtitle: Catalán. adaptación
+    original_title: Peter Schlemihls wundersame Geschichte
     series: El nus; 77
     authors:
       - Adelbert von Chamisso
@@ -26299,6 +26623,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=340167009
     verified: true
   - title: La meravellosa història de Peter Schlèmilh
+    original_title: Peter Schlemihls wundersame Geschichte
     series: El nus; 77
     authors:
       - Adelbert von Chamisso
@@ -26321,6 +26646,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991003301579708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Las geishas o El mundo de las flores y los sauces
+    original_title: Les geishas
     authors:
       - Robert Guillain
       - Silvia Komet
@@ -26331,6 +26657,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991009834049708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Le temps, aquest gran escultor
+    original_title: Le temps, ce grand sculpteur
     authors:
       - Marguerite Yourcenar
       - Avel·lí Artís-Gener
@@ -26341,6 +26668,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991009852899708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Los crímenes de Blackheath
+    original_title: Blackheath poisonings
     authors:
       - Julian Symons
       - Carlos Milla Soler
@@ -26351,6 +26679,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991055371499708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Los duros de Marsella
+    original_title: Duri a Marsiglia
     authors:
       - Gian Carlo Fusco
       - Jordi Marfà
@@ -26384,6 +26713,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991021316689708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Miramar
+    original_title: Miramar
     authors:
       - Naguib Mahfuz
       - Ramir Gual
@@ -26403,6 +26733,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991010003169708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Nena querida
+    original_title: Dear baby
     authors:
       - William Saroyan
       - Ramón Sastre
@@ -26436,6 +26767,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991154459859705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Novelas nada ejemplares
+    original_title: Novelas nada exemplares
     authors:
       - Dalton Trevisan
     year: 1989
@@ -26508,6 +26840,7 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/cesar-vallejo-guayasamin-poemas-humanos
   - title: Psicología
+    original_title: Sobre el alma
     series: Textos filosòfics; 4
     authors:
       - Aristóteles
@@ -26575,6 +26908,7 @@ titles:
     verified: true
   - title: Un Mosquetero en Moscú
     subtitle: Memorias de la primera revolución rusa, 1604-1614
+    original_title: Estat de l'empire de Russie et grand duché de Moscovie
     authors:
       - Jacques Margeret
     year: 1989
@@ -26584,6 +26918,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991009459809708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Una cabaña en el sur
+    original_title: Cropper's cabin
     authors:
       - Jim Thompson
       - Jorge de Lorbar

@@ -666,6 +666,7 @@ titles:
     subtitle: Roman
     authors:
       - Edward Marzec
+    translators:
       - N. M''nkov
     year: 1953
     language: Bulgarian
@@ -678,6 +679,7 @@ titles:
   - title: Spomen ot "Celuloza"
     authors:
       - Igor Newerly
+    translators:
       - Katâ Georgieva
     year: 1953
     language: Bulgarian
@@ -732,6 +734,8 @@ titles:
     authors:
       - Jurij Brězan
       - Dimităr Stoevski
+    translators:
+      - Dimitr̋ Stoevski
     year: 1954
     language: Bulgarian
     sources:
@@ -762,6 +766,7 @@ titles:
         url: https://d-nb.info/577627414
     verified: true
   - title: Makbet
+    original_title: Macbeth
     authors:
       - William Shakespeare
       - Lyubomir Ognjanov
@@ -832,6 +837,7 @@ titles:
     subtitle: Roman
     authors:
       - Jerzy Putrament
+    translators:
       - Vanda Smohovska-Petrova
     year: 1954
     language: Bulgarian
@@ -939,6 +945,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1424555302
     verified: true
   - title: Chamlet
+    original_title: Hamlet
     authors:
       - William Shakespeare
       - Lyubomir Ognjanov
@@ -1020,8 +1027,9 @@ titles:
     verified: true
   - title: Kitajski narodni prikazki
     authors:
-      - Vasil Aleksandrov
       - Boris Angelušev
+    translators:
+      - Vasil Aleksandrov
     year: 1955
     language: Bulgarian
     sources:
@@ -1065,8 +1073,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb36981537c
     verified: true
   - title: Otelo
+    original_title: Othello, the moor of Venice
     authors:
       - William Shakespeare
+    translators:
       - Ljubomir Ognjanov
     year: 1955
     language: Bulgarian
@@ -1075,6 +1085,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1424263891
     verified: true
   - title: OteloKral Lir
+    original_title: Othello
     authors:
       - William Shakespeare
       - Lyubomir Ognjanov
@@ -1162,6 +1173,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=566473623
     verified: true
   - title: Romeo i Džuleta
+    original_title: Romeo and Juliet
     authors:
       - William Shakespeare
       - Ljubomir Ognjanov
@@ -1330,8 +1342,10 @@ titles:
         url: https://lccn.loc.gov/74344387
     verified: true
   - title: Apostolŭt
+    original_title: Apostol
     authors:
       - Cezar Petrescu
+    translators:
       - Valentin Arnaudov
     year: 1956
     language: Bulgarian
@@ -1545,6 +1559,7 @@ titles:
     verified: true
     subtitle: L. Karavelov, Zach. Stojanov, Iv. Vazov, Mich. Georgiev, T. G. Vlajkov, Elin Pelin
   - title: Prikazki
+    original_title: Eventyr
     authors:
       - Hans Christian Andersen
     year: 1956
@@ -1604,10 +1619,13 @@ titles:
         url: https://d-nb.info/577617915
     verified: true
   - title: Stradanijata na mladija Verter
+    original_title: Die Leiden des jungen Werther
     series: Biblioteka "Narodna kniga"
     authors:
       - Johann Wolfgang von Goethe
       - Asen Razevetnikov
+    editors:
+      - Dimitar Dobrev
     year: 1956
     language: Bulgarian
     sources:
@@ -1790,6 +1808,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1384246800
     verified: true
   - title: Kral Lir
+    original_title: King Lear
     authors:
       - William Shakespeare
       - Lyubomir Ognjanov
@@ -1902,6 +1921,7 @@ titles:
     subtitle: Razkazi
     authors:
       - Maria Dąbrowska
+    translators:
       - Vanda Smohovska-Petrova
     year: 1957
     language: Bulgarian
@@ -1976,6 +1996,9 @@ titles:
   - title: Âkov Baš. Plamenni čuvstva [Gorâčie čuvstva]. Prevod ot ruski na L. Tineva i L. Damânova
     authors:
       - Âkov Baš
+    translators:
+      - Lilâna Tineva
+      - Lilâna Damânova
     year: 1958
     language: Bulgarian
     sources:
@@ -2006,6 +2029,7 @@ titles:
     subtitle: Tragedija; 1. i 2. čast
     authors:
       - Johann Wolfgang von Goethe
+    translators:
       - Dimităr Statkov
     year: 1958
     language: Bulgarian
@@ -2169,6 +2193,7 @@ titles:
     subtitle: Roman
     authors:
       - Jarosław Iwaszkiewicz
+    translators:
       - Anastasiâ Gančeva Zografova
       - Metodi Metodiev
     year: 1958
@@ -2232,6 +2257,7 @@ titles:
   - title: Jan i Juta
     authors:
       - Liselotte Welskopf-Henrich
+    translators:
       - Marija Jankova
       - Cvetana Uzunova-Kaludieva
     year: 1959
@@ -2276,8 +2302,12 @@ titles:
     subtitle: Šljachtiška istorija ot godinite 1811 - 1812 v dvanideset stichatvarni knigi
     authors:
       - Adam Mickiewicz
-      - Blaga Dimitrova
       - Boris Angelušev
+    editors:
+      - Petʺr Dinekov
+      - Petr Dinekov (Петър Динеков)
+    translators:
+      - Blaga Dimitrova
     year: 1959
     language: Bulgarian
     sources:
@@ -2348,6 +2378,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=325873712
     verified: true
   - title: Chamlet
+    original_title: Hamlet
     authors:
       - William Shakespeare
       - Lyubomir Ognjanov
@@ -2360,6 +2391,7 @@ titles:
   - title: Denjat e vljuben v noštta
     authors:
       - Werner Steinberg
+    translators:
       - Elena Nikolova-Ruž
       - Cvetana Uzunova-Kaludieva
     year: 1960
@@ -2423,6 +2455,7 @@ titles:
         url: https://d-nb.info/57817135X
     verified: true
   - title: Kral Lir
+    original_title: King Lear
     authors:
       - William Shakespeare
       - Lyubomir Ognjanov
@@ -2445,6 +2478,7 @@ titles:
     subtitle: Roman
     authors:
       - Jan Parandowski
+    translators:
       - Metodi Metodiev
     year: 1960
     language: Bulgarian
@@ -2503,8 +2537,9 @@ titles:
     verified: true
   - title: Tvorčeskijat păt na Lev N. Tolstoj
     authors:
-      - Stefan Abadžiev
       - Nikolaj P. Loščinin
+    translators:
+      - Stefan Abadžiev
     year: 1960
     language: Bulgarian
     sources:
@@ -2597,8 +2632,10 @@ titles:
     verified: true
   - title: Otljavo, deto e s'rceto
     subtitle: Roman
+    original_title: Links, wo das Herz ist
     authors:
       - Leonhard Frank
+    translators:
       - Stefan Ivanov Stančev
     year: 1961
     language: Not recorded
@@ -2628,6 +2665,7 @@ titles:
     verified: true
   - title: Vlez v̆av vseki dom
     subtitle: Roman
+    original_title: Vojdi v každyj dom
     authors:
       - Elizar Malʹcev
       - D. Todorov
@@ -2652,6 +2690,7 @@ titles:
     subtitle: Roman
     authors:
       - Heinrich Böll
+    translators:
       - Todor Berberov
     year: 1962
     language: Bulgarian
@@ -2673,6 +2712,7 @@ titles:
     subtitle: Tragedija
     authors:
       - Johann Wolfgang von Goethe
+    translators:
       - Dimităr Statkov
     year: 1962
     language: Bulgarian
@@ -2737,6 +2777,7 @@ titles:
     verified: true
   - title: Krăstonosci
     subtitle: Istoričeski roman
+    original_title: Krzyżacy
     authors:
       - Henryk Sienkiewicz
       - Ekaterina Chr Zlatoustova
@@ -2877,8 +2918,9 @@ titles:
     subtitle: Roman
     authors:
       - Mark Twain
-      - Petăr Božkov
       - Ivan Kĭosev
+    translators:
+      - Petăr Božkov
     year: 1963
     language: Bulgarian
     sources:
@@ -2887,10 +2929,13 @@ titles:
     verified: true
   - title: Efi Brist
     subtitle: Roman
+    original_title: Effi Briest
     series: Biblioteka Izbrani Romani; 1
     authors:
       - Theodor Fontane
       - Dimităr Stoevski
+    translators:
+      - Dimitar Stoevski
     year: 1963
     language: Bulgarian
     sources:
@@ -3119,6 +3164,7 @@ titles:
     verified: true
   - title: Spomenăt za zemjata
     subtitle: Roman
+    original_title: Pamjatʹ zemli
     authors:
       - Vladimir D. Fomenko
       - G. Zečev
@@ -3162,6 +3208,7 @@ titles:
         url: https://lccn.loc.gov/70249960
     verified: true
   - title: Andersenovi prikazki
+    original_title: Eventyr
     authors:
       - Hans Christian Andersen
       - Svetoslav Minkov
@@ -3198,6 +3245,7 @@ titles:
   - title: Charka - sinǔt na vožda
     authors:
       - Liselotte Welskopf-Henrich
+    translators:
       - Cvetana Uzunova-Kaludieva
     year: 1964
     language: Bulgarian
@@ -3263,9 +3311,10 @@ titles:
   - title: Kobzar
     authors:
       - Taras Hryhorovyč Ševčenko
-      - Dimităr Metodiev
       - Milka Pejkova
       - Georgi V. Kovačev
+    translators:
+      - Dimităr Metodiev
     year: 1964
     language: Bulgarian
     sources:
@@ -3408,6 +3457,7 @@ titles:
     verified: true
   - title: Vilchelm Tel
     subtitle: Drama v 5 dejstvija
+    original_title: Wilhelm Tell
     series: Biblioteka za učenika
     authors:
       - Friedrich Schiller
@@ -3448,6 +3498,11 @@ titles:
     subtitle: Sbornik
     authors:
       - Sreŝa na pisatelite ot balkanskite strani
+    editors:
+      - Lilâna Aceva
+      - Liliana Atseva (Лиляна Ацева)
+      - Nikolaj Ânkov
+      - Nikolai Iankov (Николай Янков)
     year: 1965
     language: Bulgarian
     sources:
@@ -3466,6 +3521,7 @@ titles:
     subtitle: Tragedija
     authors:
       - Johann Wolfgang von Goethe
+    translators:
       - Dimităr Statkov
     year: 1965
     language: Bulgarian
@@ -3498,6 +3554,7 @@ titles:
   - title: Malkija mŭž
     authors:
       - Erich Kästner
+    translators:
       - Vladimir Musakov
     year: 1965
     language: Bulgarian
@@ -3762,8 +3819,10 @@ titles:
         url: https://d-nb.info/577063804
     verified: true
   - title: Lirika
+    original_title: Gedichte
     authors:
       - Friedrich Hölderlin
+    translators:
       - Atanas Dalčev
       - Čilo Šišmanov
     year: 1966
@@ -3863,10 +3922,11 @@ titles:
   - title: Šumǔt na vǔrbite Povest
     authors:
       - Kenneth Grahame
-      - Nikola Milev
       - Ljuben Christov Zidarov
       - Vasil Jončev
       - Sofija DPK "Dimitur Blagoev"
+    translators:
+      - Nikola Milev
     year: 1966
     language: Bulgarian
     sources:
@@ -3887,6 +3947,8 @@ titles:
   - title: Za krasota v života
     authors:
       - Dimitʺr Dobrev
+    editors:
+      - Ivan Sestrimski
     year: 1966
     language: Bulgarian
     sources:
@@ -3958,6 +4020,7 @@ titles:
         url: https://d-nb.info/577864211
     verified: true
   - title: Doktor Faustus život't ha nemckija kompozitor Adrian Leverkjun, razkazan ot edin negov prijatel
+    original_title: 'Doktor Faustus : Das Leben des deutschen Tonsetzers Adrian Leverkühn ; erzählt von einem Freunde'
     authors:
       - Thomas Mann
       - Strašimir Džamdžiev
@@ -3997,6 +4060,7 @@ titles:
     subtitle: Roman
     authors:
       - Joachim Wohlgemuth
+    translators:
       - Cvetana Uzunova-Kaludieva
     year: 1967
     language: Bulgarian
@@ -4009,6 +4073,7 @@ titles:
     series: Biblioteka za uc̆enika
     authors:
       - Johann Wolfgang von Goethe
+    translators:
       - Dimităr Statkov
     year: 1967
     language: Bulgarian
@@ -4021,6 +4086,7 @@ titles:
   - title: Gojja ili Trudnijat pŭt kŭm prozrenieto
     authors:
       - Lion Feuchtwanger
+    translators:
       - Elena Jalŭmova
       - Vladimir Musakov
     year: 1967
@@ -4221,6 +4287,7 @@ titles:
     subtitle: Roman
     authors:
       - Hermann Kant
+    translators:
       - Nevena Stančeva
     year: 1968
     language: Bulgarian
@@ -4260,8 +4327,10 @@ titles:
         url: https://d-nb.info/577626272
     verified: true
   - title: Četivo ez nevinnost
+    original_title: Gedichte
     authors:
       - Bertolt Brecht
+    translators:
       - Prevodot Nemski
     year: 1968
     language: Not recorded
@@ -4332,11 +4401,13 @@ titles:
     verified: true
   - title: Maksimi i razmisli
     subtitle: Varchu morala
+    original_title: Réflexions ou sentences et maximes morales
     authors:
       - François de La Rochefoucauld
-      - Michail Arnaudov
       - Olga Jončev
       - Vasil Jončev
+    translators:
+      - Michail Arnaudov
     year: 1968
     language: Bulgarian
     sources:
@@ -4346,10 +4417,11 @@ titles:
   - title: Maksimi i razmisli vŭrchu morala
     authors:
       - François de La Rochefoucauld
-      - Michail Arnaudov
       - Olga Jončeva
       - Vasil Jončev
       - Sofija Poligrafičeski Kombinat "Dimitur Blagvev"
+    translators:
+      - Michail Arnaudov
     year: 1968
     language: Bulgarian
     sources:
@@ -4475,6 +4547,7 @@ titles:
     verified: true
   - title: Sledstvieto
     subtitle: Oratorija v 11 pesni
+    original_title: Die Ermittlung
     series: Biblioteka Teatr; 11
     authors:
       - Peter Weiss
@@ -4570,6 +4643,8 @@ titles:
     subtitle: Dramatičeska poema; Stanŭt na Valenštajn; Pikolomini; Smŭrtta na Valenštajn
     authors:
       - Friedrich Schiller
+    translators:
+      - Dimităr Stoevski
     year: 1968
     language: Bulgarian
     sources:
@@ -4622,6 +4697,7 @@ titles:
     verified: true
   - title: Chamlet
     subtitle: Princ datski
+    original_title: Hamlet
     series: Biblioteka za učenika
     authors:
       - William Shakespeare
@@ -4638,6 +4714,7 @@ titles:
     subtitle: Razkazi
     authors:
       - Colette Seghers
+    translators:
       - Nadežda Staneva
       - Nadezhda Staneva (Надежда Станева)
     year: 1969
@@ -4690,6 +4767,8 @@ titles:
   - title: Glagolici
     authors:
       - Hristofor Trajkov Tzavela
+    translators:
+      - Vladimir Svintila
     year: 1969
     language: Bulgarian
     sources:
@@ -4705,6 +4784,8 @@ titles:
   - title: Izkustvoto na prevoda
     subtitle: Sbornik statii
     authors: []
+    editors:
+      - Emil Georgiev
     year: 1969
     language: Bulgarian
     sources:
@@ -4899,6 +4980,9 @@ titles:
   - title: Sʺvremenna belgijska poeziâ
     subtitle: Frenska i flamandska
     authors: []
+    editors:
+      - Aleksandʺr Muratov
+      - Fernan Verezen
     year: 1969
     language: Bulgarian
     sources:
@@ -4927,9 +5011,10 @@ titles:
     subtitle: Roman-chronika
     authors:
       - Mariėtta Sergeevna Šaginjan
-      - Margarita Michalkova
       - Vladislav Paskalev
       - Sofija DPK "Dimitŭr Blagoev"
+    translators:
+      - Margarita Michalkova
     year: 1969
     language: Bulgarian
     sources:
@@ -4992,6 +5077,8 @@ titles:
     series: Biblioteka săvremenni poeti
     authors:
       - Nelly Sachs
+    translators:
+      - Dimităr Dublev
     year: 1969
     language: Bulgarian
     sources:
@@ -5054,6 +5141,8 @@ titles:
   - title: Frenski poeti
     subtitle: Sbornik
     authors: []
+    editors:
+      - Penčo Simov
     year: 1970
     language: Bulgarian
     sources:
@@ -5102,6 +5191,8 @@ titles:
     series: Sovetovni poèmi
     authors:
       - Dimčo Debelânov
+    editors:
+      - Georgi Markov
     year: 1970
     language: Bulgarian
     sources:
@@ -5135,6 +5226,7 @@ titles:
     subtitle: Roman
     authors:
       - Wacław Kubacki
+    translators:
       - Stefan Ilčev
     year: 1970
     language: Bulgarian
@@ -5148,9 +5240,10 @@ titles:
     subtitle: Roman
     authors:
       - Piotr Kapica
-      - Elka Georgieva
       - Vladislav Paskalev
       - DPK "Dimitŭr Blagoev"
+    translators:
+      - Elka Georgieva
     year: 1970
     language: Bulgarian
     sources:
@@ -5162,6 +5255,7 @@ titles:
     authors:
       - Lev Nikolaevič Tolstoj
       - Lev Nikolaevich Tolstoi (Лев Николаевич Толстой)
+    translators:
       - Konstantin Konstantinov
       - Konstantin Konstantinov (Константин Константинов)
     year: 1970
@@ -5173,6 +5267,8 @@ titles:
   - title: Anekdoti, ostroumiâ, kuriozi
     subtitle: Sbornik
     authors: []
+    editors:
+      - Damân Bʺrnâkov
     year: 1971
     language: Bulgarian
     sources:
@@ -5224,6 +5320,7 @@ titles:
     authors:
       - Viktor Borisovič Šklovskij
       - Viktor Borisovich Shklovskii (Виктор Борисович Шкловский)
+    translators:
       - Lilâna Minkova
       - Liliana Minkova (Лиляна Минкова)
     year: 1971
@@ -5315,6 +5412,10 @@ titles:
   - title: Filosofski noveli
     authors:
       - Fransoa-Mari Arue Volter
+    editors:
+      - Simeon Hadžikosev
+    translators:
+      - Boân Atanasov
     year: 1972
     language: Multiple languages
     sources:
@@ -5357,6 +5458,8 @@ titles:
   - title: Kirilici
     authors:
       - Hristofor Trajkov Tzavela
+    translators:
+      - Vladimir Svintila
     year: 1972
     language: Bulgarian
     sources:
@@ -5387,6 +5490,8 @@ titles:
     subtitle: Tragediâ
     authors:
       - Pier Kornej
+    translators:
+      - Penčo Simov
     year: 1972
     language: Multiple languages
     sources:
@@ -5418,6 +5523,7 @@ titles:
     verified: true
   - title: Chamlet
     subtitle: Princ Datski
+    original_title: Hamlet
     authors:
       - William Shakespeare
       - Geo Milev
@@ -5454,9 +5560,10 @@ titles:
   - title: Majka Povest
     authors:
       - Maksim Gorʹkij
-      - Stojan Karolev
       - Ivan Kliosev
       - Sofia DPK "Dimitur Blagoev"
+    translators:
+      - Stojan Karolev
     year: 1973
     language: Bulgarian
     sources:
@@ -5499,6 +5606,7 @@ titles:
     series: Biblioteka "Panorama"; 14
     authors:
       - Jean de La Fontaine
+    translators:
       - Atanas Dalčev
       - Atanas Dalchev (Атанас Далчев)
       - Aleksandr Mihajlovič Muratov
@@ -5512,6 +5620,7 @@ titles:
   - title: Dupka v moreto
     authors:
       - Hanna Ożogowska
+    translators:
       - Dobromir Dobrev
     year: 1974
     language: Bulgarian
@@ -5597,6 +5706,8 @@ titles:
     verified: true
   - title: Zlatna kniga za Bʺlgariâ
     authors: []
+    editors:
+      - Nikolaj Antonov
     year: 1974
     language: Bulgarian
     sources:
@@ -5628,6 +5739,7 @@ titles:
     verified: true
   - title: Lote vuv Vajmar
     subtitle: Roman
+    original_title: Lotte in Weimar
     authors:
       - Thomas Mann
       - Todor Berberov
@@ -5714,6 +5826,8 @@ titles:
   - title: Bʺlgarski prikazki
     authors:
       - Nikolaj Ivanov Rajnov
+    editors:
+      - Bogomil Nikolaev Rajnov
     year: 1976
     language: Bulgarian
     sources:
@@ -5736,8 +5850,9 @@ titles:
     series: Biblioteka Panorama; 55
     authors:
       - Kurt Tucholsky
-      - Todor Berberov
       - Nedjalka Popova
+    translators:
+      - Todor Berberov
     year: 1976
     language: Not recorded
     sources:
@@ -5786,6 +5901,7 @@ titles:
     subtitle: Roman
     authors:
       - Klaus Mann
+    translators:
       - Nikola Georgiev
     year: 1976
     language: Bulgarian
@@ -5806,8 +5922,11 @@ titles:
     verified: true
   - title: Poezija i istina
     subtitle: Iz moja život
+    original_title: Aus meinem Leben
     authors:
       - Johann Wolfgang von Goethe
+    translators:
+      - Georgi Georgiev
     year: 1976
     language: Bulgarian
     sources:
@@ -5865,9 +5984,10 @@ titles:
     subtitle: Roman
     authors:
       - Michail Jurʹevič Lermontov
-      - Khristo Radevski
       - Rumen Skorčev
       - Sofija Dăržaven poligraen kombinat "Dimităr Blagoev"
+    translators:
+      - Khristo Radevski
     year: 1977
     language: Bulgarian
     sources:
@@ -5972,10 +6092,11 @@ titles:
     subtitle: Kniga za boeca
     authors:
       - Aleksandr Trifonovič Tvardovskij
-      - Nikolaj Antonov
       - Christo Nejkov
       - Petǎr Petrunov
       - Sofija Dǎržaven poligrafičen kombinat "Dimitǎe Blagoev"
+    translators:
+      - Nikolaj Antonov
     year: 1977
     language: Bulgarian
     sources:
@@ -6006,6 +6127,8 @@ titles:
     authors:
       - Friedrich Schiller
       - Johann Wolfgang von Goethe
+    translators:
+      - Stefan Ivanov Stančev
     year: 1978
     language: Bulgarian
     sources:
@@ -6042,7 +6165,8 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=367500604
     verified: true
   - title: Izbrani prevody
-    authors:
+    authors: []
+    translators:
       - Atanas Dalčev
       - Atanas Dalchev (Атанас Далчев)
       - Aleksandʺr Muratov
@@ -6144,9 +6268,12 @@ titles:
     verified: true
   - title: Don Żuan ili Ljubovta kǎm geometrijata
     subtitle: Komedija v 5 dejstvia
+    original_title: Don Juan oder Die Liebe zur Geometrie
     series: Biblioteka Teatǎr; no. 50
     authors:
       - Max Frisch
+    translators:
+      - Venceslav Konstantinov
     year: 1979
     language: Bulgarian
     sources:
@@ -6206,6 +6333,7 @@ titles:
     subtitle: Roman
     authors:
       - Ingeborg Drewitz
+    translators:
       - Elena Nikolova-Ruž
     year: 1979
     language: Bulgarian
@@ -6264,6 +6392,7 @@ titles:
     subtitle: Antologija na antifašistkata drama
     authors:
       - Leon Kruczkowski
+    translators:
       - Dimit''r Ikonomov
     year: 1979
     language: Bulgarian
@@ -6352,8 +6481,10 @@ titles:
     verified: true
   - title: Igrata na stăkleni perli
     subtitle: Opit za životopis na magister Ludi Jozef Knecht zaedno s negovite săčinenija
+    original_title: Der Glasperlenspiel
     authors:
       - Hermann Hesse
+    translators:
       - Nedjalka Popova
     year: 1980
     language: Not recorded
@@ -6396,6 +6527,8 @@ titles:
     authors:
       - Johann Wolfgang von Goethe
       - Stefan Ivanov Stančev
+    editors:
+      - Kr"st'o Stanisev
     year: 1980
     language: Bulgarian
     sources:
@@ -6419,6 +6552,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=349958920
     verified: true
     subtitle: V 8 toma; prevod ot nemski
+    original_title: Faust
   - title: Izkustvoto na prevoda
     authors: []
     year: 1980
@@ -6449,8 +6583,10 @@ titles:
     verified: true
   - title: Ogʺnât poglʺŝa ogʺnâ
     subtitle: Roman
+    original_title: Un feu dévore un autre feu
     authors:
       - Hervé Bazin
+    translators:
       - Stefan Guetchev
       - Erma Gečeva
       - Erma Gecheva (Ерма Гечева)
@@ -6490,6 +6626,7 @@ titles:
     verified: true
   - title: Stradanijata na mladija Verter
     subtitle: Roman
+    original_title: Die Leiden des jungen Werther
     authors:
       - Johann Wolfgang von Goethe
     year: 1980
@@ -6528,10 +6665,11 @@ titles:
     subtitle: Poema
     authors:
       - Vladimir Majakovskij
-      - Dimităr Metodiev
       - Petăr Raškov
       - Kǎnčo Kăne
       - Sofija PK "Dimităr Blagoev"
+    translators:
+      - Dimităr Metodiev
     year: 1980
     language: Bulgarian
     sources:
@@ -6554,6 +6692,15 @@ titles:
     authors:
       - Jarosław Iwaszkiewicz
       - Adolf Rudnicki
+      - Kornel Filipowicz
+      - Jan Koprowski
+      - Zofia Bystrzycka
+      - Sławomir Mrożek
+      - Marek Nowakowski
+      - Janusz Głowacki
+      - Edward Redliński
+      - Andrzej Pastuszek
+    translators:
       - Silviâ Borisova
       - Dobromir Dobrev
       - Čavdar Č. Čendov
@@ -6561,17 +6708,9 @@ titles:
       - Georgi Minčev
       - Mariana Tončeva-Terzieva
       - Metodi Metodiev
-      - Kornel Filipowicz
-      - Jan Koprowski
-      - Zofia Bystrzycka
-      - Sławomir Mrożek
-      - Marek Nowakowski
       - Stanka Andreeva
       - Ango Bojanov
       - Magdalena Atanasova
-      - Janusz Głowacki
-      - Edward Redliński
-      - Andrzej Pastuszek
     year: 1981
     language: Bulgarian
     sources:
@@ -6581,8 +6720,9 @@ titles:
   - title: Ako bʺdeš kral ... ako bʺdeš palač
     authors:
       - Zofia Nałkowska
-      - Venče Popova
       - Kiro Mavrov
+    translators:
+      - Venče Popova
     year: 1981
     language: Bulgarian
     sources:
@@ -6600,6 +6740,7 @@ titles:
         url: https://d-nb.info/368881954
     verified: true
   - title: Drami
+    original_title: Sammlung
     series: Biblioteka Svetovna klasika
     authors:
       - Henrik Ibsen
@@ -6695,6 +6836,7 @@ titles:
         url: https://d-nb.info/369077229
     verified: true
   - title: Praznična utrin
+    original_title: Taşi topragi altin
     authors:
       - Burhan Arpad
     year: 1981
@@ -6707,6 +6849,8 @@ titles:
     subtitle: Kʺm istoriâta na prevoda v Bʺlgariâ, sbornik
     authors:
       - Sʺûz na prevodačite v Bʺlgariâ
+    editors:
+      - Filip Ginev
     year: 1981
     language: Bulgarian
     sources:
@@ -6815,10 +6959,12 @@ titles:
     verified: true
   - title: Efi Brist
     subtitle: Prevod ot nemski
+    original_title: Effi Briest
     authors:
       - Theodor Fontane
-      - Dimitar Stoevski
       - Jana P. Mutavchieva
+    translators:
+      - Dimitar Stoevski
     year: 1982
     language: Bulgarian, German
     sources:
@@ -6860,6 +7006,7 @@ titles:
     subtitle: Roman
     authors:
       - Klaus Mann
+    translators:
       - Nikola Georgiev
     year: 1982
     language: Bulgarian
@@ -6908,6 +7055,7 @@ titles:
     subtitle: Izbrani stichove
     authors:
       - Jarosław Iwaszkiewicz
+    translators:
       - Ivan V''lev
     year: 1982
     language: Bulgarian
@@ -6999,6 +7147,8 @@ titles:
     series: Biblioteka svetovna klasika
     authors:
       - Bertolt Brecht
+    editors:
+      - Zana G'l'ova
     year: 1983
     language: Bulgarian
     sources:
@@ -7047,6 +7197,8 @@ titles:
   - title: Pisma
     authors:
       - Romain Rolland
+    editors:
+      - Svetlomir Dimitrov Bratanov
     year: 1983
     language: Bulgarian
     sources:
@@ -7064,8 +7216,10 @@ titles:
         url: https://d-nb.info/369053397
     verified: true
   - title: Senčesta strana
+    original_title: Schattseite
     authors:
       - Franz Innerhofer
+    translators:
       - Bojan Vălčev
     year: 1983
     language: Bulgarian
@@ -7139,8 +7293,9 @@ titles:
     series: Poetischer Globus
     authors:
       - Christoph Meckel
-      - Venceslav Konstantinov
       - Iwan Teofilow
+    translators:
+      - Venceslav Konstantinov
     year: 1984
     language: Bulgarian
     sources:
@@ -7204,6 +7359,7 @@ titles:
         url: https://d-nb.info/368935434
     verified: true
   - title: Jakob fon Gunten
+    original_title: Jakob von Gunten
     authors:
       - Robert Walser
     year: 1984
@@ -7227,6 +7383,7 @@ titles:
     subtitle: Izbrani stihotvoreniâ
     authors:
       - Arthur Haulot
+    translators:
       - Georgi Mickov
       - Georgi Mitskov (Георги Мицков)
     year: 1984
@@ -7276,6 +7433,7 @@ titles:
     verified: true
   - title: Vʺlšebnata planina
     subtitle: Roman
+    original_title: Der Zauberberg
     authors:
       - Thomas Mann
       - Todor Berberov
@@ -7338,6 +7496,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1547618132
     verified: true
     subtitle: Roman
+    original_title: Langsame Heimkehr
   - title: Bednijat prachosnik
     subtitle: Roman
     authors:
@@ -7358,8 +7517,10 @@ titles:
         url: https://d-nb.info/368914216
     verified: true
   - title: Chamlet, ili krajat na dălgata nošt
+    original_title: Hamlet oder Die lange Nacht nimmt ein Ende
     authors:
       - Alfred Döblin
+    translators:
       - Jana Kožucharova
     year: 1985
     language: Not recorded
@@ -7446,6 +7607,7 @@ titles:
     verified: true
   - title: Sinjata brada
     subtitle: Roman
+    original_title: Blaubart
     authors:
       - Max Frisch
     year: 1985
@@ -7457,8 +7619,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991101500609705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Ubijstvo, koeto vseki isvărs̆va
+    original_title: Ein Mord den jeder begeht
     authors:
       - Heimito von Doderer
+    translators:
       - Krassimira Angelowa
     year: 1985
     language: Bulgarian
@@ -7485,8 +7649,11 @@ titles:
         url: https://d-nb.info/368975533
     verified: true
   - title: Zapiskite na Malte Laurids Brige
+    original_title: Die Aufzeichnungen des Malte Laurids Brigge
     authors:
       - Rainer Maria Rilke
+    translators:
+      - Aleksandr Andreev
     year: 1985
     language: Bulgarian
     sources:
@@ -7550,8 +7717,12 @@ titles:
         url: https://d-nb.info/368893715
     verified: true
   - title: Čuždijat prijatel
+    original_title: Der fremde Freund
     authors:
       - Christoph Hein
+    translators:
+      - Miroslav Nikolov
+      - Nevena Stojanova
     year: 1986
     language: Bulgarian
     sources:
@@ -7780,6 +7951,8 @@ titles:
   - title: Izbrani tvorbi v dva toma
     authors:
       - E. T. A. Hoffmann
+    translators:
+      - Nedjalka Popova
     year: 1987
     language: Bulgarian
     sources:
@@ -7815,6 +7988,7 @@ titles:
   - title: Sinijat maž
     authors:
       - Adolf Muschg
+    translators:
       - Sofija Toceva
     year: 1987
     language: Bulgarian
@@ -7837,6 +8011,7 @@ titles:
     subtitle: Roman; izbrani noveli
     authors:
       - Hermann Hesse
+    translators:
       - Nedjalka Popova
     year: 1988
     language: Not recorded
@@ -7862,6 +8037,7 @@ titles:
     authors:
       - Witold Gombrowicz
       - Andrej Gulâški
+    translators:
       - Dimitrina Lau-Bukovska
     year: 1988
     language: Bulgarian
@@ -7894,6 +8070,7 @@ titles:
     subtitle: Roman
     authors:
       - Max von der Grün
+    translators:
       - Emilija Draganova
     year: 1988
     language: Bulgarian
@@ -7905,6 +8082,7 @@ titles:
     subtitle: Četiri noveli
     authors:
       - Gert Hofmann
+    translators:
       - Aleksandăr Andreev
     year: 1988
     language: Bulgarian
@@ -7966,6 +8144,7 @@ titles:
     subtitle: Stichotvorenija
     authors:
       - Wisława Szymborska
+    translators:
       - Blaga Dimitrova
     year: 1989
     language: Bulgarian
@@ -7977,9 +8156,11 @@ titles:
     verified: true
   - title: P˝t prez Flandriâ
     subtitle: Roman
+    original_title: La route des Flandres
     series: Biblioteka izbrani romani; 2
     authors:
       - Claude Simon
+    translators:
       - Stefan Tafrov
       - Stefan Tafrov (Стефан Тафров)
     year: 1989
@@ -8014,6 +8195,7 @@ titles:
   - title: Pătuvane kăm Iztoka
     authors:
       - Hermann Hesse
+    translators:
       - Nedjalka Popova
     year: 1990
     language: Bulgarian
@@ -8035,6 +8217,7 @@ titles:
     authors:
       - Jan Dobraczyński
       - Metodi Metodiev
+    translators:
       - Milena Mileva
     year: 1990
     language: Bulgarian

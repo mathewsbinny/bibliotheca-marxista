@@ -104,6 +104,7 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/dli.ministry.18496
   - title: The Permanent Revolution and Results and Prospects
+    original_title: Permanentnai︠a︡ revoli︠u︡t︠s︡ii︠a︡ English
     authors:
       - Leon Trotsky
     year: 1962
@@ -281,6 +282,7 @@ titles:
   - title: The Intelligentsia and Socialism
     authors:
       - Lev Davidovič Trockij
+    translators:
       - Brian Pearce
     year: 1966
     language: English
@@ -419,6 +421,8 @@ titles:
     subtitle: 'Problems of Culture Under the Dictatorship of the Proletariat: Speech by Trotsky During Discussion, May 9, 1924, at a Meeting Convened by the Press Department of the Central Committee of the R.C.P.(B) on Party Policy in the Field of Imaginative Literature'
     authors:
       - Leon Trotsky
+    translators:
+      - Brian Pearce
     year: 1968
     series: '''Fourth International'' Pamphlets'
     language: English
@@ -430,6 +434,8 @@ titles:
   - title: 'Class and Art: Problems of Culture Under the Dictatorship of the Proletariat'
     authors:
       - Leon Trotsky
+    translators:
+      - Brian Pearce
     year: 1968
     series: '''Fourth International'' Pamphlets'
     language: English
@@ -442,6 +448,7 @@ titles:
     verified: true
   - title: The Class Nature of the Soviet State
     subtitle: And, the Workers' State and the Question of Thermidor and Bonapartism
+    original_title: Soviet Union and the Fourth International
     authors:
       - Leon Trotsky
     year: 1968
@@ -520,6 +527,10 @@ titles:
   - title: Problems of the Chinese Revolution
     authors:
       - Leon Trotsky
+    editors:
+      - Grigorij Evseevič Zinovʹev
+    translators:
+      - Max Shachtman
     year: 1969
     language: English
     pages: 354
@@ -695,6 +706,8 @@ titles:
   - title: Lessons of October (1924)
     authors:
       - Leon Trotsky
+    translators:
+      - John G. Wright
     year: 1971
     language: English
     pages: 77
@@ -773,6 +786,8 @@ titles:
   - title: The New Course
     authors:
       - Leon Trotsky
+    translators:
+      - Max Shachtman)
     year: 1972
     language: English
     pages: 99
@@ -799,6 +814,8 @@ titles:
     subtitle: Report to the 5th All-Russian Congress of the Russian Communist League of Youth 1922
     authors:
       - Leon Trotsky
+    translators:
+      - R. Chappell
     year: 1972
     series: Young Socialist Pamphlets
     language: English
@@ -822,6 +839,8 @@ titles:
     subtitle: A Glance into the Future of Russia and Europe. Translated from the Russian by Brian Pearce
     authors:
       - Evgeniĭ Alekseevich Preobrazhenskiĭ
+    translators:
+      - Brian Pearce
     year: 1973
     language: English
     pages: 116
@@ -844,8 +863,10 @@ titles:
     isbn: '0902030434'
   - title: History of the Bolshevik Party
     subtitle: A Popular Outline
+    original_title: Istorii︠a︡ Rossiĭskoĭ kommunisticheskoĭ partii
     authors:
       - Grigorij Evseevič Zinovʹev
+    translators:
       - R. Chappell
     year: 1973
     language: English
@@ -880,6 +901,8 @@ titles:
   - title: 'May Day in the West and the East: On the 35th Anniversary of the May Day Holiday: Speech at the Commemorative Plenum of the Moscow Soviet, April 25, 1924'
     authors:
       - Leon Trotsky
+    translators:
+      - R. Chappell
     year: 1973
     language: English, Russian
     pages: 24
@@ -896,6 +919,8 @@ titles:
     subtitle: Speech on the Third Anniversary of the Communist University for Toilers of the East, April 21, 1924
     authors:
       - Lev Davidovič Trockij
+    translators:
+      - R. Chappell
     year: 1973
     language: English
     sources:
@@ -918,6 +943,8 @@ titles:
   - title: Political Profiles
     authors:
       - Leon Trotsky
+    translators:
+      - R. Chappell
     year: 1973
     edition: New Ed edition
     language: English
@@ -1020,6 +1047,8 @@ titles:
     subtitle: Problems of Culture Under the Dictatorship of the Proletariat
     authors:
       - Leon Trotsky
+    translators:
+      - Brian Pearce
     year: 1974
     language: English
     isbn: '0902030108'
@@ -1075,6 +1104,8 @@ titles:
   - title: History of the Bolshevik Party
     authors:
       - Grigorii Zinoviev
+    translators:
+      - R. Chappell
     year: 1974
     language: English
     pages: 250
@@ -1154,6 +1185,8 @@ titles:
   - title: The Intelligentsia and Socialism
     authors:
       - Leon Trotsky
+    translators:
+      - Brian Pearce
     year: 1974
     language: English
     pages: 16
@@ -1268,6 +1301,7 @@ titles:
     subtitle: 1525-1848
     authors:
       - Franz Mehring
+    translators:
       - R. Archer
     year: 1975
     language: English
@@ -1286,6 +1320,8 @@ titles:
   - title: Culture & Socialism
     authors:
       - Leon Trotsky
+    translators:
+      - Brian Pearce
     year: 1975
     language: English
     sources:
@@ -1331,6 +1367,8 @@ titles:
   - title: Intelligentsia and Socialism
     authors:
       - Leon Trotsky
+    translators:
+      - B. Pearce
     year: 1975
     edition: New Ed edition
     language: English
@@ -1418,6 +1456,8 @@ titles:
   - title: Tasks Before the Twelfth Congress of the Russian Communist Party
     authors:
       - Leon Trotsky
+    translators:
+      - Brian Pearce
     year: 1975
     language: English
     pages: 63
@@ -1436,6 +1476,7 @@ titles:
     verified: true
   - title: Terrorism and Communism
     subtitle: A Reply to Karl Kautsky
+    original_title: Terrorizmʹ i kommunizmʹ
     authors:
       - Leon Trotsky
     year: 1975
@@ -1457,6 +1498,8 @@ titles:
     subtitle: From Savagery to Civilization; and, Social and Philosophical Studies
     authors:
       - Paul Lafargue
+    translators:
+      - C. H. Kerr
     year: 1975
     language: English, French
     pages: 209
@@ -1506,6 +1549,8 @@ titles:
   - title: History of the Paris Commune of 1871
     authors:
       - Lissagaray
+    translators:
+      - Eleanor Marx Aveling
     year: 1976
     language: English
     pages: 439
@@ -1535,6 +1580,7 @@ titles:
       - label: Full text (marxists.org)
         url: https://www.marxists.org/archive/morrow-felix/1938/revolution-spain/index.htm
   - title: The GPU in the Trotskyist Movement
+    original_title: La Guepeou dans le mouvement trotskyiste
     authors:
       - Georges Vereeken
     year: 1976
@@ -1611,8 +1657,11 @@ titles:
     verified: true
   - title: Second Congress of the Communist International
     subtitle: Minutes of the Proceedings
+    original_title: Zweite Kongress der Kommunistische Internationale Protokol der Verhandlungen
     authors:
       - Communist International. Congress
+    translators:
+      - R. A. Archer
     year: 1977
     language: English
     isbn: '0902030884'
@@ -1632,6 +1681,7 @@ titles:
         url: https://www.sudoc.fr/280159757
     verified: true
   - title: Stalin's Gangsters
+    original_title: Los gangsters de Stalin
     authors:
       - Leon Trotsky
     year: 1977
@@ -1648,6 +1698,7 @@ titles:
     verified: true
   - title: 1903, Second Ordinary Congress of the RSDPL
     subtitle: Complete Text of the Minutes
+    original_title: Vtoroĭ ocherednoĭ sʺezd Ross. sot︠s︡.-dem. rabocheĭ partii
     authors:
       - Brian Pearce
       - Rossiĭskaia sotsial-demokraticheskaia rabochaia partiia
@@ -1728,6 +1779,8 @@ titles:
   - title: How the Revolution Armed
     authors:
       - Leon Trotsky
+    translators:
+      - B. Pearce
     year: 1979
     series: Materials and Documents on the History of the Red Army
     language: English
@@ -1747,6 +1800,8 @@ titles:
   - title: The Red Army
     authors:
       - Erich Wollenberg
+    translators:
+      - C. W. Sykes
     year: 1979
     edition: 2nd Ed edition
     language: Not recorded
@@ -1764,6 +1819,8 @@ titles:
   - title: What Everyone Should Know About Repression
     authors:
       - Victor Serge
+    translators:
+      - Judith White
     year: 1979
     language: English, French
     pages: 88
@@ -1782,6 +1839,8 @@ titles:
   - title: How the Revolution Armed
     authors:
       - Leon Trotsky
+    translators:
+      - B. Pearce
     year: 1980
     language: Not recorded
     pages: 668
@@ -1887,6 +1946,8 @@ titles:
   - title: How the Revolution Armed
     authors:
       - Leon Trotsky
+    translators:
+      - B. Pearce
     year: 1981
     date_note: December 1981
     language: Not recorded
@@ -1964,8 +2025,11 @@ titles:
     pages: 336
     isbn: '9780902030985'
   - title: Kronstadt and Petrograd in 1917
+    original_title: Kronshtadt i Piter v 1917 godu
     authors:
       - F. F. Raskolnikov
+    translators:
+      - Brian Pearce
     year: 1982
     language: English
     pages: 367
@@ -2072,9 +2136,11 @@ titles:
         url: https://search.worldcat.org/title/831322511
     verified: true
   - title: Letters on "Capital"
+    original_title: Briefe über Das Kapital
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Andrew Drummond
     year: 1983
     language: English
@@ -2147,6 +2213,9 @@ titles:
   - title: The Mathematical Manuscripts of Karl Marx
     authors:
       - Karl Marx
+    translators:
+      - C. Aronson
+      - M. Meo
     year: 1983
     language: English
     pages: 250
@@ -2217,8 +2286,11 @@ titles:
     verified: true
   - title: The Bolsheviks in Power
     subtitle: Reminiscences of the Year 1918
+    original_title: 'Bol''sheviki u vlasti: vospominaniya o 1918 gode'
     authors:
       - A. F. Ilyin-Zhenevsky
+    translators:
+      - Brian Pearce
     year: 1984
     language: English
     sources:

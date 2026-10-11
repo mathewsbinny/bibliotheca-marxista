@@ -168,8 +168,9 @@ titles:
   - title: La paix par la révolution
     subtitle: Les marins allemands révolutionnaires en 1917
     authors:
-      - Michel Marty
       - André Marty
+    translators:
+      - Michel Marty
     year: 1926
     language: French
     sources:
@@ -281,6 +282,7 @@ titles:
         url: https://www.sudoc.fr/065679571
     verified: true
   - title: Les questions du léninisme
+    original_title: Voprosy leninizma
     authors:
       - Joseph Staline
       - Voltaire Radi
@@ -294,6 +296,9 @@ titles:
     authors:
       - Vladimir Il’ich Lenin
       - Pierre Pascal
+    translators:
+      - René Marchand
+      - G. Gorelik
     year: 1926
     language: French
     sources:
@@ -430,6 +435,9 @@ titles:
     authors:
       - Vladimir Ilʹič Lenin
       - Grigorij Evseevič Zinov′ev
+    translators:
+      - Victor Serge
+      - Maurice Parijanine
     year: 1927
     language: French
     links:
@@ -734,6 +742,8 @@ titles:
   - title: Peuple, écoute !
     authors:
       - Aleksandr Kolosov
+    translators:
+      - M. Mir
     year: 1927
     language: French
     sources:
@@ -847,9 +857,12 @@ titles:
         url: https://www.sudoc.fr/083359834
     verified: true
   - title: Dix jours qui ébranlèrent le monde
+    original_title: Ten days that shook the world
     series: Mémoires révolutionnaires
     authors:
       - John Reed
+    translators:
+      - Martin Stahl
     year: 1928
     language: French
     sources:
@@ -1014,8 +1027,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb31103028s
     verified: true
   - title: Principes du communisme
+    original_title: Die Grundsätze des Kommunismus
     authors:
       - Friedrich Engels
+    translators:
       - Marcel Ollivier
     year: 1928
     language: French
@@ -1672,6 +1687,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb31853119b
     verified: true
   - title: Contre la papauté. Pamphlet
+    original_title: Finansovyï kapital v mantii papy
     authors:
       - Nikolaj Ivanovič Bukharin
     year: 1930
@@ -1685,6 +1701,8 @@ titles:
   - title: Coty, l'ennemi du peuple
     subtitle: Un mois de campagne dans "L'Humanité"
     authors: []
+    editors:
+      - Armand Boutillier du Retail
     year: 1930
     language: French
     sources:
@@ -1695,9 +1713,10 @@ titles:
     series: Mémoires révolutionnaires
     authors:
       - John Reed
-      - Martin Stahl
       - Vladimir Ilʹič Lenin
       - Nadežda Konstantinovna Krupskaâ
+    translators:
+      - Martin Stahl
       - Pierre-Jules Hetzel
     year: 1930
     language: French
@@ -2058,6 +2077,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BB09645006
     verified: true
   - title: Souvenirs sur Lenine
+    original_title: Vospominaniâ o Lenine
     authors:
       - Nadežda Konstantinovna Krupskaâ
     year: 1930
@@ -2417,6 +2437,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb323723018
     verified: true
   - title: La grève
+    original_title: Stačka
     series: Épisodes et vies révolutionnaires; 1
     authors:
       - Pierre Nikiforov
@@ -2501,6 +2522,9 @@ titles:
     subtitle: Pièce en quatre actes
     authors:
       - Boris Andreevič Lavrenëv
+    translators:
+      - Aleksandr Aleksandrovič Rudnikov
+      - A. Oranovskaïa
     year: 1931
     language: French
     sources:
@@ -2574,6 +2598,7 @@ titles:
     verified: true
     pages: 86
   - title: Le plan quinquennal
+    original_title: Pi︠a︡tiletniĭ plan narodnogo khozi︠a︡ĭstva
     series: L'édification du socialisme en U.R.S.S
     authors:
       - Grigoriĭ Fedorovich Grinko
@@ -2793,6 +2818,7 @@ titles:
         url: https://www.sudoc.fr/102108420
     verified: true
   - title: O. Piatnitski. Souvenirs d'un bolchévik (1896-1917)
+    original_title: Zapiski bolʹševika
     authors:
       - Ossip Piatnitski
       - André-Édouard Marty
@@ -3705,6 +3731,8 @@ titles:
   - title: Les bolcheviks au Parlement tsariste
     authors:
       - Alekseĭ Egorovich Badaev
+    translators:
+      - Jeanne Dupont
     year: 1932
     series: Mémoires révolutionnaires -- 4
     language: French
@@ -3987,6 +4015,8 @@ titles:
   - title: Un des "25000"
     subtitle: La brigade de choc de la collectivisation
     authors: []
+    editors:
+      - A.-C. Izbasch
     year: 1932
     language: French
     sources:
@@ -5522,6 +5552,8 @@ titles:
     authors:
       - S. Sakaharov
       - Voltaire Radi
+    editors:
+      - S. Sakharov
     year: 1934
     language: French
     sources:
@@ -6020,6 +6052,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991034418379708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La crise économique, sociale, politique
+    original_title: Velyka kryza ta ii politychni naslidki
     authors:
       - Eugène Varga
     year: 1935
@@ -6682,11 +6715,13 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991005900349705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Des principes du léninisme
+    original_title: O Lenine i leninizme
     series: Les éléments du communisme
     authors:
       - Joseph Staline
-      - Georges Roux
       - N. Levinson
+    translators:
+      - Georges Roux
     year: 1936
     language: French
     sources:
@@ -6755,6 +6790,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991000148569705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: L' Etat et la Révolution
+    original_title: Gosudarstvo i revolûciâ
     series: Petite bibliothèque Lénine; 7
     authors:
       - Vladimir Ilʹič Lenin
@@ -7042,8 +7078,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=480788006
     verified: true
   - title: La question du logement
+    original_title: Zur Wohnungsfrage
     authors:
       - Friedrich Engels
+    translators:
+      - Léon Limon
     year: 1936
     series: Les éléments du communisme
     language: French
@@ -7062,6 +7101,8 @@ titles:
     series: Les éléments du communisme
     authors:
       - Iosif Vissarionovič Stalin
+    translators:
+      - Georges Roux
     year: 1936
     language: French
     sources:
@@ -7417,6 +7458,8 @@ titles:
     subtitle: '"Ils ne passeront pas"'
     authors:
       - Ilʹâ Grigorʹevič Èrenburg
+    translators:
+      - J. E. Pouterman
     year: 1936
     language: French
     sources:
@@ -7634,6 +7677,9 @@ titles:
   - title: Questions du léninisme
     authors:
       - Iosif Vissarionovič Stalin
+    translators:
+      - Alice Orane
+      - Georges Roux
     year: 1936
     language: French
     sources:
@@ -7643,6 +7689,8 @@ titles:
   - title: Socialisme utopique et socialisme scientifique
     authors:
       - Friedrich Engels
+    translators:
+      - Paul Lafargue
     year: 1936
     language: French
     links:
@@ -8109,6 +8157,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991056691549705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: La nouvell Constitución de l'U. R. S. S
+    original_title: Konstitutsiia, 1936
     authors:
       - Urss
       - Iosif Vissarionovich Stalin
@@ -8436,6 +8485,8 @@ titles:
     subtitle: Scènes de la guerre civile en Espagne
     authors:
       - Ilʹâ Grigorʹevič Èrenburg
+    translators:
+      - J. E. Pouterman
     year: 1937
     language: French
     sources:
@@ -8531,6 +8582,7 @@ titles:
     series: Les cahiers de contre-enseignement prolétarien; 21
     authors:
       - Margaret Schlauch
+    translators:
       - Berthold C. Friedl
     year: 1937
     language: French
@@ -9209,6 +9261,7 @@ titles:
     series: Épisodes et vies révolutionnaires
     authors:
       - Walter Haenisch
+    translators:
       - Osvaldo Blanco
     year: 1938
     language: German
@@ -9222,8 +9275,11 @@ titles:
     verified: true
   - title: Le Capital
     subtitle: Critique de l'économie politique
+    original_title: Das Kapital, Kritik der politischen Ökonomie
     authors:
       - Karl Marx
+    translators:
+      - Joseph Roy
     year: 1938
     language: French
     sources:
@@ -9252,6 +9308,7 @@ titles:
   - title: Le développement de la production capitaliste
     authors:
       - Karl Marx
+    translators:
       - Joseph Roy
     year: 1938
     language: French
@@ -9286,6 +9343,7 @@ titles:
   - title: Le Kapital, Critique de l'économie politique
     authors:
       - Karl Marx
+    translators:
       - Joseph Roy
     year: 1938
     language: French
@@ -9736,8 +9794,10 @@ titles:
     verified: true
   - title: Le Capital
     subtitle: Critique de l'économie politique
+    original_title: Das Kapital, Kritik der politischen Ökonomie
     authors:
       - Karl Marx
+    translators:
       - Joseph Roy
     year: 1939
     language: French
@@ -9779,6 +9839,8 @@ titles:
     series: Les éléments du communisme
     authors:
       - Friedrich Engels
+    translators:
+      - Paul A. Stéphane
     year: 1939
     language: French
     sources:
@@ -10096,6 +10158,8 @@ titles:
   - title: Marche des brigades de choc. Chant des Comsomols (jeunesses communistes russes). Arrangement par R. Caby.... Traduction de Germinal
     authors:
       - Robert Caby
+    translators:
+      - Germinal
     language: French
     sources:
       - title: BnF catalogue record cb42887296w

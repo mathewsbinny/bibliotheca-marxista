@@ -373,6 +373,8 @@ titles:
   - title: La montée du nationalisme en Algérie
     authors:
       - Aboul-Kassem Saadallah
+    translators:
+      - Joachim de Gonzalez
     year: 1983
     language: French
     pages: 371
@@ -1948,6 +1950,8 @@ titles:
     subtitle: Al-multaqá al-duwalī al-ǧazāʾirī, 24-28 nūfambar 1984
     authors:
       - Centre national d'études historiques
+    editors:
+      - Muḥammad Ṭawīlī
     year: 1985
     language: Arabic, French
     sources:
@@ -2213,6 +2217,8 @@ titles:
   - title: Iḥyā' ´ulūm al-dīn
     authors:
       - Muḥammad ibn Muḥammad Abū Ḥāmid al- Ġazālī
+    editors:
+      - Antoine Moussali
     year: 1985
     language: Multiple languages
     sources:
@@ -2353,6 +2359,8 @@ titles:
   - title: La montée du nationalisme algérien (1900-1930)
     authors:
       - Aboul-Kassem Saadallah
+    translators:
+      - Nevine Fawzy-Hemiry
     year: 1985
     edition: 2e ed
     language: French
@@ -2827,6 +2835,8 @@ titles:
   - title: Revivification des sciences de la religion
     authors:
       - al-Ghazzālī
+    translators:
+      - Antoine Moussali
     year: 1985
     language: French, Arabic
     pages: 225
@@ -3494,7 +3504,8 @@ titles:
     verified: true
   - title: Itinéraires brûlants
     subtitle: (Récits faits par Saïd Akrour)
-    authors:
+    authors: []
+    translators:
       - Chabane Ouahioune
     year: 1986
     language: French
@@ -4958,6 +4969,8 @@ titles:
   - title: L'Essentiel en pédiatrie
     authors:
       - Mostéfa Khiati
+    editors:
+      - Mostefa Khiati
     year: 1988
     language: French
     sources:
@@ -5023,6 +5036,7 @@ titles:
     subtitle: La guerre d'octobre 1973
     authors:
       - Saad Eddine Chazly
+    translators:
       - L. Brahimi
       - M. Brahimi
     year: 1988
@@ -5058,6 +5072,7 @@ titles:
     authors:
       - Muḥammad ibn ʿAbd al-Malik Ibn Ṭufayl
       - Georges Labica
+    translators:
       - Léon Gauthier
     year: 1988
     language: French
@@ -6024,8 +6039,10 @@ titles:
         url: https://www.sudoc.fr/192961896
     verified: true
   - title: L' Option militaire arabe
+    original_title: The Arab military option
     authors:
       - Saad Eddine El-shazly
+    translators:
       - Yamina Hellal
     year: 1990
     language: French
@@ -6089,6 +6106,7 @@ titles:
   - title: Le mouvement d'independance en Algérie entre-les-deux guerres
     authors:
       - Mohamed Guenaneche
+    translators:
       - Sid Ahmad Bouali
     year: 1990
     language: French
@@ -6656,8 +6674,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb35744041n
     verified: true
   - title: Djazya et les derviches
+    original_title: Ǧāziyaẗ wa-l-darawīš
     authors:
       - Abdelhamid Benhadouga
+    translators:
+      - Marcel Bois
     year: 1992
     language: French
     pages: 147

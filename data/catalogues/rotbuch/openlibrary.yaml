@@ -128,6 +128,7 @@ titles:
         url: https://search.worldcat.org/title/59616943
     verified: true
   - title: Marx und Engels nicht nur für Anfänger
+    original_title: Marks i Engel's
     series: Rotbuch (1968-); 105
     authors:
       - David Borisovič Rjazanov
@@ -185,6 +186,7 @@ titles:
     verified: true
   - title: Was will Niyazi in der Naunynstrasse
     subtitle: Ein Poem
+    original_title: Niyazi'nin Naunyn Sokaginda isi ne
     authors:
       - Aras Ören
     year: 1973
@@ -284,6 +286,7 @@ titles:
     verified: true
   - title: Die Profitklemme
     subtitle: Arbeitskampf und Kapitalkrise am Beispiel Grossbritanniens
+    original_title: British capitalism, workers and the profits squeeze
     series: Rotbuch; 121
     authors:
       - Andrew Glyn
@@ -538,6 +541,7 @@ titles:
     verified: true
   - title: Was will Niyazi in der Naunynstrasse
     subtitle: Ein Poem
+    original_title: Niyazi'nin Naunyn Sokaginda isi ne
     series: Rotbuch; 101
     authors:
       - Aras Ören
@@ -591,6 +595,7 @@ titles:
     verified: true
   - title: Das Trojanische Pferd
     subtitle: Die Äuslandshilfe" der USA"
+    original_title: The Trojan Horse
     series: Rotbuch; 135
     authors:
       - Nils Thomas Lindquist
@@ -782,9 +787,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991149867129705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Stücklohn
+    original_title: Darabbér
     series: Rotbuch; 130
     authors:
       - Miklós Haraszti
+    translators:
       - Georg Sallay
       - Heinrich Böll
     year: 1975
@@ -830,6 +837,7 @@ titles:
         url: https://archive.org/details/theaterarbeit0000mull
   - title: UdSSR 1975
     subtitle: Ein Rückblick in die Zukunft
+    original_title: Ot Nep'a k Socialismu
     authors:
       - E. A. Preobrazhenskiĭ
     year: 1975
@@ -1335,6 +1343,7 @@ titles:
     verified: true
   - title: Bezahlt wird nicht!
     subtitle: Eine Farce
+    original_title: Non si paga! Non si paga!
     authors:
       - Dario Fo
     year: 1977
@@ -1418,8 +1427,12 @@ titles:
     verified: true
   - title: Die ungelöste Judenfrage
     subtitle: Zur Dialektik von Antisemitismus und Zionismus
+    original_title: The non-Jewish Jew and other essays
     authors:
       - Isaac Deutscher
+    translators:
+      - Eike Geisel
+      - Mario Offenberg
     year: 1977
     language: German
     pages: 142
@@ -1853,6 +1866,7 @@ titles:
     verified: true
   - title: Einer für alle, alle für einen! Verzeihung, wer ist hier eigentlich der Boss?
     subtitle: Zufälliger Tod eines Anarchisten
+    original_title: Tutti uniti, tutti insieme! Ma scusa, quello non è il padrone?
     authors:
       - Dario Fo
     year: 1978
@@ -2046,6 +2060,7 @@ titles:
     verified: true
   - title: Oekotopia
     subtitle: Notizen und Reportagen von William Weston aus dem Jahre 1999
+    original_title: Ecotopia; aus dem amerikanischen uebersetzt von Ursula Clémeur und Reinhard Merker
     series: Rotbuch (1968-); 200
     authors:
       - Ernest Callenbach
@@ -2059,8 +2074,12 @@ titles:
     verified: true
   - title: Ökotopia
     subtitle: Notizen und Reportagen von William Weston aus dem Jahre 1999
+    original_title: Ecotopia
     authors:
       - Ernest Callenbach
+    translators:
+      - Ursula Clemeur
+      - Reinhard Merker
     year: 1978
     series: Rotbuch, 200
     language: German
@@ -2365,6 +2384,7 @@ titles:
         url: https://search.worldcat.org/title/5770408
     verified: true
   - title: Der französische Maulwurf
+    original_title: De la France
     authors:
       - Maria Antonietta Macciocchi
     year: 1979
@@ -2424,6 +2444,7 @@ titles:
     isbn: '3880222142'
   - title: Einer für alle, alle für einen! Verzeihung, wer ist hier eigentlich der Boss?
     subtitle: Zufälliger Tod eines Anarchisten
+    original_title: Tutti uniti, tutti insieme! Ma scusa, quello non è il padrone?
     series: Rotbuch; 188
     authors:
       - Dario Fo
@@ -2446,8 +2467,11 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BB11810546
     verified: false
   - title: Erinnerungen eines jüdischen Revolutionärs
+    original_title: Zikhroynes fun a Yidishn revolutsyoner
     authors:
       - Hersh Mendel
+    translators:
+      - Nele Lov-Beer
     year: 1979
     series: Rotbuch
     language: German
@@ -2617,9 +2641,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=333380967
     verified: true
   - title: Nur Kinder, Küche, Kirche
+    original_title: Tutta casa, letto e chiesa
     authors:
       - Franca Rame
       - Dario Fo
+    translators:
       - Renate Chotjewitz-Häfner
     year: 1979
     language: German
@@ -2631,6 +2657,8 @@ titles:
     subtitle: 10 [i.e. zehn] Jahre Betriebsarbeit bei Daimler-Benz
     authors:
       - Peter Grohmann
+    editors:
+      - Horst Sackstetter
     year: 1979
     series: Rotbuch
     language: German
@@ -2806,6 +2834,7 @@ titles:
     verified: true
   - title: Die Fremde ist auch ein Haus
     subtitle: Berlin-Poem
+    original_title: Gurbet değil artık
     authors:
       - Aras Ören
     year: 1980
@@ -3087,6 +3116,7 @@ titles:
     verified: true
   - title: Steine, Wiederholungen, Gitter
     subtitle: Gedichte
+    original_title: Petres Epanalēpseis Kigklidoma
     series: Rotbuch; 234
     authors:
       - Giannēs Ritsos
@@ -3132,6 +3162,7 @@ titles:
         url: https://archive.org/details/wersolldasallesa0000hube
   - title: Wie die anderen sterben
     subtitle: Die wahren Ursachen des Welthungers
+    original_title: How the other half dies
     series: Rotbuch; 179
     authors:
       - Susan George
@@ -3326,6 +3357,7 @@ titles:
     verified: true
   - title: Nach dem Scherbengericht
     subtitle: Über das Verhältnis von Feminismus und Sozialismus
+    original_title: The women's movement and organizing for socialism
     authors:
       - Sheila Rowbotham
     year: 1981
@@ -3370,6 +3402,7 @@ titles:
     verified: true
   - title: Rüstungsbarock
     subtitle: Das Arsenal der Zerstörung und das Ende der militärischen Techno-Logik
+    original_title: The baroque arsenal
     authors:
       - Mary Kaldor
     year: 1981
@@ -4005,6 +4038,7 @@ titles:
     verified: true
   - title: Das Schluchzen des weissen Mannes
     subtitle: Europa und die Dritte Welt - eine Polemik
+    original_title: Le sanglot de l'homme blanc
     series: Rotbuch; Bd.293
     authors:
       - Pascal Bruckner
@@ -4095,6 +4129,9 @@ titles:
     series: Kursbuch; 72
     authors:
       - Christine Nöstlinger
+    editors:
+      - Karl Markus Michel
+      - Tilman Spengler
     year: 1983
     language: German
     sources:
@@ -4104,6 +4141,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991006910529705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Freie Tribüne oder Das Buch der Randbemerkungen zur allpolnischen Integrationsbewegung der jungen sozialistischen Intelligenz, den Teilnehmern der Integrationsbewegung für die Zeit vom 7. April bis. zum 18. Dezember 1994 zur Verfügung gestellt und im Rahmen der Vorbereitungen auf die 50-Jahrfeier der Volksrepublik Polen im Kulturhaus Wladimir Iljic Lenin (Warschau, Altstadtmarkt 3) ausgelegt
+    original_title: Wolna trybuna
     series: Aus der Reihe
     authors:
       - Christian Skrzyposzek
@@ -4248,6 +4286,7 @@ titles:
     verified: true
   - title: Ökotopia
     subtitle: Notizen und Reportagen von William Weston aus dem Jahre 1999
+    original_title: Ecotopia
     series: Rotbuch; Bd. 200
     authors:
       - Ernest Callenbach
@@ -4376,8 +4415,11 @@ titles:
     verified: false
   - title: Wege ins Paradies
     subtitle: Thesen zur Krise, Automation und Zukunft der Arbeit
+    original_title: Les chemins du paradis
     authors:
       - André Gorz
+    translators:
+      - Eva Moldenhauer
     year: 1983
     series: Rotbuch, 279
     language: German
@@ -4409,9 +4451,11 @@ titles:
     verified: true
   - title: Aufwiegelung zur Gesundheit
     subtitle: Aufzeichnungen eines französischen Kassenarztes
+    original_title: Médicine generale
     series: Rotbuch; 217
     authors:
       - Jean Carpentier
+    translators:
       - Uta Goridis
     year: 1984
     language: German
@@ -4421,6 +4465,7 @@ titles:
     verified: true
   - title: Das Schluchzen des weissen Mannes
     subtitle: Europa und die Dritte Welt - eine Polemik
+    original_title: Le sanglot de l'homme blanc
     series: Rotbuch; 293
     authors:
       - Pascal Bruckner
@@ -4567,8 +4612,11 @@ titles:
     verified: true
   - title: Klaus Barbie, Lyon, Augsburg, La Paz
     subtitle: Karriere eines Gestapo-Chefs
+    original_title: Klaus Barbie
     authors:
       - Tom Bower
+    translators:
+      - Niels Kadritzke
     year: 1984
     series: Rotbuch -- Bd. 295
     language: German
@@ -4640,10 +4688,12 @@ titles:
     verified: true
   - title: Nur Kinder, Küche, Kirche
     subtitle: Zwei Stücke und ein Bericht über Franca Rame von Renate Häfner
+    original_title: Tutto casa letto e chiesa
     series: Rotbuch; 202
     authors:
       - Franca Rame
       - Dario Fo
+    translators:
       - Renate Chotjewitz-Häfner
       - Peter O. Chotjewitz
     year: 1984
@@ -4757,6 +4807,7 @@ titles:
     verified: true
   - title: Wege ins Paradies
     subtitle: Thesen zur Krise, Automation und Zukunft der Arbeit
+    original_title: <<Les>> chemins du paradis
     series: Rotbuch; 279
     authors:
       - André Gorz
@@ -4965,6 +5016,7 @@ titles:
     verified: true
   - title: Die Politik des Begehrens
     subtitle: Sexualität, Pornographie und neuer Puritanismus in den USA
+    original_title: 'Powers of desire : the politics of sexuality'
     authors:
       - Ann Barr Snitow
       - Christine Stansell
@@ -5097,6 +5149,7 @@ titles:
     verified: false
   - title: Offene Zweierbeziehung; Eine Mutter; Die Vergewaltigung
     subtitle: Drei Stücke und eine Nachbemerkung zu Franca Rame
+    original_title: Una coppia aperta
     authors:
       - Franca Rame
     year: 1985
@@ -5209,8 +5262,9 @@ titles:
     series: Aus der Reihe
     authors:
       - Yvan Goll
-      - Hans Thill
       - Karsten Witte
+    translators:
+      - Hans Thill
     year: 1985
     language: German
     sources:
@@ -5220,6 +5274,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=273698982
     verified: true
     subtitle: Roman
+    original_title: Sodome et Berlin
   - title: Texte
     series: Rotbuch
     authors:
@@ -5232,6 +5287,7 @@ titles:
     verified: true
   - title: Wege ins Paradies
     subtitle: Thesen zur Krise, Automation und Zukunft der Arbeit
+    original_title: Les chemins du paradis
     series: Rotbuch; 279
     authors:
       - André Gorz
@@ -5296,6 +5352,7 @@ titles:
     series: Aus der Reihe
   - title: Zug nach Helsinki
     subtitle: Roman
+    original_title: Il treno per Helsinki
     authors:
       - Dacia Maraini
     year: 1985
@@ -5306,6 +5363,7 @@ titles:
     verified: true
   - title: Ansilania, oder, Die Geschichte darunter
     subtitle: Roman
+    original_title: La historia subyacente
     authors:
       - Hernán Valdés
     year: 1986
@@ -5425,6 +5483,7 @@ titles:
     isbn: '3880223238'
   - title: Bezahlt wird nicht!
     subtitle: Eine Farce
+    original_title: Non si paga! Non si paga!
     series: Rotbuch; 166
     authors:
       - Dario Fo
@@ -5520,6 +5579,7 @@ titles:
     verified: true
   - title: Elisabetta
     subtitle: 'Isabella, drei Karavellen und ein Scharlatan: zwei Stücke und eine historische Nachbemerkung'
+    original_title: 'Quasi per caso una donna: Elisabetta'
     series: Rotbuch; 316
     authors:
       - Dario Fo
@@ -5567,6 +5627,7 @@ titles:
     verified: true
   - title: Feind schreibt mit
     subtitle: Ein amerikanischer Korrepondent erlebt Nazi-Deutschland
+    original_title: Last train from Berlin
     authors:
       - Howard Kingsbury Smith
     year: 1986
@@ -5666,6 +5727,7 @@ titles:
     verified: true
   - title: Mutter Maschine
     subtitle: Reproduktionstechnologien - von der künstlichen Befruchtung zur künstlichen Gebärmutter
+    original_title: The mother machine
     authors:
       - Gena Corea
     year: 1986
@@ -5676,11 +5738,13 @@ titles:
     verified: true
   - title: MutterMaschine
     subtitle: Reproduktionstechnologien - von der künstlichen Befruchtung zur künstlichen Gebärmutter
+    original_title: <<The>> mother machine
     series: Aus der Reihe
     authors:
       - Gena Corea
-      - Pieke Biermann
       - Paula Bradish
+    translators:
+      - Pieke Biermann
     year: 1986
     language: German
     sources:
@@ -5707,9 +5771,11 @@ titles:
     verified: true
   - title: Ökotopia
     subtitle: Notizen und Reportagen von William Weston aus dem Jahre 1999
+    original_title: Ecotopia
     series: Rotbuch; 200
     authors:
       - Ernest Callenbach
+    translators:
       - Ursula Clemeur
     year: 1986
     language: German
@@ -5734,6 +5800,7 @@ titles:
     verified: true
   - title: Sohn ihres Vaters
     subtitle: Roman
+    original_title: L'enfant de sable
     authors:
       - Tahar Ben Jelloun
     year: 1986
@@ -5987,6 +6054,7 @@ titles:
     verified: true
   - title: Endspiel Südafrika
     subtitle: Eine Anatomie der Apartheid
+    original_title: Endgame in South Africa?
     authors:
       - Robin Cohen
     year: 1987
@@ -6006,6 +6074,7 @@ titles:
     verified: true
   - title: Er hatte zwei Pistolen und seine Augen Waren schwarz und weiss
     subtitle: Komödie in drei Akten mit Gesang
+    original_title: Aveva due pistole con gli occhi bianchi è neri
     authors:
       - Dario Fo
     year: 1987
@@ -6044,6 +6113,7 @@ titles:
     verified: true
   - title: Hohn der Angst
     subtitle: Eine Farce über die Entführung einer hochgestellten Persönlichkeit
+    original_title: Clacson trombette e pernacchie
     series: Rotbuch; 252
     authors:
       - Dario Fo
@@ -6148,6 +6218,7 @@ titles:
     verified: true
   - title: Oekotopia
     subtitle: Notizen und Reportagen von William Weston aus dem Jahre 1999
+    original_title: Ecotopia
     series: Rotbuch; 200
     authors:
       - Ernest Callenbach
@@ -6159,9 +6230,11 @@ titles:
     verified: true
   - title: Offene Zweibeziehungen
     subtitle: 'Eine Mutter; Die Vergewaltigung: drei Stücke und eine Nachbemerkung zu Franca Rame'
+    original_title: <<Una>> coppia aperta
     authors:
       - Dario Fo
       - Franca Rame
+    translators:
       - Renate Chotjewitz-Häfner
     year: 1987
     language: German
@@ -6298,9 +6371,10 @@ titles:
     authors:
       - Gilbert Shelton
       - Paul Mavrides
+      - Marjanne Nuss
+    translators:
       - Gerhard Seyfried
       - Holger Behm
-      - Marjanne Nuss
     year: 1987
     language: German
     sources:
@@ -6318,6 +6392,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1168984858
     verified: true
   - title: Bärendienst
+    original_title: The closet hanging
     series: Rotbuch-Krimi
     authors:
       - Tony Fennelly
@@ -6360,6 +6435,7 @@ titles:
     verified: true
   - title: Der Nichtjüdische Jude
     subtitle: Essays
+    original_title: The Non-Jewish Jew and other essays
     authors:
       - Isaac Deutscher
       - Tamara Deutscher
@@ -6382,6 +6458,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991138180369705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Die Nacht der Unschuld
+    original_title: La nuit sacrée
     series: Der andere Literaturclub
     authors:
       - Tahar Ben Jelloun
@@ -6404,8 +6481,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991091921129705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Die verschwundene Bibliothek
+    original_title: Biblioteca scomparsa
     authors:
       - Luciano Canfora
+    translators:
       - Andreas Beyer
     year: 1988
     language: German
@@ -6414,6 +6493,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991154861279705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Die Zukunft der Demokratie
+    original_title: <<Il>> futuro della democrazia
     series: Rotbuch Rationen
     authors:
       - Norberto Bobbio
@@ -6444,8 +6524,11 @@ titles:
         url: https://search.worldcat.org/title/25073324
     verified: true
   - title: Exodus und Revolution
+    original_title: Exodus and revolution
     authors:
       - Michael Walzer
+    translators:
+      - Bernd Rullkötter
     year: 1988
     edition: 1. Auflage
     series: Rotbuch Rationen
@@ -6531,8 +6614,10 @@ titles:
     verified: true
   - title: Isolina
     subtitle: Die zerstückelte Frau
+    original_title: Isolina
     authors:
       - Dacia Maraini
+    translators:
       - Pieke Biermann
     year: 1988
     language: German
@@ -6642,6 +6727,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991040796189705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Niederungen
+    original_title: Niederungen. Bukarest, 1982
     authors:
       - Herta Müller
     year: 1988
@@ -6845,6 +6931,7 @@ titles:
     verified: true
   - title: Das Geschlecht des Lebens
     subtitle: Frauen, Ökologie und Dritte Welt
+    original_title: Staying alive. 1988
     authors:
       - Vandana Shiva
     year: 1989
@@ -6919,6 +7006,7 @@ titles:
     verified: true
   - title: Die Kreatur
     subtitle: Roman
+    original_title: The nihilesthete
     authors:
       - Richard Kalich
       - Horst Schäfer
@@ -6959,6 +7047,7 @@ titles:
     isbn: '3880220115'
   - title: Erkenntnis Maschinen verstehen
     subtitle: Zur Neugestaltung von Computersystemen
+    original_title: Understanding computers and cognition
     series: Rotbuch Rationen
     authors:
       - Terry Winograd
@@ -7151,6 +7240,7 @@ titles:
     verified: true
   - title: Kritik der ökonomischen Vernunft
     subtitle: Sinnfragen am Ende der Arbeitsgesellschaft
+    original_title: Métamorphoses du travail
     authors:
       - André Gorz
       - Otto Kallscheuer
@@ -7600,10 +7690,12 @@ titles:
         url: https://search.worldcat.org/title/217351164
     verified: true
   - title: Die verlorene Geschichte des Thukydides
+    original_title: Storie di oligarchi
     authors:
       - Luciano Canfora
-      - Hugo Beyer
       - Otto Kallscheuer
+    translators:
+      - Hugo Beyer
     year: 1990
     language: German
     sources:
@@ -7637,6 +7729,7 @@ titles:
     verified: true
   - title: Einer für alle, alle für einen! Verzeihung, wer ist hier eigentlich der Boss?
     subtitle: Zufälliger Tod eines Anarchisten
+    original_title: Tutti uniti, tutti insieme! Ma scusa, quello non è il padrone?
     series: Rotbuch; 188
     authors:
       - Dario Fo
@@ -7719,6 +7812,7 @@ titles:
         url: https://lccn.loc.gov/90224181
     verified: true
   - title: Harrouda
+    original_title: Harrouda
     authors:
       - Tahar Ben Jelloun
     year: 1990
@@ -7749,6 +7843,7 @@ titles:
         url: https://archive.org/details/heinermullerzurl0000mull
     verified: true
   - title: Kains Alternative
+    original_title: Kains alternativ
     series: Rotbuch Krimi; 11
     authors:
       - Jan Stage
@@ -7760,6 +7855,7 @@ titles:
     verified: true
   - title: Kritik der ökonomischen Vernunft
     subtitle: Sinnfragen am Ende der Arbeitsgesellschaft
+    original_title: Métamorphoses du travail, quête du sens
     series: Rotbuch Rationen
     authors:
       - André Gorz
@@ -7871,8 +7967,11 @@ titles:
     verified: true
   - title: Offene Zweierbeziehung; Eine Mutter; Die Vergewaltigung
     subtitle: Drei Stücke und eine Nachbemerkung zu Franca Rame
+    original_title: Una coppia aperta
     authors:
       - Franca Rame
+    translators:
+      - Renate Chotjewitz-Häfner
     year: 1990
     language: German
     pages: 92
@@ -7892,6 +7991,7 @@ titles:
     series: Rotbuch Taschenbuch; 29
   - title: Ökotopia
     subtitle: Notizen und Reportagen von William Weston aus dem Jahre 1999 [sic]
+    original_title: Ecotopia
     authors:
       - Ernest Callenbach
     year: 1990
@@ -8035,9 +8135,10 @@ titles:
   - title: The fabulous furry Freak Brothers
     authors:
       - Gilbert Shelton
+      - Marianne Nuß
+    translators:
       - Holger Behm
       - Gerhard Seyfried
-      - Marianne Nuß
     year: 1990
     language: German
     sources:

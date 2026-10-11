@@ -98,6 +98,7 @@ titles:
     verified: true
   - title: Visión en llamas
     subtitle: Emma Goldman y la revolución española
+    original_title: 'Vision on fire : Emma Goldman on the Spanish revolution'
     authors:
       - Emma Goldman
     year: 1993
@@ -107,6 +108,7 @@ titles:
         url: https://www.sudoc.fr/167820877
     verified: true
   - title: Dios y el Estado
+    original_title: Dieu et l'état
     authors:
       - Mijail Aleksandrovich Bakunin
     year: 1997
@@ -140,6 +142,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991040824009708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Manifiesto comunista
+    original_title: Manifest der Kommunistischen Partei
     authors:
       - Karl Marx
       - Friedrich Engels
@@ -213,6 +216,7 @@ titles:
     verified: true
   - title: Yo acuso o la verdad en marcha
     subtitle: (El caso Dreyfus)
+    original_title: J'accuse
     authors:
       - Émile Zola
       - Josep Torrell
@@ -273,6 +277,9 @@ titles:
   - title: Para que el socialismo tenga futuro
     authors:
       - Pedro Chaves
+    editors:
+      - Manuel Monereo
+      - Pedro Chaves Giraldo
     year: 1999
     series: Ensayo / El Viejo Topo
     language: Spanish
@@ -298,6 +305,8 @@ titles:
       - Mayra Espina Prieto
       - Manolo Monereo
       - Miguel Riera
+    editors:
+      - Juan Valdés Paz
     year: 2000
     language: Spanish
     pages: 390
@@ -316,6 +325,10 @@ titles:
     verified: true
   - title: La investigación social participativa
     authors: []
+    editors:
+      - Tomás Rodríguez Villasante
+      - Manuel Montañés Serrano
+      - Joel Martí Olivé
     year: 2000
     language: Spanish
     sources:
@@ -402,6 +415,10 @@ titles:
     verified: true
   - title: Prácticas locales de creatividad social
     authors: []
+    editors:
+      - Tomás Rodríguez Villasante
+      - Manuel Montañés Serrano
+      - Pedro Martín Gutiérrez
     year: 2001
     language: Spanish
     sources:
@@ -624,9 +641,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb391687702
     verified: true
   - title: Hijos del libre comercio
+    original_title: 'The children of nafta : labor wars on the U. S. /Mexico border'
     series: Colección Textos inquietos
     authors:
       - David Bacon
+    translators:
       - Gemma Galdón
     year: 2003
     language: Spanish
@@ -694,6 +713,9 @@ titles:
     subtitle: Una crítica del proyecto de la convención y razones para una Europa alternativa
     authors:
       - Antonio Cantaro
+    editors:
+      - Xavier Pedrol
+      - Gerardo Pisarello
     year: 2004
     language: Spanish
     pages: 169
@@ -778,8 +800,11 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991035723049708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Contrahistoria del liberalismo
+    original_title: Controstoria del liberalismo
     authors:
       - Domenico Losurdo
+    translators:
+      - Marcia Gasca
     year: 2005
     language: Spanish
     pages: 376
@@ -866,6 +891,8 @@ titles:
     subtitle: Sobre la tradición marxista y los nuevos problemas
     authors:
       - Manuel Sacristán Luzón
+    editors:
+      - Salvador López Arnal
     year: 2005
     language: Spanish
     pages: 246
@@ -904,6 +931,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991014644109708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Democracia y lucha de clases en la Antigüedad
+    original_title: Demokratie und Klassenkampf im Altertum
     authors:
       - Arthur Rosenberg
     year: 2006
@@ -949,6 +977,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb401773656
     verified: true
   - title: Mitos y mentiras de la transición
+    original_title: Le mythe du "Modèle espagnol" de transition à la démocratie
     authors:
       - Bénédicte André-Bazzana
     year: 2006
@@ -977,6 +1006,7 @@ titles:
     verified: true
   - title: Resistencias
     subtitle: Ensayo de topología general
+    original_title: Résistances
     authors:
       - Daniel Bensaïd
     year: 2006
@@ -1004,6 +1034,7 @@ titles:
     verified: true
   - title: Banco Mundial
     subtitle: 'El golpe de estado permanente: la agenda oculta del consenso de Washington'
+    original_title: Banque mondiale
     authors:
       - Éric Toussaint
     year: 2007
@@ -1042,6 +1073,7 @@ titles:
       - Serguei Anatolevich Batchikov
       - Serguei Iurevich Glasev
       - Serguei Georguevich Kara-Murza
+    translators:
       - Antonio Fernández-Ortiz
     year: 2007
     language: Spanish
@@ -1104,6 +1136,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991036545999708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Los paraísos fiscales
+    original_title: Les paradis fiscaux
     authors:
       - Christian Chavagneux
       - Ronen Palan
@@ -1140,6 +1173,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991095931249705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Por la desobediencia cívica
+    original_title: Pour la désobéissance civique
     authors:
       - José Bové
       - Gilles Luneau
@@ -1150,6 +1184,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991036804159708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Por la quinta internacional
+    original_title: Pour la cinquième internationale
     authors:
       - Samir Amin
     year: 2007
@@ -1159,6 +1194,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991008636999708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Trotskismos
+    original_title: Les trotskysmes
     authors:
       - Daniel Bensaïd
     year: 2007
@@ -1169,6 +1205,7 @@ titles:
     verified: true
   - title: Un hombre por un costal de trigo
     subtitle: Memorias de un soldado republicano
+    original_title: Un homme par un sac de blé
     authors:
       - Cosme Campsolinas
     year: 2007
@@ -1211,8 +1248,10 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991010709779708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: El ahorcamiento
+    original_title: La Pendaison
     authors:
       - Jean Laffitte
+    translators:
       - Josep Sarret Grau
     year: 2008
     language: Spanish
@@ -1352,6 +1391,7 @@ titles:
     verified: true
   - title: El nuevo siglo XXI
     subtitle: Del siglo americano al retorno de las naciones
+    original_title: Le nouveau XXIe siècle
     authors:
       - Jacques Sapir
     year: 2009
@@ -1391,6 +1431,7 @@ titles:
     verified: true
   - title: La crisis
     subtitle: Salir de la crisis del capitalismo o salir del capitalismo en crisis
+    original_title: La crise
     authors:
       - Samir Amin
     year: 2009
@@ -1504,6 +1545,8 @@ titles:
     authors:
       - Alejandro Andreassi Cieri
       - Aldo Agosti
+    editors:
+      - José Luis Martín Ramos
     year: 2010
     language: Spanish
     pages: 356
@@ -1729,6 +1772,7 @@ titles:
     verified: true
   - title: Decrecimiento
     subtitle: Diez preguntas para comprenderlo y debatirlo
+    original_title: La décroissance
     authors:
       - Denis Bayon
       - Fabrice Flipo
@@ -1741,6 +1785,7 @@ titles:
     verified: true
   - title: Decrecimiento y posdesarrollo
     subtitle: El pensamiento creativo contra la economía del absurdo
+    original_title: Décoloniser l'imaginaire
     authors:
       - Serge Latouche
     year: 2011
@@ -1897,6 +1942,8 @@ titles:
     authors:
       - Josep Lluís Martín i Ramos
       - Marta Campoy
+    editors:
+      - José Luis Martín Ramos
     year: 2011
     language: Spanish
     pages: 350
@@ -1932,6 +1979,7 @@ titles:
     verified: true
   - title: Stalin
     subtitle: Historia y crítica de una leyenda negra
+    original_title: Stalin
     authors:
       - Domenico Losurdo
       - Luciano Canfora
@@ -1945,6 +1993,7 @@ titles:
       - label: Read or download (Internet Archive)
         url: https://archive.org/details/stalin-historia-y-critica-de-una-leyenda-negra
   - title: Vida y muerte de Mary Wollstonecraft
+    original_title: The life and death of Mary Wollstonecraft
     authors:
       - Claire Tomalin
     year: 2011
@@ -2043,6 +2092,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991140560349705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: El fin del capitalismo tal y como lo conocemos
+    original_title: Das Ende des Kapitalismus, wie wir ihn kennen
     authors:
       - Elmar Altvater
     year: 2012
@@ -2067,6 +2117,7 @@ titles:
     verified: true
   - title: La ley del valor mundializada
     subtitle: Por un Marx sin fronteras
+    original_title: La loi de la valeur mondialisée
     authors:
       - Samir Amin
     year: 2012
@@ -2106,6 +2157,7 @@ titles:
     verified: true
   - title: Más allá de la frontera
     subtitle: 'La política de una misión fracasada: Bulgaria, 1944'
+    original_title: Beyond the frontier
     authors:
       - E. P. Thompson
     year: 2012
@@ -2178,6 +2230,7 @@ titles:
     verified: true
   - title: Adiós al crecimiento
     subtitle: Vivir en un mundo solidario y sostenible
+    original_title: Adieu à la croissance
     authors:
       - Florent Marcellesi
       - Jean Gadrey
@@ -2318,6 +2371,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991045644599708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La otra historia de la guerra de Vietnam
+    original_title: A People's History of the Vietnam War
     authors:
       - Jonathan Neale
     year: 2013
@@ -2359,6 +2413,7 @@ titles:
     verified: true
   - title: Nuevo compendio de "El capital"
     subtitle: Síntesis del libro I de "El capital" de Marx con referencias y comparaciones con la realidad contemporánea
+    original_title: Nuovo compendio del Capitale
     authors:
       - Domenico Moro
       - Karl Marx
@@ -2372,6 +2427,9 @@ titles:
     subtitle: Ensayos sobre ciencias y humanidades
     authors:
       - Francisco Fernández Buey
+    editors:
+      - Salvador López Arnal
+      - Jordi Mir García
     year: 2013
     series: Ensayo
     language: Spanish
@@ -2388,6 +2446,8 @@ titles:
   - title: Sobre Gerónimo
     authors:
       - Manuel Sacristán Luzón
+    editors:
+      - Salvador López Arnal
     year: 2013
     language: Spanish
     pages: 243
@@ -2405,6 +2465,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991045685249708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Stalin y el estalinismo
+    original_title: Stalin and stalinism
     authors:
       - Alan Wood
     year: 2013
@@ -2459,6 +2520,7 @@ titles:
     verified: true
   - title: 1914-2014
     subtitle: Europa, ¿fuera de la historia?
+    original_title: 1914-2014, L'Europe sortie de l'histoire?
     authors:
       - Jean-Pierre Chevènement
     year: 2014
@@ -2469,6 +2531,7 @@ titles:
     verified: true
   - title: Amor y capital
     subtitle: Karl y Jenny Marx y el nacimiento de una revolución
+    original_title: Love and capital
     authors:
       - Mary Gabriel
     year: 2014
@@ -2480,6 +2543,8 @@ titles:
   - title: Claves para construir el socialismo del siglo XXI
     authors:
       - Academia de Pensamiento Crítico (Spain). Curso de Verano
+    editors:
+      - Andrés Piqueras Infante
     year: 2014
     language: Spanish
     pages: 133
@@ -2559,6 +2624,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=821856774
     verified: true
   - title: El final del crecimiento
+    original_title: The end of growth
     authors:
       - Richard Heinberg
     year: 2014
@@ -2580,6 +2646,7 @@ titles:
     verified: true
   - title: El socialismo traicionado
     subtitle: Detrás del colapso de la Unión Soviética, 1917-1991
+    original_title: Socialism betrayed
     authors:
       - Roger Keeran
       - Thomas Kenny
@@ -2649,8 +2716,10 @@ titles:
     verified: true
   - title: La lucha de clases
     subtitle: Una historia política y filosófica
+    original_title: La lotta di classe
     authors:
       - Domenico Losurdo
+    translators:
       - Juan Vivanco
     year: 2014
     language: Spanish
@@ -2743,6 +2812,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991053619609708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: '1914'
+    original_title: '1914'
     authors:
       - Luciano Canfora
     year: 2015
@@ -2775,6 +2845,7 @@ titles:
     verified: true
   - title: Bildelberg
     subtitle: La elite del poder mundial
+    original_title: Il Gruppo Bilderberg
     authors:
       - Domenico Moro
     year: 2015
@@ -2785,6 +2856,7 @@ titles:
     verified: true
   - title: China y el capitalismo global
     subtitle: Reflexiones sobre el marxismo, historia y política
+    original_title: China and global capitalism
     authors:
       - Chun Lin
     year: 2015
@@ -2831,6 +2903,7 @@ titles:
     verified: true
   - title: Desconexión digital
     subtitle: Cómo el capitalismo está poniendo a internet en contra de la democracia
+    original_title: Digital disconnect
     authors:
       - Robert Waterman McChesney
     year: 2015
@@ -2841,10 +2914,12 @@ titles:
     verified: true
   - title: El arenque de Bismarck
     subtitle: (El veneno alemán)
+    original_title: Le hareng de Bismarck
     authors:
       - Jean-Luc Mélenchon
       - Pablo Iglesias
       - Manolo Monereo
+    translators:
       - Juan Vivanco
     year: 2015
     language: Spanish
@@ -2912,6 +2987,7 @@ titles:
     verified: true
   - title: Europa y capitalismo
     subtitle: Para reabrir el futuro
+    original_title: Europa e capitalismo
     authors:
       - Diego Fusaro
     year: 2015
@@ -2943,6 +3019,7 @@ titles:
     verified: true
   - title: La izquierda ausente
     subtitle: Crisis, sociedad del espectáculo, guerra
+    original_title: La sinistra assente
     authors:
       - Domenico Losurdo
       - Juan Vivanco
@@ -3027,8 +3104,10 @@ titles:
     verified: true
   - title: Repensando América Latina
     subtitle: Desarrollo, hegemonía y transformación social
+    original_title: Rethinking Latin America
     authors:
       - Ronaldo Munck
+    translators:
       - Julia Calzadilla
     year: 2015
     language: Spanish
@@ -3041,6 +3120,9 @@ titles:
   - title: Sobre federalismo, autodeterminación y republicanismo
     authors:
       - Francisco Fernández Buey
+    editors:
+      - Salvador López Arnal
+      - Jordi Mir García
     year: 2015
     language: Spanish
     pages: 153
@@ -3060,6 +3142,8 @@ titles:
       - Francisco Fernández Buey
       - Salvado López
       - Jordi Mir García
+    editors:
+      - Salvador López Arnal
     year: 2015
     language: Spanish
     sources:
@@ -3124,6 +3208,7 @@ titles:
     verified: true
     subtitle: Una novela basada en el asesinato de Lasa y Zabala y el terrorismo de Estado
   - title: El nuevo imperialismo
+    original_title: The new imperialism of globalized monopoly-finance capital
     authors:
       - John Bellamy Foster
     year: 2016
@@ -3144,6 +3229,7 @@ titles:
     verified: true
   - title: La 'Ndrangheta
     subtitle: Una mafia en la sombra
+    original_title: La 'Ndrangheta, spiegata ai turisti
     authors:
       - Francesco Forgione
     year: 2016
@@ -3154,6 +3240,7 @@ titles:
     verified: true
   - title: La chapuza
     subtitle: Moneda europea y soberanía democrática
+    original_title: La malfaçon
     authors:
       - Frédéric Lordon
     year: 2016
@@ -3264,6 +3351,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991058175959708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Rusia en la larga duración
+    original_title: Russia and the long transition from capitalism to socialism
     authors:
       - Samir Amin
     year: 2016
@@ -3288,6 +3376,7 @@ titles:
     verified: true
   - title: Un mundo sin guerras
     subtitle: La idea de paz, de las promesas del pasado a las tragedias del presente
+    original_title: Un mondo senza guerre
     authors:
       - Domenico Losurdo
     year: 2016
@@ -3303,6 +3392,8 @@ titles:
       - Mariona Petit
       - Ramon Torrent
       - Salvador López
+    editors:
+      - Salvador López Arnal
     year: 2016
     series: Ensayo
     language: Spanish
@@ -3324,6 +3415,7 @@ titles:
     verified: true
   - title: Yihad made in USA
     subtitle: De cómo Estados Unidos utiliza el islamismo para remodelar el Gran Oriente Medio
+    original_title: Jihad made in USA
     authors:
       - Grégoire Lalieu
       - Mohamed Hassan
@@ -3335,6 +3427,7 @@ titles:
     verified: true
   - title: ¿Libres o vasallos?
     subtitle: El dilema digital
+    original_title: Lliures o vasalls?
     authors:
       - Aina Fernàndez i Aragonès
       - Albert Garcia Pujadas
@@ -3364,6 +3457,9 @@ titles:
     subtitle: Variaciones sobre la Revolución de Octubre, su historia y sus consecuencias
     authors:
       - Francisco Fernández Buey
+    editors:
+      - Salvador López Arnal
+      - Jordi Mir García
     year: 2017
     language: Spanish
     sources:
@@ -3393,6 +3489,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991008051349708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Catalanismo y revolución burguesa
+    original_title: Catalanisme i revolucio burgesa
     authors:
       - Jordi Solé Tura
       - Javier Cercas
@@ -3407,6 +3504,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991008051589708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Cazadores de materias primas
+    original_title: Chasseurs de matières premières
     authors:
       - Raf Custers
     year: 2017
@@ -3586,6 +3684,7 @@ titles:
     verified: true
   - title: La Larga Depresión
     subtitle: Cómo ocurrió, por qué ocurrió y qué ocurrirá a continuación
+    original_title: The Long Depression
     authors:
       - Michael Roberts
     year: 2017
@@ -3608,6 +3707,7 @@ titles:
     verified: true
   - title: La moral anarquista
     subtitle: Seguida de Justicia y moralidad
+    original_title: La morale anarchiste
     authors:
       - Piotr Alekseevich Kropotkin
     year: 2017
@@ -3618,6 +3718,7 @@ titles:
     verified: true
   - title: La Revolución de octubre
     subtitle: Cien años después
+    original_title: October 1917 Revolution
     authors:
       - Samir Amin
     year: 2017
@@ -3627,6 +3728,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991005365139708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: La variante populista, lucha de clases en el neoliberalismo
+    original_title: Lotta di classe nel neoliberalismo
     authors:
       - Carlo Formenti
     year: 2017
@@ -3676,6 +3778,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991008083639708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Nuestras mitologías económicas
+    original_title: Nos mythologies économiques
     authors:
       - Éloi Laurent
     year: 2017
@@ -3685,8 +3788,10 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991004913999708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Octubre 1917
+    original_title: The October 1917 revolution started off the transformation of the world
     authors:
       - Samir Amin
+    translators:
       - Josep Sarret Grau
     year: 2017
     language: Spanish
@@ -3713,6 +3818,7 @@ titles:
     verified: true
   - title: Todavía Marx
     subtitle: El espectro que retorna
+    original_title: Ancora Marx
     authors:
       - Diego Fusaro
     year: 2017
@@ -3725,6 +3831,7 @@ titles:
     subtitle: Escritos sobre jacobinismo, bolchevismo, Lenin y la Revolución rusa
     authors:
       - Antonio Gramsci
+    translators:
       - Joan Tafalla
     year: 2018
     language: Spanish
@@ -3787,6 +3894,7 @@ titles:
     subtitle: Informes de la policía secreta y otros documentos sobre Karl Marx
     authors:
       - G. Tridon
+    translators:
       - Juan Vivanco
     year: 2018
     language: Spanish
@@ -3796,6 +3904,7 @@ titles:
     verified: true
   - title: Filosofía y esperanza
     subtitle: Ernst Bloch y Karl Löwith, intérpretes de Marx
+    original_title: Filosofia e speranza
     authors:
       - Diego Fusaro
     year: 2018
@@ -3818,8 +3927,10 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991009927129708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Historia de la república romana
+    original_title: Geschichte der römischen Republik
     authors:
       - Arthur Rosenberg
+    translators:
       - Margarita Nelken
     year: 2018
     language: Spanish
@@ -3829,6 +3940,7 @@ titles:
     verified: true
   - title: Inessa Armand
     subtitle: Revolucionaria y feminista
+    original_title: Inessa Armand
     authors:
       - Ralph Carter Elwood
     year: 2018
@@ -3839,6 +3951,7 @@ titles:
     verified: true
   - title: La jaula del euro
     subtitle: Por qué salir de él es internacionalista y de izquierdas
+    original_title: Gabbia dell'euro
     authors:
       - Domenico Moro
     year: 2018
@@ -3883,8 +3996,10 @@ titles:
     verified: true
   - title: La utopía cotidiana
     subtitle: Diarios 1988-1994
+    original_title: Bruno Trentin diari 1988-1994
     authors:
       - Bruno Trentin
+    translators:
       - Francisco Rodríguez de Lecea
       - Jesús Aristu
     year: 2018
@@ -3895,6 +4010,7 @@ titles:
     verified: true
   - title: La verdad vencerá
     subtitle: El pueblo sabe por qué me condenan
+    original_title: 'A verdade vencerá : o povo sabe por que me condenan'
     authors:
       - Lula
       - Ivana Jinkings
@@ -3961,8 +4077,10 @@ titles:
     verified: true
   - title: Marx y el atomismo griego
     subtitle: Las raíces del materialismo histórico
+    original_title: Marx e l'atomismo greco
     authors:
       - Diego Fusaro
+    translators:
       - Michela Ferrante Lavín
     year: 2018
     language: Spanish
@@ -3971,6 +4089,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991019599219708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Mi desilusión en Rusia
+    original_title: My disillusionment in Russia
     authors:
       - Emma Goldman
     year: 2018
@@ -3994,6 +4113,7 @@ titles:
     verified: true
   - title: Rusofobia
     subtitle: ¿Hacia una nueva guerra fría?
+    original_title: Faut-il détester la Russie?
     authors:
       - Robert Charvin
     year: 2018
@@ -4033,6 +4153,8 @@ titles:
     authors:
       - Manuel Monereo
       - Rubén Juste
+    editors:
+      - Héctor Illueca Ballester
     year: 2018
     language: Spanish
     pages: 333
@@ -4046,6 +4168,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991026706799708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Autonomies, federalisme i autodeterminació
+    original_title: Nacionalidades y nacionalismos en España
     authors:
       - Jordi Solé Tura
       - Marc Carrillo
@@ -4071,6 +4194,8 @@ titles:
   - title: Cartas de amor y revolución
     authors:
       - Rosa Luxemburg
+    translators:
+      - Pirí Lugones
     year: 2019
     language: Spanish
     sources:
@@ -4085,6 +4210,7 @@ titles:
     subtitle: Perspectivas marxistas y ecosocialistas
     authors:
       - Michael Löwy
+    translators:
       - Juan Vivanco
     year: 2019
     language: Spanish
@@ -4261,8 +4387,10 @@ titles:
     verified: true
   - title: ¡El socialismo ha muerto! ¡Viva el socialismo!
     subtitle: De la derrota de la izquierda al momento populista
+    original_title: Il socialismo è morto, viva il socialismo!
     authors:
       - Carlo Formenti
+    translators:
       - Konkreto
     year: 2020
     language: Spanish
@@ -4272,8 +4400,10 @@ titles:
     verified: true
   - title: Capitulación entre adultos
     subtitle: Grecia 2015, una alternativa era posible
+    original_title: Capitulation entre adultes
     authors:
       - Éric Toussaint
+    translators:
       - Griselda Piñero Delledonne
     year: 2020
     language: Spanish
@@ -4282,6 +4412,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991031735079708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Clases y naciones en el materialismo histórico
+    original_title: Classe et nation dans l'histoire et la crise contemporaine
     authors:
       - Samir Amin
     year: 2020
@@ -4292,8 +4423,10 @@ titles:
     verified: true
   - title: Conversando de socialismo y filosofía
     subtitle: Cartas a G. Sorel
+    original_title: Discorrendo di socialismo e di filosofia
     authors:
       - Antonio Labriola
+    translators:
       - Fernando Zamorano
     year: 2020
     language: Spanish
@@ -4315,8 +4448,10 @@ titles:
     verified: true
   - title: Friedrich Engels antes de Marx
     subtitle: Escritos 1838-1843
+    original_title: Artículos
     authors:
       - Friedrich Engels
+    translators:
       - Nicolás González Varela
     year: 2020
     language: Spanish
@@ -4326,8 +4461,10 @@ titles:
     verified: true
   - title: La abundancia frugal como arte de vivir
     subtitle: Felicidad, gastronomía y decrecimiento
+    original_title: L'abondance frugale comme art de vivre
     authors:
       - Serge Latouche
+    translators:
       - Griselda Piñero
     year: 2020
     language: Spanish
@@ -4337,6 +4474,7 @@ titles:
     verified: true
   - title: La base material de la nación
     subtitle: El concepto de nación en Marx y Engels
+    original_title: A base material e histórica da nación en Marx e Engels
     authors:
       - Carlos Barros
     year: 2020
@@ -4349,9 +4487,11 @@ titles:
     verified: true
   - title: La farmacia de Epicuro
     subtitle: La filosofia como terapia del alma
+    original_title: La farmacia di Epicuro
     series: Colección esquinas
     authors:
       - Diego Fusaro
+    translators:
       - Michela Ferrante Lavín
     year: 2020
     language: Spanish
@@ -4377,8 +4517,10 @@ titles:
     verified: true
   - title: Marx idealista
     subtitle: Ensayos heréticos sobre el materialismo histórico
+    original_title: Marx idéaliste
     authors:
       - Diego Fusaro
+    translators:
       - Joaquín Miras
     year: 2020
     language: Spanish
@@ -4438,8 +4580,10 @@ titles:
     verified: true
   - title: Reivindicando El capital de Marx
     subtitle: Una refutación del mito de su incoherencia
+    original_title: Reclaiming Marx's Capital
     authors:
       - Andrew Kliman
+    translators:
       - Guillermo Murcia López
       - Antonio Dorado Seldas
     year: 2020
@@ -4510,9 +4654,11 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991031361269708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: ¿Es China capitalista?
+    original_title: La Chine est-elle capitaliste?
     authors:
       - Rémy Herrera
       - Zhiming Long
+    translators:
       - José María Fernández Criado
     year: 2021
     language: Spanish
@@ -4523,6 +4669,7 @@ titles:
   - title: Afganistán
     authors:
       - Friedrich Engels
+    translators:
       - Nicolás González Varela
     year: 2021
     language: Spanish
@@ -4582,8 +4729,10 @@ titles:
     verified: true
   - title: La cuestión comunista
     subtitle: Historia y futuro de una idea
+    original_title: La questione comunista
     authors:
       - Domenico Losurdo
+    translators:
       - Juan Vivanco
     year: 2021
     language: Spanish
@@ -4671,6 +4820,7 @@ titles:
     verified: true
   - title: Seis lecciones de economía
     subtitle: Conocimientos necesarios para entender la crisis más larga (y cómo salir de ella)
+    original_title: Sei lezioni di economia
     authors:
       - Sergio Cesaratto
     year: 2021
@@ -4713,8 +4863,10 @@ titles:
     verified: true
   - title: Democracia y socialismo
     subtitle: Una contribución a la historia política de los últimos 150 años (1789-1939)
+    original_title: Demokratie und Sozialismus
     authors:
       - Arthur Rosenberg
+    translators:
       - Alberto Moyano
     year: 2022
     language: Spanish
@@ -4726,9 +4878,11 @@ titles:
     verified: true
   - title: El Banco Mundial
     subtitle: Una historia crítica
+    original_title: Banque mondiale
     authors:
       - Éric Toussaint
       - Gilbert Achcar
+    translators:
       - Griselda Piñero
     year: 2022
     language: Spanish
@@ -4738,8 +4892,10 @@ titles:
     verified: true
   - title: El dinero
     subtitle: Del poder de las altas finanzas a la soberanía de los pueblos
+    original_title: La monnaie
     authors:
       - Rémy Herrera
+    translators:
       - Pedro Horrach Salas
     year: 2022
     language: Spanish
@@ -4749,8 +4905,10 @@ titles:
     verified: true
   - title: El nuevo orden erótico
     subtitle: Elogio del amor y la familia
+    original_title: Il nuovo ordine erotico
     authors:
       - Diego Fusaro
+    translators:
       - Michela Ferrante Lavín
     year: 2022
     language: Spanish
@@ -4771,8 +4929,10 @@ titles:
     verified: true
   - title: Fascistas made in USA
     subtitle: 'Los supremacistas blancos, los complotistas de QAnon, las milicias armadas, la derecha radical: todos los huérfanos de Trump que quieren la revolución'
+    original_title: Fascisti d'America
     authors:
       - Federico Leoni
+    translators:
       - Juan Vivanco
     year: 2022
     language: Spanish
@@ -4878,9 +5038,11 @@ titles:
         url: https://www.sudoc.fr/28169818X
     verified: true
   - title: Estructura de la historia del mundo
+    original_title: Sekaishi no kōzō
     authors:
       - Kojin Karatani
       - Fredric Jameson
+    translators:
       - Andrea Torres Gaxiola
       - Yutaka Makioka
     year: 2023
@@ -4902,8 +5064,10 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991047501409708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Mi vida con Lenin
+    original_title: Vospominaniia o Lenine
     authors:
       - Nadezhda Konstantinovna Krupskaia
+    translators:
       - Ramón Milián
     year: 2023
     language: Spanish
@@ -4953,6 +5117,7 @@ titles:
     verified: true
   - title: Trabajar menos, trabajar de otra manera o no trabajar (en absoluto)
     subtitle: Trabajo y decrecimiento
+    original_title: Travailler moins, travailler autrement ou ne pas travailler de tout
     authors:
       - Serge Latouche
     year: 2023
@@ -4982,6 +5147,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991061153361808606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Esperanza en tiempos de desesperanza
+    original_title: Hope in hopeless times
     authors:
       - John Holloway
       - Pedro Horrach Salas
@@ -5085,8 +5251,10 @@ titles:
     verified: true
   - title: Odio la resiliencia
     subtitle: Contra la mística del aguante
+    original_title: Odio la resilienza
     authors:
       - Diego Fusaro
+    translators:
       - Juan Vivanco
     year: 2024
     language: Spanish
@@ -5128,8 +5296,10 @@ titles:
     verified: true
   - title: Crítica de la razón liberal
     subtitle: Una filosofía de la historia en curso
+    original_title: Critica della ragione liberale
     authors:
       - Andrea Zhok
+    translators:
       - Juan Vivanco
     year: 2025
     language: Spanish
@@ -5139,8 +5309,10 @@ titles:
     verified: true
   - title: Dialéctica de la ecología
     subtitle: Socialismo y naturaleza
+    original_title: The dialectics of ecology
     authors:
       - John Bellamy Foster
+    translators:
       - Jaime Batlle Fernández
     year: 2025
     language: Spanish

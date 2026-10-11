@@ -74,6 +74,8 @@ titles:
     subtitle: Ruhrkampf-Roman
     authors:
       - Hans Marchwitza
+    editors:
+      - Kommunistischer Arbeiterbund/Marxisten-Leninisten
     year: 1971
     language: German
     pages: 352
@@ -136,6 +138,7 @@ titles:
         url: https://openlibrary.org/books/OL18825368M
     verified: false
   - title: Von Marx zu Mao Tsetung
+    original_title: From Marx to Mao Tsetung
     authors:
       - George Thomson
     year: 1973
@@ -178,6 +181,7 @@ titles:
     verified: true
   - title: Die junge Garde
     subtitle: Roman, zweiter Band
+    original_title: Молодая гвардия
     authors:
       - Aleksandr Fadeev
     year: 1974
@@ -271,6 +275,7 @@ titles:
     verified: true
   - title: Kapitalismus, und was danach?
     subtitle: Die Rolle d. Warenproduktion in d. Geschichte
+    original_title: Capitalism - and after
     authors:
       - George Derwent Thomson
     year: 1974
@@ -337,6 +342,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=020141998
     verified: true
     subtitle: Eine Untersuchung zur Dialektik der Revolution
+    original_title: From Marx to Mao Tsetung, astudy in revolutionary dialectics
   - title: Wirtschaftsentwicklung und Klassenkampf
     authors: []
     year: 1974
@@ -430,6 +436,7 @@ titles:
         url: https://d-nb.info/760334056
     verified: true
   - title: Erziehung und Ausbildung in China
+    original_title: Education in China
     series: Reihe Neues China; 1
     authors:
       - Peter Mauger
@@ -701,6 +708,7 @@ titles:
     subtitle: Kapitalismus
   - title: Die Befreiung der Frau in China
     subtitle: Originaldokumente u. -Artikel 1949 - 1973
+    original_title: The women's movement in China
     series: Reihe Neues China; 2
     authors:
       - Elizabeth Croll
@@ -763,6 +771,7 @@ titles:
     verified: true
   - title: Quer durch China
     subtitle: Reisen in d. Kulturrevolution 1966 - 1971
+    original_title: Travels in China
     authors:
       - Rewi Alley
     year: 1977
@@ -775,9 +784,12 @@ titles:
     verified: true
   - title: Roter Fels
     subtitle: Roman
+    original_title: Hong yan
     authors:
       - Guangbin Luo
       - Yi-yan Yang
+    translators:
+      - Otto Mann
     year: 1977
     language: German
     sources:
@@ -1778,6 +1790,7 @@ titles:
         url: https://d-nb.info/850768551
     verified: true
   - title: Frauenleben in einem chinesischen Dorf
+    original_title: Kvinnoliv i kinesisk by
     authors:
       - Gun Kessle
     year: 1984
@@ -1889,6 +1902,7 @@ titles:
     verified: true
   - title: Liu Lin 1962-1982
     subtitle: Berichte aus einem chinesischen Dorf
+    original_title: Rapporter fran kinesisk by
     authors:
       - Jan Myrdal
     year: 1985
@@ -2626,6 +2640,7 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/the-restoration-of-capitalism-in-the-soviet-union
   - title: Trade Unions and Class Struggle
+    original_title: Gewerkschaften und Klassenkampf
     authors:
       - Willi Dickhut
     year: 2002
@@ -2799,6 +2814,7 @@ titles:
     verified: true
   - title: Das Gold von Maniema
     subtitle: Roman
+    original_title: L'or du Maniéma
     authors:
       - Jean Ziegler
     year: 2010
@@ -2818,6 +2834,7 @@ titles:
     verified: true
   - title: Dawn of the International Socialist Revolution
     subtitle: Strategy and Tactics of the International Socialist Revolution
+    original_title: Morgenröte der internationalen sozialistischen Revolution
     authors:
       - Stefan Engel
     year: 2011
@@ -2877,6 +2894,7 @@ titles:
     verified: true
   - title: O Chile e a via para o socialismo
     subtitle: 'Lições do golpe de Pinochet de 1973 = Chile y la vía al socialismo: lecciones del golpe de Pinochet de 1973'
+    original_title: Chile und der Weg zum Sozialismus
     authors:
       - Willi Dickhut
       - Mediengruppe Neuer Weg GmbH
@@ -2888,6 +2906,7 @@ titles:
     verified: true
   - title: ¡Alarma de catástrofe!
     subtitle: ¿Qué hacer contra la destrucción deliberada de la unidad entre el ser humano y la naturaleza?
+    original_title: Katastrophenalarm!
     authors:
       - Stefan Engel
     year: 2014
@@ -2898,6 +2917,7 @@ titles:
     verified: true
   - title: Catastrophe Alert!
     subtitle: 'What Is to Be Done Against the Willful Destruction of the Unity of Humanity and Nature?: Class Struggle and the Struggle for the Unity of Humanity and Nature'
+    original_title: Katastrophenalarm!
     authors:
       - Stefan Engel
     year: 2014
@@ -2939,6 +2959,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1612342221
     verified: true
   - title: La lutte pour le mode de pensée dans le mouvement ouvrier
+    original_title: Der Kampf um die Denkweise in der Arbeiterbewegung
     authors:
       - Stefan Engel
     year: 2014
@@ -2949,6 +2970,7 @@ titles:
     verified: true
   - title: Alerte à la catastrophe!
     subtitle: Que faire contre la destruction délibérée de l’unité de l’homme et de la nature?
+    original_title: Katastrophenalarm!
     authors:
       - Stefan Engel
     year: 2015
@@ -3187,6 +3209,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1785956736
     verified: true
   - title: Acerca de la formación de los países neoimperialistas
+    original_title: Über die Herausbildung der neuimperialistischen Länder
     authors:
       - Stefan Engel
       - Mediengruppe Neuer Weg GmbH
@@ -3298,6 +3321,7 @@ titles:
         url: https://d-nb.info/1153788705
     verified: true
   - title: O vozniknovenii novoimperialističeskich stran
+    original_title: Über die Herausbildung der neuimperialistischen Länder
     authors:
       - Stefan Engel
       - Mediengruppe Neuer Weg GmbH
@@ -3308,6 +3332,7 @@ titles:
         url: https://d-nb.info/1149963239
     verified: true
   - title: On the Emergence of the New-Imperialist Countries
+    original_title: Über die Herausbildung der neuimperialistischen Länder
     authors:
       - Stefan Engel
       - Mediengruppe Neuer Weg GmbH
@@ -3460,6 +3485,7 @@ titles:
         url: https://d-nb.info/1257384333
     verified: true
   - title: Wie der Stahl gehärtet wurde
+    original_title: Kak zakaljalas' stal'
     authors:
       - Nikolaj A. Ostrovskij
     year: 2017
@@ -3493,6 +3519,7 @@ titles:
         url: https://d-nb.info/1257384457
     verified: true
   - title: Yeni-emperyalist ülkelerin ortaya çıkışı üzerine
+    original_title: Über die Herausbildung der neuimperialistischen Länder
     authors:
       - Stefan Engel
       - Mediengruppe Neuer Weg GmbH
@@ -3782,6 +3809,7 @@ titles:
         url: https://d-nb.info/1257385011
     verified: true
   - title: Nouvelles perspectives pour la libération de la femme - une polémique
+    original_title: Neue Perspektiven für die Befreiung der Frau - eine Streitschrift
     authors:
       - Stefan Engel
       - Monika Gärtner-Engel
@@ -3795,6 +3823,7 @@ titles:
         url: https://d-nb.info/1257384252
     verified: true
   - title: Nuevas perspectivas para la liberación de la mujer - Un escrito polémico
+    original_title: Neue Perspektiven für die Befreiung der Frau
     authors:
       - Stefan Engel
       - Monika Gärtner-Engel
@@ -3895,6 +3924,7 @@ titles:
         url: https://d-nb.info/1257384945
     verified: true
   - title: Darbārah-i paidāyīš kišwarhā-i ǧadīd-i impiryālīstī
+    original_title: Über die Herausbildung der neuimperialistischen Länder
     authors:
       - Stefan Engel
       - Mediengruppe Neuer Weg GmbH
@@ -3906,9 +3936,12 @@ titles:
     verified: true
   - title: Das Schlachtfeld von morgen
     subtitle: Afrika im Fadenkreuz der USA und seiner Verbündeten
+    original_title: America's shadow wars in Africa
     authors:
       - Nick Turse
       - Mediengruppe Neuer Weg GmbH
+    translators:
+      - Marion Ahl
     year: 2019
     language: German
     sources:
@@ -3945,6 +3978,7 @@ titles:
     verified: true
   - title: Ein Leben im Widerstand
     subtitle: Gespräche über Imperialismus, Sozialismus und Befreiung
+    original_title: Reflections on revolution and prospects
     authors:
       - Jose Maria Sison
       - Rainer Werning
@@ -3994,6 +4028,7 @@ titles:
         url: https://d-nb.info/1257385143
     verified: true
   - title: Lun xin di guo zhu yi guo jia de chu xian
+    original_title: Über die Herausbildung der neuimperialistischen Länder
     authors:
       - Stefan Engel
       - Mediengruppe Neuer Weg GmbH
@@ -4015,6 +4050,7 @@ titles:
         url: https://d-nb.info/1202806325
     verified: true
   - title: Syndicats et lutte de classe
+    original_title: Gewerkschaften und Klassenkampf
     authors:
       - Willi Dickhut
       - Mediengruppe Neuer Weg GmbH
@@ -4097,6 +4133,7 @@ titles:
         url: https://d-nb.info/1257384120
     verified: true
   - title: Los sindicatos y la lucha de clases
+    original_title: Gewerkschaften und Klassenkampf
     authors:
       - Willi Dickhut
       - Mediengruppe Neuer Weg GmbH
@@ -4142,6 +4179,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1695765842
     verified: true
   - title: Vom unbewussten Universum zur Bildung des bewusst rationell schaffenden Menschen
+    original_title: Del universo inconsciente a la formación del trabajador consciente racional
     authors:
       - Oscar Adalberto Federico Creydt
       - Mediengruppe Neuer Weg GmbH
@@ -4251,6 +4289,7 @@ titles:
         url: https://d-nb.info/1257383779
     verified: true
   - title: La crise de l'idéologie bourgeoise et de l'anticommunisme
+    original_title: Die Krise der bürgerlichen Ideologie und des Antikommunismus
     authors:
       - Stefan Engel
       - Mediengruppe Neuer Weg GmbH
@@ -4263,6 +4302,7 @@ titles:
         url: https://d-nb.info/1257383930
     verified: true
   - title: La crise de l'idéologie bourgeoise et de l'enseignement du monde de pensée
+    original_title: Die Krise der bürgerlichen Ideologie und die Lehre von der Denkweise
     authors:
       - Stefan Engel
       - Mediengruppe Neuer Weg GmbH
@@ -4273,6 +4313,7 @@ titles:
         url: https://d-nb.info/1261054245
     verified: true
   - title: La crisis de la ideología burguesa y del anticomunismo
+    original_title: Die Krise der bürgerlichen Ideologie und des Antikommunismus
     authors:
       - Stefan Engel
       - Mediengruppe Neuer Weg GmbH
@@ -4285,6 +4326,7 @@ titles:
         url: https://d-nb.info/1257383922
     verified: true
   - title: La crisis de la ideología burguesa y la doctrina del modo de pensar
+    original_title: Die Krise der bürgerlichen Ideologie und die Lehre von der Denkweise
     authors:
       - Stefan Engel
     year: 2021
@@ -4294,6 +4336,7 @@ titles:
         url: https://d-nb.info/1259982831
     verified: true
   - title: La restauration du capitalisme en Union soviétique
+    original_title: Die Restauration des Kapitalismus in der Sowjetunion
     authors:
       - Willi Dickhut
       - Mediengruppe Neuer Weg GmbH
@@ -4319,6 +4362,7 @@ titles:
     verified: true
   - title: That's How It Was
     subtitle: Factual Report of a Worker from Solingen, 1926 to 1948
+    original_title: So war's damals
     authors:
       - Willi Dickhut
       - Mediengruppe Neuer Weg GmbH
@@ -4329,6 +4373,7 @@ titles:
         url: https://d-nb.info/126056858X
     verified: true
   - title: The Crisis of Bourgeois Ideology and of Anticommunism
+    original_title: Die Krise der bürgerlichen Ideologie und des Antikommunismus
     authors:
       - Stefan Engel
       - Mediengruppe Neuer Weg GmbH
@@ -4341,6 +4386,7 @@ titles:
         url: https://d-nb.info/1257383949
     verified: true
   - title: The Crisis of Bourgeois Ideology, and the Doctrine of the Mode of Thinking
+    original_title: Die Krise der bürgerlichen Ideologie und die Lehre von der Denkweise
     authors:
       - Stefan Engel
     year: 2021
@@ -4440,6 +4486,7 @@ titles:
         url: https://d-nb.info/1275550703
     verified: true
   - title: La crisis de la ideología burguesa y del oportunismo
+    original_title: Die Krise der bürgerlichen Ideologie und des Opportunismus
     authors:
       - Stefan Engel
       - Mediengruppe Neuer Weg GmbH
@@ -4452,6 +4499,7 @@ titles:
         url: https://d-nb.info/130491626X
     verified: true
   - title: La guerre en Ukraine et la crise ouverte du système impérialiste mondial
+    original_title: Der Ukrainekrieg und die offene Krise des imperialistischen Weltsystems
     authors:
       - Stefan Engel
       - Gabi Fechtner
@@ -4477,6 +4525,7 @@ titles:
         url: https://d-nb.info/1340982935
     verified: true
   - title: Sendikalar ve sınıf mücadelesi
+    original_title: Gewerkschaften und Klassenkampf
     authors:
       - Willi Dickhut
       - Mediengruppe Neuer Weg GmbH
@@ -4500,6 +4549,7 @@ titles:
         url: https://d-nb.info/1261410998
     verified: true
   - title: The Crisis of Bourgeois Ideology and of Opportunism
+    original_title: Die Krise der bürgerlichen Ideologie und des Opportunismus
     authors:
       - Stefan Engel
       - Mediengruppe Neuer Weg GmbH
@@ -4522,6 +4572,7 @@ titles:
         url: https://d-nb.info/1268579297
     verified: true
   - title: The Ukraine War and the Open Crisis of the Imperialist World System
+    original_title: Der Ukrainekrieg und die offene Krise des imperialistischen Weltsystems
     authors:
       - Stefan Engel
       - Gabi Fechtner
@@ -4571,6 +4622,7 @@ titles:
     verified: true
   - title: Der Ukrainekrieg und die offene Krise des imperialistischen Weltsystems (farsi)
     subtitle: The Ukraine War and the Open Crisis of the Imperialist World System (farsi)
+    original_title: Der Ukrainekrieg und die offene Krise des imperialistischen Weltsystems
     authors:
       - Stefan Engel
       - Gabi Fechtner
@@ -4634,6 +4686,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1833873149
     verified: true
   - title: La crisis ciencia natural burguesa
+    original_title: Die Krise der bürgerlichen Naturwissenschaft
     authors:
       - Stefan Engel
       - Mediengruppe Neuer Weg GmbH
@@ -4644,6 +4697,7 @@ titles:
         url: https://d-nb.info/1302863517
     verified: true
   - title: La crisis de la ciencia natural burguesa
+    original_title: Die Krise der bürgerlichen Naturwissenschaft
     authors:
       - Stefan Engel
       - Mediengruppe Neuer Weg GmbH
@@ -4654,6 +4708,7 @@ titles:
         url: https://d-nb.info/1304916243
     verified: true
   - title: Neue Perspektiven für die Befreiung der Frau - Eine Streitschrift (farsi)
+    original_title: Neue Perspektiven für die Befreiung der Frau - Eine Streitschrift
     authors:
       - Stefan Engel
       - Monika Gärtner-Engel
@@ -4704,6 +4759,7 @@ titles:
         url: https://d-nb.info/1309988900
     verified: true
   - title: The Crisis of Bourgeois Natural Science
+    original_title: Die Krise der bürgerlichen Naturwissenschaft
     authors:
       - Stefan Engel
       - Mediengruppe Neuer Weg GmbH
@@ -4730,8 +4786,10 @@ titles:
         url: https://d-nb.info/1313612839
     verified: true
     subtitle: Supplement to the Book Catastrophe Alert! What Is to Be Done Against the Willful Destruction of the Unity of Humanity and Nature?
+    original_title: Die globale Umweltkatastrophe hat begonnen!
   - title: What Happened Later?
     subtitle: Second Factual Report of a Worker from Solingen, from 1949 On
+    original_title: Was geschah danach?
     authors:
       - Willi Dickhut
       - Mediengruppe Neuer Weg GmbH
@@ -4756,6 +4814,7 @@ titles:
         url: https://d-nb.info/1363219782
     verified: true
     subtitle: Tomo suplementario al libro ¡Alarma de catástrofe! ¿Qué hacer contra la destrucción deliberada de la unidad entre el ser humano y la naturaleza?
+    original_title: Die globale Umweltkatastrophe hat begonnen!
   - title: 20 Jahe Streik der Opelaner in Bochum
     subtitle: Wenn die Arbeiter das Heft in die Hand nehmen
     authors:
@@ -4806,6 +4865,8 @@ titles:
       - Stefan Engel
       - Monika Gärtner-Engel
       - Mediengruppe Neuer Weg GmbH
+    editors:
+      - Redaktionskollektiv REVOLUTIONÄRER WEG
     year: 2024
     language: German
     sources:
@@ -4820,6 +4881,7 @@ titles:
     verified: true
   - title: Fight Against the Threatening Conflagaration in the Middle East
     subtitle: What Is the Perspective of the Palestinian Liberation Struggle?
+    original_title: Kampf gegen den drohenden Flächenbrand in Nahost
     authors:
       - Monika Gärtner-Engel
       - Gabi Fechtner
@@ -4873,7 +4935,9 @@ titles:
         url: https://d-nb.info/1351791478
     verified: true
     subtitle: Volume complémentaire au livre "Alerte à la catastrophe! Que faire contre la destruction délibérée de l'unité de l'homme et de la nature?"
+    original_title: Die globale Umweltkatastrophe hat begonnen!
   - title: La crise des sciences naturelles bourgeoises
+    original_title: Die Krise der bürgerlichen Naturwissenschaft
     authors:
       - Stefan Engel
       - Mediengruppe Neuer Weg GmbH
@@ -4885,6 +4949,7 @@ titles:
     verified: true
   - title: Savaşın bütün Orta Doğu'ya yayılması tehlikesine karşı mücadele!
     subtitle: Filistin kurtuluş mücadelesinin perspektifi nedir?
+    original_title: Kampf gegen den drohenden Flächenbrand in Nahost
     authors:
       - Monika Gärtner-Engel
       - Gabi Fechtner
@@ -4907,6 +4972,7 @@ titles:
         url: https://d-nb.info/1328064581
     verified: true
   - title: Sulla formazione dei paesi neo-imperialisti
+    original_title: Über die Herausbildung der neuimperialistischen Länder
     authors:
       - Stefan Engel
       - Mediengruppe Neuer Weg GmbH
@@ -4992,6 +5058,7 @@ titles:
         url: https://d-nb.info/137327221X
     verified: true
   - title: La crise des sciences naturelles bourgeoises
+    original_title: Die Krise der bürgerlichen Naturwissenschaft
     authors:
       - Stefan Engel
       - Mediengruppe Neuer Weg GmbH
@@ -5002,6 +5069,7 @@ titles:
         url: https://d-nb.info/1376718162
     verified: true
   - title: The Crisis of Bourgeois Social Sciences, Religion and Culture
+    original_title: Die Krise der bürgerlichen Gesellschaftswissenschaften, der Religion und der Kultur
     authors:
       - Stefan Engel
       - Monika Gärtner-Engel
@@ -5016,6 +5084,7 @@ titles:
     verified: true
   - title: What Happened Later?
     subtitle: Second Factual Report of a Worker from Solingen, from 1949 On
+    original_title: Was geschah danach?
     authors:
       - Willi Dickhut
       - Mediengruppe Neuer Weg GmbH
@@ -5094,6 +5163,8 @@ titles:
     subtitle: Originaltext der chinesischen Kulturrevolution
     authors:
       - Mediengruppe Neuer Weg GmbH
+    editors:
+      - Verlag Neuer Weg
     year: 2026
     language: German
     sources:

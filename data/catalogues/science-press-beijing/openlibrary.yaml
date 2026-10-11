@@ -46,6 +46,11 @@ titles:
     verified: true
   - title: Huang bo hai xi jian yu lei tu shuo
     authors: []
+    editors:
+      - Chun lin Zhang
+      - Qing tai Cheng
+      - Bao shan Zheng
+      - Si zhong Li
     year: 1954
     language: Chinese
     sources:
@@ -153,6 +158,8 @@ titles:
     verified: true
   - title: Zhong guo xiu ci xue
     authors: []
+    editors:
+      - Shu da Yang
     year: 1954
     language: Chinese
     sources:
@@ -441,6 +448,8 @@ titles:
   - title: Dongbei mu ben zhi wu tu zhi; fu, Xin zhong Lading wen ji zai
     authors:
       - Shen'e Liu
+    editors:
+      - Zhan Wang
     year: 1955
     language: Chinese
     pages: 568
@@ -604,6 +613,8 @@ titles:
   - title: Han yu yu fa lun wen ji
     authors:
       - Shuxiang Lü
+    editors:
+      - Yu yan yan jiu suo
     year: 1955
     edition: Di 1 ban
     series: Yu yan xue zhuan kan
@@ -924,6 +935,9 @@ titles:
   - title: Yin xu wen zi zhui he
     authors:
       - Ruoyu Guo
+    editors:
+      - Yigong Zeng
+      - Xueqin Li
     year: 1955
     language: Chinese
     pages: 241
@@ -964,6 +978,8 @@ titles:
   - title: Yuan dai bai hua bei ji lu
     authors:
       - Meibiao Cai
+    editors:
+      - Yu yan yan jiu suo
     year: 1955
     edition: Di 1 ban
     language: Chinese
@@ -2458,6 +2474,9 @@ titles:
     subtitle: '[Yang Xiong zhu]; Zhou Zumo jiao; Wu Xiaoling bian'
     authors:
       - Xiong Yang
+    editors:
+      - Zumo Zhou
+      - Xiaoling Wu
     year: 1956
     language: Chinese
     pages: 249
@@ -2742,6 +2761,13 @@ titles:
   - title: Guanzi ji jiao
     authors:
       - Zhong Guan
+    editors:
+      - Moruo Guo
+      - 沫若 郭
+      - Weiyu Xu
+      - 维遹 许
+      - Yiduo Wen
+      - 一多 聞
     year: 1956
     edition: Di 1 ban
     language: Chinese
@@ -2815,6 +2841,8 @@ titles:
   - title: Han wen wen yan xiu ci xue
     authors:
       - Shuda Yang
+    editors:
+      - Shu da Yang
     year: 1956
     language: Chinese
     pages: 217
@@ -2851,6 +2879,7 @@ titles:
         url: https://search.worldcat.org/title/17927923
     verified: true
   - title: Hei long jiang sheng yi chun xian hong shan di qu de xiao xing an ling sen lin de yan jiu
+    original_title: Izucheniye lesov malogo Hingana v rayone st. Hunshan' Ichun'skogo uyezda Heylundzyanskoy provintsii
     series: Zhi wu sheng tai xue yu di zhi wu xue zi liao cong kan; 5
     authors:
       - Gaoerjieyefu
@@ -2946,8 +2975,15 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=129356239
     verified: true
   - title: Kao gu xue tong lun
+    original_title: Osnovy arkheologii
     authors:
       - A. V. Artsikhovskiĭ
+    editors:
+      - Rushan Zou
+      - 如山 鄒
+    translators:
+      - Yudong Lou
+      - 宁栋 楼
     year: 1956
     edition: Di 1 ban
     language: Chinese
@@ -3075,6 +3111,9 @@ titles:
     authors:
       - Jingzhi Sun
       - Jingzhong Deng
+    editors:
+      - 敬之 孙
+      - 靜中 邓
     year: 1956
     edition: Di 1 ban
     series: Zhongguo ke xue yuan zhong hua di li ji jing ji di li cong shu -- zhi 1
@@ -5898,6 +5937,9 @@ titles:
     subtitle: Materialistic tradition in the history of Chinese philosophy
     authors:
       - Khinshun IAn
+    translators:
+      - Heng Li
+      - Guoxun Wang
     year: 1957
     language: Chinese
     pages: 40
@@ -5992,6 +6034,11 @@ titles:
   - title: Han shi jing ji cun
     authors:
       - Heng
+    editors:
+      - Heng Ma
+      - 馬衡
+    translators:
+      - Heng xian sheng
     year: 1957
     series: Kao gu xue zhuan kan. Yi zhong -- di 3 hao
     language: Chinese
@@ -6340,8 +6387,10 @@ titles:
     verified: true
   - title: Lian xu qun
     subtitle: = Nepreryvnye gruppy
+    original_title: Nepreryvnye gruppy
     authors:
       - Lev S. Pontrjagin
+    translators:
       - Xihua Cao
     year: 1957
     language: Chinese
@@ -6513,6 +6562,8 @@ titles:
     series: Kao gu xue zhuan kan; 7
     authors:
       - Wenliang Wu
+    editors:
+      - Wen liang Wu
     year: 1957
     language: Chinese
     sources:
@@ -6568,6 +6619,8 @@ titles:
   - title: Shang Zhou jin wen lu yi
     authors:
       - Xingwu Yu
+    editors:
+      - Xing wu Yu
     year: 1957
     edition: Di 1 ban
     series: Kao gu xue zhuan kan. Yi zhong -- di 6 hao
@@ -6665,6 +6718,8 @@ titles:
   - title: Shi ji yan jiu de zi liao he lun wen suo yin
     authors:
       - 中国科学院
+    editors:
+      - Li shi yan jiu suo
     year: 1957
     language: Chinese
     sources:
@@ -6681,6 +6736,8 @@ titles:
   - title: Shi ke zhuan wen bian
     authors:
       - Chengzuo Shang
+    editors:
+      - Cheng zuo Shang
     year: 1957
     series: Kao gu xue zhuan kan. Yi zhong -- di 4 hao
     language: Chinese
@@ -6789,6 +6846,8 @@ titles:
     subtitle: (Shu zheng 29 juan, biao 1 juan)
     authors:
       - Shen Xu
+    editors:
+      - Xulun Ma
     year: 1957
     language: Chinese
     pages: 15
@@ -6850,6 +6909,7 @@ titles:
         url: https://search.worldcat.org/title/48543266
     verified: true
   - title: Summation of the Fourier Series of Orthogonal Functions
+    original_title: Chih chiao han shu ti Fu-li-yeh chi shu chih ho
     authors:
       - Chien-kung Chʻen
     year: 1957
@@ -7430,6 +7490,8 @@ titles:
   - title: Zhongguo jin dai gong ye shi zi liao
     authors:
       - Yutang Sun
+    editors:
+      - 毓棠 孫
     year: 1957
     series: Zhongguo jin dai jing ji shi can kao zi liao cong kan -- di 2 zhong
     language: Chinese
@@ -7481,6 +7543,8 @@ titles:
     verified: true
   - title: Zhongguo jin dai jing ji shi tong ji zi liao xuan ji
     authors: []
+    editors:
+      - Zhongping Yan
     year: 1957
     series: Zhongguo jin dai jing ji shi can ke cong kan -- di 1 zhong
     language: Chinese
@@ -9635,6 +9699,9 @@ titles:
       - Khinshun IAn
       - 李鸻
       - 汪國訓
+    translators:
+      - Li Heng
+      - Wang Guoxun
     year: 1957
     language: Chinese
     pages: 40
@@ -9817,6 +9884,7 @@ titles:
     verified: true
   - title: A Preliminary Survey of the Book Ch'i Min Yao Shu
     subtitle: An Agricultural Encyclopaedia of the 6th Century
+    original_title: Qi min yao shu
     authors:
       - Shenghan Shi
     year: 1958
@@ -9935,6 +10003,8 @@ titles:
   - title: Chen que zhe xue xuan ji
     authors:
       - Que Chen
+    editors:
+      - Wailu Hou
     year: 1958
     series: Zhongguo wei wu zhu yi zhe xue xuan ji -- zhi yi
     language: Chinese
@@ -10066,6 +10136,8 @@ titles:
   - title: Dongbei cao ben zhi wu zhi
     authors:
       - Shen'e Liu
+    editors:
+      - Wei (Writer on botany) Wang
     year: 1958
     language: Chinese
     sources:
@@ -10329,6 +10401,8 @@ titles:
   - title: Han yu shi gao
     authors:
       - Li Wang
+    editors:
+      - 力 王
     year: 1958
     edition: Xiu ding ben
     language: Chinese
@@ -10397,6 +10471,14 @@ titles:
     subtitle: Hubei, Hunan, Jiangxi
     authors:
       - Jingzhi Sun
+    editors:
+      - Panshou Sun
+      - 盤壽 孫
+      - 敬之 孫
+      - Wenyan Li
+      - 文彥 李
+      - Muzhen Li
+      - 慕貞 李
     year: 1958
     series: Zhongguo ke xue yuan. Zhonghua di li zhi. Jing ji di li cong shu -- no. 3
     language: Chinese
@@ -10749,6 +10831,8 @@ titles:
   - title: Menggu tong zhi shi qi de Eguo shi lue
     authors:
       - V. T. Pashuto
+    translators:
+      - Juxing Huang
     year: 1958
     language: Chinese
     sources:
@@ -10813,6 +10897,8 @@ titles:
   - title: Mo jing jiao quan
     authors:
       - Mozi
+    editors:
+      - Heng Gao
     year: 1958
     language: Chinese
     pages: 16208
@@ -11082,6 +11168,8 @@ titles:
   - title: Shi ji yan jiu de zi liao he lun wen suo yin
     authors:
       - Zhongguo ke xue yuan. Li shi yan jiu suo
+    editors:
+      - Li shi yan jiu suo
     year: 1958
     edition: Di 1 ban
     language: Chinese
@@ -11287,6 +11375,7 @@ titles:
         url: https://www.sudoc.fr/233632689
     verified: true
   - title: The General Projective Theory of Curves
+    original_title: Shê ying ch'ü hsien kai lun
     authors:
       - Pu-ch'ing Su
     year: 1958
@@ -11793,6 +11882,8 @@ titles:
     subtitle: 中国动物图谱. 鱼类
     authors:
       - Zhongguo ke xue yuan. Zhongguo dong wu tu pu bian ji wei yuan hui
+    editors:
+      - Chunlin Zhang
     year: 1958
     date_note: 1958-1973
     language: Chinese
@@ -14740,6 +14831,9 @@ titles:
     verified: true
   - title: Ba si ba zi xing Yuan dai Han yu (zi liao hui bian)
     authors: []
+    editors:
+      - Chang pei Luo
+      - Mei biao Cai
     year: 1959
     language: Chinese
     sources:
@@ -14749,6 +14843,8 @@ titles:
   - title: Ba si ba zi yu gu Han yu
     authors:
       - A. A. Dragunov
+    translators:
+      - Yu Tang
     year: 1959
     language: Chinese
     pages: 46
@@ -15127,6 +15223,8 @@ titles:
   - title: Ji wei ju Jin wen shuo
     authors:
       - Shuda Yang
+    editors:
+      - Kao gu yan jiu suo
     year: 1959
     edition: Zeng ding ben
     series: Kao gu xue zhuan kan jia zhong -- di 1 hao
@@ -15594,8 +15692,11 @@ titles:
     verified: true
   - title: On "Fan Shêng-Chih Shu"
     subtitle: An Agriculturist Book of China
+    original_title: Fan, Shêng-chih, fl. 32-7 B. C
     authors:
       - Shenghan Shi
+    translators:
+      - Shêng-ban Shih
     year: 1959
     language: English
     pages: 68
@@ -15791,6 +15892,8 @@ titles:
     series: Zhongguo tian ye kao gu bao gao ji; di 10 hao
     authors:
       - 中國社会科學院
+    editors:
+      - Kao gu yan jiu suo
     year: 1959
     language: Chinese
     sources:
@@ -16064,6 +16167,8 @@ titles:
     authors:
       - Chinese Academy of Social Sciences
       - 中國社会科學院
+    editors:
+      - Kao gu yan jiu suo
     year: 1959
     language: Chinese
     sources:
@@ -16606,6 +16711,9 @@ titles:
   - title: Zhongguo jin dai jing ji si xiang yu jing ji zheng ce zi liao xuan ji, 1840-1864
     authors:
       - Baosan Wu
+    editors:
+      - Ze Feng
+      - Chaolin Wu
     year: 1959
     edition: Di 1 ban
     language: Chinese
@@ -16702,6 +16810,9 @@ titles:
   - title: Zhongguo zhi wu zhi
     authors:
       - Renchang Qin
+    editors:
+      - Chongshu Qian
+      - Huanyong Chen
     year: 1959
     language: Chinese
     sources:
@@ -19207,6 +19318,8 @@ titles:
       - 周邦立
       - Institut filosofii (Akademiyia nauk SSSR)
       - Moscow. Universitet. Kafedra istorii russkoi filosofii
+    translators:
+      - Zhou Bangli
     year: 1959
     language: Chinese
     sources:
@@ -19825,6 +19938,7 @@ titles:
         url: https://search.worldcat.org/title/23316744
     verified: true
   - title: Ci de yu fa xue shuo dao lun
+    original_title: Sovremennyĭ russkiĭ i︠a︡zyk
     authors:
       - V. V. Vinogradov
     year: 1960
@@ -20106,6 +20220,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/009159873
     verified: true
   - title: Shi jiu shi ji mo yi qian de yu yan xue shi
+    original_title: Sprogvidenskabens historie
     series: Yu yan xue cong shu
     authors:
       - Vilhelm Ludwig Peter Thomsen
@@ -24142,6 +24257,9 @@ titles:
   - title: Fan Shengzhi shu jin shi
     authors:
       - Fan, Shengzhi, active 32 B.C.-7 B.C., 氾勝之, active 32 B.C.-7 B.C.
+    translators:
+      - Shenghan Shi
+      - 声汉 石
     year: 1963
     language: Chinese
     sources:
@@ -26171,6 +26289,7 @@ titles:
     subtitle: Shi jie zhi wu qu xi li shi
     authors:
       - Evgeniĭ Vladimirovich Vulʹf
+    translators:
       - Chongxin Zhong
     year: 1964
     language: Chinese
@@ -26265,6 +26384,8 @@ titles:
   - title: Ren lei shi zen yang qi yuan di
     authors:
       - Mikhail Antonorich Gremiatskii
+    translators:
+      - Pseud Liuquan
     year: 1964
     language: Chinese
     pages: 130
@@ -26493,7 +26614,8 @@ titles:
         url: https://openlibrary.org/books/OL16979789M
     verified: true
   - title: Ying yi hang kong liu ti dong li xue ci hui
-    authors:
+    authors: []
+    translators:
       - Shaoling Huang
     year: 1964
     language: Chinese
@@ -26556,6 +26678,8 @@ titles:
   - title: Zhong guo shu xue shi
     authors:
       - Baocong Qian
+    editors:
+      - Bao cong Qian
     year: 1964
     language: Chinese
     sources:
@@ -26695,6 +26819,8 @@ titles:
     subtitle: Gu dai zhi bu
     authors:
       - Zigao Zhang
+    editors:
+      - 子高 張
     year: 1964
     edition: Di 1 ban
     language: Chinese
@@ -26824,6 +26950,8 @@ titles:
   - title: Zhongguo shu xue shi
     authors:
       - Baocong Qian
+    editors:
+      - 寶琮 錢
     year: 1964
     language: Chinese
     pages: 354
@@ -28413,6 +28541,8 @@ titles:
   - title: Jia chu jie pou xue
     authors:
       - Septimus Sisson
+    translators:
+      - Heyu Zhang
     year: 1965
     language: Chinese
     pages: 979
@@ -28519,6 +28649,8 @@ titles:
   - title: Ju he wu wu li hua xue gai lun
     authors:
       - V. A. Kargin
+    translators:
+      - Bailin Hao
     year: 1965
     language: Chinese
     pages: 135
@@ -28643,6 +28775,8 @@ titles:
   - title: Quan guo di 3ci kang jun su xue shu hui yi lun wen ji
     authors:
       - Quan guo kang jun su xue shu hui yi. 3rd, Dairen, 1964
+    editors:
+      - Cun Tong
     year: 1965
     language: Chinese
     sources:
@@ -29037,6 +29171,8 @@ titles:
   - title: Yin qi cui bian
     authors:
       - Mōruo Guo
+    editors:
+      - Kao gu yan jiu suo
     year: 1965
     series: Gao gu xue zhuan kan. Jia zhong -- di 12 hao
     language: Chinese
@@ -29278,6 +29414,8 @@ titles:
   - title: Zhi pu xue
     authors:
       - Georgii Rudol'fovich Rik
+    translators:
+      - Jiakun Zhang
     year: 1965
     language: Chinese
     pages: 280
@@ -29600,6 +29738,8 @@ titles:
     authors:
       - Claude Elwood Shannon
       - Hao Chen
+    editors:
+      - John McCarthy
     year: 1965
     language: Chinese
     pages: 380
@@ -31247,6 +31387,8 @@ titles:
   - title: Xi'an jiao qu Sui Tang mu
     authors:
       - Zhongguo ke xue yuan. Kao gu yan jiu suo
+    editors:
+      - Kao gu yan jiu suo
     year: 1966
     edition: Di 1 ban
     series: Zhongguo tian ye kao gu bao gao ji. Kao gu xue zhuan kan. Ding zhong -- di 18 hao
@@ -32851,8 +32993,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1953573312
     verified: true
   - title: Jia chu jie pou xue
+    original_title: The anatomy of the domestic animals
     authors:
       - Septimus Sisson
+    translators:
       - Heyu Zhang
     year: 1972
     language: Chinese
@@ -33660,9 +33804,10 @@ titles:
   - title: Guo ji dian gong ci dian
     subtitle: 'Di 11 zu: jing zhi bian liu qi'
     authors:
-      - Liufang Sun
       - International Electrotechnical Commission
       - Guo ji dian gong wei yuan hui
+    translators:
+      - Liufang Sun
     year: 1973
     language: Chinese, Multiple languages
     sources:
@@ -33792,6 +33937,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=475069536
     verified: true
   - title: The General Projective Theory of Curves
+    original_title: Shê ying ch'ü hsien kai lun
     authors:
       - Pu-ch'ing Su
     year: 1973
@@ -33926,6 +34072,8 @@ titles:
   - title: Ying Han sheng wu jian ci hui
     authors:
       - Shanxi Sheng Weinan Diqu Zhong yi xue xiao
+    editors:
+      - Shanxisheng-Weinandi-Zhong-Yixuexiao
     year: 1973
     language: Chinese
     pages: 140
@@ -35287,6 +35435,9 @@ titles:
   - title: Ying Han hang kong liu ti dong li xue ci hui
     authors:
       - Shaoling Huang
+    translators:
+      - Shanling Huang
+      - 黄绍龄
     year: 1974
     language: Chinese
     pages: 250
@@ -35432,6 +35583,9 @@ titles:
   - title: Ying Han Tian Wen Xue Ci Hui
     authors:
       - Bangxin Xu
+    editors:
+      - Xu Bangxin
+      - 许邦信
     year: 1974
     edition: Di 1 ban
     language: Chinese, English
@@ -36912,6 +37066,8 @@ titles:
   - title: Ying Han tu rang xue ci hui
     authors:
       - Zhongguo ke xue yuan. Nanjing tu rang yan jiu suo
+    editors:
+      - Zhong guo ke xue yuan
     year: 1975
     edition: Di 1 ban
     language: Chinese
@@ -38728,6 +38884,7 @@ titles:
         url: https://search.worldcat.org/title/6662538
     verified: true
   - title: Ying Han Su Liao Ci Dian
+    original_title: Whittington's dictionary of plastics
     authors:
       - Lloyd R. Whittington
     year: 1976
@@ -40698,6 +40855,8 @@ titles:
   - title: Ying Han hai yang xue ci hui
     authors:
       - Ying Han hai yang xue ci hui bian ding xiao zu
+    editors:
+      - '"Ying Han hai yang xue ci hui" bian ding xiao zu'
     year: 1977
     language: Chinese
     pages: 780
@@ -40783,6 +40942,8 @@ titles:
   - title: Ying Han lin ye ci hui
     authors:
       - Huifang Zhu
+    editors:
+      - 惠方 朱
     year: 1977
     edition: Di 2 ban
     language: Chinese
@@ -40860,6 +41021,8 @@ titles:
   - title: Ying han yi xue ji sheng wu xue ci su lüe yu ci dian
     authors:
       - Qing dao yi xue yuan bing li jiao yan zu
+    editors:
+      - Ji ping Zhang
     year: 1977
     language: Chinese
     sources:
@@ -42570,6 +42733,7 @@ titles:
   - title: Lian xu qun
     authors:
       - Lev S. Pontrjagin
+    translators:
       - Xihua Cao
     year: 1978
     language: Chinese
@@ -42974,6 +43138,8 @@ titles:
     subtitle: Ying-Han dizhixue suoxie cihui
     authors:
       - Chunrong Wu
+    editors:
+      - Xilian Zhang
     year: 1978
     edition: Di 1 ban
     language: Chinese
@@ -43111,9 +43277,11 @@ titles:
         url: https://lccn.loc.gov/83146126
     verified: true
   - title: Yu lei shi
+    original_title: History of fishes
     authors:
       - John R. Norman
       - W. P. Tenison
+    translators:
       - Yuanlin Zou
     year: 1978
     language: Chinese
@@ -45789,6 +45957,8 @@ titles:
   - title: Jian ming nong ye ci dian
     subtitle: Jianming nongye cidian
     authors: []
+    editors:
+      - Ke xue chu ban she
     year: 1979
     edition: Di 1 ban
     language: Chinese
@@ -46386,8 +46556,10 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb447261293
     verified: true
   - title: Xiang dui lun de yi yi
+    original_title: The Meaning of relativity
     authors:
       - Albert Einstein
+    translators:
       - Hao Li
     year: 1979
     language: Chinese
@@ -46560,6 +46732,11 @@ titles:
     edition: Di 1 ban
   - title: Ying han shi you di qiu wu li kan tan ci hui
     authors: []
+    editors:
+      - Wei shang Fan
+      - Ping sheng Liu
+      - Ling Xiao
+      - Jun sheng Chen
     year: 1979
     language: Multiple languages
     sources:
@@ -46633,6 +46810,8 @@ titles:
     verified: true
   - title: Ying Han wu xian dian dian zi xue ci hui
     authors: []
+    editors:
+      - Ke xue chu ban she
     year: 1979
     edition: Di 1 ban
     language: Chinese
@@ -46748,6 +46927,8 @@ titles:
       - Yue ying Liu
       - Yue xian Wang
       - Wen zhen Zhang
+    editors:
+      - En yi Wang
     year: 1979
     language: Chinese
     sources:
@@ -46801,6 +46982,8 @@ titles:
   - title: Zhong guo zhi wu zhi
     authors:
       - Zhiwu-Yanjiusuo
+    editors:
+      - Renhua Dan
     year: 1979
     language: Chinese, Latin
     sources:
@@ -46826,6 +47009,8 @@ titles:
     verified: true
   - title: Zhong yao yan jiu wen xian zhai yao
     authors: []
+    editors:
+      - Shou shan Liu
     year: 1979
     language: Chinese
     sources:
@@ -46862,6 +47047,8 @@ titles:
     subtitle: 'Jie zhi dong wu men: Jia ke gang: Dan shui nao zu lei'
     authors:
       - Zhongguo ke xue yuan. Dong wu yan jiu suo. Jia ke dong wu yan jiu zu
+    editors:
+      - Chia-jui Shen
     year: 1979
     edition: Di 1 ban
     language: Chinese
@@ -50745,6 +50932,9 @@ titles:
     verified: true
   - title: The Giant Panda
     authors: []
+    editors:
+      - Zhu Jing
+      - Li Yangwen
     year: 1980
     language: English
     sources:
@@ -51156,6 +51346,8 @@ titles:
     subtitle: Di si ce
     authors:
       - Da xiang Song
+    editors:
+      - Pu ren Kuang
     year: 1980
     language: Chinese
     sources:
@@ -53458,6 +53650,7 @@ titles:
     verified: true
   - title: Acta Mathematica Scientia
     subtitle: Fachzeitschrift Für Mathematik Und Physik
+    original_title: Shùxúe wùlǐ xúebaò
     authors:
       - Zhongguo ke xue yuan
       - Liu Bie Ju Centre for Mathematical Sciences
@@ -55309,6 +55502,7 @@ titles:
         url: https://www.sudoc.fr/024780383
     verified: true
     subtitle: '[Da Xiong Mao]'
+    original_title: Ta hsiung mao
     pages: 171
     isbn: '0442200641'
   - title: The Role of RNA in Development and Reproduction
@@ -55575,6 +55769,10 @@ titles:
   - title: Xian dai fa yu shi yong yu fa
     authors:
       - Gaston Mauger
+    editors:
+      - Shangmin Wang
+    translators:
+      - Kun geng Xu
     year: 1981
     language: Chinese
     sources:
@@ -58580,6 +58778,8 @@ titles:
     subtitle: The Proceedings of Sino-American Symposium on Chemistry of Natural Products
     authors:
       - Sino-American Symposium on Chemistry of Natural Products (1980 Shanghai, China)
+    editors:
+      - Yu Wang
     year: 1982
     language: English
     pages: 321
@@ -59059,6 +59259,8 @@ titles:
     subtitle: Dictionnaire Français-Chinois de l'informatique
     authors:
       - Jinzhang Ma
+    editors:
+      - Jin zhang
     year: 1982
     edition: Di 1 ban
     language: Chinese
@@ -59077,6 +59279,10 @@ titles:
     subtitle: Lexique français-chinois de la prospection géophysique du pétrole
     authors:
       - Niu Yuquan
+    editors:
+      - Zhong lin Lü
+      - Yu quan Niu
+      - Xue qian Lü
     year: 1982
     edition: Di 1 ban
     language: Chinese
@@ -59217,6 +59423,10 @@ titles:
     subtitle: Proceedings of the China-Japan-United States Trilateral Seminar on Organometallic Chemistry Held at Peking, People's Republic of China, June, 1980
     authors:
       - China-Japan-United States Trilateral Seminar on Organom lic Chemistry (1980 Beijing, China)
+    editors:
+      - Minoru Tsutsui
+      - Yoshio Ishii
+      - Yaozeng Huang
     year: 1982
     language: English
     pages: 975
@@ -59718,6 +59928,7 @@ titles:
     subtitle: Shi jie you xiu ke huan xiao shuo shi pian
     authors:
       - R. A. Banks
+    translators:
       - Ming He
     year: 1982
     language: Chinese
@@ -59862,6 +60073,9 @@ titles:
   - title: Jue lei ming ci ji ming cheng
     authors:
       - 邢公侠
+    editors:
+      - Gongxia Xing
+      - Renchang Qin
     year: 1982
     language: Chinese
     sources:
@@ -60231,6 +60445,8 @@ titles:
     subtitle: Zhongguo di li xue hui 1978 nian jing ji di li zhuan ye xue shu hui yi wen ji
     authors:
       - Jing ji di li zhuan ye xue shu hui yi (1978 Changsha, Hunan Sheng, China)
+    editors:
+      - Zhong guo di li xue hui
     year: 1982
     edition: Di 1 ban
     language: Chinese
@@ -60363,6 +60579,9 @@ titles:
   - title: Proceedings of the 1980 Beijing Symposium on Differential Geometry and Differential Equations
     authors:
       - Beijing Symposium on Differential Geometry and Differential Equations (1980)
+    editors:
+      - Shiing-Shen Chern
+      - Wenjun Wu
     year: 1982
     language: English
     isbn: '0677311109'
@@ -60404,6 +60623,9 @@ titles:
     subtitle: '[Guo Ji You Xian Yuan Hui Yi Lun Wen Ji]'
     authors:
       - International Conference on Finite Element Methods (1982 Shanghai, China)
+    editors:
+      - Guangqian He
+      - Y. K. Cheung
     year: 1982
     language: English
     pages: 1013
@@ -60786,6 +61008,8 @@ titles:
     authors:
       - Moruo Guo
       - 沫若 郭
+    editors:
+      - Zhongguo she hui ke xue yuan
     year: 1982
     language: Chinese
     sources:
@@ -61904,6 +62128,11 @@ titles:
     verified: true
   - title: Zhong guo zhong zi zhi wu ke shu ci dian
     authors: []
+    editors:
+      - De zhao Chen
+      - Kuan zhao Hou
+      - De lin Wu
+      - Yun Gao
     year: 1982
     language: Multiple languages
     sources:
@@ -64266,6 +64495,7 @@ titles:
     verified: true
   - title: Acta Chimica Sinica
     subtitle: = Huaxue Xuebao
+    original_title: Hua hsüeh hsüeh pao
     authors:
       - Zhong guo hua xue hui
     year: 1983
@@ -64552,6 +64782,8 @@ titles:
   - title: Common Seaweeds of China
     authors:
       - Chengkui Zeng
+    editors:
+      - C. K. Tseng
     year: 1983
     language: English
     pages: 316
@@ -65228,6 +65460,9 @@ titles:
     subtitle: Proceedings of Academia Sinica-Max-Planck Society Workshop on High Energy Astrophysics Held in Nanjing, China, April 9-17, 1982
     authors:
       - Academia Sinica-Max-Planck Society Workshop on High Energy Astrophysics (1982 Nanjing, China)
+    editors:
+      - Chi An Yang
+      - Cisheng Zhu
     year: 1983
     language: English
     pages: 529
@@ -65541,9 +65776,11 @@ titles:
         url: https://lccn.loc.gov/84153893
     verified: true
   - title: Ke xue dan wei ci dian
+    original_title: Dictionary of scientific units
     authors:
       - H. G. Jerrard
       - D. B. McNeill
+    translators:
       - Minchu Zhao
       - 民初 赵
       - Minggao He
@@ -65887,6 +66124,9 @@ titles:
   - title: Proceedings of the China-France Symposium on Finite Element Methods
     authors:
       - China-France Symposium on Finite Element Methods (1982 Peking, China)
+    editors:
+      - Kang Feng
+      - Jacques-Louis Lions
     year: 1983
     language: English
     pages: 1036
@@ -65914,6 +66154,8 @@ titles:
   - title: Proceedings of the Joint China-U.S. Phycology Symposium, 16-20 November 1981, Qingdao, People's Republic of China
     authors:
       - Joint China-U.S. Phycology Symposium (1981 Qingdao, People's Republic of China)
+    editors:
+      - Chʿeng-kʿuei Tseng
     year: 1983
     language: English
     pages: 536
@@ -65957,6 +66199,8 @@ titles:
     subtitle: 30 August-3 September, 1982, Shanghai, China
     authors:
       - Marcel Grossmann Meeting on General Relativity (3rd 1982 Shanghai, China)
+    editors:
+      - Ning Hu
     year: 1983
     language: English
     pages: 1513
@@ -66801,6 +67045,8 @@ titles:
   - title: Xi zang zhi wu zhi
     authors:
       - Zhong guo ke xue yuan
+    editors:
+      - Zheng yi Wu
     year: 1983
     language: Chinese
     sources:
@@ -70362,6 +70608,10 @@ titles:
   - title: Geography in China
     authors:
       - Chuanjun Wu
+    editors:
+      - Wu Chuanjun
+      - Wang Nailiang
+      - Lin Chao
     year: 1984
     language: English
     pages: 222
@@ -70387,6 +70637,9 @@ titles:
     subtitle: Proceedings of the International Symposium Held at Nanjing University, Nanjing, China October 26-30, 1982
     authors:
       - International Symposium on Geology of Granites and Their M logenetic Relations (1982 Nanjing, China)
+    editors:
+      - Keqin Xu
+      - Guangchi Tu
     year: 1984
     language: English
     pages: 954
@@ -70683,6 +70936,8 @@ titles:
   - title: Hua xue ming ming yuan ze
     authors:
       - China) Zhongguo hua xue hui (Beijing
+    editors:
+      - Baoxuan Wang
     year: 1984
     edition: Di 1 ban
     language: Chinese
@@ -71026,6 +71281,9 @@ titles:
     subtitle: Proceedings of the First China-US Bilateral Seminar on Inorganic Materials Research, Held in Shanghai from May 17 to 21, 1983
     authors:
       - China-US Bilateral Seminar on Inorganic Materials Research (1st 1983 Shanghai, China)
+    editors:
+      - Joseph Adam Pask
+      - T. S. Yen
     year: 1984
     language: English
     pages: 525
@@ -71147,6 +71405,8 @@ titles:
     subtitle: 1981 Nien "Shuang Wei" Shang-hai Tʻao Lun Hui Wen Chi
     authors:
       - Symposium on Differential Geometry and Differential Equations. (2nd 1981 Shang-hai, China)
+    editors:
+      - Chaohao Gu
     year: 1984
     language: English
     pages: 553
@@ -72062,8 +72322,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1475834454
     verified: true
   - title: Yi wu er xi ding xiang ju he
+    original_title: Polimerizarea stereospecifică a izoprenului
     authors:
       - Elena Ceauşescu
+    translators:
       - Baotong Huang
       - Fosong Wang
       - Tianru Fang
@@ -72168,6 +72430,8 @@ titles:
     subtitle: English-Chinese glossary of mineral species
     authors:
       - Xin kuang wu ji kuang wu ming ming wei yuan hui (China)
+    editors:
+      - Xin-Kuangwu-Ji-Wuming-Weiyuanhui
     year: 1984
     edition: Di 1 ban
     language: Chinese
@@ -72239,6 +72503,8 @@ titles:
     subtitle: English-Chinese dictionary of histology and embryology
     authors:
       - Weiqian Ou
+    editors:
+      - Weiqian Qu
     year: 1984
     edition: Di 1 ban
     language: Chinese
@@ -74808,6 +75074,9 @@ titles:
     subtitle: Ti Chʻiu Hua Hsüeh
     authors:
       - Zhongguo kuang wu yan shi di qiu hua xue xue hui
+    editors:
+      - Chinese Society of Mineralogy, Petrology and Geochemistry
+      - Institute of Geochemistry
     year: 1985
     edition: English language ed
     language: English
@@ -75433,6 +75702,7 @@ titles:
     authors:
       - H. G. Jerrard
       - D. B. McNeill
+    translators:
       - Minchu Zhao
     year: 1985
     language: Chinese
@@ -75638,6 +75908,9 @@ titles:
     subtitle: Proceedings of the International Conference on Rare Earth Development and Applications, Beijing, the People's Republic of China, September 10-14, 1985
     authors:
       - International Conference on Rare Earth Development and Applications (1985 Beijing, China)
+    editors:
+      - Guangxian Xu
+      - Jimei Xiao
     year: 1985
     language: English
     pages: 1535
@@ -75716,6 +75989,11 @@ titles:
     subtitle: Kunming, China, 21-25 November 1983
     authors:
       - Kunming Workshop on Solar Physics and Interplanetary Travelling Phenomena (1983 Kunming, China)
+    editors:
+      - Y. Lin
+      - H. Ling
+      - H. Yang
+      - S. Ye
     year: 1985
     language: English
     pages: 1296
@@ -75737,6 +76015,8 @@ titles:
     subtitle: Computation of Partial Differential Equations = [1984 Nian "Shuang Wei" Beijing Tao Lun Hui Wen Ji]
     authors:
       - Symposium on Differential Geometry and Differential Equations (5th 1984 Beijing, China)
+    editors:
+      - Kang Feng
     year: 1985
     language: English
     pages: 381
@@ -75758,6 +76038,8 @@ titles:
       - Ruqing Li
       - Guangyi Shi
       - Zhongguo li xue xue hui
+    editors:
+      - Chenxiang Li
     year: 1985
     language: English
     sources:
@@ -75800,6 +76082,8 @@ titles:
     subtitle: 'Kuo Chi Fei Hsien Hsing Li Hsüeh Hui I Lun Wen Chi: October 28-31, 1985, Shanghai, China'
     authors:
       - International Conference on Nonlinear Mechanics (1985 Shanghai, China)
+    editors:
+      - Li Chengxiang
     year: 1985
     language: English
     pages: 1381
@@ -76045,6 +76329,7 @@ titles:
         url: https://search.worldcat.org/title/18806683
     verified: true
   - title: Shu yu xue gai lun
+    original_title: Introduction à la terminologie
     authors:
       - Guy Rondeau
       - Gang Liu
@@ -76126,6 +76411,8 @@ titles:
   - title: Tian wen xue jian shi
     authors:
       - Jiujin Chen
+    editors:
+      - 久金 陳
     year: 1985
     edition: Di 1 ban
     series: Tian wen xue ji chu zhi shi cong shu
@@ -76454,6 +76741,8 @@ titles:
     subtitle: English-Chinese dictionary of hydrology
     authors:
       - Guangwen Liu
+    editors:
+      - Enji Zhou
     year: 1985
     edition: Di 1 ban
     language: Chinese
@@ -76480,6 +76769,8 @@ titles:
     subtitle: An English-Chinese dictionary of automation
     authors:
       - Songgui Shu
+    editors:
+      - 松桂 疏
     year: 1985
     edition: Di 1 ban
     language: Chinese
@@ -78813,6 +79104,8 @@ titles:
   - title: Atlas of Geo-Science Analyses of Landsat Imagery in China
     authors:
       - Guo jia yao gan zhong xin (China)
+    editors:
+      - Shupeng Chen
     year: 1986
     language: English
     pages: 228
@@ -78973,6 +79266,9 @@ titles:
     subtitle: Deutsch-Chinesisches wörterbuch für die Elektronenrechenmaschine
     authors:
       - Yuankang Diao
+    editors:
+      - Tong Tian
+      - Yugui Peng
     year: 1986
     edition: Di 2 ban / Diao Yuankang, Tian Tong, Peng Yugui bian ding
     language: Chinese
@@ -79215,8 +79511,12 @@ titles:
     verified: true
   - title: History and Development of Ancient Chinese Architecture
     subtitle: '[Chung-kuo Ku Tai Chien Chu Chi Shu Shih]'
+    original_title: Chung-kuo ku tai chien chu chi shu shih
     authors:
       - Zhongguo ke xue yuan. Zi ran ke xue shi yan jiu suo
+    editors:
+      - Yuanzhao Zhong
+      - Yangzhen Chen
     year: 1986
     language: English
     pages: 545
@@ -79382,6 +79682,8 @@ titles:
   - title: Physical Geography of China
     authors:
       - Sung-chʻiao Chao
+    editors:
+      - Christopher Salter
     year: 1986
     language: English
     pages: 209
@@ -79415,6 +79717,10 @@ titles:
     subtitle: 1982 Nien "Shuang Wei" Chʻang-Chʻun Tʻao Lun Hui Wen Chi
     authors:
       - Symposium on Differential Geometry and Differential Equations. (3rd 1982 Chʻang-chʻun, China)
+    editors:
+      - Shiing-Shen Chern
+      - Rou-hai Wang
+      - Min-you Chi
     year: 1986
     language: English
     pages: 765
@@ -79479,6 +79785,8 @@ titles:
     subtitle: June 4-7, 1986, Beijing, China = [Guo Ji Deng Li Zi Ti Ke Xue Yu Ji Shu Hui Yi Lun Wen Ji]
     authors:
       - International Conference on Plasma Science and Technology (1986 Beijing, China)
+    editors:
+      - Chengxiang Li
     year: 1986
     language: English
     pages: 630
@@ -79514,6 +79822,8 @@ titles:
   - title: Proceedings of the International Symposium on Red Soils
     authors:
       - International Symposium on Red Soils (1983 Nanjing, Jiangsu Sheng, China)
+    editors:
+      - Nan jing tu rang yan jiu suo
     year: 1986
     language: English
     pages: 785
@@ -79578,6 +79888,8 @@ titles:
   - title: Research on Acupuncture, Moxibustion, and Acupuncture Anesthesia
     authors:
       - Xiangtong Zhang
+    editors:
+      - Hsiang-t'ung Chang
     year: 1986
     language: English
     pages: 1179
@@ -79963,6 +80275,7 @@ titles:
         url: https://search.worldcat.org/title/42074604
     verified: true
   - title: Zhi bei sheng tai xue de mu di he fang fa
+    original_title: Aims and Methods of Vegetation Ecology
     authors:
       - Dieter Mueller-Dombois
       - Heinz Ellenberg
@@ -82179,6 +82492,8 @@ titles:
   - title: A synopsis of the avifauna of China
     authors:
       - Zuoxin Zheng
+    editors:
+      - Xie Zhong-ping
     year: 1987
     language: German
     sources:
@@ -82210,6 +82525,9 @@ titles:
     verified: false
   - title: Advances in Science of China, Mathematics
     authors: []
+    editors:
+      - Chaohao Gu
+      - Yuan Wang
     year: 1987
     language: English
     sources:
@@ -82253,6 +82571,9 @@ titles:
     subtitle: Progress and Prospects
     authors:
       - International radiation symposium
+    editors:
+      - Kuo-Nan Liou
+      - Xiuji Zhou
     year: 1987
     language: English
     sources:
@@ -82537,9 +82858,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=342315110
     verified: true
   - title: From Newton's Laws to Einstein's Theory of Relativity
+    original_title: Tsʿung Niu-tun ting lü tao Ai-yin-ssu-tʿan hsiang tui lun
     authors:
       - Lizhi Fang
       - Yaoquan Chu
+    translators:
       - Hongquan Huang
     year: 1987
     language: English
@@ -82720,6 +83043,11 @@ titles:
   - title: Icons of Medicinal Fungi from China
     authors:
       - Xiaolan Mao
+    editors:
+      - Chien-che Ying
+      - Yün-chang Wang
+    translators:
+      - Hanfen Tang
     year: 1987
     language: English
     pages: 575
@@ -82935,6 +83263,9 @@ titles:
   - title: Reports on the Northeastern Part of the Qinghai-Xizang (Tibet) Plateau
     authors:
       - Sino-W. German Scientific Expedition (1981)
+    editors:
+      - Jürgen Hövermann
+      - Wenying Wang
     year: 1987
     language: English
     pages: 510
@@ -83501,6 +83832,9 @@ titles:
     subtitle: English-Chinese Dictionary of Developmental Biology
     authors:
       - Yingxian Shi
+    editors:
+      - Deyu Lu
+      - Shaoyi Yan
     year: 1987
     edition: Di 1 ban
     language: Chinese, English
@@ -83517,6 +83851,8 @@ titles:
     verified: true
   - title: Ying han hua xue hua gong ci hui
     authors: []
+    editors:
+      - Bao xuan Wang
     year: 1987
     language: Multiple languages
     sources:
@@ -83555,6 +83891,8 @@ titles:
     subtitle: 'Di 2 ban xu bian: English-Chinese dictionary of computing technology: Continuation of the 2nd edition'
     authors:
       - Dianying Bian
+    editors:
+      - Dianying Ding
     year: 1987
     edition: Di 1 ban
     language: Chinese
@@ -83606,6 +83944,9 @@ titles:
   - title: Ying Han liu tai hua zhuan ye chang yong ci hui
     authors:
       - Zigang Yan
+    editors:
+      - Guang Xia
+      - Linna Cheng
     year: 1987
     edition: Di 1 ban
     language: Chinese
@@ -87051,6 +87392,7 @@ titles:
     authors:
       - Yuhuan Zhang
       - Zhewen Luo
+    translators:
       - Guopei Gao
       - Chunguang Ma
     year: 1988
@@ -87187,6 +87529,7 @@ titles:
         url: https://lccn.loc.gov/89208491
     verified: true
   - title: Difference Methods for Initial-Boundary-Value Problems and Flow Around Bodies
+    original_title: Chʿu pien chih wen tʿi chʿa fen fang fa chi chiao liu
     authors:
       - Zhu You-lan
     year: 1988
@@ -87276,7 +87619,8 @@ titles:
     verified: true
   - title: Guo Ji Dong Wu Ming Ming Fa Gui
     subtitle: = International Code of Zoological Nomenclature = Code International de Nomenclature Zoologique
-    authors:
+    authors: []
+    translators:
       - Hongfu Zhu
     year: 1988
     language: Chinese, English
@@ -87483,6 +87827,9 @@ titles:
   - title: Proceedings of the Fourth Asian-Pacific Regional Meeting of the International Astronomical Union
     authors:
       - International Astronomical Union. Asian-Pacific Regional Meeting
+    editors:
+      - John B. Hearnshaw
+      - Zhang Erhe
     year: 1988
     series: Vistas in Astronomy -- Vol.31
     language: English
@@ -87497,6 +87844,9 @@ titles:
     subtitle: 3-7 November, 1986, Beijing, China
     authors:
       - International Symposium on Engineering in Complex Rock Formations (1986 Beijing, China)
+    editors:
+      - Li Chengxiang
+      - Yang Ling
     year: 1988
     edition: 1st ed
     language: English
@@ -87519,6 +87869,9 @@ titles:
   - title: Proceedings of the International Symposium on Intense Dynamic Loading and Its Effects, June 3-7, 1986, Beijing, China
     authors:
       - International Symposium on Intense Dynamic Loading and Its Effects (1986 Beijing, China)
+    editors:
+      - Zhemin Zheng
+      - Zhongguo li xue xue hui
     year: 1988
     edition: 1st ed
     language: English
@@ -87777,8 +88130,9 @@ titles:
     verified: true
   - title: Xian dai shu yu xue yu ci shu bian zuan
     authors:
-      - Shuming Zou
       - Jie Gao
+    translators:
+      - Shuming Zou
     year: 1988
     language: Chinese
     sources:
@@ -90518,6 +90872,10 @@ titles:
     subtitle: Contribution to 28th International Geological Congress, July 1989, Washington, D.C., USA
     authors:
       - International Geological Congress (28th 1989 Washington, D.C.)
+    editors:
+      - Tseng-chʿüan Li
+      - Fa-erh Chiang
+      - Shu Sun
     year: 1989
     language: English
     pages: 397
@@ -90822,6 +91180,8 @@ titles:
   - title: The Evolution Theory and Taxonomy
     authors:
       - Sicien Chen
+    translators:
+      - Qin Junde
     year: 1989
     language: English
     pages: 133
@@ -90846,6 +91206,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991136863519705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: The Theory of Fixed Point Classes
+    original_title: Pu tung tien lei li lun
     authors:
       - Zehan Jiang
     year: 1989
@@ -93308,6 +93669,8 @@ titles:
   - title: Atlas of Ecology and Environment in the Three Gorges Area of the Changjiang River
     authors:
       - Chung-kuo kʻo hsüeh yüan. Research Group on Impacts of the Three Gorges Project on Ecology and Environment
+    editors:
+      - Yu Chen
     year: 1990
     language: English
     pages: 191
@@ -93906,6 +94269,8 @@ titles:
   - title: Soils of China
     authors:
       - Zhongguo ke xue yuan. Nanjing tu rang yan jiu suo
+    editors:
+      - Chingkwei Li
     year: 1990
     language: English
     pages: 873
@@ -96315,6 +96680,8 @@ titles:
     verified: false
   - title: Flora of Pan-Himalaya
     authors: []
+    editors:
+      - De yuan Hong
     language: English
     sources:
       - title: BnF catalogue record cb454309092

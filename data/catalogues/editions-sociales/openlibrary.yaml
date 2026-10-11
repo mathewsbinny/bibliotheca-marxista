@@ -13,8 +13,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb312069494
     verified: true
   - title: Dix jours qui ébranlèrent le monde
+    original_title: Ten days that shook the world
     authors:
       - John Reed
+    translators:
+      - Martin Stahl
     year: 1927
     language: French
     links:
@@ -116,6 +119,7 @@ titles:
     verified: true
   - title: La théorie du matérialisme historique
     subtitle: Manuel populaire de sociologie marxiste
+    original_title: Teorii︠a︡ istoricheskogo materializma
     authors:
       - Nikolaĭ Ivanovich Bukharin
     year: 1927
@@ -144,6 +148,8 @@ titles:
   - title: Les questions fondamentales du marxisme
     authors:
       - Georgiĭ Valentinovich Plekhanov
+    editors:
+      - David Borisovich Goldendach
     year: 1927
     series: Bibliotheque marxiste
     language: French
@@ -230,6 +236,8 @@ titles:
     subtitle: Homme, penseur et révolutionnaire
     authors:
       - D. B. Riazanov
+    editors:
+      - David Borisovič Râzanov
     year: 1928
     series: Bibliothèque marxiste -- no. 6
     language: French
@@ -248,8 +256,11 @@ titles:
       - label: Full text (marxists.org)
         url: https://www.marxists.org/archive/riazanov/1927/marx-symposium/index.htm
   - title: Karl Marx. Le 18 brumaire de Louis Bonaparte
+    original_title: Der achtzehnte Brumaire des Louis Bonaparte
     authors:
       - Karl Marx
+    translators:
+      - Marcel Ollivier
     year: 1928
     language: French
     sources:
@@ -277,6 +288,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=382415140
     verified: true
   - title: La religion au pays des soviets
+    original_title: Religion under the soviets
     authors:
       - Julius Friedrich Hecker
     year: 1928
@@ -286,9 +298,11 @@ titles:
         url: https://www.sudoc.fr/080302076
     verified: true
   - title: Le 18-brumaire de Louis Bonaparte
+    original_title: Achtzehnte Brumaire des Louis Bonaparte
     series: Bibliothèque Marxiste; No. 5
     authors:
       - Karl Marx
+    translators:
       - Marcel Ollivier
     year: 1928
     language: French
@@ -301,8 +315,9 @@ titles:
   - title: Le ciment
     authors:
       - Fedor Vasilievitch Gladkov
-      - Victor Serge
       - Voltaire Radi
+    translators:
+      - Victor Serge
     year: 1928
     language: French
     sources:
@@ -315,6 +330,8 @@ titles:
   - title: Le Ciment, roman. Traduit du russe par Victor-Serge
     authors:
       - Fedor Vasilʹevič Gladkov
+    translators:
+      - Victor Serge
     year: 1928
     language: French
     sources:
@@ -344,6 +361,7 @@ titles:
   - title: Oeuvres complètes
     authors:
       - Vladimir Ilʹič Lenin
+    translators:
       - Victor Serge
     year: 1928
     language: French
@@ -403,6 +421,8 @@ titles:
     subtitle: Roman
     authors:
       - Aleksandr Aleksandrovič Fadeev
+    translators:
+      - Maurice Parijanine
     year: 1929
     language: French
     sources:
@@ -456,6 +476,8 @@ titles:
   - title: Le Ciment, roman. Traduit du russe par Victor-Serge. 2e édition (2e tirage)
     authors:
       - Fedor Vasilʹevič Gladkov
+    translators:
+      - Victor Serge
     year: 1929
     language: French
     sources:
@@ -466,6 +488,8 @@ titles:
     subtitle: Roman
     authors:
       - Alexis Demidov
+    translators:
+      - Maurice Parijanine
     year: 1929
     language: French
     sources:
@@ -497,6 +521,8 @@ titles:
   - title: Oeuvres complètes
     authors:
       - Vladimir Il’ich Lenin
+    translators:
+      - Victor Serge
     year: 1929
     language: French
     sources:
@@ -538,6 +564,8 @@ titles:
     authors:
       - Konstantin Vasil'evitch Ostrovitianov
       - Iosif Abramovitch Lapidous
+    translators:
+      - Victor Serge
     year: 1929
     language: French
     links:
@@ -617,8 +645,12 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA66366608
     verified: false
   - title: Ceux de la marine
+    original_title: Das Opfer
     authors:
       - Albert Daudistel
+    translators:
+      - Olivier Bournac
+      - Alzir Hella
     year: 1930
     language: French
     sources:
@@ -659,6 +691,10 @@ titles:
     series: Horizons; 1
     authors:
       - Fédor Ivanovitch Panferov
+    translators:
+      - Marie Borissov
+      - Zinovy Lvovsky
+      - Lydie Silbert
     year: 1930
     language: French
     sources:
@@ -691,6 +727,7 @@ titles:
     series: Oeuvres complètes; X
     authors:
       - Vladimir Ilʹič Lenin
+    translators:
       - Victor Serge
     year: 1930
     language: French
@@ -700,9 +737,12 @@ titles:
     verified: true
   - title: Le Torrent de fer
     subtitle: Roman
+    original_title: Jeleznyi potok
     series: Horizons
     authors:
       - Aleksandr Serafimovič
+    translators:
+      - Maurice Parijanine
     year: 1930
     language: French
     sources:
@@ -813,9 +853,10 @@ titles:
     series: Horizons; 2
     authors:
       - Fedor Ivanovič Panferov
+      - Voltaire Radi
+    translators:
       - Lydie Silbert
       - Zinovy Lvovsky
-      - Voltaire Radi
     year: 1931
     language: French
     sources:
@@ -876,6 +917,9 @@ titles:
   - title: Juifs sans argent
     authors:
       - Michael Gold
+    translators:
+      - Ida Treat Bergeret
+      - Paul Vaillant-Couturier
     year: 1932
     language: French
     sources:
@@ -886,9 +930,12 @@ titles:
     verified: true
   - title: L'Épopée du travail moderne
     subtitle: La merveilleuse transformation de l'Union Soviétique
+    original_title: Rasshaz o velibon
     series: Collection "Mon camarade"
     authors:
       - M. Ilʹin
+    translators:
+      - Doccar
     year: 1932
     language: French
     sources:
@@ -935,6 +982,7 @@ titles:
     verified: true
   - title: Réforme ou révolution?
     subtitle: Suivi de la participation socialiste au pouvoir en France et de la grève générale
+    original_title: Sozialreform oder revolution?
     authors:
       - Rosa Luxemburg
     year: 1932
@@ -991,6 +1039,9 @@ titles:
     series: Horizons
     authors:
       - Aleksandr Ostapovič Avdeenko
+    translators:
+      - Alice Orane
+      - Georges Roux
     year: 1933
     language: French
     sources:
@@ -1078,6 +1129,9 @@ titles:
     series: Horizons; 1933
     authors:
       - Naoshi Tokunaga
+    translators:
+      - S. Ōno
+      - F.-A. Orel
     year: 1933
     language: French
     sources:
@@ -1087,9 +1141,12 @@ titles:
         url: https://www.sudoc.fr/105848794
     verified: true
   - title: Le talon de fer
+    original_title: The Iron heel
     series: Horizons
     authors:
       - Jack London
+    translators:
+      - Louis Postif
     year: 1933
     language: French
     links:
@@ -1145,9 +1202,13 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb42332010p
     verified: true
   - title: Tchapaïev
+    original_title: Čapaev
     series: Horizons
     authors:
       - Dmitrij Andreevič Furmanov
+    translators:
+      - A. Oranovskaïa
+      - Aleksandr Aleksandrovič Rudnikov
     year: 1933
     language: French
     sources:
@@ -1161,6 +1222,9 @@ titles:
   - title: Terres défrichées
     authors:
       - Mihail Aleksandrovič Šolohov
+    translators:
+      - Alice Orane
+      - Georges Roux
     year: 1933
     language: French
     sources:
@@ -1203,6 +1267,8 @@ titles:
   - title: Ce que disent les amis du petit Pierre
     authors:
       - Hermynia Zur Mühlen
+    translators:
+      - André Girard
     year: 1934
     language: French
     sources:
@@ -1214,6 +1280,7 @@ titles:
         url: https://d-nb.info/992958423
     verified: true
     subtitle: Suivi de la muraille magique, les trois amis, le cheval de fiacre, le drapeau rouge, le pont
+    original_title: Was Peterchens Freunde erzählen
   - title: Collection "Commune"
     authors: []
     year: 1934
@@ -1265,6 +1332,8 @@ titles:
     authors:
       - Ischaïa Sapir
       - Wilhelm Reich
+    translators:
+      - Maurice Ténine
     year: 1934
     language: French
     sources:
@@ -1276,8 +1345,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991076659819705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: La mère
+    original_title: Matʹ
     authors:
       - Maxime Gorki
+    translators:
+      - Serge Persky
     year: 1934
     language: French
     sources:
@@ -1327,6 +1399,8 @@ titles:
     series: Horizons, collection du roman international
     authors:
       - Gustav Regler
+    translators:
+      - Jeanne Stern
     year: 1934
     language: French
     sources:
@@ -1451,9 +1525,13 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA03828185
     verified: false
   - title: Énergie
+    original_title: Énergiâ
     series: '"Horizons..."'
     authors:
       - Fedor Vasilʹevič Gladkov
+    translators:
+      - Georges Roux
+      - Alice Orane
     year: 1935
     language: French
     sources:
@@ -1538,6 +1616,8 @@ titles:
   - title: La guerre aéro-chimique
     authors:
       - Pierre Cuénat
+    translators:
+      - Pierre Jules Cot
     year: 1935
     series: Collection "Problèmes"
     language: French
@@ -1709,6 +1789,8 @@ titles:
   - title: 'Races: mythe et vérité'
     authors:
       - Theodor Balk
+    translators:
+      - Lydia Staloff
     year: 1935
     series: Collection "Problèmes"; essais de critique marxiste sur les principales questions contemporaines
     language: French
@@ -1836,6 +1918,9 @@ titles:
     subtitle: 'Essais: sciences physico-mathematiques, sciences naturelles, sciences humaines'
     authors:
       - France). Commission scientifique Cercle de la Russie neuve (Paris
+    editors:
+      - Jean Baby
+      - Henri Wallon
     year: 1936
     language: French
     sources:
@@ -1901,7 +1986,8 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991056227699705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Cervantes
-    authors:
+    authors: []
+    translators:
       - Jean Cassou
     year: 1936
     series: Socialisme et culture
@@ -1936,6 +2022,8 @@ titles:
   - title: Critiques littéraires
     authors:
       - Paul Lafargue
+    editors:
+      - Jean Fréville
     year: 1936
     language: French
     pages: 220
@@ -1969,6 +2057,8 @@ titles:
   - title: Diderot, ses idées philosophiques
     authors:
       - I. K. Luppol
+    translators:
+      - Valentin Feldman
     year: 1936
     series: Socialisme et culture, collection pub. sous la direction de Georges Friedmann ... Materialistes français du XVIIIe siècle, pub. sous la direction du Groupe d'études matérialistes
     language: French
@@ -2045,6 +2135,8 @@ titles:
   - title: Fascisme et révolution
     authors:
       - Rajani Palme Dutt
+    translators:
+      - René Hilsum
     year: 1936
     language: French
     sources:
@@ -2060,6 +2152,8 @@ titles:
     subtitle: Histoire d'un voyage autour du monde
     authors:
       - Lisa Tetzner
+    translators:
+      - Pierre Kaldor
     year: 1936
     language: French
     sources:
@@ -2173,11 +2267,14 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA26372092
     verified: false
   - title: La Mère
+    original_title: Matʹ
     series: Petite Bibliothèque théâtrale
     authors:
       - Maxime Gorki
       - Anna Zalomova
       - S. Orlov
+    translators:
+      - Serge Persky
     year: 1936
     language: French
     sources:
@@ -2249,10 +2346,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=49772698X
     verified: true
   - title: Le chemin de février
+    original_title: Der Weg durch den Februar
     authors:
       - Anna Seghers
-      - Jeanne Stern
       - Voltaire Radi
+    translators:
+      - Jeanne Stern
     year: 1936
     language: French
     sources:
@@ -2262,6 +2361,8 @@ titles:
   - title: Le Chemin de février. Roman. Traduit de l'allemand par Jeanne Stern
     authors:
       - Anna Seghers
+    translators:
+      - Jeanne Stern
     year: 1936
     language: French
     sources:
@@ -2306,8 +2407,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991059587679705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Le partage des terres
+    original_title: Reparto de tierras
     authors:
       - César M. Arconada
+    translators:
+      - Esther Guyot
     year: 1936
     language: French
     sources:
@@ -2366,6 +2470,8 @@ titles:
   - title: Les maîtres de la France
     authors:
       - Augustin Frédéric Hamon
+    editors:
+      - Augustin Hamon
     year: 1936
     language: French
     sources:
@@ -2438,6 +2544,8 @@ titles:
     subtitle: Roman
     authors:
       - Ûrij Karlovič Oleša
+    translators:
+      - Stéphanie Merley
     year: 1936
     language: French
     sources:
@@ -2457,8 +2565,9 @@ titles:
   - title: Lettres, notes et documents dafant de ma détention et du procès de Leipzig
     authors:
       - Georgi Dymitrow
-      - Marcel Willard
       - Alfred Kurella
+    translators:
+      - Marcel Willard
     year: 1936
     language: French
     sources:
@@ -2470,6 +2579,10 @@ titles:
   - title: Lettres, notes et documents datant de ma détention et du procès de Leipzig
     authors:
       - Georgi Mihajlov Dimitrov
+    editors:
+      - Alfred Kurella
+    translators:
+      - Marcel Willard
     year: 1936
     language: French
     sources:
@@ -2574,6 +2687,8 @@ titles:
     verified: true
   - title: Socialisme et culture
     authors: []
+    editors:
+      - Georges Friedman
     year: 1936
     language: French
     sources:
@@ -2593,8 +2708,9 @@ titles:
   - title: Sur la littérature et l'art
     authors:
       - Karl Marx
-      - Jean Fréville
       - Friedrich Engels
+    translators:
+      - Jean Fréville
     year: 1936
     series: Les grands textes du Marixisme
     language: French
@@ -2616,6 +2732,8 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
+      - Lucien Henry
     year: 1936
     language: French
     sources:
@@ -2642,8 +2760,11 @@ titles:
     verified: true
   - title: '1919'
     subtitle: Roman
+    original_title: '1919'
     authors:
       - John Dos Passos
+    translators:
+      - Maurice Rémon
     year: 1937
     language: French
     sources:
@@ -2652,9 +2773,11 @@ titles:
     verified: true
   - title: 1919 Mille neuf cent dix-neuf
     subtitle: Roman
+    original_title: Nineteen nineteen
     series: Collection Ciment
     authors:
       - John Dos Passos
+    translators:
       - Maurice Rémon
     year: 1937
     language: French
@@ -2675,6 +2798,11 @@ titles:
     subtitle: Essais
     authors:
       - Cercle de la Russie Neuve. Commission Sciéntifique
+    editors:
+      - Auguste Cornu
+      - Armand Cuvillier
+      - Paul Labérenne
+      - Lucy Prenant
     year: 1937
     language: French
     sources:
@@ -2710,6 +2838,7 @@ titles:
   - title: Avant l'aube
     authors:
       - Ludwig Renn
+    translators:
       - Jean Bruel
     year: 1937
     language: French
@@ -2801,6 +2930,8 @@ titles:
     verified: true
   - title: Collection Ciment
     authors: []
+    editors:
+      - Renaud de Jouvenel
     year: 1937
     language: French
     sources:
@@ -2819,6 +2950,8 @@ titles:
   - title: Contre-attaque en Espagne
     authors:
       - Ramón José Sender
+    translators:
+      - Georges Bénichou
     year: 1937
     language: French
     sources:
@@ -2906,8 +3039,11 @@ titles:
     verified: true
   - title: Et l'acier fut trempé
     subtitle: Roman
+    original_title: Как закалялась сталь
     authors:
       - Nikolay Ostrovsky
+    translators:
+      - Valentin Feldman
     year: 1937
     series: Collection Ciment
     language: French
@@ -2951,6 +3087,9 @@ titles:
     series: Petite bibliothèque théâtrale
     authors:
       - Lope de Vega
+    translators:
+      - Jean Cassou
+      - Jean Camp
     year: 1937
     language: French
     sources:
@@ -2962,6 +3101,9 @@ titles:
   - title: Fourier
     authors:
       - F. Armand
+    editors:
+      - Félix Armand
+      - René Maublanc
     year: 1937
     series: Socialisme et culture
     language: French
@@ -2999,6 +3141,8 @@ titles:
       - Maksim Gorkii (Максим Горький)
       - Vyacheslav Mikhaylovich Molotov
       - Joseph Stalin
+    editors:
+      - Maksim Gorky
     year: 1937
     language: French
     sources:
@@ -3120,8 +3264,11 @@ titles:
     verified: true
   - title: L'île au trésor
     subtitle: Grand roman d'aventures
+    original_title: Treasure island
     authors:
       - Robert Louis Stevenson
+    translators:
+      - Marcelle Hilsum
     year: 1937
     language: French
     sources:
@@ -3162,6 +3309,8 @@ titles:
     subtitle: Récits
     authors:
       - Agnes Smedley
+    translators:
+      - Renaud de Jouvenel
     year: 1937
     series: Collection "Ciment"
     language: French
@@ -3214,8 +3363,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb43258695c
     verified: true
   - title: La mère
+    original_title: Matʹ
     authors:
       - Maxime Gorki
+    translators:
+      - Serge Persky
     year: 1937
     language: French
     sources:
@@ -3223,8 +3375,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb321821038
     verified: true
   - title: La Mort d'un tyran. Texte de Lampride, traduit par Diderot. Pour choeur et orchestre
+    original_title: La mort du tyran
     authors:
       - Darius Milhaud
+    translators:
+      - Denis Diderot
     year: 1937
     language: French
     sources:
@@ -3233,9 +3388,12 @@ titles:
     verified: true
   - title: La passion de Joss Fritz
     subtitle: Roman
+    original_title: Die Saat
     series: Collection Ciment
     authors:
       - Gustav Regler
+    translators:
+      - Jeanne Stern
     year: 1937
     language: French
     sources:
@@ -3334,6 +3492,8 @@ titles:
     subtitle: Poèmes de Altolaguirre, Varela ... [et alii]
     authors:
       - Georges Pillement
+    translators:
+      - Gabriel Audisio
     year: 1937
     series: Collection Commune
     language: French
@@ -3355,6 +3515,7 @@ titles:
         url: https://search.worldcat.org/title/23397244
     verified: true
   - title: Le songe d'une nuit d'été
+    original_title: A Midsummer night's dream
     series: Petite bibliothèque théâtrale
     authors:
       - William Shakespeare
@@ -3398,6 +3559,7 @@ titles:
         url: https://www.sudoc.fr/055864872
     verified: true
   - title: Les Acharniens
+    original_title: Acharnenses
     series: Petite bibliothèque théâtrale
     authors:
       - Aristophane
@@ -3545,9 +3707,11 @@ titles:
     verified: true
   - title: Mais demain
     subtitle: Pièce en trois actes et six tableaux
+    original_title: Men imorgen
     series: Petite bibliothèque théâtrale
     authors:
       - Nordahl Grieg
+    translators:
       - Henri Fer
     year: 1937
     language: French
@@ -3626,6 +3790,8 @@ titles:
   - title: Pouchkine, 1837-1937
     authors:
       - Aleksandr Sergeyevich Pushkin (Александр Сергеевич Пушкин)
+    editors:
+      - J. E. Pouterman
     year: 1937
     language: French
     pages: 214
@@ -3743,6 +3909,9 @@ titles:
     authors:
       - Vladimir Il’ich Lenin
       - Joseph Stalin
+    editors:
+      - Jean Fréville
+    translators:
       - Jean Fréville
     year: 1937
     language: French
@@ -3771,6 +3940,9 @@ titles:
     series: 'Horizons: collection du roman international'
     authors:
       - Dmitrij Andreevič Furmanov
+    translators:
+      - Alice Orane
+      - Georges Roux
     year: 1937
     language: French
     sources:
@@ -3783,9 +3955,10 @@ titles:
     series: Horizons
     authors:
       - Dmitrii Andreevich Fourmanov
+      - Paul Vaillant-Couturier
+    translators:
       - Alice Orane
       - Georges Roux
-      - Paul Vaillant-Couturier
     year: 1937
     language: Russian
     sources:
@@ -3806,6 +3979,7 @@ titles:
   - title: Vie de Lénine
     authors:
       - Platon Mihajlovič Keržencev
+    translators:
       - Jeanne Toscane
     year: 1937
     language: French
@@ -3937,8 +4111,9 @@ titles:
   - title: Deux systèmes, économie socialiste et économie capitaliste
     authors:
       - Evgenij Samojlovič Varga
-      - Alix Guillain
       - Voltaire Radi
+    translators:
+      - Alix Guillain
     year: 1938
     language: French
     sources:
@@ -3952,6 +4127,8 @@ titles:
   - title: 'Deux systèmes: économie socialiste et économie capitaliste, traduit de l''allemand par Alix Guillain'
     authors:
       - Evgenij Samojlovič Varga
+    translators:
+      - Alix Guillain
     year: 1938
     language: French
     sources:
@@ -4007,6 +4184,8 @@ titles:
   - title: Entre marteau et enclume, roman traduit de l'anglais par Ida Treat
     authors:
       - Edwin Seaver
+    translators:
+      - Ida Treat Bergeret
     year: 1938
     language: French
     sources:
@@ -4172,6 +4351,8 @@ titles:
     subtitle: Roman
     authors:
       - Petr Andreevič Pavlenko
+    translators:
+      - Léon Sobolev
     year: 1938
     language: French
     sources:
@@ -4225,6 +4406,8 @@ titles:
     series: Collection "Ciment"
     authors:
       - Jorge Icaza Coronel
+    translators:
+      - Georges Pillement
     year: 1938
     language: French
     sources:
@@ -4303,6 +4486,8 @@ titles:
     subtitle: Roman d'une jeune Allemande
     authors:
       - F. C. Weiskopf
+    translators:
+      - Maurice Rémon
     year: 1938
     language: French
     pages: 263
@@ -4315,6 +4500,8 @@ titles:
   - title: La Tentation, roman d'une jeune allemande ["Die Versuchung"]. Traduit de l'allemand par Maurice Rémon
     authors:
       - Franz Carl Weiskopf
+    translators:
+      - Maurice Rémon
     year: 1938
     language: French
     sources:
@@ -4359,9 +4546,12 @@ titles:
     verified: true
   - title: Légion 14
     subtitle: Roman
+    original_title: Inostrannyi legion
     series: Collection "Ciment"
     authors:
       - Viktor Grigorʹevič Fink
+    translators:
+      - Charles Steber
     year: 1938
     language: French
     sources:
@@ -4568,6 +4758,8 @@ titles:
   - title: Pierre Leroux
     authors:
       - Henri Mougin
+    editors:
+      - Pierre Leroux
     year: 1938
     series: Socialisme et culture
     language: French
@@ -4637,6 +4829,13 @@ titles:
     verified: true
   - title: Storia della Rivoluzione russa
     authors: []
+    editors:
+      - Iosif Vissarionovič Stalin
+      - Vâčeslav Mihailovič Molotov
+      - K. Voroscilov
+      - Andrej Aleksandrovič Ždanov
+      - Sergej Mironovič Kirov
+      - Maxime Gorki
     year: 1938
     language: Italian
     sources:
@@ -4649,6 +4848,10 @@ titles:
       - Karl Marx
       - Friedrich Engels
       - Vladimir Ilʹič Lenin
+    editors:
+      - Jean Fréville
+    translators:
+      - Freville
     year: 1938
     language: French
     sources:
@@ -4935,6 +5138,13 @@ titles:
     subtitle: Revue du rationalisme moderne
     authors:
       - Centre d'études et de recherches marxistes
+    editors:
+      - Paul Langevin
+      - Georges Cogniot
+      - Georges Teissier
+      - Henri Wallon
+      - René Maublanc
+      - Jean Frédéric Joliot-Curie
     year: 1939
     language: French
     sources:
@@ -4975,6 +5185,9 @@ titles:
     series: Collection Horizons
     authors:
       - Anton Semenovič Makarenko
+    translators:
+      - Madeleine Etard
+      - Juliette Pary
     year: 1939
     language: French
     sources:
@@ -5012,6 +5225,8 @@ titles:
     subtitle: Chronique
     authors:
       - César Falcon
+    translators:
+      - Georges Bénichou
     year: 1939
     language: French
     pages: 358
@@ -5030,6 +5245,8 @@ titles:
   - title: Maïakovski, poète russe, souvenirs
     authors:
       - Elsa Triolet
+    translators:
+      - Louis Aragon
     year: 1939
     language: French
     sources:
@@ -5117,6 +5334,8 @@ titles:
     subtitle: Textes de Jacques Decour, présentés par Aragon
     authors:
       - Jacques Decour
+    editors:
+      - Louis Aragon
     year: 1945
     language: French
     pages: 47
@@ -5336,6 +5555,7 @@ titles:
         url: https://www.sudoc.fr/046979034
     verified: true
   - title: L'impérialisme, stade suprême du capitalisme
+    original_title: Imperializm kak vysŝaâ stadiâ kapitalizma
     series: Les Éléments du communisme
     authors:
       - Vladimir Ilʹič Lenin
@@ -5360,6 +5580,7 @@ titles:
         url: https://www.sudoc.fr/048027383
     verified: true
   - title: Le 18-brumaire de Louis Bonaparte
+    original_title: Der achtzehnte Brumaire des Luois Bonaparte
     authors:
       - Karl Marx
     year: 1945
@@ -5466,6 +5687,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991049422509705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Le matérialisme dialectique et le matérialisme historique
+    original_title: O dialektičeskom i istoričeskom materializme
     series: Les Eléments du communisme
     authors:
       - Joseph Staline
@@ -5696,6 +5918,7 @@ titles:
   - title: Géographie économique de l'U. R. S. S
     authors:
       - Nikolaï Nikolaevitch Mikhaïlov
+    translators:
       - Françoise Vitrac
       - Dmitrij Sergueevič Merejkovskij
     year: 1946
@@ -5758,6 +5981,8 @@ titles:
       - Maksim Gorkii (Максим Горький)
       - Vyacheslav Mikhaylovich Molotov
       - Joseph Stalin
+    editors:
+      - Maksim Gorky
     year: 1946
     language: French
     sources:
@@ -5888,6 +6113,8 @@ titles:
   - title: La démocratie soviétique
     authors:
       - David Zaslavskiĭ
+    translators:
+      - J. Hepner
     year: 1946
     language: French
     sources:
@@ -5927,8 +6154,11 @@ titles:
         url: https://www.sudoc.fr/067449255
     verified: true
   - title: La philosophie marxiste et les sciences
+    original_title: The marxist philosophy and the sciences
     authors:
       - John Burdon Sanderson Haldane
+    translators:
+      - Émile Bottigelli
     year: 1946
     language: French
     sources:
@@ -6042,6 +6272,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991144047879705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Les luttes de classes en France, 1848-1850
+    original_title: Die Klassenkämpfe in Frankreich
     series: Les Eléments du communisme
     authors:
       - Karl Marx
@@ -6385,6 +6616,7 @@ titles:
     verified: true
     series: Les Eléments du communisme
   - title: L'État et la révolution
+    original_title: Gosudarstvo i revolûciâ
     series: Les Éléments du communisme; 1947
     authors:
       - Vladimir Ilʹič Lenin
@@ -6509,10 +6741,12 @@ titles:
     verified: false
   - title: La philosophie marxiste et les sciences
     subtitle: Traduit de l'anglais par E. Bottigelli
+    original_title: The Maxist Philosophy and the sciences
     series: Traduit de l'anglais
     authors:
       - John Burdon Sanderson Haldane
       - Marcel Prenant
+    translators:
       - Émile Bottigelli
     year: 1947
     language: French
@@ -6567,6 +6801,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA19522708
     verified: false
   - title: La région de l'Oural, forteresse économique de l'U.R.S.S.
+    original_title: Uralʹskij promyŝlennyj rajon
     authors:
       - Konstantin Ivanovich Klimenko
     year: 1947
@@ -6702,6 +6937,8 @@ titles:
   - title: Les droits fondamentaux du citoyen en U.R.S.S.
     authors:
       - K. Sevrikov
+    translators:
+      - Serge Petrov
     year: 1947
     language: French
     pages: 70
@@ -6725,6 +6962,8 @@ titles:
   - title: Les lendemains qui chantent
     authors:
       - Gabriel Péri
+    editors:
+      - Louis Aragon
     year: 1947
     language: French
     sources:
@@ -6788,6 +7027,7 @@ titles:
         url: https://search.worldcat.org/title/38445483
     verified: true
   - title: Les questions fondamentales du marxisme
+    original_title: Osnovnye voprosy marksizma
     authors:
       - Georges Plekhanov
     year: 1947
@@ -6813,6 +7053,7 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/manifeste-du-parti-communiste_Karl-Marx
   - title: Matérialisme dialectique et matérialisme historique
+    original_title: O dialekticheskom i istoricheskom materializme
     series: Les éléments du communisme
     authors:
       - Joseph Staline
@@ -7172,6 +7413,7 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Lucienne Netter
     year: 1948
     language: French
@@ -7234,8 +7476,11 @@ titles:
     verified: true
   - title: Le Capital
     subtitle: Critique de l'économie politique
+    original_title: Das Kapital
     authors:
       - Karl Marx
+    translators:
+      - Joseph Roy
     year: 1948
     edition: Entièrement rev. par l'auteur
     language: French
@@ -7262,6 +7507,8 @@ titles:
   - title: Le Capital, critique de l'économie politique. Livre premier. Le Développement de la production capitaliste. Traduction de Joseph Roy, entièrement révisée par l'auteur
     authors:
       - Karl Marx
+    translators:
+      - Joseph Roy
     year: 1948
     language: French
     sources:
@@ -7405,6 +7652,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/002200012
     verified: true
   - title: Les luttes de classes en France (1848-1850)
+    original_title: Der achtzehnte Brumaire des Louis Bonaparte
     authors:
       - Karl Marx
     year: 1948
@@ -7438,6 +7686,7 @@ titles:
     verified: true
   - title: Matérialisme et empiriocriticisme
     subtitle: Notes critiques sur une philosophie reactionnaire
+    original_title: Materializm i empiriokritizm
     authors:
       - Vladimir Il’ich Lenin
     year: 1948
@@ -7486,9 +7735,12 @@ titles:
         url: https://www.sudoc.fr/067503500
     verified: true
   - title: Socialisme utopique et socialisme scientifique
+    original_title: Die Entwicklung des Sozialismus von der Utopie zur Wissenschaft
     series: Les Eléments du communisme
     authors:
       - Friedrich Engels
+    translators:
+      - Paul Lafargue
     year: 1948
     language: French
     sources:
@@ -7892,6 +8144,8 @@ titles:
   - title: La paysannerie soviétique
     authors:
       - Nikolai Il'ich Anisimov
+    translators:
+      - Françoise Vitrac
     year: 1949
     language: French
     pages: 115
@@ -7971,9 +8225,12 @@ titles:
     verified: true
   - title: Le Capital
     subtitle: Critique de l'économie politique
+    original_title: Das Kapital
     series: Oeuvres complètes de Karl Marx
     authors:
       - Karl Marx
+    translators:
+      - Joseph Roy
     year: 1949
     language: French
     sources:
@@ -8304,8 +8561,11 @@ titles:
     verified: true
   - title: Anti-Dühring
     subtitle: (M. E. Dühring boulverse la science)
+    original_title: Herrn Eugen Dühring's Umwälzung der Wissenschaft
     authors:
       - Friedrich Engels
+    translators:
+      - Émile Bottigelli
     year: 1950
     edition: 2. éd., rev
     language: French
@@ -8431,6 +8691,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb41161920c
     verified: true
   - title: Critique des programmes de Gotha et d'Erfurt
+    original_title: Kritik des Gothaer Programms
     authors:
       - Karl Marx
     year: 1950
@@ -8553,6 +8814,10 @@ titles:
   - title: Georges Plékhanov. L'Art et la vie sociale [traduit du russe par Mme G. Batault-Plékhanov, Mme Alix Guillain et Jean Fréville]. Précédé de deux études de Jean Fréville
     authors:
       - Georgij Valentinovič Plehanov
+    translators:
+      - Mme Georges Batault-Plékhanov
+      - Jean Fréville
+      - Alix Guillain
     year: 1950
     language: French
     sources:
@@ -8667,6 +8932,8 @@ titles:
   - title: L'Allemagne jugée par un allemand
     authors:
       - Alexander Abusch
+    translators:
+      - Jeanne Stern
     year: 1950
     language: French
     sources:
@@ -8835,9 +9102,12 @@ titles:
     verified: true
   - title: Le Capital
     subtitle: Critique de l'économie politique
+    original_title: Das Kapital
     series: Oeuvres complètes de Karl Marx; 1.1
     authors:
       - Karl Marx
+    translators:
+      - Joseph Roy
     year: 1950
     language: French
     sources:
@@ -8885,6 +9155,8 @@ titles:
     series: Commentaires
     authors:
       - M. Leonov
+    translators:
+      - Marius Magnien
     year: 1950
     language: French
     sources:
@@ -8900,6 +9172,7 @@ titles:
         url: https://search.worldcat.org/title/32044250
     verified: true
   - title: Le marxisme et la question nationale et coloniale
+    original_title: Marksizm i nat︠s︡ionalʹno-kolonialʹnyĭ vopros
     authors:
       - Joseph Staline
     year: 1950
@@ -9095,6 +9368,7 @@ titles:
   - title: Oeuvres complètes
     authors:
       - Karl Marx
+    translators:
       - Joseph Roy
     year: 1950
     language: French
@@ -9356,6 +9630,8 @@ titles:
   - title: Études philosophiques
     authors:
       - Karl Marx
+    editors:
+      - Émile Bottigelli
     year: 1951
     edition: Nouv. éd
     language: French
@@ -9368,8 +9644,11 @@ titles:
     verified: true
     subtitle: Ludwig Feuerbach, le matérialisme historique, lettres philosophiques, etc
   - title: Karl Marx. Le Capital, critique de l'économie politique.... Traduction de Joseph Roy, entièrement revisée par l'auteur
+    original_title: Das Kapital
     authors:
       - Karl Marx
+    translators:
+      - Joseph Roy
     year: 1951
     language: French
     sources:
@@ -9522,6 +9801,10 @@ titles:
     subtitle: La guerre des paysans, la Campagne pour la constitution du Reich, Révolution et contre-révolution
     authors:
       - Friedrich Engels
+    editors:
+      - Émile Bottigelli
+    translators:
+      - Laurence Lentin
     year: 1951
     series: Engels, Friedrich, 1820-1895. Oeuvres complètes
     language: French
@@ -9601,9 +9884,11 @@ titles:
     verified: true
   - title: Le Capital
     subtitle: Critique de l'économie politique
+    original_title: Das Kapital. Kritik der politischen Ökonomie
     series: Oeuvres complètes de Karl Marx; 2
     authors:
       - Karl Marx
+    translators:
       - Joseph Roy
     year: 1951
     language: French
@@ -9696,6 +9981,7 @@ titles:
         url: https://archive.org/details/manifeste-du-parti-communiste_Karl-Marx
   - title: Matérialisme et empiriocriticisme
     subtitle: Notes critiques sur une philosophie réactionnaire
+    original_title: Materializm i empiriokrititsizm
     authors:
       - Vladimir Ilʹič Lenin
     year: 1951
@@ -9926,8 +10212,11 @@ titles:
     verified: true
     subtitle: J. Staline Iosif Vissarionovič Stalin
   - title: Dialectique de la nature
+    original_title: Dialektik der Natur
     authors:
       - Friedrich Engels
+    translators:
+      - Émile Bottigelli
     year: 1952
     language: French
     pages: 364
@@ -9990,8 +10279,11 @@ titles:
     verified: true
     pages: 190
   - title: Face au tribunal fasciste
+    original_title: A Rakosi-per
     authors:
       - Mátyás Rákosi
+    editors:
+      - László Réti
     year: 1952
     language: French
     pages: 222
@@ -10208,6 +10500,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/001144851
     verified: true
   - title: Les luttes de classes en France (1848-1850)
+    original_title: Die Klassenkämpfe in Frankreich (1848-1850)
     authors:
       - Karl Marx
     year: 1952
@@ -10340,6 +10633,7 @@ titles:
   - title: Oeuvres complètes
     authors:
       - Karl Marx
+    translators:
       - Joseph Roy
       - Erna Cogniot
     year: 1952
@@ -10354,6 +10648,8 @@ titles:
     series: Textes choisis / Diderot; tome 1
     authors:
       - Denis Diderot
+    editors:
+      - Jean Varloot
     year: 1952
     language: French
     sources:
@@ -10384,6 +10680,9 @@ titles:
         url: https://archive.org/details/pensesphilosoph01didegoog
   - title: Revue progressiste de droit français
     authors: []
+    editors:
+      - Gérard Lyon-Caen
+      - Léo Matarasso
     year: 1952
     language: French
     sources:
@@ -10414,6 +10713,9 @@ titles:
   - title: Textes choisis
     authors:
       - Denis Diderot
+    editors:
+      - Jean Varloot
+      - Roland Desné
     year: 1952
     series: Classiques du peuple
     language: French
@@ -10439,6 +10741,7 @@ titles:
     verified: true
     subtitle: Tome I. Pensées philosophiques. Lettre sur les aveugles. Suite de l'"Apologie" de l'abbé de Prades
   - title: Travail salarié et capital
+    original_title: Lohnarbeit und Kapital
     series: Oeuvres complètes de Karl Marx
     authors:
       - Karl Marx
@@ -10528,6 +10831,8 @@ titles:
     subtitle: Ou, Le véritable esprit de ses lois, de tout temps négligé ou méconnu
     authors:
       - Morelly M.
+    editors:
+      - Albert Soboul
     year: 1953
     series: Classiques du peuple
     language: French
@@ -10579,6 +10884,8 @@ titles:
     series: His Textes choisis; t.2
     authors:
       - Denis Diderot
+    editors:
+      - Jean Varloot
     year: 1953
     language: French
     sources:
@@ -10638,6 +10945,7 @@ titles:
         url: https://www.sudoc.fr/060922451
     verified: true
   - title: L'art et la vie sociale
+    original_title: Iskusstvo i obščestvennja žizn'
     authors:
       - Georges Plekhanov
       - Jean Fréville
@@ -10712,6 +11020,7 @@ titles:
         url: https://www.sudoc.fr/067449182
     verified: true
   - title: La guerre civile en France, 1871
+    original_title: Der Bürgerkrieg in Frankreich
     series: Oeuvres complètes de Karl Marx
     authors:
       - Karl Marx
@@ -10734,6 +11043,7 @@ titles:
         url: https://www.sudoc.fr/067449247
     verified: true
   - title: La révolution prolétarienne et le renégat Kautsky
+    original_title: Proletarskaâ revolûciâ i renegat Kautskij
     authors:
       - Vladimir Ilʹič Lenin
     year: 1953
@@ -10763,8 +11073,13 @@ titles:
     verified: true
   - title: Le Capital
     subtitle: Critique de l'économie politique
+    original_title: Das Kapital
     authors:
       - Karl Marx
+    editors:
+      - Friedrich Engels
+    translators:
+      - Erna Cogniot
     year: 1953
     language: French
     sources:
@@ -10837,8 +11152,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1683465849
     verified: true
   - title: Lettres de la prison
+    original_title: Lettere dal carcere
     authors:
       - Antonio Gramsci
+    translators:
+      - Jean Noaro
     year: 1953
     language: French
     sources:
@@ -10916,8 +11234,10 @@ titles:
     verified: true
   - title: Oeuvres de Staline
     subtitle: 1901-1907
+    original_title: Работы Сталина. Том 1, 1901-1907"
     authors:
       - Joseph Staline
+    translators:
       - Georges Cogniot
       - Jean Fréville
     year: 1953
@@ -10946,6 +11266,7 @@ titles:
     subtitle: (Pensées sur l'Interprétation de la Nature)
   - title: Un pas en avant, deux pas en arrière
     subtitle: La crise dans notre parti
+    original_title: Шаг вперед, два шага назад
     authors:
       - Vladimir Ilʹič Lenin
     year: 1953
@@ -11043,6 +11364,7 @@ titles:
         url: https://www.sudoc.fr/063987791
     verified: true
     subtitle: Textes choisis. Préface
+    original_title: De rerum natura
   - title: De la nature des choses des choses
     subtitle: Textes choisis
     series: Les classics du peuple
@@ -11057,6 +11379,8 @@ titles:
   - title: Discours sur l'origine et les fondements de l'inégalité parmi les hommes
     authors:
       - Jean-Jacques Rousseau
+    editors:
+      - Jean-Louis Lecercle
     year: 1954
     series: Classiques du peuple
     language: French
@@ -11084,6 +11408,8 @@ titles:
   - title: Économie et politique
     subtitle: Revue marxiste d'économie
     authors: []
+    editors:
+      - Jean Pronteau
     year: 1954
     language: French
     sources:
@@ -11196,6 +11522,7 @@ titles:
     series: Œuvres complètes de Friedrich Engels
     authors:
       - Friedrich Engels
+    translators:
       - Jeanne Stern
       - Émile Bottigelli
       - R. Costes
@@ -11209,6 +11536,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=729228754
     verified: true
     subtitle: Sur l'histoire des anciens germains, l'époque franque, la marche
+    original_title: Der Ursprung der Familie, des Privateigentums und des Staats
     links:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/loriginedelafami00enge
@@ -11242,9 +11570,13 @@ titles:
     verified: true
   - title: Le Capital
     subtitle: Critique de l'économie politique
+    original_title: Das Kapital
     series: Oeuvres complètes de Karl Marx; 2
     authors:
       - Karl Marx
+    translators:
+      - Gilbert Badia
+      - Catherine Cohen-Solal
     year: 1954
     language: French
     sources:
@@ -11265,6 +11597,8 @@ titles:
     series: Collection Problèmes
     authors:
       - Boris Aleksandrovitch Tchagin
+    translators:
+      - Erna Cogniot
     year: 1954
     language: French
     sources:
@@ -11383,8 +11717,12 @@ titles:
         url: https://www.sudoc.fr/004880269
     verified: true
   - title: Oeuvres de J. Staline
+    original_title: Oeuvres de J. Staline
     authors:
       - Iosif Vissarionovič Stalin
+    translators:
+      - Georges Cogniot
+      - Jean Fréville
     year: 1954
     language: French
     sources:
@@ -11408,9 +11746,12 @@ titles:
     verified: true
   - title: Palmiro Togliatti
     subtitle: Essai biographique
+    original_title: Conversando con Togliatti
     authors:
       - Marcella Ferrara
       - Maurizio Ferrara
+    translators:
+      - Jean Noaro
     year: 1954
     language: French
     pages: 415
@@ -11516,10 +11857,13 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991148986509705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Textes choisis
+    original_title: Über Kunst und Literatur
   - title: Textes choisis
     subtitle: Préf., commentaires et notes explicatives par Marcelle Tisserand
     authors:
       - Julien Offray de La Mettrie
+    editors:
+      - Marcelle Bottigelli
     year: 1954
     series: Les Classiques du peuple
     language: French
@@ -11558,8 +11902,12 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA13786365
     verified: false
   - title: Cahiers philosophiques
+    original_title: Filosofskie tetradi
     authors:
       - Vladimir Il’ich Lenin
+    translators:
+      - Lida Vernant
+      - Émile Bottigelli
     year: 1955
     series: His Oeuvres
     language: French
@@ -11646,6 +11994,8 @@ titles:
   - title: Du contrat social
     authors:
       - Jean-Jacques Rousseau
+    editors:
+      - Jean-Louis Lecercle
     year: 1955
     series: Les classiques du peuple
     language: French
@@ -11665,6 +12015,8 @@ titles:
   - title: Essais sur la peinture
     authors:
       - Denis Diderot
+    editors:
+      - Roland Desné
     year: 1955
     language: French
     sources:
@@ -11762,6 +12114,8 @@ titles:
   - title: L 'insurrection du ghetto de Varsovie
     authors:
       - Bernard Mark
+    translators:
+      - Rose Huriaud
     year: 1955
     language: French
     pages: 241
@@ -11835,8 +12189,11 @@ titles:
         url: https://search.worldcat.org/title/2770177
     verified: true
   - title: La lutte des matérialistes français du XVIIIe siècle contre l'idéalisme
+    original_title: Frantsuzskie materialisty XVIII veka i ikh borba protiv idealizma
     authors:
       - M. D. TSebenko
+    translators:
+      - Didier Castagnou
     year: 1955
     series: Collection Problèmes
     language: French
@@ -11937,6 +12294,8 @@ titles:
   - title: Les salons, 1759-1781, textes choisis
     authors:
       - Denis Diderot
+    editors:
+      - Roland Desné
     year: 1955
     language: French
     sources:
@@ -11946,10 +12305,11 @@ titles:
   - title: Les trois internationales
     subtitle: 'Précis d''histoire: l''Association internationale des travailleurs (1864-1872), la Deuxième internationale, l''Internationale communiste (1919-1943)'
     authors:
-      - Serge Mairey
       - I. A. Bach
       - I. S. Galkine
       - Boris Nikolaevich Ponomarev
+    translators:
+      - Serge Mairey
     year: 1955
     language: French
     sources:
@@ -12014,6 +12374,8 @@ titles:
     subtitle: 1926-1945
     authors:
       - Mao Zedong
+    translators:
+      - René L'Hermitte
     year: 1955
     language: French
     sources:
@@ -12070,6 +12432,7 @@ titles:
   - title: Pour être un bon communiste
     authors:
       - Shaoqi Liu
+    translators:
       - Paul Jamati
     year: 1955
     language: French
@@ -12182,6 +12545,10 @@ titles:
   - title: Correspondance
     authors:
       - Friedrich Engels
+    editors:
+      - Emile Bottigelli
+    translators:
+      - Paul Meier
     year: 1956
     language: French
     sources:
@@ -12301,6 +12668,8 @@ titles:
   - title: La Chanson française. [1.] Béranger et son temps. Introduction, commentaires et notes explicatives par Pierre Brochon
     authors:
       - Pierre-Jean de Béranger
+    editors:
+      - Pierre Brochon
     year: 1956
     language: French
     sources:
@@ -12429,8 +12798,10 @@ titles:
     verified: true
   - title: Lénine et les problèmes de la littérature russe
     subtitle: Fin du XIXe -début du XXe siècle
+    original_title: Lenin i problemy russkoj literatury konca XIX-načala XX vv
     authors:
       - Boris Solomonovitch Meïlakh
+    translators:
       - Joseph Ducroux
       - Serge Mayret
     year: 1956
@@ -12466,6 +12837,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/103561050
     verified: true
   - title: Livre blanc sur le procès du Parti communiste allemand
+    original_title: Weissbuch der Kommunistischen Partei Deutschlands
     authors:
       - Kommunistische Partei Deutschlands
     year: 1956
@@ -12493,6 +12865,7 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/manifeste-du-parti-communiste_Karl-Marx
   - title: Manuel d'économie politique
+    original_title: Polititcheskaia ékonomiia (Outchebnik)
     authors:
       - Akademija nauk SSSR
     year: 1956
@@ -12520,6 +12893,8 @@ titles:
     subtitle: Les malheurs de M. Merleau-Ponty
     authors:
       - Roger Garaudy
+    editors:
+      - Georg Lukács
     year: 1956
     series: Problèmes
     language: French
@@ -12562,6 +12937,7 @@ titles:
   - title: Oeuvres choisies
     authors:
       - Zedong Mao
+    translators:
       - Joseph Ducroux
       - Paul Kolodkine
     year: 1956
@@ -12574,6 +12950,8 @@ titles:
     series: Les Classiques du peuple; [36]
     authors:
       - Anatole France
+    editors:
+      - Georges Cogniot
     year: 1956
     language: French
     sources:
@@ -12626,9 +13004,10 @@ titles:
   - title: Souvenirs sur Lénine
     subtitle: Lénine vu par les siens
     authors:
+      - Institut de marxisme-léninisme
+    translators:
       - Maya Minoustchine
       - Nicole Castagnou
-      - Institut de marxisme-léninisme
     year: 1956
     language: French
     sources:
@@ -12647,6 +13026,11 @@ titles:
     subtitle: Préf., commentaires et notes explicatives
     authors:
       - Maximilien Robespierre
+    editors:
+      - Vâčeslav Petrovič Volgin
+    translators:
+      - Hélène Miakotine
+      - Louise Biraud
     year: 1956
     series: Les Classiques du Peuple
     language: French
@@ -12844,6 +13228,10 @@ titles:
     subtitle: Suivie du procès auquel elle donna lieu, et des pièces justificatives, etc
     authors:
       - Philippe Buonarroti
+    editors:
+      - Robert Brécy
+      - Albert Soboul
+      - Jean Dautry
     year: 1957
     series: Les classiques du peuple
     language: French
@@ -12874,6 +13262,9 @@ titles:
   - title: Contribution à la critique de l'économie politique
     authors:
       - Karl Marx
+    translators:
+      - Gilbert Badia
+      - Maurice Husson
     year: 1957
     language: French
     pages: 309
@@ -12891,6 +13282,7 @@ titles:
       - Friedrich Engels
       - Paul Lafargue
       - Laura Lafargue
+    translators:
       - Paul Meier
     year: 1957
     language: French
@@ -12931,6 +13323,8 @@ titles:
   - title: Discours et rapports
     authors:
       - Saint-Just
+    editors:
+      - Albert Soboul
     year: 1957
     series: Les classiques du peuple
     language: French
@@ -13012,8 +13406,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1416844139
     verified: true
   - title: L' Inde aujourd'hui et demain
+    original_title: India, today and tomorrow
     authors:
       - Rajani Palme Dutt
+    translators:
+      - Paul Meier
     year: 1957
     language: French
     pages: 302
@@ -13127,6 +13524,8 @@ titles:
     subtitle: Ou, Le mariage de Figaro
     authors:
       - Pierre Augustin Caron de Beaumarchais
+    editors:
+      - Anne Ubersfeld
     year: 1957
     series: Les classiques du peuple
     language: French
@@ -13190,10 +13589,12 @@ titles:
     verified: true
     subtitle: Choix de textes marxistes
   - title: La question du logement
+    original_title: Nachtrag über Proudhon und die Wohnungs frage
     authors:
       - Friedrich Engels
-      - Gilberte Lenoir
       - François Billoux
+    translators:
+      - Gilberte Lenoir
     year: 1957
     language: French
     sources:
@@ -13203,9 +13604,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991006198919705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Le Capital, Critique de l'économie politique
+    original_title: Das kapital
     series: Le capital; 3.1
     authors:
       - Karl Marx
+    translators:
       - Joseph Roy
     year: 1957
     language: French
@@ -13241,8 +13644,11 @@ titles:
     verified: true
   - title: Le matérialisme militant
     subtitle: Réponses à Monsieur Bogdanov
+    original_title: Materialismus militans
     authors:
       - Georgij Valentinovič Plehanov
+    translators:
+      - Joseph Ducroux
     year: 1957
     language: French
     sources:
@@ -13361,9 +13767,11 @@ titles:
     verified: true
   - title: Les rustres
     subtitle: Comédie vénitienne en trois actes et en prose (1760)
+    original_title: I rusteghi
     series: Collection du Théâtre National populaire
     authors:
       - Carlo Goldoni
+    translators:
       - Gilbert Moget
     year: 1957
     language: French
@@ -13387,6 +13795,7 @@ titles:
   - title: Oeuvres complètes
     authors:
       - Karl Marx
+    translators:
       - Maurice Husson
       - Gilbert Badia
     year: 1957
@@ -13398,6 +13807,8 @@ titles:
   - title: Pages choisies
     authors:
       - Louis Pasteur
+    editors:
+      - Ernest Kahane
     year: 1957
     series: Les Classiques du peuple
     language: French
@@ -13486,6 +13897,8 @@ titles:
     series: Les Grands textes du marxisme
     authors:
       - Vladimir Ilʹič Lenin
+    editors:
+      - Jean Fréville
     year: 1957
     language: French
     sources:
@@ -13501,6 +13914,8 @@ titles:
   - title: Textes choisis
     authors:
       - Paul Henri Thiry baron d'Holbach
+    editors:
+      - Jean Poperen
     year: 1957
     series: Les classiques du peuple
     language: French
@@ -13641,8 +14056,11 @@ titles:
         url: https://www.sudoc.fr/130104949
     verified: true
   - title: Dix jours qui ébranlèrent le monde
+    original_title: Ten days that shook the world
     authors:
       - John Reed
+    translators:
+      - Martin Stahl
     year: 1958
     language: French
     sources:
@@ -13658,6 +14076,8 @@ titles:
     authors:
       - Jean-Jacques Rousseau
       - Henri Alexandre Wallon
+    editors:
+      - Jean-Louis Lecercle
     year: 1958
     series: Les classiques du peuple
     language: French
@@ -13940,6 +14360,7 @@ titles:
   - title: Oeuvres
     authors:
       - Vladimir Ilʹič Lenin
+    translators:
       - Louis Hoguet
       - Paul Kolodkine
       - Roger Garaudy
@@ -13989,6 +14410,7 @@ titles:
         url: https://www.sudoc.fr/096082496
     verified: true
   - title: Oevres
+    original_title: Sočinenija
     authors:
       - Vladimir Ilʹič Lenin
     year: 1958
@@ -14016,6 +14438,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb315670218
     verified: true
   - title: Prague, 1948
+    original_title: Kronika únorových dnů 1948
     authors:
       - Jindřich Veselý
     year: 1958
@@ -14137,9 +14560,12 @@ titles:
     verified: true
   - title: Vieille Sicile
     subtitle: Dix nouvelles
+    original_title: In corpore vili
     series: Les Classiques du peuple
     authors:
       - Luigi Pirandello
+    translators:
+      - Benjamin Crémieux
     year: 1958
     language: French
     sources:
@@ -14201,6 +14627,10 @@ titles:
   - title: Correspondance
     authors:
       - Friedrich Engels
+    editors:
+      - Émile Bottigelli
+    translators:
+      - Paul Meier
     year: 1959
     language: French
     sources:
@@ -14214,6 +14644,8 @@ titles:
   - title: De l'esprit
     authors:
       - Helvétius
+    editors:
+      - Guy Besse
     year: 1959
     language: French
     pages: 190
@@ -14235,6 +14667,8 @@ titles:
   - title: De l'Esprit. Introduction et notes par Guy Besse
     authors:
       - Claude-Adrien Helvétius
+    editors:
+      - Guy Besse
     year: 1959
     language: French
     sources:
@@ -14247,6 +14681,7 @@ titles:
       - Paul Lafargue
       - Laura Lafargue
       - Émile Bottigelli
+    translators:
       - Paul Meier
     year: 1959
     language: French
@@ -14267,6 +14702,8 @@ titles:
     subtitle: Les états et empires de la lune; Les états et empires du soleil. Préf. et commentaires par H. Weber
     authors:
       - Cyrano de Bergerac
+    editors:
+      - Henri Weber
     year: 1959
     series: Les Classiques du peuple
     language: French
@@ -14348,9 +14785,13 @@ titles:
     verified: true
   - title: Le Capital
     subtitle: Critique de l'économie politique
+    original_title: Das Kapital
     series: Oeuvres complètes de Karl Marx
     authors:
       - Karl Marx
+    translators:
+      - Catherine Cohen-Solal
+      - Gilbert Badia
     year: 1959
     language: French
     sources:
@@ -14490,6 +14931,7 @@ titles:
   - title: Oeuvres
     authors:
       - Vladimir Ilʹič Lenin
+    translators:
       - Kyra Hoppè
       - Alexandre Roudnikov
     year: 1959
@@ -14565,6 +15007,8 @@ titles:
   - title: Textes choisis
     authors:
       - Jean Jaurès
+    editors:
+      - Madeleine Rebérioux
     year: 1959
     series: Les classiques du peuple
     language: French
@@ -14868,6 +15312,9 @@ titles:
     subtitle: Sous la direction de Jean Bruhat, Jean Dautry, et Émile Tersen, avec la collaboration de Pierre Angrand [et al.]
     authors:
       - Jean Bruhat
+    editors:
+      - Jean Dautry
+      - Émile Tersen
     year: 1960
     language: French
     pages: 435
@@ -14976,9 +15423,13 @@ titles:
     verified: true
   - title: Le Capital
     subtitle: Critique de l'économie politique
+    original_title: Das Kapital
     series: Oeuvres complètes de Karl Marx
     authors:
       - Karl Marx
+    translators:
+      - Catherine Cohen-Solal
+      - Gilbert Badia
     year: 1960
     language: French
     sources:
@@ -15191,6 +15642,7 @@ titles:
   - title: Oeuvres complètes
     authors:
       - Karl Marx
+    translators:
       - Joseph Roy
     year: 1960
     language: French
@@ -15245,6 +15697,8 @@ titles:
   - title: Socialisme utopique et socialisme scientifique
     authors:
       - Friedrich Engels
+    translators:
+      - Émile Bottigelli
     year: 1960
     language: French
     sources:
@@ -15256,6 +15710,10 @@ titles:
   - title: Sur la religion
     authors:
       - Karl Marx
+    editors:
+      - Gilbert Badia
+      - P. Bange
+      - Émile Bottigelli
     year: 1960
     language: French
     pages: 358
@@ -15285,6 +15743,8 @@ titles:
     subtitle: Observations sur l'instruction de S.M. impériale aux députtés pour la confection des lois; Réfutation d'Helvétius; Apologie pour Raynal; Apostrophe aux insurgents d'amérique
     authors:
       - Denis Diderot
+    editors:
+      - Yves Benot
     year: 1960
     series: His Textes choisis -- t. 6
     language: French
@@ -15542,12 +16002,14 @@ titles:
     verified: false
   - title: La situation de la classe laborieuse en Angleterre
     subtitle: D'après les observations de l'auteur et des sources authentiques
+    original_title: Die Lage der arbeitenden Klasse in England
     series: Oeuvres complètes de Friedrich Engels
     authors:
       - Friedrich Engels
+      - Eric John Hobsbawm
+    translators:
       - Gilbert Badia
       - Jean Frédéric
-      - Eric John Hobsbawm
     year: 1961
     language: French
     sources:
@@ -15693,9 +16155,11 @@ titles:
     verified: true
   - title: Les rustres
     subtitle: Comédie vénitienne en trois actes et en prose (1760)
+    original_title: I rusteghi
     series: Collection du Théâtre National populaire
     authors:
       - Carlo Goldoni
+    translators:
       - Gilbert Moget
     year: 1961
     language: French
@@ -15704,6 +16168,7 @@ titles:
         url: https://www.sudoc.fr/047879432
     verified: true
   - title: Manifeste du Parti communiste
+    original_title: Manifest der Kommunistischen Partei
     authors:
       - Karl Marx
       - Friedrich Engels
@@ -15720,6 +16185,7 @@ titles:
         url: https://archive.org/details/manifeste-du-parti-communiste_Karl-Marx
   - title: Misère de la philosophie
     subtitle: Réponse à la Philosophie de la misère de M. Proudhon
+    original_title: Das Elend der Philosophie, Antwort auf Proudhon's "Philosophie des Elends"
     series: Oeuvres complètes de Karl Marx
     authors:
       - Karl Marx
@@ -15745,9 +16211,14 @@ titles:
         url: https://openlibrary.org/books/OL22189561M
     verified: true
   - title: Nouvelles de nulle part
+    original_title: News from nowhere
     series: Les Classiques du peuple
     authors:
       - William Morris
+    editors:
+      - Paul Meier
+    translators:
+      - Paul Meier
     year: 1961
     language: French
     sources:
@@ -15757,8 +16228,12 @@ titles:
         url: https://www.sudoc.fr/010873430
     verified: true
   - title: Oeuvres
+    original_title: Детская болезнь «левизны» в коммунизме, Detskaïa bolezn' «levizny» v kommounizme
     authors:
       - Vladimir Ilʹič Lenin
+    editors:
+      - Roger Garaudy
+    translators:
       - Roger Garaudy
     year: 1961
     language: French
@@ -15788,6 +16263,8 @@ titles:
   - title: Pages choisies
     authors:
       - Claude Bernard
+    editors:
+      - Ernest Kahane
     year: 1961
     series: Les Classiques du peuple
     language: French
@@ -15818,6 +16295,8 @@ titles:
   - title: Pamphlets politiques choisis
     authors:
       - Paul-Louis Courier
+    editors:
+      - Jean Guillon
     year: 1961
     series: Les Classiques du peuple
     language: French
@@ -15934,8 +16413,9 @@ titles:
   - title: 986 jours de lutte
     subtitle: La guerre nationale et révolutionnaire du peuple espagnol
     authors:
-      - Louise Mamiac
       - François Billoux
+    translators:
+      - Louise Mamiac
     year: 1962
     language: French
     sources:
@@ -15955,6 +16435,7 @@ titles:
     subtitle: La guerre nationale et révolutionnaire du peuple espagnol
     authors:
       - François Billoux
+    translators:
       - Louise Mamiac
     year: 1962
     language: French
@@ -16213,10 +16694,12 @@ titles:
         url: https://openlibrary.org/books/OL22181328M
     verified: true
   - title: L'idéologie allemande
+    original_title: Die Deutsche Ideologie
     series: Classiques du Marxisme
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Renée Cartelle
     year: 1962
     language: French
@@ -16249,6 +16732,7 @@ titles:
     series: Oeuvres complètes
     authors:
       - Friedrich Engels
+    translators:
       - Jeanne Stern
     year: 1962
     language: French
@@ -16365,8 +16849,10 @@ titles:
     verified: true
   - title: Le capital
     subtitle: Critique de l'économie politique
+    original_title: Das Kapital
     authors:
       - Karl Marx
+    translators:
       - Joseph Roy
     year: 1962
     language: French
@@ -16496,6 +16982,8 @@ titles:
     series: Les Classiques du peuple; Tome III
     authors:
       - Denis Diderot
+    editors:
+      - Jean Varloot
     year: 1962
     language: French
     sources:
@@ -16544,6 +17032,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000962579
     verified: true
   - title: Manifeste du parti communiste
+    original_title: Manifest der Kommunistischen Partei
     series: Classiques du marxisme
     authors:
       - Karl Marx
@@ -16607,8 +17096,11 @@ titles:
         url: https://www.sudoc.fr/065381939
     verified: true
   - title: Oeuvres complètes de Karl Marx
+    original_title: Ökonomisch-philosophische Manuskripte
     authors:
       - Karl Marx
+    translators:
+      - Émile Bottigelli
     year: 1962
     language: French
     sources:
@@ -16767,6 +17259,8 @@ titles:
   - title: Textes choisis de L'encyclopédie
     subtitle: Ou,Dictionnaire raisonné des sciences, des arts et des Métiers
     authors: []
+    editors:
+      - Albert Soboul
     year: 1962
     edition: 2d éd. revue et augmentée
     series: Les Classiques du peuple
@@ -16801,6 +17295,7 @@ titles:
         url: https://search.worldcat.org/title/70348819
     verified: true
   - title: Travail salarié et capital
+    original_title: Lohnarbeit und Kapital
     series: Oeuvres complètes de Karl Marx
     authors:
       - Karl Marx
@@ -16843,8 +17338,10 @@ titles:
     verified: true
   - title: Anti-Dühring
     subtitle: M. E. Dürhing bouleverse la science
+    original_title: Anti-Dühring ; Herrn Eugen Dührings Umwälzung der Wissenschraft
     authors:
       - Friedrich Engels
+    translators:
       - Émile Bottigelli
     year: 1963
     language: French
@@ -16999,6 +17496,8 @@ titles:
   - title: Du contrat social
     authors:
       - Jean-Jacques Rousseau
+    editors:
+      - Jean Louis Lecercle
     year: 1963
     series: Les Classiques du peuple
     language: French
@@ -17120,6 +17619,7 @@ titles:
     verified: true
   - title: La guerre civile en France
     subtitle: '1871'
+    original_title: Der Bürgerkrieg in Frankreich
     series: Classiques du marxisme
     authors:
       - Karl Marx
@@ -17209,6 +17709,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=611549867
     verified: true
   - title: Le 18 brumaire de Louis Bonaparte
+    original_title: Der Achtzehnte Brumaire des Louis Bonaparte
     series: Les eléments du commisme
     authors:
       - Karl Marx
@@ -17226,6 +17727,9 @@ titles:
     subtitle: Suivi de la "Lettre sur la comédie du Misanthrope." Introd. et notes par Édouard Lop et André Sauvage
     authors:
       - Molière
+    editors:
+      - Edouard Lop
+      - André Sauvage
     year: 1963
     series: Les classiques du peuple
     language: French
@@ -17247,6 +17751,8 @@ titles:
   - title: Les classes sociales en France
     authors:
       - Maurice Bouvier-Ajam
+    editors:
+      - Gilbert Mury
     year: 1963
     language: French
     links:
@@ -17412,6 +17918,8 @@ titles:
     subtitle: Discours sur la servitude volontaire (texte intégral); Mémoire sur l'édit de janvier 1562 (extraits)
     authors:
       - Étienne de La Boétie
+    editors:
+      - François Hincker
     year: 1963
     series: Classiques du peuple
     language: French
@@ -17546,6 +18054,8 @@ titles:
     series: Classiques du marxisme
     authors:
       - Friedrich Engels
+    translators:
+      - Émile Bottigelli
     year: 1963
     language: French
     sources:
@@ -17557,6 +18067,10 @@ titles:
   - title: Textes choisis
     authors:
       - Jean Paul Marat
+    editors:
+      - Michel Vovelle
+    translators:
+      - Paul Meier
     year: 1963
     series: Les Classiques du peuple
     language: French
@@ -17626,6 +18140,7 @@ titles:
   - title: Anti-Dühring (M. E. Dühring bouleverse la science)
     authors:
       - Friedrich Engels
+    translators:
       - Émile Bottigelli
     year: 1964
     language: French
@@ -17736,9 +18251,10 @@ titles:
     series: Les classiques du peuple
     authors:
       - William Shakespeare
+      - Charles Laurence Barber
+    translators:
       - François-Victor Hugo
       - Paul Meier
-      - Charles Laurence Barber
     year: 1964
     language: French
     sources:
@@ -17789,6 +18305,9 @@ titles:
     subtitle: Manuel
     authors:
       - Parti communiste français. Commission d'histoire
+    editors:
+      - Jacques Duclos
+      - François Billoux
     year: 1964
     language: French
     pages: 774
@@ -17835,6 +18354,8 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
+      - Lucienne Netter
     year: 1964
     language: French
     sources:
@@ -17847,6 +18368,8 @@ titles:
     subtitle: Suivi de La critique de l'école des femmes et le L'Impromptu de Versailles
     authors:
       - Molière
+    editors:
+      - Suzanne Rossat-Mignot
     year: 1964
     series: Les Classiques du peuple
     language: French
@@ -17910,9 +18433,12 @@ titles:
         url: https://search.worldcat.org/title/214979531
     verified: true
   - title: La «Nouvelle gazette rhénane»
+    original_title: Neue rheinische Zeitung
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
+      - Lucienne Netter
     year: 1964
     language: French
     sources:
@@ -17948,6 +18474,8 @@ titles:
   - title: La pensée et l'action
     authors:
       - Paul Langevin
+    editors:
+      - Paul Labérenne
     year: 1964
     language: French
     pages: 349
@@ -18089,6 +18617,7 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Gilbert Badia
     year: 1964
     language: French
@@ -18234,6 +18763,8 @@ titles:
   - title: Sur la liberté de la presse
     authors:
       - Denis Diderot
+    editors:
+      - Jacques Proust
     year: 1964
     series: Les classiques du peuple
     language: French
@@ -18422,10 +18953,14 @@ titles:
         url: https://search.worldcat.org/title/882820
     verified: true
   - title: L'idéologie allemande
+    original_title: Die Deutsche Ideologie
     series: Classiques du marxisme
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
+      - Gilbert Badia
+      - Renée Cartelle
     year: 1965
     language: French
     sources:
@@ -18498,9 +19033,11 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA02722757
     verified: true
   - title: La nécessité de l'art
+    original_title: The necessity of art
     series: Ouvertures; 1
     authors:
       - Ernst Fischer
+    translators:
       - Paul Meier
     year: 1965
     language: French
@@ -18520,8 +19057,12 @@ titles:
         url: https://search.worldcat.org/title/217469539
     verified: true
   - title: Le capital; critique de l'économie politique
+    original_title: Das Kapital
     authors:
       - Karl Marx
+    translators:
+      - Catherine Cohen-Solal
+      - Gilbert Badia
     year: 1965
     series: Oeuvres complètes de Karl Marx
     language: French
@@ -18682,6 +19223,9 @@ titles:
     subtitle: '[Sous la direction de Pierre Abraham et Roland Desné]'
   - title: Manuel d'histoire littéraire de la France 1969
     authors: []
+    editors:
+      - Pierre Abraham
+      - Roland Desné
     year: 1965
     language: French
     sources:
@@ -18823,6 +19367,8 @@ titles:
   - title: Textes choisis
     authors:
       - Gracchus Babeuf
+    editors:
+      - Claude Mazauric
     year: 1965
     series: Les Classiques du peuple
     language: French
@@ -18874,6 +19420,9 @@ titles:
   - title: '@ 4-oe. - V. Lénine. Oeuvres'
     authors:
       - Vladimir Ilʹič Lenin
+    translators:
+      - Kyra Hoppé
+      - Mikhail Katsovitch
     year: 1966
     language: French
     sources:
@@ -18942,8 +19491,10 @@ titles:
         url: https://www.sudoc.fr/024798541
     verified: true
   - title: Contribution à la critique de l'économie politique
+    original_title: Zur Kritik der politischen Oekonomie
     authors:
       - Karl Marx
+    translators:
       - Gilbert Badia
       - Maurice Husson
     year: 1966
@@ -18953,6 +19504,7 @@ titles:
         url: https://www.sudoc.fr/068296738
     verified: true
   - title: Critique des programmes de Gotha et d'Erfurt
+    original_title: Kritik des Gothaer Programms
     authors:
       - Karl Marx
     year: 1966
@@ -19118,6 +19670,10 @@ titles:
   - title: Histoire des Noirs aux U.S.A.. Traduit par Yvon Le Vraux, Jacques Debouzy et Colette Detraz
     authors:
       - Herbert Aptheker
+    translators:
+      - Jacques Debouzy
+      - Colette Detraz
+      - Yvon Le Vraux
     year: 1966
     language: French
     sources:
@@ -19125,9 +19681,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb329050728
     verified: true
   - title: Histoire des Noirs aux USA
+    original_title: Essays in the history of the American Negro
     series: Ouvertures; 3
     authors:
       - Herbert Aptheker
+    translators:
       - Yvon Le Vraux
       - Jacques Debouzy
       - Colette Detraz
@@ -19190,8 +19748,14 @@ titles:
     verified: true
   - title: L'Utopie
     subtitle: Discours du trés excellent homme Raphaël Hythloday sur la meilleure constitution d'une république
+    original_title: Utopia (1516)
     authors:
       - More, Thomas Sir, Saint
+    editors:
+      - Marcelle Bottigelli
+    translators:
+      - Marcelle Bottigelli
+      - Victor Stouvenel
     year: 1966
     series: Les Classiques du peuple
     language: French
@@ -19242,6 +19806,8 @@ titles:
   - title: La Libre pensée française de Gassendi à Voltaire["French free-thought from Gassendi to Voltaire"]. Traduction de l'anglais par Paul Meier
     authors:
       - John Stephenson Spink
+    translators:
+      - Paul Meier
     year: 1966
     language: French
     sources:
@@ -19441,9 +20007,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb33078261x
     verified: true
   - title: Ludwig Feuerbach et la fin de la philosophie classique allemande
+    original_title: Ludwig Feuerbach und der Ausgang der klassischen deutschen Philosophie
     series: Classiques du marxisme
     authors:
       - Friedrich Engels
+    translators:
       - Gilbert Badia
     year: 1966
     language: French
@@ -19452,6 +20020,7 @@ titles:
         url: https://www.sudoc.fr/011949651
     verified: true
   - title: Manifeste du parti communiste
+    original_title: Manifest der kommunistischen Partei
     series: Classiques du marxisme
     authors:
       - Karl Marx
@@ -19481,6 +20050,8 @@ titles:
   - title: Manuel d'histoire littéraire de la France
     authors:
       - Pierre Abraham
+    editors:
+      - Roland Desné
     year: 1966
     language: French
     sources:
@@ -19508,6 +20079,8 @@ titles:
     verified: true
   - title: Manuel d'histoire littéraire de la France... Sous la direction de Pierre Abraham et Roland Desne
     authors: []
+    editors:
+      - Anne Ubersfeld
     year: 1966
     language: French
     sources:
@@ -19651,6 +20224,8 @@ titles:
     subtitle: Extraits [de] Nouveaux dialogues des morts, Histoire des Ajasiens... - texte, inte gral [de] Relation de Li le de Borneo;Traite de la liberte ...
     authors:
       - Bernard Le Bovier de Fontenelle
+    editors:
+      - Jean Kanapa
     year: 1966
     series: Les classiques du peuple
     language: French
@@ -19687,6 +20262,10 @@ titles:
   - title: '@ 4-oe. - V. Lénine. Oeuvres'
     authors:
       - Vladimir Ilʹič Lenin
+    translators:
+      - Robert Giraud
+      - Nikita Sibéroff
+      - Georges Voguet
     year: 1967
     language: Multiple languages
     sources:
@@ -19794,10 +20373,12 @@ titles:
       - label: Free ebook (Project Gutenberg)
         url: https://www.gutenberg.org/ebooks/13846
   - title: Dix jours qui ébranlèrent le monde
+    original_title: Ten days that shook the world
     series: Livre-Club-Diderot. Messidor
     authors:
       - John Reed
       - Alexandre Chemetoff
+    translators:
       - Martin Stahl
     year: 1967
     language: French
@@ -20028,9 +20609,11 @@ titles:
     verified: true
   - title: La libre pensée française
     subtitle: De Gassendi à Voltaire
+    original_title: French free-though from Gassendi to Voltaire
     series: Ouvertures
     authors:
       - John Stephenson Spink
+    translators:
       - Paul Meier
     year: 1967
     language: French
@@ -20084,9 +20667,11 @@ titles:
     verified: true
   - title: Le Capital
     subtitle: Critique de l'économie politique
+    original_title: Das kapital
     series: Le capital; 7
     authors:
       - Karl Marx
+    translators:
       - Catherine Cohen-Solal
       - Gilbert Badia
     year: 1967
@@ -20184,6 +20769,8 @@ titles:
     subtitle: Rédigé sous la direction de Joseph Jacquet
     authors:
       - Fédération nationale des cheminots
+    editors:
+      - Joseph Jacquet
     year: 1967
     language: French
     pages: 318
@@ -20205,6 +20792,7 @@ titles:
     verified: true
   - title: Les luttes de classes en France
     subtitle: 1848-1850
+    original_title: Die Klassenkämpfe in Frankreich
     series: Classiques du marxisme
     authors:
       - Karl Marx
@@ -20378,8 +20966,10 @@ titles:
         url: https://www.sudoc.fr/022858679
     verified: true
   - title: Oeuvres
+    original_title: Sočineniâ / V. I. Lenin. - Izd. 4, Moskva, Gos. izd-vo polit. lit., 1941, 1946-1950
     authors:
       - Vladimir Ilʹič Lenin
+    translators:
       - Roger Garaudy
     year: 1967
     language: French
@@ -20541,6 +21131,10 @@ titles:
   - title: Prométhée enchainé
     authors:
       - Aeschylus
+    editors:
+      - Jean Jacques Goblot
+    translators:
+      - Jean-Jacques Goblot
     year: 1967
     series: Les classiques du peuple
     language: French
@@ -20558,8 +21152,11 @@ titles:
         url: https://www.sudoc.fr/010150277
     verified: true
   - title: Prométhée enchaîné. Traduction nouvelle, introduction et notes par Jean-Jacques Goblot
+    original_title: Prométhée enchaîné
     authors:
       - Eschyle
+    translators:
+      - Jean-Jacques Goblot
     year: 1967
     language: French
     sources:
@@ -20636,6 +21233,7 @@ titles:
     verified: true
   - title: Socialisme utopique et socialisme scientifique
     subtitle: Choix d'articles et de discours
+    original_title: Ob utopičeskom i naučnom socializme
     authors:
       - Vladimir Ilʹič Lenin
       - A. Koptséva
@@ -20648,6 +21246,8 @@ titles:
   - title: Textes choisis (1683-1702)
     authors:
       - Bernard Le Bovier de Fontenelle
+    editors:
+      - Maurice Roelens
     year: 1967
     series: Les Classiques du peuple
     language: French
@@ -20724,6 +21324,8 @@ titles:
   - title: '@ 4-oe. - V. Lénine. Oeuvres'
     authors:
       - Vladimir Ilʹič Lenin
+    translators:
+      - Robert Giraud
     year: 1968
     language: Multiple languages
     sources:
@@ -20832,6 +21434,9 @@ titles:
   - title: Confessions d'un prolétaire (Lyon, 1871), présentées par Maurice Moissonnier, avec le concours de Jean Nicot
     authors:
       - Joseph Benoit
+    editors:
+      - Maurice Moissonnier
+      - Jean Nicot
     year: 1968
     language: French
     sources:
@@ -20843,6 +21448,8 @@ titles:
   - title: Confessions d'un prolétaire, Lyon, 1871
     authors:
       - Joseph Benoit
+    editors:
+      - Maurice Moissonnier
     year: 1968
     language: French
     sources:
@@ -20884,6 +21491,8 @@ titles:
   - title: Discours sur l'origine et les fondements de l'inégalité parmi les hommes
     authors:
       - Jean-Jacques Rousseau
+    editors:
+      - Jean-Louis Lecercle
     year: 1968
     series: Les Classiques du peuple
     language: French
@@ -20947,6 +21556,8 @@ titles:
   - title: Du contrat social
     authors:
       - Jean-Jacques Rousseau
+    editors:
+      - Jean-Louis Lecercle
     year: 1968
     series: Les Classiques du peuple
     language: French
@@ -21021,6 +21632,8 @@ titles:
     subtitle: Ed. revue et annotée par Albert Soboul. Préf. par Ernest Labrousse
     authors:
       - Jean Jaurès
+    editors:
+      - Albert Soboul
     year: 1968
     edition: Ed. revue et annotée
     language: French
@@ -21043,6 +21656,8 @@ titles:
   - title: Histoire socialiste de la Révolution française. Édition revue et annotée par Albert Soboul
     authors:
       - Jean Jaurès
+    editors:
+      - Albert Soboul
     year: 1968
     language: Not recorded
     sources:
@@ -21061,6 +21676,8 @@ titles:
   - title: Histoire socialiste de la Révolution française. Édition revue et annotée par Albert Soboul. Préface par Ernest Labrousse. Le Livre et l'homme, par Madeleine Rebérioux
     authors:
       - Jean Jaurès
+    editors:
+      - Albert Soboul
     year: 1968
     language: French
     sources:
@@ -21129,9 +21746,12 @@ titles:
         url: https://search.worldcat.org/title/7705673
     verified: true
   - title: Karl Marx. Friedrich Engels. L'Idéologie allemande ["die deutsche Ideologie"], critique de la philosophie allemande la plus récente dans la personne de ses représentants Feuerbach, B. Bauer et Stirner, et du socialisme allemand dans celle de ses différents prophètes, présentée et annotée par Gilbert Badia. Traduction de Henri Auger, Gilbert Badia, Jean Baudrillard, Renée Cartelle
+    original_title: Die deutsche Ideologie
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
+      - Gilbert Badia
     year: 1968
     language: French
     sources:
@@ -21158,10 +21778,15 @@ titles:
     verified: true
   - title: L'Idéologie allemande
     subtitle: Critique de la philosophie allemande la plus récente dans la personne de ses représentants Feuerbach, B. Bauer et Stirner, et du socialisme allemand dans celle de ses différents prophètes [die Deutsche Ideologie, Kritik der neuesten deutschen Philosophie in ihren Repräsentanten Feuerbach, B. Bauer und Stirner, und des deutschen Sozialismus in seinen verschiedenen Propheten]. Présentée et annotée par Gilbert Badia
+    original_title: Die deutsche Ideologie
     series: Classiques du marxisme
     authors:
       - Karl Marx
       - Friedrich Engels
+    editors:
+      - Gilbert Badia
+    translators:
+      - Renée Cartelle
       - Gilbert Badia
     year: 1968
     language: French
@@ -21193,6 +21818,7 @@ titles:
     pages: 146
   - title: La belle hôtesse
     subtitle: Suivi de
+    original_title: I rusteghi
     series: Les classiques du peuple
     authors:
       - Carlo Goldoni
@@ -21256,6 +21882,7 @@ titles:
         url: https://search.worldcat.org/title/26888960
     verified: true
     subtitle: La Commune de Paris
+    original_title: Der Buergerkrieg in Frankreich
   - title: La guerre civile en France. 1871. d. nouv. accompagnée des travaux préparatoires de Marx
     authors:
       - Karl Marx
@@ -21266,6 +21893,7 @@ titles:
         url: https://www.sudoc.fr/062068636
     verified: true
   - title: La maladie infantile du communisme, le gauchisme
+    original_title: Detskaia bolezn' levizny v kommounizme
     authors:
       - Vladimir Ilʹič Lenin
     year: 1968
@@ -21300,6 +21928,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/001624503
     verified: true
   - title: Le 18 Brumaire de Louis Bonaparte
+    original_title: Der Achtzehnte Brumaire des Louis Bonaparte
     series: Classiques du marxisme
     authors:
       - Karl Marx
@@ -21317,9 +21946,11 @@ titles:
     verified: true
   - title: Le Capital
     subtitle: Critique de l'économie politique
+    original_title: Das Kapital
     series: Le Capital; 4
     authors:
       - Karl Marx
+    translators:
       - Catherine Cohen-Solal
       - Gilbert Badia
     year: 1968
@@ -21459,6 +22090,7 @@ titles:
     subtitle: Économie politique & philosophie
     authors:
       - Karl Marx
+    translators:
       - Émile Bottigelli
     year: 1968
     language: French
@@ -21489,6 +22121,7 @@ titles:
     verified: true
   - title: Misère de la philosophie
     subtitle: Réponse à la "Philosophie de la misère" de M. Proudhon
+    original_title: Das Elend der Philosophie, Antwort auf Proudhon's "Philosophie des Elends"
     authors:
       - Karl Marx
       - Friedrich Engels
@@ -21564,6 +22197,8 @@ titles:
   - title: Oeuvres. Introduction et notes par Paul Leutrat
     authors:
       - François-Joseph L'Ange
+    editors:
+      - Paul Leutrat
     year: 1968
     language: French
     sources:
@@ -21684,6 +22319,7 @@ titles:
       - Karl Marx
       - Friedrich Engels
       - Gilbert Badia
+    translators:
       - P. Bange
       - Émile Bottigelli
     year: 1968
@@ -21695,6 +22331,8 @@ titles:
   - title: Textes
     authors:
       - Friedrich Engels
+    editors:
+      - Jean Kanapa
     year: 1968
     language: French
     pages: 526
@@ -21901,6 +22539,8 @@ titles:
   - title: Conspiration pour l'égalité dite de Babeuf...
     authors:
       - Philippe Buonarroti
+    editors:
+      - Albert Soboul
     year: 1969
     series: Les classiques du peuple
     language: French
@@ -21939,6 +22579,9 @@ titles:
   - title: Contribution a la critique de l'economie politique
     authors:
       - Karl Marx
+    translators:
+      - Maurice Husson
+      - Gilbert Badia
     year: 1969
     language: French
     pages: 309
@@ -21951,6 +22594,8 @@ titles:
   - title: De l'esprit des lois
     authors:
       - Charles-Louis de Secondat baron de La Brède et de Montesquieu
+    editors:
+      - Jean Ehrard
     year: 1969
     series: Les Classiques du peuple
     language: French
@@ -22046,6 +22691,8 @@ titles:
     subtitle: Textes réunis par Jacques Debouzy. Avant-propos de Georges Cogniot
     authors:
       - Georges Politzer
+    editors:
+      - Jacques Debouzy
     year: 1969
     language: French
     sources:
@@ -22071,6 +22718,10 @@ titles:
   - title: Écrits...Textes réunis par Jacques Debouzy
     authors:
       - Georges Politzer
+    editors:
+      - Jacques Debouzy
+    translators:
+      - Jacques Debouzy
     year: 1969
     language: French
     sources:
@@ -22098,6 +22749,8 @@ titles:
   - title: Histoire socialiste de la Révolution française
     authors:
       - Jean Jaurès
+    editors:
+      - Albert Soboul
     year: 1969
     edition: Edition revue et annotée par Albert Soboul
     language: French
@@ -22223,6 +22876,11 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    editors:
+      - Gilbert Badia
+      - Nicole Meunier
+    translators:
+      - Erna Cogniot
     year: 1969
     language: French
     sources:
@@ -22366,6 +23024,7 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Lucienne Netter
     year: 1969
     language: French
@@ -22422,6 +23081,7 @@ titles:
         url: https://lccn.loc.gov/79414306
     verified: true
   - title: La question du logement
+    original_title: Zur Wohnungsfrage
     series: Classiques du marxisme
     authors:
       - Friedrich Engels
@@ -22477,12 +23137,14 @@ titles:
     verified: true
   - title: La sainte famille
     subtitle: Ou Critique de la critique critique contre Bruno Bauer et consorts
+    original_title: Die heilige Familie oder Kritik der kritischen Kritik
     authors:
       - Karl Marx
       - Friedrich Engels
-      - Erna Cogniot
       - Nicole Meunier
       - Gilbert Badia
+    translators:
+      - Erna Cogniot
     year: 1969
     language: French
     sources:
@@ -22505,9 +23167,11 @@ titles:
     verified: true
   - title: Le Capital
     subtitle: Critique de l'économie politique
+    original_title: Das Kapital
     series: Le capital; 3
     authors:
       - Karl Marx
+    translators:
       - Joseph Roy
     year: 1969
     language: French
@@ -22542,6 +23206,7 @@ titles:
         url: https://openlibrary.org/books/OL21174058M
     verified: true
   - title: Le rôle de la violence dans l'histoire
+    original_title: Die Rolle der Gewalt in der Geschichte
     authors:
       - Friedrich Engels
     year: 1969
@@ -22955,6 +23620,8 @@ titles:
   - title: Rosa Luxembourg. Textes. Choix, traduction, présentation et notes de Gilbert Badia
     authors:
       - Rosa Luxemburg
+    translators:
+      - Gilbert Badia
     year: 1969
     language: French
     sources:
@@ -22973,6 +23640,7 @@ titles:
         url: https://openlibrary.org/books/OL21158723M
     verified: true
   - title: Salaire, prix et profit
+    original_title: Lohn, Preis und Profit
     series: Classiques au marxisme
     authors:
       - Karl Marx
@@ -23007,8 +23675,11 @@ titles:
         url: https://www.sudoc.fr/001856634
     verified: true
   - title: Socialisme utopique et socialisme scientifique
+    original_title: Die Entwicklung des Sozialismus von der Utopie zur Wissenschaft
     authors:
       - Friedrich Engels
+    translators:
+      - Émile Bottigelli
     year: 1969
     series: Classiques du Marxisme
     language: French
@@ -23085,6 +23756,10 @@ titles:
   - title: Textes
     authors:
       - Rosa Luxemburg
+    editors:
+      - Gilbert Badia
+    translators:
+      - Gilbert Badia
     year: 1969
     language: French
     pages: 324
@@ -23113,6 +23788,8 @@ titles:
   - title: Textes choisis
     authors:
       - Charles Fourier
+    editors:
+      - Jean Dautry
     year: 1969
     series: Classiques du peuple
     language: French
@@ -23201,6 +23878,8 @@ titles:
   - title: Britannicus
     authors:
       - Jean Racine
+    editors:
+      - Maxwell Adereth
     year: 1970
     series: Les Classiques du peuple
     language: French
@@ -23234,6 +23913,8 @@ titles:
   - title: Britannicus. Introduction et notes par M. [Maxwell] Adereth
     authors:
       - Jean Racine
+    editors:
+      - Maxwell Adereth
     year: 1970
     language: French
     sources:
@@ -23462,6 +24143,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb351812418
     verified: true
   - title: 'Guerre de libération: politique, stratégie, tactique'
+    original_title: Du'óng l'ôi quân su' cúa dáng
     authors:
       - Võ Nguyên Giáp
     year: 1970
@@ -23492,6 +24174,8 @@ titles:
   - title: Histoire socialiste de la Révolution française
     authors:
       - Jean Jaurès
+    editors:
+      - Albert Soboul
     year: 1970
     language: French
     sources:
@@ -23534,6 +24218,8 @@ titles:
     subtitle: Souvenirs de militants français rassemblés
   - title: Ho Chi Minh, notre camarade, souvenirs de militants français. Rassemblés par Léo Figuères. Introduction historique de Charles Fourniau
     authors: []
+    editors:
+      - Léo Figuères
     year: 1970
     language: French
     sources:
@@ -23581,6 +24267,8 @@ titles:
   - title: L'Encyclopédie
     subtitle: Ou Dictionnaire raisonné des Sciences, des arts et des métiers
     authors: []
+    editors:
+      - Albert Soboul
     year: 1970
     language: French
     sources:
@@ -23588,10 +24276,15 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb41643179r
     verified: true
   - title: L'idéologie allemande
+    original_title: Die deutsche Ideologie
     series: Classiques du marxisme
     authors:
       - Karl Marx
       - Friedrich Engels
+    editors:
+      - Renée Cartelle
+      - Gilbert Badia
+    translators:
       - Renée Cartelle
       - Gilbert Badia
     year: 1970
@@ -23603,9 +24296,12 @@ titles:
         url: https://www.sudoc.fr/074024027
     verified: true
   - title: La «Nouvelle gazette rhénane»
+    original_title: Die Neue Rheinische Zeitung
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
+      - Lucienne Netter
     year: 1970
     language: French
     sources:
@@ -23660,6 +24356,9 @@ titles:
     subtitle: Sous la direction de Jean Bruhat, Jean Dautry, et Émile Tersen. Avec la collaboration de Pierre Angrand [et al.]
     authors:
       - Jean Bruhat
+    editors:
+      - Jean Dautry
+      - Émile Tersen
     year: 1970
     edition: 2. éd. revue et complétée
     language: French
@@ -23682,6 +24381,10 @@ titles:
     verified: true
   - title: La Commune de 1871. Sous la direction de Jean Bruhat, Jean Dautry et Émile Tersen. Avec la collaboration de Pierre Angrand, Jean Bouvier, Maurice Choury, Henri Dubief... [etc.] 2e édition revue et complétée
     authors: []
+    editors:
+      - Jean Bruhat
+      - Émile Tersen
+      - Jean Dautry
     year: 1970
     language: French
     sources:
@@ -23831,6 +24534,7 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Catherine Cohen-Solal
       - Gilbert Badia
     year: 1970
@@ -23842,6 +24546,7 @@ titles:
         url: https://www.sudoc.fr/059299029
     verified: true
     subtitle: Critique de l'économie politique
+    original_title: 'Das Kapital : Kritik der politischen Ökonomie'
     links:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/ldpd_13051551_000
@@ -24040,6 +24745,8 @@ titles:
     subtitle: Étude de la Commission centrale de travail du Parti communiste français parmi les femmes
     authors:
       - Parti communiste français. Commission centrale de travail
+    editors:
+      - Yvonne Dumont
     year: 1970
     language: French
     pages: 176
@@ -24095,6 +24802,7 @@ titles:
     verified: true
   - title: Les luttes de classes en France
     subtitle: (1848-1850)
+    original_title: Die Klassenkämpfe in Frankreich Die Junireevolution
     series: Classiques du marxisme
     authors:
       - Karl Marx
@@ -24171,8 +24879,11 @@ titles:
         url: https://lccn.loc.gov/76541286
     verified: true
   - title: Ludwig Feuerbach et la fin de la Philosophie classique allemande
+    original_title: Ludwig Feuerbach und der Ausgang der klassischen deutschen Philosophie
     authors:
       - Friedrich Engels
+    translators:
+      - Gilbert Badia
     year: 1970
     language: German
     sources:
@@ -24234,6 +24945,8 @@ titles:
   - title: Œuvres choisies
     authors:
       - Denis Diderot
+    editors:
+      - Roland Desné
     year: 1970
     language: French
     sources:
@@ -24413,6 +25126,8 @@ titles:
     subtitle: Témoignages de résistants de l'Indre et de la vallée du Cher; de la Creuse, région de la Souterraine; de l'Indre-et-Loire, Lochois; du Cher-Sud, Saint-Amand, et de la Vienne, Montmorillon
     authors:
       - Georgette Guéguen-Dreyfus
+    editors:
+      - Bernard Lehoux
     year: 1970
     series: Souvenirs
     language: French
@@ -24637,6 +25352,8 @@ titles:
     subtitle: Introd. et notes par Jacques Girault
     authors:
       - Paul Lafargue
+    editors:
+      - Jacques Girault
     year: 1970
     series: Les Classiques du peuple
     language: French
@@ -24704,6 +25421,8 @@ titles:
   - title: Textes choisis. Introduction et notes par Jacques Girault
     authors:
       - Paul Lafargue
+    editors:
+      - Jacques Girault
     year: 1970
     language: French
     sources:
@@ -24714,6 +25433,8 @@ titles:
     subtitle: Introd. et notes par Jean Albertini
     authors:
       - Romain Rolland
+    editors:
+      - Jean Marie Albertini
     year: 1970
     series: Classiques du peuple
     language: French
@@ -24853,6 +25574,8 @@ titles:
     authors:
       - Friedrich Engels
       - Emile Bottigelli
+    translators:
+      - Émile Bottigelli
     year: 1971
     language: German
     sources:
@@ -24865,8 +25588,11 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/dli.ernet.425504
   - title: Anti-Dühring, M.E. Dühring bouleverse la science [Herrn Eugen Dühring's Umwälzung der Wissenschaft]. Traduction [et introduction] d'Émile Bottigelli. 3e édition revue
+    original_title: Anti-Dühring
     authors:
       - Friedrich Engels
+    translators:
+      - Émile Bottigelli
     year: 1971
     language: French
     sources:
@@ -24992,10 +25718,15 @@ titles:
         url: https://catalog.hathitrust.org/Record/001437590
     verified: true
   - title: Correspondance
+    original_title: Marx-Engels Werke
     series: Correspondance; 2
     authors:
       - Karl Marx
       - Friedrich Engels
+    editors:
+      - Gilbert Badia
+      - Jean Mortier
+    translators:
       - Gilbert Badia
       - Jean Mortier
       - Jean-Paul Barbe
@@ -25052,6 +25783,7 @@ titles:
     verified: true
   - title: Culture et démocratie socialiste
     subtitle: Sur la politique culturelle hongroise
+    original_title: Eszménk erejével
     authors:
       - György Aczél
     year: 1971
@@ -25131,6 +25863,8 @@ titles:
     series: Les Classiques du peuple
     authors:
       - Jean-Jacques Rousseau
+    editors:
+      - Jean-Louis Lecercle
     year: 1971
     language: French
     sources:
@@ -25183,6 +25917,9 @@ titles:
   - title: Esquisse d'un tableau historique des progres de l'esprit humain
     authors:
       - Jean-Antoine-Nicolas de Caritat marquis de Condorcet
+    editors:
+      - Monique Hincker
+      - François Hincker
     year: 1971
     edition: New ed
     series: Les classiques du peuple
@@ -25286,6 +26023,8 @@ titles:
   - title: Histoire socialiste de la Révolution française
     authors:
       - Jean Jaurès
+    editors:
+      - Albert Soboul
     year: 1971
     language: French
     sources:
@@ -25390,6 +26129,11 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    editors:
+      - Gilbert Badia
+    translators:
+      - Renée Cartelle
+      - Gilbert Badia
     year: 1971
     language: French
     sources:
@@ -25409,6 +26153,7 @@ titles:
         url: https://d-nb.info/1007738308
     verified: true
     subtitle: Critique de la philosophie allemande la plus récente dans la personne de ses représentants Feuerbach, B. Bauer et Stirner, et du socialisme allemand dans celle de ses différents prophètes
+    original_title: Die Deutsche Ideologie
   - title: L'intelligence
     subtitle: Mythes et réalités
     series: Problèmes
@@ -25430,8 +26175,12 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb351888915
     verified: true
   - title: L'origine de la famille, de la propriété privée et de l'État
+    original_title: Der ursprung der familie, des privateigentrums und des staats, im anschluss an Lewis H. Morgans Forschungen
     authors:
       - Friedrich Engels
+    translators:
+      - Jeanne Stern
+      - Émile Bottigelli
     year: 1971
     language: French
     sources:
@@ -25446,9 +26195,12 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/loriginedelafami00enge
   - title: La «Nouvelle gazette rhénane»
+    original_title: Die Neue Rheinische Zeitung
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
+      - Lucienne Netter
     year: 1971
     language: French
     sources:
@@ -25607,8 +26359,12 @@ titles:
     verified: true
   - title: La révolution au Guatemala
     subtitle: 1944-1954
+    original_title: El carácter de la revolución guatemalteca, ocaso de la revolución democrático-burguesa corriente
     authors:
       - Jaime Díaz Rozzotto
+    translators:
+      - Jean Laïlle
+      - Marie Laïlle
     year: 1971
     language: French
     sources:
@@ -25708,9 +26464,12 @@ titles:
     verified: true
   - title: Le Capital
     subtitle: Critique de l'économie politique
+    original_title: 'Das Kapital : Kritik der politischen Ökonomie'
     series: ES; 8
     authors:
       - Karl Marx
+    translators:
+      - Joseph Roy
     year: 1971
     language: French
     sources:
@@ -25856,6 +26615,7 @@ titles:
     series: Classiques du marxisme
     authors:
       - Friedrich Engels
+    translators:
       - Jean Baudrillard
       - Paul A. Stéphane
       - Émile Bottigelli
@@ -25870,6 +26630,7 @@ titles:
         url: https://d-nb.info/1007402962
     verified: true
     subtitle: Suivi de Violence et économie dans l'Établissement du nouvel Empire allemand
+    original_title: Die Rolle der Gewalt in der Geschichte
   - title: 'Lénine: la philosophie et la culture'
     authors:
       - Guy Besse
@@ -25897,6 +26658,8 @@ titles:
     subtitle: Étude de la Commission centrale de travail du Parti communiste français parmi les femmes
     authors:
       - Parti communiste français. Commission centrale de travail
+    editors:
+      - Yvonne Dumont
     year: 1971
     edition: '[Nouvelle éd.]'
     language: French
@@ -25923,6 +26686,9 @@ titles:
   - title: Les Femmes savantes
     authors:
       - Molière
+    editors:
+      - Jean Cazalbou
+      - Denise Sevely
     year: 1971
     edition: Édition du tricentenaire. Introduction et notes par Jean Cazalbou et Denise Sevely. Entretien sur la pièce avec Jacques Toja ...
     series: Les Classiques du peuple
@@ -25948,7 +26714,8 @@ titles:
     verified: true
     subtitle: Édition du tricentenaire
   - title: Lettres à Kugelmann
-    authors:
+    authors: []
+    translators:
       - Gilbert Badia
     year: 1971
     series: Classiques du marxisme
@@ -26084,6 +26851,8 @@ titles:
     series: Les Classiques du peuple
     authors:
       - Denis Diderot
+    editors:
+      - Jean Varloot
     year: 1971
     language: French
     sources:
@@ -26137,6 +26906,8 @@ titles:
   - title: Œuvres diverses. Préface et notes par Alain Niderst
     authors:
       - Pierre Bayle
+    editors:
+      - Alain Niderst
     year: 1971
     language: French
     sources:
@@ -26318,6 +27089,7 @@ titles:
     verified: true
     subtitle: Texte intégral (d'après la copie inédite de Léningrad)
   - title: Socialisme utopique et socialisme scientifique
+    original_title: Die Entwicklung des Sozialismus
     series: Classiques du marxisme
     authors:
       - Friedrich Engels
@@ -26353,6 +27125,11 @@ titles:
     subtitle: 'Pense es sur l''interpre tation de la nature; Articles de l''Encyclope die: sept premiers tomes'
     authors:
       - Denis Diderot
+    editors:
+      - Jean Varloot
+    translators:
+      - Hélène Miakotine
+      - Louise Biraud
     year: 1971
     series: Les classiques du peuple
     language: French
@@ -26414,6 +27191,7 @@ titles:
   - title: Angela Davis parle
     authors:
       - Angela Y. Davis
+    translators:
       - Maurice Cling
       - Pierrette Le Corre
       - Jean-Jacques Recht
@@ -26451,6 +27229,8 @@ titles:
     series: Socialisme; 5
     authors:
       - Luis Corvalán
+    translators:
+      - Jean-Pierre Febrer
     year: 1972
     language: French
     sources:
@@ -26493,6 +27273,9 @@ titles:
   - title: Contribution à la critique de l'économie politique
     authors:
       - Karl Marx
+    translators:
+      - Maurice Husson
+      - Gilbert Badia
     year: 1972
     language: French
     pages: 309
@@ -26536,6 +27319,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA55652139
     verified: false
   - title: Critique des programmes de Gotha et d'Erfurt
+    original_title: Kritik des Gothaer Programms
     series: Classiques du marxisme
     authors:
       - Karl Marx
@@ -26673,6 +27457,8 @@ titles:
     series: Socialisme; 4
     authors:
       - Fidel Castro
+    editors:
+      - Roland Labarre
     year: 1972
     language: French
     sources:
@@ -26758,6 +27544,8 @@ titles:
   - title: Histoire socialiste de la Révolution française
     authors:
       - Jean Jaurès
+    editors:
+      - Albert Soboul
     year: 1972
     language: French
     sources:
@@ -26808,10 +27596,14 @@ titles:
         url: https://catalog.hathitrust.org/Record/001315959
     verified: true
   - title: L'Idéologie allemande
+    original_title: Die Deutsche Ideologie
     series: Classiques du marxisme
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
+      - Gilbert Badia
+      - Renée Cartelle
     year: 1972
     language: French
     sources:
@@ -26855,8 +27647,10 @@ titles:
     verified: true
   - title: L'Origine de la famille
     subtitle: De la propriété privée et de l'État
+    original_title: Der Ursprung der Familie, des Privateigentums und des Staats
     authors:
       - Friedrich Engels
+    translators:
       - Jeanne Stern
       - R. Costes
       - J. Bérard
@@ -26943,6 +27737,8 @@ titles:
   - title: La déportation et la résistance en Afrique du Nord (1939-1944)
     authors:
       - André of Algiers Moine
+    editors:
+      - André Moine
     year: 1972
     series: Souvenirs
     language: French
@@ -27050,6 +27846,7 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA24861892
     verified: false
   - title: La Nouvelle gazette rhénane
+    original_title: Die Neue Rheinische Zeitung
     authors:
       - Karl Marx
       - Friedrich Engels
@@ -27153,8 +27950,14 @@ titles:
         url: https://openlibrary.org/books/OL19358641M
     verified: true
   - title: La sainte famille, ou, Critique de la critique critique contre Bruno Bauer et consorts
+    original_title: Heilige Familie
     authors:
       - Karl Marx
+    editors:
+      - Nicole Meunier
+      - Gilbert Badia
+    translators:
+      - Nicole Meunier
     year: 1972
     language: French
     pages: 256
@@ -27183,9 +27986,11 @@ titles:
     verified: false
   - title: Le capital
     subtitle: Critique de l'économie politique
+    original_title: Das Kapital
     series: Le capital; 1
     authors:
       - Karl Marx
+    translators:
       - Joseph Roy
     year: 1972
     language: French
@@ -27269,6 +28074,8 @@ titles:
     subtitle: Ou, Satire seconde, accompagné de la Satire première
     authors:
       - Denis Diderot
+    editors:
+      - Roland Desné
     year: 1972
     series: Les Classiques du peuple
     language: French
@@ -27287,6 +28094,8 @@ titles:
   - title: Le neveu de Rameau ou Satire seconde
     authors:
       - Denis Diderot
+    editors:
+      - Roland Desné
     year: 1972
     language: French
     sources:
@@ -27461,9 +28270,16 @@ titles:
     verified: true
   - title: Manifest der kommunistischen Partei
     subtitle: Und Vorworte zum «Manifest» = Manifeste du Parti communiste
+    original_title: Das Manifest der kommunistischen Partei
     authors:
       - Karl Marx
       - Friedrich Engels
+    editors:
+      - Michèle Kiintz-Tailleur
+    translators:
+      - Laura Lafargue
+      - Bernard Grandjonc
+      - Chantal Simonin
     year: 1972
     language: French
     sources:
@@ -27477,6 +28293,10 @@ titles:
     subtitle: 'Préfaces du Manifeste: Principes du communisme: Projet de profession de foi communiste'
     authors:
       - Karl Marx
+    editors:
+      - Michèle Kiintz-Tailleur
+    translators:
+      - Michèle Kiintz-Tailleur
     year: 1972
     series: Classiques du marxisme
     language: French
@@ -27507,6 +28327,8 @@ titles:
       - Pierre Abraham
       - Roland Desné
       - Pierre Barbéris
+    editors:
+      - Claude Duchet
     year: 1972
     language: French
     sources:
@@ -27591,6 +28413,7 @@ titles:
     subtitle: Manuel à l'usage des étudiants des premier et second cycles de l'enseignement supérieur
   - title: Misère de la philosophie
     subtitle: Réponse à la "Philosophie de la misère" de M. Proudhon
+    original_title: Das Elend der Philosophie, Antwort auf Proudhon's "Philosophie des Elends"
     authors:
       - Karl Marx
       - Friedrich Engels
@@ -27608,6 +28431,8 @@ titles:
     subtitle: Ou, Satire seconde, accompagné de la Satire première. Introductions et commentaires de Roland Desné. Préfaces de Jean Varloot et Maurice Roelens
     authors:
       - Denis Diderot
+    editors:
+      - Roland Desné
     year: 1972
     series: Classiques de peuple
     language: French
@@ -27634,6 +28459,8 @@ titles:
   - title: Œuvres choisies
     authors:
       - Georgi Mihajlov Dimitrov
+    editors:
+      - André Moine
     year: 1972
     language: French
     sources:
@@ -27700,6 +28527,9 @@ titles:
     series: Les Classiques du peuple
     authors:
       - Denis Diderot
+    editors:
+      - Jean Varloot
+      - Norman Rudich
     year: 1972
     language: French
     sources:
@@ -27739,6 +28569,8 @@ titles:
     authors:
       - Parti communiste français
       - Parti socialiste
+    editors:
+      - Parti socialiste français
     year: 1972
     language: French
     sources:
@@ -27858,6 +28690,10 @@ titles:
   - title: Sur la religion
     authors:
       - Karl Marx
+    editors:
+      - Gilbert Badia
+      - Pierre Bange
+      - Émile Bottigelli
     year: 1972
     language: French
     pages: 366
@@ -27925,6 +28761,8 @@ titles:
     series: Classiques du marxisme
     authors:
       - Karl Marx
+    editors:
+      - Jean Kanapa
     year: 1972
     language: French
     sources:
@@ -27960,9 +28798,12 @@ titles:
         url: https://www.sudoc.fr/005070996
     verified: true
   - title: Travail salarié et capital
+    original_title: Lohnarbeit und Kapital
     series: Classiques du marxisme
     authors:
       - Karl Marx
+    editors:
+      - Friedrich Engels
     year: 1972
     language: French
     sources:
@@ -28163,8 +29004,13 @@ titles:
     verified: true
   - title: Anti-Dühring
     subtitle: M. E. Dühring bouleverse la science
+    original_title: Herrn Eugen Dühring's Umwälzung der Wissenschaft
     authors:
       - Friedrich Engels
+    editors:
+      - Émile Bottigelli
+    translators:
+      - Émile Bottigelli
     year: 1973
     language: French
     sources:
@@ -28277,8 +29123,13 @@ titles:
     verified: true
   - title: Costa Rica
     subtitle: De la flibuste au Pentagone
+    original_title: Costa-Rica
     authors:
       - Francisco Gamboa Guzmán
+    translators:
+      - Marie Laïlle
+      - Jean Laïlle
+      - Georges Fournial
     year: 1973
     series: Notre temps
     language: French
@@ -28349,6 +29200,7 @@ titles:
     series: Ouvertures
     authors:
       - Raquel Tibol
+    translators:
       - Georges Fournial
     year: 1973
     language: French
@@ -28399,6 +29251,8 @@ titles:
   - title: Dialogues avec un sauvage
     authors:
       - Lohontan, Louis Armand de Lom d'Arce, baron de
+    editors:
+      - Maurice Roelens
     year: 1973
     series: Collection Ni-t'chawama / Mon ami, mon frère
     language: French
@@ -28432,6 +29286,8 @@ titles:
   - title: Écrits ...
     authors:
       - Georges Politzer
+    editors:
+      - Jacques Debouzy
     year: 1973
     language: French
     sources:
@@ -28468,9 +29324,10 @@ titles:
   - title: Essai sur le développement de la conception moniste de l'histoire
     authors:
       - Georges Plekhanov
+      - Philippe Mongin
+    translators:
       - Jean Cathala
       - Lucia Cathala
-      - Philippe Mongin
     year: 1973
     language: French
     sources:
@@ -28581,6 +29438,9 @@ titles:
   - title: Histoire socialiste de la Révolution française
     authors:
       - Jean Jaurès
+    editors:
+      - Albert Soboul
+      - Françoise Brunel
     year: 1973
     language: French
     sources:
@@ -28618,6 +29478,10 @@ titles:
     subtitle: Réflexions à partir du muralisme mexicain
     authors:
       - David Alfaro Siqueiros
+    editors:
+      - Raquel Tibol
+    translators:
+      - Georges Fournial
     year: 1973
     series: Ouvertures
     language: French
@@ -28654,8 +29518,10 @@ titles:
         url: https://search.worldcat.org/title/798182
     verified: true
   - title: L'origine de la famille, de la propriété privée et de l'État
+    original_title: Der Ursprung der Familie, des Privateigentums und des Staats
     authors:
       - Friedrich Engels
+    translators:
       - Jeanne Stern
       - Émile Bottigelli
       - R. Costes
@@ -28845,11 +29711,13 @@ titles:
     verified: true
   - title: La situation de la classe laborieuse en Angleterre
     subtitle: D'après les observations de l'auteur et des sources authentiques
+    original_title: Die Lage der arbeitenden Klasse in England
     authors:
       - Friedrich Engels
+      - Eric John Hobsbawm
+    translators:
       - Gilbert Badia
       - Jean Frédéric
-      - Eric John Hobsbawm
     year: 1973
     language: French
     sources:
@@ -28881,6 +29749,8 @@ titles:
   - title: Le Capital
     authors:
       - Karl Marx
+    translators:
+      - Joseph Roy
     year: 1973
     language: French
     sources:
@@ -28896,6 +29766,7 @@ titles:
         url: https://www.sudoc.fr/002187442
     verified: true
     subtitle: Critique de l'économie politique
+    original_title: 'Das Kapital : Kritik der politischen Ökonomie'
     links:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/ldpd_13051551_000
@@ -29164,8 +30035,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/006738560
     verified: true
   - title: Les premiers philosophes
+    original_title: The First philosophers
     authors:
       - George Thomson
+    translators:
+      - Michel Charlot
     year: 1973
     language: French
     pages: 399
@@ -29208,6 +30082,7 @@ titles:
     verified: true
   - title: Livre premier
     subtitle: Le Développement de la production capitaliste
+    original_title: Das Kapital
     authors:
       - Karl Marx
       - Joseph Roy
@@ -29610,6 +30485,8 @@ titles:
   - title: Textes choisis
     authors:
       - Maximilien Robespierre
+    editors:
+      - Jean Poperen
     year: 1973
     series: Les Classiques du peuple
     language: French
@@ -29856,6 +30733,13 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    editors:
+      - Gilbert Badia
+      - Jean Mortier
+    translators:
+      - Gilbert Badia
+      - Gérard Bernhard
+      - Lucien Calvié
     year: 1974
     language: French
     sources:
@@ -29895,9 +30779,12 @@ titles:
         url: https://archive.org/details/crisedelenergieo0000bcre
     verified: false
   - title: De la nature des choses
+    original_title: De rerum natura
     series: Les Classiques du peuple
     authors:
       - Lucrèce
+    editors:
+      - Georges Cogniot
     year: 1974
     language: French
     sources:
@@ -29918,6 +30805,8 @@ titles:
   - title: Dialogues avec un sauvage
     authors:
       - Louis Armand de Lom d'Arce baron de Lahontan
+    editors:
+      - Maurice Roelens
     year: 1974
     series: Collection Ni-t'chawama
     language: French
@@ -29932,6 +30821,8 @@ titles:
   - title: Dictionnaire historique et critique
     authors:
       - Pierre Bayle
+    editors:
+      - Alain Niderst
     year: 1974
     series: Les Classiques du peuple
     language: French
@@ -29965,6 +30856,7 @@ titles:
       - label: Free ebook (Project Gutenberg)
         url: https://www.gutenberg.org/ebooks/13846
   - title: Dix jours qui ébranlèrent le monde
+    original_title: Ten days that shook the world
     authors:
       - John Reed
       - Albert Rhys Williams
@@ -29994,6 +30886,8 @@ titles:
   - title: Ecrits de Moscou
     authors:
       - Lukács György
+    translators:
+      - Claude Prévost
     year: 1974
     series: Ouvertures
     language: French
@@ -30020,11 +30914,14 @@ titles:
         url: https://d-nb.info/369014731
     verified: true
     subtitle: Textes inédits
+    original_title: Moskauer Schriften
   - title: Études philosophiques
     series: Classiques du marxisme
     authors:
       - Karl Marx
       - Friedrich Engels
+    editors:
+      - Guy Besse
     year: 1974
     language: French
     sources:
@@ -30278,6 +31175,7 @@ titles:
     verified: true
   - title: L'Empire de la haute finance
     subtitle: La genèse du capitalisme monopoliste d'État aux U.S.A
+    original_title: Empire of high finance
     authors:
       - Victor Perlo
     year: 1974
@@ -30291,6 +31189,11 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    editors:
+      - Gilbert Badia
+    translators:
+      - Renée Cartelle
+      - Gilbert Badia
     year: 1974
     language: French
     sources:
@@ -30304,6 +31207,7 @@ titles:
         url: https://www.sudoc.fr/012825298
     verified: true
     subtitle: Première partie Feuerbach
+    original_title: Die Deutsche Ideologie
   - title: 'L''Insurrection d''Eysses: 19-23 février 1944, une prison dans la Résistance... d''après les témoignages et documents d''anciens détenus patriotes (F. F. I. 1943-1945)'
     authors:
       - Association nationale pour la mémoire des résistants et patriotes emprisonnés à Eysses bataillon FFI déporté à Dachau
@@ -30316,9 +31220,13 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb34560672j
     verified: true
   - title: La guerre des paysans en Allemagne
+    original_title: Der Deutsche Bauernkrieg
     series: Classiques du marxisme
     authors:
       - Friedrich Engels
+    editors:
+      - Émile Bottigelli
+    translators:
       - Émile Bottigelli
     year: 1974
     language: French
@@ -30454,9 +31362,13 @@ titles:
     verified: true
   - title: Le Capital
     subtitle: Critique de l'économie politique
+    original_title: Das Kapital
     series: Le capital; 8
     authors:
       - Karl Marx
+    editors:
+      - Joseph Roy
+    translators:
       - Erna Cogniot
     year: 1974
     language: French
@@ -30569,6 +31481,8 @@ titles:
     subtitle: Colloque d'Orsay
     authors:
       - Centre d'études et de recherches marxistes
+    editors:
+      - P. Cazalle
     year: 1974
     language: French
     pages: 601
@@ -30695,6 +31609,8 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
+      - Jean-Pierre Lefebvre
     year: 1974
     language: French
     sources:
@@ -30782,6 +31698,7 @@ titles:
   - title: Oeuvres
     authors:
       - Vladimir Ilʹič Lenin
+    translators:
       - Serge Mayret
       - Francis Cohen
       - René L'Hermitte
@@ -30806,6 +31723,8 @@ titles:
   - title: Pages choisies
     authors:
       - Antoine Laurent Lavoisier
+    editors:
+      - Ernest Kahane
     year: 1974
     series: Les Classiques du peuple
     language: French
@@ -30850,6 +31769,10 @@ titles:
   - title: Portugal, l'aube de la liberté
     authors:
       - Álvaro Cunhal
+    editors:
+      - Pierre Gilhodes
+    translators:
+      - Pierre Gilhodes
     year: 1974
     series: Notre temps/monde
     language: French
@@ -31057,6 +31980,8 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
+      - Jean-Pierre Lefebvre
     year: 1974
     language: German
     sources:
@@ -31073,8 +31998,13 @@ titles:
     verified: true
   - title: Théories sur la plus-value
     subtitle: Livre IV du "Capital"
+    original_title: 'Das Kapital : Kritik der politischen Okonomie'
     authors:
       - Karl Marx
+    editors:
+      - Gilbert Badia
+    translators:
+      - Gilbert Badia
     year: 1974
     language: French
     isbn: '2209051878'
@@ -31090,6 +32020,7 @@ titles:
     verified: true
   - title: Théories sur la plus-value Tome I -III
     subtitle: Livre IV du "capital"
+    original_title: Das Kapital
     authors:
       - Karl Marx
       - Gilbert Badia
@@ -31101,11 +32032,13 @@ titles:
     verified: true
   - title: Utopie
     subtitle: Discours du très excellent homme Raphael Hythloday sur la meilleure constitution d'une république
+    original_title: Utopia
     series: Les Classiques du peuple
     authors:
       - Thomas More
-      - Victor Stouvenel
       - Marcelle Bottigelli
+    translators:
+      - Victor Stouvenel
     year: 1974
     language: French
     sources:
@@ -31150,6 +32083,7 @@ titles:
         url: https://search.worldcat.org/title/2402492
     verified: true
   - title: Avocate israélienne, je témoigne
+    original_title: Bemô 'e nay
     authors:
       - Felicia Langer
     year: 1975
@@ -31232,6 +32166,14 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    editors:
+      - Gilbert Badia
+      - Jean Mortier
+    translators:
+      - Gilbert Badia
+      - Lucien Calvié
+      - Marie-Rose Choucroun
+      - Michel Fagard
     year: 1975
     language: French
     sources:
@@ -31279,8 +32221,11 @@ titles:
     verified: true
     pages: 228
   - title: Critique du droit politique hégélien
+    original_title: Kritik der Hegelschen Staatsrecht
     authors:
       - Karl Marx
+    translators:
+      - Albert Baraquin
     year: 1975
     language: French
     sources:
@@ -31622,8 +32567,15 @@ titles:
         url: https://catalog.hathitrust.org/Record/000018096
     verified: true
   - title: Gramsci dans le texte
+    original_title: Quaderni del carcere
     authors:
       - Antonio Gramsci
+    editors:
+      - François Ricci
+      - Jean Bramant
+    translators:
+      - Gilbert Moget
+      - Armand Monjo
     year: 1975
     language: French
     pages: 797
@@ -31987,6 +32939,8 @@ titles:
   - title: L'Humanité clandestine
     authors:
       - Parti communiste français
+    editors:
+      - Germaine Willard
     year: 1975
     language: French
     sources:
@@ -32004,10 +32958,12 @@ titles:
     subtitle: 1939-1944
   - title: L'idéologie allemande
     subtitle: Critique de la philosophie allemande la plus récente dans la personne de ses représentants Feuerbach, B. Bauer et Stirner et du socialisme allemand dans celle de ses différents prophètes
+    original_title: Die deutsche Ideologie
     authors:
       - Karl Marx
       - Friedrich Engels
       - Gilbert Badia
+    translators:
       - Henri Auger
     year: 1975
     language: French
@@ -32146,9 +33102,11 @@ titles:
     verified: true
   - title: Le Capital
     subtitle: Critique de l'économie politique
+    original_title: 'Das Kapital : kritik der politischen Ökonomie'
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Joseph Roy
     year: 1975
     language: French
@@ -32232,6 +33190,8 @@ titles:
     series: Économie et politique; 14
     authors:
       - Parti communiste français
+    editors:
+      - Henri Sègre
     year: 1975
     language: French
     sources:
@@ -32368,8 +33328,11 @@ titles:
         url: https://openlibrary.org/books/OL22208524M
     verified: true
   - title: Nous sommes vos fils
+    original_title: 'We are your sons : the legacy of Julius and Ethel Rosenberg'
     authors:
       - Robert Meeropol
+    editors:
+      - Olga Meier
     year: 1975
     language: French
     pages: 364
@@ -32531,6 +33494,8 @@ titles:
   - title: Sur la théorie du pouvoir politique
     authors:
       - Gabriel Bonnot de Mably
+    editors:
+      - Peter Friedemann
     year: 1975
     series: Les Classiques du peuple
     language: French
@@ -32577,6 +33542,10 @@ titles:
   - title: Théories sur la plus-value
     authors:
       - Karl Marx
+    editors:
+      - Gilbert Badia
+    translators:
+      - Gilbert Badia
     year: 1975
     language: French
     sources:
@@ -32588,6 +33557,7 @@ titles:
         url: https://www.sudoc.fr/000133698
     verified: true
     subtitle: Livre IV du "Capital"
+    original_title: 'Das Kapital : Kritik der politischen Ökonomie'
   - title: Travail salarié et capital
     authors:
       - Karl Marx
@@ -32862,8 +33832,11 @@ titles:
     verified: true
   - title: Des Français dans la Révolution d'octobre
     subtitle: Contribution à l'histoire du groupe communiste français près le P.C. (b) R., 1918-1920
+    original_title: Oni predstavlâli narod Francii
     authors:
       - L. M. Zak
+    translators:
+      - Claudie Bassi
     year: 1976
     language: French
     pages: 268
@@ -32912,8 +33885,11 @@ titles:
     verified: true
   - title: Écrits de la prison
     subtitle: Le mouvement syndical espagnol et les commissions ouvrières
+    original_title: Charlas en la prisión
     authors:
       - Marcelino Camacho
+    translators:
+      - Jean-Francis Reille
     year: 1976
     language: French
     sources:
@@ -33131,9 +34107,11 @@ titles:
     verified: true
   - title: L'idéologie allemande
     subtitle: Critique de la philosophie allemande la plus récente dans la personne de ses représentants Feuerbach, B. Bauer et Stirner et du socialisme allemand dans celle de ses différents prophètes
+    original_title: Die deutsche Ideologie
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Gilbert Badia
       - Henri Auger
       - Jean Baudrillard
@@ -33150,11 +34128,13 @@ titles:
     verified: true
   - title: L'utopie
     subtitle: Discours du très excellent homme Raphael Hythloday sur la meilleure constitution d'une république
+    original_title: Utopia
     series: Les classiques du peuple
     authors:
       - Thomas More
-      - Victor Stouvenel
       - Marcelle Bottigelli
+    translators:
+      - Victor Stouvenel
     year: 1976
     language: French
     sources:
@@ -33187,6 +34167,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/102567059
     verified: true
   - title: La crise économique, sociale, politique
+    original_title: Velyka kryza ta ii politychni naslidki
     authors:
       - Eugène Varga
     year: 1976
@@ -33279,8 +34260,12 @@ titles:
     verified: true
   - title: La Politique du Parti communiste italien
     subtitle: Entretien avec Eric J. Hobsbawm
+    original_title: Intervista sul P.C.I
     authors:
       - Eric Hobsbawm
+    translators:
+      - Claudine Ewenczyk
+      - Jean Rony
     year: 1976
     series: Monde
     language: French
@@ -33299,6 +34284,7 @@ titles:
         url: https://search.worldcat.org/title/3001761
     verified: true
   - title: La Question du logement
+    original_title: Zur Wohnungsfrage
     series: Classiques du marxisme
     authors:
       - Friedrich Engels
@@ -33349,6 +34335,7 @@ titles:
         url: https://d-nb.info/369023803
     verified: true
   - title: Le 18 Brumaire de Louis Bonaparte
+    original_title: Der Achtzehnte Brumaire des Louis Bonaparte
     authors:
       - Karl Marx
     year: 1976
@@ -33368,8 +34355,10 @@ titles:
     verified: true
   - title: Le Capital
     subtitle: Critique de l'économie politique
+    original_title: Das Kapital
     authors:
       - Karl Marx
+    translators:
       - Catherine Cohen-Solal
       - Gilbert Badia
     year: 1976
@@ -33440,6 +34429,7 @@ titles:
     verified: true
   - title: Le Développement du psychisme
     subtitle: Problèmes
+    original_title: Problemy razvitiia psikhiki
     authors:
       - Alexis Leontiev
     year: 1976
@@ -33514,6 +34504,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb36274676v
     verified: true
   - title: Le rôle de la violence dans l'histoire
+    original_title: Die Rolle der Gewalt in der Geschichte
     series: Classiques du marxisme
     authors:
       - Friedrich Engels
@@ -33576,6 +34567,8 @@ titles:
     subtitle: Choix de textes
     authors:
       - Henri Wallon
+    editors:
+      - Hélène Gratiot-Alphandéry
     year: 1976
     language: French
     pages: 384
@@ -33654,8 +34647,11 @@ titles:
     verified: false
   - title: Manifeste du Parti Communiste
     subtitle: Et préfaces du Manifeste
+    original_title: Manifest der Kommunistischen Partei
     authors:
       - Karl Marx
+    editors:
+      - Michèle Kiintz-Tailleur
     year: 1976
     series: Classiques du marxisme
     language: French
@@ -33936,6 +34932,8 @@ titles:
     series: Les Classiques du peuple
     authors:
       - Gracchus Babeuf
+    editors:
+      - Claude Mazauric
     year: 1976
     language: French
     sources:
@@ -33971,6 +34969,8 @@ titles:
   - title: Théories sur la plus-value
     authors:
       - Karl Marx
+    translators:
+      - Gilbert Badia
     year: 1976
     language: French
     sources:
@@ -33982,6 +34982,7 @@ titles:
         url: https://d-nb.info/368828360
     verified: true
     subtitle: Livre IV du "Capital"
+    original_title: 'Das Kapital : Kritik der politischen Okonomie'
   - title: Traité marxiste d'économie politique
     subtitle: Le Capitalisme monopoliste d'état
     authors:
@@ -34485,6 +35486,8 @@ titles:
     authors:
       - Roland Desné
       - Pierre Abraham
+    editors:
+      - Claude Duchet
     year: 1977
     language: French
     sources:
@@ -34658,6 +35661,9 @@ titles:
     subtitle: Feuerbach
     authors:
       - Karl Marx
+    translators:
+      - Renée Cartelle
+      - Gilbert Badia
     year: 1977
     series: Classiques du marxisme
     language: French
@@ -34692,6 +35698,8 @@ titles:
   - title: La France sous le Directoire, 1795-1799
     authors:
       - Georges Lefebvre
+    editors:
+      - Jean René Suratteau
     year: 1977
     language: French
     pages: 937
@@ -34794,9 +35802,11 @@ titles:
     verified: true
   - title: Le Capital
     subtitle: Critique de l'économie politique
+    original_title: Das Kapital
     series: Le capital; 1
     authors:
       - Karl Marx
+    translators:
       - Joseph Roy
     year: 1977
     language: French
@@ -35041,6 +36051,8 @@ titles:
     authors:
       - Pierre Abraham
       - Roland Desné
+    editors:
+      - Claude Duchet
     year: 1977
     language: French
     sources:
@@ -35203,6 +36215,9 @@ titles:
     subtitle: Pédagogie de soutien ou soutien de la pédagogie?
     authors:
       - Groupe français d'éducation nouvelle
+    editors:
+      - Jacqueline Cimaz
+      - André Duny
     year: 1977
     language: French
     pages: 270
@@ -35249,9 +36264,12 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb362731271
     verified: true
   - title: Sémiotique et esthétique du cinéma
+    original_title: Semiotika kino i problemy kinoestetiki
     series: Ouvertures
     authors:
       - Ûrij Mihajlovič Lotman
+    translators:
+      - Sabine Breuillard
     year: 1977
     language: French
     sources:
@@ -35278,6 +36296,8 @@ titles:
     series: Classiques du marxisme
     authors:
       - Friedrich Engels
+    translators:
+      - Émile Bottigelli
     year: 1977
     language: German
     sources:
@@ -35289,6 +36309,8 @@ titles:
   - title: Sur Gramsci
     authors:
       - Palmiro Togliatti
+    translators:
+      - Béatrice Bretonnière
     year: 1977
     language: French
     pages: 350
@@ -35314,6 +36336,10 @@ titles:
   - title: Sur l'implantation du Parti communiste français dans l'entre-deux-guerres
     authors:
       - Jacques Girault
+    editors:
+      - Bernard Chambaz
+      - Jean-Paul Depretto
+      - Annie Fourcaut
     year: 1977
     language: French
     pages: 347
@@ -35601,6 +36627,14 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    editors:
+      - Gilbert Badia
+      - Jean Mortier
+    translators:
+      - Gilbert Badia
+      - Jean Mortier
+      - Henri Auger
+      - Jean-Paul Barbe
     year: 1978
     language: French
     sources:
@@ -35668,6 +36702,8 @@ titles:
     subtitle: Naissance d'EDF-GDF
     authors:
       - René Gaudy
+    editors:
+      - Roger Pauwels
     year: 1978
     language: French
     pages: 282
@@ -35802,8 +36838,12 @@ titles:
     verified: true
   - title: Intelligence, génétique, racisme
     subtitle: Le Q.I. est-il héréditaire?
+    original_title: :I.Q. :+Intellectual quotient+, heritability and racism
     authors:
       - James M. Lawler
+    translators:
+      - Edith Herdhuin
+      - Paul Tolila
     year: 1978
     language: French
     pages: 232
@@ -35974,6 +37014,8 @@ titles:
     subtitle: 1795-1799
     authors:
       - Georges Lefebvre
+    editors:
+      - Jean-René Suratteau
     year: 1978
     language: French
     sources:
@@ -36031,6 +37073,7 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Erna Cogniot
     year: 1978
     language: French
@@ -36041,6 +37084,7 @@ titles:
         url: https://www.sudoc.fr/061452343
     verified: true
     subtitle: Critique de l'économie politique
+    original_title: Das Kapital
     links:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/ldpd_13051551_000
@@ -36378,6 +37422,8 @@ titles:
   - title: Textes philosophiques
     authors:
       - Vladimir Ilʹič Lenin
+    translators:
+      - Françoise Sève
     year: 1978
     language: French
     sources:
@@ -36389,8 +37435,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=185720803
     verified: true
   - title: Théories sur la plus-value
+    original_title: 'Das Kapital : Kritik der politischen Okonomie'
     authors:
       - Karl Marx
+    translators:
+      - Gilbert Badia
     year: 1978
     language: French
     sources:
@@ -36544,6 +37593,9 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    editors:
+      - Gilbert Badia
+      - Jean Mortier
     year: 1979
     language: French
     sources:
@@ -36635,10 +37687,12 @@ titles:
         url: https://catalog.hathitrust.org/Record/000726826
     verified: true
   - title: Dix jours qui ébranlèrent le monde
+    original_title: Ten days that shook the world
     authors:
       - John Reed
-      - Martin Stahl
       - Albert Rhys Williams
+    translators:
+      - Martin Stahl
     year: 1979
     language: French
     sources:
@@ -36694,6 +37748,8 @@ titles:
   - title: Histoire de la France contemporaine
     authors:
       - Albert Soboul
+    editors:
+      - Jean Elleinstein
     year: 1979
     language: French
     sources:
@@ -37155,6 +38211,10 @@ titles:
   - title: Batailles pour les femmes
     authors:
       - Clara Zetkin
+    editors:
+      - Gilbert Badia
+    translators:
+      - Gilbert Badia
     year: 1980
     language: French
     sources:
@@ -37208,8 +38268,10 @@ titles:
         url: https://catalog.hathitrust.org/Record/007116835
     verified: true
   - title: Critique du droit politique hégélien
+    original_title: Kritik des Hegelschen Staatsrechts
     authors:
       - Karl Marx
+    translators:
       - Albert Baraquin
     year: 1980
     language: French
@@ -37245,9 +38307,12 @@ titles:
     verified: true
   - title: Eleanor
     subtitle: Chronique familiale des Marx
+    original_title: Eleanor Marx, family life
     series: Eleanor; [1]
     authors:
       - Yvonne Kapp
+    translators:
+      - Olga Meier
     year: 1980
     language: French
     sources:
@@ -37288,6 +38353,7 @@ titles:
     verified: true
   - title: Essais d'histoire africaine
     subtitle: De la traite des noirs au néocolonialisme
+    original_title: Essays on African history
     authors:
       - Jean Suret-Canale
     year: 1980
@@ -37364,6 +38430,8 @@ titles:
     authors:
       - Germaine Willard
       - Roger Bourderon
+    editors:
+      - Jean Elleinstein
     year: 1980
     language: French
     sources:
@@ -37401,8 +38469,9 @@ titles:
   - title: Ivan Ivanovitch écrit à "La Pravda"
     series: Notre temps; 3
     authors:
-      - Christine Revuz
       - Francis Cohen
+    translators:
+      - Christine Revuz
     year: 1980
     language: French
     sources:
@@ -37580,6 +38649,10 @@ titles:
     subtitle: '18e Congrès national du Parti socialiste: texte integral'
     authors:
       - Parti socialiste-S.F. I. O. Congrès national
+    editors:
+      - Jean Charles
+      - Jacques Girault
+      - Jean-Louis Robert
     year: 1980
     language: French
     pages: 918
@@ -37719,6 +38792,9 @@ titles:
   - title: Manuel d'histoire littéraire de la France
     authors:
       - Pierre Barbéris
+    editors:
+      - Pierre Abraham
+      - Roland Desné
     year: 1980
     language: French
     sources:
@@ -37772,8 +38848,15 @@ titles:
     verified: false
   - title: Manuscrit de 1857-1858
     subtitle: '"Grundrisse"'
+    original_title: Grundrisse
     authors:
       - Karl Marx
+    editors:
+      - Jean-Pierre Lefebvre
+    translators:
+      - Gilbert Badia
+      - Étienne Balibar
+      - Jacques Bidet
     year: 1980
     language: French
     isbn: '2209053781'
@@ -37806,9 +38889,11 @@ titles:
         url: https://www.sudoc.fr/015680827
     verified: true
   - title: Manuscrit de 1857-1858 1ère partie -2ème
+    original_title: Grundrisse der Kritik der politischen Ökonomie
     authors:
       - Karl Marx
       - Jean-Pierre Lefebvre
+    translators:
       - Gilbert Badia
       - Étienne Balibar
       - Jacques Bidet
@@ -37830,8 +38915,15 @@ titles:
     verified: true
   - title: Manuscrits de 1861-1863
     subtitle: Cahiers I à V, contribution à la critique de l'économie politique
+    original_title: Grundrisse der Kritik der politischen Oekonomie
     authors:
       - Karl Marx
+    editors:
+      - Jean-Pierre Lefebvre
+    translators:
+      - Gilbert Badia
+      - Étienne Balibar
+      - Jean-François Cailleux
     year: 1980
     language: French
     sources:
@@ -38216,6 +39308,9 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    editors:
+      - Gilbert Badia
+      - Jean Mortier
     year: 1981
     language: French
     sources:
@@ -38228,8 +39323,10 @@ titles:
     verified: true
   - title: Eleanor
     subtitle: Chronique familiale des Marx
+    original_title: Eleanor Marx, family life
     authors:
       - Yvonne Kapp
+    translators:
       - Olga Meier
     year: 1981
     language: French
@@ -38361,6 +39458,8 @@ titles:
     authors:
       - Emile Bottigelli
       - Claude Willard
+    editors:
+      - Émile Bottigelli
     year: 1981
     language: French
     pages: 206
@@ -38798,11 +39897,15 @@ titles:
     verified: true
   - title: Redécouvrir l'expérience ouvrière
     subtitle: Vers une autre psychologie du travail ?
+    original_title: Esperienza operaia, coscienza di classe e psicologia del lavoro
     series: Problèmes
     authors:
       - Ivar Oddone
       - Alessandra Re
       - Gianni Briante
+    translators:
+      - Ivano Barsotti
+      - Marie-Laure Barsotti
     year: 1981
     language: French
     sources:
@@ -38820,6 +39923,8 @@ titles:
     series: Notre temps; 21
     authors:
       - Jack Ralite
+    editors:
+      - Claudine Ducol
     year: 1981
     language: French
     sources:
@@ -38957,9 +40062,14 @@ titles:
         url: https://www.sudoc.fr/000499692
     verified: true
   - title: 10 jours qui ébranlèrent le monde
+    original_title: Ten days that shook the world
     series: Essentiel; 6
     authors:
       - John Reed
+    editors:
+      - Vladimir Pozner
+    translators:
+      - Vladimir Pozner
     year: 1982
     language: French
     sources:
@@ -39152,10 +40262,11 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
-      - Jean Wetzler
-      - Paul Laveau
       - Jean Mortier
       - Gilbert Badia
+    translators:
+      - Jean Wetzler
+      - Paul Laveau
     year: 1982
     language: French
     sources:
@@ -39270,6 +40381,10 @@ titles:
   - title: L' idéologie allemande
     authors:
       - Karl Marx
+    translators:
+      - Henri Auger
+      - Gilbert Badia
+      - Jean Baudrillard
     year: 1982
     language: French
     pages: 279
@@ -39287,8 +40402,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991170944404105501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Extraits
+    original_title: Die Deutsche Ideologie
     series: Essentiel; 1
   - title: L'Idéologie allemande. [suivi de] Thèses sur Feuerbach
+    original_title: Die Deutsche Ideologie
     series: Essentiel; 1
     authors:
       - Karl Marx
@@ -39302,9 +40419,14 @@ titles:
         url: https://www.sudoc.fr/108639223
     verified: true
   - title: L'Utopie
+    original_title: Utopia
     series: Essentiel; 7
     authors:
       - Thomas More
+    editors:
+      - Marcelle Bottigelli
+    translators:
+      - Victor Stouvenel
     year: 1982
     language: French
     sources:
@@ -39410,6 +40532,8 @@ titles:
   - title: La Révolution française
     authors:
       - Albert Soboul
+    editors:
+      - Françoise Brunel
     year: 1982
     edition: Nouv. éd. rev. et augm. du Précis d'histoire de la Révolution française / avec un avant-propos de Claude Mazauric et une bibliographie de l'œuvre d'Albert Soboul par Françoise Brunel
     series: 1789-1989
@@ -39460,6 +40584,8 @@ titles:
   - title: La vie mentale
     authors:
       - Henri Wallon
+    editors:
+      - Émile Jalley
     year: 1982
     series: Essentiel
     language: French
@@ -39509,6 +40635,8 @@ titles:
   - title: Le Choc du 20 Congrès du P.C.U.S. Parti communiste de l'Union soviétique
     subtitle: Textes et documents
     authors: []
+    editors:
+      - Roger Martelli
     year: 1982
     language: French
     sources:
@@ -39539,9 +40667,13 @@ titles:
         url: https://www.sudoc.fr/000532088
     verified: true
   - title: Le Monde de l'Islam
+    original_title: Il Mondo dell'Islam
     series: Comprendre; 4
     authors:
       - Biancamaria Scarcia Amoretti
+    translators:
+      - Marie-Laure Barsotti
+      - Ivano Barsotti
     year: 1982
     language: French
     sources:
@@ -39685,6 +40817,8 @@ titles:
     subtitle: Contribution à l'élaboration d'une politique sociale des vacances, du tourisme et des loisirs
     authors:
       - Association nationale de coordination des activités de vacances Tourisme et travail
+    editors:
+      - Bruno Meynet
     year: 1982
     language: French
     sources:
@@ -39739,6 +40873,8 @@ titles:
     series: Essentiel; 10
     authors:
       - Rosa Luxemburg
+    editors:
+      - Gilbert Badia
     year: 1982
     language: French
     sources:
@@ -39751,6 +40887,9 @@ titles:
     series: Essentiel; 4
     authors:
       - Vladimir Ilʹič Lenin
+    translators:
+      - Sylvie Pelta
+      - Françoise Sève
     year: 1982
     language: French
     sources:
@@ -39916,6 +41055,8 @@ titles:
     series: Essentiel -- 19
     authors:
       - René Descartes
+    editors:
+      - Simone Mazauric
     year: 1983
     language: French
     sources:
@@ -39934,6 +41075,8 @@ titles:
   - title: Discours sur l'origine et les fondements de l'inégalité parmi les hommes
     authors:
       - Jean-Jacques Rousseau
+    editors:
+      - Jean-Louis Lecercle
     year: 1983
     series: Essentiel
     language: French
@@ -40082,8 +41225,11 @@ titles:
     verified: true
   - title: Karl Marx
     subtitle: Histoire de sa vie
+    original_title: 'Karl Marx : Geschichte seines Lebens'
     authors:
       - Franz Mehring
+    translators:
+      - Jean Mortier
     year: 1983
     language: French
     pages: 600
@@ -40126,9 +41272,15 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA19852575
     verified: false
   - title: L'origine de la famille, de la propriété privée et de l'État
+    original_title: Der Ursprung der Familie, des Privateigentums und des Staats
     series: Essentiel; 13
     authors:
       - Friedrich Engels
+    editors:
+      - Pierre Bonte
+      - Claude Mainfroy
+    translators:
+      - Jeanne Stern
     year: 1983
     language: French
     sources:
@@ -40291,8 +41443,11 @@ titles:
     verified: true
   - title: Le Capital
     subtitle: Critique de l'économie politique
+    original_title: Das Kapital
     authors:
       - Karl Marx
+    translators:
+      - Jean-Pierre Lefebvre
     year: 1983
     language: French
     sources:
@@ -40329,8 +41484,11 @@ titles:
         url: https://www.sudoc.fr/000719471
     verified: true
   - title: Le procès de production du capital
+    original_title: Das Kapital
     authors:
       - Karl Marx
+    editors:
+      - Jean-Pierre Lefebvre
     year: 1983
     language: French
     sources:
@@ -40415,11 +41573,13 @@ titles:
         url: https://www.sudoc.fr/000679933
     verified: true
   - title: Manifeste du Parti communiste
+    original_title: Manifest der kommunistischen Partei
     series: Essentiel; 16
     authors:
       - Karl Marx
       - Friedrich Engels
       - Jean Bruhat
+    translators:
       - Michèle Kiintz-Tailleur
     year: 1983
     language: French
@@ -40432,6 +41592,11 @@ titles:
         url: https://archive.org/details/manifeste-du-parti-communiste_Karl-Marx
   - title: Manuel d'histoire littéraire de la France
     authors: []
+    editors:
+      - Pierre Abraham
+      - Roland Desné
+      - André Daspre
+      - Michel Décaudin
     year: 1983
     language: French
     sources:
@@ -40544,6 +41709,10 @@ titles:
   - title: Textes
     authors:
       - Joseph Stalin
+    editors:
+      - André Tosel
+    translators:
+      - Jean Bramont
     year: 1983
     language: French
     sources:
@@ -40604,6 +41773,8 @@ titles:
   - title: Chronique d'Hiroshima à Goldfinger, 1945-1965
     authors:
       - Roger Vailland
+    editors:
+      - René Ballet
     year: 1984
     language: French
     pages: 526
@@ -40623,6 +41794,8 @@ titles:
   - title: Chronique des années folles à la Libération, 1928-1945
     authors:
       - Roger Vailland
+    editors:
+      - René Ballet
     year: 1984
     language: French
     pages: 504
@@ -40693,11 +41866,12 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+      - Jean Mortier
+      - Gilbert Badia
+    translators:
       - Jean Wetzler
       - Marie-Lise Pierron
       - Claude Guy
-      - Jean Mortier
-      - Gilbert Badia
     year: 1984
     language: French
     sources:
@@ -40818,6 +41992,8 @@ titles:
     subtitle: Textes choisis
     authors:
       - Albert Soboul
+    editors:
+      - Philippe Goujard
     year: 1984
     edition: Nouvelle édition revue, augmentée et annotée / Nouvelle introduction et notes par Philippe Goujard
     language: French
@@ -40905,6 +42081,8 @@ titles:
   - title: La France sous le Directoire, 1795-1799
     authors:
       - Georges Lefebvre
+    editors:
+      - Jean-René Suratteau
     year: 1984
     edition: Nouv. éd. / avant-propos d'Albert Soboul ; présentation de Jean-René Suratteau
     series: 1789-1989
@@ -40935,7 +42113,12 @@ titles:
     subtitle: Rapports sur l'activité du PCF (décembre 1940-juin 1941)
     authors:
       - Roger Bourderon
+    editors:
+      - Germaine Willard
+    translators:
       - Gilbert Badia
+      - Jean-Marie Argelès
+      - Michel Fagard
     year: 1984
     series: Problèmes/Histoire
     language: French
@@ -41002,10 +42185,12 @@ titles:
         url: https://catalog.hathitrust.org/Record/102501297
     verified: true
   - title: Le dix-huit brumaire de Louis Bonaparte
+    original_title: Der Achtzehnte Brumaire des Louis Bonaparte
     series: Essentiel; 25
     authors:
       - Karl Marx
       - Raymond Huard
+    translators:
       - Gérard Cornillet
     year: 1984
     language: French
@@ -41046,6 +42231,9 @@ titles:
     series: Essentiel; 21
     authors:
       - Denis Diderot
+    editors:
+      - Roland Desné
+      - Jean Varloot
     year: 1984
     language: French
     sources:
@@ -41077,12 +42265,14 @@ titles:
     verified: false
   - title: Les luttes de classes en France
     subtitle: 1848-1850
+    original_title: Die Klassenkämpfe in Frankreich
     series: Essentiel; 27
     authors:
       - Karl Marx
-      - Gérard Cornillet
       - Raymond Huard
       - Friedrich Engels
+    translators:
+      - Gérard Cornillet
     year: 1984
     language: French
     sources:
@@ -41125,6 +42315,8 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    editors:
+      - Claude Mainfroy
     year: 1984
     language: French
     sources:
@@ -41184,6 +42376,8 @@ titles:
   - title: Politzer contre le nazisme
     authors:
       - Georges Politzer
+    editors:
+      - Roger Bourderon
     year: 1984
     language: French
     pages: 155
@@ -41286,6 +42480,8 @@ titles:
     series: Essentiel; 23
     authors:
       - Lev Davydovič Trockij
+    editors:
+      - Jean-Paul Scot
     year: 1984
     language: French
     sources:
@@ -41335,6 +42531,7 @@ titles:
       - Karl Marx
       - Friedrich Engels
       - Gilbert Badia
+    translators:
       - Claude Mainfroy
       - Jean Mortier
       - Jean Wetzler
@@ -41762,8 +42959,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb34773798s
     verified: true
   - title: Pensée et langage
+    original_title: My̆slenie i rec̆'
     authors:
       - L. S. Vygotskiĭ
+    translators:
+      - Françoise Sève
     year: 1985
     series: Terrains
     language: French
@@ -41848,6 +43048,8 @@ titles:
   - title: Textes
     authors:
       - Lukács György
+    editors:
+      - Claude Prévost
     year: 1985
     series: Essentiel -- 31
     language: French
@@ -41864,12 +43066,14 @@ titles:
     verified: true
     isbn: '2209056926'
   - title: Travail salarié et capital
+    original_title: Lohnarbeit und Kapital
     series: Essentiel; 29
     authors:
       - Karl Marx
-      - Michel Fagard
       - Friedrich Engels
       - Pierre Duharcourt
+    translators:
+      - Michel Fagard
     year: 1985
     language: French
     sources:
@@ -41964,6 +43168,8 @@ titles:
     subtitle: De 1939 à nos jours
     authors:
       - S. Wolikow
+    editors:
+      - Serge Wolikow
     year: 1986
     language: French
     pages: 287
@@ -42198,8 +43404,14 @@ titles:
         url: https://lccn.loc.gov/86161441
     verified: true
   - title: Manifeste du parti communiste
+    original_title: Grundsätze des Kommunismus
     authors:
       - Karl Marx
+    editors:
+      - Lucien Sève
+      - Raymond Huard
+    translators:
+      - Gérard Cornillet
     year: 1986
     edition: Entièrement revue par Gérard Cornillet
     language: French
@@ -42361,6 +43573,9 @@ titles:
   - title: 1944-1958, quatrième république
     authors:
       - Jean Gacon
+    editors:
+      - Germaine Willard
+      - Roger Martelli
     year: 1987
     series: Histoire
     language: French
@@ -42977,6 +44192,8 @@ titles:
   - title: Écrits
     authors:
       - Gracchus Babeuf
+    editors:
+      - Michel Vovelle
     year: 1988
     series: 1789-1989 -- no 19
     language: French
@@ -43084,6 +44301,7 @@ titles:
     verified: true
   - title: L'idéologie allemande
     subtitle: Précédé de
+    original_title: Die deutsche Ideologie
     series: Essentiel; 1
     authors:
       - Karl Marx
@@ -43993,6 +45211,8 @@ titles:
     subtitle: (Économie, politique & philosophie)
     authors:
       - Karl Marx
+    translators:
+      - Émile Bottigelli
     year: 1990
     language: French
     pages: 174
@@ -44517,6 +45737,8 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
+      - Henri Auger
     year: 1992
     language: French
     sources:
@@ -44592,6 +45814,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991041744809705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Pensée et langage
+    original_title: Myšlenie i reč'
     series: Terrains
     authors:
       - Lev Semenovitch Vygotski
@@ -44977,6 +46200,10 @@ titles:
     subtitle: Abécédaire d'Ernesto Che Guevara
     authors:
       - Roberto Mero
+    translators:
+      - Vanessa Vysosias
+      - Christelle Pouchoulin
+      - Marie José de Galzain
     year: 1998
     language: French
     sources:
@@ -45122,11 +46349,13 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991172053950305501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Critique du programme de Gotha
+    original_title: Kritik des Gothaer Programms
     series: Les Poches
     authors:
       - Karl Marx
-      - Sonia Dayan-Herzbrun
       - Jean-Numa Ducange
+    translators:
+      - Sonia Dayan-Herzbrun
     year: 2008
     language: French
     sources:
@@ -45233,9 +46462,11 @@ titles:
     verified: true
   - title: Le chapitre VI, "Le capital", Livre I
     subtitle: Manuscrits de 1863-1867
+    original_title: Das Kapital
     series: Les poches
     authors:
       - Karl Marx
+    translators:
       - Gérard Cornillet
       - Laurent Francatel-Prost
       - Lucien Sève
@@ -45283,15 +46514,17 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991172054498405501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: L'idéologie allemande
+    original_title: Die deutsche Ideologie
     series: Les essentielles
     authors:
       - Karl Marx
       - Friedrich Engels
+      - Isabelle Garo
+    translators:
       - Gilbert Badia
       - Henri Auger
       - Jean Baudrillard
       - Renée Cartelle
-      - Isabelle Garo
     year: 2012
     language: French
     sources:
@@ -45300,8 +46533,11 @@ titles:
     verified: true
   - title: Les intellectuels et la stratégie communiste
     subtitle: Une crise d'hégémonie, 1958- 1981
+    original_title: L'évolution du PCF à travers le débat interne et le rôle des intellectuels (1961-1973)
     authors:
       - Marco Di Maggio
+    translators:
+      - Elise Melot
     year: 2013
     series: Histoire
     language: French
@@ -45321,9 +46557,11 @@ titles:
     verified: true
   - title: Contribution à la critique de l'économie politique
     subtitle: Introduction aux Grundrisse, (dite de 1857)
+    original_title: Contribution à la critique de l'économie politique
     authors:
       - Karl Marx
       - Guillaume Fondu
+    translators:
       - Jean Quétier
     year: 2014
     series: Poches
@@ -45350,6 +46588,8 @@ titles:
     series: Les Essentielles
     authors:
       - Jean Jaurès
+    editors:
+      - Albert Soboul
     year: 2014
     language: French
     sources:
@@ -45366,12 +46606,14 @@ titles:
     verified: true
   - title: L'idéologie allemande
     subtitle: 'Premier et deuxième chapitres: édition bilingue'
+    original_title: Die deutsche Ideologie
     authors:
       - Karl Marx
       - Friedrich Engels
       - Joseph Weydemeyer
-      - Guillaume Fondu
       - Jean Quétier
+    translators:
+      - Guillaume Fondu
     year: 2014
     series: Les Poches
     language: French
@@ -45395,6 +46637,14 @@ titles:
     series: La Geme
     authors:
       - Friedrich Engels
+    translators:
+      - Jean-Christophe Angaut
+      - Jean-Michel Buée
+      - Pauline Clochec
+      - Michèle L'Homme
+      - Jean-Baptiste Morin
+      - Emmanuel Renault
+      - David Wittmann
     year: 2015
     language: French
     sources:
@@ -45411,6 +46661,8 @@ titles:
     series: Les Essentielles
     authors:
       - Jean Jaurès
+    editors:
+      - Albert Soboul
     year: 2015
     language: French
     sources:
@@ -45462,6 +46714,9 @@ titles:
       - Ivar Oddone
       - Alessandra Re
       - Gianni Briante
+    translators:
+      - Ivano Barsotti
+      - Marie Laure Barsotti
     year: 2015
     language: French
     sources:
@@ -45473,6 +46728,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991172629135105501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Précédé de De Mayo à Oddone, l'instruction au sosie
+    original_title: Esperienza operaia, coscienza di classe e psicologia del lavoro
   - title: Critique de l'économie politique
     series: Le capital / Karl Marx; traduction entièrement révisée par Jean-Pierre Lefebvre; livre 1
     authors:
@@ -45488,6 +46744,9 @@ titles:
     series: Les propédeutiques
     authors:
       - Karl Marx
+    editors:
+      - Florian Gulli
+      - Jean Quétier
     year: 2016
     language: French
     sources:
@@ -45502,6 +46761,8 @@ titles:
     series: Les parallèles; 3
     authors:
       - Norbert Elias
+    translators:
+      - Antony Burlaud
     year: 2016
     language: French
     sources:
@@ -45517,11 +46778,36 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991172605050805501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Propos autobiographiques
+    original_title: Respekt und Kritik
   - title: Le capital
     subtitle: Critique de l'économie politique
+    original_title: Das Kapital
     series: Les Essentielles
     authors:
       - Karl Marx
+    editors:
+      - Jean-Pierre Lefebvre
+    translators:
+      - Jean-Pierre Lefebvre
+      - Étienne Balibar
+      - Gérard Cornillet
+      - Geneviève Espagne
+      - Michel Espagne
+      - Luc Favre
+      - François-Marie Gathelier
+      - Vincent Jezewski
+      - Françoise Joly
+      - Jean-Baptiste Joly
+      - Elisabeth Kaufmann
+      - Marie-Odile Lauxerois
+      - Jean-Louis Lebrave
+      - François Mathieu
+      - Jean-Philippe Mathieu
+      - Jacques Poumet
+      - Philippe Préaux
+      - Régine Roques
+      - Michael Werner
+      - Françoise Willmann
     year: 2016
     language: French
     sources:
@@ -45544,8 +46830,15 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/ldpd_13051551_000
   - title: Le Capital, Livre 1
+    original_title: Das Kapital
     authors:
       - Karl Marx
+    translators:
+      - Jean-Pierre Lefebvre
+      - Étienne Balibar
+      - Gérard Cornillet
+      - Geneviève Espagne
+      - Michel Espagne
     year: 2016
     language: French
     pages: 880
@@ -45561,6 +46854,8 @@ titles:
     series: Les parallèles; 2
     authors:
       - Karl Marx
+    editors:
+      - Antoine Artous
     year: 2016
     language: French
     sources:
@@ -45577,6 +46872,9 @@ titles:
     series: Les parallèles; 1
     authors:
       - Bruno Trentin
+    translators:
+      - Livia Berta
+      - Georges Ferrandiz
     year: 2016
     language: French
     sources:
@@ -45590,6 +46888,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991098936949705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
     subtitle: Précédé de Au-delà de la gauche
+    original_title: La liberta viene prima
   - title: Les Parallèles
     authors: []
     year: 2016
@@ -45681,6 +46980,7 @@ titles:
       - Alix Bouffard
       - Alexandre Feron
       - Guillaume Fondu
+    translators:
       - Jean Quétier
     year: 2017
     language: French
@@ -45770,6 +47070,8 @@ titles:
     verified: true
   - title: Silomag
     authors: []
+    editors:
+      - Louise Gaxie
     year: 2017
     language: French
     sources:
@@ -45835,9 +47137,17 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991173075451905501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Contribution à la critique de la philosophie du droit de Hegel
+    original_title: Zur Kritik der hegelschen Rechtsphilosophie
     series: La Geme
     authors:
       - Karl Marx
+    editors:
+      - Victor Béguin
+    translators:
+      - Victor Béguin
+      - Alix Bouffard
+      - Paul Guerpillon
+      - Florian Nicodème
     year: 2018
     language: French
     sources:
@@ -45875,6 +47185,14 @@ titles:
     series: La Geme
     authors:
       - Friedrich Engels
+    editors:
+      - Fabrice Bensimon
+    translators:
+      - Michèle L'Homme
+      - Guillaume Fondu
+      - Jean-Baptiste Morin
+      - Thierry Labica
+      - Angèle David-Guillou
     year: 2018
     language: French
     sources:
@@ -45890,8 +47208,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991172054477605501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Le capital
+    original_title: Das Kapital
     authors:
       - Karl Marx
+    translators:
+      - Joseph Roy
     year: 2018
     language: French
     sources:
@@ -45982,6 +47303,9 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    editors:
+      - Gilbert Badia
+      - Jean Mortier
     year: 2019
     language: French
     sources:
@@ -45999,6 +47323,11 @@ titles:
     series: Les irrégulières
     authors:
       - Judith Butler
+    translators:
+      - Juan Sebastián Carbonell
+      - Francis Haselden
+      - Vincent Heimendinger
+      - Marion Leclair
     year: 2019
     language: French
     sources:
@@ -46011,6 +47340,7 @@ titles:
     verified: true
   - title: Du pain et des roses
     subtitle: Appartenance de genre et antagonisme de classe sous le capitalisme
+    original_title: Pan y rosas
     authors:
       - Andrea D'Atri
     year: 2019
@@ -46021,9 +47351,12 @@ titles:
     verified: true
   - title: Karl Marx et la naissance de la société moderne
     subtitle: Biographie intellectuelle
+    original_title: 'Karl Marx und die Geburt der modernen Gesellschaft : Biographie und Werkentwicklung'
     series: Les éclairées
     authors:
       - Michael Heinrich
+    translators:
+      - Jean Quétier
     year: 2019
     language: French
     sources:
@@ -46038,10 +47371,16 @@ titles:
     verified: true
   - title: La sainte famille ou Critique de la critique critique
     subtitle: Contre Bruno Bauer et consorts
+    original_title: 'Die heilige Familie oder Kritik der kritischen Kritik : gegen Bruno Bauer und Consorten'
     series: Les Essentielles
     authors:
       - Friedrich Engels
       - Karl Marx
+    editors:
+      - Nicole Meunier
+      - Gilbert Badia
+    translators:
+      - Erna Cogniot
     year: 2019
     language: French
     sources:
@@ -46053,9 +47392,14 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991173041253305501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: La vie d'un radical anglais au temps de Peterloo
+    original_title: Passages in the life of a radical
     series: Histoire
     authors:
       - Samuel Bamford
+    editors:
+      - Fabrice Bensimon
+    translators:
+      - Laurent Bury
     year: 2019
     language: French
     sources:
@@ -46093,6 +47437,7 @@ titles:
     series: Histoire
     authors:
       - Fernando Rosas
+    translators:
       - Clara Domingues
     year: 2020
     language: French
@@ -46102,6 +47447,7 @@ titles:
     verified: true
   - title: “L'”origine de la famille, de la propriété privée et de l'Etat
     subtitle: Sur l'histoire des anciens Germains; L'époque franque; La Marche
+    original_title: <<Der>> Ursprung der Familie, des Privateigentums und des Staats
     authors:
       - Friedrich Engels
     year: 2020
@@ -46114,6 +47460,7 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/loriginedelafami00enge
   - title: Annales franco-allemandes
+    original_title: Deutschfranzosischen Jahrbücher
     series: La Geme
     authors:
       - Friedrich Engels
@@ -46126,6 +47473,10 @@ titles:
       - Moses Hess
       - Johann Jacoby
       - Arnold Ruge
+    editors:
+      - Alix Bouffard
+      - Pauline Clochec
+    translators:
       - Alix Bouffard
       - Pauline Clochec
       - Jean-Christophe Angaut
@@ -46151,6 +47502,16 @@ titles:
     authors:
       - Friedrich Engels
       - Karl Marx
+    editors:
+      - Antony Burlaud
+      - Guillaume Fondu
+      - Clément Fradin
+      - Jean Quétier
+    translators:
+      - Antony Burlaud
+      - Guillaume Fondu
+      - Clément Fradin
+      - Jean Quétier
     year: 2020
     language: French
     sources:
@@ -46165,6 +47526,8 @@ titles:
     series: Les propédeutiques
     authors:
       - Pierre Bourdieu
+    editors:
+      - Simon Lemoine
     year: 2020
     language: French
     sources:
@@ -46190,6 +47553,9 @@ titles:
     series: Les propédeutiques
     authors:
       - Friedrich Engels
+    editors:
+      - Florian Gulli
+      - Jean Quétier
     year: 2020
     language: French
     sources:
@@ -46207,6 +47573,9 @@ titles:
     series: Propédeutiques
     authors:
       - Antonio Gramsci
+    editors:
+      - Florian Gulli
+      - Jean Quétier
     year: 2020
     language: French
     sources:
@@ -46224,6 +47593,9 @@ titles:
     series: Les propédeutiques
     authors:
       - Karl Marx
+    editors:
+      - Florian Gulli
+      - Jean Quétier
     year: 2020
     language: French
     sources:
@@ -46241,9 +47613,12 @@ titles:
     date_note: Oct 09, 2020
   - title: L'art de durer
     subtitle: Le fascime au Portugal
+    original_title: 'Salazar e o poder : a arte de saber durar'
     series: Histoire
     authors:
       - Fernando Rosas
+    translators:
+      - Clara Domingues
     year: 2020
     language: French
     sources:
@@ -46257,6 +47632,8 @@ titles:
   - title: Les principes du communisme
     authors:
       - Friedrich Engels
+    translators:
+      - Chantal Simonin
     year: 2020
     language: French
     sources:
@@ -46264,9 +47641,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb46602624g
     verified: true
   - title: Principes du communisme
+    original_title: Die Grundsätze des Kommunismus
     series: Poche
     authors:
       - Friedrich Engels
+    translators:
       - Jacques Grandjonc
       - Michèle Kiintz-Tailleur
       - Chantal Simonin
@@ -46364,6 +47743,12 @@ titles:
     series: Propédeutiques
     authors:
       - Rosa Luxemburg
+    editors:
+      - Ulysse Lojkine
+      - Alice Vincent
+    translators:
+      - Ulysse Lojkine
+      - Alice Vincent
     year: 2021
     language: French
     sources:
@@ -46377,9 +47762,12 @@ titles:
     pages: 167
     isbn: '9782353670796'
   - title: La guerre des paysans en Allemagne
+    original_title: Der deutsche Bauernkrieg
     series: Poche
     authors:
       - Friedrich Engels
+    translators:
+      - Émile Bottigelli
     year: 2021
     language: French
     sources:
@@ -46395,9 +47783,13 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991173041245905501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: La situation de la classe laborieuse en Angleterre
+    original_title: Die Lage der arbeitenden Klasse in England
     series: Les essentielles
     authors:
       - Friedrich Engels
+    translators:
+      - Gilbert Badia
+      - Jean Frédéric
     year: 2021
     language: French
     sources:
@@ -46411,6 +47803,10 @@ titles:
     authors:
       - Michael Burawoy
       - Erik Olin Wright
+    translators:
+      - Juan Sebastián Carbonell
+      - Vincent Heimendinger
+      - Ulysse Lojkine
     year: 2021
     language: French
     sources:
@@ -46433,6 +47829,12 @@ titles:
     series: La Geme
     authors:
       - Friedrich Engels
+    editors:
+      - Jean-Numa Ducange
+      - Pierre Henri Lagedamon
+    translators:
+      - Laura Lafargue
+      - Paul Lafargue
     year: 2021
     language: French
     sources:
@@ -46449,6 +47851,10 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    editors:
+      - Efstathios Kouvélakis
+    translators:
+      - Efstathios Kouvélakis
     year: 2021
     language: French
     sources:
@@ -46465,6 +47871,8 @@ titles:
     series: Les propédeutiques
     authors:
       - Émile Durkheim
+    editors:
+      - Claude Didry
     year: 2022
     language: French
     sources:
@@ -46477,6 +47885,8 @@ titles:
     series: Les propédeutiques
     authors:
       - Frantz Fanon
+    editors:
+      - Marouane Essadek
     year: 2022
     language: French
     sources:
@@ -46520,9 +47930,12 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991171058515305501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Essai sur l'économie de Marx
+    original_title: An essay on Marxian economics
     series: Poche
     authors:
       - Joan Robinson
+    translators:
+      - Ulysse Lojkine
     year: 2022
     language: French
     sources:
@@ -46575,9 +47988,15 @@ titles:
     verified: true
   - title: Le marxisme et l'oppression des femmes
     subtitle: Vers une théorie unitaire
+    original_title: 'Marxism and the oppression of women : toward a unitary theory'
     series: Les éclairées
     authors:
       - Lise Vogel
+    translators:
+      - Yohann Douet
+      - Paul Guerpillon
+      - Vincent Heimendinger
+      - Aurore Koechlin
     year: 2022
     language: French
     sources:
@@ -46606,6 +48025,12 @@ titles:
     authors:
       - Friedrich Engels
       - Karl Marx
+    translators:
+      - Alexia Blin
+      - Yohann Douet
+      - Juliette Farjat
+      - Alexandre Feron
+      - Marion Leclair
     year: 2022
     language: French
     sources:
@@ -46617,9 +48042,11 @@ titles:
         url: https://www.sudoc.fr/266675263
     verified: true
   - title: Pour lire la Première Internationale
+    original_title: 'Workers unite ! : the International 150 years later'
     series: Les propédeutiques
     authors:
       - Marcello Musto
+    translators:
       - Alexia Blin
       - Antony Burlaud
     year: 2022
@@ -46637,6 +48064,8 @@ titles:
     authors:
       - Friedrich Engels
       - Karl Marx
+    editors:
+      - Maurice Godelier
     year: 2022
     language: French
     sources:
@@ -46653,6 +48082,7 @@ titles:
     series: Les propédeutiques
     authors:
       - Franck Gaudichaud
+    translators:
       - Mila Ivanovic
     year: 2023
     language: French
@@ -46665,6 +48095,8 @@ titles:
   - title: Découvrir Lénine
     authors:
       - Vladimir Ilʹič Lenin
+    editors:
+      - Marina Garrisi
     year: 2023
     language: French
     sources:
@@ -46675,6 +48107,8 @@ titles:
     series: Les propédeutiques
     authors:
       - Machiavel
+    editors:
+      - Yohann Douet
     year: 2023
     language: French
     sources:
@@ -46687,6 +48121,8 @@ titles:
     series: Les propédeutiques
     authors:
       - Lev Davydovič Trockij
+    editors:
+      - Jean Batou
     year: 2023
     language: French
     sources:
@@ -46726,6 +48162,10 @@ titles:
       - Jenny Marx
       - Laura Lafargue
       - Eleanor Marx Aveling
+    editors:
+      - Michel Trebitsch
+    translators:
+      - Olga Meier
     year: 2023
     language: French
     sources:
@@ -46736,9 +48176,15 @@ titles:
     verified: true
   - title: Les romantiques
     subtitle: L'Angleterre à l'âge des révolutions
+    original_title: 'The romantics : England in a revolutionary age'
     series: Histoire
     authors:
       - E. P. Thompson
+    editors:
+      - Dorothy Thompson
+    translators:
+      - Marion Leclair
+      - Edward Lee-Six
     year: 2023
     language: French
     sources:
@@ -46750,12 +48196,14 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991171145236505501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Manifeste du parti communiste
+    original_title: Manifest der Kommunistischen Partei
     authors:
       - Friedrich Engels
       - Karl Marx
-      - Gérard Cornillet
       - Éric Vuillard
       - Isabelle Garo
+    translators:
+      - Gérard Cornillet
     year: 2023
     language: French
     sources:
@@ -46805,6 +48253,7 @@ titles:
     series: Les essentielles
     authors:
       - Karl Marx
+    translators:
       - Jean Quétier
     year: 2023
     language: French
@@ -46816,14 +48265,16 @@ titles:
     verified: true
   - title: Travail et capitalisme monopoliste
     subtitle: La dégradation du travail au XXe siècle
+    original_title: Labor and monopoly capital
     series: Les essentielles
     authors:
       - Harry Braverman
+      - Paul M. Sweezy
+      - Juan Sebastián Carbonell
+    translators:
       - Dominique Letellier
       - Serge Niémetz
       - Lucie Rondeau du Noyer
-      - Paul M. Sweezy
-      - Juan Sebastián Carbonell
     year: 2023
     language: French
     sources:
@@ -46841,8 +48292,10 @@ titles:
         url: https://www.sudoc.fr/284591572
     verified: true
   - title: Critique du programme de Gotha
+    original_title: Kritik des Gothaer Programms
     authors:
       - Karl Marx
+    translators:
       - Sonia Dayan-Herzbrun
       - Jean-Numa Ducange
     year: 2024
@@ -46855,6 +48308,8 @@ titles:
     series: Les propédeutiques
     authors:
       - René Descartes
+    editors:
+      - Louis Rouquayrol
     year: 2024
     language: French
     sources:
@@ -46915,6 +48370,8 @@ titles:
     series: Les propédeutiques
     authors:
       - Lev Semenovič Vygotskij
+    editors:
+      - Yves Clot
     year: 2024
     language: French
     sources:
@@ -46949,10 +48406,11 @@ titles:
     subtitle: Théories sur la plus-value
     series: Les essentielles
     authors:
+      - Riccardo Bellofiore
+    translators:
       - Gilbert Badia
       - Jean-Pierre Briand
       - Georges Hajdu-Villa
-      - Riccardo Bellofiore
     year: 2024
     language: French
     sources:
@@ -47026,12 +48484,14 @@ titles:
         url: https://www.sudoc.fr/284591904
     verified: true
   - title: La théorie des besoins chez Marx
+    original_title: Bedeutung und Funktion des Begriffs Bedürfnis im Denken von Karl Marx
     series: Poche
     authors:
       - Ágnes Heller
-      - Martine Morales
       - Jean-Michel Palmier
       - Razmig Keucheyan
+    translators:
+      - Martine Morales
     year: 2024
     language: French
     sources:
@@ -47043,13 +48503,15 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991171908022905501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Le Capital
+    original_title: Das Kapital
     series: La Geme
     authors:
       - Karl Marx
+      - Friedrich Engels
+    translators:
       - Alix Bouffard
       - Alexandre Feron
       - Guillaume Fondu
-      - Friedrich Engels
     year: 2024
     language: French
     sources:
@@ -47062,9 +48524,11 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/ldpd_13051551_000
   - title: Le capital, livre 2
+    original_title: <<Das>> Kapital
     series: Geme
     authors:
       - Karl Marx
+    translators:
       - Alix Bouffard
       - Alexandre Feron
       - Guillaume Fondu
@@ -47081,6 +48545,7 @@ titles:
     series: Le pain, la paix, la liberté
     authors:
       - Karl Marx
+    translators:
       - Gérard Cornillet
       - Laurent Francatel-Prost
       - Lucien Sève
@@ -47123,9 +48588,10 @@ titles:
     series: Les Eclairées
     authors:
       - Lars T. Lih
+      - Sebastian Budgen
+    translators:
       - Yohann Douet
       - Guillaume Fondu
-      - Sebastian Budgen
     year: 2024
     language: French
     sources:
@@ -47149,9 +48615,12 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991172294295005501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Théories sur la plus-value
+    original_title: Das Kapital
     series: Les essentielles
     authors:
       - Karl Marx
+      - Riccardo Bellofiore
+    translators:
       - Gilbert Badia
       - Jean-Pierre Briand
       - Georges Hajdu-Villa
@@ -47162,7 +48631,6 @@ titles:
       - Jean Tailleur
       - Brigitte Pätzold
       - Claude Ravel
-      - Riccardo Bellofiore
     year: 2024
     language: French
     sources:
@@ -47178,11 +48646,12 @@ titles:
       - Karl Marx
       - Alix Bouffard
       - Pauline Clochec
-      - Jean-Christophe Angaut
-      - Victor Béguin
       - Jean-Michel Buée
       - Michèle L'Homme
       - Jean Quétier
+    translators:
+      - Jean-Christophe Angaut
+      - Victor Béguin
     year: 2025
     language: French
     sources:
@@ -47193,9 +48662,11 @@ titles:
     verified: true
   - title: Contribution à la critique de l'économie politique
     subtitle: Introduction aux « Grundrisse » de 1857
+    original_title: Grundrisse der Kritik der politischen Ökonomie
     series: Geme
     authors:
       - Karl Marx
+    translators:
       - Guillaume Fondu
       - Jean Quétier
     year: 2025
@@ -47233,7 +48704,8 @@ titles:
     verified: true
   - title: Découvrir l'antifascisme
     series: Les propédeutiques
-    authors:
+    authors: []
+    translators:
       - Stéfanie Prezioso
     year: 2025
     language: French
@@ -47297,6 +48769,7 @@ titles:
     verified: true
   - title: J'ai suivi mon propre chemin
     subtitle: Un parcours dans le siècle
+    original_title: Respekt und Kritik
     series: Les parallèles
     authors:
       - Norbert Elias
@@ -47311,9 +48784,11 @@ titles:
     verified: true
   - title: L'Art de durer
     subtitle: Le Fascisme au Portugal
+    original_title: Salazar e o poder. A arte de saber durar
     series: Histoire
     authors:
       - Fernando Rosas
+    translators:
       - Clara Domingues
     year: 2025
     language: French
@@ -47334,12 +48809,14 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991173041373605501&vid=41SLSP_NETWORK:VU1_UNION
     verified: false
   - title: La vie d'un radical anglais au temps de Peterloo
+    original_title: Passages in the life of a Radical
     series: Histoire
     authors:
       - Samuel Bamford
-      - Laurent Bury
       - Fabrice Bensimon
       - Robert Poole
+    translators:
+      - Laurent Bury
     year: 2025
     language: French
     sources:
@@ -47350,9 +48827,15 @@ titles:
     verified: true
   - title: Le monde à l'envers
     subtitle: Histoire des idées radicales dans la Révolution anglaise
+    original_title: 'The world turned upside down : radical ideas during the English Revolution'
     series: Critique de la politique; 40
     authors:
       - Christopher Hill
+    editors:
+      - Laurent Curelly
+    translators:
+      - Simone Chambon
+      - Rachel Ertel
     year: 2025
     language: French
     sources:
@@ -47390,6 +48873,7 @@ titles:
     verified: true
   - title: Le travail et la liberté
     subtitle: Précédé de Au-delà de la gauche
+    original_title: La liberta viene prima
     series: Les parallèles
     authors:
       - Bruno Trentin
@@ -47510,9 +48994,12 @@ titles:
         url: https://www.sudoc.fr/293909164
     verified: true
     subtitle: Précédé de De Mayo à Oddone, l'instruction au sosie
+    original_title: 'Esperienza operaia : coscienza di classe e psicologia del lavoro'
   - title: Sur le marxisme occidental
+    original_title: Considerations on Western marxism
     authors:
       - Perry Anderson
+    translators:
       - Dominique Letellier
       - Serge Niémetz
       - Vincent Heimendinger
@@ -47553,6 +49040,7 @@ titles:
       - Alix Bouffard
       - Alexandre Feron
       - Guillaume Fondu
+    translators:
       - Jean Quétier
     year: 2026
     language: French
@@ -47584,6 +49072,7 @@ titles:
         url: https://www.sudoc.fr/298228807
     verified: true
   - title: Contribution à la critique de la philosophie du droit de Hegel
+    original_title: Zur Kritik der Hegelschen Rechtsphilosophie
     series: Geme
     authors:
       - Karl Marx
@@ -47722,9 +49211,11 @@ titles:
         url: https://www.sudoc.fr/296947512
     verified: true
   - title: Essai sur l'économie de Marx
+    original_title: An essay on Marxian economics
     series: Poche
     authors:
       - Joan Robinson
+    translators:
       - Ulysse Lojkine
     year: 2026
     language: French
@@ -47746,12 +49237,14 @@ titles:
         url: https://www.sudoc.fr/298117894
     verified: true
   - title: La guerre des paysans en Allemagne
+    original_title: Der deutsche Bauernkrieg
     series: Poche
     authors:
       - Friedrich Engels
-      - Émile Bottigelli
       - Éric Vuillard
       - Rachel Renault
+    translators:
+      - Émile Bottigelli
     year: 2026
     language: French
     sources:
@@ -47770,13 +49263,15 @@ titles:
     verified: true
   - title: La Sainte Famille ou Critique de la critique critique
     subtitle: Contre Bruno Bauer et consorts
+    original_title: Die heilige Familie, oder Kritik der kritischen Kritik
     series: Les Essentiels
     authors:
       - Friedrich Engels
       - Karl Marx
-      - Erna Cogniot
       - Nicole Meunier
       - Gilbert Badia
+    translators:
+      - Erna Cogniot
     year: 2026
     language: French
     sources:
@@ -47796,9 +49291,11 @@ titles:
         url: https://www.sudoc.fr/294208739
     verified: true
   - title: La théorie des besoins chez Marx
+    original_title: Bedeutung und Funktion des Begriffs Bedürfnis im Denken von Karl Marx
     series: Poche
     authors:
       - Ágnes Heller
+    translators:
       - Martine Morales
     year: 2026
     language: French
@@ -47832,9 +49329,15 @@ titles:
     verified: true
   - title: Le marxisme et l'oppression des femmes
     subtitle: Vers une théorie unitaire
+    original_title: Marxism and the oppression of women
     series: Les éclairés
     authors:
       - Lise Vogel
+    translators:
+      - Yohann Douet
+      - Paul Guerpillon
+      - Vincent Heimendinger
+      - Aurore Koechlin
     year: 2026
     language: French
     sources:
@@ -47857,6 +49360,7 @@ titles:
     series: Les éclairés
     authors:
       - Lars T. Lih
+    translators:
       - Yohann Douet
       - Guillaume Fondu
     year: 2026
@@ -47881,6 +49385,7 @@ titles:
     authors:
       - Karl Marx
       - Friedrich Engels
+    translators:
       - Alexia Blin
       - Yohann Douet
       - Juliette Farjat
@@ -47912,8 +49417,9 @@ titles:
       - Laura Lafargue
       - Eleanor Marx Aveling
       - Jenny Marx
-      - Olga Meier
       - Michel Trebitsch
+    translators:
+      - Olga Meier
     year: 2026
     language: French
     sources:
@@ -47934,11 +49440,13 @@ titles:
     verified: true
   - title: Les luttes de classes en France
     subtitle: 1848-1850
+    original_title: Die Klassenkämpfe in Frankreich, 1848 bis 1850
     authors:
       - Karl Marx
-      - Gérard Cornillet
       - Romaric Godin
       - Raymond Huard
+    translators:
+      - Gérard Cornillet
     year: 2026
     language: French
     sources:
@@ -47957,9 +49465,13 @@ titles:
     verified: true
   - title: Les Romantiques
     subtitle: L'Angleterre à l'âge des révolutions
+    original_title: The Romantics
     series: Histoire
     authors:
       - E. P. Thompson
+    translators:
+      - Marion Leclair
+      - Edward Lee-Six
     year: 2026
     language: French
     sources:
@@ -47972,6 +49484,7 @@ titles:
     series: LaGEME
     authors:
       - Friedrich Engels
+    translators:
       - Victor Béguin
       - Alexandre Feron
       - Léna Ganz
@@ -48017,8 +49530,10 @@ titles:
         url: https://www.sudoc.fr/294346929
     verified: true
   - title: Principes du communisme
+    original_title: Die Grundsätze des Kommunismus
     authors:
       - Friedrich Engels
+    translators:
       - Jacques Grandjonc
       - Michèle Kiintz-Tailleur
       - Chantal Simonin
@@ -48043,6 +49558,7 @@ titles:
     series: Geme
     authors:
       - Friedrich Engels
+    translators:
       - Laura Lafargue
       - Paul Lafargue
     year: 2026
@@ -48090,7 +49606,8 @@ titles:
   - title: Textes politiques
     subtitle: 1883-1895
     series: Geme
-    authors:
+    authors: []
+    translators:
       - Friedrich Engels
       - Jean Quétier
       - Alexia Blin

@@ -92,6 +92,7 @@ titles:
     subtitle: Romans par Ludviga van Bethovena dzivi
     authors:
       - Alfred Amenda
+    translators:
       - Lūcija Rambeka
     year: 1965
     language: Russian
@@ -422,6 +423,8 @@ titles:
   - title: Padomju Latvija. Sovetskaja Latvija
     authors:
       - Z. Vanadziņš
+    editors:
+      - I. Zvagū̄zis
     year: 1965
     language: Latvian
     sources:
@@ -485,6 +488,9 @@ titles:
   - title: Rainis
     authors:
       - A. Brivere
+    editors:
+      - Pēteris Baug̓is
+      - Aivars Jansons-Saiva
     year: 1965
     language: English, German, Latvian
     sources:
@@ -591,6 +597,7 @@ titles:
     authors:
       - Éjžen Veveris
       - Eizhen Veveris (Эйжен Веверис)
+    translators:
       - Grigorij Gorskij
       - Grigorii Gorskii (Григорий Горский)
     year: 1965
@@ -895,8 +902,9 @@ titles:
   - title: Ân Rozental'
     authors:
       - Janis Rozentāls
-      - Lazar Kahan
       - Kārlis Sūniņš
+    translators:
+      - Lazar Kahan
     year: 1966
     language: Russian
     sources:
@@ -1089,6 +1097,7 @@ titles:
     subtitle: 'Latviešu, tautas dziesmas = Vej, veterok: latyšskie narodnye pesni'
     authors:
       - G. Dovgjallo
+    translators:
       - G. Gorskij
     year: 1966
     language: Latvian, Russian
@@ -1508,6 +1517,8 @@ titles:
   - title: Pervye gody
     authors:
       - Rīga (Latvia). Okruzhnoi dom ofitserov Sovetskoi Armii. Voennonauchnoe obshchestvo
+    editors:
+      - G. A. Gurin
     year: 1966
     series: Its Borʹba za Sovetskuiu Pribaltiku v Velikoi Otechestvennoi voine -- 1941-45, 1
     language: Russian
@@ -1552,6 +1563,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1400907217
     verified: true
   - title: Povest' o nepodkupnom soldate
+    original_title: Neuzpērkamais kareivis
     authors:
       - Gunārs Kurpnieks
     year: 1966
@@ -1750,6 +1762,7 @@ titles:
         url: https://search.worldcat.org/title/28230237
     verified: true
   - title: Tomass Mannss Doktors Fausts
+    original_title: Doktor Faustus
     authors:
       - Thomas Mann
       - Girts Blodniek
@@ -2282,6 +2295,8 @@ titles:
   - title: Kā gulbji balti padebeši... Origināldzejoli, Atdzejojumi Sakārtojis Alfons Vilsons. Makslinieks G̡irts Vilks
     authors:
       - Eduards Veidenbaums
+    editors:
+      - Alfons Vilsons
     year: 1967
     language: Latvian
     sources:
@@ -2355,6 +2370,8 @@ titles:
   - title: Kommentariĭ Ugolovnogo kodeksa Latviĭskoĭ SSR
     authors:
       - Latvia
+    editors:
+      - Marija Blūma
     year: 1967
     language: Russian
     pages: 547
@@ -2508,6 +2525,7 @@ titles:
         url: https://search.worldcat.org/title/33946814
     verified: true
   - title: Ljubovʹ i nenavistʹ
+    original_title: Mīlestība un naids (1963)
     authors:
       - Žanis Grīva
       - Sergej Jakovlevič Cebakovskij
@@ -2745,6 +2763,9 @@ titles:
   - title: Riga
     authors:
       - J. Skolis
+    editors:
+      - Â. Skolis
+      - I. Skolis (Я. Сколис)
     year: 1967
     language: Russian
     pages: 315
@@ -3751,8 +3772,9 @@ titles:
     subtitle: Priključenija Ugisa Kruminja, malyša iz Sarkandaugavy
     authors:
       - Zigmunds Skujiņš
-      - Rita Kalnberzinja
       - Janis Rejberg
+    translators:
+      - Rita Kalnberzinja
     year: 1968
     language: Russian
     sources:
@@ -3996,6 +4018,7 @@ titles:
   - title: Besedy naedine
     authors:
       - Mirdza Bendrupe
+    translators:
       - Irina Čerevičnik
     year: 1969
     language: Russian
@@ -4146,6 +4169,7 @@ titles:
   - title: Eichelmännchen
     authors:
       - Margarita Stāraste
+    translators:
       - Sigrid Plaks
     year: 1969
     language: German
@@ -4358,6 +4382,9 @@ titles:
     authors:
       - Institut istorii partii pri CK KP Latvii
       - Institut Istorii Partii Pri Tsk Kp Latvii (Институт истории партии при ЦК КП Латвии)
+    editors:
+      - Vladimir Karlovič Miške
+      - Margarita Birons
     year: 1969
     language: Russian
     sources:
@@ -4552,6 +4579,7 @@ titles:
   - title: Nestunda
     authors:
       - Jerzy Stefan Stawiński
+    translators:
       - Irēna Birzvalka
     year: 1969
     language: Latvian
@@ -5254,6 +5282,8 @@ titles:
     subtitle: 1936-1939. Vospominaniia i dokumenty
     authors:
       - S. Ziemelis
+    editors:
+      - Ziemelis, S. 1927-1981
     year: 1970
     language: Russian
     pages: 560
@@ -5448,6 +5478,7 @@ titles:
     subtitle: Romans
     authors:
       - Theodor Fontane
+    translators:
       - Velta Balode
     year: 1970
     language: Russian
@@ -5508,6 +5539,8 @@ titles:
     subtitle: Stikhi, ballady, poėmy
     authors:
       - Vilis Plūdonis
+    translators:
+      - Liudmila Kopylova
     year: 1970
     language: Russian
     pages: 239
@@ -5883,6 +5916,8 @@ titles:
     verified: true
   - title: 'Padomju Latvija. Atkārtots un papildināts izdevums. Sastādījis Z. Vanadzin̡š. Redakcijas kolēǵija: K. Skruzis, M. Kince, V. Koval̡ovs, N. Mihailovs, N. Ērens̀teine'
     authors: []
+    editors:
+      - Zigfrīds Vanadzinš
     year: 1970
     language: Latvian
     sources:
@@ -6670,9 +6705,10 @@ titles:
     subtitle: Lettische Kinderreime und Märchen
     authors:
       - Anna Kauce
-      - Jakob Bernstein
       - Ilona Ceipe
       - Barbara Schweizer
+    translators:
+      - Jakob Bernstein
     year: 1971
     language: German
     sources:
@@ -6746,6 +6782,8 @@ titles:
   - title: Es iegāju pulka. Sastādījis J. Kipers. Mākslinieks A. Lielais. Dzeja. Stāsti un telojumi. Atmin̡as. Publicist́ika un apraksti. Runas
     authors:
       - Emīls Sudmalis
+    editors:
+      - Jūlijs Ḳipers
     year: 1971
     language: Latvian
     sources:
@@ -6913,6 +6951,7 @@ titles:
     subtitle: Polu dzejas izlase
     authors:
       - Jezups Laganovskis
+    translators:
       - Jāzeps Osmanis
     year: 1971
     language: Latvian
@@ -7053,6 +7092,8 @@ titles:
       - E. M. Mikheev (И. М. Михеев)
       - M. Biron
       - M. Biron (М. Бирон)
+    editors:
+      - I. M. Micheev
     year: 1971
     language: Russian
     sources:
@@ -7139,6 +7180,8 @@ titles:
     subtitle: Ciemats pie ezera
     authors:
       - Sergejs Pokrovskis
+    translators:
+      - A. Lielais
     year: 1971
     language: Latvian
     sources:
@@ -7536,6 +7579,8 @@ titles:
     verified: true
   - title: 'Tautas rakstnieks Ernests Birznieks-Upītis, dzīve un darbs attēlos. Edgars Damburs: Jevds. Sastādījusi A. Al̡k̡e. Mākslinieks A. Krēslin̡š'
     authors: []
+    editors:
+      - A. Alke
     year: 1971
     language: Not recorded
     sources:
@@ -7907,6 +7952,7 @@ titles:
   - title: Četri tankisti un suns
     authors:
       - Janusz Przymanowski
+    translators:
       - Rita Luginska
     year: 1972
     language: Latvian
@@ -8006,8 +8052,9 @@ titles:
     subtitle: Tragëdija
     authors:
       - Johann Wolfgang von Goethe
-      - Jana Raina
       - F. Stasena
+    translators:
+      - Jana Raina
     year: 1972
     language: Latvian
     sources:
@@ -8194,6 +8241,9 @@ titles:
     subtitle: (1904-1971 gg.)
     authors:
       - L. L. Bartkevich
+    editors:
+      - L̦ Zīle
+      - I. M. Muzykantik
     year: 1972
     language: Russian
     pages: 190
@@ -8412,6 +8462,7 @@ titles:
     verified: true
   - title: Markize fon O
     subtitle: Noveles un stasti
+    original_title: Die Marquise von 0
     authors:
       - Heinrich von Kleist
     year: 1972
@@ -9178,9 +9229,10 @@ titles:
     subtitle: Lettische Kinderreime und Märchen
     authors:
       - Anna Kauce
-      - Jakob Bernstein
       - Ilona Ceipe
       - Barbara Schweizer
+    translators:
+      - Jakob Bernstein
     year: 1973
     language: German
     sources:
@@ -9480,6 +9532,7 @@ titles:
     verified: true
   - title: Fünfzig Begegnungen
     subtitle: Kurze Auskünfte über fünfzig sowjetlettische Literaturschaffende
+    original_title: Piecdesmit tikšanās
     authors:
       - Jānis Anerauds
     year: 1973
@@ -10344,6 +10397,7 @@ titles:
     subtitle: Stāsts
     authors:
       - Irena Jurgielewiczowa
+    translators:
       - Jāzeps Osmanis
     year: 1973
     language: Latvian
@@ -10377,6 +10431,8 @@ titles:
   - title: The Year of Change
     authors:
       - Ilga Kapeniece
+    translators:
+      - J. Vejs
     year: 1973
     language: English, Latvian
     pages: 77
@@ -10484,6 +10540,7 @@ titles:
   - title: Vanega deja
     authors:
       - Julian Kawalec
+    translators:
       - Irēna Birzvalka
     year: 1973
     language: Latvian
@@ -11129,6 +11186,7 @@ titles:
   - title: Kakadu
     authors:
       - Ryszard Kłyś
+    translators:
       - Jezups Laganovskis
     year: 1974
     language: Latvian
@@ -11141,6 +11199,7 @@ titles:
   - title: Kapteinis Čehovičs uzdevumu izpildijis!
     authors:
       - Andrzej Czechowicz
+    translators:
       - V. Silina
     year: 1974
     language: Latvian
@@ -11195,6 +11254,8 @@ titles:
   - title: Kompozitory i muzykovedy sovetskoj Latvii
     authors:
       - Ludvig Andreevič Karklinʹ
+    editors:
+      - Pauls Dambis
     year: 1974
     language: Russian
     sources:
@@ -11688,8 +11749,9 @@ titles:
   - title: Mikroromāni
     authors:
       - Kornel Filipowicz
-      - Irēna Birzvalka
       - Andris Savickis
+    translators:
+      - Irēna Birzvalka
     year: 1974
     language: Latvian
     sources:
@@ -11702,6 +11764,7 @@ titles:
     subtitle: Romāns
     authors:
       - Tadeusz Konwicki
+    translators:
       - Irēna Birzvalka
     year: 1974
     language: Latvian
@@ -12611,6 +12674,7 @@ titles:
         url: https://search.worldcat.org/title/8166662
     verified: true
   - title: Alises piedzīojumi brīnumzemē
+    original_title: Alice's adventures in wonderland
     authors:
       - Lewis Carroll
       - V. Vokers
@@ -12678,6 +12742,7 @@ titles:
   - title: Atvērtais logs
     authors:
       - Andrzej Piwowarczyk
+    translators:
       - Jezups Laganovskis
     year: 1975
     language: Latvian
@@ -12881,6 +12946,7 @@ titles:
     subtitle: Dzejas izlase
     authors:
       - Tadeusz Różewicz
+    translators:
       - Jezups Laganovskis
     year: 1975
     language: Latvian
@@ -12918,6 +12984,7 @@ titles:
   - title: Ferdinandas Lieliskais
     authors:
       - Ludwik Jerzy Kern
+    translators:
       - Rita Luginska
     year: 1975
     language: Latvian
@@ -13020,6 +13087,7 @@ titles:
     verified: true
   - title: Grāfiene fon Rudolštate
     subtitle: La comtesse de Rudolstadt
+    original_title: La comtesse de Rudolstadt
     authors:
       - George Sand
     year: 1975
@@ -13327,6 +13395,7 @@ titles:
     verified: true
   - title: Laupitaju
     subtitle: Luga piecos Celienos
+    original_title: DieRäuber
     authors:
       - Friedrich Schiller
     year: 1975
@@ -13363,6 +13432,7 @@ titles:
     verified: true
   - title: Lsdsp
     subtitle: E. Partei d. Sozialist. Internationale?
+    original_title: LSDSP
     authors:
       - Roberts Ievkalns
     year: 1975
@@ -13382,6 +13452,7 @@ titles:
         url: https://d-nb.info/790247518
     verified: true
   - title: LSDSP, eine Partei der sozialistischen Internationale?
+    original_title: LSDSP, partija vai burto kopa?
     authors:
       - Roberts Ievkalns
     year: 1975
@@ -13398,6 +13469,7 @@ titles:
   - title: Mazais Bizons
     authors:
       - Arkady Fiedler
+    translators:
       - Jāzeps Osmanis
     year: 1975
     language: Latvian
@@ -13463,6 +13535,7 @@ titles:
         url: https://www.sudoc.fr/130579858
     verified: true
   - title: Mīlā, garā nedēla
+    original_title: Die liebe lange Woche
     authors:
       - Uwe Kant
       - Beatrise Arnicāne
@@ -13803,6 +13876,7 @@ titles:
   - title: Rozālite vējāslota
     authors:
       - Anna Kamieńska
+    translators:
       - Jāzeps Osmanis
     year: 1975
     language: Latvian
@@ -14365,6 +14439,7 @@ titles:
     authors:
       - Mark Razumnyj
       - Mark Razumnyi (Марк Разумный)
+    translators:
       - I. Šulʹkina
       - E. Shulkina (И. Шулькина)
     year: 1975
@@ -14449,6 +14524,8 @@ titles:
     subtitle: Dzīve un darbs laikabiedru atcerēs
     authors:
       - Jūlijs K̦ipers
+    editors:
+      - Jūlijs Kipers
     year: 1976
     language: Latvian
     pages: 183
@@ -14482,6 +14559,8 @@ titles:
     subtitle: Romāns
     authors:
       - Aivars Kalve
+    translators:
+      - Jezups Laganovskis
     year: 1976
     language: Latvian
     sources:
@@ -14568,6 +14647,7 @@ titles:
         url: https://openlibrary.org/books/OL24669143M
     verified: true
   - title: Cepnaja reakcija
+    original_title: Ķēdes loks
     authors:
       - Viktors Lagzdiņš
       - Zigurd Kampar
@@ -14660,6 +14740,7 @@ titles:
     subtitle: Romāns
     authors:
       - Stanisław Dygat
+    translators:
       - Irēna Birzvalka
     year: 1976
     language: Latvian
@@ -14968,6 +15049,7 @@ titles:
         url: https://lccn.loc.gov/99513659
     verified: true
   - title: Kurzemite
+    original_title: Kurzemite
     authors:
       - Imants Ziedonis
     year: 1976
@@ -15170,6 +15252,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991050370529705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Malenʹkij pastušok i ego čudesnye priključenija
+    original_title: Mazais ganiņš
     authors:
       - Alberts Kronenbergs
       - Ljudmila V. Kopylova
@@ -15640,6 +15723,7 @@ titles:
     verified: true
   - title: Stuchka
     subtitle: '[Fotoocherk: Per. s latysh.]'
+    original_title: Stučka
     authors:
       - Kazimirs Dan̦il̦evičs
     year: 1976
@@ -16080,6 +16164,7 @@ titles:
     subtitle: Romāni un noveles
     authors:
       - Alek̕sandre Qazbegi
+    translators:
       - Margarita Niedre
     year: 1977
     language: Lithuanian
@@ -16865,8 +16950,10 @@ titles:
         url: https://search.worldcat.org/title/20342763
     verified: true
   - title: Poézija un Isteníba
+    original_title: Aus meinem Leben. Dichtung und Wahrheit
     authors:
       - Johann Wolfgang von Goethe
+    translators:
       - Anda Plésuma
     year: 1977
     language: Not recorded
@@ -17220,6 +17307,7 @@ titles:
         url: https://openlibrary.org/books/OL20676105M
     verified: true
   - title: Teatry Rigi
+    original_title: Rīgas teătri
     authors:
       - I. Zaķe
     year: 1977
@@ -17250,6 +17338,7 @@ titles:
   - title: The Soviet Latvia
     authors:
       - A. Ronis
+    translators:
       - J. Cērps
     year: 1977
     language: English
@@ -17400,6 +17489,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/007560059
     verified: true
   - title: Was Alt-Rigas Strassen und Häuser erzählen
+    original_title: Par ko stasta vecas Rigas ielas un nami (Riga, 1968)
     authors:
       - Skaidrīte Cielava
       - Z. Ergle
@@ -17410,6 +17500,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991008938039705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Was Alt-Rigas Straßen und Häuser erzählen
+    original_title: Par ko stãsta vecãs Rĩgas ielas un nami
     authors:
       - Skaidrīte Jāna Cielava
       - Zenta Ernesta Ērgle
@@ -17855,6 +17946,8 @@ titles:
     subtitle: Fairy-Tales
     authors:
       - Anna Sakse
+    translators:
+      - Tamāra Zālīte
     year: 1978
     language: English, Latvian
     pages: 214
@@ -17940,8 +18033,10 @@ titles:
         url: https://search.worldcat.org/title/7204501
     verified: true
   - title: Homo faber
+    original_title: Homo faber
     authors:
       - Max Frisch
+    translators:
       - Erika Luse
     year: 1978
     language: Not recorded
@@ -17977,6 +18072,7 @@ titles:
     subtitle: Romāns
     authors:
       - Tadeusz Breza
+    translators:
       - Jezups Laganovskis
     year: 1978
     language: Latvian
@@ -18188,6 +18284,7 @@ titles:
     verified: true
   - title: Kodeks o brake i semʹe Latviĭskoj Sovetskoj Socialističeskoj Respubliki
     subtitle: Ofic. tekst s pril. postatejn.-sistematizir. materialov; S izm. po sostojaniju na 24.02.78
+    original_title: Latvijas Padomju Sociālistiskās Republikas Laulības un g̓imenes kodekss. Russian
     authors:
       - Latvia
     year: 1978
@@ -18516,6 +18613,7 @@ titles:
     verified: false
   - title: Latvijskaja SSR
     subtitle: Cifry i fakty
+    original_title: Latvijas PSR
     authors:
       - Raitis Nadziņš
       - Raitis Ė. Nadzin'š
@@ -18571,6 +18669,7 @@ titles:
     verified: true
   - title: Lettische SSR
     subtitle: Zahlen und Fakten
+    original_title: 'Latvijas PSR : Skaitļi un fakti'
     authors:
       - Raitis Nadziṇš
       - Raitis Nadziņš
@@ -18856,8 +18955,9 @@ titles:
     subtitle: Poļu pasakas
     authors:
       - Stefania Wortman
-      - Jāzeps Osmanis
       - Zbigniew Rychlicki
+    translators:
+      - Jāzeps Osmanis
     year: 1978
     language: Latvian
     sources:
@@ -19005,6 +19105,7 @@ titles:
   - title: Restavraciâ baboček
     authors:
       - Andris Jakubāns
+    translators:
       - Lûbov' Osipova
     year: 1978
     language: Russian
@@ -19469,6 +19570,8 @@ titles:
     subtitle: Figures and Facts
     authors:
       - Raitis Nadzin̦š
+    translators:
+      - I. Kundzin̦š
     year: 1978
     language: English, Latvian
     pages: 32
@@ -19490,8 +19593,10 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991073089979705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Theaterstadt Riga
+    original_title: Rīgas Teātri
     authors:
       - Ina Zake
+    translators:
       - G. Blodnieks
     year: 1978
     language: German
@@ -19632,6 +19737,7 @@ titles:
   - title: Volšebnik
     authors:
       - Jāzeps Osmanis
+    translators:
       - Larisa Romanenko
     year: 1978
     language: Russian
@@ -19830,8 +19936,9 @@ titles:
   - title: Zolotoj čelovek
     subtitle: Sbornik ûmorističeskih i satiričeskih rasskazov latyšskih pisatelej
     authors:
-      - Vladimir Dmitrievič Mihajlov
       - Jezups Laganovskis
+    translators:
+      - Vladimir Dmitrievič Mihajlov
     year: 1978
     language: Latvian
     sources:
@@ -20202,8 +20309,11 @@ titles:
         url: https://search.worldcat.org/title/838043180
     verified: true
   - title: Andrē Moruā
+    original_title: Andre Morua
     authors:
       - Fedor Semenovič Narkirʹer
+    translators:
+      - Milda Grīnfelde
     year: 1979
     language: Latvian
     sources:
@@ -20244,6 +20354,7 @@ titles:
     subtitle: Dzejoļi
     authors:
       - Wisława Szymborska
+    translators:
       - Uldis Bērziņs
     year: 1979
     language: Latvian
@@ -20506,9 +20617,11 @@ titles:
         url: https://openlibrary.org/books/OL57820973M
     verified: true
   - title: Farbige Märchen
+    original_title: Krāsainas pasakas
     authors:
       - Imants Ziedonis
       - Aija Zīle
+    translators:
       - Jakob Bernstein
     year: 1979
     language: German
@@ -20668,6 +20781,7 @@ titles:
     subtitle: Roman
     authors:
       - Jerzy Broszkiewicz
+    translators:
       - Irēna Birzvalka
     year: 1979
     language: Latvian
@@ -20745,8 +20859,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=083870792
     verified: true
   - title: Jaunā Vertera ciešanas
+    original_title: Die Leiden des jungen Werther
     authors:
       - Johann Wolfgang von Goethe
+    translators:
       - Velta Balode
     year: 1979
     language: Latvian
@@ -20780,6 +20896,7 @@ titles:
   - title: Kleopatra
     authors:
       - Aleksander Krawczuk
+    translators:
       - Jāzeps Osmanis
     year: 1979
     language: Latvian
@@ -21319,6 +21436,7 @@ titles:
     subtitle: (An Undocumentary Story)
     authors:
       - Zigmunds Skujiņš
+    translators:
       - Tamāra Zālīte
     year: 1979
     language: English
@@ -21439,6 +21557,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=141549732X
     verified: true
   - title: Raznocvetnye skazki
+    original_title: Krasainas pasakas
     authors:
       - Imants Ziedonis
       - Ajja Zile
@@ -21490,6 +21609,8 @@ titles:
   - title: Rîgas balets
     authors:
       - Jakovs Tihonovs
+    editors:
+      - Aleksandrs Lembergs
     year: 1979
     language: Latvian
     sources:
@@ -21614,6 +21735,8 @@ titles:
   - title: Selected Poems
     authors:
       - Ojārs Vācietis
+    translators:
+      - Ruth Speirs
     year: 1979
     language: English
     pages: 125
@@ -21710,6 +21833,7 @@ titles:
         url: https://search.worldcat.org/title/909162852
     verified: true
   - title: Skazki o tsvetakh
+    original_title: Pasakas par ziediem
     authors:
       - Anna Sakse
     year: 1979
@@ -21817,6 +21941,8 @@ titles:
     subtitle: 75 Years of the Latvian Communist Party
     authors:
       - L̦ Zīle
+    translators:
+      - J. Cērps
     year: 1979
     language: English
     pages: 72
@@ -22270,6 +22396,8 @@ titles:
   - title: A Hundred Nations in One
     authors:
       - Brigita Pudels
+    translators:
+      - J. Cērps
     year: 1980
     language: English
     pages: 57
@@ -22834,8 +22962,9 @@ titles:
   - title: Lāciša Lekausiša burvû ripa
     authors:
       - Czesław Janczarski
-      - Rita Luginska
       - Jūlijs Vanags
+    translators:
+      - Rita Luginska
     year: 1980
     language: Latvian
     sources:
@@ -23195,8 +23324,9 @@ titles:
   - title: Pis'ma k dalekoj zvezde
     authors:
       - Ariâ Èlksne
-      - Larisa Romanenko
       - Janis Grots
+    translators:
+      - Larisa Romanenko
     year: 1980
     language: Russian
     sources:
@@ -23428,8 +23558,10 @@ titles:
         url: https://lccn.loc.gov/84198460
     verified: true
   - title: Siļķes auss
+    original_title: Ucho od śledzia
     authors:
       - Hanna Ożogowska
+    translators:
       - Jāzeps Osmanis
     year: 1980
     language: Latvian
@@ -23492,6 +23624,7 @@ titles:
   - title: Stihotvoreniâ
     authors:
       - Eduards Veidenbaums
+    translators:
       - Leonid Konstantinovič Čerevičnik
     year: 1980
     language: Russian
@@ -23704,7 +23837,8 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=04251049X
     verified: true
   - title: Vilis Lacis
-    authors:
+    authors: []
+    translators:
       - Ingrida Nikolaevna Sokolova
       - Ingrida Nikolaevna Sokolova (Ингрида Николаевна Соколова)
       - V. Rugajs
@@ -23722,6 +23856,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=066372380
     verified: true
     subtitle: Izd. dop. i pererab
+    original_title: No tautas tautai. Vila Lāča dzīves un darbības mozaīka
   - title: Vilis Latsis
     authors:
       - Ingrīda Sokolova
@@ -23751,8 +23886,9 @@ titles:
     authors:
       - Miervaldis Birze
       - Maija Dragūne
-      - Milda Šņore
       - Éric Le Bourhis
+    translators:
+      - Milda Šņore
     year: 1980
     language: Russian
     sources:
@@ -24219,6 +24355,7 @@ titles:
         url: https://search.worldcat.org/title/502460986
     verified: true
   - title: Das Märchen vom Groschen
+    original_title: Pasaka par vērdinu
     authors:
       - Kārlis Skalbe
       - Gunārs Cīlītis
@@ -24809,6 +24946,8 @@ titles:
     subtitle: Dva romana, rasskazy
     authors:
       - Zigmunds Skujin̦š
+    translators:
+      - Sergej Âkovlevič Cebakovskij
     year: 1981
     language: Russian
     pages: 449
@@ -24878,8 +25017,9 @@ titles:
     subtitle: Romāns
     authors:
       - Eliza Orzeszkowa
-      - Rita Luginska
       - Olga S. Smirnova
+    translators:
+      - Rita Luginska
     year: 1981
     language: Latvian
     sources:
@@ -25163,6 +25303,8 @@ titles:
     authors:
       - Francis Rekšņa
       - Harijs Gāliņš
+    translators:
+      - Viola Rugajs
     year: 1981
     language: Russian
     pages: 193
@@ -25274,6 +25416,7 @@ titles:
     verified: true
   - title: Tainstvennaja nachodka
     subtitle: Povestʹ
+    original_title: Noslēpumainais atradums
     authors:
       - Zenta Ērgle
       - Žanny Ėzit
@@ -26566,6 +26709,8 @@ titles:
   - title: Portrety
     authors:
       - B. Popov
+    editors:
+      - B. Popov (Б. Попов)
     year: 1982
     language: Russian
     pages: 388
@@ -26931,6 +27076,7 @@ titles:
     subtitle: Roman
     authors:
       - Alfred Andersch
+    translators:
       - Dzidra Kalnynja
     year: 1982
     language: Russian
@@ -26951,6 +27097,7 @@ titles:
         url: https://search.worldcat.org/title/838342918
     verified: true
   - title: Zaļais Heinrihs
+    original_title: Der grüne Heinrich
     series: Klasikas bibliotēka
     authors:
       - Gottfried Keller
@@ -26964,6 +27111,8 @@ titles:
   - title: Zeme
     authors:
       - Gunar Krollis
+    editors:
+      - Lajma Rejhmane
     year: 1982
     language: Multiple languages
     sources:
@@ -27144,10 +27293,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=434981338
     verified: true
   - title: Atmiņas
+    original_title: Vospominanija
     authors:
       - Jānis Kalnbērziņš
       - Ē. Žagars
       - Nikolaj P. Zadornov
+    translators:
       - Rasma Vīlipa
     year: 1983
     language: Latvian
@@ -27228,11 +27379,13 @@ titles:
         url: https://search.worldcat.org/title/11650278
     verified: true
   - title: Das Märchen vom Groschen
+    original_title: Pasaka par verdinu
     authors:
       - Kārlis Skalbe
       - Gunārs Cīlītis
-      - Ģirts Bļodnieks
       - Gunars Cilitis
+    translators:
+      - Ģirts Bļodnieks
     year: 1983
     language: German
     sources:
@@ -27282,6 +27435,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=040435172
     verified: true
   - title: Dzeja
+    original_title: Gedichte
     authors:
       - Johann Wolfgang von Goethe
     year: 1983
@@ -27356,6 +27510,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=435327534
     verified: true
   - title: Gimenes loks
+    original_title: Le cercle de famille
     authors:
       - André Maurois
     year: 1983
@@ -27556,8 +27711,10 @@ titles:
     verified: true
   - title: Lačplesis
     subtitle: 'Latyšskij narodnyj geroj: (Perevel s latyšskogo.)'
+    original_title: Lāčplēsis
     authors:
       - Andrej Pumpur
+    translators:
       - Ljudmila Kopylova
     year: 1983
     language: Not recorded
@@ -27729,6 +27886,8 @@ titles:
     subtitle: Gleznas
     authors:
       - Maija Tabaka
+    editors:
+      - Zigurds Konstants
     year: 1983
     series: Mūsu Mākslinieki
     language: Latvian, English, Russian
@@ -27995,6 +28154,7 @@ titles:
     verified: true
   - title: Prometejs
     subtitle: Dramatisks fragments
+    original_title: Prometheus
     authors:
       - Johann Wolfgang von Goethe
       - Māra Misiņa
@@ -28040,8 +28200,10 @@ titles:
         url: https://lccn.loc.gov/84137261
     verified: true
   - title: Robots un taurenīte
+    original_title: Robotas ir peteliškė
     authors:
       - Vytautė Žilinskaitė
+    translators:
       - Alfons Sukovskis
     year: 1983
     language: Latvian
@@ -29061,6 +29223,7 @@ titles:
     verified: true
   - title: Kā ēzelitis kažoka suva
     subtitle: Pasakas
+    original_title: Kak oslik šil šubu
     series: Bitīte
     authors:
       - Sergej Grigorʹevič Kozlov
@@ -29284,9 +29447,11 @@ titles:
     verified: true
   - title: Laimīgais cilvēks
     subtitle: Romāns
+    original_title: A boldog ember
     series: Klasikas bibliotēka
     authors:
       - Zsigmond Móricz
+    translators:
       - Elga Sakse
     year: 1984
     language: Not recorded
@@ -29459,8 +29624,10 @@ titles:
     verified: true
   - title: Meness Arlekins
     subtitle: Dzejoli Berniem
+    original_title: Arlequin la lune
     authors:
       - Moriss Karems
+    translators:
       - Cecīlija Dinere
     year: 1984
     language: French
@@ -29473,6 +29640,8 @@ titles:
   - title: Mes ari esam pasaule
     authors:
       - Mirdza Klava
+    editors:
+      - Lilija Dinere
     year: 1984
     language: Latvian
     pages: 31
@@ -29628,6 +29797,7 @@ titles:
     subtitle: Dziedājumi, dziesmas, epigrammas
     authors:
       - Jan Kochanowski
+    translators:
       - Jāzeps Osmanis
     year: 1984
     language: Latvian
@@ -30041,6 +30211,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=042560063
     verified: true
   - title: Tulūza-Lotreka dzīve
+    original_title: Vie de Toulouse Lautrec
     series: Ievērojamu cilvēku dzīve
     authors:
       - Henri Perruchot
@@ -30115,6 +30286,7 @@ titles:
     verified: true
   - title: Wie Miau-Kätzchen einen Freund suchte
     subtitle: Ein Märchen
+    original_title: Kă nauva mekleja draugu
     authors:
       - Dzidra Rinkule-Zemzare
       - Margarita Stāraste
@@ -30346,6 +30518,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=042535646
     verified: true
   - title: Anna Sakse
+    original_title: Annas Sakses dzīve un personība
     authors:
       - Ingrīda Kiršentāle
     year: 1985
@@ -30387,6 +30560,8 @@ titles:
     subtitle: Telnieciba
     authors:
       - Musu Makslinieki
+    editors:
+      - Gundega Cēbere
     year: 1985
     language: Latvian
     sources:
@@ -30466,6 +30641,8 @@ titles:
     series: Rakstnieki par literatūru
     authors:
       - Anna Sakse
+    editors:
+      - Ingrīda Kiršentāle
     year: 1985
     language: Latvian
     sources:
@@ -30721,6 +30898,9 @@ titles:
   - title: Dziesmu karapulks
     authors:
       - Velimir Khlebnikov
+    translators:
+      - Uldis Bērzin̦š
+      - Māris Čaklais
     year: 1985
     series: 1000 rindu = -- 1000 strok
     language: Latvian
@@ -30797,6 +30977,7 @@ titles:
   - title: Fabulas
     authors:
       - Jean de La Fontaine
+    translators:
       - Ēvalds Valters
     year: 1985
     language: Latin
@@ -30807,6 +30988,7 @@ titles:
   - title: Faraons
     authors:
       - Bolesław Prus
+    translators:
       - Irēna Birzvalka
     year: 1985
     language: Latvian
@@ -30865,6 +31047,8 @@ titles:
   - title: Grodi
     authors:
       - Dovgjallo, Sakartojis,G
+    editors:
+      - G. Dovgjallo
     year: 1985
     language: Latvian
     pages: 134
@@ -30926,6 +31110,7 @@ titles:
     subtitle: Povest'
     authors:
       - Vilis Lācis
+    translators:
       - Jurij Kappe
     year: 1985
     language: Russian
@@ -31081,6 +31266,7 @@ titles:
     subtitle: Istoriâ žizni
     authors:
       - Saulcerīte Viese
+    translators:
       - Ûrij Ivanovič Abyzov
     year: 1985
     language: Russian
@@ -31163,6 +31349,8 @@ titles:
     authors:
       - Miķelis Ivanovs
       - Rasma Lāce
+    editors:
+      - Mikelis Ivanovs
     year: 1985
     language: Latvian
     sources:
@@ -31310,7 +31498,8 @@ titles:
         url: https://openlibrary.org/books/OL21370204M
     verified: true
   - title: Latyšskie dajny
-    authors:
+    authors: []
+    translators:
       - Feliks Skudra
     year: 1985
     language: Russian
@@ -31418,6 +31607,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=040224546
     verified: true
   - title: Mīlestības tuksnesis
+    original_title: Le désert de l'amour
     authors:
       - François Mauriac
     year: 1985
@@ -31797,6 +31987,9 @@ titles:
     subtitle: 30. gadi
     authors:
       - Aleksandrs Čaks
+    editors:
+      - Jānis Kalnačs
+      - Juris Briedis
     year: 1985
     language: Latvian
     pages: 124
@@ -31882,6 +32075,7 @@ titles:
     verified: true
   - title: Skvozʹ meteli
     subtitle: Vospominanija, dokumenty, kommentarii
+    original_title: Cauri puten̦iem
     series: Berečʹ otčiznu svoju
     authors:
       - Vilis Samsons
@@ -32497,8 +32691,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1385451475
     verified: true
   - title: Eichelmännchen
+    original_title: Ziluks
     authors:
       - Margarita Stāraste
+    translators:
       - Sigrid Plaks
     year: 1986
     language: German
@@ -32560,6 +32756,7 @@ titles:
   - title: Faraons
     authors:
       - Bolesław Prus
+    translators:
       - Irēna Birzvalka
     year: 1986
     language: Latvian
@@ -32575,6 +32772,8 @@ titles:
   - title: Felicita Paul̦uka
     authors:
       - Felicita Paul̦uka
+    editors:
+      - Rita Šmagre
     year: 1986
     series: Mūsu mākslinieki
     language: Latvian
@@ -32706,6 +32905,8 @@ titles:
     subtitle: Ieskats Glezniecibá
     authors:
       - Indulis Zariņš
+    editors:
+      - Ingrīda Burāne
     year: 1986
     language: Latvian, Russian, English
     sources:
@@ -33497,6 +33698,8 @@ titles:
   - title: Portrety
     authors:
       - B. Popov
+    editors:
+      - Boris Popov
     year: 1986
     language: Russian
     pages: 437
@@ -33550,7 +33753,8 @@ titles:
     verified: true
   - title: Puti ognja
     subtitle: Iz latyšskoj klassičeskoj poėzii
-    authors:
+    authors: []
+    translators:
       - Leonid Čerevičnik
     year: 1986
     language: Not recorded
@@ -34349,6 +34553,8 @@ titles:
     series: Mūsu Mākslinieki
     authors:
       - Mǔsu Makslinieki
+    editors:
+      - Rūta Muižniece
     year: 1987
     language: Latvian, English, Russian
     sources:
@@ -34358,6 +34564,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=274479486
     verified: true
   - title: Alisa v strane čudes
+    original_title: Alice in wonderland
     authors:
       - Lewis Carroll
     year: 1987
@@ -34577,6 +34784,7 @@ titles:
     subtitle: Romans
     authors:
       - Hans Fallada
+    translators:
       - Ē̄rika Lūse
     year: 1987
     language: Russian
@@ -34663,8 +34871,10 @@ titles:
     verified: true
   - title: Ģimenes māja ar mansardu
     subtitle: Romāni = Semejnyj dom s mansardoj
+    original_title: Családi ház manzárddal
     authors:
       - Ákos Kertész
+    translators:
       - Laima Žihare
     year: 1987
     language: Not recorded
@@ -35078,6 +35288,7 @@ titles:
     subtitle: 'Golos zovuŝego; Kletka; Bessonnica: romany'
     authors:
       - Alberts Bels
+    translators:
       - Ûrij Ivanovič Abyzov
       - Sergej Âkovlevič Cebakovskij
     year: 1987
@@ -35133,6 +35344,7 @@ titles:
         url: https://search.worldcat.org/title/216394510
     verified: true
   - title: Maza Muka Dzive
+    original_title: Die Geschichte vom kleinen Muck
     authors:
       - Vilhelms Haufs
     year: 1987
@@ -35179,8 +35391,9 @@ titles:
   - title: Meitene un zēns vai cirka numurs ar četrpapadsmit plīts rįnkiem
     authors:
       - Hanna Ożogowska
-      - Jāzeps Osmanis
       - Ruta Kreice
+    translators:
+      - Jāzeps Osmanis
     year: 1987
     language: Latvian
     sources:
@@ -35238,10 +35451,12 @@ titles:
     verified: true
   - title: Momo
     subtitle: Pasaka-romāns
+    original_title: Momo
     authors:
       - Michael Ende
-      - Ingus Lininš
       - Māra Rikmane
+    translators:
+      - Ingus Lininš
     year: 1987
     language: Latvian
     sources:
@@ -35411,6 +35626,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=274419041
     verified: true
   - title: Pasakas
+    original_title: Eventyr
     authors:
       - Hanss Kristians Andersens
     year: 1987
@@ -35654,6 +35870,7 @@ titles:
     authors:
       - Māris Čaklais
       - Juris Petraškevičs
+    translators:
       - Rūta Spīrsa
     year: 1987
     language: Latvian
@@ -35985,6 +36202,8 @@ titles:
     subtitle: Jeb grāmata par Latvijas ērģeļu būvētājiem, spēlētājiem, instrumentiem un mūziku [Or a Book About Organ Builders, Musicians, Organs Themselves and Musical Works for Them in Latvia]
     authors:
       - Ilma Grauzdin̦a
+    editors:
+      - Vija Zalcmane
     year: 1987
     language: Latvian
     pages: 254
@@ -36135,6 +36354,7 @@ titles:
         url: https://search.worldcat.org/title/214702039
     verified: true
   - title: Vienseta
+    original_title: La barraca
     series: Írzemju romãns
     authors:
       - Vicente Blasco Ibáñez
@@ -36147,6 +36367,7 @@ titles:
   - title: Virietis visam mužam
     authors:
       - Gerd Fuchs
+    translators:
       - Silvija Ģibiete
     year: 1987
     language: Russian
@@ -36413,6 +36634,7 @@ titles:
     subtitle: Romāns
     authors:
       - Wiesław Myśliwski
+    translators:
       - Vija Brangule
     year: 1988
     language: Latvian
@@ -36712,6 +36934,9 @@ titles:
   - title: Iz istorii latyšskoj knigi
     authors:
       - Inara Klekere
+    translators:
+      - Žanna Èzit
+      - Lûbov' Â. Gurevič
     year: 1988
     language: Russian
     sources:
@@ -36827,6 +37052,8 @@ titles:
     subtitle: Pustʹ arfa solmana
     authors:
       - S. IA Nadson
+    editors:
+      - Uldis Krasts
     year: 1988
     series: 1000 rindu = 1000 strok
     language: Latvian
@@ -37061,6 +37288,8 @@ titles:
   - title: Masterpieces of Latvian Painting
     authors:
       - I. N̦efedova
+    editors:
+      - Ināra Ņefedova
     year: 1988
     language: English, German, Latin, Russian
     sources:
@@ -37244,6 +37473,7 @@ titles:
   - title: Nočʹju v doždʹ
     authors:
       - Andris Kolbergs
+    translators:
       - Svetlana Suvorova
     year: 1988
     language: Russian
@@ -37535,8 +37765,9 @@ titles:
   - title: Sarkanais piekūns
     authors:
       - Ireneusz Gwidon Kamiński
-      - Czesław Szklennik
       - Andrzej Tomczak
+    translators:
+      - Czesław Szklennik
     year: 1988
     language: Latvian
     sources:
@@ -37596,6 +37827,7 @@ titles:
     authors:
       - Dajna Avotynâ
       - Daina Avotynia (Дайна Авотыня)
+    translators:
       - Irina Viktorovna Cygalʹskaâ
       - Irina Viktorovna Tsygalskaia (Ирина Викторовна Цыгальская)
     year: 1988
@@ -37989,6 +38221,8 @@ titles:
     subtitle: Telnieciba
     authors:
       - Aivars Gulbis
+    editors:
+      - Gundega Cēbere
     year: 1989
     language: Latvian
     pages: 63
@@ -38019,6 +38253,8 @@ titles:
     subtitle: Dzejol̦i
     authors:
       - Guntars Godiɲš
+    editors:
+      - Anna Rancāne
     year: 1989
     language: Latvian
     sources:
@@ -38237,6 +38473,7 @@ titles:
     authors:
       - Anna Bauga
       - Ilona Ceipe
+    translators:
       - J. Bernstein
     year: 1989
     language: German
@@ -38510,6 +38747,8 @@ titles:
     series: Pirmā grāmata
     authors:
       - Guntis Berelis
+    editors:
+      - Arvis Grods
     year: 1989
     language: Latvian
     sources:
@@ -38555,8 +38794,9 @@ titles:
   - title: Nolaupīšana Titirlistānā
     authors:
       - Wojciech Żukrowski
-      - Jāzeps Osmanis
       - Juris Putrāms
+    translators:
+      - Jāzeps Osmanis
     year: 1989
     language: Latvian
     sources:
@@ -38621,6 +38861,7 @@ titles:
   - title: Pasaules gals pulksten astoņos vakarā
     authors:
       - Stanisław Lem
+    translators:
       - Rita Luginska
     year: 1989
     language: Latvian
@@ -38887,6 +39128,7 @@ titles:
   - title: Usainitis
     authors:
       - Adam Bahdaj
+    translators:
       - Rita Luginska
     year: 1989
     language: Latvian
@@ -38912,6 +39154,7 @@ titles:
   - title: Valdnieces Nofretetes testaments
     authors:
       - Jerzy Głowacki
+    translators:
       - Rita Luginska
     year: 1989
     language: Latvian
@@ -38966,6 +39209,8 @@ titles:
     subtitle: Reprodukciju albums
     authors:
       - Vilhelms Purvītis
+    editors:
+      - Pēteris Savickis
     year: 1989
     language: Latvian
     isbn: '9785410002509'
@@ -39030,6 +39275,10 @@ titles:
     subtitle: Gedichte, Epiphanien, Märchen
     authors:
       - Imants Ziedonis
+    editors:
+      - Jakob Bernstein
+    translators:
+      - Jakob Bernstein
     year: 1989
     language: German
     pages: 270
@@ -39407,6 +39656,8 @@ titles:
     subtitle: Dokumentāls romāns
     authors:
       - Anita Liepa
+    editors:
+      - Velta Duka
     year: 1990
     language: Latvian
     pages: 476
@@ -39725,6 +39976,8 @@ titles:
     subtitle: Otra atmiṇu grāmata
     authors:
       - Mārtiņš Kalndruva
+    editors:
+      - Velta Duka
     year: 1990
     language: Latvian
     sources:
@@ -39735,10 +39988,11 @@ titles:
     verified: true
   - title: Poļu detektīvs
     authors:
+      - Nikolaj Leonidovič Plisko
+    translators:
       - Vija Brangule
       - Silvija Brice
       - Rita Luginska
-      - Nikolaj Leonidovič Plisko
     year: 1990
     language: Latvian
     sources:
@@ -40721,6 +40975,8 @@ titles:
     subtitle: 'Pār trentu kāpj migla: romāni'
     authors:
       - Gunars Janovskis
+    editors:
+      - Arvis Grods
     year: 1991
     language: Latvian
     pages: 507
@@ -40779,6 +41035,8 @@ titles:
     subtitle: Romāns
     authors:
       - Irma Grebzde
+    editors:
+      - Velta Duka
     year: 1991
     language: Latvian
     pages: 222
@@ -40929,6 +41187,7 @@ titles:
     verified: true
   - title: Zilbārdis
     subtitle: Montauka
+    original_title: Blaubart
     authors:
       - Max Frisch
       - Erika Lūse

@@ -46,6 +46,7 @@ titles:
     authors:
       - Karl Marx
       - Bedřich Engels
+    translators:
       - Th Šmeral
       - A. Pollak
     year: 1921
@@ -74,6 +75,7 @@ titles:
     authors:
       - Karl Marx
       - Bedřich Engels
+    translators:
       - Th Šmeral
       - A. Pollak
     year: 1924
@@ -84,8 +86,11 @@ titles:
     verified: true
   - title: Otroci
     subtitle: Vojáci a nevěstky
+    original_title: Les esclaves
     authors:
       - Saint-Georges de Bouhélier
+    translators:
+      - Jindřich Hořejší
     year: 1924
     language: Czech
     sources:
@@ -138,9 +143,11 @@ titles:
     verified: true
   - title: Spravedlivá válka, čili, (CHCI=CH)3 as Levisit
     subtitle: Román
+    original_title: Levisite oder der einzig gerechte Krieg
     series: Knihovna lidových románu; sv. 29
     authors:
       - Johannes Robert Becher
+    translators:
       - Stanislav Kostka Neumann
     year: 1927
     language: Czech

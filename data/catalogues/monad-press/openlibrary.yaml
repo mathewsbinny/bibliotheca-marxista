@@ -54,6 +54,7 @@ titles:
         url: https://openlibrary.org/books/OL42996503M
     verified: true
   - title: The First Five Years of the Communist International
+    original_title: Pjat' let kominterna
     series: A Monad Press Book
     authors:
       - Lev Davidovič Trockij
@@ -146,8 +147,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1135887934
     verified: true
   - title: From Lenin to Stalin
+    original_title: De Lénine à Staline
     authors:
       - Victor Serge
+    translators:
+      - Ralph Manheim
     year: 1973
     edition: (2nd ed.)
     language: English
@@ -172,6 +176,7 @@ titles:
         url: https://archive.org/details/fromlenintostali0000unse
   - title: Israel
     subtitle: A Colonial-Settler State? With an Introd. By Peter Buch
+    original_title: Le conflict israelo-arabe
     authors:
       - Maxime Rodinson
     year: 1973
@@ -192,6 +197,8 @@ titles:
     subtitle: Introd. By George Novack
     authors:
       - Leon Trotsky
+    editors:
+      - George Edward Novack
     year: 1973
     edition: '[1st ed.]'
     language: English
@@ -672,6 +679,7 @@ titles:
   - title: From Lenin to Stalin
     authors:
       - Victor Serge
+    translators:
       - Ralph Manheim
     year: 1980
     language: English
@@ -712,6 +720,7 @@ titles:
     verified: true
   - title: The Balkan Wars, 1912-13
     subtitle: The War Correspondence of Leon Trotsky
+    original_title: Balkany i Balkanskai︠a︡ voĭna
     authors:
       - Leon Trotsky
       - George Weissman
@@ -801,6 +810,8 @@ titles:
     subtitle: Minutes and Resolutions, 1938-39
     authors:
       - Socialist Workers Party
+    editors:
+      - George Breitman
     year: 1982
     edition: 1st ed
     language: English
@@ -820,6 +831,8 @@ titles:
     subtitle: Collected Writings and Speeches
     authors:
       - Mary "Mother" Jones
+    editors:
+      - Philip Sheldon Foner
     year: 1983
     edition: 1st ed
     language: English

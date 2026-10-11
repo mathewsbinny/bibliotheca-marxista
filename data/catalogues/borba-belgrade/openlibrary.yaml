@@ -769,10 +769,12 @@ titles:
         url: https://catalog.hathitrust.org/Record/001239002
     verified: true
   - title: Constitution de la République socialiste fédérative de Yougoslavie
+    original_title: Ustav Socijalističke Federativne Republike Jugoslavije
     authors:
       - Dragoljub Đurovic
-      - Novak Đ. Strugar
       - République socialiste fédérative
+    translators:
+      - Novak Đ. Strugar
     year: 1974
     language: French
     sources:
@@ -834,6 +836,7 @@ titles:
     verified: true
   - title: IIe Conférence de l'Union interparlementaire
     subtitle: 31 janvier-6 février 1975
+    original_title: II Konferencija Interparlamentarne unije
     series: Bibliothèque de l'Assemblée de la RSF de Yougoslavie
     authors:
       - Dragoljub Đurovic
@@ -873,6 +876,9 @@ titles:
     subtitle: 'Achievements to Date and Future Outlook for the Underdeveloped Socialist Republics and the Socialist Autonomous Province of Kosovo = Bogatstvo Nerazvitykh: Prezhnie Rezulʹtaty I Vozmozhnosti Dalʹneĭshego Razvitiia Slaborazvitykh Sotsialisticheskikh Respublik I Sotsialisticheskogo Avtonomnogo Kraia Kosovo'
     authors:
       - Aleksandar Grličkov
+    translators:
+      - Irena Mirković
+      - Nada Kronja-Stanič
     year: 1976
     language: English
     pages: 289
@@ -916,6 +922,8 @@ titles:
   - title: Yugoslavia in the Second World War
     authors:
       - Petar V. Brajović-Đuro
+    translators:
+      - Milan Parmaković
     year: 1977
     language: English
     pages: 238
@@ -1279,8 +1287,9 @@ titles:
     subtitle: Letters without words
     authors:
       - Ludwik Wincenty Gadomski
-      - Ana Selić
       - Savo Popovič
+    translators:
+      - Ana Selić
     year: 1991
     language: Serbian
     sources:

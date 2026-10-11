@@ -155,6 +155,7 @@ titles:
         url: https://search.worldcat.org/title/17245108
     verified: true
   - title: Die Frauen-Frage
+    original_title: The woman question
     series: Archiv-Drucke; 3
     authors:
       - Edward B. Aveling
@@ -178,10 +179,14 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BB25702472
     verified: false
   - title: Die Grundprobleme des Marxismus
+    original_title: Osnovnye voprosy Marksizma
     series: Archiv-Drucke; 4
     authors:
       - Georgij Valentinovič Plechanov
       - David Borisovič Rjazanov
+    editors:
+      - David B. Rjazanov
+    translators:
       - Karl Schmückle
     year: 1973
     language: German
@@ -619,6 +624,7 @@ titles:
     authors:
       - Ágnes Heller
       - Pier Aldo Rovatti
+    translators:
       - Helmut Drüke
     year: 1974
     language: German
@@ -902,6 +908,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991037862879705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Elemente der Selbstkritik
+    original_title: Eléments d'autocritique
     authors:
       - Louis Althusser
       - Peter Schöttler
@@ -928,6 +935,8 @@ titles:
       - Manon Eppenstein-Baukhage
       - Christoph Behrend
       - Stefan Berghöfer
+    editors:
+      - Manon Baukhage
     year: 1975
     language: German
     sources:
@@ -1006,6 +1015,7 @@ titles:
     verified: true
   - title: Kritik der Wissenschaftstheorie
     subtitle: Marxismus und Epistémologie (Bachelard, Canguilhem, Foucault)
+    original_title: Pour une critique de l'epistémologie dt
     authors:
       - Dominique Lecourt
     year: 1975
@@ -1100,6 +1110,8 @@ titles:
   - title: Stamokap in der Krise
     authors:
       - Projekt Klassenanalyse
+    editors:
+      - Technische Universität Berlin
     year: 1975
     series: Diskussionsbände - Projekt Klassenanalyse; 5
     language: German
@@ -1134,6 +1146,8 @@ titles:
     authors:
       - Jörg Boström
       - Roland Günter
+    editors:
+      - R. Günter
     year: 1976
     language: German
     pages: 180
@@ -1249,6 +1263,7 @@ titles:
     subtitle: Diskussion in der KPF
     authors:
       - Étienne Balibar
+    translators:
       - Horst Brühmann
     year: 1976
     language: German
@@ -1274,6 +1289,8 @@ titles:
     subtitle: Kritik der volkswirtschaftlichen Gesamtrechnung
     authors:
       - Projekt Klassenanalyse
+    editors:
+      - Stefan Berghöfer
     year: 1976
     language: German
     pages: 320
@@ -1468,6 +1485,7 @@ titles:
     verified: true
   - title: Portugal, welcher Weg zum Sozialismus?
     subtitle: Interview mit Dominique Pouchin
+    original_title: Portugal
     authors:
       - Mário Soares
       - Dominique Pouchin
@@ -1576,6 +1594,8 @@ titles:
   - title: Theorie der Bedürfnisse bei Marx
     authors:
       - Ágnes Heller
+    editors:
+      - Pier Aldo Rovatti
     year: 1976
     language: German
     sources:
@@ -1595,6 +1615,7 @@ titles:
         url: https://archive.org/details/theoriederbedrfn0000hell
   - title: Weisser Kommunismus?
     subtitle: Programmm der Kommunistischen Partei Spaniens
+    original_title: Segunda conferencia nacional del Partido Communista de España
     authors: []
     year: 1976
     language: German
@@ -1621,8 +1642,10 @@ titles:
         url: https://www.sudoc.fr/086798251
     verified: true
   - title: '"Eurokommunismus" und Staat'
+    original_title: '"Eurocomunismo" y estado'
     authors:
       - Santiago Carrillo
+    translators:
       - Hans-Werner Franz
       - Santiago Tovar
     year: 1977
@@ -1689,8 +1712,12 @@ titles:
     verified: true
   - title: Architekturlehre
     subtitle: Grundlagen, Theorie u. Kritik, Beziehung zu d. anderen Künsten u. zur Ges
+    original_title: Kenchiku geijutsu-ron
     authors:
       - Bruno Taut
+    editors:
+      - Tilmann Johannes Heinisch
+      - Goerd Peschken
     year: 1977
     series: Analysen zum Planen und Bauen; 8
     language: German
@@ -1715,11 +1742,13 @@ titles:
         url: https://catalog.hathitrust.org/Record/010513918
     verified: true
   - title: CERES - Strategie für dem Sozialismus
+    original_title: Le CERES - un combat puor le socialisme
     series: Positionen der Sozialisten; 1
     authors:
       - Michel Charzat
       - Ghislaine Toutain
       - Jean-Pierre Chevènement
+    translators:
       - Alex Demirović
     year: 1977
     language: German
@@ -1741,6 +1770,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1606625675
     verified: true
   - title: CERES, Strategie für den Sozialismus
+    original_title: Le CERES - un combat pour le socialisme
     series: Reihe Positionen der Sozialisten; 1
     authors:
       - Michel Charzat
@@ -1776,6 +1806,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991010705459705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Die Gewerkschaftsbewegung in Grossbritannien
+    original_title: British trade unionism, a short history
     authors:
       - Allen Hutt
       - John Gollan
@@ -1787,6 +1818,7 @@ titles:
     verified: true
   - title: Die kapitalistische Stadt
     subtitle: Ökonomie und Politik der Stadtentwicklung
+    original_title: La question urbaine
     series: Analysen zum Planen und Bauen; 10
     authors:
       - Manuel Castells
@@ -1849,6 +1881,7 @@ titles:
     verified: true
   - title: Frauenbefreiung und Arbeiterbewegung
     subtitle: Feminismus u.d. KPI
+    original_title: La questione femminile
     authors:
       - Carla Ravaioli
     year: 1977
@@ -1866,6 +1899,7 @@ titles:
         url: https://search.worldcat.org/title/45830961
     verified: true
   - title: Geschichte des "Stalinismus"
+    original_title: L' histoire du phénomène stalinien
     authors:
       - Jean Elleinstein
     year: 1977
@@ -1896,6 +1930,7 @@ titles:
     verified: true
   - title: Gramsci
     subtitle: Philosophie d. Praxis u.d. Hegemonie d. Proletariats
+    original_title: Il concetto di egemonia in Gramsci
     authors:
       - Luciano Gruppi
     year: 1977
@@ -1910,9 +1945,12 @@ titles:
     verified: true
   - title: Ideologie und ideologische Staatsapparate
     subtitle: Aufsätze zur marxistischen Theorie
+    original_title: Idéologie et appareils idéologiques d'etat
     series: Positionen; Bd. 3
     authors:
       - Louis Althusser
+    translators:
+      - Rolf Löper
     year: 1977
     language: German
     sources:
@@ -1960,6 +1998,9 @@ titles:
   - title: KKW-Fibel für Bürgerinitiativen
     authors:
       - Jari Pekka Cuypers
+    editors:
+      - Inge Blankenbach
+      - Aktionsgemeinschaft Umweltschutz
     year: 1977
     language: German
     pages: 215
@@ -1989,6 +2030,8 @@ titles:
     subtitle: Einf. in d. marxist. Staatstheorie
     authors:
       - Projekt Klassenanalyse
+    editors:
+      - Joachim Bischoff
     year: 1977
     edition: 1. Aufl
     language: German
@@ -2007,6 +2050,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=43836564X
     verified: true
   - title: P.C.F. Parti communiste français
+    original_title: Le P.C
     authors:
       - Jean Elleinstein
     year: 1977
@@ -2085,6 +2129,10 @@ titles:
     subtitle: Programm einer gesellschaftlichen Umgestaltung
     authors:
       - Luciano Barca
+    editors:
+      - Joachim Bischoff
+    translators:
+      - Helmut Drüke
     year: 1977
     language: German
     pages: 221
@@ -2099,8 +2147,10 @@ titles:
     verified: true
   - title: Sozialisten, Kommunisten und der Staat
     subtitle: Über Hegemonie, Pluralismus und sozialistische Demokratie
+    original_title: Il Marxismo e lo Stato
     series: Positionen der Sozialisten; 3
-    authors:
+    authors: []
+    translators:
       - Helmut Drüke
       - Angela aThaller
     year: 1977
@@ -2125,6 +2175,7 @@ titles:
     verified: true
   - title: Über die Diktatur des Proletariats
     subtitle: Mit Dokumenten d. 22. Parteitages d. KPF
+    original_title: Sur la dictature du prolétariat
     series: Positionen; 2
     authors:
       - Étienne Balibar
@@ -2219,6 +2270,7 @@ titles:
     subtitle: Schulungs- u. Arbeitsmaterial für Gruppen
   - title: Arbeiterdemokratie
     subtitle: Gewerkschaften, Streiks, Fabrikräte
+    original_title: Da sfruttati a produttori
     authors:
       - Bruno Trentin
     year: 1978
@@ -2283,8 +2335,10 @@ titles:
     verified: true
   - title: Demokratische Umgestaltung
     subtitle: Der "eurokommunistische" Weg für Spanien
+    original_title: Adónde vas, España?
     authors:
       - Ramón Tamames Gómez
+    translators:
       - Hans-Werner Franz
     year: 1978
     language: German
@@ -2337,6 +2391,7 @@ titles:
     verified: true
   - title: Ende der Spaltung?
     subtitle: Zum Verhältnis von Sozialisten u. Kommunisten
+    original_title: Les socialistes, les communistes et les autres
     series: Reihe Positionen der Sozialisten; 4
     authors:
       - Jean-Pierre Chevènement
@@ -2443,6 +2498,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=424272229
     verified: true
   - title: Gramsci-Debatte
+    original_title: Egemonia, Stato, partito in Gramsci
     authors:
       - Biagio De Giovanni
     year: 1978
@@ -2554,6 +2610,8 @@ titles:
   - title: Immer noch Kommunist?
     authors:
       - Paul Elflein
+    editors:
+      - Rolf Becker
     year: 1978
     language: German
     pages: 139
@@ -2823,6 +2881,8 @@ titles:
   - title: Sozialdemokratie im Deutschen Reich, 1870-1914
     authors:
       - Sozialistische Studiengruppen (Germany)
+    editors:
+      - Sozialistische Studiengruppen
     year: 1978
     series: Arbeitsmaterialien
     language: German
@@ -2846,6 +2906,7 @@ titles:
     verified: true
   - title: Staatstheorie
     subtitle: Polit. Überbau, Ideologie, Sozialist. Demokratie
+    original_title: L' état, le pouvoir, le socialisme
     authors:
       - Nikos A. Pulantzas
     year: 1978
@@ -2973,6 +3034,8 @@ titles:
   - title: Bundesrepublik, Wirtschaftskrise und sozialistische Alternativen
     authors:
       - Sozialistischen Studiengruppen
+    editors:
+      - Sozialistische Studiengruppen
     year: 1979
     edition: 1. Aufl
     language: German
@@ -3079,6 +3142,8 @@ titles:
   - title: Gold, Preise, Inflation
     authors:
       - Sozialistischen Studiengruppen
+    editors:
+      - Sozialistische Studiengruppen
     year: 1979
     series: Arbeitsmaterialien - Sozialistischen Studiengruppen; 2
     language: German
@@ -3098,6 +3163,7 @@ titles:
     verified: true
   - title: Gramsci-Lexikon
     subtitle: Zum Kennen- u. Lesen-Lernen
+    original_title: Lessico gramsciano
     authors:
       - Umberto Cerroni
     year: 1979
@@ -3173,6 +3239,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1607583844
     verified: true
   - title: Massenbewegung und politische Macht
+    original_title: Masse e potere
     authors:
       - Pietro Ingrao
     year: 1979
@@ -3333,6 +3400,9 @@ titles:
     subtitle: 'Von der Prosperität zu Stagnation und Krise: eine Analyse von Akkumulation, Profitrate, Konjunkturzyklus 1950-1980'
     authors:
       - Sozialistische Studiengruppen (Germany)
+    editors:
+      - Helmut Asche
+      - Sozialistische Studiengruppen
     year: 1980
     language: German
     pages: 262
@@ -3455,6 +3525,8 @@ titles:
     subtitle: Kommentar zu d. ökonomisch-philosophischen Manuskripten
     authors:
       - Joachim Bischoff
+    editors:
+      - Sozialistische Studiengruppen
     year: 1980
     language: German
     pages: 150
@@ -3505,6 +3577,8 @@ titles:
     subtitle: Gewerkschaftliche Interessenvertretung im öffentlichen Dienst
     authors:
       - Sozialistische Studiengruppen (Germany)
+    editors:
+      - Sozialistische Studiengruppen
     year: 1980
     language: German
     pages: 96
@@ -3528,6 +3602,8 @@ titles:
   - title: Kulturindustrie und Ideologie
     authors:
       - Joachim Bischoff
+    editors:
+      - Karlheinz Maldaner
     year: 1980
     language: German
     isbn: '3879751900'
@@ -3578,6 +3654,9 @@ titles:
   - title: Ökologie und Ökonomie
     authors:
       - Joachim Bischoff
+    editors:
+      - Michael Menard
+      - Sozialistische Studiengruppen
     year: 1980
     language: German
     pages: 128
@@ -3623,6 +3702,8 @@ titles:
     subtitle: Arbeit, Gesundheit, Renten, soziale Sicherheit, Alternativen zur Sozialpolitik
     authors:
       - Sozialistischen Studiengruppen
+    editors:
+      - Sozialistische Studiengruppen
     year: 1980
     language: German
     pages: 325
@@ -3647,6 +3728,8 @@ titles:
     subtitle: Socialgeschichte d. Weimarer Republik
     authors:
       - Helmut Drüke
+    editors:
+      - Sozialistische Studiengruppen
     year: 1980
     series: Arbeitsmaterialien - Sozialistische Studiengruppen; 3
     language: German
@@ -3816,6 +3899,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=223722723
     verified: true
   - title: Das innere Gesicht der Entfremdung
+    original_title: Het innerlijk gezicht
     authors:
       - Lieuwe Hornstra
     year: 1981
@@ -3830,8 +3914,11 @@ titles:
     verified: true
   - title: Das Leben ändern
     subtitle: 'Radikale Bedürfnisse, Frauen und Utopie: Gespräche mit Ferdinando Adornato'
+    original_title: Per cambiare la vita
     authors:
       - Agnes Heller
+    translators:
+      - Frank Thomas Gatter
     year: 1981
     language: German
     pages: 212
@@ -3865,6 +3952,8 @@ titles:
     subtitle: Kommentar
     authors:
       - Joachim Bischoff
+    editors:
+      - Sozialistische Studiengruppen
     year: 1981
     language: German
     pages: 163
@@ -4095,6 +4184,9 @@ titles:
   - title: Kapitalistische Weltwirtschaft
     authors:
       - Sozialist. Studiengruppen
+    editors:
+      - Helmut Asche
+      - Sozialistische Studiengruppen
     year: 1981
     language: German
     isbn: '3879752060'
@@ -4165,6 +4257,8 @@ titles:
     series: Sozialismus; 2
     authors:
       - Rudolf Bahro
+    editors:
+      - Sozialistische Studiengruppen
     year: 1981
     language: German
     sources:
@@ -4177,6 +4271,8 @@ titles:
     subtitle: Symptome und Ursachen der politischen Krise
     authors:
       - Włodzimierz Brus
+    editors:
+      - Konwersatorium Doświadczenie i Przyszłość
     year: 1981
     language: German
     pages: 222
@@ -4207,6 +4303,8 @@ titles:
   - title: Polen realer Sozialismus
     authors:
       - Lucio Lombardo-Radice
+    editors:
+      - Sozialistische Studiengruppen
     year: 1981
     series: 'Sozialismus: Zeitschrift für marxistische Theorie und sozialistische Politik -- Sozialismus extra 3, August 1981'
     language: German
@@ -4340,6 +4438,8 @@ titles:
     authors:
       - Arno Klönne
       - Detlev Albers
+    editors:
+      - Klaus Thüsing
     year: 1981
     language: German
     pages: 172
@@ -4412,6 +4512,7 @@ titles:
     verified: true
   - title: Der sozialdemokratische Staat
     subtitle: D. "Keynesianisierung" d. Gesellschaft
+    original_title: <<Le>> défi social-démocrate
     authors:
       - Christine Buci-Glucksmann
       - Göran Therborn
@@ -4538,6 +4639,7 @@ titles:
     verified: true
   - title: Erneuerung der Politik
     subtitle: Demokratie, Massenpartei, Staat
+    original_title: La democrazia, politica, oggi
     authors:
       - Elmar Altvater
     year: 1982
@@ -4867,6 +4969,8 @@ titles:
   - title: Bundesrepublik in der Krise
     authors:
       - Sozialistische Studiengruppen (Germany)
+    editors:
+      - Sozialistische Studiengruppen
     year: 1983
     language: German
     pages: 255
@@ -4978,6 +5082,8 @@ titles:
   - title: Einführung marxsche Krisentheorie
     authors:
       - Sozialistische Studiengruppen (Germany)
+    editors:
+      - Sozialistische Studiengruppen
     year: 1983
     language: German
     pages: 144
@@ -5015,6 +5121,8 @@ titles:
     subtitle: Beruf, Familie, Gewerkschaften, Frauenbewegung
     authors:
       - Carola Pust
+    editors:
+      - Sozialistische Studiengruppen
     year: 1983
     language: German
     pages: 223
@@ -5062,9 +5170,12 @@ titles:
         url: https://catalog.hathitrust.org/Record/009850777
     verified: true
   - title: Kwajo und das Geheimnis des Trommelmännchens
+    original_title: The brassman's secret
     series: Der grosse Bär
     authors:
       - Meshack Asare
+    translators:
+      - Käthe Recheis
     year: 1983
     language: German
     sources:
@@ -5077,8 +5188,11 @@ titles:
     verified: true
   - title: Marxismus und Literatur
     subtitle: Ideologie, Alltag, Literatur
+    original_title: Marxismo e letteratura
     authors:
       - Antonio Gramsci
+    editors:
+      - Sabine Kebir
     year: 1983
     language: German
     sources:
@@ -5179,6 +5293,8 @@ titles:
     subtitle: Analysen u. Anregungen für d. schul. u. gewerkschaftl. Arbeit
     authors:
       - Karl Adamek
+    editors:
+      - Wilhelm Heitmeyer
     year: 1983
     language: German
     isbn: '3879752559'
@@ -5196,6 +5312,8 @@ titles:
     subtitle: Analysen und Kontroversen zur Krisentheorie
     authors:
       - Elmar Altvater
+    editors:
+      - Jürgen Hoffmann
     year: 1983
     language: German
     pages: 253
@@ -5319,6 +5437,8 @@ titles:
     subtitle: Tagebuch einer Betriebsbesetzung
     authors:
       - Heiner Heseler
+    editors:
+      - Hans Ziegenfuss
     year: 1984
     language: German
     pages: 261
@@ -5547,6 +5667,8 @@ titles:
   - title: Einführung MARX
     authors:
       - Sozialistische Studiengruppen (Germany)
+    editors:
+      - Sozialistische Studiengruppen
     year: 1984
     language: German
     pages: 182
@@ -5609,6 +5731,8 @@ titles:
     subtitle: 'D. 2. Entwurf d. "Kapitals" (MEGA): diese Veröffentlichung ist e. Gemeinschaftsarb. d. Sozialist. Studiengruppen'
     authors:
       - Axel Otto
+    editors:
+      - Sozialistische Studiengruppen
     year: 1984
     language: German
     pages: 167
@@ -5639,6 +5763,8 @@ titles:
     authors:
       - Beate Hugk
       - Frank Siekmann
+    editors:
+      - Lüneburger Arbeitskreis Machtergreifung
     year: 1984
     language: German
     pages: 224
@@ -5933,6 +6059,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=341956333
     verified: true
   - title: Walter Benjamin und die Utopie des Weiblichen
+    original_title: Walter Benjamin et l'utopie de feminin
     authors:
       - Christine Buci-Glucksmann
     year: 1984
@@ -6090,6 +6217,8 @@ titles:
     subtitle: '(K. v. Dohnanyi): Aufarbeitung der NS-Zeit in Hamburg: die nichtveröffentliche Senatsbroschüre'
     authors:
       - Werner Skrentny
+    editors:
+      - Hamburg
     year: 1985
     language: German
     pages: 78
@@ -6642,6 +6771,8 @@ titles:
     subtitle: Arbeitsrecht nach der Wende
     authors:
       - Roderich Wahsner
+    editors:
+      - Arbeitskammer
     year: 1985
     series: Schriftenreihe der Arbeiterkammer Bremen
     language: German
@@ -6681,6 +6812,8 @@ titles:
     subtitle: Neue Erzählungen u. Photogr
     authors:
       - Beate Meyer
+    editors:
+      - Galerie Morgenland
     year: 1985
     language: German
     pages: 78
@@ -6792,6 +6925,8 @@ titles:
       - Klaus Staeck
       - Björn Engholm
       - Michael Müller
+    editors:
+      - Helga Schuchardt
     year: 1985
     language: German
     pages: 174
@@ -6912,6 +7047,8 @@ titles:
     subtitle: Über die magischen Gesten der Rechten
     authors:
       - Peter Glotz
+    editors:
+      - Sozialistische Studiengruppen
     year: 1985
     language: German
     pages: 147
@@ -6936,6 +7073,8 @@ titles:
     subtitle: Nazi-Zeit und Nachkrieg in Altona und Ottensen
     authors:
       - Brigitte Abramowski
+    editors:
+      - Stadtteilarchiv Ottensen
     year: 1985
     language: German
     pages: 206
@@ -7034,6 +7173,8 @@ titles:
     subtitle: Der zwiespältige Charakter des technischen Wandels
     authors:
       - Götz Aly
+    editors:
+      - Walter Dörhage
     year: 1985
     language: German
     pages: 230
@@ -7161,6 +7302,8 @@ titles:
     subtitle: Geschichte und Gegenwart der Hamburger Arbeiterwohlfahrt, 1919-1985
     authors:
       - Karen Hagemann
+    editors:
+      - Arbeiterwohlfahrt Landesverband Hamburg
     year: 1985
     language: German
     pages: 111
@@ -7229,6 +7372,10 @@ titles:
     subtitle: E. Ausw. aus Reden u. Schriften; zum 60. Geburtstag - gewidmet von seinem Freundeskreis
     authors:
       - Werner Vitt
+    editors:
+      - Manfred Heckenauer
+      - Klaus Mehrens
+      - Jutta Roitsch
     year: 1986
     language: German
     sources:
@@ -7685,6 +7832,8 @@ titles:
     subtitle: 'Arbeitspolitik in der Wende: Ergebnisse eines Symposiums'
     authors:
       - Ulrich Zachert
+    editors:
+      - Alfred Oppolzer
     year: 1986
     language: German
     pages: 212
@@ -8069,6 +8218,8 @@ titles:
     authors:
       - Norman Paech
       - Gerhard Stuby
+    editors:
+      - Martin Hirsch
     year: 1986
     language: German
     pages: 231
@@ -8223,6 +8374,8 @@ titles:
     subtitle: Ein politisches Reisebuch
     authors:
       - Cesco Chinello
+    editors:
+      - Rolf Petri
     year: 1986
     language: German
     pages: 284
@@ -8397,6 +8550,8 @@ titles:
     subtitle: Politische und populistische Rechtstendenzen in der Bundesrepublik
     authors:
       - Joachim Bischoff
+    editors:
+      - Sozialistische Studiengruppen
     year: 1986
     series: Politische Texte
     language: German
@@ -8485,6 +8640,8 @@ titles:
     authors:
       - Kooperation Universität-Arbeiterkammer Bremen (Association)
       - Arbeiterverein "Use Akschen."
+    editors:
+      - Universität Bremen
     year: 1987
     series: Schriftenreihe der Arbeiterkammer Bremen
     language: German
@@ -8547,6 +8704,8 @@ titles:
     subtitle: Ein anderer Stadtführer durch das Hannover der 20er Jahre
     authors:
       - Adelheid von Saldern
+    editors:
+      - Geschichtswerkstatt
     year: 1987
     language: German
     pages: 144
@@ -8738,8 +8897,11 @@ titles:
     verified: true
   - title: Die beiden Seiten des Lebens
     subtitle: Von d. Zeitnot zur Zeitsouveränität
+    original_title: Tempo da vedere, tempo da usare
     authors:
       - Carla Ravaioli
+    translators:
+      - Francesca Brunetta
     year: 1987
     language: German
     sources:
@@ -9140,6 +9302,8 @@ titles:
     subtitle: 'Wider den Zeitgeist: erste Gnadenlose Generaldebatte zur Endgültigen Klärung aller Unzeitgemässen Fragen, 21.-23. Nov. 1986 in Frankfurt am Main: Protokolle'
     authors:
       - Kongress Prima Klima (1st 1986 Frankfurt am Main, Germany)
+    editors:
+      - Helmut Schauer
     year: 1987
     language: German
     pages: 218
@@ -9728,6 +9892,8 @@ titles:
     subtitle: Frauenpolitik für die 90er Jahre
     authors:
       - Otti Stein
+    editors:
+      - Marianne Weg
     year: 1988
     language: German
     pages: 214
@@ -9957,6 +10123,8 @@ titles:
     subtitle: 'Arbeiterbewegung in Hamburg von den Anfängen bis 1945: Katalogbuch zu Ausstellungen des Museums für Hamburgische Geschichte'
     authors:
       - Ulrich Bauche
+    editors:
+      - Museum für Hamburgische Geschichte
     year: 1988
     language: German
     pages: 322
@@ -10031,6 +10199,8 @@ titles:
     subtitle: Die Angestellten
     authors:
       - Siegfried Bleicher
+    editors:
+      - Franz Steinkühler
     year: 1988
     language: German
     pages: 284
@@ -10105,6 +10275,9 @@ titles:
     subtitle: 'Nachrichten aus dem Hamburger Alltag: Ausstellungskatalog'
     authors:
       - Herbert Hötte
+    editors:
+      - Antje Kelm
+      - Hamburg
     year: 1989
     language: German
     pages: 188
@@ -10185,6 +10358,8 @@ titles:
     subtitle: Sozialgeschichte und Technik der Trittauer Wassermühle von 1650 bis heute
     authors:
       - Adelgard Scheuermann
+    editors:
+      - Trittau
     year: 1989
     language: German
     pages: 77
@@ -10205,6 +10380,8 @@ titles:
     subtitle: Ein politisches Reisebuch
     authors:
       - Luiz Ramalho
+    editors:
+      - Klaus Hart
     year: 1989
     language: German
     pages: 288
@@ -10344,6 +10521,8 @@ titles:
     subtitle: Strukturwandel der Stadtregionen New York und Boston
     authors:
       - Ulrich Becker
+    editors:
+      - Technische Universität Berlin
     year: 1989
     language: German
     pages: 249
@@ -10388,6 +10567,8 @@ titles:
     subtitle: Technikentwicklung und Streik
     authors:
       - Lothar Zechlin
+    editors:
+      - Karl-Jürgen Bieback
     year: 1989
     language: German
     pages: 187
@@ -10668,6 +10849,8 @@ titles:
     subtitle: 'Vor-Ort-Report über Gesundheitsfragen: die Beschäftigten verbessern ihre Arbeitsbedingungen'
     authors:
       - Rolf Satzer
+    editors:
+      - Siegfried Bleicher
     year: 1989
     language: German
     pages: 300
@@ -10732,6 +10915,8 @@ titles:
     subtitle: Alternativen einer arbeitnehmerInnenorientierten [sic] Weiterbildung
     authors:
       - Bernd Zimmermann
+    editors:
+      - Hans Philipzig
     year: 1989
     language: German
     pages: 193
@@ -11097,6 +11282,8 @@ titles:
     subtitle: 'Der Frauenkampf für "staatsbürgerliche" Gleichberechtigung: ein Bilder-Lese-Buch zu Frauenalltag und Frauenbewegung in Hamburg'
     authors:
       - Karen Hagemann
+    editors:
+      - Landeszentrale für Politische Bildung
     year: 1990
     edition: 1. Aufl
     language: German
@@ -11239,6 +11426,8 @@ titles:
     subtitle: 18 Stadtteilrundgänge durch Geschichte und Gegenwart
     authors:
       - Hans-Jürgen Bömelburg
+    editors:
+      - Verein für Sozialgeschichte Mainz
     year: 1990
     language: German
     pages: 107
@@ -11868,6 +12057,9 @@ titles:
     subtitle: 'Zwangsarbeit von KZ-Häftlingen für Industrie und Behörden: Symposion "Wirtschaft und Konzentrationslager"'
     authors:
       - Symposion "Wirtschaft und Konzentrationslager" (1988 Hamburg, Germany)
+    editors:
+      - Maria Beimel
+      - Hamburger Stiftung zur Förderung von Wissenschaft und Kultur
     year: 1991
     language: German
     pages: 227
@@ -11911,6 +12103,8 @@ titles:
   - title: Die Intellektuellen und die Macht
     authors:
       - Pierre Bourdieu
+    editors:
+      - Irene Dölling
     year: 1991
     language: German
     isbn: '3879755639'
@@ -12081,6 +12275,8 @@ titles:
     authors:
       - Wilfried Weinke
       - Ulrich Bauche
+    editors:
+      - Ursula Wamser
     year: 1991
     language: German
     pages: 247
@@ -12232,8 +12428,11 @@ titles:
     verified: true
   - title: Marxismus und Kultur
     subtitle: Ideologie, Alltag, Literatur
+    original_title: Marxismo e letteratura
     authors:
       - Antonio Gramsci
+    translators:
+      - Sabine Kebir
     year: 1991
     language: German
     sources:
@@ -12444,6 +12643,8 @@ titles:
     subtitle: 'Lesebuch zur Geschichte der Kölner Metall-Gewerkschaften: Quellen und Dokumente'
     authors:
       - Witich Rossmann
+    editors:
+      - Witich Roßmann
     year: 1991
     language: German
     isbn: '3879755396'
@@ -12624,6 +12825,7 @@ titles:
     verified: true
   - title: Das Reich des Chaos
     subtitle: Der neue Vormarsch der Ersten Welt
+    original_title: <<L'>>empire du chaos
     authors:
       - Samīr Amīn
     year: 1992
@@ -12653,6 +12855,9 @@ titles:
     series: Schriften zu Politik & Kultur / Pierre Bourdieu. Hrsg. von Margareta Steinrücke; 1
     authors:
       - Pierre Bourdieu
+    editors:
+      - Margareta Steinrücke
+    translators:
       - Jürgen Bolder
       - Ulrike Nordmann
     year: 1992
@@ -12923,6 +13128,7 @@ titles:
     authors:
       - Pierre Bourdieu
       - Margareta Steinrücke
+    translators:
       - Jürgen Bolder
     year: 1992
     language: German
@@ -13144,6 +13350,8 @@ titles:
     subtitle: Relikt vergangener Zeiten oder Gestaltungsebene mit Zukunft?
     authors:
       - Angestelltenkammer Bremen
+    editors:
+      - Armin Mittelstädt
     year: 1993
     language: German
     pages: 161
@@ -13186,6 +13394,9 @@ titles:
     subtitle: Zur Kulturgeschichte und Ökologie von Herd, Kühlschrank und Waschmaschine
     authors:
       - Detlef Stender
+    editors:
+      - Ursula Schneider
+      - Museum der Arbeit
     year: 1993
     language: German
     pages: 169
@@ -13345,6 +13556,8 @@ titles:
       - Heiner Ganssmann
       - Stephan Krüger
       - Veit-Michael Bader
+    editors:
+      - Heiner Ganßmann
     year: 1993
     language: German
     pages: 204
@@ -13985,6 +14198,8 @@ titles:
     subtitle: Folgen des Nazifaschismus für Hamburger Musiker und Musikerinnen
     authors:
       - Peter Petersen
+    editors:
+      - Universität Hamburg
     year: 1995
     edition: Völlig neu bearbeitete Aufl
     language: German
@@ -14042,6 +14257,8 @@ titles:
       - Theodor Bergmann
       - Wladislaw Hedeler
       - Gert Schäfer
+    editors:
+      - Mario Kessler
     year: 1996
     language: German
     pages: 401
@@ -14354,6 +14571,8 @@ titles:
     authors:
       - Pierre Bourdieu
       - Margareta Steinrücke
+    translators:
+      - Jürgen Bolder
     year: 1997
     language: German
     sources:
@@ -14619,6 +14838,8 @@ titles:
     authors:
       - Elmar Altvater
       - Eberhard Fehrmann
+    editors:
+      - Angestelltenkammer Bremen
     year: 1997
     language: German
     pages: 206
@@ -14738,6 +14959,8 @@ titles:
   - title: Aufstehen für eine andere Politik
     authors:
       - Friedrich Schorlemmer
+    editors:
+      - Angelika Beier
     year: 1998
     language: German
     pages: 118
@@ -15057,6 +15280,8 @@ titles:
     authors:
       - Oskar Negt
       - Henner Wolter
+    editors:
+      - Rudolf Dreßler
     year: 1998
     language: German
     pages: 270
@@ -15147,6 +15372,8 @@ titles:
     subtitle: Interkulturelle Verantwortung der Gewerkschaften
     authors:
       - Peyman Javaher-Haghighi
+    editors:
+      - Gazi Çağlar
     year: 1998
     language: German
     pages: 103
@@ -15212,6 +15439,9 @@ titles:
     subtitle: 50 Jahre Hochschule fur Wirtschaft und Politik Hamburg
     authors:
       - Wulf D. Hund (Hrsg.)
+    editors:
+      - Wulf D. Hund
+      - Hochschule für Wirtschaft und Politik
     year: 1998
     language: German
     pages: 206
@@ -15325,6 +15555,8 @@ titles:
       - Klaus Kittler
       - K. Pape
       - ZEPRA e.V. Jahrestagung
+    editors:
+      - ZEPRA e.V.
     year: 1999
     language: German
     pages: 116
@@ -15344,6 +15576,7 @@ titles:
     subtitle: Dokumentation der Jahrestagung 1999 von ZEPRA (Landesarbeitsgemeinschaft der Arbeitslosenprojekte für Erwachsene in Niedersachsen)
   - title: Befreiung der Arbeit
     subtitle: Die Gewerkschaften, die Linke und die Krise des Fordismus
+    original_title: Città del lavoro
     authors:
       - Bruno Trentin
     year: 1999
@@ -15601,6 +15834,8 @@ titles:
     subtitle: Eine Jahrhundertbilanz
     authors:
       - Eckart Spoo
+    editors:
+      - Gisbert Schlemmer
     year: 1999
     language: German
     pages: 205
@@ -15980,6 +16215,8 @@ titles:
   - title: Alternative, soziale Gerechtigkeit
     authors:
       - Erfurter Ratschlag (3rd 2000)
+    editors:
+      - Angelika Beier
     year: 2000
     language: German
     pages: 110
@@ -16097,8 +16334,11 @@ titles:
     verified: true
   - title: Der Marxismus Antonio Gramscis
     subtitle: Von der Utopie zum kritischen Sozialismus
+    original_title: Antonio Gramsci dal liberalismo al "communismo critico"
     authors:
       - Domenico Losurdo
+    editors:
+      - Harald Neubert
     year: 2000
     language: German
     sources:
@@ -16205,6 +16445,8 @@ titles:
     authors:
       - Uli Cremer
       - Dieter S. Lutz
+    editors:
+      - Ulrich Cremer
     year: 2000
     language: German
     pages: 204
@@ -16302,6 +16544,8 @@ titles:
     subtitle: Von der Standort- zur Zukunftsdebatte
     authors:
       - Heiner Flassbeck
+    editors:
+      - Otto Brenner Stiftung
     year: 2000
     edition: 2. Aufl
     language: German
@@ -16343,6 +16587,7 @@ titles:
     verified: true
   - title: Ein neues Akkumulationsregime
     subtitle: Die Regulationstheorie auf dem Prüfstand
+    original_title: Le capitalisme au tournant du siècleLe capitalisme de demain
     authors:
       - Michel Aglietta
     year: 2000
@@ -16583,6 +16828,9 @@ titles:
       - Ulrike Teste
       - Gemeinnütziges Bildungswerk des Deutschen Gewerkschaftsbundes
       - BAD-Gesundheitsvorsorge und -Sicherheitstechnik GmbH
+    editors:
+      - Ulrike Teske
+      - Bernd Witte
     year: 2000
     language: German
     sources:
@@ -16615,6 +16863,8 @@ titles:
     subtitle: Optionen für eine andere Politik
     authors:
       - Hans-Jürgen Urban
+    editors:
+      - Horst Schmitthenner
     year: 2000
     edition: 2. Aufl
     language: German
@@ -16980,6 +17230,8 @@ titles:
     authors:
       - Wolfgang Bey
       - Manfred Klaus
+    editors:
+      - Rosa-Luxemburg-Stiftung
     year: 2001
     language: German
     pages: 382
@@ -17477,6 +17729,8 @@ titles:
       - Thomas Bleitner
       - Marily Stroux
       - Germany) MOTTE (Hamburg
+    editors:
+      - Verein für Stadtteilbezogene Kultur- und Sozialarbeit Motte
     year: 2001
     language: German
     pages: 264
@@ -17759,6 +18013,10 @@ titles:
     series: Schriften zu Politik & Kultur; 4
     authors:
       - Pierre Bourdieu
+    editors:
+      - Margareta Steinrücke
+    translators:
+      - Jürgen Bolder
     year: 2001
     language: German
     sources:
@@ -18066,6 +18324,9 @@ titles:
       - Pierre Bourdieu
       - Franz Schultheis
       - Margareta Steinrücke
+    translators:
+      - Franz Hector
+      - Jürgen Bolder
     year: 2002
     language: German
     sources:
@@ -18464,6 +18725,8 @@ titles:
     subtitle: Über Fundamentalismus, Schurkenstaaten und neue Kriege
     authors:
       - Joachim Bischoff
+    editors:
+      - Amy Holmes
     year: 2002
     language: German
     pages: 198
@@ -18814,9 +19077,11 @@ titles:
     verified: true
   - title: 'WTO: Demokratie statt Drakula'
     subtitle: Für ein gerechtes Welthandelssystem
+    original_title: Remettre l'OMC à sa place
     series: AttacBasisTexte; 1
     authors:
       - Susan George
+    translators:
       - Joachim Wilke
     year: 2002
     language: German
@@ -18932,6 +19197,7 @@ titles:
     verified: true
   - title: Äktionärsdemokratie" als soziale Utopie?"
     subtitle: Über das neue Finanzregime und Wirtschaftsdemokratie
+    original_title: Fonds de pension, piège à cons?
     series: Raisons d'agir
     authors:
       - Frédéric Lordon
@@ -19086,6 +19352,7 @@ titles:
     authors:
       - Makoto Itō
       - Thomas Hock
+    translators:
       - Bernhard Müller
     year: 2003
     language: German
@@ -19119,6 +19386,8 @@ titles:
   - title: Die IG Metall auf dem Weg in die Mitte?
     authors:
       - 'Gewerkschafts- und Gesellschaftspolitisches Forum der IG M l (2003 : Bildungsstätte Berlin Pichelsee)'
+    editors:
+      - Joachim Beerhorst
     year: 2003
     language: German
     pages: 174
@@ -19368,6 +19637,8 @@ titles:
     authors:
       - Arno Klönne
       - Karl A. Otto
+    editors:
+      - Karl Heinz Roth
     year: 2003
     language: German
     pages: 313
@@ -19393,8 +19664,10 @@ titles:
     verified: true
   - title: Für ein nicht-amerikanisches 21. Jahrhundert
     subtitle: Der in die Jahre gekommene Kapitalismus
+    original_title: Au-delà du capitalisme sénile
     authors:
       - Samīr Amīn
+    translators:
       - Joachim Wilke
     year: 2003
     language: German
@@ -19450,6 +19723,8 @@ titles:
     subtitle: Politische Gestaltung und soziale Grundwerte
     authors:
       - Susan George
+    editors:
+      - Otto Brenner Stiftung
     year: 2003
     language: German
     pages: 158
@@ -19704,6 +19979,8 @@ titles:
     subtitle: 'Zur Aktualität der Kritik der politischen Ökonomie: für Klaus Peter Kisker zum 70. Geburtstag'
     authors:
       - Klaus Peter Kisker
+    editors:
+      - Olaf Gerlach
     year: 2003
     language: German
     pages: 279
@@ -19937,6 +20214,8 @@ titles:
     subtitle: Wege zu neuen Kriegen
     authors:
       - Eckart Spoo
+    editors:
+      - Rainer Butenschön
     year: 2003
     language: German
     pages: 210
@@ -19971,6 +20250,8 @@ titles:
     subtitle: 'Dokumentation des Wochenendseminars "Nach der UNO-Konferenz von Durban, ''Welcher Widerstand gegen Welchen Rassismus''?": ein Seminar zu Rassismus, zu Entschädigung der Opfer und zu den Ursachen des Terrorismus am 24. und 25. November 2001 in Frankfurt a.M'
     authors:
       - Wilfried Dubois
+    editors:
+      - Jakob-Moneta-Stiftung
     year: 2003
     language: German
     pages: 81
@@ -20009,6 +20290,8 @@ titles:
       - Ulrike Hoppe
       - Greta Rambatz
       - Hannelore Zuschlag
+    editors:
+      - Stadtteilarchiv
     year: 2003
     language: German
     sources:
@@ -20019,6 +20302,7 @@ titles:
     verified: true
   - title: Absturz Oder Sinkflug Des Adlers?
     subtitle: Der Niedergang der Amerikanischen Macht
+    original_title: The decline of American Power
     authors:
       - Immanuel Maurice Wallerstein
     year: 2004
@@ -20057,6 +20341,8 @@ titles:
       - Gabriele Cortés
       - Bertin Eichler
       - Johannes Rau
+    editors:
+      - Otto Brenner Stiftung
     year: 2004
     language: German
     sources:
@@ -20255,6 +20541,9 @@ titles:
     subtitle: Gender Mainstreaming - Erfahrungen, Beispiele, Strategien aus Schweden und Deutschland
     authors:
       - Klaus Lang
+    editors:
+      - Margret Mönig-Raane
+      - Gisela Pettersson
     year: 2004
     language: German
     pages: 206
@@ -20329,6 +20618,7 @@ titles:
         url: https://search.worldcat.org/title/57541237
     verified: true
   - title: Ein anti-kapitalistisches Manifest
+    original_title: An Anti-Capitalist Manifesto
     authors:
       - Alex Callinicos
     year: 2004
@@ -20375,6 +20665,8 @@ titles:
     subtitle: Von bedingungslosem Grundeinkommen, gesetzlichen Mindestlöhnen und anderen Verteilungsfragen
     authors:
       - Axel Gerntke
+    editors:
+      - Koordinierungsstelle Gewerkschaftlicher Arbeitslosengruppen
     year: 2004
     language: German
     pages: 110
@@ -20437,6 +20729,8 @@ titles:
     subtitle: 'Vollbeschaftigung, Wohlfahrt und ein starker offentlicher Sektor: demokratische Herausfordungen in einer erweiterten Union'
     authors:
       - Miren Etxezarreta
+    editors:
+      - European Economists for an Alternative Economic Policy in Europe
     year: 2004
     language: German
     pages: 177
@@ -20600,6 +20894,7 @@ titles:
     verified: true
     series: Supplement der Zeitschrift Sozialismus; 2004,10
   - title: Globaler Kapitalismus und amerikanisches Imperium
+    original_title: Global capitalism and American empire
     authors:
       - Leo Panitch
       - Sam Gindin
@@ -20887,6 +21182,8 @@ titles:
       - Walter Hanesch
       - Karl Koch
       - Franz Segbers
+    editors:
+      - Caritasverband für die Diözese Limburg
     year: 2004
     language: German
     pages: 181
@@ -21473,6 +21770,8 @@ titles:
     subtitle: Chancen und Risiken fur Gleichstellungspolitik nach der EU-Erweiterung
     authors:
       - Christiane Wilke
+    editors:
+      - Kirsten Rölke
     year: 2005
     language: German
     pages: 182
@@ -21597,6 +21896,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=490800912
     verified: true
   - title: Der neue Imperialismus
+    original_title: The new imperialism
     authors:
       - David Harvey
     year: 2005
@@ -21647,6 +21947,7 @@ titles:
     verified: true
   - title: Die Arbeitskämpfe von morgen?
     subtitle: Arbeitsbedingungen und Konflikte im Dienstleistungsbereich
+    original_title: Probleme und Perspektiven des Arbeitskampfes im Dienstleistungsbereich
     authors:
       - Peter Renneberg
     year: 2005
@@ -21718,8 +22019,9 @@ titles:
     series: Schriften zu Politik und Kultur / Pierre Bourdieu; 1, Ausg. 2005
     authors:
       - Pierre Bourdieu
-      - Jürgen Bolder
       - Margareta Steinrücke
+    translators:
+      - Jürgen Bolder
     year: 2005
     language: German
     sources:
@@ -21768,6 +22070,8 @@ titles:
     subtitle: 'Jenseits von Lissabon: wirtschafts- und sozialpolitische Leitlinien und Eckpunkte einer Verfassung für das europäische Gesellschaftsmodell'
     authors:
       - Miren Etxezarreta
+    editors:
+      - European Economists for an Alternative Economic Policy in Europe
     year: 2005
     language: German
     pages: 95
@@ -21912,6 +22216,8 @@ titles:
       - Jürgen Peters
       - Hans Hoffmann
       - Udo Schmode
+    editors:
+      - IG M l
     year: 2005
     edition: 1. Aufl
     language: German
@@ -21949,6 +22255,8 @@ titles:
     subtitle: Widersprüche der Globalisierung in verschiedenen Weltregionen
     authors:
       - Lyn Pratchett
+    editors:
+      - Alexander Badziura
     year: 2005
     language: German
     pages: 198
@@ -22031,6 +22339,8 @@ titles:
     series: Sozialismus “Hamburg”; 2005,11
     authors:
       - Bob Jessop
+    translators:
+      - Ingar Solty
     year: 2005
     language: German
     sources:
@@ -22095,6 +22405,8 @@ titles:
     subtitle: Ein Lebensweg als Gewerkschafter und Intellektueller
     authors:
       - Werner Thönnessen
+    editors:
+      - Jens Becker
     year: 2005
     language: German
     pages: 213
@@ -22157,6 +22469,8 @@ titles:
     subtitle: 'Biogramme und Briefe Hamburger Widerstandskämpfer 1933-1945: eine Ehrenhain-Dokumentation in Text und Bild'
     authors:
       - Ursel Hochmuth
+    editors:
+      - Vereinigung der Verfolgten des Naziregimes - Bund der Antifaschistinnen und Antifaschisten
     year: 2005
     language: German
     pages: 254
@@ -22258,6 +22572,8 @@ titles:
     authors:
       - Egon Matzner
       - Günther Chaloupek
+    editors:
+      - Günther K. Chaloupek
     year: 2005
     language: German
     pages: 420
@@ -22325,6 +22641,8 @@ titles:
     subtitle: '125 Jahre Bürgerverein St. Georg: ein Lese-Bilder-Buch'
     authors:
       - Bürgerverein St. Georg (Sankt Georg, Hamburg, Germany)
+    editors:
+      - Michael Joho
     year: 2005
     language: German
     pages: 147
@@ -22502,6 +22820,8 @@ titles:
     subtitle: Von Ägenda 2010" bis "Zumutbarkeit""
     authors:
       - Hans-Jürgen Urban
+    editors:
+      - Otto Brenner Stiftung
     year: 2006
     series: OBS-Schriftenreihe
     language: German
@@ -22815,6 +23135,8 @@ titles:
     subtitle: Demokratische Politik gegen die Herrschaft der Märkte; Vorschläge für eine integrierte Entwicklungsstrategie in Europa
     authors:
       - Miren Etxezarreta
+    editors:
+      - European Economists for an Alternative Economic Policy in Europe
     year: 2006
     language: German
     pages: 130
@@ -22956,6 +23278,8 @@ titles:
     subtitle: Studierendenproteste gegen neoliberale Hochschulreformen
     authors:
       - Dirk Hauer
+    editors:
+      - Hamburger Universität für Wirtschaft und Politik
     year: 2006
     language: German
     pages: 79
@@ -23128,6 +23452,9 @@ titles:
     authors:
       - Claus Schäfer
       - Hartmut Seifert
+    editors:
+      - Hans-Böckler-Stiftung
+      - Wirtschafts- und Sozialwissenschaftliches Institut
     year: 2006
     language: German
     pages: 398
@@ -23522,6 +23849,7 @@ titles:
     verified: true
   - title: 'Wal-Mart: Frauen im Ausverkauf'
     subtitle: Meilensteine im Kampf um Arbeitsrechte
+    original_title: Selling women short
     authors:
       - Liza Featherstone
     year: 2006
@@ -23532,6 +23860,7 @@ titles:
     verified: true
   - title: 'WalMart: Frauen im Ausverkauf'
     subtitle: Meilensteine im Kampf um Arbeitsrechte
+    original_title: Selling women short
     authors:
       - Liza Featherstone
     year: 2006
@@ -23582,9 +23911,10 @@ titles:
     authors:
       - Pierre Bourdieu
       - Axel Bolder
+      - Margareta Steinrücke
+    translators:
       - Franz Hector
       - Jürgen Bolder
-      - Margareta Steinrücke
     year: 2006
     language: German
     sources:
@@ -23683,6 +24013,8 @@ titles:
       - Michaela Rosenberger
       - Birgit Pitsch
       - Marianne Lange
+    editors:
+      - Gewerkschaft Nahrung-Genuss-Gaststätten
     year: 2007
     language: German
     pages: 206
@@ -23703,6 +24035,8 @@ titles:
     subtitle: Studien zum "proletarischen Mai" in Europa
     authors:
       - Gerd-Rainer Horn
+    editors:
+      - Bernd Gehrke
     year: 2007
     language: German
     pages: 334
@@ -23808,6 +24142,8 @@ titles:
     subtitle: 175 Jahre Amalie-Sieveking-Stiftung
     authors:
       - Michael Joho
+    editors:
+      - Amalie-Sieveking-Stiftung
     year: 2007
     edition: 1. Aufl
     language: German
@@ -23881,6 +24217,8 @@ titles:
     subtitle: Reden und Schriften für eine starke IG Metall
     authors:
       - Jürgen Peters
+    editors:
+      - Georgios Arwanitidis
     year: 2007
     language: German
     pages: 244
@@ -24168,6 +24506,8 @@ titles:
     subtitle: Vom Anfang der Bundesrepublik bis in die 1990er Jahre
     authors:
       - Udo Achten
+    editors:
+      - IG M l
     year: 2007
     language: German
     pages: 494
@@ -24313,6 +24653,9 @@ titles:
     subtitle: Das Buch zum dritten Kongress von Attac, BUND, Evangelischer Entwicklungsdienst, Greenpeace, Heinrich Böll Stiftung, in Kooperation mit dem Wuppertal Institut für Klima, Umwelt, Energie
     authors:
       - McPlanet.com. Kongress
+    editors:
+      - Stefanie Hundsdorfer
+      - Attac Deutschland
     year: 2007
     language: German
     pages: 191
@@ -24621,8 +24964,11 @@ titles:
     verified: true
   - title: Räume der Neoliberalisierung
     subtitle: Zur Theorie der ungleichen Entwicklung
+    original_title: Spaces of neoliberalization
     authors:
       - David Harvey
+    translators:
+      - Jürgen Pelzer
     year: 2007
     language: German
     sources:
@@ -24635,6 +24981,8 @@ titles:
     subtitle: Selbstorganisierung und Partizipation in Venezuela
     authors:
       - Andrej Holm
+    editors:
+      - Gruppe MovimentoR
     year: 2007
     language: German
     pages: 269
@@ -24712,6 +25060,9 @@ titles:
     subtitle: Armut, Klimawandel, Menschenrechtsverletzungen
     authors:
       - Uwe Hoering
+    editors:
+      - Peter Lanzet
+      - Forum Umwelt & Entwicklung
     year: 2007
     language: German
     sources:
@@ -24874,6 +25225,7 @@ titles:
     verified: true
   - title: Adam Smith in Beijing
     subtitle: Die Genealogie des 21. Jahrhunderts
+    original_title: Adam Smith in Beijing
     authors:
       - Giovanni Arrighi
     year: 2008
@@ -24959,6 +25311,8 @@ titles:
     authors:
       - Karin Küblböck
       - Cornelia Staritz
+    editors:
+      - Österreichische Forschungsstiftung für Internationale Entwicklung
     year: 2008
     language: German
     pages: 238
@@ -25143,6 +25497,8 @@ titles:
     subtitle: Kritik des EU-"Reformvertrags"
     authors:
       - Andreas Fisahn
+    editors:
+      - Regina Viotto
     year: 2008
     language: German
     pages: 175
@@ -25163,6 +25519,9 @@ titles:
     subtitle: Liberalisierung und Privatisierung öffentlicher Dienstleistungen und ihre Folgen für die Tarifpolitik
     authors:
       - Torsten Brandt
+    editors:
+      - Thorsten Schulten
+      - Gabriele Sterkel
     year: 2008
     language: German
     pages: 398
@@ -25408,6 +25767,8 @@ titles:
     subtitle: Akteure - Orte - Strategien
     authors:
       - Hans-Böckler-Stiftung
+    editors:
+      - Christoph Haug
     year: 2008
     language: German
     pages: 254
@@ -25448,6 +25809,7 @@ titles:
     verified: true
   - title: Kapitalismus 3.0
     subtitle: Ein Leitfaden zur Wiederaneignung der Gemeinschaftsgüter
+    original_title: Capitalism 3.0
     authors:
       - Peter Barnes
     year: 2008
@@ -25531,6 +25893,8 @@ titles:
     subtitle: Die Kämpfe der Beschäftigten gegen die Liberalisierung der Hafenarbeit
     authors:
       - Udo Achten
+    editors:
+      - Bernt Kamin-Seggewies
     year: 2008
     language: German
     pages: 190
@@ -25579,6 +25943,8 @@ titles:
     subtitle: Anlässe für Vermittlung und Beratung
     authors:
       - Peter Faulstich
+    editors:
+      - Mechthild Bayer
     year: 2008
     language: German
     sources:
@@ -25627,6 +25993,8 @@ titles:
     authors:
       - Frank Deppe
       - Hans-Jürgen Urban
+    editors:
+      - Horst Schmitthenner
     year: 2008
     language: German
     pages: 117
@@ -25811,6 +26179,8 @@ titles:
     subtitle: Die Bedeutung der Massenstreiks in der Metallindustrie vom Januar 1918
     authors:
       - Lothar Wentzel
+    editors:
+      - Chaja Boebel
     year: 2008
     language: German
     pages: 143
@@ -25883,6 +26253,9 @@ titles:
     subtitle: Aktuelle Entwicklungen in der Tarifpolitik
     authors:
       - WSI-Tariftagung (2007 Düsseldorf, Germany)
+    editors:
+      - Reinhard Bispinck
+      - Wirtschafts- und Sozialwissenschaftliches Institut
     year: 2008
     language: German
     pages: 182
@@ -26131,6 +26504,8 @@ titles:
     subtitle: Auswirkungen auf Beschäftigte, Interessenvertretungen und Gewerkschaften
     authors:
       - Frank Bethke
+    editors:
+      - Arbeit und Leben DGB/VHS Nordrhein-Westfalen e.V.
     year: 2009
     language: German
     pages: 64
@@ -26495,6 +26870,8 @@ titles:
       - Elke Hannack
       - Bernhard Jirku
       - Holger Menze
+    editors:
+      - Ver.di - Vereinte Dienstleistungsgewerkschaft
     year: 2009
     language: German
     pages: 301
@@ -26551,6 +26928,8 @@ titles:
     subtitle: The Dismal State of Democracy in the European Union and How to Mend It
     authors:
       - Michael Efler
+    editors:
+      - Democracy International
     year: 2009
     language: English
     pages: 159
@@ -26726,6 +27105,8 @@ titles:
     subtitle: Attac, Analysen und Alternativen
     authors:
       - Robert P. Brenner
+    editors:
+      - Maren Schlierkamp
     year: 2009
     language: German
     pages: 237
@@ -26929,6 +27310,8 @@ titles:
     subtitle: Betriebe und Verwaltungen im Umbruch-- die Interessenvertretung der Zukunft
     authors:
       - Frank Lorenz
+    editors:
+      - Franz Lorenz
     year: 2009
     language: German
     pages: 179
@@ -27020,8 +27403,11 @@ titles:
     verified: true
   - title: Rebell zwischen Traum und Tat
     subtitle: Ernest Mandel (1923 - 1995)
+    original_title: Ernest Mandel
     authors:
       - Jan Willem Stutje
+    translators:
+      - Klaus Mellenthin
     year: 2009
     language: German
     sources:
@@ -27088,6 +27474,8 @@ titles:
     subtitle: Deportiert von Hamburg nach Riga; Bericht einer Überlebenden
     authors:
       - Fanny Englard
+    editors:
+      - Gine Elsner
     year: 2009
     language: German
     sources:
@@ -27313,8 +27701,10 @@ titles:
     verified: true
   - title: Den Sozialismus neu denken
     subtitle: Gibt es ein Leben nach dem Neoliberalismus?
+    original_title: Socialismo siglo XXI
     authors:
       - Atilio Borón
+    translators:
       - Ingo Malcher
     year: 2010
     language: German
@@ -27449,6 +27839,8 @@ titles:
     subtitle: 'Spurensicherung: die IG Metall Nürnberg zwischen 1945 und 1983: Geschichte erlebt und erzählt'
     authors:
       - Horst Klaus
+    editors:
+      - IG M l
     year: 2010
     language: German
     pages: 301
@@ -28156,8 +28548,11 @@ titles:
     series: Schriften zu Politik & Kultur; 2
     authors:
       - Pierre Bourdieu
-      - Jürgen Bolder
       - Ulrike Nordmann
+    editors:
+      - Margareta Steinrücke
+    translators:
+      - Jürgen Bolder
     year: 2011
     language: German
     sources:
@@ -28191,8 +28586,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1620538709
     verified: true
   - title: Die revolutionären Ideen von Karl Marx
+    original_title: <<The>> revolutionary ideas of Marx
     authors:
       - Alex Callinicos
+    translators:
       - David Paenson
     year: 2011
     language: German
@@ -28365,6 +28762,10 @@ titles:
     subtitle: Mobilität, Arbeit, Konversion
     authors:
       - Mario Candeias
+    editors:
+      - Rainer Rilling
+      - Bernd Röttger
+      - Stefan Thimmel
     year: 2011
     language: German
     pages: 278
@@ -28423,6 +28824,8 @@ titles:
     subtitle: Theorie und Praxis städtischer Aneignungen
     authors:
       - Andrej Holm
+    editors:
+      - Dirk Gebhardt
     year: 2011
     language: German
     pages: 286
@@ -28740,6 +29143,8 @@ titles:
     subtitle: Entwicklungsansätze für eine lebenswerte Kommune
     authors:
       - Wenke Christoph
+    editors:
+      - Katharina Weise
     year: 2011
     series: Crashkurs Kommune -- 5
     language: German
@@ -28770,6 +29175,10 @@ titles:
     subtitle: Im finanzmarktdominierten Kapitalismus
     authors:
       - Alex Demirović
+    editors:
+      - Julia Dück
+      - Florian Becker
+      - Pauline Bader
     year: 2011
     language: German
     pages: 228
@@ -29011,8 +29420,10 @@ titles:
     verified: true
   - title: Der Marxismus Antonio Gramscis
     subtitle: Von der Utopie zum "kritischen Kommunismus"
+    original_title: Antonio Gramsci dal liberalismo al "communismo critico"
     authors:
       - Domenico Losurdo
+    translators:
       - Erdmute Brielmayer
     year: 2012
     language: German
@@ -29105,6 +29516,7 @@ titles:
     verified: true
   - title: Die urbanen Wurzeln der Finanzkrise
     subtitle: Die Stadt für den antikapitalistischen Kampf zurückgewinnen
+    original_title: The urban roots of financial crises
     series: Supplement der Zeitschrift Sozialismus; 2012,2
     authors:
       - David Harvey
@@ -29150,6 +29562,7 @@ titles:
     subtitle: Warum Europa tief in der Krise steckt - zehn Länder-Fallstudien
     authors:
       - Steffen Lehndorff
+    translators:
       - Alexander Gallas
     year: 2012
     language: German
@@ -29274,6 +29687,8 @@ titles:
       - Frank Bsirske
       - Andrea Kocsis
       - Franz Treml
+    editors:
+      - Stiftung Deutsche Postgewerkschaft
     year: 2012
     language: German
     pages: 173
@@ -29447,6 +29862,7 @@ titles:
     verified: true
   - title: Kampf in den Städten
     subtitle: Gesellschaftliche Widersprüche und politische Macht
+    original_title: Luttes urbaines et pouvoir politique
     series: 'VSA-Reprint: 40 Jahre Links'
     authors:
       - Manuel Castells
@@ -29464,6 +29880,7 @@ titles:
     subtitle: Eine Flugschrift
     authors:
       - David Harvey
+    translators:
       - Christian Frings
     year: 2012
     language: German
@@ -29550,6 +29967,8 @@ titles:
     subtitle: Kooperation statt Konfrontation
     authors:
       - Egon Bahr
+    editors:
+      - Dietlind Klemm
     year: 2012
     language: German
     pages: 198
@@ -29598,6 +30017,12 @@ titles:
   - title: Rechtspopulismus in der Europäischen Union
     authors:
       - Heiko Bolldorf
+    editors:
+      - Nikolai Huke
+      - Andreas Meyerhöfer
+      - Aljoscha Pilger
+      - Oliver Römer
+      - Philipps-Universität Marburg
     year: 2012
     language: German
     sources:
@@ -29712,6 +30137,7 @@ titles:
     authors:
       - Pierre Bourdieu
       - Margareta Steinrücke
+    translators:
       - Franz Hector
       - Jürgen Bolder
     year: 2012
@@ -29755,6 +30181,8 @@ titles:
     subtitle: 'Deportiert von Köln: Bericht einer Überlebenden des Holocaust'
     authors:
       - Lilly Menczel
+    editors:
+      - Gine Elsner
     year: 2012
     language: German
     sources:
@@ -29901,6 +30329,8 @@ titles:
     authors:
       - Paul Tiefenbach
       - Roman Huber
+    editors:
+      - Mehr Demokratie e.V.
     year: 2013
     language: German
     sources:
@@ -29937,6 +30367,8 @@ titles:
     authors:
       - Jürgen Tempel
       - Juhani Ilmarinen
+    editors:
+      - Marianne Giesert
     year: 2013
     language: German
     sources:
@@ -30274,6 +30706,7 @@ titles:
     subtitle: Eine Flugschrift
     authors:
       - Mark Fisher
+    translators:
       - Johannes Springer
     year: 2013
     language: German
@@ -30375,6 +30808,8 @@ titles:
       - Konrad Klockow
       - Peter Offenborn
       - Jörg Petersen
+    editors:
+      - Galerie Morgenland
     year: 2013
     language: German
     pages: 95
@@ -30740,6 +31175,8 @@ titles:
       - Mario Neumann
       - Thomas Seibert
       - Andrea Ypsilanti
+    editors:
+      - Institut Solidarische Moderne
     year: 2014
     language: German
     pages: 301
@@ -30793,8 +31230,10 @@ titles:
     verified: true
   - title: Das Rätsel des Kapitals entschlüsseln
     subtitle: Den Kapitalismus und seine Krisen überwinden
+    original_title: The enigma of capital and the crises of capitalism
     authors:
       - David Harvey
+    translators:
       - Christian Frings
     year: 2014
     language: German
@@ -31106,6 +31545,9 @@ titles:
     subtitle: Kooperationsfelder von Wissenschaft und Gewerkschaften
     authors:
       - 'Totgesagte leben länger? : Perspektiven der Industriearbeit im Gegenwartskapitalismus : Herausforderungen für Arbeitsforschung und Gewerkschaften (Symposium) (2014 Frankfurt am Main, Germany)'
+    editors:
+      - Detlef Wetzel
+      - Hans-Jürgen Urban
     year: 2014
     language: German
     pages: 129
@@ -31203,6 +31645,7 @@ titles:
     verified: true
   - title: Modell Deutschland? Nein Danke!
     subtitle: Französische Anregungen für die Zukunft Europas und seiner Industrie
+    original_title: Made in Germany
     authors:
       - Guillaume Duval
     year: 2014
@@ -32109,6 +32552,8 @@ titles:
     subtitle: Jahrbuch
     authors:
       - Transform! European Network for Alternative Thinking and Political Dialogue
+    editors:
+      - Transform Europe
     year: 2015
     language: German
     sources:
@@ -34061,6 +34506,7 @@ titles:
       - Pierre Bourdieu
       - Margareta Steinrücke
       - Axel Bolder
+    translators:
       - Jürgen Bolder
       - Franz Hector
       - Joachim Wilke
@@ -35060,6 +35506,8 @@ titles:
     subtitle: Horst Arenz, Helmut Asche, Heinz Bierbaum, Joachim Bischoff... et al
     authors:
       - R. F. A.] Projekt Klassenanalyse. [Berlin
+    editors:
+      - Horst Arenz
     language: Not recorded
     sources:
       - title: BnF catalogue record cb342580127

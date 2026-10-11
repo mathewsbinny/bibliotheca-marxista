@@ -332,6 +332,7 @@ titles:
     verified: true
   - title: Gia tin exousía tōn Soviét
     subtitle: Méros prṓto
+    original_title: За власть Советов
     authors:
       - Valentin Petrovitch Kataev
       - Jean Meynaud
@@ -746,6 +747,7 @@ titles:
         url: https://www.sudoc.fr/242792561
     verified: true
   - title: Ī moíra enós anthrṓpou
+    original_title: Судьба человека
     authors:
       - Mihail Aleksandrovič Šolohov
       - Jean Meynaud
@@ -967,6 +969,7 @@ titles:
         url: https://search.worldcat.org/title/84163202
     verified: true
   - title: Déka méres pou sygklónisan ton kósmo
+    original_title: Ten days that shook the world
     authors:
       - John Reed
       - Jean Meynaud
@@ -1795,9 +1798,11 @@ titles:
         url: https://www.sudoc.fr/281677697
     verified: true
   - title: Anamnī́seis enós kouréa
+    original_title: Memorie di un barbiere
     authors:
       - Giovanni Germanetto
       - Palmiro Togliatti
+    translators:
       - Giōrgis Kélas
       - Γιώργης Κέλας
     year: 1964
@@ -1903,9 +1908,10 @@ titles:
     subtitle: Mythistórima
     authors:
       - Jorge Amado
+      - Jean Meynaud
+    translators:
       - Kōstas Kotzias
       - Κωστας Κοτζιας
-      - Jean Meynaud
     year: 1964
     language: Greek
     sources:
@@ -2494,9 +2500,10 @@ titles:
     authors:
       - Sophocle
       - Σοφοκλής
+      - Jean Meynaud
+    translators:
       - Kōnstantínos Mános
       - Κωνσταντίνος Μάνος
-      - Jean Meynaud
     year: 1966
     language: Greek
     sources:
@@ -2588,6 +2595,7 @@ titles:
   - title: To galázio tetrádio
     authors:
       - Emmanouil Guenrikhovitch Kazakevitch
+    translators:
       - Mítsos Alexandrópoulos
       - Μήτσος Αλεξανδρόπουλος
     year: 1966
@@ -2725,9 +2733,10 @@ titles:
     subtitle: Vivlío prṓto
     authors:
       - Konstantin Mihajlovič Simonov
+      - Jean Meynaud
+    translators:
       - Níkos Kitópoulos
       - Νίκος Κιτόπουλος
-      - Jean Meynaud
     year: 1967
     language: Greek
     sources:
@@ -2746,13 +2755,15 @@ titles:
     verified: true
   - title: Ī fámprika tou thanátou
     subtitle: Mia martyría gia to Auchwitz
+    original_title: Továrna na smrt
     authors:
       - Otto B. Kraus
       - Erich Kulka
       - Vašek Káňa
+      - Jean Meynaud
+    translators:
       - Nikos Papandreou
       - Νίκος Παπανδρέου
-      - Jean Meynaud
     year: 1967
     language: Greek
     sources:
@@ -2771,9 +2782,10 @@ titles:
   - title: Ī léfka me to kókkino mantī́li
     authors:
       - Čingiz Torekulovič Ajtmatov
+      - Jean Meynaud
+    translators:
       - Giṓrgis Dentrinós
       - Γιώργης Δεντρινός
-      - Jean Meynaud
     year: 1967
     language: Greek
     sources:
@@ -3068,6 +3080,7 @@ titles:
         url: https://search.worldcat.org/title/1287862980
     verified: true
   - title: Ī 18e Brumaire tou Loudovíkou Vonapárti
+    original_title: Der achtzehnte Brumaire des Louis Bonaparte
     authors:
       - Karl Marx
       - Jean Meynaud
@@ -3141,11 +3154,13 @@ titles:
     verified: true
   - title: Ole Mpinkop
     subtitle: Mythistórīma
+    original_title: Ole Bienkopp
     authors:
       - Erwin Strittmatter
+      - Jean Meynaud
+    translators:
       - Níkos Kitópoulos
       - Νίκος Κιτόπουλος
-      - Jean Meynaud
     year: 1968
     language: Greek
     sources:

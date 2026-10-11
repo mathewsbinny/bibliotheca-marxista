@@ -117,7 +117,7 @@ async function hathiFullView(keys) {
   for (let i = 0; i < keys.length; i += 20) {
     const batch = keys.slice(i, i + 20);
     const data = await cached(`https://catalog.hathitrust.org/api/volumes/brief/json/${batch.map(encodeURIComponent).join('|')}`);
-    for (const [key, v] of Object.entries(data)) {
+    for (const [key, v] of Object.entries(data ?? {})) { // none when offline
       const open = (v.items ?? []).find((it) => it.usRightsString === 'Full view');
       if (open) found.set(key, { url: v.records && Object.values(v.records)[0]?.recordURL || open.itemURL, rights: open.rightsCode });
     }
@@ -128,7 +128,7 @@ async function hathiFullView(keys) {
 /** Project Gutenberg's catalogue, indexed by author surname. */
 async function gutenbergIndex() {
   const rows = await cached('https://www.gutenberg.org/cache/epub/feeds/pg_catalog.csv', async (res) => parseCsv(await res.text()));
-  const [header, ...body] = rows;
+  const [header, ...body] = rows ?? [[]]; // none when offline
   const col = (name) => header.indexOf(name);
   const [id, type, title, authors] = ['Text#', 'Type', 'Title', 'Authors'].map(col);
   const index = new Map();
@@ -289,7 +289,7 @@ async function mirTitlesPosts() {
   const posts = [];
   for (let page = 1; page <= 60; page++) {
     const data = await cached(`https://public-api.wordpress.com/rest/v1.1/sites/mirtitles.org/posts?number=100&page=${page}&fields=ID,title,URL,tags`);
-    for (const p of data.posts ?? []) {
+    for (const p of data?.posts ?? []) {
       const full = decodeEntities(p.title).trim();
       // The author list follows the last " by ".
       const at = full.toLowerCase().lastIndexOf(' by ');

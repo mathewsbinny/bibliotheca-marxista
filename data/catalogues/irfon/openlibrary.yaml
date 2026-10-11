@@ -587,6 +587,8 @@ titles:
     subtitle: Satiricheskiĭ rasskaz
     authors:
       - Fitrat
+    translators:
+      - L. Kandinov
     year: 1964
     language: Russian
     pages: 46
@@ -2318,6 +2320,8 @@ titles:
     subtitle: Ukazatelʹ literatury
     authors:
       - Rina Osipovna Talʹman
+    editors:
+      - N. N. (Numan Negmatovich) Negmatov
     year: 1967
     language: Russian
     pages: 87
@@ -4334,6 +4338,8 @@ titles:
   - title: Materializmi taʺrikhĭ
     subtitle: TSikli lektsiiaḣo
     authors: []
+    editors:
+      - A. M. Baḣovaddinov
     year: 1969
     language: Tajik
     pages: 301
@@ -4544,7 +4550,8 @@ titles:
         url: https://lccn.loc.gov/77263835
     verified: true
   - title: Tadžikskie narodnye skazki
-    authors:
+    authors: []
+    translators:
       - Klavdiâ Aleksandrovna Ulugzade
       - Klavdiia Aleksandrovna Ulugzade (Клавдия Александровна Улугзаде)
     year: 1969
@@ -5043,6 +5050,11 @@ titles:
     subtitle: Kniga puteshestviia
     authors:
       - Nāṣir-i Khusraw
+    editors:
+      - Kamol Ajni
+      - Kamol Aini (Камол Айни)
+      - Salohat Ajni
+      - Salokhat Aini (Салохат Айни)
     year: 1970
     language: Tajik
     pages: 116
@@ -5643,6 +5655,7 @@ titles:
     verified: true
   - title: Kitobi hakim Sindbol
     subtitle: Zahirii Samarkandi "Sindbadname"
+    original_title: Mille et une nuits
     authors:
       - Č. Azizkulov
       - C. Azizkulov (Ч. Азизкулов)
@@ -6446,7 +6459,8 @@ titles:
     subtitle: Nigoh̦i toza, èh̦sos, ruboiët
   - title: Pesni strany pevcov
     subtitle: Iz tadžikskoj narodnoj poèzii
-    authors:
+    authors: []
+    translators:
       - Naum Grebnev
       - Naum Grebnev (Наум Гребнев)
     year: 1972
@@ -7496,6 +7510,8 @@ titles:
     verified: true
   - title: Sukhanvaroni saĭqali rŭi zamin
     authors: []
+    editors:
+      - S. Davronov
     year: 1973
     language: Tajik
     pages: 246
@@ -10388,8 +10404,15 @@ titles:
         url: https://search.worldcat.org/title/215098060
     verified: true
   - title: Salaman i Absalʹ
+    original_title: Salāmān va Absāl
     authors:
       - Jami
+    editors:
+      - Kamal S. Ajni
+      - Kamal S. Aini (Камал С. Айни)
+    translators:
+      - Vladimir Deržavin
+      - Vladimir Derzhavin (Владимир Державин)
     year: 1977
     language: Russian, Persian
     pages: 110
@@ -11361,6 +11384,7 @@ titles:
     subtitle: Stikhi
     authors:
       - Avicenne
+    translators:
       - A. Maniiazov
       - Kamāl ʻAynī
       - Kh Sharifov
@@ -11385,6 +11409,7 @@ titles:
     subtitle: Vospominaniâ v dvuh knigah
     authors:
       - Sadriddin Ai̇nī
+    translators:
       - Sergej Borodin
       - Sergei Borodin (Сергей Бородин)
     year: 1980
@@ -11727,6 +11752,8 @@ titles:
   - title: V.I. Lenin i podgotovka partiĭnykh i sovetskikh kadrov v Sredneĭ Azii (1917-1924 gg.)
     authors:
       - I. Kelʹdiev
+    editors:
+      - Imomnazar Kelʹdiev
     year: 1980
     language: Russian
     pages: 207
@@ -12314,7 +12341,8 @@ titles:
         url: https://catalog.hathitrust.org/Record/010044947
     verified: true
   - title: Srednevekovye fantastičeskie rasskazy
-    authors:
+    authors: []
+    translators:
       - S. Hovari
       - S. Khovari (С. Ховари)
     year: 1981
@@ -14327,6 +14355,9 @@ titles:
   - title: Zvezdy poėzii
     authors:
       - I. S. Braginskiĭ
+    editors:
+      - Iosif Samuilovič Braginskij
+      - E. Braginskii (И. Брагинский)
     year: 1984
     language: Russian
     pages: 516
@@ -17709,6 +17740,7 @@ titles:
         url: https://lccn.loc.gov/92226126
     verified: true
   - title: Husravnoma
+    original_title: Khusraw-namah
     authors:
       - Farīd al-Dīn ʿAṭṭār
     year: 1990

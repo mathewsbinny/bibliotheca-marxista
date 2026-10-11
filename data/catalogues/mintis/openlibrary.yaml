@@ -87,6 +87,9 @@ titles:
     subtitle: 'Apie 45,000 žodžiu̧. Redakcinė kolegija: J. Balčikonis ... J. Kruopas (atsak. redaktorius) [et al.]'
     authors:
       - Lietuvių kalbos ir literatūros institutas (Lietuvos TSR Mokslų akademija)
+    editors:
+      - Juozas Balčikonis
+      - Jonas Kruopas
     year: 1954
     language: Lithuanian
     pages: 990
@@ -509,6 +512,9 @@ titles:
       - Jonas Kabelka
       - Kazys Ulvydas
       - Bronė Vosylytė
+    editors:
+      - J. Kruopas
+      - J. Kabelka
     year: 1956
     language: Lithuanian
     sources:
@@ -815,6 +821,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/009106079
     verified: true
   - title: Grammatica Litvanica et Compendium Litvanico-Germanicum. M.DC.LIII-M.DC.LIV
+    original_title: Grammatika Litvanica
     authors:
       - Daniel Klein
       - Juozas Balčikonas
@@ -919,6 +926,8 @@ titles:
   - title: Lietuvių literatūros istorija
     authors:
       - Lietuvių kalbos ir literatūros institutas (Lietuvos TSR Mokslų akademija)
+    editors:
+      - Kostas Korsakas
     year: 1957
     language: Lithuanian
     sources:
@@ -971,6 +980,9 @@ titles:
   - title: Lietuvos TSR ekonominė geografija
     authors:
       - Geologijos ir geografijos institutas (Lietuvos TSR Mokslų akademija)
+    editors:
+      - Kazys Meškauskas
+      - Stanislovas Tarvydas
     year: 1957
     language: Lithuanian
     pages: 401
@@ -987,6 +999,8 @@ titles:
   - title: Lietuvos TSR istorija
     authors:
       - Istorijos institutas (Lietuvos TSR Mokslų akademija)
+    editors:
+      - Juozas Z̆iugz̆da
     year: 1957
     language: Lithuanian
     sources:
@@ -1016,6 +1030,8 @@ titles:
   - title: Lietuvos valstiečiai XIX amžiuje
     authors:
       - Istorijos institutas (Lietuvos TSR Mokslų akademija)
+    editors:
+      - Juozas Jurginis
     year: 1957
     language: Lithuanian
     pages: 270
@@ -1094,6 +1110,10 @@ titles:
     subtitle: 'Sudarė: E. Juškiene, M. Katibienė, K. Kaziūnienė, D. Šlapoberskis. Redagavo: D. Šlapoberskis'
     authors:
       - Dovydas Šlapoberskis
+    editors:
+      - Elena Juškienė
+      - Marija Katilienė
+      - Kunigunda Kazūnienė
     year: 1957
     language: Lithuanian
     sources:
@@ -1128,6 +1148,8 @@ titles:
   - title: Rinktiniai raštai
     authors:
       - Jonas Jablonskis
+    editors:
+      - Jonas Palionis
     year: 1957
     language: Lithuanian
     sources:
@@ -1406,6 +1428,8 @@ titles:
   - title: Giesmės tikėjimui katalickam priderančios, 1646
     authors:
       - Salomon Mozerka Slawoczyński
+    editors:
+      - Jurgis Lebedys
     year: 1958
     edition: Fotografuotinis leidimas / paruošė Jurgis Lebedys
     language: Lithuanian
@@ -1439,6 +1463,11 @@ titles:
     subtitle: '[Vyriaus, redaktorius J. Žiugžda]'
     authors:
       - Istorijos institutas (Lietuvos TSR Mokslų akademija)
+    editors:
+      - Juozas Jurginis
+      - Pranas Kulikauskas
+      - Angelė Vyšniauskaitė
+      - Juozas Žiugžda
     year: 1958
     language: Lithuanian
     sources:
@@ -1668,6 +1697,11 @@ titles:
   - title: Lietuvos TSR istorija
     authors:
       - Lietuvos Tarybų Socialistinės Respublikos Mokslų Akademija
+    editors:
+      - Konstantinas Jablonskis
+      - Juozas Jurginis
+      - Romas Šarmaitis
+      - Juozas Žiugžda
     year: 1958
     language: Lithuanian
     sources:
@@ -1811,6 +1845,8 @@ titles:
   - title: Rinktiniai raštai
     authors:
       - Kazimieras Būga
+    editors:
+      - Zigmas Zinkevičius
     year: 1958
     language: Lithuanian
     sources:
@@ -2019,6 +2055,8 @@ titles:
   - title: Kalba ir senovė
     authors:
       - Kazimieras Būga
+    editors:
+      - Zigmas Zinkevičius
     year: 1959
     language: German, Lithuanian, Russian
     sources:
@@ -2123,6 +2161,7 @@ titles:
         url: https://catalogo.bne.es/discovery/fulldisplay?docid=alma991032399329708606&vid=34BNE_INST:CATALOGO
     verified: true
   - title: Lietuvos TSR flora
+    original_title: Flora von Lettland
     authors:
       - K. Brundza
       - Biologijos institutas (Lietuvos TSR Mokslų akademija)
@@ -2363,6 +2402,8 @@ titles:
   - title: Sportinių terminų žodynas
     authors:
       - Lietuvos Valstybinis kūno kultūros institutas
+    editors:
+      - Vytautas Steponaitis
     year: 1959
     language: Lithuanian
     pages: 338
@@ -2399,6 +2440,8 @@ titles:
     verified: true
   - title: Tarybinis lietuvių literatūros mokslas ir kṙitika apie literatūrini palikimą... bibliografinė rodyklė
     authors: []
+    editors:
+      - E. Stanevi iené
     year: 1959
     language: Lithuanian
     sources:
@@ -2428,8 +2471,10 @@ titles:
     verified: true
   - title: Žuvys dainuoja Ukajalyje
     subtitle: '= Ryby śpiewają w Ukajali = Ryby pojut v Ukajali: na litovskom jazyke'
+    original_title: Ryby śpiewają w Ukajali
     authors:
       - Arkady Fiedler
+    translators:
       - J. Černiauskienė
     year: 1959
     language: Lithuanian
@@ -2727,6 +2772,8 @@ titles:
     pages: 42
   - title: Lietuvių literatūriniai ryšiai... bibliografinė rodyklė
     authors: []
+    editors:
+      - E. Stanevi iené
     year: 1960
     language: Multiple languages
     sources:
@@ -3047,6 +3094,8 @@ titles:
     subtitle: 1918-1919 metų revoliuciniụ įvykių Lietuvoje dalyviụ atsiminimai
     authors:
       - Partijos istorijos institutas (Vilnius, Lithuania)
+    editors:
+      - Bronius Vaitkevičius
     year: 1960
     language: Lithuanian
     pages: 526
@@ -3187,6 +3236,8 @@ titles:
   - title: Už socialistinę Lietuvą
     authors:
       - Juozas Žiugžda
+    editors:
+      - Juozas Jurginis
     year: 1960
     series: 20 metų LTSR
     language: Lithuanian
@@ -3532,6 +3583,8 @@ titles:
   - title: Kultūros-švietimo įstaigose
     authors:
       - Respublikinis kultūros-švietimo darbo mokslinis-metodinis kabinetas
+    editors:
+      - B. Pociūtė
     year: 1961
     language: Lithuanian
     pages: 79
@@ -3704,6 +3757,8 @@ titles:
     authors:
       - Konstantinas Jablonskis
       - Rimantas Jasas
+    editors:
+      - Jerzy Orda
     year: 1961
     language: Lithuanian
     sources:
@@ -4003,6 +4058,9 @@ titles:
     verified: false
   - title: 'Archyviniai dokumentai apie nacionalistu antiliaudine veikla .Spaudai paruoše: B. Baranauskas, J. Vicas'
     authors: []
+    editors:
+      - Boleslovas Baranauskas
+      - J. Vicas
     year: 1962
     language: Lithuanian
     sources:
@@ -4175,6 +4233,8 @@ titles:
   - title: Lietuvių tautosaka
     authors:
       - Lietuvių kalbos ir literatūros institutas (Lietuvos TSR Mokslų akademija)
+    editors:
+      - Kostas Korsakas
     year: 1962
     language: Lithuanian
     sources:
@@ -4220,6 +4280,8 @@ titles:
     subtitle: Apie 37 000 žodžių
     authors:
       - Antanas Lyberis
+    editors:
+      - Ch Lemchenas
     year: 1962
     language: Lithuanian
     pages: 747
@@ -4248,6 +4310,9 @@ titles:
     subtitle: Dokumentų rinkinys
     authors:
       - Istorijos institutas (Lietuvos TSR Mokslų akademija)
+    editors:
+      - Konstantinas Jablonskis
+      - Mečislovas Jučas
     year: 1962
     language: Lithuanian
     pages: 461
@@ -4388,6 +4453,10 @@ titles:
   - title: Literatūros terminų žodynas. Litovsko-russkiĭ slovarʹ literaturovedcheskikh terminov
     authors:
       - Lietuvių kalbos ir literatūros institutas (Lietuvos TSR Mokslų akademija)
+    editors:
+      - J. Petronis
+      - V. Vanargas
+      - A. Zalatorius
     year: 1962
     language: Lithuanian
     sources:
@@ -4863,6 +4932,9 @@ titles:
   - title: Lietuvos TSR upių ir ežerų vardynas
     authors:
       - Lietuvių kalbos ir literatūros institutas (Lietuvos TSR Mokslų akademija)
+    editors:
+      - Bronys SavuKynas
+      - E. Grinaveckienė
     year: 1963
     language: Lithuanian
     pages: 225
@@ -5164,6 +5236,8 @@ titles:
     verified: true
   - title: Buržuazinių, nacionalistų, gaujų siautéjimas Dzūkijoje. Spaudai paruošé V. Ditkevičius. Redagavo Z. Vasiliauskas
     authors: []
+    editors:
+      - V. Ditkevicius
     year: 1964
     language: Lithuanian
     sources:
@@ -5441,6 +5515,8 @@ titles:
     authors:
       - C̆eslovas Zgirskis
       - Vytautas Kalinauskas
+    editors:
+      - Česlovas Zgirskis
     year: 1964
     language: Lithuanian
     sources:
@@ -5473,6 +5549,8 @@ titles:
   - title: Lietuviu etnografijos bruoz̆ai
     authors:
       - Istorijos institutas (Lietuvos TSR Mokslų akademija)
+    editors:
+      - Angelė Vyšniauskaitė
     year: 1964
     language: Multiple languages
     pages: 680
@@ -5613,6 +5691,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb352675419
     verified: true
   - title: Lucreti De rerum natura libri six
+    original_title: De la nature
     authors:
       - Lucrèce
       - M. Račkauskas
@@ -5827,6 +5906,9 @@ titles:
   - title: Voprosy stratigrafii i paleogeografii Devona Pribaltiki
     authors:
       - Soveshchanie po stratigrafii i paleogeografii Devona Pribaltiki (1962 Vil'nius, Lithuania)
+    editors:
+      - Valentina Karatajūtė-Talimaa
+      - V. Narbutas
     year: 1964
     language: Russian
     pages: 145
@@ -5884,6 +5966,8 @@ titles:
     subtitle: Dokumentų rinkinys
   - title: «Geležinis vilkas». Rinkinį paruošé B. Baranauskas
     authors: []
+    editors:
+      - Boleslovas Baranauskas
     year: 1965
     language: Lithuanian
     sources:
@@ -6234,6 +6318,8 @@ titles:
     subtitle: '[Vyr. redaktorius K. Ulvydas]'
     authors:
       - Lietuvių kalbos ir literatūros institutas (Lietuvos TSR Mokslų akademija)
+    editors:
+      - Kazimieras Ulvydas
     year: 1965
     language: Lithuanian
     sources:
@@ -6419,6 +6505,8 @@ titles:
       - G. Erslavaitė
       - Boleslovas Baranauskas
       - E. Rozauskas
+    editors:
+      - Kazys Rukšṅas
     year: 1965
     language: Lithuanian
     sources:
@@ -6581,6 +6669,9 @@ titles:
   - title: 'Publicistika. Sudaré: S.J. Jokubka ir J.S. Mažeika Redagavo R. Žiugžda'
     authors:
       - Leonas Prūseika
+    editors:
+      - S. J. Jokubka
+      - J. S. Mažeika
     year: 1965
     language: Lithuanian
     sources:
@@ -7215,8 +7306,9 @@ titles:
   - title: Kiedy powstała religia
     authors:
       - Bronius Genzelis
-      - E. Frolóv
       - Leidykla "Mintis"
+    translators:
+      - E. Frolóv
     year: 1966
     language: Polish
     sources:
@@ -7305,6 +7397,9 @@ titles:
   - title: Laiškai
     authors:
       - Gediminas
+    editors:
+      - I. Stal
+      - Vladimiras Pašuta
     year: 1966
     language: Lithuanian
     sources:
@@ -7399,6 +7494,12 @@ titles:
       - J. Kruopas
       - Z. Jonikaitė
       - A. Kučinskaitė
+    editors:
+      - Zuzana Jonikaitė
+      - Jonas Kruopas
+      - Antanė Kučinskaitė
+      - Jonas Paulauskas
+      - Kazys Ulvydas
     year: 1966
     language: Lithuanian
     sources:
@@ -7492,6 +7593,7 @@ titles:
     authors:
       - Tedas Butkus
       - Arolfas Medonis
+    translators:
       - Vertė V. Grodzenskis
     year: 1966
     language: German
@@ -7542,6 +7644,8 @@ titles:
   - title: Mažoji lietuviškoji tarybinė enciklopedija
     authors:
       - Juozas Matulis
+    editors:
+      - Juozas Banaitis
     year: 1966
     language: Lithuanian
     sources:
@@ -7606,8 +7710,9 @@ titles:
   - title: Obojętni wstać!
     authors:
       - Aleksandr Aleksandrovič Lacis
-      - G. Berłowicz
       - Leidykla "Mintis"
+    translators:
+      - G. Berłowicz
     year: 1966
     language: Polish
     sources:
@@ -7687,6 +7792,8 @@ titles:
   - title: Prūsų kalbos paminklai
     authors:
       - Vytautas Mažiulis
+    editors:
+      - Vytautas P. Mažiulis
     year: 1966
     language: Lithuanian
     sources:
@@ -7910,6 +8017,8 @@ titles:
   - title: Vilniaus Universitetas
     authors:
       - A. Bendžius
+    editors:
+      - R. Bendžius
     year: 1966
     language: Lithuanian
     sources:
@@ -8106,6 +8215,8 @@ titles:
     subtitle: Sbornik dokumentov
     authors:
       - A. Gaigalaitė
+    editors:
+      - Bronius Vaitkevičius
     year: 1967
     series: Iz istorii grazhdanskoĭ voĭny v SSSR
     language: Russian
@@ -8272,6 +8383,8 @@ titles:
     verified: true
   - title: 'Kaupimas ir vartojimas Lietuvos TSR Kolūkiuose. Redakciné kolegija: B. Blazys, V. Januškevičius, V. Mališauskas (atsakingas redaktorius), K. Meškauskas'
     authors: []
+    editors:
+      - V. Mališauskas
     year: 1967
     language: Lithuanian
     sources:
@@ -8387,6 +8500,8 @@ titles:
     authors:
       - V. Ambrazas
       - Lietuvių kalbos ir literatūros institutas (Lietuvos TSR Mokslų akademija)
+    editors:
+      - Vytautas Ambrazas
     year: 1967
     language: Lithuanian
     pages: 193
@@ -8402,6 +8517,8 @@ titles:
     verified: true
   - title: 'Lietuvių kalba tarybiniais metais. Atsakingas redaktorius: Vytautas Ambrazas'
     authors: []
+    editors:
+      - Vytautas Ambrāzas
     year: 1967
     language: Not recorded
     sources:
@@ -8619,6 +8736,8 @@ titles:
     verified: true
   - title: Litva za polveka novoĭ ėpokhi
     authors: []
+    editors:
+      - Kazys Meškauskas
     year: 1967
     language: Russian
     pages: 448
@@ -8842,6 +8961,9 @@ titles:
   - title: Popierius, Lietuvoje XV - XVIIIa
     authors:
       - Edmundas Laucevičius
+    editors:
+      - Litauische Sozialistische Sowjetrepublik
+      - Akademija Nauk Litovskoj SSR
     year: 1967
     language: Russian
     sources:
@@ -8909,9 +9031,10 @@ titles:
   - title: Przesądy w medycynie ludowej
     authors:
       - K. Vaitkevičius
-      - Stanisław Jakutis
       - P. Trainys
       - Leidykla "Mintis"
+    translators:
+      - Stanisław Jakutis
     year: 1967
     language: Polish
     sources:
@@ -8956,6 +9079,9 @@ titles:
     authors:
       - Jonas Baronas
       - V. Galinis
+    editors:
+      - Vytautas Galinis
+      - Vytautas Baronas
     year: 1967
     language: Russian
     sources:
@@ -9039,6 +9165,8 @@ titles:
     verified: true
   - title: Tarybinės valstybės ir teisės pagrindai
     authors: []
+    editors:
+      - Kęstutis Domaševičius
     year: 1967
     language: Lithuanian
     pages: 417
@@ -9516,6 +9644,8 @@ titles:
     subtitle: Nacionalistu̜ antiliaudinė veikla pietinėje Žemaitijos dalyje
     authors:
       - R. Čepas
+    editors:
+      - Zenonas Vasiliauskas
     year: 1968
     series: Archyviniai dokumentai, 9. rinkinys
     language: Lithuanian
@@ -9540,6 +9670,9 @@ titles:
     verified: true
   - title: Kruvinos žudikų pèdos, nacionalistų antiliaudiné veikla pietinéje Žemaitijos dalyje. Rinkinį sudarè R. Čepas. Redagavo Z. Vasiliauskas
     authors: []
+    editors:
+      - Ričardas Čepas
+      - Z. Vasiliauskas
     year: 1968
     language: Lithuanian
     sources:
@@ -9598,6 +9731,8 @@ titles:
   - title: Lietuvių kalbos vadovėlis
     authors:
       - Emilija Orvidienė
+    editors:
+      - Dalja Kondrato Orvidajte
     year: 1968
     language: Lithuanian
     pages: 519
@@ -10427,8 +10562,11 @@ titles:
     verified: true
   - title: Baltu̜ kalbos
     subtitle: Ju̜ tarpusavio santykiai ir santykiai su kitomis indoeuropiečiu̜ kalbomis; (baltu̜ kalbotyros i̜vadas)
+    original_title: Die baltischen Sprachen
     authors:
       - Ernst Frenkel
+    translators:
+      - Simas Karaliūnas
     year: 1969
     language: Lithuanian
     sources:
@@ -10680,15 +10818,17 @@ titles:
     verified: true
   - title: Kaip elgtis
     subtitle: 'Apie mandagumo taisyklės = Kak sebja vesti: na litovskom jazyke: perevod so slovackogo izdanija 1966 goda'
+    original_title: Čo sa sluší a čo nie
     authors:
       - Juraj Orlík
       - E. Križan
       - V. Banský
+      - B. Plochaneva
+    translators:
       - A. Aleksiūnaitė
       - Ona Deveikienė
       - D. Liguckienė
       - V. S. Andrusova
-      - B. Plochaneva
     year: 1969
     language: Lithuanian
     sources:
@@ -11056,6 +11196,8 @@ titles:
   - title: Lietuvos TSR bibliografija
     authors:
       - Gosudarstvennaja knižnaja palata Litovskoj SSR
+    editors:
+      - Antanas Ulpis
     year: 1969
     language: Lithuanian
     sources:
@@ -11359,6 +11501,8 @@ titles:
   - title: Tarptautinių žodžių žodynas
     authors:
       - F. N. Petrov
+    editors:
+      - I. Liochinas
     year: 1969
     language: Lithuanian
     pages: 802
@@ -11611,6 +11755,8 @@ titles:
     verified: true
   - title: Darbo įstatymų komentaras
     authors: []
+    editors:
+      - Aleksandr Nikolaevich Mishutin
     year: 1970
     language: Lithuanian
     pages: 622
@@ -11654,6 +11800,8 @@ titles:
     verified: true
   - title: Erz̆vilkas
     authors: []
+    editors:
+      - Antanas Stravinskas
     year: 1970
     language: Lithuanian
     pages: 272
@@ -12001,6 +12149,8 @@ titles:
     authors:
       - E. Grinaveckiene
       - Institut Litovskogo Jazyka i Literatury
+    editors:
+      - K. Morkunas
     year: 1970
     language: Lithuanian
     sources:
@@ -12112,6 +12262,8 @@ titles:
   - title: Lietuvos TSR hidronimų daryba. Redaktorè Elena Grinaveckienė
     authors:
       - Aleksandras Vanagas
+    editors:
+      - Elena Grinaveckienė
     year: 1970
     language: Lithuanian
     sources:
@@ -12228,6 +12380,9 @@ titles:
     subtitle: Trumpa istorine apybraiz̆a
     authors:
       - Jozas Matulis
+    editors:
+      - Juozas Matulis
+      - Vytautas Petrauskas
     year: 1970
     language: Lithuanian
     pages: 151
@@ -12252,6 +12407,7 @@ titles:
   - title: Muzej Vilʹnusskogo zamka
     authors:
       - I. Puipene (Я. Пуйпене)
+    translators:
       - G. Vebrene
       - G. Vebrene (Г. Вебрене)
     year: 1970
@@ -12303,6 +12459,8 @@ titles:
       - Kazys Rukšėnas
       - Lietuvos TSR Mokslų akademija
       - Lietuvos TSR Centriniai valstybiniai archyvai
+    editors:
+      - E. Rozauskas
     year: 1970
     language: Lithuanian
     pages: 185
@@ -12327,6 +12485,9 @@ titles:
     subtitle: (Baranauskas, B[oleslavas], K[azys] Rukšėnas); (Liet. TSR mokslu̜ Akad. Archyviniu̜ dokumentu̜ skelbimo Redakcija. Archyvu̜ Valdyba prie LTSR min. Tarybos LTSR Centr. valst. Archyvas); (Rinkini parnošė)
   - title: Nacionalistų talka hitlerininkams. Rinkini paruošé B. Baranauskas ir K. Rukšénas. Redagavo E. Rozauskas
     authors: []
+    editors:
+      - K. Ruks̆énas
+      - Boleslovas Baranauskas
     year: 1970
     language: Lithuanian
     sources:
@@ -12413,6 +12574,8 @@ titles:
     verified: true
   - title: Panemunių Dzūkai. Redagavo Angelė Vyšniauskaitė. Dailininké Vida Leonavičienė
     authors: []
+    editors:
+      - Angelė Vyšniauskaitė
     year: 1970
     language: Lithuanian
     sources:
@@ -12433,6 +12596,8 @@ titles:
     verified: true
   - title: Petras Kubertavičius. Sudare ir paruoše Antanas Vengris
     authors: []
+    editors:
+      - Antanas Vengris
     year: 1970
     language: Lithuanian
     sources:
@@ -12598,6 +12763,8 @@ titles:
   - title: The Vilnius University Library
     authors:
       - Z. Petrauskienė
+    translators:
+      - M. Ginsburgas
     year: 1970
     language: English
     pages: 46
@@ -12683,6 +12850,8 @@ titles:
     subtitle: (Trumpa raidos ir mokslines veiklos apzvalga)
     authors:
       - Zoologijos ir parazitologijos institutas (Lietuvos TSR Mokslų akademija)
+    editors:
+      - Petras Zajančkauskas
     year: 1970
     language: Lithuanian
     pages: 65
@@ -13111,6 +13280,8 @@ titles:
     subtitle: Apie 50 000 žodžių
     authors:
       - Antanas Lyberis
+    editors:
+      - Chackelis Lemchenas
     year: 1971
     language: Lithuanian
     pages: 893
@@ -13381,6 +13552,8 @@ titles:
   - title: Lietuvos valstiečių gyvenvietės ir sodybos
     authors:
       - I. Butkevičius
+    editors:
+      - Angelė Vyšniauskaitė
     year: 1971
     series: Iš lietuvių kultūros istorijos -- 6
     language: Lithuanian
@@ -13405,8 +13578,11 @@ titles:
     verified: true
     subtitle: = Poselki i usadʹby litovskich krestʹjan
   - title: Lietuvos valstybės susidarymas
+    original_title: Obrazovanie litovskogo gosudarstva
     authors:
       - Vladimir Terentʹevič Pašuto
+    translators:
+      - Rita Strazdūnaitė
     year: 1971
     language: Lithuanian
     sources:
@@ -13854,6 +14030,8 @@ titles:
     pages: 247
   - title: 'Vardai ir žodžiai. Sudaré: Bronys Savukynas. Kazys Kuzavinis ir Bronys Savukynas: Lietuvi ̨vardų etimologinis žodynas, ir Kalbotyros datynas 1971 metams. Dailininké Irena Katinienè'
     authors: []
+    editors:
+      - Bronys Savukynas
     year: 1971
     language: Lithuanian
     sources:
@@ -14006,6 +14184,8 @@ titles:
     subtitle: Apie 60 000 žodžių
     authors:
       - Lietuvių kalbos ir literatūros institutas (Lietuvos TSR Mokslų akademija)
+    editors:
+      - Jonas Kruopas
     year: 1972
     edition: 2. papildytas leidimas
     language: Lithuanian
@@ -14695,6 +14875,7 @@ titles:
         url: https://www.sudoc.fr/098092758
     verified: true
   - title: Razvitie èlektro- i radiosvâzi v Litve
+    original_title: Elektros ir radijo rysiai lietuvoje
     authors:
       - Povilas Vitkevičius
     year: 1972
@@ -15009,6 +15190,8 @@ titles:
   - title: Užsienio literatūros istorija
     subtitle: Ankstyvieji viduramžiai ir Renesansas
     authors: []
+    editors:
+      - Viktor Maksimovich Zhirmunskiĭ
     year: 1972
     language: Lithuanian
     pages: 431
@@ -15079,6 +15262,8 @@ titles:
     subtitle: Apie 60 000 žodžių ir posakių
     authors:
       - D. Slapoberskis
+    editors:
+      - David Maksimovič Šlapoberskis
     year: 1972
     edition: 2 leidimas
     language: Lithuanian
@@ -15833,6 +16018,8 @@ titles:
   - title: Mikalojus Kopernikas
     authors:
       - Eugeniusz Rybka
+    translators:
+      - Ligija Kaminskienė
     year: 1973
     language: Lithuanian
     pages: 67
@@ -15873,6 +16060,7 @@ titles:
     authors:
       - Û. Kasperavičius
       - I. Kasperavichius (Ю. Касперавичиус)
+    translators:
       - R. Šturo
       - R. Shturo (Р. Штуро)
       - P. Rimkâvičûs
@@ -15967,8 +16155,9 @@ titles:
   - title: Patriotas be paso
     authors:
       - Jerzy Wojciech Borejsza
-      - Baniute Medekšaite
       - Leidykla "Mintis"
+    translators:
+      - Baniute Medekšaite
     year: 1973
     language: Lithuanian
     sources:
@@ -16284,6 +16473,8 @@ titles:
     subtitle: 'Trudy II Vsesoiuz. konf. po teorii igr: Vilʹnius [22-28 iiunia] 1971'
     authors:
       - Vsesoiuznaia konferentsiia po teorii igr Vilna 1971
+    editors:
+      - Eduardas Vilkas
     year: 1973
     language: Russian
     pages: 332
@@ -16427,6 +16618,8 @@ titles:
     series: Lietuvos TSR archeologijos atlasas; 1
     authors:
       - Rimute Rimantiene
+    editors:
+      - Rimutė Rimantienė
     year: 1974
     language: Lithuanian
     sources:
@@ -16552,6 +16745,8 @@ titles:
   - title: Das souzialistische Litauen
     authors:
       - Motiejus Šumauskas
+    translators:
+      - Irena Vladimirovien°e
     year: 1974
     language: German
     pages: 141
@@ -16573,9 +16768,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1524193151
     verified: true
   - title: Die Wissenschaft in Litauen
+    original_title: Nauka v Litve
     series: Gintaras
     authors:
       - Jonas Samaitis
+    translators:
       - Irena Vladimirovienė
     year: 1974
     language: German
@@ -17418,6 +17615,8 @@ titles:
   - title: Sketches of Lithuanian Nature
     authors:
       - Rimantas Budrys
+    translators:
+      - Juozas Butkus
     year: 1974
     language: English
     sources:
@@ -17510,6 +17709,8 @@ titles:
   - title: The Lithuanian Musical Scene
     authors:
       - Jonas Bagdanskis
+    translators:
+      - Olimpija Armalytė
     year: 1974
     language: English
     pages: 120
@@ -17729,6 +17930,7 @@ titles:
         url: https://search.worldcat.org/title/29412749
     verified: true
   - title: Bilder der litauischen Natur
+    original_title: Lietuvos gamtos vaizdai
     authors:
       - Rimantas Budrys
       - Irena Vladimirovienė
@@ -17804,6 +18006,9 @@ titles:
   - title: Establishment of Socialism in Lithuania and Catholic Church
     authors:
       - Jonas Aničas
+    translators:
+      - Olimpija Armalyte
+      - Vladimiras Grodzenskis
     year: 1975
     language: English
     pages: 126
@@ -17946,6 +18151,8 @@ titles:
     authors:
       - D. Skuodžiūnienė
       - Lietuvos Komunistų partija. Centro Komitetas
+    editors:
+      - A. Viršulis
     year: 1975
     language: Lithuanian
     pages: 176
@@ -18012,8 +18219,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=502666390
     verified: true
   - title: La Lituanie de près
+    original_title: Litva vblizi
     authors:
       - Bronius Akstinas
+    translators:
+      - O. Tamasauskiene
     year: 1975
     language: French
     pages: 250
@@ -18086,6 +18296,8 @@ titles:
     subtitle: Nuo Batu antplūdžio iki mūšio prie Mėlynųjų Vandenų
     authors:
       - R. Batūra
+    editors:
+      - Vladimiras Pašuta
     year: 1975
     language: Lithuanian
     pages: 382
@@ -18252,6 +18464,8 @@ titles:
   - title: Litauische Künstler im Rampenlicht
     authors:
       - Jonas Bagdanskis
+    translators:
+      - Agne Blaževiciene
     year: 1975
     language: German
     sources:
@@ -18595,6 +18809,9 @@ titles:
     subtitle: An Economic Survey
     authors:
       - Kazys Meškauskas
+    translators:
+      - M. Ginzburgas
+      - Aldona Pocienė
     year: 1975
     language: English
     sources:
@@ -18690,6 +18907,9 @@ titles:
   - title: The Establishment of Socialism in Lithuania and the Catholic Church
     authors:
       - Jonas Aničas
+    translators:
+      - Olimpija Armalyte
+      - Vladimiras Grodzenskis
     year: 1975
     language: English, Lithuanian
     pages: 126
@@ -19148,6 +19368,8 @@ titles:
   - title: Lietuviai--Spalio revoliucijos ir pilietinio karo dalyviai
     authors:
       - Feliksas Bieliauskas
+    editors:
+      - B. Vonsavičius
     year: 1976
     language: Lithuanian
     sources:
@@ -19180,6 +19402,13 @@ titles:
     verified: true
   - title: Lietuvių kalbos žodynas
     authors: []
+    editors:
+      - Zuzana Jonikaitė
+      - Sofija Kėzytė
+      - Jonas Kruopas
+      - Antanė Kučinskaitė
+      - Antanas Lyberis
+      - Jonas Paulauskas
     year: 1976
     language: Lithuanian
     sources:
@@ -19356,6 +19585,8 @@ titles:
   - title: Lietuvos TSR Kultūros darbuotojų II suvažiavimas
     authors:
       - Lietuvos TSR Kultūros darbuotojų suvažiavimas (2nd 1975 Vilnius, Lithuania)
+    editors:
+      - K. Antanaitis
     year: 1976
     language: Lithuanian
     pages: 285
@@ -19435,6 +19666,8 @@ titles:
     subtitle: The Historic Turn to Socialism
     authors:
       - Vytautas Kancevičius
+    translators:
+      - M. Ginzburgas
     year: 1976
     language: English
     sources:
@@ -19871,6 +20104,9 @@ titles:
     subtitle: The State System
     authors:
       - Stasys Naujalis
+    translators:
+      - Vladimiras Grodzenskis
+      - Birutė Kiškytė
     year: 1976
     language: English
     pages: 78
@@ -19889,6 +20125,9 @@ titles:
   - title: Staatswesen der Litauischen SSR
     authors:
       - Stasys Naujalis
+    translators:
+      - Eduard Astramskas
+      - Elena Zambacevičiūtė
     year: 1976
     language: German
     sources:
@@ -19966,6 +20205,7 @@ titles:
         url: https://lccn.loc.gov/77578444
     verified: true
   - title: The Ninth Fort Accuses
+    original_title: Devâtyj fort obvinâet
     authors:
       - O. Kaplanas
     year: 1976
@@ -20121,8 +20361,11 @@ titles:
     verified: true
   - title: Wirtschaft der Litauischen SSR
     subtitle: Aus dem Litauischen
+    original_title: Ėkonomika sovetskoj Litvy
     authors:
       - Kazimieras Meškauskas
+    translators:
+      - Irena Vladimirovienė
     year: 1976
     language: German
     sources:
@@ -20594,6 +20837,8 @@ titles:
   - title: Klaipėda
     authors:
       - Audrius Zavadskis
+    translators:
+      - V. Grodzenskis
     year: 1977
     language: Lithuanian
     pages: 127
@@ -21042,7 +21287,8 @@ titles:
         url: https://lccn.loc.gov/79383685
     verified: true
   - title: Patyrusio vairuotojo patarimai
-    authors:
+    authors: []
+    translators:
       - Romanas Lapinskas
     year: 1977
     language: Lithuanian
@@ -21222,6 +21468,9 @@ titles:
     subtitle: Achievements and Prospects
     authors:
       - I. A. Maniushis
+    translators:
+      - Tomas Babičius
+      - Birutė Kiškytė
     year: 1977
     language: English
     pages: 141
@@ -21248,6 +21497,7 @@ titles:
   - title: Sowjetlitauen
     authors:
       - Romualdas Petraitis
+    translators:
       - Irena Vladimirovienè
     year: 1977
     language: German
@@ -21567,8 +21817,9 @@ titles:
   - title: Vil'nûsskij kafedral'nyj sobor
     authors:
       - Napaleonas Kitkauskas
-      - Lûbov Alekseevna Černaâ
       - Leidykla "Mintis"
+    translators:
+      - Lûbov Alekseevna Černaâ
     year: 1977
     language: Russian
     sources:
@@ -21609,6 +21860,7 @@ titles:
     authors:
       - A. B. Papšis
       - A. B. Papshis (А.Б. Папшис)
+    translators:
       - L. Gelʹpernas
       - L. Gelpernas (Л. Гельпернас)
     year: 1977
@@ -21709,6 +21961,8 @@ titles:
   - title: Vilnius Cathedral
     authors:
       - Napoleonas Kitkauskas
+    translators:
+      - Juozas Butkus
     year: 1977
     language: English
     pages: 77
@@ -21896,6 +22150,8 @@ titles:
   - title: Ateizmo žodynas
     authors:
       - Pranas Aksamitas
+    editors:
+      - Kestutis Demskis
     year: 1978
     language: Lithuanian
     pages: 175
@@ -21974,6 +22230,8 @@ titles:
   - title: Druskininkai
     authors:
       - Romas Sadauskas
+    translators:
+      - Olimpija Armalytė
     year: 1978
     language: English
     pages: 45
@@ -22023,6 +22281,9 @@ titles:
   - title: Glimpses of Lithuania
     authors:
       - Bronius Akstinas
+    translators:
+      - Birutė Kiškytė
+      - Lionginas Pažūsis
     year: 1978
     language: English
     sources:
@@ -22173,6 +22434,8 @@ titles:
     subtitle: Straipsnių rinkinys
     authors:
       - Bronius Kuzmickas
+    editors:
+      - Bronislavas Juozas Kuzmickas
     year: 1978
     language: Lithuanian
     pages: 180
@@ -22187,6 +22450,7 @@ titles:
         url: https://search.worldcat.org/title/947177704
     verified: true
   - title: Kaunas
+    original_title: Kaunas
     authors:
       - Zenonas Baltušnikas
     year: 1978
@@ -22506,6 +22770,8 @@ titles:
   - title: Lithuania
     authors:
       - Romualdas Rakauskas
+    translators:
+      - Aldona Poiene
     year: 1978
     language: English
     pages: 32
@@ -22939,6 +23205,8 @@ titles:
   - title: Trakai
     authors:
       - Juozas Vercinkevičius
+    translators:
+      - Rimantas Skiauteris
     year: 1978
     language: Russian
     sources:
@@ -23179,6 +23447,8 @@ titles:
     series: Litauen heute; 15
     authors:
       - Vilʹnjusskij gosudarstvennyj universitet imeni V. Kapsukasa
+    editors:
+      - Vytautas Kazakevičius
     year: 1979
     language: German
     sources:
@@ -23332,6 +23602,9 @@ titles:
   - title: Country Life Museum of the Lithuanian SSR
     authors:
       - P. Vėlyvis
+    translators:
+      - Olimpija Armalytė
+      - Juozas Butkus
     year: 1979
     language: English
     sources:
@@ -23392,6 +23665,7 @@ titles:
         url: https://d-nb.info/890982856
     verified: true
   - title: Das Volkskundliche Freilandmuseum der Litauischen SSR
+    original_title: Lietuvos TSR Buities Muziejus
     authors:
       - Petras Vėlyvis
       - Regina Jakučiūnaitė
@@ -23441,10 +23715,12 @@ titles:
         url: https://search.worldcat.org/title/947646929
     verified: true
   - title: Die nationalen Beziehungen in der Sowjetunion
+    original_title: Nacionaliniai santykiai Tarybu̜ Sajungoje
     authors:
       - Valentinas Lazutka
-      - Antanas Gailius
       - Hannelore Grahl
+    translators:
+      - Antanas Gailius
     year: 1979
     language: German
     sources:
@@ -23535,6 +23811,8 @@ titles:
     subtitle: Kaip maitintis? = Krasota i skovoroda
     authors:
       - Irena Gumovska
+    translators:
+      - Zita Bezekavičiene
     year: 1979
     language: Lithuanian
     sources:
@@ -23829,6 +24107,8 @@ titles:
     authors:
       - Bronius Vaitkevičius
       - Zenonas Vasiliauskas
+    translators:
+      - Kazimieras Rukšena
     year: 1979
     language: German
     sources:
@@ -23848,6 +24128,7 @@ titles:
         url: https://d-nb.info/910764603
     verified: true
   - title: Litauische SSR, Bevölkerung
+    original_title: Lietuvos TSR gyventojai
     authors:
       - Pjatras Adlis
       - Algirdas Stanaitis
@@ -23975,6 +24256,8 @@ titles:
   - title: National Relations in the Soviet Union
     authors:
       - V. Lazutka
+    translators:
+      - Algimantas Jokubėnas
     year: 1979
     language: English
     pages: 45
@@ -24257,6 +24540,8 @@ titles:
   - title: Soviet Lithuania Population
     authors:
       - Algirdas Stanaitis
+    translators:
+      - Natalija Jansoniene
     year: 1979
     language: English
     pages: 110
@@ -24597,6 +24882,7 @@ titles:
   - title: Aklieji tarp reginčiuju
     authors:
       - Tadeusz Majewski
+    translators:
       - Virgilijus Petrauskas
     year: 1980
     language: Lithuanian
@@ -24709,6 +24995,7 @@ titles:
     authors:
       - Vytautas Mikuličius
       - Anatolijus Andrejevas
+    translators:
       - Levas Golubas
     year: 1980
     language: Polish
@@ -25143,6 +25430,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=163781001
     verified: true
   - title: Lithuania--physical Culture and Sports
+    original_title: Kūno kultūra ir sportas Lietuvoje
     authors:
       - Antanas Vaupšas
     year: 1980
@@ -25160,6 +25448,9 @@ titles:
     subtitle: Public Education
     authors:
       - K. Zhukauskas
+    translators:
+      - Marija Drazdauskienė
+      - Adomas Drazdauskas
     year: 1980
     language: English
     sources:
@@ -25368,8 +25659,12 @@ titles:
         url: https://lccn.loc.gov/81206385
     verified: true
   - title: People and Times in the Lithuanian Cinema
+    original_title: Žmonės ir laikas Lietuvos kine
     authors:
       - Laimonas Tapinas
+    translators:
+      - Olimpija Armalytė
+      - Rimantas Remeika
     year: 1980
     language: English
     sources:
@@ -25426,8 +25721,9 @@ titles:
   - title: Przemysł litewski
     authors:
       - Bronius Akstinas
-      - Levas Golubas
       - Leidykla "Mintis"
+    translators:
+      - Levas Golubas
     year: 1980
     language: Polish
     sources:
@@ -25462,8 +25758,9 @@ titles:
   - title: Rolnictwo Litwy Radzieckiej
     authors:
       - Pranas Karlonas
-      - Levas Golubas
       - Leidykla "Mintis"
+    translators:
+      - Levas Golubas
     year: 1980
     language: Polish
     sources:
@@ -25593,8 +25890,11 @@ titles:
         url: https://lccn.loc.gov/81209875
     verified: true
   - title: Teisės bruožai Lietuvoje XV-XIX
+    original_title: Razvitie prava v Litve v XV - XIX vv
     authors:
       - V. Andriulis
+    editors:
+      - Vytautas Andriulis
     year: 1980
     series: Teisės istorijos studijos
     language: Lithuanian
@@ -25680,6 +25980,8 @@ titles:
     subtitle: Iš atsiminimų
     authors:
       - Č. Bauža
+    editors:
+      - A. Marciukas
     year: 1980
     language: Lithuanian
     sources:
@@ -25778,6 +26080,8 @@ titles:
   - title: Vilnius
     authors:
       - Algrirdas Vileikis
+    editors:
+      - Danielûs Mickâvičûs
     year: 1980
     language: Multiple languages
     sources:
@@ -26435,6 +26739,7 @@ titles:
     subtitle: Church of SS. Peter and Paul in Vilnius
     authors:
       - Stasys Samalavičius
+    translators:
       - Gražvydas Kirvaitis
     year: 1981
     language: English
@@ -26517,6 +26822,9 @@ titles:
     authors:
       - Antanas Gaidys
       - Romanas Plečkaitis
+    editors:
+      - A. Gaidys
+      - J. Krikštopaitis
     year: 1981
     language: Lithuanian
     pages: 212
@@ -27066,6 +27374,8 @@ titles:
     series: Lietuvos teisės paminklai; 1
     authors:
       - Vytautas Raudeliunas
+    editors:
+      - Vytautas Raudeliūnas
     year: 1982
     language: Lithuanian
     sources:
@@ -27235,6 +27545,7 @@ titles:
         url: https://openlibrary.org/books/OL57400209M
     verified: true
   - title: Gruynojo proto kritika
+    original_title: Die Kritik der reinen Vernunft
     series: Is filosofijoa palikimo
     authors:
       - Immanuel Kant
@@ -27257,8 +27568,9 @@ titles:
   - title: In the Union of Soviet Nations
     authors:
       - Petras Griškevičius
-      - Olimpija Armalytė
       - Leidykla "Mintis"
+    translators:
+      - Olimpija Armalytė
     year: 1982
     language: English
     sources:
@@ -27473,6 +27785,8 @@ titles:
   - title: Lietuvos keliai
     authors:
       - A. Andrejevas
+    editors:
+      - Pranas Bubelis
     year: 1982
     language: Lithuanian
     pages: 125
@@ -27554,6 +27868,11 @@ titles:
   - title: Lithuania, Years and Deeds
     authors:
       - Antanas Barkauskas
+    editors:
+      - Janet Roberton
+    translators:
+      - Adomas Drazdauskas
+      - Rimantas Remeika
     year: 1982
     language: English
     pages: 154
@@ -27574,8 +27893,11 @@ titles:
         url: https://catalog.hathitrust.org/Record/102078834
     verified: true
   - title: Lithuanian Folklore Theatre
+    original_title: Lietuvių folkloro teatras
     authors:
       - Vytautas Landsbergis
+    translators:
+      - Olimpija Armalytė
     year: 1982
     language: English
     pages: 31
@@ -27922,6 +28244,7 @@ titles:
         url: https://search.worldcat.org/title/9411872
     verified: true
   - title: Žmogaus paskirtis
+    original_title: Die Bestimmung des Menschen
     authors:
       - Johann Gottlieb Fichte
       - Kristina Rickevičiūtė
@@ -28058,8 +28381,10 @@ titles:
     verified: true
     subtitle: = Vozroždënnye Pamijatniki
   - title: Atsiminimai ir apmąstymai
+    original_title: Vospominanija i razmyšlenija
     authors:
       - Georgij Konstantinovič Žukov
+    translators:
       - A. Kubilius
       - A. Marciukas
     year: 1983
@@ -28234,6 +28559,8 @@ titles:
   - title: Historic Monuments Today
     authors:
       - Romualdas Kaminskas
+    translators:
+      - Dalija Tekoriene
     year: 1983
     language: English
     sources:
@@ -28264,6 +28591,9 @@ titles:
     subtitle: The Ideology and Practice of Zionism
     authors:
       - Genrikas Zimanas
+    translators:
+      - Dalija Tekorienė
+      - Rimantas Skiauteris
     year: 1983
     language: English
     pages: 181
@@ -28365,6 +28695,8 @@ titles:
   - title: Klaipėda
     authors:
       - A. Garliauskas
+    editors:
+      - Ramutė Macienė
     year: 1983
     language: Lithuanian
     pages: 156
@@ -28619,6 +28951,7 @@ titles:
     subtitle: Begegnungen mit Sowjetlitauen
     authors:
       - Vilius Baltrėnas
+    translators:
       - Jadvyga Kanyte
     year: 1983
     language: German
@@ -29305,8 +29638,11 @@ titles:
     verified: true
   - title: Grožis ir keptuvė
     subtitle: = Krasota i skovoroda
+    original_title: Wenus z patelnia
     authors:
       - Irena Gumovska
+    translators:
+      - Zita Bezekavičiene
     year: 1984
     language: Lithuanian
     sources:
@@ -29565,6 +29901,7 @@ titles:
     authors:
       - Bronûs Urbanavičus
       - Bronius Urbanavichus (Бронюс Урбанавичус)
+    translators:
       - D. Garbačâuskas
       - D. Garbachiauskas (Д. Гарбачяускас)
     year: 1984
@@ -30265,6 +30602,8 @@ titles:
     verified: true
   - title: Knygos Lietuvių kalba
     authors: []
+    editors:
+      - Domas Kaunas
     year: 1985
     language: Lithuanian
     sources:
@@ -30305,6 +30644,7 @@ titles:
   - title: Krikščionybės esmė
     authors:
       - Ludwig Feuerbach
+    translators:
       - Alfonsas Tekorius
     year: 1985
     language: Russian
@@ -30409,6 +30749,8 @@ titles:
   - title: Lietuvos TSR administracinių teisės pažeidimų kodeksas
     authors:
       - Lithuania
+    editors:
+      - R. Kungytė
     year: 1985
     language: Lithuanian
     pages: 195
@@ -30432,6 +30774,8 @@ titles:
   - title: Lietuvos TSR bibliografija
     authors:
       - Gosudarstvennaja knižnaja palata Litovskoj SSR
+    editors:
+      - Eleonora Binkytė
     year: 1985
     language: Lithuanian
     sources:
@@ -30856,6 +31200,9 @@ titles:
   - title: A Call for Justice
     authors:
       - Vytautas Žeimantas
+    translators:
+      - Vladas Dobilas
+      - Zina Pavilionienė
     year: 1986
     language: English
     pages: 144
@@ -30979,8 +31326,13 @@ titles:
     verified: true
   - title: Catholic Church in Lithuania, 1917-1940
     subtitle: Collection of Documents
+    original_title: Klerikalizmas ir katalikų bažnyčia buržuazinėje Lietuvoje
     authors:
       - Vytautas Kazakevičius
+    translators:
+      - Juozas Butkus
+      - Dialita Didžiulytė
+      - Jūratė Drevinskienė
     year: 1986
     language: English
     pages: 257
@@ -31083,8 +31435,9 @@ titles:
   - title: Faraonas
     authors:
       - Bolesław Prus
-      - Tadas Černiauskas
       - Leidykla "Mintis"
+    translators:
+      - Tadas Černiauskas
     year: 1986
     language: Lithuanian
     sources:
@@ -31271,6 +31624,8 @@ titles:
     series: Lietuvos Miestai
     authors:
       - Ramutė Macienė
+    editors:
+      - Ramute Maciene
     year: 1986
     language: Lithuanian
     sources:
@@ -31384,6 +31739,8 @@ titles:
     authors:
       - V. Lazutka
       - B. Deksnys
+    editors:
+      - Valentinas Lazutka
     year: 1986
     language: Lithuanian
     pages: 318
@@ -31802,7 +32159,8 @@ titles:
     verified: true
   - title: Tovariŝ Matas
     subtitle: Vospominaniâ ob Antanase Snečkuse
-    authors:
+    authors: []
+    translators:
       - Mira Bordonajte
       - Mira Bordonaite (Мира Бордонайте)
     year: 1986
@@ -31830,6 +32188,8 @@ titles:
     authors:
       - Ramutė Macienė
       - Giedrė Vosyliūtė
+    editors:
+      - Ramute Maciene
     year: 1986
     language: Lithuanian, Russian, English, German, French
     pages: 160
@@ -31876,6 +32236,8 @@ titles:
     subtitle: Tarybų Lietuvos sostinė
     authors:
       - Algirdas Vileikis
+    editors:
+      - Ramutė Macienė
     year: 1986
     language: Lithuanian
     pages: 101
@@ -32303,6 +32665,8 @@ titles:
     subtitle: Spalio revoliucijos ir pilietinio karo dalyviai
     authors:
       - R. Čepas
+    editors:
+      - B. Vonsavičius
     year: 1987
     language: Lithuanian
     sources:
@@ -32420,8 +32784,13 @@ titles:
         url: https://lccn.loc.gov/87146396
     verified: true
   - title: Lithuania and Western Powers, 1917-1940
+    original_title: Lietuva imperialistinių valstybių planuose 1917-1940
     authors:
       - Robertas Žiugžda
+    translators:
+      - Vladas Dobilas
+      - Zina Pavilionienė
+      - Rimantas Remeika
     year: 1987
     language: English
     pages: 253
@@ -32583,6 +32952,8 @@ titles:
   - title: Popiežių bulės dėl Kryžiaus žygių prieš prūsus ir lietuvius XIII a
     authors:
       - Catholic Church. Pope
+    editors:
+      - Povilas Pakarklis
     year: 1987
     language: Lithuanian
     pages: 308
@@ -32662,6 +33033,8 @@ titles:
     authors:
       - Konstantinas Surblys
       - G. Vaskela
+    editors:
+      - Gediminas Vaskela
     year: 1987
     language: Lithuanian
     pages: 282
@@ -32919,6 +33292,8 @@ titles:
     authors:
       - D. Falusas
       - G. Jozefas
+    translators:
+      - Janina Išganaityte
     year: 1987
     language: Lithuanian
     sources:
@@ -32928,6 +33303,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=01872194X
     verified: true
     subtitle: Iš vengru̜ kalbos vertė = Pustoe dosʹe
+    original_title: A néma dosszié
   - title: Tytuvėnų architektūros ansamblis
     authors:
       - Klemensas Čerbulėnas
@@ -33010,9 +33386,10 @@ titles:
     verified: true
   - title: Woman in Soviet Lithuania
     authors:
-      - Gita Markevičiūtė
       - Sigitas Šniraş
       - The Central Statistics Board
+    translators:
+      - Gita Markevičiūtė
     year: 1987
     language: English
     sources:
@@ -33121,9 +33498,11 @@ titles:
     verified: true
   - title: Budapešto Ruduo
     subtitle: 'Romanas: Iš Vengrü Kalbos Vertë = Budapeštskaja Osenʹ'
+    original_title: Budapesti ősz
     series: Politinio Romano Biblioteka
     authors:
       - Ferenc Karinthy
+    translators:
       - Janina Išganaitytë
     year: 1988
     language: Not recorded
@@ -33205,6 +33584,7 @@ titles:
     verified: true
   - title: Daû novye adresa
     subtitle: Vospominaniâ
+    original_title: Siunčiu naujus adresus
     authors:
       - Elena Vladimirovna Pušinene
       - Elena Vladimirovna Pushinene (Елена Владимировна Пушинене)
@@ -33465,6 +33845,7 @@ titles:
         url: https://lccn.loc.gov/89203301
     verified: true
   - title: Lexikon litauischer Filmkünstler
+    original_title: Lietuvos kinematografininkai
     authors:
       - Laimonas Tapinas
     year: 1988
@@ -33522,6 +33903,8 @@ titles:
     authors:
       - Liuda Vileitienė
       - Institut Filosofii, Sociologii i Prava
+    editors:
+      - Ramutė Rybelienė
     year: 1988
     language: Lithuanian
     sources:
@@ -33603,6 +33986,8 @@ titles:
   - title: Lietuvos TSR bibliografija
     authors:
       - Gosudarstvennaja knižnaja palata Litovskoj SSR
+    editors:
+      - Eleonora Binkytė
     year: 1988
     language: Lithuanian
     sources:
@@ -33678,8 +34063,9 @@ titles:
   - title: Lithuanian Film Makers
     authors:
       - Laimonas Tapinas
-      - Dalija Tekorienė
       - Leidykla "Mintis"
+    translators:
+      - Dalija Tekorienė
     year: 1988
     language: English
     sources:
@@ -33861,6 +34247,8 @@ titles:
     subtitle: Gnoseologija
     authors:
       - Juozas Vytautas Vinciūnas
+    editors:
+      - Antanas Martinionis
     year: 1988
     series: Iš Lietuvos filosofijos palikimo
     language: Lithuanian
@@ -34192,6 +34580,8 @@ titles:
     authors:
       - Vytautas Kazakevičius
       - A. Armonas
+    editors:
+      - Jonas Sakalauskas
     year: 1989
     language: Lithuanian
     sources:
@@ -34235,6 +34625,8 @@ titles:
   - title: Distant yet Very Close
     authors:
       - Vytautas Narvilas
+    translators:
+      - Dalija Tekorienė
     year: 1989
     language: English
     pages: 202
@@ -34333,6 +34725,9 @@ titles:
     subtitle: Monografija
     authors:
       - Lietuvos Kraštotyros draugija
+    editors:
+      - Norbertas Vėlius
+      - Aldona Jonaittytė
     year: 1989
     language: Lithuanian
     pages: 430
@@ -34385,8 +34780,11 @@ titles:
         url: https://search.worldcat.org/title/751136723
     verified: true
   - title: Iškylos iš Vilniaus po Lietuvą
+    original_title: Wycieczki po Litwie w promieniach od Wilna
     authors:
       - Władysław Syrokomla
+    translators:
+      - Kazimieras Umbražiūnas
     year: 1989
     language: Lithuanian
     pages: 166
@@ -34543,6 +34941,8 @@ titles:
     authors:
       - J. Bagušauskas
       - Konstantinas Surblys
+    editors:
+      - Juozas Bagušauskas
     year: 1989
     language: Lithuanian
     pages: 272
@@ -34570,6 +34970,8 @@ titles:
     authors:
       - Litovskaja SSR
       - Litauische Sozialistische Sowjetrepublik
+    editors:
+      - Vladas Pavilonis
     year: 1989
     language: Lithuanian
     sources:
@@ -34773,6 +35175,8 @@ titles:
     authors:
       - Kazimieras Narbutas
       - R. Plečkaitis
+    translators:
+      - Romanas Plečkaitis
     year: 1989
     language: Lithuanian
     sources:
@@ -34845,6 +35249,8 @@ titles:
     subtitle: Darbų rinktinė
     authors:
       - Algirdas Julien Greimas
+    translators:
+      - Rolandas Pavilionis
     year: 1989
     language: Lithuanian
     pages: 393
@@ -34858,6 +35264,7 @@ titles:
         url: https://www.sudoc.fr/078862418
     verified: true
   - title: Senovės Indijos mitai
+    original_title: Mify drevneĭ Indii
     authors:
       - Ė. N. Temkin
       - Vladimir Gansovič Èrman
@@ -34938,8 +35345,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=275315541
     verified: true
   - title: The World Outlook of the Ancient Balts
+    original_title: Senovės baltų pasaulėžiūra
     authors:
       - Norbertas Vėlius
+    translators:
+      - Dalija Tekorienė
     year: 1989
     language: English
     pages: 324
@@ -34961,6 +35371,7 @@ titles:
   - title: Titas ir Berenike
     authors:
       - Aleksander Krawczuk
+    translators:
       - Kazys Uscila
     year: 1989
     language: Lithuanian
@@ -35245,8 +35656,11 @@ titles:
         url: https://d-nb.info/931330629
     verified: true
   - title: Kelionė į Jeruzalę
+    original_title: Hierosolvmitana peregrinatio
     authors:
       - Mikołaj Krzysztof książę Radziwiłł
+    translators:
+      - Ona Matusevičiūtė
     year: 1990
     language: Lithuanian
     pages: 237
@@ -35392,6 +35806,8 @@ titles:
     subtitle: 'Iš Lietuvos Istorijos ir etnografijos muziejaus rinkinių = Monuments of Lithuanian history: from the collection of the Lithuanian Museum of History and Ethnography'
     authors:
       - Lietuvos Istorijos ir etnografijos muziejus
+    editors:
+      - Birutė Kulnytė
     year: 1990
     language: Lithuanian
     sources:
@@ -35546,6 +35962,11 @@ titles:
   - title: Postilės prakalbos
     authors:
       - Mikalojus Daukša
+    editors:
+      - Arnoldas Piročkinas
+    translators:
+      - Juozas Balčikonis
+      - Regina Koženiauskienė
     year: 1990
     language: Lithuanian
     pages: 45
@@ -35567,6 +35988,8 @@ titles:
   - title: Raštai
     authors:
       - Vydūnas
+    editors:
+      - Almonė Gailienė
     year: 1990
     series: Iš Lietuvos filosofijos palikimo
     language: Lithuanian
@@ -35676,6 +36099,8 @@ titles:
     subtitle: 1988 m. spalio 22-23 d
     authors:
       - Lietuvos Persitvarkymo sąjūdis. Steigiamasis suvažiavimas
+    editors:
+      - Nijolė Žiūraitytė
     year: 1990
     language: Lithuanian
     pages: 328
@@ -35856,9 +36281,12 @@ titles:
         url: https://search.worldcat.org/title/31950116
     verified: true
   - title: Barbora Radvilaitė
+    original_title: Barbara Radziwiłłówna
     authors:
       - Zbigniew Kuchowicz
       - Romuldas Petraitis
+    translators:
+      - Romualdas Petraitis
     year: 1991
     language: Lithuanian
     sources:
@@ -35897,6 +36325,7 @@ titles:
     verified: true
   - title: Esė
     subtitle: Rinktinė
+    original_title: Kurzgefasster Lebenslauf
     series: Grozines literaturos leidinys
     authors:
       - Hermann Hesse
@@ -35963,10 +36392,12 @@ titles:
     verified: true
   - title: Juzefas Pilsudskis
     subtitle: Legendos ir faktai
+    original_title: Józef Pilsudski -- legendy i fakty
     series: Laikas ir i̜vykiai
     authors:
       - Daria Nałęcz
       - Tomasz Nałecz
+    translators:
       - Algis Kasperavičius
       - Reda Griškaitė
     year: 1991
@@ -36152,10 +36583,11 @@ titles:
   - title: Lietuvos Dzidžiosios Kunigaikštystės valstybingumo pavojai
     authors:
       - Henryk Wisner
-      - Reda Griškaitė
-      - Skaidra Kulakauskienė
       - Ingė Lukšaitė
       - Leidykla "Mintis"
+    translators:
+      - Reda Griškaitė
+      - Skaidra Kulakauskienė
     year: 1991
     language: Lithuanian
     sources:
@@ -36187,6 +36619,8 @@ titles:
   - title: Lietuvos geležiniai kryžiai
     authors:
       - Česlovas Kontrimas
+    editors:
+      - Antanas Stravinskas
     year: 1991
     language: Lithuanian
     pages: 223
@@ -36309,8 +36743,9 @@ titles:
   - title: Nemunas nuo versmių iki žiočių
     authors:
       - Władysław Syrokomla
-      - Kazys Bizauskas
       - Leidykla "Mintis"
+    translators:
+      - Kazys Bizauskas
     year: 1991
     language: Lithuanian
     sources:
@@ -36322,6 +36757,8 @@ titles:
   - title: Pasivaikščiojimai po Vilnių ir jo apylinkes
     authors:
       - Adam Honory Kirkor
+    translators:
+      - Kazys Uscila
     year: 1991
     language: Lithuanian
     pages: 281
@@ -36365,6 +36802,8 @@ titles:
   - title: Raštai
     authors:
       - Valentinas Gustainis
+    editors:
+      - Giedrė Bautrėnienė
     year: 1991
     series: Iš Lietuvos filosofijos palikimo
     language: Lithuanian
@@ -36471,6 +36910,8 @@ titles:
   - title: Spėpiningoji žmogaus didybė
     authors:
       - Vydūnas
+    editors:
+      - Vaclovas Bagdonavičius
     year: 1991
     language: Lithuanian
     sources:

@@ -2973,6 +2973,8 @@ titles:
   - title: As palavras das cantigas
     authors:
       - José Carlos Ary dos Santos
+    editors:
+      - Ruben de Carvalho
     year: 1997
     edition: 4.ª edição
     language: Portuguese
@@ -3721,6 +3723,8 @@ titles:
   - title: Obras escolhidas
     authors:
       - Álvaro Cunhal
+    editors:
+      - Francisco Melo
     year: 2007
     edition: 2a. ed
     language: Portuguese
@@ -4136,6 +4140,8 @@ titles:
   - title: Acontecimentos vividos
     authors:
       - Gabriel Pedro
+    editors:
+      - Jaime Serra
     year: 2015
     series: Colecção Resistência
     language: Portuguese
@@ -4444,8 +4450,13 @@ titles:
     verified: false
   - title: Obras escolhidas
     subtitle: Em três tomos
+    original_title: Ausgewählte Werke
     authors:
       - Karl Marx
+    editors:
+      - José Barata-Moura
+      - Eduardo Chitas
+    translators:
       - José Barata-Moura
       - Eduardo Chitas
     language: Portuguese

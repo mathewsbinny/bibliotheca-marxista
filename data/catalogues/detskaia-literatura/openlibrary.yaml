@@ -123,8 +123,10 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BA70290995
     verified: false
   - title: Ajg'tq'vajato
+    original_title: Ljudi Severa$dna nymylanskij (korjakskij) jazyk perevel S. Stebnickij
     authors:
       - A. Jakobson
+    translators:
       - S. Stebnickij
     year: 1935
     language: Russian
@@ -909,8 +911,9 @@ titles:
     series: Knižka-malyška
     authors:
       - Leib Kvitko
-      - Samuil Maršak
       - Vladimir Michajlovič Konaševič
+    translators:
+      - Samuil Maršak
     year: 1937
     language: Not recorded
     sources:
@@ -1059,6 +1062,7 @@ titles:
         url: https://lccn.loc.gov/2005576127
     verified: true
   - title: Bratʹja Rajt
+    original_title: The boy's life of the Wright brothers
     series: Žizn zamecǎtel'nych ljudej
     authors:
       - Mitchell V. Charnley
@@ -1173,6 +1177,8 @@ titles:
     authors:
       - Vysokovskij
       - Vysokovskii (Высоковский)
+    translators:
+      - Samuil Maršak
     year: 1938
     language: Russian
     sources:
@@ -1317,8 +1323,9 @@ titles:
   - title: Tri porosenka
     series: Knižka-malyška
     authors:
-      - Sergej Vladimirovič Michalkov
       - Walt Disney Studio
+    translators:
+      - Sergej Vladimirovič Michalkov
     year: 1938
     language: Not recorded
     sources:
@@ -1586,8 +1593,9 @@ titles:
   - title: Pro vsech
     authors:
       - Natal'ja Zabila
-      - Elena A. Blaginina
       - E. Afanas'eva
+    translators:
+      - Elena A. Blaginina
     year: 1939
     language: Not recorded
     sources:
@@ -2134,6 +2142,8 @@ titles:
     subtitle: Stihi
     authors:
       - Leib Kvitko
+    translators:
+      - Samuil Âkovlevič Maršak
     year: 1944
     language: Russian
     sources:
@@ -3302,11 +3312,13 @@ titles:
     verified: true
   - title: Genrikh IV
     subtitle: Istoricheskaia khronika v dvukh chastiakh
+    original_title: Henry IV
     authors:
       - William Shakespeare
-      - Boris Leonidovich Pasternak
       - M. M. Morozov
       - F. D. Konstantinov
+    translators:
+      - Boris Leonidovich Pasternak
     year: 1948
     language: Russian
     pages: 254
@@ -3489,6 +3501,7 @@ titles:
   - title: Rasskazy
     authors:
       - Wanda Wasilewska
+    translators:
       - Elena Feliksovna Usievič
     year: 1948
     language: Russian
@@ -3546,7 +3559,8 @@ titles:
     verified: true
   - title: Skazania o nartah
     series: Školʹnaâ biblioteka
-    authors:
+    authors: []
+    translators:
       - Valentina Aleksandrovna Dynnik
       - Valentina Aleksandrovna Dynnik (Валентина Александровна Дынник)
     year: 1948
@@ -3557,7 +3571,8 @@ titles:
     verified: true
   - title: Skazanija o nartach
     series: Škol'naja biblioteka
-    authors:
+    authors: []
+    translators:
       - Valentina Dynnik
     year: 1948
     language: Russian
@@ -3696,6 +3711,7 @@ titles:
     series: Biblioteka naučnoj fantastiki i priključenij
     authors:
       - Žjul' Vern
+    translators:
       - Ignatija Petrova
     year: 1949
     language: Russian
@@ -4275,8 +4291,10 @@ titles:
     verified: true
   - title: Sem planet
     subtitle: Poėma
+    original_title: Sab'a saj'ara
     authors:
       - ʿAlī Šīr Nawāʾī
+    translators:
       - Semen Izrailevič Lipkin
     year: 1949
     language: Russian
@@ -4867,10 +4885,13 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=558876773
     verified: true
   - title: Dikie lebedi
+    original_title: De vilde svaner
     series: Kniga za knigoj
     authors:
       - Hans Christian Andersen
       - Vladimir Michajlovič Konaševič
+    translators:
+      - Anna Vasil'evna Ganzen
     year: 1950
     language: Russian
     sources:
@@ -4970,6 +4991,7 @@ titles:
         url: https://search.worldcat.org/title/891292518
     verified: true
   - title: Gadkij utënok
+    original_title: Den grimme aelling
     series: Škol'naja biblioteka dlja nerusskich škol
     authors:
       - Hans Christian Andersen
@@ -5784,6 +5806,7 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991053949659705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Skazki
+    original_title: Eventyr
     authors:
       - Hans Christian Andersen
       - Vladimir Michajlovič Konaševič
@@ -5963,9 +5986,10 @@ titles:
   - title: Syn Kaleva
     subtitle: Èstonskij narodnyj èpos
     authors:
+      - Friedrich Reinhold Kreutzwald
+    translators:
       - Vladimir Deržavin
       - Aleksej Il'ič Kočetkov
-      - Friedrich Reinhold Kreutzwald
     year: 1950
     language: Russian
     sources:
@@ -5977,6 +6001,7 @@ titles:
   - title: Tadžikskie narodnye skazki
     authors:
       - Vera Vasil'evna Smirnova
+    translators:
       - Klavdiâ Ulug-Zade
     year: 1950
     language: Russian
@@ -6119,8 +6144,11 @@ titles:
     verified: true
   - title: Vitâzʹ Ânoš
     subtitle: Povestʹ v stihah
+    original_title: János Vitéz
     authors:
       - Sándor Petőfi
+    translators:
+      - Boris Leonidovič Pasternak
     year: 1950
     language: Russian
     sources:
@@ -6264,6 +6292,7 @@ titles:
     series: Kniga za knigoj
     authors:
       - Charles Perrault
+    translators:
       - Natal'â Grigor'evna Kasatkina
     year: 1950
     language: Russian
@@ -6371,6 +6400,8 @@ titles:
   - title: Amerikanskie novelly
     authors:
       - Henryk Sienkiewicz
+    translators:
+      - Âkov Osipovič Nemčinskij
     year: 1951
     language: Russian
     pages: 173
@@ -6683,6 +6714,8 @@ titles:
   - title: Geroičeskie byliny
     authors:
       - Vladimir Ivanovič Čičerov
+    editors:
+      - V. I. Čičerov
     year: 1951
     language: Russian
     sources:
@@ -6718,6 +6751,7 @@ titles:
     subtitle: Povesti i rasskazy
     authors:
       - Egnate Ninošvili
+    translators:
       - Fat'ma Antonovna Tvaltvadze
     year: 1951
     language: Russian
@@ -6814,6 +6848,8 @@ titles:
     authors:
       - Maxime Gorki
       - Maksim Gorkii (Максим Горький)
+    editors:
+      - Aleksandr Ivanovič Ovčarenko
     year: 1951
     language: Russian
     sources:
@@ -6982,6 +7018,7 @@ titles:
   - title: Krasnaâ šapočka
     authors:
       - Charles Perrault
+    translators:
       - Samuil Âkovlevič Maršak
     year: 1951
     language: Russian
@@ -7278,6 +7315,7 @@ titles:
     subtitle: Povest' iz žizni ûnyh naturalistov
     authors:
       - Wachtang Ananian
+    translators:
       - A. Gûl'-Nazarânc
     year: 1951
     language: Russian
@@ -7513,6 +7551,7 @@ titles:
     subtitle: Skazki
     authors:
       - Božena Němcová
+    translators:
       - Vera Arsen'evna Vetlina
     year: 1951
     language: Russian
@@ -7721,6 +7760,7 @@ titles:
   - title: Poslednaâ granica
     authors:
       - Howard Fast
+    translators:
       - Ekaterina N. Vališevskaja
     year: 1951
     language: Russian
@@ -8020,6 +8060,7 @@ titles:
     authors:
       - Ivan Bagmut
       - Boris Anisimovič Markevič
+    translators:
       - M. Fresina
     year: 1951
     language: Russian
@@ -8035,6 +8076,7 @@ titles:
       - Ivan Adrianovich Bagmut (Иван Адрианович Багмут)
       - Boris Anisimovitch Markevitch
       - Boris Anisimovich Markevich (Борис Анисимович Маркевич)
+    translators:
       - M. Fresina
       - M. Fresina (М. Фресина)
     year: 1951
@@ -8083,6 +8125,7 @@ titles:
     authors:
       - Hamid Alimdžan
       - Oleksandr Josipovič Dejč
+    translators:
       - Svetlana Aleksandrovna Somova
     year: 1951
     language: Russian
@@ -8203,6 +8246,7 @@ titles:
     subtitle: Skazki
     authors:
       - Hans Christian Andersen
+    translators:
       - Anna Vasil'evna Ganzen
     year: 1951
     language: Russian
@@ -8262,6 +8306,7 @@ titles:
   - title: Stihotvoreniâ
     authors:
       - Ivan Alekseevič Kuratov
+    translators:
       - Ivan Vasil'evič Molčanov
     year: 1951
     language: Russian
@@ -8287,6 +8332,7 @@ titles:
     authors:
       - Ûrij Zbanackij
       - Iurii Zbanatskii (Юрий Збанацкий)
+    translators:
       - E. Dyrin
       - A. Dyrin (Е. Дырин)
     year: 1951
@@ -8362,6 +8408,7 @@ titles:
   - title: Tružnik Marja
     authors:
       - Victor Hugo
+    translators:
       - A. Hudadovoj
     year: 1951
     language: Russian
@@ -8451,6 +8498,7 @@ titles:
     subtitle: Povest'
     authors:
       - Hadži Ismailov
+    translators:
       - Aleksandr Ivanovič Aborskij
     year: 1951
     language: Russian
@@ -8841,6 +8889,8 @@ titles:
   - title: 80.000 kilometrov pod vodoĭ
     authors:
       - Jules Verne
+    translators:
+      - Ignatiĭ Petrov
     year: 1952
     series: Biblioteka nauchnoĭ fantastiki i prikliucheniĭ
     language: Russian
@@ -9201,6 +9251,7 @@ titles:
     authors:
       - Gumer Baširov
       - Hamid Ârmi
+    translators:
       - Gajša Šaripova
     year: 1952
     language: Russian
@@ -9364,6 +9415,8 @@ titles:
       - Denis Ivanovich Fonvizin (Денис Иванович Фонвизин)
       - Aleksandr Vasilievič Zapadov
       - Aleksandr Vasilevich Zapadov (Александр Васильевич Западов)
+    editors:
+      - Aleksandr V. Zapadov
     year: 1952
     language: Russian
     sources:
@@ -9386,6 +9439,7 @@ titles:
   - title: Kozeta
     authors:
       - Victor Hugo
+    translators:
       - Debora Grigor'evna Livšic
       - N. Kogan
     year: 1952
@@ -9502,6 +9556,7 @@ titles:
     subtitle: (Rasskaz Gsana)
     authors:
       - Ovanes Aramovič Gukasân
+    translators:
       - A. Barhudarân
     year: 1952
     language: Russian
@@ -10141,6 +10196,7 @@ titles:
   - title: Priklûčeniâ Odisseâ
     authors:
       - Homer
+    translators:
       - Elena Aleksandrovna Tudorovskaâ
     year: 1952
     language: Russian
@@ -10769,6 +10825,7 @@ titles:
   - title: Starinnye češskie skazaniâ
     authors:
       - Alois Jirásek
+    translators:
       - F. Bogolûbova
     year: 1952
     language: Russian
@@ -11017,6 +11074,7 @@ titles:
   - title: Vengerskie narodnye skazki
     authors:
       - Antal Hidas
+    translators:
       - Wiktor Ważdajew
       - Anna Krasnova
     year: 1952
@@ -11390,6 +11448,7 @@ titles:
   - title: Antek
     authors:
       - Bolesław Prus
+    translators:
       - Evgeniâ Semenovna Živova
     year: 1953
     language: Russian
@@ -11403,6 +11462,7 @@ titles:
     subtitle: Povest'
     authors:
       - Marian Leon Bielicki
+    translators:
       - Valerian Èduardovič Arcimovič
       - Âkov Osipovič Nemčinskij
     year: 1953
@@ -11483,8 +11543,11 @@ titles:
     verified: true
   - title: Čestʹ klassa
     subtitle: Rasskazy
+    original_title: Klasės garbė
     authors:
       - Halina Korsakienė
+    translators:
+      - Zinaida Konstantinovna Šišova
     year: 1953
     language: Russian
     sources:
@@ -11786,12 +11849,13 @@ titles:
     verified: true
   - title: Gruzinskie skazki
     authors:
-      - Nina Isidorovna Dolidze
-      - Nina Isidorovna Dolidze (Нина Исидоровна Долидзе)
       - Anna Aleksandrovna Kostrova
       - Anna Aleksandrovna Kostrova (Анна Александровна Кострова)
       - Georgij Štorm
       - Georgii Shtorm (Георгий Шторм)
+    translators:
+      - Nina Isidorovna Dolidze
+      - Nina Isidorovna Dolidze (Нина Исидоровна Долидзе)
     year: 1953
     language: Russian
     sources:
@@ -12346,6 +12410,8 @@ titles:
     authors:
       - Konstantin Michajlovič Stanjukovič
       - V. Vysockogo
+    editors:
+      - A. V. Vanslova
     year: 1953
     language: Russian
     sources:
@@ -12473,8 +12539,9 @@ titles:
     series: Školʹnaja biblioteka
     authors:
       - Ivan Hadžimarčev
-      - Mariâ Kabakčieva
       - R. Oblonskaâ
+    translators:
+      - Mariâ Kabakčieva
       - Rita Âkovlevna Rajt-Kovaleva
     year: 1953
     language: Russian
@@ -12673,6 +12740,8 @@ titles:
     authors:
       - Boris Nikolaevič Polevoj
       - V. Bogatkina
+    editors:
+      - Evgeniâ Efimovna Gorodeckaâ
     year: 1953
     language: Russian
     sources:
@@ -12809,6 +12878,7 @@ titles:
   - title: Sirotskaâ dolâ
     authors:
       - Bolesław Prus
+    translators:
       - Nikolaj Andreevič Slavâtinskij
     year: 1953
     language: Russian
@@ -13456,6 +13526,7 @@ titles:
     series: Kniga za knigoj
     authors:
       - Petro Kozłaniuk
+    translators:
       - Vl. M. Rossel's
     year: 1954
     language: Russian
@@ -14342,6 +14413,7 @@ titles:
     authors:
       - A. Laptev
       - A. Laptev (А. Лаптев)
+    translators:
       - F. Šuravin
       - F. Shuravin (Ф. Шуравин)
       - Z. Šišova
@@ -14633,6 +14705,7 @@ titles:
     subtitle: Povest'
     authors:
       - Kost' Alekseevič Gordìjenko
+    translators:
       - Pavel Karaban
     year: 1954
     language: Russian
@@ -14693,6 +14766,7 @@ titles:
   - title: Nánuli
     authors:
       - Marika Gervasievna Baratašvili
+    translators:
       - Elizaveta Âkovlevna Tarahovskaâ
     year: 1954
     language: Russian
@@ -14948,6 +15022,7 @@ titles:
     subtitle: Rasskaz
     authors:
       - Oles Dončenko
+    translators:
       - L. Kon
     year: 1954
     language: Russian
@@ -15182,6 +15257,7 @@ titles:
     authors:
       - Mustaj Karim
       - Vladimir Andreevič Gorâčev
+    translators:
       - Valentina Aleksandrovna Oseeva
     year: 1954
     language: Russian
@@ -15218,6 +15294,7 @@ titles:
     series: Moi pervye knižki
     authors:
       - Ânka Bryl'
+    translators:
       - A. Ostrovskij
     year: 1954
     language: Russian
@@ -15577,6 +15654,8 @@ titles:
       - Hans Christian Andersen
       - Valerij S. Alfeevskij
       - A. Ganzen
+    editors:
+      - Boris Jakovlevič Buchštab
     year: 1954
     language: Russian
     sources:
@@ -15586,6 +15665,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=107316411X
     verified: true
     subtitle: Risunki N. Muratova
+    original_title: Eventyr
   - title: Škola
     series: Škol'naja biblioteka
     authors:
@@ -15620,6 +15700,7 @@ titles:
     verified: true
   - title: Slovo o slovah
     subtitle: (Očerki o âzyke)
+    original_title: Slovo o slovah
     authors:
       - Lev Vasil'evič Uspenskij
     year: 1954
@@ -16235,6 +16316,7 @@ titles:
     subtitle: Stihi - šutki
     authors:
       - Mihajlo Panasovič Stel'mah
+    translators:
       - Michaił Swietłow
       - Vladimir Mihajlovič Rossel's
     year: 1954
@@ -16640,6 +16722,7 @@ titles:
   - title: Atlantičeskaâ povest'
     authors:
       - Mirosław Żuławski
+    translators:
       - Zinaida Šatalova
     year: 1955
     language: Russian
@@ -16873,9 +16956,10 @@ titles:
     subtitle: Litovskie narodnye skazki
     series: Školʹnaâ biblioteka dlâ nerusskih škol
     authors:
-      - A. Lapteva
       - Z. Šišovoj
       - F. Šuravina
+    translators:
+      - A. Lapteva
     year: 1955
     language: Russian
     sources:
@@ -17366,6 +17450,7 @@ titles:
     verified: true
   - title: Malenʹkij Muk
     subtitle: Skazki
+    original_title: Die Geschichte vom kleinen Muck
     series: Kniga za knigoj
     authors:
       - Wilhelm Hauff
@@ -17695,6 +17780,7 @@ titles:
     authors:
       - Konstantin Nikolaevič Deržavin
       - Vâčeslav Borisovič Obolevič
+    translators:
       - Vsevolod Aleksandrovič Roždestvenskij
     year: 1955
     language: Russian
@@ -17834,10 +17920,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=577745417
     verified: true
   - title: Putešestvija Gullivera
+    original_title: Gulliverʹs Travels
     authors:
       - Jonathan Swift
-      - Tamara Grigorʹevna Gabbe
       - Thomas Morten
+    translators:
+      - Tamara Grigorʹevna Gabbe
     year: 1955
     language: Russian
     sources:
@@ -18156,6 +18244,8 @@ titles:
   - title: Sobranie sočinenij
     authors:
       - Arkadij Petrovič Gajdar
+    editors:
+      - Timur Arkad'evič Gajdar
     year: 1955
     language: Russian
     sources:
@@ -18821,6 +18911,7 @@ titles:
     subtitle: Roman
     authors:
       - Géza Gárdonyi
+    translators:
       - Anna Krasnova
     year: 1955
     language: Russian
@@ -19108,6 +19199,7 @@ titles:
   - title: Derevânnye čëtki
     authors:
       - Natalia Rolleczek
+    translators:
       - Vladimir Nikolaevič Sašonko
     year: 1956
     language: Russian
@@ -19525,7 +19617,8 @@ titles:
     verified: true
   - title: Moi pesni
     subtitle: Stichi
-    authors:
+    authors: []
+    translators:
       - Musa Mustafovič Džalil'
     year: 1956
     language: Russian
@@ -19618,6 +19711,7 @@ titles:
   - title: Orso
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Âkov Osipovič Nemčinskij
     year: 1956
     language: Russian
@@ -19714,6 +19808,7 @@ titles:
   - title: Pohiŝenie v Tûtûrlistane
     authors:
       - Wojciech Żukrowski
+    translators:
       - Svâtoslav Svâckij
     year: 1956
     language: Russian
@@ -19762,6 +19857,7 @@ titles:
   - title: Priklûčeniâ trâpičnoj Bal'bisi
     authors:
       - Janina Broniewska
+    translators:
       - Marat Akimovič Bruhnov
     year: 1956
     language: Russian
@@ -19880,6 +19976,7 @@ titles:
   - title: Skazki V'etnama
     authors:
       - Wojciech Żukrowski
+    translators:
       - Âkov Osipovič Nemčinskij
     year: 1956
     language: Russian
@@ -19984,6 +20081,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1747494100
     verified: true
   - title: Tinko
+    original_title: Tinko
     authors:
       - Erwin Strittmatter
       - Savva G. Brodskij
@@ -21143,6 +21241,8 @@ titles:
   - title: Izbrannoe
     authors:
       - Boris S. Žitkov
+    editors:
+      - Valentina Sergeevna Fraerman
     year: 1957
     language: Russian
     sources:
@@ -21226,6 +21326,7 @@ titles:
   - title: Kniga o sorvancah
     authors:
       - Edmund Niziurski
+    translators:
       - Mariâ Efimovna Abkina
     year: 1957
     language: Russian
@@ -21370,6 +21471,7 @@ titles:
   - title: Malen'kij Bizon
     authors:
       - Arkady Fiedler
+    translators:
       - Jan Niemczyński
     year: 1957
     language: Russian
@@ -21403,6 +21505,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1133231802
     verified: true
   - title: My Name Is Kozha
+    original_title: Менің Атым Қожа
     authors:
       - Berdibek Sokpakbaev
     year: 1957
@@ -21808,6 +21911,7 @@ titles:
     subtitle: Dve povesti
     authors:
       - Aleksander Ścibor-Rylski
+    translators:
       - Ûliâ Borisovna Ŝepkina-Mirskaâ
     year: 1957
     language: Russian
@@ -23646,6 +23750,7 @@ titles:
   - title: Priklûčeniâ Plastusâ
     authors:
       - Maria Kownacka
+    translators:
       - S. Vnukov
       - Evgeniâ Arkad'evna Žukovskaâ
     year: 1958
@@ -23757,6 +23862,7 @@ titles:
   - title: Reksâ i Pucek
     authors:
       - Jan Grabowski
+    translators:
       - Boris Vladimirovič Zahoder
     year: 1958
     language: Russian
@@ -24628,8 +24734,11 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BB00741747
     verified: false
   - title: Чем пахнут ремёсла? Какого цвета ремёсла?
+    original_title: Gli odori dei mestieri
     authors:
       - Gianni Rodari
+    translators:
+      - Samuil Marshak
     year: 1958
     language: Russian
     sources:
@@ -25154,6 +25263,7 @@ titles:
     subtitle: Istoričeskij roman
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Vâčeslav Borisovič Obolevič
       - Èmma Iosifovna Vygodskaâ
     year: 1959
@@ -25329,6 +25439,7 @@ titles:
   - title: Muha s kaprizami
     authors:
       - Jan Grabowski
+    translators:
       - Boris Vladimirovič Zahoder
     year: 1959
     language: Russian
@@ -25578,6 +25689,7 @@ titles:
     verified: true
   - title: Priključenija Pinokkio
     subtitle: Istorija derevjannogo čeloveka
+    original_title: Le avventure di Pinocchio
     authors:
       - Carlo Collodi
       - Ėmmanuil G. Kazakevič
@@ -26095,6 +26207,7 @@ titles:
   - title: Vesny i oseni
     authors:
       - Julian Tuwim
+    translators:
       - Dawid Samojłow
     year: 1959
     language: Russian
@@ -26284,6 +26397,7 @@ titles:
     subtitle: Povest'
     authors:
       - Adam Bahdaj
+    translators:
       - Marat Akimovič Bruhnov
     year: 1960
     language: Russian
@@ -26455,6 +26569,7 @@ titles:
   - title: Druz'â Petera
     authors:
       - Ajno Ûhanovna Tigane
+    translators:
       - L. Čevyčelova
     year: 1960
     language: Russian
@@ -26575,6 +26690,7 @@ titles:
     subtitle: Povest'
     authors:
       - Natalia Rolleczek
+    translators:
       - Vladimir Nikolaevič Sašonko
     year: 1960
     language: Russian
@@ -26629,7 +26745,8 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991028881429705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Kak Džek chodil sčast'ja iskat'
-    authors:
+    authors: []
+    translators:
       - N. Šereševska
     year: 1960
     language: Russian
@@ -26782,6 +26899,7 @@ titles:
     subtitle: Naučno- fantastičeskij roman
     authors:
       - Stanisław Lem
+    translators:
       - L. Âkovlev
     year: 1960
     language: Russian
@@ -26997,10 +27115,11 @@ titles:
   - title: Priključenija Čipollino
     authors:
       - Gianni Rodari
-      - Z. Potapova
       - Samuil Maršak
       - E. Taleja
       - D. Bisti
+    translators:
+      - Z. Potapova
     year: 1960
     language: Russian
     sources:
@@ -27825,6 +27944,7 @@ titles:
     subtitle: Povesti
     authors:
       - Janusz Korczak
+    translators:
       - Kinga Senkevič
     year: 1961
     language: Russian
@@ -28014,6 +28134,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=543292010
     verified: true
   - title: Ot dvuh do pâti
+    original_title: Ot dvuh do pâti
     authors:
       - Kornej Ivanovič Čukovskij
     year: 1961
@@ -28384,6 +28505,7 @@ titles:
   - title: Vesëlye stihi
     authors:
       - Jan Brzechwa
+    translators:
       - Boris Vladimirovič Zahoder
     year: 1961
     language: Russian
@@ -29061,6 +29183,7 @@ titles:
   - title: Neveroâtnye priklûčeniâ Mareka Pegusa
     authors:
       - Edmund Niziurski
+    translators:
       - Nikolaj Ivanovič Dubov
     year: 1962
     language: Russian
@@ -29074,6 +29197,7 @@ titles:
     authors:
       - Maria Konopnicka
       - N. Antokol'skaâ
+    translators:
       - Nataliâ Âkovlevna Podol'skaâ
     year: 1962
     language: Russian
@@ -29214,6 +29338,7 @@ titles:
     subtitle: Knižka-igruška
     authors:
       - Beata Słuszkiewicz-Kaczorowska
+    translators:
       - G. Lukina
     year: 1962
     language: Russian
@@ -29224,6 +29349,7 @@ titles:
         url: https://search.worldcat.org/title/891300599
     verified: true
   - title: Prikliuchenia Geklʹberri Finna
+    original_title: Adventures of Huckleberry Finn
     authors:
       - Mark Twain
     year: 1962
@@ -30133,6 +30259,7 @@ titles:
   - title: Kogda drugie eŝe deti
     authors:
       - Janina Dziarnowska
+    translators:
       - T. Lur'c-Gribovoj
       - Ûliâ Meerovna Viner
     year: 1963
@@ -30148,6 +30275,7 @@ titles:
     series: Biblioteka priključenij; 14
     authors:
       - Arthur Conan Doyle
+    translators:
       - N. Emelʹjanikov
     year: 1963
     language: Russian
@@ -30193,6 +30321,7 @@ titles:
     subtitle: Naučno- fantastičeskij roman
     authors:
       - Stanisław Lem
+    translators:
       - L. Âkovlev
     year: 1963
     language: Russian
@@ -30217,6 +30346,7 @@ titles:
     subtitle: Iz dnevnika Jaceka-neudčnika
     authors:
       - Hanna Ożogowska
+    translators:
       - Stella Dimitrievna Tonkonogova
     year: 1963
     language: Russian
@@ -30337,8 +30467,9 @@ titles:
   - title: Prichodi, skazka!
     subtitle: Skazki i pogovorki narodov Efiopii i Sudana = Komm, Märchen! Märchen und Redesarten der Völker Äthiopiens und des Sudans
     authors:
-      - T. Tjutrumova
       - V. Konačevič
+    translators:
+      - T. Tjutrumova
     year: 1963
     language: Russian, German
     sources:
@@ -30387,6 +30518,7 @@ titles:
       - Ivan Adrianovich Bagmut (Иван Адрианович Багмут)
       - Boris Anisimovitch Markevitch
       - Boris Anisimovich Markevich (Борис Анисимович Маркевич)
+    translators:
       - M. Fresina
       - M. Fresina (М. Фресина)
     year: 1963
@@ -31900,6 +32032,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=571705995
     verified: true
   - title: Reportaž s petlej na šee
+    original_title: Reportáž psaná na oprátce
     series: Školʹnaja biblioteka
     authors:
       - Julius Fučík
@@ -32694,12 +32827,13 @@ titles:
     verified: true
   - title: Âponskie narodnye skazki
     authors:
-      - Nataliâ Isaevna Fel’dman-Konrad
-      - Nataliia Isaevna Feldman-konrad (Наталия Исаевна Фельдман-Конрад)
       - Samuil Âkovlevič Maršak
       - Samuil Iakovlevich Marshak (Самуил Яковлевич Маршак)
       - Nikolaj Fedorovič Lapšin
       - Nikolai Fedorovich Lapshin (Николай Федорович Лапшин)
+    translators:
+      - Nataliâ Isaevna Fel’dman-Konrad
+      - Nataliia Isaevna Feldman-konrad (Наталия Исаевна Фельдман-Конрад)
     year: 1965
     language: Russian
     sources:
@@ -33182,6 +33316,8 @@ titles:
     series: Škol'naja biblioteka
     authors:
       - Aleksandr Nikolaevič Ostrovskij
+    editors:
+      - Sergej M. Bondi
     year: 1965
     language: Russian
     sources:
@@ -33611,9 +33747,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=421149345
     verified: true
   - title: Oblachnaya ovechka
+    original_title: Das Wolkenschaf
     authors:
       - Fred Rodrian
       - Tatiana Alekseevna Eremina
+    translators:
       - Irina P. Tokmakova
     year: 1965
     language: Russian
@@ -33881,12 +34019,14 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=556024486
     verified: true
   - title: Priklûčeniâ Toma Sojera
+    original_title: TheAdventures of Tom Sawyer
     authors:
       - Mark Twain
-      - Kornej Ivanovič Čukovskij
-      - Kornei Ivanovich Chukovskii (Корней Иванович Чуковский)
       - Vitalij Nikolaevič Gorâev
       - Vitalii Nikolaevich Goriaev (Виталий Николаевич Горяев)
+    translators:
+      - Kornej Ivanovič Čukovskij
+      - Kornei Ivanovich Chukovskii (Корней Иванович Чуковский)
     year: 1965
     language: Russian
     sources:
@@ -34175,6 +34315,8 @@ titles:
     authors:
       - Aleksandr Sergeevič Puškin
       - Vladimir Mihajlovič Konaševič
+    editors:
+      - G. I. Guseva
     year: 1965
     language: Russian
     sources:
@@ -35832,6 +35974,7 @@ titles:
     verified: true
   - title: Malenʹkij Muk
     subtitle: Skazki
+    original_title: Die Geschichte vom kleinen Muck
     authors:
       - Wilhelm Hauff
       - Michail A. Salʹe
@@ -35844,6 +35987,7 @@ titles:
     verified: true
   - title: Maleńkij Muk
     subtitle: Skazki
+    original_title: Die Geschichte vom kleinen Muck
     authors:
       - Wilhelm Hauff
       - Michail A. Salʹe
@@ -36553,9 +36697,11 @@ titles:
     verified: true
   - title: Putešestvija Lemjuzlja Gullivera
     subtitle: V nekotorye otdalennye strany sveta, snačala chirurga, a potom kapitana neskol’kich korablej
+    original_title: Gulliver's travels
     series: S̆kol'naja biblioteka
     authors:
       - Jonathan Swift
+    translators:
       - Boris Michajlovič Ėngelʹgardt
     year: 1966
     language: Russian
@@ -37099,6 +37245,7 @@ titles:
     verified: true
   - title: Songoro Kosongo
     subtitle: Izbrannye stiji
+    original_title: Sóngoro Cosongo
     authors:
       - Nicolás Guillén
     year: 1966
@@ -37109,9 +37256,11 @@ titles:
     verified: true
   - title: Starik i more
     subtitle: Povest'
+    original_title: The old man and the sea
     series: Škol'naja biblioteka
     authors:
       - Ernest Hemingway
+    translators:
       - E. Golyševa
     year: 1966
     language: Russian
@@ -38214,6 +38363,8 @@ titles:
     authors:
       - Mihail Aleksandrovič Šolohov
       - Mikhail Aleksandrovich Sholokhov (Михаил Александрович Шолохов)
+    editors:
+      - S. N. Bojarskaja
     year: 1967
     language: Russian
     sources:
@@ -38447,6 +38598,7 @@ titles:
     verified: true
   - title: Goršok kaši
     subtitle: Skazka
+    original_title: Der süße Brei
     authors:
       - Jacob Grimm
       - Wilhelm Grimm
@@ -38675,6 +38827,8 @@ titles:
       - Aleksandr Vasilevich Zapadov (Александр Васильевич Западов)
       - Nikolaj Evgenʹevič Muratov
       - Nikolai Evgenevich Muratov (Николай Евгеньевич Муратов)
+    editors:
+      - Aleksandr V. Zapadov
     year: 1967
     language: Russian
     sources:
@@ -38744,8 +38898,10 @@ titles:
         url: https://search.worldcat.org/title/27348832
     verified: true
   - title: Malenʹkij princ
+    original_title: Le petit prince
     authors:
       - Antoine de Saint-Exupéry
+    translators:
       - Nora Galʹ
       - Nora Gal (Нора Галь)
     year: 1967
@@ -39225,11 +39381,13 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=56583147X
     verified: true
   - title: Putešestvija Gullivera
+    original_title: Travels into several remote nations of the world by Lemuel Gulliver
     series: Školʹnaja biblioteka dlja nerusskich škol
     authors:
       - Jonathan Swift
-      - Tamara Grigorʹevna Gabbe
       - Grandville
+    translators:
+      - Tamara Grigorʹevna Gabbe
     year: 1967
     language: Russian
     sources:
@@ -39283,6 +39441,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=539773441
     verified: true
   - title: Rasskazy o Pille-Rijn
+    original_title: Pille-Riini lood
     authors:
       - Ellen Nijt
       - Sil'vi Vjal'jal
@@ -39442,6 +39601,8 @@ titles:
     series: Skol'naja biblioteka
     authors:
       - Michail Jurʹevič Lermontov
+    editors:
+      - Iraklij L. Andronikov
     year: 1967
     language: Russian
     sources:
@@ -40715,8 +40876,9 @@ titles:
   - title: Goluboj šalaš
     authors:
       - Spiridon Vangheli
-      - Jakov Lazarevič Akim
       - K. Kalinyčeva
+    translators:
+      - Jakov Lazarevič Akim
     year: 1968
     language: Russian
     sources:
@@ -40776,6 +40938,8 @@ titles:
       - Tudor Arghezi
       - Ilʹâ Iosifovič Kabakov
       - Ilia Iosifovich Kabakov (Илья Иосифович Кабаков)
+    translators:
+      - Aleksandr Sadeckij
     year: 1968
     language: Russian
     sources:
@@ -40859,7 +41023,8 @@ titles:
   - title: Karavan mudrosti
     subtitle: Narodnye izrečeniâ i poslovicy Srednej Azii
     series: Školʹnaâ Biblioteka dlâ nerusskih škol
-    authors:
+    authors: []
+    translators:
       - Naum Grebnev
       - Naum Grebnev (Наум Гребнев)
     year: 1968
@@ -40950,8 +41115,9 @@ titles:
   - title: Krasnaja Šapočka
     authors:
       - Charles Perrault
-      - Samuil Maršak
       - Boris Aleksandrovič Dechterëv
+    translators:
+      - Samuil Maršak
     year: 1968
     language: Russian
     sources:
@@ -42393,8 +42559,9 @@ titles:
   - title: Umnaja Golovuška
     subtitle: Latyšsie narodnye pesenki
     authors:
-      - Ljudmila Kopylova
       - Jazep Pigoznis
+    translators:
+      - Ljudmila Kopylova
     year: 1968
     language: Russian
     sources:
@@ -43413,6 +43580,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=452633834
     verified: true
   - title: Faust
+    original_title: Faust
     series: Skol'naja biblioteka
     authors:
       - Johann Wolfgang von Goethe
@@ -43426,10 +43594,12 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=56108324X
     verified: true
   - title: Gavroš
+    original_title: Les misérables
     series: Školʹnaja biblioteka
     authors:
       - Victor Hugo
       - David A. Dubinskij
+    translators:
       - Natalija Grigorʹevna Kasatkina
     year: 1969
     language: Russian
@@ -44165,6 +44335,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1120777194
     verified: true
   - title: Odisseja kapitana Blada
+    original_title: Captain Blood. His odyssee
     series: Biblioteka priključenij; 18
     authors:
       - Rafael Sabatini
@@ -44287,8 +44458,9 @@ titles:
   - title: Podsnežnik
     subtitle: Tadžikskie narodnye detskie pesenki
     authors:
-      - Naum I. Grebnev
       - David S. Chajkin
+    translators:
+      - Naum I. Grebnev
     year: 1969
     language: Russian
     sources:
@@ -45047,6 +45219,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=418124132
     verified: true
   - title: Troe s desjatoj tysjači
+    original_title: Ci z dziesie̜tego tysia̜ca
     authors:
       - Jerzy Broszkiewicz
       - E. Vajs'rot
@@ -45356,8 +45529,9 @@ titles:
   - title: Žuravliki-žuravli
     authors:
       - Platon M. Voronʹko
-      - Zinaida Nikolaevna Aleksandrova
       - P. Aseev
+    translators:
+      - Zinaida Nikolaevna Aleksandrova
     year: 1969
     language: Russian
     sources:
@@ -45824,6 +45998,9 @@ titles:
       - Lev Nikolaevich Tolstoi (Лев Николаевич Толстой)
       - Aleksej Vladimirovič Čičerin
       - Aleksei Vladimirovich Chicherin (Алексей Владимирович Чичерин)
+    editors:
+      - M. I. Salʹnikova
+      - M. E. Salnikova (М. И. Сальникова)
     year: 1970
     language: Russian
     sources:
@@ -48612,6 +48789,7 @@ titles:
     authors:
       - Ilze Indrane
       - Gunar Krollis
+    translators:
       - Nina Bat'
     year: 1971
     language: Russian
@@ -48932,6 +49110,9 @@ titles:
   - title: Komedii
     authors:
       - Denis Ivanovich Fonvizin
+    editors:
+      - Aleksandr Vasilievič Zapadov
+      - Aleksandr Vasilevich Zapadov (Александр Васильевич Западов)
     year: 1971
     language: Russian
     pages: 158
@@ -49102,8 +49283,9 @@ titles:
   - title: Malenkaja vsadnica
     authors:
       - Šükürbek Bejšenaliev
-      - Sergej Alekseevič Baruzdin
       - P. Sarkisjan
+    translators:
+      - Sergej Alekseevič Baruzdin
     year: 1971
     language: Russian
     sources:
@@ -49215,12 +49397,14 @@ titles:
     verified: true
   - title: My - na ostrove Salʹtkroka
     subtitle: Povestʹ
+    original_title: Vi på Saltråkan
     authors:
       - Astrid Lindgren
-      - L. Braude
-      - E. Milëchinoj
       - N. Noskovič
       - G. Fitingofa
+    translators:
+      - L. Braude
+      - E. Milëchinoj
     year: 1971
     language: Russian
     sources:
@@ -50058,6 +50242,8 @@ titles:
       - A. Nechaev (А. Нечаев)
       - P. Kuznecov
       - P. Kuznetsov (П. Кузнецов)
+    editors:
+      - Aleksandr N. Nečaev
     year: 1971
     language: Russian
     sources:
@@ -50161,6 +50347,7 @@ titles:
     subtitle: Perevod s burjatskogo
     authors:
       - Damba Žalsaraev
+    translators:
       - Vladimir Semenov
     year: 1971
     language: Not recorded
@@ -50180,12 +50367,15 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=146119315X
     verified: true
   - title: Skazki
+    original_title: Eventyr
     series: Škol'naja biblioteka
     authors:
       - Veniamine Aleksandrovitch Kaverine
       - Veniamin Aleksandrovich Kaverin (Вениамин Александрович Каверин)
       - Valerij Sergeevič Alfeevskij
       - Valerii Sergeevich Alfeevskii (Валерий Сергеевич Алфеевский)
+    editors:
+      - Marija S. Gorjačkina
     year: 1971
     language: Russian
     sources:
@@ -50868,10 +51058,12 @@ titles:
         url: https://www.sudoc.fr/260319910
     verified: true
   - title: Besedy s tigrom
+    original_title: Talks with a tiger
     authors:
       - Donald Bisset
-      - N. Šereševskoy
       - Vladimir T. Čaplja
+    translators:
+      - N. Šereševskoy
     year: 1972
     language: Russian
     sources:
@@ -51511,8 +51703,9 @@ titles:
     subtitle: Anglijskie narodnye pesenki
     series: Dlja malenʹkich
     authors:
-      - Kornej Ivanovič Čukovskij
       - Vladimir Grigorʹevič Suteev
+    translators:
+      - Kornej Ivanovič Čukovskij
     year: 1972
     language: Russian
     sources:
@@ -52098,6 +52291,8 @@ titles:
     authors:
       - Nikolaj Semenovič Leskov
       - Nikolai Semenovich Leskov (Николай Семенович Лесков)
+    editors:
+      - I. V. Vorob'eva
     year: 1972
     language: Russian
     sources:
@@ -52347,8 +52542,10 @@ titles:
     verified: true
   - title: Romeo i Džul'etta
     subtitle: Tragedija v 5-ti aktach
+    original_title: Romeo and Juliet
     authors:
       - William Shakespeare
+    translators:
       - Boris Leonidovič Pasternak
     year: 1972
     language: Not recorded
@@ -52574,12 +52771,14 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=717390888
     verified: true
   - title: Slon hobotovskij
+    original_title: Słoń Trąbalski
     authors:
       - Julian Tuwim
-      - Asar Isaevič Èppel’
-      - Asar Isaevich Eppel (Асар Исаевич Эппель)
       - Fëdor Viktorovič Lemkulʹ
       - Fedor Viktorovich Lemkul (Фёдор Викторович Лемкуль)
+    translators:
+      - Asar Isaevič Èppel’
+      - Asar Isaevich Eppel (Асар Исаевич Эппель)
     year: 1972
     language: Russian
     sources:
@@ -53460,6 +53659,7 @@ titles:
     authors:
       - Jūlijs Vanags
       - F. Šterenberg
+    translators:
       - D. Nagiškina
       - I. Sokolovoj
     year: 1973
@@ -53556,6 +53756,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=421277726
     verified: true
   - title: Choču lunu!
+    original_title: The little Book-Room
     authors:
       - Eleanor Farjeon
       - N. Šereševskaja
@@ -53997,6 +54198,7 @@ titles:
     authors:
       - Johann Wolfgang von Goethe
       - Andrej D. Gončarov
+    translators:
       - Nikolaj A. Cholodkovskij
     year: 1973
     language: Russian
@@ -54149,6 +54351,9 @@ titles:
     subtitle: Stikhi i poėmy
     authors:
       - Demʹian Bednyĭ
+    editors:
+      - Vladimir Nikolaevič Orlov
+      - Vladimir Nikolaevich Orlov (Владимир Николаевич Орлов)
     year: 1973
     series: Shkolʹnaia biblioteka
     language: Russian
@@ -54527,12 +54732,14 @@ titles:
     verified: true
   - title: Malenʹkaâ Baba-âga
     subtitle: Povestʹ-skazka
+    original_title: Diekleine Hexe
     authors:
       - Otfried Preussler
-      - Ûrij Iosifovič Korinec
-      - Iurii Iosifovich Korinets (Юрий Иосифович Коринец)
       - Ilʹâ Iosifovič Kabakov
       - Ilia Iosifovich Kabakov (Илья Иосифович Кабаков)
+    translators:
+      - Ûrij Iosifovič Korinec
+      - Iurii Iosifovich Korinets (Юрий Иосифович Коринец)
     year: 1973
     language: Russian
     sources:
@@ -54541,6 +54748,7 @@ titles:
     verified: true
   - title: Maleńkij Muk
     subtitle: Skazki
+    original_title: Die Geschichte vom kleinen Muck
     authors:
       - Wilhelm Hauff
       - Garri Rida
@@ -54592,6 +54800,7 @@ titles:
     subtitle: Skazki
     authors:
       - Vitaute Žilinskajte
+    translators:
       - B. Zalesskaja
     year: 1973
     language: Russian
@@ -55307,6 +55516,7 @@ titles:
         url: https://www.sudoc.fr/010803475
     verified: true
   - title: Romeo i Dzhulietta
+    original_title: Romeo and Juliet
     authors:
       - William Shakespeare
     year: 1973
@@ -56725,6 +56935,7 @@ titles:
     verified: true
   - title: Čudo-judo, Agneška i apelʹsin
     subtitle: Povestʹ
+    original_title: Ucho od śledzia
     authors:
       - Hanna Ožogovska
       - M. Landman
@@ -56760,6 +56971,7 @@ titles:
     subtitle: Očerki
     authors:
       - Pirmat Šermuchamedov
+    translators:
       - Igorʹ Motjašev
     year: 1974
     language: Russian
@@ -56985,15 +57197,17 @@ titles:
     verified: true
   - title: Gobsek
     subtitle: Povestʹ
+    original_title: Gobsek
     series: Školʹnaâ biblioteka
     authors:
       - Honoré de Balzac
       - David Davidovič Šterenberg
       - David Davidovich Shterenberg (Давид Давидович Штеренберг)
-      - Natalʹâ Ivanovna Nemčinova
-      - Natalia Ivanovna Nemchinova (Наталья Ивановна Немчинова)
       - Igorʹ Borisovič Dûšen
       - Igor Borisovich Diushen (Игорь Борисович Дюшен)
+    translators:
+      - Natalʹâ Ivanovna Nemčinova
+      - Natalia Ivanovna Nemchinova (Наталья Ивановна Немчинова)
     year: 1974
     language: Russian
     sources:
@@ -57541,6 +57755,7 @@ titles:
     verified: true
   - title: Ostrov sokroviŝ
     subtitle: Roman
+    original_title: Treasure Island
     series: Biblioteka priklûčenij i naučnoj fantastiki
     authors:
       - Robert Louis Stevenson
@@ -57553,6 +57768,7 @@ titles:
     verified: true
   - title: Otkryvaja mir
     subtitle: Novelly
+    original_title: Chorvootoj tanilcsan tuuch
     authors:
       - L. Tudėv
       - B. Košoev
@@ -58091,6 +58307,7 @@ titles:
     verified: true
   - title: Starik i more
     subtitle: Povest
+    original_title: (The old man and the sea [russ.])
     series: Škol'naja biblioteka
     authors:
       - Ernest Hemingway
@@ -58199,9 +58416,11 @@ titles:
     verified: true
   - title: Tri mušketera
     subtitle: Roman
+    original_title: Les trois mousquetaires
     series: Biblioteka priklûčenij i načnoj fantastiki
     authors:
       - Alexandre Dumas
+    translators:
       - Vera Semenovna Valʹdman
       - Vera Semenovna Valdman (Вера Семеновна Вальдман)
     year: 1974
@@ -59160,17 +59379,19 @@ titles:
     verified: true
   - title: Gamlet, princ datskij
     subtitle: Tragediâ
+    original_title: Hamlet, prince of Denmark
     series: Školʹnaâ biblioteka
     authors:
       - William Shakespeare
-      - Boris Leonidovič Pasternak
-      - Boris Leonidovich Pasternak (Борис Леонидович Пастернак)
       - Boris Aleksandrovǐc Dehterëv
       - Boris Aleksandrovich Dekhterëv (Борис Александрович Дехтерëв)
       - Svâtoslav Igorʹevič Bèlza
       - Sviatoslav Igorevich Belza (Святослав Игорьевич Бэлза)
       - Mihail Mihajlovič Morozov
       - Mikhail Mikhailovich Morozov (Михаил Михайлович Морозов)
+    translators:
+      - Boris Leonidovič Pasternak
+      - Boris Leonidovich Pasternak (Борис Леонидович Пастернак)
     year: 1975
     language: Russian
     sources:
@@ -59659,6 +59880,7 @@ titles:
     verified: true
   - title: Megrè serditsâ
     subtitle: Povesti i rasskazy
+    original_title: Maigret se fâche
     series: Bibliotečnaâ seriâ dlâ srednego i staršego vozrasta
     authors:
       - Georges Simenon
@@ -59781,10 +60003,11 @@ titles:
     authors:
       - Hikmet Ziâ
       - Khikmet Ziia (Хикмет Зия)
-      - Èmma Èfraimovna Moškovskaâ
-      - Emma Efraimovna Moshkovskaia (Эмма Эфраимовна Мошковская)
       - Natal’â Georgievna Holodovskaâ
       - Natalia Georgievna Kholodovskaia (Наталья Георгиевна Холодовская)
+    translators:
+      - Èmma Èfraimovna Moškovskaâ
+      - Emma Efraimovna Moshkovskaia (Эмма Эфраимовна Мошковская)
     year: 1975
     language: Russian
     sources:
@@ -60106,10 +60329,11 @@ titles:
     subtitle: Skazki
     series: Moi pervye knižki
     authors:
-      - Elena Nikolaevna Katasonova
-      - Elena Nikolaevna Katasonova (Елена Николаевна Катасонова)
       - Ilʹâ Iosifovič Kabakov
       - Ilia Iosifovich Kabakov (Илья Иосифович Кабаков)
+    translators:
+      - Elena Nikolaevna Katasonova
+      - Elena Nikolaevna Katasonova (Елена Николаевна Катасонова)
     year: 1975
     language: Russian
     sources:
@@ -60359,9 +60583,11 @@ titles:
         url: https://www.sudoc.fr/149100930
     verified: true
   - title: So mnoj večno čto-to slučaetsja
+    original_title: Velem mindig történik valami
     authors:
       - Éva Janikovszky
       - László Réber
+    translators:
       - Gennadij Lejbutin
     year: 1975
     language: Russian
@@ -60708,6 +60934,7 @@ titles:
       - Zinovii Iakovlevich Bilenko (Зиновий Яковлевич Биленко)
       - Valentin Byčko
       - Valentin Bychko (Валентин Бычко)
+    translators:
       - M. Dejmanovskij
       - M. Deimanovskii (М. Деймановский)
     year: 1975
@@ -61362,6 +61589,7 @@ titles:
     verified: true
   - title: Cepnaja reakcija
     subtitle: Povest'
+    original_title: Ķēdes loks
     authors:
       - Viktors Lagzdiņš
       - Lev Kvin
@@ -61510,10 +61738,11 @@ titles:
   - title: Dnevnik Dajny
     authors:
       - Eduardas Mieželaitis
-      - Leonid Solomonovič Mil’
-      - Leonid Solomonovich Mil (Леонид Соломонович Миль)
       - David Solomonovič Hajkin
       - David Solomonovich Khaikin (Давид Соломонович Хайкин)
+    translators:
+      - Leonid Solomonovič Mil’
+      - Leonid Solomonovich Mil (Леонид Соломонович Миль)
     year: 1976
     language: Russian
     sources:
@@ -61728,6 +61957,8 @@ titles:
       - Aleksandr Sergeevich Pushkin (Александр Сергеевич Пушкин)
       - Boris Aleksandrovǐc Dehterëv
       - Boris Aleksandrovich Dekhterëv (Борис Александрович Дехтерëв)
+    editors:
+      - Dmitrij Dmitrievič Blagoj
     year: 1976
     language: Russian
     sources:
@@ -62515,6 +62746,7 @@ titles:
     verified: true
   - title: Propavšij kompas
     subtitle: Povest'
+    original_title: Der verschwundene Schiffskompaß
     authors:
       - Günter Görlich
       - V. Bolotnikova
@@ -62699,10 +62931,11 @@ titles:
     authors:
       - Tatʹâna Alekseevna Mavrina
       - Tatiana Alekseevna Mavrina (Татьяна Алексеевна Маврина)
-      - Tatʹâna Nbkolaevna Mihelʹson
-      - Tatiana Nikolaevna Mikhelson (Татьяна Николаевна Михельсон)
       - Dmitrii Sergeevich Likhachev (Дмитрий Сергеевич Лихачев)
       - Stéphane Zweguintzow
+    translators:
+      - Tatʹâna Nbkolaevna Mihelʹson
+      - Tatiana Nikolaevna Mikhelson (Татьяна Николаевна Михельсон)
     year: 1976
     language: Russian
     sources:
@@ -62769,6 +63002,8 @@ titles:
       - Vladimir Alekseevich Milashevskii (Владимир Алексеевич Милашевский)
       - Elena Andreevna Korotkova
       - Elena Andreevna Korotkova (Елена Андреевна Короткова)
+    editors:
+      - Vladimir P. Anikin
     year: 1976
     language: Russian
     sources:
@@ -63115,12 +63350,13 @@ titles:
       - Khamid Khusnutdinovich Iarmukhametov (Хамид Хуснутдинович Ярмухаметов)
       - Stanislav Mihajlovič Zabaluev
       - Stanislav Mikhailovich Zabaluev (Станислав Михайлович Забалуев)
+      - Gumer Baširovič Baširov
+      - Gumer Bashirovich Bashirov (Гумер Баширович Баширов)
+    translators:
       - Mihail Aleksandrovič Bulatov
       - Mikhail Aleksandrovich Bulatov (Михаил Александрович Булатов)
       - Gajša Šaripova
       - Gaisha Sharipova (Гайша Шарипова)
-      - Gumer Baširovič Baširov
-      - Gumer Bashirovich Bashirov (Гумер Баширович Баширов)
     year: 1976
     language: Russian
     sources:
@@ -64024,6 +64260,7 @@ titles:
     authors:
       - Johann Wolfgang von Goethe
       - Andrej D. Gončarov
+    translators:
       - Nikolaj A. Cholodkovskij
     year: 1977
     language: Russian
@@ -64858,13 +65095,15 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=43816475X
     verified: true
   - title: Priklûčeniâ Alisy v Strane Čudes
+    original_title: Alice's adventures in wonderland
     series: Školʹnaâ biblioteka dlâ nerusskih škol
     authors:
       - Lewis Carroll
-      - Boris Vladimirovič Zahoder
-      - Boris Vladimirovich Zakhoder (Борис Владимирович Заходер)
       - Gennadij Vladimirovič Kalinovskij
       - Gennadii Vladimirovich Kalinovskii (Геннадий Владимирович Калиновский)
+    translators:
+      - Boris Vladimirovič Zahoder
+      - Boris Vladimirovich Zakhoder (Борис Владимирович Заходер)
     year: 1977
     language: Russian
     sources:
@@ -64904,13 +65143,15 @@ titles:
     verified: true
   - title: Ptičʹe radio
     subtitle: Stihi
+    original_title: Ptasie radio
     series: Moi pervye knižki
     authors:
       - Julian Tuwim
-      - Sergej Vladimirovič Mihalkov
-      - Sergei Vladimirovich Mikhalkov (Сергей Владимирович Михалков)
       - L. Nižnij
       - L. Nizhnii (Л. Нижний)
+    translators:
+      - Sergej Vladimirovič Mihalkov
+      - Sergei Vladimirovich Mikhalkov (Сергей Владимирович Михалков)
     year: 1977
     language: Russian
     sources:
@@ -65134,10 +65375,16 @@ titles:
       - Hans Christian Andersen
       - Vladimir Petrovič Panov
       - Vladimir Petrovich Panov (Владимир Петрович Панов)
-      - Vladimir Alekseevič Smirnov
-      - Vladimir Alekseevich Smirnov (Владимир Алексеевич Смирнов)
       - Lûdmila Ûlʹevna Braude
       - Liudmila Iulevna Braude (Людмила Юльевна Брауде)
+    editors:
+      - Tatʹâna Alekseevna Mavrina
+      - Tatiana Alekseevna Mavrina (Татьяна Алексеевна Маврина)
+      - L. Â. Libet
+      - L. I. Libet (Л. Я. Либет)
+    translators:
+      - Vladimir Alekseevič Smirnov
+      - Vladimir Alekseevich Smirnov (Владимир Алексеевич Смирнов)
     year: 1977
     language: Russian
     sources:
@@ -65492,6 +65739,7 @@ titles:
     series: Školʹnaâ biblioteka
     authors:
       - Shota Rustaveli
+    translators:
       - N. Zabolockij
       - N. Zabolotskii (Н. Заболоцкий)
     year: 1977
@@ -66029,9 +66277,11 @@ titles:
         url: https://search.worldcat.org/title/63242076
     verified: true
   - title: Čudesa zemli
+    original_title: Wunder der Erde
     series: Meždunarodnaja biblioteka
     authors:
       - Ernst Waldemar Bauer
+    translators:
       - L. Ždanov
     year: 1978
     language: Russian
@@ -66503,17 +66753,19 @@ titles:
     verified: true
   - title: Matteo Falʹkone. Tamango
     subtitle: Novelly
+    original_title: Matteo Falcone
     authors:
       - Prosper Mérimée
       - Georgij Valentinovič Akulov
       - Georgii Valentinovich Akulov (Георгий Валентинович Акулов)
+      - Georgij Konstantinovič Kosikov
+      - Georgii Konstantinovich Kosikov (Георгий Константинович Косиков)
+      - Bernard Lory
+    translators:
       - O. Lavrova
       - O. Lavrova (О. Лаврова)
       - Anna Nikolaevna Teterevnikova
       - Anna Nikolaevna Teterevnikova (Анна Николаевна Тетеревникова)
-      - Georgij Konstantinovič Kosikov
-      - Georgii Konstantinovich Kosikov (Георгий Константинович Косиков)
-      - Bernard Lory
     year: 1978
     language: Russian
     sources:
@@ -66946,6 +67198,8 @@ titles:
   - title: Skazki
     authors:
       - Kornei Chukovskii (Корней Иванович Чуковский)
+    editors:
+      - Marija S. Gorjačkina
     year: 1978
     language: Russian
     sources:
@@ -67306,6 +67560,8 @@ titles:
       - Boris Aleksandrovič Dechterëv
       - N. Dechtereva
       - Wolfgang Amadeus Mozart
+    editors:
+      - N. Dechterëva
     year: 1978
     language: Russian
     sources:
@@ -67987,6 +68243,7 @@ titles:
         url: https://www.sudoc.fr/235363766
     verified: true
   - title: Deti kapitana Granta
+    original_title: Les enfants du capitaine Grant
     series: Biblioteka mirovoj literatury dlja detej; 41
     authors:
       - Jules Verne
@@ -68271,6 +68528,8 @@ titles:
     series: Škol'naja biblioteka
     authors:
       - Nikolaj A. Nekrasov
+    editors:
+      - Vadim Gerševič Perelʹmuter
     year: 1979
     language: Russian
     sources:
@@ -68303,12 +68562,14 @@ titles:
     verified: true
   - title: Lollipop
     subtitle: Povestʹ
+    original_title: Lollipop
     authors:
       - Christine Nöstlinger
-      - Pavel L’vovič Frenkel’
-      - Pavel Lvovich Frenkel (Павел Львович Френкель)
       - Evgenij Vasil’evič Savin
       - Evgenii Vasilevich Savin (Евгений Васильевич Савин)
+    translators:
+      - Pavel L’vovič Frenkel’
+      - Pavel Lvovich Frenkel (Павел Львович Френкель)
     year: 1979
     language: Russian
     sources:
@@ -68337,6 +68598,7 @@ titles:
     verified: true
   - title: Malenʹkij vodjanoj
     subtitle: Povestʹ-skazka
+    original_title: Der kleine Wassermann
     authors:
       - Otfried Preußler
       - Jurij I. Korinec
@@ -68706,6 +68968,9 @@ titles:
   - title: Rasskazy
     authors:
       - Vasiliĭ Makarovich Shukshin
+    editors:
+      - Lidiâ Nikolaevna Fedoseeva-Šukšina
+      - Lidiia Nikolaevna Fedoseeva-shukshina (Лидия Николаевна Федосеева-Шукшина)
     year: 1979
     language: Russian
     sources:
@@ -68807,6 +69072,9 @@ titles:
       - Hans Christian Andersen
       - G. A. V. Traugot
       - G. A. V. Traugot (Г. А. В. Траугот)
+    editors:
+      - A. Traugot
+    translators:
       - Anna Vasilʹevna Ganzen
       - Anna Vasilevna Ganzen (Анна Васильевна Ганзен)
       - Aleksandra Il’inična Kobeckaâ
@@ -69100,10 +69368,11 @@ titles:
   - title: Vesëlaâ azbuka
     authors:
       - Grigore Vieru
-      - Valentin Dmitrievitch Berestov
-      - Valentin Dmitrievich Berestov (Валентин Дмитриевич Берестов)
       - Èduard Semënovič Gorohovskij
       - Eduard Semenovich Gorokhovskii (Эдуард Семёнович Гороховский)
+    translators:
+      - Valentin Dmitrievitch Berestov
+      - Valentin Dmitrievich Berestov (Валентин Дмитриевич Берестов)
     year: 1979
     language: Russian
     sources:
@@ -69486,6 +69755,7 @@ titles:
     verified: false
   - title: Витязь в тигровой шкуре
     subtitle: Poema
+    original_title: ვეფხისტყაოსანი
     authors:
       - Shota Rustaveli
     year: 1979
@@ -69765,6 +70035,7 @@ titles:
     verified: true
   - title: Ajvengo
     subtitle: Roman
+    original_title: Ivanhoe
     series: Biblioteka mirovoj literatury dlja detej; 43
     authors:
       - Walter Scott
@@ -69927,6 +70198,7 @@ titles:
     verified: true
   - title: Chitroumnyj idal'go Don Kichot lamančskij
     subtitle: Roman
+    original_title: El ingenioso hidalgo Don Quixote de la Mancha
     series: Biblioteka mirovoj literatury dlja detej; 34
     authors:
       - Miguel de Cervantes Saavedra
@@ -69940,6 +70212,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=435309129
     verified: true
   - title: Chižina djadi Toma
+    original_title: Uncle Tom's cabin
     series: Biblioteka mirovoj literatury dlja detej; 37
     authors:
       - Harriet Beecher Stowe
@@ -70184,6 +70457,7 @@ titles:
     verified: true
   - title: Jitroumnyï idal'go Don Kijot Lamanchskiï
     subtitle: Roman
+    original_title: Don Quijote de la Mancha
     series: Biblioteka mirovoï literatury dlia deteï; 34
     authors:
       - Miguel de Cervantes Saavedra
@@ -70745,6 +71019,8 @@ titles:
   - title: Rasskazy
     authors:
       - Vasiliĭ Makarovich Shukshin
+    editors:
+      - Lidija Nikolaevna Fedoseeva-Šukšina
     year: 1980
     language: Russian
     pages: 380
@@ -70771,6 +71047,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=435697277
     verified: true
   - title: Robinzon Kruzo
+    original_title: The life and surprising adventures of Robinson Crusoe
     series: Biblioteka mirovoj literatury dlja detej; 45
     authors:
       - Daniel Defoe
@@ -71806,6 +72083,7 @@ titles:
       - Musbek Kibiev (Мусбек Кибиев)
       - Ahmet Malʹsagov
       - Akhmet Malsagov (Ахмет Мальсагов)
+    translators:
       - Viktor Mihajlovič Gacak
       - V. Gatsak (В. Гацак)
     year: 1981
@@ -71945,6 +72223,7 @@ titles:
   - title: Detskaja literatura Tadžikistana
     authors:
       - Raǵab Amonov
+    translators:
       - Larisa Demidčik
     year: 1981
     language: Russian
@@ -72008,10 +72287,11 @@ titles:
   - title: Dve fasolʹki, tri boba
     subtitle: Litovskie narodnye pesenki
     authors:
-      - Efim Moiseevič Ûdin
-      - Efim Moiseevich Iudin (Ефим Моисеевич Юдин)
       - Vadim Vasilʹevič Ivanûk
       - Vadim Vasilevich Ivaniuk (Вадим Васильевич Иванюк)
+    translators:
+      - Efim Moiseevič Ûdin
+      - Efim Moiseevich Iudin (Ефим Моисеевич Юдин)
     year: 1981
     language: Russian
     sources:
@@ -72492,8 +72772,9 @@ titles:
     subtitle: Stichi
     authors:
       - Oksana Pavlovna Senatović
-      - A. A. Krestinskij
       - E. Malašenkovoj
+    translators:
+      - A. A. Krestinskij
     year: 1981
     language: Russian
     sources:
@@ -72604,10 +72885,11 @@ titles:
     authors:
       - Võ Qua̕ng
       - Xuân Quỳnh
-      - Irina Petrovna Tokmakova
-      - Irina Petrovna Tokmakova (Ирина Петровна Токмакова)
       - Svetozar Aleksandrovič Ostrov
       - Svetozar Aleksandrovich Ostrov (Светозар Александрович Остров)
+    translators:
+      - Irina Petrovna Tokmakova
+      - Irina Petrovna Tokmakova (Ирина Петровна Токмакова)
     year: 1981
     language: Russian
     sources:
@@ -72696,12 +72978,13 @@ titles:
   - title: Prodavec snov
     subtitle: Stihi poètov Ûžnoj i Centalʹnoj Ameriki
     authors:
-      - Viktor Il’ič Viktorov
-      - Viktor Ilich Viktorov (Виктор Ильич Викторов)
       - Villi Bencionovič Trubkovič
       - Villi Bentsionovich Trubkovich (Вилли Бенционович Трубкович)
       - Mihail Villievič Trubkovič
       - Mikhail Villievich Trubkovich (Михаил Виллиевич Трубкович)
+    translators:
+      - Viktor Il’ič Viktorov
+      - Viktor Ilich Viktorov (Виктор Ильич Викторов)
     year: 1981
     language: Russian
     sources:
@@ -73850,6 +74133,7 @@ titles:
     verified: true
   - title: Belyj klyk
     subtitle: Povest'
+    original_title: White fang
     series: Biblioteka mirovoj literatury dlja detej; 48
     authors:
       - Jack London
@@ -74037,6 +74321,7 @@ titles:
     verified: true
   - title: Djujmovočka
     subtitle: Skazka
+    original_title: Tommelise
     authors:
       - Hans Christian Andersen
       - Anna V. Ganzen
@@ -74086,12 +74371,14 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=437323080
     verified: true
   - title: Gavroš
+    original_title: Gavroche
     authors:
       - Victor Hugo
-      - Natalʹâ Grigorʹevna Kasatkina
-      - Natalia Grigorevna Kasatkina (Наталья Григорьевна Касаткина)
       - David Aleksandrovič Dubinskij
       - David Aleksandrovich Dubinskii (Давид Александрович Дубинский)
+    translators:
+      - Natalʹâ Grigorʹevna Kasatkina
+      - Natalia Grigorevna Kasatkina (Наталья Григорьевна Касаткина)
     year: 1982
     language: Russian
     sources:
@@ -74294,9 +74581,10 @@ titles:
     subtitle: Skazki
     authors:
       - Vasilʹ Vitka
-      - Valentin Korčagin
       - Rafail Adolʹfovič Volʹskij
       - Ivan Antonavič Brylʹ
+    translators:
+      - Valentin Korčagin
     year: 1982
     language: Russian
     sources:
@@ -74461,8 +74749,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=436530651
     verified: true
   - title: Momo
+    original_title: Momo
     authors:
       - Michael Ende
+    translators:
+      - I. Korinets (Ю. Коринец)
     year: 1982
     language: Russian
     pages: 207
@@ -74740,10 +75031,11 @@ titles:
   - title: Prodelki zajca Mfundly
     subtitle: Mozambikskie narodnye skazki
     authors:
-      - Žanna Aleksandrovna Kanevskaâ
-      - Zhanna Aleksandrovna Kanevskaia (Жанна Александровна Каневская)
       - Valerij Pavlovič Buharev
       - Valerii Pavlovich Bukharev (Валерий Павлович Бухарев)
+    translators:
+      - Žanna Aleksandrovna Kanevskaâ
+      - Zhanna Aleksandrovna Kanevskaia (Жанна Александровна Каневская)
     year: 1982
     language: Russian
     sources:
@@ -74810,6 +75102,7 @@ titles:
     authors:
       - Dmitrij Sergeevič Lihačev
       - Dmitrii Sergeevich Likhachev (Дмитрий Сергеевич Лихачев)
+    translators:
       - Tatʹâna Nbkolaevna Mihelʹson
       - Tatiana Nikolaevna Mikhelson (Татьяна Николаевна Михельсон)
     year: 1982
@@ -74845,6 +75138,8 @@ titles:
       - Olga Ieronimovna Kapitsa (Ольга Иеронимовна Капица)
       - Viktor Glebovič Britvin
       - Viktor Glebovich Britvin (Виктор Глебович Бритвин)
+    editors:
+      - O. Kanica
     year: 1982
     language: Russian
     sources:
@@ -75407,10 +75702,11 @@ titles:
     subtitle: Belorusskie narodnye detsie pesenki
     series: Dlâ malenʹkih
     authors:
-      - Leonid Lʹvovič Âhnin
-      - Leonid Lvovich Iakhnin (Леонид Львович Яхнин)
       - Olʹga Konstantinovna Kondakova
       - Olga Konstantinovna Kondakova (Ольга Константиновна Кондакова)
+    translators:
+      - Leonid Lʹvovič Âhnin
+      - Leonid Lvovich Iakhnin (Леонид Львович Яхнин)
     year: 1982
     language: Russian
     sources:
@@ -75449,10 +75745,11 @@ titles:
     authors:
       - Asen Razcvetnikov
       - Asen Raztsvetnikov (Асен Разцветников)
-      - Èl’mira Pejsahovna Kotlâr
-      - Elmira Peisakhovna Kotliar (Эльмира Пейсаховна Котляр)
       - Al’bert Bronislavovič Šadzevskij
       - Albert Bronislavovich Shadzevskii (Альберт Брониславович Шадзевский)
+    translators:
+      - Èl’mira Pejsahovna Kotlâr
+      - Elmira Peisakhovna Kotliar (Эльмира Пейсаховна Котляр)
     year: 1982
     language: Russian
     sources:
@@ -76168,15 +76465,17 @@ titles:
     verified: true
   - title: Kozetta
     subtitle: Otkryvok iz romana "Otveržennye"
+    original_title: Cosette
     series: Školʹnaâ biblioteka
     authors:
       - Victor Hugo
-      - Nadežda Sergeevna Šer
-      - Nadezhda Sergeevna Sher (Надежда Сергеевна Шер)
       - Leonid Grigorʹevič Petrov
       - Leonid Grigorevich Petrov (Леонид Григорьевич Петров)
       - Valentina Vladimirovna Petrova
       - Valentina Vladimirovna Petrova (Валентина Владимировна Петрова)
+    translators:
+      - Nadežda Sergeevna Šer
+      - Nadezhda Sergeevna Sher (Надежда Сергеевна Шер)
     year: 1983
     language: Russian
     sources:
@@ -76280,6 +76579,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=438180755
     verified: true
   - title: Malyš i Karlson
+    original_title: Allt om Karlsson pȧ taket
     series: Biblioteka mirovoj literatury dlja detej; 46
     authors:
       - Astrid Lindgren
@@ -76585,6 +76885,7 @@ titles:
         url: https://openlibrary.org/books/OL23056661M
     verified: true
   - title: Prikljucenija Alisy v Strane Čudes
+    original_title: Alice's adventures in Wonderland
     series: Biblioteka mirovoj dlja detej; 40
     authors:
       - Lewis Carroll
@@ -76791,12 +77092,13 @@ titles:
     verified: true
   - title: Slovo o polku Igoreve
     authors:
-      - Dmitrij Sergeevič Lihačev
-      - Dmitrii Sergeevich Likhachev (Дмитрий Сергеевич Лихачев)
       - Vladimir Andreevič Favorskij
       - Vladimir Andreevich Favorskii (Владимир Андреевич Фаворский)
       - Mihail Ivanovič Pikov
       - Mikhail Ivanovich Pikov (Михаил Иванович Пиков)
+    translators:
+      - Dmitrij Sergeevič Lihačev
+      - Dmitrii Sergeevich Likhachev (Дмитрий Сергеевич Лихачев)
     year: 1983
     language: Russian
     sources:
@@ -76821,6 +77123,8 @@ titles:
   - title: Sobranie sočinenij
     authors:
       - Agnija A. Kuznecova
+    editors:
+      - S. Beljaeva
     year: 1983
     language: Russian
     sources:
@@ -76901,10 +77205,11 @@ titles:
     series: Moi pervye knižki
     authors:
       - Hans Christian Andersen
-      - Anna Vasilʹevna Ganzen
-      - Anna Vasilevna Ganzen (Анна Васильевна Ганзен)
       - G. A. V. Traugot
       - G. A. V. Traugot (Г. А. В. Траугот)
+    translators:
+      - Anna Vasilʹevna Ganzen
+      - Anna Vasilevna Ganzen (Анна Васильевна Ганзен)
     year: 1983
     language: Russian
     sources:
@@ -77309,11 +77614,14 @@ titles:
     verified: false
   - title: Козетта
     subtitle: Отрывок из романа «Отверженные»
+    original_title: Cosette
     authors:
       - Victor Hugo
       - N. S. Sher
       - V. V. Petrova
       - L. G. Petrov
+    translators:
+      - N. S. Sher (Н. С. Шер)
     year: 1983
     series: Школьная библиотека
     language: Russian
@@ -78075,10 +78383,11 @@ titles:
     authors:
       - Miraziz Aʿzam
       - Miraziz Azam (Миразиз Аъзам)
-      - Ûrij Naumovič Kušak
-      - Iurii Naumovich Kushak (Юрий Наумович Кушак)
       - I. Gurin
       - E. Gurin (И. Гурин)
+    translators:
+      - Ûrij Naumovič Kušak
+      - Iurii Naumovich Kushak (Юрий Наумович Кушак)
     year: 1984
     language: Russian
     sources:
@@ -78737,6 +79046,8 @@ titles:
   - title: Sobranie sočinenij
     authors:
       - Longin F. Panteleev
+    editors:
+      - S. Beljaeva
     year: 1984
     language: Russian
     sources:
@@ -79002,6 +79313,8 @@ titles:
       - William Shakespeare
       - Molière
       - Carlo Goldoni
+    editors:
+      - Julij Iosifovič Kagarlickij
     year: 1984
     language: Russian
     sources:
@@ -79656,6 +79969,7 @@ titles:
     verified: true
   - title: Krabat
     subtitle: Legendy staroj melʹnicy
+    original_title: Krabat
     series: Bibliotečnaja serija
     authors:
       - Otfried Preußler
@@ -79671,8 +79985,9 @@ titles:
     subtitle: Rasskazy
     authors:
       - Ivan Egorovič Fedoseev
-      - A. Tverskij
       - V. Komarov
+    translators:
+      - A. Tverskij
     year: 1985
     language: Not recorded
     sources:
@@ -79878,11 +80193,13 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=583966578
     verified: true
   - title: Princessa na gorošine
+    original_title: Prinsessen paa aerten
     series: Dlja malen'kich
     authors:
       - Hans Christian Andersen
-      - Anna V. Ganzen
       - Anastasija Archipova
+    translators:
+      - Anna V. Ganzen
     year: 1985
     language: Russian
     sources:
@@ -80140,6 +80457,8 @@ titles:
   - title: Sobranie sočinenij
     authors:
       - Longin F. Panteleev
+    editors:
+      - S. Beljaeva
     year: 1985
     language: Russian
     sources:
@@ -80289,6 +80608,7 @@ titles:
     subtitle: Povestʹ; Perevod s tuvinskogo
     authors:
       - Monguš Ėrgep
+    translators:
       - N. Nadeždina
     year: 1985
     language: Not recorded
@@ -81122,6 +81442,7 @@ titles:
     subtitle: 'Povesti, rasskazy: Perevod s burjatskogo'
     authors:
       - Cyren Šagžin
+    translators:
       - Tatʹjana Gorbačevaja
     year: 1986
     language: Not recorded
@@ -81142,10 +81463,12 @@ titles:
     verified: true
   - title: Kubok
     subtitle: Izbrannaja lirika
+    original_title: Gedichte
     authors:
       - Friedrich Schiller
-      - Vladislav A. Pronin
       - A. Dugin
+    translators:
+      - Vladislav A. Pronin
     year: 1986
     language: Russian
     sources:
@@ -81187,6 +81510,7 @@ titles:
     verified: true
   - title: Leonardo
     subtitle: Kniga o chudožnike
+    original_title: Leonardo
     authors:
       - Carlo Pedretti
     year: 1986
@@ -81587,6 +81911,8 @@ titles:
   - title: Sobranie sočinenij
     authors:
       - Ljubovʹ F. Voronkova
+    editors:
+      - Anatolij Georgievič Aleksin
     year: 1986
     language: Russian
     sources:
@@ -82291,6 +82617,7 @@ titles:
     subtitle: Očerki
     authors:
       - Zachid Chalil
+    translators:
       - Igor Motjašov
     year: 1987
     language: Not recorded
@@ -82645,10 +82972,12 @@ titles:
     verified: true
   - title: Mavr i londonskie grači
     subtitle: Roman; perevod s nemeckogo
+    original_title: Mohr und die Raben von London
     series: Bibliotečnaja cerija
     authors:
       - Vilmos Korn
       - Ilse Korn
+    translators:
       - Valentina N. Kurella
     year: 1987
     language: Russian
@@ -83083,12 +83412,13 @@ titles:
     verified: true
   - title: Rasskazy načalʹnoj russkoj letopisi
     authors:
-      - Tatʹâna Nbkolaevna Mihelʹson
-      - Tatiana Nikolaevna Mikhelson (Татьяна Николаевна Михельсон)
       - Dmitrij Sergeevič Lihačev
       - Dmitrii Sergeevich Likhachev (Дмитрий Сергеевич Лихачев)
       - Ivan Dmitrievič Arhipov
       - Ivan Dmitrievich Arkhipov (Иван Дмитриевич Архипов)
+    translators:
+      - Tatʹâna Nbkolaevna Mihelʹson
+      - Tatiana Nikolaevna Mikhelson (Татьяна Николаевна Михельсон)
     year: 1987
     language: Russian
     sources:
@@ -83236,6 +83566,8 @@ titles:
   - title: Skazki
     authors:
       - Kornei Chukovskii (Корней Иванович Чуковский)
+    editors:
+      - V. Finikov
     year: 1987
     language: Russian
     pages: 155
@@ -83256,6 +83588,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=584098944
     verified: true
     subtitle: Perevod s datskogo
+    original_title: Eventyr
     series: Školnaja biblioteka
   - title: Skazki
     authors:
@@ -83330,6 +83663,7 @@ titles:
     subtitle: 'V 5 tomach: dlja srednego i staršego škol''nogo vozrasta'
   - title: Solovej
     subtitle: Skazka
+    original_title: Nattergallen
     authors:
       - Hans Christian Andersen
       - Anna V. Ganzen
@@ -83567,6 +83901,7 @@ titles:
     verified: true
   - title: Zakoldovannaja škola
     subtitle: Povesti
+    original_title: Az elvarazsolt iskola
     authors:
       - Katalin Nagy
       - Elena Malychinova
@@ -83854,11 +84189,13 @@ titles:
         url: https://catalog.hathitrust.org/Record/101890362
     verified: true
   - title: Alisa v strane čudes
+    original_title: Alice's Adventures in Wonderland
     series: Bibliotečnaâ seriâ
     authors:
       - Lewis Carroll
       - Gennadij Vladimirovič Kalinovskij
       - Gennadii Vladimirovich Kalinovskii (Геннадий Владимирович Калиновский)
+    translators:
       - Vladimir Èmmanuilovič Orël
       - Vladimir Emmanuilovich Orel (Владимир Эммануилович Орёл)
     year: 1988
@@ -84093,6 +84430,7 @@ titles:
     verified: true
   - title: Dlinnye uši v trave
     subtitle: Istorija kosuli Ryžki; povestʹ
+    original_title: Dlouhé uši v trávě
     authors:
       - Jiří Křenek
       - Nina Šulʹgina
@@ -84465,6 +84803,7 @@ titles:
     verified: true
   - title: Malenkij Caches po prozvaniju Cinnober
     subtitle: Povestʹ-skazka
+    original_title: Klein Zaches gennant Zinnober
     authors:
       - E. T. A. Hoffmann
       - Solomon Konstantinovič Apt
@@ -84612,6 +84951,7 @@ titles:
     subtitle: 'Stichi: Perevod s jakutskogo'
     authors:
       - Veniamin Pavlovič Mironov
+    translators:
       - Igorʹ Tarasevič
     year: 1988
     language: Not recorded
@@ -84747,9 +85087,10 @@ titles:
       - Jacques Prévert
       - G. A. V. Traugot
       - Viktor E. Balachonov
+      - N. E. Prijma
+    translators:
       - Leonid Cyvʹjan
       - Michail D. Jasnov
-      - N. E. Prijma
     year: 1988
     language: Russian
     sources:
@@ -84823,6 +85164,7 @@ titles:
     verified: true
   - title: Poslednie oleni And
     subtitle: Povest'-leguenda
+    original_title: Renancó y los últimos huemules
     authors:
       - José Murillo
       - Ana María Ramb
@@ -84881,6 +85223,7 @@ titles:
         url: https://search.worldcat.org/title/56572119
     verified: true
   - title: Princessa na gorošine
+    original_title: Prinsessen paa aerten
     authors:
       - Hans Christian Andersen
       - Anna V. Ganzen
@@ -84975,10 +85318,12 @@ titles:
     verified: true
   - title: Reineke-Lis
     subtitle: Poema
+    original_title: Reineke Fuchs
     authors:
       - Johann Wolfgang von Goethe
-      - L. Penkovskogo
       - A. Savade
+    translators:
+      - L. Penkovskogo
     year: 1988
     language: Not recorded
     sources:
@@ -84986,6 +85331,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1543280951
     verified: true
   - title: Rejneke-lis
+    original_title: Reineke Fuchs
     authors:
       - Johann Wolfgang von Goethe
       - Wilhelm von Kaulbach
@@ -85222,6 +85568,7 @@ titles:
     verified: true
   - title: Solovej
     subtitle: Skazka
+    original_title: Nattergallen
     authors:
       - Hans Christian Andersen
       - A. Ganzen
@@ -85401,6 +85748,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=018628346
     verified: true
   - title: Udivitelʹnye istorii uz žizni delʹfiny i marinetty
+    original_title: Les contes bleus du chat perché
     authors:
       - Marcel Aymé
       - Irina Kuznecova
@@ -86971,6 +87319,7 @@ titles:
     verified: true
   - title: Tim Taler ili Prodannyj smech
     subtitle: Fantastičeskaja povestʹ
+    original_title: Timm Thaler oder Das verkaufte Lachen
     authors:
       - James Krüss
       - A. Isaeva
@@ -87630,9 +87979,11 @@ titles:
     verified: true
   - title: Molodye gody korolja Genricha IV
     subtitle: Roman
+    original_title: Die Jugend des Königs Henri Quatre
     series: Bibliotečnaja serija
     authors:
       - Heinrich Mann
+    translators:
       - V. Stanevič
     year: 1990
     language: German
@@ -88156,6 +88507,8 @@ titles:
       - German Vasilʹevič Filippov
       - German Vasilevich Filippov (Герман Васильевич Филиппов)
       - Jacques Catteau
+    editors:
+      - German V. Filippov
     year: 1991
     language: Russian
     sources:
@@ -88303,10 +88656,12 @@ titles:
     verified: true
   - title: Quo vadis?
     subtitle: Roman
+    original_title: Quo vadis?
     series: Biblioteka priklûčenij naučnoj fantastiki
     authors:
       - Henryk Sienkiewicz
       - Genrik Senkeuich (Генрик Сенкеуич)
+    translators:
       - E. Lysenko
       - A. Lysenko (Е. Лысенко)
     year: 1991
@@ -88403,14 +88758,16 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=162843807X
     verified: true
   - title: Skazki
+    original_title: Märchen
     series: Skol'naja Biblioteka
     authors:
       - Jacob Grimm
       - Wilhelm Grimm
-      - A. Vvedenskogo
       - M. Šreter
       - A. Werdenskij
       - S. Maršak
+    translators:
+      - A. Vvedenskogo
     year: 1991
     language: Russian
     sources:

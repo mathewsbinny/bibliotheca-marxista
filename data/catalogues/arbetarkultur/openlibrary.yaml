@@ -23,6 +23,8 @@ titles:
   - title: Stalins Tal på Sovjet-Unionens Kommunistiska partis XVII Kongress. Översatt av Ivar Lassy
     authors:
       - Iosif Vissarionovič Stalin
+    translators:
+      - Ivar Lassy
     year: 1934
     language: Swedish
     sources:
@@ -776,9 +778,11 @@ titles:
         url: https://search.worldcat.org/title/830151172
     verified: true
   - title: Planetens förvandling
+    original_title: Preobrazovanie planety
     series: Kultur och politik
     authors:
       - M. Ilʹin
+    translators:
       - Sören Rydström
     year: 1953
     language: Swedish
@@ -811,9 +815,11 @@ titles:
         url: https://d-nb.info/577873482
     verified: true
   - title: Den dialektiska materialismen och vetenskapen
+    original_title: Dialectical materialism and science
     series: Kultur och politik
     authors:
       - Maurice Campbell Cornforth
+    translators:
       - Sigward Nilsson
     year: 1955
     language: Swedish
@@ -2505,6 +2511,8 @@ titles:
     subtitle: Artiklar ur tidningar och tidskrifter
     authors:
       - Artur Lundkvist
+    editors:
+      - Francisco Javier Uriz Echevarría
     year: 1983
     language: Swedish
     pages: 216
@@ -2777,6 +2785,9 @@ titles:
     subtitle: Svensk litteratur- och kulturkritik
     authors:
       - Artur Lundkvist
+    editors:
+      - Francisco J. Uriz
+      - Magnus Bergh
     year: 1985
     language: Swedish
     pages: 303
@@ -2882,6 +2893,7 @@ titles:
         url: https://d-nb.info/984432663
     verified: true
   - title: Presidentskan
+    original_title: La Regenta
     authors:
       - Leopoldo Alas
       - Peter Landelius
@@ -3028,6 +3040,8 @@ titles:
   - title: Kastade handskar
     authors:
       - Artur Lundkvist
+    editors:
+      - Francisco J. Uriz
     year: 1988
     language: Swedish
     pages: 158
@@ -3045,8 +3059,10 @@ titles:
     subtitle: Dikter
   - title: Revolutionens mentalitet
     subtitle: Samhälle och tänkande under franska revolutionen
+    original_title: 'La mentalité révolutionnaire : société et mentalités sous la Révolution française'
     authors:
       - Michel Vovelle
+    translators:
       - Jan Stolpe
     year: 1988
     language: Swedish

@@ -338,6 +338,8 @@ titles:
   - title: Selected Writings of Jotirao Phule
     authors:
       - Joti Govindrao Fule
+    editors:
+      - Govinda Puruṣottama Deśapāṇḍe
     year: 2002
     language: English
     pages: 247
@@ -362,6 +364,8 @@ titles:
     subtitle: A Decade of Neoliberal Economic Reforms in India
     authors:
       - C. P. Chandrasekhar
+    editors:
+      - Jayati Ghosh
     year: 2002
     language: English
     pages: 192
@@ -882,6 +886,8 @@ titles:
   - title: The Jail Notebook and Other Writings
     authors:
       - Bhagat Singh
+    editors:
+      - Camana Lāla
     year: 2007
     language: English
     pages: 191
@@ -938,6 +944,7 @@ titles:
     verified: true
   - title: Che
     subtitle: A Memoir by Fidel Castro
+    original_title: Che en la memoria de Fidel Castro
     authors:
       - Fidel Castro
       - David Deutschmann
@@ -1040,6 +1047,7 @@ titles:
     verified: true
   - title: Imperialism, the Highest Stage of Capitalism
     subtitle: A Popular Outline
+    original_title: Imperializm, kak novejsij etap kapitalizma
     authors:
       - Vladimir Ilʹič Lenin
       - Prabhat Patnaik
@@ -1159,6 +1167,8 @@ titles:
     subtitle: Critical Essays
     authors:
       - D. N. Jha
+    editors:
+      - Dwijendra Narayan Jha
     year: 2011
     language: English
     pages: 202
@@ -1358,6 +1368,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1693661934
     verified: true
   - title: Reform or Revolution
+    original_title: Sozialreform oder Revolution?
     authors:
       - Rosa Luxemburg
       - Brinda Karat
@@ -1427,6 +1438,10 @@ titles:
   - title: The Armchair Revolutionary and Other Sketches
     authors:
       - Saʻādat Ḥasan Manṭo
+    editors:
+      - Ali Husain Mir
+    translators:
+      - Khalid Hasan
     year: 2016
     language: English
     pages: 231
@@ -1493,6 +1508,8 @@ titles:
   - title: India and Communism
     authors:
       - Bhimrao R. Ambedkar
+    editors:
+      - Anand Teltumbde
     year: 2017
     language: English
     pages: 155
@@ -1544,6 +1561,8 @@ titles:
     subtitle: Writers Respond to Capitalist Climate Change
     authors:
       - Naomi Klein
+    editors:
+      - Vijay Prashad
     year: 2017
     language: English
     pages: 118
@@ -1598,6 +1617,8 @@ titles:
   - title: The Kisan Long March in Maharashtra
     authors:
       - Ashok Dhawale
+    editors:
+      - Vijay Prashad
     year: 2018
     language: English
     pages: 63
@@ -1617,9 +1638,10 @@ titles:
   - title: Who Was Shivaji?
     authors:
       - Govinda Pānasare
-      - Udaya Nārakara
       - Anirudh Deshpande
       - Prabhat Patnaik
+    translators:
+      - Udaya Nārakara
     year: 2018
     language: English
     sources:
@@ -1641,6 +1663,10 @@ titles:
     subtitle: Its Tradition and Politics
     authors:
       - Rāvasāheba Kasabe
+    editors:
+      - Vinutha Mallya
+    translators:
+      - Deepak Borgave
     year: 2019
     language: English
     pages: 173
@@ -1774,6 +1800,7 @@ titles:
       - R. B. More
       - Satyendra R. More
       - Anupama Rao
+    translators:
       - Wandana Sonalkar
     year: 2020
     language: English
@@ -1950,8 +1977,10 @@ titles:
         url: https://openlibrary.org/books/OL37983561M
     verified: false
   - title: Signs
+    original_title: Cinha
     authors:
       - Manik Bandyopadhyay
+    translators:
       - Mālinī Bhaṭṭācārya
     year: 2021
     language: English
@@ -1963,8 +1992,10 @@ titles:
     verified: true
   - title: This Fire Never Dies
     subtitle: One Year with the PKK
+    original_title: Dit vuur dooft nooit
     authors:
       - Fréderike Geerdink
+    translators:
       - Vivien D. Glass
       - Anna Asbury
     year: 2021
@@ -1997,6 +2028,7 @@ titles:
     authors:
       - Mahdī ʿĀmil
       - Hicham Safieddine
+    translators:
       - Angela Giordani
     year: 2022
     language: English
@@ -2153,6 +2185,8 @@ titles:
       - Orijit Sen
       - Vidyun Sabhaney
       - Harsho Mohan Chattoraj
+    editors:
+      - Ishani Butalia
     year: 2024
     language: English
     pages: 239
@@ -2186,6 +2220,7 @@ titles:
     verified: true
   - title: NATO
     subtitle: A Reckoning with the Atlantic Alliance
+    original_title: Die Nato
     authors:
       - Sevim Dagdelen
     year: 2024
@@ -2199,6 +2234,7 @@ titles:
     subtitle: A Political Biography
     authors:
       - P. Govinda Pillai
+    translators:
       - Eṃ. Ji Rādhākr̥ṣṇan
     year: 2025
     language: English

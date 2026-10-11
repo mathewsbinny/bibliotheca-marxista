@@ -26,6 +26,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1154441555
     verified: true
   - title: Das Recht auf Faulheit
+    original_title: Le Droit à la paresse
     authors:
       - Paul Lafargue
       - Eduard Bernstein
@@ -298,6 +299,8 @@ titles:
     subtitle: Zeitschrift für die Frauen und Mädchen des werktätigen Volkes
     authors:
       - Clara Zetkin
+    editors:
+      - Marie Juchacz
     year: 1892
     language: German
     sources:
@@ -371,6 +374,8 @@ titles:
   - title: Ferd. Lassalle's Reden und Schriften, neue Gesammt-Ausgabe
     authors:
       - Ferdinand Lassalle
+    editors:
+      - Eduard Bernstein
     year: 1892
     language: German
     sources:
@@ -380,6 +385,8 @@ titles:
   - title: Ferd. Lassalle's Reden und Schriften, neue Gesammt-Ausgabe, Mit einer biographischen Einleitung herausgegeben von Ed. Bernstein
     authors:
       - Ferdinand Lassalle
+    editors:
+      - Eduard Bernstein
     year: 1892
     language: German
     sources:
@@ -752,6 +759,8 @@ titles:
   - title: Ferd. Lassalle's Reden und Schriften, neue Gesammt-Ausgabe
     authors:
       - Ferdinand Lassalle
+    editors:
+      - Eduard Bernstein
     year: 1893
     language: German
     sources:
@@ -4344,6 +4353,7 @@ titles:
     verified: true
   - title: Frau Therese
     subtitle: Eine Erzählung für die Jugend
+    original_title: Madame Thérèse
     authors:
       - Emile Erckmann
       - Alexandre Chatrian
@@ -5514,6 +5524,8 @@ titles:
   - title: Intime Briefe Ferdinand Lassalles an Eltern und Schwester
     authors:
       - Ferdinand Lassalle
+    editors:
+      - Eduard Bernstein
     year: 1905
     language: German
     pages: 172
@@ -5750,6 +5762,8 @@ titles:
   - title: Streifzüge eines Sozialisten in das Gebiet der Erkenntnistheorie
     authors:
       - Joseph Dietzgen
+    editors:
+      - Eugen Dietzgen
     year: 1905
     language: German
     sources:
@@ -5778,6 +5792,8 @@ titles:
     series: Kulturbilder; 1,2
     authors:
       - Emil Rosenow
+    editors:
+      - Heinrich Ströbel
     year: 1905
     language: German
     sources:
@@ -8116,6 +8132,9 @@ titles:
   - title: Lohnarbeit und Kapital
     authors:
       - Karl Marx
+    editors:
+      - Karl Kautsky
+      - Friedrich Engels
     year: 1907
     language: German
     sources:
@@ -9002,6 +9021,8 @@ titles:
   - title: Der deutsche Bauernkrieg
     authors:
       - Friedrich Engels
+    editors:
+      - Franz Mehring
     year: 1908
     edition: 3. Abdruck
     language: German
@@ -10226,6 +10247,8 @@ titles:
     subtitle: Erinnerungen und Eindrücke
     authors:
       - Lev Grigorʹevič Dejč
+    translators:
+      - Salomon Grumbach
     year: 1909
     language: German
     sources:
@@ -10614,6 +10637,8 @@ titles:
     authors:
       - Wilhelm Wolff
       - Friedrich Engels
+    editors:
+      - Franz Mehring
     year: 1909
     edition: Jubiläum Ausgabe
     series: Sozialistische Neudrucke -- 3
@@ -11238,6 +11263,8 @@ titles:
   - title: Der Untergang der Sklaverei im Altertum
     authors:
       - Ettore Ciccotti
+    editors:
+      - Oda Olberg
     year: 1910
     language: German
     pages: 240
@@ -12418,6 +12445,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1040225764
     verified: true
   - title: Anarchismus und Sozialismus
+    original_title: Anarchisme et socialisme
     authors:
       - Georgij Valentinovič Plechanov
     year: 1911
@@ -15471,6 +15499,8 @@ titles:
   - title: Die Frau in der Industrie und Landwirtschaft Württembergs
     authors:
       - Friedrich Westmeyer
+    editors:
+      - Max Richter
     year: 1913
     series: Sozialdemokratische Frauen-Bibliothek
     language: German
@@ -16335,6 +16365,8 @@ titles:
     series: Bibliothek des Wissens; 4
     authors:
       - August Conrady
+    editors:
+      - Alexander Conrady
     year: 1913
     language: German
     sources:
@@ -16986,6 +17018,9 @@ titles:
   - title: Enthüllungen über den Kommunistenprozess zu Köln, von Karl Marx, mit Einleitung von Friedrich Engels und Dokumenten. 4. Abdruck, mit Einleitung und Anmerkungen von Franz Mehring
     authors:
       - Karl Marx
+    editors:
+      - Friedrich Engels
+      - Franz Mehring
     year: 1914
     language: German
     sources:
@@ -17090,6 +17125,8 @@ titles:
     subtitle: Eine gemeinverständliche Darlegung
     authors:
       - Friedrich Engels
+    editors:
+      - Eduard Bernstein
     year: 1914
     language: German
     pages: 34
@@ -18218,6 +18255,8 @@ titles:
   - title: Die ersten Kriegssteuern und die Sozialdemokratie
     authors:
       - Wilhelm Keil
+    editors:
+      - Sozialdemokratische Partei Deutschlands
     year: 1916
     language: German
     sources:
@@ -18653,6 +18692,8 @@ titles:
   - title: Zur Frage der Frauenerwerbsarbeit während des Krieges und nachher
     authors:
       - Luise Zietz
+    editors:
+      - Sozialdemokratische Partei Deutschlands
     year: 1916
     series: Sozialdemokratische Frauen-Bibliothek -- 9
     language: German
@@ -19680,6 +19721,8 @@ titles:
     verified: true
   - title: Zum Vorwärts-Boykott
     authors: []
+    editors:
+      - Buchhandlung Vorwärts
     year: 1918
     language: German
     sources:
@@ -21210,6 +21253,8 @@ titles:
     subtitle: Vorschläge für seine Erneuerung
     authors:
       - Adolf Braun
+    editors:
+      - Sozialdemokratische Partei Deutschlands
     year: 1920
     language: German
     pages: 169
@@ -21979,6 +22024,7 @@ titles:
     authors:
       - Yves Guyot
       - Sigismond Lacroix
+    translators:
       - August Bebel
     year: 1920
     language: German
@@ -21993,6 +22039,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=407745602
     verified: true
     subtitle: Von Yves Guyot u. Sigismond Lacroix. Uebers. v. August Bebel
+    original_title: Étude sur les doctrines sociales du christianisme
   - title: Die weltliche Schule
     series: Bibliothek Stein / Freie Universität Berlin, Universitätsbibliothek; 2341
     authors:
@@ -22099,6 +22146,8 @@ titles:
   - title: From Versailles - To Peace!
     authors:
       - Friedrich Stampfer
+    translators:
+      - Herman George Scheffauer
     year: 1920
     language: English
     sources:
@@ -22522,6 +22571,8 @@ titles:
     subtitle: Auswahl und Gruppierung
     authors:
       - Karl Marx
+    editors:
+      - Franz Diederich
     year: 1920
     series: Breviere des Sozialismus -- 1
     language: German
@@ -22637,6 +22688,8 @@ titles:
       - Friedrich Engels
       - Karl Marx
       - Alexander Conrady
+    editors:
+      - Alexander Hubert Alphons Conrady
     year: 1920
     language: German
     sources:
@@ -23677,10 +23730,12 @@ titles:
     verified: true
   - title: Die Urgesellschaft
     subtitle: Untersuchungen über den Fortschritt der Menschheit aus der Wildheit durch die Barbarei zur Zivilisation
+    original_title: Ancient society
     authors:
       - Lewis Henry Morgan
-      - W. Eichhoff
       - Karl Kautsky
+    translators:
+      - W. Eichhoff
     year: 1921
     language: German
     sources:
@@ -23933,6 +23988,8 @@ titles:
   - title: Lohnarbeit und Kapital
     authors:
       - Karl Marx
+    editors:
+      - Karl Kautsky
     year: 1921
     language: German
     sources:

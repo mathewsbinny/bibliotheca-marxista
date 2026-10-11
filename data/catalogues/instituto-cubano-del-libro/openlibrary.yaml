@@ -165,6 +165,7 @@ titles:
         url: https://www.sudoc.fr/055017118
     verified: true
   - title: Vida de Beethoven
+    original_title: Vie de Beethoven
     series: Colección Biografías. Cuadernos populares
     authors:
       - Romain Rolland
@@ -387,6 +388,8 @@ titles:
   - title: Cartas a Francisco Carrillo
     authors:
       - Máximo Gómez
+    editors:
+      - Hortensia Pichardo
     year: 1971
     series: Centenario
     language: Spanish
@@ -525,6 +528,7 @@ titles:
         url: https://search.worldcat.org/title/26032558
     verified: true
   - title: Del Orinoco al Amazonas
+    original_title: Vom Orinoko zum Amazonas
     authors:
       - Alexander von Humboldt
     year: 1971
@@ -790,6 +794,7 @@ titles:
         url: https://search.worldcat.org/title/23447613
     verified: true
   - title: Fundamentos de la critica de la economia politica de carlos marx teoria economica los grundrisse
+    original_title: LOS GRUNDRISSE
     authors: []
     year: 1971
     edition: INSTITUTO CUBANO DEL LIBRO
@@ -1054,10 +1059,12 @@ titles:
         url: https://search.worldcat.org/title/2116739
     verified: true
   - title: Lord Jim
+    original_title: Lord Jim
     authors:
       - Joseph Conrad
-      - Ramón Domingo Perés
       - Vincent Starrett
+    translators:
+      - Ramón Domingo Perés
     year: 1971
     language: Spanish
     sources:
@@ -1544,9 +1551,11 @@ titles:
         url: https://www.sudoc.fr/051003392
     verified: true
   - title: ¿Qué es la lingüística?
+    original_title: Cours de linguistique générale
     series: Cuadernos populares; 6
     authors:
       - Ferdinand de Saussure
+    translators:
       - Amado Alonso
     year: 1972
     language: Spanish
@@ -2044,6 +2053,8 @@ titles:
   - title: Ensayos sobre arte y literatura
     authors:
       - José Martí
+    editors:
+      - Roberto Fernández Retamar
     year: 1972
     series: Arte y sociedad
     language: Spanish
@@ -2267,6 +2278,8 @@ titles:
     subtitle: Siglos XVI-XVII
     authors:
       - Joaquín E. Weiss
+    editors:
+      - Instituto Cubano del Libro Unidad 01 "Osvaldo Sanchez"
     year: 1972
     language: Spanish
     pages: 319
@@ -2675,6 +2688,8 @@ titles:
   - title: Obras
     authors:
       - Juan Francisco Manzano
+    editors:
+      - José Luciano Franco
     year: 1972
     series: Biblioteca básica de autores cubanos
     language: Spanish
@@ -2797,6 +2812,8 @@ titles:
     subtitle: Esbozo biográfico de Raúl Roa
     authors:
       - Rubén Martínez Villena
+    editors:
+      - Roberto Fernández Retamar
     year: 1972
     edition: 2. ed
     series: Colección órbita
@@ -2919,6 +2936,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/100988982
     verified: true
   - title: Thérèse Raquin
+    original_title: Thérèse Raquin
     authors:
       - Émile Zola
     year: 1972
@@ -3594,9 +3612,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb43434356m
     verified: true
   - title: Historia de Cuba y sus relaciones con estados Unidos
+    original_title: A history of Cuba and its relations with the United States
     series: Editorial de ciencias sociales
     authors:
       - Philip Sheldon Foner
+    translators:
       - Raquel Catalán
     year: 1973
     language: Spanish
@@ -3620,6 +3640,7 @@ titles:
     subtitle: De la conquista de Cuba a la Escalera
     authors:
       - Philip Sheldon Foner
+    translators:
       - Raquel Catalá
     year: 1973
     language: Spanish
@@ -3951,6 +3972,7 @@ titles:
     verified: true
   - title: Le plus bel exemple d'héroisme
     subtitle: Discours prononcés... à l'occasion du XIIIe anniversaire de la création des comités de défense de la révolution, en solidarité avec le peuple chilien et en hommage au président Salvador Allende
+    original_title: El más alto ejemplo de heroísmo
     series: Ediciones políticas
     authors:
       - Fidel Castro
@@ -4252,6 +4274,8 @@ titles:
       - Roberto Fernández Retamar
       - Raúl Martínez
       - García Mario Mayto Joya
+    editors:
+      - Instituto Cubano del Libro
     year: 1973
     language: German
     sources:
@@ -4337,6 +4361,8 @@ titles:
   - title: Sab
     authors:
       - Gertrudis Gómez de Avellaneda y Arteaga
+    editors:
+      - Mary Cruz
     year: 1973
     series: Biblioteca básica de autores cubanos
     language: Spanish
@@ -4427,6 +4453,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1834653916
     verified: true
   - title: Teatro político
+    original_title: Das politische Theater
     series: Colección de Teatro y Danza
     authors:
       - Erwin Piscator
@@ -4609,6 +4636,8 @@ titles:
     authors:
       - Ana Rosa Zamora Turró
       - Manuel del Toro
+    editors:
+      - Instituto Cubano del Libro (Unidad Produtora 06 ʺRené Menesesʺ), La Habana
     year: 1974
     language: German
     sources:
@@ -4651,6 +4680,8 @@ titles:
   - title: Contra la anexión
     authors:
       - José Antonio Saco
+    editors:
+      - Fernando Ortiz
     year: 1974
     language: Spanish
     sources:
@@ -4776,6 +4807,8 @@ titles:
   - title: El ingenioso hidalgo Don Quijote de la Mancha
     authors:
       - Miguel de Cervantes Saavedra
+    editors:
+      - Instituto Cubano del Libro (Unidad 08 "Mario Reguera Gómez"), La Habana
     year: 1974
     language: German
     sources:
@@ -4789,6 +4822,8 @@ titles:
   - title: El siglo de las Luces
     authors:
       - Alejo Carpentier
+    editors:
+      - Instituto Cubano del Libro (Unidad Productora O (ʺRené Menesesʺ), La Habana)
     year: 1974
     language: German
     sources:
@@ -4919,6 +4954,8 @@ titles:
   - title: Hostos y Cuba
     authors:
       - Eugenio María de Hostos
+    editors:
+      - Emilio Roig de Leuchsenring
     year: 1974
     language: Spanish
     sources:
@@ -5323,6 +5360,8 @@ titles:
   - title: Rompetacones
     subtitle: Y cuentos y mas cuentos
     authors: []
+    editors:
+      - Rigoberto Monzon Llambia
     year: 1974
     language: Spanish
     sources:
@@ -5694,6 +5733,8 @@ titles:
   - title: Del 53 al 65
     subtitle: Cuentos
     authors: []
+    editors:
+      - Juan Manuel Méndez
     year: 1975
     language: Spanish
     pages: 89
@@ -5888,6 +5929,8 @@ titles:
       - Julio Antonio Mella
       - Eduardo Castañeda
       - Instituto de Historia del Movimiento Comunista y de la Revolución Socialista de Cuba
+    editors:
+      - Mariá Antonieta Juliá
     year: 1975
     language: Spanish
     sources:
@@ -6096,6 +6139,8 @@ titles:
     series: Letras cubanas; 8-10
     authors:
       - Nicolás Guillén
+    editors:
+      - Ángel Augier
     year: 1975
     language: Spanish
     sources:
@@ -6588,6 +6633,10 @@ titles:
       - G. N. Boiadzhiev
       - A. Dzhivelegov
       - Sergej Sergeevič Ignatov
+    editors:
+      - Maida Royero Lugo
+    translators:
+      - N. Caplan
     year: 1976
     language: Spanish
     sources:
@@ -7036,6 +7085,7 @@ titles:
     authors:
       - Alejo Carpentier
       - José Pérez Olivares
+    translators:
       - Carmen Suárez León
     year: 1989
     language: Spanish, French
@@ -7522,6 +7572,8 @@ titles:
   - title: Che en la revolución cubana, 1955-1966
     authors:
       - Ricardo Efrén González
+    editors:
+      - Pedro Alvarez Tabío
     year: 1997
     language: Spanish
     pages: 174
@@ -7687,6 +7739,8 @@ titles:
     subtitle: A Cuban Poet at Niagar Falls
     authors:
       - José María Heredia
+    translators:
+      - Keith Ellis
     year: 1998
     language: English
     pages: 84
@@ -7746,6 +7800,7 @@ titles:
         url: https://lccn.loc.gov/00696702
     verified: true
   - title: Jane Eyre
+    original_title: Jane Eyre
     series: Ediciones Huracán
     authors:
       - Charlotte Brontë
@@ -7772,6 +7827,7 @@ titles:
         url: https://openlibrary.org/books/OL19062423M
     verified: false
   - title: La fábrica de Absoluto
+    original_title: Továrna na Absolutno
     series: Colección Dragón
     authors:
       - Karel Čapek
@@ -7844,6 +7900,7 @@ titles:
         url: https://www.sudoc.fr/08185367X
     verified: true
   - title: Aléxandros
+    original_title: Aléxandros
     authors:
       - Valerio Massimo Manfredi
     year: 2000
@@ -8023,6 +8080,7 @@ titles:
         url: https://search.worldcat.org/title/54760511
     verified: true
   - title: Aléxandros
+    original_title: Aléxandros
     series: Ediciones especiales
     authors:
       - Valerio Massimo Manfredi
@@ -8188,6 +8246,10 @@ titles:
     verified: true
   - title: Narrativa francesa contemporánea
     authors: []
+    editors:
+      - Alain Sicard
+    translators:
+      - Aurora Fibla
     year: 2001
     language: Spanish
     sources:
@@ -8206,6 +8268,7 @@ titles:
     verified: true
   - title: Propagandas silenciosas
     subtitle: Masas, televisión, cine
+    original_title: Propagandes silencieuses
     authors:
       - Ignacio Ramonet
     year: 2001
@@ -8224,6 +8287,7 @@ titles:
   - title: Quo vadis?
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Rubén Martí
     year: 2001
     language: Spanish
@@ -8420,8 +8484,11 @@ titles:
         url: https://www.sudoc.fr/071087842
     verified: true
   - title: Lolita
+    original_title: Lolita
     authors:
       - Vladimir Nabokov
+    translators:
+      - Enrique Tejedor
     year: 2002
     series: Ediciones Huracán
     language: Spanish
@@ -8510,6 +8577,7 @@ titles:
   - title: Tifón y otros relatos
     authors:
       - Joseph Conrad
+    translators:
       - Rubén Martí
     year: 2002
     language: Spanish
@@ -8916,6 +8984,8 @@ titles:
     subtitle: Memorias de Gloria Cuadras de la Cruz
     authors:
       - Gloria Cuadras de la Cruz
+    editors:
+      - Marta Cabrales
     year: 2006
     series: Bronce
     language: Spanish
@@ -9030,6 +9100,8 @@ titles:
   - title: El pensador silvestre
     authors:
       - Samuel Feijóo
+    editors:
+      - Virgilio López Lemus
     year: 2007
     series: Biblioteca Literatura cubana
     language: Spanish
@@ -9135,8 +9207,11 @@ titles:
     verified: true
   - title: Julio Antonio Mella (1903-1929)
     subtitle: Una biografía
+    original_title: 'Julio Antonio Mella (1903-1929) : eine biografie'
     authors:
       - Christine Hatzky
+    translators:
+      - Jorge Luis Acanda
     year: 2008
     series: Bronce
     language: Spanish
@@ -9197,6 +9272,7 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=626994608
     verified: true
   - title: La rebelión de la clase media
+    original_title: Vosstanie sriédnevo klassa
     series: Ciencias sociales
     authors:
       - Boris Kagarlickij
@@ -9271,6 +9347,8 @@ titles:
   - title: La revolución cubana a los 50
     subtitle: 'Los contrapunteos del arte y la literatura: paneles efectuados en la Fundación Ludwig de Cuba, los días 17, 18, y 19 de febrero de 2009, en el marco de la XVIII Feria Internacional del Libro de La Habana'
     authors: []
+    editors:
+      - Instituto Cubano del Libro
     year: 2010
     language: Spanish
     pages: 97
@@ -9308,6 +9386,8 @@ titles:
     subtitle: Feria Internacional del Libro de La Habana
     authors:
       - Feria Internacional del Libro (Cuba) (20th 2011 Havana, Cuba)
+    editors:
+      - Sergio Bello Canto
     year: 2011
     language: Spanish
     pages: 249
@@ -9441,6 +9521,8 @@ titles:
     subtitle: Feria Internacional del Libro de La Habana
     authors:
       - Feria Internacional del Libro (Cuba) (21st 2012 Havana, Cuba)
+    editors:
+      - Sergio Bello Canto
     year: 2012
     language: Spanish
     pages: 174
@@ -9533,6 +9615,7 @@ titles:
     series: Colección Códice
     authors:
       - Matteo Fantuzzi
+    translators:
       - Javier L. Mora
     year: 2014
     language: Spanish
@@ -9553,6 +9636,8 @@ titles:
     subtitle: Feria Internacional del Libro de La Habana 2015
     authors:
       - Sergio Bello Canto
+    editors:
+      - Instituto Cubano del Libro
     year: 2014
     language: Spanish
     sources:
@@ -9665,6 +9750,9 @@ titles:
   - title: Recuento de moradas
     authors:
       - Alejo Carpentier
+    editors:
+      - Rafael Rodríguez Beltrán
+      - Armando Juan Raggi Rodríguez
     year: 2017
     series: Biblioteca Alejo Carpentier. Documentos
     language: Spanish
@@ -9719,6 +9807,8 @@ titles:
     subtitle: Sergio Guerra Vilaboy
     authors:
       - Sergio Guerra
+    editors:
+      - Instituto Cubano del Libro
     year: 2018
     language: Spanish
     sources:
@@ -10017,6 +10107,8 @@ titles:
     verified: false
   - title: Siente Cuentos Famosos
     authors: []
+    translators:
+      - Renée Méndez Capote
     language: Spanish
     sources:
       - title: BnF catalogue record cb43434377k

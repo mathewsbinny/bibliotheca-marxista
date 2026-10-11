@@ -3349,6 +3349,8 @@ titles:
   - title: Song Yuan Ming hua ben xiao shuo xuan
     authors:
       - Xinqiao Xiao
+    editors:
+      - Xin qiao Xiao
     year: 1980
     edition: Di 1 ban
     language: Chinese
@@ -3740,8 +3742,12 @@ titles:
         url: https://ci.nii.ac.jp/ncid/BN11887920
     verified: false
   - title: Bai hua yi zhu Gu wen guan zhi
-    authors:
+    authors: []
+    editors:
+      - Chucai Wu
+    translators:
       - Shinan Liu
+      - Manxian Tang
     year: 1981
     edition: Di 1 ban
     language: Chinese
@@ -4724,6 +4730,8 @@ titles:
   - title: Xiao shuo nian jian
     authors:
       - Zhongguo zuo jia xie hui. Jiangxi fen hui
+    editors:
+      - Zhongguo zuo jia xie hui
     year: 1981
     edition: Di 1 ban
     language: Chinese
@@ -4898,6 +4906,8 @@ titles:
   - title: Zhong guo xian dai xi ju dian ying yi shu jia zhuan
     authors:
       - Hui Li
+    editors:
+      - Yan hu Li
     year: 1981
     language: Chinese
     sources:
@@ -6064,8 +6074,10 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=1950089673
     verified: true
   - title: Xiang cun yi sheng
+    original_title: Le médicin de Campagne
     authors:
       - Honoré de Balzac
+    translators:
       - Jinbo Li
     year: 1982
     language: Chinese
@@ -6797,7 +6809,8 @@ titles:
         url: https://lccn.loc.gov/84154556
     verified: true
   - title: Da xue, Zhong yong jin yi
-    authors:
+    authors: []
+    translators:
       - Yanzhang Xia
     year: 1983
     edition: Di 1 ban
@@ -6846,6 +6859,8 @@ titles:
   - title: Gu Kuang shi ji
     authors:
       - Kuang Gu
+    editors:
+      - Changping Zhao
     year: 1983
     edition: Di 1 ban
     series: Bai hua zhou wen ku
@@ -7541,6 +7556,8 @@ titles:
   - title: Xie zuo ci dian
     authors:
       - 呂作飞
+    editors:
+      - Zuofei Lü
     year: 1983
     edition: Di 1 ban
     language: Chinese
@@ -7779,6 +7796,8 @@ titles:
   - title: Zhang Hu shi ji
     authors:
       - Hu Zhang
+    editors:
+      - Shoudeng Yan
     year: 1983
     edition: Di 1 ban
     series: Bai hua zhou wen ku
@@ -7882,6 +7901,8 @@ titles:
   - title: Zhou Bangyan ji
     authors:
       - Bangyan Zhou
+    editors:
+      - Zhelun Jiang
     year: 1983
     edition: Di 1 ban
     series: Bai hua zhou wen ku
@@ -8665,8 +8686,14 @@ titles:
     verified: true
   - title: Li dai shi huo zhi jin yi
     subtitle: Shi ji ping chun shu, Huo zhi lie zhuan, Han shu shi huo zhi
-    authors:
+    authors: []
+    editors:
+      - Yiguang Chen
+      - Zuyao Yu
+    translators:
       - Ying Liu
+      - Dingru Chen
+      - Zichen Wang
     year: 1984
     edition: Di 1 ban
     language: Chinese
@@ -9845,7 +9872,10 @@ titles:
         url: https://lccn.loc.gov/87102007
     verified: true
   - title: Meng zi jin yi
-    authors:
+    authors: []
+    editors:
+      - Fangyuan Liu
+    translators:
       - Fangyuan Liu
     year: 1985
     language: Chinese

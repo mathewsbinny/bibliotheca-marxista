@@ -340,6 +340,7 @@ titles:
     verified: true
   - title: Strugara
     subtitle: Roman
+    original_title: Lesozavod
     series: Strani pisci
     authors:
       - Anna Karavaeva
@@ -1015,6 +1016,7 @@ titles:
     verified: true
   - title: Zavera ćutanja
     subtitle: Velika čistka u SSSR
+    original_title: 'Hexensabbat : Russland im Schmelztiegel der Säuberungen'
     authors:
       - Alexander Weissberg-Cybulski
     year: 1952
@@ -1921,6 +1923,7 @@ titles:
         url: https://lccn.loc.gov/55019760
     verified: true
   - title: Mahatma Gandi
+    original_title: Mahatma Gandhi
     authors:
       - Romain Rolland
     year: 1954
@@ -2028,6 +2031,8 @@ titles:
     subtitle: Materijali sa seminara održanog od 1 do 6 marta 1954 godine u Beogradu
     authors:
       - Yugoslavia. Biro za organizaciju uprave i privrede
+    editors:
+      - Aleksandar Adašević
     year: 1954
     language: Croatian
     pages: 364
@@ -2122,6 +2127,7 @@ titles:
     subtitle: Roman
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Lazar R. Knežević
     year: 1954
     language: Serbian
@@ -2188,6 +2194,7 @@ titles:
     subtitle: Misao i delo
     authors:
       - Paul Frölich
+    translators:
       - Božana Milekić
     year: 1954
     language: German
@@ -2356,7 +2363,8 @@ titles:
     verified: true
   - title: Iz francuske lirike
     subtitle: Od Vijona do Valerija
-    authors:
+    authors: []
+    translators:
       - Vladeta Kosutić
     year: 1955
     language: Serbian
@@ -2661,9 +2669,11 @@ titles:
         url: https://search.worldcat.org/title/25524874
     verified: true
   - title: Afrika naga i odevena
+    original_title: Afrika nackt und angezogen
     series: Ekonomsko-politička publicistika
     authors:
       - Kasimir Edschmid
+    translators:
       - Irma Lisičar
       - Stevan Milovič
     year: 1956
@@ -2676,6 +2686,7 @@ titles:
     subtitle: Roman
     authors:
       - Stefan Żeromski
+    translators:
       - Đorđe Živanović
     year: 1956
     language: Serbian
@@ -2689,6 +2700,8 @@ titles:
     subtitle: Materijali
     authors:
       - Communist International. 2d Congress Leningrad and Moscow 1920
+    editors:
+      - Stevan Belić-Franić
     year: 1956
     series: Biblioteka istorije međunarodnog radničkog i socijalističkog pokreta
     language: Croatian
@@ -2798,6 +2811,7 @@ titles:
     subtitle: Roman
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Vojislav Popović
       - Đorđe Živanović
     year: 1956
@@ -2995,8 +3009,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=528159798
     verified: true
   - title: Arijel ili Šelijev život
+    original_title: Ariel ou la Vie de Shelley
     authors:
       - André Maurois
+    translators:
+      - Ðorđe Milikić
     year: 1957
     language: Serbian
     sources:
@@ -3085,6 +3102,8 @@ titles:
     subtitle: Materijali sa Seminara za društveni sistem i međunarodne odnose FNRJ Univerziteta u Beogradu
     authors:
       - Belgrade (Serbia). Univerzitet. Seminar za društveni sistem i međunarodne odnose FNRJ
+    editors:
+      - Dragoslav B. Todorović
     year: 1957
     language: Croatian
     sources:
@@ -3170,6 +3189,9 @@ titles:
   - title: Kongres radničkih saveta Jugoslavije, 25-27 jun 1957
     authors:
       - Kongres radničkih saveta Jugoslavije. (1st 1957 Belgrad)
+    editors:
+      - Ašer Deleon
+      - Ljuba Mijatović
     year: 1957
     language: Croatian
     pages: 788
@@ -3718,8 +3740,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=37404984X
     verified: true
   - title: Priča o dobrim ljudima
+    original_title: Povest o dobrih ljudeh
     authors:
       - Miško Kranjec
+    translators:
+      - Marijana Zander
     year: 1958
     language: Serbian
     sources:
@@ -3863,6 +3888,8 @@ titles:
   - title: Srpski socijalistički pokret za vreme Prvog Svetskog rata
     authors:
       - Mihailo Todorović
+    editors:
+      - Mikhailo Todoroviћ (Михаило Тодоровић)
     year: 1958
     series: Jugoslovenski radnički pokret
     language: Serbian
@@ -4062,6 +4089,7 @@ titles:
         url: https://search.worldcat.org/title/25694949
     verified: true
   - title: Jadi mladoga Vertera
+    original_title: Die Leiden des jungen Werthers
     series: Biblioteka reč i misao; 1, 7
     authors:
       - Johann Wolfgang von Goethe
@@ -4190,8 +4218,9 @@ titles:
   - title: Les Syndicats yougoslaves dans les conditions nouvelles
     subtitle: 4e Congrès de la Confédération des syndicats de Yougoslavie, Beograd, 23-26 avril 1959
     authors:
-      - Pierre Grozdanović
       - Srboljub Jovanović
+    translators:
+      - Pierre Grozdanović
       - Milorad Milošević
     year: 1959
     language: French
@@ -4201,6 +4230,9 @@ titles:
     verified: true
   - title: Les Syndicats yougoslaves dans les conditions nouvelles... 4e Congrès de la Confédération des syndicats de Yougoslavie, Beograd, 23-26 avril 1959. Rédigé par Srboljub Jovanović. Traduit par Milorad Miloševic et Pierre Grozdanović
     authors: []
+    translators:
+      - Petar Grozdanović
+      - Milorad Milošević
     year: 1959
     language: French
     sources:
@@ -4784,6 +4816,8 @@ titles:
     subtitle: Članci i reportaže, 1950-1960
     authors:
       - Ljubiša Ristović
+    editors:
+      - Rade Alavantić
     year: 1960
     language: Croatian
     pages: 499
@@ -5611,6 +5645,7 @@ titles:
     subtitle: Mladost
     authors:
       - Joseph Conrad
+    translators:
       - Aleksandar Vidaković
     year: 1961
     language: Serbian
@@ -5713,6 +5748,7 @@ titles:
   - title: Zlatni prozori
     authors:
       - Adolf Rudnicki
+    translators:
       - Đorđe Živanović
     year: 1961
     language: Serbian
@@ -6205,10 +6241,13 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=52817665X
     verified: true
   - title: Mocartovo putovanje u Prag
+    original_title: Mozart auf der Reise nach Prag
     series: Biblioteka Rec i misao; knj. 69
     authors:
       - Eduard Mörike
       - Mirjana Lalić
+    translators:
+      - Mirjana Lalic
     year: 1962
     language: German
     sources:
@@ -6974,11 +7013,13 @@ titles:
     verified: true
   - title: Florentinske noći
     subtitle: Ideje; severno more
+    original_title: Florentinische Nächte. Ideen. Die Nordsee
     series: Biblioteka Rec i misao; knj. 80
     authors:
       - Heinrich Heine
-      - Nikola Polovina
       - Paulina Albala
+    translators:
+      - Nikola Polovina
     year: 1963
     language: German
     sources:
@@ -7142,6 +7183,7 @@ titles:
   - title: Mocartovo putovanje u Prag
     authors:
       - Eduard Mörike
+    translators:
       - Mirjana Lalić
     year: 1963
     language: German
@@ -7443,6 +7485,8 @@ titles:
     series: Reč i misao; K. 2, 43
     authors:
       - Ivan Mažuranić
+    editors:
+      - Antun Barac
     year: 1963
     language: Serbian
     sources:
@@ -7551,9 +7595,11 @@ titles:
     verified: true
   - title: Ćutanje mora
     subtitle: I druge pripovetke
+    original_title: Le silence de la mer
     series: Reč i misao
     authors:
       - Vercors
+    translators:
       - Šiki Konfino
     year: 1964
     language: Serbian
@@ -7565,6 +7611,7 @@ titles:
     subtitle: Mlin na Kamjoni
     authors:
       - Jarosław Iwaszkiewicz
+    translators:
       - Đorđe Živanović
     year: 1964
     language: Serbian
@@ -7842,6 +7889,8 @@ titles:
       - Friedrich Schiller
       - Trifun Đukić
       - Mileta Jakšić Lenski
+    translators:
+      - Djukic Trifun
     year: 1964
     language: German
     sources:
@@ -7852,9 +7901,11 @@ titles:
     verified: true
   - title: Knulp
     subtitle: 3 pripovesti iz Knulpovog života
+    original_title: Drei Geschichten aus dem Leben Knulps
     series: Rec i misao; 155
     authors:
       - Hermann Hesse
+    translators:
       - Branimir Živojinović
     year: 1964
     language: German
@@ -8193,8 +8244,11 @@ titles:
     verified: true
   - title: Sandomirski manastir
     subtitle: Ubogi svirač
+    original_title: Das Kloster bei Sendomir. Der arme Spielmann
     authors:
       - Franz Grillparzer
+    translators:
+      - Mara Jovanović
     year: 1964
     edition: 1. izd. Urednik Dušanka Perović. Prevela Mara Jovanović. Pogovor Miloš Djordjević]
     series: Biblioteka Reč misao -- Kolo 7, knj. 170
@@ -8373,6 +8427,7 @@ titles:
         url: https://d-nb.info/578127369
     verified: true
   - title: Zli dusi
+    original_title: Besy
     series: Odabrana dela svetskih klasika
     authors:
       - Fëdor Michajlovič Dostoevskij
@@ -8396,6 +8451,7 @@ titles:
   - title: Ekonomika Jugoslavije
     authors:
       - Gregor Počkar
+    translators:
       - Djordje Milovančević
     year: 1965
     language: Croatian
@@ -8419,6 +8475,7 @@ titles:
     verified: true
     subtitle: Serija VR
   - title: Jadi mladoga Vertera
+    original_title: Die Leiden des jungen Werthers
     series: Biblioteka Reč i misao; 1, 7
     authors:
       - Johann Wolfgang von Goethe
@@ -8517,6 +8574,9 @@ titles:
   - title: Privredni sistem i ekonomska politika Jugoslavije
     authors:
       - Ljubisav Marković
+    editors:
+      - Žarko Bulajić
+      - Branko Mijović
     year: 1965
     edition: '3., dop. izd. Redakcioni odbor: Žarko Bulajić, Ljubisav Marković, Branko Mijović. Urednik Ljubinka Krešić.'
     series: Politička škola
@@ -9466,6 +9526,7 @@ titles:
   - title: Gospođica Skideri
     authors:
       - E. T. A. Hoffmann
+    translators:
       - Milan Vujaklija
     year: 1967
     language: German
@@ -9556,6 +9617,8 @@ titles:
   - title: Osnovi nauke o društvu
     authors:
       - Ljubinka Kres̆ić
+    editors:
+      - Miroslav Pečujlić
     year: 1967
     series: Politička škola
     language: Croatian
@@ -9612,6 +9675,8 @@ titles:
   - title: Problemi filozofije marksizma
     authors:
       - Svetozar Stojanović
+    editors:
+      - Svetlana Knajazeva
     year: 1967
     series: Politička škola
     language: Russian
@@ -10205,9 +10270,11 @@ titles:
         url: https://www.sudoc.fr/063135671
     verified: true
   - title: Dalje od trupe
+    original_title: Entfernung von der Truppe
     series: Biblioteka Rec i misao; knj. 278
     authors:
       - Heinrich Böll
+    translators:
       - Marija Djordjevic
     year: 1969
     language: Not recorded
@@ -10252,9 +10319,11 @@ titles:
         url: https://search.worldcat.org/title/17831351
     verified: true
   - title: Efi Brist
+    original_title: Effi Briest
     series: Biblioteka "Reč i misao"; Kolo X, 229-230
     authors:
       - Theodor Fontane
+    translators:
       - Milan Tokin
     year: 1969
     language: German
@@ -10372,6 +10441,8 @@ titles:
   - title: Kroz tmine i zore
     authors:
       - Vlado Strugar
+    editors:
+      - Božo Bulatović
     year: 1969
     language: Croatian
     pages: 855
@@ -10391,6 +10462,7 @@ titles:
   - title: Marksistička teorija društva
     authors:
       - Zygmunt Bauman
+    translators:
       - Milosav Janičijević
     year: 1969
     language: Serbian
@@ -10533,6 +10605,8 @@ titles:
   - title: Pokošeno polje
     authors:
       - Branimir Ćosić
+    editors:
+      - Miodrag Tripković
     year: 1969
     series: Biblioteka Dom i škola
     language: Serbian
@@ -10617,6 +10691,7 @@ titles:
   - title: Tri žene
     authors:
       - Robert Musil
+    translators:
       - Bozena Begovic
     year: 1969
     language: German
@@ -11335,6 +11410,8 @@ titles:
     subtitle: Neke suštinske dileme o porodici u našem društvu sa stanovišta kodifikacije porodičnog prava. Materijal sa naučnog simpozijuma održanog na Bledu 9, 10. i 11. XII 1970
     authors:
       - Simpozijum Neke suštinske dileme o porodici u našem društvu sa stanovišta kodifikacije porodičnog prava (1970 Bled, Yugoslavia)
+    editors:
+      - Vojislav S. Bakić
     year: 1971
     language: Croatian
     pages: 506
@@ -11533,6 +11610,7 @@ titles:
   - title: Uvod u matematičku logiku i metodologiju matematike
     authors:
       - Alfred Tarski
+    translators:
       - Miroslav Ašić
       - Đorđe Vukomanović
     year: 1973
@@ -12097,6 +12175,8 @@ titles:
   - title: Sabrana dela
     authors:
       - Dimitrije Tucović
+    editors:
+      - Sergije Dimitrijević
     year: 1975
     series: Dela srpskih socijalista
     language: Serbian
@@ -12192,6 +12272,8 @@ titles:
   - title: Svet je naša otadžbina
     authors:
       - Kosta Abrašević
+    editors:
+      - Dragiša Vitošević
     year: 1975
     series: Jubilarna izdanja -- Rad
     language: Serbian
@@ -13249,6 +13331,7 @@ titles:
         url: https://catalog.hathitrust.org/Record/000220210
     verified: true
   - title: Osnovi marksističke opšte sociologije
+    original_title: Temelji marksistične obče sociologije
     authors:
       - Boris Ziherl
     year: 1977
@@ -13573,6 +13656,8 @@ titles:
   - title: Crkva i religija u socijalističkom samoupravnom društvu
     authors:
       - Todo Kurtović
+    editors:
+      - Boško Bogetić
     year: 1978
     language: Croatian
     pages: 386
@@ -14273,6 +14358,7 @@ titles:
     subtitle: Izbrane pripovetke
     authors:
       - Sławomir Mrożek
+    translators:
       - Petar Vujičić
     year: 1979
     language: Serbian
@@ -14603,6 +14689,8 @@ titles:
     authors:
       - Dragan Lakićević
       - Golub Dobrašinović
+    editors:
+      - Golub Dobrasinovic
     year: 1980
     language: Serbian
     pages: 195
@@ -14917,6 +15005,8 @@ titles:
   - title: Izabrana dela
     authors:
       - Laza Kostić
+    editors:
+      - Branislav Milošević
     year: 1981
     language: Serbian
     pages: 369
@@ -15689,6 +15779,8 @@ titles:
     subtitle: Proze
     authors:
       - David Albahari
+    editors:
+      - Dragan Lakićević
     year: 1984
     series: Biblioteka Znakovi pored puta
     language: Serbian
@@ -15747,6 +15839,8 @@ titles:
   - title: Kaži, kaži, Anita
     authors:
       - Milenko Pajović
+    editors:
+      - Dragan Lakićević
     year: 1984
     series: Biblioteka Znakovi pored puta
     language: Croatian
@@ -16510,9 +16604,11 @@ titles:
         url: https://d-nb.info/984813330
     verified: true
   - title: Kroz pustinju i prašumu
+    original_title: W pustyni i w puzczy [i.e. puszczy
     series: Biblioteka Zmaj
     authors:
       - Henryk Sienkiewicz
+    translators:
       - Đorđe Živanović
     year: 1986
     language: Serbian
@@ -16653,6 +16749,8 @@ titles:
     authors:
       - Dragan Lakićević
       - Dragan Lakiћeviћ (Драган Лакићевић)
+    editors:
+      - Dragan D. Lakićević
     year: 1986
     language: Serbian
     sources:
@@ -16947,11 +17045,13 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991093078629705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Uvod u fantastičnu književnost
+    original_title: Introduction à la littérature fantastique
     series: Edicija Pečat
     authors:
       - Tzvetan Todorov
-      - Aleksandra Mančić
       - Novica Milić
+    translators:
+      - Aleksandra Mančić
     year: 1987
     language: Serbian
     sources:
@@ -17152,9 +17252,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991057665979705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Niki
+    original_title: Niki
     series: Reč i misao; N.S., 386
     authors:
       - Tibor Deri
+    translators:
       - Aleksandar Tišma
     year: 1988
     language: Serbian
@@ -17166,6 +17268,8 @@ titles:
     series: Biblioteka "Dom i škola"
     authors:
       - Aleksa Šantić
+    editors:
+      - Dragan D. Lakićević
     year: 1988
     language: Serbian
     sources:
@@ -17335,6 +17439,7 @@ titles:
   - title: Zaveštanje
     authors:
       - Heinrich Böll
+    translators:
       - Andrija Grozberger
     year: 1988
     language: German
@@ -17614,6 +17719,8 @@ titles:
   - title: Tekst u kontekstu
     authors:
       - Zoran Konstantinović
+    editors:
+      - Novica Milić
     year: 1989
     series: Godišnjak / Institut za književnost i umetnost -- 11. -- Serija C, Teorijska istraživanja -- 5
     language: Croatian
@@ -18169,6 +18276,9 @@ titles:
     subtitle: Narodne pjesme Srba u Hrvatskoj
     authors:
       - Zdravko Krstanović
+    editors:
+      - Zdravko Krstanovic
+      - Zdravko Krstanoviћ (Здравко Крстановић)
     year: 1990
     series: Biblioteka Vukov sabor
     language: Serbian

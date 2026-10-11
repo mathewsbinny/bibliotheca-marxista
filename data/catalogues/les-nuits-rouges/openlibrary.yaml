@@ -123,9 +123,13 @@ titles:
     verified: true
   - title: Classe 1902
     subtitle: Une éducation sentimentale et politique dans l'Allemagne en guerre
+    original_title: Jahrgang 1902
     series: Les nuits rouges; 8
     authors:
       - Ernst Glaeser
+    translators:
+      - Joseph Delage
+      - Cécile Knoertzer
     year: 2000
     language: French
     sources:
@@ -222,8 +226,12 @@ titles:
     subtitle: Propagandistes, émeutiers, antipatriotes, trimardeurs, pieds-plats, dynamiteurs, estampeurs et illégalistes
   - title: Aux sources du rébétiko
     subtitle: Chansons des bas-fonds, des prisons et des fumeries de haschisch
+    original_title: 'Road to rembetiko : music of a Greek sub-culture : songs of love, sorrow and hashish'
     authors:
       - Gail Holst-Warhaft
+    translators:
+      - Monique Lesourd
+      - Étienne Lesourd
     year: 2001
     language: French
     sources:
@@ -239,9 +247,14 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb385782964
     verified: true
   - title: L'expropriation originelle
+    original_title: Das Kapital
     series: Les nuits rouges; 12
     authors:
       - Karl Marx
+    editors:
+      - Georges Labica
+    translators:
+      - Jean-Pierre Lefebvre
     year: 2001
     language: French
     sources:
@@ -266,6 +279,10 @@ titles:
     series: Les nuits rouges; 9
     authors:
       - Michel Bakounine
+    editors:
+      - Étienne Lesourd
+    translators:
+      - Marcel Body
     year: 2001
     language: French
     sources:
@@ -325,6 +342,8 @@ titles:
     subtitle: Écrits de jeunesse
     authors:
       - Alexandra David-Neel
+    editors:
+      - Joëlle Désiré-Marchand
     year: 2003
     language: French
     sources:
@@ -338,6 +357,7 @@ titles:
     series: Les nuits rouges; 18
     authors:
       - Prakash Singh
+    translators:
       - Roger Lakerschmidt
       - Jean-Claude Lamoureux
     year: 2003
@@ -375,8 +395,11 @@ titles:
     subtitle: Les conseils ouvriers !
     series: Les Nuits rouges; 16
     authors:
-      - Denis Authier
       - Gilles Dauvé
+    editors:
+      - Denis Authier
+    translators:
+      - Denis Authier
       - Jean-Pierre Laffite
     year: 2003
     language: French
@@ -405,9 +428,13 @@ titles:
     verified: true
   - title: Histoire du naxalisme
     subtitle: Jacqueries et guérillas de l'Inde, 1967-2003
+    original_title: The naxalite movement in India
     series: Les nuits rouges; 18
     authors:
       - Prakash Singh
+    translators:
+      - Roger Lakerschmidt
+      - Jean-Claude Lamoureux
     year: 2004
     language: French
     sources:
@@ -420,6 +447,8 @@ titles:
     series: Les nuits rouges; 20
     authors:
       - Michel Bakounine
+    editors:
+      - Étienne Lesourd
     year: 2004
     language: French
     sources:
@@ -433,6 +462,7 @@ titles:
     subtitle: Textes rares et méconnus
   - title: La Fiat aux mains des ouvriers
     subtitle: L'automne chaud de 1969 à Turin
+    original_title: 'La Fiat in mano agli operai : l''autunno caldo del 1969'
     series: Les nuits rouges; 22
     authors:
       - Diego Giachetti
@@ -458,8 +488,11 @@ titles:
         url: https://www.sudoc.fr/088493385
     verified: true
   - title: Le crime du Congo belge
+    original_title: The crime of the Congo
     authors:
       - Arthur Conan Doyle
+    translators:
+      - Jean-Claude Lamoureux
     year: 2005
     language: French
     sources:
@@ -491,6 +524,8 @@ titles:
     series: Les nuits rouges; 25
     authors:
       - Henri Cartier
+    editors:
+      - Jean-Pierre Aubert
     year: 2006
     language: French
     sources:
@@ -555,9 +590,12 @@ titles:
     subtitle: Première partie
   - title: Les Bolchéviques et l'opposition
     subtitle: Du musellement des partis à l'interdiction des fractions dans le Parti
+    original_title: 'The origin of the communist autocracy : political opposition in the Soviet state, 1st phase, 1917-1922'
     series: Les Nuits rouges; 29
     authors:
       - Leonard Schapiro
+    translators:
+      - Serge Legran
     year: 2007
     language: French
     sources:
@@ -616,6 +654,10 @@ titles:
     series: Les Nuits rouges; 9 bis
     authors:
       - Michel Bakounine
+    editors:
+      - Étienne Lesourd
+    translators:
+      - Marcel Body
     year: 2008
     language: French
     sources:
@@ -630,6 +672,9 @@ titles:
     subtitle: Histoire du comité ouvrier de la Magneti Marelli, Milan 1975-78
     authors:
       - Emilio Mentasti
+    translators:
+      - Yves Coleman
+      - Antoine Hasard
     year: 2009
     language: French
     sources:
@@ -655,10 +700,13 @@ titles:
     verified: true
   - title: Aux sources du Rébétiko
     subtitle: Chansons des bas-fonds, des prisons et des fumeries de haschisch
+    original_title: Road to rembetika. Music of a greek sub-culture. Songs of love, sorrows and hashish
     authors:
       - Gail Holst-Warhaft
-      - Monique Lesourd
       - Etienne Lesourd
+    translators:
+      - Monique Lesourd
+      - Étienne Lesourd
     year: 2010
     language: French
     sources:
@@ -674,6 +722,8 @@ titles:
     series: Les Nuits rouges
     authors:
       - Michel Bakounine
+    editors:
+      - Étienne Lesourd
     year: 2010
     language: French
     sources:
@@ -700,9 +750,14 @@ titles:
     subtitle: 'Suivi par le, Manuel élémentaire à l''usage des officiers appelés à commander des indigènes; et, Le français tel que le parlent nos tirailleurs sénégalais: (éditions 1917 & 1918)'
   - title: Socialisme théorique et social-démocratie pratique
     subtitle: Réponse à mes critiques socialistes
+    original_title: Die Voraussetzungen des Sozialismus und die Aufgaben der Sozialdemokratie
     series: Les Nuits rouges; 33
     authors:
       - Eduard Bernstein
+    editors:
+      - Alexander Cohen
+    translators:
+      - Alexander Cohen
     year: 2010
     language: French
     sources:
@@ -717,9 +772,12 @@ titles:
       - label: Read or download another copy (Internet Archive)
         url: https://archive.org/details/socialismethor00bernuoft
   - title: Histoire du trade unionisme
+    original_title: The history of Trade unionism
     authors:
       - Beatrice Webb
       - Sidney Webb
+    translators:
+      - Albert Métin
     year: 2011
     language: French
     sources:
@@ -758,9 +816,14 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991073836819705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: La loi de liberté
+    original_title: The law of freedom in a platform or True magistracy restored
     series: Les nuits rouges; 38
     authors:
       - Gerrard Winstanley
+    editors:
+      - Jean-Claude Lamoureux
+    translators:
+      - Étienne Lesourd
     year: 2012
     language: French
     sources:
@@ -771,12 +834,14 @@ titles:
     verified: true
   - title: Pouvoir ouvrier à Porto Marghera
     subtitle: Du Comité d'usine à l'Assemblée régionale
+    original_title: Quando il potere è operaio
     authors:
       - Devi Sacchetto
       - Gianni Sbrogiò
+      - Manuela Pellarin
+    translators:
       - Antoine Hasard
       - Yves Le Bonniec
-      - Manuela Pellarin
     year: 2012
     language: French
     sources:
@@ -798,9 +863,12 @@ titles:
     verified: true
   - title: Lanceurs de bombes
     subtitle: Le roman d'Evno Azef, révolutionnaire et agent de l'Okhrana
+    original_title: Azef
     series: Les nuits rouges; 41
     authors:
       - Roman Borisovič Gulʹ
+    translators:
+      - Norbert Guterman
     year: 2013
     language: French
     sources:
@@ -845,9 +913,15 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb438048907
     verified: true
   - title: Alle Macht den Räten! - Tout le pouvoir aux Conseils!
+    original_title: All power to the councils!
     series: Les nuits rouges; 44
     authors:
       - Gabriel Kuhn
+    translators:
+      - Etienne Lesourd
+      - Monique Lesourd
+      - Jean-Claude Lamoureux
+      - Charles Daget
     year: 2014
     language: French
     sources:
@@ -862,9 +936,11 @@ titles:
     verified: true
   - title: La mission de Joel Brand
     subtitle: L'homme qui tenta de faire sortir de Hongrie les juifs menacés d'extermination, et dont personne ne voulait
+    original_title: Die Geschichte von Joel Brand
     series: Les nuits rouges; 42
     authors:
       - Alexander Weissberg-Cybulski
+    translators:
       - Erzsébet Comte
     year: 2014
     language: French
@@ -888,9 +964,14 @@ titles:
     verified: true
   - title: Le crime du Bengale
     subtitle: La part d'ombre de Winston Churchill
+    original_title: 'Churchill''s secret war : the British Empire and the ravaging of India during World War II'
     series: Les nuits rouges
     authors:
       - Madhusree Mukerjee
+    editors:
+      - Jean-Claude Lamoureux
+    translators:
+      - Étienne Lesourd
     year: 2015
     language: French
     sources:
@@ -905,6 +986,7 @@ titles:
     verified: true
   - title: Les Bolchéviques et le contrôle ouvrier, 1917-1921
     subtitle: L'État et la contre-révolution
+    original_title: The Bolsheviks and workers control
     series: Les nuits rouges; 47
     authors:
       - Maurice Brinton
@@ -922,8 +1004,10 @@ titles:
     verified: true
   - title: Quand j'étais commissaire du peuple
     subtitle: Un témoignage privilégié et inquiet de l'édification de l'Etat bolchévique
+    original_title: Als ich Volkskommissar war
     authors:
       - Isaac Nachman Steinberg
+    translators:
       - Arsène Pironneau
     year: 2016
     language: French
@@ -939,10 +1023,13 @@ titles:
     verified: true
   - title: L'agonie de la révolution
     subtitle: Mes deux années en Russie, 1920-1921
+    original_title: My further disillusionment in Russia
     series: Les nuits rouges; 49
     authors:
       - Emma Goldman
       - Étienne Lesourd
+    translators:
+      - Etienne Lesourd
     year: 2017
     language: French
     sources:
@@ -955,9 +1042,13 @@ titles:
     verified: true
   - title: Pétrograd rouge
     subtitle: La révolution dans les usines, de février 1917 à juin 1918
+    original_title: 'Red Petrograd : revolution in the factories, 1917-1918'
     series: Les nuits rouges; 48
     authors:
       - Stephen Anthony Smith
+    translators:
+      - Antoine Hasard
+      - Jean-Claude Lamoureux
     year: 2017
     language: French
     sources:
@@ -969,9 +1060,13 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991010065179705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Richard Müller. L'homme de la révolution de novembre 1918
+    original_title: Richard Müller
     series: Les nuits rouges; 50
     authors:
       - Ralf Hoffrogge
+    translators:
+      - Nassira Hariri
+      - Ivan Jurkovic
     year: 2018
     language: French
     sources:
@@ -1004,9 +1099,12 @@ titles:
     verified: true
   - title: Et la voie fut tracée
     subtitle: Les débuts du Parti communiste chinois, Shanghaï, 1920-1927
+    original_title: A road is made
     series: Les nuits rouges; 51
     authors:
       - Stephen Anthony Smith
+    translators:
+      - Jean-Claude Lamoureux
     year: 2019
     language: French
     sources:
@@ -1030,9 +1128,12 @@ titles:
     verified: true
   - title: La révolution bat en retraite
     subtitle: La nouvelle aristocratie communiste et les ouvriers, Moscou, 1920-24
+    original_title: 'The Russian revolution in retreat, 1920-24 : Soviet workers and the new Communist elite'
     series: Les Nuits rouges; 53
     authors:
       - Simon Pirani
+    translators:
+      - Jean-Claude Lamoureux
     year: 2020
     language: French
     sources:
@@ -1045,8 +1146,13 @@ titles:
     verified: true
   - title: '"Black and white together"'
     subtitle: Le syndicat IWW interracial du port de Philadelphie, 1913-1922
+    original_title: 'Wobblies on the waterfront : interracial unionism in progressive-Era Philadelphia'
     authors:
       - Peter Cole
+    editors:
+      - Antoine Hasard
+    translators:
+      - Étienne Lesourd
     year: 2021
     language: French
     sources:
@@ -1059,6 +1165,8 @@ titles:
     subtitle: Chronique à plusieurs voix de la révolte des marins et de sa répression
     authors:
       - Étienne Lesourd
+    editors:
+      - Etienne Lesourd
     year: 2021
     language: French
     pages: 212
@@ -1086,12 +1194,14 @@ titles:
     verified: true
   - title: Aux sources du rébétiko
     subtitle: 'Chansons des bas-fonds, des prisons et des fumeries de haschisch: Smyrne, Le Pirée, Salonique (1920-1960)'
+    original_title: 'Road to Rembetiko : music of a Greek sub-culture : songs of love, sorrow and hashish'
     series: Quater; 11
     authors:
       - Gail Holst-Warhaft
+      - Michel Volkovitch
+    translators:
       - Etienne Lesourd
       - Monique Lesourd
-      - Michel Volkovitch
     year: 2022
     language: French
     sources:
@@ -1100,8 +1210,11 @@ titles:
     verified: true
   - title: L'antisémitisme dans la Révolution russe
     subtitle: 1917-1920
+    original_title: Antisemitism in the Russian revolution
     authors:
       - Brendan McGeever
+    translators:
+      - Étienne Lesourd
     year: 2022
     language: French
     sources:
@@ -1114,6 +1227,7 @@ titles:
     verified: true
   - title: La voie communiste vers le capitalisme
     subtitle: Luttes sociales et sociétales en Chine de 1949 à nos jours
+    original_title: 'The communist road to capitalism : how social unrest and containment have pushed China''s (R)evolution since 1949'
     authors:
       - Ralf Ruckus
     year: 2022
@@ -1123,9 +1237,12 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb472856698
     verified: true
   - title: Les dix légendes structurantes d'Israël
+    original_title: Ten myths about Israel
     series: Les nuits rouges; 56
     authors:
       - Ilan Pappé
+    translators:
+      - Denise Prévost
     year: 2022
     language: French
     sources:
@@ -1141,6 +1258,8 @@ titles:
     authors:
       - Karl Marx
       - Michel Bakounine
+    editors:
+      - Georges Ribeill
     year: 2023
     language: French
     sources:
@@ -1151,11 +1270,13 @@ titles:
     verified: true
   - title: La planète brûle
     subtitle: Pas de révolution climatique sans révolutions sociales !
+    original_title: Future on fire
     series: Les nuits rouges; 60
     authors:
       - David Camfield
-      - Denise Prévost
       - Noor Dharna
+    translators:
+      - Denise Prévost
     year: 2023
     language: French
     sources:
@@ -1168,8 +1289,9 @@ titles:
     authors:
       - Carlo Rosselli
       - Enzo Di Brango
-      - Antoine Hasard
       - Camillo Berneri
+    translators:
+      - Antoine Hasard
     year: 2024
     language: French
     sources:
@@ -1178,8 +1300,10 @@ titles:
     verified: true
   - title: La voie vers la liberté de la classe ouvrière
     subtitle: Recueil de textes
+    original_title: Worker's way to freedom and other council communist writing (1935-1954)
     authors:
       - Anton Pannekoek
+    translators:
       - Antoine Hasard
       - Etienne Lesourd
     year: 2024

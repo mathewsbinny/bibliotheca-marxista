@@ -25,8 +25,11 @@ titles:
     verified: true
   - title: Kolā Brinjons
     subtitle: Rezgalis vēl dzīvs
+    original_title: Colas Breugnon
     authors:
       - Romain Rolland
+    translators:
+      - Elza Stērste
     year: 1946
     language: Latvian
     sources:
@@ -68,8 +71,9 @@ titles:
     subtitle: Vēsturiska poema par lietuvju un senprūsu cinām
     authors:
       - Adam Mickiewicz
-      - Konstantins Aizpurs
       - Jānis Plēpis
+    translators:
+      - Konstantins Aizpurs
     year: 1947
     language: Latvian
     sources:
@@ -1116,6 +1120,8 @@ titles:
     subtitle: Revolucijas dalībnieku atmin̦as
     authors:
       - Latvijas KP CK Partijas vēstures institūts
+    editors:
+      - H. Andins
     year: 1955
     language: Latvian
     sources:
@@ -1431,6 +1437,7 @@ titles:
         url: https://www.sudoc.fr/094857121
     verified: true
   - title: Atjautīgais idalgo LaMančas Dons Kichots
+    original_title: Don Quijote de la Mancha
     authors:
       - Miguel de Cervantes Saavedra
     year: 1956
@@ -1553,6 +1560,8 @@ titles:
   - title: Izlase
     authors:
       - Juris Alunans
+    editors:
+      - V. Austrums
     year: 1956
     language: Latvian
     pages: 401
@@ -2086,6 +2095,9 @@ titles:
   - title: Latviešu literaturas kritika
     subtitle: Rakstu kopojums
     authors: []
+    editors:
+      - Arvīds Grigulis
+      - Vilis Austrums
     year: 1957
     language: Latvian
     sources:
@@ -2346,6 +2358,8 @@ titles:
     authors:
       - I. Zane
       - Meri Davitašvili
+    editors:
+      - V. Zosts
     year: 1957
     language: French
     sources:
@@ -2712,6 +2726,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb33336999r
     verified: true
   - title: Dekamerons
+    original_title: Il Decamerone
     authors:
       - Giovanni Boccaccio
       - Maija Kvelde
@@ -2855,6 +2870,7 @@ titles:
     verified: true
   - title: Katastrofa
     subtitle: Romāns
+    original_title: Naukāḍubi
     authors:
       - Rabindranath Tagore
       - Kārlis Egle
@@ -2880,6 +2896,11 @@ titles:
     subtitle: '[Āston̦os sējumos]'
     authors:
       - Rūdolfs Blaumanis
+    editors:
+      - Arvīds Grigulis
+      - Vladislavs Kaupužs
+      - Kārlis Kundziņš
+      - Mirdza Ābola
     year: 1958
     language: Latvian
     sources:
@@ -2911,6 +2932,13 @@ titles:
     verified: true
   - title: Latviešu muzika. [I]. Sakārtojis Jāk. Vītoliņš. Redakcijas kolegija O. Grāvītis, N. Grīnfelds, Jëk Vītolinš
     authors: []
+    editors:
+      - Nilss Grīnfelds
+      - Jëkabs Vitoliņš
+      - Oļģerts Grāvītis
+      - N. Gīnfelds
+      - Jëk Vītolinš
+      - Jë. Vītoli°nš
     year: 1958
     language: French
     sources:
@@ -3149,6 +3177,8 @@ titles:
   - title: Politiska vardnica
     authors:
       - B. N. Ponomarev
+    editors:
+      - Boris Nicolaevitch Ponomarev
     year: 1958
     language: Latvian
     pages: 603
@@ -3253,6 +3283,8 @@ titles:
     subtitle: Izlase
     authors:
       - Zeltmatis
+    editors:
+      - Arvīds Grigulis
     year: 1958
     language: Latvian
     sources:
@@ -3386,6 +3418,8 @@ titles:
     authors:
       - A. Birzenieks
       - J. Strautnieks
+    editors:
+      - E. Briedis
     year: 1959
     language: Latvian
     sources:
@@ -3909,8 +3943,11 @@ titles:
         url: https://www.sudoc.fr/109298535
     verified: true
   - title: Z̄ans Kristofs
+    original_title: Jean-Christophe
     authors:
       - Romain Rolland
+    translators:
+      - Robert Kroders
     year: 1959
     language: Latvian
     sources:
@@ -3984,6 +4021,8 @@ titles:
     verified: true
   - title: Darba vara lielu dara, tautas dziesmu izlase prof. J.A. Jansona sakārtojumā. Mākslinieks O. Mednis
     authors: []
+    editors:
+      - Jānis Alberts Jansons
     year: 1960
     language: Latvian
     sources:
@@ -4195,6 +4234,8 @@ titles:
     verified: true
   - title: Latviešu padomju grafika Sastāditājs Mik̡elis Ivanovs. Mākslinieks Arturs Apinis
     authors: []
+    editors:
+      - Mikelis Ivanovs
     year: 1960
     language: Latvian
     sources:
@@ -4203,6 +4244,8 @@ titles:
     verified: true
   - title: 'Latviešu padomju lietišk̡ā māksla. Sastādījis J. Pujāts. Redkolēgija: K. Freimanis, G. Kruglovs, H. Risins, Ž. Ventaskrasts. Vāks un mākslinieciskais iekārtojums: R. Heimrāts'
     authors: []
+    editors:
+      - Jānis Pujāts
     year: 1960
     language: Latvian
     sources:
@@ -4220,6 +4263,10 @@ titles:
     verified: true
   - title: Latviešu padomju tēlniecība. Sakārtojis K. Zemdega. Tekstu rakstījuśi K. Baumanis un M. Zaurs. Vāku un apvaku zimejis V. Ozolin̡š
     authors: []
+    editors:
+      - K. Zemdega
+      - M. Zaurs
+      - Kārlis Baumanis
     year: 1960
     language: Latvian
     sources:
@@ -4412,6 +4459,8 @@ titles:
   - title: 'Raksti. Sastādījusi Milda Zālīte. Redakcija un komentāri: Jēkabs Vītolin̡š'
     authors:
       - Jānis Zālīts
+    editors:
+      - Milda Zālīte
     year: 1960
     language: Latvian
     sources:
@@ -4546,6 +4595,8 @@ titles:
   - title: Eduards Veidenbaums kopoti raksti
     authors:
       - Eduards Veidenbaums
+    editors:
+      - Alfons Vilsons
     year: 1961
     language: Latvian
     sources:
@@ -4589,6 +4640,8 @@ titles:
   - title: 'Izlase. Sakārtojis Ojars Vācietis. Redakcijas kolēgija: Andrejs Balodis, Arvīds Grigulis, Žanis Grīva. Mākslinieks Maigonis Osis'
     authors:
       - Aleksandrs Čaks
+    editors:
+      - Ojārs Vācietis
     year: 1961
     language: Not recorded
     sources:
@@ -4598,6 +4651,8 @@ titles:
   - title: Jāzeps Vītols. Kora dziesmas, sastādījis O. Grāvītis. A 1, 2, 3 et 4 voix avec et sans accompagnement de piano
     authors:
       - Jāzeps Vītols
+    editors:
+      - Oļģerts Grāvītis
     year: 1961
     language: French
     sources:
@@ -4656,6 +4711,8 @@ titles:
   - title: Kopoti raksti...[divos sejumos]. Sakārtojis Alfons Vilsons
     authors:
       - Eduards Veidenbaums
+    editors:
+      - Alfons Vilsons
     year: 1961
     language: Latvian
     sources:
@@ -4674,6 +4731,8 @@ titles:
     verified: true
   - title: 'Latviešu padomju akvarelis. Sastāditājs un teksta autors Romis Bēms. Makets un mākslinieciskā apdare: Karlis Sūninš'
     authors: []
+    editors:
+      - Romis Bems
     year: 1961
     language: Latvian
     sources:
@@ -4853,6 +4912,8 @@ titles:
   - title: Pāvils Rozītis. Raksti [piecos sējumos. Sakārtojis J. Niedre.]
     authors:
       - Pāvils Rozītis
+    editors:
+      - Jānis Niedre
     year: 1961
     language: Latvian
     sources:
@@ -5230,6 +5291,8 @@ titles:
   - title: 'Jirgs Jenačs Jürg Jenatsch. No vācu valodas tulkojusi Elija Kliene. Pēcvārds: M. Šmulovičs. Mākslinieks A. Stankevičs'
     authors:
       - Conrad Ferdinand Meyer
+    translators:
+      - Elija Kliene
     year: 1962
     language: Latvian
     sources:
@@ -5595,6 +5658,10 @@ titles:
     verified: true
   - title: '@ ... - Valodniecības terminu vārdnīca, 2945 latviešu termini. Sastādījuši R. Grabis, Dz. Barbare, A. Bergmane'
     authors: []
+    editors:
+      - Rudolfs Grabis
+      - Dz Barbare
+      - A. Bergmane
     year: 1963
     language: Latvian
     sources:
@@ -5644,6 +5711,7 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb35326030c
     verified: true
   - title: Annas Frankas dienas grāmata
+    original_title: Het achterhuis
     authors:
       - Anne Frank
     year: 1963
@@ -5777,6 +5845,8 @@ titles:
   - title: 'Gotfrids Kellers. Zeldvilas noveles, izlase [Seldwyler Novellen, Auslese]. No vācu valodas tulkojusi Ārija Elksne. Mākslinieks: Edgars Skujin̡š. Pēcvārds: M. Šmulovics'
     authors:
       - Gottfried Keller
+    translators:
+      - Arija Elksne
     year: 1963
     language: Latvian
     sources:
@@ -5808,6 +5878,8 @@ titles:
   - title: Izlase. Sakārtojusi Benita Smilktin̡a. Arvīda Grigul̡a priekšvārds. Mākslinieks Tenis Grasis
     authors:
       - Doku Atis
+    editors:
+      - Benita Smilktiņa
     year: 1963
     language: Latvian
     sources:
@@ -5914,6 +5986,8 @@ titles:
   - title: Latvian-English dictionary. Edited by M. Andersone. 3rd edition... - E Turkina. Latviešu-angl̨u vārdnīca
     authors:
       - Eị̆zenija Turkina
+    editors:
+      - M. Andersone
     year: 1963
     language: Multiple languages
     sources:
@@ -6352,6 +6426,7 @@ titles:
     verified: true
   - title: Zeldvilas noveles
     subtitle: Izlase
+    original_title: <<Die>> Leute von Seldwyla
     authors:
       - Gottfried Keller
       - Ārija Elksne
@@ -6457,6 +6532,7 @@ titles:
     verified: true
   - title: Apburtā dvēsele
     subtitle: Romāns
+    original_title: L'Âme enchantée
     authors:
       - Romain Rolland
     year: 1964
@@ -6505,6 +6581,8 @@ titles:
     verified: true
   - title: Cīnītāju stāsti. Sakārtojis Ilgonis Bērsons. Ilustrējis V. Šelkovs
     authors: []
+    editors:
+      - Ilgonis Bērsons
     year: 1964
     language: Latvian
     sources:
@@ -6564,6 +6642,9 @@ titles:
     verified: true
   - title: Dziesma dzīvei līdzi iet. Sakārtojuši L. Pēlmanis un G. Dovgjallo. J. Andersona priekšvārds
     authors: []
+    editors:
+      - G. Dovgjallo
+      - Laimonis Pēlmanis
     year: 1964
     language: Latvian
     sources:
@@ -6601,6 +6682,8 @@ titles:
   - title: Ernests Birznieks-Upītis. Zem ābeles. Sastādījusi A. Sprīvule. Ilustrējis G̡irts Vilks
     authors:
       - Ernests Birznieks upitis
+    editors:
+      - A. Sprīvule
     year: 1964
     language: Latvian
     sources:
@@ -6613,6 +6696,8 @@ titles:
     authors:
       - Latvijas PSR Zinātn̦u akadēmija
       - J. Bērzinš
+    editors:
+      - B. Rolovs
     year: 1964
     language: Latvian, Russian
     sources:
@@ -7060,8 +7145,11 @@ titles:
         url: https://catalogue.bnf.fr/ark:/12148/cb352103562
     verified: true
   - title: Vienas vasaras akvareļi
+    original_title: Roosa kübar
     authors:
       - Lilli Promet
+    translators:
+      - Jānis Žīgurs
     year: 1964
     language: Latvian
     sources:
@@ -7108,6 +7196,8 @@ titles:
     subtitle: Stāsti un noveles
     authors:
       - Vilis Lācis
+    editors:
+      - Juris Berzins
     year: 1964
     language: Latvian
     sources:
@@ -7208,6 +7298,8 @@ titles:
   - title: 'Izlase. Zeltenite. Mazais dekadents. Skaidri principi. Kredīts. Otel «Centrāle». Priekšvārds: Ilgonis Bērsons. Sastādījis Jānis Frīde. Mākslinieks Kārlis Vidin̡š'
     authors:
       - Augusts Deglavs
+    editors:
+      - Jānis Frīde
     year: 1965
     language: Latvian
     sources:
@@ -7234,8 +7326,11 @@ titles:
         url: https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=494015942
     verified: true
   - title: Kauss indes
+    original_title: Karikas kihvti
     authors:
       - Eduard Vilde
+    translators:
+      - Jānis Žīgurs
     year: 1965
     language: Latvian
     sources:
@@ -7285,8 +7380,11 @@ titles:
         url: https://swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991145345589705501&vid=41SLSP_NETWORK:VU1_UNION
     verified: true
   - title: Pavasaris
+    original_title: Kevade
     authors:
       - Oskar Luts
+    translators:
+      - Jānis Žīgurs
     year: 1965
     language: Latvian
     sources:
@@ -7326,6 +7424,9 @@ titles:
     verified: true
   - title: Rīga, apcerējumi par pilsētas vēsturi. Sastādījis J. Skolis. Rediǵējis M. Stepermanis
     authors: []
+    editors:
+      - J. Skolis
+      - M. Stepermanis
     year: 1965
     language: Latvian
     sources:

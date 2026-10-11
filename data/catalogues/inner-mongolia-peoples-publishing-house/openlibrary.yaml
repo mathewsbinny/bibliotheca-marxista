@@ -1995,6 +1995,7 @@ titles:
   - title: Yi ceng lou
     authors:
       - Injannasi
+    translators:
       - '[ Übers.] Jiayimu'
     year: 1978
     language: Chinese
@@ -2240,7 +2241,8 @@ titles:
         url: https://lccn.loc.gov/82130059
     verified: true
   - title: Cheng ji si han di liang pi jun ma
-    authors:
+    authors: []
+    translators:
       - Gele Bai
     year: 1979
     language: Chinese
@@ -3727,8 +3729,14 @@ titles:
     verified: true
   - title: Menggu mi shi
     subtitle: Jiao kan ben
+    original_title: Yuan chao bi shi
     authors:
       - Yuan chao bi shi
+    editors:
+      - É Ěr Dēng Tài
+      - 額爾登泰
+      - Wuyundalai
+      - 乌云达賚
     year: 1980
     edition: Di 1 ban
     language: Chinese
@@ -4265,6 +4273,8 @@ titles:
     authors:
       - Junling Lu
       - 陆峻岭
+    editors:
+      - Gan Lin
     year: 1980
     language: Chinese
     sources:
@@ -5076,6 +5086,9 @@ titles:
   - title: Qi hong ting
     authors:
       - Yinzhannaxi
+    translators:
+      - Du Cao
+      - Dingyu Chen
     year: 1981
     edition: Di 1 ban
     language: Chinese
@@ -5106,6 +5119,9 @@ titles:
   - title: Quan tu xiu xiang San guo yan yi
     authors:
       - Luo Guanzhong
+    editors:
+      - Zhonggang Mao
+      - 毛宗岗
     year: 1981
     edition: Di 1 ban
     language: Chinese
@@ -5385,8 +5401,12 @@ titles:
         url: https://lccn.loc.gov/84147587
     verified: true
   - title: Xin yi jiao zhu "Menggu yuan liu"
+    original_title: Erdeni-yin tobči
     authors:
       - Ssanang Ssetsen Chungtaidschi
+    translators:
+      - Daoruntibu
+      - 道潤梯步
     year: 1981
     edition: Di 1 ban
     language: Chinese
@@ -5481,6 +5501,9 @@ titles:
   - title: Yuan dai shao shu min zu shi xuan
     authors:
       - Wang Shupan
+    editors:
+      - Shupan Wang
+      - 王叔磐
     year: 1981
     edition: Di 1 ban
     language: Chinese
@@ -6059,6 +6082,9 @@ titles:
   - title: Li dai shi ren yong Qu Yuan
     authors:
       - Wen Guangyi ji zhu
+    editors:
+      - Guangyi Wen
+      - 广义 温
     year: 1982
     edition: Di 1 ban
     language: Chinese
@@ -6907,10 +6933,11 @@ titles:
     subtitle: = Da wo er zu min jian gu shi xuan
     authors:
       - Zhidong Meng
+      - S. Buyandügüreng
+    translators:
       - Erkimbayar
       - Sükebilig
       - Toγtaqunbayar
-      - S. Buyandügüreng
     year: 1983
     language: Mongolian
     sources:
@@ -7830,6 +7857,7 @@ titles:
   - title: Yi ceng lou
     authors:
       - Inzhannaxi
+    translators:
       - Yimu Jia
     year: 1983
     language: Chinese
@@ -10124,6 +10152,8 @@ titles:
   - title: Wu kun Wagang zhai
     authors:
       - Zhenpeng Li
+    editors:
+      - Huafei Liu
     year: 1985
     edition: Di 1 ban
     language: Chinese
@@ -12020,7 +12050,8 @@ titles:
         url: https://lccn.loc.gov/88170394
     verified: true
   - title: Da wo er min jian gu shi xuan
-    authors:
+    authors: []
+    translators:
       - Saiyintana
     year: 1987
     language: Chinese
@@ -12281,6 +12312,7 @@ titles:
         url: https://lccn.loc.gov/88188824
     verified: true
   - title: Man zu gu shen hua
+    original_title: Manju aiman julgei enduri juben
     authors:
       - Wulaxichun Aixinjueluo
     year: 1987
@@ -13247,6 +13279,7 @@ titles:
         url: https://search.worldcat.org/title/54418793
     verified: true
   - title: Qi dan gu dai shi yan jiu
+    original_title: Kittan kodaishi no kenkyo. Includes bibliographical references
     authors:
       - Matsuo Otagi
       - Fuli Xing
@@ -13733,6 +13766,8 @@ titles:
   - title: Nei Menggu Zizhiqu zhong dian wen wu bao hu dan wei jie shao
     authors:
       - Inner Morgolia (China). Wen wu bao hu guan li wei yuan hui. Ban gong shi
+    editors:
+      - Inner Morgolia
     year: 1989
     edition: Di 1 ban
     language: Chinese
