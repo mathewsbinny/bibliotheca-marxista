@@ -6,6 +6,9 @@
  * canonical address and schema.org Book data.
  */
 
+import { citationMeta, references } from './cite.mjs';
+import { KINDS, MAX_MESSAGE } from './reports.mjs';
+
 export const escapeHtml = (s) =>
   String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
 /** JSON safe inside a <script> element: no "</script>", no HTML comment openers. */
@@ -48,7 +51,52 @@ export function bookBody(r, publisherId, publisher) {
     <h1>${escapeHtml(r.title)}</h1>
     ${r.subtitle ? `<p class="lede">${escapeHtml(r.subtitle)}</p>` : ''}
     <p>${r.verified ? '<span class="badge verified">verified</span>' : '<span class="badge">unverified</span>'}</p>
-    <dl class="record">${rows.map(([term, value]) => `<dt>${escapeHtml(term)}</dt><dd>${value}</dd>`).join('')}</dl>`;
+    <dl class="record">${rows.map(([term, value]) => `<dt>${escapeHtml(term)}</dt><dd>${value}</dd>`).join('')}</dl>
+    ${citeSection(r, publisherId, publisher)}
+    ${reportSection(r, publisherId)}`;
+}
+
+/**
+ * "Report an error": a form sent to the API (POST /api/report), with a script that sends it in
+ * place, and without one a page thanking the reader. The "website" field is hidden from readers:
+ * only a bot fills it in.
+ */
+function reportSection(r, publisherId) {
+  return `<section class="report">
+      <details>
+        <summary>Report an error</summary>
+        <form class="report-form" method="post" action="/api/report">
+          <input type="hidden" name="p" value="${escapeHtml(publisherId)}">
+          <input type="hidden" name="t" value="${escapeHtml(r.id)}">
+          <fieldset>
+            <legend>What is wrong with this record?</legend>
+            ${Object.entries(KINDS).map(([value, label], i) => `<label><input type="radio" name="kind" value="${value}"${i === 0 ? ' required' : ''}> ${escapeHtml(label)}</label>`).join('\n            ')}
+          </fieldset>
+          <label class="report-message">Details (optional): what is wrong, and where you found the correct information
+            <textarea name="message" rows="4" maxlength="${MAX_MESSAGE}"></textarea>
+          </label>
+          <div class="trap" aria-hidden="true"><label>Website <input type="text" name="website" tabindex="-1" autocomplete="off"></label></div>
+          <button type="submit" class="button">Send report</button>
+          <p class="meta" data-report-status role="status"></p>
+          <p class="meta">Reports are anonymous: nothing about you is kept.</p>
+        </form>
+      </details>
+    </section>`;
+}
+
+/** "Cite this": the references in three styles, each to copy, and the record as BibTeX or RIS. */
+function citeSection(r, publisherId, publisher) {
+  const refs = references(r, publisher, escapeHtml);
+  const file = (format) => `/api/cite?${new URLSearchParams({ p: publisherId, t: r.id, format })}`.replace(/&/g, '&amp;');
+  return `<section class="cite" aria-labelledby="cite-heading">
+      <h2 id="cite-heading">Cite this</h2>
+      ${Object.entries(refs).map(([style, html]) => `<div class="citation">
+        <p class="citation-style">${style}</p>
+        <p class="citation-text" id="cite-${style.toLowerCase()}">${html}</p>
+        <button type="button" class="button-small" data-copy="cite-${style.toLowerCase()}">Copy</button>
+      </div>`).join('')}
+      <p class="meta">For citation managers (Zotero, EndNote, Mendeley): <a href="${file('bibtex')}" download>BibTeX</a> · <a href="${file('ris')}" download>RIS</a>. Zotero's browser connector also reads this page directly.</p>
+    </section>`;
 }
 
 /** The page's description, as search results show it. */
@@ -97,7 +145,8 @@ export function renderBook(template, r, publisherId, publisher, siteUrl, path) {
     ['property', 'og:title', escapeHtml(r.title)], ['property', 'og:description', description], ['property', 'og:url', escapeHtml(url)],
     ['property', 'og:type', 'book'], ['name', 'twitter:title', escapeHtml(r.title)], ['name', 'twitter:description', description],
   ]) html = setMeta(html, attr, name, value);
-  html = html.replace('</head>', () => `<script type="application/ld+json">${safeJson(bookJsonLd(r, publisher, url))}</script></head>`);
+  // Structured data for search engines, and citation tags for Google Scholar and Zotero.
+  html = html.replace('</head>', () => `<script type="application/ld+json">${safeJson(bookJsonLd(r, publisher, url))}</script>${citationMeta(r, publisher, escapeHtml)}</head>`);
   // The record, in place of the template's "Loading…".
   return html.replace(/<div class="title-record([^"]*)"([^>]*)>[\s\S]*?<\/div>/,
     (_, cls, attrs) => `<div class="title-record${cls}"${attrs} data-rendered>${bookBody(r, publisherId, publisher)}</div>`);

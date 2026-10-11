@@ -147,6 +147,26 @@ main.centered .cards { grid-template-columns: repeat(auto-fit, minmax(min(100%, 
   .record dd { margin-bottom: 0.6rem; }
 }
 
+/* A title's page: "Cite this" and "Report an error". */
+.cite, .report { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--rule); }
+.cite h2 { margin-top: 0; }
+.citation { display: grid; grid-template-columns: 1fr auto; gap: 0 1rem; align-items: start; margin-bottom: 0.9rem; }
+.citation-style { grid-column: 1 / -1; margin: 0; font: 600 0.8rem/1.6 var(--sans); text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); }
+.citation-text { margin: 0; }
+.button-small {
+  font: 0.8rem/1.4 var(--sans); padding: 0.25rem 0.6rem; border: 1px solid var(--rule); border-radius: 3px;
+  background: var(--card); color: var(--ink); cursor: pointer;
+}
+.button-small:hover { border-color: var(--accent); }
+.report summary { cursor: pointer; font-family: var(--sans); color: var(--muted); }
+.report summary:hover { color: var(--ink); }
+.report-form fieldset { border: 0; padding: 0; margin: 1rem 0; display: grid; gap: 0.3rem; }
+.report-form legend { font-weight: 600; margin-bottom: 0.4rem; }
+.report-message { display: grid; gap: 0.3rem; margin-bottom: 1rem; }
+.report-message textarea { font: inherit; padding: 0.4rem; border: 1px solid var(--rule); border-radius: 3px; }
+/* A field only bots fill in: off screen, not hidden, so that they find it. */
+.trap { position: absolute; left: -10000px; width: 1px; height: 1px; overflow: hidden; }
+
 .name-history { margin: 0; padding: 0; list-style: none; }
 .name-history li + li { margin-top: 0.3rem; }
 

@@ -12,7 +12,7 @@ before(async () => {
   fixture = makeFixture();
   const port = 18_000 + Math.floor(Math.random() * 2000);
   server = spawn(process.execPath, [join(ROOT, 'server', 'server.mjs')], {
-    env: { ...process.env, PORT: String(port), CATALOGUE_DB: fixture.dbFile, SITE_ORIGIN: ORIGIN, SITE_URL: ORIGIN, TRUST_PROXY: '1', EXPORT_HOURLY_LIMIT: '1' },
+    env: { ...process.env, PORT: String(port), CATALOGUE_DB: fixture.dbFile, SITE_ORIGIN: ORIGIN, SITE_URL: ORIGIN, TRUST_PROXY: '1', EXPORT_HOURLY_LIMIT: '1', REPORTS_DB: join(fixture.dir, 'reports.sqlite') },
     stdio: ['ignore', 'pipe', 'pipe'],
   });
   await new Promise((resolve, reject) => {
@@ -139,6 +139,83 @@ describe("titles' pages for search engines", () => {
     assert.equal((xml.match(/<loc>/g) ?? []).length, 5);
     assert.match(xml, /<loc>https:\/\/site\.example\/book\/international-publishers\/wage-labour-1933<\/loc>/);
     assert.equal((await get('/sitemap-books-2.xml', { headers })).status, 404);
+  });
+});
+
+describe('citing a title', () => {
+  const headers = { 'x-real-ip': '198.51.100.30' };
+  test("the page offers three styles, and citation managers' files", async () => {
+    const page = await (await get('/book/progress/state-and-revolution-1970', { headers })).text();
+    assert.match(page, /<h2 id="cite-heading">Cite this<\/h2>/);
+    assert.match(page, /id="cite-chicago">Lenin, V\. I\. <i>The State and Revolution<\/i>\. Moscow: Progress Publishers, 1970\./);
+    assert.match(page, /<meta name="citation_title" content="The State and Revolution">/);
+  });
+  test('BibTeX and RIS downloads', async () => {
+    const bib = await get('/api/cite?p=progress&t=state-and-revolution-1970&format=bibtex', { headers });
+    assert.equal(bib.status, 200);
+    assert.match(bib.headers.get('content-disposition'), /attachment; filename="state-and-revolution-1970\.bib"/);
+    assert.match(await bib.text(), /^@book\{Lenin1970,/);
+    const r = await (await get('/api/cite?p=progress&t=state-and-revolution-1970&format=ris', { headers })).text();
+    assert.match(r, /^TY {2}- BOOK/);
+    assert.equal((await get('/api/cite?p=progress&t=state-and-revolution-1970&format=pdf', { headers })).status, 400);
+  });
+});
+
+describe('reporting an error', () => {
+  const post = (body, ip, { json = true } = {}) => get('/api/report', {
+    method: 'POST',
+    headers: json ? { 'content-type': 'application/json', accept: 'application/json', 'x-real-ip': ip } : { 'content-type': 'application/x-www-form-urlencoded', 'x-real-ip': ip },
+    body: json ? JSON.stringify(body) : new URLSearchParams(body).toString(),
+    redirect: 'manual',
+  });
+  const stored = async () => {
+    const { default: Database } = await import('better-sqlite3');
+    const db = new Database(join(fixture.dir, 'reports.sqlite'), { readonly: true });
+    const rows = db.prepare('SELECT * FROM reports ORDER BY id').all();
+    db.close();
+    return rows;
+  };
+
+  test("each title's page has the form", async () => {
+    const page = await (await get('/book/progress/capital-1965', { headers: { 'x-real-ip': '198.51.100.40' } })).text();
+    assert.match(page, /<form class="report-form" method="post" action="\/api\/report">/);
+    assert.match(page, /name="kind" value="date"/);
+  });
+
+  test('a report from the page script is stored, as the reader wrote it', async () => {
+    const res = await post({ p: 'progress', t: 'capital-1965', kind: 'date', message: 'First published in <1867>, not 1965.' }, '198.51.100.41');
+    assert.equal(res.status, 200);
+    assert.deepEqual(await res.json(), { ok: true });
+    const [r] = await stored();
+    assert.deepEqual([r.href, r.title, r.kind, r.message, r.status], ['/book/progress/capital-1965', 'Capital', 'date', 'First published in <1867>, not 1965.', 'open']);
+  });
+
+  test('a report from a plain form gets a page of thanks', async () => {
+    const res = await post({ p: 'progress', t: 'capital-1965', kind: 'other' }, '198.51.100.42', { json: false });
+    assert.equal(res.status, 200);
+    assert.match(await res.text(), /<h1>Thank you<\/h1>/);
+  });
+
+  test('a bot filling in the hidden field is told nothing, and nothing is stored', async () => {
+    const before = (await stored()).length;
+    assert.equal((await post({ p: 'progress', t: 'capital-1965', kind: 'date', website: 'http://spam.example' }, '198.51.100.43')).status, 200);
+    assert.equal((await stored()).length, before);
+  });
+
+  test('refuses unknown titles and kinds, and overlong messages', async () => {
+    assert.equal((await post({ p: 'progress', t: 'no-such-title', kind: 'date' }, '198.51.100.44')).status, 404);
+    assert.equal((await post({ p: 'progress', t: 'capital-1965', kind: 'spam' }, '198.51.100.44')).status, 400);
+    assert.equal((await post({ p: 'progress', t: 'capital-1965', kind: 'other', message: 'x'.repeat(2001) }, '198.51.100.44')).status, 400);
+  });
+
+  test('takes at most five reports an hour from one address', async () => {
+    const statuses = [];
+    for (let i = 0; i < 7; i++) statuses.push((await post({ p: 'progress', t: 'capital-1965', kind: 'other' }, '198.51.100.45')).status);
+    assert.deepEqual(statuses, [200, 200, 200, 200, 200, 429, 429]);
+  });
+
+  test('accepts only POST', async () => {
+    assert.equal((await get('/api/report', { headers: { 'x-real-ip': '198.51.100.46' } })).status, 405);
   });
 });
 

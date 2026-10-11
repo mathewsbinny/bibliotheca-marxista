@@ -19,7 +19,45 @@ import Base from '../layouts/Base.astro';
   import { titleHref } from '../lib/shard';
 
   const root = document.querySelector<HTMLElement>('.title-record')!;
-  // A page the API rendered needs nothing more.
+
+  // A title's page as the API rendered it: copying a citation, and sending a report in place.
+  for (const button of root.querySelectorAll<HTMLButtonElement>('[data-copy]')) {
+    button.addEventListener('click', async () => {
+      const text = document.getElementById(button.dataset.copy!)?.textContent?.trim() ?? '';
+      try {
+        await navigator.clipboard.writeText(text);
+        button.textContent = 'Copied';
+      } catch {
+        button.textContent = 'Select and copy the text';
+      }
+      setTimeout(() => (button.textContent = 'Copy'), 2000);
+    });
+  }
+  const form = root.querySelector<HTMLFormElement>('.report-form');
+  form?.addEventListener('submit', async (event) => {
+    event.preventDefault();
+    const status = form.querySelector<HTMLElement>('[data-report-status]')!;
+    const button = form.querySelector<HTMLButtonElement>('button[type="submit"]')!;
+    button.disabled = true;
+    status.textContent = 'Sending…';
+    try {
+      const res = await fetch(form.action, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+        body: JSON.stringify(Object.fromEntries(new FormData(form))),
+      });
+      if (res.status === 429) throw new Error('Too many reports have been sent from here this hour. Please try again later.');
+      if (!res.ok) throw new Error('The report could not be sent. Please try again in a moment.');
+      form.reset();
+      status.textContent = 'Thank you: your report has been received, and will be checked against the library records.';
+    } catch (e) {
+      status.textContent = (e as Error).message;
+    } finally {
+      button.disabled = false;
+    }
+  });
+
+  // Opened at a title's old address: on to its page.
   if (!root.hasAttribute('data-rendered')) {
     const params = new URLSearchParams(location.search);
     const publisher = params.get('p'), title = params.get('t');

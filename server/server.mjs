@@ -7,12 +7,15 @@
  *       → { total?, rows } (total only for the first page, offset 0)
  *   GET /api/title?p=<publisher>&t=<title id>   → { record, publisher }
  *   GET /api/export[?pub=<publisher>]            → the catalogue, or one publisher's backlist, as JSON
+ *   GET /api/cite?p=&t=&format=bibtex|ris         → a title's citation, as a file
+ *   POST /api/report (p, t, kind, message)        → a reader's report of an error in a title
  *   GET /api/health                              → { titles, built }
  *
  * Environment: PORT (8787), CATALOGUE_DB (db/catalogue.sqlite), SITE_ORIGIN (comma-separated origins
  * allowed by CORS, e.g. https://bibliotheca-marxista.org), TRUST_PROXY=1 behind a reverse proxy that
  * sets X-Real-IP to the client's address (see Caddyfile.example), EXPORT_HOURLY_LIMIT (20: downloads
- * of the whole catalogue, from all clients together, each about 600 MB).
+ * of the whole catalogue, from all clients together, each about 600 MB), REPORTS_DB (var/reports.sqlite:
+ * readers' error reports, kept apart from the catalogue, which deployments replace).
  * A new database file moved into place (an atomic rename) is opened within a minute.
  */
 import { statSync, watchFile } from 'node:fs';
@@ -21,6 +24,8 @@ import { join } from 'node:path';
 import { createGzip } from 'node:zlib';
 import Database from 'better-sqlite3';
 import { escapeHtml, renderBook } from './book.mjs';
+import { bibtex, ris } from './cite.mjs';
+import { KINDS, MAX_MESSAGE, addReport, defaultReportsFile, openReports } from './reports.mjs';
 import { BadRequest, parseTitleParams, titleQuery, toRow } from './query.mjs';
 
 const ROOT = join(new URL('..', import.meta.url).pathname.replace(/^\/(\w:)/, '$1'));
@@ -210,6 +215,82 @@ function bookPage(p, t, req, res) {
   html(res, 200, cached(`book:${path}`, () => renderBook(template, JSON.parse(row.record), p, publisher, siteUrl(req), path)));
 }
 
+// Readers' error reports, in their own database (server/reports.mjs), opened on the first report.
+let reportsDb;
+const reports = () => (reportsDb ??= openReports(defaultReportsFile(ROOT)));
+// At most 5 reports an hour from an address, and 500 a day from everyone.
+const reportTimes = new Map();
+const allReports = [];
+function allowReport(ip) {
+  const now = Date.now();
+  const mine = (reportTimes.get(ip) ?? []).filter((t) => now - t < 3_600_000);
+  while (allReports.length && now - allReports[0] > 86_400_000) allReports.shift();
+  if (mine.length >= 5 || allReports.length >= 500) return false;
+  mine.push(now);
+  allReports.push(now);
+  reportTimes.set(ip, mine);
+  return true;
+}
+setInterval(() => { for (const [ip, times] of reportTimes) if (Date.now() - times.at(-1) > 3_600_000) reportTimes.delete(ip); }, 600_000).unref();
+
+/** A request's body, up to `max` bytes: a form's fields or a JSON object. */
+async function readBody(req, max = 8192) {
+  let size = 0;
+  const chunks = [];
+  for await (const chunk of req) {
+    size += chunk.length;
+    if (size > max) throw new BadRequest('the report is too long');
+    chunks.push(chunk);
+  }
+  const text = Buffer.concat(chunks).toString('utf8');
+  if (/application\/json/.test(req.headers['content-type'] ?? '')) {
+    try { return JSON.parse(text); } catch { throw new BadRequest('invalid report'); }
+  }
+  return Object.fromEntries(new URLSearchParams(text));
+}
+
+/**
+ * A reader's report of an error in a title (POST /api/report: p, t, kind, message). Answers a
+ * script with JSON, and a plain form with a page thanking the reader.
+ */
+async function report(req, res, ip) {
+  const body = await readBody(req);
+  const p = String(body.p ?? ''), t = String(body.t ?? ''), kind = String(body.kind ?? ''), message = String(body.message ?? '').trim();
+  const wantsJson = /application\/json/.test(req.headers.accept ?? '');
+  // A field hidden from readers: only a bot fills it in. It is told nothing went wrong.
+  if (body.website) return wantsJson ? json(res, 200, { ok: true }, 'no-store') : res.writeHead(303, { Location: '/' }).end();
+  if (!/^[a-z0-9-]{1,120}$/.test(p) || !/^[\p{L}\p{N}-]{1,200}$/u.test(t) || !KINDS[kind]) throw new BadRequest('invalid report');
+  if (message.length > MAX_MESSAGE) throw new BadRequest('the message is too long');
+  const path = `/book/${encodeURIComponent(p)}/${encodeURIComponent(t)}`;
+  const row = prepare('SELECT title FROM titles WHERE href = ?').get(path);
+  if (!row) return json(res, 404, { error: 'not found' });
+  if (!allowReport(ip)) return json(res, 429, { error: 'too many reports; please try again later' });
+  addReport(reports(), { href: path, publisherId: p, titleId: t, title: row.title, kind, message });
+  if (wantsJson) return json(res, 200, { ok: true }, 'no-store');
+  const template = prepare("SELECT value FROM meta WHERE key = 'book-template'").pluck().get();
+  html(res, 200, template.replace(/<title>[^<]*<\/title>/, '<title>Thank you · Bibliotheca Marxista</title>')
+    .replace(/(<div class="title-record[^"]*"[^>]*)>[\s\S]*?<\/div>/, (_, open) => `${open} data-rendered><h1>Thank you</h1>`
+      + `<p class="lede">Your report on <a href="${escapeHtml(path)}">${escapeHtml(row.title)}</a> has been received, and will be checked against the library records.</p></div>`));
+}
+
+/** A title's citation as a file for citation managers: /api/cite?p=&t=&format=bibtex|ris. */
+const CITE_FORMATS = { bibtex: ['application/x-bibtex', 'bib', bibtex], ris: ['application/x-research-info-systems', 'ris', ris] };
+function citeFile(params, req, res) {
+  const p = params.get('p') ?? '', t = params.get('t') ?? '', format = CITE_FORMATS[params.get('format') ?? ''];
+  if (!format || !/^[a-z0-9-]{1,120}$/.test(p) || !/^[\p{L}\p{N}-]{1,200}$/u.test(t)) throw new BadRequest('invalid citation request');
+  const path = `/book/${encodeURIComponent(p)}/${encodeURIComponent(t)}`;
+  const row = prepare('SELECT record FROM titles WHERE href = ?').get(path);
+  if (!row) return json(res, 404, { error: 'not found' });
+  const publisher = prepare('SELECT id, name, place FROM publishers WHERE id = ?').get(p);
+  const [type, extension, make] = format;
+  res.writeHead(200, {
+    'Content-Type': `${type}; charset=utf-8`,
+    'Content-Disposition': `attachment; filename="${t.normalize('NFKD').replace(/[^A-Za-z0-9-]/g, '').slice(0, 60) || 'citation'}.${extension}"`,
+    'Cache-Control': 'public, max-age=86400',
+  });
+  res.end(make(JSON.parse(row.record), publisher, siteUrl(req) + path));
+}
+
 /** One of the sitemaps of titles' pages, 50,000 to a file as sitemaps allow (listed in /sitemap.xml). */
 const SITEMAP_SIZE = 50_000;
 function bookSitemap(n, req, res) {
@@ -230,7 +311,8 @@ const server = createServer(async (req, res) => {
     res.setHeader('Vary', 'Origin');
   }
   if (req.method === 'OPTIONS') { res.writeHead(204, { 'Access-Control-Allow-Methods': 'GET', 'Access-Control-Max-Age': '86400' }); return res.end(); }
-  if (req.method !== 'GET' && req.method !== 'HEAD') return json(res, 405, { error: 'method not allowed' });
+  const posting = req.method === 'POST' && url.pathname === '/api/report';
+  if (req.method !== 'GET' && req.method !== 'HEAD' && !posting) return json(res, 405, { error: 'method not allowed' });
   // Behind the proxy, the client's address as the proxy saw it; X-Forwarded-For's first entry is the
   // client's own claim and could be forged to escape the limits.
   const ip = (TRUST_PROXY && String(req.headers['x-real-ip'] ?? '').trim()) || req.socket.remoteAddress || '';
@@ -248,6 +330,12 @@ const server = createServer(async (req, res) => {
       case '/api/title':
         if (!allow(ip)) return json(res, 429, { error: 'too many requests' });
         return title(url.searchParams, res);
+      case '/api/report':
+        if (!posting) return json(res, 405, { error: 'method not allowed' });
+        return await report(req, res, ip);
+      case '/api/cite':
+        if (!allow(ip)) return json(res, 429, { error: 'too many requests' });
+        return citeFile(url.searchParams, req, res);
       case '/api/export':
         if (!allow(ip, 30)) return json(res, 429, { error: 'too many requests' });
         return await exportCatalogue(url.searchParams, req, res, origin && ORIGINS.has(origin) ? origin : '');

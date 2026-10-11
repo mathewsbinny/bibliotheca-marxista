@@ -186,7 +186,7 @@ The titles' pages are on the site's own address so that search engines credit th
    ```sh
    docker build -f server/Dockerfile -t bibliotheca-api .
    docker run -d --name bibliotheca-api --restart unless-stopped \
-     -p 127.0.0.1:8787:8787 -v /srv/bibliotheca/db:/app/db:ro \
+     -p 127.0.0.1:8787:8787 -v /srv/bibliotheca/db:/app/db:ro -v /srv/bibliotheca/var:/app/var \
      --read-only --cap-drop ALL --security-opt no-new-privileges --memory 1g --cpus 1 --pids-limit 100 \
      -e SITE_URL=https://bibliotheca-marxista.org -e TRUST_PROXY=1 bibliotheca-api
    ```

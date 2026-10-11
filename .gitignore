@@ -10,3 +10,5 @@ reports/
 *.log
 # Personal Claude Code settings
 .claude/settings.local.json
+# Readers' error reports (server/reports.mjs): kept on the server, not in the repository
+var/
