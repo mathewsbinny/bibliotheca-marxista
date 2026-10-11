@@ -62,7 +62,10 @@ const ORGANISATIONS = new Set([
   'Q200764', 'Q1137809', 'Q4539', 'Q891723', 'Q5225895', // bookshop, cooperative, cooperative (alt.), public company, cooperative society
 ]);
 // Entities that match a house's name but are another house: Messidor's predecessor, Éditeurs français réunis.
-const WRONG = new Set(['Q23946115']);
+// Found on review of scripts/link-publishers.mjs: a party named Kyrgyzstan, a Kazakh magazine
+// called Mysl, a Zagreb eye hospital called Svjetlost, the Vpered faction, the magazine Sovremennik,
+// the newspaper Lao Động, and the St Petersburg Prosveshchenie of 1896–1922.
+const WRONG = new Set(['Q23946115', 'Q21707885', 'Q12554729', 'Q137943755', 'Q4150673', 'Q1187775', 'Q10784412', 'Q4380954']);
 const countryLabels = new Map();
 async function countryName(qid) {
   if (!countryLabels.has(qid)) countryLabels.set(qid, (await entity(qid))?.labels?.en?.value ?? qid);
