@@ -7,6 +7,9 @@ export default defineConfig({
   // In development, the catalogue API (npm run api) answers under /api, as it does behind the
   // deployed site's proxy; a separate API host is set with PUBLIC_API_URL instead.
   vite: {
+    // No script is inlined into a page, so the Content Security Policy can allow scripts from the
+    // site's own files only (see scripts/write-headers.mjs).
+    build: { assetsInlineLimit: 0 },
     server: { proxy: { '/api': 'http://localhost:8787' } },
     preview: { proxy: { '/api': 'http://localhost:8787' } },
   },

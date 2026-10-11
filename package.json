@@ -7,7 +7,7 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build && node scripts/build-db.mjs",
+    "build": "astro build && node scripts/write-headers.mjs && node scripts/build-db.mjs",
     "preview": "astro preview",
     "check": "astro sync && npm run build",
     "import": "node scripts/import-openlibrary.mjs",

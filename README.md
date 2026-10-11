@@ -176,7 +176,9 @@ The site has two parts:
 2. On the API host, install Docker and Caddy, then run the API and configure Caddy from `server/Caddyfile.example`:
    ```sh
    docker build -f server/Dockerfile -t bibliotheca-api .
-   docker run -d --restart unless-stopped -p 127.0.0.1:8787:8787 -v /srv/bibliotheca/db:/app/db \
+   docker run -d --name bibliotheca-api --restart unless-stopped \
+     -p 127.0.0.1:8787:8787 -v /srv/bibliotheca/db:/app/db:ro \
+     --read-only --cap-drop ALL --security-opt no-new-privileges --memory 1g --cpus 1 --pids-limit 100 \
      -e SITE_ORIGIN=https://bibliotheca-marxista.org -e TRUST_PROXY=1 bibliotheca-api
    ```
 3. Build the site with the API's address and upload it (leave `PUBLIC_API_URL` unset if the API is served from the site's own domain under `/api`):
@@ -225,3 +227,42 @@ The downloads carry these terms in their `license` field.
 | HathiTrust | Its own work on the records is [CC0](https://www.hathitrust.org/the-collection/terms-conditions/metadata-sharing-and-use-policy/); records it holds may be harvested and used freely, and some derive from OCLC's WorldCat | WorldCat credited, as OCLC asks of reusers |
 
 Scans and texts held elsewhere (the Internet Archive, HathiTrust, marxists.org, BannedThought.net) are linked, not copied, and remain under their own terms.
+
+## Security
+
+The site's pages are static files, and its only server is the catalogue API, which only reads (its database is opened read-only, and mounted read-only in its container). Neither has accounts, cookies, secrets or tracking, and client addresses are held only in memory, to limit request rates.
+
+**Built in**
+
+- **No SQL injection.** The API binds every value as a parameter and accepts only listed sorts and filters (`server/query.mjs`). A search becomes plain words before it reaches the full-text index.
+- **No HTML injection from the data.** Imported records come partly from editable sources such as Open Library, so:
+  - pages render text, never markup;
+  - rows drawn from the API escape every value;
+  - links must be `http` or `https` (the schema rejects `javascript:` and `data:`).
+- **Security headers.**
+  - The site sends a Content Security Policy from `dist/_headers`, written by `scripts/write-headers.mjs`. It allows scripts, styles and media from the site alone, requests to the API alone, and no framing. The build fails if a page has inline code the policy would block.
+  - The API sends `nosniff` and a deny-all policy with every response.
+- **Abuse limits.**
+  - Each client address may make a burst of 120 requests, then 2 a second; a download costs 30.
+  - At most two downloads stream at once, and whole-catalogue downloads (about 600 MB each) are capped at `EXPORT_HOURLY_LIMIT` an hour across all clients.
+  - Recent answers are cached in memory, so a repeated expensive query does not reach the database.
+- **Forged addresses.** Behind Caddy, the API takes the client's address from `X-Real-IP`. Caddy sets that header itself, replacing whatever a client sends, so it can't be faked to escape the limits; `X-Forwarded-For` is never trusted. With Cloudflare in front, set `trusted_proxies` as in `server/Caddyfile.example`, or every visitor would share Cloudflare's addresses.
+- **Least privilege.** The container runs as an unprivileged user, on a read-only filesystem, with no Linux capabilities and with limits on memory, CPU and processes.
+
+**When deploying**
+
+1. On the API host:
+   - open only ports 22, 80 and 443;
+   - allow SSH by key only;
+   - turn on automatic security updates (`unattended-upgrades`);
+   - bind the API to `127.0.0.1`, as above, so that it is reached only through Caddy.
+2. Put Cloudflare, or another CDN, in front of the API as well as the site. It absorbs floods, and caches API answers (they are marked cacheable for an hour).
+3. When the repository is on GitHub, turn on:
+   - Dependabot alerts and secret scanning;
+   - branch protection on `main`;
+   - a workflow running `npm test` and `npm audit` on each change.
+4. Check `npm audit` before each deployment.
+5. Review contributed data like code. The schema rejects unsafe links, but not wrong or misleading ones.
+6. If Caddy's access logs are turned on, they hold visitors' addresses: keep them briefly, and say so in a privacy note.
+
+To report a security problem, contact the maintainers privately rather than opening a public issue.

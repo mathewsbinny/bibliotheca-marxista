@@ -12,7 +12,7 @@ before(async () => {
   fixture = makeFixture();
   const port = 18_000 + Math.floor(Math.random() * 2000);
   server = spawn(process.execPath, [join(ROOT, 'server', 'server.mjs')], {
-    env: { ...process.env, PORT: String(port), CATALOGUE_DB: fixture.dbFile, SITE_ORIGIN: ORIGIN, TRUST_PROXY: '1' },
+    env: { ...process.env, PORT: String(port), CATALOGUE_DB: fixture.dbFile, SITE_ORIGIN: ORIGIN, TRUST_PROXY: '1', EXPORT_HOURLY_LIMIT: '1' },
     stdio: ['ignore', 'pipe', 'pipe'],
   });
   await new Promise((resolve, reject) => {
@@ -98,6 +98,13 @@ describe('GET /api/export', () => {
   test('answers 404 for an unknown house', async () => {
     assert.equal((await get('/api/export?pub=no-such-house')).status, 404);
   });
+
+  test('caps downloads of the whole catalogue each hour, from all clients together', async () => {
+    // The limit is 1 here, and the whole catalogue was downloaded above.
+    const res = await get('/api/export', { headers: { 'x-real-ip': '198.51.100.1' } });
+    assert.equal(res.status, 429);
+    assert.equal((await get('/api/export?pub=progress', { headers: { 'x-real-ip': '198.51.100.3' } })).status, 200, "one house's backlist is not capped");
+  });
 });
 
 describe('the server', () => {
@@ -121,11 +128,26 @@ describe('the server', () => {
     assert.equal((await get('/api/nothing')).status, 404);
   });
 
-  test('limits how fast one address may ask (behind a proxy, by its X-Forwarded-For)', async () => {
+  test('limits how fast one address may ask (behind the proxy, by the X-Real-IP it sets)', async () => {
     const statuses = [];
-    const headers = { 'x-forwarded-for': '203.0.113.7' };
+    const headers = { 'x-real-ip': '203.0.113.7' };
     for (let i = 0; i < 140; i++) statuses.push((await get('/api/titles?limit=1', { headers })).status);
     assert.ok(statuses.includes(429), 'some requests are refused');
     assert.ok(statuses.slice(0, 50).every((s) => s === 200), 'but not the first ones');
+  });
+
+  test('cannot be escaped by forging X-Forwarded-For', async () => {
+    // Without X-Real-IP, every request counts against the connection's own address, whatever it claims.
+    const statuses = [];
+    for (let i = 0; i < 140; i++) statuses.push((await get('/api/titles?limit=1', { headers: { 'x-forwarded-for': `192.0.2.${i}` } })).status);
+    assert.ok(statuses.includes(429));
+  });
+
+  test('sends security headers with every response', async () => {
+    for (const path of ['/api/titles?limit=1', '/api/nothing', '/api/titles?sort=random']) {
+      const res = await get(path, { headers: { 'x-real-ip': '198.51.100.2' } });
+      assert.equal(res.headers.get('x-content-type-options'), 'nosniff', path);
+      assert.match(res.headers.get('content-security-policy'), /default-src 'none'/, path);
+    }
   });
 });

@@ -10,7 +10,9 @@
  *   GET /api/health                              → { titles, built }
  *
  * Environment: PORT (8787), CATALOGUE_DB (db/catalogue.sqlite), SITE_ORIGIN (comma-separated origins
- * allowed by CORS, e.g. https://bibliotheca-marxista.org), TRUST_PROXY=1 behind a reverse proxy.
+ * allowed by CORS, e.g. https://bibliotheca-marxista.org), TRUST_PROXY=1 behind a reverse proxy that
+ * sets X-Real-IP to the client's address (see Caddyfile.example), EXPORT_HOURLY_LIMIT (20: downloads
+ * of the whole catalogue, from all clients together, each about 600 MB).
  * A new database file moved into place (an atomic rename) is opened within a minute.
  */
 import { statSync, watchFile } from 'node:fs';
@@ -25,8 +27,25 @@ const DB_FILE = process.env.CATALOGUE_DB ?? join(ROOT, 'db', 'catalogue.sqlite')
 const PORT = Number(process.env.PORT ?? 8787);
 const ORIGINS = new Set((process.env.SITE_ORIGIN ?? '').split(',').map((s) => s.trim()).filter(Boolean));
 const TRUST_PROXY = process.env.TRUST_PROXY === '1';
+const EXPORT_HOURLY_LIMIT = Number(process.env.EXPORT_HOURLY_LIMIT ?? 20);
 
 let db;
+// Recent answers to searches and title lookups, so a repeated query (a popular page, or the same
+// expensive listing asked again and again) is served without asking the database.
+const cache = new Map();
+const CACHE_SIZE = 2000;
+const cached = (key, compute) => {
+  if (cache.has(key)) {
+    const body = cache.get(key);
+    cache.delete(key);
+    cache.set(key, body); // most recently used last
+    return body;
+  }
+  const body = compute();
+  cache.set(key, body);
+  if (cache.size > CACHE_SIZE) cache.delete(cache.keys().next().value);
+  return body;
+};
 function open() {
   const next = new Database(DB_FILE, { readonly: true, fileMustExist: true });
   next.pragma('query_only = ON');
@@ -34,6 +53,7 @@ function open() {
   const previous = db;
   db = next;
   previous?.close();
+  cache.clear();
   console.log(`Opened ${DB_FILE}: ${db.prepare('SELECT count(*) FROM titles').pluck().get()} titles`);
 }
 open();
@@ -57,9 +77,15 @@ function allow(ip, cost = 1) {
 }
 setInterval(() => { for (const [ip, b] of buckets) if (Date.now() - b.at > 600_000) buckets.delete(ip); }, 600_000).unref();
 
-const json = (res, status, body, cache = 'public, max-age=3600') => {
-  res.writeHead(status, { 'Content-Type': 'application/json; charset=utf-8', 'Cache-Control': status === 200 ? cache : 'no-store' });
-  res.end(JSON.stringify(body));
+// Sent with every response: JSON is never sniffed as another type, and never runs or embeds anything.
+const SECURITY_HEADERS = {
+  'X-Content-Type-Options': 'nosniff',
+  'Content-Security-Policy': "default-src 'none'; frame-ancestors 'none'",
+  'Referrer-Policy': 'no-referrer',
+};
+const json = (res, status, body, cacheControl = 'public, max-age=3600') => {
+  res.writeHead(status, { 'Content-Type': 'application/json; charset=utf-8', 'Cache-Control': status === 200 ? cacheControl : 'no-store' });
+  res.end(typeof body === 'string' ? body : JSON.stringify(body));
 };
 
 const statements = new Map();
@@ -71,10 +97,11 @@ const prepare = (sql) => {
 
 function titles(params, res) {
   const p = parseTitleParams(params);
-  const q = titleQuery(p);
-  const rows = prepare(q.rows.sql).all(...q.rows.args).map(toRow);
-  const body = p.offset === 0 ? { total: prepare(q.count.sql).pluck().get(...q.count.args), rows } : { rows };
-  json(res, 200, body);
+  json(res, 200, cached(`titles?${new URLSearchParams([...params].sort())}`, () => {
+    const q = titleQuery(p);
+    const rows = prepare(q.rows.sql).all(...q.rows.args).map(toRow);
+    return JSON.stringify(p.offset === 0 ? { total: prepare(q.count.sql).pluck().get(...q.count.args), rows } : { rows });
+  }));
 }
 
 function title(params, res) {
@@ -97,6 +124,7 @@ const LICENSE = {
 };
 
 let exporting = 0;
+const fullExports = [];
 /**
  * Streams the catalogue, or one publisher's backlist, as one JSON document — { publishers, titles,
  * authors } — in batches, so a large export neither holds the catalogue in memory nor blocks other
@@ -107,6 +135,13 @@ async function exportCatalogue(params, req, res, origin) {
   if (pub && !/^[a-z0-9-]{1,120}$/.test(pub)) throw new BadRequest('invalid pub');
   if (pub && !prepare('SELECT 1 FROM publishers WHERE id = ?').get(pub)) return json(res, 404, { error: 'not found' });
   if (exporting >= 2) return json(res, 503, { error: 'too many downloads at once; try again shortly' });
+  // Whole-catalogue downloads, from all clients together, are capped each hour.
+  if (!pub) {
+    const hourAgo = Date.now() - 3_600_000;
+    while (fullExports.length && fullExports[0] < hourAgo) fullExports.shift();
+    if (fullExports.length >= EXPORT_HOURLY_LIMIT) return json(res, 429, { error: 'the whole catalogue has been downloaded often this hour; try again later' });
+    fullExports.push(Date.now());
+  }
   exporting++;
   try {
     const gzip = /\bgzip\b/.test(req.headers['accept-encoding'] ?? '');
@@ -158,7 +193,10 @@ const server = createServer(async (req, res) => {
   }
   if (req.method === 'OPTIONS') { res.writeHead(204, { 'Access-Control-Allow-Methods': 'GET', 'Access-Control-Max-Age': '86400' }); return res.end(); }
   if (req.method !== 'GET' && req.method !== 'HEAD') return json(res, 405, { error: 'method not allowed' });
-  const ip = (TRUST_PROXY && String(req.headers['x-forwarded-for'] ?? '').split(',')[0].trim()) || req.socket.remoteAddress || '';
+  // Behind the proxy, the client's address as the proxy saw it; X-Forwarded-For's first entry is the
+  // client's own claim and could be forged to escape the limits.
+  const ip = (TRUST_PROXY && String(req.headers['x-real-ip'] ?? '').trim()) || req.socket.remoteAddress || '';
+  for (const [k, v] of Object.entries(SECURITY_HEADERS)) res.setHeader(k, v);
   try {
     switch (url.pathname) {
       case '/api/health':

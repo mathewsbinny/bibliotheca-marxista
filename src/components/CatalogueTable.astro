@@ -169,7 +169,9 @@ const pubNames = publishers && progressive ? JSON.stringify(Object.fromEntries(p
     if (root.dataset.scope) {
       // A large table: the API filters, sorts and pages it; the page holds only its first rows.
       const scope = Object.fromEntries(new URLSearchParams(root.dataset.scope));
-      let params = titleParams(readCriteria(form), scope);
+      // The table as built: the scope alone. (readCriteria is not called yet: it rewrites the address
+      // from the form, which would lose a linked search before restoreFromUrl reads it.)
+      let params = new URLSearchParams(scope);
       let generation = 0;
       let busy = false;
 
