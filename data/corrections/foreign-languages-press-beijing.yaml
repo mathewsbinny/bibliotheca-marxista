@@ -1,0 +1,6 @@
+# Corrections to foreign-languages-press-beijing's titles, applied over data/catalogues/ (see src/lib/schemas.ts, "correction").
+publisher: foreign-languages-press-beijing
+corrections:
+  - id: human-rights-in-xinjiang-2027
+    note: "The white paper of June 2017: the K10plus record's imprint reads 2027, its coded date 2017."
+    set: { year: 2017 }

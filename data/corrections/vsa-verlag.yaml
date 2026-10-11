@@ -1,0 +1,6 @@
+# Corrections to vsa-verlag's titles, applied over data/catalogues/ (see src/lib/schemas.ts, "correction").
+publisher: vsa-verlag
+corrections:
+  - id: fur-aufklarung-debatten-kultur-2027
+    note: "Not yet published: the German National Library lists it as announced by the publisher for January 2027."
+    set: { date_note: "Forthcoming (announced for January 2027)" }

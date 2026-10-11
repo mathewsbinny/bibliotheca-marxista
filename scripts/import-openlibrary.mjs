@@ -3688,6 +3688,17 @@ const LANGUAGE_BY_NAME = new Map(Object.values(LANGUAGES).map((n) => [n.toLowerC
 // The language of a house's own books, by its MARC country code (for the correction in toExternalTitle).
 const HOUSE_LANGUAGE = { hu: 'Hungarian', xr: 'Czech', cs: 'Czech', pl: 'Polish', bu: 'Bulgarian', rm: 'Romanian', ru: 'Russian', ur: 'Russian' };
 
+const THIS_YEAR = new Date().getFullYear();
+/**
+ * A library record's year of publication: its imprint's, unless that is still to come and the
+ * record's coded date (MARC 008) is not ("June 2027" for a white paper of 2017).
+ */
+function publicationYear(rec) {
+  const year = yearOf(rec.publish_date);
+  const coded = /^\d{4}$/.test(rec.coded_year ?? '') ? Number(rec.coded_year) : undefined;
+  return year > THIS_YEAR && coded && coded <= THIS_YEAR ? coded : year;
+}
+
 function toExternalTitle(rec, rule, verdict) {
   const langs = rec.languageNames
     .map((l) => LANGUAGES[String(l).toLowerCase()] ?? LANGUAGE_BY_NAME.get(String(l).toLowerCase()))
@@ -3721,7 +3732,7 @@ function toExternalTitle(rec, rule, verdict) {
     authors: authors.filter((a) => !translators.includes(a)),
     editors: people(rec.editors ?? [], options, authors),
     translators,
-    year: yearOf(rec.publish_date),
+    year: publicationYear(rec),
     language,
     // Library catalogues may point to their own digitised copy; addFreeAccess keeps it only if open.
     links: rec.catalogued
@@ -4193,6 +4204,8 @@ for (const rule of PUBLISHERS) {
   }
   // Authors outside the scope of the collection (fascists, conservatives, liberals): see lib/not-left.mjs.
   titles.splice(0, titles.length, ...titles.map(screenTitle).filter(Boolean));
+  // A title dated after this year is a publisher's announcement: it is kept, shown as forthcoming.
+  for (const t of titles) if (t.year > THIS_YEAR) t.date_note ??= `Forthcoming (announced for ${t.year})`;
   const verified = titles.filter((t) => t.verified).length;
   summary.push(`| ${rule.id} | ${titles.length} | ${verified} |`);
   if (WRITE && titles.length) {

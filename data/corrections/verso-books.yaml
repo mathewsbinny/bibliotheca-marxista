@@ -1,0 +1,6 @@
+# Corrections to verso-books's titles, applied over data/catalogues/ (see src/lib/schemas.ts, "correction").
+publisher: verso-books
+corrections:
+  - id: feminism-2030
+    note: "Published in 2021; the swisscovery record's 2030 is an error."
+    set: { year: 2021 }

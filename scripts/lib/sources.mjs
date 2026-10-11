@@ -347,7 +347,7 @@ export async function dnbRecords(term, index = 'vlg', year) {
       ...withPeople(marc21People(f), (translated) => marc21Original(f, translated)),
       publishers: sf(f, imprint, 'b').map(expandImprint),
       publish_places: sf(f, imprint, 'a').map(trimPunct),
-      publish_date: sf(f, imprint, 'c')[0] ?? f008.slice(7, 11),
+      publish_date: sf(f, imprint, 'c')[0] ?? f008.slice(7, 11), coded_year: f008.slice(7, 11),
       languageNames: sf(f, '041', 'a').length ? sf(f, '041', 'a') : [f008.slice(35, 38)].filter((c) => /^[a-z]{3}$/.test(c)),
     };
   }).filter((r) => r.title);
@@ -379,7 +379,7 @@ export async function locRecords(term, maxPages = 10, year) {
       ...withPeople(marc21People(f), (translated) => marc21Original(f, translated)),
       publishers: sf(f, imprint, 'b').map(expandImprint),
       publish_places: sf(f, imprint, 'a').map(trimPunct),
-      publish_date: sf(f, imprint, 'c')[0] ?? f008.slice(7, 11),
+      publish_date: sf(f, imprint, 'c')[0] ?? f008.slice(7, 11), coded_year: f008.slice(7, 11),
       languageNames: sf(f, '041', 'a').length ? sf(f, '041', 'a') : [f008.slice(35, 38)].filter((c) => /^[a-z]{3}$/.test(c)),
     };
   }).filter((r) => r.title && r.publishers.length);
@@ -608,7 +608,7 @@ export async function swissRecords(term, index = 'alma.publisher') {
       ...withPeople(marc21People(f), (translated) => marc21Original(f, translated)),
       publishers: sf(f, imprint, 'b').map(expandImprint),
       publish_places: sf(f, imprint, 'a').map(trimPunct),
-      publish_date: sf(f, imprint, 'c')[0] ?? f008.slice(7, 11),
+      publish_date: sf(f, imprint, 'c')[0] ?? f008.slice(7, 11), coded_year: f008.slice(7, 11),
       languageNames: sf(f, '041', 'a').length ? sf(f, '041', 'a') : [f008.slice(35, 38)].filter((c) => /^[a-z]{3}$/.test(c)),
     };
   }).filter((r) => r.title && r.publishers.length);
@@ -627,7 +627,7 @@ function marc21Record(xml, source, key, url) {
     ...withPeople(marc21People(f), (translated) => marc21Original(f, translated)),
     publishers: sf(f, imprint, 'b').map(expandImprint),
     publish_places: sf(f, imprint, 'a').map(trimPunct),
-    publish_date: sf(f, imprint, 'c')[0] ?? f008.slice(7, 11),
+    publish_date: sf(f, imprint, 'c')[0] ?? f008.slice(7, 11), coded_year: f008.slice(7, 11),
     languageNames: sf(f, '041', 'a').length ? sf(f, '041', 'a') : [f008.slice(35, 38)].filter((c) => /^[a-z]{3}$/.test(c)),
   };
 }

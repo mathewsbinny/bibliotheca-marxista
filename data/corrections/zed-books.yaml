@@ -1,0 +1,6 @@
+# Corrections to zed-books's titles, applied over data/catalogues/ (see src/lib/schemas.ts, "correction").
+publisher: zed-books
+corrections:
+  - id: the-global-food-economy-2027
+    note: "Second edition, 2021 (Open Library, ISBN 9781786992420); the K10plus record was made from the publisher's announcement."
+    set: { year: 2021 }

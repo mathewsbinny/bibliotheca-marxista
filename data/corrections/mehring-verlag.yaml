@@ -1,0 +1,6 @@
+# Corrections to mehring-verlag's titles, applied over data/catalogues/ (see src/lib/schemas.ts, "correction").
+publisher: mehring-verlag
+corrections:
+  - id: die-internationale-vor-stalin-2027
+    note: "Not yet published: the German National Library lists it as announced by the publisher for March 2027."
+    set: { date_note: "Forthcoming (announced for March 2027)" }
