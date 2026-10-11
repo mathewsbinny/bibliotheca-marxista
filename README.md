@@ -1,6 +1,12 @@
 # Bibliotheca Marxista
 
-An open catalogue of the backlists of Leftist and Marxist publishing houses, defunct and active, from around the world: about 900,000 titles from 600 houses, with author pages, the communist internationals and the movements, and a globe placing every house by country and Cold War alignment.
+An open catalogue of the backlists of Leftist and Marxist publishing houses, defunct and active, from around the world: about 900,000 titles from 600 houses. It also has:
+- author pages, the communist internationals and the movements;
+- a globe placing every house by country and Cold War alignment;
+- a search with facet counts and suggestions;
+- each title's other editions, grouped as works;
+- citations, statistics and timelines;
+- links to the authors' and houses' records in Wikidata, VIAF and the national libraries.
 
 ## Quick start
 
@@ -18,12 +24,15 @@ Open <http://localhost:4321>. To work on the site's code, run `npm run dev` inst
 | Command | What it does |
 |---|---|
 | `npm run build` | Builds the pages, then updates the catalogue database: only publishers whose titles changed are rewritten |
-| `npm run build:db -- --full` | Rebuilds the database from scratch (~2 min) |
+| `npm run build:db -- --full` | Rebuilds the database from scratch (~5 min) |
 | `npm run api` | Serves the catalogue API from `db/catalogue.sqlite` |
 | `npm run preview` / `npm run dev` | Serves the built site / the live development site |
-| `npm test` | Runs the tests: the database build, the API over HTTP, the importer's matching rules and screening, the site's filters, and the integrity of the data |
+| `npm test` | Runs the tests (also run on GitHub on every push). They cover the database build, the API over HTTP, titles' pages and citations, the works, the review of error reports, the importer's matching rules and screening, the site's filters, and the integrity of the data. |
 | `npm run import -- --write` | Imports titles from Open Library and the library catalogues (hours on a first run; see below) |
 | `npm run verify-authors -- --write` | Checks the authors' bibliographies against Open Library |
+| `node scripts/find-author-variants.mjs --write` | Adds authors' spellings in every script, and their identifiers, from Wikidata |
+| `node scripts/link-publishers.mjs --write` | Adds the houses' identifiers from Wikidata |
+| `npm run review-reports` | Turns readers' plain error reports into corrections (see [Readers' error reports](#readers-error-reports)) |
 
 ## How it works
 
@@ -39,14 +48,21 @@ data/*.yaml ──► astro build ──► dist/                  static pages:
 
 browser ──► static pages (dist/)
         └─► /api/* ──► server/server.mjs ──► db/catalogue.sqlite
-              search, large tables page by page, title records, downloads
+              search, facets, suggestions, large tables page by page,
+              titles' pages, citations, error reports, downloads
 ```
 
-**The data is plain YAML** in `data/`, the single source of truth. Each publishing house has a file in `data/publishers/`, and its titles are in `data/catalogues/<house>/`. Some are entered by hand, but most are imported, into `openlibrary.yaml`, which each import rewrites. Authors, movements and the internationals each have a folder too. Everything is checked against the schemas in `src/content.config.ts` and `src/lib/schemas.ts` at build time.
+**The data is plain YAML** in `data/`, the single source of truth. Each publishing house has a file in `data/publishers/`, and its titles are in `data/catalogues/<house>/`. Some are entered by hand, but most are imported, into `openlibrary.yaml`, which each import rewrites; corrections to them are kept apart, in `data/corrections/`, so that they outlast imports. Authors, movements and the internationals each have a folder too. Everything is checked against the schemas in `src/content.config.ts` and `src/lib/schemas.ts` at build time.
 
 **The importer** (`scripts/import-openlibrary.mjs`) gathers editions from Open Library and some twenty library catalogues. It gives each record to a house by matching rules (imprint name, place and years) and writes the catalogue files. See [Importing](#importing).
 
-**The site** is built by [Astro](https://astro.build) into static pages: the home page and globe, the publisher, author, movement and international pages, and the plain lists of each house's titles for readers without JavaScript. The build also exports every title as JSON for the database.
+**The site** is built by [Astro](https://astro.build) into static pages:
+- the home page and globe;
+- the publisher, author, movement and international pages, each house's and author's with a timeline of their titles by year;
+- the Statistics page;
+- the plain lists of each house's titles, for readers without JavaScript.
+
+The build also exports every title as JSON for the database.
 
 **The catalogue database** (`scripts/build-db.mjs`) is a SQLite file built from those exports, with full-text search that ignores accents. It also holds:
 - the search suggestions (authors, publishers and series);
@@ -63,12 +79,16 @@ The build is incremental: it keeps a fingerprint of each publisher's titles, so 
 | `GET /api/facets?<the same filters>` | How the titles found divide by language, country, publisher and decade. Counted on a worker thread, a few searches at a time; busy, it answers 503. |
 | `GET /api/suggest?q=` | Authors, publishers and series with a word of their name starting so |
 | `GET /api/title?p=<publisher>&t=<title id>` | One title's full record |
+| `GET /api/cite?p=&t=&format=bibtex\|ris` | A title's citation, as a file for citation managers |
+| `POST /api/report` | A reader's report of an error in a title (see [Readers' error reports](#readers-error-reports)) |
 | `GET /api/export[?pub=<publisher>]` | The whole catalogue, or one house's backlist, as a JSON download, generated as it streams |
 | `GET /api/health` | The number of titles and when the database was built |
-| `GET /book/<publisher>/<title>` | A title's page as HTML, for readers and search engines |
+| `GET /book/<publisher>/<title>` | A title's page as HTML, for readers and search engines. It shows the record, the work's other editions, the citations and the error form, and carries schema.org data and Google Scholar tags. |
 | `GET /sitemap-books-<n>.xml` | Sitemaps of every title's page, 50,000 to each |
 
-**In the browser**, pages show their first titles straight from the HTML. The Titles page's search and the large tables (any table of more than 300 titles: a big house's backlist, a prolific author's editions) fetch from the API, a page at a time. Each title's page is rendered by the API as plain HTML, so that search engines can index it. Smaller tables filter and sort in the page without it.
+**In the browser**, pages show their first titles straight from the HTML.
+- **The Titles page's search** fetches from the API, with facet counts to narrow it and suggestions of authors, publishers and series as the reader types.
+- **The large tables** (any table of more than 300 titles: a big house's backlist, a prolific author's editions) fetch from the API too, a page at a time. Each title's page is rendered by the API as plain HTML, so that search engines can index it. Smaller tables filter and sort in the page without it.
 
 ## Project structure
 
@@ -84,13 +104,14 @@ data/
 
 src/
   content.config.ts             schemas of publishers, authors, movements and internationals
-  lib/schemas.ts                schema of the catalogue files (read directly, not by Astro's content layer)
+  lib/schemas.ts                schemas of the catalogue and correction files, and of identifiers
   lib/catalogue.ts              loading the data: title ids and links, author matching, dates, copyright
   lib/corrections.ts            applying data/corrections/ to the titles
+  lib/name-key.mjs              how names are compared (shared with the scripts)
   lib/globe.ts, globe-places.ts countries, regions and pins of the globe; where each house is placed
   lib/api.ts                    the browser's side of the catalogue API
   lib/filters.ts, rows-shared.ts  table filters, sorting and the compact row format
-  components/                   CatalogueTable (paged and in-page tables), Globe, WorksTable, …
+  components/                   CatalogueTable (paged and in-page tables), Globe, Timeline, BarTable, …
   pages/                        the site's pages; pages/data/ holds the build's exports
   data/                         map overlays: divided Germany, the 1947 partition of Palestine
 
@@ -101,6 +122,7 @@ scripts/
   lib/not-left.mjs              screening: fascist, conservative and liberal authors kept out
   lib/free-access.mjs           free copies: Internet Archive, HathiTrust, Gutenberg, NDL, Gallica
   lib/publisher-names.mjs       normalising publisher names
+  lib/wikidata.mjs              Wikidata: a house's item, and the identifiers the site links to
   build-db.mjs                  the catalogue database
   verify-authors.mjs            checks authors' bibliographies; find-author-*.mjs find name spellings
                                 (find-author-variants.mjs: in every script, from Wikidata, with the authors' identifiers)
@@ -141,6 +163,8 @@ status: defunct          # or: active
 estimated: [dissolved]   # optional: years inferred from the catalogue, shown as "c. 1948"
 region: …                # optional: a region with its own pin (a Soviet or Yugoslav republic, Puerto Rico; see REGIONS in src/lib/globe.ts)
 successor: some-id       # optional links to other publisher files
+identifiers:             # optional; filled in by scripts/link-publishers.mjs
+  wikidata: "Q…"         # also viaf, lcnaf, gnd, isni, bnf
 description: >
   A short history.
 sources:
@@ -178,7 +202,7 @@ corrections:
 
 The build warns of a correction whose title an import has renamed or dropped.
 
-**An author**: `data/authors/<id>.yaml` holds a biography and a first-edition bibliography (`works`). Each work names its publisher as printed, and optionally `publisher_id` when that house is in the catalogue. An author's page also lists every catalogued edition credited to them under any of their `alternate_names`, as author, editor or translator.
+**An author**: `data/authors/<id>.yaml` holds a biography and a first-edition bibliography (`works`). Each work names its publisher as printed, and optionally `publisher_id` when that house is in the catalogue. An author's page also lists every catalogued edition credited to them under any of their `alternate_names`, as author, editor or translator. `scripts/find-author-variants.mjs` adds the spellings the catalogue credits in other scripts and romanisations, and the author's `identifiers`, from Wikidata. It adds a spelling only when one author alone claims it, and leaves out initials that could be anyone's.
 
 ## Importing
 
@@ -195,6 +219,7 @@ npm run build                  # then rebuild the site and update the database
 - **Matching.** A record is given to a house by its imprint's name **and** its place (or MARC country code), within the house's years. This is what separates, say, the Moscow, Hanoi, Pyongyang and Beijing foreign-languages presses. The rules are `PUBLISHERS` in `scripts/import-openlibrary.mjs`, plus the table in `scripts/lib/marxist-houses.mjs`. Romanisations are matched in their variant forms: Library of Congress, ISO 9, DIN 1460 and pinyin.
 - **Verified titles.** A title is `verified: true` only if a library catalogue record of it names the house and a matching place.
 - **Screening.** Authors in `scripts/lib/not-left.mjs` are kept out. For authors who moved right, only their works from their left years are kept (`LEFT_UNTIL`).
+- **Dates.** When a library record's imprint gives a year still to come but its coded date (MARC 008) does not, the coded date is used. A title announced by its publisher for a later year is kept, and shown as forthcoming.
 - **Review.** Rejected and unresolved records are listed in `reports/import-review.md`.
 - **People.** Library records give each person a role: authors, translators and editors are kept apart, and the original title of a translation is read (MARC 240, 765 and 500; UNIMARC 454 and 500). An import run from the cache alone may miss records whose responses were not cached; then `node scripts/merge-people.mjs --write` carries only those fields into the committed files.
 - **Run time and memory.** A full run reads about a million records. Run it with `node --max-old-space-size=10240 scripts/import-openlibrary.mjs --write`. Later runs read the catalogues from the cache and take about 1–2 hours.
@@ -203,8 +228,8 @@ npm run build                  # then rebuild the site and update the database
 
 The whole site runs on one small server (any host with Docker, such as a €5/month VPS), behind a CDN such as Cloudflare:
 
-- **Caddy** serves the static pages in `dist/` (about 8,000 files, 300 MB). It passes `/api/*`, each title's page (`/book/<publisher>/<title>`) and the titles' sitemaps (`/sitemap-books-<n>.xml`) to the API.
-- **The catalogue API** (`server/`) serves those from its database `db/catalogue.sqlite` (about 1.5 GB).
+- **Caddy** serves the static pages in `dist/` (about 8,200 files, 320 MB). It passes `/api/*`, each title's page (`/book/<publisher>/<title>`) and the titles' sitemaps (`/sitemap-books-<n>.xml`) to the API.
+- **The catalogue API** (`server/`) serves those from its database `db/catalogue.sqlite` (about 1.7 GB).
 
 The titles' pages are on the site's own address so that search engines credit them to it. The sitemap index, `/sitemap.xml`, lists the site's pages and every title.
 
@@ -241,6 +266,7 @@ rsync db/catalogue.sqlite server:/srv/bibliotheca/db/catalogue.sqlite
 The API:
 - limits each address's rate of requests;
 - serves at most two downloads at once;
+- counts facets on a worker thread, a few searches at a time;
 - marks searches cacheable for an hour and titles' pages for a day, so the CDN absorbs repeated requests.
 
 ## Readers' error reports
@@ -251,6 +277,8 @@ Every title's page has a "Report an error" form. Reports are stored on the serve
 - **Manual:** any other report is left for a maintainer, with the reason. That covers anything unsure, vague or long, a correction that shares no word with the record, a link to another site, and every report about the publisher or the scope.
 
 The rules are in `scripts/lib/report-review.mjs`. Corrections are reviewed before they are merged, since reports are anonymous.
+
+The pull request quotes what readers wrote, with email addresses and telephone numbers taken out, and the form tells readers their words may be published.
 
 **Automatically:** the "Review readers' reports" workflow runs every Monday, and can also be started by hand. It fetches the open reports over SSH, opens a pull request with the corrections and the reports' text, and records each report's outcome on the server. It needs the secrets listed at the top of `.github/workflows/review-reports.yml`, and a key limited to `server/reports-ssh.sh`. That user runs `docker exec`, which amounts to root on the server, so keep the key to that one command.
 
@@ -311,6 +339,8 @@ The site's pages are static files, and its only server is the catalogue API, whi
   - Each client address may make a burst of 120 requests, then 2 a second; a download costs 30.
   - At most two downloads stream at once, and whole-catalogue downloads (about 600 MB each) are capped at `EXPORT_HOURLY_LIMIT` an hour across all clients.
   - Recent answers are cached in memory, so a repeated expensive query does not reach the database.
+  - Facet counts, which take seconds over a broad search, run on their own thread, a few at a time. Beyond that the API answers 503, so a stream of them cannot hold up other requests.
+  - Readers' error reports are capped at 5 an hour from an address and 500 a day in all, and a hidden field turns away bots.
 - **Forged addresses.** Behind Caddy, the API takes the client's address from `X-Real-IP`. Caddy sets that header itself, replacing whatever a client sends, so it can't be faked to escape the limits; `X-Forwarded-For` is never trusted. With Cloudflare in front, set `trusted_proxies` as in `server/Caddyfile.example`, or every visitor would share Cloudflare's addresses.
 - **Least privilege.** The container runs as an unprivileged user, on a read-only filesystem, with no Linux capabilities and with limits on memory, CPU and processes.
 
@@ -322,10 +352,10 @@ The site's pages are static files, and its only server is the catalogue API, whi
    - turn on automatic security updates (`unattended-upgrades`);
    - bind the API to `127.0.0.1`, as above, so that it is reached only through Caddy.
 2. Put Cloudflare, or another CDN, in front of the API as well as the site. It absorbs floods, and caches API answers (they are marked cacheable for an hour).
-3. When the repository is on GitHub, turn on:
+3. On GitHub, where the tests already run on every push (`.github/workflows/ci.yml`, with its actions pinned to commits), turn on:
    - Dependabot alerts and secret scanning;
-   - branch protection on `main`;
-   - a workflow running `npm test` and `npm audit` on each change.
+   - branch protection on `main`, requiring the CI check;
+   - for the report-review workflow, "Allow GitHub Actions to create and approve pull requests", and its secrets.
 4. Check `npm audit` before each deployment.
 5. Review contributed data like code. The schema rejects unsafe links, but not wrong or misleading ones.
 6. If Caddy's access logs are turned on, they hold visitors' addresses: keep them briefly, and say so in a privacy note.
