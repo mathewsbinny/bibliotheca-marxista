@@ -73,11 +73,13 @@ data/
   movements/<id>.yaml           a party or liberation movement and its works
   internationals/<id>.yaml      a communist international, its presses and works
   series/<id>.yaml              a publisher's series (e.g. International Publishers' New World Paperbacks)
+  corrections/<id>.yaml         corrections to a house's titles, kept apart from the imported files
 
 src/
   content.config.ts             schemas of publishers, authors, movements and internationals
   lib/schemas.ts                schema of the catalogue files (read directly, not by Astro's content layer)
   lib/catalogue.ts              loading the data: title ids and links, author matching, dates, copyright
+  lib/corrections.ts            applying data/corrections/ to the titles
   lib/globe.ts, globe-places.ts countries, regions and pins of the globe; where each house is placed
   lib/api.ts                    the browser's side of the catalogue API
   lib/filters.ts, rows-shared.ts  table filters, sorting and the compact row format
@@ -96,13 +98,18 @@ scripts/
   verify-authors.mjs            checks authors' bibliographies; find-author-*.mjs find name spellings
   check-publisher-years.mjs     fills in houses' years of activity from Wikidata or the catalogue
   import-internationals.mjs     the internationals' works
+  review-reports.mjs            turns readers' plain error reports into corrections (rules: lib/report-review.mjs)
 
 server/
   server.mjs                    the catalogue API
   query.mjs                     building and checking its search queries
+  book.mjs, cite.mjs            titles' pages and their citations
+  reports.mjs, reports-cli.mjs  readers' error reports, and the maintainers' tool for them
+  reports-ssh.sh                the one command the report-review workflow may run on the server
   Dockerfile, Caddyfile.example deployment
 
 test/                           tests (npm test): database, API, importer rules, site logic, data integrity
+.github/workflows/              CI (the tests, on every push) and the weekly review of readers' reports
 .cache/                         downloaded records (kept between runs; not in the repository)
 db/                             the catalogue database (built; not in the repository)
 reports/                        logs and review reports of imports and checks
@@ -143,7 +150,21 @@ titles:
     verified: true         # only once checked against a source
 ```
 
-A title's page is `/title/?p=<publisher>&t=<id>`, where the id comes from its title and year (`the-road-to-wigan-pier-1937`). Set an explicit `id` if a title's link must stay the same after its title or year is corrected.
+A title's page is `/book/<publisher>/<id>`, where the id comes from its title and year (`the-road-to-wigan-pier-1937`). Set an explicit `id` if a title's link must stay the same after its title or year is corrected.
+
+**A correction** to a title, imported or not: `data/corrections/<publisher>.yaml`. The title is named by its id, which stays its address whatever the correction changes, and the correction outlasts re-imports.
+
+```yaml
+publisher: progress-publishers
+corrections:
+  - id: the-state-and-revolution-1970
+    note: Year from the colophon
+    set: { year: 1971, translators: [Clemens Dutt] }   # any of the title's fields
+  - id: the-state-and-revolution-1970-2
+    remove: true                                      # a duplicate
+```
+
+The build warns of a correction whose title an import has renamed or dropped.
 
 **An author**: `data/authors/<id>.yaml` holds a biography and a first-edition bibliography (`works`). Each work names its publisher as printed, and optionally `publisher_id` when that house is in the catalogue. An author's page also lists every catalogued edition credited to them under any of their `alternate_names`, as author, editor or translator.
 
@@ -208,6 +229,26 @@ The API:
 - limits each address's rate of requests;
 - serves at most two downloads at once;
 - marks searches cacheable for an hour and titles' pages for a day, so the CDN absorbs repeated requests.
+
+## Readers' error reports
+
+Every title's page has a "Report an error" form. Reports are stored on the server (`var/reports.sqlite`, apart from the catalogue) and reviewed by `scripts/review-reports.mjs`:
+
+- **Corrected:** a report whose correction is plain becomes a correction in `data/corrections/`. Examples are a single year, a quoted title or author, one language, a named broken link, or a duplicate's address.
+- **Manual:** any other report is left for a maintainer, with the reason. That covers anything unsure, vague or long, a correction that shares no word with the record, a link to another site, and every report about the publisher or the scope.
+
+The rules are in `scripts/lib/report-review.mjs`. Corrections are reviewed before they are merged, since reports are anonymous.
+
+**Automatically:** the "Review readers' reports" workflow runs every Monday, and can also be started by hand. It fetches the open reports over SSH, opens a pull request with the corrections and the reports' text, and records each report's outcome on the server. It needs the secrets listed at the top of `.github/workflows/review-reports.yml`, and a key limited to `server/reports-ssh.sh`. That user runs `docker exec`, which amounts to root on the server, so keep the key to that one command.
+
+**By hand:**
+
+```sh
+docker exec bibliotheca-api node server/reports-cli.mjs export > open.json
+npm run review-reports -- --from=open.json --decisions=decisions.json   # writes data/corrections/, reports/report-review.md
+docker exec -i bibliotheca-api node server/reports-cli.mjs import < decisions.json
+docker exec bibliotheca-api node server/reports-cli.mjs                 # the reports left for manual review
+```
 
 ## Licence
 

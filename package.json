@@ -12,6 +12,7 @@
     "check": "astro sync && npm run build",
     "import": "node scripts/import-openlibrary.mjs",
     "verify-authors": "node scripts/verify-authors.mjs",
+    "review-reports": "node scripts/review-reports.mjs",
     "build:db": "node scripts/build-db.mjs",
     "api": "node server/server.mjs",
     "test": "node --experimental-strip-types --no-warnings --test test/*.test.mjs"

@@ -1,0 +1,89 @@
+# Readers' error reports, reviewed once a week (and on demand). The open reports are fetched from
+# the server, scripts/review-reports.mjs writes the plain corrections to data/corrections/ and
+# leaves the rest for manual review, the corrections arrive here as a pull request to be checked
+# before merging, and the server is told which reports were corrected and which need a maintainer.
+#
+# Needs these repository secrets (Settings → Secrets and variables → Actions); without them the
+# workflow does nothing:
+#   REPORTS_SSH_HOST         the API's host, e.g. bibliotheca-marxista.org
+#   REPORTS_SSH_USER         a user on it, whose key is limited to server/reports-ssh.sh (see that file)
+#   REPORTS_SSH_KEY          that user's private key
+#   REPORTS_SSH_KNOWN_HOSTS  the host's line from `ssh-keyscan <host>`
+# and "Allow GitHub Actions to create and approve pull requests" (Settings → Actions → General).
+name: Review readers' reports
+
+on:
+  schedule:
+    - cron: '17 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: review-reports
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      HAS_SERVER: ${{ secrets.REPORTS_SSH_HOST != '' }}
+    steps:
+      - name: Skip without a server
+        if: env.HAS_SERVER != 'true'
+        run: echo "No REPORTS_SSH_HOST secret; nothing to review." >> "$GITHUB_STEP_SUMMARY"
+
+      - uses: actions/checkout@v4
+        if: env.HAS_SERVER == 'true'
+      - uses: actions/setup-node@v4
+        if: env.HAS_SERVER == 'true'
+        with:
+          node-version: 22
+          cache: npm
+      - if: env.HAS_SERVER == 'true'
+        run: npm ci
+
+      - name: Fetch the open reports
+        if: env.HAS_SERVER == 'true'
+        env:
+          SSH_KEY: ${{ secrets.REPORTS_SSH_KEY }}
+          KNOWN_HOSTS: ${{ secrets.REPORTS_SSH_KNOWN_HOSTS }}
+          TARGET: ${{ secrets.REPORTS_SSH_USER }}@${{ secrets.REPORTS_SSH_HOST }}
+        run: |
+          install -m 700 -d ~/.ssh
+          printf '%s\n' "$SSH_KEY" > ~/.ssh/id_reports && chmod 600 ~/.ssh/id_reports
+          printf '%s\n' "$KNOWN_HOSTS" > ~/.ssh/known_hosts
+          ssh -i ~/.ssh/id_reports -o BatchMode=yes "$TARGET" export > "$RUNNER_TEMP/open.json"
+
+      - name: Review them
+        if: env.HAS_SERVER == 'true'
+        run: |
+          node scripts/review-reports.mjs --from="$RUNNER_TEMP/open.json" \
+            --decisions="$RUNNER_TEMP/decisions.json" --summary="$RUNNER_TEMP/summary.md"
+          cat "$RUNNER_TEMP/summary.md" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Propose the corrections
+        if: env.HAS_SERVER == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -z "$(git status --porcelain data/corrections)" ]; then echo "No corrections."; exit 0; fi
+          branch="reports/$(date -u +%Y-%m-%d)-${GITHUB_RUN_ID}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c "$branch"
+          git add data/corrections
+          git commit -m "Correct titles from readers' reports"
+          git push origin "$branch"
+          # A pull request's description holds at most 65,536 characters.
+          head -c 60000 "$RUNNER_TEMP/summary.md" > "$RUNNER_TEMP/body.md"
+          gh pr create --head "$branch" --title "Corrections from readers' reports ($(date -u +%Y-%m-%d))" \
+            --body-file "$RUNNER_TEMP/body.md"
+
+      - name: Record the decisions on the server
+        if: env.HAS_SERVER == 'true'
+        env:
+          TARGET: ${{ secrets.REPORTS_SSH_USER }}@${{ secrets.REPORTS_SSH_HOST }}
+        run: ssh -i ~/.ssh/id_reports -o BatchMode=yes "$TARGET" import < "$RUNNER_TEMP/decisions.json"

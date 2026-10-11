@@ -21,7 +21,7 @@ const searchLink = (text) => link(`/titles?q=${encodeURIComponent(text)}`, text)
 const isWeb = (url) => /^https?:\/\//i.test(String(url ?? ''));
 
 // The languages' codes (BCP 47), so that a screen reader reads a title in its own language.
-const LANG_CODES = {
+export const LANG_CODES = {
   Russian: 'ru', German: 'de', French: 'fr', Spanish: 'es', Italian: 'it', Portuguese: 'pt', Chinese: 'zh', Japanese: 'ja',
   Korean: 'ko', Vietnamese: 'vi', Polish: 'pl', Czech: 'cs', Slovak: 'sk', Hungarian: 'hu', Bulgarian: 'bg', Romanian: 'ro',
   Serbian: 'sr', Croatian: 'hr', 'Serbo-Croatian': 'sh', Slovenian: 'sl', Macedonian: 'mk', Albanian: 'sq', Greek: 'el',

@@ -50,3 +50,44 @@ export const catalogueFile = z.object({
 });
 
 export type RawTitle = z.infer<typeof title>;
+
+/**
+ * Corrections to titles, kept apart from the catalogue files (which an import rewrites):
+ * data/corrections/<publisher>.yaml. Each names a title by its id, which stays its address however
+ * its title or year change, and either replaces some of its fields or removes it (a duplicate).
+ * Written by scripts/review-reports.mjs from readers' reports, or by hand.
+ */
+export const correction = z.object({
+  id: z.string(),
+  /** The reader's report it answers (server/reports.mjs). */
+  report: z.number().int().optional(),
+  note: z.string().optional(),
+  // Spelled out rather than title.partial(): that would bring the defaults with it, and an empty
+  // correction would clear a title's authors and links.
+  set: z.object({
+    title: z.string(),
+    subtitle: z.string(),
+    original_title: z.string(),
+    authors: z.array(z.string()),
+    editors: z.array(z.string()),
+    translators: z.array(z.string()),
+    year: z.number().int(),
+    date_note: z.string(),
+    edition: z.string(),
+    series: z.string(),
+    language: z.string(),
+    pages: z.number().int(),
+    isbn: z.string(),
+    notes: z.string(),
+    links: z.array(link),
+    sources: z.array(source),
+  }).partial().strict().optional(),
+  remove: z.boolean().optional(),
+});
+
+export const correctionsFile = z.object({
+  publisher: z.string(),
+  corrections: z.array(correction),
+});
+
+export type Correction = z.infer<typeof correction>;

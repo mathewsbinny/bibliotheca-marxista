@@ -1,10 +1,11 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
-import { readdirSync, readFileSync } from 'node:fs';
+import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import { join, relative } from 'node:path';
 import * as yaml from 'js-yaml';
+import { applyCorrections, type TitleCorrection } from './corrections';
 import { titleHref } from './shard';
 import type { AuthorLink } from './rows-shared';
-import { catalogueFile, type RawTitle } from './schemas';
+import { catalogueFile, correctionsFile, type RawTitle } from './schemas';
 
 export type Publisher = CollectionEntry<'publishers'>;
 export type Author = CollectionEntry<'authors'>;
@@ -42,6 +43,21 @@ function catalogueFiles(): string[] {
     .sort();
 }
 
+/** The corrections to titles (data/corrections/<publisher>.yaml), by publisher. */
+function readCorrections(publisherIds: Set<string>): Map<string, TitleCorrection[]> {
+  const root = join(process.cwd(), 'data', 'corrections');
+  const map = new Map<string, TitleCorrection[]>();
+  if (!existsSync(root)) return map;
+  for (const f of readdirSync(root).filter((f) => /\.ya?ml$/.test(f)).sort()) {
+    const parsed = correctionsFile.safeParse(yaml.load(readFileSync(join(root, f), 'utf8')));
+    if (!parsed.success) throw new Error(`Invalid corrections file data/corrections/${f}: ${parsed.error.message}`);
+    const { publisher, corrections } = parsed.data;
+    if (!publisherIds.has(publisher)) throw new Error(`Corrections file data/corrections/${f} names an unknown publisher "${publisher}"`);
+    map.set(publisher, [...(map.get(publisher) ?? []), ...corrections]);
+  }
+  return map;
+}
+
 let titlesCache: Title[] | undefined;
 
 /** Every title across all catalogue files, with stable per-publisher ids. */
@@ -73,7 +89,12 @@ export async function getTitles(): Promise<Title[]> {
     }
   }
 
-  titlesCache = titles.sort(
+  const { titles: corrected, orphans } = applyCorrections(titles, readCorrections(publisherIds));
+  if (orphans.length) {
+    console.warn(`[corrections] ${orphans.length} correction(s) name no title, perhaps renamed by an import: ${orphans.join(', ')}`);
+  }
+
+  titlesCache = corrected.sort(
     (a, b) => (a.year ?? 9999) - (b.year ?? 9999) || a.title.localeCompare(b.title),
   );
   return titlesCache;
