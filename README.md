@@ -195,3 +195,26 @@ rsync db/catalogue.sqlite api-host:/srv/bibliotheca/db/catalogue.sqlite
 ```
 
 `rsync` sends only the parts of the database that changed and moves the new file into place in one step; the API opens it within a minute. The API limits each address's rate of requests, serves at most two downloads at once, and marks responses cacheable for an hour, so a CDN in front of it absorbs repeated searches.
+
+## Licence
+
+Bibliotheca Marxista is free to use, copy and build on, under three licences:
+
+| Part | Licence | File |
+|---|---|---|
+| The code: `src/`, `scripts/`, `server/`, `test/` | [GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0.html) or later | [`LICENSE`](LICENSE) |
+| The catalogue's data: `data/`, the database and the downloads | [Open Database License (ODbL) 1.0](https://opendatacommons.org/licenses/odbl/1-0/) | [`LICENSE-DATA.txt`](LICENSE-DATA.txt) |
+| The texts: the histories of the houses, the authors' biographies and the site's pages | [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [`LICENSE-TEXT.txt`](LICENSE-TEXT.txt) |
+
+In short:
+- **The data:** reuse it with credit to Bibliotheca Marxista, and share a database made from it under the ODbL.
+- **The texts:** reuse them with credit, and share adaptations alike.
+- **The code:** a modified version run as a public site must publish its source.
+
+The downloads carry these terms in their `license` field.
+
+**Sources.** The catalogue is built from other catalogues' records:
+- **Released into the public domain or under CC0:** Open Library, Wikidata, the Library of Congress, the German National Library, K10plus, B3Kat, the Biblioteca Nacional de España and the National Library of Poland.
+- **Reused under the French government's [Licence Ouverte](https://www.etalab.gouv.fr/licence-ouverte-open-licence/):** records of the Bibliothèque nationale de France and ABES (SUDOC), which asks that they be credited, as the site and the downloads do.
+- **Not yet confirmed:** the terms for bulk reuse of CiNii, the National Diet Library, swisscovery and HathiTrust records (some of HathiTrust's come from OCLC's WorldCat). Check these before publishing.
+- **Scans and texts held elsewhere** (the Internet Archive, HathiTrust, marxists.org, BannedThought.net) are linked, not copied, and remain under their own terms.

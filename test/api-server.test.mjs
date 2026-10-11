@@ -84,6 +84,8 @@ describe('GET /api/export', () => {
     assert.equal(wage.url, `${ORIGIN}/title/?p=international-publishers&t=wage-labour-1933`);
     assert.equal(wage.copyright, undefined, 'copyright notes are for the site only');
     assert.deepEqual(body.authors.map((a) => a.id), ['marx']);
+    assert.match(body.license.data, /ODbL/, 'the file carries its licence');
+    assert.match(body.license.attribution, /Bibliothèque nationale de France/);
   });
 
   test('downloads the whole catalogue, every author included', async () => {

@@ -87,6 +87,13 @@ function title(params, res) {
   json(res, 200, { record: JSON.parse(row.record), publisher });
 }
 
+/** The terms a download is reused under, carried in the file itself. */
+const LICENSE = {
+  data: 'Open Database License (ODbL) 1.0, https://opendatacommons.org/licenses/odbl/1-0/',
+  texts: 'Creative Commons Attribution-ShareAlike 4.0 (descriptions and biographies), https://creativecommons.org/licenses/by-sa/4.0/',
+  attribution: 'Bibliotheca Marxista. Includes records of the Bibliothèque nationale de France and ABES (SUDOC), reused under the Licence Ouverte (Etalab).',
+};
+
 let exporting = 0;
 /**
  * Streams the catalogue, or one publisher's backlist, as one JSON document — { publishers, titles,
@@ -112,7 +119,7 @@ async function exportCatalogue(params, req, res, origin) {
     const write = (s) => (out.write(s) ? undefined : new Promise((r) => out.once('drain', r)));
     const publishers = (pub ? prepare('SELECT record FROM publishers WHERE id = ?').all(pub) : prepare('SELECT record FROM publishers ORDER BY name').all())
       .map((r) => r.record);
-    await write(`{"publishers":[${publishers.join(',')}],"titles":[`);
+    await write(`{"license":${JSON.stringify(LICENSE)},"publishers":[${publishers.join(',')}],"titles":[`);
     const site = origin || [...ORIGINS][0] || '';
     const batch = prepare(`SELECT rowid, publisher_id, href, record FROM titles WHERE rowid > ?${pub ? ' AND publisher_id = ?' : ''} ORDER BY rowid LIMIT 2000`);
     const credited = new Set();
