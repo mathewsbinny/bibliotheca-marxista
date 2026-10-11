@@ -21,6 +21,7 @@ const featured = await Promise.all(
     held in the catalogue across all publishers.
   </p>
 
+  <h2 class="visually-hidden">Major theorists and leaders</h2>
   <ul class="cards">
     {featured.map(({ author, books, verified }) => {
       const a = author.data;

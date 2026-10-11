@@ -20,6 +20,23 @@ const searchLink = (text) => link(`/titles?q=${encodeURIComponent(text)}`, text)
 /** Only web addresses are linked; the schema admits nothing else, but the page does not rely on it. */
 const isWeb = (url) => /^https?:\/\//i.test(String(url ?? ''));
 
+// The languages' codes (BCP 47), so that a screen reader reads a title in its own language.
+const LANG_CODES = {
+  Russian: 'ru', German: 'de', French: 'fr', Spanish: 'es', Italian: 'it', Portuguese: 'pt', Chinese: 'zh', Japanese: 'ja',
+  Korean: 'ko', Vietnamese: 'vi', Polish: 'pl', Czech: 'cs', Slovak: 'sk', Hungarian: 'hu', Bulgarian: 'bg', Romanian: 'ro',
+  Serbian: 'sr', Croatian: 'hr', 'Serbo-Croatian': 'sh', Slovenian: 'sl', Macedonian: 'mk', Albanian: 'sq', Greek: 'el',
+  Turkish: 'tr', Arabic: 'ar', Persian: 'fa', Hebrew: 'he', Yiddish: 'yi', Hindi: 'hi', Bengali: 'bn', Urdu: 'ur', Tamil: 'ta',
+  Malayalam: 'ml', Swedish: 'sv', Norwegian: 'no', Danish: 'da', Finnish: 'fi', Icelandic: 'is', Dutch: 'nl', Ukrainian: 'uk',
+  Belarusian: 'be', Estonian: 'et', Latvian: 'lv', Lithuanian: 'lt', Georgian: 'ka', Armenian: 'hy', Azerbaijani: 'az',
+  Kazakh: 'kk', Uzbek: 'uz', Mongolian: 'mn', Lao: 'lo', Khmer: 'km', Indonesian: 'id', Tagalog: 'tl', Catalan: 'ca', Basque: 'eu',
+  Latin: 'la', Esperanto: 'eo', Amharic: 'am', Swahili: 'sw',
+};
+/** A lang attribute for a title in a language other than English ("Russian, English": its first). */
+const langAttr = (language) => {
+  const code = LANG_CODES[String(language ?? '').split(', ')[0]];
+  return code ? ` lang="${code}"` : '';
+};
+
 /** The record as the page's body: as src/pages/title.astro rendered it in the browser before. */
 export function bookBody(r, publisherId, publisher) {
   const imprint = `${publisher.place}: ${publisher.name}, ${r.date}`;
@@ -48,8 +65,8 @@ export function bookBody(r, publisherId, publisher) {
   if (r.sources?.length) rows.push(['Sources', r.sources.map((s) => (isWeb(s.url) ? link(s.url, s.title) : escapeHtml(s.title))).join('; ')]);
 
   return `<p class="eyebrow">${link(`/publishers/${publisherId}`, publisher.name)} · ${escapeHtml(r.date)}</p>
-    <h1>${escapeHtml(r.title)}</h1>
-    ${r.subtitle ? `<p class="lede">${escapeHtml(r.subtitle)}</p>` : ''}
+    <h1${langAttr(r.language)}>${escapeHtml(r.title)}</h1>
+    ${r.subtitle ? `<p class="lede"${langAttr(r.language)}>${escapeHtml(r.subtitle)}</p>` : ''}
     <p>${r.verified ? '<span class="badge verified">verified</span>' : '<span class="badge">unverified</span>'}</p>
     <dl class="record">${rows.map(([term, value]) => `<dt>${escapeHtml(term)}</dt><dd>${value}</dd>`).join('')}</dl>
     ${citeSection(r, publisherId, publisher)}

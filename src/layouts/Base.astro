@@ -70,6 +70,7 @@ const nav = [
     <title>{fullTitle}</title>
   </head>
   <body>
+    <a class="skip-link" href="#content">Skip to content</a>
     <header class="site-header">
       <div class="wrap">
         <a href="/" class="wordmark">Bibliotheca <span>Marxista</span> <span class="wordmark-mark" aria-hidden="true">☭</span></a>
@@ -82,7 +83,7 @@ const nav = [
         </nav>
       </div>
     </header>
-    <main class:list={["wrap", { centered }]}>
+    <main id="content" tabindex="-1" class:list={["wrap", { centered }]}>
       <slot />
     </main>
     <footer class="site-footer">
