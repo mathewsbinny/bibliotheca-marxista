@@ -21,9 +21,8 @@ const { languages, publishers = [], countries = [], total, search = false } = As
     <div class="suggest-wrap">
       <label for="search-q">Search title, author, series…</label>
       <input type="search" name="q" id="search-q" autocomplete="off" role="combobox" aria-autocomplete="list"
-        aria-expanded="false" aria-controls="search-suggestions" aria-describedby="search-hint" />
+        aria-expanded="false" aria-controls="search-suggestions" />
       <ul id="search-suggestions" class="suggestions" role="listbox" aria-label="Suggestions" hidden></ul>
-      <span id="search-hint" class="visually-hidden">Suggestions of authors, publishers and series appear as you type; use the arrow keys to choose one.</span>
     </div>
   ) : (
     <label>

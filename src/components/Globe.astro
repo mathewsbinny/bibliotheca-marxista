@@ -86,7 +86,7 @@ const countries = [...names]
 
   <div class="globe-under">
     <button type="button" class="globe-spin" aria-pressed="false">Spin</button>
-    <p class="globe-hint meta">Drag or flick to turn · scroll to zoom · choose a pin</p>
+    <p class="globe-hint meta">Drag or flick to turn · scroll or pinch to zoom · choose a pin</p>
   </div>
 
   <ul class="globe-legend">
@@ -310,11 +310,33 @@ const countries = [...names]
   let drag: { x: number; y: number; rotate: [number, number, number]; moved: boolean; samples: [number, number, number][] } | undefined;
   let justDragged = false;
   const degreesPerPixel = () => 57.3 / projection.scale(); // the globe follows the pointer
+  // Two fingers pinch to zoom (touch screens): the fingers' spread scales the globe, and a drag
+  // in progress gives way to the pinch.
+  const pointers = new Map<number, [number, number]>();
+  let pinch: { distance: number; zoom: number } | undefined;
+  const spread = () => {
+    const [[x1, y1], [x2, y2]] = [...pointers.values()];
+    return Math.hypot(x2 - x1, y2 - y1) || 1;
+  };
   svg.addEventListener('pointerdown', (e) => {
+    pointers.set(e.pointerId, [e.clientX, e.clientY]);
+    if (pointers.size === 2) {
+      drag = undefined;
+      pinch = { distance: spread(), zoom };
+      for (const id of pointers.keys()) svg.setPointerCapture(id);
+      return;
+    }
     halt();
     drag = { x: e.clientX, y: e.clientY, rotate: projection.rotate(), moved: false, samples: [] };
   });
   svg.addEventListener('pointermove', (e) => {
+    if (pointers.has(e.pointerId)) pointers.set(e.pointerId, [e.clientX, e.clientY]);
+    if (pinch && pointers.size >= 2) {
+      zoom = Math.max(MIN_ZOOM, Math.min(MAX_ZOOM, pinch.zoom * (spread() / pinch.distance)));
+      projection.scale(radius * zoom);
+      schedule();
+      return;
+    }
     if (!drag) return;
     if (!drag.moved) {
       if (Math.hypot(e.clientX - drag.x, e.clientY - drag.y) < 4) return;
@@ -331,6 +353,14 @@ const countries = [...names]
     schedule();
   });
   const endDrag = (e: PointerEvent) => {
+    pointers.delete(e.pointerId);
+    if (pinch) {
+      // The pinch ends when a finger lifts; neither finger then opens a country.
+      if (pointers.size < 2) pinch = undefined;
+      justDragged = true;
+      drag = undefined;
+      return;
+    }
     justDragged = !!drag?.moved;
     if (drag?.moved && drag.samples.length >= 2) {
       const [t0, l0, p0] = drag.samples[0];

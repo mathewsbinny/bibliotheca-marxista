@@ -211,6 +211,9 @@ table.catalogue { width: 100%; border-collapse: collapse; font-size: 0.97rem; }
 .filters input[type='search'] { min-width: min(22rem, 100%); }
 .filters input[type='number'] { width: 6.5rem; }
 .filters .count { margin-left: auto; color: var(--muted); }
+/* On a centred page (the Titles page), the filters are centred too, the count on its own line under them. */
+main.centered .filters { justify-content: center; }
+main.centered .filters .count { margin-left: 0; flex-basis: 100%; text-align: center; }
 
 /* The all-titles search: suggestions under the search box, the series chip, and the facets. */
 .suggest-wrap { position: relative; display: flex; flex-direction: column; gap: 0.25rem; color: var(--muted); }
@@ -404,3 +407,51 @@ svg.globe:active { cursor: grabbing; }
 .edition-list { list-style: none; padding: 0; margin: 0.5rem 0; font-size: 0.95rem; }
 .edition-list li { padding: 0.2rem 0; border-bottom: 1px solid var(--rule); }
 .edition-list .year { display: inline-block; min-width: 4.5rem; font-family: var(--sans); font-size: 0.85rem; color: var(--muted); }
+
+/* The Titles page's counts, folded behind their heading (open on wide screens). */
+.facets-panel { margin: 0 0 1.25rem; font-family: var(--sans); }
+.facets-panel[hidden] { display: none; }
+.facets-panel summary { cursor: pointer; font-size: 0.85rem; color: var(--muted); padding: 0.3rem 0; }
+.facets-panel summary:hover { color: var(--ink); }
+.facets-panel[open] summary { margin-bottom: 0.5rem; }
+.facets-panel .facets { margin-bottom: 0; }
+
+/* Phones (every iPhone from the 13 on is 375–440 points wide). */
+@media (max-width: 40rem) {
+  /* The header centred, the navigation in centred rows. */
+  .site-header .wrap { flex-direction: column; align-items: center; text-align: center; gap: 0.6rem; }
+  .site-header nav { justify-content: center; gap: 0.5rem 1.1rem; font-size: 0.9rem; }
+
+  /* The filters as a centred grid: full-width boxes, the two years side by side. */
+  .filters { display: grid; grid-template-columns: 1fr 1fr; gap: 0.6rem 0.75rem; }
+  .filters > label, .filters > .suggest-wrap, .filters > .series-chip, .filters > .count { grid-column: 1 / -1; }
+  .filters > label:has(input[type='number']) { grid-column: auto; }
+  .filters input, .filters select { width: 100%; min-width: 0; box-sizing: border-box; font-size: 1rem; } /* 16px: iOS does not zoom into the field */
+  .filters input[type='search'], .filters input[type='number'] { min-width: 0; width: 100%; }
+  .filters .count { margin: 0; text-align: center; }
+  /* Each label centred over its box, and the box's text centred in it. */
+  .filters label, .filters .suggest-wrap { text-align: center; align-items: stretch; }
+  .filters input, .filters select { text-align: center; text-align-last: center; }
+  .suggestions { text-align: left; }
+  .series-chip { justify-content: center; }
+  .facets-panel summary { text-align: center; }
+
+  /* Tables: every column in view. Smaller type and padding, a narrow year, and long words broken. */
+  .table-wrap { overflow-x: visible; }
+  /* Fixed widths, so a long word cannot widen its column past the screen: the year narrow, the
+     title the widest, the others sharing the rest. A word too long for its column is hyphenated. */
+  table.catalogue { font-size: 0.84rem; table-layout: fixed; }
+  .catalogue th { font-size: 0.62rem; letter-spacing: 0.03em; padding: 0.5rem 0.3rem; overflow-wrap: break-word; }
+  .catalogue td { padding: 0.5rem 0.3rem; overflow-wrap: break-word; -webkit-hyphens: auto; hyphens: auto; }
+  .catalogue th:first-child { width: 2.7rem; }
+  .catalogue th:nth-child(2) { width: 40%; }
+  .catalogue td.year { white-space: normal; font-size: 0.78rem; }
+  /* The FREE badge and the tick stay whole. */
+  .catalogue .free-mark, .catalogue .tick { display: inline-block; white-space: nowrap; overflow-wrap: normal; -webkit-hyphens: none; hyphens: none; }
+
+  /* The anthem button smaller, in the corner, with room below the page so it covers nothing at the end. */
+  .anthem { left: 0.5rem; bottom: 0.5rem; }
+  .anthem-toggle { font-size: 0.7rem; padding: 0.3rem 0.55rem; }
+  body { padding-bottom: 2.5rem; }
+  .catalogue td .meta { font-size: 0.85em; }
+}

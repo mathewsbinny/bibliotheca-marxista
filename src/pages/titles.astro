@@ -32,16 +32,19 @@ const separator = (i: number, n: number) => (i === 0 ? '' : i === n - 1 ? ' & ' 
 
   <div class="title-search" data-publishers={JSON.stringify(Object.fromEntries(publishers.map((p) => [p.id, p.name])))}>
     <CatalogueFilters languages={languagesOf(titles)} countries={countries} publishers={publishers} total={titles.length} search />
-    <section class="facets" aria-labelledby="facets-heading" hidden>
-      <h2 id="facets-heading" class="visually-hidden">Narrow the titles</h2>
-      {[['lang', 'Language'], ['decade', 'Decade'], ['country', 'Country'], ['pub', 'Publisher']].map(([name, label]) => (
-        <div class="facet" data-facet={name}>
-          <h3>{label}</h3>
-          <ul></ul>
-          <button type="button" class="facet-more button-small" aria-expanded="false" hidden>More</button>
-        </div>
-      ))}
-    </section>
+    <!-- The counts fold away behind their heading: open on wide screens, closed on phones (the script below). -->
+    <details class="facets-panel" hidden>
+      <summary>Narrow by language, decade, country or publisher</summary>
+      <section class="facets" aria-label="Narrow the titles">
+        {[['lang', 'Language'], ['decade', 'Decade'], ['country', 'Country'], ['pub', 'Publisher']].map(([name, label]) => (
+          <div class="facet" data-facet={name}>
+            <h3>{label}</h3>
+            <ul></ul>
+            <button type="button" class="facet-more button-small" aria-expanded="false" hidden>More</button>
+          </div>
+        ))}
+      </section>
+    </details>
     <div class="table-wrap">
       <table class="catalogue">
         <thead>
@@ -208,6 +211,10 @@ const separator = (i: number, n: number) => (i === 0 ? '' : i === n - 1 ? ' & ' 
   // Facets: how the titles found divide by language, decade, country and publisher. A value
   // narrows the search to it; pressed again, it widens it back.
   const facets = root.querySelector<HTMLElement>('.facets')!;
+  // The counts' fold: open on wide screens, closed on phones, where they would push the titles
+  // below the fold. The reader may open or close it either way.
+  const facetsPanel = root.querySelector<HTMLDetailsElement>('.facets-panel')!;
+  facetsPanel.open = window.matchMedia('(min-width: 40.01rem)').matches;
   const SHOWN = 8;
   let facetRequest: AbortController | undefined;
   const fieldValue = (name: string) => (form.elements.namedItem(name) as HTMLInputElement).value;
@@ -246,7 +253,7 @@ const separator = (i: number, n: number) => (i === 0 ? '' : i === n - 1 ? ' & ' 
       more.hidden = values.length <= SHOWN;
       group.hidden = !values.length;
     }
-    facets.hidden = false;
+    facetsPanel.hidden = false;
   }
   facets.querySelectorAll<HTMLButtonElement>('.facet-more').forEach((more) => more.addEventListener('click', () => {
     const open = more.getAttribute('aria-expanded') !== 'true';
@@ -257,7 +264,7 @@ const separator = (i: number, n: number) => (i === 0 ? '' : i === n - 1 ? ' & ' 
   function refreshFacets(p: URLSearchParams) {
     facetRequest?.abort();
     facetRequest = new AbortController();
-    fetchFacets(p, facetRequest.signal).then(drawFacets).catch((e) => { if (e.name !== 'AbortError') facets.hidden = true; });
+    fetchFacets(p, facetRequest.signal).then(drawFacets).catch((e) => { if (e.name !== 'AbortError') facetsPanel.hidden = true; });
   }
 
   // Suggestions as the reader types: a combobox (WAI-ARIA), chosen with the arrow keys and Enter,
