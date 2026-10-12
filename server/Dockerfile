@@ -1,7 +1,7 @@
 # The catalogue API. Build from the repository root:
 #   docker build -f server/Dockerfile -t bibliotheca-api .
 #   docker run -d -p 8787:8787 -v /srv/bibliotheca/db:/app/db \
-#     -v /srv/bibliotheca/var:/app/var -e SITE_URL=https://bibliotheca-marxista.org -e TRUST_PROXY=1 bibliotheca-api
+#     -v /srv/bibliotheca/var:/app/var -e SITE_URL=https://bibliothecamarxista.org -e TRUST_PROXY=1 bibliotheca-api
 # The database (db/catalogue.sqlite, made by `npm run build`) is mounted, not copied into the image,
 # so an updated catalogue is deployed by replacing that file (see README, "Deploying").
 FROM node:22-slim

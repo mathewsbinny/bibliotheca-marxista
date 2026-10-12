@@ -12,7 +12,7 @@
  *   GET /api/health                              → { titles, built }
  *
  * Environment: PORT (8787), CATALOGUE_DB (db/catalogue.sqlite), SITE_ORIGIN (comma-separated origins
- * allowed by CORS, e.g. https://bibliotheca-marxista.org), TRUST_PROXY=1 behind a reverse proxy that
+ * allowed by CORS, e.g. https://bibliothecamarxista.org), TRUST_PROXY=1 behind a reverse proxy that
  * sets X-Real-IP to the client's address (see Caddyfile.example), EXPORT_HOURLY_LIMIT (20: downloads
  * of the whole catalogue, from all clients together, each about 600 MB), REPORTS_DB (var/reports.sqlite:
  * readers' error reports, kept apart from the catalogue, which deployments replace).

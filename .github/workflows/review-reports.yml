@@ -5,7 +5,7 @@
 #
 # Needs these repository secrets (Settings → Secrets and variables → Actions); without them the
 # workflow does nothing:
-#   REPORTS_SSH_HOST         the API's host, e.g. bibliotheca-marxista.org
+#   REPORTS_SSH_HOST         the API's host, e.g. bibliothecamarxista.org
 #   REPORTS_SSH_USER         a user on it, whose key is limited to server/reports-ssh.sh (see that file)
 #   REPORTS_SSH_KEY          that user's private key
 #   REPORTS_SSH_KNOWN_HOSTS  the host's line from `ssh-keyscan <host>`

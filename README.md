@@ -247,7 +247,7 @@ The titles' pages are on the site's own address so that search engines credit th
    docker run -d --name bibliotheca-api --restart unless-stopped \
      -p 127.0.0.1:8787:8787 -v /srv/bibliotheca/db:/app/db:ro -v /srv/bibliotheca/var:/app/var \
      --read-only --cap-drop ALL --security-opt no-new-privileges --memory 1g --cpus 1 --pids-limit 100 \
-     -e SITE_URL=https://bibliotheca-marxista.org -e TRUST_PROXY=1 bibliotheca-api
+     -e SITE_URL=https://bibliothecamarxista.org -e SITE_ORIGIN=https://bibliothecamarxista.org -e TRUST_PROXY=1 bibliotheca-api
    ```
 4. Configure Caddy from `server/Caddyfile.example`, with the site's domain. It imports the security headers the build writes (`dist/headers.caddy`), shows the site's 404 page for addresses that don't exist, and shows a "briefly unavailable" page while the API is down.
 5. Point the domain at Cloudflare (or another CDN), and the CDN at the server. Submit `https://<domain>/sitemap.xml` to Google Search Console and Bing Webmaster Tools.

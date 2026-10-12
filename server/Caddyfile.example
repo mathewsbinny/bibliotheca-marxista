@@ -13,7 +13,7 @@
 	}
 }
 
-bibliotheca-marxista.org {
+bibliothecamarxista.org {
 	encode zstd gzip
 
 	@api path /api/* /book/* /sitemap-books-*
@@ -46,6 +46,6 @@ bibliotheca-marxista.org {
 	}
 }
 
-www.bibliotheca-marxista.org {
-	redir https://bibliotheca-marxista.org{uri} permanent
+www.bibliothecamarxista.org {
+	redir https://bibliothecamarxista.org{uri} permanent
 }
