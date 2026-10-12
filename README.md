@@ -246,7 +246,7 @@ The titles' pages are on the site's own address so that search engines credit th
    docker build -f server/Dockerfile -t bibliotheca-api .
    docker run -d --name bibliotheca-api --restart unless-stopped \
      -p 127.0.0.1:8787:8787 -v /srv/bibliotheca/db:/app/db:ro -v /srv/bibliotheca/var:/app/var \
-     --read-only --cap-drop ALL --security-opt no-new-privileges --memory 1g --cpus 1 --pids-limit 100 \
+     --read-only --tmpfs /tmp:size=64m --cap-drop ALL --security-opt no-new-privileges --memory 640m --memory-swap 1g --cpus 1 --pids-limit 100 \
      -e SITE_URL=https://bibliothecamarxista.org -e SITE_ORIGIN=https://bibliothecamarxista.org -e TRUST_PROXY=1 bibliotheca-api
    ```
 4. Configure Caddy from `server/Caddyfile.example`, with the site's domain. It imports the security headers the build writes (`dist/headers.caddy`), shows the site's 404 page for addresses that don't exist, and shows a "briefly unavailable" page while the API is down.
